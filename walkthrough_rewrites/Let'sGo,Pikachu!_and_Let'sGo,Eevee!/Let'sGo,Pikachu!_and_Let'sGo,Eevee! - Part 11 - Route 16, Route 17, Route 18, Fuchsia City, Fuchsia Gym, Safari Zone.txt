@@ -1,0 +1,65 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 11
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone
+
+### Part 11 Walkthrough: Route 16 - Fuchsia City
+
+**Route 16:**
+- Links Celadon City to Route 17.
+- **Trainers:**
+  - **Punk Guy Lao:** Onix, Muk (Lv. 36)
+  - **Roughneck Koji:** Raticate, Rhyhorn, Koffing (Lv. 36)
+  - **Punk Guy Hideo:** Arbok, Fearow (Lv. 36)
+  - **Camper Ruben:** 2 Psyduck (Lv. 35)
+
+- **Available Pokémon:** Doduo, Pidgey, Rattata, Chansey (Grass 31-36)
+- **Items:**
+  - PP Up: North of tall grass (requires Cut)
+  - TM14 (Fly): Northwest house (requires Cut)
+  - Ultra Ball x30: Southern gate (after catching 40 species)
+  - Awakening, Super Potion, Great Ball x3: Various locations.
+  
+- **Roadblock:** Wake Snorlax (Lv. 34) using the Poké Flute.
+
+**Route 17:**
+- Features flower-filled trails to Route 18.
+- **Trainers:**
+  - **Picnicker Dalia:** Vaporeon (Lv. 37)
+  - **Beauty Alexis:** Jolteon (Lv. 37)
+  - **Ace Trainer Johnson:** Wartortle, Magneton, Marowak (Lv. 39-40)
+
+- **Available Pokémon:** Ponyta, Doduo, Eevee (Grass 33-38)
+- **Items:**
+  - Super Potion, Great Ball x3, TM58 (Drill Run) from Coach Trainer Grantley.
+
+**Route 18:**
+- Leads east to Fuchsia City.
+- **Trainers:**
+  - **Bird Keeper Wilton:** Fearow, Dodrio (Lv. 39)
+  - **Bird Keeper Ramiro:** Pidgeot (Lv. 39)
+
+- **Available Pokémon:** Pidgey, Rattata, Chansey (Grass 33-38)
+- **Items:** Elixir (south of the gate), Silver Razz Berries (hidden).
+
+**Fuchsia City:**
+- Largest city in southern Kanto, home to the Safari Zone and Fuchsia Gym.
+- **Pokémon Center:** Visit for healing and move tutoring.
+- **Safari Zone Warden's House:** Return Gold Teeth to receive items and moves.
+  
+**Fuchsia Gym:**
+- **Leader:** Koga (Poison-type).
+- **Strategy:** Use Fire-, Flying-, or Psychic-type moves. Bring Antidotes for poisoning.
+- **Trainers:**
+  - Tamer Phil: Nidorina, Nidorino (Lv. 41)
+  - Ace Trainer Kayden: Muk, Beedrill (Lv. 41-42)
+  
+- **Koga's Team:**
+  - Weezing, Muk, Golbat, Venomoth (Lv. 43-44).
+  
+- **Reward:** Soul Badge and TM27 (Toxic).
+
+**Safari Zone:**
+- **Playful Park:** Interact with various Pokémon.
+- **GO Park Complex:** Minigame to catch Pokémon imported from Pokémon GO.
+
+**Next Steps:** Proceed to explore Routes 12-15 and Route 19 for further challenges.

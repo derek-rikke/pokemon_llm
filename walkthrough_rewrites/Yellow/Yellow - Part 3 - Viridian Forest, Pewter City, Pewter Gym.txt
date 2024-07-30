@@ -1,0 +1,31 @@
+Game: Yellow
+Part: 3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+**Pokémon Yellow Walkthrough - Part 3**
+
+**Route 2: Viridian Forest**
+- **Location**: Viridian Forest is a maze-like area on Route 2.
+- **Pokémon Encounters**: 
+  - **Common**: Caterpie (3-6, 55%), Pidgey (4, 6, 8, 24%)
+  - **Rare**: Pidgeotto (9, 1%)
+- **Items**:
+  - **Poké Ball**: Northwest dead-end path.
+  - **Antidote**: Hidden near the lone tree at the south entrance.
+  - **Potions (×3)**: 
+    - Southeast dead-end path.
+    - Near the last Bug Catcher at the north exit.
+- **Strategy**: Follow the trail northwest for items and battle Bug Catchers. Exit the forest to reach Pewter City.
+
+**Pewter City**
+- **Key Locations**:
+  - **Pewter Museum of Science**: $50 admission, features fossils and space exhibits.
+  - **Pewter Gym**: 
+    - **Leader**: Brock (Rock/Ground type).
+    - **Advised Pokémon**: Use Mankey or Nidoran with Fighting moves. Evolve Caterpie into Butterfree for Confusion.
+    - **Brock's Pokémon**: 
+      - Geodude (Lv. 10)
+      - Onix (Lv. 12) - watch for Bide; lower its stats during its charge.
+- **Rewards**: Defeating Brock earns the Boulder Badge (boosts Attack and allows Flash) and TM34 (Bide).
+
+**Next Steps**: Stock up on items at the Poké Mart, then head east to Route 3 and Cerulean City.

@@ -1,0 +1,71 @@
+Game: Emerald
+Part: 11
+Keywords: Fortree Gym, Route 121, Safari Zone, Route 122
+
+# Walkthrough Part 11: Fortree Gym, Route 121, Safari Zone, Route 122
+
+## Route 120
+- **Overview:** Route 120 stretches southeast from Fortree City to Route 121. Expect constant rain in certain areas, and look out for two ruins: **Scorched Slab** and **Ancient Tomb**.
+
+### Key Trainers
+- **Gabby & Ty (Northeast Route):** Defeat for $2880.
+- **Parasol Lady Clarissa:** $1120.
+- **Bird Keepers:** Various; rewards range from $896 to $1440.
+
+### Available Pokémon
+- **Mightyena, Oddish, Marill, Absol.** 
+
+### Items
+- **Rare Candy:** North of Parasol Lady Clarissa (hidden, requires Cut).
+- **Devon Scope:** Given by Steven after defeating Kecleon on the north bridge.
+
+### Notable Locations
+- **Scorched Slab:** Contains TM11 (Sunny Day).
+- **Ancient Tomb:** Entrance is sealed for later exploration.
+
+## Fortree City
+### Fortree Gym
+- **Leader:** Winona (Flying-type).
+- **Strategy:** Use Electric, Rock, and Ice moves. 
+  - **Winona's Team:**
+    - **Swablu:** Beware of Perish Song.
+    - **Tropius:** Weak to Ice and Flying moves.
+    - **Pelipper:** Strong against Electric moves; weak to Rock.
+    - **Skarmory:** High Defense; use Fire or Electric.
+    - **Altaria:** Use Ice or Rock moves.
+
+- **Rewards for Defeating Winona:**
+  - **Feather Badge:** Allows the use of Fly and obedience from Pokémon up to level 70.
+  - **TM40 (Aerial Ace).**
+
+### Items
+- **TM40 (Aerial Ace):** Received from Winona after the battle.
+
+## Route 121
+- **Overview:** Smaller and straightforward; leads to Lilycove City and has a Safari Zone to the north.
+
+### Key Trainers
+- **Bug Maniac Cale:** $1740.
+- **Beauty Jessica:** $2320.
+- **Pokemon Breeders:** Various; rewards around $1000 each.
+
+### Available Pokémon
+- **Shuppet, Mightyena, Wingull, Gloom.**
+
+### Items
+- **Zinc, Carbos, Nugget:** Hidden in fenced areas; requires Cut.
+
+## Lilycove City
+- **Cove Lily Motel:** Scott can be found here before Team Aqua's event.
+
+## Route 122
+- **Overview:** Short ocean route with Mt. Pyre in the center.
+
+### Available Pokémon
+- **Tentacool, Wingull, Pelipper.**
+
+### Items
+- **Fishing with Old and Good Rods:** Magikarp, Tentacool, and Wailmer.
+
+### Summary
+Continue your journey to Mt. Pyre after exploring Route 122, while keeping an eye out for Team Aqua.

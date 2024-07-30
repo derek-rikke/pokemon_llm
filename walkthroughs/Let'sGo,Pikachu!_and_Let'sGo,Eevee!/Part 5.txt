@@ -1,0 +1,1318 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Cerulean City
+1.1
+Pokémon Center
+1.1.1
+Move Tutor
+1.1.2
+Time for a Trade
+1.2
+A Rare Addition
+1.3
+Gym Badge Trivia
+1.4
+Bike Shop
+1.5
+Breaking, Entering
+1.6
+Cerulean Gym
+1.7
+Rival Battle 3
+1.7.1
+In Let's Go, Pikachu!:
+1.7.2
+In Let's Go, Pikachu!:
+2
+Route 24
+2.1
+Nugget Bridge
+2.2
+A Rare Addition
+3
+Route 25
+3.1
+Sea Cottage
+3.1.1
+An Unfortunate Turn
+3.1.2
+Bill's Legendary Research
+4
+Cerulean City
+4.1
+Justice, Served
+5
+Route 5
+5.1
+Pokémon Day Care
+5.1.1
+Mr. Hyper
+5.2
+Meet Up with Trace
+5.3
+Underground Path
+Cerulean City
+Cerulean City
+Cerulean City
+is a beautiful city with flowing water and blooming flowers. It is located between
+Route 4
+,
+Route 24
+,
+Route 9
+, and
+Route 5
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Bulbasaur
+P
+E
+Gift
+12
+One
+Special Pokémon
+Rattata
+Alolan Form
+P
+E
+Trade
+Rattata
+12
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×5
+From the Bike Maniac, after listening to all of his Bicycle descriptions
+P
+E
+Rare Candy
+In the backyard of the northwest house
+(hidden)
+P
+E
+TM29
+(
+Scald
+)
+From Misty, after defeating her
+P
+E
+Pretty Wing
+In the flower bed south of Nugget Bridge; infrequently found by some
+walking Pokémon
+P
+E
+Later visit
+TM10
+(
+Dig
+)
+From the Team Rocket Grunt, after defeating him
+P
+E
+Burn Heal
+Southwest part of town, outside the hedge wall
+P
+E
+TM60
+(
+Megahorn
+)
+After becoming Champion; from Coach Trainer Harjit, after defeating him
+P
+E
+Pokémon Center
+Move Tutor
+Visit the Pokémon Center and speak to the
+Tamer
+near the counter. He happens to be a
+Move Tutor
+and offers to teach
+exclusive moves
+to your
+partner Pokémon
+.
+Let's Go, Pikachu!
+Move
+Type
+Cat.
+Zippy Zap
+Electric
+Physical
+Let's Go, Eevee!
+Move
+Type
+Cat.
+Bouncy Bubble
+Water
+Special
+Buzzy Buzz
+Electric
+Special
+Sizzly Slide
+Fire
+Physical
+Time for a Trade
+The girl sitting on the sofa to the left of the counter is hoping to trade Pokémon. She is hoping to get a
+Rattata
+and is willing to part with her
+Alolan
+Rattata in exchange. Hers is a
+Dark
+/
+Normal
+Pokémon, so it takes extra damage from
+Fighting-type
+attacks but has an advantage against
+Psychic-type
+Pokémon. Dark-type Pokémon are few and far between in the
+Kanto
+region, so Alolan Rattata can make a useful addition to your team. This trade may be conducted multiple times.
+A Rare Addition
+Visit the house next to the Pokémon Center to find
+a girl
+who cares for injured and abandoned Pokémon. She has nursed a
+Bulbasaur
+back to health, but now it needs a caring Trainer to raise it properly. If you have caught at least 30 Pokémon, she asks if you would take care of the young Pokémon.
+Gym Badge Trivia
+The northwest house belongs to a man who gives a bit of trivia for each
+Badge
+. According to him,
+Celadon Gym
+'s
+Rainbow Badge
+is the most expensive to make, and
+Cinnabar Gym
+'s
+Volcano Badge
+is made from hardened lava. Most Trainers aren't sure if
+Saffron Gym
+'s
+Marsh Badge
+is real gold or not!
+Bike Shop
+The house in the southwest part of town belongs to a man known as the Bike Maniac. He has collected several different kinds, including models like the
+Acro Bike
+and
+Mach Bike
+. Examine each one, including the bike hanging on the wall, and listen to his long-winded description of each to receive a set of 5
+Heart Scales
+.
+Breaking, Entering
+The house in the northeast is currently blocked off by
+Officer Jenny
+. It seems that
+Team Rocket
+has broken into the home and stolen
+a valuable item
+from its residents. Nothing can be done to remedy this at the moment, so set your sights on the Gym instead.
+Cerulean Gym
+Cerulean Gym
+Cerulean City Pokémon Gym
+Leader: Misty
+The Tomboyish Mermaid
+The
+Cerulean Gym
+specializes in
+Water-type
+Pokémon. Water-type moves are super effective against
+Fire
+-,
+Ground
+-, and
+Rock-type
+Pokémon, while Water-type Pokémon are weak to
+Electric
+- and
+Grass-type
+moves. When entering the Gym, the guide warns that
+Misty
+is a powerful Trainer and that all challengers must show a Pokémon of at least level 15 to proceed. With a
+Pikachu
+and
+Bulbasaur
+in tow, beating the Cerulean Gym should be an easy task. Other Grass Pokémon—
+Oddish
+and
+Bellsprout
+—can be found on the nearby
+Route 24
+, as well. Be sure to visit the Move Tutor in the Pokémon Center, as Pikachu's
+Zippy Zap
+and Eevee's
+Buzzy Buzz
+attacks will be a big help.
+Misty
+leads with her
+Psyduck
+. Neither of its moves are very strong, but all of the available
+Grass
+Pokémon up to this point have also been part-
+Poison
+, leaving them vulnerable to
+Psychic
+attacks like
+Confusion
+. Her
+Starmie
+is a bigger threat. Its high
+Special Attack
+lets it deal a good bit of damage with
+Swift
+. Not only can
+Scald
+sometimes cause a
+Burn
+, but as it matches Starmie's type, it also receives a
+Same-type attack bonus
+. Use your
+partner Pokémon
+'s new
+Electric
+attack to take it down before it can cause too much trouble.
+Cerulean Gym
+Trainers
+Trainer
+Pokémon
+Beauty
+Lily
+Reward:
+$
+320
+Goldeen
+♀
+Lv.
+16
+No item
+Beauty
+Violet
+Reward:
+$
+320
+Shellder
+♀
+Lv.
+16
+No item
+Beauty
+Daisy
+Reward:
+$
+320
+Seel
+♀
+Lv.
+16
+No item
+Gym Leader
+Misty
+Cerulean Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+3,040
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Psyduck
+♂
+Lv.
+18
+Confusion
+Psychic
+Special
+--
+Water Gun
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Starmie
+Lv.
+19
+Scald
+Water
+Special
+--
+Swift
+Normal
+Special
+--
+Psywave
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Misty
+awards you the
+Cascade Badge
+. Having two Badges ensures obedience from all Pokémon up to level 30. She also gives you
+TM29
+(
+Scald
+) as a prize.
+Rival Battle 3
+When you head toward
+Route 24
+,
+Trace
+comes running toward you from the bridge. He has seen something so bewildering that all he can do is to draw you into battle. He leads with his
+Pidgey
+, so start off with
+Electric
+- and
+Rock-type
+attacks. His
+Oddish
+can
+Poison
+its target with a toxic powder, so use
+Flying
+attacks to knock it out quickly. Aside from having grown a few levels, his
+Eevee
+is much the same as it was in the previous battle.
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Cerulean City
+Let's Go, Pikachu!
+Reward:
+$
+520
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgey
+♂
+Lv.
+12
+Quick Attack
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Gust
+Flying
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Oddish
+♀
+Lv.
+12
+Absorb
+Grass
+Special
+--
+Acid
+Poison
+Special
+--
+Poison Powder
+Poison
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Eevee
+♂
+Lv.
+13
+Quick Attack
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Cerulean City
+Let's Go, Eevee!
+Reward:
+$
+520
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgey
+♂
+Lv.
+12
+Quick Attack
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Gust
+Flying
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Oddish
+♀
+Lv.
+12
+Absorb
+Grass
+Special
+--
+Acid
+Poison
+Special
+--
+Poison Powder
+Poison
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+13
+Thunder Shock
+Electric
+Special
+--
+Tail Whip
+Normal
+Status
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Afterward, your friend manages to calm himself down and tells you of a house up ahead where a famous Pokémon fanatic is said to live. He paid a visit hoping to see some rare Pokémon, but instead of finding the homeowner, he found a talking Pokémon instead! He tries to convince you to stay away before running off.
+Route 24
+Route 24
+Route 24
+stretches north from
+Cerulean City
+to
+Route 25
+. Most of the area is occupied by a river and the Nugget Bridge that crosses it.
+Trainers
+Trainer
+Pokémon
+Nugget Bridge
+Bug Catcher
+Cale
+Reward:
+$
+108
+3
+Poké Balls
+Venonat
+♂
+Lv.
+9
+No item
+Lass
+Ali
+Reward:
+$
+200
+3
+Poké Balls
+Psyduck
+♂
+Lv.
+10
+No item
+Youngster
+Timmy
+Reward:
+$
+200
+3
+Poké Balls
+Sandshrew
+♂
+Lv.
+10
+No item
+Lass
+Reli
+Reward:
+$
+200
+3
+Poké Balls
+Meowth
+♀
+Lv.
+10
+No item
+Camper
+Kevin
+Reward:
+$
+220
+2
+Great Balls
+Growlithe
+♂
+Lv.
+11
+No item
+Team Rocket Grunt
+Reward:
+$
+308
+Zubat
+♂
+Lv.
+11
+No item
+Koffing
+♂
+Lv.
+11
+No item
+Grassy area
+Camper
+Shane
+Reward:
+$
+220
+2
+Great Balls
+Spearow
+♂
+Lv.
+11
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+7-12
+30%
+Venonat
+P
+E
+Grass
+7-12
+30%
+Pidgey
+P
+E
+Grass
+7-12
+20%
+Oddish
+P
+E
+Grass
+7-12
+20%
+Venonat
+P
+E
+Grass
+7-12
+20%
+Meowth
+P
+E
+Grass
+7-12
+20%
+Psyduck
+P
+E
+Grass
+7-12
+20%
+Bellsprout
+P
+E
+Grass
+7-12
+20%
+Rare Spawns
+Squirtle
+P
+E
+Grass
+7-12
+-
+Gift Pokémon
+Charmander
+P
+E
+Gift
+14
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+From the Team Rocket Grunt, after defeating the Trainers on Nugget Bridge
+P
+E
+Razz Berry
+×3
+West of Nugget Bridge, in the tall grass
+P
+E
+X Sp. Def
+Northeast of Nugget Bridge, west side of a plateau accessible from Route 25
+P
+E
+Pinap Berry
+×3
+East of Nugget Bridge, in a bush accessible from Route 25
+(hidden)
+(daily)
+P
+E
+Berry plant
+Razz Berry
+Northeast of Nugget Bridge; in a bush accessible from Route 25, sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Silver Razz Berry
+Northeast of Nugget Bridge; in a bush accessible from Route 25, sometimes found by the player's walking Pokémon
+P
+E
+Golden Razz Berry
+Northeast of Nugget Bridge; in a bush accessible from Route 25, rarely found by the player's walking Pokémon
+P
+E
+Nugget Bridge
+There are five Trainers to be fought on the famous Nugget Bridge. When all five are defeated, a man at the bridge's north end will reward you with a
+Nugget
+, a bit of gold that can be sold for a high price. The man then reveals himself as a
+Team Rocket
+Grunt and tries to persuade you to join the group, and draws you into battle when you refuse.
+A Rare Addition
+Speak to
+the boy
+on the northwest hill. He has been thinking that he should release his
+Charmander
+because he is no good at raising Pokémon. If you have caught at least 50 Pokémon, he decides to give Charmander to you, instead.
+Route 25
+Route 25
+Route 25
+leads eastward from
+Route 24
+. The path winds its way through a forest before it ends overlooking the sea. The
+Sea Cottage
+is located on the east side.
+Trainers
+Trainer
+Pokémon
+Hiker
+Franklin
+Reward:
+$
+560
+3
+Poké Balls
+Onix
+♂
+Lv.
+14
+No item
+Youngster
+Chad
+Reward:
+$
+240
+3
+Poké Balls
+Diglett
+♂
+Lv.
+12
+No item
+Bird Keeper
+Joey
+Reward:
+$
+900
+3
+Poké Balls
+Pidgeotto
+♂
+Lv.
+15
+No item
+Youngster
+Dan
+Reward:
+$
+240
+3
+Poké Balls
+Ekans
+♂
+Lv.
+12
+No item
+Rattata
+♂
+Lv.
+12
+No item
+Hiker
+Nob
+Reward:
+$
+560
+3
+Poké Balls
+Geodude
+♂
+Lv.
+14
+No item
+Machop
+♂
+Lv.
+14
+No item
+Picnicker
+Kelsey
+Reward:
+$
+260
+2
+Great Balls
+Goldeen
+♀
+Lv.
+13
+No item
+Camper
+Dustin
+Reward:
+$
+260
+2
+Great Balls
+Squirtle
+♂
+Lv.
+13
+No item
+Lass
+Haley
+Reward:
+$
+240
+3
+Poké Balls
+Oddish
+♂
+Lv.
+12
+No item
+Pidgey
+♀
+Lv.
+12
+No item
+Fisherman
+Wayne
+Reward:
+$
+560
+3
+Poké Balls
+Magikarp
+♂
+Lv.
+14
+No item
+Krabby
+♂
+Lv.
+14
+No item
+Coach Trainer
+Amala
+Reward:
+$
+1,600
+Machop
+♂
+Lv.
+16
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+9-14
+30%
+Venonat
+P
+E
+Grass
+9-14
+30%
+Pidgey
+P
+E
+Grass
+9-14
+20%
+Oddish
+P
+E
+Grass
+9-14
+20%
+Venonat
+P
+E
+Grass
+9-14
+20%
+Meowth
+P
+E
+Grass
+9-14
+20%
+Psyduck
+P
+E
+Grass
+9-14
+20%
+Bellsprout
+P
+E
+Grass
+9-14
+20%
+Rare Spawns
+Squirtle
+P
+E
+Grass
+9-14
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+West side of the hedge maze, northwest of Youngster Chad
+P
+E
+TM16
+(
+Thunder Wave
+)
+Northeast part of the hedge maze (requires defeating Camper Dustin or
+Chop Down
+)
+P
+E
+Ether
+Southeast part of the hedge maze, southwest of Lass Haley
+P
+E
+TM15
+(
+Seismic Toss
+)
+Next to Bill's house; from Coach Trainer Amala, after defeating her
+P
+E
+S.S. Ticket
+×2
+From Bill, after helping him undo his experiment
+P
+E
+Lure
+Southeast of Sea Cottage
+P
+E
+Nanab Berry
+×3
+South of Sea Cottage, in a bush southwest of the two ponds
+(hidden)
+(daily)
+P
+E
+Sea Cottage
+An Unfortunate Turn
+The
+Sea Cottage
+belongs to
+Bill
+, a famous Pokémon researcher. When you step inside, it seems like Bill must be away, until your
+partner Pokémon
+notices a
+Nidorino
+in the corner. But it's not just any Nidorino. Bill's latest experiment has gone awry and combined his DNA with that of a Pokémon! He needs your help, so once he has stepped into the teleporter, inspect his PC to run his Cell Separation System to undo the change and return him to normal. As a token of gratitude, he gives you a pair of
+S.S. Tickets
+, which grant access to the
+luxury cruise ship
+currently docked in
+Vermilion City
+to the south.
+Bill's Legendary Research
+Before leaving the cape, you can exit and re-enter the cottage and inspect Bill's PC to read his reports on the locations of the
+legendary birds
+. This adds
+three
+new
+pages
+to your Pokédex.
+Cerulean City
+Justice, Served
+Once you return to
+Cerulean City
+, you find a
+Squirtle
+running off with one of
+Officer Jenny
+'s Poké Balls, with the officer reluctantly abandoning her post to chase it down. Step inside to find obvious signs of a break-in, like muddy footprints and broken furniture. Your
+partner Pokémon
+even points out a large hole in the wall! Walk out through the gap to find and confront the thief.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+420
+Raticate
+♂
+Lv.
+15
+No item
+When he is defeated, the Team Rocket Grunt gives up the stolen
+TM10
+(
+Dig
+) before fleeing the scene. If you try to return the item to its owner, the man allows you to keep it as thanks for your effort. He has decided to train his
+Diglett
+so that it learns the move on its own.
+Route 5
+Route 5
+Route 5
+is a scenic road that runs downhill from
+Cerulean City
+to
+Saffron City
+. The
+first
+of the region's two Underground Paths begins here and runs southward underneath Saffron City to re-emerge on
+Route 6
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+11-16
+30%
+Pidgey
+P
+E
+Grass
+11-16
+20%
+Vulpix
+P
+E
+Grass
+11-16
+20%
+Growlithe
+P
+E
+Grass
+11-16
+20%
+Jigglypuff
+P
+E
+Grass
+11-16
+15%
+Pidgeotto
+P
+E
+Grass
+11-16
+10%
+Abra
+P
+E
+Grass
+11-16
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+11-16
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+×3
+On the third ledge south of Cerulean City, southeast of the tall grass
+P
+E
+Ether
+Northwest of the Saffron City gate
+P
+E
+Razz Berry
+×3
+West side of the Day Care building, in a bush
+(hidden)
+(daily)
+P
+E
+Nanab Berry
+×3
+Against the west side of the Underground Path building
+P
+E
+Revive
+×3
+From Trace, outside the Underground Path building
+P
+E
+Pokémon Day Care
+The house on the hill is the
+Pokémon Day Care
+. The elderly woman inside will raise one Pokémon at a time while you are away. A Pokémon left here will gain one
+experience point
+for every step taken. If you bought the
+Magikarp
+near
+Mt. Moon
+, this is a good way to raise it. The downside is that she will make every decision, so she may end up deleting a move you would like to keep. She charges
+$
+100, plus another
+$
+100 for every new level, to return a Pokémon.
+Mr. Hyper
+An elderly man known as
+Mr. Hyper
+can be found here, as well. He says that if you ever earn the
+Champion
+title, be sure to come back and visit him.
+Meet Up with Trace
+Trace
+is waiting for you outside the
+Underground Path
+building. As it is impossible to reach
+Saffron City
+at the moment, he suggests following the tunnel to
+Route 6
+instead. He notices something sparkly in your hair, and gives you the
+Revive
+he just found before giving out a couple more to help with the next Gym. Your friend notices the two
+S.S. Tickets
+you have, and he happily accepts the extra ticket before entering the tunnel.
+Underground Path
+Many people drop items along the underground passage. Pay attention to your
+partner Pokémon
+, as it has a knack for noticing hidden items and will wag its tail faster as you approach them.
+Items
+Item
+Location
+Games
+Repel
+Just south of the Route 5 stairs
+P
+E
+Nugget
+From Route 5, located approximately on the 35th middle tile
+(hidden)
+P
+E
+Lure
+Near the Route 6 stairs, against the western wall
+P
+E
+Other items
+Pretty Wing
+From Route 5, located approximately on the 23rd blue tile (item determined randomly)
+(hidden)
+P
+E
+Pearl
+Big Pearl
+Nugget
+Pretty Wing
+From Route 6, located approximately on the 31st blue tile (item determined randomly)
+(hidden)
+P
+E
+Pearl
+Big Pearl
+Nugget
+Repel
+From Route 6, located approximately on the 31st red tile (item determined randomly)
+(hidden)
+P
+E
+Super Repel
+Max Repel
+Lure
+Super Lure
+Max Lure
+Fresh Water
+From Route 6, located approximately on the 12th red tile (item determined randomly)
+(hidden)
+P
+E
+Potion
+Super Potion
+Hyper Potion
+← Part 4
+Route 3, Mt. Moon, Route 4
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

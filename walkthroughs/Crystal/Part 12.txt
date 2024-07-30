@@ -1,0 +1,2118 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_12
+Keywords: Goldenrod Radio Tower, Goldenrod Underground, Tin Tower (1F), Route 44, Ice Path
+
+Walkthrough Text:
+Contents
+1
+Goldenrod City
+1.1
+Radio Tower
+1.1.1
+1F
+1.1.2
+2F
+1.1.3
+3F
+1.1.4
+4F (West)
+1.1.5
+5F (West)
+1.2
+Goldenrod Underground
+1.2.1
+B2F
+1.2.1.1
+Rival Battle 4
+1.2.1.1.1
+If the player chose Chikorita:
+1.2.1.1.2
+If the player chose Cyndaquil:
+1.2.1.1.3
+If the player chose Totodile:
+1.2.1.2
+The Shifting Shutters
+1.2.2
+Warehouse
+1.3
+Radio Tower
+1.3.1
+3F
+1.3.2
+4F (East)
+1.3.3
+5F (East)
+2
+Ecruteak City
+2.1
+Barrier Station
+2.2
+Tin Tower
+2.2.1
+1F
+2.2.1.1
+VS Suicune
+3
+Mahogany Town
+3.1
+Souvenir Shop
+4
+Route 44
+5
+Ice Path
+5.1
+1F (Northwest)
+5.2
+B1F (North)
+5.3
+B2F (West)
+5.4
+B3F
+5.5
+B2F (East)
+5.6
+B1F (South)
+5.7
+1F (Southeast)
+Goldenrod City
+Goldenrod City
+has been overrun by
+Team Rocket
+. It is up to you to liberate the
+Radio Tower
+and finally put an end to their schemes!
+Radio Tower
+Radio Tower, 1F
+Radio Tower, 2F
+Radio Tower, 3F
+Radio Tower, 4F
+Radio Tower, 5F
+Trainers
+1F
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+960
+Raticate
+♂
+Lv.
+24
+No item
+Raticate
+♂
+Lv.
+24
+No item
+2F
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+1040
+Arbok
+♀
+Lv.
+26
+No item
+Rocket Grunt
+Reward:
+$
+920
+Rattata
+♂
+Lv.
+21
+No item
+Rattata
+♂
+Lv.
+21
+No item
+Rattata
+♂
+Lv.
+23
+No item
+Rattata
+♂
+Lv.
+23
+No item
+Rattata
+♂
+Lv.
+23
+No item
+Rocket Grunt
+Reward:
+$
+1040
+Zubat
+♂
+Lv.
+26
+No item
+Zubat
+♂
+Lv.
+26
+No item
+Rocket Grunt
+Reward:
+$
+1000
+Grimer
+♂
+Lv.
+23
+No item
+Grimer
+♂
+Lv.
+23
+No item
+Muk
+♂
+Lv.
+25
+No item
+3F
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+1040
+Weezing
+♂
+Lv.
+26
+No item
+Scientist
+Marc
+Reward:
+$
+2700
+Magnemite
+Lv.
+27
+No item
+Magnemite
+Lv.
+27
+No item
+Magnemite
+Lv.
+27
+No item
+Rocket Grunt
+Reward:
+$
+920
+Koffing
+♂
+Lv.
+23
+No item
+Zubat
+♂
+Lv.
+23
+No item
+Rattata
+♂
+Lv.
+23
+No item
+Grimer
+♂
+Lv.
+23
+No item
+Requires Card Key
+Rocket Grunt
+Reward:
+$
+1040
+Raticate
+♂
+Lv.
+24
+No item
+Koffing
+♂
+Lv.
+26
+No item
+4F (West)
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+880
+Zubat
+♂
+Lv.
+22
+No item
+Golbat
+♂
+Lv.
+24
+No item
+Grimer
+♂
+Lv.
+22
+No item
+Scientist
+Rich
+Reward:
+$
+3000
+Porygon
+Lv.
+30
+No item
+Requires Card Key
+Rocket Grunt
+Reward:
+$
+960
+Ekans
+♀
+Lv.
+21
+No item
+Oddish
+♀
+Lv.
+23
+No item
+Ekans
+♀
+Lv.
+21
+No item
+Gloom
+♀
+Lv.
+24
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Basement Key
+5F; from
+a Team Rocket Executive
+, after defeating him
+C
+1F
+Defeat the single Rocket Grunt and climb to the second floor.
+2F
+There are four Rocket Grunts patrolling the second floor. Battle past them to reach the western stairs.
+3F
+Battle another two Rocket Grunts and Scientist Marc. A Card Key is required to access the eastern area, so take the western stairs instead.
+4F (West)
+Beat the Rocket Grunt and Scientist Rich to reach the stairs to the Director's office.
+5F (West)
+The Director is being held captive here in his office, or at least that is how it seems at first. This man is an imposter, and is actually
+a Rocket Executive
+in disguise. Prepare for battle!
+Rocket
+Executive
+Goldenrod Radio Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2160
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+30
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Selfdestruct
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+30
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Selfdestruct
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+30
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Selfdestruct
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+30
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Selfdestruct
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Weezing
+♂
+Lv.
+32
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Explosion
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+30
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Sludge
+Poison
+--
+Smog
+Poison
+--
+When the battle ends, the Executive reveals that the real Director is being held in the Underground Warehouse, behind the locked door in
+the Underground
+'s access hallway. He doubts that you will even get that far, and hands over the
+Basement Key
+.
+Goldenrod Underground
+Underground, B2F
+Underground, Warehouse
+A Rocket Grunt guards the south alley behind the Pokémon Center, so enter
+the Underground
+from the north instead. Take the access hallway and use the
+Basement Key
+to unlock the door. Go down the stairs in the next room to reach the Underground Warehouse.
+Trainers
+B2F
+Trainer
+Pokémon
+North side
+Rocket Grunt
+Reward:
+$
+1080
+Rattata
+♂
+Lv.
+27
+No item
+Rocket Grunt
+Reward:
+$
+1000
+Muk
+♂
+Lv.
+23
+No item
+Koffing
+♂
+Lv.
+23
+No item
+Rattata
+♂
+Lv.
+25
+No item
+Rocket Grunt
+Reward:
+$
+960
+Koffing
+♂
+Lv.
+24
+No item
+Muk
+♂
+Lv.
+24
+No item
+In the maze
+Burglar
+Eddie
+Reward:
+$
+2112
+Growlithe
+♂
+Lv.
+26
+No item
+Koffing
+♂
+Lv.
+24
+No item
+Burglar
+Duncan
+Reward:
+$
+2024
+Koffing
+♂
+Lv.
+23
+No item
+Magmar
+♂
+Lv.
+25
+No item
+Koffing
+♂
+Lv.
+23
+No item
+South side
+Rocket Grunt
+Reward:
+$
+1000
+Gloom
+♀
+Lv.
+25
+No item
+Gloom
+♀
+Lv.
+25
+No item
+Warehouse
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+960
+Raticate
+♂
+Lv.
+24
+No item
+Golbat
+♂
+Lv.
+24
+No item
+Rocket Grunt
+Reward:
+$
+920
+Grimer
+♂
+Lv.
+26
+No item
+Weezing
+♂
+Lv.
+23
+No item
+Rocket Grunt
+Reward:
+$
+1000
+Koffing
+♂
+Lv.
+25
+No item
+Koffing
+♂
+Lv.
+25
+No item
+Items
+Item
+Location
+Games
+B2F
+Full Heal
+Northeast room, accessed via Switch 1
+C
+Smoke Ball
+Southwest room, accessed by flipping Switches #1, #3, #2, #1, #3
+C
+Revive
+Northwest room, west of Burglar Eddie (hidden)
+C
+Max Potion
+North-central room, accessed via Switch 1 (hidden)
+C
+Warehouse
+Ultra Ball
+Northwest corner
+C
+Max Ether
+Southeast corner
+C
+TM35
+(
+Sleep Talk
+)
+Interior room, next to the Director
+C
+Card Key
+Interior room, from the Director
+C
+B2F
+Silver
+appears again a short distance from the entrance. He intends to be the one to finally defeat
+Team Rocket
+, and plans to defeat you to get you out of his way.
+Rival Battle 4
+Each of
+Silver
+'s Pokémon has grown 10 levels since the previous battle. His
+Zubat
+has since evolved into
+Golbat
+, and the Pokémon that he took from
+Elm
+'s lab—either
+Totodile
+or
+Chikorita
+—has now evolved into its final form. His team includes one new addition, a
+Sneasel
+. As a
+Dark
+/
+Ice
+Pokémon, it takes massive damage from
+Fighting-type
+moves.
+If the player chose
+Chikorita
+:
+Silver
+Goldenrod Underground
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1920
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+30
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+28
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+30
+Shadow Ball
+Ghost
+--
+Lick
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+32
+Faint Attack
+Dark
+--
+Leer
+Normal
+--
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Quilava
+♂
+Lv.
+32
+Ember
+Fire
+--
+SmokeScreen
+Normal
+--
+Quick Attack
+Normal
+--
+Flame Wheel
+Fire
+--
+If the player chose
+Cyndaquil
+:
+Silver
+Goldenrod Underground
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1920
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+30
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+28
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+30
+Shadow Ball
+Ghost
+--
+Lick
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+32
+Faint Attack
+Dark
+--
+Leer
+Normal
+--
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Feraligatr
+♂
+Lv.
+32
+Bite
+Dark
+--
+Scary Face
+Normal
+--
+Rage
+Normal
+--
+Water Gun
+Water
+--
+If the player chose
+Totodile
+:
+Silver
+Goldenrod Underground
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1920
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+30
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+28
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+30
+Shadow Ball
+Ghost
+--
+Lick
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+32
+Faint Attack
+Dark
+--
+Leer
+Normal
+--
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Type:
+Grass
+Unknown
+Held item:
+None
+Meganium
+♂
+Lv.
+32
+PoisonPowder
+Poison
+--
+Razor Leaf
+Grass
+--
+Body Slam
+Normal
+--
+Reflect
+Psychic
+--
+Defeated, he wonders aloud if what
+Lance
+told him about not treating his Pokémon properly is true, but refuses to give up on becoming stronger.
+The Shifting Shutters
+After
+Silver
+leaves, there are three Rocket Grunts along the north wall. Defeat them all, then turn your attention to the three switches on the wall behind them. These switches are numbered from 1 to 3, starting with the eastern one. Each of these switches controls a different group of shutters to the south. To reset the puzzle, either flip each switch again or leave and re-enter the room.
+Flip Switch #1 to reach a
+Full Heal
+in the northeast room. This also gives access to a hidden
+Max Potion
+in the north-central room.
+Flip the switches in a five-part sequence (#1, #3, #2, #1, #3) to reach a
+Smoke Ball
+in the southwest room.
+To clear the maze, flip each switch once in descending order (#3, #2, #1). This also gives access to a hidden
+Revive
+in the northwest room.
+After exiting the maze, defeat the female Rocket Grunt and pass through the double doors.
+Warehouse
+Go north to reach an
+Ultra Ball
+, then follow the winding hallway past the first Rocket Grunt to reach a
+Max Ether
+in the southeast corner. Battle a second Rocket Grunt in the northeast, then detour up the nearby stairs; this leads to a blocked-off area in the
+Department Store
+'s basement and an
+Amulet Coin
+. Continue westward to fight a third Rocket Grunt. Pick up
+TM35
+(
+Sleep Talk
+) in the interior room, then speak to the Director. After hearing about
+Team Rocket
+occupying the
+Radio Tower
+, he begs for your help and gives you a
+Card Key
+. This card unlocks the shutter on the tower's third floor. Climb the northeast stairs again and take the elevator up from the basement.
+Radio Tower
+With the
+Card Key
+in hand, it is time to defeat
+Team Rocket
+once and for all!
+Trainers
+3F
+Trainer
+Pokémon
+Requires Card Key
+Rocket Grunt
+Reward:
+$
+1040
+Raticate
+♂
+Lv.
+24
+No item
+Koffing
+♂
+Lv.
+26
+No item
+4F (East)
+Trainer
+Pokémon
+Rocket Grunt
+Reward:
+$
+960
+Ekans
+♀
+Lv.
+21
+No item
+Oddish
+♀
+Lv.
+23
+No item
+Ekans
+♀
+Lv.
+21
+No item
+Gloom
+♀
+Lv.
+24
+No item
+Items
+Item
+Location
+Games
+Clear Bell
+5F (East); from the Director, after defeating Team Rocket
+C
+Ultra Ball
+5F (East); in the studio
+C
+TM11
+(
+Sunny Day
+)
+3F; from a woman, after defeating
+Team Rocket
+C
+Pink Bow
+4F; from
+DJ Mary
+, after defeating Team Rocket
+C
+3F
+Swipe the
+Card Key
+through the slot near the shutter. Defeat the single Rocket Grunt on the other side and take the stairs to the east side of 4F.
+4F (East)
+Battle the female Rocket Grunt and
+a Rocket Executive
+here to reach the fifth floor.
+5F (East)
+Head toward the broadcasting studio to draw the attention of
+a female Rocket Executive
+. She intends to get payback for her defeat in
+Mahogany Town
+.
+Rocket
+Executive
+Goldenrod Radio Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2304
+Type:
+Poison
+Unknown
+Held item:
+None
+Arbok
+♀
+Lv.
+32
+Glare
+Normal
+--
+Bite
+Dark
+--
+Wrap
+Normal
+--
+Poison Sting
+Poison
+--
+Types:
+Grass
+Poison
+Held item:
+None
+Vileplume
+♀
+Lv.
+32
+Sweet Scent
+Normal
+--
+Absorb
+Grass
+--
+Acid
+Poison
+--
+Sleep Powder
+Grass
+--
+Types:
+Dark
+Flying
+Held item:
+None
+Murkrow
+♀
+Lv.
+32
+Peck
+Flying
+--
+Haze
+Ice
+--
+Pursuit
+Dark
+--
+Night Shade
+Ghost
+--
+Enter the studio to reach
+a final Rocket Executive
+. He reveals the details of their plan: to take over the radio station and announce their return. Their hope is that hearing this broadcast will bring their leader,
+Giovanni
+, back from his solo training so that he can lead them to regain their former glory. He refuses to let you interfere any further, and draws you into battle.
+Rocket
+Executive
+Goldenrod Radio Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2520
+Types:
+Dark
+Fire
+Held item:
+None
+Houndour
+♂
+Lv.
+33
+Faint Attack
+Dark
+--
+Ember
+Fire
+--
+Bite
+Dark
+--
+Roar
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Koffing
+♂
+Lv.
+33
+Sludge
+Poison
+--
+SmokeScreen
+Normal
+--
+Tackle
+Normal
+--
+Haze
+Ice
+--
+Types:
+Dark
+Fire
+Held item:
+None
+Houndoom
+♂
+Lv.
+35
+Faint Attack
+Dark
+--
+Ember
+Fire
+--
+Bite
+Dark
+--
+Smog
+Poison
+--
+Conceding defeat, the Rocket Executive formally disbands
+Team Rocket
+, just as
+Giovanni
+did before him. The Rockets flee the building, and the Director returns a moment later. He exclaims that your courageous actions have saved Pokémon nationwide, and rewards you with a
+Clear Bell
+. He explains that there used to be a different tower at this site, but it was old and unstable. This gleaming bell was dug up during demolition to make way for the new Radio Tower. He wonders aloud if it might have some connection to
+Ecruteak
+'s
+Tin Tower
+, then suddenly remembers overhearing a conversation between
+Team Rocket
+members. He says that they were whispering about something going on at that same tower, and suggests looking into it before leaving for his office. Pick up the
+Ultra Ball
+in the studio here, and then as you exit the tower, speak to
+DJ Mary
+on 4F (East) for a
+Pink Bow
+, and the girl on 3F to get
+TM11
+(
+Sunny Day
+).
+Ecruteak City
+Barrier Station
+In the building at the foot of
+Tin Tower
+, one of the tower's caretakers informs you that a momentous event has occurred. He initially asks you to leave, but relents when he hears the
+Clear Bell
+begin ringing gently. The bell's chime is said to reflect the bearer's soul, and he believes that you may be able to make it through the tower.
+As you approach the exit, you are blocked by a group known as the Wise Trio. They speak of a legend in which a Trainer with the ability to touch the souls of Pokémon is tested by a Pokémon that appears at
+Tin Tower
+. They excitedly inform you that the legend has come true, as
+Suicune
+has appeared at the tower. The trio intends to test your worthiness to meet the beast. Between battles, they offer more insight into the local legends.
+Trainers
+Trainer
+Pokémon
+Sage
+Gaku
+Reward:
+$
+1024
+Noctowl
+♂
+Lv.
+32
+No item
+Flareon
+♂
+Lv.
+32
+No item
+Sage
+Masa
+Reward:
+$
+1024
+Noctowl
+♂
+Lv.
+32
+No item
+Jolteon
+♂
+Lv.
+32
+No item
+Sage
+Koji
+Reward:
+$
+1024
+Noctowl
+♂
+Lv.
+32
+No item
+Vaporeon
+♂
+Lv.
+32
+No item
+Afterward, the trio explains that they have been charged with protecting the legendary Pokémon, and are to allow passage only to those who possess "the power and soul of truth". They invite you to enter the tower, where
+Suicune
+awaits. Follow the trail to the tower, and be sure to save the game.
+Tin Tower
+1F
+When you step inside, the three
+legendary beasts
+can be seen standing together near the central pillar. Immediately noticing your presence,
+Raikou
+and
+Entei
+each leap over the fence with a roar before racing out of the tower.
+Suicune
+clears the fence with a roar of its own and lands directly in front of you, forcing you into battle.
+VS Suicune
+The legendary
+Suicune
+has appeared! Begin with
+Grass
+- and
+Electric-type
+attacks to wear its health down quickly, then follow up with Water-,
+Fire
+-,
+Ice
+-, and
+Steel-type
+moves to chip away at it even further. Consider inflicting status ailments like
+Sleep
+and
+Paralysis
+to restrict its movements.
+Type:
+Water
+Unknown
+Held item:
+None
+Suicune
+Lv.
+40
+Leer
+Normal
+--
+BubbleBeam
+Water
+--
+Rain Dance
+Water
+--
+Gust
+Flying
+--
+Eusine
+and the Wise Trio enter the tower when the battle ends. Eusine claims that
+Suicune
+'s mystic power is said to summon
+a rainbow-colored Pokémon
+, and wonders aloud if these events will cause it to appear. He intends to continue studying these legends, and thanks you for the fantastic battle as he leaves. If spoken with, the trio recounts the tale of the
+Brass Tower
+; the
+three Pokémon
+that perished in the blaze, and the rainbow-colored Pokémon descending from the sky to give them new life.
+The next destination is
+Blackthorn City
+, to the east of
+Mahogany Town
+.
+Mahogany Town
+With
+Team Rocket
+gone, the souvenir shop's owner and her granddaughter have returned to reopen their store. The shady salesman who blocked the way eastward to
+Route 44
+has disappeared, as well.
+Souvenir Shop
+RageCandyBar
+$
+300
+Great Ball
+$
+600
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Super Repel
+$
+500
+Revive
+$
+1500
+Flower Mail
+$
+50
+Route 44
+Route 44
+Route 44
+is a pleasant mountain path that links
+Mahogany Town
+to the
+Ice Path
+. It is filled with abundant greenery, and springs that feed into several large ponds. The only patch of tall grass lies tucked away between two of these ponds.
+Trainers
+Trainer
+Pokémon
+Psychic
+Phil
+Reward:
+$
+972
+Natu
+♂
+Lv.
+24
+No item
+Kadabra
+♂
+Lv.
+26
+No item
+Fisher
+Edgar
+Reward:
+$
+1000
+Remoraid
+♂
+Lv.
+25
+No item
+Remoraid
+♂
+Lv.
+25
+No item
+Cooltrainer
+Cybil
+Reward:
+$
+1200
+Butterfree
+♀
+Lv.
+25
+No item
+Bellossom
+♀
+Lv.
+25
+No item
+Cooltrainer
+Allen
+Reward:
+$
+1296
+Charmeleon
+♂
+Lv.
+27
+No item
+PokéManiac
+Zach
+Reward:
+$
+1620
+Rhyhorn
+♂
+Lv.
+27
+No item
+Fisher
+Wilton
+Reward:
+$
+1000
+Goldeen
+♂
+Lv.
+23
+No item
+Goldeen
+♂
+Lv.
+23
+No item
+Seaking
+♂
+Lv.
+25
+No item
+Bird Keeper
+Vance
+Reward:
+$
+600
+Pidgeotto
+♂
+Lv.
+25
+No item
+Pidgeotto
+♂
+Lv.
+25
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poliwag
+G
+S
+C
+Grass
+22
+0%
+0%
+30%
+Poliwhirl
+G
+S
+C
+Grass
+24, 26
+0%
+0%
+10%
+Bellsprout
+G
+S
+C
+Grass
+22
+20%
+Weepinbell
+G
+S
+C
+Grass
+24
+10%
+Lickitung
+G
+S
+C
+Grass
+22, 24, 26
+40%
+40%
+0%
+Tangela
+G
+S
+C
+Grass
+23
+30%
+Surfing
+Poliwag
+G
+S
+C
+Surfing
+20-29
+90%
+Poliwhirl
+G
+S
+C
+Surfing
+25-29
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Headbutt tree
+(Moderate chances of battle)
+Spearow
+G
+S
+C
+Headbutt
+10
+80%
+Aipom
+G
+S
+C
+Headbutt
+10
+20%
+Headbutt tree
+(Low chances of battle)
+Spearow
+G
+S
+C
+Headbutt
+10
+50%
+Aipom
+G
+S
+C
+Headbutt
+10
+20%
+Heracross
+G
+S
+C
+Headbutt
+10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Burnt Berry
+On the tree in the northwest, near Mahogany Town (daily)
+C
+Max Repel
+Between the two western ponds, north of the road, next to the trees
+C
+Max Revive
+In the tall grass between the two ponds (requires
+Surf
+)
+C
+Elixer
+In the tall grass between the two ponds, southeast of the Max Revive (hidden; requires
+Surf
+)
+C
+Ultra Ball
+Northeast of the larger eastern pond
+C
+Carbos
+From Bird Keeper Vance, after defeating him in a second rematch
+C
+Ice Path
+Ice Path, 1F
+Ice Path, B1F
+Ice Path, B2F
+Ice Path, B3F
+The
+Ice Path
+is a frigid cave that connects
+Route 44
+and
+Blackthorn City
+. Travel is made difficult by large sheets of ice, and boulders that must be moved to reach new areas.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Zubat
+G
+S
+C
+Cave
+22
+30%
+Golbat
+G
+S
+C
+Cave
+22, 24
+30%
+Swinub
+G
+S
+C
+Cave
+21, 23
+40%
+40%
+0%
+Delibird
+G
+S
+C
+Cave
+21, 23
+0%
+0%
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+G
+S
+C
+Cave
+23
+30%
+Golbat
+G
+S
+C
+Cave
+23, 25
+29%
+Jynx
+G
+S
+C
+Cave
+22
+1%
+1%
+0%
+Sneasel
+G
+S
+C
+Cave
+22
+0%
+0%
+1%
+Swinub
+G
+S
+C
+Cave
+22, 24
+40%
+40%
+0%
+Delibird
+G
+S
+C
+Cave
+22, 24
+0%
+0%
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+G
+S
+C
+Cave
+24
+30%
+Golbat
+G
+S
+C
+Cave
+24, 26
+25%
+Jynx
+G
+S
+C
+Cave
+22, 24
+5%
+5%
+0%
+Sneasel
+G
+S
+C
+Cave
+22, 24
+0%
+0%
+5%
+Swinub
+G
+S
+C
+Cave
+23, 25
+40%
+40%
+0%
+Delibird
+G
+S
+C
+Cave
+23, 25
+0%
+0%
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+G
+S
+C
+Cave
+25
+30%
+Golbat
+G
+S
+C
+Cave
+25
+20%
+Jynx
+G
+S
+C
+Cave
+22, 24, 26
+10%
+10%
+0%
+Sneasel
+G
+S
+C
+Cave
+22, 24, 26
+0%
+0%
+10%
+Swinub
+G
+S
+C
+Cave
+24, 26
+40%
+40%
+0%
+Delibird
+G
+S
+C
+Cave
+24, 26
+0%
+0%
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+HM07
+(
+Waterfall
+)
+Northwest; east edge of the third ice patch
+C
+Protein
+Southeast; on the ridge north of the exit
+C
+PP Up
+Southeast; northwest of the Blackthorn City exit
+C
+B1F
+Max Potion
+South; on a rock in the center of the ice patch (hidden)
+C
+Iron
+South; dead-end southwest tunnel
+C
+B2F
+Max Potion
+West; in the northwest area
+C
+Carbos
+West; in the southwest area (hidden)
+C
+Full Heal
+West; clear patch in the center
+C
+TM44
+(
+Rest
+)
+East; southeast corner
+C
+Ice Heal
+East; on the lone rock in the center of the larger ice patch (hidden)
+C
+B3F
+NeverMeltIce
+South of the row of stones
+C
+1F (Northwest)
+Go east to slide across the first patch of ice and continue on to the second in the northwest. Bumping into one of the rocks scattered here allows travelers to change direction.
+Puzzle
+Solution
+Ice patch 2
+↑ Up, ← Left, ↑ Up, ← Left, ↓ Down, ← Left, ↑ Up, ← Left, ↓ Down, → Right, ↓ Down, → Right
+Go east and pass by the stairway to reach the third ice patch. Be sure to pick up
+HM07
+(
+Waterfall
+) on the eastern edge.
+Puzzle
+Solution
+Ice patch 3
+→ Right, ↑ Up, ← Left, ↓ Down, → Right
+Backtrack and walk across the rocky ridge to reach the northeast ladder.
+B1F (North)
+There are four boulders scattered around this part of the cave, and each one must be dropped through a different hole in the floor to form a path on the ice below. Go north and loop around the northwest corner to find the first two boulders near the middle of B1F.
+Puzzle
+Solution
+Boulder 1
+(To Southwest)
+Right 1, Down 2, Left 5, Down 1, Right 1
+Boulder 2
+(To Northwest)
+Left 2, Up 3, Down 1, Left 1, Down 1
+Boulder 3
+(To Southeast)
+Right 1, Down 5, Left 3, Down 1, Left 3
+Boulder 4
+(To North)
+Up 2, Left 1, Up 2, Right 2, Up 1, Left 1
+Of the two boulders in the southwest area, begin with the southernmost one. Use
+Strength
+to maneuver it around the scattered rocks and drop it down through the southwest hole. Backtrack a bit and move the second boulder northward to the second hole in the floor. Head to the southeast area to find the third boulder; move it to the southeast hole, then continue northward. Finally, push the fourth boulder to the north-central hole. With all four boulders cleared, climb down the northeast ladder.
+B2F (West)
+The four boulders from the floor above have fallen in a spiral shape that grants access to the ladder in the middle of the chamber. Before continuing on, there are several items that can be found nearby, including a
+Max Potion
+. To reach the middle area, begin in the northeast corner and stand on the southwestern-most point of clear ground, then slide westward across the ice. Move in a clockwise direction from here to reach the patch of clear ground in the center, and collect the
+Full Heal
+before climbing the ladder.
+B3F
+Use
+Rock Smash
+, or approach from the east, to reach the
+NeverMeltIce
+. Climb up the eastern ladder.
+B2F (East)
+Head east, then slide southward across the smaller ice patch to reach a ledge. Move a few steps westward, then jump the ledge to slide southward. From the south wall, slide eastward to reach
+TM44
+(
+Rest
+). Slide westward, then northward to backtrack and return to the ledge. Walk up onto the ridge, stand on the western stairway, then slide southward to the ladder.
+B1F (South)
+Go east to reach the stairway and slide out across the ice. Pick up the
+Iron
+in the tunnel to the southwest, then climb up the ladder on the northwest ridge.
+Puzzle
+Solution
+Ice patch 7
+↓ Down, → Right, ↓ Down, ← Left, ↑ Up, ← Left, ↑ Up, ← Left
+1F (Southeast)
+Pick up the
+Protein
+from the ridge, then stand next to the west wall and slide southward to reach a
+PP Up
+. Backtrack and jump the ledge to slide to the exit.
+← Part 11
+Mahogany Town, Route 43, Lake of Rage, Rocket Hideout, Mahogany Gym
+Crystal
+walkthrough
+Blackthorn City, Dragon's Den, Route 45, Dark Cave, Route 46
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

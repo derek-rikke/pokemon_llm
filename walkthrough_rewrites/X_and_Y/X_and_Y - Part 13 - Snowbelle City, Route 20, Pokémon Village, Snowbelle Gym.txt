@@ -1,0 +1,39 @@
+Game: X_and_Y
+Part: 13
+Keywords: Snowbelle City, Route 20, Pokémon Village, Snowbelle Gym
+
+### Part 13: Snowbelle City, Route 20, Pokémon Village, Snowbelle Gym
+
+#### Snowbelle City
+- **Location:** Between Routes 19, 20, and 21. Home to the final Gym.
+- **Gym Leader:** Wulfric is initially not present; find him in Winding Woods.
+- **Pokémon Center:** Talk to Mr. Bonding for O-Power (PP Restoring) and a woman for a Gracidea flower (requires Shaymin).
+- **Move Tutor:** Teaches ultimate moves to starter Pokémon.
+- **Trade:** A woman in the northwest house trades her Bisharp for a Jigglypuff (found on Route 20).
+
+#### Route 20 (Winding Woods)
+- **Path:** Navigate through winding paths to find Wulfric.
+- **Trainers:** Defeat various trainers for rewards.
+- **Key Pokémon Locations:** 
+  - Jigglypuff, Noctowl, and others available in grassy areas.
+- **Items:** Collect Kasib Berry, Meadow Plate, Protein, TM53 (Energy Ball), and others hidden in trees or clearings.
+
+#### Pokémon Village
+- **Description:** Home to runaway Pokémon; approach with strong bonds to catch them.
+- **Pokémon Locations:** Ditto, Gothorita, Jigglypuff, and others in various flower patches.
+- **Items:** Collect Chople Berry, Max Ether, and TM29 (Psychic) after meeting Wulfric.
+
+#### Snowbelle Gym
+- **Type:** Ice-type Pokémon. Use Fire, Fighting, Rock, or Steel types for advantage.
+- **Layout:** Defeat trainers to access buttons that move the gym's layout.
+  - **Key Trainers:** Imelda, Viktor, Shannon, Theo.
+  
+- **Wulfric’s Team:**
+  - **Abomasnow:** Use Fire-type moves to counter its hailstorm.
+  - **Cryogonal:** Use physical attacks due to its low Defense.
+  - **Avalugg:** Special moves are recommended; be wary of its healing ability during hailstorms.
+
+- **Defeating Wulfric:** Earn the Iceberg Badge, allowing you to use Waterfall outside of battle and receive TM13 (Ice Beam).
+
+#### Next Steps
+- With all Gym Badges, prepare for Victory Road. Stock up at the Pokémon Center before heading west to Route 21.

@@ -1,0 +1,78 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 18
+Keywords: Round 2, Tying Loose Ends
+
+**Part 18: The Pokémon League - Round 2**
+
+**Indigo Plateau**
+- **Legendary Trainer Red**: Defeat six Master Trainers across Kanto to battle Red outside the Pokémon League. Items cannot be used in this battle. Winning earns you the title of Battle Master.
+
+**Indigo League**
+- **Rechallenge Gym Leaders**: All eight Gym Leaders have trained and improved. Battle them again for experience and rewards.
+
+1. **VS Brock (Pewter Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Onix (Lv. 56), Kabutops (Lv. 56), Golem (Lv. 57).
+
+2. **VS Misty (Cerulean Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Starmie (Lv. 56), Gyarados (Lv. 57).
+
+3. **VS Lt. Surge (Vermilion Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Raichu (Lv. 57).
+
+4. **VS Erika (Celadon Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Vileplume (Lv. 57).
+
+5. **VS Sabrina (Saffron Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Alakazam (Lv. 57).
+
+6. **VS Koga (Fuchsia Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Muk (Lv. 57).
+
+7. **VS Blaine (Cinnabar Gym)**: 
+   - **Reward:** $13,680
+   - **Notable Pokémon:** Arcanine (Lv. 57).
+
+8. **VS Blue (Viridian Gym)**: 
+   - **Reward:** $19,040
+   - **Notable Pokémon:** Charizard (Lv. 68).
+
+**Indigo Plateau - Elite Four**
+- **Mega Stone Merchant**: Purchase Mega Stones from a merchant near the Pokémon Center.
+
+1. **VS Lorelei**: 
+   - **Reward:** $12,400
+   - **Notable Pokémon:** Dewgong (Lv. 61), Lapras (Lv. 62).
+
+2. **VS Bruno**: 
+   - **Reward:** $12,600
+   - **Notable Pokémon:** Machamp (Lv. 63).
+
+3. **VS Agatha**: 
+   - **Reward:** $12,800
+   - **Notable Pokémon:** Gengar (Lv. 64).
+
+4. **VS Lance**: 
+   - **Reward:** $13,000
+   - **Notable Pokémon:** Dragonite (Lv. 65).
+
+**Champion Battle**
+- **VS Trace in Let's Go, Pikachu! / Let's Go, Eevee!**: 
+   - **Reward:** $18,760
+   - **Notable Pokémon:** Pidgeot (Lv. 66), Jolteon (Lv. 67).
+
+**Celadon City**
+- **Morimoto Battle**: Challenge him on the third floor of Celadon Condominiums for a reward of $5,400.
+
+**Route 17**
+- **Team Rocket Encounter**: Battle Jessie and James for a reward of $4,992.
+
+**Team Rocket Hideout**
+- **Final Battle with Archer**: Defeat him for a reward of $5,400. After the battle, Archer hints at future plans for Team Rocket.
+
+**Note**: Completing your Pokédex earns you a Diploma and a Shiny Charm from the Director in the Celadon Condominiums.

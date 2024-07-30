@@ -1,0 +1,2467 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_4
+Keywords: Route 7 (East), Route 6, Parfum Palace, Route 7 (West), Connecting Cave
+
+Walkthrough Text:
+Contents
+1
+Route 7 (east)
+1.1
+Berry Fields
+1.1.1
+Mutations
+1.2
+The Caretaker and the Crisis
+2
+Route 6
+3
+Parfum Palace
+3.1
+Entrance
+3.2
+Interior
+3.3
+Courtyard
+3.4
+Balcony
+4
+Route 7 (west)
+4.1
+Snorlax
+4.2
+Pokémon Day Care
+4.3
+Battle Chateau
+4.3.1
+Ranks
+4.3.2
+Writs
+4.3.3
+Prizes
+4.4
+Multi Battle!
+5
+Connecting Cave
+Route 7 (east)
+Route 7
+Route 7
+, or Rivière Walk, is the single longest road in
+Kalos
+, and runs alongside one of its largest rivers. The path links
+Camphrier Town
+and
+Connecting Cave
+, while
+Route 6
+branches off to the north. The
+Berry fields
+are to the south. Other landmarks include the
+Pokémon Day Care
+and
+Battle Chateau
+- though you're not able to visit them just yet.
+Items
+Item
+Location
+Games
+East of the bridge
+Oran Berry
+×5
+From the Berry farmer
+X
+Y
+Pecha Berry
+×5
+From the Berry farmer
+X
+Y
+Sprinklotad
+From the Berry farmer
+X
+Y
+Miracle Seed
+Berry Fields, southwest corner
+X
+Y
+Heal Ball
+North of the bridge, on the riverbank
+X
+Y
+Berry Fields
+Southwest of
+Camphrier Town
+is an orchard known as the
+Berry fields
+. At the entrance, you are approached by a man and his daughter, who ask for help taking care of the orchard. Accept their request, and the man hands out five
+Oran Berries
+and five
+Pecha Berries
+, as well as a
+Sprinklotad
+to water them. These fields are the only location where Berries can be planted, and it is important to return occasionally to remove weeds and fight off hungry
+Bug
+Pokémon. Excess Berries can be turned into
+Mulch
+—
+Amaze
+,
+Boost
+,
+Rich
+, or
+Surprise
+varieties—by using the composter. Different Berry combinations produce different types of Mulch.
+Mutations
+Mutations may occur when two different trees are planted next to each other. After the first mutation occurs, a Scientist will visit the area, and set herself up in the family's house to begin collecting data. Thirteen Berries can only be found through mutations, while another fourteen can only be obtained from faraway regions.
+Result
+Recipe
+Apicot Berry
+Kelpsy Berry
++
+Wacan Berry
+Ganlon Berry
+Qualot Berry
++
+Tanga Berry
+Grepa Berry
+Aguav Berry
++
+Figy Berry
+Hondew Berry
+Aspear Berry
++
+Leppa Berry
+Kee Berry
+Ganlon Berry
++
+Liechi Berry
+Kelpsy Berry
+Chesto Berry
++
+Persim Berry
+Liechi Berry
+Hondew Berry
++
+Yache Berry
+Result
+Recipe
+Maranga Berry
+Salac Berry
++
+Petaya Berry
+Petaya Berry
+Pomeg Berry
++
+Kasib Berry
+Pomeg Berry
+Iapapa Berry
++
+Mago Berry
+Qualot Berry
+Oran Berry
++
+Pecha Berry
+Salac Berry
+Grepa Berry
++
+Roseli Berry
+Tamato Berry
+Lum Berry
++
+Sitrus Berry
+The Caretaker and the Crisis
+Continue west from the Berry fields to find the castle caretaker. A
+Snorlax
+has fallen asleep on the bridge, and only a
+Poké Flute
+can wake it. The caretaker used to have one, but it now resides in
+Parfum Palace
+to the north.
+Route 6
+Route 6
+Route 6
+, or Palais Lane, leads north from
+Route 7
+to
+Parfum Palace
+. Northbound travelers are required to take the main road, but when leaving the palace, it is possible to explore the paths through the tall grass on either side. When walking down the main road, if you walk near the bushes very closely, occasionally you'll come across a bush to which a wild Pokémon will jump out and attack you.
+Trainers
+Trainer
+Pokémon
+Center lane
+Tourist
+Hiroko
+Reward:
+$
+880
+Pikachu
+♀
+Lv.
+11
+No item
+Psyduck
+♀
+Lv.
+11
+No item
+Pidgey
+♀
+Lv.
+11
+No item
+Tourist
+Eriko
+Reward:
+$
+880
+Zigzagoon
+♀
+Lv.
+11
+No item
+Ralts
+♀
+Lv.
+11
+No item
+Gulpin
+♀
+Lv.
+11
+No item
+Left side
+Poké Fan Family
+Jan & Erin
+Reward:
+$
+2240
+Furfrou
+♂
+Natural Form
+Lv.
+14
+No item
+Furfrou
+♀
+Natural Form
+Lv.
+14
+No item
+Beauty
+Brigitte
+Reward:
+$
+960
+Espurr
+♀
+Lv.
+12
+No item
+Butterfree
+♀
+Lv.
+12
+No item
+Youngster
+Tyler
+Reward:
+$
+288
+Venipede
+♂
+Lv.
+12
+No item
+Scraggy
+♂
+Lv.
+12
+No item
+Backpacker
+Roderick
+Reward:
+$
+560
+Bunnelby
+♂
+Lv.
+14
+No item
+Right side
+Backpacker
+Jerome
+Reward:
+$
+560
+Fletchling
+♂
+Lv.
+14
+No item
+Tourist
+Takemi
+Reward:
+$
+1008
+Volbeat
+♂
+Lv.
+14
+No item
+Tourist
+Mari
+Reward:
+$
+1008
+Illumise
+♀
+Lv.
+14
+No item
+Youngster
+Jacob
+Reward:
+$
+312
+Croagunk
+♂
+Lv.
+11
+No item
+Beedrill
+♂
+Lv.
+13
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+X
+Y
+Tall grass
+10-12
+30%
+Sentret
+X
+Y
+Tall grass
+10-11
+20%
+Espurr
+X
+Y
+Tall grass
+11-12
+20%
+Nincada
+X
+Y
+Tall grass
+12
+10%
+Honedge
+X
+Y
+Tall grass
+11-12
+15%
+Kecleon
+X
+Y
+Tall grass
+11-12
+5%
+Rustling bush
+Venipede
+X
+Y
+Rustling bush
+10-12
+~80%
+Audino
+X
+Y
+Rustling bush
+10-12
+~20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Sp. Atk
+Central path: down a narrow path immediately on the left after entering from
+Route 7
+X
+Y
+Antidote
+Central path: in the second bush south of the tree that is fifth from the north end of the route
+(hidden)
+X
+Y
+West side
+Super Repel
+Southwest of Poké Fan Family Jan & Erin
+X
+Y
+Awakening
+Southeast of Poké Fan Family Jan & Erin
+X
+Y
+Aguav Berry
+From the tree, south of Beauty Brigitte
+X
+Y
+Ultra Ball
+West of Backpacker Roderick
+X
+Y
+East side
+Antidote
+Northeast corner
+X
+Y
+X Speed
+In a clearing, southwest of Backpacker Jerome
+X
+Y
+Tiny Mushroom
+East of Tourist Takemi (hidden)
+X
+Y
+TM09
+(
+Venoshock
+)
+South of Tourist Mari
+X
+Y
+Paralyze Heal
+North of Youngster Jacob
+X
+Y
+Parfum Palace
+Parfum Palace
+Parfum Palace Courtyard
+The magnificent
+Parfum Palace
+was built ages ago by a king who wished to display his power for all to see. Tourists travel from across the region simply to gaze at its majestic architecture.
+Items
+Item
+Location
+Games
+Entrance
+Oran Berry
+From the Tourist on the dirt path
+X
+Y
+Ether
+Northwest corner
+X
+Y
+Palace
+Amulet Coin
+2F, in the fireplace of the westernmost room
+X
+Y
+Courtyard
+Antidote
+Southeast hedge maze
+X
+Y
+Revive
+East side, between the potted trees
+X
+Y
+Pretty Wing
+Northeast hedge maze, in a tree on the west side (hidden)
+X
+Y
+X Sp. Atk
+Southwest hedge maze, in the center-left clearing (hidden)
+X
+Y
+HM01
+(
+Cut
+)
+Southwest hedge maze, in the center-right clearing
+X
+Y
+Super Potion
+Southwest hedge maze, in the northwest clearing
+X
+Y
+Guard Spec.
+Northwest corner
+X
+Y
+Rare Candy
+North side of the fountain (hidden)
+X
+Y
+Balcony
+Poké Flute
+From the butler, after returning Furfrou
+X
+Y
+TM17
+(
+Protect
+)
+From the butler, after returning Furfrou
+X
+Y
+Entrance
+Speak to the Tourist on the dirt path to receive an
+Oran Berry
+. There is also a Photo Spot to the southeast, and an
+Ether
+to the northwest. Shauna catches up to you near the gate. To enter the palace, visitors must pay a
+$
+1,000 fee, which goes toward repairs and restoration... probably. Admission is free for those with less than
+$
+1,000.
+Interior
+On the first floor, you and Shauna witness the building's owner frantically searching for his
+Furfrou
+, so she suggests helping out. North of the entrance is a doorway leading out to the courtyard, and the first room to the left holds a bed where your Pokémon can rest. Speaking to the several other visitors will give some insight into the region's past.
+On the second floor, stop in the westernmost room to obtain an
+Amulet Coin
+, which doubles the amount of prize money if the holding Pokémon takes part in battle.
+Courtyard
+Cross the bridge to the gardens, where Shauna rushes past to check the north side. Visit the southwest hedge to obtain
+HM01
+(
+Cut
+), then head to the northwest hedge. Furfrou is here, but runs off to the northeast when Shauna arrives. Seeing a dead-end path, she suggests chasing it there. There are three areas where she can stand guard to prevent Furfrou's escape. Talk to her at the entrance to have her wait there, then approach Furfrou from the west so it runs to the north. Have her cover the east side, then loop around from the west, trapping it. The palace owner shows up to express his gratitude, then invites the two to watch a fireworks display from the balcony as thanks.
+Balcony
+Head back inside and climb to the second floor's center hall to reach the balcony. Talk to Shauna and the pyrotechnic display begins, after which the palace owner and his butler arrive. Shauna asks for the
+Poké Flute
+, and the owner instructs the butler to turn it over. Once the owner leaves, the butler also gives out
+TM17
+(
+Protect
+).
+Route 7 (west)
+Trainers
+Trainer
+Pokémon
+Artist
+Georgia
+Reward:
+$
+896
+Smeargle
+♀
+Lv.
+16
+No item
+Artist Family
+Mona & Paolo
+Reward:
+$
+1792
+Smeargle
+♂
+Lv.
+16
+No item
+Smeargle
+♂
+Lv.
+16
+No item
+Artist
+Pierre
+Reward:
+$
+896
+Smeargle
+♂
+Lv.
+16
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Smeargle
+X
+Y
+Grass
+14
+10%
+Volbeat
+X
+Y
+Grass
+13
+10%
+Illumise
+X
+Y
+Grass
+13
+10%
+Roselia
+X
+Y
+Grass
+14
+10%
+Croagunk
+X
+Y
+Grass
+12-14
+35%
+Ducklett
+X
+Y
+Grass
+14
+10%
+Flabébé
+Orange Flower
+X
+Y
+Grass
+13
+4%
+Flabébé
+White Flower
+X
+Y
+Grass
+14
+1%
+Spritzee
+X
+Y
+Grass
+14
+10%
+Swirlix
+X
+Y
+Grass
+14
+10%
+Yellow flowers
+Smeargle
+X
+Y
+Yellow flowers
+14
+10%
+Volbeat
+X
+Y
+Yellow flowers
+13
+10%
+Illumise
+X
+Y
+Yellow flowers
+13
+10%
+Roselia
+X
+Y
+Yellow flowers
+14
+10%
+Croagunk
+X
+Y
+Yellow flowers
+14
+5%
+Ducklett
+X
+Y
+Yellow flowers
+14
+10%
+Flabébé
+Orange Flower
+X
+Y
+Yellow flowers
+13
+4%
+Flabébé
+White Flower
+X
+Y
+Yellow flowers
+14
+1%
+Flabébé
+Yellow Flower
+X
+Y
+Yellow flowers
+12-14
+30%
+Spritzee
+X
+Y
+Yellow flowers
+14
+10%
+Swirlix
+X
+Y
+Yellow flowers
+14
+10%
+Purple flowers
+Smeargle
+X
+Y
+Purple flowers
+14
+10%
+Volbeat
+X
+Y
+Purple flowers
+13
+10%
+Illumise
+X
+Y
+Purple flowers
+13
+10%
+Roselia
+X
+Y
+Purple flowers
+14
+10%
+Croagunk
+X
+Y
+Purple flowers
+14
+5%
+Ducklett
+X
+Y
+Purple flowers
+14
+10%
+Flabébé
+Blue Flower
+X
+Y
+Purple flowers
+12-14
+30%
+Flabébé
+Orange Flower
+X
+Y
+Purple flowers
+13
+4%
+Flabébé
+White Flower
+X
+Y
+Purple flowers
+14
+1%
+Spritzee
+X
+Y
+Purple flowers
+14
+10%
+Swirlix
+X
+Y
+Purple flowers
+14
+10%
+Horde Encounter
+Psyduck
+X
+Y
+Horde Encounter
+7
+35%
+Psyduck
+X
+Y
+Horde Encounter
+8
+35%
+Hoppip
+X
+Y
+Horde Encounter
+7
+60%
+Roselia
+X
+Y
+Horde Encounter
+8
+5%
+Roselia
+X
+Y
+Horde Encounter
+7
+5%
+Special Pokémon
+Snorlax
+X
+Y
+Only one
+15
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West of the bridge
+X Sp. Def
+Southwest of Artist Georgia
+X
+Y
+PP Up
+Southwest of the Battle Chateau
+X
+Y
+SilverPowder
+Between the two entrances to Connecting Cave (requires
+Cut
+)
+X
+Y
+Persim Berry
+From the tree, south of Connecting Cave
+X
+Y
+Tiny Mushroom
+South of the Berry tree
+X
+Y
+Snorlax
+Return to the
+Route 7
+bridge, and turn over the
+Poké Flute
+to the castle caretaker. He warns that
+Snorlax
+will wake up grumpy, and asks if you are ready to fight it. Be sure to heal up and have some extra
+Great Balls
+before battling it. The creature is vulnerable only to
+Fighting-type
+attacks. It can raise its defenses with
+Defense Curl
+and
+Amnesia
+, but Physical moves will be more effective due to its lower Defense.
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+or
+Thick Fat
+Held item:
+Sitrus Berry
+Snorlax
+♂
+/
+♀
+Lv.
+15
+Tackle
+Normal
+Physical
+--
+Defense Curl
+Normal
+Status
+--
+Amnesia
+Psychic
+Status
+--
+Lick
+Ghost
+Physical
+--
+Afterwards, the palace owner and his butler appear. He attempts to patch things up with the castle caretaker, allowing him to keep the Poké Flute in order to practice more. The others take off, leaving you and Shauna behind.
+Pokémon Day Care
+The
+Pokémon Day Care
+is located just west of the bridge. Tierno and Trevor suddenly appear, and are excited to check it out. The woman at the counter will accept up to two Pokémon to raise at once. Pokémon left here will gain one
+experience point
+for every step taken. If a compatible pair are left together, the man outside may sometimes find an
+Egg
+! It costs
+$
+100, plus another
+$
+100 for every level gained, to retrieve a Pokémon.
+Battle Chateau
+Battle Chateau
+Farther west, Trevor calls to you from outside a large castle, the
+Battle Chateau
+. Step inside to meet
+Viola
+and a man named Hennessy, who explain the facility.
+Ranks
+Ranks
+Player rank
+Trainers in Chateau
+Rank requirement
+Points for defeating
+a Trainer of this rank
+Baron / Baroness
+6
+—
+1
+Viscount / Viscountess
+7
+5 points
+2
+Earl / Countess
+8
+30 points
+3
+Marquis / Marchioness
+9
+98 points
+Regular: 4
+Gym Leader
+: 5
+Duke / Duchess
+10
+295 points
+—
+Grand Duke /
+Grand Duchess
+10
+Defeat all noble Trainers except
+Gym Leaders
+, the
+Elite Four
+, and
+Diantha
+—
+Thanks to Viola's recommendation, Hennessy assigns you the title of Baron/Baroness, the lowest rank of nobility. By defeating enough other Trainers, this rank will rise to Viscount/Viscountess, Earl/Countess, Marquis/Marchioness, Duke/Duchess, and Grand Duke/Grand Duchess. When this happens, a servant will inform you as you leave. For receiving the Grand Duke/Grand Duchess rank however, you'll be informed when you enter the Battle Chateau.
+Each rank allows you to fight opponents of an equal or lesser title. After reaching the higher ranks, Gym Leaders, Elite Four members, and even the Champion may be encountered. While most ranks are achieved based on the total number of points acquired which are determined by the rank of your opponent, for achieving the final rank, all the regular trainers must have been encountered at least once (not counting Diantha, the Gym Leaders, or Elite Four members).
+Trainers
+Barons/Baronesses
+Trainer
+Pokémon
+Baron
+Denis
+Reward:
+$
+3000
+Riolu
+♂
+Lv.
+15
+No item
+Baron
+Evran
+Reward:
+$
+1800
+Budew
+♂
+Lv.
+15
+No item
+Baron
+Herisson
+Reward:
+$
+1800
+Horsea
+♂
+Lv.
+15
+No item
+Baron
+Lyon
+Reward:
+$
+1800
+Ralts
+♂
+Lv.
+15
+No item
+Baron
+Marseille
+Reward:
+$
+1800
+Clauncher
+♂
+Lv.
+15
+No item
+Baron
+Moray
+Reward:
+$
+1200
+Fletchling
+♂
+Lv.
+15
+No item
+Baron
+Orvault
+Reward:
+$
+1800
+Psyduck
+♂
+Lv.
+15
+No item
+Baroness
+Cadette
+Reward:
+$
+1800
+Burmy
+♀
+Trash Cloak
+Lv.
+15
+No item
+Baroness
+Camille
+Reward:
+$
+960
+Bidoof
+♀
+Lv.
+15
+No item
+Baroness
+Estelle
+Reward:
+$
+1800
+Hoppip
+♀
+Lv.
+15
+No item
+Baroness
+Francine
+Reward:
+$
+1800
+Flabébé
+♀
+Red Flower
+Lv.
+15
+No item
+Baroness
+Maelys
+Reward:
+$
+1800
+Spoink
+♀
+Lv.
+15
+No item
+Baroness
+Maryline
+Reward:
+$
+1800
+Ledyba
+♀
+Lv.
+15
+No item
+Baroness
+Renée
+Reward:
+$
+3000
+Scatterbug
+♀
+Lv.
+15
+No item
+Viscounts/Viscountesses
+Trainer
+Pokémon
+Viscountess
+Anne-Laure
+Reward:
+$
+2400
+Eevee
+♂
+Lv.
+20
+No item
+Viscountess
+Ayla
+Reward:
+$
+4000
+Swirlix
+♀
+Lv.
+20
+No item
+Viscountess
+Beatrice
+Reward:
+$
+2400
+Tentacool
+♀
+Lv.
+20
+No item
+Viscountess
+Danielle
+Reward:
+$
+2400
+Kecleon
+♀
+Lv.
+20
+No item
+Viscountess
+Julia
+Reward:
+$
+1280
+Skiddo
+♀
+Lv.
+20
+No item
+Viscountess
+Mathilde
+Reward:
+$
+4000
+Venipede
+♀
+Lv.
+20
+No item
+Viscountess
+Regine
+Reward:
+$
+4000
+Dwebble
+♀
+Lv.
+20
+No item
+Viscount
+Ardmore
+Reward:
+$
+2400
+Espurr
+♂
+Lv.
+20
+No item
+Viscount
+Braine
+Reward:
+$
+2400
+Skrelp
+♂
+Lv.
+20
+No item
+Viscount
+Cullinan
+Reward:
+$
+4000
+Pancham
+♀
+Lv.
+20
+No item
+Viscount
+Gourdon
+Reward:
+$
+2400
+Oddish
+♂
+Lv.
+20
+No item
+Viscount
+Herault
+Reward:
+$
+2400
+Litleo
+♀
+Lv.
+20
+No item
+Viscount
+Orloff
+Reward:
+$
+4000
+Mienfoo
+♂
+Lv.
+20
+No item
+Viscount
+Tolkowsky
+Reward:
+$
+4000
+Axew
+♂
+Lv.
+20
+No item
+Earls/Countesses
+Trainer
+Pokémon
+Countess
+Adele
+Reward:
+$
+5000
+Shelgon
+♀
+Lv.
+25
+No item
+Magcargo
+♀
+Lv.
+25
+No item
+Countess
+Anita
+Reward:
+$
+3000
+Ledian
+♀
+Lv.
+25
+No item
+Mr. Mime
+♀
+Lv.
+25
+No item
+Countess
+Edith
+Reward:
+$
+5000
+Whirlipede
+♀
+Lv.
+25
+No item
+Graveler
+♀
+Lv.
+25
+No item
+Countess
+Eliane
+Reward:
+$
+5000
+Lairon
+♀
+Lv.
+25
+No item
+Sudowoodo
+♀
+Lv.
+25
+No item
+Countess
+Ida
+Reward:
+$
+1600
+Marill
+♀
+Lv.
+25
+No item
+Loudred
+♀
+Lv.
+25
+No item
+Countess
+Mira
+Reward:
+$
+5000
+Sandslash
+♀
+Lv.
+25
+No item
+Skarmory
+♀
+Lv.
+25
+No item
+Countess
+Patricia
+Reward:
+$
+5000
+Torkoal
+♀
+Lv.
+25
+No item
+Doublade
+♀
+Lv.
+25
+No item
+Earl
+Glen
+Reward:
+$
+2000
+Dedenne
+♂
+Lv.
+25
+No item
+Staravia
+♂
+Lv.
+25
+No item
+Earl
+Gruosi
+Reward:
+$
+5000
+Weepinbell
+♂
+Lv.
+25
+No item
+Gurdurr
+♂
+Lv.
+25
+No item
+Earl
+Lesotho
+Reward:
+$
+5000
+Machoke
+♂
+Lv.
+25
+No item
+Fraxure
+♂
+Lv.
+25
+No item
+Earl
+Nassak
+Reward:
+$
+5000
+Zangoose
+♂
+Lv.
+25
+No item
+Pupitar
+♂
+Lv.
+25
+No item
+Earl
+Nizam
+Reward:
+$
+5000
+Carnivine
+♂
+Lv.
+25
+No item
+Rhydon
+♂
+Lv.
+25
+No item
+Earl
+Royan
+Reward:
+$
+3000
+Haunter
+♂
+Lv.
+25
+No item
+Vanillish
+♂
+Lv.
+25
+No item
+Earl
+Sancy
+Reward:
+$
+5000
+Dragonair
+♂
+Lv.
+25
+No item
+Krokorok
+♂
+Lv.
+25
+No item
+Marquis/Marchionesses
+Trainer
+Pokémon
+Marchioness
+Alyssa
+Reward:
+$
+4200
+Altaria
+♀
+Lv.
+35
+No item
+Sylveon
+♀
+Lv.
+35
+No item
+Marchioness
+Amandine
+Reward:
+$
+7000
+Leafeon
+♂
+Lv.
+35
+No item
+Avalugg
+♀
+Lv.
+35
+No item
+Marchioness
+Amelie
+Reward:
+$
+2240
+Wailord
+♀
+Lv.
+35
+No item
+Kangaskhan
+♀
+Lv.
+35
+No item
+Marchioness
+Fiona
+Reward:
+$
+2520
+Audino
+♀
+Lv.
+35
+No item
+Audino
+♀
+Lv.
+35
+No item
+Marchioness
+Keira
+Reward:
+$
+2520
+Audino
+♀
+Lv.
+35
+No item
+Audino
+♀
+Lv.
+35
+No item
+Marchioness
+Meriel
+Reward:
+$
+2520
+Audino
+♀
+Lv.
+35
+No item
+Audino
+♀
+Lv.
+35
+No item
+Marchioness
+Yolande
+Reward:
+$
+2520
+Audino
+♀
+Lv.
+35
+No item
+Audino
+♀
+Lv.
+35
+No item
+Marquis
+Arran
+Reward:
+$
+2800
+Accelgor
+♂
+Lv.
+35
+No item
+Aerodactyl
+♂
+Lv.
+35
+No item
+Marquis
+Caen
+Reward:
+$
+4200
+Sigilyph
+♂
+Lv.
+35
+No item
+Glaceon
+♂
+Lv.
+35
+No item
+Marquis
+Grisognono
+Reward:
+$
+10500
+Yanmega
+♂
+Lv.
+35
+No item
+Pangoro
+♂
+Lv.
+35
+No item
+Dukes/Duchesses
+Trainer
+Pokémon
+Duchess
+Elise
+Reward:
+$
+2880
+Azumarill
+♀
+Lv.
+45
+No item
+Nidoqueen
+♀
+Lv.
+45
+No item
+Exploud
+♀
+Lv.
+45
+No item
+Duchess
+Ione
+Reward:
+$
+3200
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Duchess
+Nicolette
+Reward:
+$
+3240
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Duchess
+Odele
+Reward:
+$
+9000
+Golem
+♀
+Lv.
+45
+No item
+Aggron
+♀
+Lv.
+45
+No item
+Poliwrath
+♀
+Lv.
+45
+No item
+Duchess
+Robin
+Reward:
+$
+5400
+Bellossom
+♀
+Lv.
+45
+No item
+Goodra
+♀
+Lv.
+45
+No item
+Florges
+♀
+Red Flower
+Lv.
+45
+No item
+Duchess
+Rosalie
+Reward:
+$
+3240
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Duchess
+Sabine
+Reward:
+$
+3240
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Audino
+♀
+Lv.
+45
+No item
+Duke
+Hennessy
+Reward:
+$
+12000
+Staraptor
+♂
+Lv.
+50
+No item
+Nidoking
+♂
+Lv.
+50
+No item
+Haxorus
+♂
+Lv.
+50
+No item
+Duke
+Lormont
+Reward:
+$
+5400
+Roserade
+♂
+Lv.
+45
+No item
+Magnezone
+Lv.
+45
+No item
+Alakazam
+♂
+Lv.
+45
+No item
+Duke
+Turner
+Reward:
+$
+5400
+Scolipede
+♂
+Lv.
+45
+No item
+Raichu
+♂
+Lv.
+45
+No item
+Jumpluff
+♂
+Lv.
+45
+No item
+Special Trainers
+Trainer
+Pokémon
+Marchioness
+Viola
+Reward:
+$
+6400
+Masquerain
+♀
+Lv.
+40
+No item
+Vivillon
+♀
+Meadow Pattern
+Lv.
+40
+No item
+Marquis
+Grant
+Reward:
+$
+6400
+Aurorus
+♂
+Lv.
+40
+No item
+Tyrantrum
+♂
+Lv.
+40
+No item
+Marchioness
+Korrina
+Reward:
+$
+6400
+Hawlucha
+♀
+Lv.
+40
+No item
+Machamp
+♂
+Lv.
+40
+No item
+Marquis
+Ramos
+Reward:
+$
+6400
+Jumpluff
+♂
+Lv.
+40
+No item
+Gogoat
+♂
+Lv.
+40
+No item
+Marquis
+Clemont
+Reward:
+$
+6400
+Magneton
+Lv.
+40
+No item
+Heliolisk
+♂
+Lv.
+40
+No item
+Marchioness
+Valerie
+Reward:
+$
+6400
+Mawile
+♀
+Lv.
+40
+No item
+Sylveon
+♂
+Lv.
+40
+No item
+Marchioness
+Olympia
+Reward:
+$
+6400
+Sigilyph
+♀
+Lv.
+40
+No item
+Meowstic
+♀
+Male
+Lv.
+40
+No item
+Marquis
+Wulfric
+Reward:
+$
+6400
+Cryogonal
+Lv.
+40
+No item
+Avalugg
+♂
+Lv.
+40
+No item
+After becoming Duke/Duchess and defeating the Champion
+Marchioness
+Viola
+Reward:
+$
+8000
+Masquerain
+♀
+Lv.
+50
+No item
+Vivillon
+♀
+Meadow Pattern
+Lv.
+50
+No item
+Marquis
+Grant
+Reward:
+$
+8000
+Aurorus
+♂
+Lv.
+50
+No item
+Tyrantrum
+♂
+Lv.
+50
+No item
+Marchioness
+Korrina
+Reward:
+$
+8000
+Hawlucha
+♀
+Lv.
+50
+No item
+Lucario
+♂
+Lv.
+50
+Lucarionite
+Marquis
+Ramos
+Reward:
+$
+8000
+Victreebel
+♂
+Lv.
+50
+No item
+Gogoat
+♂
+Lv.
+50
+No item
+Marquis
+Clemont
+Reward:
+$
+8000
+Magnezone
+Lv.
+50
+No item
+Heliolisk
+♂
+Lv.
+50
+No item
+Marchioness
+Valerie
+Reward:
+$
+8000
+Mawile
+♀
+Lv.
+50
+No item
+Sylveon
+♂
+Lv.
+50
+No item
+Marchioness
+Olympia
+Reward:
+$
+8000
+Slowking
+♀
+Lv.
+50
+No item
+Meowstic
+♀
+Male
+Lv.
+50
+No item
+Marquis
+Wulfric
+Reward:
+$
+8000
+Abomasnow
+♂
+Lv.
+50
+No item
+Avalugg
+♂
+Lv.
+50
+No item
+Duke
+Wikstrom
+Reward:
+$
+11000
+Scizor
+♂
+Lv.
+55
+No item
+Aegislash
+♂
+Lv.
+55
+No item
+Probopass
+♂
+Lv.
+55
+No item
+Duchess
+Malva
+Reward:
+$
+11000
+Pyroar
+♀
+Male
+Lv.
+55
+No item
+Talonflame
+♀
+Lv.
+55
+No item
+Chandelure
+♀
+Lv.
+55
+No item
+Duchess
+Drasna
+Reward:
+$
+11000
+Dragalge
+♀
+Lv.
+55
+No item
+Altaria
+♀
+Lv.
+55
+No item
+Noivern
+♀
+Lv.
+55
+No item
+Duke
+Siebold
+Reward:
+$
+11000
+Clawitzer
+♂
+Lv.
+55
+No item
+Barbaracle
+♂
+Lv.
+55
+No item
+Starmie
+Lv.
+55
+No item
+Grand Duchess
+Diantha
+Reward:
+$
+14400
+Hawlucha
+♀
+Lv.
+60
+No item
+Gourgeist
+♀
+Lv.
+60
+No item
+Goodra
+♀
+Lv.
+60
+No item
+Gardevoir
+♀
+Lv.
+60
+Gardevoirite
+Writs
+As your rank increases, you will be able to issue a variety of writs. Each one expires at midnight, and several may be used at once.
+Writ
+Effect
+Cost
+Rank first available
+Writ of Invitation
+Invites Trainers to appear more frequently
+$
+50,000
+Baron
+Silver Writ of Invitation
+Invites Trainers to appear much more frequently
+$
+100,000
+Marquis
+Gold Writ of Invitation
+Increases battle winnings by 50%
+$
+100,000
+Earl
+Writ of Challenge
+Increases Pokémon levels by 5
+$
+50,000
+Viscount
+Blue Writ of Challenge
+Decreases Pokémon levels by 10
+$
+10,000
+Duke
+Red Writ of Challenge
+Increases Pokémon levels by 10
+$
+100,000
+Duke
+Black Writ of Challenge
+Increases Pokémon levels by 20, increases battle winnings
+$
+300,000
+Grand Duke
+Prizes
+In addition to earning prize money and experience points, defeated opponents may sometimes relinquish valuable items. This is more likely to happen with higher-ranked opponents.
+Prize
+Obtained from
+Pearl
+Baron/Baroness
+Stardust
+Viscount/Viscountess
+Big Pearl
+Earl/Countess
+Star Piece
+Marquis/Marchioness
+Prize
+Obtained from
+Nugget
+Gym Leaders (initial), Duke/Duchess
+Pearl String
+Gym Leaders (rematch)
+Big Nugget
+Elite Four members, Duke Hennessy
+Comet Shard
+Grand Duchess
+Diantha
+Multi Battle!
+Serena/Calem is waiting just west of the chateau, hoping to strike up a
+Multi Battle
+. Agree to the proposal in order to join forces with her/his
+Fletchling
+and second-stage starter Pokémon. Since Tierno has only one Pokémon, try taking out his
+Corphish
+first in order to focus on Trevor's team.
+Pokémon Trainer
+and
+Pokémon Trainer
+Trevor
+Tierno
+Route 7
+X and Y
+Reward:
+$
+3000
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+14
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fairy
+Unknown
+Ability:
+Flower Veil
+Held item:
+None
+Flabébé
+♀
+Lv.
+14
+Vine Whip
+Grass
+Physical
+--
+Fairy Wind
+Fairy
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Shell Armor
+Held item:
+None
+Corphish
+♂
+Lv.
+16
+Vice Grip
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Connecting Cave
+Connecting Cave
+Connecting Cave
+is an eerie place that links
+Route 7
+to
+Route 8
+and
+Cyllage City
+. The many
+Zubat
+that make their home here have earned it the nickname, Zubat Roost. As the northern tunnel is blocked by boulders, travelers must take the southern shortcut to Route 8. This visit is a quick one, but the Scientist on the south side is happy to heal a Trainer's Pokémon at any time.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Mercy
+Reward:
+$
+768
+Ducklett
+♀
+Lv.
+12
+No item
+Pikachu
+♀
+Lv.
+12
+No item
+Litleo
+♀
+Lv.
+12
+No item
+Oddish
+♀
+Lv.
+12
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+X
+Y
+Cave
+13-15
+30%
+Whismur
+X
+Y
+Cave
+13-15
+30%
+Meditite
+X
+Y
+Cave
+13-15
+30%
+Axew
+X
+Y
+Cave
+13-15
+10%
+Horde Encounter
+Zubat
+X
+Y
+Horde Encounter
+8
+35%
+Whismur
+X
+Y
+Horde Encounter
+7
+60%
+Axew
+X
+Y
+Horde Encounter
+8
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Accessible via Cyllage City
+TM40
+(
+Aerial Ace
+)
+Northwest corner (requires
+Strength
+)
+X
+Y
+TM21
+(
+Frustration
+)
+From the Backpacker near the central boulder (requires
+Strength
+)
+X
+Y
+← Part 3
+Lumiose City (south), Route 5, Camphrier Town
+X and Y
+walkthrough
+Route 8 (upper), Ambrette Town, Route 9, Glittering Cave, Route 8 (lower), Cyllage City
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

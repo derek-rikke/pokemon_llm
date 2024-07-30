@@ -1,0 +1,1149 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_14
+Keywords: Driftveil City, Chargestone Cave, Twist Mountain, Challenger's Cave, Opelucid City
+
+Walkthrough Text:
+Contents
+1
+Cheren's Training
+2
+Driftveil City
+2.1
+Driftveil Market
+2.2
+Cold Storage
+3
+Route 6
+3.1
+Chargestone Cave
+4
+Route 7
+4.1
+Celestial Tower
+5
+Twist Mountain
+6
+Route 9
+6.1
+Challenger's Cave
+7
+Opelucid City
+Cheren's Training
+When you visit
+Route 5
+again, you'll find
+Cheren
+standing near the trailer. After thinking about what
+Alder
+taught him, he announces his plan to evaluate himself at
+Victory Road
+, and leaves. From now on, you can battle him once a day on Victory Road's seventh floor.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Victory Road
+Black and White
+Reward:
+$
+6700
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+65
+Fake Out
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+65
+Energy Ball
+Grass
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+U-turn
+Bug
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Facade
+Normal
+Physical
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+Leftovers
+Gigalith
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+Held item:
+Dragon Gem
+Haxorus
+♂
+Lv.
+65
+Outrage
+Dragon
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Surf
+Water
+Special
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Focus Sash
+Emboar
+♂
+Lv.
+67
+Flare Blitz
+Fire
+Physical
+--
+Head Smash
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Pokémon Trainer
+Cheren
+Victory Road
+Black and White
+Reward:
+$
+6700
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+65
+Fake Out
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+65
+Flamethrower
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+U-turn
+Bug
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Facade
+Normal
+Physical
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+Leftovers
+Gigalith
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+Held item:
+Dragon Gem
+Haxorus
+♂
+Lv.
+65
+Outrage
+Dragon
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Surf
+Water
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Focus Sash
+Samurott
+♂
+Lv.
+67
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+X-Scissor
+Bug
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Pokémon Trainer
+Cheren
+Victory Road
+Black and White
+Reward:
+$
+6700
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+65
+Fake Out
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+65
+Surf
+Water
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+U-turn
+Bug
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Facade
+Normal
+Physical
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+Leftovers
+Gigalith
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+Held item:
+Dragon Gem
+Haxorus
+♂
+Lv.
+65
+Outrage
+Dragon
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Surf
+Water
+Special
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Focus Sash
+Serperior
+♂
+Lv.
+67
+Coil
+Poison
+Status
+--
+Dragon Tail
+Dragon
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Leaf Storm
+Grass
+Special
+--
+Driftveil City
+Driftveil Market
+The
+Driftveil Market
+now has a new vendor, a former member of
+Team Plasma
+, who offers different types of
+incense
+. Each one sells for
+$
+9600, but many are useful in battle. Save money and make sure to buy some.
+Incenses
+Full Incense
+$
+9600
+Lax Incense
+$
+9600
+Luck Incense
+$
+9600
+Odd Incense
+$
+9600
+Pure Incense
+$
+9600
+Rock Incense
+$
+9600
+Rose Incense
+$
+9600
+Sea Incense
+$
+9600
+Wave Incense
+$
+9600
+Cold Storage
+When you enter the
+Cold Storage
+, check the refrigerated container in the back to find Zinzolin of the
+Seven Sages
+. Zinzolin talks about how working with
+Ghetsis
+made him feel alive, and gives you
+TM01
+(
+Hone Claws
+). After that, he is arrested by
+Looker
+.
+Route 6
+Chargestone Cave
+The next of the
+Seven Sages
+is hiding out in
+Chargestone Cave
+. Make your way to the bottom floor and head south to find Bronius. He attempts to evade capture by calling two Grunts to attack you. Their Pokémon are high-leveled, but defeat them and Bronius will give you
+TM69
+(
+Rock Polish
+).
+Looker
+then arrives to take the trio into custody.
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+2520
+Watchog
+♂
+Lv.
+63
+No item
+Scrafty
+♂
+Lv.
+63
+No item
+Team Plasma Grunt
+Reward:
+$
+2480
+Liepard
+♀
+Lv.
+62
+No item
+Garbodor
+♀
+Lv.
+62
+No item
+Liepard
+♀
+Lv.
+62
+No item
+Route 7
+Celestial Tower
+Climb to the roof of the
+Celestial Tower
+to find
+Alder
+. He tells you about his old friend, who is resting inside the tower, and the reason he left on his journey. He says that he will be waiting for you in the
+Pokémon League
+, and flies off. You can now challenge the Elite Four again, and fight the Champion without interruption.
+Twist Mountain
+Talk to the
+Worker
+on the lowest level of
+Twist Mountain
+to get a
+Fossil
+once every day. The Fossil you receive is random, so you may end up with multiples of each. Visit him every day to get all seven Fossils. The ancient Pokémon can be revived at the Nacrene City Museum.
+→
+→
+→
+Helix Fossil
+→
+Omanyte
+Dome Fossil
+→
+Kabuto
+Old Amber
+→
+Aerodactyl
+→
+→
+Root Fossil
+→
+Lileep
+Claw Fossil
+→
+Anorith
+→
+→
+Skull Fossil
+→
+Cranidos
+Armor Fossil
+→
+Shieldon
+Route 9
+Across the road from
+Shopping Mall Nine
+is
+Challenger's Cave
+. The Black Belt that once blocked the entrance has moved aside, allowing you to enter. To be well-prepared, bring along Pokémon that know
+Flash
+and
+Surf
+.
+Challenger's Cave
+Trainers
+Trainer
+Pokémon
+1F
+Backpacker
+Toru
+Reward:
+$
+1560
+Golbat
+♂
+Lv.
+65
+No item
+B1F
+Ace Trainer
+Terry
+Reward:
+$
+3780
+Dratini
+♂
+Lv.
+63
+No item
+Scyther
+♂
+Lv.
+63
+No item
+Sudowoodo
+♂
+Lv.
+63
+No item
+Manectric
+♂
+Lv.
+63
+No item
+Ace Trainer
+Beverly
+Reward:
+$
+3840
+Furret
+♀
+Lv.
+64
+No item
+Grumpig
+♀
+Lv.
+64
+No item
+Gabite
+♀
+Lv.
+64
+No item
+B2F
+Veteran
+Shaun
+Reward:
+$
+5040
+Gyarados
+♂
+Lv.
+62
+No item
+Excadrill
+♂
+Lv.
+62
+No item
+Crobat
+♂
+Lv.
+62
+No item
+Druddigon
+♂
+Lv.
+62
+No item
+Gigalith
+♂
+Lv.
+62
+No item
+Snorlax
+♂
+Lv.
+63
+No item
+Veteran
+Julia
+Reward:
+$
+5200
+Wormadam
+♀
+Trash Cloak
+Lv.
+64
+No item
+Cloyster
+♀
+Lv.
+64
+No item
+Ninetales
+♀
+Lv.
+64
+No item
+Leavanny
+♀
+Lv.
+65
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Graveler
+B
+W
+Cave
+47-49
+20%
+Lickitung
+B
+W
+Cave
+49-50
+20%
+Boldore
+B
+W
+Cave
+48
+20%
+Woobat
+B
+W
+Cave
+47
+20%
+Sableye
+B
+W
+Cave
+49
+10%
+Mawile
+B
+W
+Cave
+49
+10%
+B1F, B2F
+Graveler
+B
+W
+Cave
+47-49
+20%
+Boldore
+B
+W
+Cave
+48
+20%
+Woobat
+B
+W
+Cave
+47
+20%
+Lickitung
+B
+W
+Cave
+49-50
+15%
+Sableye
+B
+W
+Cave
+49
+10%
+Mawile
+B
+W
+Cave
+49
+10%
+Riolu
+B
+W
+Cave
+49-50
+5%
+Dust clouds
+Excadrill
+B
+W
+Dust cloud
+47-50
+100%
+Surfing
+Basculin
+B
+W
+Surfing
+5-55
+100%
+Basculin
+B
+W
+Surfing
+5-55
+100%
+Rippling Water
+Basculin
+B
+W
+Rippling water
+5-55
+100%
+Basculin
+B
+W
+Rippling water
+5-55
+100%
+Fishing
+Poliwag
+B
+W
+Fishing
+35-55
+60%
+Poliwhirl
+B
+W
+Fishing
+35-55
+10%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling water
+Poliwhirl
+B
+W
+Rippling water
+35-55
+65%
+Poliwrath
+B
+W
+Rippling water
+35-60
+5%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+B1F
+Ether
+On a rock near Ace Trainer Terry (hidden)
+B
+W
+PP Up
+In the far northwest corner
+B
+W
+Nugget
+South end of the bridge
+B
+W
+Max Potion
+On the wall, north of the stairs to B2F (hidden)
+B
+W
+B2F
+Full Restore
+On a rock near the northeast corner (hidden)
+B
+W
+Max Ether
+On a rock near the southeast corner (hidden)
+B
+W
+Timer Ball
+Near the southeast corner, east of the central bridge
+B
+W
+Star Piece
+On a rock in the southwest corner (hidden)
+B
+W
+Protein
+In the pit to the west of Veteran Julia
+B
+W
+Rare Candy
+On a rock west of Veteran Julia (hidden)
+B
+W
+TM71
+(
+Stone Edge
+)
+South of the stairs, beyond the ledge
+B
+W
+Heart Scale
+On the south end of the island (hidden)
+B
+W
+Black Belt
+Northeast of the central bridge
+B
+W
+Oval Stone
+On the northern part of the island
+B
+W
+Layout
+1F
+B1F
+B2F
+}
+Fight Backpacker Toru and climb down the stairs to B1F.
+Check the rock near Ace Trainer Terry for a hidden
+Ether
+, then go east. Head to the far northwest corner to find a
+PP Up
+, then walk across the bridge near Ace Trainer Beverly to get a
+Nugget
+. Climb down and go west to reach a hidden
+Max Potion
+and the stairs to B2F.
+A one-way ledge forces you to go north.
+Surf
+to the east and land on the south shore to reach a hidden
+Full Restore
+. Loop around and follow the group of bridges to the south, past Veteran Shaun. Check the rock in the far southeast for a
+Max Ether
+, then pick up the
+Timer Ball
+from the lower level. Head west across the large central bridge and inspect the rock in the far southwest to find a
+Star Piece
+. Go north to find a
+Protein
+, a hidden
+Rare Candy
+, and
+TM71
+(
+Stone Edge
+), then use
+Surf
+near Veteran Julia. Search the south end of the island for a
+Heart Scale
+, and sail to the east to find a
+Black Belt
+. Surf north to get an
+Oval Stone
+on the center island, then you can use an
+Escape Rope
+to leave the cave.
+Opelucid City
+Visit
+Drayden
+'s house to have either he
+W
+or
+Iris
+B
+teach your Pokémon
+Draco Meteor
+, the strongest
+Dragon-type
+attack. Teach it to a Dragon-type with
+high friendship
+.
+Now it's time to face the Elite Four again. The four and the Champion await your challenge.
+← Part 13
+Nuvema Town, The Dreamyard, The Royal Unova, Relic Castle, Nimbasa City
+Black and White
+walkthrough
+The Pokémon League: Round 2
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

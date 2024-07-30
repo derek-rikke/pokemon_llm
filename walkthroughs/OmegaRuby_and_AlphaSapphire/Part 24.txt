@@ -1,0 +1,330 @@
+Part: Part 24
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_24
+Keywords: Littleroot Town, Route 101, S.S. Tidal
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Littleroot Town
+1.1
+Home
+2
+Route 101
+3
+Slateport City/Lilycove City
+4
+Aarune rematch
+5
+S.S. Tidal
+5.1
+1F
+5.2
+Deck
+5.3
+Storage
+Littleroot Town
+Home
+When the Delta Episode concludes, you awaken in your room the day after the Litleonid shower. Head downstairs and Norman hands you a letter from
+Mr. Briney
+that contains an
+S.S. Ticket
+. With this, you can ride
+Captain Stern
+'s new ferry! Norman suggests taking the ferry from either
+Slateport
+or
+Lilycove
+on the way to the
+Battle Resort
+, a busy island in the southeast part of Hoenn.
+Head back home and talk to Mom. She hands you a Mega Stone that she discovered in the yard this morning, a
+Latiasite
+OR
+/
+Latiosite
+AS
+. Last night's Litleonid shower has left new Mega Stones all over Hoenn. Be sure to watch for new sparkling spots that betray their presence!
+Mega Stone
+Location
+Audinite
+Battle Resort
+Blastoisinite
+S.S. Tidal
+Cameruptite
+Battle Resort
+AS
+Galladite
+Fallarbor Town
+Mega Stone
+Location
+Gengarite
+Battle Resort
+Metagrossite
+Pokémon League
+Salamencite
+Meteor Falls
+Sharpedonite
+Battle Resort
+OR
+Route 101
+Step outside to again hear the shrill screams of Professor Birch. This time, it's a
+Machoke
+chasing after him. Grab a Poké Ball from the professor to help him out, and once again he lets you keep the Pokémon you chose. This one's from the distant
+Unova
+region!
+Snivy
+Tepig
+Oshawott
+Grass
+Fire
+Water
+Servine
+Pignite
+Dewott
+Grass
+Fire
+Fighting
+Water
+Serperior
+Emboar
+Samurott
+Grass
+Fire
+Fighting
+Water
+Slateport City/Lilycove City
+That's all the fun there is to be had around Littleroot, and besides, that
+S.S. Ticket
+is burning a hole in your Bag! Fly or Soar to either
+Slateport
+or
+Lilycove
+, then head to the harbor building. Present your ticket to the woman near the ferry, and she'll ask where you'd like to go. The
+Battle Resort
+beckons, but select either Lilycove or Slateport first and you'll be able to explore the
+S.S. Tidal
+during your voyage.
+Aarune rematch
+After you become the champion, you can rematch with Aarune in Fortree City's Secret Base Guild. His
+Flygon
+is now level 53, and it has stronger moves.
+Secret Base Expert
+Aarune
+Fortree City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+3,180
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Normal Gem
+Flygon
+♂
+Lv.
+53
+Secret Power
+Normal
+Physical
+--
+Fly
+Flying
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Dragon Rush
+Dragon
+Physical
+--
+S.S. Tidal
+Outside the S.S. Tidal
+Captain Stern's mighty vessel ferries people between Slateport City, Lilycove City, and the Battle Resort.
+Trainers
+Trainer
+Pokémon
+Cabins
+Gentleman
+Tucker
+Reward:
+$
+9,800
+Rapidash
+♂
+Lv.
+49
+No item
+Zebstrika
+♂
+Lv.
+49
+No item
+Rich Boy
+Garret
+Reward:
+$
+6,120
+Furfrou
+♂
+Star Trim
+Lv.
+51
+No item
+Young Couple
+Lea & Jed
+Reward:
+$
+3,264
+Miltank
+♀
+Lv.
+51
+No item
+Tauros
+♂
+Lv.
+51
+No item
+Poké Fan
+Colton
+Reward:
+$
+3,072
+Delcatty
+♀
+Lv.
+48
+Oran Berry
+Delcatty
+♂
+Lv.
+48
+Oran Berry
+Delcatty
+♀
+Lv.
+48
+Oran Berry
+Lady
+Anette
+Reward:
+$
+6,120
+Persian
+♀
+Lv.
+51
+No item
+Gentleman
+Thomas
+Reward:
+$
+10,200
+Braviary
+♂
+Lv.
+51
+No item
+Basement
+Sailor
+Phillip
+Reward:
+$
+2,000
+Qwilfish
+♂
+Lv.
+48
+No item
+Machamp
+♂
+Lv.
+50
+No item
+Sailor
+Leonard
+Reward:
+$
+1,960
+Floatzel
+♂
+Lv.
+49
+No item
+Pelipper
+♂
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Blastoisinite
+Deck, in the upper-right corner
+OR
+AS
+TM63
+(
+Embargo
+)
+Cabin 8, from the Bug Maniac inside
+OR
+AS
+Sharp Beak
+Basement, from a Backpacker
+OR
+AS
+Leftovers
+Basement, behind two red crates in the upper-left corner
+OR
+AS
+1F
+As you climb aboard, you'll find that you have arrived just in time to see a happy reunion between Mr. Briney and Drake of the Elite Four. The two sailors seem to know each other well, and take a moment to catch up before Drake steps out to enjoy the sea breeze.
+There are eight cabins on the main floor, four on either side of the hallway. Three cabins on each side hold Trainers who are anxious to battle. On the north side, the second cabin from the left is your own, with a bed where you can rest your Pokémon. On the south side, the farthest cabin to the right holds a Bug Maniac; he's too startled to battle you, but gives you
+TM63
+(
+Embargo
+) instead.
+Deck
+After exploring the cabins, go left and head outside to soak up some sun on the ship's deck. Check the sparkling spot up north to find a new Mega Stone, the
+Blastoisinite
+. Drake stands on the bow, taking in the sight of the ocean's rolling majesty.
+Storage
+Head back inside toward the entrance and head downstairs to visit the ship's spacious storage. There's plenty of room for Pokémon battles to play out, and the two hardworking Sailors here will happily oblige. Speak to the Backpacker to the south, and reassure him that you can understand his rough speech, to receive a
+Sharp Beak
+. Be sure to search behind the crates in the northwest corner to discover some
+Leftovers
+, as well.
+← Part 23
+Delta Episode
+Omega Ruby and Alpha Sapphire
+walkthrough
+Battle Resort, Pokémon League: Round 2, Littleroot Town, Route 101
+Part 25 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

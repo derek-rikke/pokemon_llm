@@ -1,0 +1,987 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_15
+Keywords: The Pokémon League: Champion
+
+Walkthrough Text:
+Contents
+1
+The Pokémon League
+1.1
+Shauntal
+1.2
+Grimsley
+1.3
+Caitlin
+1.4
+Marshal
+1.5
+The Champion, Alder
+The Pokémon League
+Now that
+Team Plasma
+has been dealt with, you can now challenge the Elite Four and the Champion without interruption.
+Shauntal
+Shauntal
+'s team now includes
+Froslass
+and
+Drifblim
+. Her entire team is vulnerable to
+Ghost
+- and
+Dark-type
+attacks, but take care when using your own Pokémon of these types, as she also targets these weaknesses.
+Water
+-,
+Electric
+-, and
+Rock-type
+moves are also effective. Watch out for moves like
+Shadow Ball
+and
+Payback
+.
+Elite Four
+Shauntal
+Pokémon League
+Black and White
+Reward:
+$
+8760
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+None
+Cofagrigus
+♀
+Lv.
+71
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Types:
+Water
+Ghost
+Ability:
+Cursed Body
+Held item:
+None
+Jellicent
+♀
+Lv.
+71
+Sludge Wave
+Poison
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+None
+Golurk
+Lv.
+71
+Hammer Arm
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Punch
+Ghost
+Physical
+--
+Curse
+Ghost
+Status
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+None
+Froslass
+♀
+Lv.
+71
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+71
+Thunder
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+None
+Chandelure
+♀
+Lv.
+73
+Fire Blast
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Payback
+Dark
+Physical
+--
+Grimsley
+Grimsley
+'s lineup now includes
+Sharpedo
+and
+Drapion
+. Most of his Pokémon are weak against
+Fighting-type
+attacks. Use a powerful
+Ground-type
+move, like
+Earthquake
+, to take out his Drapion. Look out for moves like
+Aerial Ace
+!
+Elite Four
+Grimsley
+Pokémon League
+Black and White
+Reward:
+$
+8760
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+71
+Waterfall
+Water
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+None
+Scrafty
+♀
+Lv.
+71
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Head Smash
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krookodile
+♀
+Lv.
+71
+Outrage
+Dragon
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Foul Play
+Dark
+Physical
+--
+Smack Down
+Rock
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♀
+Lv.
+71
+Sucker Punch
+Dark
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Attract
+Normal
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Battle Armor
+Held item:
+None
+Drapion
+♀
+Lv.
+71
+Poison Fang
+Poison
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♀
+Lv.
+73
+X-Scissor
+Bug
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+Caitlin
+Caitlin
+has added
+Metagross
+and
+Bronzong
+to her party. Both of these newcomers happen to be vulnerable to
+Fire-type
+moves, like
+Flamethrower
+. Her other Pokémon can be defeated by using
+Bug
+-,
+Ghost
+-, and
+Dark-type
+attacks. Watch out for Metagross'
+Earthquake
+and
+Gothitelle
+'s
+Flatter
+, as it will leave your Pokémon confused.
+Elite Four
+Caitlin
+Pokémon League
+Black and White
+Reward:
+$
+8760
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Musharna
+♀
+Lv.
+71
+Reflect
+Psychic
+Status
+--
+Hypnosis
+Psychic
+Status
+--
+Dream Eater
+Psychic
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Psychic
+Flying
+Ability:
+Wonder Skin
+Held item:
+None
+Sigilyph
+♀
+Lv.
+71
+Flash Cannon
+Steel
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Air Slash
+Flying
+Special
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+None
+Reuniclus
+♀
+Lv.
+71
+Energy Ball
+Grass
+Special
+--
+Thunder
+Electric
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+None
+Gothitelle
+♀
+Lv.
+71
+Flatter
+Dark
+Status
+--
+Payback
+Dark
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzong
+Lv.
+71
+Payback
+Dark
+Physical
+--
+Charge Beam
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+None
+Metagross
+Lv.
+73
+Bullet Punch
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Marshal
+Marshal
+'s new additions include
+Breloom
+and
+Toxicroak
+. All of his Pokémon are vulnerable to
+Psychic-type
+attacks, especially Toxicroak, who takes four times the normal damage.
+Flying-type
+moves are also very effective. Look out for
+Toxic
+,
+Close Combat
+, and
+Hi Jump Kick
+!
+Elite Four
+Marshal
+Pokémon League
+Black and White
+Reward:
+$
+8760
+Types:
+Grass
+Fighting
+Ability:
+Effect Spore
+Held item:
+None
+Breloom
+♂
+Lv.
+71
+Spore
+Grass
+Status
+--
+Sky Uppercut
+Fighting
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Throh
+♂
+Lv.
+71
+Earthquake
+Ground
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Sawk
+♂
+Lv.
+71
+Close Combat
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienshao
+♂
+Lv.
+71
+U-turn
+Bug
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Hi Jump Kick
+Fighting
+Physical
+--
+Types:
+Poison
+Fighting
+Ability:
+Anticipation
+Held item:
+None
+Toxicroak
+♂
+Lv.
+71
+Earthquake
+Ground
+Physical
+--
+Toxic
+Poison
+Status
+--
+Venoshock
+Poison
+Special
+--
+Low Sweep
+Fighting
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Conkeldurr
+♂
+Lv.
+73
+Hammer Arm
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Payback
+Dark
+Physical
+--
+The Champion, Alder
+Alder
+Upon reaching the Champion's temple,
+Alder
+thanks you for defeating
+N
+and quickly accepts your challenge. His Pokémon have a variety of types, though some of them share weaknesses. His
+Accelgor
+,
+Escavalier
+, and
+Vanilluxe
+are all vulnerable to
+Fire-type
+attacks. Accelgor and
+Volcarona
+are weak against
+Flying-type
+moves, while Vanilluxe and
+Bouffalant
+both take double-damage from
+Fighting-type
+moves. They all attack with powerful moves, so taking too much time is dangerous. Strike their weak points to defeat them quickly.
+Champion
+Alder
+Pokémon League
+Black and White
+Reward:
+$
+15400
+Type:
+Bug
+Unknown
+Ability:
+Hydration
+Held item:
+None
+Accelgor
+♂
+Lv.
+75
+Bug Buzz
+Bug
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Me First
+Normal
+Status
+--
+Energy Ball
+Grass
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Bouffalant
+♂
+Lv.
+75
+Head Charge
+Normal
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rough Skin
+Held item:
+None
+Druddigon
+♂
+Lv.
+75
+Night Slash
+Dark
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Vanilluxe
+♂
+Lv.
+75
+Blizzard
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Flash Cannon
+Steel
+Special
+--
+Acid Armor
+Poison
+Status
+--
+Types:
+Bug
+Steel
+Ability:
+Swarm
+Held item:
+None
+Escavalier
+♂
+Lv.
+75
+X-Scissor
+Bug
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Bug
+Fire
+Ability:
+Flame Body
+Held item:
+None
+Volcarona
+♂
+Lv.
+77
+Overheat
+Fire
+Special
+--
+Bug Buzz
+Bug
+Special
+--
+Quiver Dance
+Bug
+Status
+--
+Hyper Beam
+Normal
+Special
+--
+When you defeat Alder, the two of you take the warp behind him to reach the
+Hall of Fame
+. He activates the machine here, and you and your Pokémon are recorded for the ages. The credits roll a second time, and you wind up back home in
+Nuvema Town
+again.
+Fly
+to
+Opelucid City
+and go east to reach
+Route 11
+.
+← Part 14
+Driftveil City, Chargestone Cave, Twist Mountain, Challenger's Cave, Opelucid City
+Black and White
+walkthrough
+Route 11, Village Bridge, Route 12, Lacunosa Town, Route 13, Giant Chasm
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,194 @@
+Tool Use with Groq
+Groq API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations. With tool use, Groq API model endpoints deliver structured JSON output that can be used to directly invoke functions from desired codebases.
+
+Supported Models
+Groq Finetuned Models
+
+
+These models have been finetuned by Groq specifically for tool use, and are state of the art. They are currently launched in public preview. Check out our launch post for more information. These are the modes we recommend using for tool use.
+
+llama3-groq-70b-8192-tool-use-preview
+llama3-groq-8b-8192-tool-use-preview
+
+Other Supported Models
+
+
+The following models powered by Groq all support tool use:
+
+llama-3.1-405b-reasoning
+llama-3.1-70b-versatile
+llama-3.1-8b-instant
+llama3-70b-8192
+llama3-8b-8192
+mixtral-8x7b-32768
+gemma-7b-it
+gemma2-9b-it
+
+Parallel tool calling is enabled for all four Llama3 models. Check out the Parallel Tool use notebook in our Cookbook for a demonstration.
+
+Use Cases
+Convert natural language into API calls: Interpreting user queries in natural language, such as "What's the weather in Palo Alto today?", and translating them into specific API requests to fetch the requested information.
+Call external API: Automating the process of periodically gathering stock prices by calling an API, comparing these prices with predefined thresholds and automatically sending alerts when these thresholds are met.
+Resume parsing for recruitment: Analyzing resumes in natural language to extract structured data such as candidate name, skillsets, work history, and education, that can be used to populate a database of candidates matching certain criteria.
+Example
+Python
+JavaScript
+Copy
+pip install groq
+
+Copy
+from groq import Groq
+import json
+
+client = Groq()
+MODEL = 'llama3-groq-70b-8192-tool-use-preview'
+
+def calculate(expression):
+    """Evaluate a mathematical expression"""
+    try:
+        result = eval(expression)
+        return json.dumps({"result": result})
+    except:
+        return json.dumps({"error": "Invalid expression"})
+
+def run_conversation(user_prompt):
+    messages=[
+        {
+            "role": "system",
+            "content": "You are a calculator assistant. Use the calculate function to perform mathematical operations and provide the results."
+        },
+        {
+            "role": "user",
+            "content": user_prompt,
+        }
+    ]
+    tools = [
+        {
+            "type": "function",
+            "function": {
+                "name": "calculate",
+                "description": "Evaluate a mathematical expression",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "expression": {
+                            "type": "string",
+                            "description": "The mathematical expression to evaluate",
+                        }
+                    },
+                    "required": ["expression"],
+                },
+            },
+        }
+    ]
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=messages,
+        tools=tools,
+        tool_choice="auto",
+        max_tokens=4096
+    )
+
+    response_message = response.choices[0].message
+    tool_calls = response_message.tool_calls
+    if tool_calls:
+        available_functions = {
+            "calculate": calculate,
+        }
+        messages.append(response_message)
+        for tool_call in tool_calls:
+            function_name = tool_call.function.name
+            function_to_call = available_functions[function_name]
+            function_args = json.loads(tool_call.function.arguments)
+            function_response = function_to_call(
+                expression=function_args.get("expression")
+            )
+            messages.append(
+                {
+                    "tool_call_id": tool_call.id,
+                    "role": "tool",
+                    "name": function_name,
+                    "content": function_response,
+                }
+            )
+        second_response = client.chat.completions.create(
+            model=MODEL,
+            messages=messages
+        )
+        return second_response.choices[0].message.content
+
+user_prompt = "What is 25 * 4 + 10?"
+print(run_conversation(user_prompt))
+How Tool Use Works
+Provide tools and a user prompt in your API request.
+The model decides whether to use a tool and constructs a properly formatted tool use request.
+You extract tool input, execute the tool code, and return results.
+The model uses the tool result to formulate a response to the original prompt.
+Sequence of Steps
+Initialize the API client: Set up the Groq Python client with your API key and specify the model to be used for generating conversational responses.
+Define the function and conversation parameters: Create a user query and define a function (get_current_score) that can be called by the model, detailing its purpose, input parameters, and expected output format.
+Process the model's request: Submit the initial conversation to the model, and if the model requests to call the defined function, extract the necessary parameters from the model's request and execute the function to get the response.
+Incorporate function response into conversation: Append the function's output to the conversation and a structured message and resubmit to the model, allowing it to generate a response that includes or reacts to the information provided by the function call.
+Tools Specifications
+tools: an array with each element representing a tool
+type: a string indicating the category of the tool
+function: an object that includes:
+description - a string that describes the function's purpose, use this to guide the model on when and how the function should be used
+name: a string serving as the function's identifier
+parameters: a JSON Schema object that defines the parameters the function accepts
+Tool Choice
+The tool_choice parameter controls whether the model can use tools and which tools it may call. This parameter enhances the flexibility of model interaction based on specific use-case requirements.
+
+tool_choice needs to either be of type string or of type object.
+
+Valid string values:
+
+none: The model does not invoke any functions and will only generate text responses. This is the default setting when no tools are provided.
+auto: Allows the model to choose between generating a text response or calling a function. This is the default setting when functions are available.
+required: Forces the model to call a function.
+Valid object values:
+
+To explicitly require the model to call a particular function, the parameter should be structured as an object specifying the function name. For example, to call a function named get_financial_data, the parameter tool_choice should be set to {"type": "function", "function": {"name": "get_financial_data"}}.
+Only the function value is supported for the type property.
+The function property should contain an object with only the name property set to the string value of the name of the function you'd like the model to use.
+This configuration constrains the model to use only the specified function during the completion request.
+Tool Call Structure
+When a model decides to use a tool, it returns a response with a tool_call object containing:
+
+id: A unique identifier for this tool call
+name: The name of the tool being used
+parameters: An object containing the input being passed to the tool
+Example tool call structure:
+
+CopyCopy code
+{
+  "tool_call": {
+    "id": "call_abc123",
+    "name": "get_weather",
+    "parameters": {
+      "location": "San Francisco, CA",
+      "unit": "celsius"
+    }
+  }
+}
+Handling Tool Results
+After executing the tool, return the result in a new message with a tool_result object:
+
+CopyCopy code
+{
+  "role": "tool",
+  "content": {
+    "tool_call_id": "call_abc123",
+    "result": "15 degrees Celsius, partly cloudy"
+  }
+}
+Streaming
+Streaming is supported for tool use by adding stream=true to your chat completion request.
+
+Known limitations
+Parallel tool use is disabled because of limitations of the Mixtral model. The endpoint will always return at most a single tool_call at a time.
+Best Practices
+Provide detailed tool descriptions for optimal performance
+Use the llama3-groq-70b-8192-tool-use-preview model for complex tools and ambiguous queries
+Handle tool execution errors by returning error messages with "is_error": true
+For more detailed information and advanced usage, please refer to our full API documentatio

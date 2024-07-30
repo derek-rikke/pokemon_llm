@@ -1,0 +1,80 @@
+Game: Yellow
+Part: 16
+Keywords: Indigo Plateau
+
+### Indigo Plateau Walkthrough
+
+**Overview:**  
+Indigo Plateau is the Pokémon League's capital in Kanto, where you face the Elite Four and the Champion after defeating all eight Gym Leaders. Prepare with strong Pokémon, Potions, and Revives.
+
+**Poké Mart Items:**  
+- Ultra Ball: $1200  
+- Great Ball: $600  
+- Full Restore: $3000  
+- Max Potion: $2500  
+- Full Heal: $600  
+- Revive: $1500  
+- Max Repel: $700  
+
+---
+
+#### Elite Four Battles
+
+1. **Lorelei (Ice-type)**  
+   - **Strategy:** Use Electric-type moves against her Water/Ice Pokémon.  
+   - **Key Pokémon:**  
+     - Dewgong (Lv. 54)
+     - Cloyster (Lv. 53)
+     - Slowbro (Lv. 54)
+     - Jynx (Lv. 56)
+     - Lapras (Lv. 56)  
+   - **Reward:** $5544  
+
+2. **Bruno (Fighting-type)**  
+   - **Strategy:** Use Flying and Psychic-type moves. Grass and Water moves are effective against his Onix.  
+   - **Key Pokémon:**  
+     - Onix (Lv. 53, 56)
+     - Hitmonchan (Lv. 55)
+     - Hitmonlee (Lv. 55)
+     - Machamp (Lv. 58)  
+   - **Reward:** $5742  
+
+3. **Agatha (Ghost-type)**  
+   - **Strategy:** Use Ground and Psychic-type moves. Avoid Normal and Fighting-type moves.  
+   - **Key Pokémon:**  
+     - Gengar (Lv. 56, 60)
+     - Golbat (Lv. 56)
+     - Haunter (Lv. 55)
+     - Arbok (Lv. 58)  
+   - **Reward:** $5940  
+
+4. **Lance (Dragon-type)**  
+   - **Strategy:** Use Ice and Electric-type moves.  
+   - **Key Pokémon:**  
+     - Gyarados (Lv. 58)
+     - Dragonair (Lv. 56, 56)
+     - Aerodactyl (Lv. 60)
+     - Dragonite (Lv. 62)  
+   - **Reward:** $6138  
+
+---
+
+#### Champion Battle: Blue
+
+- **First Half:**  
+  - Sandslash (Lv. 61) – Use Water moves  
+  - Alakazam (Lv. 59) – Use physical moves  
+  - Exeggutor (Lv. 61) – Use Fire or Ice moves  
+
+- **Second Half (depends on Eevee's evolution):**  
+  - **Vaporeon:** Use Electric  
+  - **Jolteon:** Use Ground  
+  - **Flareon:** Use Water  
+
+- **Reward:** $6435  
+
+---
+
+#### Hall of Fame
+
+After defeating Blue, you enter the Hall of Fame where your team is recorded. The game saves, and credits roll. You can then return to Pallet Town and Fly to Cerulean City to continue your adventure.

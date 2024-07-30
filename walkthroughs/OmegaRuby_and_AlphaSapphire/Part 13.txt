@@ -1,0 +1,860 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_13
+Keywords: Slateport Harbor, Lilycove City
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Slateport City
+1.1
+Slateport Harbor
+2
+Lilycove City
+2.1
+Pokéblock Master's House
+2.2
+Cove Lily Motel
+2.3
+Contest Spectacular Trainer Fan Club
+2.4
+Rest and Reminisce
+2.5
+Rival Battle 4
+2.5.1
+Player chose Treecko
+2.5.2
+Player chose Torchic
+2.5.3
+Player chose Mudkip
+2.6
+Move Deleter's House
+2.7
+Lilycove Department Store
+2.7.1
+1F: Service Counter, Lottery Corner
+2.7.2
+2F: Trainers' Zone
+2.7.3
+3F: Battle Collection
+2.7.4
+4F: TM Corner
+2.7.5
+5F: Decoration Floor
+2.7.6
+Rooftop Plaza
+2.8
+Lilycove Museum
+2.9
+A Berry A Day
+Slateport City
+When you arrive in
+Slateport
+, head straight for the northeast part of town. Outside Slateport Harbor, you find
+Captain Stern
+wrapping up a TV interview in front of a small crowd. Afterwards, you catch up with him for a little chat where he informs you of his newest discovery. He's found an underwater cavern on
+Route 128
+, and believes it to be the den of a super-ancient Pokémon long though to have been extinct. Just then, you hear a voice booming out from a megaphone. It's
+Maxie
+OR
+/
+Archie
+AS
+, who mocks the captain and thanks him for the
+submarine
+.
+Slateport Harbor
+After rushing inside the building, you find
+Maxie
+OR
+/
+Archie
+AS
+standing near the sub, ready to depart. He accepts that you won't simply leave him to his plans, and urges you to visit their hideout in
+Lilycove City
+. But he's come too far to be stopped now, and his faithful Admin,
+Tabitha
+OR
+/
+Shelly
+AS
+, orders a pair of Grunts to keep you busy while the other two escape in the sub.
+Trainers
+Trainer
+Pokémon
+Team Magma Grunt
+OR
+Reward:
+$
+1,440
+Mightyena
+♂
+Lv.
+36
+No item
+Team Magma Grunt
+OR
+Reward:
+$
+1,360
+Numel
+♀
+Lv.
+34
+No item
+Golbat
+♀
+Lv.
+34
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+1,440
+Mightyena
+♂
+Lv.
+36
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+1,360
+Carvanha
+♀
+Lv.
+34
+No item
+Golbat
+♀
+Lv.
+34
+No item
+Once they run off, Stern pleads for your help in stopping the group. He then offers you a ferry ride to
+Lilycove City
+.
+Lilycove City
+Lilycove City
+A port city,
+Lilycove
+mirrors
+Slateport
+with its impressive size, its scenic lighthouse, and its spacious harbor. The main attraction is the
+Lilycove Department Store
+, while the
+Lilycove Museum
+and
+Cove Lily Motel
+are also located here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Graveler
+OR
+AS
+Rock Smash
+28-31
+100%
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Gift Pokémon
+Pikachu
+Pikachu Rock Star
+OR
+AS
+Gift
+20
+One
+Pikachu
+Pikachu Pop Star
+OR
+AS
+Gift
+20
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Altarianite
+From a Collector outside the Fan Club building, after showing him an
+Altaria
+OR
+AS
+Max Repel
+Northwest corner of the lighthouse
+OR
+AS
+TM44
+(
+Rest
+)
+From a man in the easternmost house
+OR
+AS
+TM88
+(
+Sleep Talk
+)
+From a man in the easternmost house, after receiving TM44 from him
+OR
+AS
+Poké Flute
+From a Black Belt in the easternmost house
+OR
+AS
+Heart Scale
+On a rock, on the southwest part of the beach (hidden)
+OR
+AS
+Poké Ball
+On a rock, in the shallow water (hidden)
+OR
+AS
+PP Up
+Just outside the Team Magma
+OR
+/Aqua
+AS
+Hideout (hidden)
+OR
+AS
+Other Items
+Big Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Hard Stone
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Normal Gem
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Soft Sand
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Star Piece
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Pokéblock Master's House
+The Pokéblock Master's house stands to the north of the harbor. Talk to her and her family to learn tips on crafting potent
+Pokéblocks
+.
+Cove Lily Motel
+The villainous team's hideout on the edge of town has kept most tourists away, bringing the
+Cove Lily Motel
+'s business to a halt. There's little of interest right now aside from a
+vending machine
+.
+Contest Spectacular Trainer Fan Club
+A man outside the Fan Club quizzes you about
+Lisia
+'s Pokémon, Ali, and asks to see a Pokémon of the same species. Show him an
+Altaria
+to pass his test and receive an
+Altarianite
+as a reward.
+Rest and Reminisce
+The
+Memory Girl
+can be found standing outside the Pokémon Center. Show her any of your Pokémon to learn some of its most treasured memories of your journey together.
+Rival Battle 4
+When you approach the north stairway,
+May
+/
+Brendan
+catches up to you. She/He marvels at the nearby department store before challenging you to a battle.
+Player chose
+Treecko
+Pokémon Trainer
+Brendan
+Lilycove City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,560
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+37
+Double Team
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Quick Guard
+Fighting
+Status
+--
+Agility
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailord
+♂
+Lv.
+37
+Rest
+Psychic
+Status
+--
+Brine
+Water
+Special
+--
+Water Spout
+Water
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Types:
+Grass
+Fighting
+Ability:
+Effect Spore
+Held item:
+None
+Breloom
+♂
+Lv.
+37
+Counter
+Fighting
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Mind Reader
+Normal
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Blaziken
+♂
+Lv.
+39
+Quick Attack
+Normal
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Blaze Kick
+Fire
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Player chose
+Torchic
+Pokémon Trainer
+Brendan
+Lilycove City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,560
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+37
+Double Team
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Quick Guard
+Fighting
+Status
+--
+Agility
+Psychic
+Status
+--
+Types:
+Grass
+Fighting
+Ability:
+Effect Spore
+Held item:
+None
+Breloom
+♂
+Lv.
+37
+Counter
+Fighting
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Mind Reader
+Normal
+Status
+--
+Types:
+Fire
+Rock
+Ability:
+Magma Armor
+Held item:
+None
+Magcargo
+♂
+Lv.
+37
+Flame Burst
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Swampert
+♂
+Lv.
+39
+Mud Bomb
+Ground
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Protect
+Normal
+Status
+--
+Muddy Water
+Water
+Special
+--
+Player chose
+Mudkip
+Pokémon Trainer
+Brendan
+Lilycove City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,560
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+37
+Double Team
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Quick Guard
+Fighting
+Status
+--
+Agility
+Psychic
+Status
+--
+Types:
+Fire
+Rock
+Ability:
+Magma Armor
+Held item:
+None
+Magcargo
+♂
+Lv.
+37
+Flame Burst
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailord
+♂
+Lv.
+37
+Rest
+Psychic
+Status
+--
+Brine
+Water
+Special
+--
+Water Spout
+Water
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Sceptile
+♂
+Lv.
+39
+Agility
+Psychic
+Status
+--
+Slam
+Normal
+Physical
+--
+Dual Chop
+Dragon
+Physical
+--
+Detect
+Fighting
+Status
+--
+Once the battle ends, your friend heads back to
+Littleroot Town
+to continue working on her/his Pokédex.
+Move Deleter's House
+Climb the stairway and visit the first house to the east. This is the home of the
+Move Deleter
+, an absent-minded man with the power to make your Pokémon forget any move. This is the only way for a Pokémon to forget an
+HM
+move. Unlike the
+Move Reminder
+in
+Fallarbor Town
+, the Move Deleter's services are free of charge.
+Lilycove Department Store
+Welcome to the
+Lilycove Department Store
+! This massive shopping center offers a wide array of merchandise, so Trainers can find almost any item for sale here.
+1F: Service Counter, Lottery Corner
+The
+first floor
+is a welcome center. The receptionist on the left greets visitors, while the one on the right runs the
+Pokémon Lottery Corner
+. Talk to her to draw a random Pokémon Loto Ticket. If the ticket's number matches up with any of your Pokémon's
+ID numbers
+, you win a prize! You can draw one Loto Ticket per day.
+Matching Digits
+Prize
+1 digit
+Moomoo Milk
+2 digits
+PP Up
+3 digits
+PP Max
+4 digits
+Rare Candy
+5 digits
+Master Ball
+2F: Trainers' Zone
+The
+second floor
+offers items that are useful during battle. The left clerk sells
+escape items
+, while the right clerk sells
+Poké Balls
+,
+Potions
+,
+Revives
+, and other items.
+3F: Battle Collection
+The
+third floor
+sells stat-enhancing items. The left clerk offers
+Vitamins
+that permanently boost their respective stat, like
+Protein
+. The right clerk offers
+Battle item
+that give a temporary boost in battle, like
+X Attack
+.
+4F: TM Corner
+The
+fourth floor
+offers nearly a dozen
+TMs
+for sale. Speak to the left clerk to buy TMs for offense, and the right clerk for TMs containing defensive moves.
+5F: Decoration Floor
+The
+fifth floor
+is dedicated to
+Secret Base
+fanatics. Here you'll find a wide selection of
+Decorations
+to deck out your Base, including dolls, mats, posters, and cushions.
+Rooftop Plaza
+On Saturdays, a
+major clearance sale
+is held here. A special selection of Secret Base Decorations are offered, with items listed anywhere from
+$
+200 to
+$
+6,000.
+Lilycove Museum
+The
+Lilycove Museum
+stands in the northwest part of town. The museum's curator blocks the stairs to the second floor because he hasn't yet decided what sort of exhibit to display upstairs. Once you start winning Master Rank Contests, your Pokémon's portraits will begin appearing on the second floor of the Contest Halls. An artist from the museum will become enamored with these portraits and ask to put them on display here. If you agree, up to 15 of your most recent Pokémon portraits will be displayed: three from each of the five contest conditions. More art fans will visit the museum as you fill its walls with portraits. The curator will be so thankful for the crowds that he will give you a reward after supplying all 15 portraits: a
+Glass Ornament
+for your Super-Secret Base.
+Near the entrance is a Kindler who offers to sell you one of his modern art pieces. These eye-catching "masterpieces" can be used as Decorations in your base.
+Paradoxical Popper
+$
+100,000
+Meditative Seat
+$
+100,000
+Heterarchical Loop
+$
+100,000
+A Berry A Day
+Speak to the Gentleman to the east of the Move Deleter's house to get one random Berry. This kind old man will give you either a
+Cheri
+,
+Chesto
+,
+Pecha
+,
+Rawst
+,
+Aspear
+,
+Leppa
+,
+Oran
+,
+Persim
+,
+Lum
+, or
+Sitrus Berry
+every day.
+← Part 12
+Routes 120 and 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+Omega Ruby and Alpha Sapphire
+walkthrough
+Team Magma/Aqua Hideout, Route 124
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

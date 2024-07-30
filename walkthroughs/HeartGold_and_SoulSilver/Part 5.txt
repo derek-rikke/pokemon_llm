@@ -1,0 +1,1592 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_5
+Keywords: National Park, Routes 36 and 37, Ecruteak City, Burned Tower
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Azalea Town
+1.1
+The Man in Black
+1.2
+Charcoal Kiln
+1.3
+Save the Slowpoke!
+1.4
+Slowpoke Well
+1.4.1
+Entrance
+1.4.2
+B1F
+1.4.2.1
+VS Proton
+1.5
+Kurt, the Craftsman
+1.6
+Azalea Gym
+1.7
+Ambush!
+1.8
+Rival Battle 2
+1.8.1
+If the player chose Chikorita:
+1.8.2
+If the player chose Cyndaquil:
+1.8.3
+If the player chose Totodile:
+2
+Ilex Forest
+2.1
+Flight of the Farfetch'd
+2.2
+Shake, Rattle, and Roll
+2.3
+The Mysterious Girl
+3
+Route 34
+3.1
+Meet the Grandparents
+3.2
+Pokémon Day Care
+Azalea Town
+Azalea Town
+Azalea
+is a small, isolated town on the south end of
+Johto
+'s peninsula. Due to its remote location between
+Union Cave
+and
+Ilex Forest
+, the town sees few visitors aside from those looking to challenge the
+Azalea Gym
+. A Poké Ball craftsman named
+Kurt
+lives in the northwest part of town. The
+Slowpoke Well
+is located in the east, and its resident
+Slowpoke
+freely wander around town.
+Items
+Item
+Location
+Games
+Full Heal
+In front of the Charcoal Kiln, on the pile of logs (hidden)
+HG
+SS
+Wht Apricorn
+Behind Kurt's house in the northwest, on a tree (daily)
+HG
+SS
+Fast Ball
+From Kurt, after chasing Team Rocket away
+HG
+SS
+TM89
+(
+U-turn
+)
+From
+Gym Leader
+Bugsy
+, after defeating him
+HG
+SS
+Later visit
+Charcoal
+Charcoal Kiln; from the apprentice, after both
+Farfetch'd
+are returned from Ilex Forest
+HG
+SS
+The Man in Black
+When you approach the
+Slowpoke Well
+on the east side of town, you see a man dressed in black harassing one of the residents. He identifies himself as a member of
+Team Rocket
+. After admitting that the group had disbanded once before, he claims that it has been revived in order to pursue
+Giovanni
+'s goals. He shoves the man, who hurries back into town, before moving into position to block off the well. If spoken to, he says that the well is unsafe and he is simply guarding it so that no one hurts themselves.
+Charcoal Kiln
+The house in the southeast part of town houses a charcoal kiln. The owner uses a
+Farfetch'd
+to fell trees in
+Ilex Forest
+and obtain the necessary materials. The wood is then treated and turned into
+Charcoal
+, which is then supplied to the local Poké Mart for sale.
+Save the Slowpoke!
+Visit the northwest house and speak to
+Kurt
+. If you were looking to have some custom Poké Balls made, it will have to wait. He informs you that members of a criminal organization known as
+Team Rocket
+have been sighted in
+Slowpoke Well
+, even though the group was supposedly disbanded
+three years ago
+. The rumor around town is that they have been cutting off
+SlowpokeTails
+to sell! Kurt was just about to confront them when you stopped by, and rushes off to save the Pokémon.
+Slowpoke Well, Entrance
+Slowpoke Well, B1F
+Slowpoke Well, B2F
+Slowpoke Well
+The
+Slowpoke Well
+is located on the east side of town, near
+Route 33
+. The cave is home to the town's
+Slowpoke
+, which are kept as pets. Legend has it that around 400 years ago, one of the Slowpoke from the well yawned, and in doing so ended a persistent drought that plagued
+Azalea Town
+.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+360
+Rattata
+♂
+Lv.
+9
+No item
+Rattata
+♂
+Lv.
+9
+No item
+Team Rocket Grunt
+Reward:
+$
+440
+Zubat
+♀
+Lv.
+9
+No item
+Ekans
+♀
+Lv.
+11
+No item
+Team Rocket Grunt
+Reward:
+$
+360
+Rattata
+♂
+Lv.
+7
+No item
+Zubat
+♂
+Lv.
+9
+No item
+Zubat
+♂
+Lv.
+9
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+B1F
+Zubat
+HG
+SS
+Cave
+5-8
+85%
+Slowpoke
+HG
+SS
+Cave
+6, 8
+15%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+×2
+B1F; on the northeast ridge
+B1F; lower central area, on a lone rock to the east (hidden)
+HG
+SS
+Later visit
+Great Ball
+Entrance; in the northernmost edge of the puddle, on the spot where Kurt stood (hidden)
+HG
+SS
+Full Heal
+B1F; east side of the central ridge (hidden; requires
+Surf
+,
+Strength
+)
+HG
+SS
+TM18
+(
+Rain Dance
+)
+B2F: on the eastern ridge (requires
+Surf
+,
+Strength
+)
+HG
+SS
+King's Rock
+B2F: from a man on the western ridge (requires
+Surf
+,
+Strength
+)
+HG
+SS
+Entrance
+Kurt
+can be found just inside the well. The
+Team Rocket Grunt
+that was blocking the entrance was so startled when Kurt shouted at him that he fell down the well. Kurt tried to give chase but lost his footing as well, landing hard on his back. He cannot move for the moment, so you need to save the
+Slowpoke
+in his place.
+B1F
+Go north to find and defeat that first Grunt. Climb onto the northeast ridge to pick up a
+Super Potion
+and battle a female Grunt. Walk down the stairway and go west to fight a third Grunt. Head north past a couple of captive Slowpoke to battle an
+Executive
+, the one in charge of the operation. Speak to him, and he claims to often be considered the scariest and cruelest guy in
+Team Rocket
+. He urges you not to interfere in their business, and draws you into battle.
+VS Proton
+Executive
+Proton
+Slowpoke Well
+HeartGold and SoulSilver
+Reward:
+$
+480
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+8
+Leech Life
+Bug
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♂
+Lv.
+12
+Poison Gas
+Poison
+Status
+--
+Tackle
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+SmokeScreen
+Normal
+Status
+--
+Defeated,
+Proton
+admits that
+Team Rocket
+continued its activities in secret after the order to disband three years ago. He expresses little worry about you interfering in the group's work, but advises you to be very afraid of what they have planned. The Grunts flee, and
+Kurt
+is on his feet again. After checking on the two
+Slowpoke
+, he takes you back to his home.
+Kurt, the Craftsman
+Kurt
+commends you for saving the town's
+Slowpoke
+. As he mentioned before, he explains that
+Team Rocket
+was broken up three years ago by a boy named
+Red
+. Knowing that the group is active again leaves him with a bad feeling. He tries to set his worries aside for the moment, and offers to make custom Poké Balls for you anytime. He only has one spare Poké Ball right now, and gives you a
+Fast Ball
+as thanks for saving the
+Slowpoke
+. If you have collected any
+Apricorns
+by this point, Kurt will immediately notice and offer to turn them into Poké Balls.
+The
+Apricorn Box
+screen opens automatically, allowing you to choose an
+Apricorn
+variety to give to Kurt. He only accepts one variety at a time, but has no restriction on quantity. Any Apricorn(s) given to him will be processed into the resulting Poké Ball(s) by the next day.
+Afterward, his granddaughter gives you his phone number.
+There are seven varieties of Apricorn, each suited for a different type of Poké Ball.
+Apricorn
+Ball
+Effect
+Blk Apricorn
+Heavy Ball
+More effective against
+heavier
+Pokémon.
+Blu Apricorn
+Lure Ball
+More effective against Pokémon hooked by a
+fishing rod
+.
+Grn Apricorn
+Friend Ball
+Makes a Pokémon more
+friendly
+. Affects
+certain
+moves
+and
+evolutions
+.
+Pnk Apricorn
+Love Ball
+More effective against Pokémon of the same species but opposite gender of the active Pokémon.
+Red Apricorn
+Level Ball
+More effective when target's level is lower and active Pokémon's level is higher.
+Wht Apricorn
+Fast Ball
+More effective against
+species with a high base Speed
+.
+Ylw Apricorn
+Moon Ball
+More effective against Pokémon whose
+evolutionary line
+includes a Pokémon that evolves by
+Moon Stone
+.
+Azalea Gym
+Azalea Gym
+Azalea Town Pokémon Gym
+Leader: Bugsy
+The Walking Bug Pokémon Encyclopedia
+The
+Azalea Gym
+specializes in
+Bug-type
+Pokémon. Bug-type moves are super effective against
+Dark
+-,
+Grass
+-, and
+Psychic-type
+Pokémon, while Bug-type Pokémon are weak to
+Fire
+-,
+Flying
+-, and
+Rock-type
+moves.
+The Gym features two large gaps in the floor, with a series of rails that mimic the appearance of spiderwebs crossing over them. In order to cross these gaps, challengers must board
+Spinarak
+-themed karts to ride along the rails. The kart will always make the first possible turn, but challengers can flip several switches to engage or disengage sections of rail to alter the kart's path. Step on the left-most kart to reach the center area and battle Bug Catcher Benny. Ride the next kart over the second gap to battle Twins Amy & Mimi in the northwest part of the building. Flip the blue switch nearby to disengage the blue rail, allowing the kart to reach the west-central area. Flip the red switch to disengage the red rail and ride the kart one last time to reach the
+Gym Leader
+.
+Bugsy
+leads with
+Scyther
+, his strongest Pokémon due to its high
+Attack
+and
+Speed
+.
+U-turn
+is a strong
+Bug-type
+attack that deals serious damage to
+Grass-type
+Pokémon like
+Chikorita
+. Neither of Bugsy's other two Pokémon are much of a threat, though
+Kakuna
+may
+poison
+its target with
+Poison Sting
+. Bug Pokémon can do little against the high Defense of
+Rock-type
+Pokémon; if you traded for the boy's
+Onix
+in
+Violet City
+, counterattack with
+Rock Throw
+for an easy victory.
+Azalea Gym
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Al
+Reward:
+$
+192
+Caterpie
+♂
+Lv.
+12
+No item
+Weedle
+♂
+Lv.
+12
+No item
+Bug Catcher
+Benny
+Reward:
+$
+192
+Weedle
+♂
+Lv.
+7
+No item
+Kakuna
+♂
+Lv.
+9
+No item
+Beedrill
+♂
+Lv.
+12
+No item
+Bug Catcher
+Josh
+Reward:
+$
+208
+Paras
+♂
+Lv.
+13
+No item
+Twins
+Amy & Mimi
+Reward:
+$
+320
+Ledyba
+♀
+Lv.
+10
+No item
+Spinarak
+♀
+Lv.
+10
+No item
+Leader
+Bugsy
+Azalea Gym
+HeartGold and SoulSilver
+Reward:
+$
+1800
+Types:
+Bug
+Flying
+Ability:
+Technician
+Held item:
+Sitrus Berry
+Scyther
+♀
+Lv.
+17
+Quick Attack
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+U-turn
+Bug
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Type:
+Bug
+Unknown
+Ability:
+Shed Skin
+Held item:
+None
+Metapod
+♀
+Lv.
+15
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Shed Skin
+Held item:
+None
+Kakuna
+♀
+Lv.
+15
+Poison Sting
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Bugsy
+awards you the
+Hive Badge
+, which ensures obedience of all Pokémon up to level 30 and enables the use of
+Cut
+in the field. He also gives you
+TM89
+(
+U-turn
+) as a prize.
+Ambush!
+When you reach the west side of town,
+Silver
+catches up to you. He asks if it is true that
+Team Rocket
+has returned, and accuses you of lying after learning that you defeated them. He draws you into battle to force you to prove yourself.
+Rival Battle 2
+Silver
+has added two more Pokémon to his team since the previous battle.
+Gastly
+takes serious damage from
+Ghost
+-,
+Psychic
+-, and
+Dark-type
+attacks, but its defenses are low enough that attacks of nearly any type will be effective. Ghost Pokémon are immune to
+Normal-type
+moves, so moves like
+Tackle
+and
+Scratch
+are useless.
+Zubat
+is vulnerable to
+Rock
+- and
+Electric-type
+moves, among others. Use the
+Onix
+from
+Violet City
+, or a
+Mareep
+from
+Route 32
+, for an easy knockout. The Pokémon that he took from
+Elm
+'s lab has evolved since then and learned a move that matches its type, which boosts its power with a
+same-type attack bonus
+. Avoid pitting your own
+first partner Pokémon
+against it or risk taking serious damage.
+If the player chose
+Chikorita
+:
+Rival
+Silver
+Azalea Town
+HeartGold and SoulSilver
+Reward:
+$
+1152
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gastly
+♂
+Lv.
+14
+Lick
+Ghost
+Physical
+--
+Spite
+Ghost
+Status
+--
+Mean Look
+Normal
+Status
+--
+Curse
+???
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+16
+Leech Life
+Bug
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Astonish
+Ghost
+Physical
+--
+Bite
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Quilava
+♂
+Lv.
+18
+Leer
+Normal
+Status
+--
+SmokeScreen
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+If the player chose
+Cyndaquil
+:
+Rival
+Silver
+Azalea Town
+HeartGold and SoulSilver
+Reward:
+$
+1152
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gastly
+♂
+Lv.
+14
+Lick
+Ghost
+Physical
+--
+Spite
+Ghost
+Status
+--
+Mean Look
+Normal
+Status
+--
+Curse
+???
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+16
+Leech Life
+Bug
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Astonish
+Ghost
+Physical
+--
+Bite
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Croconaw
+♂
+Lv.
+18
+Water Gun
+Water
+Special
+--
+Rage
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Scary Face
+Normal
+Status
+--
+If the player chose
+Totodile
+:
+Rival
+Silver
+Azalea Town
+HeartGold and SoulSilver
+Reward:
+$
+1152
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gastly
+♂
+Lv.
+14
+Lick
+Ghost
+Physical
+--
+Spite
+Ghost
+Status
+--
+Mean Look
+Normal
+Status
+--
+Curse
+???
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+16
+Leech Life
+Bug
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Astonish
+Ghost
+Physical
+--
+Bite
+Dark
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Bayleef
+♂
+Lv.
+18
+PoisonPowder
+Poison
+Status
+--
+Reflect
+Psychic
+Status
+--
+Synthesis
+Grass
+Status
+--
+Razor Leaf
+Grass
+Physical
+--
+Afterward, he declares his hatred for anything weak, be it human or Pokémon. Silver vows to get stronger and wipe out the weak, including
+Team Rocket
+. He warns you to stay out of his way before leaving for
+Ilex Forest
+.
+Ilex Forest
+Ilex Forest
+Ilex Forest
+is a densely wooded area between
+Azalea Town
+and
+Route 34
+. Trees grow so close together that most sunlight never reaches the forest floor, leaving the area in what seems like perpetual night. A
+shrine
+dedicated to
+the forest's protector
+is located a short distance from the southern entrance.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+HG
+SS
+Grass
+5-6
+50%
+60%
+0%
+Metapod
+HG
+SS
+Grass
+5
+30%
+0%
+0%
+Metapod
+HG
+SS
+Grass
+5-6
+0%
+30%
+0%
+Weedle
+HG
+SS
+Grass
+5-6
+50%
+60%
+0%
+Kakuna
+HG
+SS
+Grass
+5-6
+30%
+30%
+0%
+Zubat
+HG
+SS
+Grass
+5
+5%
+5%
+0%
+Zubat
+HG
+SS
+Grass
+5, 6
+0%
+0%
+25%
+Oddish
+HG
+SS
+Grass
+5-6
+0%
+0%
+60%
+Paras
+HG
+SS
+Grass
+5-6
+15%
+5%
+15%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+3-5
+60%
+Caterpie
+HG
+SS
+Headbutt
+3-5
+30%
+Weedle
+HG
+SS
+Headbutt
+3-5
+30%
+Metapod
+HG
+SS
+Headbutt
+3-5
+10%
+Kakuna
+HG
+SS
+Headbutt
+3-5
+10%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+6-8
+50%
+Butterfree
+HG
+SS
+Headbutt
+6-8
+10%
+Beedrill
+HG
+SS
+Headbutt
+6-8
+10%
+Noctowl
+HG
+SS
+Headbutt
+6-8
+10%
+Pineco
+HG
+SS
+Headbutt
+6-8
+30%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Southern area
+Revive
+Southeast area, in a small dead-end path
+HG
+SS
+TinyMushroom
+Northeasternmost corner of the southeast area, in the flowerbed (hidden)
+HG
+SS
+HM01
+(
+Cut
+)
+From the Charcoal Kiln's owner, after both Farfetch'd are returned
+HG
+SS
+Northern area (requires
+Cut
+)
+Antidote
+×2
+Two steps south, one step east of the pond's southwest corner (hidden)
+East side of the pond, partially hidden behind three trees
+HG
+SS
+X Attack
+Dead-end path east of the Trainer Tips sign
+HG
+SS
+Repel
+East of the pond, in the flowerbed to the north of nearest lone tree (hidden)
+HG
+SS
+Super Potion
+East of the pond, in a small alcove southwest of the northern ledge (hidden)
+HG
+SS
+TinyMushroom
+×2
+Northeast area, opposite side of the path from the easternmost flowerbed (hidden)
+Next to the southeast side of the northeasternmost isolated tree (hidden)
+HG
+SS
+Ether
+×2
+Northeast area of the forest
+One step west of the northernmost isolated tree (hidden)
+HG
+SS
+Full Heal
+A few steps northwest of the northeasternmost isolated tree (hidden)
+HG
+SS
+Later visit
+Big Mushroom
+Northern area; west of the pond (requires
+Surf
+)
+HG
+SS
+Flight of the Farfetch'd
+The apprentice from
+Azalea
+'s Charcoal Kiln can be found a short distance from the southern entrance, and stops you when you approach. He tells you that the two
+Farfetch'd
+that cut down trees to be turned into
+Charcoal
+have wandered deeper into the forest. He explains that Farfetch'd have sensitive ears, and will turn toward the sound if you step on a branch. He is too scared of the dark forest to move, so it is up to you to find them. Farfetch'd are startled easily, and approaching them from the wrong direction will only chase them deeper into the forest.
+The first duck is located a short distance to the east, at the southwest corner of a large grove of trees. Step on the pile of branches to the south of the Pokémon to draw its attention, then circle around the trees to approach it from behind.
+The second duck is located in the southeast part of the forest, at the northwest corner of the second grove. Take the easternmost path and step on either pile of branches to the east of Farfetch'd to draw its attention. Circle around and approach it from the south to chase it to the grove with three trees. Loop back around and step on the easternmost pile of branches. Circle around the three-tree grove to approach it from behind.
+The boy thanks you for your help, explaining that neither
+Farfetch'd
+will listen to him as he has no
+Badges
+. His boss arrives a moment later. Seeing his two Pokémon, Far and Fetch'd, returned safely, he rewards you with
+HM01
+(
+Cut
+) as thanks for saving his business. Teach this field move to a compatible Pokémon and use it to remove the small tree nearby, clearing a path forward. If you return to the Charcoal Kiln, the apprentice will reward you with a piece of
+Charcoal
+.
+Shake, Rattle, and Roll
+Southeast of the pond, there is a man standing atop a ledge, facing one of the trees. When you approach, you witness him aggresively attack the tree. Speak to him, and he explains that he has been shaking trees with
+Headbutt
+, and invites you to try it as well before offering to
+teach the move
+to one of your Pokémon. This field move allows Trainers to shake
+this type of tree
+, which sometimes causes a wild Pokémon to fall out. Depending on the time of day, the Pokémon that appears may be
+asleep
+. There are
+several
+Pokémon
+species
+that can only be encountered this way.
+The Mysterious Girl
+When you approach the northern ledge, you find the same
+mysterious kimono-clad girl
+, apparently lost in the dark forest. She says that you must be imagining things if you recognize her from
+Violet City
+, and asks if you will show her the way out of the forest. She questions if you really know the direction to the exit, so your partner Pokémon moves a short distance westward to show the way. She compliments the Pokémon before continuing onward.
+Route 34
+Route 34
+Route 34
+is a lush, green path that runs along the sea from
+Ilex Forest
+to
+Goldenrod City
+.
+Johto
+'s
+Day Care
+center is located on the north side.
+Trainers
+Trainer
+Pokémon
+Youngster
+Samuel
+Reward:
+$
+128
+Rattata
+♂
+Lv.
+7
+No item
+Sandshrew
+♂
+Lv.
+10
+No item
+Spearow
+♂
+Lv.
+8
+No item
+Spearow
+♂
+Lv.
+8
+No item
+Pokéfan
+Brandon
+Reward:
+$
+832
+Snubbull
+♀
+Lv.
+13
+No item
+Mareep
+♂
+Lv.
+13
+No item
+Picnicker
+Gina
+Reward:
+$
+192
+Hoppip
+♀
+Lv.
+9
+No item
+Hoppip
+♀
+Lv.
+9
+No item
+Bulbasaur
+♂
+Lv.
+12
+No item
+Youngster
+Ian
+Reward:
+$
+192
+Mankey
+♂
+Lv.
+10
+No item
+Diglett
+♂
+Lv.
+12
+No item
+Policeman
+Keith
+Reward:
+$
+680
+Night
+only
+Growlithe
+♂
+Lv.
+17
+No item
+Camper
+Todd
+Reward:
+$
+224
+Psyduck
+♂
+Lv.
+14
+No item
+Requires Surf
+Ace Trainer
+Irene
+Reward:
+$
+1440
+Double Battle
+with Jenn
+Goldeen
+♀
+Lv.
+22
+No item
+Seaking
+♀
+Lv.
+24
+No item
+Ace Trainer
+Jenn
+Reward:
+$
+1560
+Double Battle
+with Irene
+Staryu
+Lv.
+24
+No item
+Starmie
+Lv.
+26
+No item
+Ace Trainer
+Kate
+Reward:
+$
+1680
+Shellder
+♀
+Lv.
+26
+No item
+Cloyster
+♀
+Lv.
+28
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+11, 13
+35%
+Abra
+HG
+SS
+Grass
+10
+10%
+Drowzee
+HG
+SS
+Grass
+10, 12
+50%
+Ditto
+HG
+SS
+Grass
+10
+5%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+9-10
+50%
+Pineco
+HG
+SS
+Headbutt
+9-10
+30%
+Exeggcute
+HG
+SS
+Headbutt
+9-10
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+11-12
+50%
+Ledyba
+HG
+SS
+Headbutt
+11-12
+30%
+Spinarak
+HG
+SS
+Headbutt
+11-12
+30%
+Exeggcute
+HG
+SS
+Headbutt
+11-12
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM12
+(
+Taunt
+)
+In the gate, from the woman behind the counter
+HG
+SS
+Super Potion
+Southeast of the Day Care building; one step north of the grass patch east of Youngster Ian, in a tree (hidden)
+HG
+SS
+TM63
+(
+Embargo
+)
+Northernmost patch of grass
+HG
+SS
+Leaf Stone
+Sometimes given out by Picnicker Gina, after registering her phone number
+HG
+SS
+Later visit
+Rare Candy
+In the fenced western area near the tall grass, three steps north of the middle tree's northeast corner (hidden; requires
+Surf
+)
+HG
+SS
+Nugget
+In the fenced western area near the tall grass, southeast corner (requires
+Surf
+)
+HG
+SS
+Power Herb
+Southwest clearing; from Ace Trainer Kate, after defeating her (requires
+Surf
+)
+HG
+SS
+Meet the Grandparents
+When you approach the
+Pokémon Day Care
+building,
+Lyra
+/
+Ethan
+and Marill are just arriving. She/He visits with their grandfather and thanks the elderly man for raising one of their Pokémon, and then notices your presence. She/He introduces you to the man before leading you inside the building, where you are introduced to their grandmother. As she/he turns to leave, your friend gives you their phone number.
+Pokémon Day Care
+The
+Pokémon Day Care
+allows Trainers to leave up to two of their Pokémon to be raised by the couple. Any Pokémon left in their care earns one
+experience point
+for every step you take. It costs a flat rate of
+$
+100, plus another
+$
+100 for every level gained, to withdraw a Pokémon.
+If a
+compatible
+male and female are left here at the same time, you may return to discover that the elderly couple has found an
+Egg
+. Keep the Egg in your party, like with the
+Mystery Egg
+, and it will eventually hatch. The Pokémon that appears will be the lowest species in the evolutionary line of the mother. If either parent is unavailable,
+Ditto
+may be used as a substitute; in this case, the newly-hatched Pokémon will be the lowest species in the evolutionary line of the non-Ditto parent. This is the only way to obtain additional members of a certain species, like
+Eevee
+, and
+baby Pokémon
+, like
+Pichu
+.
+When you leave the building, the old man gives you the phone numbers for both him and his wife, so that you can call to check up on any Pokémon that they might be raising for you.
+← Part 4
+Route 32, Ruins of Alph, Union Cave, Route 33
+HeartGold and SoulSilver
+walkthrough
+Goldenrod City, Goldenrod Gym
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

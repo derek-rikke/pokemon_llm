@@ -1,0 +1,183 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ultra_Sun_and_Ultra_Moon_walkthrough/Section_1
+Keywords: Introduction, Route 1 (Hau'oli Outskirts), Iki Town, Mahalo Trail
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ultra Sun and Ultra Moon
+.
+These pages follow the enhanced versions,
+not
+Pokémon Sun and Moon
+. The guide for those games can be found
+here
+.
+Choosing a Passport photo
+The player is immediately given a choice of several languages—English, Spanish, French, German, Italian, Japanese, Korean, and Simplified and Traditional Chinese—in which to play. After that, they receive a video call from the resident researcher of the
+Alola
+region,
+Professor Kukui
+. As the character,
+Elio
+/
+Selene
+, is preparing to move to the tropical region with his/her
+mother
+, the professor welcomes them and gives a brief introduction to the Pokémon world. Next, Kukui asks the player to choose one of eight photos for his/her new
+Trainer Passport
+. This allows for the choice between gender and skin tone, which cannot be changed; clothing, eye color, as well as hair length and color can be customized later on. Finally, the professor asks for the Trainer's name, which can be up to twelve characters long. Kukui then ends the call, and the character's mother calls for help with packing away their belongings.
+A short cutscene shows a mysterious girl and her unidentified Pokémon trying to escape a group of security guards dressed in white, and pale skinned people in futuristic blue and white outfits. Just when it seems that there is no escape, the Pokémon uses its power to teleport the pair to safety. The scene ends with the game's title and logo appearing on-screen.
+Please note there is a
+12-hour offset
+in Ultra Moon, where the game runs 12 hours ahead of the real time clock on the 3DS
+Contents
+1
+Route 1 (Hau'oli Outskirts)
+1.1
+Home
+2
+Route 1
+2.1
+Choosing a Pokémon
+Route 1 (Hau'oli Outskirts)
+Melemele Island
+The journey begins on Route 1, in an area known as Hau'oli Outskirts on the southeast side of Melemele Island. The player and their Mother have just recently moved to this tropical archipelago from the distant Kanto region, and could not ask for a nicer place to live!
+Home
+Three months after Kukui's video call, Elio/Selene and his/her
+Mom
+are enjoying their first day
+US
+/night
+UM
+in their new home. Mom sends the family's pet
+Meowth
+to wake the child so they can start unpacking their belongings. Use the Circle Pad to climb out of bed, and meet with Mom in the main room of the house. After a short conversation, she'll instruct you to go spend some time outside, but to retrieve your
+Bag
+and hat from the coat rack your room. Afterwards, you may head outside and towards
+Iki Town
+.
+Route 1
+To make your way towards Iki Town, exit your house and head west up the hill along the west side of the route. Upon reaching a patch of tall grass in the way, the player will immediately be attack by a
+Yungoos
+. With no Pokémon to defend yourself with, a
+Rowlet
+,
+Litten
+, and
+Popplio
+will come to your defense and scare off the Yungoos.
+Choosing a Pokémon
+After being saved, Kukui shows up and explains that it was his intent to give you one these Pokémon, but he's thankful to see that they were already willing to rescue you. You will then have the opportunity to choose which of the three Pokémon will be your starter.
+Rowlet
+Litten
+Popplio
+Grass
+Flying
+Fire
+Water
+Dartrix
+Torracat
+Brionne
+Grass
+Flying
+Fire
+Water
+Decidueye
+Incineroar
+Primarina
+Grass
+Ghost
+Fire
+Dark
+Water
+Fairy
+The
+Grass
+/
+Flying
+-type
+Rowlet
+has the most weaknesses of the trio, with five:
+Fire
+-,
+Poison
+-,
+Flying
+-,
+Rock
+-, and
+Ice-type
+attacks. Its Grass moves are strong against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon. Its Flying moves fare well against
+Bug
+Pokémon, which are plentiful in the tall grass near your new home. Rowlet and its evolutions specialize in physical
+Attack
+and
+Defense
+. Upon reaching its final form, its secondary Flying type changes to
+Ghost
+.
+The
+Fire-type
+Litten
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+-,
+Rock
+-, and
+Ground-type
+moves. Its Fire moves useful when battling the Bug Pokémon near your new home, making it a great choice for an easier start to your journey. Litten and its evolved forms focus on
+Speed
+and physical
+Attack
+. Its final form,
+Incineroar
+, gains a secondary
+Dark
+type.
+The
+Water-type
+Popplio
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+- and
+Electric-type
+attacks. It will fair okay in the beging, but becomes much more useful at the second island, where its Water moves will prove useful against many of the indigenous Pokémon. Popplio and its evolutions specialize in
+Special Attack
+and
+Special Defense
+. Its final form,
+Primarina
+, gains a secondary
+Fairy
+type. There are few other Water Pokémon to find early on without the ability to fish or travel across the water.
+Ultra Sun and Ultra Moon
+walkthrough
+Route 1, Iki Town Festival, Professor Kukui's Lab, Trainers' School
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

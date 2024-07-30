@@ -1,0 +1,1327 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_19
+Keywords: Team Galactic's final showdown, Catching Dialga/Palkia, back in Mt. Coronet
+
+Walkthrough Text:
+Contents
+1
+Team Galactic's final showdown
+1.1
+VS Mars and Jupiter, Multi Battle with Barry
+1.2
+VS Cyrus
+2
+Catching Dialga/Palkia
+2.1
+Catching Time Ruler Dialga
+D
+2.2
+Catching Space Ruler Palkia
+P
+2.3
+I failed, now what?
+2.4
+Afterwards......
+3
+Back through Mt. Coronet
+3.1
+Upper Caverns: 5F-7F
+3.2
+Mountainside
+3.3
+Tunnel
+3.4
+Northern area
+4
+Celestic Town
+Team Galactic's final showdown
+Dialga/Palkia unleashing its power
+Cyrus
+says that this world cannot be molded to the ultimate world he seeks and its far easier to create an entirely new one, then summons your
+game mascot
+(the Pokémon that appears on your game boxart) Dialga
+D
+/Palkia
+P
+, and an epic cutscene happens. Dialga/Palkia unleashes its power, spreading all over the
+Sinnoh
+region!
+You can no longer turn back and leave. If you try to leave, Mars will stop you, asking if you really think that you can just run off. Get prepared because once you step forward, you can no longer switch the order of your Pokémon until all battles against
+Team Galactic
+are over.
+VS Mars and Jupiter, Multi Battle with Barry
+Make sure that you heal your Pokémon and check if you need to switch the order of your Pokémon before proceeding!
+You'll have to battle Mars, Jupiter and Cyrus back to back.
+Now, get ready and charge at Cyrus! But do you think you can really stop him by rushing forward? Of course not—
+Commanders
+Mars
+and
+Jupiter
+will stop you. Mars says she will take you on first, and Jupiter says that she will be the next. However, just when you really think that you need to take them on one by one, your
+rival
+Barry
+(or whatever you call him) bursts in and stands between you and either Mars or Jupiter, saying,
+"Hold on one second!
+Don't you start the party without me!"
+Jupiter notices that Barry wants to take revenge on his earlier loss in
+Lake Acuity
+, and says that she and Mars are fine to face you off, two on two! So you will be in a
+Multi Battle
+again, with Rival Barry as your partner and the two commanders as your opponent.
+Commander
+and
+Commander
+Mars
+Jupiter
+Spear Pillar
+Diamond and Pearl
+Reward:
+$
+7280
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+41
+Gyro Ball
+Steel
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+42
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Purugly
+♀
+Lv.
+45
+Shadow Claw
+Ghost
+Physical
+--
+Slash
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+41
+Gyro Ball
+Steel
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+41
+Sludge Bomb
+Poison
+Special
+--
+Air Cutter
+Flying
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Mean Look
+Normal
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Stench
+Held item:
+Sitrus Berry
+Skuntank
+♀
+Lv.
+46
+Poison Jab
+Poison
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Night Slash
+Dark
+Physical
+--
+SmokeScreen
+Normal
+Status
+--
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Stockpile
+Normal
+Status
+--
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+40
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+41
+Iron Tail
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+41
+Ingrain
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Toxic
+Poison
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+43
+Close Combat
+Fighting
+Physical
+--
+Flame Wheel
+Fire
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Stockpile
+Normal
+Status
+--
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+40
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+41
+Will-O-Wisp
+Fire
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Stomp
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+41
+Ingrain
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Toxic
+Poison
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+43
+Aerial Ace
+Flying
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Swagger
+Normal
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Stockpile
+Normal
+Status
+--
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+40
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+41
+Iron Tail
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+41
+Will-O-Wisp
+Fire
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Stomp
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+43
+Bite
+Dark
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Synthesis
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Let's take a look at Barry's team first. It's good that Barry now has a full party.
+Barry will always send out
+Munchlax
+at first. It is not really too helpful, but it can use
+Screech
+to make the Defense stat of 1 of opposing Pokémon plummets. This may sometimes help you. It can also follow up with
+Body Slam
+. The combo of Screech and Body Slam deals more damage than you'll expect.
+Unlike those three you teamed up with in the past (
+Cheryl
+,
+Mira
+and
+Riley
+), if Barry's Munchlax faints, he will send in another Pokémon. He will send in different Pokémon depending on the situation, and even his
+first partner Pokémon
+when he is in a tight spot.
+It is also nice to know that Barry's first partner Pokémon has finally evolved into its final form, gaining a lot of power and possessing moves with high power.
+Now, let's take a look at Mars and Jupiter's team.
+Mars and Jupiter always send in
+Bronzor
+first. Both of them know
+Extrasensory
+to attack,
+Confuse Ray
+to inflict confusion and have the
+Ability
+Levitate
+to make all
+Ground-type
+moves like
+Earthquake
+or
+Mud Bomb
+miss, so
+Fire-type
+moves like
+Flamethrower
+are your only choices. Be careful if you are really using Fire-type Pokémon because one of the two Bronzor knows
+Rock Slide
+. The other knows
+Gyro Ball
+which takes advantage of Bronzor's low Speed stat. They can also use
+Reflect
+and
+Light Screen
+to reduce damage on their whole team for five turns.
+It seems that their two Bronzor focus on annoying you more than attacking you. After they are unable to battle, Mars and Jupiter will send in their remaining Pokémon depending on the situation. This walkthrough will follow the list above.
+Both of them also have
+Golbat
+in their team. Both Golbat know
+Air Cutter
+, which has a higher-than-average chance to land a critical hit. One knows
+Poison Fang
+, which may inflict bad poison,
+Bite
+, a
+Dark-type
+move that may cause flinching and will do quite a bit of damage to
+Psychic-type
+Pokémon, and
+Confuse Ray
+, while the other knows
+Sludge Bomb
+, which may inflict poison,
+Mean Look
+, which prevent you from switching out your Pokémon, and
+Giga Drain
+, which absorbs your Pokémon's health to heal itself, is out of your expectation and counters
+Rock-type
+Pokémon. Use
+Rock-type
+,
+Psychic-type
+, or
+Electric-type
+moves to take them out.
+Next comes their strongest Pokémon— Mars's Level 45
+Purugly
+and Jupiter's Level 46
+Skuntank
+. Each of these two Pokémon have only one weakness—
+Fighting-type
+and Ground-type moves respectively. Be careful if you are using
+Fighting-type
+Pokémon or other Pokémon that are immune to
+Normal-type
+or
+Poison-type
+(meaning
+Ghost-type
+and
+Steel-type
+Pokémon)— Purugly has
+Aerial Ace
+and
+Shadow Claw
+, while Skuntank has Flamethrower. Purugly also knows
+Slash
+, which also has a higher critical-hit ratio, and
+Hypnosis
+, which makes your Pokémon fall asleep. Skuntank has
+Poison Jab
+, a powerful move that may inflict poison,
+Night Slash
+(again, has a higher chance to land a critical hit) and
+SmokeScreen
+, which reduces the your Pokémon's Accuracy.
+After being defeated, Jupiter says that you are still no match for Cyrus. Barry says that you and him have "hit the wall", and helps you one last time by fully healing your Pokémon. Then he says that it's your show and bolts off.
+VS Cyrus
+Just then, Dialga
+D
+/Palkia
+P
+begins to create a new universe, and it seems as if the world is about to end......
+But suddenly, the
+Lake guardians
+--
+Uxie
+,
+Mesprit
+and
+Azelf
+appear and stop the
+Legendary Pokémon
+from creating a new universe! Cyrus is outraged that the Red Chain has been destroyed -- crumbled away to nothing, the fact that Mesprit appear by your side, and the fact that his galaxy is gone. He swears again, this time swearing that he will capture those 3 again and craft another Red Chain! He also says:
+"But before I even think about that,
+I'm going to completely crush you!"
+He challenges you again to a battle, but now, he is determined to completely crush you no matter what! This is a battle that you cannot lose— if you lose, the Sinnoh region, no, the whole world......no, the entire universe is doomed!
+Galactic Boss
+Cyrus
+Spear Pillar
+Diamond and Pearl
+Reward:
+$
+8640
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+None
+Honchkrow
+♂
+Lv.
+45
+Dark Pulse
+Dark
+Special
+--
+Embargo
+Dark
+Status
+--
+Drill Peck
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+45
+Aqua Tail
+Water
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+46
+Air Slash
+Flying
+Special
+--
+Cross Poison
+Poison
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Weavile
+♂
+Lv.
+48
+Night Slash
+Dark
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Jupiter is not lying and Cyrus is not joking either.
+Cyrus's team is far stronger than what you will expect.
+His Pokémon have all evolved into their final forms and gained 5 to 6 levels. Moreover, he has also added one more Pokémon. His team is almost totally offensive— be very careful and do not underestimate anything he sends out. All of his 4 Pokémon still share the same common weaknesses-- Rock-type moves, but since they are much stronger, even a strong Rock-type move like Rock Slide cannot wipe out his whole team.
+His first Pokémon is
+Honchkrow
+, which evolved from his
+Murkrow
+. It possesses
+Dark Pulse
+(a move that may cause flinching),
+Embargo
+(you know, prevents you from using items),
+Drill Peck
+and
+Steel Wing
+(to cover its Rock-type and
+Ice-type
+weaknesses), and may also raise its Defense.
+Electric-type
+moves are your best bet.
+His Golbat has evolved into
+Crobat
+. (Is his Golbat really
+happy
+to have Cyrus as its Trainer?) Crobat is very fast, probably outspeeding all of your Pokémon! It has
+Cross Poison
+(has high critical hit ratio and may inflict poison),
+Air Slash
+, Confuse Ray and Bite. Not too different from the Golbat you just faced, except that Crobat is much speedier, has more power and its Cross Poison can hit far harder.
+His new Pokémon is a
+Gyarados
+. It seems that you'll need to go with Electric-type attacks (you should know that Electric-type attacks are its bane and deal significant damage on it) or Rock-type attacks, but it possesses
+Aqua Tail
+, as well as
+Earthquake
+, which may take your Electric-type Pokémon out by surprise! It also knows
+Ice Fang
+, which may freeze your Pokémon or make them flinch, and
+Giga Impact
+, which hits extremely hard! Although this counterpart of
+Hyper Beam
+forces Gyarados to waste a turn to recharge, Gyarados' high Attack stat makes this move very dreadful. This Gyarados is absolutely different from the Gyarados you faced before.
+His strongest Pokémon
+Sneasel
+has evolved into
+Weavile
+and is now at
+Lv.48
+. That's right,
+Level 48
+— stronger by one level than the Legendary Pokémon you'll face very soon! Weavile has high Attack and extremely high Speed, making it very dangerous. If your Pokémon is slower than Crobat, don't think about outspeeding Weavile. Moreover, it is no longer fragile like when it was a Sneasel. It has Night Slash,
+Ice Punch
+, which may freeze your Pokémon,
+Brick Break
+(so don't try Rock-type or Steel-type moves against Weavile), and
+X-Scissor
+, a powerful
+Bug-type
+move. Its major weaknesses are Fighting-type moves, but even hitting back with your own Brick Break may not knock it out, so don't even think that
+Mach Punch
+or
+Rock Smash
+can deal serious damage. Stronger moves like
+Close Combat
+are your best choices.
+If you successfully forced Cyrus to send out his last Pokémon, he will admit that you have pushed him to his extreme. He also says that losing is not possible for him. He may use a
+Super Potion
+on his Pokémon when they have only half or less HP left (i.e. HP bar is in yellow), and if they are in danger (HP bar is in red. In other words, critical health), he will use a
+Full Restore
+, especially if it is his last Pokémon, so watch out and use the most powerful moves you've got!
+After beating Cyrus, he says,
+"I won't admit this! The power spoken of in mythology... I didn't just make it obey me, I made it my own!"
+He then adds,
+"What is truly ultimate to you? What do you consider perfection? The most important thing... What shines the brightest... Telling you is meaningless. But I will not give up. I will become a deity one day... And I will make the ultimate mine..."
+Mars, Jupiter and Cyrus, as well as other
+Galactic Grunts
+, vanish in a second. Team Galactic is utterly destroyed and finally out of the way. However, with the Legendary Pokémon in front of you, it is clear that you are still not done at
+Spear Pillar
+!
+Catching Dialga/Palkia
+Professor Rowan
+arrives with his aide Dawn/Lucas and explains that you have to battle the Legendary Pokémon Dialga
+D
+/Palkia
+P
+, which is enraged and entrusts you to stop it. He will also stop you from leaving. Unfortunately, unlike Barry, they won't heal your Pokémon, so you need to do it by yourself. Don't step forward until you are ready --
+about 5 more steps, and you will be in the battle!
+Make sure that you fully heal your Pokémon and save your game before stepping forward!
+Now that you are ready, go forth. Dialga
+D
+/Palkia
+P
+will roar, and then draw you into a battle!
+You can encounter Dialga or Palkia only once, so don't knock it out. Instead,
+catch it!
+But
+DO NOT use your
+Master Ball
+!
+Compared to other Legendary Pokémon, Dialga/Palkia is easier to catch (Dialga's/Palkia's catch rate is 30, as opposed to the other Legendary Pokémon, which have catch rate of only 3). It isn't worth it to use the precious Master Ball on Dialga/Palkia.
+Both Dialga and Palkia are partly
+Dragon-type
+Pokémon. They are at Lv.47 and have high stats, especially Sp. Atk. Moreover, their signature moves are Special-based. Their moves can be extremely deadly!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Dialga
+D
+P
+Pt
+Only one
+47
+Only one
+Palkia
+D
+P
+Pt
+Only one
+47
+Only one
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Catching Time Ruler Dialga
+D
+If you are playing Pokémon Diamond Version, you'll be facing the Temporal Pokémon
+Dialga
+.
+Dialga on Spear Pillar
+Types:
+Steel
+Dragon
+Ability:
+Pressure
+Held item:
+None
+Dialga
+Lv.
+47
+Metal Claw
+Steel
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Roar of Time
+Dragon
+Special
+--
+Dialga is a Steel/Dragon-type Pokémon. Its
+signature move
+Roar of Time
+is the Dragon-type version of Hyper Beam. It can deal very serious damage on your Pokémon or even render yours unable to battle in a single shot, but requires Dialga to recharge afterwards, wasting a turn and therefore giving you an opportunity to throw an Ultra Ball or a Dusk Ball. It possesses
+Ancient Power
+that might increase all of its stats at once, and it also has
+Dragon Claw
+and
+Metal Claw
+, which may raise its Attack stat.
+Start off by inflicting status ailments on it, such as putting it to sleep, paralyzing it or freezing it. Don't burn it, otherwise the burn may knock it out. Its Steel type makes it immune to any
+Poison-type
+attacks, so it is impossible to poison it. Follow up by an attack that is super effective. In this case, Fighting-type or Ground-type moves. Then damage it little by little with attacks that are not very effective, such as Normal-type and
+Grass-type
+moves, until its HP bar is in red. After that, you can start throwing Poké Balls.
+Due to its type, none of the special versions of Poké Balls have extra effectiveness on Dialga. You'll have to use
+Ultra Balls
+(or
+Dusk Balls
+if you're playing at night). Keep throwing until you successfully catch it.
+Catching Space Ruler Palkia
+P
+If you are playing Pokémon Pearl Version, you'll be facing the Spatial Pokémon
+Palkia
+.
+Palkia on Spear Pillar
+Types:
+Water
+Dragon
+Ability:
+Pressure
+Held item:
+None
+Palkia
+Lv.
+47
+Water Pulse
+Water
+Special
+--
+AncientPower
+Rock
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Spacial Rend
+Dragon
+Special
+--
+Palkia is a
+Water
+/
+Dragon
+-type Pokémon. Its signature move
+Spacial Rend
+is not as deadly as Dialga's Roar of Time, but Spacial Rend has a higher chance of landing critical hits, and Palkia doesn't need to recharge. It possesses
+Water Pulse
+that may confuse your Pokémon. It also has
+Ancient Power
+(might raise all of its stats at once) and
+Dragon Claw
+to attack, similar to Dialga.
+Start off by inflicting status ailments on it, such as putting it to sleep, paralyzing it or freezing it. Don't burn or poison it, otherwise the burn/poison may knock it out. Follow up by an attack that is super effective. In this case, only Dragon-type moves like Dragon Claw. If Dragon-type attacks are not available, use any attacks that have normal effectiveness on Palkia, such as Electric-type moves like
+Thunderbolt
+, Grass-type moves like
+Petal Dance
+or Ice-type moves like
+Ice Beam
+. Then damage it little by little with attacks that are not very effective, such as Fire-type moves, until its HP bar is in red. After that, you can start throwing Poké Balls.
+Due to Palkia's Water type, there is now a special version of Poké Balls that works best on Palkia—
+Net Balls
+, the Poké Balls for Water-type and Bug-type Pokémon. Keep throwing Net Balls (you can also use Dusk Balls if you are playing at night) until you successfully catch it.
+I failed, now what?
+If you accidentally knock Dialga or Palkia out, run out of Poké Balls or get defeated, just soft reset your game and try catching again. That's why you were strongly recommended to save your game before proceeding to catch Dialga/Palkia.
+Afterwards......
+After catching Dialga/Palkia, Professor Rowan will say that he doesn't know how you did it and has never been this thrilled. Then Dawn/Lucas will say that it's time to go home and brings you away to the south. Prof. Rowan says that no one has the right to take away the others' world. Then the screen switches to the entrance of Spear Pillar. Don't leave yet, though— walk all the way north, past where you fought Dialga/Palkia, and you can collect either the
+Adamant Orb
+D
+or the
+Lustrous Orb
+P
+. The Adamant Orb can only be held by Dialga and will boost its Steel-type and Dragon-type attacks. The Lustrous Orb can only be held by Palkia and will boost its Water-type and Dragon-type attacks.
+Item
+Item
+Location
+Games
+Adamant Orb
+North of Dialga
+D
+Lustrous Orb
+North of Palkia
+P
+Now you can really leave. You cannot use
+Fly
+, but don't worry— you don't need to walk all the way back. You don't need to use an
+Escape Rope
+either. Remember that there is a tunnel where some Galactic Grunt were in to distract you? Now that Team Galactic is gone, you can go through the tunnel. It functions as a shortcut to the exit.
+Back through Mt. Coronet
+Upper Caverns: 5F-7F
+Follow the path back down and head east to the mountainside.
+Mountainside
+Head east and climb down the wall. Then head inside the tunnel.
+Tunnel
+Tunnel entrance room
+Climb down the 2 walls, smash the rocks, and you are in the pit with the cave entrance that a grunt previously blocked. Head inside.
+Northern area
+Northern area
+Items
+Item
+Location
+Games
+TM02
+(
+Dragon Claw
+)
+Southern end of northern cavern
+D
+P
+Hyper Potion
+On the rock directly north of TM02
+(hidden)
+D
+P
+The background music changes. You are in the northern area which
+Route 211
+tunnels through, but at the southern end of this area that you couldn't reach before. Grab the two items (one of them is hidden), then use Strength to push the boulder aside. Take the eastern exit to
+Celestic Town
+.
+Celestic Town
+Here, go inside the biggest house in the northern part of town. Talk to
+Cynthia's grandmother
+. She will show you a picture of the opposite
+game mascot
+: Palkia
+D
+or Dialga
+P
+. Then she will tell you about the Pokémon in the picture, and it will be considered as a seen Pokémon in your
+Pokédex
+. This is crucial for completing your regional Pokédex.
+← Part 18
+Raiding Galactic HQ (Part 2), Mt. Coronet (Southern Area Part 2, Mountainside and Upper Caverns), Spear Pillar
+Diamond and Pearl
+walkthrough
+Catching the Lake Guardians, Hotel Grand Lake, Route 222, Sunyshore City, Vista Lighthouse
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,68 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 19
+Keywords: Route 132, Route 133, Route 134, Sealed Chamber, Island Cave, Desert Ruins, Ancient Tomb
+
+**Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 19**
+
+**Routes 132, 133, and 134 Overview**
+- Strong ocean currents make travel difficult; explore all islands.
+  
+**Key Trainers:**
+- **Route 132:**
+  - Swimmer Gilbert: Tentacruel (Lv. 37), Sharpedo (Lv. 37)
+  - Black Belt Kiyo: Machamp (Lv. 40)
+  - Fisherman Ronald: Gyarados (3x, Lv. 36)
+  
+- **Route 133:**
+  - Fisherman River: Seadra (Lv. 39)
+  - Bird Keeper Beck: Skarmory (Lv. 39)
+  - Ace Trainer Warren: Lairon, Alakazam, Manectric (Lv. 38)
+  
+- **Route 134:**
+  - Swimmer Jack: Staryu (Lv. 36), Sharpedo (Lv. 38)
+  - Ace Trainer Elaine: Lairon (Lv. 38), Tropius (Lv. 40)
+
+**Available Pokémon:**
+- **Route 132:** Tentacool, Pelipper, Tentacruel
+- **Route 133:** Tentacool, Pelipper, Seadra
+- **Route 134:** Tentacool, Wingull, Pelipper
+
+**Items Locations:**
+- **Route 132:** Rare Candy, Protein, TM34 (Sludge Wave)
+- **Route 133:** Big Pearl, Max Revive, Calcium, Star Piece
+- **Route 134:** Carbos, hidden Heart Scales, TM80 (Rock Slide)
+
+**Exploration Paths:**
+1. **Northern Path:** 
+   - Start at Route 132, surf to the northwest island to find Rare Candy.
+   - Continue to Route 133 for a Star Piece and TM77 (Psych Up).
+   - Reach Route 134 for Carbos and Heart Scales.
+
+2. **Central Path:** 
+   - Surf to a Protein on a small island, then head to Route 133 for a Big Pearl.
+   - Battle Trainers and collect items as you progress.
+
+3. **Southern Path:** 
+   - Fight Kiyo, obtain TM34, and collect Max Revive on Route 133.
+
+**Sealed Chamber:**
+- **Entrance:** Dive at Route 134 to find the chamber. Use the message on the north wall to access the next area.
+- **Back Room:** Follow instructions involving Relicanth and Wailord to unlock the legendary Pokémon encounters.
+
+**Island Cave (Route 105):**
+- **Entrance:** Wait by the north wall for two minutes to find a hidden passage.
+- **Back Room:** Encounter Regice (Lv. 40).
+
+**Desert Ruins (Route 111):**
+- **Entrance:** Follow the instructions on the north wall to reveal a passage.
+- **Back Room:** Encounter Regirock (Lv. 40).
+
+**Ancient Tomb (Route 120):**
+- **Entrance:** Use Fly from the center of the cave to reveal the passage.
+- **Back Room:** Encounter Registeel (Lv. 40).
+
+**Meeting Regigigas:**
+- Ensure all three legendary giants (Regice, Regirock, Registeel) are in your party, with Regice holding a cold item.
+- Visit Route 105 during the day to encounter Regigigas (Lv. 50) in the Island Cave.
+
+This concise guide covers essential trainers, items, and locations for your journey through Routes 132, 133, and 134, along with encounter details for legendary Pokémon.

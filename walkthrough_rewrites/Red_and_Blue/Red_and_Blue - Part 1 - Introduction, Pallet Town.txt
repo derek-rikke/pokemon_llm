@@ -1,0 +1,34 @@
+Game: Red_and_Blue
+Part: 1
+Keywords: Introduction, Pallet Town
+
+**Pokémon Red and Blue Walkthrough - Part 1: Pallet Town**
+
+1. **Start Game**: Press A or Start at the title screen to begin. Choose a character name and a rival's name from preset options or create your own.
+
+2. **Pallet Town Overview**: 
+   - Your home is in the west; your rival lives in the east. 
+   - Professor Oak's Lab is south. Route 1 is north, and Route 21 is south.
+
+3. **Items**: 
+   - **Potion**: Found in your PC at home.
+   - **Pokédex**: Received from Professor Oak in his lab.
+   - **Town Map**: Obtain from Daisy in your rival's house after getting the Pokédex.
+
+4. **In-Game Controls**: 
+   - Move with the Control Pad.
+   - Use A to interact and select, B to cancel/exit, and Start to open the main menu.
+
+5. **Professor Oak**: Head north to encounter him. He takes you to his lab to choose your first Pokémon:
+   - **Bulbasaur**: Good early game; struggles against Fire, Flying, Psychic, and Ice.
+   - **Charmander**: Challenging start; strong against Grass, Bug, Ice; weak against Water, Rock, and Ground.
+   - **Squirtle**: Balanced; strong against Fire, Rock, Ground; weak against Grass and Electric.
+
+6. **Rival Battle 1**: Your rival will choose the type advantage against your Pokémon. 
+   - Level 5 battles; use the Potion if your HP is low.
+   - Defeating your rival earns you $175 and experience to level up to 6.
+
+7. **Next Steps**: After the battle, exit the lab and proceed north to Route 1.
+
+**End of Part 1**  
+Continue to Route 1 and beyond for further adventures!

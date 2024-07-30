@@ -1,0 +1,986 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_21
+Keywords: Seafolk Village, Poni Wilds, Ancient Poni Path, Poni Breaker Coast
+
+Walkthrough Text:
+Contents
+1
+Poni Island
+1.1
+Seafolk Village
+1.1.1
+Huntail ship
+1.1.2
+Meet the Seafolk Chief
+1.1.3
+Time for a Trade
+1.1.4
+Floating Restaurant
+1.1.5
+Move Tutor
+2
+Poni Wilds
+3
+Ancient Poni Path
+3.1
+Meeting Mudsdale
+4
+Poni Breaker Coast
+Poni Island
+Poni Island
+Seafolk Village
+Seafolk Village
+Seafolk Village
+is the main port of entry for
+Poni Island
+. It leads to
+Poni Wilds
+in the north and provides access to
+Exeggutor Island
+, as well.
+Trainers
+Trainer
+Pokémon
+After becoming Champion
+Sightseer
+Marcus
+Reward:
+$
+3,300
+Exeggcute
+♂
+Lv.
+55
+No item
+After speaking with
+Kagetora
+Sylveon User
+Kira
+Reward:
+$
+648
+Sylveon
+♂
+Lv.
+54
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+79%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+20%
+Dhelmise
+Dhelmise
+S
+M
+Fishing
+10-43
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+50%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+40%
+Dhelmise
+Dhelmise
+S
+M
+Fishing
+10-43
+10%
+Gift Pokémon
+Aerodactyl
+N/A
+S
+M
+Gift
+40
+One
+Special Pokémon
+Steenee
+N/A
+S
+M
+Trade
+Granbull
+43
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Magmarizer
+Huntail
+ship; from the man in the cabin
+S
+M
+Electirizer
+Huntail ship; from the man in the cabin
+S
+M
+Lucky Punch
+Steelix
+ship; from the female Rising Star in the cabin
+S
+M
+Aloraichium Z
+Steelix ship; from the female Veteran, after showing her an Alolan Raichu
+S
+M
+TM91
+(
+Flash Cannon
+)
+Steelix ship; on the exterior side deck
+S
+M
+Heart Scale
+Wailord
+ship; after ordering any Z-Noodle bowl
+S
+M
+Zygarde Cell
+Wailord ship; in the restaurant, under a table at the south end
+S
+M
+Zygarde Cell
+On the northeast platform
+S
+M
+After clearing Poni Island's Grand Trial
+Heart Scale
+×2
+Wailord ship; first time ordering a bowl of Zumongous Z-Noodles
+(daily)
+S
+M
+After becoming Champion
+Nugget
+×6
+Pokémon Center; from Sightseer Marcus, after defeating him
+S
+M
+Beast Ball
+×11
+From
+Looker
+, after defeating
+Nanu
+(×10)
+From Looker, if asked about Beast Balls while the player has none (×1)
+S
+M
+Huntail ship
+Visit the
+Huntail
+ship in the southwest. The shopkeeper who owns it is running low on inventory, but still gives you a
+Magmarizer
+and an
+Electirizer
+as thanks for visiting.
+Speak to the nearby Ace Trainer and she offers to gift you a
+Fossil
+Pokémon, the
+Rock
+/
+Flying
+-type
+Aerodactyl
+.
+Meet the Seafolk Chief
+Head toward
+Lillie
+in the center of the village, and the two of you are loudly greeted by the chief of the seafolk from the roof of the
+Wailord
+ship. When he learns that you are looking for the kahuna, he suggests visiting
+Hapu
+'s house, the only one still standing on the island.
+Time for a Trade
+A female Veteran can be found to the northeast of the tree in the center of the village. She is looking for a
+Granbull
+, and offers to trade her
+Steenee
+for one.
+Floating Restaurant
+The
+Wailord
+ship in the west contains a restaurant, where diners can pay
+$
+500 for a bowl of Z-Noodles of varying sizes. After each meal, they receive a complimentary
+Heart Scale
+.
+After clearing Poni Island's
+Grand Trial
+, Hapu will join you once per day. If you order a bowl of Zumongous Z-Noodles, she will pay for both meals and give her Heart Scale to you.
+Move Tutor
+Two Move Tutors can be found inside the village's Pokémon Center. An Ace Trainer will offer to teach
+Draco Meteor
+to a
+Dragon-type
+with high
+Friendship
+. The man in the red shirt will teach
+Dragon Ascent
+to any
+Rayquaza
+traveling with you.
+Poni Wilds
+Poni Wilds
+Poni Wilds
+is connected to
+Seafolk Village
+in the south. There is a beach to the west, and several paths twist eastward among the trees toward
+Ancient Poni Path
+.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Lindsey
+Reward:
+$
+3,060
+Garbodor
+♀
+Lv.
+44
+No item
+Toxapex
+♀
+Lv.
+45
+Poisonium Z
+Ace Trainer
+Kekoa
+Reward:
+$
+3,060
+Skarmory
+♂
+Lv.
+44
+No item
+Sharpedo
+♂
+Lv.
+45
+No item
+Dancer
+Cara
+Reward:
+$
+1,720
+Oricorio
+♀
+Sensu Style
+Lv.
+43
+No item
+Cook
+Fil
+Reward:
+$
+1,720
+Parasect
+♂
+Lv.
+43
+No item
+Ribombee
+♂
+Lv.
+43
+No item
+After defeating all other Trainers in the area
+Dancer
+Julia
+Reward:
+$
+1,720
+Oricorio
+♀
+Baile Style
+Lv.
+43
+Focus Sash
+Oricorio
+♀
+Pom-Pom Style
+Lv.
+43
+Focus Sash
+Oricorio
+♀
+Pa'u Style
+Lv.
+43
+Focus Sash
+Oricorio
+♀
+Sensu Style
+Lv.
+43
+Focus Sash
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+40-43
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+40-43
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+40-43
+-
+30%
+Granbull
+Granbull
+S
+M
+Grass
+40-43
+20%
+Exeggcute
+Exeggcute
+S
+M
+Grass
+40-43
+10%
+Gastrodon
+East Sea
+Gastrodon
+S
+M
+Grass
+40-43
+10%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+40-43
+100%
+Ambush encounters
+Wimpod
+N/A
+S
+M
+Chase
+40-43
+100%
+Surfing
+Lumineon
+Lumineon
+S
+M
+Surfing
+40-43
+25%
+Tentacruel
+Tentacruel
+S
+M
+Surfing
+40-43
+20%
+Pelipper
+Pelipper
+S
+M
+Surfing
+40-43
+20%
+Gastrodon
+East Sea
+Gastrodon
+S
+M
+Surfing
+40-43
+20%
+Tentacruel
+Tentacruel
+Lumineon
+S
+M
+Surfing
+40-43
+10%
+Lapras
+Lapras
+S
+M
+Surfing
+40-43
+5%
+Ambush encounters
+Wailmer
+Wailmer
+S
+M
+Water splashes
+40-43
+90%
+Wailord
+Wailord
+S
+M
+Water splashes
+40-43
+10%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+79%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+20%
+Relicanth
+Relicanth
+S
+M
+Fishing
+10-43
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+50%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+40%
+Relicanth
+Relicanth
+S
+M
+Fishing
+10-43
+10%
+Exclusively from
+Island Scan
+Samurott
+N/A
+S
+M
+Grass
+43
+One
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Focus Sash
+On the beach; from Dancer Julia, after defeating her
+S
+M
+Repeat Ball
+On the beach, west of the southern rock
+(hidden, regenerates occasionally)
+S
+M
+Pearl
+On the beach, north of Dancer Julia
+(hidden, regenerates occasionally)
+S
+M
+Max Repel
+On the beach, on the north end near two rocks
+S
+M
+Big Pearl
+North end of the beach
+(hidden, regenerates occasionally)
+S
+M
+Rare Candy
+Northwest area, between two rocks near the Berry tree
+S
+M
+Dusk Stone
+On the ocean floor, near the northern fishing spot (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Pearl String
+On the ocean floor, near the central fishing spot (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Max Potion
+Northeast area, between grass patches below the eastern Berry tree
+S
+M
+Zygarde Cell
+North end of the beach, between two rocks
+S
+M
+Zygarde Cell
+East of the Seafolk Village entrance, above the ledge
+Day
+S
+M
+Zygarde Cell
+East of the Seafolk Village entrance, next to the Trainer Tips sign
+Night
+S
+M
+Ancient Poni Path
+Ancient Poni Path
+Ancient Poni Path
+is situated between
+Poni Wilds
+to the west,
+Poni Breaker Coast
+to the south,
+Vast Poni Canyon
+to the north, and
+Poni Grove
+to the northeast. Most of the area is occupied by dirt roads and ruined stone walls.
+Hapu
+and her grandmother live in a house on the west side, where they grow their own crops to sustain themselves.
+Trainers
+Trainer
+Pokémon
+Collector
+Raymond
+トシオ
+Toshio
+Reward:
+$
+1,376
+Turtonator
+♂
+Lv.
+43
+No item
+Drampa
+♂
+Lv.
+43
+No item
+After obtaining the Sun Flute
+S
+/ Moon Flute
+M
+Team Skull Grunt
+Reward:
+$
+1,408
+Fomantis
+♀
+Lv.
+44
+No item
+Team Skull Grunt
+Reward:
+$
+1,408
+Salandit
+♂
+Lv.
+43
+No item
+Mareanie
+♂
+Lv.
+43
+No item
+Haunter
+♂
+Lv.
+44
+No item
+Golbat
+♂
+Lv.
+44
+No item
+Raticate
+♂
+Alolan form
+Lv.
+44
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+40-43
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+40-43
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+40-43
+-
+30%
+Granbull
+Granbull
+S
+M
+Grass
+40-43
+20%
+Exeggcute
+Exeggcute
+S
+M
+Grass
+40-43
+10%
+Gastrodon
+East Sea
+Gastrodon
+S
+M
+Grass
+40-43
+10%
+Exclusively from
+Island Scan
+Emboar
+N/A
+S
+M
+Grass
+43
+One
+Sa
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Awakening
+Hapu's house; from Meowth, after sleeping in the bed
+S
+M
+Zygarde Core
+Hapu's house; in the back of the bedroom
+S
+M
+Adrenaline Orb
+Southeast of Hapu's house, near the western grass patch
+S
+M
+Zygarde Cell
+East of Hapu's house; in the corner by the well
+S
+M
+TM79
+(
+Frost Breath
+)
+Southeast of the southern signpost, accessed via Poni Breaker Coast
+S
+M
+PP Up
+East of the entrance to Poni Grove
+(hidden)
+S
+M
+Shiny Stone
+Behind Hapu's house, in an alcove west of the Vast Poni Canyon entrance
+S
+M
+Revival Herb
+Behind Hapu's house, north side of the tree
+(hidden)
+S
+M
+Poisonium Z
+From
+Plumeria
+, after defeating the
+Team Skull
+Grunts
+S
+M
+Zygarde Cell
+In the corner on the opposite side of the wall from the
+Machamp
+on the east side of Hapu's house
+Day
+S
+M
+Zygarde Cell
+In the north, in front of the stone sculpture east of the Vast Poni Canyon entrance
+Night
+S
+M
+After becoming Champion
+Key Stone
+From
+Dexio
+, after defeating him
+S
+M
+Alakazite
+From Dexio, after defeating him
+S
+M
+Meeting Mudsdale
+When you reach
+Ancient Poni Path
+, you run into
+Hapu
+and
+Mudsdale
+outside their home. Lillie asks where the kahuna might be found, but Hapu reveals that
+Poni Island
+doesn't actually have one. She and Mudsdale ride off to some nearby ruins, and her grandmother registers
+Machamp Shove
+in your Ride Pager. Machamp Shove can be used to move large boulders. The elderly woman directs you to the
+Ruins of Hope
+, near
+Poni Breaker Coast
+to the south.
+Poni Breaker Coast
+Poni Breaker Coast
+Poni Breaker Coast
+links
+Ancient Poni Path
+in the north and the
+Ruins of Hope
+in the east. The merciless waves have eroded several holes into the dark stone of the coastline, from which seawater occasionally gushes out.
+Trainers
+Trainer
+Pokémon
+Sightseer
+Jamie
+Reward:
+$
+2,580
+Sandshrew
+♀
+Lv.
+43
+No item
+Geodude
+♀
+Lv.
+43
+No item
+Vulpix
+♀
+Lv.
+43
+No item
+Graveler
+♀
+Lv.
+43
+No item
+After becoming
+Champion
+Swimmer Girls
+Kylie and Ashlyn
+Reward:
+$
+2,160
+Lumineon
+♀
+Lv.
+45
+No item
+Lanturn
+♀
+Lv.
+45
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Ambush encounters
+Wimpod
+N/A
+S
+M
+Chase
+40-43
+100%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+79%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+20%
+Sharpedo
+Sharpedo
+S
+M
+Fishing
+10-43
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-43
+50%
+Wailmer
+Wailmer
+Wailord
+S
+M
+Fishing
+10-43
+40%
+Sharpedo
+Sharpedo
+S
+M
+Fishing
+10-43
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Calcium
+Near the southeast pool of water, on the north side
+S
+M
+After becoming Champion
+TM98
+(
+Waterfall
+)
+From Swimmer Girls Kylie and Ashlyn, after defeating them
+S
+M
+TM94
+(
+Surf
+)
+From Swimmer Girls Kylie and Ashlyn, after defeating them
+S
+M
+← Part 20
+Aether Paradise, Secret Labs, Lusamine's Mansion
+Sun and Moon
+walkthrough
+Ruins of Hope, Exeggutor Island, Poni Grand Trial
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,44 @@
+Game: Gold_and_Silver
+Part: 9
+Keywords: Olivine City, Route 40, Route 41
+
+**Part 9: Olivine City, Route 40, Route 41**
+
+**Olivine City Overview**
+- **Location:** Northwest Johto, between Route 39 and Route 40.
+- **Main Features:** Olivine Gym, Lighthouse, and S.S. Aqua.
+
+**Key Pokémon Availability**
+- **Surfing:** Tentacool (Lv. 15-24), Tentacruel (Lv. 20-24).
+- **Fishing:** 
+  - Old Rod: Magikarp (Lv. 10), Krabby (Lv. 10).
+  - Good Rod: Corsola (Lv. 20), Staryu (Lv. 20).
+
+**Important Items**
+- **Good Rod:** Obtain from Fishing Guru (house south of Gym).
+- **HM04 (Strength):** From Sailor in Olivine Café.
+- **TM23 (Iron Tail):** Defeat Gym Leader Jasmine after saving Amphy.
+- **Protein:** Hidden southwest of S.S. Aqua (requires S.S. Ticket).
+
+**Olivine Lighthouse**
+- **Objective:** Help Jasmine by retrieving medicine from Cianwood City for Amphy.
+- **Trainers:** Battle trainers on floors 1-5 for experience.
+- **Items:** 
+  - Ether (3F), Great Ball (5F), Rare Candy (5F), Hyper Potion (hidden, 5F).
+
+**Route 40**
+- **Features:** Small beach and water route to Route 41.
+- **Trainers:** Battle Swimmers for money and experience.
+- **Items:** Hyper Potion (hidden under a rock).
+
+**Route 41**
+- **Overview:** Connects Route 40 to Cianwood City with whirlpools.
+- **Trainers:** Battle various Swimmers.
+- **Available Pokémon:**
+  - Surfing: Tentacool (Lv. 15-24), Tentacruel (Lv. 20-24).
+  - Fishing: Similar to Route 40.
+
+**Whirl Islands**
+- **Access:** Requires Whirlpool to navigate caves connecting to Cianwood City.
+
+**Next Steps:** Proceed to Cianwood City and Olivine Gym for further challenges.

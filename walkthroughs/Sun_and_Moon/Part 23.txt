@@ -1,0 +1,884 @@
+Part: Part 23
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_23
+Keywords: Vast Poni Canyon, Trial 7: The Captainless Trial
+
+Walkthrough Text:
+Contents
+1
+Vast Poni Canyon
+1.1
+Canyon
+1.2
+Cave 1
+1.3
+Upper Canyon 1
+1.4
+Cave 2 (North)
+1.5
+Upper Canyon 2
+1.6
+Cave 2 (South)
+1.7
+Upper Canyon 2
+1.8
+Cave 3 (Upper)
+1.9
+Upper Canyon 3
+1.10
+Cave 3 (Upper)
+1.11
+Upper Canyon 4
+1.11.1
+Meet Mina, the Captain without a Trial
+1.12
+Farthest Tunnel
+1.12.1
+The Captainless Trial
+1.12.1.1
+VS Totem Kommo-o
+Vast Poni Canyon
+Vast Poni Canyon
+With the Grand Trial of
+Poni Island
+completed, the next step is to travel through
+Vast Poni Canyon
+on the way to the
+Altar of the Sunne
+S
+/
+Altar of the Moone
+M
+. It will be a tough road, as there are many other Trainers who have come here for training.
+Trainers
+Trainer
+Pokémon
+First cave
+Veteran
+Harry
+Reward:
+$
+4,048
+Torkoal
+♂
+Lv.
+46
+No item
+Arcanine
+♂
+Lv.
+46
+No item
+Backpacker
+Perdy
+Reward:
+$
+1,056
+Whimsicott
+♀
+Lv.
+44
+No item
+Ace Duo
+Kent and Aimee
+Reward:
+$
+6,256
+Sandslash
+♂
+Alolan form
+Lv.
+46
+No item
+Ninetales
+♀
+Alolan form
+Lv.
+46
+No item
+Second cave
+Hiker
+Zachary
+Reward:
+$
+1,408
+Archeops
+♂
+Lv.
+44
+No item
+Rampardos
+♂
+Lv.
+44
+No item
+Veteran
+Lynn
+Reward:
+$
+4,048
+Starmie
+Lv.
+46
+No item
+Shiinotic
+♀
+Lv.
+46
+No item
+Talonflame
+♀
+Lv.
+46
+No item
+Ace Trainer
+Junko
+Reward:
+$
+3,128
+Requires
+Mudsdale Gallop
+Lilligant
+♀
+Lv.
+45
+No item
+Weavile
+♀
+Lv.
+46
+No item
+Third cave
+Scientist
+Ikaika
+Reward:
+$
+2,112
+Muk
+♂
+Alolan form
+Lv.
+43
+No item
+Magnezone
+Lv.
+44
+No item
+Canyon after third cave
+Punk Girl
+Anna
+Reward:
+$
+1,408
+Persian
+♀
+Alolan form
+Lv.
+44
+No item
+Honchkrow
+♀
+Lv.
+44
+No item
+Punk Guy
+Adam
+Reward:
+$
+1,408
+Pangoro
+♂
+Lv.
+44
+No item
+Black Belt
+Earl
+Reward:
+$
+1,472
+Poliwrath
+♂
+Lv.
+46
+No item
+Ace Trainer
+Hiroshi
+Reward:
+$
+3,196
+Absol
+♂
+Lv.
+46
+No item
+Lapras
+♂
+Lv.
+47
+No item
+Veteran
+Heather
+Reward:
+$
+4,136
+Stoutland
+♀
+Lv.
+47
+No item
+Klefki
+♀
+Lv.
+47
+No item
+Tsareena
+♀
+Lv.
+47
+No item
+Veteran
+Eric
+Reward:
+$
+4,136
+Granbull
+♀
+Lv.
+47
+No item
+Cloyster
+♂
+Lv.
+47
+No item
+Golem
+♂
+Alolan form
+Lv.
+47
+No item
+Gengar
+♂
+Lv.
+47
+No item
+Third cave (bottom level)
+Black Belt
+Terry
+Reward:
+$
+1,472
+Machamp
+♂
+Lv.
+46
+No item
+Available Pokémon
+Canyon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Machoke
+Machoke
+S
+M
+Grass
+41-44
+30%
+Lycanroc
+Midday Form
+Lycanroc
+S
+M
+Grass
+41-44
+20%
+-
+Lycanroc
+Midnight Form
+Lycanroc
+S
+M
+Grass
+41-44
+-
+20%
+Carbink
+Carbink
+S
+M
+Grass
+41-44
+15%
+Murkrow
+Murkrow
+S
+M
+Grass
+41-44
+10%
+Skarmory
+Skarmory
+S
+M
+Grass
+41-44
+10%
+Boldore
+Boldore
+S
+M
+Grass
+41-44
+10%
+Jangmo-o
+Kommo-o
+Hakamo-o
+S
+M
+Grass
+41-44
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Caves
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Golbat
+Golbat
+S
+M
+Cave
+41-44
+30%
+Boldore
+Boldore
+S
+M
+Cave
+41-44
+30%
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Cave
+41-44
+20%
+Carbink
+Carbink
+Sableye
+S
+M
+Cave
+41-44
+20%
+Ambush encounters
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Dirt cloud
+41-44
+100%
+Surfing
+Golbat
+Golbat
+S
+M
+Surfing
+41-44
+80%
+Golduck
+Golduck
+S
+M
+Surfing
+41-44
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-44
+59%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-44
+40%
+Dratini
+Dratini
+Dragonair
+S
+M
+Fishing
+10-44
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-44
+50%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-44
+40%
+Dratini
+Dratini
+Dragonair
+S
+M
+Fishing
+10-44
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+Exterior Canyon; from Lillie, after defeating Hapu
+S
+M
+Max Potion
+×2
+Exterior Canyon; behind the fallen tree outside the cave entrance
+Cave 1; behind
+breakable rocks
+atop the ramp near Backpacker Perdy (requires
+Tauros Charge
+)
+S
+M
+Elixir
+Cave 1; through a hole near Backpacker Perdy (requires
+Tauros Charge
+)
+S
+M
+Nugget
+Cave 1; near a rock atop the ramp near Backpacker Perdy
+(hidden)
+S
+M
+Revive
+Upper Canyon 1; in a clearing in the tall grass southeast of the first cave's exit
+(hidden)
+S
+M
+X Attack
+Upper Canyon 1; west of the land bridge, around the cliff from the second cave's entrance
+S
+M
+Zygarde Cell
+Cave 2 (North); behind a small rock near the entrance, east of Hiker Zachary
+S
+M
+Escape Rope
+Cave 2 (South); near Veteran Lynn
+S
+M
+TM99
+(
+Dazzling Gleam
+)
+Upper Canyon 2; in a clearing south of the second cave, past Veteran Lynn (requires
+Mudsdale Gallop
+)
+S
+M
+X Sp. Atk
+Upper Canyon 2; in a clearing south of the second cave, on the rock (requires
+Mudsdale Gallop
+)
+(hidden)
+S
+M
+Zygarde Cell
+Cave 3 (Upper); near the dens on the western wall
+S
+M
+Full Restore
+Cave 3 (Upper); west of the group of boulders (requires
+Machamp Shove
+)
+S
+M
+Dusk Ball
+Upper Canyon 3; on the cliff outside the cave exit near the boulder puzzle (requires
+Machamp Shove
+)
+S
+M
+Zygarde Cell
+Upper Canyon 3; on the cliff outside the cave exit near the boulder puzzle (requires
+Machamp Shove
+)
+S
+M
+Fairium Z
+Upper Canyon 4; from
+Mina
+on the wooden bridge
+S
+M
+PP Max
+Upper Canyon 4; after the third cave, between the rock and the wall at the end of the third bridge
+(hidden)
+S
+M
+Full Heal
+Lower Canyon 1; after the third cave, south of the tree-root ramp
+S
+M
+X Defense
+Lower Canyon 1; behind the fallen tree southwest of the trial site, between four rocks
+(hidden)
+S
+M
+Zygarde Cell
+Cave 1; north of the boulder near the entrance, accessed via the canyon area after the third cave
+S
+M
+Rare Candy
+Cave 3 (Lower); on the second patch of land (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+TM35
+(
+Flamethrower
+)
+Cave 3 (Lower); on the third patch of land (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+TM02
+(
+Dragon Claw
+)
+Trial site; in a crevice on the east side of the path
+S
+M
+Dragonium Z
+Trial site; from the pedestal, after completing the trial
+S
+M
+Canyon
+When you reach the cave entrance,
+Lillie
+gives you a
+Max Revive
+and heals your team to full health. Before entering the cave, inspect the fallen tree near the cave entrance to reach a
+Max Potion
+.
+Cave 1
+Walk eastward to battle Veteran Harry, then continue on to fight Backpacker Perdy. Use
+Tauros Charge
+to break a nearby boulder; inspect the hole beyond it to crawl through the ramp and find an
+Elixir
+. Jump the ledge and climb up the ramp. Use Tauros Charge again to break the rocks to the east for another
+Max Potion
+. Go west for a
+Double Battle
+with Ace Duo Kent and Aimee. Continue westward up the hill and use Tauros Charge to clear one last rock. Head through the opening to reach the canyon exterior.
+Upper Canyon 1
+There is a clear path westward, but detour through the tall grass to the southeast first to find a clearing with a
+Revive
+. Head westward over the land bridge, then turn north. Walk past the next cave entrance and around the cliff to reach an
+X Attack
+, then backtrack and enter the cave.
+Cave 2 (North)
+Collect the
+Zygarde Cell
+and head west. Battle Hiker Zachary and exit through the next cave opening to the southwest.
+Upper Canyon 2
+Detour to the east and inspect the hole in the cliffside to reach a separate part of the previous cave.
+Cave 2 (South)
+Battle Veteran Lynn and grab the nearby
+Escape Rope
+before heading south. Fight past Ace Trainer Junko to reach another hole in the wall; this leads to a dead-end area with
+TM99
+(
+Dazzling Gleam
+). Backtrack through the chamber and return to the cliffside.
+Upper Canyon 2
+This time, go westward to reach a large, wooden bridge stretching off to the north. At this point,
+Lillie
+catches up to you. She faces her fear of heights and, despite an attempt to scare her by a flock of
+Murkrow
+, crosses the high bridge in a trial of her own. Once she heals your team on the far side of the bridge, you are free to enter the next cave.
+Cave 3 (Upper)
+Walk westward down the first ramp to reach a
+Zygarde Cell
+near the Pokémon dens and roving dust clouds. Continue eastward down the second ramp and use
+Machamp Shove
+to move the first boulder southward and drop it into a hole. Pick up the nearby
+Full Restore
+, then go south and push the second boulder into the hole. Detour through the cave opening to the south.
+Upper Canyon 3
+Pick up the nearby
+Dusk Ball
+and collect another
+Zygarde Cell
+to the west, then return to the boulder puzzle.
+Cave 3 (Upper)
+Push the third boulder northward to the hole, then climb up the ladder to the east. Fight Scientist Ikaika and exit through the nearby cave opening.
+Upper Canyon 4
+Meet Mina, the Captain without a Trial
+Battle past Punk Girl Anna and walk up onto the wooden bridge to meet a young, blonde woman. She introduces herself as
+Mina
+. A captain without a trial, she gives you the
+Fairium Z
+as a token of your meeting instead. Being an artist, as she leaves she wonders aloud if her trial could involve painting pictures and picking flowers.
+Continue across the bridge to fight Punk Guy Adam, then cross the next bridge. On the east end, use the exposed tree roots as a ramp to reach the canyon floor. Head to the southeast to reach a tall grass patch; walk up the hill and jump the ledge to pick up a
+Full Heal
+. Go past Black Belt Earl on the way back to the tree, then head west down a large slope to reach a fork in the road. Go south first; this leads to the first cave where you can use
+Machamp Shove
+to create a shortcut to the main entrance. Return to the intersection and inspect the fallen tree on the west side; this leads to the lower level of the third cave, where
+Lapras Paddle
+or
+Sharpedo Jet
+will let you reach a
+Rare Candy
+and
+TM35
+(
+Flamethrower
+). Backtrack to the intersection again and venture northward this time to battle Ace Trainer Hiroshi, Veteran Heather, and Veteran Eric. Beyond them, a trial gate stands outside another cave entrance. When you reach it, Lillie catches up to you and heals your Pokémon.
+Farthest Tunnel
+When you enter the tunnel, you immediately notice an ancient stone monument with faded text that mentions a trial and a totem. There is no captain to be found, but this seems to be the edge of a trial site.
+The Captainless Trial
+Proceed along the tunnel until you feel a piercing gaze... a moment later, you are ambushed by a wild
+Jangmo-o
+! Once this first battle ends, you still feel something watching you, with an even fiercer gaze than before. Venture into the small, dead-end tunnel to collect
+TM02
+(
+Dragon Claw
+) and continue on. A short distance farther you are attacked again, this time by a wild
+Hakamo-o
+! After this battle, you feel the fiercest pair of eyes imaginable on you...
+Type:
+Dragon
+Unknown
+Ability:
+Bulletproof
+Held item:
+None
+Jangmo-o
+♂
+/
+♀
+Lv.
+40
+Bide
+Normal
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Headbutt
+Normal
+Physical
+--
+Types:
+Dragon
+Fighting
+Ability:
+Bulletproof
+Held item:
+None
+Hakamo-o
+♂
+/
+♀
+Lv.
+40
+Headbutt
+Normal
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Work Up
+Normal
+Status
+--
+Sky Uppercut
+Fighting
+Physical
+--
+VS Totem Kommo-o
+At the end of the tunnel, you find a pedestal with a glittering Z-Crystal. As soon as you try to grab it, the Totem
+Kommo-o
+jumps down from the cliffs above to stop you! The creature is surrounded by an aura that raises all of its stats by one stage. As it is a
+Dragon
+/
+Fighting
+Pokémon,
+Fairy
+attacks will achieve the best results;
+Flying
+,
+Psychic
+,
+Ice
+, and
+Dragon
+moves are also effective.
+Totem Kommo-o
+Ally Hakamo-o
+Ally Scizor
+Aura: +1
+Atk
+,
+Def
+,
+Sp. Atk
+,
+Sp. Def
+,
+Speed
+Types:
+Dragon
+Fighting
+Ability:
+Soundproof
+Held item:
+Mental Herb
+Kommo-o
+♂
+Lv.
+45
+Clanging Scales
+Dragon
+Special
+--
+Sky Uppercut
+Fighting
+Physical
+--
+Flash Cannon
+Steel
+Special
+--
+Protect
+Normal
+Status
+--
+Types:
+Dragon
+Fighting
+Ability:
+Bulletproof
+Held item:
+None
+Hakamo-o
+♂
+/
+♀
+Lv.
+32
+Sky Uppercut
+Fighting
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Work Up
+Normal
+Status
+--
+Bide
+Normal
+Physical
+--
+Types:
+Bug
+Steel
+Ability:
+Technician
+Held item:
+None
+Scizor
+♂
+/
+♀
+Lv.
+32
+Metal Claw
+Steel
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Leer
+Normal
+Status
+--
+Fury Cutter
+Bug
+Physical
+--
+Defeated, the Totem
+Kommo-o
+retreats into hiding, and you collect the
+Dragonium Z
+. With this Z-Crystal, damaging
+Dragon-type
+moves can be upgraded to
+Devastating Drake
+.
+← Part 22
+Ruins of Hope, Exeggutor Island, Poni Grand Trial
+Sun and Moon
+walkthrough
+Altar of the Sunne / Altar of the Moone, Ultra Space
+Part 24 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

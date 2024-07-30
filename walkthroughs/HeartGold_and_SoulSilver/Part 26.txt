@@ -1,0 +1,1942 @@
+Part: Part 26
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_26
+Keywords: Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Seafoam Islands, Route 19
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 21
+2
+Cinnabar Island
+3
+Route 20 (west)
+4
+Seafoam Islands
+4.1
+Seafoam Gym
+4.2
+Seafoam Islands
+4.2.1
+B1F
+4.2.2
+B2F
+4.2.3
+B3F
+4.2.4
+B4F
+4.2.5
+B3F
+4.2.6
+B4F
+4.2.7
+B3F
+4.2.8
+B2F
+4.2.9
+B1F
+4.2.10
+B2F
+4.2.11
+B1F
+4.2.12
+B2F
+4.2.13
+B3F
+4.2.14
+B4F
+4.2.15
+B3F
+4.2.16
+B2F
+4.2.17
+B3F
+4.2.18
+B4F
+4.2.19
+B3F
+4.2.20
+B2F
+4.2.21
+B1F
+5
+Route 20 (east)
+6
+Route 19
+Route 21
+Route 21
+A single patch of tall grass stands on the shoreline, but after that the land gives way to the ocean. To the south lie the ruins of
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Nikki
+Reward:
+$
+672
+Seel
+♀
+Lv.
+37
+No item
+Dewgong
+♀
+Lv.
+42
+No item
+Fisherman
+Arnold
+Reward:
+$
+1408
+Shellder
+♂
+Lv.
+44
+No item
+Bird Keeper
+Kinsley
+Reward:
+$
+1184
+Farfetch'd
+♂
+Lv.
+36
+No item
+Fearow
+♂
+Lv.
+36
+No item
+Pidgeotto
+♂
+Lv.
+37
+No item
+Fisherman
+Murphy
+Reward:
+$
+1216
+Corsola
+♀
+Lv.
+32
+No item
+Corsola
+♀
+Lv.
+34
+No item
+Corsola
+♀
+Lv.
+36
+No item
+Corsola
+♀
+Lv.
+38
+No item
+Swimmer
+Chelan
+Reward:
+$
+640
+Azumarill
+♀
+Lv.
+40
+No item
+Fisherman
+Liam
+Reward:
+$
+1344
+Seadra
+♂
+Lv.
+42
+No item
+Swimmer
+Tyson
+Reward:
+$
+672
+Quagsire
+♂
+Lv.
+42
+No item
+Octillery
+♂
+Lv.
+42
+No item
+Fisherman
+Gideon
+Reward:
+$
+1280
+Lanturn
+♂
+Lv.
+44
+No item
+Mantine
+♂
+Lv.
+40
+No item
+Swimmer
+Esteban
+Reward:
+$
+608
+Golduck
+♂
+Lv.
+38
+No item
+Poliwhirl
+♂
+Lv.
+38
+No item
+Swimmer
+Duane
+Reward:
+$
+640
+Seaking
+♂
+Lv.
+40
+No item
+Kabutops
+♂
+Lv.
+40
+No item
+Bird Keeper
+Easton
+Reward:
+$
+1152
+Doduo
+♂
+Lv.
+35
+No item
+Doduo
+♂
+Lv.
+35
+No item
+Dodrio
+♂
+Lv.
+35
+No item
+Dodrio
+♂
+Lv.
+36
+No item
+Swimmer
+Kendra
+Reward:
+$
+688
+Slowking
+♀
+Lv.
+43
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+HG
+SS
+Grass
+20-35
+95%
+90%
+95%
+Mr. Mime
+HG
+SS
+Grass
+28
+,
+28-30
+5%
+10%
+5%
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Chinchou
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Shellder
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Lanturn
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Headbutt
+Tangela
+HG
+SS
+Headbutt
+27-30
+15%
+Hoothoot
+HG
+SS
+Headbutt
+24-26
+50%
+Hoothoot
+HG
+SS
+Headbutt
+27-30
+80%
+Wurmple
+HG
+SS
+Headbutt
+24-30
+20%
+Spinarak
+HG
+SS
+Headbutt
+24-26
+30%
+Ledyba
+HG
+SS
+Headbutt
+24-26
+30%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+35
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+25-30
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+35
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+25-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+×3
+On the northernmost sandbar (hidden)
+On the sandbar with no Trainers in the route's center (×2, hidden)
+HG
+SS
+Cinnabar Island
+The remains of Cinnabar Island
+At some point during the last few years, the volcanic
+Cinnabar Island
+erupted. The Pokémon Center has been rebuilt, but the rest of the town remains either buried in rubble or swept into the sea. It is here that you meet
+Blue
+, contemplating the power of nature. The former Champion and current Gym Leader refuses to return to his post at the
+Viridian Gym
+. In order to persuade him, you must first collect the seven other Kanto Gym Badges. To earn the seventh, you need to track down the Gym Leader of the displaced
+Cinnabar Gym
+. With the building destroyed,
+Blaine
+was forced to relocate to a cave in the
+Seafoam Islands
+to the east.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Chinchou
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Shellder
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Lanturn
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 20 (west)
+Route 20
+Route 20
+is a stretch of ocean that surrounds the
+Seafoam Islands
+. After the Cinnabar eruption,
+Blaine
+was forced to relocate to a small cave in the upper part of the eastern island.
+Trainers
+Trainer
+Pokémon
+West of Seafoam Islands
+Swimmer
+Frankie
+Reward:
+$
+704
+Azumarill
+♂
+Lv.
+44
+No item
+Bird Keeper
+Bert
+Reward:
+$
+1376
+Wingull
+♂
+Lv.
+46
+No item
+Fearow
+♂
+Lv.
+43
+No item
+Swimmer
+Mina
+Reward:
+$
+656
+Luvdisc
+♀
+Lv.
+38
+No item
+Luvdisc
+♀
+Lv.
+39
+No item
+Luvdisc
+♀
+Lv.
+41
+No item
+Picnicker
+Cheyenne
+Reward:
+$
+720
+Shinx
+♀
+Lv.
+45
+No item
+Bird Keeper
+Ernie
+Reward:
+$
+1536
+Starly
+♂
+Lv.
+48
+No item
+Swimmer
+Leona
+Reward:
+$
+704
+Bidoof
+♀
+Lv.
+44
+No item
+Picnicker
+Adrian
+Reward:
+$
+720
+Shroomish
+♀
+Lv.
+45
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Chinchou
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Shellder
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Lanturn
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West of Seafoam Islands
+Stardust
+On the northeast part of the narrow sandbar (hidden)
+HG
+SS
+DeepSeaTooth
+In the waters to the east of the eastern island (hidden)
+HG
+SS
+Seafoam Islands
+Seafoam Islands, 1F
+The relocated Cinnabar Gym
+Seafoam Gym
+Blaine
+'s quiz machines were destroyed, so there are no puzzles to solve. However, none of his six Gym Trainers will approach when you step into their line of sight. Each one is stationed at a choke-point and will not move until they are defeated. To reach the central area, it is necessary to approach from the western side, as Super Nerd Merle is the only one of the three nearest the Gym Leader that does not block the path upon defeat.
+The Gym Leader is a
+Fire-type
+specialist, so you may want to bring a few
+Burn Heals
+. All three of his Pokémon are susceptible to
+Water
+- and
+Ground-type
+moves, but his
+Magcargo
+is especially vulnerable. Though his Pokémon are at respectable levels, they still should not pose much of a threat at this point. Despite this, Water Pokémon should still be careful of
+Magmar
+'s
+ThunderPunch
+. Each of his Pokémon carries a
+White Herb
+, which prevents
+Overheat
+'s
+Special Attack
+drop for a single turn.
+Seafoam Gym
+Trainers
+Trainer
+Pokémon
+Scientist
+Lowell
+Reward:
+$
+1600
+Arcanine
+♂
+Lv.
+50
+No item
+Scientist
+Daniel
+Reward:
+$
+1600
+Ninetales
+♀
+Lv.
+50
+No item
+Super Nerd
+Cary
+Reward:
+$
+2544
+Torkoal
+♂
+Lv.
+53
+No item
+Scientist
+Linden
+Reward:
+$
+1600
+Magmar
+♂
+Lv.
+50
+No item
+Super Nerd
+Waldo
+Reward:
+$
+2544
+Numel
+♂
+Lv.
+53
+No item
+Super Nerd
+Merle
+Reward:
+$
+2544
+Magcargo
+♂
+Lv.
+53
+No item
+Leader
+Blaine
+Cinnabar Gym
+HeartGold and SoulSilver
+Reward:
+$
+7080
+Types:
+Fire
+Rock
+Ability:
+Flame Body
+Held item:
+White Herb
+Magcargo
+♂
+Lv.
+54
+Overheat
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Smog
+Poison
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Flame Body
+Held item:
+White Herb
+Magmar
+♂
+Lv.
+54
+ThunderPunch
+Electric
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Overheat
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+White Herb
+Rapidash
+♂
+Lv.
+59
+Quick Attack
+Normal
+Physical
+--
+Bounce
+Flying
+Physical
+--
+Overheat
+Fire
+Special
+--
+Flare Blitz
+Fire
+Physical
+--
+For defeating him,
+Blaine
+awards you the
+Volcano Badge
+. In addition, he hands out
+TM50
+(
+Overheat
+) as a prize.
+Seafoam Islands, B1F
+Seafoam Islands, B2F
+Seafoam Islands, B3F
+Seafoam Islands, B4F
+Seafoam Islands
+The
+Seafoam Islands
+are a pair of islands situated in the center of
+Route 20
+. The icy caves beneath these islands are full of twists and turns, and a legendary Pokémon makes its home on the lowest floor.
+Trainers
+Trainer
+Pokémon
+B2F
+Skier
+Cady
+Reward:
+$
+1696
+Delibird
+♀
+Lv.
+53
+No item
+Boarder
+Shaun
+Reward:
+$
+1600
+Cloyster
+♂
+Lv.
+55
+No item
+Dewgong
+♂
+Lv.
+50
+No item
+Boarder
+Bryce
+Reward:
+$
+1600
+Dewgong
+♂
+Lv.
+55
+No item
+Lapras
+♂
+Lv.
+50
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+26-28
+30%
+Golbat
+HG
+SS
+Cave
+30-32
+30%
+Psyduck
+HG
+SS
+Cave
+28-29
+30%
+Golduck
+HG
+SS
+Cave
+32
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+30-32
+20%
+Absol
+HG
+SS
+Hoenn Sound
+28-29
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+30-32
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+28-29
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Seel
+HG
+SS
+Cave
+32-34
+30%
+Golbat
+HG
+SS
+Cave
+32-34
+30%
+Psyduck
+HG
+SS
+Cave
+26-28
+16%
+Golduck
+HG
+SS
+Cave
+32-34
+14%
+Zubat
+HG
+SS
+Cave
+28-29
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+32-34
+20%
+Absol
+HG
+SS
+Hoenn Sound
+28-34
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+32-34
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+28-34
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Seel
+HG
+SS
+Cave
+33-35
+30%
+Golbat
+HG
+SS
+Cave
+33-35
+30%
+Psyduck
+HG
+SS
+Cave
+27-30
+16%
+Golduck
+HG
+SS
+Cave
+33-35
+14%
+Zubat
+HG
+SS
+Cave
+29-30
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+33-35
+20%
+Absol
+HG
+SS
+Hoenn Sound
+30-35
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+33-35
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+30-35
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+HG
+SS
+Cave
+34-36
+30%
+Dewgong
+HG
+SS
+Cave
+35-36
+24%
+Golduck
+HG
+SS
+Cave
+34-36
+14%
+Psyduck
+HG
+SS
+Cave
+31-32
+12%
+Zubat
+HG
+SS
+Cave
+31-32
+10%
+Seel
+HG
+SS
+Cave
+34
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+34-36
+20%
+Absol
+HG
+SS
+Hoenn Sound
+32-34
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+34-36
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+32-34
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B4F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+HG
+SS
+Cave
+38-40
+30%
+Dewgong
+HG
+SS
+Cave
+37-38
+24%
+Golduck
+HG
+SS
+Cave
+37-38
+14%
+Jynx
+HG
+SS
+Cave
+38-40
+12%
+Psyduck
+HG
+SS
+Cave
+34
+10%
+Seel
+HG
+SS
+Cave
+34
+10%
+Surfing
+Seel
+HG
+SS
+Surfing
+30-40
+60%
+Horsea
+HG
+SS
+Surfing
+30-40
+30%
+Slowbro
+HG
+SS
+Surfing
+35-50
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Psyduck
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Horsea
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Gyarados
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Horsea
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Kingler
+HG
+SS
+Fishing
+Super Rod
+40
+5%
+Seadra
+HG
+SS
+Fishing
+Super Rod
+40
+5%
+Special Pokémon
+Articuno
+HG
+SS
+Only one
+50
+One
+Makuhita
+HG
+SS
+Hoenn Sound
+38
+20%
+Absol
+HG
+SS
+Hoenn Sound
+34
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+38
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+34
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Escape Rope
+On a stalagmite, on the north side of the eastern entry chamber (hidden)
+HG
+SS
+B1F
+Grip Claw
+North-central area (requires
+Strength
+)
+HG
+SS
+Ice Heal
+×2
+Upper level, east of the ladder
+Lower level, in the lighter-colored area in the center (hidden)
+HG
+SS
+B2F
+Pearl
+×2
+B2F, on a rock in the north-west corner of the room
+(hidden)
+B2F, on a rock north of the south-easternmost ladder
+(hidden)
+HG
+SS
+Water Stone
+Atop the ledge in the south-central area
+HG
+SS
+B3F
+Max Revive
+Between two stalagmites in the southeast corner (hidden)
+HG
+SS
+Big Pearl
+Near the northwestern ice patch
+HG
+SS
+Rare Candy
+Upper level, on a stalagmite near the northwest ladder (hidden)
+HG
+SS
+Revive
+Upper level, south-central area
+HG
+SS
+B4F
+TM13
+(
+Ice Beam
+)
+On the northeast islet
+HG
+SS
+Ultra Ball
+On the north-central islet
+HG
+SS
+Zinc
+On the south-central islet, where
+Articuno
+had roosted (hidden)
+HG
+SS
+B1F
+When you first descend into the icy caves, you begin in the southeastern part of B1F. Move the boulders aside and collect the
+Grip Claw
+in the dead-end path to the north. Walk up onto the nearest platform to reach an
+Ice Heal
+and climb down the northernmost ladder.
+B2F
+Walk down the stairway and slide across the ice patch. Inspect the two frozen stalagmites to the north to find a hidden
+Pearl
+. Turn right and battle past Skier Cady, Boarder Shaun, and Boarder Bryce to reach the northeast ladder.
+B3F
+Head southwest and pick up the
+Max Revive
+lying hidden between two stalagmites. Take the ladder down to B4F.
+B4F
+Go north to find
+TM13
+(
+Ice Beam
+), and climb back up the ladder.
+B3F
+Head northwest, and move the boulder two paces northward. Circle around to the east side of the ice patch. Slide westward to the boulder, then north to reach another ladder.
+B4F
+Collect the
+Ultra Ball
+and climb back upstairs.
+B3F
+Cross the ice and climb the eastern ladder.
+B2F
+Pass by Boarder Bryce again, jump the ledge to the south, and climb the ladder.
+B1F
+Go west and climb down the nearest ladder on the lower level.
+B2F
+Pick up the
+Water Stone
+, jump the ledge, and take the ladder back to B1F.
+B1F
+Head north onto the upper level and climb down the ladder.
+B2F
+Circle around past the three Trainers and climb down the northeast ladder.
+B3F
+Go southwest to find three blocks sitting on an ice patch. Clear two of the three blocks out of the way by bumping into them from the north or south, sending them skidding away. Approach the third block from the east, which creates a stopping point that will allow you to continue westward. Another ice patch lies a short distance to the northwest. Bump the northeast block from the south, push the northwest block from the west, then slide clockwise from the southern edge of the ice to reach the
+Big Pearl
+. Climb down the ladder to the southwest.
+B4F
+Navigate the central part of the floor to reach the islet in the center, and climb the ladder.
+B3F
+Climb up the next ladder to B2F.
+B2F
+Cross the bridge and climb down the ladder in the southeast.
+B3F
+Take the next ladder down to the bottom floor.
+B4F
+Step into the water and surf westward. The nearest islet is the roost of
+Articuno
+, the first of Kanto's three
+legendary birds
+. Begin the battle with
+Fire
+-,
+Electric
+-, and
+Steel-type
+moves to weaken its health quickly, then follow up with
+Grass
+and
+Bug
+moves to wear it down further. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Types:
+Ice
+Flying
+Ability:
+Pressure
+Held item:
+None
+Articuno
+Lv.
+50
+AncientPower
+Rock
+Special
+--
+Agility
+Psychic
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Reflect
+Psychic
+Status
+--
+Afterwards, check the spot where it stood to find a hidden
+Zinc
+. Surf westward and climb the northwest ladder.
+B3F
+Walk a few paces southward and check the stalagmite to the east for a hidden
+Rare Candy
+. Head south then east to reach a
+Revive
+, then climb the southwest ladder.
+B2F
+Climb up the next ladder to B1F.
+B1F
+Head north and move the boulder aside to reach the northwest stairway, which leads to the islands' western exit.
+Route 20 (east)
+After exploring the icy depths of the
+Seafoam Islands
+, you re-emerge on
+Route 20
+. Continue eastward to reach the waters of
+Route 19
+.
+Trainers
+Trainer
+Pokémon
+East of Seafoam Islands
+Swimmer
+Luis
+Reward:
+$
+672
+Seadra
+♂
+Lv.
+46
+No item
+Quagsire
+♂
+Lv.
+42
+No item
+Camper
+Pedro
+Reward:
+$
+720
+Linoone
+♂
+Lv.
+45
+Sitrus Berry
+Swimmer
+Elmo
+Reward:
+$
+672
+Poliwhirl
+♂
+Lv.
+46
+No item
+Tentacruel
+♂
+Lv.
+42
+No item
+Swimmer
+Lori
+Reward:
+$
+672
+Starmie
+Lv.
+42
+No item
+Starmie
+Lv.
+42
+No item
+Starmie
+Lv.
+42
+No item
+Swimmer
+Nicole
+Reward:
+$
+672
+Marill
+♀
+Lv.
+39
+No item
+Marill
+♀
+Lv.
+39
+No item
+Lapras
+♀
+Lv.
+42
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+East of Seafoam Islands
+DeepSeaScale
+In the waters to the north of the western island (hidden)
+HG
+SS
+Route 19
+Route 19
+In the time it took to return to
+the beach
+near
+Fuchsia City
+, the debris from the
+Cinnabar
+eruption has been cleared away. Fight the Swimmers here for some quick cash, then fly back to
+Viridian
+to battle for the final Badge.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Tucker
+Reward:
+$
+704
+Shellder
+♂
+Lv.
+40
+No item
+Cloyster
+♂
+Lv.
+44
+No item
+Swimmer
+Debbie
+Reward:
+$
+736
+Clamperl
+♀
+Lv.
+46
+No item
+Swimmer
+Harold
+Reward:
+$
+640
+Remoraid
+♂
+Lv.
+42
+No item
+Seadra
+♂
+Lv.
+40
+No item
+Swimmer
+Jerome
+Reward:
+$
+608
+Seadra
+♂
+Lv.
+36
+No item
+Tentacool
+♂
+Lv.
+38
+No item
+Tentacruel
+♂
+Lv.
+40
+No item
+Goldeen
+♂
+Lv.
+38
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+37%
+Corsola
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+3%
+0%
+Staryu
+HG
+SS
+Fishing
+Good Rod
+20
+0%
+0%
+3%
+Krabby
+HG
+SS
+Fishing
+Super Rod
+40
+67%
+Corsola
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+30%
+0%
+Staryu
+HG
+SS
+Fishing
+Super Rod
+40
+0%
+0%
+30%
+Kingler
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Rock Smash
+Krabby
+HG
+SS
+Rock Smash
+24-27
+90%
+Kingler
+HG
+SS
+Rock Smash
+28-31
+10%
+Swarm
+Clamperl
+HG
+SS
+Swarm
+35
+60%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM55
+(
+Brine
+)
+On the southeastern sandbar
+HG
+SS
+Big Pearl
+Buried in the sand underneath TM55 (hidden)
+HG
+SS
+Pearl
+×2
+On the beach, near the water's edge (hidden)
+HG
+SS
+Max Elixir
+On the rock wall, southeast of the gate (hidden)
+HG
+SS
+Revive
+Behind two cracked rocks, east of the gate (hidden, requires
+Rock Smash
+)
+HG
+SS
+← Part 25
+Viridian City, Route 1, Pallet Town
+HeartGold and SoulSilver
+walkthrough
+Viridian Gym, Oak's Lab, Power Plant, Cerulean Cave
+Part 27 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

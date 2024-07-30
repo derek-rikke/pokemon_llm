@@ -1,0 +1,1041 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_16
+Keywords: Abandoned Ship, Route 129, Route 130, Route 131, Pacifidlog Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 108
+1.1
+Abandoned Ship
+1.2
+1F (east)
+1.3
+B1F
+1.4
+1F (west)
+1.5
+Captain's Office
+1.6
+B1F
+1.7
+Hidden Floor
+2
+Route 129
+3
+Route 130
+3.1
+Mirage Island
+4
+Route 131
+5
+Pacifidlog Town
+5.1
+An Old Legend
+5.2
+Mirage Man
+5.3
+Time for a Trade
+5.4
+Friendship is Everything
+Route 108
+Abandoned Ship, exterior
+Abandoned Ship, 1F
+Abandoned Ship, B1F
+Abandoned Ship, underwater hallway
+Abandoned Ship, hidden floor
+Abandoned Ship
+Located on
+Route 108
+, the
+Abandoned Ship
+is all that remains from when the S.S. Cactus ran aground. The old vessel has many rusted holes, broken doors, and furniture scattered around. Navigating the structure requires the use of both
+Surf
+and
+Dive
+. Once slated for demolition, the half-sunken vessel now exists as a refuge for water-dwelling Pokémon.
+Trainers
+Trainer
+Pokémon
+B1F
+Sailor
+Duncan
+Reward:
+$
+832
+Wailmer
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+26
+No item
+1F
+Tuber
+Charlie
+Reward:
+$
+108
+Marill
+♂
+Lv.
+27
+No item
+Young Couple
+Lois & Hal
+Reward:
+$
+1728
+Volbeat
+♂
+Lv.
+27
+No item
+Illumise
+♀
+Lv.
+27
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+99%
+Tentacruel
+R
+S
+E
+Surfing
+30-35
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+40%
+Tentacool
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Tentacruel
+R
+S
+E
+Fishing
+Super Rod
+20-35
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Harbor Mail
+East side, northwest room
+R
+S
+Revive
+West side, north room
+R
+S
+B1F
+Dive Ball
+In the cabin with the broken door
+R
+S
+Escape Rope
+Southwest cabin
+R
+S
+TM13
+(
+Ice Beam
+)
+Northeast room (requires
+Storage Key
+)
+R
+S
+2F
+Storage Key
+Captain's office
+R
+S
+Hidden Floor
+Rm. 1 Key
+Room 3, northeast corner (hidden)
+R
+S
+Water Stone
+Room 3
+R
+S
+Rm. 4 Key
+Room 1, near the west wall (hidden)
+R
+S
+TM18
+(
+Rain Dance
+)
+Room 1
+R
+S
+Rm. 6 Key
+Room 4, in the trash can (hidden)
+R
+S
+Luxury Ball
+Room 6
+R
+S
+Rm. 2 Key
+Room 5, three step south of the left-hand trash can (hidden)
+R
+S
+Scanner
+Room 2
+R
+S
+1F (east)
+Three of the four cabins here are connected. Visit the isolated northwest cabin for a
+Harbor Mail
+and head downstairs.
+B1F
+Fight Sailor Duncan and collect a
+Dive Ball
+from the north-central cabin. Visit the southwest cabin for an
+Escape Rope
+and climb the stairs in the northwest corner.
+1F (west)
+Pass through the north cabin to get a
+Revive
+, then go through the south door to reach the outside of the ship. Climb the stairway there to reach the Captain's office.
+Captain's Office
+The Scientist inside is investigating the ship on
+Captain Stern
+'s behalf. Stern asked him to find a Scanner, but he hasn't had much success. Pick up the nearby
+Storage Key
+and return to the basement floor.
+B1F
+Inspect the locked door to the northeast cabin to insert the Storage Key. The key becomes stuck in the lock, but the door opens. Inside, you find
+TM13
+(
+Ice Beam
+). After that, head for the south-central cabin. Seawater has flooded into the room, so use
+Dive
+to traverse an underwater hallway that leads to an isolated part of the ship.
+Hidden Floor
+This part of the ship has six cabins. Rooms 1-3 are located on the south side, and Rooms 4-6 are found to the north. Four of these rooms are locked, and although Room 5 is unlocked, there is debris blocking the door.
+Enter Room 3 to see a sparkle on the floor; this signifies a hidden item. Pick up the
+Rm. 1 Key
+from the northeast corner, and the
+Water Stone
+to the left before leaving.
+There are two hidden items in Room 1. The
+Rm. 4 Key
+is located near the west wall, while the other item is just trash. The visible item is
+TM18
+(
+Rain Dance
+).
+In Room 4, inspect the trash can in the northeast corner to find the
+Rm. 6 Key
+.
+Enter Room 6 and collect the
+Luxury Ball
+, then use the narrow hallway to reach the adjoining room. Room 5 has three pieces of trash and one item; the
+Rm. 2 Key
+is located three steps south of the left-hand trash can.
+Visit Room 2 to find the
+Scanner
+. If you show this to the Scientist in the Captain's office, he asks you to take it to Captain Stern back in
+Slateport Harbor
+. Once there, Stern offers to trade either a
+DeepSeaTooth
+or a
+DeepSeaScale
+for it. The DeepSeaTooth doubles a
+Clamperl
+'s
+Special Attack
+when held, and triggers Clamperl's evolution into
+Huntail
+when traded. The DeepSeaScale doubles a Clamperl's
+Special Defense
+when held, and triggers its evolution into
+Gorebyss
+when traded.
+Route 129
+Route 129
+Route 129
+lies to the south of
+Route 128
+. Though an optional route, the several Trainers found here make it a worthwhile place to explore.
+Trainers
+Trainer
+Pokémon
+Triathlete
+Allison
+Reward:
+$
+1000
+Wingull
+♀
+Lv.
+25
+No item
+Wingull
+♀
+Lv.
+25
+No item
+Staryu
+Lv.
+33
+No item
+Wingull
+♀
+Lv.
+25
+No item
+Triathlete
+Chase
+Reward:
+$
+1400
+Wingull
+♂
+Lv.
+27
+No item
+Staryu
+Lv.
+35
+No item
+Swimmer
+Reed
+Reward:
+$
+256
+Carvanha
+♂
+Lv.
+32
+No item
+Carvanha
+♂
+Lv.
+32
+No item
+Spheal
+♂
+Lv.
+32
+No item
+Sharpedo
+♂
+Lv.
+32
+No item
+Swimmer
+Tisha
+Reward:
+$
+264
+Chinchou
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Pelipper
+♀
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+4%
+Wailord
+R
+S
+E
+Surfing
+35-40
+1%
+Wailord
+R
+S
+E
+Surfing
+25-30
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+35%
+Luvdisc
+R
+S
+E
+Fishing
+Super Rod
+30-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 130
+Route 130
+Route 130, with Mirage Island
+Route 130
+is a short, straightforward route that links Routes
+129
+and
+131
+. The waterway is occasionally occupied by
+Mirage Island
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Katie
+Reward:
+$
+264
+Goldeen
+♀
+Lv.
+33
+No item
+Chinchou
+♀
+Lv.
+33
+No item
+Spheal
+♀
+Lv.
+33
+No item
+Swimmer
+Rodney
+Reward:
+$
+272
+Horsea
+♂
+Lv.
+34
+No item
+Gyarados
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mirage Island
+Wynaut
+R
+S
+E
+Grass
+5, 10, 15, 20, 25, 30, 35, 40, 45, 50
+100%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Liechi Berry
+Soft soil patch on Mirage Island
+R
+S
+Mirage Island
+While
+Route 130
+usually appears as a simple stretch of ocean, it is sometimes home to a strange island that seems to appear and disappear. The island is inhabited only by
+Wynaut
+, which range in level from 5 to 50. A soft soil patch on the island's east side holds a single
+Liechi Berry
+tree. This is the best Berry to use in
+Pokéblocks
+, as it will produce Gold Pokéblocks.
+Route 131
+Route 131
+Route 131
+lies between
+Route 130
+to the east and
+Pacifidlog Town
+to the west. There are no underwater trenches in this stretch of ocean, but several Trainers on the surface are looking to battle. On the route's north side is a large island, currently off-limits, that is home to the towering
+Sky Pillar
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Kara
+Reward:
+$
+280
+Seaking
+♀
+Lv.
+35
+No item
+Swimmer
+Herman
+Reward:
+$
+272
+Wailmer
+♂
+Lv.
+34
+No item
+Tentacruel
+♂
+Lv.
+34
+No item
+Swimmer
+Susie
+Reward:
+$
+264
+Horsea
+♀
+Lv.
+33
+No item
+Wailmer
+♀
+Lv.
+33
+No item
+Pelipper
+♀
+Lv.
+33
+No item
+Swimmer
+Richard
+Reward:
+$
+280
+Pelipper
+♂
+Lv.
+35
+No item
+Sis and Bro
+Reli & Ian
+Reward:
+$
+816
+Azumarill
+♀
+Lv.
+36
+No item
+Wingull
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pacifidlog Town
+Pacifidlog Town
+Pacifidlog Town
+is a humble community resting on the calm waters of eastern
+Hoenn
+. These floating homes surround a central Pokémon Center, where weary Trainers can catch a break from the waves.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+25-35
+40%
+Special Pokémon
+Corsola
+R
+S
+E
+Trade
+Bellossom
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM21
+(
+Frustration
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's
+friendship
+is low
+R
+S
+TM27
+(
+Return
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is high
+R
+S
+Wave Mail
+Held by Coroso, the traded
+Corsola
+R
+S
+An Old Legend
+Visit the northeast house and talk to the girl inside. She tells you a mysterious bit of wisdom passed down from her grandfather:
+Six dots open three doors
+. Her father also remembers hearing tales of three Pokémon representing the powers of
+Rock
+,
+Ice
+, and
+Steel
+. It seems that Hoenn still has some secrets to discover!
+Mirage Man
+The old man in the southeast house spends his time by scanning the horizon for
+Mirage Island
+. Speak with him every day to learn if the island has appeared.
+Time for a Trade
+The woman in the south-central house is having trouble catching different Pokémon around town. She wishes to trade her
+Corsola
+for a
+Bellossom
+. Corsola can be found on
+Route 128
+, but almost never appear. Bellossom evolves from
+Gloom
+, which can be found easily in several areas, including the
+Safari Zone
+.
+Friendship is Everything
+Stop by the southwest house to meet the brother of the Pokémon Fan Club chairman. Have him evaluate your relationship with your lead Pokémon, and he'll reward your friendship with
+TM27
+(
+Return
+). If your Pokémon is unfriendly toward you, he'll give you
+TM21
+(
+Frustration
+) instead.
+← Part 15
+Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+Ruby and Sapphire
+walkthrough
+Routes 132, 133, and 134, Sealed Chamber, Island Ruins, Desert Ruins, Ancient Tomb
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

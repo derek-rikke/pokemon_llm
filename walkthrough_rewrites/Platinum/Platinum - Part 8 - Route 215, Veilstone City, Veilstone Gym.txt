@@ -1,0 +1,48 @@
+Game: Platinum
+Part: 8
+Keywords: Route 215, Veilstone City, Veilstone Gym
+
+### Part 8: Route 215, Veilstone City, Veilstone Gym
+
+#### Route 215
+- **Available Pokémon**: 
+  - Abra (Lv. 19), Kadabra (Lv. 21-22), Lickitung (Lv. 20), Scyther (Lv. 20, 22), Marill (Lv. 20-22), Staravia (Lv. 19, 21).
+  
+- **Key Trainers**:
+  - Ruin Maniac Calvin: Bronzer (Lv. 23), Shieldon (Lv. 23).
+  - Black Belt Derek: Croagunk (Lv. 26).
+  - Ace Trainer Dennis: Gligar (Lv. 24), Drifblim (Lv. 25), Buizel (Lv. 24).
+  
+- **Items**: 
+  - Max Ether (past first bridge), TM66 (Payback) (Black Belt), Revive (between bridges), Fist Plate (requires Cut), Pecha Berries, Hyper Potion, HP Up, Ultra Ball, TM34 (Shock Wave) (requires Cut).
+
+**Strategy**: Route 215 is ideal for training Water-types due to rain. Utilize Cut for easier navigation and item collection.
+
+#### Veilstone City
+- **Key Locations**:
+  - **Game Corner**: Obtain Coin Case from a clown west of the Game Corner.
+  - **Massage Lady**: In the house next to the Coin Case; massages Pokémon daily.
+  - **Veilstone Department Store**: Stock up on items and TMs. Notable TMs include TM54 (False Swipe), TM25 (Thunder), TM38 (Fire Blast), and TM52 (Focus Blast).
+
+- **Items**: 
+  - Calcium (west of warehouse), Star Piece (north of city entrance), PP Up (near Veilstone Department Store), TM63 (Embargo), Rare Candy (west side of Galactic Building), HM02 (Fly) (in Galactic Warehouse).
+
+- **Gift Pokémon**: Porygon (Lv. 25) available in the house north of the Pokémon Center.
+
+#### Veilstone Gym
+- **Leader**: Maylene (Fighting-type)
+  - **Strategy**: Use Psychic or Flying-type Pokémon against her team. 
+    - **Meditite**: Weak to Ghost and Psychic.
+    - **Machoke**: Avoid Flying due to Rock Tomb; use Psychic or Ghost.
+    - **Lucario**: Weak to Fire, Fighting, and Ground. 
+
+**Gym Layout**: Navigate by pushing punching bags to open paths. Aim for the upper left punching bag to reach Maylene.
+
+- **Key Trainers**: 
+  - Black Belts with varying Machoke and Croagunk levels.
+
+**Post-Gym**: 
+- After defeating Maylene, receive the Cobble Badge and TM60 (Drain Punch). 
+- Meet Lucas/Dawn who informs you about a stolen Pokédex. 
+
+- **Next Steps**: Heal at the Pokémon Center and proceed to the Galactic Warehouse to battle Team Galactic Grunts. Afterward, head south to Pastoria City via Route 214.

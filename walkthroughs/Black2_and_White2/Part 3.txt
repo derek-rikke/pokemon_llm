@@ -1,0 +1,749 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_3
+Keywords: Virbank City, Virbank Complex, Virbank Gym, Pokéstar Studios
+
+Walkthrough Text:
+Contents
+1
+Virbank City
+1.1
+Virbank Complex
+1.2
+Virbank Gym
+1.2.1
+Easy Mode/Normal Mode
+1.2.2
+Challenge Mode
+2
+Pokéstar Studios
+2.1
+Shooting a Movie
+3
+Virbank City
+3.1
+Team Plasma Appears
+4
+Route 20
+5
+Virbank City
+Virbank City
+Virbank City
+Virbank City
+is an industrial port city often covered by clouds and smoke. The multi-level city uses bridges and stairways to allow residents to move about, and valuable items can be found in these passageways. Upon arriving in the city, Mom calls on the
+Xtransceiver
+to check in, and suggests that you visit the
+Virbank Complex
+at night for a nice view.
+Items
+Item
+Location
+Games
+Great Ball
+×2
+From the attendant in the western gate
+B2
+W2
+Poké Toy
+In the house east of the Pokémon Center
+B2
+W2
+Burn Heal
+From a Nursery Aide in the southwest building
+B2
+W2
+Antidote
+In the trash can outside the southwest building (hidden)
+B2
+W2
+Poké Ball
+×5
+From the Roughneck outside the Gym
+B2
+W2
+Pearl
+Under the south bridge, accessed from the ramp behind the Gym (hidden)
+B2
+W2
+Fresh Water
+From
+Clyde
+inside the Gym
+B2
+W2
+After defeating the Virbank Gym
+TM09
+(
+Venoshock
+)
+From Roxie after defeating her
+B2
+W2
+HM01
+(
+Cut
+)
+From Roxie after defeating the Plasma Grunt by the docks
+B2
+W2
+Requires
+Surf
+Rare Candy
+Near the stairway to the west of the Pokémon Center
+B2
+W2
+When you approach the Pokémon Center, you see the local Gym Leader,
+Roxie
+, arguing with her father. Pop Roxie usually ferries people to
+Castelia City
+and back with his ship docked at the pier, but has decided to become an actor at
+Pokéstar Studios
+. This is the only link from here to Castelia, and Roxie tells him that his selfishness will keep people from getting where they need to go. He won't listen, and leaves for the studios; Roxie heads for the Gym in a huff.
+Virbank Complex
+Virbank Complex
+Virbank Complex
+is an industrial zone with a large crane and many storage tanks. The raised walkways allow the workers to avoid the tall grass below. The tanks and towers are lit up beautifully at night. If you catch a
+Magnemite
+here, its
+metal
+body will prevent it from getting poisoned at the Gym.
+Trainers
+Trainer
+Pokémon
+Youngster
+Masahiro
+Reward:
+$
+208
+Lillipup
+♂
+Lv.
+13
+No item
+Worker
+Mitchell
+Reward:
+$
+480
+Patrat
+♂
+Lv.
+12
+No item
+Elekid
+♂
+Lv.
+12
+No item
+Youngster
+Waylon
+クニユキ
+Kuniyuki
+Reward:
+$
+208
+Patrat
+♂
+Lv.
+13
+No item
+Worker
+Nathan
+Reward:
+$
+480
+Riolu
+♂
+Lv.
+12
+No item
+Lillipup
+♂
+Lv.
+12
+No item
+Worker
+Isaac
+Reward:
+$
+480
+Magby
+♂
+Lv.
+12
+No item
+Koffing
+♂
+Lv.
+12
+No item
+Lass
+Daya
+Reward:
+$
+208
+Woobat
+♀
+Lv.
+13
+No item
+Available Pokémon
+Outer area
+Pokémon
+Games
+Location
+Levels
+Rate
+Patrat
+B2
+W2
+Grass
+10-13
+35%
+Pidove
+B2
+W2
+Grass
+10-13
+35%
+Magnemite
+B2
+W2
+Grass
+10-11
+15%
+Elekid
+B2
+W2
+Grass
+10-12
+15%
+Magby
+B2
+W2
+Grass
+10-12
+15%
+Rustling grass
+Audino
+B2
+W2
+Grass
+10-13
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inner area
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+B2
+W2
+Grass
+10-12
+25%
+Elekid
+B2
+W2
+Grass
+10-12
+25%
+Magby
+B2
+W2
+Grass
+10-12
+25%
+Growlithe
+B2
+W2
+Grass
+11-13
+20%
+Koffing
+B2
+W2
+Grass
+10-13
+15%
+Patrat
+B2
+W2
+Grass
+10-13
+15%
+Rustling grass
+Audino
+B2
+W2
+Grass
+10-13
+100%
+Dark grass
+Magnemite
+B2
+W2
+Dark grass
+11-13
+25%
+Elekid
+B2
+W2
+Dark grass
+11-13
+25%
+Magby
+B2
+W2
+Dark grass
+11-13
+25%
+Growlithe
+B2
+W2
+Dark grass
+12-14
+20%
+Koffing
+B2
+W2
+Dark grass
+11-14
+15%
+Patrat
+B2
+W2
+Dark grass
+11-14
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Accuracy
+In a grass patch just south of the city
+B2
+W2
+Great Ball
+From the Roughneck near the crane, in exchange for a
+Poké Ball
+(one per day)
+B2
+W2
+Silk Scarf
+Follow the path from the stairway near the crane
+B2
+W2
+TM46
+(
+Thief
+)
+Near Worker Isaac in the southeast corner
+B2
+W2
+TM94
+(
+Rock Smash
+)
+From the Workers' boss after defeating the three of them
+B2
+W2
+Great Ball
+×6
+In the southeast grass patch (hidden)
+From a girl on the south side after completing the local Habitat List (×5)
+B2
+W2
+TinyMushroom
+Near the northeast tower (hidden)
+B2
+W2
+Ether
+From the Scientist, after talking to him three times
+B2
+W2
+Requires
+Cut
+Super Potion
+West of the entrance
+B2
+W2
+There is an
+X Accuracy
+in the outer grass patch, and the Roughneck down the stairway to the east will offer to swap his
+Great Ball
+for your
+Poké Ball
+once a day. Follow the path behind him to find a
+Silk Scarf
+.
+Just inside the complex itself, the man near the tree has a favor to ask. He needs to get his three new Workers fired up, so you need to battle each of them. Follow the path southward and climb the stairway to the left. Take the raised walkways to the southeast to find Worker Isaac, and
+TM46
+(
+Thief
+) nearby. Turn around and go north to meet Worker Mitchell, then head west. Jump down from the northwest walkway to reach Worker Nathan. With the three defeated, talk to their boss again to get
+TM94
+(
+Rock Smash
+) as thanks.
+There is a Scientist talking to himself near the tower in the northeast. Speak to him, and he runs off to the smokestack in the southwest. Talk to him again and he moves to the clearing in the south. Speak to him here to get an
+Ether
+.
+Virbank Gym
+Virbank Gym
+Virbank City Pokémon Gym
+Leader: Roxie
+Poison days, poison on the stage!
+The interior of the
+Virbank Gym
+is designed like a rock club.
+Roxie
+and her bandmates specialize in
+Poison-type
+Pokémon, so be sure to bring some
+Antidotes
+!
+Psychic
+- and
+Ground-type
+attacks are the most useful, but
+Fire
+- and
+Flying-type
+moves are also effective against
+Venipede
+and
+Whirlipede
+. The band is playing so loud that Roxie can't hear you challenge her, so defeat Nicky and Billy Jo to stop the music.
+Roxie
+'s
+Whirlipede
+has the
+Poison Point
+Ability, which
+poisons
+your Pokémon after launching a direct attack. Use an
+Antidote
+quickly, because its
+Venoshock
+attack inflicts serious damage to poisoned opponents!
+Virbank Gym
+Trainers
+Trainer
+Pokémon
+Roughneck
+Nicky
+Reward:
+$
+336
+Grimer
+♂
+Lv.
+14
+No item
+Koffing
+♂
+Lv.
+14
+No item
+Guitarist
+Billy Jo
+Reward:
+$
+448
+Venipede
+♀
+Lv.
+14
+No item
+Koffing
+♀
+Lv.
+14
+No item
+Easy Mode/Normal Mode
+Leader
+Roxie
+Virbank Gym
+Black 2 and White 2
+Reward:
+$
+2040
+/
+$
+2160
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♀
+Lv.
+15
+/
+16
+Assurance
+Dark
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Poison Point
+Held item:
+None
+Whirlipede
+♀
+Lv.
+17
+/
+18
+Venoshock
+Poison
+Special
+--
+Protect
+Normal
+Status
+--
+Poison Sting
+Poison
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Challenge Mode
+Leader
+Roxie
+Virbank Gym
+Black 2 and White 2
+Reward:
+$
+2280
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+Oran Berry
+Koffing
+♀
+Lv.
+17
+Assurance
+Dark
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+Venoshock
+Poison
+Special
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Grimer
+♀
+Lv.
+17
+Venoshock
+Poison
+Special
+--
+Mud-Slap
+Ground
+Special
+--
+Poison Gas
+Poison
+Status
+--
+Disable
+Normal
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Poison Point
+Held item:
+Sitrus Berry
+Whirlipede
+♀
+Lv.
+19
+Venoshock
+Poison
+Special
+--
+Protect
+Normal
+Status
+--
+Poison Sting
+Poison
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Defeated,
+Roxie
+awards you the
+Toxic Badge
+, which makes Pokémon up to level 30 obey. She also gives you
+TM09
+(
+Venoshock
+) as a prize.
+Stepping down from the stage, you are approached by a man who turns out to be a scout from
+Pokéstar Studios
+on the north side of town. Roxie overhears your conversation, and heads off to find her father.
+Pokéstar Studios
+Pokéstar Studios
+Pokéstar Studios
+is a facility where you and your Pokémon can become movie stars! The movies are produced in the high-tech studio to the left, and the theater to the right can show up to eight movies at a time. The plaza holds some unique items, like a mini model of the
+Royal Unova
+and a model of
+Skyarrow Bridge
+in 1/144 scale. There's even a Harlequin who sells portraits of high-ranking stars.
+Items
+Item
+Location
+Games
+Lemonade
+From a Backpacker in the Theater lobby after getting a good ending
+B2
+W2
+Outside the gate, the scout introduces you to the boss of the studios, a man named Stu Deeoh. Then he gives a quick tour of the facilities. Pop Roxie is inside the theater, having just filmed his first movie. The scout asks you to see his movie to get a feel for how things work, but the movie isn't very good and the audience is not impressed. Disappointed, the captain returns to
+Virbank City
+. The scout invites you to the studio, where you costar with famous actor and former
+Icirrus
+Gym Leader,
+Brycen
+. Follow the scenario to complete the movie and you may unlock new scenarios.
+Shooting a Movie
+To act in a movie, talk to the assistant director in the Studio lobby to select a script. Your costar is usually a rental Pokémon, but after achieving a happy ending you can costar with your own Pokémon. Follow the script for a successful shoot. The words and Pokémon attacks that you choose determine the movie's plot. Completed movies are screened right away inside the Theater, and there is nothing else to do at this point, so just sit back and enjoy. After watching a movie once, you can stop it on later viewings with the B Button. Pay attention to reviews on the Theater's monitor; as your movies become more successful, your Star Rank will rise and you'll earn more fans, who may give you items. You'll get better items with a higher Star Rank.
+Each of your Pokémon have their own Star Rank, as well. As their Star Rank goes up, so does the Box Office Gross for that movie. Star Pokémon will display their own special effects in battle.
+Type of Ending
+Your Star Rank
+Your Pokémon's Star Rank
+Happy
+Improves slightly
+Improves moderately
+Sad
+Improves very slightly
+Decreases
+Strange
+Improves greatly
+Pokémon becomes a Star
+Completing all 40 movies with happy endings will earn you a bronze statue in the plaza and access to the Studio's VIP Room, but this may not be so easy. Achieving a good ending requires the correct lines, but seemingly good lines are often wrong. Each of the five directors (Sergeo, Takashi, John, Sydney, and David) has their own preferences, so try to act out what they would like best. There are nearly two dozen
+Medals
+to earn here, as well.
+Virbank City
+Team Plasma Appears
+With the
+Virbank Gym
+defeated, your next stop is
+Castelia City
+. Head southeast to the pier to find
+Roxie
+and
+Hugh
+confronting a few members of
+Team Plasma
+. Your friends take on the other Grunts, so talk to the one in the center to begin the battle.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+560
+Patrat
+♂
+Lv.
+14
+No item
+After suffering a sound defeat, the three Plasma Grunts run away as fast as they can. Before running off in pursuit, Roxie gives you
+HM01
+(
+Cut
+) as thanks for your help. She asks the two of you to search
+Route 20
+, and Hugh runs off.
+The Team Plasma grunt is waiting by the tall grass in Route 20.
+Route 20
+Climb up the stairway in the center of the route and go south. The Plasma Grunt is hiding out in a small clearing just off the main path.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+560
+Purrloin
+♀
+Lv.
+14
+No item
+Before running off, she asks aloud why she ran inland, as she needs to get to the coast. Just then
+Hugh
+shows up, with news that
+Team Plasma
+is traveling in some kind of ship. Return to
+Virbank
+and head for the pier.
+Virbank City
+Pop Roxie has returned to the docks after his movie didn't do very well. He is feeling discouraged, but
+Roxie
+cheers him up, and he decides to return to his job as captain. Enter the building to find Hugh standing at the counter. He asks if you are headed to
+Castelia
+too, and the two of you board the ship for the big city.
+← Part 2
+Route 20, Floccesy Ranch, Pledge Grove, Aspertia Gym
+Black 2 and White 2
+walkthrough
+Castelia City, Castelia Sewers, Castelia Gym
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

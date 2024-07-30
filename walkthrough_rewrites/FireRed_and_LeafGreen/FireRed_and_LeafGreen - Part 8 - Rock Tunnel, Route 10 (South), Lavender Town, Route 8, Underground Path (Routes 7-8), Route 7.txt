@@ -1,0 +1,54 @@
+Game: FireRed_and_LeafGreen
+Part: 8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+### Concise Walkthrough: Part 8 - Rock Tunnel to Lavender Town
+
+**Route 10 - Rock Tunnel**
+- **Rock Tunnel** is dark; bring a Pokémon with **Flash**.
+- **Trainers:**
+  - **1F**: Defeat trainers like PokéManiac Ashton (Cubone, Lv. 23) and Hiker Lenny (Geodude, Lv. 19).
+  - **B1F**: Face PokéManiac Winston (Slowpoke, Lv. 25) and others.
+  
+- **Available Pokémon**:
+  - **1F**: Geodude, Zubat, Mankey, Machop, Onix.
+  - **B1F**: Same as 1F, plus higher-level Machop and Onix.
+
+- **Items**:
+  - **1F**: Repel (Northeast), Escape Rope (West), Pearl (Southwest).
+  - **B1F**: Revive (Southeast), Max Ether (Northwest).
+
+- **Path**: 
+  - Start at the **Northeast** for Repel, defeat trainers, go to B1F, collect items, battle trainers, and exit through **Southwest**.
+
+**Route 10 (South)**
+- Shorter than the north path. Trainers include Picnicker Carol (Pidgey, Lv. 21) and Hiker Clark (Geodude, Lv. 21).
+
+- **Item**: Nanab Berry (east of Rock Tunnel exit).
+
+**Lavender Town**
+- Visit the **Name Rater** to change Pokémon nicknames for free.
+- **Lavender Volunteer Pokémon House**: Talk to Mr. Fuji here.
+  
+- **Pokémon Tower**: 
+  - Encounter **Rival Battle 5** on the second floor.
+  - Ghosts can be battled after obtaining a certain item.
+  
+**Route 8**
+- Connects Lavender Town to Saffron City. Trainers include Lass Julia (Clefairy, Lv. 22) and Gamer Rich (Growlithe, Lv. 24).
+
+- **Items**: Leppa Berry, Lum Berry, Rawst Berry (hidden in tall grass, requires Cut).
+
+**Underground Path**
+- Use the **second Underground Path** to travel west to Route 7.
+
+- **Items**: Various hidden items like Ice Heal and Antidote.
+
+**Route 7**
+- Trainers and Pokémon: Encounter Meowth, Pidgey, Oddish, Bellsprout, Vulpix.
+- **Item**: Wepear Berry (southeast corner).
+
+### Tips:
+- Utilize **Flash** in Rock Tunnel for visibility.
+- Heal your Pokémon before challenging trainers.
+- Explore thoroughly for hidden items and Pokémon.

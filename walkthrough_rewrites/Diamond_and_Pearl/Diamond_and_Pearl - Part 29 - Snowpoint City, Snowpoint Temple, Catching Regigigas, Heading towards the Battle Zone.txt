@@ -1,0 +1,43 @@
+Game: Diamond_and_Pearl
+Part: 29
+Keywords: Snowpoint City, Snowpoint Temple, Catching Regigigas, Heading towards the Battle Zone
+
+**Part 29: Snowpoint City and Snowpoint Temple Walkthrough**
+
+**Snowpoint City:**
+- Heal your Pokémon.
+- Fly to Snowpoint City and head north to Snowpoint Temple.
+- Candice will allow you entry after the guard stops you.
+- Ensure you have Pokémon that know Rock Smash and Strength, along with Regice, Regirock, Registeel, and at least 45 Dusk Balls.
+
+**Snowpoint Temple:**
+- Floor Items:
+  - Calcium (B1F)
+  - Full Restore (B3F, hidden)
+  - NeverMeltIce (B4F, requires Strength)
+  
+- Wild Pokémon Levels: 50-56 (Golbat, Graveler, Onix, Steelix, Sneasel)
+- **Regigigas (Level 70)** requires you to have Regice, Regirock, and Registeel to battle.
+
+**Navigating the Temple:**
+1. **B1F**: Collect Calcium.
+2. **B2F**: Navigate through ice tiles to reach B3F.
+3. **B3F**: Ice tiles challenge; reach B4F.
+4. **B4F**: Use Strength for NeverMeltIce, then continue to B5F.
+5. **B5F**: Follow these steps to reach Regigigas:
+   - Start east of the brown rock.
+   - Slide to hit the gray rock, then south, east, and navigate to reach Regigigas.
+
+**Catching Regigigas:**
+- Regigigas has the ability Slow Start, making it less threatening initially.
+- Use Fighting-type moves to lower its HP to red during the first 5 turns.
+- Throw Dusk Balls until caught; expect it to take 20-40 attempts.
+- Save your game before the encounter to reset if needed.
+
+**Heading Towards the Battle Zone:**
+- Heal your Pokémon after catching Regigigas.
+- With the National Pokédex, speak to the sailor at the southern part of the city to access the Battle Zone.
+
+---
+
+This streamlined guide focuses on essential gameplay elements, item locations, and strategies for catching Regigigas and progressing to the Battle Zone.

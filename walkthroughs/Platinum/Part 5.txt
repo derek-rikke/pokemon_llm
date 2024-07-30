@@ -1,0 +1,1423 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_5
+Keywords: Eterna City, Old Chateau, Route 206, Wayward Cave, Route 207
+
+Walkthrough Text:
+Contents
+1
+Eterna City
+1.1
+Team Galactic Eterna Building
+1.1.1
+1F
+1.1.2
+2F
+1.1.3
+3F
+1.1.4
+4F
+1.2
+Eterna City
+1.3
+Rad Rickshaw's Cycle Shop
+2
+Now that you can use Cut and the Bicycle (optional)
+2.1
+Oreburgh Gate
+2.2
+Route 204 (north)
+2.3
+Eterna Forest
+2.4
+Eterna City
+3
+Old Chateau
+4
+Route 206 (optional)
+5
+Wayward Cave (optional)
+5.1
+Main Area
+5.2
+Hidden Area
+6
+Route 207
+Eterna City
+Team Galactic Eterna Building
+Trainers
+Trainer
+Pokémon
+1F
+Galactic Grunt
+Reward:
+$
+680
+Zubat
+♂
+Lv.
+17
+No item
+Stunky
+♂
+Lv.
+17
+No item
+Galactic Grunt
+Reward:
+$
+720
+Zubat
+♀
+Lv.
+16
+No item
+Glameow
+♀
+Lv.
+18
+No item
+2F
+Galactic Grunt
+Reward:
+$
+760
+Glameow
+♀
+Lv.
+19
+No item
+Galactic Grunt
+Reward:
+$
+760
+Croagunk
+♂
+Lv.
+19
+No item
+3F
+Galactic Grunt
+Reward:
+$
+640
+Stunky
+♀
+Lv.
+16
+No item
+Croagunk
+♀
+Lv.
+16
+No item
+Glameow
+♀
+Lv.
+16
+No item
+Scientist
+Travon
+Reward:
+$
+960
+Kadabra
+♂
+Lv.
+20
+No item
+Items
+Item
+Location
+Games
+X Speed
+Behind Grunt in far left room on 2nd floor
+Pt
+X Special
+Next to Grunt on 3rd floor
+Pt
+Blue Shard
+Upstairs past Scientist Travon, next to Revive
+Pt
+Revive
+Upstairs past Scientist Travon, next to Blue Shard
+Pt
+Up-Grade
+To the right of where Jupiter stood
+Pt
+1F
+Galactic Eterna Building 1F
+Once inside the
+Team Galactic Eterna Building
+,
+Looker
+will approach you again. Several staircases in this building lead to dead ends, where
+Galactic Grunts
+and items are located.The correct staircases have a poster near them. Defeat the two grunts guarding the left-hand staircase, then head upstairs. Fight the lone Grunt, collect the X Speed behind him, then head back downstairs and up the right-hand staircase.
+2F
+Galactic Eterna Building 2F
+Back on the second floor, make a quick detour up the right-hand staircase, defeat the Grunt and grab the
+X Special
+that's partially hidden by the appliance behind him, then head back downstairs. Before heading up the middle-right staircase, talk to the Grunt working at a computer for another battle.
+3F
+Galactic Eterna Building 3F
+Battle the Scientist, then head up the right-hand staircase that leads up to 4F; you'll find another dead end but you can also collect a
+Blue Shard
+and a
+Revive
+. Head back downstairs and up the middle-right staircase to the top floor.
+4F
+Galactic Eterna Building 4F
+Collect the
+Up-Grade
+to the right of
+Commander Jupiter
+, then talk to her to begin the battle.
+Commander
+Jupiter
+Team Galactic Eterna Building
+Platinum
+Reward:
+$
+1600
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♀
+Lv.
+21
+Wing Attack
+Flying
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Stench
+Held item:
+Sitrus Berry
+Skuntank
+♀
+Lv.
+23
+Night Slash
+Dark
+Physical
+--
+Poison Gas
+Poison
+Status
+--
+SmokeScreen
+Normal
+Status
+--
+Screech
+Normal
+Status
+--
+The biggest danger is her
+Skuntank
+, as at this point in the game the only options to deal it
+super-effective damage
+are
+Geodude
+'s
+Magnitude
+or
+Shellos
+'s
+Mud Bomb
+. Once defeated, Jupiter will retreat, saying they no longer need this base but warns you not to meddle in Team Galactic's affairs again. The owner of
+Rad Rickshaw's Cycle Shop
+will tell you to meet him at his shop, then return to his shop - follow him back outside.
+Eterna City
+Pokémon
+Games
+Location
+Levels
+Rate
+Togepi
+D
+P
+Pt
+Egg
+1
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Before heading to the
+shop
+, visit the Pokémon Center and make sure that your party has a free space - just before arriving at the Bike Shop you'll encounter
+Cynthia
+again, who will give you a
+Pokémon Egg
+that hatches into a
+Togepi
+.
+Rad Rickshaw's Cycle Shop
+Items
+Item
+Location
+Games
+Bicycle
+From
+Rad Rickshaw
+for saving him from
+Team Galactic
+Pt
+When you meet Rad Rickshaw at his shop, he will give you a
+bicycle
+. You can ask him to read you the manual for the bike here once you receive one. A unique feature of this bicycle is that the player can press the B button to switch between the third and fourth gears. Fourth gear is faster than third gear and allows the player to ride up
+muddy slopes
+and jump further from bike
+ramps
+. Third gear can jump bike ramps, but does not jump as far. Head to Eterna City's south entrance - now that you have a bicycle, you're allowed onto Route 206, the
+Cycling Road
+.
+Finally, before you leave, you might want to bring Pokémon which know
+Cut
+,
+TM70
+(
+Flash
+) (which is found in the basement of the
+Oreburgh Gate
+) and
+Rock Smash
+, as they can be used to enter and navigate a few of the upcoming areas.
+Now that you can use Cut and the Bicycle (optional)
+You can pick up several items that were inaccessible before.
+Oreburgh Gate
+Items
+Item
+Location
+Games
+TM31
+(
+Brick Break
+)
+B1F; left of the jump ramps on the floor (requires
+Rock Smash
+and either
+Bicycle
+or
+Surf
+)
+Pt
+Route 204 (north)
+Items
+Item
+Location
+Games
+TM78
+(
+Captivate
+)
+From the woman at the end of the narrow path (requires
+Cut
+)
+Pt
+Eterna Forest
+Items
+Item
+Location
+Games
+Insect Plate
+In the wall on the right side of the Old Chateau (requires
+Cut
+)
+(hidden)
+Pt
+Ether
+On the right side of the Old Chateau (requires
+Cut
+)
+Pt
+Razz Berry
+×2
+Exterior; at the Berry patch in the middle of the shortcut path
+Pt
+Bluk Berry
+×2
+Exterior; at the Berry patch in the middle of the shortcut path
+Pt
+Cheri Berry
+Exterior; at the Berry patch in the middle of the shortcut path
+Pt
+Oran Berry
+×2
+Exterior; at the Berry patch in the middle of the shortcut path
+Pt
+Big Tree
+Exterior; gift from a woman on the shortcut path
+Pt
+Silver Powder
+Exterior; west end of the path in the cliff on the shortcut path
+Pt
+TM82
+(
+Sleep Talk
+)
+Exterior; east end of the path in the cliff on the shortcut path
+Pt
+Eterna City
+Items
+Item
+Location
+Games
+TM46
+(
+Thief
+)
+North of the statue, accessed from behind the Team Galactic Eterna Building (requires
+Cut
+)
+Pt
+Old Chateau
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Main, Dining Hall, 2F
+14-17
+100%
+Special Pokémon
+Rotom
+D
+P
+Pt
+Only one
+20
+-
+-
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Honey
+In a box in the kitchen of the Dining Hall
+(hidden)
+Pt
+Rare Candy
+In the kitchen in the Dining Hall
+Pt
+Big Pearl
+In the easternmost part of the Dining Hall
+Pt
+Old Gateau
+In the room to the west of the entrance
+Pt
+TM90
+(
+Substitute
+)
+In the easternmost bedroom of the second floor
+Pt
+Dread Plate
+In the westernmost bedroom of the second floor
+Pt
+The Old Chateau's main floor
+The upstairs hallway.
+Now that you have
+Cut
+, you can visit the
+Old Chateau
+, which is located in the northern part of
+Eterna Forest
+, by the exit. Buy some
+Nest Balls
+from the Pokémart in Eterna City then backtrack to Eterna Forest, because the Old Chateau is home to
+Rotom
+. Since there are no in-game Trainers who use Rotom, you will need to face it here at some point for it to be counted as seen in your
+Pokédex
+. You'll find Gardenia near the entrance who, when you talk to her, appears too scared to go in due to the ghosts. Rotom aside, the Old Chateau is worth exploring to collect the items inside it. Go up the stairs to find the hallway with multiple small rooms. The only wild Pokémon you'll encounter here are
+Gastly
+, so you might want to bring some
+Repels
+to save yourself some annoyance.
+From here, use the first door on your left to reach a room with a TV. During the night (8:00 PM to 3:59 AM), Rotom can be found here, hiding in the TV. Unlike in
+Diamond and Pearl
+, where you could only find it once the
+National Dex
+has been obtained, it can be found and captured right now.
+Save your game
+before trying to catch it.
+Types:
+Electric
+Ghost
+Ability:
+Levitate
+Held item:
+None
+Rotom
+Lv.
+20
+ThunderShock
+Electric
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Uproar
+Normal
+Special
+--
+Double Team
+Normal
+Status
+--
+Head upstairs and into the main hallway, and save the game before interacting with the TV which Rotom has possessed. Rotom is not very tough, so take care to whittle its health down with flying-, bug-, or poison-type moves. As Rotom is only level 20,
+Nest Balls
+will have the same catch rate as Ultra Balls in this encounter, so send it to
+sleep
+or
+paralyze
+it, then use your Nest Balls to catch it. If you got the
+Dusk Ball
+from
+Oreburgh City
+, then that will work even better than Nest Balls.
+Route 206 (optional)
+Route 206
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+17
+0%
+0%
+10%
+Machop
+D
+P
+Pt
+Grass
+17-19
+20%
+Geodude
+D
+P
+Pt
+Grass
+16,18
+30%
+Ponyta
+D
+P
+Pt
+Grass
+16
+20%
+0%
+20%
+Ponyta
+D
+P
+Pt
+Grass
+16-17
+0%
+30%
+0%
+Gligar
+D
+P
+Pt
+Grass
+16,18
+20%
+20%
+0%
+Gligar
+D
+P
+Pt
+Grass
+16
+0%
+0%
+10%
+Kricketune
+D
+P
+Pt
+Grass
+17
+10%
+0%
+0%
+Kricketune
+D
+P
+Pt
+Grass
+18
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Cyclist
+Axel
+ハヤオ
+Hayao
+Reward:
+$
+672
+Pikachu
+♂
+Lv.
+21
+No item
+Cyclist
+Megan
+ルリカ
+Rurika
+Reward:
+$
+672
+Staravia
+♀
+Lv.
+21
+No item
+Cyclist
+James
+トモミチ
+Tomomichi
+Reward:
+$
+672
+Ponyta
+♂
+Lv.
+21
+No item
+Cyclist
+Nicole
+カナエ
+Kanae
+Reward:
+$
+608
+Starly
+♀
+Lv.
+17
+No item
+Starly
+♀
+Lv.
+18
+No item
+Starly
+♀
+Lv.
+19
+No item
+Cyclist
+John
+リンジ
+Rinji
+Reward:
+$
+640
+Starly
+♂
+Lv.
+18
+No item
+Staravia
+♂
+Lv.
+20
+No item
+Cyclist
+Ryan
+シュン
+Shun
+Reward:
+$
+672
+Shinx
+♂
+Lv.
+21
+No item
+Cyclist
+Rachel
+フミナ
+Fumina
+Reward:
+$
+576
+Ponyta
+♀
+Lv.
+20
+No item
+Shinx
+♀
+Lv.
+18
+No item
+Cyclist
+Kayla
+チホミ
+Chihomi
+Reward:
+$
+672
+Pikachu
+♀
+Lv.
+21
+No item
+Hiker
+Theodore
+ドウジ
+Dōji
+Reward:
+$
+640
+Onix
+♂
+Lv.
+18
+No item
+Onix
+♂
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Exp. Share
+From Dawn/Lucas's father in northern gate
+(requires 35+ seen Pokémon)
+Pt
+Flag
+From a girl in the southern gate
+Pt
+Razz Berry
+×2
+Berry patch southwest of southern gate
+Pt
+PP Up
+A short distance before the river bridge when heading north, obscured behind trees (Requires
+Cut
+)
+Pt
+Burn Heal
+Underneath the split portion of Cycling Road
+Pt
+Ether
+Between the
+Honey
+and regular trees
+(hidden)
+Pt
+TinyMushroom
+Underneath Cycling Road, near the Berry patch
+(hidden)
+Pt
+Rawst Berry
+×2
+Berry patch underneath Cycling Road
+Pt
+Super Repel
+Underneath Cycling Road, in the grass to the east
+Pt
+Poison Barb
+In the corner directly above Berry patch
+Pt
+Route 206
+is made of two parts: the
+Cycling Road
+and a grassy area underneath. The Cycling Road is the only part of the route accessible from Eterna City, and you are not permitted to access it without a
+Bicycle
+. Here you will also find Dawn/Lucas's father who will give you the
+Exp. Share
+when you talk to him, as long as have seen at 35 separate Pokémon; if you haven't yet, make sure to come back and get it when you have.
+There are a number of Trainers to fight on the Cycling Road - defeat them all and exit through the southern gate, speaking to the woman in the gate on your way to get an accessory item. Enter the grassy area by using
+Cut
+on the tree to the right of the gate. A lone
+Hiker
+has wandered down here - defeat him, as well as gathering all the items, on your way up north to
+Wayward Cave
+.
+Wayward Cave (optional)
+Wayward Cave Main Area in Platinum
+Main Area
+Available Pokémon (Main Area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+17,19
+15%
+Geodude
+D
+P
+Pt
+Cave
+17-20
+40%
+Onix
+D
+P
+Pt
+Cave
+18,20
+15%
+Bronzor
+D
+P
+Pt
+Cave
+18,20
+30%
+Special Pokémon
+Sandshrew
+D
+P
+Pt
+Dual-slot
+LeafGreen
+17-18
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Hiker
+Reginald
+タツミ
+Tatsumi
+Reward:
+$
+640
+Geodude
+♂
+Lv.
+20
+No item
+Geodude
+♂
+Lv.
+20
+No item
+Hiker
+Lorenzo
+モリオ
+Morio
+Reward:
+$
+704
+Onix
+♂
+Lv.
+22
+No item
+Lass
+Cassidy
+ミユキ
+Miyuki
+Reward:
+$
+352
+Buneary
+♀
+Lv.
+22
+No item
+Youngster
+Wayne
+ユウト
+Yūto
+Reward:
+$
+320
+Staravia
+♂
+Lv.
+17
+No item
+Ponyta
+♂
+Lv.
+20
+No item
+Shellos
+♂
+West Sea
+Lv.
+20
+No item
+Picnicker
+Tori
+エミ
+Emi
+Reward:
+$
+352
+Psyduck
+♀
+Lv.
+22
+No item
+Camper
+Diego
+アツシ
+Atsushi
+Reward:
+$
+352
+Aipom
+♂
+Lv.
+22
+No item
+Picnicker
+Ana
+ハルナ
+Haruna
+Reward:
+$
+352
+Hoothoot
+♀
+Lv.
+22
+No item
+Camper
+Parker
+ヨウ
+Yō
+Reward:
+$
+320
+Buizel
+♂
+Lv.
+20
+No item
+Shinx
+♂
+Lv.
+20
+No item
+Collector
+Terry
+ノリオ
+Norio
+Reward:
+$
+1408
+Gible
+♂
+Lv.
+22
+No item
+Ruin Maniac
+Gerald
+トウジ
+Tōji
+Reward:
+$
+1008
+Geodude
+♂
+Lv.
+19
+No item
+Bronzor
+Lv.
+21
+No item
+Items
+Item
+Location
+Games
+Escape Rope
+In the third corridor north of the entrance
+Pt
+Yellow Shard
+In a rock south of Mira
+(hidden)
+Pt
+Blue Shard
+In a rock south of Collector Terry and Ruin Maniac Gerald
+(hidden)
+Pt
+Super Potion
+In a rock in a corner of the path south-west of Picnicker Ana and Camper Parker
+(hidden)
+Pt
+Great Ball
+In a rock south of Picnicker Ana and Camper Parker
+(hidden)
+Pt
+Green Shard
+In a rock in the middle of the path west of Picnicker Ana and Camper Parker and south of Escape Rope
+(hidden)
+Pt
+Revive
+Northwest corner of the first floor, south-east of Picnicker Tori and Diego
+Pt
+Red Shard
+In a rock in a corner south of Hiker Reginald and Hiker Lorenzo
+(hidden)
+Pt
+TM32
+(
+Double Team
+)
+Southwest corner of the first floor, south-east of Wayne and Cassidy
+Pt
+All trainers in
+Wayward Cave
+are positioned such that you could face them in
+Double Battles
+. Additionally, there is a girl called
+Mira
+in the cave who will serve as your tag battle partner. If you wish, you can find Mira before facing the Trainers to make these battles easier, since, like
+Cheryl
+earlier, she'll heal your team completely after each battle.
+To get to Mira, use Flash, and, smashing your way through any rocks that pose an obstacle, go north through two 4-way intersections, west at the T-junction, north at the next turning, then east at another T-junction, and follow the passage continuing south through a 4-way intersection, following the passage to a final T-junction, where you should turn north to arrive at Mira in the north-eastern corner of the cave. Talk to Mira to have her accompany you.
+Pokémon Trainer
+Mira
+Wayward Cave
+Platinum
+Reward:
+None
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+26
+Shock Wave
+Electric
+Special
+--
+Kinesis
+Psychic
+Status
+--
+Confusion
+Psychic
+Special
+--
+Flash
+Normal
+Status
+--
+As long as you can avoid the entrance, Mira will serve as your partner for whatever double battles you wish to participate in. Once your business here is finished, head back outside and to the west, as there is another cave to explore.
+Hidden Area
+Available Pokémon (Hidden Area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+19
+10%
+Geodude
+D
+P
+Pt
+Cave
+18,20
+25%
+Onix
+D
+P
+Pt
+Cave
+18,20
+15%
+Bronzor
+D
+P
+Pt
+Cave
+18,20
+30%
+Gible
+D
+P
+Pt
+Cave
+17,19-20
+20%
+Special Pokémon
+Sandshrew
+D
+P
+Pt
+Dual-slot
+LeafGreen
+18,20
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dusk Stone
+In a rock in a corner in the south-west area of the basement
+(hidden)
+Pt
+Max Ether
+At the end of the southernmost set of jump ramps
+Pt
+Stardust
+In the west wall between the two mounds at the north-west area of the basement
+(hidden)
+Pt
+Grip Claw
+Between the two bike bridges
+Pt
+Rare Candy
+North-east area of the basement, below a jump ramp
+Pt
+TM26
+(
+Earthquake
+)
+Up the stairs at the end of the basement
+Pt
+Wayward Cave (Hidden Area)
+To access the hidden area of Wayward Cave, start just south of the top right pillar that supports the Cycling Road, walk 9 steps west, and then go north until you reach the entrance. You won't need Flash here, except for the very small entry area, which you can find your way through easily. Notably, this is the only place in the game to contain wild
+Gible
+. You can also find the powerful
+TM26
+(
+Earthquake
+) here by traveling all the way through the path and going up the stairs to another hidden area on the 1F of Wayward Cave. You'll need your bike to jump the ramps; use 3rd gear (the slower gear) to land in the spot directly after a ramp, and 4th gear (the faster gear) to land 3 squares after a ramp.
+When you've got everything you want from this area, head south to Route 207.
+Route 207
+Route 207
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+5
+0%
+0%
+10%
+Machop
+D
+P
+Pt
+Grass
+6-8
+35%
+0%
+35%
+Machop
+D
+P
+Pt
+Grass
+5-8
+0%
+45%
+0%
+Geodude
+D
+P
+Pt
+Grass
+5-7
+30%
+Ponyta
+D
+P
+Pt
+Grass
+5-7
+25%
+25%
+0%
+Ponyta
+D
+P
+Pt
+Grass
+5,7
+0%
+0%
+15%
+Kricketot
+D
+P
+Pt
+Grass
+5
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+6
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Camper
+Anthony
+Reward:
+$
+352
+Chimchar
+♂
+Lv.
+22
+No item
+Picnicker
+Lauren
+Reward:
+$
+352
+Pachirisu
+♀
+Lv.
+22
+No item
+Hiker
+Justin
+Reward:
+$
+640
+Geodude
+♂
+Lv.
+20
+No item
+Nosepass
+♂
+Lv.
+20
+No item
+Youngster
+Austin
+Reward:
+$
+336
+Luxio
+♂
+Lv.
+18
+No item
+Buizel
+♂
+Lv.
+18
+No item
+Gligar
+♂
+Lv.
+21
+No item
+Hiker
+Kevin
+Reward:
+$
+608
+Geodude
+♂
+Lv.
+17
+No item
+Geodude
+♂
+Lv.
+19
+No item
+Geodude
+♂
+Lv.
+17
+No item
+Onix
+♂
+Lv.
+19
+No item
+Battle Girl
+Helen
+Reward:
+$
+336
+Machop
+♂
+Lv.
+21
+No item
+Meditite
+♀
+Lv.
+21
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Poké Ball
+×2
+Northwestern corner of the tall grass
+Northeastern corner of the tall grass
+(hidden)
+Pt
+Oran Berry
+×2
+Berry patch in the northwest corner
+Pt
+Cheri Berry
+Berry patch in the northwest corner
+Pt
+Bluk Berry
+Berry patch in the northwest corner
+Pt
+Super Potion
+Between two air vents in the northern part of the route
+Pt
+Dowsing Machine
+Obtained from
+Dawn
+/
+Lucas
+near entrance to Mount Coronet.
+Pt
+Vs. Seeker
+Obtained from
+Dawn
+/
+Lucas
+near entrance to Mount Coronet
+Pt
+Great Ball
+Near where the
+Dowsing Machine
+is obtained
+(hidden)
+Pt
+Rare Candy
+On the raised platform, in a corner, to the west of
+Hiker
+Kevin
+(hidden)
+Pt
+Revive
+×2
+The terrace on the southern end of the wooden bridge
+To the north of
+Battle Girl
+Helen, in the middle of a square area, just below the entrance to Mt. Coronet, left of the stairs
+(hidden)
+Pt
+Now that you have a
+Bicycle
+, you can enter
+Route 207
+from
+Oreburgh City
+or
+Route 206
+. Take the narrow path directly south of the
+Honey Tree
+to find a slew of items and trainers. As you try to enter
+Mt. Coronet
+'s south entrance, at the eastern end of the route, Dawn/Lucas will appear and give you the
+Vs. Seeker
+and the
+Dowsing Machine
+app for your Pokétch. Proceed into Mt. Coronet.
+← Part 4
+Valley Windworks to Eterna Gym
+Platinum
+walkthrough
+Mt. Coronet to Route 209
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,3013 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_12
+Keywords: Route 120, Route 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 120
+1.1
+Gabby and Ty
+1.2
+Scorched Slab
+1.3
+A Berry A Day
+1.4
+Ancient Tomb
+2
+Route 121
+2.1
+A Sighting
+2.2
+Safari Zone
+3
+Route 122
+3.1
+Mt. Pyre
+3.1.1
+Interior
+3.1.2
+Exterior
+3.1.3
+Summit
+3.1.3.1
+VS Courtney
+3.1.3.2
+VS Matt
+4
+Route 123
+4.1
+123 Go Fish
+4.2
+Berry Master's House
+Route 120
+Route 120
+The lengthy
+Route 120
+runs east from
+Fortree City
+to
+Route 121
+. The long grass makes great cover for Pokémon capable of camouflaging themselves. Two separate ruins,
+Scorched Slab
+and the
+Ancient Tomb
+, are located here.
+Trainers
+Trainer
+Pokémon
+Parasol Lady
+Clarissa
+Reward:
+$
+1,056
+Goldeen
+♀
+Lv.
+31
+No item
+Seaking
+♀
+Lv.
+33
+No item
+Bird Keeper
+Robert
+Reward:
+$
+1,360
+Swablu
+♂
+Lv.
+34
+No item
+Return trip
+Bird Keeper
+Colin
+Reward:
+$
+1,280
+Swellow
+♂
+Lv.
+32
+No item
+Xatu
+♂
+Lv.
+32
+No item
+Ninja Boy
+Tsunao
+Reward:
+$
+496
+Koffing
+♂
+Lv.
+29
+No item
+Koffing
+♂
+Lv.
+30
+No item
+Koffing
+♂
+Lv.
+31
+No item
+Parasol Lady
+Angelica
+Reward:
+$
+1,088
+Castform
+♀
+Lv.
+34
+No item
+Ace Trainer
+Jennifer
+Reward:
+$
+2,160
+Milotic
+♀
+Lv.
+36
+No item
+Bug Maniac
+Brandon
+Reward:
+$
+952
+Masquerain
+♂
+Lv.
+34
+No item
+Street Thug
+Gomez
+Reward:
+$
+1,088
+Cacturne
+♂
+Lv.
+34
+No item
+Delinquent
+Sharlene
+Reward:
+$
+1,088
+Sharpedo
+♀
+Lv.
+34
+No item
+Ninja Boy
+Keigo
+Reward:
+$
+480
+Ninjask
+♂
+Lv.
+32
+No item
+Koffing
+♂
+Lv.
+30
+No item
+Ruin Maniac
+Chip
+Reward:
+$
+896
+Baltoy
+Lv.
+32
+No item
+Nosepass
+♂
+Lv.
+32
+No item
+Pokémon Ranger
+Carlos
+Reward:
+$
+1,980
+Nuzleaf
+♂
+Lv.
+33
+No item
+Manectric
+♂
+Lv.
+33
+No item
+Pokémon Ranger
+Jenna
+Reward:
+$
+1,980
+Lombre
+♀
+Lv.
+33
+No item
+Grumpig
+♀
+Lv.
+33
+No item
+Rematch
+Bird Keeper
+Robert
+Reward:
+$
+1,640
+After earning the
+Mind Badge
+Altaria
+♂
+Lv.
+41
+No item
+Bird Keeper
+Robert
+Reward:
+$
+1,720
+After earning the
+Rain Badge
+Fearow
+♂
+Lv.
+43
+No item
+Altaria
+♂
+Lv.
+43
+No item
+Bird Keeper
+Robert
+Reward:
+$
+1,960
+After entering the
+Hall of Fame
+Fearow
+♂
+Lv.
+47
+No item
+Altaria
+♂
+Lv.
+48
+No item
+Staraptor
+♂
+Lv.
+49
+No item
+Bug Maniac
+Brandon
+Reward:
+$
+1,092
+After earning the
+Mind Badge
+Masquerain
+♂
+Lv.
+39
+No item
+Pinsir
+♂
+Lv.
+39
+No item
+Bug Maniac
+Brandon
+Reward:
+$
+1,204
+After earning the
+Rain Badge
+Masquerain
+♂
+Lv.
+43
+No item
+Pinsir
+♂
+Lv.
+43
+No item
+Bug Maniac
+Brandon
+Reward:
+$
+1,316
+After entering the
+Hall of Fame
+Masquerain
+♂
+Lv.
+47
+No item
+Kricketune
+♂
+Lv.
+47
+No item
+Pinsir
+♂
+Lv.
+47
+No item
+Vespiquen
+♀
+Lv.
+47
+No item
+Street Thug
+Gomez
+Reward:
+$
+1,312
+After earning the
+Mind Badge
+Cacturne
+♂
+Lv.
+41
+No item
+Street Thug
+Gomez
+Reward:
+$
+1,376
+After earning the
+Rain Badge
+Murkrow
+♂
+Lv.
+43
+No item
+Cacturne
+♂
+Lv.
+43
+No item
+Street Thug
+Gomez
+Reward:
+$
+1,536
+After entering the
+Hall of Fame
+Houndoom
+♂
+Lv.
+48
+No item
+Cacturne
+♂
+Lv.
+48
+No item
+Honchkrow
+♂
+Lv.
+48
+No item
+Delinquent
+Sharlene
+Reward:
+$
+1,312
+After earning the
+Mind Badge
+Sharpedo
+♀
+Lv.
+41
+No item
+Delinquent
+Sharlene
+Reward:
+$
+1,376
+After earning the
+Rain Badge
+Sharpedo
+♀
+Lv.
+43
+No item
+Sneasel
+♀
+Lv.
+43
+No item
+Delinquent
+Sharlene
+Reward:
+$
+1,568
+After entering the
+Hall of Fame
+Sharpedo
+♀
+Lv.
+49
+No item
+Weavile
+♀
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Long grass
+24-27
+40%
+Linoone
+OR
+AS
+Long grass
+24-27
+40%
+Tropius
+OR
+AS
+Long grass
+27
+10%
+Kecleon
+OR
+AS
+Long grass
+27
+5%
+Absol
+OR
+AS
+Long grass
+27
+5%
+Horde Encounter
+Oddish
+OR
+AS
+Horde Encounter
+13
+60%
+Marill
+OR
+AS
+Horde Encounter
+13
+35%
+Kecleon
+OR
+AS
+Horde Encounter
+13
+5%
+Surfing
+Azumarill
+OR
+AS
+Surfing
+20, 25, 30
+66%
+Surskit
+OR
+AS
+Surfing
+20
+30%
+Masquerain
+OR
+AS
+Surfing
+25
+4%
+Fishing (North, Southeast lakes)
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Barboach
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Fishing (Southwest pond)
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Barboach
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Special Pokémon
+Kecleon
+OR
+AS
+Only one
+30
+Three
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+First visit
+Rare Candy
+Dead-end path north of Parasol Lady Clarissa (hidden, requires
+Cut
+)
+OR
+AS
+Revive
+Clearing in the northernmost patch of long grass (hidden)
+OR
+AS
+Nest Ball
+North edge of the northern lake
+OR
+AS
+Devon Scope
+From
+Steven
+on the north bridge, after battling Kecleon
+OR
+AS
+Sceptilite
+or
+Blazikenite
+or
+Swampertite
+From Steven after battling Kecleon, if your starter was
+Treecko
+,
+Torchic
+, or
+Mudkip
+, respectively
+OR
+AS
+Return trip
+Aspear Berry
+×4
+Soft soil patch, northeast of the puddle-laden area (requires
+Cut
+)
+OR
+AS
+Wepear Berry
+×4
+Soft soil patch, northeast of the puddle-laden area (requires
+Cut
+)
+OR
+AS
+Pinap Berry
+×4
+Soft soil patch, northeast of the puddle-laden area (requires
+Cut
+)
+OR
+AS
+Zinc
+Northwest corner of the grass maze (hidden)
+OR
+AS
+Nugget
+Southwest corner of the grass maze
+OR
+AS
+Nanab Berry
+×10
+Soft soil patch near the southwest pond (×4)
+Soft soil patch northwest of the Ancient Tomb (×6)
+OR
+AS
+Razz Berry
+×10
+Soft soil patch near the southwest pond (×4)
+Soft soil patch northwest of the Ancient Tomb (×6)
+OR
+AS
+Pecha Berry
+×12
+Soft soil patch near the southwest pond (×6)
+Soft soil patch northwest of the Ancient Tomb (×6)
+OR
+AS
+Revive
+North of the Ancient Tomb
+OR
+AS
+Full Heal
+South side of the southwest pond (requires
+Surf
+)
+OR
+AS
+Rare Candy
+South side of the southwest pond (hidden, requires
+Surf
+)
+OR
+AS
+Light Ball
+North side of the southernmost grass patch
+OR
+AS
+Full Restore
+Occasionally received after defeating Bird Keeper Robert in a rematch
+OR
+AS
+Dusk Ball
+Occasionally received after defeating Street Thug Gomez in a rematch
+OR
+AS
+Gabby and Ty
+After defeating
+Gabby and Ty
+on
+Route 118
+, the news team can now be found in the northeast corner of the route. Accept their challenge and give them another great interview afterwards!
+Scorched Slab
+Scorched Slab
+is a cave jutting up out of the north lake. It is said to be the hiding place of an elusive
+Fire-type
+Pokémon. While it's possible to explore the area now—and claim items like
+TM11
+(
+Sunny Day
+)—other treasures can't be obtained until later.
+A Berry A Day
+The route splits near its south end, with the western trail leading up to a plateau. Talk to the Aroma Lady near the stairway and she'll give you one rare Berry every day. The kind of Berry received depends on the last digit of your
+Trainer ID number
+.
+Berry
+Condition
+Figy Berry
+ID number ends in 0 or 5
+Wiki Berry
+ID number ends in 1 or 6
+Mago Berry
+ID number ends in 2 or 7
+Aguav Berry
+ID number ends in 3 or 8
+Iapapa Berry
+ID number ends in 4 or 9
+Ancient Tomb
+The unusual arrangement of stones on the southwest plateau is known as the
+Ancient Tomb
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Route 121
+Route 121
+Though smaller than the previous area,
+Route 121
+is more straightforward.
+Route 122
+runs off to the south, while
+Lilycove City
+lies to the east. The north side of the route is home to the
+Safari Zone
+, a park that attracts Trainers from across the region.
+Trainers
+Trainer
+Pokémon
+Hex Maniac
+Tammy
+Reward:
+$
+924
+Duskull
+♀
+Lv.
+33
+No item
+Sableye
+♀
+Lv.
+33
+No item
+Beauty
+Jessica
+Reward:
+$
+1,904
+Kecleon
+♀
+Lv.
+32
+No item
+Seviper
+♀
+Lv.
+34
+No item
+Teammates
+Kate & Joy
+Reward:
+$
+1,680
+Spinda
+♀
+Lv.
+34
+No item
+Slaking
+♀
+Lv.
+35
+No item
+Gentleman
+Walter
+Reward:
+$
+7,000
+Manectric
+♂
+Lv.
+35
+No item
+Poké Fan
+Vanessa
+Reward:
+$
+2,240
+Pikachu
+♀
+Lv.
+35
+Oran Berry
+Rematches
+Beauty
+Jessica
+Reward:
+$
+2,240
+After earning the
+Mind Badge
+Kecleon
+♀
+Lv.
+38
+No item
+Seviper
+♀
+Lv.
+40
+No item
+Beauty
+Jessica
+Reward:
+$
+2,464
+After earning the
+Rain Badge
+Kecleon
+♀
+Lv.
+42
+No item
+Seviper
+♀
+Lv.
+44
+No item
+Beauty
+Jessica
+Reward:
+$
+2,744
+After entering the
+Hall of Fame
+Kecleon
+♀
+Lv.
+47
+No item
+Seviper
+♀
+Lv.
+48
+No item
+Krookodile
+♀
+Lv.
+49
+No item
+Gentleman
+Walter
+Reward:
+$
+8,200
+After earning the
+Mind Badge
+Manectric
+♂
+Lv.
+41
+No item
+Gentleman
+Walter
+Reward:
+$
+9,000
+After earning the
+Rain Badge
+Manectric
+♂
+Lv.
+45
+No item
+Gentleman
+Walter
+Reward:
+$
+10,000
+After entering the
+Hall of Fame
+Manectric
+♂
+Lv.
+48
+No item
+Stoutland
+♂
+Lv.
+50
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Grass
+28-30
+30%
+Linoone
+OR
+AS
+Grass
+28-30
+30%
+Shuppet
+OR
+AS
+Grass
+27-29
+30%
+Pelipper
+OR
+AS
+Grass
+30
+5%
+Kecleon
+OR
+AS
+Grass
+30
+5%
+Long grass
+Gloom
+OR
+AS
+Long grass
+28-30
+30%
+Linoone
+OR
+AS
+Long grass
+28-30
+30%
+Shuppet
+OR
+AS
+Long grass
+27-29
+30%
+Pelipper
+OR
+AS
+Long grass
+30
+5%
+Kecleon
+OR
+AS
+Long grass
+30
+5%
+Horde Encounter
+Shuppet
+OR
+AS
+Grass
+15
+60%
+Wingull
+OR
+AS
+Grass
+15
+35%
+Kecleon
+OR
+AS
+Grass
+15
+5%
+Shuppet
+OR
+AS
+Long grass
+15
+60%
+Wingull
+OR
+AS
+Long grass
+15
+35%
+Kecleon
+OR
+AS
+Long grass
+15
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Aspear Berry
+×3
+Soft soil patch in the northwest
+OR
+AS
+Persim Berry
+×4
+Soft soil patch in the northwest
+OR
+AS
+Rawst Berry
+×4
+Soft soil patch in the northwest
+OR
+AS
+HP Up
+South of Beauty Jessica, behind the fence (hidden)
+OR
+AS
+Zinc
+West of the pier (requires
+Cut
+)
+OR
+AS
+Max Repel
+Southeast of Teammates Kate & Joy
+OR
+AS
+Carbos
+Fenced-in area, west of Gentleman Walter
+OR
+AS
+Shiny Stone
+Northwest of Poké Fan Vanessa (requires
+Cut
+)
+OR
+AS
+Nugget
+Northwest of Poké Fan Vanessa (hidden, requires
+Cut
+)
+OR
+AS
+Full Heal
+East of Poké Fan Vanessa (hidden)
+OR
+AS
+Nanab Berry
+×6
+Soft soil patch in the southeast
+OR
+AS
+Max Revive
+South of the soft soil patch in the southeast (hidden)
+OR
+AS
+Pearl
+Occasionally received after defeating Beauty Jessica in a rematch
+OR
+AS
+Nugget
+Occasionally received after defeating Gentleman Walter in a rematch
+OR
+AS
+A Sighting
+It's not long before you catch a glimpse of
+Team Magma
+OR
+/
+Team Aqua
+AS
+. These Grunts are in a rush to reach
+Mt. Pyre
+, and take off to the south. It seems that they intend to claim a treasure before the other team can do so.
+Safari Zone
+The Safari Zone
+The
+Safari Zone
+gives Trainers a chance to encounter all kinds of Pokémon. An admission fee was required in the past, but the park is now supported by volunteers and entry is free. The varied terrain means that some areas are only accessible by
+Acro Bike
+,
+Mach Bike
+, or both. It's necessary to switch between Bikes to fully explore the park, but you aren't yet able to carry both models at once.
+Available Pokémon
+Area 1 (Southeast)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Grass
+28-30
+30%
+Doduo
+OR
+AS
+Grass
+28-30
+30%
+Pikachu
+OR
+AS
+Grass
+28, 30
+20%
+Psyduck
+OR
+AS
+Grass
+27, 29
+20%
+Long grass
+Gloom
+OR
+AS
+Long grass
+28-30
+30%
+Doduo
+OR
+AS
+Long grass
+28-30
+30%
+Psyduck
+OR
+AS
+Long grass
+27, 29
+20%
+Girafarig
+OR
+AS
+Long grass
+28, 30
+20%
+Horde Encounter
+Doduo
+OR
+AS
+Horde Encounter
+15
+60%
+Oddish
+OR
+AS
+Horde Encounter
+15
+35%
+Psyduck
+OR
+AS
+Horde Encounter
+15
+5%
+Surfing
+Psyduck
+OR
+AS
+Surfing
+20, 25, 30
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+65%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 2 (Southwest)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Grass
+28-30
+30%
+Doduo
+OR
+AS
+Grass
+28-30
+30%
+Psyduck
+OR
+AS
+Grass
+27, 29
+20%
+Xatu
+OR
+AS
+Grass
+28, 30
+20%
+Long grass
+Gloom
+OR
+AS
+Long grass
+28-30
+30%
+Doduo
+OR
+AS
+Long grass
+28-30
+30%
+Psyduck
+OR
+AS
+Long grass
+27, 29
+20%
+Wobbuffet
+OR
+AS
+Long grass
+28, 30
+20%
+Horde Encounter
+Doduo
+OR
+AS
+Horde Encounter
+15
+60%
+Oddish
+OR
+AS
+Horde Encounter
+15
+35%
+Psyduck
+OR
+AS
+Horde Encounter
+15
+5%
+Surfing
+Psyduck
+OR
+AS
+Surfing
+20, 25, 30
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+65%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 3 (Northwest)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Grass
+28-30
+30%
+Doduo
+OR
+AS
+Grass
+28-30
+30%
+Psyduck
+OR
+AS
+Grass
+27, 29
+20%
+Rhyhorn
+OR
+AS
+Grass
+28, 30
+20%
+Long grass
+Gloom
+OR
+AS
+Long grass
+28-30
+30%
+Doduo
+OR
+AS
+Long grass
+28-30
+30%
+Psyduck
+OR
+AS
+Long grass
+27, 29
+20%
+Heracross
+OR
+AS
+Long grass
+28, 30
+20%
+Horde Encounter
+Doduo
+OR
+AS
+Horde Encounter
+15
+60%
+Oddish
+OR
+AS
+Horde Encounter
+15
+35%
+Psyduck
+OR
+AS
+Horde Encounter
+15
+5%
+Surfing
+Psyduck
+OR
+AS
+Surfing
+20, 25, 30
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+65%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 4 (Northeast)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Grass
+28-30
+30%
+Doduo
+OR
+AS
+Grass
+28-30
+30%
+Psyduck
+OR
+AS
+Grass
+27, 29
+20%
+Donphan
+OR
+AS
+Grass
+28, 30
+20%
+Long grass
+Gloom
+OR
+AS
+Long grass
+28-30
+30%
+Doduo
+OR
+AS
+Long grass
+28-30
+30%
+Psyduck
+OR
+AS
+Long grass
+27, 29
+20%
+Pinsir
+OR
+AS
+Long grass
+28, 30
+20%
+Horde Encounter
+Doduo
+OR
+AS
+Horde Encounter
+15
+60%
+Oddish
+OR
+AS
+Horde Encounter
+15
+35%
+Psyduck
+OR
+AS
+Horde Encounter
+15
+5%
+Surfing
+Psyduck
+OR
+AS
+Surfing
+20, 25, 30
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+65%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Entrance
+TM85
+(
+Dream Eater
+)
+From a Street Thug near the door
+OR
+AS
+Area 1 (Southeast)
+Calcium
+South of the pond, near the long grass (requires
+Acro Bike
+,
+Surf
+)
+OR
+AS
+TM53
+(
+Energy Ball
+)
+On a hill south of the pond (requires
+Acro Bike
+,
+Surf
+,
+Mach Bike
+)
+OR
+AS
+Area 2 (Southwest)
+Protein
+Southwest corner of the large hill (hidden, requires
+Mach Bike
+)
+OR
+AS
+Max Revive
+Far southwest corner (requires
+Acro Bike
+,
+Surf
+)
+OR
+AS
+Area 3 (Northwest)
+Nugget
+North-central area (requires
+Mach Bike
+)
+OR
+AS
+Big Pearl
+On the hill south of the pond (requires
+Mach Bike
+)
+OR
+AS
+Absolite
+Western cliffs (requires
+Acro Bike
+)
+OR
+AS
+Rare Candy
+Far northwest corner (hidden, requires
+Acro Bike
+)
+OR
+AS
+Area 4 (Northeast)
+Revive
+Dead-end southeast path, accessible via Area 1 (hidden)
+OR
+AS
+Ultra Ball
+Northeast side of the pond (hidden; requires
+Mach Bike
+,
+Surf
+)
+OR
+AS
+TM22
+(
+Solar Beam
+)
+East of the pond (requires
+Mach Bike
+,
+Surf
+)
+OR
+AS
+TM93
+(
+Wild Charge
+)
+On the east hill (requires
+Mach Bike
+,
+Surf
+,
+Acro Bike
+)
+OR
+AS
+Route 122
+Route 122
+Route 122
+is a short, simple ocean route stretching between Routes
+121
+and
+123
+, with
+Mt. Pyre
+standing tall in the center.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Mt. Pyre, 1F
+Mt. Pyre, 2F
+Mt. Pyre, 3F
+Mt. Pyre, 4F
+Mt. Pyre, Exterior and Summit
+Mt. Pyre
+The towering
+Mt. Pyre
+exists to soothe the spirits of Pokémon that have passed on. Hoenn's most beloved Pokémon have been laid to rest here, making the mountain a very sacred place.
+Trainers
+Inside
+Trainer
+Pokémon
+1F
+Poké Maniac
+Mark
+Reward:
+$
+1,008
+Lairon
+♂
+Lv.
+36
+No item
+Psychic
+William
+Reward:
+$
+1,120
+Staryu
+Lv.
+35
+No item
+Grumpig
+♂
+Lv.
+35
+No item
+Hex Maniac
+Valerie
+Reward:
+$
+1,008
+Sableye
+♀
+Lv.
+36
+No item
+2F
+Black Belt
+Atsushi
+Reward:
+$
+1,184
+Machoke
+♂
+Lv.
+37
+No item
+Fairy Tale Girl
+Momo
+Reward:
+$
+560
+Jigglypuff
+♀
+Lv.
+35
+No item
+Young Couple
+Dez & Luke
+Reward:
+$
+2,304
+Delcatty
+♀
+Lv.
+36
+No item
+Manectric
+♂
+Lv.
+36
+No item
+3F
+Mysterious Sisters
+Elle & Aya
+Reward:
+$
+1,540
+Girafarig
+♀
+Lv.
+36
+No item
+Mawile
+♀
+Lv.
+35
+No item
+Hex Maniac
+Tasha
+Reward:
+$
+952
+Shuppet
+♀
+Lv.
+34
+No item
+Xatu
+♀
+Lv.
+34
+No item
+Backpacker
+Darnell
+Reward:
+$
+864
+Kecleon
+♂
+Lv.
+36
+No item
+Rematch
+Hex Maniac
+Valerie
+Reward:
+$
+1,148
+After earning the
+Mind Badge
+Sableye
+♀
+Lv.
+41
+No item
+Hex Maniac
+Valerie
+Reward:
+$
+1,204
+After earning the
+Rain Badge
+Sableye
+♀
+Lv.
+41
+No item
+Banette
+♀
+Lv.
+42
+No item
+Misdreavus
+♀
+Lv.
+43
+No item
+Hex Maniac
+Valerie
+Reward:
+$
+1,372
+After entering the
+Hall of Fame
+Sableye
+♀
+Lv.
+47
+No item
+Banette
+♀
+Lv.
+48
+No item
+Mismagius
+♀
+Lv.
+49
+No item
+Fairy Tale Girl
+Momo
+Reward:
+$
+640
+After earning the
+Mind Badge
+Wigglytuff
+♀
+Lv.
+40
+No item
+Fairy Tale Girl
+Momo
+Reward:
+$
+672
+After earning the
+Rain Badge
+Wigglytuff
+♀
+Lv.
+42
+No item
+Clefairy
+♀
+Lv.
+42
+No item
+Fairy Tale Girl
+Momo
+Reward:
+$
+768
+After entering the
+Hall of Fame
+Wigglytuff
+♀
+Lv.
+48
+No item
+Clefable
+♀
+Lv.
+48
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Outside
+Trainer
+Pokémon
+Team Magma Grunt
+OR
+Reward:
+$
+1,440
+Koffing
+♂
+Lv.
+36
+No item
+Team Magma Grunt
+OR
+Reward:
+$
+1,400
+Numel
+♂
+Lv.
+33
+No item
+Mightyena
+♂
+Lv.
+35
+No item
+Team Magma Grunt
+OR
+Reward:
+$
+1,360
+Mightyena
+♂
+Lv.
+34
+No item
+Golbat
+♂
+Lv.
+34
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+1,440
+Grimer
+♂
+Lv.
+36
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+1,400
+Carvanha
+♂
+Lv.
+33
+No item
+Mightyena
+♂
+Lv.
+35
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+1,360
+Mightyena
+♂
+Lv.
+34
+No item
+Golbat
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Interior
+Pokémon
+Games
+Location
+Levels
+Rate
+Shuppet
+OR
+AS
+1F-4F
+28-31
+65%
+Duskull
+OR
+AS
+1F-4F
+28-31
+35%
+Horde Encounter
+Shuppet
+OR
+AS
+Horde Encounter
+15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Exterior
+Pokémon
+Games
+Location
+Levels
+Rate
+Meditite
+OR
+AS
+Grass
+28-31
+40%
+Shuppet
+OR
+AS
+Grass
+28-31
+40%
+Vulpix
+OR
+AS
+Grass
+29, 31
+15%
+Wingull
+OR
+AS
+Grass
+30
+5%
+Horde Encounter
+Shuppet
+OR
+AS
+Horde Encounter
+15
+60%
+Meditite
+OR
+AS
+Horde Encounter
+15
+35%
+Vulpix
+OR
+AS
+Horde Encounter
+15
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Summit
+Pokémon
+Games
+Location
+Levels
+Rate
+Meditite
+OR
+AS
+Grass
+28-31
+40%
+Shuppet
+OR
+AS
+Grass
+28-31
+40%
+Vulpix
+OR
+AS
+Grass
+29, 31
+15%
+Chimecho
+OR
+AS
+Grass
+30
+5%
+Horde Encounter
+Shuppet
+OR
+AS
+Horde Encounter
+15
+60%
+Meditite
+OR
+AS
+Horde Encounter
+15
+35%
+Vulpix
+OR
+AS
+Horde Encounter
+15
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Interior
+Cleanse Tag
+1F; From the old woman in the southwest corner
+OR
+AS
+Ultra Ball
+1F; Southwest corner
+OR
+AS
+Dusk Stone
+1F; Occasionally received after defeating Hex Maniac Valerie in a rematch
+OR
+AS
+Super Repel
+2F; North wall
+OR
+AS
+Shiny Stone
+2F; Occasionally received after defeating Fairy Tale Girl Momo in a rematch
+OR
+AS
+Sea Incense
+3F; Southeast corner
+OR
+AS
+Lax Incense
+3F; West side
+OR
+AS
+TM30
+(
+Shadow Ball
+)
+4F; In the shrine
+OR
+AS
+Medichamite
+4F; Northeast corner
+OR
+AS
+Exterior
+TM61
+(
+Will-O-Wisp
+)
+On the cliff above the exit from 3F
+OR
+AS
+Ultra Ball
+Northwest corner, on a headstone (hidden)
+OR
+AS
+Max Potion
+East of the Summit entrance
+OR
+AS
+Max Ether
+Southwest of the Summit entrance, on a headstone (hidden)
+OR
+AS
+Summit
+Banettite
+East of the large stairway
+OR
+AS
+Zinc
+Southwest corner, on a headstone (hidden)
+OR
+AS
+Dire Hit
+Northeast corner (hidden)
+OR
+AS
+Rare Candy
+Northeast corner, on a headstone (hidden)
+OR
+AS
+Carbos
+Northwest corner (hidden)
+OR
+AS
+Blue Orb
+Obtained after Maxie steals the Red Orb
+OR
+Red Orb
+Obtained after Archie steals the Blue Orb
+AS
+Interior
+On 1F, talk to the old woman in the southwest corner. Concerned for your safety, she gives you a
+Cleanse Tag
+, which reduces the wild encounter rate when held by your lead Pokémon.
+On 3F, you can collect two types of
+Incense
+. The
+Lax Incense
+boosts the holder's
+evasiveness
+by 10%. The
+Sea Incense
+gives
+Water
+moves a 20% power boost when held. These also allow
+Wobbuffet
+,
+Marill
+, and
+Azumarill
+to produce
+Wynaut
+and
+Azurill
+Eggs at the Day Care.
+4F houses a large memorial to all the departed Pokémon interred here. Pick up
+TM30
+(
+Shadow Ball
+) and the
+Medichamite
+, then return to 3F and take the south exit.
+Exterior
+Reaching the summit means a long climb up the mountainside. Be sure to collect
+TM61
+(
+Will-O-Wisp
+) and the
+Max Potion
+before moving on.
+Summit
+When you reach the summit, you are finally able to catch up to
+Team Magma
+OR
+/
+Team Aqua
+AS
+. Show no mercy to the three Grunts lining the path as you advance northward. Upon reaching the mountain's highest peak, you witness
+Maxie
+OR
+/
+Archie
+AS
+stealing the
+Red Orb
+OR
+/
+Blue Orb
+AS
+from its altar! Like your last meeting atop
+Mt. Chimney
+, he doesn't have much time to waste on you. He claims that with this Orb, he no longer needs the power of the
+Meteorite
+to awaken the super-ancient Pokémon—he only needs a way to reach the place where it sleeps. He orders the rest of the team to
+Slateport City
+, to commandeer a submarine moored at the harbor there. He quickly departs, leaving his Admin
+Courtney
+OR
+/
+Matt
+AS
+to battle you in his place.
+VS Courtney
+Magma Admin
+Courtney
+Mt. Pyre
+Omega Ruby
+Reward:
+$
+3,800
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+None
+Camerupt
+♀
+Lv.
+38
+Earth Power
+Ground
+Special
+--
+Curse
+Ghost
+Status
+--
+Take Down
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+VS Matt
+Aqua Admin
+Matt
+Mt. Pyre
+Alpha Sapphire
+Reward:
+$
+3,800
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+38
+Ice Fang
+Ice
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Defeated, the Admin is forced to flee. The elderly caretakers of the two Orbs then entrust the remaining
+Blue Orb
+OR
+/
+Red Orb
+AS
+to you, saying that the two Orbs belong together and must never be separated as they are now. The quickest way back to
+Slateport
+is to
+Fly
+there, otherwise you'll need to head south through
+Route 123
+.
+Route 123
+Route 123
+Route 123
+slopes downhill as it runs westward, from
+Route 122
+back to
+Route 118
+. The
+Berry Master
+'s house, and his extensive backyard garden, can be found on the route's west side.
+Trainers
+Trainer
+Pokémon
+Accessed via Route 118, Route 122
+Aroma Lady
+Violet
+Reward:
+$
+1,152
+Vileplume
+♀
+Lv.
+36
+No item
+Twins
+Miu & Yuki
+Reward:
+$
+280
+Beautifly
+♂
+Lv.
+35
+No item
+Dustox
+♂
+Lv.
+35
+No item
+Accessed via Route 122
+Psychic
+Cameron
+Requires
+Cut
+Reward:
+$
+1,152
+Kadabra
+♂
+Lv.
+34
+No item
+Solrock
+Lv.
+36
+No item
+Picnicker
+Martha
+Reward:
+$
+528
+Illumise
+♀
+Lv.
+33
+No item
+Wigglytuff
+♀
+Lv.
+33
+No item
+Ace Trainer
+Wendy
+Reward:
+$
+2,160
+Rhyhorn
+♀
+Lv.
+36
+No item
+Tropius
+♀
+Lv.
+36
+No item
+Street Thug
+Hannibal
+Reward:
+$
+1,152
+Crawdaunt
+♂
+Lv.
+36
+No item
+Delinquent
+Kylie
+Reward:
+$
+1,152
+Mightyena
+♀
+Lv.
+36
+No item
+Ace Trainer
+Julie
+Reward:
+$
+2,220
+Ninetales
+♀
+Lv.
+35
+No item
+Bellossom
+♀
+Lv.
+37
+No item
+Ace Trainer
+Clyde
+Reward:
+$
+2,220
+Vibrava
+♂
+Lv.
+35
+No item
+Skarmory
+♂
+Lv.
+37
+No item
+Fisherman
+Timin
+Reward:
+$
+1,152
+Seaking
+♂
+Lv.
+36
+No item
+Fisherman
+Fisher
+Reward:
+$
+1,152
+Whiscash
+♂
+Lv.
+36
+No item
+Fisherman
+Finley
+Reward:
+$
+1,088
+Crawdaunt
+♂
+Lv.
+34
+No item
+Gyarados
+♂
+Lv.
+34
+No item
+Rematch
+Psychic
+Cameron
+Reward:
+$
+1,344
+After earning the
+Mind Badge
+Solrock
+Lv.
+40
+No item
+Alakazam
+♂
+Lv.
+42
+No item
+Psychic
+Cameron
+Reward:
+$
+1,408
+After earning the
+Rain Badge
+Exeggcute
+♂
+Lv.
+42
+No item
+Solrock
+Lv.
+43
+No item
+Alakazam
+♂
+Lv.
+44
+No item
+Psychic
+Cameron
+Reward:
+$
+1,632
+After entering the
+Hall of Fame
+Solrock
+Lv.
+49
+No item
+Exeggutor
+♂
+Lv.
+50
+No item
+Alakazam
+♂
+Lv.
+51
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Long grass
+29-31
+30%
+Linoone
+OR
+AS
+Long grass
+29-31
+30%
+Shuppet
+OR
+AS
+Long grass
+28-30
+30%
+Pelipper
+OR
+AS
+Long grass
+31
+5%
+Kecleon
+OR
+AS
+Long grass
+31
+5%
+Horde Encounter
+Shuppet
+OR
+AS
+Horde Encounter
+15
+60%
+Wingull
+OR
+AS
+Horde Encounter
+15
+35%
+Kecleon
+OR
+AS
+Horde Encounter
+15
+5%
+Surfing
+Marill
+OR
+AS
+Surfing
+20
+50%
+Surskit
+OR
+AS
+Surfing
+20
+30%
+Azumarill
+OR
+AS
+Surfing
+25, 30
+16%
+Masquerain
+OR
+AS
+Surfing
+25
+4%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Corphish
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Accessible via Route 122
+Rare Candy
+East of the pier, near the trees (hidden)
+OR
+AS
+PP Up
+×2
+East side, north of Psychic Cameron (hidden, requires
+Cut
+)
+Southwest of Ace Trainer Julie, near the long grass patch
+OR
+AS
+Revival Herb
+East side, south of Psychic Cameron (requires
+Cut
+)
+OR
+AS
+Big Root
+From a girl southwest of the pier, if shown a
+Grass
+Pokémon
+OR
+AS
+Hondew Berry
+×2
+Soft soil patch near Route 122
+OR
+AS
+Leppa Berry
+×4
+Soft soil patch near Route 122
+OR
+AS
+Sitrus Berry
+×4
+Soft soil patch near Route 122
+OR
+AS
+Super Repel
+Southwest of the pier, against the southern treeline (hidden)
+OR
+AS
+Hyper Potion
+Southwest of the pier, south of the thorny bush (hidden)
+OR
+AS
+Qualot Berry
+×6
+Soft soil patch on the north side (requires
+Cut
+)
+OR
+AS
+Grepa Berry
+×6
+Soft soil patch on the north side (requires
+Cut
+)
+OR
+AS
+Tamato Berry
+×6
+Soft soil patch on the north side (requires
+Cut
+)
+OR
+AS
+Elixir
+On a ledge, south of Street Thug Hannibal
+OR
+AS
+Gyaradosite
+123 Go Fish supply store, from
+Poochyena
+after giving it a scratch
+OR
+AS
+Eviolite
+123 Go Fish supply store, from the Fisherman after answering his question with "
+Magikarp
+"
+OR
+AS
+Wide Lens
+Southwest of the pond
+OR
+AS
+Calcium
+Occasionally received after defeating Psychic Cameron in a rematch
+OR
+AS
+Accessible from Routes 118 or 122
+TM99
+(
+Dazzling Gleam
+)
+From a Fairy Tale Girl, southeast of the Berry Master's house
+OR
+AS
+Ultra Ball
+Southwest corner of the Berry Master's front yard
+OR
+AS
+Revive
+Southwest corner of the Berry Master's front yard (hidden)
+OR
+AS
+Gracidea
+Berry Master's house; from his son, if shown a
+Shaymin
+OR
+AS
+123 Go Fish
+123 Go Fish is a supply store near the pond on the route's west side. You can't buy anything here, but you can get a
+Gyaradosite
+from the shack's guard dog, a
+Poochyena
+named Chomper, by giving it a good scratch. While you're here, tell the nearby Fisherman that you like
+Magikarp
+and he'll give you an
+Eviolite
+.
+Berry Master's House
+The
+Berry Master
+'s house, and
+the great Berry garden he tends
+, are located near the route's west end. Talk to him to receive two Berries of the same name every day, chosen randomly:
+Pomeg
+,
+Kelpsy
+,
+Qualot
+,
+Hondew
+,
+Grepa
+,
+Tamato
+,
+Cornn
+,
+Magost
+,
+Rabuta
+, or
+Nomel
+.
+The
+Berry Master's wife
+will give out a Berry each day as well, but the type depends on whether you can help her recall the rest of a phrase. Incorrect answers will result in a common type of Berry—
+Cheri
+,
+Chesto
+,
+Pecha
+,
+Rawst
+,
+Aspear
+,
+Leppa
+,
+Oran
+,
+Persim
+,
+Lum
+, or
+Sitrus
+—while correct answers will earn a rarer variety. Answers are case-sensitive. After recalling all five phrases, she will hand out one common Berry every day.
+Wife's Phrase
+Answer
+Berry Received
+SOMETHING BATTLE
+GREAT
+Spelon Berry
+CHALLENGE SOMETHING
+CONTEST
+Pamtre Berry
+SOMETHING LATIAS
+OVERWHELMING
+Watmel Berry
+COOL SOMETHING
+LATIOS
+Durin Berry
+SUPER SOMETHING
+HUSTLE
+Belue Berry
+The Berry Master's son mentions
+a special kind of flower
+. If you happen to have a
+Shaymin
+, show it to him to receive a
+Gracidea
+flower. The Gracidea will alow it to change forms.
+← Part 11
+Route 119, Weather Institute, Fortree City, Fortree Gym
+Omega Ruby and Alpha Sapphire
+walkthrough
+Slateport City, Lilycove City, Team Hideout, Route 124, Mossdeep City
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

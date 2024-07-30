@@ -1,0 +1,74 @@
+Game: Gold_and_Silver
+Part: 23
+Keywords: Route 11, Diglett's Cave, Route 2, Pewter City, Pewter Gym
+
+### Pokémon Gold and Silver Walkthrough: Part 23
+
+#### Route 11
+- **Location**: Between Route 12 and Vermilion City.
+- **Trainers**: 
+  - **Psychic Herman**: Exeggcute (Lv. 30) x2, Exeggutor (Lv. 30) - Reward: $960
+  - **Youngster Owen**: Growlithe (Lv. 35) - Reward: $560
+  - **Youngster Jason**: Sandslash (Lv. 33), Crobat (Lv. 33) - Reward: $528
+  - **Psychic Fidel**: Xatu (Lv. 34) - Reward: $1088
+
+- **Available Pokémon**: 
+  - Rattata (Lv. 15)
+  - Magnemite (Lv. 15)
+  - Drowzee (Lv. 14, 16)
+  - Hypno (Lv. 16)
+
+- **Items**: 
+  - Berry: Northeast corner (daily)
+  - Revive: Hidden, south of the Berry tree
+
+#### Vermilion City
+- **Roadblock**: Snorlax (Lv. 50) blocks the path. Use the Pokégear set to Channel 20.0 to wake it with the Poké Flute.
+
+#### Diglett's Cave
+- **Location**: Links Vermilion City to Route 2.
+- **Available Pokémon**: 
+  - Diglett (Lv. 13-19) - 90%
+  - Dugtrio (Lv. 19-29) - 10%
+
+- **Items**: 
+  - Max Revive: Hidden near the north end
+
+#### Route 2
+- **Location**: Between Viridian City and Pewter City.
+- **Trainers**: 
+  - **Bug Catcher Rob**: Beedrill (Lv. 32) x2 - Reward: $512
+  - **Bug Catcher Doug**: Ariados (Lv. 34) - Reward: $544
+
+- **Available Pokémon**: 
+  - Caterpie (Lv. 3)
+  - Weedle (Lv. 3)
+
+- **Items**: 
+  - Carbos: Northeast of Diglett's Cave entrance
+  - Nugget: From a man in a house
+
+- **A Friendly Face**: Speak to the man near Diglett's Cave for a Nugget.
+
+#### Pewter City
+- **Overview**: Features the Pewter Gym and the Pewter Museum of Science (closed for renovations).
+
+- **Trading**: Trade a Gloom for a Rapidash at the Pokémon Center.
+
+- **Items**: 
+  - Burnt Berry: Held by traded Rapidash
+  - Mint Berry: Northeast hill (daily)
+  - Silver Wing/Rainbow Wing: From an old man near Route 3 exit
+
+#### Pewter Gym
+- **Leader**: Brock (Rock/Ground-type)
+- **Strategy**: Use Grass and Water-type moves against his Pokémon.
+  
+- **Brock’s Pokémon**:
+  - Graveler (Lv. 41), Rhyhorn (Lv. 41), Omastar (Lv. 42), Onix (Lv. 44), Kabutops (Lv. 42)
+
+- **Reward**: Boulder Badge after defeating Brock.
+
+- **Second Feather**: Speak to an elderly man near the east side for the Silver Wing (Gold/Silver) or Rainbow Wing (Silver).
+
+This guide provides essential route and battle strategies to progress effectively in Pokémon Gold and Silver.

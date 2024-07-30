@@ -1,0 +1,38 @@
+Game: Emerald
+Part: 21
+Keywords: S.S. Tidal, Battle Frontier
+
+**Part 21: S.S. Tidal and Battle Frontier Overview**
+
+**Slateport City/Lilycove City:**
+- Use your S.S. Ticket to board the S.S. Tidal at either Slateport or Lilycove. Speak to the ferry attendant to choose your destination.
+
+**S.S. Tidal:**
+- **1F:** Battle various trainers. Your cabin is the second on the south side, where you can rest. 
+- **Basement:** Battle Sailors Phillip and Leonard for rewards. Find TM49 (Snatch) in the top-right cabin and Leftovers in a trash can.
+
+**Battle Frontier:**
+- After disembarking, choose to go to the Battle Frontier. You will receive a Frontier Pass from a guide at the entrance.
+
+**Facilities:**
+1. **Battle Factory:** Use rental Pokémon. Defeat Noland at battles 21 and 42 for the Knowledge Symbol.
+2. **Battle Dome:** Participate in tournaments. Defeat Tucker for the Tactics Symbol after winning five and ten championships.
+3. **Battle Pike:** Navigate through rooms with various events. Defeat Lucy for the Luck Symbol after two and ten passes.
+4. **Battle Tower:** Compete in 3-vs-3 or 4-vs-4 battles. Defeat Anabel for the Ability Symbol after five and ten runs.
+5. **Battle Arena:** Pokémon battle without commands, rated on Mind, Skill, and Body. Defeat Greta for the Guts Symbol after 28 and 56 wins.
+6. **Battle Palace:** Pokémon act on their own based on Nature. Defeat Spenser for the Spirits Symbol after 21 and 42 wins.
+7. **Battle Pyramid:** Navigate seven floors in darkness. Defeat Brandon for the Brave Symbol after 21 and 70 floors.
+
+**Other Areas:**
+- **Odd Tree:** Use Wailmer Pail to encounter Sudowoodo.
+- **Artisan Cave:** Accessible after defeating or catching Sudowoodo. Contains Smeargle.
+- **Ranking Hall:** Records for various facilities.
+- **Double or Nothing:** Bet on facility challengers for rewards.
+- **Stats Judge:** Evaluates Pokémon stats.
+- **Move Tutors:** Teach moves for Battle Points.
+- **Exchange Service Corner:** Redeem Battle Points for items.
+
+After completing the Battle Frontier, aim to finish your Pokédex with 386 species in Hoenn. 
+
+---
+This concise version focuses on essential gameplay elements, item locations, and battle strategies while omitting extraneous details. Let me know if you need further adjustments or additional details.

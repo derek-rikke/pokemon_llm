@@ -1,0 +1,54 @@
+Game: Sun_and_Moon
+Part: 22
+Keywords: Ruins of Hope, Exeggutor Island, Poni Grand Trial
+
+### Part 22 Walkthrough Summary
+
+#### Ruins of Hope
+- **Location**: East of Poni Breaker Coast.
+- **Key Item**: Zygarde Cell (southeast of the ruins entrance).
+- **Instructions**: 
+  1. Navigate the coral path to reach Lillie and Mudsdale.
+  2. Inside, use Machamp Shove to move stones and access the second chamber to meet Hapu.
+  3. After Hapu receives the Sparkling Stone, she mentions a ceremony at the Altar of the Sunne/Moone and that the Moon/Sun Flute is on Exeggutor Island.
+
+#### Seafolk Village
+- **Action**: Return to Seafolk Village to follow Lillie and Hapu. Board the S.S. Magikarp.
+
+#### Exeggutor Island
+- **Description**: An uninhabited nature preserve with Alolan Exeggutor.
+- **Key Items**: 
+  - Big Pearl (north half in cave)
+  - Prism Scale (northeast path)
+  - Heart Scale (hidden among red flowers)
+  - Sun Flute (S) / Moon Flute (M) (at the island's highest point).
+- **Instructions**: 
+  1. Battle the Alolan Exeggutor upon arrival.
+  2. Take cover from rain in a cave, then find Lillie and ascend to retrieve the flute.
+  3. Return to Seafolk Village.
+
+#### Ancient Poni Path
+- **Encounter**: Lillie is confronted by Team Skull Grunts blocking the road.
+- **Battle Strategy**: Defeat 2 Grunts followed by Plumeria, who gives you the Poisonium Z.
+  
+#### Vast Poni Canyon
+- **Key Item**: Groundium Z (after defeating Hapu).
+- **Instructions**: 
+  1. Follow Lillie to meet Hapu under a dead tree.
+  2. Prepare for the battle against Hapu's Ground-type Pokémon.
+  
+#### Hapu's Battle Strategy:
+- **Key Tips**: Use Grass, Water, or Ice moves against her Pokémon. Avoid physical moves against Mudsdale to prevent Counter damage.
+  
+#### Hapu's Pokémon:
+1. **Alolan Dugtrio (Lv. 47)** - Weak to Fire/Fighting.
+2. **Gastrodon (Lv. 47)** - Weak to Grass.
+3. **Flygon (Lv. 47)** - Weak to Ice.
+4. **Mudsdale (Lv. 48)** - Avoid physical attacks; can use Tectonic Rage.
+
+- **Post-Battle**: Receive Groundium Z and Trainer Passport stamp for obedience of traded Pokémon up to Level 80. Proceed east towards the altar.
+
+### Next Steps
+- Head into the large cave opening to continue your journey.
+
+This summary retains essential gameplay elements, item locations, and strategies for battles while eliminating extraneous details.

@@ -1,0 +1,1171 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_16
+Keywords: Mt. Coronet (Northern Area Part 2), Routes 216-217, Acuity Lakefront, Snowpoint City
+
+Walkthrough Text:
+Contents
+1
+Before proceeding......
+2
+Eterna City/Celestic Town - Route 211
+3
+Mt. Coronet (Northern Area Part 2)
+4
+Route 216
+4.1
+Later......
+5
+Route 217
+6
+Acuity Lakefront
+7
+Snowpoint City
+Before proceeding......
+Make sure that you are fully prepared!
+A tough and long journey is up ahead.
+Routes 216-217 are very long (longer than
+Route 212
+). The weather condition will be very bad. On
+Route 216
+,
+Acuity Lakefront
+and
+Snowpoint City
+, the weather will be snowy. The situation on
+Route 217
+will be even worse --
+there is a blizzard
+!
+When a battle is triggered in the above-mentioned places, the weather condition will immediately switch from snowing/blizzard condition to hailing for unknown reasons. The hail will damage all Pokémon except
+Ice-type
+Pokémon.
+Make sure that you have done the following things before going on:
+Buy a lot of medicines.
+Buy at least 15 for each necessary medicines.
+(excluding different versions of Potions because these are expensive)
+Buying 20 to 25 for each is recommended.
+To save money, don't buy
+Super Potions
+. Also, buy as few
+Potions
+and
+Hyper Potions
+as possible.
+Buy the cheaper
+Drinks
+such as bottles of Fresh Water, Soda Pop, Moomoo Milk and cans of Lemonade instead of different versions of Potions, which are more expensive (especially Super Potions).
+You can buy bottles of Fresh Water, Soda Pop and cans of Lemonade on 5/F in
+Veilstone Department Store
+.
+You can buy bottles of Moomoo Milk in Cafe Cabin on
+Route 210
+, near
+Route 215
+entrance.
+Buy some Poke Balls if you want to catch some new Pokémon.
+Buying 10
+Great Balls
+are recommended.
+If you are playing at night, you may consider about buying
+Dusk Balls
+instead.
+Heal your Pokémon.
+Bring Pokémon with the following
+HM
+moves.
+Surf
+Strength
+Defog
+Rock Smash
+Train your Pokémon until they are at above Level 35.
+Having your Pokémon at around Level 40 is recommended.
+If your Pokémon are at or below Level 35, don't even dare to proceed!
+Iron Island
+is a good training place.
+Eterna City/Celestic Town - Route 211
+Proceed from either
+Celestic Town
+or
+Eterna City
+when you are ready. Head west from Celestic Town or head east from Eterna City. Enter
+Mt. Coronet
+from either west or east side of
+Route 211
+.
+Mt. Coronet (Northern Area Part 2)
+There are some items for you to get before you head deeper if you didn't check out this area after getting the sixth Gym badge.
+Items (Northern Cavern)
+Item
+Location
+Games
+Revive
+Near the west entrance on a boulder in the open
+(hidden)
+D
+P
+TinyMushroom
+On a boulder west of the entrance from Celestic Town
+(hidden)
+D
+P
+Escape Rope
+South of the entrance from Celestic Town
+D
+P
+Elixir
+On a rock in the middle of the cavern (requires either
+Strength
+or
+Rock Smash
+)
+(hidden)
+D
+P
+TM69
+(
+Rock Polish
+)
+North of the entrance from Eterna City (requires
+Strength
+and
+Rock Smash
+)
+D
+P
+Rare Candy
+In the middle of the northern cavern (requires
+Strength
+and
+Rock Smash
+)
+D
+P
+TinyMushroom
+On a boulder near the stairs at the northern end
+(hidden)
+D
+P
+Available Pokémon (Northern Cavern)
+Pokémon
+Games
+Location
+Levels
+Rate
+Meditite
+D
+P
+Pt
+Cave
+14-20
+10%
+Machop
+D
+P
+Pt
+Cave
+13-20
+20%
+Chingling
+D
+P
+Pt
+Cave
+14-19
+10%
+Geodude
+D
+P
+Pt
+Cave
+12-19
+15%
+Zubat
+D
+P
+Pt
+Cave
+14-19
+10%
+Cleffa
+D
+P
+Pt
+Cave
+12-14
+25%
+5%
+5%
+Clefairy
+D
+P
+Pt
+Cave
+17
+10%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+There is a boulder for you to push to the south, but that is a one-way road from the summit. You cannot proceed further. Go north and push that boulder, collect the items if you haven't, then go down the stairs.
+You'll be suddenly surrounded by deep fog again. Can't believe that it's foggy in the basement of a mountain, huh? Use Defog just like how you did on
+Route 210
+. There are many items to collect if you fully explore the basement.
+In the water, you can find an extremely hard to find Pokémon that is unfortunately weak at first but can evolve into a strong Pokémon. If you played Pokémon Ruby, Sapphire or Emerald, you should know what it is --
+Feebas
+, the
+Hoenn
+counterpart of
+Magikarp
+. Similar to that of
+Hoenn Route 119
+, instead of fishing in any location as customary with most Pokémon, Feebas is located in only 4 water blocks. There is no easy method to determine which block contains Feebas, as the only way is to drop a line into each and every water block in the lake. Finding Feebas here is much harder that in Hoenn as Feebas is not guaranteed to take the bait even if the right water block is found. Also, the locations of the 4 blocks changes every day. Once hooked, however, Feebas is an easy catch. Like Magikarp evolving into Gyarados, Feebas can evolve into
+Milotic
+, which is a powerful
+Water-type
+Pokémon, but the evolving method is very different.
+Items (Basement)
+Item
+Location
+Games
+Stardust
+South-west corner of the room (requires
+Rock Smash
+)
+D
+P
+Nugget
+On the boulder south of the stardust
+(hidden)
+D
+P
+Light Clay
+On an island in the middle of the foggy lake (requires
+Surf
+)
+D
+P
+Max Elixir
+Northeast corner of the foggy lake (requires either
+Surf
+or
+Rock Smash
+)
+D
+P
+PP Up
+Behind a
+breakable rock
+near the foggy lake (requires
+Surf
+and
+Rock Smash
+)
+(hidden)
+D
+P
+Soft Sand
+Near the north-west corner of the foggy lake (requires
+Strength
+and
+Rock Smash
+)
+D
+P
+Revive
+North of the foggy lake, north-east of the Soft Sand (requires
+Strength
+and
+Rock Smash
+)
+D
+P
+Full Restore
+Next to the eastern edge of the foggy lake (requires
+Rock Smash
+)
+D
+P
+Ultra Ball
+On a boulder north of the foggy lake
+(hidden)
+D
+P
+Rare Candy
+On a boulder in the far north-west corner of the room
+(hidden)
+D
+P
+Available Pokémon (Basement)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+31-32
+20%
+Meditite
+D
+P
+Pt
+Cave
+31-32
+25%
+Graveler
+D
+P
+Pt
+Cave
+34
+20%
+Chingling
+D
+P
+Pt
+Cave
+30
+10%
+Clefairy
+D
+P
+Pt
+Cave
+30-32
+15%
+Machoke
+D
+P
+Pt
+Cave
+31
+10%
+Surfing and Fishing
+Zubat
+D
+P
+Pt
+Surfing
+20
+90%
+Golbat
+D
+P
+Pt
+Surfing
+20-40
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+4 Random Squares
+Feebas
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Feebas
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Collect all the items, then proceed.
+Item (Rt. 216 Exit)
+Item
+Location
+Games
+HP Up
+Where the Iceberg Ruins entrance would be in Platinum
+(hidden)
+D
+P
+Available Pokémon (Rt. 216 Exit)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+31-32
+20%
+Meditite
+D
+P
+Pt
+Cave
+31-32
+25%
+Graveler
+D
+P
+Pt
+Cave
+34
+20%
+Chingling
+D
+P
+Pt
+Cave
+30
+10%
+Clefairy
+D
+P
+Pt
+Cave
+30-32
+15%
+Machoke
+D
+P
+Pt
+Cave
+31
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+There is a hidden
+HP Up
+. Get it, then go through the exit. You'll need to brace yourself against the snow, so get ready. Get off your Bicycle now if you're riding because the route is covered in snow and your bicycle will get stuck.
+Route 216
+Route 216
+After getting out of Mt. Coronet, you are on
+Route 216
+. The route is always snowing and is covered in snow. Bicycle cannot be used. In some places, the snow is deep that you cannot run through.
+There are 2 paths -- one is in the "valley" and the other is elevated. Go through both paths to collect all items and fight all Trainers. Both paths are bringing you to the west.
+Items
+Item
+Location
+Games
+Full Heal
+On the upper ledge south-west of the first bridge
+(hidden)
+D
+P
+Ice Heal
+At the western end of the middle ledge, west of the middle bridge
+(hidden)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Graveler
+D
+P
+Pt
+Grass
+33
+10%
+Sneasel
+D
+P
+Pt
+Grass
+32-34
+25%
+Snover
+D
+P
+Pt
+Grass
+33
+25%
+Machoke
+D
+P
+Pt
+Grass
+33-34
+20%
+20%
+10%
+Meditite
+D
+P
+Pt
+Grass
+33-34
+20%
+20%
+10%
+Zubat
+D
+P
+Pt
+Grass
+33
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+33
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Blake
+ユウマ
+Yūma
+Reward:
+$
+2100
+Ambipom
+♂
+Lv.
+35
+No item
+Kadabra
+♂
+Lv.
+35
+No item
+Ace Trainer
+Maria
+マドカ
+Madoka
+Reward:
+$
+1980
+Golduck
+♀
+Lv.
+34
+No item
+Ponyta
+♀
+Lv.
+35
+No item
+Sudowoodo
+♀
+Lv.
+33
+No item
+Ace Trainer
+Laura
+ナオコ
+Naoko
+Reward:
+$
+2220
+Lopunny
+♀
+Lv.
+37
+No item
+Skier
+Edward
+タカヒコ
+Takahiko
+Reward:
+$
+1120
+Sneasel
+♂
+Lv.
+35
+No item
+Ace Trainer
+Garrett
+ヒロユキ
+Hiroyuki
+Reward:
+$
+2100
+Mr. Mime
+♂
+Lv.
+33
+No item
+Machoke
+♂
+Lv.
+34
+No item
+Sneasel
+♂
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+There is a house named Snowbound Lodge near the western end of this route. Go inside and sleep on the bed (go into the middle of the bed, press down and answer "Yes"), then your Pokémon will be fully healed. Make good use of Snowbound Lodge, especially if you are running out of items.
+Snowbound Lodge
+A Warm Bed and Little Else
+In the grass, there are 2 new Pokémon for you to catch --
+Sneasel
+and
+Snover
+. Both of them are dual-typed Pokémon with
+Ice-type
+as their secondary type. Sneasel is
+Dark
+/Ice-type Pokémon, while Snover is
+Grass
+/Ice-type Pokémon. Sneasel has high Attack and Speed (it is very fast). Starting from this generation, leveling it up at night with it holding
+Razor Claw
+will make it to evolve into
+Weavile
+. Snover's stats are not too awesome, and it is slow (has low speed). It will evolve into
+Abomasnow
+starting from Level 40.
+Fight Ace Trainer Garrett in the grass, then go back to Snowbound Lodge and heal again. After that, go north from Ace Trainer Garrett and enter
+Route 217
+.
+Later......
+Return here when you can use
+HM08
+(
+Rock Climb
+) on the field. Head east from Snowbound Lodge and stop near the stairs. Use Rock Climb to climb up. You can fight some more Trainers and collect some decent items, especially
+TM13
+(
+Ice Beam
+).
+Route 217
+Route 217
+Make sure that you heal your Pokémon at Snowbound Lodge before proceeding!
+The snow will become an insanely harsh, extremely crazy and ceaseless blizzard. Don't even think about waiting the blizzard to stop -- it just never stops. The description of
+Town Map
+is written,
+"Be prepared for the worst."
+Your visibility is severely reduced, and Defog has no use this time. The snow is very deep that prevents you from running, which will be irritating and make your journey far slower. Sometimes the snow is extremely deep that you can't even walk normally -- you can only "crawl" slowly.
+This route is long and hard to get through. You will get lost in the blizzard because it completely obscures your view, so be sure to check the Town Map constantly. Registering your Town Map for instant use is recommended in this route.
+Items
+Listed in order approximately south to north.
+Item
+Location
+Games
+PP Up
+Southeast to the independent tree below the large outcropping of trees in the south
+(hidden)
+D
+P
+Full Heal
+Near
+Skier
+Shawn
+(hidden)
+D
+P
+Nugget
+Northwest of Skier Madison
+(hidden)
+D
+P
+Calcium
+North of the large outcropping of trees
+(hidden)
+D
+P
+Iron
+West of the southernmost pair of trees
+D
+P
+Protein
+3 steps south of
+TM07
+(
+Hail
+)
+(hidden)
+D
+P
+Ultra Ball
+East of the third pair of trees
+(hidden)
+D
+P
+TM07
+(
+Hail
+)
+In the snow just southeast of the Hiker's house
+D
+P
+Max Potion
+South of skier Bjorn
+(hidden)
+D
+P
+Max Repel
+East of the Hiker's house
+(hidden)
+D
+P
+HM08
+(
+Rock Climb
+)
+Northeast of the Hiker's house
+D
+P
+Icicle Plate
+Talk to the Hiker in his house after picking up HM08
+D
+P
+Max Revive
+Just south of skier Bjorn
+(hidden)
+D
+P
+Ultra Ball
+South of skier Lexie
+(hidden)
+D
+P
+Spell Tag
+Given by woman in north house
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sneasel
+D
+P
+Pt
+Grass
+34-35
+25%
+Meditite
+D
+P
+Pt
+Grass
+35
+10%
+10%
+0%
+Medicham
+D
+P
+Pt
+Grass
+35-36
+20%
+Snover
+D
+P
+Pt
+Grass
+34-35
+25%
+Machoke
+D
+P
+Pt
+Grass
+35-36
+20%
+20%
+10%
+Zubat
+D
+P
+Pt
+Grass
+35
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+35
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Dalton
+ミキト
+Mikito
+Reward:
+$
+2280
+Raichu
+♂
+Lv.
+34
+No item
+Pelipper
+♂
+Lv.
+36
+No item
+Hippopotas
+♂
+Lv.
+38
+No item
+Skier
+Shawn
+センタロウ
+Sentarō
+Reward:
+$
+1120
+Snover
+♂
+Lv.
+34
+No item
+Snover
+♂
+Lv.
+33
+No item
+Golduck
+♂
+Lv.
+34
+No item
+Snover
+♂
+Lv.
+35
+No item
+Ninja Boy
+Antonio
+ヒロノブ
+Hironobu
+Reward:
+$
+288
+Zubat
+♂
+Lv.
+33
+No item
+Golbat
+♂
+Lv.
+33
+No item
+Zubat
+♂
+Lv.
+34
+No item
+Croagunk
+♂
+Lv.
+36
+No item
+Skier
+Madison
+ヒヅキ
+Hizuki
+Reward:
+$
+1184
+Snover
+♀
+Lv.
+37
+No item
+Ninja Boy
+Ethan
+カズヒト
+Kazuhito
+Reward:
+$
+280
+Skorupi
+♂
+Lv.
+35
+No item
+Golbat
+♂
+Lv.
+35
+No item
+Skier
+Bjorn
+ノブオ
+Nobuo
+Reward:
+$
+1216
+Mantyke
+♂
+Lv.
+36
+No item
+Sneasel
+♂
+Lv.
+38
+No item
+Skier
+Lexie
+ユウコ
+Yūko
+Reward:
+$
+1120
+Marill
+♀
+Lv.
+35
+No item
+Clefairy
+♀
+Lv.
+35
+No item
+Black Belt
+Luke
+トウシ
+Tōshi
+Reward:
+$
+888
+Croagunk
+♂
+Lv.
+36
+No item
+Onix
+♂
+Lv.
+35
+No item
+Machoke
+♂
+Lv.
+37
+No item
+Ace Trainer
+Olivia
+シズル
+Shizuru
+Reward:
+$
+2220
+Roselia
+♀
+Lv.
+37
+No item
+Seaking
+♀
+Lv.
+37
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+If you don't want to get lost and only wants to go through this route, just remember that you are heading north, then approximately NW (northwest) to NNW (north-northwest) after getting past the trees on the west side on the route, and north again after getting past the house on the west side of the route.
+But if you want to collect all items, fight all Trainers and are not afraid of getting lost, you can go back and forth between the west and east sides of the route. Make sure that the Pokétch App Dowsing Machine is ready if you're going to collect all items. Using Dowsing Machine constantly is recommended because there are a lot of hidden items in the deep snow.
+Extremely Important! When you find the house on the west side of this route, don't just ignore it and get past. Instead, go inside. A Hiker will say that he lost an HM when fighting through the blizzard. Go outside and search around the house. At northeast of the house, you can find
+HM08
+(
+Rock Climb
+). You must pick this up because you need this HM to proceed further!
+After that, go back into the house again and speak to the hiker. He will appreciate your honesty, say that he no longer needs this lost HM and allow you to keep it. He will then give you the
+Icicle Plate
+as your reward.
+There is another house at the northeast part of this route. Go inside and a woman will give you a
+Spell Tag
+. She will be disappeared after you leave the house and go in again.
+North of the northeast house is an
+Ice Rock
+, which means that
+Eevee
+will evolve into
+Glaceon
+if leveled up on this route. But you probably don't have an Eevee at this stage of the game, so ignore it for now.
+At the northwest part, i.e. NNW of the western house where you get HM08 and Icicle Plate, or north of Skier Lexie, is the road leading towards
+Acuity Lakefront
+. Fight the last two Trainers and proceed.
+Acuity Lakefront
+Acuity Lakefront
+The blizzard will revert back to the snowfall on Route 216. Head north. If you have beaten the
+Snowpoint Gym
+already, you can go through the entrance to
+Lake Acuity
+. But you should have probably not. 2
+Galactic Grunts
+will be blocking that entrance, so head east instead. Go to the northeast corner and collect the
+Ultra Ball
+, then go to
+Snowpoint City
+from the southeast corner.
+Items
+Item
+Location
+Games
+Ultra Ball
+Northeast corner of the lakefront
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+35
+0%
+0%
+10%
+Machoke
+D
+P
+Pt
+Grass
+35-36
+20%
+20%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+35
+0%
+0%
+10%
+Sneasel
+D
+P
+Pt
+Grass
+34-35
+25%
+Meditite
+D
+P
+Pt
+Grass
+35
+10%
+10%
+0%
+Medicham
+D
+P
+Pt
+Grass
+35-36
+20%
+Snover
+D
+P
+Pt
+Grass
+34-35
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Snowpoint City
+Snowpoint City
+Once you reach
+Snowpoint City
+, immediately heal up at the
+Pokémon Center
+since your Pokémon are probably exhausted. The temple in the northernmost part of the city isn't accessible until you get the
+National Dex
+, so ignore it for now (if you try to go inside, the woman will block you). There is an old man in the north-easternmost house that will give you a
+trendy phrase
+once per day. A girl named Mindy in the north-westernmost house will trade her
+Haunter
+nicknamed Gaspar for a
+Medicham
+. Gaspar is holding an
+Everstone
+, so it won't evolve into
+Gengar
+. There is a sailor that will drive a ship and bring you to the
+Battle Zone
+, but only if you beat the Elite Four and Champion, and are "recognized by the Pokémon League". From what he says, it seems that he looks forward to that day.
+An interesting weather condition called Diamond Dust happens only on 12th January. On that day, no snow falls in Snowpoint City. Instead, you will see sparkles in the air. Those sparkles are the Diamond Dust.
+There is also something for you to collect in this town.
+Items
+Item
+Location
+Games
+Hyper Potion
+East of the Gym
+(hidden)
+D
+P
+When you are ready, head to the
+Snowpoint Gym
+. The Gym is located in the middle of the town, so you are guaranteed to find it.
+← Part 15
+Wayward Cave (Basement), Canalave Library, Valor Lakefront, Lake Valor, Lake Verity
+Diamond and Pearl
+walkthrough
+Snowpoint Gym, Lake Acuity, Veilstone City, Galactic HQ, Galactic Warehouse, Raiding Galactic HQ (Part 1)
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

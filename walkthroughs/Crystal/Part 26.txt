@@ -1,0 +1,894 @@
+Part: Part 26
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_26
+Keywords: Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Route 19
+
+Walkthrough Text:
+Contents
+1
+Route 21
+2
+Cinnabar Island
+2.1
+Nature's Madness
+2.2
+The Final Gym Leader
+3
+Route 20
+3.1
+Seafoam Islands
+3.2
+Cinnabar Gym
+4
+Route 19
+4.1
+Cleanup Complete
+Route 21
+Route 21
+Route 21
+is an ocean route that leads southward from
+Pallet Town
+to
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+Swimmer♀
+Nikki
+Reward:
+$
+560
+Seel
+♀
+Lv.
+28
+No item
+Seel
+♀
+Lv.
+28
+No item
+Seel
+♀
+Lv.
+28
+No item
+Dewgong
+♀
+Lv.
+28
+No item
+Fisher
+Arnold
+Reward:
+$
+1360
+Tentacruel
+♂
+Lv.
+34
+No item
+Swimmer♂
+Seth
+Reward:
+$
+256
+Quagsire
+♂
+Lv.
+29
+No item
+Octillery
+♂
+Lv.
+29
+No item
+Quagsire
+♂
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+25
+30%
+Raticate
+G
+S
+C
+Grass
+20
+10%
+Tangela
+G
+S
+C
+Grass
+30,35
+50%
+50%
+0%
+Tangela
+G
+S
+C
+Grass
+28,30,35
+0%
+0%
+60%
+Mr. Mime
+G
+S
+C
+Grass
+28,30
+10%
+10%
+0%
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+30-39
+90%
+Tentacruel
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Chinchou
+G
+S
+C
+Fishing
+Super Rod
+40
+40%
+Shellder
+G
+S
+C
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Lanturn
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cinnabar Island
+Cinnabar Island
+Cinnabar
+is a large island to the southwest of mainland
+Kanto
+, between Routes
+21
+and
+20
+. The area once held a
+research facility
+,
+a broken-down building
+that was home to
+a famous researcher
+, and the
+Cinnabar Gym
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+30-39
+90%
+Tentacruel
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Chinchou
+G
+S
+C
+Fishing
+Super Rod
+40
+40%
+Shellder
+G
+S
+C
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Lanturn
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rare Candy
+Dead-end path, north side of the island (hidden)
+C
+Nature's Madness
+When the island's volcano erupted, most buildings were either buried in rubble or swept into the sea, and only the Pokémon Center has since been rebuilt. According to a man inside the building, it has been a year since the eruption. A sign posted outside notifies visitors that the
+Cinnabar Gym
+has relocated to the nearby
+Seafoam Islands
+.
+The Final Gym Leader
+Speak to the man behind the Pokémon Center, and he introduces himself as
+Blue
+. He is not in the mood to battle at the moment, as he contemplates the power of nature and the destruction around him. He invites you to challenge him at the
+Viridian Gym
+, then leaves.
+Route 20
+Route 20
+Cinnabar Gym, inside the Seafoam Islands
+The waves of
+Route 20
+are a popular spot for swimming. The middle of the path is occupied by the
+Seafoam Islands
+. The waters lead east to
+Route 19
+.
+Trainers
+Trainer
+Pokémon
+Swimmer♂
+Cameron
+Reward:
+$
+272
+Marill
+♂
+Lv.
+34
+No item
+Swimmer♀
+Lori
+Reward:
+$
+640
+Starmie
+Lv.
+32
+No item
+Starmie
+Lv.
+32
+No item
+Swimmer♀
+Nicole
+Reward:
+$
+640
+Marill
+♀
+Lv.
+29
+No item
+Marill
+♀
+Lv.
+29
+No item
+Lapras
+♀
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+30-39
+90%
+Tentacruel
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Chinchou
+G
+S
+C
+Fishing
+Super Rod
+40
+40%
+Shellder
+G
+S
+C
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Lanturn
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Seafoam Islands
+Just as the beach near
+Fuchsia City
+is littered with volcanic rocks, the
+Seafoam Islands
+were also damaged by volcanic debris. The entrance to the western island was destroyed, while subsequent collapses have reduced the eastern island to a single small chamber. It is this tiny cave that houses the relocated
+Cinnabar Gym
+.
+Cinnabar Gym
+Cinnabar City Pokémon Gym
+Leader: Blaine
+The
+Cinnabar Gym
+specializes in
+Fire-type
+Pokémon. Fire-type moves are super effective against
+Bug
+-,
+Grass
+-,
+Ice
+-, and
+Steel-type
+Pokémon, while Fire-type Pokémon are weak to
+Ground
+-,
+Rock
+-, and
+Water-type
+moves.
+As the
+Gym Leader
+enjoys riddles, he had equipped his Gym with machines that would display a quiz when examined. However, these machines were destroyed in
+Cinnabar
+'s eruption, so there are no puzzles to solve here. There are no Gym Trainers either, allowing challengers to reach the Gym Leader immediately.
+Blaine
+'s
+Magcargo
+has high
+Defense
+, so
+special moves
+will fare better against it. Due to its
+Fire
+/
+Rock
+typing,
+Water
+attacks will be especially useful. Intending to account for one of his team's weaknesses, Blaine has taught his
+Magmar
+ThunderPunch
+in order to fight back against Water Pokémon.
+Rapidash
+has high
+Speed
+and physical
+Attack
+, but its
+physical moves
+have low power.
+Fire Blast
+may cause a
+burn
+, so be sure to bring some
+Burn Heals
+.
+Cinnabar Gym
+Trainers
+None.
+Leader
+Blaine
+Cinnabar Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+5000
+Types:
+Fire
+Rock
+Held item:
+None
+Magcargo
+♂
+Lv.
+45
+Curse
+???
+--
+Smog
+Poison
+--
+Flamethrower
+Fire
+--
+Rock Slide
+Rock
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Magmar
+♂
+Lv.
+45
+ThunderPunch
+Electric
+--
+Fire Punch
+Fire
+--
+Sunny Day
+Fire
+--
+Confuse Ray
+Ghost
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Rapidash
+♂
+Lv.
+50
+Quick Attack
+Normal
+--
+Fire Spin
+Fire
+--
+Fury Attack
+Normal
+--
+Fire Blast
+Fire
+--
+After the battle,
+Blaine
+awards you the
+Volcano Badge
+.
+Route 19
+Route 19
+Route 19
+runs north from
+Route 20
+back to
+Fuchsia City
+. It is a popular spot for swimming and sunbathing.
+Trainers
+Trainer
+Pokémon
+Swimmer♂
+Harold
+Reward:
+$
+240
+Remoraid
+♂
+Lv.
+32
+No item
+Seadra
+♂
+Lv.
+30
+No item
+Swimmer♂
+Tucker
+Reward:
+$
+272
+Shellder
+♂
+Lv.
+30
+No item
+Cloyster
+♂
+Lv.
+34
+No item
+Swimmer♀
+Dawn
+Reward:
+$
+680
+Seaking
+♀
+Lv.
+34
+No item
+Swimmer♂
+Jerome
+Reward:
+$
+224
+Seadra
+♂
+Lv.
+26
+No item
+Tentacool
+♂
+Lv.
+28
+No item
+Tentacruel
+♂
+Lv.
+30
+No item
+Goldeen
+♂
+Lv.
+28
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+30-39
+90%
+Tentacruel
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Krabby
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Krabby
+G
+S
+C
+Fishing
+Good Rod
+20
+55%
+Staryu
+G
+S
+C
+Fishing
+Good Rod
+20
+0%
+0%
+10%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Corsola
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+10%
+0%
+Krabby
+G
+S
+C
+Fishing
+Super Rod
+40
+60%
+Kingler
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+Staryu
+G
+S
+C
+Fishing
+Super Rod
+40
+0%
+0%
+30%
+Corsola
+G
+S
+C
+Fishing
+Super Rod
+40
+30%
+30%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cleanup Complete
+In the time it took to return to the beach outside
+Fuchsia City
+, the volcanic debris has been cleared away. Travelers can now move freely between Fuchsia City and
+Route 19
+.
+← Part 25
+Viridian City, Route 1, Pallet Town
+Crystal
+walkthrough
+Route 22, Route 28
+Part 27 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

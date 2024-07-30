@@ -1,0 +1,46 @@
+Game: Sun_and_Moon
+Part: 25
+Keywords: Mount Lanakila
+
+**Mount Lanakila Walkthrough**
+
+**Overview**: Mount Lanakila is the final area leading to the Pokémon League in Alola. Prepare your team for tough battles.
+
+**1. Base**
+- **VS Gladion**: 
+  - **Team**: 
+    - Crobat (Lv. 52) - Weak to Rock
+    - Weavile (Lv. 52) - Weak to Fire/Fighting
+    - Lucario (Lv. 52) - Beware of Steelium Z
+    - Silvally (Lv. 53) - Type varies
+  - **Reward**: $8,480
+
+- **Items**: 
+  - Max Elixir (from Gladion)
+  - Escape Rope (Upper Reaches, first tall grass)
+  - Zygarde Cell (Upper Reaches, near a rock)
+
+**2. Icy Cave**
+- Follow the path to find:
+  - TM13 (Ice Beam) - Western tunnel
+  - Icium Z - Northeast pedestal
+  - Full Restore - Behind rocks
+- Climb to exit the cave.
+
+**3. Upper Reaches**
+- Collect Max Revive (in tall grass).
+- Head to the Pokémon Center to heal and prepare for Elite battles.
+
+**4. Rival Battle 7 (Hau)**
+- **Team**: 
+  - Raichu (Lv. 53)
+  - Flareon (Lv. 53)
+  - Komala (Lv. 53)
+  - Primarina (Lv. 54)
+- **Reward**: $8,640
+
+**5. Peak**
+- Visit the Pokémon Center for last-minute preparations.
+- Speak to Professor Kukui at the summit; he will explain the Pokémon League setup.
+
+**Final Tip**: Stock up on healing items, as you will face four elite Trainers consecutively without breaks. Good luck!

@@ -1,0 +1,72 @@
+Game: X_and_Y
+Part: 15
+Keywords: The Pokémon League
+
+### Pokémon League Walkthrough
+
+**Preparation:**
+- Ensure your team is ready with TMs and consider using Move Tutors in Snowbelle City and Route 21 for powerful moves.
+- Stock up on medicines, particularly Full Restores and Revives.
+- Equip useful items like Quick Claw and Wide Lens.
+
+**Great Hall:**
+- Meet Malva, the Elite Four's Fire-type specialist.
+- Choose the order of battles; consider starting with easier opponents.
+
+#### Elite Four Battles:
+
+1. **Blazing Chamber (Malva)**: 
+   - **Type**: Fire
+   - **Pokémon**: 
+     - Pyroar (Lv. 63) - Weak to Water/Rock
+     - Torkoal (Lv. 63) - Weak to Ground
+     - Chandelure (Lv. 63) - Weak to Water/Rock
+     - Talonflame (Lv. 65) - Weak to Electric/Rock
+   - **Strategy**: Use Water, Rock, and Ground moves. Beware of Talonflame's speed.
+
+2. **Flood Chamber (Siebold)**:
+   - **Type**: Water
+   - **Pokémon**:
+     - Clawitzer (Lv. 63) - Weak to Electric
+     - Gyarados (Lv. 63) - Weak to Electric
+     - Starmie (Lv. 63) - Weak to Electric/Grass
+     - Barbaracle (Lv. 65) - Weak to Fighting
+   - **Strategy**: Use Electric moves to exploit weaknesses.
+
+3. **Ironworks Chamber (Wikstrom)**:
+   - **Type**: Steel
+   - **Pokémon**:
+     - Klefki (Lv. 63) - Weak to Fire
+     - Probopass (Lv. 63) - Weak to Fire
+     - Scizor (Lv. 63) - Weak to Fire
+     - Aegislash (Lv. 65) - Weak to Fire/Fighting
+   - **Strategy**: Use Fire-type moves against most Pokémon.
+
+4. **Dragonmark Chamber (Drasna)**:
+   - **Type**: Dragon
+   - **Pokémon**:
+     - Dragalge (Lv. 63) - Weak to Ice
+     - Druddigon (Lv. 63) - Weak to Ice
+     - Altaria (Lv. 63) - Weak to Ice
+     - Noivern (Lv. 65) - Weak to Ice
+   - **Strategy**: Use Ice moves to take down her team quickly.
+
+**Radiant Chamber (Champion Diantha)**:
+- **Pokémon**: 
+  - Hawlucha (Lv. 64) - Weak to Fairy
+  - Tyrantrum (Lv. 65) - Weak to Fighting/Steel
+  - Aurorus (Lv. 65) - Weak to Fighting/Steel
+  - Gourgeist (Lv. 65) - Weak to Ghost/Dark
+  - Goodra (Lv. 66) - Weak to Fairy/Ice
+  - Gardevoir (Lv. 68) - Weak to Steel/Poison
+- **Strategy**: Use Ice, Steel, and Fairy moves to counter her diverse team.
+
+**Hall of Fame**: 
+- After defeating Diantha, you will be recorded in the Hall of Fame.
+
+**Post-League (Lumiose City)**:
+- Celebrate your victory with friends and receive the Honor of Kalos medal from Professor Sycamore.
+- Battle AZ, who seeks to understand what a Trainer is.
+
+### Summary:
+Prepare thoroughly, exploit type weaknesses during battles, and celebrate your victory in Lumiose City!

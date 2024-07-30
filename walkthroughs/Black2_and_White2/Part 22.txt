@@ -1,0 +1,2241 @@
+Part: Part 22
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_22
+Keywords: Reversal Mountain, Nature Preserve, The Pokémon League: Round 2
+
+Walkthrough Text:
+Contents
+1
+Reversal Mountain
+2
+Nature Preserve
+3
+Pokémon League: Round 2
+3.1
+Shauntal
+3.1.1
+Rematch (Easy Mode/Normal Mode)
+3.1.2
+Rematch (Challenge Mode)
+3.2
+Grimsley
+3.2.1
+Rematch (Easy Mode/Normal Mode)
+3.2.2
+Rematch (Challenge Mode)
+3.3
+Caitlin
+3.3.1
+Rematch (Easy Mode/Normal Mode)
+3.3.2
+Rematch (Challenge Mode)
+3.4
+Marshal
+3.4.1
+Rematch (Easy Mode/Normal Mode)
+3.4.2
+Rematch (Challenge Mode)
+3.5
+Champion Iris
+3.5.1
+Rematch (Easy Mode/Normal Mode)
+3.5.2
+Rematch (Challenge Mode)
+Reversal Mountain
+Locate the trainer Doctor Derek first and use the stairway near him to reach the section of BF1 where Heatran's chamber is located. Once you are ready, save and then use the Magma Stone to unveil Heatran then interact with it to face it in battle. Once in battle, paralyze it and then weaken it as best you can with moves that do neutral damage to Heatran. Then swap in a good
+Water-type
+to help take the damage from the
+Fire
+and
+Steel-type
+moves as you try to catch Heatran.
+Types:
+Fire
+Steel
+Ability:
+Flash Fire
+Held item:
+None
+Heatran
+♂
+/
+♀
+Lv.
+68
+Scary Face
+Normal
+Status
+--
+Lava Plume
+Fire
+Special
+--
+Fire Spin
+Fire
+Special
+--
+Iron Head
+Steel
+Physical
+--
+Nature Preserve
+The Nature Preserve
+The
+Nature Preserve
+was established as a secret haven for Pokémon, so far away from
+Unova
+that the only way to reach it is by airplane from
+Mistralton City
+. The grove is home to many kinds of Pokémon that cannot be found anywhere else, including some that have reached level 100!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Nuzleaf
+B2
+W2
+Grass
+56-57
+30%
+Altaria
+B2
+W2
+Grass
+56
+20%
+Girafarig
+B2
+W2
+Grass
+58-59
+15%
+Golduck
+B2
+W2
+Grass
+57
+10%
+Noctowl
+B2
+W2
+Grass
+58
+10%
+Fraxure
+B2
+W2
+Grass
+57-59
+10%
+Kecleon
+B2
+W2
+Grass
+57-59
+5%
+Dark grass
+Nuzleaf
+B2
+W2
+Dark grass
+64-65
+30%
+Altaria
+B2
+W2
+Dark grass
+64
+20%
+Girafarig
+B2
+W2
+Dark grass
+66-67
+15%
+Golduck
+B2
+W2
+Dark grass
+65
+10%
+Noctowl
+B2
+W2
+Dark grass
+66
+10%
+Fraxure
+B2
+W2
+Dark grass
+65-67
+10%
+Kecleon
+B2
+W2
+Dark grass
+65-67
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+85%
+Dunsparce
+B2
+W2
+Rustling grass
+57
+10%
+Shiftry
+B2
+W2
+Rustling grass
+59
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+40-60
+70%
+Basculin
+B2
+W2
+Surfing
+40-60
+70%
+Buizel
+B2
+W2
+Surfing
+40-60
+30%
+Rippling water
+Buizel
+B2
+W2
+Rippling water
+45-60
+60%
+Basculin
+B2
+W2
+Rippling water
+45-60
+35%
+Basculin
+B2
+W2
+Rippling water
+45-60
+35%
+Floatzel
+B2
+W2
+Rippling water
+50-60
+5%
+Fishing
+Magikarp
+B2
+W2
+Fishing
+1-100
+70%
+Basculin
+B2
+W2
+Fishing
+52
+30%
+Basculin
+B2
+W2
+Fishing
+52
+30%
+Rippling water
+Magikarp
+B2
+W2
+Rippling water
+40-60
+60%
+Basculin
+B2
+W2
+Rippling water
+40-60
+30%
+Basculin
+B2
+W2
+Rippling water
+40-60
+30%
+Gyarados
+B2
+W2
+Rippling water
+1-100
+10%
+Special Pokémon
+Haxorus
+B2
+W2
+Shiny
+60
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+Northwest of the runway (requires
+Surf
+)
+B2
+W2
+Rare Candy
+On the cliff in the northeast (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Big Nugget
+In the dark grass north of the pond (requires
+Surf
+)
+B2
+W2
+Go south from the plane and head east through the trees. Soon you reach a clearing, and in the middle of it, a
+Shiny
+Haxorus
+! Its body may be colored differently, but its stats are the same as those of a normal-colored one. Catch it if you can!
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+or
+Mold Breaker
+Held item:
+None
+Haxorus
+♂
+/
+♀
+Lv.
+60
+Taunt
+Dark
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Swords Dance
+Normal
+Status
+--
+Guillotine
+Normal
+Physical
+--
+Pokémon League: Round 2
+The
+Elite Four
+and
+Champion
+have grown even stronger since you first battled them. They now have more Pokémon, and their levels have increased significantly. Gather a team of superior Pokémon before challenging them again! By fulfilling
+certain requirements
+, you can earn up to 19
+Medal
+battling these same five people, so get going!
+Shauntal
+Shauntal
+has added
+Mismagius
+*
+and
+Froslass
+to her lineup. All six of her Pokémon have trouble against
+Ghost
+- and
+Dark-type
+attacks, and
+Gengar
+is vulnerable to
+Psychic
+due to its
+Poison
+typing, but watch out. By using your own Ghosts, she could strike their weak points, as well.
+Rematch (Easy Mode/Normal Mode)
+Elite Four
+Shauntal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+8280
+/
+$
+8880
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+None
+Cofagrigus
+♀
+Lv.
+68
+/
+72
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Energy Ball
+Grass
+Special
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mismagius
+♀
+Lv.
+68
+/
+72
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Power Gem
+Rock
+Special
+--
+Perish Song
+Normal
+Status
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+None
+Froslass
+♀
+Lv.
+68
+/
+72
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ghost
+Flying
+Ability:
+Unburden
+Held item:
+Flying Gem
+Drifblim
+♀
+Lv.
+68
+/
+72
+Thunder
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+None
+Golurk
+Lv.
+68
+/
+72
+Shadow Punch
+Ghost
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+Sitrus Berry
+Chandelure
+♀
+Lv.
+70
+/
+74
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Rematch (Challenge Mode)
+Elite Four
+Shauntal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+9480
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+Leftovers
+Cofagrigus
+♀
+Lv.
+77
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Energy Ball
+Grass
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+Expert Belt
+Gengar
+♀
+Lv.
+77
+Shadow Ball
+Ghost
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+Wise Glasses
+Froslass
+♀
+Lv.
+77
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ghost
+Flying
+Ability:
+Unburden
+Held item:
+Flying Gem
+Drifblim
+♀
+Lv.
+77
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Thunder
+Electric
+Special
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+Muscle Band
+Golurk
+Lv.
+77
+Shadow Punch
+Ghost
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+Choice Scarf
+Chandelure
+♀
+Lv.
+79
+Fire Blast
+Fire
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Psychic
+Psychic
+Special
+--
+Grimsley
+Grimsley
+'s new additions include
+Houndoom
+and
+Honchkrow
+, or replaces
+Liepard
+with
+Tyranitar
+in Challenge Mode. Aside from his bird, the other members of his party are all vulnerable to
+Fighting-type
+attacks. Use hard-hitting moves like
+Focus Blast
+or
+Brick Break
+. As for Honchkrow, take it down with
+Electric
+,
+Rock
+, or
+Ice
+moves.
+Rematch (Easy Mode/Normal Mode)
+Elite Four
+Grimsley
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+8280
+/
+$
+8880
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Normal Gem
+Liepard
+♀
+Lv.
+68
+/
+72
+Fake Out
+Normal
+Physical
+--
+Attract
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Honchkrow
+♀
+Lv.
+68
+/
+72
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Haze
+Ice
+Status
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+None
+Scrafty
+♀
+Lv.
+68
+/
+72
+Hi Jump Kick
+Fighting
+Physical
+--
+Head Smash
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krookodile
+♀
+Lv.
+68
+/
+72
+Earthquake
+Ground
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Dark
+Fire
+Ability:
+Flash Fire
+Held item:
+None
+Houndoom
+♀
+Lv.
+68
+/
+72
+Thunder Fang
+Electric
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+Sitrus Berry
+Bisharp
+♀
+Lv.
+70
+/
+74
+Guillotine
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Rematch (Challenge Mode)
+Elite Four
+Grimsley
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+9480
+Types:
+Dark
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Honchkrow
+♂
+Lv.
+77
+Night Slash
+Dark
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Haze
+Ice
+Status
+--
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+Leftovers
+Scrafty
+♂
+Lv.
+77
+Hi Jump Kick
+Fighting
+Physical
+--
+Head Smash
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+Muscle Band
+Krookodile
+♂
+Lv.
+77
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Types:
+Dark
+Fire
+Ability:
+Flash Fire
+Held item:
+Wise Glasses
+Houndoom
+♂
+Lv.
+77
+Sludge Bomb
+Poison
+Special
+--
+Thunder Fang
+Electric
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Rock
+Dark
+Ability:
+Sand Stream
+Held item:
+Focus Band
+Tyranitar
+♂
+Lv.
+77
+Dark Pulse
+Dark
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+Quick Claw
+Bisharp
+♂
+Lv.
+79
+Guillotine
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Caitlin
+Caitlin
+has added
+Metagross
+and
+Gallade
+to her lineup, or if playing in Challenge Mode, her
+Sigilyph
+is replaced by
+Alakazam
+. Her Pokémon all share a weakness to
+Ghost
+moves like
+Shadow Ball
+, except for Metagross, which can be struck down with
+Fire
+- and
+Ground-type
+attacks.
+Rematch (Easy Mode/Normal Mode)
+Elite Four
+Caitlin
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+8280
+/
+$
+8880
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Musharna
+♀
+Lv.
+68
+/
+72
+Yawn
+Normal
+Status
+--
+Dream Eater
+Psychic
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Psychic
+Flying
+Ability:
+Wonder Skin
+Held item:
+None
+Sigilyph
+♀
+Lv.
+68
+/
+72
+Air Slash
+Flying
+Special
+--
+Psychic
+Psychic
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+None
+Gothitelle
+♀
+Lv.
+68
+/
+72
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Flatter
+Dark
+Status
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Psychic
+Fighting
+Ability:
+Steadfast
+Held item:
+None
+Gallade
+♂
+Lv.
+68
+/
+72
+Close Combat
+Fighting
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+Leftovers
+Reuniclus
+♀
+Lv.
+68
+/
+72
+Psychic
+Psychic
+Special
+--
+Thunder
+Electric
+Special
+--
+Recover
+Normal
+Status
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Sitrus Berry
+Metagross
+Lv.
+70
+/
+74
+Hammer Arm
+Fighting
+Physical
+--
+Bullet Punch
+Steel
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rematch (Challenge Mode)
+Elite Four
+Caitlin
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+9480
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+Zoom Lens
+Musharna
+♀
+Lv.
+77
+Reflect
+Psychic
+Status
+--
+Charge Beam
+Electric
+Special
+--
+Dream Eater
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+Expert Belt
+Alakazam
+♂
+Lv.
+77
+Shadow Ball
+Ghost
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Psychic
+Psychic
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+Wise Glasses
+Gothitelle
+♀
+Lv.
+77
+Psychic
+Psychic
+Special
+--
+Flatter
+Dark
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Psychic
+Fighting
+Ability:
+Steadfast
+Held item:
+Muscle Band
+Gallade
+♂
+Lv.
+77
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+Leftovers
+Reuniclus
+♀
+Lv.
+77
+Psychic
+Psychic
+Special
+--
+Thunder
+Electric
+Special
+--
+Recover
+Normal
+Status
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Life Orb
+Metagross
+Lv.
+79
+Zen Headbutt
+Psychic
+Physical
+--
+Bullet Punch
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Marshal
+Marshal
+'s new additions include
+Medicham
+*
+and
+Lucario
+*
+. Except for Lucario, his team has a common weakness to
+Flying-type
+attacks. A Pokémon that lacks an item can inflict massive damage with
+Acrobatics
+. Take out Lucario with
+Fire
+,
+Fighting
+, or
+Ground
+moves.
+Rematch (Easy Mode/Normal Mode)
+Elite Four
+Marshal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+8280
+/
+$
+8880
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Throh
+♂
+Lv.
+68
+/
+72
+Payback
+Dark
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+Muscle Band
+Sawk
+♂
+Lv.
+68
+/
+72
+Close Combat
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Lucario
+♂
+Lv.
+68
+/
+72
+Dragon Pulse
+Dragon
+Special
+--
+Aura Sphere
+Fighting
+Special
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Regenerator
+Held item:
+None
+Mienshao
+♂
+Lv.
+68
+/
+72
+Hi Jump Kick
+Fighting
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Fake Out
+Normal
+Status
+--
+Acrobatics
+Flying
+Physical
+--
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Medicham
+♂
+Lv.
+68
+/
+72
+Hi Jump Kick
+Fighting
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+Sitrus Berry
+Conkeldurr
+♂
+Lv.
+70
+/
+74
+Hammer Arm
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rematch (Challenge Mode)
+Elite Four
+Marshal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+9480
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+Focus Band
+Throh
+♂
+Lv.
+77
+Superpower
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Payback
+Dark
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+Muscle Band
+Sawk
+♂
+Lv.
+77
+Close Combat
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+Wise Glasses
+Lucario
+♂
+Lv.
+77
+Aura Sphere
+Fighting
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Regenerator
+Held item:
+Eject Button
+Mienshao
+♂
+Lv.
+77
+Hi Jump Kick
+Fighting
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+No Guard
+Held item:
+Expert Belt
+Machamp
+♂
+Lv.
+77
+DynamicPunch
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Dual Chop
+Dragon
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+Flame Orb
+Conkeldurr
+♂
+Lv.
+79
+Hammer Arm
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Champion Iris
+Iris
+' Pokémon are nearly 20 levels higher than they were during your first battle. Take out her three powerful dragons quickly with
+Ice
+moves like
+Ice Beam
+and
+Blizzard
+. Her
+Archeops
+is also vulnerable to Ice attacks. Switch Pokémon when
+Lapras
+and
+Aggron
+appear in order to strike with super-effective moves. Aside from their individual weaknesses, the two share a weakness to
+Fighting-type
+attacks.
+Rematch (Easy Mode/Normal Mode)
+Champion
+Iris
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+14600
+/
+$
+15600
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Hydreigon
+♀
+Lv.
+72
+/
+76
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+Life Orb
+Druddigon
+♀
+Lv.
+72
+/
+76
+Outrage
+Dragon
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Steel
+Rock
+Ability:
+Rock Head
+Held item:
+None
+Aggron
+♀
+Lv.
+72
+/
+76
+Head Smash
+Rock
+Physical
+--
+Double-Edge
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+None
+Archeops
+♂
+Lv.
+72
+/
+76
+Acrobatics
+Flying
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+None
+Lapras
+♀
+Lv.
+72
+/
+76
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Thunder
+Electric
+Special
+--
+Sing
+Normal
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Focus Sash
+Haxorus
+♀
+Lv.
+74
+/
+78
+Outrage
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+Rematch (Challenge Mode)
+Champion
+Iris
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+16600
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+Wise Glasses
+Hydreigon
+♀
+Lv.
+81
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Life Orb
+Salamence
+♀
+Lv.
+81
+Draco Meteor
+Dragon
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Steel
+Rock
+Ability:
+Rock Head
+Held item:
+Muscle Band
+Aggron
+♀
+Lv.
+81
+Head Smash
+Rock
+Physical
+--
+Double-Edge
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+Flying Gem
+Archeops
+♂
+Lv.
+81
+Acrobatics
+Flying
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+Zoom Lens
+Lapras
+♀
+Lv.
+81
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Thunder
+Electric
+Special
+--
+Sing
+Normal
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Focus Sash
+Haxorus
+♀
+Lv.
+83
+Outrage
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+← Part 21
+Route 2, Accumula Town, Route 1, Routes 17 & 18, P2 Laboratory, Nuvema Town
+Black 2 and White 2
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

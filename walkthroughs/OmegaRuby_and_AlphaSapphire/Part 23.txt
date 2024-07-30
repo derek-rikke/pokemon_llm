@@ -1,0 +1,1516 @@
+Part: Part 23
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_23
+Keywords: Delta Episode
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cutscenes
+1.1
+Mossdeep Space Center
+1.2
+Sky Pillar
+2
+Littleroot Town
+3
+Route 101
+4
+Petalburg City
+4.1
+VS Courtney
+OR
+4.2
+VS Matt
+AS
+5
+Rustboro City
+5.1
+Devon Corporation
+6
+Route 106
+6.1
+Granite Cave
+6.1.1
+1F (Back)
+7
+Mossdeep City
+7.1
+Mossdeep Space Center
+8
+Route 114
+8.1
+Meteor Falls
+9
+Rustboro City
+9.1
+Devon Corporation
+10
+Mossdeep City
+10.1
+Space Center
+10.1.1
+1F
+10.1.2
+2F
+10.1.2.1
+VS Courtney
+OR
+10.1.2.2
+VS Matt
+AS
+11
+Lilycove City
+11.1
+Team Magma
+OR
+/Team Aqua
+AS
+Hideout
+12
+Mossdeep City
+12.1
+Space Center
+13
+Sootopolis City
+14
+Route 131
+14.1
+Sky Pillar
+14.1.1
+1F
+14.1.2
+2F
+14.1.3
+3F
+14.1.4
+4F
+14.1.5
+5F
+14.1.6
+Apex
+Cutscenes
+Mossdeep Space Center
+The sound of a warning siren suddenly pierces the air. One of the researchers calls for
+Professor Cozmo
+, who immediately rushes into the room. It seems that a
+meteoroid
+they have been monitoring has suddenly changed direction, putting it on a collision course with our planet! Cozmo orders the data reviewed, but the new trajectory survives the intense scrutiny. According to their calculations, the researchers believe that the meteoroid will make impact somewhere southwest of
+Sootopolis
+, on a small island off
+Route 131
+. Cozmo wonders aloud what could have caused the object to change course so suddenly, almost as if it were alive...
+Sky Pillar
+The suspicious-acting Grunt that had been embedded within
+Team Magma
+OR
+/
+Team Aqua
+AS
+appears atop this ancient tower, with a
+Whismur
+named Aster. She discards her uniform in favor of her cape and tells Whismur that there isn't much time left, as it is only a matter of days. She believes that her mission may have been complicated further because the super-ancient Pokémon was prevented from undergoing
+Primal Reversion
+. It makes no difference, however, as she already has a new plan. One that involves a
+Key Stone
+...
+Littleroot Town
+When the cutscenes have ended, you find yourself back home in
+Littleroot Town
+. Mom and
+Norman
+are downstairs, and Norman gives you a
+Pair of Tickets
+to view the
+Litleonid
+meteor shower from the
+Mossdeep Space Center
+and suggests taking May/Brendan along. Outside, that former Grunt and her Whismur stand waiting for you. She introduces herself as
+Zinnia
+, and claims to know all about you and your ability to use
+Mega Evolution
+. Once she leaves, visit May/Brendan's house to learn that Zinnia had just climbed through your friend's bedroom window and stole her/his Key Stone! She/He believes that Zinnia is headed to
+Petalburg
+next, and advises you to go with caution as Zinnia is a powerful Trainer.
+Route 101
+Before going to Petalburg, head inside your home first. Once you head outside, you'll hear the unexpected screams of someone in trouble. It's Professor Birch, and he's being chased by a stirred-up
+Shroomish
+on
+Route 101
+. Grab a Poké Ball from his Bag to help him out, and the professor will let you keep the Pokémon you chose: an exotic new partner from the far-off
+Johto
+region!
+Chikorita
+Cyndaquil
+Totodile
+Grass
+Fire
+Water
+Bayleef
+Quilava
+Croconaw
+Grass
+Fire
+Water
+Meganium
+Typhlosion
+Feraligatr
+Grass
+Fire
+Water
+Petalburg City
+Courtney
+OR
+/
+Matt
+AS
+can be found harassing
+Wally
+in front of his house, in an attempt to obtain a Key Stone. Wally insists that he doesn't have one, but she/he doesn't want to hear it. Wally just now notices your arrival, which attracts the Admin's attention. This prompts her/him to start a battle in a bid to steal your Key Stone, as well.
+VS Courtney
+OR
+Magma Admin
+Courtney
+Petalburg City
+Omega Ruby
+Reward:
+$
+5,300
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+None
+Camerupt
+♀
+Lv.
+53
+Rock Slide
+Rock
+Physical
+--
+Yawn
+Normal
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Eruption
+Fire
+Special
+--
+VS Matt
+AS
+Aqua Admin
+Matt
+Petalburg City
+Alpha Sapphire
+Reward:
+$
+5,300
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+53
+Poison Fang
+Poison
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Agility
+Psychic
+Status
+--
+Skull Bash
+Normal
+Physical
+--
+When defeated, the Admin leaves for
+Meteor Falls
+. Wally informs you that his Key Stone went missing before the Admin's arrival. After Wally enters his home,
+Steven
+contacts you through the
+PokéNav Plus
+using a hidden feature, Entry Call. Though still in development, this communication feature comes installed on every PokéNav Plus. He asks that you visit him at
+Devon Corporation
+in
+Rustboro
+. There's something that he urgently needs to speak to you about in person...
+Rustboro City
+Devon Corporation
+Steven is waiting for you outside the Devon building. He leads you upstairs to meet
+his father
+, who has a lengthy story to tell. He tells of a
+weapon
+created by
+one man
+to end a great war 3,000 years ago in
+a distant region
+, a weapon powered by the life energy of Pokémon. Mr. Stone's grandfather learned of this weapon and sought to use the same energy to help people and Pokémon. Under his direction, Devon developed that energy source into
+Infinity Energy
+. He then informs you of the asteroid, over six miles wide, that is on track to collide with the planet. Devon has been working with the
+Mossdeep Space Center
+on a plan to avert the danger using one of Devon's rockets, but for this plan to succeed, they need a
+Meteorite Shard
+. Mr. Stone asks that you visit
+Granite Cave
+to retrieve one, and instructs Steven to take the Link Cable he gave him to the Space Center to begin preparations.
+Route 106
+Granite Cave
+1F (Back)
+In
+Granite Cave
+, you find Zinnia and her Whismur in the room with the wall painting. She reveals that this painting, which shows Primal Reversion, was made by her ancestors, and mentions another painting that depicts Mega Evolution. Turning away from the painting, she eagerly presses you for a battle.
+Pokémon Trainer
+Zinnia
+Granite Cave
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+5,700
+Types:
+Rock
+Dragon
+Ability:
+Strong Jaw
+Held item:
+None
+Tyrantrum
+♂
+Lv.
+55
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+55
+Dragon Pulse
+Dragon
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Salamence
+♂
+Lv.
+57
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+After the battle, Zinnia freely gives you a
+Meteorite Shard
+. Before leaving, she questions you about your motives and what you really know of the truth. Once she has left, you receive another call from Steven, who asks that you hurry to the Space Center.
+Mossdeep City
+Mossdeep Space Center
+When you reach the Space Center, you find Steven and
+Professor Cozmo
+on the second floor. After receiving the Meteorite Shard, Cozmo explains the plan to divert the asteroid. This plan involves launching a rocket and combining the Infinity Energy that powers it and the life energy of humans found in Key Stones to recreate the massive amounts of energy needed for Mega Evolution. This energy will be fired from the rocket to create a wormhole in the asteroid's path in order to transport it somewhere far away.
+In the middle of the professor's explanation, Zinnia appears to warn the group that using Infinity Energy means their plan will only repeat past mistakes. She hints as well at a new and greater atrocity that their plan will cause. She expresses disappointment that, with all of human knowledge and technology, they can't come up with a better plan.
+After Zinnia leaves, Professor Cozmo continues, explaining that creating the warp hole will actually require a second, purer Meteorite Shard, which can only be found at
+Meteor Falls
+. Hearing this, Steven heads for Meteor Falls, telling you to follow as soon as you are able.
+Route 114
+Meteor Falls
+To catch up to Steven, you will need a Pokémon with access to
+Surf
+and
+Waterfall
+. Scale the waterfall and enter the room beyond to find Steven talking with an elderly woman atop a hill. He introduces the woman as a descendant of the ancient
+Draconids
+, a race tasked with passing down the knowledge of
+Mega Evolution
+, and the story of
+Rayquaza
+, who started it all. She explains that whenever a great disaster had struck the region, Rayquaza had always saved them. The chosen Lorekeeper would offer up a wish to Rayquaza in front of a stone shining with rainbow light. In response, the dragon's body was bathed in a brilliant light and would transform. In its new form, Rayquaza's power rose to devastating heights, allowing it to even overcome the primal powers of the super-ancient Pokémon. She notes that later people would call this phenomenon "Mega Evolution".
+The woman goes on to explain that the Lorekeeper is one who has inherited the knowledge and power to summon Rayquaza if the world is again threatened. She reveals that Zinnia is the current Lorekeeper, and that it was Zinnia who taught Team Magma
+OR
+/Team Aqua
+AS
+how to revive the super-ancient Pokémon, as she planned to use that threat to summon Rayquaza so she could then ask it to stop the meteoroid.
+Steven is shocked that Zinnia would be involved in reviving the super-ancient Pokémon, despite knowing the havoc they would wreak and the inevitable sacrifice it would cost. The woman contends that balance is the rule of the world and that even Steven's own solution must involve some sacrifice. She informs him that Zinnia will stick by her convictions to the end, even if it should mean sacrificing her own life. Troubled by this information, Steven heads back to Devon.
+Rustboro City
+Devon Corporation
+When you try to enter the Devon building, a Scientist will run out with a group of Team Magma
+OR
+/Team Aqua
+AS
+Grunts close behind.
+Trainers
+Omega Ruby
+Trainer
+Pokémon
+Team Magma Grunt
+Reward:
+$
+2,000
+Mightyena
+♂
+Lv.
+48
+No item
+Golbat
+♂
+Lv.
+50
+No item
+Team Magma Grunt
+Reward:
+$
+2,040
+Weezing
+♂
+Lv.
+51
+No item
+Team Magma Grunt
+Reward:
+$
+1,960
+Golbat
+♂
+Lv.
+49
+No item
+Camerupt
+♂
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Alpha Sapphire
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+2,000
+Mightyena
+♂
+Lv.
+48
+No item
+Golbat
+♂
+Lv.
+50
+No item
+Team Aqua Grunt
+Reward:
+$
+2,040
+Muk
+♂
+Lv.
+51
+No item
+Team Aqua Grunt
+Reward:
+$
+1,960
+Golbat
+♂
+Lv.
+49
+No item
+Sharpedo
+♂
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Once you fend them off, the Scientist explains that someone from Team Magma
+OR
+/Team Aqua
+AS
+stole the control device for the Link Cable, a special tool called the dimensional shifter. He believes that the thief will head for the Space Center next, where he also believes Steven to be.
+Mossdeep City
+Space Center
+1F
+As you approach the Space Center, you catch a glimpse of Courtney
+OR
+/Matt
+AS
+and a group of Grunts on their way into the building. Inside, most visitors and employees can be found standing in a corner away from the Grunts, who are blocking the stairs to the second floor. Defeat them in a Horde Battle to find the Admin confronting Steven and Professor Cozmo upstairs.
+Trainers
+Trainer
+Pokémon
+Team Magma Grunt
+×5
+OR
+Reward:
+$
+1,000
+Horde Trainer Battle
+Mightyena
+♂
+Lv.
+25
+No item
+Mightyena
+♂
+Lv.
+25
+No item
+Mightyena
+♂
+Lv.
+25
+No item
+Mightyena
+♂
+Lv.
+25
+No item
+Mightyena
+♂
+Lv.
+25
+No item
+Team Aqua Grunt
+×5
+AS
+Reward:
+$
+1,000
+Horde Trainer Battle
+Mightyena
+♀
+Lv.
+25
+No item
+Mightyena
+♀
+Lv.
+25
+No item
+Mightyena
+♀
+Lv.
+25
+No item
+Mightyena
+♀
+Lv.
+25
+No item
+Mightyena
+♀
+Lv.
+25
+No item
+2F
+Distraught that their leader's plans were foiled, Courtney/Matt decides to detonate the rocket, which contains even more power than the ultimate weapon in the ancient war, destroying the world and thereby fulfilling Project AZOTH's goals. Steven implores you to help him stop them, and will act as your partner in the impending
+Multi Battle
+.
+VS Courtney
+OR
+Magma Admin
+and
+Team Magma
+Courtney
+Grunt
+Mossdeep Space Center
+Omega Ruby
+Reward:
+$
+7,540
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+Cameruptite
+Camerupt
+♀
+Lv.
+55
+Rock Slide
+Rock
+Physical
+--
+Yawn
+Normal
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Eruption
+Fire
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+51
+Taunt
+Dark
+Status
+--
+Take Down
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Weezing
+♂
+Lv.
+51
+Sludge Bomb
+Poison
+Special
+--
+Explosion
+Normal
+Physical
+--
+Destiny Bond
+Ghost
+Status
+--
+Belch
+Poison
+Special
+--
+VS Matt
+AS
+Aqua Admin
+and
+Team Aqua
+Matt
+Grunt
+Mossdeep Space Center
+Alpha Sapphire
+Reward:
+$
+7,540
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+Sharpedonite
+Sharpedo
+♂
+Lv.
+55
+Poison Fang
+Poison
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Agility
+Psychic
+Status
+--
+Skull Bash
+Normal
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Quick Feet
+Held item:
+None
+Mightyena
+♀
+Lv.
+51
+Taunt
+Dark
+Status
+--
+Take Down
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Muk
+♀
+Lv.
+51
+Screech
+Normal
+Status
+--
+Venom Drench
+Poison
+Status
+--
+Gunk Shot
+Poison
+Physical
+--
+Acid Armor
+Poison
+Status
+--
+After Courtney
+OR
+/Matt
+AS
+is defeated, Aster appears and snatches the dimensional shifter away before you can reclaim it. Zinnia enters, and claims that while the dimensional shifter may well be the planet's best hope for salvation, it could be an equally terrible tragedy for another planet. She tells of lore her people have passed down through the generations: that the mechanism of Mega Evolution also brings about distortions in the world, and that
+another world
+exists much like their own, yet also different. She suggests that in that other world, Mega Evolution could be unknown, the ancient war never happened, and the ultimate weapon was never built; and therefore, it would not have the technology to save itself if the asteroid appeared over it. Unable to tolerate the chance that a helpless world might be put in danger just to save their own, Zinnia crushes the dimensional shifter. Steven and Professor Cozmo are dismayed at being robbed of their only hope, but Zinnia claims that she will be able to protect both worlds. She then rushes the Admin and steals the Key Stone away from Team Magma
+OR
+/Team Aqua
+AS
+. Before she leaves, Zinnia mentions that she will be going after their leader's Key Stone at their base next.
+Lilycove City
+Team Magma
+OR
+/Team Aqua
+AS
+Hideout
+Upon entering the Hideout, you pass by several Grunts near the entrance who had encountered Zinnia on her way into the base. As you continue through the area, other Grunts will attempt to thwart your progress, once again on alert after Zinnia's intrusion.
+Trainers
+Omega Ruby
+Trainer
+Pokémon
+Team Magma Grunt
+Reward:
+$
+1,960
+Weezing
+♂
+Lv.
+49
+No item
+Numel
+♂
+Lv.
+49
+No item
+Team Magma Grunt
+Reward:
+$
+1,960
+Numel
+♀
+Lv.
+49
+No item
+Weezing
+♀
+Lv.
+49
+No item
+Team Magma Grunt
+Reward:
+$
+2,040
+Mightyena
+♀
+Lv.
+51
+No item
+Team Magma Grunt
+Reward:
+$
+2,040
+Golbat
+♂
+Lv.
+51
+No item
+Team Magma Grunt
+Reward:
+$
+2,000
+Mightyena
+♂
+Lv.
+48
+No item
+Golbat
+♂
+Lv.
+50
+No item
+Team Magma Grunt
+Reward:
+$
+2,040
+Numel
+♂
+Lv.
+51
+No item
+Alpha Sapphire
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+1,960
+Muk
+♂
+Lv.
+49
+No item
+Carvanha
+♂
+Lv.
+49
+No item
+Team Aqua Grunt
+Reward:
+$
+2,040
+Golbat
+♂
+Lv.
+51
+No item
+Team Aqua Grunt
+Reward:
+$
+2,000
+Mightyena
+♂
+Lv.
+48
+No item
+Golbat
+♂
+Lv.
+50
+No item
+Team Aqua Grunt
+Reward:
+$
+2,040
+Mightyena
+♀
+Lv.
+51
+No item
+Team Aqua Grunt
+Reward:
+$
+1,960
+Carvanha
+♀
+Lv.
+49
+No item
+Muk
+♀
+Lv.
+49
+No item
+Team Aqua Grunt
+Reward:
+$
+2,040
+Carvanha
+♂
+Lv.
+51
+No item
+When you arrive at the room belonging to
+Maxie
+OR
+/
+Archie
+AS
+, you witness Zinnia claiming victory after a battle with the team leader. Before you can react, Zinnia snatches her opponent's Key Stone away from him. She then claims that she now has everything she needs to summon Rayquaza, and invites you to follow her to
+Sky Pillar
+.
+Once Zinnia has left, the leader will direct Tabitha
+OR
+/Shelly
+AS
+to give his Mega Stone (
+Cameruptite
+OR
+/
+Sharpedonite
+AS
+) to you, as it is useless to him without his Key Stone, and entrusts you with the task of standing against Zinnia.
+Steven will then call the player on the Entry Call app. When the player fills him in on what has happened, he says he is beginning to understand and asks the player to meet him at the Mossdeep Space Center again.
+Mossdeep City
+Space Center
+At the Space Center, Steven reveals that only a Lorekeeper, those tasked with passing on the knowledge of the ancient world, can enter the
+Sky Pillar
+. He then reveals that
+Wallace
+is also a Lorekeeper and will know how to undo the ancient tower's seal. Steven decides to remain with the professor and his team to come up with a new plan to stop the meteoroid, leaving you the task of stopping Zinnia. He advises you to look for Wallace in the
+Cave of Origin
+at
+Sootopolis City
+.
+Sootopolis City
+Outside the
+Cave of Origin
+, Wallace explains that, as a descendant of the ancient people of Sootopolis, he can open the way to the Sky Pillar for you. He also explains that the Sky Pillar is an altar built to Rayquaza, and that only the Draconids know how to summon the legendary dragon.
+Wallace states that he will head to the Sky Pillar, and asks that you follow as soon as you are ready. He informs you that the Sky Pillar is located on one of
+Route 131
+'s small islands.
+Route 131
+By the time you arrive at the island that holds the Sky Pillar, Wallace has already undone the seal and is waiting for you. Before he will allow you to enter, however, he asks that you prove that you have the power to confront what lies ahead and challenges you to a battle.
+Sootopolitan
+Wallace
+Route 131
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+6,840
+Type:
+Water
+Unknown
+Ability:
+Oblivious
+Held item:
+None
+Wailord
+♂
+Lv.
+55
+Water Spout
+Water
+Special
+--
+Heavy Slam
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Blizzard
+Ice
+Special
+--
+Types:
+Water
+Poison
+Ability:
+Clear Body
+Held item:
+None
+Tentacruel
+♀
+Lv.
+55
+Sludge Wave
+Poison
+Special
+--
+Brine
+Water
+Special
+--
+Rain Dance
+Water
+Status
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Ludicolo
+♂
+Lv.
+55
+Fake Out
+Normal
+Physical
+--
+Scald
+Water
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♂
+Lv.
+55
+Earthquake
+Ground
+Physical
+--
+Muddy Water
+Water
+Special
+--
+Rock Tomb
+Rock
+Physical
+--
+Rain Dance
+Water
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+55
+Waterfall
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+57
+Dragon Pulse
+Dragon
+Special
+--
+Blizzard
+Ice
+Special
+--
+Recover
+Normal
+Status
+--
+Hydro Pump
+Water
+Special
+--
+Upon his defeat, Wallace allows you to proceed, but he is unable to accompany inside this holy place. Instead, he plans return to Sootopolis and try to make his own contingency plans.
+Sky Pillar
+The Delta Episode comes to an end in the
+Sky Pillar
+, an ancient, towering altar built for the ascension of Hoenn's ageless protector, the legendary dragon
+Rayquaza
+. It is said that only Draconids have the knowledge and power needed to summon the great dragon from the tower's apex.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tower, 1F-5F
+Golbat
+OR
+AS
+1F-5F
+44-46
+30%
+Ariados
+OR
+AS
+1F-5F
+44-46
+30%
+Sableye
+OR
+AS
+1F-5F
+44-46
+10%
+Mawile
+OR
+AS
+1F-5F
+44-46
+10%
+Claydol
+OR
+AS
+1F-5F
+44-46
+30%
+Tower,
+Horde Encounter
+Golbat
+OR
+AS
+Horde Encounter
+23
+60%
+Ariados
+OR
+AS
+Horde Encounter
+23
+35%
+Swablu
+OR
+AS
+Horde Encounter
+23
+5%
+Tower, Special
+Rayquaza
+OR
+AS
+Only one
+70
+One
+Deoxys
+OR
+AS
+Only one
+80
+One
+Edge of space
+Deoxys
+OR
+AS
+Only one
+80
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dragon Scale
+2F; north corner, accessible via 1F's north ladder
+OR
+AS
+TM64
+(
+Explosion
+)
+3F; west side, accessed via back-to-back ladders from 5F
+OR
+AS
+Full Restore
+4F; northwest side
+OR
+AS
+Ultra Ball
+Rooftop; from Zinnia if you have no Poké Balls in your Bag (repeatable)
+OR
+AS
+1F
+Just inside the tower entrance, you find Zinnia waiting for you. As you progress to the rooftop, she will tell the story of the Draconids' history, which is also enshrined in a mural covering the entire back wall of the tower.
+"Thousands of years ago, in the primal age long lost, the world was overflowing with natural energy. Primal Groudon and Primal Kyogre fought over that energy in endless, furious clashes. In the face of Primal Groudon and Primal Kyogre's great power, people could do nothing. Their only choice was to watch as disaster upon disaster swept over them. It was in such a time that a great many meteoroids poured from the darkness of space, from a place higher even than the heavens. And the meteoroids fell in their multitude upon a waterfall that had long been home to a tribe of Dragon-type-Pokémon users..."
+After telling this first chapter in her story, Zinnia climbs the nearby ladder to the second floor. Before following her, head to the north side of 1F to find another ladder that leads to a secluded area with a
+Dragon Scale
+.
+2F
+Go west then south to reach Zinnia, and hear the second chapter of her story.
+"The meteors shone with a rainbow brilliance, as if some great life was held within. That was when, as if drawn by the brilliance, a Pokémon that shone in a blazing emerald hue descended from the heavens... That Pokémon was none other than Rayquaza. Rayquaza's power overwhelmed that of the two Primal Pokémon, and peace returned to the world. The people of Hoenn revered Rayquaza as a true savior. A thousand years after this time, the meteoroids once again fell. A huge meteoroid, far greater than any before, struck the planet, boring deep into the ocean, and leaving behind it a crater larger than any other. The land born of this even later became known as Sootopolis."
+3F
+Head east along the narrow walkway to reach Zinnia, who continues her story with the third chapter.
+"The great meteoroid strike was the first of many disasters to befall humanity. When it punched into the planet, the land cracked beneath it, and a great welling of natural energy poured from beneath Hoenn. Thirsting for that energy, Primal Kyogre and Primal Groudon once again woke. The people had a wish—a memory from a thousand years before... They wished that the Legendary Pokémon clad in emerald light would appear again. The huge Meteorite that lay at the heart of Sootopolis gave off a boundless brilliance. In its brilliance, it resembled a vast and powerful Key Stone. And once again, Rayquaza descended from whence it came in the heavens. The people fell to their knees and made a wish for salvation. As they did, a great change came over the Legendary Pokémon. It was enveloped in blinding light. As the light receded, they beheld a Rayquaza beyond all knowledge—a sublime figure, incandescent with overwhelming life force."
+4F
+Walk to the north corner, then turn southwest. Collect the
+Full Restore
+, partially hidden by the walkway above, then continue on before turning east to catch up to Zinnia and continue the story.
+"Rayquaza once again confronted Primal Groudon and Primal Kyogre. The golden filaments that sprang from its body covered the sky. An emerald brilliance illuminated the area. A terrible wind rose. The wind and emerald light visibly sapped the power from Primal Groudon and Primal Kyogre. Drained of their primal powers, the two vanished into the depths of land and sea. Rayquaza watched them go, regaining its usual appearance. Then it soared back up into the heavens where it dwelled. A witness to this series of events, a tall visitor from a distant land, said, "It is the Δ (Delta), born of the great disturbances in this world. By the bonds born of mankind's wish and the power of the stones, it will calm the troubles that plague the world." That was when the Draconids constructed their great tower, to hold the rainbow stone that had granted Rayquaza its power, and to try to get a little bit closer to Rayquaza in the heavens above. To record the history of their trials and the great feats of mighty Rayquaza for all to know, they left behind the murals you see here."
+5F
+Head southeast to reach Zinnia and learn the ending to the tale of the Draconids.
+"A thousand years of peace followed after that disastrous time. But the Draconid people, learning from their long history's cyclical nature, foretold that the meteoroids would fall on this land again. The meteoroid to come, they prophesized, would be far greater than those that had come before it. This meteoroid would be great enough to break the world forever... In order to prevent this great calamity, those who held the knowledge of the past arrived at a plan. Their plan was to invoke Rayquaza, the great savior, and summon it to this land before the meteoroid could strike."
+Before following Zinnia up the final ladder, climb down the two ladders to the west to reach
+TM64
+(
+Explosion
+) on the third floor.
+Apex
+Upon reaching the rooftop, you find Zinnia and Aster before the Dragonhark altar, gazing up at the Litleonid meteor shower beginning in the night sky. She tells a brief personal story hinting at a loss in her past, before knocking you out. When you awake, Zinnia is ready to summon Rayquaza. Zinnia offers herself before the altar and Rayquaza descends in response to her call. But when she asks the dragon to Mega Evolve, it cannot. Arriving at the conclusion that the Meteorites in Rayquaza's body have lost too much power over the years, she despairs, until suddenly your
+Meteorite
+begins to glow like a Mega Stone. Rayquaza springs forth and swallows the Meteorite, giving it the power to Mega Evolve again. Zinnia then claims that Rayquaza wants to challenge you, and that you must win it over.
+Types:
+Dragon
+Flying
+Ability:
+Air Lock
+Held item:
+None
+Rayquaza
+Lv.
+70
+Extreme Speed
+Normal
+Physical
+--
+Dragon Pulse
+Dragon
+Special
+--
+Dragon Dance
+Dragon
+Status
+--
+Fly
+Flying
+Physical
+--
+After capturing Rayquaza, Zinnia teaches it a special move,
+Dragon Ascent
+, in place of
+Fly
+. After doing so, she challenges you to a battle so that you can learn to use Rayquaza's power, her final duty as the last of the Draconid Lorekeepers.
+Lorekeeper
+Zinnia
+Sky Pillar
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+6,200
+Type:
+Dragon
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Goodra
+♀
+Lv.
+60
+Dragon Pulse
+Dragon
+Special
+--
+Muddy Water
+Water
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Rock
+Dragon
+Ability:
+Strong Jaw
+Held item:
+None
+Tyrantrum
+♂
+Lv.
+60
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+60
+Dragon Pulse
+Dragon
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Types:
+Flying
+Dragon
+Ability:
+Infiltrator
+Held item:
+None
+Noivern
+♀
+Lv.
+60
+Dragon Pulse
+Dragon
+Special
+--
+Air Slash
+Flying
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Super Fang
+Normal
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Salamencite
+Salamence
+♂
+Lv.
+62
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+After the battle (regardless of its outcome), Zinnia entrusts you with destroying the approaching meteoroid. After pulling on the
+Magma Suit
+OR
+/
+Aqua Suit
+AS
+, you ride with Rayquaza out to space to destroy the meteoroid. When Mega Rayquaza shatters the meteoroid, however, a triangular object emerges from the middle of the debris. After a moment of darting around, tendrils snake out of the object before it bursts apart to reveal
+Deoxys
+, who immediately engages you in a battle.
+Type:
+Psychic
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Deoxys
+Lv.
+80
+Recover
+Normal
+Status
+--
+Psycho Boost
+Psychic
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Cosmic Power
+Psychic
+Status
+--
+Once the battle with Deoxys is over (regardless of its outcome), you return to the top of the Sky Pillar where Aster gives you a goodbye letter from Zinnia. Various cutscenes are shown as the Delta Episode concludes: the Space Center scientists realizing the meteoroid has been destroyed; Wally leaving his home again, his Key Stone having been returned and Norman having given him tickets to the
+Battle Resort
+; Courtney
+OR
+/Matt
+AS
+reconciling with Maxie
+OR
+/Archie
+AS
+and moving forward; Steven reflecting with Wallace on how much he still has to learn and grow; Zinnia coming to grips with being freed of her long burden; and the parents of
+Littleroot Town
+discussing their children together. The next scene shows you and May/Brendan meeting at the Space Center to watch the Litleonid meteor shower, before returning home to
+Littleroot Town
+and the welcome of your families.
+← Part 22
+Pokémon League
+Omega Ruby and Alpha Sapphire
+walkthrough
+Littleroot Town, Route 101, S.S. Tidal
+Part 24 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

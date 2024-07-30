@@ -1,0 +1,43 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 15
+Keywords: Mossdeep City, Mossdeep Gym, Route 125, Shoal Cave, Route 127
+
+**Part 15: Mossdeep City, Mossdeep Gym, Route 125, Shoal Cave, Route 127**
+
+**Mossdeep City Overview:**
+- Home to the Mossdeep Space Center and the seventh Gym.
+- Key locations: Steven's house (northwest), Gym (north side).
+
+**Available Pokémon:**
+- **Surfing:** Tentacool (Lv. 25), Pelipper (Lv. 25-35), Tentacruel (Lv. 30).
+- **Fishing:** Magikarp (Old Rod, Lv. 10-15), Tentacool (Old Rod, Lv. 5).
+
+**Key Items:**
+- **Big Pearl:** West of the main island.
+- **Super Rod:** From the Fisherman by the Gym.
+- **TM04 (Calm Mind):** Defeat Liza and Tate in the Gym.
+- **HM07 (Dive):** Given by Steven after the Gym.
+
+**Mossdeep Gym (Liza & Tate):**
+- **Type:** Psychic (vulnerable to Bug, Dark, Ghost).
+- **Strategy:** Use Water moves (like Surf) for an effective double battle.
+- **Rewards:** Mind Badge (allows Pokémon up to level 80 to obey) and TM04 (Calm Mind).
+
+**After the Gym:**
+- Steven informs you about Team Magma/Aqua's actions at the Seafloor Cavern. Follow him for HM07 (Dive) and Devon Scuba Gear.
+
+**Route 125:**
+- **Trainers:** Swimmer Stan (Seadra), Sailor Ernest (Wailmer, Tentacruel), etc.
+- **Shoal Cave:** Accessible at high and low tide. Collect Shoal Shells and Shoal Salts to craft a Shell Bell.
+
+**Shoal Cave:**
+- **High Tide Exploration:** Access different areas; collect items like Rare Candy and Big Pearl.
+- **Low Tide Exploration:** Navigate to the Ice Cavern for items like TM79 (Frost Breath) and Glalitite.
+
+**Route 127:**
+- Connects Mossdeep City with Route 126 and 128.
+- **Trainers:** Bird Keeper Byron (Dodrio), Fisherman Jonah (Luvdisc, Relicanth).
+- **Items:** Zinc on northeast island, Heracronite on southeast island.
+
+**Next Steps:**
+- Head to Route 128 and pursue Team Magma/Aqua.

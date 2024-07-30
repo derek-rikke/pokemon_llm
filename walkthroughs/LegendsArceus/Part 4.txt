@@ -1,0 +1,539 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Legends:_Arceus_walkthrough/Section_4
+Keywords: Frenzied Kleavor: Jubilife Village, Obsidian Fieldlands, Frenzied Kleavor
+
+Walkthrough Text:
+Contents
+1
+Jubilife Village
+1.1
+Summoned by Commander Kamado
+1.2
+Where to begin the investigation
+2
+Obsidian Fieldlands
+2.1
+Head to Grandtree Arena
+2.2
+Warden of the noble Kleavor
+3
+Jubilife Village (Revisited)
+4
+Obsidian Fieldlands (Revisited)
+4.1
+Return to Grandtree Arena
+5
+Frenzied Kleavor
+5.1
+The Frenzy of the Lord of the Woods
+Jubilife Village
+You return to The Wallflower for the evening, and
+Professor Laventon
+orders potato mochi. When
+Beni
+returns with the food, he reports some grave news—a frenzied
+Kleavor
+has attacked many of the Survey Corps team that tried to investigate it. Laventon heard that it had been struck by powerful lightning which caused its behavior, and supposes that there's always a risk of danger for the Survey Corps. Rei/Akari add that even
+alpha Pokémon
+don't stand a chance to its power. Laventon suggests that you rest for the night.
+The next day, Rei/Akari greet you in the morning, and tell you to hurry to the commander's office.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+5
+What It Takes to Be Awesome
+Sho
+A village boy named Sho is convinced you need a partner Pokémon to become an awesome member of the Galaxy Team. He wants some Poké Balls.
+Craft or buy some Poké Balls to give to Sho.
+Grit Dust
+×3
+Jubilife Village
+:
+Pastures
+Receive Mission 5: "A Request from Mai"
+7
+Playing with Drifloon
+Miki
+It appears that a Drifloon has been sighted playing with one of the village children. Go speak to Miki of the Security Corps for details.
+Speak with Miki to learn more about her request.
+Investigate the Drifloon playing with a child at Prelude Beach in the evening.
+Report back to Miki with your findings.
+Stardust
+×1
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Catch a
+Drifloon
+Receive Mission 5: "A Request from Mai"
+8
+Bothersome Bidoof
+Tsumugi
+It seems that some mischievous Bidoof have been causing quite a lot of trouble around the village lately. Get the details from Tsumugi of the Security Corps.
+Three trouble-making Bidoof have invaded the village! Tsumugi from the Security Corps needs your help to catch them all.
+Speak with Tsumugi to learn more about her request.
+Add a Bidoof to your team, and go find the bothersome Bidoof troubling the village.
+Rare Candy
+×1
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Receive Mission 5: "A Request from Mai"
+9
+Zubat's Eyes
+Clarissa
+Clarissa of the Security Corps has a request, and it seems to have something to do with Zubat's eyes. Go hear what she has to say!
+Clarissa of the Security Corps is baffled by how Zubat can fly about with ease when it's pitch-black outside! Bring a Zubat for her to examine.
+Speak with Clarissa to learn more about her request.
+Catch a Zubat to show to Clarissa.
+Aux Power
+×2
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Catch a
+Zubat
+Receive Mission 5: "A Request from Mai"
+10
+Wurmple's Evolved!
+Beauregard
+It seems Beauregard of the Security Corps has some questions about the Evolution of that Wurmple you gave him. Go find out more from him.
+Beauregard's Wurmple has evolved into a Cascoon, but he can't distinguish it from a Silcoon! Show him an actual Silcoon to help out.
+Speak with Beauregard to learn more about his request.
+Catch a Silcoon or evolve a Wurmple into one, then show it to Beauregard.
+Exp. Candy S
+×1
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Complete Request 1: "Wurmple Can Evolve"
+Talk to Beauregard (causing
+Wurmple
+to evolve)
+Complete
+Cascoon
+'s
+Pokédex
+entry.
+12
+A Perfect Pickling Stone
+Radisa
+A villager named Radisa is hoping a Geodude would be just the right weight to use as a pickling stone. Catch one for her to test out her theory.
+Catch a Geodude to give to Radisa.
+Honey Cake
+×3
+Exp. Candy S
+×1
+Galaxy Hall
+(second floor)
+Receive Mission 5: "A Request from Mai"
+14
+Berry Helpful
+Andra
+A villager named Andra is terrified of Pokémon and wants you to find some Oran Berries for him, since they can come in handy when running from Pokémon.
+Gather the
+number of Berries
+Andra wanted, then give them to him.
+Revive
+×3
+Jubilife Village
+: Floaro Main Street
+Receive Mission 5: "A Request from Mai"
+Summoned by Commander Kamado
+Adaman, the leader of the Diamond Clan
+Irida, the leader of the Pearl Clan
+Exit your room. When you're about to leave, you're interrupted by a couple of loud voices arguing about the almighty Sinnoh. One argues that it was the creator of time, while the other argues that it was the creator of space. They angrily storm off to Commander
+Kamado
+'s office. Rei/Akari explain that they were
+Adaman
+and
+Irida
+, the leader of the
+Diamond Clan
+and
+Pearl Clan
+, respectively.
+Head inside
+Galaxy Hall
+and head up to the third floor to reach Commander Kamado's office. When you approach, you overhear Adaman immediately get to the point: the Pearl clan's frenzied
+Kleavor
+is causing a lot of harm, but the Diamond clan can't step in or else they run the risk of reigniting war between the clans. Irida adds that the Pearl clan doesn't want to have to take down one of their own. Kamado acknowledges your presence, and the two leaders kindly introduce themselves, as though they weren't just arguing a few seconds ago.
+Kamado proposes a plan: he wants you, as a third party, to observe and study Kleavor before they commit to any decisions. Adaman and Irida agree reluctantly, and comment on the
+Galaxy Team
+'s use of Poké Balls. Kamado reassures them that Poké Balls are not for controlling Pokémon, but for working alongside them, and gives you your order to study Kleavor. You receive a new mission:
+The Frenzy of the Lord of the Woods
+. Adaman and Irida wish you luck on your mission and depart. Kamado explains that the Galaxy Expedition Team are the outsiders of Hisui, while the Diamond and Pearl clans are the natives—you must not do anything to ruin the relationships between them.
+Cyllene
+comes upstairs and calls you to her office to discuss the details of the mission.
+Where to begin the investigation
+Head back down to the first floor and approach Cyllene's desk. Professor Laventon also appears to explain the situation. The Survey Corps are currently unable to catch Kleavor, and has been proving to be extremely aggressive. Cyllene clarifies: the mission is extremely dangerous. She continues: the Diamond and Pearl Clans believe that there are powerful Pokémon related to almighty Sinnoh, called
+noble Pokémon
+, which they worship and give offerings to. Kleavor is one of the Pearl Clan's nobles.
+As a possible lead, Laventon begins to suggest that perhaps you could start by figuring out what their offerings are... when suddenly, Mai and Adaman burst into the office. Adaman explains that by traveling through the space-time rift, you may have met the almighty Sinnoh itself, and so he wants you to quell Kleavor's frenzy completely. He explains that the Diamond clan is facing their own similar problem, but he wants to help the Pearl clan as best as he can. Mai explains that you can find Kleavor at Grandtree Arena, and his warden is a boy named
+Lian
+. As soon as they're finished explaining, they immediately leave. Rei/Akari suggests that you set off from the Height Camp to reach Grandtree Arena, and get ready to head out.
+Approach the exit of Galaxy Hall. Before you can leave, a guardsman named Bagin interrupts you. He can give you an extra slot in your satchel for a fee—however, you'll quickly notice that his prices become
+significantly more expensive per slot
+.
+Exit Galaxy Hall, and head to the east gate. When you approach the gate to depart, Volo appears and hands you some
+Super Potions
+, then leaves to search for some ruins.
+When you're ready, prepare to leave for the Heights Camp in the
+Obsidian Fieldlands
+.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+16
+Strange Happenings at Midnight
+Sanqua
+Sanqua, the captain of the Construction Corps, says that strange things are happening in her house at night. She wants you to find out what is going on.
+Search Sanqua's house to solve the mystery.
+Nanab Berry
+×7
+Jubilife Village
+: Canala Avenue
+Complete Mission 5: "A Request From Mai"
+Catch a
+Pichu
+Wait for
+nightfall
+17
+To Bloom or Not to Bloom
+Kichi
+Kichi of the Agriculture Corps wants an explanation for Cherrim's changeable appearance. He wants to see a completed Pokédex entry for Cherrim.
+Show Kichi the completed Pokédex entry for Cherrim.
+Vivichoke
+×5
+Jubilife Village
+: Farm
+Complete Mission 5: "A Request From Mai"
+18
+Please! Make Me a Pokéshi Doll!
+Anvin
+Anvin from the craftworks has asked you to show him a Pokéshi Doll you've crafted with your own hands.
+Craft a Pokéshi Doll, and show it to Anvin.
+Pokéshi Doll
+×1
+Jubilife Village
+: Floaro Main Street
+(in front of the craftworks)
+Receive Mission 7: "The Frenzy of the Lord of the Woods"
+Obsidian Fieldlands
+Grandtree Arena
+Depart for the Heights Camp, and make your way into the southeast corner of the map.
+Head to Grandtree Arena
+The person you're searching for is located in
+Grandtree Arena
+, the deepest part of
+The Heartwood
+. The easiest route to get there is south through
+Nature's Pantry
+, through
+Tidewater Dam
+, and then east into
+The Heartwood
+. (Refer to
+this part of the walkthrough
+for the available items and Pokémon in those areas.)
+From there, continue deeper into the woods and look for two orange signs. Approach the boy in the back of the woods.
+Warden of the noble Kleavor
+Lian, one of the wardens of the Pearl Clan
+The boy introduces himself as
+Lian
+, the Pearl Clan's warden of Kleavor. He's been instructed by Irida to turn anyone away because it's much too dangerous to approach Kleavor with its current behavior.
+If you want to continue pursuing Kleavor, you'll have to get through him and his partner Pokémon,
+Goomy
+, first. Face him in battle!
+Dragon-type
+Pokémon, like Goomy, are weak to
+Ice
+,
+Dragon
+, and
+Fairy-type
+attacks. Dragon-types also have many resistances. However, Goomy's only attacking moves are
+Bubble
+and
+Acid Spray
+, both of which are not very powerful, so this shouldn't be a difficult fight.
+Warden
+Lian
+Grandtree Arena
+Pokémon Legends: Arceus
+Type:
+Dragon
+Unknown
+Mega Stone:
+None
+Goomy
+♂
+Lv.
+15
+Bubble
+Water
+Special
+--
+Acid Armor
+Poison
+Status
+--
+Acid Spray
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+After defeating him, he still suggests that you leave because it's too dangerous. He'd normally give Kleavor an offering of his favorite food, but it's too aggressive to accept any offerings at all. Then, Irida appears, and convinces Lian that even though the Pearl Clan would rather solve this themselves, it would be best for everyone to let the outsider handle it. Irida and Lian plan to get Kleavor's favorite foods as an offering, and Irida orders you to find a way to quell its frenzy.
+You can
+instant travel
+by opening your Arc Phone with
+Minus
+(-) and pressing
+X
+. Then, select a camp to travel to. (Alternatively, you can do the same thing by moving the cursor with the
+Left Stick
+and pressing
+A
+on a camp marker.)
+Return to either camp and report back to Professor Laventon. When you approach, you let him know what occurred at Grandtree Arena and the two of you return to
+Jubilife Village
+.
+Jubilife Village (Revisited)
+The moment that Professor Laventon realizes the solution
+You head to Professor Laventon's lab in Galaxy Hall, and he ponders on how best to use the food to calm down Kleavor. It's impossible to approach it to offer it food in its aggressive state. Laventon goes silent for a while... until it hits him: you should
+throw the food at him like Poké Balls
+! You should return to Grandtree Arena to let Irida and Lian know about the plan.
+Exit Galaxy Hall, and approach the east gate. Mai says that there's some news, and you set out for the Heights Camp in the
+Obsidian Fieldlands
+.
+Obsidian Fieldlands (Revisited)
+The player calling Wyrdeer with a Celestica Flute
+Mai takes you to the Heights camp to meet with Adaman... and
+Wyrdeer
+! Adaman's been telling Wyrdeer about how much you've been working to find a way to calm down Kleavor, and it believes you are worthy! Adaman orders Mai to take out a white flute, and she plays a mysterious melody. Adaman explains that it's a
+Celestica Flute
+, which is used to call Wyrdeer to ride him. He hands you your own flute to see if you can do the same. You try to play the melody and... Wyrdeer accepts it! Wyrdeer opens its heart and hands you a
+Mind Plate
+.
+You can now ride Wyrdeer! You can summon a
+Ride Pokémon
+by pressing
+Plus
+(+). On Wyrdeer, you can dash with
+B
+and jump with
+Y
+. However, you can't throw any items or Pokémon out while on Wyrdeer, so press
+Plus
+(+) again to quickly dismount.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+15
+Balloon Race in the Fieldlands
+Balloon Race
+The man running the balloon race in the Obsidian Fieldlands has issued you a challenge. You'll get a special reward if you manage to burst 17 balloons.
+Burst 17 balloons within the time limit for the balloon race in the Obsidian Fieldlands.
+Rare Candy
+×1
+Feather Ball
+×15
+Obsidian Fieldlands
+:
+Heights Camp
+Receive the
+Celestica Flute
+Return to Grandtree Arena
+Return to Grandtree Arena in the southeast corner and talk to Lian. You relay Professor Laventon's plan to throw the offerings onto Kleavor, which Lian agrees to, but Irida is hesitant. She still doesn't trust you and the way that the Galaxy Team captures Pokémon in Poké Balls. She reveals that her partner Pokémon is
+Glaceon
+, which was never caught in any Poké Ball, and she wants you to prove your worth in battle!
+Ice-type
+Pokémon, like Glaceon, are weak to
+Fire
+,
+Fighting
+,
+Rock
+, and
+Steel-type
+attacks. Its only resistance is
+Ice-type
+, so most Pokémon will work against it.
+Clan Leader
+Irida
+Grandtree Arena
+Pokémon Legends: Arceus
+Type:
+Ice
+Unknown
+Mega Stone:
+None
+Glaceon
+♀
+Lv.
+17
+Quick Attack
+Normal
+Physical
+--
+Powder Snow
+Ice
+Special
+--
+Swift
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+After defeating Irida, she heals your Pokemon, and finally feels at ease that Poké Balls aren't inherently evil. Irida decides it's best to hear you out, and you inform her of the plan. She agrees to help and you all take some time to make some
+balms
+out of the offerings.
+When you're ready, let Lian know that you'd like to take Kleavor on.
+Items
+Item
+Location
+Games
+Forest Balm
+Made by the player,
+Irida
+, and
+Lian
+to take on the
+noble
+Kleavor
+LA
+Frenzied Kleavor
+The frenzied noble Kleavor
+Lian begins a prayer to call Kleavor to give it offerings. Irida suggests you make use of dodging to avoid Kleavor's attacks, but she is interrupted by a Pokémon's loud cry—the very same that you heard when the lightning first struck. You wonder where it came from, until you see a giant golden figure, running at impeccable speed for its size. It slices through a tree like butter, as you can clearly see that it has two axes for arms. It lands in front of you before the tree even finishes falling, and you finally get a good look at the creature: it is indeed the frenzied
+noble
+Kleavor
+.
+The Frenzy of the Lord of the Woods
+To quell a noble Pokémon's frenzy, you must throw
+balms
+with
+ZR
+to reduce its frenzy gauge, the yellow meter at the stop of the screen. If you manage to find an opening and the screen reads, "
+Send in a Pokémon, and do battle!
+", you can do so and enter battle. If you defeat it, the noble becomes stunned and gives you an opportunity throw a lot of balms.
+Kleavor will stand and charge an attack, facing you. Its eye will shine when it's ready, and then it will charge you in a straight line. To get an opening, you want to dodge at the last moment and bait it into crashing into a wall.
+Kleavor is
+Bug
+/
+Rock-type
+. Kleavor's weaknesses are
+Rock
+,
+Steel
+, and
+Water-type
+attacks. A Pokémon with multiple types combines each type's weaknesses and resistances, adding additional ones or cancelling them out.
+Types:
+Bug
+Rock
+Mega Stone:
+None
+Kleavor
+♂
+Lv.
+18
+Aerial Ace
+Flying
+Physical
+--
+Double Hit
+Normal
+Status
+--
+Stealth Rock
+Rock
+Physical
+--
+Air Slash
+Flying
+Special
+--
+The explosion to quell Kleavor's frenzy
+The normal noble Kleavor
+Once you empty its frenzy gauge completely, you throw one final balm at Kleavor. It explodes in an extremely brilliant light, much like when you first met
+Arceus
+, and the aggressive golden sheen that once covered Kleavor disappears. Now that it's relaxed, Kleavor hands you an
+Insect Plate
+and runs off.
+Lian and Irida appear, completely puzzled by the light. They ponder about the mysterious bolt of lightning that first sent Kleavor into a frenzy, and if it could have been almighty Sinnoh's power. Lian wonders whether it was even the right thing to try and stop it. However, Irida reassures him that almighty Sinnoh would not have one of its Pokémon attack the innocent people that worship it. The two of them thank you for what you've done. Irida hands you 3
+Sitrus Berries
+and heals your Pokémon as a reward, and she wants you to keep aiding any other frenzied Pokémon that may be in a similar situation.
+Return to either camp and speak with Professor Laventon to finally return to
+Jubilife Village
+and report to commander
+Kamado
+.
+Items
+Item
+Location
+Games
+Insect Plate
+From
+Kleavor
+after quelling its frenzy
+LA
+Sitrus Berry
+×3
+From
+Irida
+after quelling
+Kleavor
+'s frenzy
+LA
+← Part 3
+First Star
+: Jubilife Village, Obsidian Fieldlands
+Legends: Arceus
+walkthrough
+The Miss Fortunes
+: Jubilife Village, Space-time distortions, Crimson Mirelands
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

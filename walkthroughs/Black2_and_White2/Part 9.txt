@@ -1,0 +1,1245 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_9
+Keywords: Route 6, Mistralton Cave, Chargestone Cave
+
+Walkthrough Text:
+Contents
+1
+Route 6
+1.1
+Meet up with Cheren
+1.2
+Season Research Lab
+1.3
+A Legendary Pokémon Appears
+1.4
+Mistralton Cave
+1.4.1
+1F
+1.4.2
+2F
+1.4.3
+Guidance Chamber
+2
+Chargestone Cave
+2.1
+1F
+2.2
+B1F
+2.3
+B2F
+2.4
+B1F
+2.5
+1F
+Route 6
+Route 6
+Mistralton Cave 1F
+Mistralton Cave 2F
+Guidance Chamber
+Route 6
+is a road surrounded by rich nature. The path crosses back and forth over the river and continues on past the Season Research Lab.
+Chargestone Cave
+lies further north, and
+Mistralton Cave
+stands to the east.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+April
+Reward:
+$
+864
+*
+Minccino
+♀
+Lv.
+27
+No item
+Deerling
+♀
+Autumn Form
+Lv.
+27
+No item
+Parasol Lady
+Nicole
+Reward:
+$
+896
+Castform
+♀
+Lv.
+28
+No item
+School Kid
+Mara
+Reward:
+$
+540
+Deerling
+♀
+Autumn Form
+Lv.
+27
+No item
+Shelmet
+♀
+Lv.
+27
+No item
+Scientist
+Jacques
+Reward:
+$
+1344
+Deerling
+♂
+Autumn Form
+Lv.
+28
+No item
+Scientist
+Marissa
+Reward:
+$
+1296
+Shelmet
+♀
+Lv.
+27
+No item
+Karrablast
+♀
+Lv.
+27
+No item
+School Kid
+Alvin
+Reward:
+$
+540
+Foongus
+♂
+Lv.
+27
+No item
+Karrablast
+♂
+Lv.
+27
+No item
+Parasol Lady
+Tihana
+Reward:
+$
+896
+Castform
+♀
+Lv.
+28
+No item
+Pokémon Ranger
+Richard
+Reward:
+$
+1680
+Whirlipede
+♂
+Lv.
+28
+No item
+Foongus
+♂
+Lv.
+28
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Deerling
+B2
+W2
+Grass
+23-25
+30%
+-
+-
+-
+Deerling
+B2
+W2
+Grass
+23-25
+-
+30%
+-
+-
+Deerling
+B2
+W2
+Grass
+23-25
+-
+-
+30%
+-
+Deerling
+B2
+W2
+Grass
+23-25
+-
+-
+-
+30%
+Shelmet
+B2
+W2
+Grass
+23-26
+25%
+Karrablast
+B2
+W2
+Grass
+23-26
+25%
+Tranquill
+B2
+W2
+Grass
+26
+15%
+Swadloon
+B2
+W2
+Grass
+26
+10%
+Foongus
+B2
+W2
+Grass
+26
+10%
+Marill
+B2
+W2
+Grass
+25
+5%
+Karrablast
+B2
+W2
+Grass
+23
+5%
+Shelmet
+B2
+W2
+Grass
+23
+5%
+Dark grass
+Deerling
+B2
+W2
+Dark grass
+26-28
+30%
+-
+-
+-
+Deerling
+B2
+W2
+Dark grass
+26-28
+-
+30%
+-
+-
+Deerling
+B2
+W2
+Dark grass
+26-28
+-
+-
+30%
+-
+Deerling
+B2
+W2
+Dark grass
+26-28
+-
+-
+-
+30%
+Shelmet
+B2
+W2
+Grass
+26-29
+25%
+Karrablast
+B2
+W2
+Dark grass
+26-29
+25%
+Tranquill
+B2
+W2
+Dark grass
+29
+15%
+Swadloon
+B2
+W2
+Grass
+26
+10%
+Foongus
+B2
+W2
+Dark grass
+29
+10%
+Marill
+B2
+W2
+Grass
+28
+5%
+Karrablast
+B2
+W2
+Dark grass
+26
+5%
+Shelmet
+B2
+W2
+Grass
+26
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+23-25
+50%
+Emolga
+B2
+W2
+Rustling grass
+24-25
+20%
+Dunsparce
+B2
+W2
+Rustling grass
+25
+10%
+Azumarill
+B2
+W2
+Rustling grass
+26
+5%
+Castform
+B2
+W2
+Rustling grass
+26
+5%
+Unfezant
+B2
+W2
+Rustling grass
+26
+5%
+Leavanny
+B2
+W2
+Rustling grass
+26
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+10-30
+70%
+Basculin
+B2
+W2
+Surfing
+10-30
+70%
+Marill
+B2
+W2
+Surfing
+10-30
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+5-15
+60%
+Basculin
+B2
+W2
+Rippling water
+5-15
+35%
+Basculin
+B2
+W2
+Rippling water
+5-15
+35%
+Azumarill
+B2
+W2
+Rippling water
+5-15
+5%
+Gift Pokémon
+Deerling
+B2
+W2
+Gift
+30
+One
+-
+-
+-
+Deerling
+B2
+W2
+Gift
+30
+-
+One
+-
+-
+Deerling
+B2
+W2
+Gift
+30
+-
+-
+One
+-
+Deerling
+B2
+W2
+Gift
+30
+-
+-
+-
+One
+Special Pokémon
+Foongus
+B2
+W2
+Fake item
+29
+Three
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+East of School Kid Mara
+B2
+W2
+Heart Scale
+Between the center and southernmost bridges (requires
+Surf
+)
+B2
+W2
+PP Up
+East of the Season Research Lab (requires
+Surf
+)
+B2
+W2
+Big Mushroom
+East of the Season Research Lab (hidden, requires
+Surf
+)
+B2
+W2
+HM03
+(
+Surf
+)
+From Cheren in the Season Research Lab
+B2
+W2
+Moon Stone
+Inside the fenced area of the Season Research Lab
+B2
+W2
+TinyMushroom
+In the fenced area south of the Season Research Lab (hidden,
+regrows occasionally)
+B2
+W2
+Ultra Ball
+Between Parasol Lady Tihana and School Kid Alvin
+B2
+W2
+Protein
+In the grass patch south of Chargestone Cave (hidden)
+B2
+W2
+Shiny Stone
+From a girl in the rest house
+B2
+W2
+Pecha Berry
+From Pokémon Ranger Richard after defeating him
+B2
+W2
+TM56
+(
+Fling
+)
+Behind the Season Research Lab (requires
+Surf
+)
+B2
+W2
+Meet up with Cheren
+Cheren
+is continuing with his investigation outside the Season Research Lab. The data he has collected shows sudden drops in temperature near
+Lacunosa Town
+,
+Castelia City
+, and
+Driftveil City
+, with some areas dropping as low as -58°F. He gives you
+HM03
+(
+Surf
+) to help you travel around and assist the investigation.
+Season Research Lab
+The Scientists at the Season Research Lab are conducting research on
+Deerling
+, and the reason it changes forms with the
+season
+. If you have an open party slot, one of the Scientists will ask you to raise a rare Deerling that they found, one with its hidden
+Serene Grace
+ability.
+When you have a traveling partner that has a move or ability that can change the
+weather
+, the Parasol Lady will describe the respective condition in detail.
+A Legendary Pokémon Appears
+When you reach the westernmost bridge, the legendary
+Cobalion
+jumps down from the nearby cliff and lands directly in front of you. However, it runs off as quickly as it appeared. Immediately after,
+Rood
+of the
+Seven Sages
+appears and claims that Cobalion will be a great asset if you can befriend it.
+East of the bridge is a second building. Speak to the woman inside to have her heal your Pokémon. Surf east along the river from here to reach Mistralton Cave.
+Mistralton Cave
+Two years ago,
+Mistralton Cave
+was home to
+Cobalion
+, one of the
+Swords of Justice
+. But ever since Cobalion left, the cave has mostly been forgotten by people nearby.
+Trainers
+Trainer
+Pokémon
+1F
+Hiker
+Shelby
+Reward:
+$
+1024
+Boldore
+♂
+Lv.
+32
+No item
+Hiker
+Jebediah
+Reward:
+$
+1024
+Onix
+♂
+Lv.
+32
+No item
+2F
+Ace Trainer
+Geoff
+Reward:
+$
+1980
+Tirtouga
+♂
+Lv.
+33
+No item
+Axew
+♂
+Lv.
+33
+No item
+Ace Trainer
+Belle
+Reward:
+$
+1980
+Archen
+♂
+Lv.
+33
+No item
+Axew
+♀
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+27-28
+30%
+Woobat
+B2
+W2
+Cave
+27-28
+30%
+Aron
+B2
+W2
+Cave
+29-30
+20%
+Axew
+B2
+W2
+Cave
+29-30
+20%
+Dust clouds
+Drilbur
+B2
+W2
+Dust cloud
+27-30
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Dusk Ball
+In the northeast corner
+B2
+W2
+Yellow Shard
+Northeast of the entrance
+B2
+W2
+Super Repel
+On the rock platform just inside the entrance (hidden)
+B2
+W2
+2F
+Green Shard
+In the rock to the southeast of the first boulder (hidden)
+B2
+W2
+Hyper Potion
+Near the south wall
+B2
+W2
+Blue Shard
+In the northwest corner
+B2
+W2
+Ultra Ball
+North of Ace Trainer Geoff (hidden)
+B2
+W2
+3F
+Full Heal
+In the rock in the southwest corner (hidden)
+B2
+W2
+TM80
+(
+Rock Slide
+)
+In the northeast corner
+B2
+W2
+Escape Rope
+On the southeast rock platform
+B2
+W2
+Dragon Gem
+In the rock to the north of the old man (hidden)
+B2
+W2
+1F
+The darkness makes it difficult to see, so use
+Flash
+to light the way. Go south and
+push
+the boulder onto the hole in the floor. Follow the tunnel past Hiker Shelby and move the second boulder into place. The southeast corner connects to
+Clay Tunnel
+, which is still under construction. Head north to get a
+Dusk Ball
+in the northeast corner and a
+Yellow Shard
+north of the entrance. Move the third boulder into place to create a shortcut, then go south to reach the stairs to 2F.
+2F
+Head southeast and push the next boulder into place. Walk east along the rock platform, then loop around to the southwest to reach a
+Hyper Potion
+. Head up along the east wall to the northeast corner, then walk west along the rock platform to get a
+Blue Shard
+. Backtrack to Ace Trainer Belle, push the next two boulders into place, and climb the stairs to the Guidance Chamber.
+Guidance Chamber
+Go east then north to find
+TM80
+(
+Rock Slide
+) in the northeast corner. Turn around, climb onto the southeast rock platform, grab the
+Escape Rope
+, and continue north. Go down the stairway, turn south, and move the next boulder into position. To the west is an old man who has been searching for
+Cobalion
+for decades. Long ago, Cobalion,
+Terrakion
+, and
+Virizion
+rescued Pokémon from a fire caused by a war between humans. From that point on, the three have refused to associate with people. The old man wonders aloud if Cobalion's hatred has lessened...
+When you're done in Mistralton Cave, continue north on Route 6 to reach Chargestone Cave.
+Chargestone Cave
+Chargestone Cave
+Chargestone Cave
+connects
+Route 6
+to
+Mistralton City
+. The cave is filled with electrically-charged stones that seem to wait around every corner.
+Trainers
+1F
+Trainer
+Pokémon
+Guitarist
+Anna
+Reward:
+$
+960
+Emolga
+♀
+Lv.
+30
+No item
+Scientist
+Ronald
+Reward:
+$
+1440
+Magneton
+Lv.
+30
+No item
+Ace Trainer
+Corky
+Reward:
+$
+1980
+Triple Battle
+Klink
+Lv.
+33
+No item
+Unfezant
+♂
+Male
+Lv.
+33
+No item
+Sandslash
+♂
+Lv.
+33
+No item
+Pokémon Ranger
+Louis
+Reward:
+$
+2040
+Ampharos
+♂
+Lv.
+34
+No item
+Ace Trainer
+Mary
+Reward:
+$
+2040
+Tirtouga
+♂
+Lv.
+34
+No item
+Magmar
+♂
+Lv.
+34
+No item
+Hiker
+Otto
+Reward:
+$
+1024
+Aron
+♂
+Lv.
+32
+No item
+Nosepass
+♂
+Lv.
+32
+No item
+B1F
+Trainer
+Pokémon
+Pokémon Ranger
+Briana
+Reward:
+$
+1980
+Minccino
+♀
+Lv.
+33
+No item
+Excadrill
+♀
+Lv.
+33
+No item
+Doctor
+Kit
+Reward:
+$
+1920
+Solosis
+♂
+Lv.
+32
+No item
+Gothita
+♀
+Lv.
+32
+No item
+Scientist
+Lumi
+Reward:
+$
+1536
+Joltik
+♀
+Lv.
+32
+No item
+Golbat
+♀
+Lv.
+32
+No item
+B2F
+Trainer
+Pokémon
+Guitarist
+Beverly
+Reward:
+$
+1056
+Zebstrika
+♀
+Lv.
+33
+No item
+Ace Trainer
+Shaye
+Reward:
+$
+2040
+Archen
+♂
+Lv.
+34
+No item
+Electabuzz
+♂
+Lv.
+34
+No item
+Hiker
+Jeremy
+Reward:
+$
+1024
+Onix
+♂
+Lv.
+32
+No item
+Boldore
+♂
+Lv.
+32
+No item
+Ace Trainer
+Vicki
+Reward:
+$
+1980
+Rotation Battle
+Stoutland
+♀
+Lv.
+33
+No item
+Krokorok
+♀
+Lv.
+33
+No item
+Ferroseed
+♀
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Joltik
+B2
+W2
+Cave
+25-28
+39%
+Klink
+B2
+W2
+Cave
+26, 28
+24%
+Ferroseed
+B2
+W2
+Cave
+26-27
+20%
+Nosepass
+B2
+W2
+Cave
+27
+10%
+Boldore
+B2
+W2
+Cave
+25
+5%
+Tynamo
+B2
+W2
+Cave
+28
+2%
+B1F
+Joltik
+B2
+W2
+Cave
+28-30
+39%
+Klink
+B2
+W2
+Cave
+29, 31
+24%
+Ferroseed
+B2
+W2
+Cave
+29-30
+20%
+Nosepass
+B2
+W2
+Cave
+30
+10%
+Boldore
+B2
+W2
+Cave
+28
+5%
+Tynamo
+B2
+W2
+Cave
+31
+2%
+B2F
+Joltik
+B2
+W2
+Cave
+28-30
+36%
+Klink
+B2
+W2
+Cave
+29
+21%
+Ferroseed
+B2
+W2
+Cave
+30-31
+20%
+Nosepass
+B2
+W2
+Cave
+30
+10%
+Tynamo
+B2
+W2
+Cave
+31
+8%
+Boldore
+B2
+W2
+Cave
+28
+5%
+Dust clouds
+Drilbur
+B2
+W2
+Dust cloud
+25-31
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Full Heal
+On the ledge north of the entrance
+B2
+W2
+Yellow Shard
+On the ledge north of Guitarist Anna, under the floating stone (hidden)
+B2
+W2
+Hyper Potion
+×2
+In the alcove northeast of Scientist Ronald
+On the platform north of the bridge (hidden)
+B2
+W2
+Max Repel
+South of Scientist Ronald, behind two floating stones
+B2
+W2
+Magnet
+South of the bridge's east end
+B2
+W2
+Carbos
+×2
+South of Pokémon Ranger Louis, accessible from B1F (hidden)
+East of Hiker Otto
+B2
+W2
+B1F
+Nugget
+From the Nugget Brothers
+B2
+W2
+Big Nugget
+From the Nugget Brothers
+B2
+W2
+Ultra Ball
+North of the Nugget Brothers (hidden)
+B2
+W2
+Chesto Berry
+×2
+From Pokémon Ranger Louis after defeating him
+From Pokémon Ranger Briana after defeating her
+B2
+W2
+Iron
+North of Pokémon Ranger Briana
+B2
+W2
+Revive
+Southwest of Scientist Lumi
+B2
+W2
+B2F
+Escape Rope
+South of Guitarist Beverly
+B2
+W2
+Thunderstone
+North of Ace Trainer Shaye
+B2
+W2
+Metal Coat
+South of Ace Trainer Vicki
+B2
+W2
+Electric Gem
+At the dead-end northeast of Ace Trainer Vicki (hidden)
+B2
+W2
+1F
+Go north to meet
+Bianca
+, who tells you that the floating stones can be moved out of the way. North of her is the first floating stone; push it to the left so that it sticks to the blue boulder. Pick up the
+Full Heal
+, and push the next stone to the right. Turn east to get a
+Max Repel
+to the south of Scientist Ronald, then backtrack and go north. Check the ledge north of Guitarist Anna for a hidden
+Yellow Shard
+, then grab the
+Hyper Potion
+in the alcove to the east. Move the next two floating stones and continue eastward. At the T-intersection, go north for a hidden
+Hyper Potion
+before heading south to the bridge.
+Crossing the bridge, you hear someone's voice. The voice says,
+"I have to go in order to save Pokémon and protect the very friend that I have to stop!"
+The person leaves before you have a chance to learn their identity.
+Fight Ace Trainer Corky in a
+Triple Battle
+, then loop around to the west to get a
+Magnet
+. Climb down the stairs to B1F.
+B1F
+Head west to meet the Nugget Man and the Nugget Boy, who give you both a
+Nugget
+and a
+Big Nugget
+. Continue west and climb the stairs; talk to the Lady to receive a new
+Funfest Mission
+,
+Find Mysterious Ores!
+B2
+or
+Find Shining Ores!
+W2
+. Go back downstairs and head north. Check the passage to the north of the Nugget Man and the Nugget Boy to find a hidden
+Ultra Ball
+, and pick up the
+Iron
+to the east. Defeat Doctor Kit to have him heal your team, and continue north. Pass by Scientist Lumi, and navigate around the blue boulders to the west to get a
+Revive
+. Here you meet
+Bianca
+again, who is researching the local
+Tynamo
+at
+Professor Juniper
+'s request. Go down the western stairs to B2F.
+B2F
+Go south of Guitarist Beverly to reach an
+Escape Rope
+. Grab the
+Thunderstone
+to the north of Ace Trainer Shaye, then head south. Fight Ace Trainer Vicki in a
+Rotation Battle
+, then climb down to the lower level. Pick up the
+Metal Coat
+, then check the dead-end path for a hidden
+Electric Gem
+. Backtrack to the stairs to return to B1F.
+B1F
+Walk east past
+Bianca
+and climb up the stairs to 1F.
+1F
+Head south to reach a
+Carbos
+near Hiker Otto, then go east to reach the exit to
+Mistralton City
+. Your sixth Gym battle awaits!
+← Part 8
+Pokémon World Tournament, Plasma Frigate, Relic Passage
+Black 2 and White 2
+walkthrough
+Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

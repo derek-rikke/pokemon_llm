@@ -1,0 +1,64 @@
+Game: Sun_and_Moon
+Part: 14
+Keywords: Malie City, Malie Garden, Outer Cape
+
+**Part 14: Malie City and Outer Cape Walkthrough**
+
+**Malie City Overview**
+- Located on Ula'ula Island, Malie City features diverse attractions including shops, a garden, and a library.
+
+**Available Pokémon**
+- **Happiny**: Trade
+- **Pancham**: Level 27 (Malie City)
+- **Wild Pokémon**: Various types found in the garden.
+
+**Key Items**
+- **TM76 (Fly)**: Malie Library, lower floor.
+- **Love Ball**: From Samson Oak in the library with an Alolan Persian.
+- **Strange Souvenir**: Community Center.
+- **Zygarde Cells**: Two locations near Malie Garden.
+
+### **Rival Battle 6 (vs. Hau)**
+- **Location**: Malie City
+- **Level**: Hau’s Pokémon range from 28-29.
+- **Strategy**: Heal before the battle; focus on type advantages based on your starter.
+
+### **Malie Garden**
+- Explore the garden after the battle. Kukui is found at the tea shop.
+- Next trial location is **Mount Hokulani** (accessible via Route 10).
+
+**Key Trainers**
+- **Mitch (Sightseer)**: Level 27 Persian, Level 26 Marowak.
+- **Akali (Sightseer)**: Level 26 Raticate, Level 27 Raichu.
+
+**Items in Malie Garden**
+- **Grassy Seed**: Northeastern corner.
+- **Luxury Ball**: Southwest corner.
+- **Zygarde Cell**: Northwest.
+
+### **Malie Library**
+- Meet Lillie and Samson Oak. Obtain TM76 from a NPC.
+- **Quest**: Assist Lillie in finding a book related to Alolan legends.
+
+### **Outer Cape**
+- **Trainers**: 
+  - **Janitor Melvin**: Level 26 Trubbish.
+  - **Janitor Shawn**: Level 27 Alolan Muk.
+  - **Ace Trainer Chase**: Level 29 Grimer.
+
+**Available Pokémon**
+- Alolan Grimer, Trubbish, Magnemite.
+
+**Key Items**
+- **Antidote**: Western grass patch.
+- **Twisted Spoon**: Defeat Shawn.
+- **Nugget**: Southeast grass patch.
+- **Zygarde Cell**: Near Recycling Plant.
+
+**Meet Gester**
+- Gester offers to teach new battle styles to Trainers.
+
+**Next Steps**
+- Head to Route 10 for the next challenge at Mount Hokulani. 
+
+This concludes Part 14.

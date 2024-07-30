@@ -1,0 +1,38 @@
+Game: BrilliantDiamond_and_ShiningPearl
+Part: 15
+Keywords: Canalave Library, Using Strength, Valor Lakefront, Lake Valor, Lake Verity
+
+**Part 15 Walkthrough:**
+
+1. **Canalave Library**: 
+   - Access the library to learn about the legendary Pokémon.
+   - Speak to the NPCs for lore and hints.
+
+2. **Using Strength**:
+   - Obtain the Strength HM from the Gym Leader in Canalave City.
+   - Teach it to a Pokémon capable of learning it.
+   - Use Strength to move boulders blocking paths.
+
+3. **Valor Lakefront**:
+   - Head east from Canalave City to reach Valor Lakefront.
+   - Battle trainers along the way to gain experience.
+
+4. **Lake Valor**:
+   - Enter the area and you will encounter Team Galactic.
+   - Defeat them in battle to progress.
+   - After the battle, check the lake to find the legendary Pokémon.
+
+5. **Lake Verity**:
+   - Proceed to Lake Verity to confront more Team Galactic members.
+   - Continue battling until you reach the lake's center.
+   - Interact with the legendary Pokémon here as well.
+
+**Key Items**: 
+- Strength HM (from Canalave Gym)
+- Various battle items from defeated trainers.
+
+**Battle Strategies**:
+- Use a balanced team to handle Team Galactic's diverse Pokémon.
+- Level up your Pokémon before challenging the lakes.
+
+Focus on defeating Team Galactic and interacting with the legendary Pokémon at both lakes to move forward in the game.

@@ -1,0 +1,46 @@
+Game: Sun_and_Moon
+Part: 3
+Keywords: Hau'oli City
+
+### Part 3: Hau'oli City Walkthrough
+
+**Overview:**
+Hau'oli City is the largest city in Alola, featuring a Beachfront, Shopping District, and Marina.
+
+#### Beachfront
+- **Items:**
+  - Potion: Near the woman by the yellow truck
+  - Poké Ball: Next to the southeast ramp
+  - Pearl: Behind the palm tree (hidden)
+  - Fresh Water: Near the northwestern palm tree (hidden)
+  - Icicle Plate: After defeating Kahuna Nanu at the water's edge (later visit)
+  - Dawn Stone: From Guzma after becoming Champion
+
+#### Shopping District
+- **Key Locations:**
+  - **Alola Tourist Bureau:** 
+    - Get the Poké Finder from the attendant.
+    - Participate in Loto-ID for potential prizes (Moomoo Milk to Master Ball).
+  - **Apparel Shop:** 
+    - Male and female fashion items available. Lillie gives a Lens Case and Makeup Bag (female players).
+  - **Pokémon Center:** 
+    - Move Deleter available. Show a Drifloon to a Beauty for $10,000.
+  - **Malasada Shop:** 
+    - Buy Sweet Malasada ($200) for affection and Big Malasada ($350) for healing status ailments.
+  - **Ilima's House:** 
+    - Find Ether in the yard and Lumiose Galette from Ilima's mother.
+
+#### Marina
+- **Items:**
+  - X Attack and X Defense from NPCs at the Ferry Terminal.
+  - Super Potion at the end of the ramp.
+  
+- **Battles:**
+  - **VS Team Skull Grunts:** Battle one grunt alongside Ilima.
+  - **VS Ilima:** 
+    - Level 9 Yungoos and Level 10 Smeargle; earn $1,200 for winning.
+
+#### Next Steps: 
+- After defeating Ilima, head north to Route 2 and Verdant Cavern to continue your journey.
+
+This concise version retains the essential gameplay elements, item locations, and battle strategies while omitting unnecessary details.

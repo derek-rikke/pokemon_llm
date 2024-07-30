@@ -1,0 +1,4874 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Legends:_Arceus_walkthrough/Section_5
+Keywords: The Miss Fortunes: Jubilife Village, Space-time distortions (Optional), Crimson Mirelands
+
+Walkthrough Text:
+Contents
+1
+Jubilife Village
+1.1
+Eerie Apparitions in the Night
+1.2
+Hairdresser of the Diamond Clan
+1.3
+Some practice before the trip
+2
+Space-time distortions (Optional)
+2.1
+Preparation
+2.2
+When it begins
+2.3
+When it's finished
+2.4
+New Pokémon in the Obsidian Fieldlands
+3
+Crimson Mirelands
+3.1
+New areas to explore (Optional)
+3.2
+Warden of the Pearl Clan's Ursaluna
+3.3
+The Miss Fortunes
+3.4
+Return the Wall Fragment
+3.5
+Head to Sludge Mound
+3.6
+Finding items with Ursaluna
+3.7
+The Symbol Pokémon
+Jubilife Village
+The player using a Smoke Bomb to hide from a Luxio
+You return to
+Jubilife Village
+, as
+Volo
+greets you at the
+front gate
+. He saw a light in the sky and came out, hoping that you quelled the
+noble
+Kleavor
+! He gets a glimpse of the two plates you've received, the
+Mind Plate
+and the
+Insect Plate
+. A mysterious message is written on them that states, "Where all creation was born, that is the being's place of origin." You explain to him that you received them from Kleavor and
+Wyrdeer
+. He wants you to continue getting more plates to read, and excitedly sets off.
+Head to
+Galaxy Hall
+and go up to
+Kamado
+'s office. Kamado heard what happened with Kleavor and congratulates you on your work, as the people of
+Hisui
+have one less thing to worry about. However, there are more nobles that are similarly in a frenzy, and he orders you to continue investigating. But for now, you are dismissed and can take a rest at the
+Wallflower
+.
+You've completed
+The Frenzied Lord of the Woods
+!
+You return to the Wallflower.
+Beni
+brings you more potato mochi, and he mentions that word gets around the village quick: quelling Kleavor's frenzy has given you quite the reputation. Rei/Akari and Laventon praise you for making the Obsidian Fieldlands safer, and Rei/Akari gives you a recipe for
+Smoke Bombs
+. You can use them as temporary cover that you can sneak in, much like tall grass. Laventon wants you to continue filling the Pokédex, and you all dig in to the potato mochi.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+19
+A Peculiar Ponyta
+Yota
+There was a request regarding a rare Ponyta. Go get the details from Yota, one of the local villagers in Jubilife.
+Yota is alarmed by the unusual Ponyta that frequents the Horseshoe Plains. He wants you to catch it for him.
+The strange Ponyta spotted on Horseshoe Plains turned out to be a Shiny Ponyta. Mystery solved!
+Speak with Yota to learn more about his request.
+Catch the strange Ponyta on the Horseshoe Plains in the Obsidian Fieldlands.
+Report back to Yota with your findings.
+Shiny
+Ponyta
+Razz Berry
+×5
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Catch a
+Ponyta
+Quell
+Lord
+Kleavor
+20
+The Mysterious Will-o'-the-Wisp
+Paira
+A villager named Paira wants you to catch the will-o'-the-wisp she saw on Windswept Run to prove to Waka that she's telling the truth.
+It turns out the will-o'-the-wisp was a Chimchar all along! Catch one so you can show it to Paira in the village at night, when its tail can be seen glowing in the dark.
+Catch the mysterious red will-o'-the-wisp on Windswept Run at night.
+Catch the Chimchar to show to Paira.
+Chimchar
+Exp. Candy S
+×2
+Jubilife Village
+: Canala Avenue outskirts
+Quell
+Lord
+Kleavor
+21
+Back-Alley Mr. Mime
+Andra
+That villager named Andra wants your help again, this time about a Mr. Mime that's behaving suspiciously.
+Speak with Andra to learn more about his request.
+Find a way to approach Mr. Mime and see what it's up to.
+Chase the fleeing Mr. Mime.
+Aux Guard
+×2
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Complete Request 14: "Berry Helpful"
+Catch a
+Mr. Mime
+Quell
+Lord
+Kleavor
+25
+The Pokémon in the Woodland Photo
+Dagero
+Dagero, who runs the photography studio, thinks a Pokémon that wandered into his photo would make an excellent subject. He wants you to catch one.
+Catch the Pokémon captured in Dagero's photo and show it to him.
+New option added at the photography studio!
+Jubilife Village
+: Floaro Main Street
+(in front of the photography studio)
+Quell
+Lord
+Kleavor
+Talk to Dagero at least once
+30
+A Beautiful Rose...
+Berra
+Berra, a villager, has been utterly captivated by Roselia's elegance and wishes to learn more about this Pokémon. Complete Roselia's Pokédex page, and show it to Berra!
+Show Berra the completed Pokédex entry for Roselia.
+Grain Cake
+×5
+Exp. Candy S
+×2
+Crimson Mirelands
+:
+Mirelands Camp
+Quell
+Lord
+Kleavor
+Eerie Apparitions in the Night
+Vessa near the pastures
+After you eat, you head off to
+your quarters
+. Before you enter, a child in a brown outfit calls your name and urges you to follow her. She takes you to a bridge near the
+pastures
+and introduces herself as
+Vessa
+. A calamity that was once sealed away has started to break out, and its seal is broken. She asks you to restore the seal and she gives you an
+Odd Keystone
+. In order to restore the seal, you must collect ghostly purple
+wisps
+into the Odd Keystone. Vessa points to one that's nearby, and asks you to collect it.
+Cross the bridge and press
+A
+on the wisp by the tree to collect it into the Keystone. Vessa thanks you for helping her, and she'll give you
+rewards
+when you find a certain amount. There are 107 wisps that have been scattered across Hisui, and you can also talk to her to find out how many are remaining.
+You receive
+Request 22: Eerie Apparitions in the Night
+. You can refer to
+Spiritomb Wisps
+for additional details. This is the only
+request
+that is automatically obtained in the main story.
+Arezu, one of the wardens of the Diamond Clan
+Hairdresser of the Diamond Clan
+You return to bed. The next day, a girl in a Diamond Clan outfit shouts about how amazing the Jubilife Village
+hairdresser
+is. She recognizes you as the person who quelled Kleavor's frenzy and introduces herself as
+Arezu
+, a
+warden
+of the
+Diamond Clan
+. Her hobby is that she gives haircuts. She had intended on speaking with Kamado, so she leaves. This isn't the last time you'll see her, however, as you receive a mission:
+Arezu's Predicament
+.
+The player receiving their second star
+Head inside
+Galaxy Hall
+, and go up to the third floor to reach Kamado's office. When you approach, you overhear Arezu and Kamado having a conversation. An
+Ursaluna
+has gone into a frenzy, much like the
+noble
+Kleavor
+. Arezu turned to the Galaxy Team, because both clan leaders are busy and Ursaluna's
+warden
+is too stubborn to let her help.
+You enter into the room. Kamado orders you to head to a new area, the
+Crimson Mirelands
+, to study the Ursaluna. You nod and head down to
+Cyllene
+'s office for the details. Cyllene informs you that the Crimson Mirelands is filled with more dangerous Pokémon and a harsher landscape, so this won't be easy. You must be a Second Star to go to the Crimson Mirelands.
+If you haven't already, earn enough research points to
+rank
+up to Second Star (you need 1,800 points). You can refer to
+Part 2
+of this walkthrough for details.
+When you earn enough research points, talk to Cyllene to show her your Pokédex.
+You've become a
+Second Star recruit
+!
+As a Second Star recruit, you can use a new type of Poké Ball called a
+Feather Ball
+, which flies in a straight line and is intended for certain flying encounters. In addition, Pokémon up to level 30 will obey you in battle and you'll earn more money from survey reports. Cyllene hands you the crafting recipes for Feather Balls and
+Super Potions
+.
+After reaching Second Star rank, Cyllene gives you the details of your mission. You must head to a place called the
+Solaceon Ruins
+to find
+Calaba
+, Ursaluna's warden.
+Some practice before the trip
+Head outside of Galaxy Hall and go to the front gate. Rei/Akari meets you there, and they challenge you to a battle to train them again!
+Rei/Akari leads with
+Mime Jr.
+, a
+Psychic
+/
+Fairy-type
+Pokémon. It's weak to
+Poison
+,
+Ghost
+, and
+Steel-type
+attacks. Watch for its
+Hypnosis
+: it causes
+Drowsy
+, which increases the damage taken of the inflicted Pokémon and gives them a chance to be too sleepy to act on their turn.
+Then, they send out their main partner,
+Pikachu
+, which is
+Electric-type
+. Electric-type Pokémon are only weak to
+Ground-type
+attacks. Ground-type Pokémon are also immune to Electric-type moves, so it would make a perfect counter to their Pikachu. Also, watch for
+Thunder Wave
+: it causes
+Paralysis
+, which reduces the
+Speed
+of the inflicted Pokémon and gives them a chance to be too weak to act on their turn.
+The Survey Corps'
+Rei
+Jubilife Village
+Pokémon Legends: Arceus
+Types:
+Psychic
+Fairy
+Mega Stone:
+None
+Mime Jr.
+♂
+Lv.
+19
+Zen Headbutt
+Psychic
+Physical
+--
+Iron Defense
+Steel
+Status
+--
+Hypnosis
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+20
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Curse
+Unknown
+Status
+--
+The Survey Corps'
+Akari
+Jubilife Village
+Pokémon Legends: Arceus
+Types:
+Psychic
+Fairy
+Mega Stone:
+None
+Mime Jr.
+♂
+Lv.
+19
+Zen Headbutt
+Psychic
+Physical
+--
+Iron Defense
+Steel
+Status
+--
+Hypnosis
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+20
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Curse
+Unknown
+Status
+--
+After defeating Rei/Akari, they hand you a new recipe for
+Stealth Sprays
+, which muffle the sound of your footsteps and make it harder for
+wild Pokémon
+to notice you. They also mention something called a
+space-time distortion
+, which you can get rare items from, and head off to the
+Mirelands Camp
+.
+When you're ready, head through the front gate to depart for the
+Crimson Mirelands
+.
+Items
+Item
+Location
+Games
+Recipe
+:
+Feather Ball
+From
+Rei
+/
+Akari
+while resting at the
+Wallflower
+LA
+Odd Keystone
+From
+Vessa
+to collect the
+wisps
+scattered across
+Hisui
+LA
+Recipe
+:
+Feather Ball
+From
+Cyllene
+after achieving
+Second Star rank
+LA
+Recipe
+:
+Super Potion
+From
+Cyllene
+after achieving
+Second Star rank
+LA
+Recipe
+:
+Stealth Spray
+From
+Akari
+/
+Rei
+before going to the
+Crimson Mirelands
+LA
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+22
+Eerie Apparitions in the Night
+Vessa
+Collect the 107
+wisps
+scattered around the Hisui region to seal away the “being who brought calamities” that the young girl in the village told you of.
+You've collected all 107 wisps, but it seems there is one last thing you must do to complete the seal. Go to the Shrouded Ruins at night to meet the young girl there.
+The young girl possessed the final wisp. She told you to gather the full 108 wisps together in the Odd Keystone before disappearing into the night...
+Gather the
+wisps
+found scattered in every corner of the Hisui region.
+Go to the Shrouded Ruins in the Crimson Mirelands at night.
+Receive the last wisp.
+Oval Stone
+×1 (5
+wisps
+)
+Rare Candy
+×1 (10 wisps)
+Seed of Mastery
+×1 (20 wisps)
+Dusk Stone
+×1 (30 wisps)
+Exp. Candy L
+×1 (40 wisps)
+Linking Cord
+×1 (50 wisps)
+Grit Pebble
+×5 (60 wisps)
+Reaper Cloth
+×1 (70 wisps)
+Seed of Mastery
+×3 (80 wisps)
+Exp. Candy XL
+×2 (90 wisps)
+Grit Rock
+×3 (100 wisps)
+Twice-Spiced Radish
+×3
+Spiritomb
+Jubilife Village
+: Near the
+pastures
+Complete Mission 7: "The Frenzy of the Lord of the Woods"
+*
+23
+Getting Ahold of New Wares
+Choy
+Choy from the general store wants you to convince Tao Hua, captain of the Supply Corps, to sell him some new wares for his shop.
+Try to sweeten up Tao Hua with a gift so he might sell new wares to the general store.
+Report back to Choy about your progress.
+New items added to the general store's offerings!
+Jubilife Village
+: Floaro Main Street
+(general store)
+Receive Mission 8: "Arezu's Predicament"
+24
+Inspiration from Hippopotas
+Anthe
+The clothier Anthe has asked you to show her a male and a female Hippopotas since she heard that they each have different appearances.
+Report back to Astair with your findings.
+Catch a male and a female Hippopotas to show to Anthe.
+New items added to the clothier's lineup!
+Jubilife Village
+: Floaro Main Street
+(clothing store)
+Receive Mission 8: "Arezu's Predicament"
+26
+Aim for the Big Leagues!
+Taggart
+The fellow running the target practice outside Jubilife Village has issued you a challenge. You'll get a special reward if you manage to score 10,000 points or more.
+Get a score of 10,000 points or more at the target practice game hosted in the practice field outside Jubilife Village.
+Great Ball
+×15
+Nugget
+×1
+Jubilife Village
+: Practice Field
+Receive Mission 8: "Arezu's Predicament"
+27
+Help Wanted: Plowing the Fields
+Miller
+Miller from the Agriculture Corps says the ground is too hard to plow. He wants to borrow a Pokémon to help with plowing the land to prepare it for planting.
+Lend a Ground-type Pokémon to Miller.
+More fields available for farming!
+Jubilife Village
+: Farm
+Receive Mission 8: "Arezu's Predicament"
+28
+Measuring Your Compatibility
+Belamy
+A villager named Belamy says you remind him of his grandmother. He wants you to show him that you can likewise befriend Pokémon as she could.
+Show a Pokémon with which you have a strong enough bond to satisfy Belamy.
+Rare Candy
+×1
+Jubilife Village
+: Near the
+pastures
+Receive Mission 8: "Arezu's Predicament"
+29
+The Search for Bitter Leaves
+Shinon
+Shinon wants to make some medicine and asks you to collect the materials needed. Apparently Anise of the Medical Corps can tell you what you need to find.
+Anise of the Medical Corps filled you in on what you need to find to make medicine. Seems you can find the materials in the Crimson Mirelands, but...
+Ask Anise about the materials that are needed for the medicine.
+Find the Pokémon with three leaves in the Crimson Mirelands and catch one to give to Anise.
+Fine Remedy
+×3
+Hopo Berry
+×5
+Jubilife Village
+: Canala Avenue
+Receive Mission 8: "Arezu's Predicament"
+33
+What a Massive Mushroom!
+Morel
+Go have a chat with Morel, a local fungus expert, and investigate the mushroom on Parasect's back together.
+Speak with Morel to learn more about his request.
+Catch a Parasect to give to Morel.
+Candy Truffle
+×5
+Galaxy Hall
+(
+Laventon
+'s blackboard)
+Catch a
+Parasect
+Complete Request 6: "Mushroom Cake Marketing"
+Receive Mission 8: "Arezu's Predicament"
+Space-time distortions (Optional)
+A space-time distortion before it has formed
+A space-time distortion that has formed
+Now that you have access to
+space-time distortions
+, there's some preparation that you need in order to make the most out of them. They drop many
+items
+for
+evolution
+, items for earning
+money
+, and most importantly, exclusive rare Pokémon! They can spawn every 5 to 40 minutes, meaning it can be a very long time until another one appears.
+When a space-time distortion is about to begin, you'll receive a notification that reads, "
+A space-time distortion seems to be forming!
+". Press
+Minus
+(-) to open your
+Arc Phone
+to see where it is on the map. If it hasn't begun, it appears as a semi-transparent hemisphere.
+Preparation
+When you first receive the notification, that means it hasn't formed yet and you have a few minutes to prepare. It won't begin until you receive a follow-up message that reads, "
+A space-time distortion appeared!
+", which means you should head there as soon as possible.
+Only bring the essentials. Empty as much of your
+satchel
+as you can, and make sure you're prepared with
+Poké Balls
+and healing items like
+Revives
+and
+Potions
+.
+Bring a couple of Pokémon for catching. This typically includes a Pokémon with
+False Swipe
+and another with a
+move
+that inflicts a
+status
+like
+Hypnosis
+or
+Thunder Wave
+.
+At any point, if you ever rest at the tent to heal your Pokémon,
+ONLY rest "Just for a little while".
+Any other option will change the time of day and the distortion with disappear. Of course, returning to Jubilife Village,
+blacking out
+, or closing the game will also make the distortion disappear.
+When it begins
+Head to the area where the distortion is on the map. It appears as a hemisphere of thunderous dark clouds. Inside, there's a lot going on, but don't panic: there's only a few things to know.
+Rare items will begin appearing on the ground. Press
+Plus
+(+) to
+ride
+Wyrdeer
+and press
+A
+whenever you come across an item. Keep moving and searching around the entire area of the distortion.
+Pokémon will begin appearing in front of you, in groups of 2 to 4. After a few seconds, they will despawn and a new group will take its place. If you want to catch one, throw out a Pokémon, and the Pokémon will stop despawning. (Being in battle or opening a menu pauses time, including the time it takes for new Pokémon to spawn, or the time before the distortion disappears.)
+Otherwise, keep moving around on Wyrdeer to avoid their attacks until they despawn. Be careful, as many Pokémon can be a very high level or even be an
+alpha
+.
+When it's finished
+Once the space-time distortion is over, the area returns to normal and all of the exclusive Pokémon and items disappear.
+Congratulations! You've completed your first space-time distortion!
+You should return to a
+base camp
+to heal your Pokémon and empty all of the new items you've collected into the item storage.
+You may sell any
+Nuggets
+or
+Star Pieces
+you've collected, but
+DO NOT sell your
+Stardust
+. Star Pieces sell for significantly more than Stardust. Later in the story, you can unlock a
+recipe
+to
+craft
+Star Pieces using Stardust,
+Red Shards
+,
+Blue Shards
+, and
+Green Shards
+.
+New Pokémon in the Obsidian Fieldlands
+This is an updated list of encounters to include Pokémon in space-time distortions in the
+Obsidian Fieldlands
+. They also now include
+mass outbreaks
+, which are events where you can encounter multiple of a certain Pokémon with increased
+Shiny
+rates!
+Ramanas Island
+and most of
+Lake Verity
+are still inaccessible, so they will be covered later.
+Available Pokémon
+Available Pokémon (Aspiration Hill)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pichu
+‡
+3-6
+18-21
+✔
+✔
+Wurmple
+‡
+3-6
+18-21
+✔
+✔
+Bidoof
+2-4
+17-19
+✔
+✔
+Starly
+2-4
+17-19
+✔
+✔
+✔
+✔
+Shinx
+‡
+2-6
+17-21
+✔
+✔
+Drifloon
+2-4
+17-19
+✔
+✔
+In the air
+Starly
+2-4
+17-19
+✔
+✔
+✔
+✔
+Drifloon
+2-4
+✔
+✔
+Mass outbreak
+Pichu
+‡
+8-10
+23-25
+✔
+✔
+Wurmple
+‡
+4-6
+19-21
+✔
+✔
+Shinx
+‡
+12-14
+27-29
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Floaro Gardens)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pichu
+3-6
+18-21
+✔
+✔
+Wurmple
+2-6
+17-21
+✔
+✔
+Silcoon
+5-7
+20-22
+✔
+✔
+✔
+✔
+Cascoon
+3-5
+18-20
+✔
+✔
+Shinx
+‡
+3-6
+18-21
+✔
+✔
+Drifloon
+4-8
+19-23
+✔
+✔
+Fixed Alpha
+Luxio
+40
+✔
+✔
+In the air
+Beautifly
+18-22
+33-37
+✔
+✔
+✔
+✔
+Dustox
+18-22
+33-37
+✔
+✔
+Shaking trees
+Wormadam
+‡
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Mass outbreak
+Silcoon
+7-9
+22-24
+✔
+✔
+Cascoon
+7-9
+22-24
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Horseshoe Plains)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Ponyta
+3-6
+18-21
+✔
+✔
+✔
+✔
+Eevee
+2-6
+17-21
+✔
+✔
+Wurmple
+2-6
+17-21
+✔
+✔
+Silcoon
+22-24
+✔
+✔
+✔
+✔
+Cascoon
+7-9
+22-24
+✔
+✔
+Starly
+‡
+2-4
+17-19
+✔
+✔
+✔
+✔
+Bidoof
+2-6
+17-21
+✔
+✔
+Buizel
+2-4
+17-19
+✔
+✔
+Drifloon
+2-6
+17-21
+✔
+✔
+Mime Jr.
+3-6
+18-21
+✔
+✔
+Fixed Alpha
+Rapidash
+40
+✔
+✔
+✔
+✔
+In the air
+Starly
+2-4
+✔
+✔
+✔
+✔
+Drifloon
+2-4
+✔
+✔
+Mass outbreak
+Ponyta
+15-17
+30-32
+✔
+✔
+Rapidash
+40-42
+55-57
+✔
+✔
+Chansey
+‡
+20-22
+35-37
+✔
+✔
+Eevee
+15-17
+30-32
+✔
+✔
+Buizel
+‡
+13-15
+28-30
+✔
+✔
+Floatzel
+‡
+38-40
+53-55
+✔
+✔
+Happiny
+‡
+15-17
+30-32
+✔
+✔
+Space-time distortions
+Haunter
+25-60
+40-75
+✔
+✔
+Gengar
+25-60
+45-80
+✔
+✔
+Onix
+25-55
+35-70
+✔
+✔
+Lickitung
+20-55
+35-70
+✔
+✔
+Eevee
+20-55
+35-70
+✔
+✔
+Steelix
+25-60
+45-80
+✔
+✔
+Sneasel
+Johtonian Form
+20-55
+35-70
+✔
+✔
+Ursaring
+30-65
+45-80
+✔
+✔
+Toxicroak
+37-72
+52-87
+✔
+✔
+Weavile
+25-60
+40-75
+✔
+✔
+Lickilicky
+25-60
+40-75
+✔
+✔
+Leafeon
+25-60
+40-75
+✔
+✔
+Sylveon
+25-60
+45-80
+✔
+✔
+Special Pokémon
+Ponyta
+[note 1]
+Shiny
+15
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+Complete
+Request
+19: "A Peculiar Ponyta"
+Available Pokémon (Grueling Grove)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Combee
+6-9
+21-24
+✔
+✔
+Fixed Alpha
+Heracross
+45
+✔
+✔
+In the air
+Beautifly
+15-18
+30-33
+✔
+✔
+✔
+✔
+Dustox
+15-18
+30-33
+✔
+✔
+Mothim
+20-23
+35-38
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+15-18
+30-33
+✔
+✔
+Wormadam
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Mass outbreak
+Beautifly
+22-24
+37-39
+✔
+✔
+Dustox
+‡
+22-24
+37-39
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, nestled in the tree in the pond
+Available Pokémon (Worn Bridge)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-12
+22-27
+✔
+✔
+Geodude
+9-12
+24-27
+✔
+✔
+Buizel
+‡
+7-10
+22-25
+✔
+✔
+Fixed Alpha
+Floatzel
+‡
+31
+✔
+✔
+In the air
+Starly
+‡
+7-10
+✔
+✔
+✔
+✔
+Drifloon
+‡
+7-10
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+‡
+9-12
+24-27
+✔
+✔
+Mass outbreak
+Magikarp
+13-15
+28-30
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Deertrack Path)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-10
+22-25
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Munchlax
+7-10
+22-25
+✔
+✔
+In the air
+Starly
+7-10
+✔
+✔
+✔
+✔
+Drifloon
+7-10
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+7-10
+22-25
+✔
+✔
+Shaking ore deposits
+Geodude
+7-10
+22-25
+✔
+✔
+Mass outbreak
+Starly
+11-13
+26-28
+✔
+✔
+Kricketot
+‡
+7-9
+22-24
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Deertrack Heights)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-14
+22-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Geodude
+7-12
+22-27
+✔
+✔
+Stantler
+9-14
+24-29
+✔
+✔
+Chimchar
+10-13
+25-28
+✔
+✔
+Monferno
+14-17
+29-32
+✔
+✔
+Starly
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shinx
+9-12
+24-27
+✔
+✔
+Fixed Alpha
+Stantler
+42
+✔
+✔
+In the air
+Zubat
+11-14
+26-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-14
+24-29
+✔
+✔
+Shaking ore deposits
+Geodude
+7-14
+22-29
+✔
+✔
+Mass outbreak
+Stantler
+‡
+12-14
+27-29
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Windswept Run)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+9-14
+24-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Abra
+9-12
+24-27
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+11-14
+26-29
+✔
+✔
+Buizel
+9-12
+24-27
+✔
+✔
+Drifloon
+9-12
+24-27
+✔
+✔
+Fixed Alpha
+Staravia
+32
+✔
+✔
+In the air
+Zubat
+9-12
+24-27
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-12
+24-27
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+9-12
+24-27
+✔
+✔
+Mass outbreak
+Abra
+13-15
+28-30
+✔
+✔
+Kricketune
+27-29
+42-44
+✔
+✔
+Space-time distortions
+Haunter
+25-60
+40-75
+✔
+✔
+Gengar
+25-60
+45-80
+✔
+✔
+Onix
+25-55
+35-70
+✔
+✔
+Lickitung
+20-55
+35-70
+✔
+✔
+Eevee
+20-55
+35-70
+✔
+✔
+Steelix
+25-60
+45-80
+✔
+✔
+Sneasel
+Johtonian Form
+20-55
+35-70
+✔
+✔
+Ursaring
+30-65
+45-80
+✔
+✔
+Toxicroak
+37-72
+52-87
+✔
+✔
+Weavile
+25-60
+40-75
+✔
+✔
+Lickilicky
+25-60
+40-75
+✔
+✔
+Leafeon
+25-60
+40-75
+✔
+✔
+Sylveon
+25-60
+45-80
+✔
+✔
+Special Pokémon
+Chimchar
+[note 1]
+12
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+During
+Request
+20: "The Mysterious Will-o'-the-Wisp"
+Available Pokémon (Nature's Pantry)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pikachu
+9-12
+24-27
+✔
+✔
+Zubat
+9-12
+24-27
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Paras
+9-12
+24-27
+✔
+✔
+Pichu
+9-12
+24-27
+✔
+✔
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+10-13
+25-28
+✔
+✔
+Fixed Alpha
+Parasect
+30
+✔
+✔
+In the air
+Zubat
+9-13
+24-28
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-13
+24-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Flying
+Staraptor
+‡
+34-37
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+9-12
+24-27
+✔
+✔
+Mass outbreak
+Pikachu
+‡
+11-13
+26-28
+✔
+✔
+Paras
+‡
+11-13
+26-28
+✔
+✔
+Parasect
+‡
+24-26
+39-41
+✔
+✔
+Space-time distortions
+Haunter
+25-60
+40-75
+✔
+✔
+Gengar
+25-60
+45-80
+✔
+✔
+Onix
+25-55
+35-70
+✔
+✔
+Lickitung
+20-55
+35-70
+✔
+✔
+Eevee
+20-55
+35-70
+✔
+✔
+Steelix
+25-60
+45-80
+✔
+✔
+Sneasel
+Johtonian Form
+20-55
+35-70
+✔
+✔
+Ursaring
+30-65
+45-80
+✔
+✔
+Toxicroak
+37-72
+52-87
+✔
+✔
+Weavile
+25-60
+40-75
+✔
+✔
+Lickilicky
+25-60
+40-75
+✔
+✔
+Leafeon
+25-60
+40-75
+✔
+✔
+Sylveon
+25-60
+45-80
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Tidewater Dam)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+9-16
+24-31
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+‡
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+‡
+14-17
+29-32
+✔
+✔
+✔
+✔
+Bidoof
+11-14
+26-29
+✔
+✔
+Bibarel
+15-18
+30-33
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+10-13
+25-28
+✔
+✔
+Fixed Alpha
+Bibarel
+16
+✔
+✔
+Kricketune
+‡
+30
+✔
+✔
+In the air
+Zubat
+13-16
+28-31
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-13
+24-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Mass outbreak
+Bidoof
+‡
+12-14
+27-29
+✔
+✔
+Bibarel
+‡
+15-17
+30-32
+✔
+✔
+Space-time distortions
+Sneasel
+Johtonian Form
+20-55
+35-70
+✔
+✔
+Weavile
+25-60
+40-75
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, at the dam at the river's edge
+Available Pokémon (The Heartwood)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+13-18
+28-33
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Psyduck
+13-16
+28-31
+✔
+✔
+Scyther
+13-16
+28-31
+✔
+✔
+Wurmple
+3-6
+18-21
+✔
+✔
+Silcoon
+7-9
+22-24
+✔
+✔
+✔
+✔
+Cascoon
+7-9
+22-24
+✔
+✔
+Combee
+‡
+15-18
+30-33
+✔
+✔
+Buneary
+13-18
+28-33
+✔
+✔
+Fixed Alpha
+Lopunny
+‡
+40
+✔
+✔
+In the air
+Beautifly
+13-16
+28-31
+✔
+✔
+✔
+✔
+Dustox
+13-16
+28-31
+✔
+✔
+Shaking trees
+Combee
+13-16
+28-31
+✔
+✔
+Cherubi
+‡
+15-18
+30-33
+✔
+✔
+Cherrim
+‡
+25-28
+40-43
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Mass outbreak
+Golbat
+22-24
+37-39
+✔
+✔
+Psyduck
+15-17
+30-32
+✔
+✔
+Golduck
+33-35
+48-50
+✔
+✔
+Combee
+‡
+18-20
+33-35
+✔
+✔
+Cherubi
+22-24
+37-39
+✔
+✔
+Buneary
+‡
+15-17
+30-32
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Grandtree Arena)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Scyther
+13-16
+28-31
+✔
+✔
+Fixed Alpha
+Scyther
+‡
+42
+✔
+✔
+Shaking trees
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Mass outbreak
+Scyther
+‡
+23-25
+38-40
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, on a broken branch partway up the grandtree
+Available Pokémon (Oreburrow Tunnel)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+13-16
+28-31
+✔
+✔
+Golbat
+‡
+22-25
+37-40
+✔
+✔
+Machop
+13-16
+28-31
+✔
+✔
+Shinx
+‡
+11-14
+26-29
+✔
+✔
+Luxio
+‡
+15-18
+30-33
+✔
+✔
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Happiny
+13-16
+28-31
+✔
+✔
+Fixed Alpha
+Golbat
+‡
+35
+✔
+✔
+Magikarp
+‡
+55
+✔
+✔
+Shaking trees
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Obsidian Falls)
+Space-time distortions do not appear at this location.
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+‡
+13-16
+28-31
+✔
+✔
+Machop
+‡
+13-16
+24-27
+28-31
+39-42
+✔
+✔
+Machoke
+‡
+41-44
+56-59
+✔
+✔
+Geodude
+‡
+13-16
+28-31
+✔
+✔
+Chansey
+‡
+41-44
+56-59
+✔
+✔
+Happiny
+‡
+13-16
+41-44
+28-31
+56-59
+✔
+✔
+Fixed Alpha
+Graveler
+‡
+30
+✔
+✔
+Blissey
+‡
+62
+✔
+✔
+In the air
+Zubat
+‡
+13-16
+28-31
+✔
+✔
+Golbat
+‡
+22-25
+37-40
+✔
+✔
+Starly
+‡
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+‡
+14-17
+29-32
+✔
+✔
+✔
+✔
+Flying
+Gyarados
+24-27
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+11-14
+26-29
+✔
+✔
+Water
+Magikarp
+16-19
+31-34
+✔
+✔
+Mass Outbreak
+Zubat
+‡
+12-14
+27-29
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, on a rocky outcrop atop the waterfall
+Available Pokémon (Sandgem Flats)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Abra
+12-15
+27-30
+✔
+✔
+Kadabra
+16-19
+31-34
+✔
+✔
+Mr. Mime
+15-18
+30-33
+✔
+✔
+Luxio
+15-18
+30-33
+✔
+✔
+Luxray
+30-33
+45-48
+✔
+✔
+Shellos
+West Sea
+15-18
+30-33
+✔
+✔
+Gastrodon
+West Sea
+30-33
+45-48
+✔
+✔
+Drifblim
+28-31
+43-46
+✔
+✔
+Mime Jr.
+15-18
+30-33
+✔
+✔
+Fixed Alpha
+Alakazam
+60
+✔
+✔
+Snorlax
+‡
+45
+✔
+✔
+In the air
+Staravia
+15-18
+30-33
+✔
+✔
+✔
+✔
+Drifblim
+28-31
+43-46
+✔
+✔
+Shaking trees
+Wormadam
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Shaking ore deposits
+Graveler
+25-28
+40-43
+✔
+✔
+Mass outbreak
+Kadabra
+28-30
+43-45
+✔
+✔
+Mr. Mime
+28-30
+43-45
+✔
+✔
+Staravia
+‡
+14-16
+29-31
+✔
+✔
+Luxio
+27-29
+42-44
+✔
+✔
+Mime Jr.
+23-25
+38-40
+✔
+✔
+Space-time distortions
+Haunter
+25-60
+40-75
+✔
+✔
+Gengar
+25-60
+45-80
+✔
+✔
+Onix
+25-55
+35-70
+✔
+✔
+Lickitung
+20-55
+35-70
+✔
+✔
+Eevee
+20-55
+35-70
+✔
+✔
+Steelix
+25-60
+45-80
+✔
+✔
+Sneasel
+Johtonian Form
+20-55
+35-70
+✔
+✔
+Ursaring
+30-65
+45-80
+✔
+✔
+Toxicroak
+37-72
+52-87
+✔
+✔
+Weavile
+25-60
+40-75
+✔
+✔
+Lickilicky
+25-60
+40-75
+✔
+✔
+Leafeon
+25-60
+40-75
+✔
+✔
+Sylveon
+25-60
+45-80
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Crimson Mirelands
+Laventon greets you when you arrive in the
+Crimson Mirelands
+for the first time, as it's teeming with poison-type Pokémon. Rei/Akari heard about your mission to help Ursaluna, and they point you to the
+Solaceon Ruins
+up north. They set off to look for space-time distortions.
+Laventon also suggests that if you ever have any trouble, have
+Zisu
+teach your Pokémon new strong moves. You can also have her use
+Seeds of Mastery
+to
+master
+those moves and enable agile/strong style. You should also use any
+Grit
+items you may have (like
+Grit Dust
+or
+Grit Gravel
+) to increase your Pokémon's
+effort levels
+and
+stats
+. The most important stat is
+Speed
+, due its direct effect on
+action speed
+.
+Make sure your Pokémon are at least level 20 before proceeding.
+All of the areas in the Crimson Mirelands
+New areas to explore (Optional)
+Now that you've arrived in the Crimson Mirelands, there's tons of new Pokémon to catch! With
+Wyrdeer
+, you have access to the entire map! You can reach
+Golden Lowlands
+,
+Gapejaw Bog
+,
+Ursa's Ring
+,
+Sludge Mound
+,
+Scarlet Bog
+,
+Cloudpool Ridge
+,
+Shrouded Ruins
+,
+Diamond Heath
+,
+Diamond Settlement
+,
+Bolderoll Slope
+,
+Cottonsedge Prairie
+,
+Droning Meadow
+,
+Lake Valor
+, and even the
+Holm of Trials
+!
+To reach the Holm of Trials, you'll have to jump across a shallow part of the river near Sludge Mound. There's a few spots it
+looks
+like you can jump, but only one of them is actually thin enough to jump across.
+Available Pokémon
+Available Pokémon (Golden Lowlands)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pikachu
+‡
+17-20
+41-44
+32-35
+56-59
+✔
+✔
+Paras
+17-23
+32-38
+✔
+✔
+Parasect
+24-27
+41-44
+39-42
+56-59
+✔
+✔
+Psyduck
+17-20
+32-35
+✔
+✔
+Gastly
+17-24
+32-39
+✔
+✔
+Haunter
+‡
+41-44
+56-59
+✔
+✔
+Pichu
+‡
+17-20
+41-44
+32-35
+56-59
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+17-20
+32-35
+✔
+✔
+Budew
+17-20
+32-35
+✔
+✔
+✔
+✔
+Fixed Alpha
+Raichu
+‡
+52
+✔
+✔
+In the air
+Carnivine
+‡
+17-20
+32-35
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Wormadam
+‡
+Sandy Cloak
+41-44
+56-59
+✔
+✔
+Pachirisu
+‡
+19-22
+41-44
+34-37
+56-59
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Mass outbreak
+Paras
+20-22
+35-37
+✔
+✔
+Parasect
+24-26
+39-41
+✔
+✔
+Psyduck
+22-24
+37-39
+✔
+✔
+Golduck
+33-35
+48-50
+✔
+✔
+Teddiursa
+‡
+27-29
+42-44
+✔
+✔
+Ursaring
+‡
+30-32
+45-47
+✔
+✔
+Budew
+18-20
+33-35
+✔
+✔
+Carnivine
+20-22
+35-37
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, sitting on one of the stumps at the abandoned campsite
+Available Pokémon (Gapejaw Bog)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Psyduck
+19-22
+34-37
+✔
+✔
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Gastly
+19-24
+34-39
+✔
+✔
+Haunter
+25-28
+40-43
+✔
+✔
+Tangela
+19-24
+34-39
+✔
+✔
+Ralts
+19-22
+34-37
+✔
+✔
+Roselia
+19-24
+34-39
+✔
+✔
+Bidoof
+11-14
+26-29
+✔
+✔
+Bibarel
+19-22
+34-37
+✔
+✔
+Budew
+19-24
+34-39
+✔
+✔
+Hippopotas
+21-23
+✔
+✔
+Croagunk
+19-24
+34-39
+✔
+✔
+Fixed Alpha
+Ursaring
+‡
+55
+✔
+✔
+Pachirisu
+‡
+40
+✔
+✔
+Hippowdon
+Female
+46
+✔
+✔
+Tangrowth
+45
+✔
+✔
+In the air
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+25-28
+40-43
+✔
+✔
+Yanma
+21-24
+36-39
+✔
+✔
+Carnivine
+17-22
+32-37
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Wormadam
+‡
+Sandy Cloak
+41-44
+56-59
+✔
+✔
+Pachirisu
+19-24
+41-44
+34-39
+56-59
+✔
+✔
+Cherubi
+‡
+20-22
+35-37
+✔
+✔
+Cherrim
+‡
+25-28
+40-43
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Water
+Barboach
+19-22
+26-29
+34-37
+41-44
+✔
+✔
+Whiscash
+33-36
+48-51
+✔
+✔
+Mass outbreak
+Tangela
+‡
+21-23
+36-38
+✔
+✔
+Yanma
+22-24
+37-39
+✔
+✔
+Barboach
+‡
+21-23
+36-38
+✔
+✔
+Whiscash
+‡
+38-40
+53-55
+✔
+✔
+Pachirisu
+‡
+24-26
+39-41
+✔
+✔
+Hippopotas
+22-24
+37-39
+✔
+✔
+Croagunk
+21-23
+36-38
+✔
+✔
+Tangrowth
+‡
+32-32
+45-47
+✔
+✔
+Yanmega
+30-32
+45-47
+✔
+✔
+Space-time distortions
+Eevee
+20-55
+35-70
+✔
+✔
+Flareon
+25-60
+40-75
+✔
+✔
+Porygon
+20-55
+35-70
+✔
+✔
+Snorlax
+30-65
+50-85
+✔
+✔
+Cyndaquil
+[note 1]
+52-55
+67-70
+✔
+✔
+Quilava
+[note 2]
+52-55
+67-70
+✔
+✔
+Typhlosion
+[note 3]
+Hisuian Form
+68-71
+88-91
+✔
+✔
+Umbreon
+25-60
+45-80
+✔
+✔
+Heracross
+20-55
+35-70
+✔
+✔
+Porygon2
+25-60
+45-80
+✔
+✔
+Luxio
+20-55
+35-70
+✔
+✔
+Luxray
+30-65
+45-80
+✔
+✔
+Floatzel
+26-61
+41-76
+✔
+✔
+Drifblim
+28-63
+43-78
+✔
+✔
+Lopunny
+25-60
+40-75
+✔
+✔
+Porygon-Z
+30-65
+50-85
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After completing
+Mission
+18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+Available Pokémon (Holm of Trials)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Psyduck
+29-32
+44-47
+✔
+✔
+Golduck
+33-36
+48-51
+✔
+✔
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+33-36
+48-51
+✔
+✔
+Croagunk
+33-36
+48-51
+✔
+✔
+Toxicroak
+37-40
+52-55
+✔
+✔
+Petilil
+33-36
+48-51
+✔
+✔
+Goomy
+30-32
+✔
+✔
+Fixed Alpha
+Torterra
+65
+✔
+✔
+Toxicroak
+47
+✔
+✔
+Sliggoo
+Hisuian Form
+50
+✔
+✔
+In the air
+Carnivine
+33-36
+48-51
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Pachirisu
+33-36
+48-51
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+33-36
+48-51
+✔
+✔
+Mass outbreak
+Toxicroak
+38-40
+53-55
+✔
+✔
+Petilil
+38-40
+53-55
+✔
+✔
+Space-time distortions
+Eevee
+20-55
+35-70
+✔
+✔
+Flareon
+25-60
+40-75
+✔
+✔
+Porygon
+20-55
+35-70
+✔
+✔
+Snorlax
+30-65
+50-85
+✔
+✔
+Cyndaquil
+[note 1]
+52-55
+67-70
+✔
+✔
+Quilava
+[note 2]
+52-55
+67-70
+✔
+✔
+Typhlosion
+[note 3]
+Hisuian Form
+68-71
+88-91
+✔
+✔
+Umbreon
+25-60
+45-80
+✔
+✔
+Heracross
+20-55
+35-70
+✔
+✔
+Porygon2
+25-60
+45-80
+✔
+✔
+Luxio
+20-55
+35-70
+✔
+✔
+Luxray
+30-65
+45-80
+✔
+✔
+Floatzel
+26-61
+41-76
+✔
+✔
+Drifblim
+28-63
+43-78
+✔
+✔
+Lopunny
+25-60
+40-75
+✔
+✔
+Porygon-Z
+30-65
+50-85
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After completing
+Mission
+18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+Available Pokémon (Ursa's Ring)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Paras
+‡
+20-23
+35-38
+✔
+✔
+Parasect
+‡
+27-30
+42-45
+✔
+✔
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+27-30
+42-45
+✔
+✔
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+27-30
+42-45
+✔
+✔
+Teddiursa
+20-22
+26-29
+41-44
+✔
+✔
+Bidoof
+‡
+11-14
+26-29
+✔
+✔
+Bibarel
+‡
+27-30
+42-45
+✔
+✔
+Fixed Alpha
+Ursaring
+41
+✔
+✔
+In the air
+Yanma
+27-30
+42-45
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Pachirisu
+27-30
+42-45
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+27-30
+42-45
+✔
+✔
+Water
+Barboach
+‡
+26-29
+41-44
+✔
+✔
+Whiscash
+‡
+33-36
+48-51
+✔
+✔
+Mass outbreak
+Goomy
+37-39
+52-54
+✔
+✔
+Sliggoo
+Hisuian Form
+40-42
+55-57
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Sludge Mound)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Geodude
+‡
+21-24
+36-39
+✔
+✔
+Graveler
+‡
+25-28
+40-43
+✔
+✔
+Gastly
+‡
+21-24
+36-39
+✔
+✔
+Haunter
+‡
+25-28
+40-43
+✔
+✔
+Hippopotas
+‡
+21-23
+✔
+✔
+Croagunk
+‡
+21-24
+36-39
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+27-30
+42-45
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, in the end of a fallen tree trunk
+Available Pokémon (Scarlet Bog)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Geodude
+‡
+21-24
+36-39
+✔
+✔
+Graveler
+‡
+25-28
+40-43
+✔
+✔
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+25-28
+40-43
+✔
+✔
+Onix
+‡
+21-24
+36-39
+✔
+✔
+Stunky
+21-24
+36-39
+✔
+✔
+Skuntank
+34-37
+49-52
+✔
+✔
+Hippopotas
+21-24
+36-39
+✔
+✔
+Hippowdon
+34-37
+49-52
+✔
+✔
+Croagunk
+21-24
+36-39
+✔
+✔
+Fixed Alpha
+Skuntank
+45
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Pachirisu
+‡
+21-24
+36-39
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+34-37
+49-52
+✔
+✔
+Mass outbreak
+Whiscash
+‡
+38-40
+53-55
+✔
+✔
+Stunky
+‡
+24-26
+39-41
+✔
+✔
+Skuntank
+‡
+38-40
+53-55
+✔
+✔
+Hippowdon
+‡
+38-40
+53-55
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, atop a dead tree in the western portion of the swamp
+Available Pokémon (Cloudpool Ridge)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+17-21
+33-36
+✔
+✔
+Golbat
+25-28
+40-43
+✔
+✔
+Paras
+‡
+20-23
+35-38
+✔
+✔
+Parasect
+‡
+25-28
+40-43
+✔
+✔
+Sudowoodo
+‡
+25-28
+40-43
+✔
+✔
+Murkrow
+23-25
+✔
+✔
+Roselia
+25-28
+40-43
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+25-28
+40-43
+✔
+✔
+Combee
+17-20
+32-25
+✔
+✔
+Bonsly
+‡
+25-28
+40-43
+✔
+✔
+Fixed Alpha
+Roserade
+50
+✔
+✔
+✔
+✔
+Honchkrow
+55
+✔
+✔
+In the air
+Carnivine
+25-28
+40-43
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Mass outbreak
+Sudowoodo
+27-29
+42-44
+✔
+✔
+Murkrow
+‡
+27-29
+42-44
+✔
+✔
+Roselia
+‡
+21-23
+36-38
+✔
+✔
+Kricketot
+7-9
+22-24
+✔
+✔
+Kricketune
+20-22
+35-37
+✔
+✔
+Combee
+17-20
+32-25
+✔
+✔
+Bonsly
+24-26
+39-41
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Shrouded Ruins)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+25-28
+40-43
+✔
+✔
+Lickitung
+25-28
+40-43
+✔
+✔
+Rhyhorn
+25-28
+40-43
+✔
+✔
+Ralts
+16-19
+31-34
+✔
+✔
+Kirlia
+23-28
+38-43
+✔
+✔
+Spiritomb
+[note 1]
+60
+80
+✔
+✔
+Fixed Alpha
+Spiritomb
+[note 2]
+80
+✔
+✔
+Lickilicky
+52
+✔
+✔
+In the air
+Carnivine
+25-28
+40-43
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Mass outbreak
+Gastly
+22-24
+37-39
+✔
+✔
+Haunter
+25-27
+40-42
+✔
+✔
+Lickitung
+27-29
+42-44
+✔
+✔
+Lickilicky
+35-37
+50-52
+✔
+✔
+Unown Research Notes
+Unown
+[note 3]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After completing Request 22: "Eerie Apparitions in the Night"
+↑
+After completing Request 22: "Eerie Apparitions in the Night"
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, on top of a large pile of stacked stones south of the ruins
+Available Pokémon (Diamond Heath)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+18-21
+33-36
+✔
+✔
+Golbat
+23-26
+38-41
+✔
+✔
+Paras
+20-23
+35-38
+✔
+✔
+Parasect
+24-27
+39-42
+✔
+✔
+Rhyhorn
+23-26
+38-41
+✔
+✔
+Fixed Alpha
+Rhyhorn
+45
+✔
+✔
+In the air
+Carnivine
+‡
+23-26
+38-41
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Bonsly
+20-22
+35-37
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Diamond Settlement)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+‡
+18-21
+33-36
+✔
+✔
+Golbat
+‡
+23-26
+38-41
+✔
+✔
+Lickitung
+‡
+23-26
+38-41
+✔
+✔
+Kricketot
+‡
+6-9
+21-24
+✔
+✔
+Kricketune
+‡
+23-26
+38-41
+✔
+✔
+Fixed Alpha
+Onix
+‡
+50
+✔
+✔
+In the air
+Carnivine
+‡
+17-20
+32-35
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Mass outbreak
+Lickitung
+‡
+27-29
+42-44
+✔
+✔
+Kricketot
+‡
+7-9
+22-24
+✔
+✔
+Unown Research Notes
+Unown
+[note 1]
+25
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After visiting
+Solaceon Ruins
+and the Unown Research Notes are added to the
+Pokédex
+, atop the southernmost tent
+Available Pokémon (Bolderoll Slope)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+18-21
+33-36
+✔
+✔
+Golbat
+23-26
+38-41
+✔
+✔
+Geodude
+18-21
+33-36
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Rhyhorn
+23-26
+38-41
+✔
+✔
+Flying
+Togetic
+‡
+22-25
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Mass outbreak
+Geodude
+22-24
+37-39
+✔
+✔
+Graveler
+25-27
+40-42
+✔
+✔
+Rhyhorn
+26-28
+41-43
+✔
+✔
+Rhydon
+42-44
+57-59
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Cottonsedge Prairie)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Golbat
+‡
+25-28
+40-43
+✔
+✔
+Paras
+‡
+20-23
+35-38
+✔
+✔
+Parasect
+‡
+33-36
+48-51
+✔
+✔
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+33-36
+48-51
+✔
+✔
+Tangela
+‡
+25-28
+40-43
+✔
+✔
+Togepi
+33-36
+48-51
+✔
+✔
+Roselia
+‡
+33-36
+48-51
+✔
+✔
+Budew
+‡
+33-36
+48-51
+✔
+✔
+Combee
+‡
+17-20
+32-25
+✔
+✔
+Vespiquen
+‡
+33-36
+48-51
+✔
+✔
+Pachirisu
+33-36
+48-51
+✔
+✔
+Petilil
+33-36
+48-51
+✔
+✔
+Fixed Alpha
+Vespiquen
+‡
+61
+✔
+✔
+Carnivine
+‡
+40
+✔
+✔
+In the air
+Carnivine
+‡
+25-28
+33-36
+40-43
+48-51
+✔
+✔
+Flying
+Togetic
+‡
+32-35
+✔
+✔
+Shaking trees
+Burmy
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Combee
+17-20
+32-25
+✔
+✔
+Vespiquen
+33-36
+48-51
+✔
+✔
+Pachirisu
+33-36
+48-51
+✔
+✔
+Shaking ore deposits
+Geodude
+‡
+21-24
+36-39
+✔
+✔
+Graveler
+‡
+33-36
+48-51
+✔
+✔
+Mass outbreak
+Chansey
+26-28
+41-43
+✔
+✔
+Togepi
+38-40
+53-55
+✔
+✔
+Happiny
+23-25
+38-40
+✔
+✔
+Space-time distortions
+Eevee
+20-55
+35-70
+✔
+✔
+Flareon
+25-60
+40-75
+✔
+✔
+Porygon
+20-55
+35-70
+✔
+✔
+Snorlax
+30-65
+50-85
+✔
+✔
+Cyndaquil
+[note 1]
+52-55
+67-70
+✔
+✔
+Quilava
+[note 2]
+52-55
+67-70
+✔
+✔
+Typhlosion
+[note 3]
+Hisuian Form
+68-71
+88-91
+✔
+✔
+Umbreon
+25-60
+45-80
+✔
+✔
+Heracross
+20-55
+35-70
+✔
+✔
+Porygon2
+25-60
+45-80
+✔
+✔
+Luxio
+20-55
+35-70
+✔
+✔
+Luxray
+30-65
+45-80
+✔
+✔
+Floatzel
+26-61
+41-76
+✔
+✔
+Drifblim
+28-63
+43-78
+✔
+✔
+Lopunny
+25-60
+40-75
+✔
+✔
+Porygon-Z
+30-65
+50-85
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After completing
+Mission
+18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+Available Pokémon (Droning Meadow)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Paras
+20-23
+35-38
+✔
+✔
+Parasect
+33-36
+48-51
+✔
+✔
+Gastly
+21-24
+36-39
+✔
+✔
+Haunter
+33-36
+48-51
+✔
+✔
+Yanma
+22-24
+✔
+✔
+Teddiursa
+‡
+26-29
+41-44
+✔
+✔
+✔
+✔
+Ursaring
+‡
+33-36
+48-51
+✔
+✔
+✔
+✔
+Turtwig
+‡
+14-17
+29-32
+✔
+✔
+Grotle
+‡
+28-31
+43-46
+✔
+✔
+Bidoof
+11-14
+26-29
+✔
+✔
+Bibarel
+33-36
+48-51
+✔
+✔
+Combee
+‡
+17-20
+32-25
+✔
+✔
+Vespiquen
+‡
+33-36
+48-51
+✔
+✔
+Fixed Alpha
+Yanmega
+58
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Combee
+17-20
+32-25
+✔
+✔
+Vespiquen
+33-36
+48-51
+✔
+✔
+Pachirisu
+33-36
+48-51
+✔
+✔
+Shaking ore deposits
+Geodude
+21-24
+36-39
+✔
+✔
+Graveler
+33-36
+48-51
+✔
+✔
+Water
+Barboach
+‡
+26-29
+41-44
+✔
+✔
+Whiscash
+‡
+33-36
+48-51
+✔
+✔
+Mass outbreak
+Turtwig
+‡
+11-13
+26-28
+✔
+✔
+Grotle
+‡
+18-20
+33-35
+✔
+✔
+Space-time distortions
+Eevee
+20-55
+35-70
+✔
+✔
+Flareon
+25-60
+40-75
+✔
+✔
+Porygon
+20-55
+35-70
+✔
+✔
+Snorlax
+30-65
+50-85
+✔
+✔
+Cyndaquil
+[note 1]
+52-55
+67-70
+✔
+✔
+Quilava
+[note 2]
+52-55
+67-70
+✔
+✔
+Typhlosion
+[note 3]
+Hisuian Form
+68-71
+88-91
+✔
+✔
+Umbreon
+25-60
+45-80
+✔
+✔
+Heracross
+20-55
+35-70
+✔
+✔
+Porygon2
+25-60
+45-80
+✔
+✔
+Luxio
+20-55
+35-70
+✔
+✔
+Luxray
+30-65
+45-80
+✔
+✔
+Floatzel
+26-61
+41-76
+✔
+✔
+Drifblim
+28-63
+43-78
+✔
+✔
+Lopunny
+25-60
+40-75
+✔
+✔
+Porygon-Z
+30-65
+50-85
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+↑
+After completing
+Mission
+18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+↑
+After completing Mission 18: "The Counterpart"
+Available Pokémon (Lake Valor)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Golbat
+‡
+25-28
+40-43
+✔
+✔
+Graveler
+‡
+25-28
+40-43
+✔
+✔
+Gastly
+‡
+17-24
+32-39
+✔
+✔
+Haunter
+‡
+33-36
+48-51
+✔
+✔
+Onix
+‡
+25-28
+40-43
+✔
+✔
+Combee
+‡
+17-20
+32-25
+✔
+✔
+Vespiquen
+‡
+33-36
+48-51
+✔
+✔
+Fixed Alpha
+Whiscash
+64
+✔
+✔
+In the air
+Carnivine
+‡
+25-28
+40-43
+✔
+✔
+Shaking trees
+Burmy
+‡
+Sandy Cloak
+16-19
+31-34
+✔
+✔
+Shaking ore deposits
+Graveler
+25-28
+40-43
+✔
+✔
+Water
+Barboach
+26-29
+41-44
+✔
+✔
+Whiscash
+53-56
+68-71
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#;
+Request
+Requestor
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+31
+Setting Up the Bogbound Camp
+Odo
+It seems the Construction Corps could use some help setting up the new Bogbound Camp. Head to the site and see if you can be of help.
+Chase away the three Stunky.
+Go to help set up the Bogbound Camp.
+A new base camp!
+Crimson Mirelands
+:
+Sludge Mound
+Visit the
+Crimson Mirelands
+for the first time
+32
+The Headache-Stricken Psyduck
+Martia
+Martia of the Diamond Clan lives with Psyduck and wants you to find some medicine that might help alleviate the headaches they chronically suffer from.
+Gather information in Jubilife Village about medicine that might ease the headaches of suffering Psyduck.
+Deliver the secret medicine to Martia.
+Max Revive
+×1
+Crimson Mirelands
+:
+Diamond Settlement
+Visit the
+Crimson Mirelands
+for the first time
+Warden of the Pearl Clan's Ursaluna
+Calaba, one of the wardens of the Pearl Clan
+Head to the Solaceon ruins and continue inside. Approach the older woman in a pink hoodie with a
+Bibarel
+. She introduces herself as
+warden
+Calaba
+of the
+Pearl Clan
+. She notices your
+Celestica Flute
+and recognizes you as the one who quelled
+noble
+Kleavor
+'s frenzy. However, she judges you for the way you handled it and the Poké Balls you use, and decides she doesn't need your or the
+Diamond Clan
+'s help. She tells you to leave, and walks off deeper in the cave.
+Volo arrives in the ruins, as he mentioned earlier. He wants you to show him the strength that quelled a frenzied noble, and challenges you to another battle!
+This time, his
+Togepi
+knows
+Draining Kiss
+, a
+Fairy-type
+attack that can also heal based on how much damage is dealt. You can bring a
+Fire
+,
+Poison
+, or
+Steel-type
+Pokémon if you're struggling to deal with this attack.
+He also brought a Gible, a
+Dragon
+/
+Ground-type
+. It's weak to
+Ice
+, Dragon, and
+Fairy-type
+.
+Ginkgo Guild Member
+Volo
+Solaceon Ruins
+Pokémon Legends: Arceus
+Effort level
+1 in its stats
+Type:
+Fairy
+Unknown
+Mega Stone:
+None
+Togepi
+♀
+Lv.
+22
+Draining Kiss
+Fairy
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Ground
+Mega Stone:
+None
+Gible
+♂
+Lv.
+22
+Twister
+Dragon
+Special
+--
+Bulldoze
+Ground
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After defeating Volo, he complements your strength and heals your Pokémon. He asks for your help to retrieve a stolen
+Wall Fragment
+. A group of bandits called the
+Miss Fortunes
+stole a chunk of the wall engravings from Solaceon Ruins. They even stole from the Ginkgo Guild! Calaba's been trying to chase them down, but she's having trouble at her age. Volo suggests that you check out a mysterious campfire near the Mirelands Camp.
+The Miss Fortunes
+The Miss Fortune sisters, (from left to right) Clover, Charm, and Coin
+Head near the Mirelands Camp and instead head east, along the river. Approach the campsite: you hypothesize that someone must have been here, when you hear a voice—3 hostile women, who you can easily presume are the Miss Fortunes. They introduce themselves as
+Charm
+, the eldest,
+Clover
+, the middle sister, and
+Coin
+, the youngest.
+Coin is challenges you to a battle, alongside her partner Pokémon
+Toxicroak
+. Defeat her to take back the Wall Fragment!
+Toxicroak is
+Poison
+/
+Fighting-type
+. It is weak to
+Flying
+,
+Ground
+, and
+Psychic-type
+.
+The Bandit
+Coin
+Golden Lowlands
+Pokémon Legends: Arceus
+Types:
+Poison
+Fighting
+Mega Stone:
+None
+Toxicroak
+♀
+Lv.
+23
+Venoshock
+Poison
+Special
+--
+Rock Smash
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After defeating her, she reveals that she once was a part of the
+Galaxy Team
+, but left. She gives you the Wall Fragment for defeating her. Charm asks you why you were seeking them out, and you answer that it was for Ursaluna or Calaba. Charm explains that not everyone has the luxury to help others, as some people struggle just to survive. She also has a score to settle with the Galaxy Team, reads out the Wall Fragment, threatens you, and leaves.
+Items
+Item
+Location
+Games
+Wall Fragment
+From the
+Miss Fortune sisters
+after defeating
+Coin
+LA
+Return the Wall Fragment
+Calaba playing her Celestica Flute to call Ursaluna
+Head to Solaceon Ruins with the good news: you have secured the Wall Fragment! Approach Volo, who commends you for your effort. Volo explains that even though Calaba is stubborn, it's because she loves the Pearl Clan a lot and not because of any actual hate. Volo wishes you luck on quelling Ursaluna, and heads out.
+Approach Calaba in the back of the cave. She's as stubborn as ever, but you hand her the Wall Fragment. She puts it back into place, and it reads, "All lives touch other lives to create something anew and alive..." Calaba interprets the message to mean that people can help each other to reach greater heights, and she understands what it means now. She asks for your name and for your help to calm down Ursaluna. Because it's not in a full frenzy like Kleavor, he'll return to normal with some medicine.
+Head to Sludge Mound
+Calaba says to meet her on
+Sludge Mound
+when you're ready. Head to Sludge Mound and approach Calaba. After Calaba plays her Celestica Flute, Ursaluna appears! She wishes you luck with taking it on, but she won't allow you to catch it as it's important to the Pearl Clan.
+Ursaluna is
+Normal
+/
+Ground-type
+. It is weak to
+Fighting
+,
+Water
+,
+Grass
+, and
+Ice-type
+. It also is immune to
+Ghost
+and
+Electric-type
+.
+Types:
+Ground
+Normal
+Mega Stone:
+None
+Ursaluna
+♂
+Lv.
+26
+Slash
+Normal
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Play Rough
+Fairy
+Physical
+--
+The player finding items with Ursaluna
+Finding items with Ursaluna
+After taking out the Ursaluna, Calaba feeds it a special medicine of the Pearl Clan, called a "Toxi-Gone", meant to clear poisons. Ursaluna cries out of disgust, but it has now calmed down. Strangely, it's not in a frenzy, and you can tell because it's not glowing like Kleavor.
+Calaba asks you to play your Celestica Flute. Ursaluna learns the sound of your playing and you can now
+ride
+it! It also gives you the
+Earth Plate
+. Calaba explains that it's good at digging, and suggests that you report to commander
+Kamado
+about what happened.
+You can now ride Ursaluna! As always, you can summon a Ride Pokémon by pressing
+Plus
+(+). You can also swap between your Ride Pokémon by pressing
+Left
+or
+Right
+on the D-pad. You can't throw any items or Pokémon out while on a Ride Pokémon, so press
+Plus
+(+) again to quickly dismount.
+Ursaluna acts as an alternative to the
+Dowsing Machine
+, which was used in previous games to look for hidden items. A colored radar will appear in front of Ursaluna, starting off as the color green. If it turns yellow or red, that means it's getting close to an item and it'll run faster. A red "!" icon will appear if you're on top of an item, and you can press
+Y
+to dig it up.
+The mysterious Pokémon stuck to the player's back
+Items
+Item
+Location
+Games
+Earth Plate
+From
+Ursaluna
+for defeating it
+LA
+Old Verse 9
+Past the mound to the east, before the mountainous barrier (
+hidden
+, requires
+Ursaluna
+)
+LA
+The Symbol Pokémon
+Head to a base camp and talk to Professor Laventon. He notices something odd stuck to your back, and it turns out to be a Pokémon in the shape of the letter A: it's an
+Unown
+! Laventon heard Volo mention that the carvings on the walls of Solaceon Ruins resembled writing, and he hypothesizes that the carvings are meant to resemble this Pokémon!
+Laventon adds a new section to your Pokédex called the
+Unown Research Notes
+! Unown will be hidden in certain spots on the map, but they won't move or battle you. Throw empty Poké Balls at these hidden Unown, because you are unable to battle them. The Unown Research Notes also include hints on where you can find them.
+You can refer to
+Unown Locations
+for a detailed walkthrough on the locations of the Unown.
+When you're ready, talk to Professor Laventon again to return to
+Jubilife Village
+.
+← Part 4
+Frenzied Kleavor
+: Jubilife Village, Obsidian Fieldlands, Frenzied Kleavor
+Legends: Arceus
+walkthrough
+Crimson Mirelands, Frenzied Lilligant
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

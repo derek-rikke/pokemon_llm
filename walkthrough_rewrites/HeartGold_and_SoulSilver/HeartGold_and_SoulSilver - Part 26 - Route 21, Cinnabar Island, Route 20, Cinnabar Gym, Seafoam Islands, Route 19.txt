@@ -1,0 +1,49 @@
+Game: HeartGold_and_SoulSilver
+Part: 26
+Keywords: Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Seafoam Islands, Route 19
+
+**Part 26 Walkthrough: Route 21 to Route 19**
+
+**Route 21:**
+- Contains tall grass and leads to Cinnabar Island.
+- Encounter trainers like Swimmer Nikki (Seel, Dewgong) and Fisherman Arnold (Shellder).
+- Collect items: 
+  - Stardust (×3) on hidden sandbars.
+
+**Cinnabar Island:**
+- The island is mostly ruined due to a volcanic eruption.
+- Meet Blue; he requires all Kanto Gym Badges to battle.
+- Blaine has moved to Seafoam Islands.
+
+**Route 20 (West):**
+- Connects to Seafoam Islands.
+- Encounter trainers such as Swimmer Frankie (Azumarill) and Bird Keeper Bert (Wingull).
+- Available Pokémon: Tentacool, Tentacruel (surfing), Magikarp (fishing).
+- Collect hidden items: Stardust (east of Seafoam Islands) and DeepSeaTooth.
+
+**Seafoam Islands:**
+- Home to the relocated Cinnabar Gym (no puzzles).
+- Defeat Gym Trainers to access Blaine.
+- Recommended to use Water and Ground moves against Blaine's Fire-types.
+- Blaine's Pokémon: Magcargo, Magmar, Rapidash (all levels around 54-59).
+- Defeat Blaine to earn the Volcano Badge and TM50 (Overheat).
+
+**Seafoam Islands Cave Levels:**
+- **B1F:** Collect Grip Claw and Ice Heal.
+- **B2F:** Battle trainers and find hidden Pearls.
+- **B3F:** Obtain Max Revive and Ice Beam (TM13).
+- **B4F:** Surf to find Articuno (Lv. 50) and hidden Zinc.
+
+**Route 20 (East):**
+- After Seafoam Islands, continue to Route 19.
+- Encounter trainers like Swimmer Luis (Seadra) and Camper Pedro (Linoone).
+- Collect hidden DeepSeaScale.
+
+**Route 19:**
+- Clear debris and battle Swimmers for cash.
+- Trainers include Swimmer Tucker (Shellder, Cloyster) and Swimmer Debbie (Clamperl).
+- Available Pokémon: Tentacool, Tentacruel (surfing), Magikarp (fishing).
+- Collect items: TM55 (Brine), Big Pearl, and Revive (requires Rock Smash).
+
+**Next Steps:**
+- Prepare for your final battle at Viridian Gym to obtain the last badge.

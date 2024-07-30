@@ -1,0 +1,1785 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_8
+Keywords: Route 17, Route 18, P2 Laboratory, Mistralton Cave, Rumination Field
+
+Walkthrough Text:
+Contents
+1
+Outside Twist Mountain
+2
+Now that you have Surf (optional)
+2.1
+Striaton City
+2.2
+Route 3
+2.3
+Wellspring Cave
+2.4
+Driftveil City
+2.5
+Route 1 (southwest)
+2.6
+Route 17
+2.7
+Route 18
+2.8
+P2 Laboratory
+2.9
+Route 6
+3
+Mistralton Cave
+3.1
+1F
+3.2
+2F
+3.3
+Guidance Chamber
+3.3.1
+Cobalion
+4
+Pinwheel Forest
+4.1
+Rumination Field
+Outside Twist Mountain
+Check the puddle to the right for a hidden
+Ultra Ball
+. Just as you are about to climb the staircase to the mountain's entrance,
+Cheren
+shows up again. Since you each have a
+Jet Badge
+now, he's here for another battle.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Twist Mountain
+Black and White
+Reward:
+$
+3500
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+33
+Assurance
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+33
+Lick
+Ghost
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+33
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Leftovers
+Pignite
+♂
+Lv.
+35
+Heat Crash
+Fire
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+Pokémon Trainer
+Cheren
+Twist Mountain
+Black and White
+Reward:
+$
+3500
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+33
+Assurance
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+33
+Lick
+Ghost
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+33
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Leftovers
+Dewott
+♂
+Lv.
+35
+Fury Cutter
+Bug
+Physical
+--
+Revenge
+Fighting
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Pokémon Trainer
+Cheren
+Twist Mountain
+Black and White
+Reward:
+$
+3500
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+33
+Assurance
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+33
+Lick
+Ghost
+Physical
+--
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+33
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Leftovers
+Servine
+♂
+Lv.
+35
+Mega Drain
+Grass
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Slam
+Normal
+Physical
+--
+When you defeat
+Cheren
+,
+Alder
+jumps down from the cliff. He was watching the battle, and tells Cheren that what he does with the power gained by becoming stronger is important. Alder gives you each a copy of
+HM03
+(
+Surf
+), then leaves to the south. Cheren climbs the staircase and enters Twist Mountain.
+Now that you have the ability to cross bodies of water, you can backtrack to a few locations that were previously unreachable.
+Now that you have Surf (optional)
+Now that you have access to the HM for Surf, you can get some items in places previously visited, and even go to some new ones.
+Striaton City
+Items
+Item
+Location
+Games
+Zinc
+To the right of the Route 3 gateway (requires
+Surf
+)
+(hidden)
+B
+W
+Big Pearl
+Gift from a
+Fisherman
+at the left of the Route 3 gateway (requires
+Surf
+)
+B
+W
+Route 3
+Items
+Item
+Location
+Games
+Full Heal
+North of the bridge (requires
+Surf
+)
+B
+W
+Rare Candy
+Northwest of the bridge (requires
+Surf
+)
+(hidden)
+B
+W
+Max Ether
+North-west of the bridge (requires
+Surf
+)
+B
+W
+Lum Berry
+Gift from Pokémon Breeder Galen (requires
+Surf
+)
+B
+W
+HP Up
+North-west of the bridge (requires
+Surf
+)
+B
+W
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Galen
+ユウリ
+Yūri
+Reward:
+$
+1536
+Simisage
+♂
+Lv.
+32
+No item
+Simisear
+♂
+Lv.
+32
+No item
+Simipour
+♂
+Lv.
+32
+No item
+Wellspring Cave
+Items
+Item
+Location
+Games
+PP Up
+1F, West of Full Heal (requires
+Surf
+)
+(hidden)
+B
+W
+Elixir
+1F, In the west (requires
+Surf
+)
+B
+W
+Escape Rope
+1F, In the south (requires
+Surf
+)
+B
+W
+Max Potion
+B1F, East of entrance
+(hidden)
+B
+W
+TM47
+(
+Low Sweep
+)
+B1F, East from Max Potion (requires
+Surf
+)
+B
+W
+Hyper Potion
+B1F, Northwest of
+Battle Girl
+Xiao
+(hidden)
+B
+W
+Dive Ball
+B1F, South of Hyper Potion
+B
+W
+Mystic Water
+B1F, North of TM47
+B
+W
+Revive
+B1F, South of Mystic Water
+(hidden)
+B
+W
+Max Elixir
+B1F, Northeast end
+(hidden)
+B
+W
+TM52
+(
+Focus Blast
+)
+B1F, Northern end (requires
+Surf
+)
+B
+W
+Trainers
+Trainer
+Pokémon
+Black Belt
+Edward
+トウシ
+Tōshi
+Reward:
+$
+1088
+Scraggy
+♂
+Lv.
+34
+No item
+Throh
+♂
+Lv.
+34
+No item
+Sawk
+♂
+Lv.
+34
+No item
+Battle Girl
+Maggie
+ミスズ
+Misuzu
+Reward:
+$
+1120
+Gurdurr
+♂
+Lv.
+35
+No item
+Sawk
+♂
+Lv.
+35
+No item
+Battle Girl
+Xiao
+シャオ
+Xiao
+Reward:
+$
+1120
+Gurdurr
+♂
+Lv.
+35
+No item
+Throh
+♂
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Driftveil City
+Items
+Item
+Location
+Games
+Water Stone
+Next to the lighthouse off the shore (requires
+Surf
+)
+B
+W
+Route 1 (southwest)
+To reach
+Route 17
+, you need to get back to
+Route 1
+and surf west. Leave an open slot in your party for the treasure hunter's Egg! Pick up the
+Max Ether
+near the western shore, then battle the two
+Pokémon Rangers
+and the
+Fisherman
+. Grab the
+Pearl
+to the southeast, and walk through the gate to reach
+Route 17
+.
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Brenda
+Reward:
+$
+2100
+Swoobat
+♀
+Lv.
+35
+No item
+Simisear
+♂
+Lv.
+35
+No item
+Fisherman
+Sean
+Reward:
+$
+1088
+Frillish
+♂
+Male
+Lv.
+34
+No item
+Frillish
+♀
+Female
+Lv.
+34
+No item
+Pokémon Ranger
+Claude
+Reward:
+$
+2100
+Cinccino
+♀
+Lv.
+35
+No item
+Zebstrika
+♂
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Dark grass
+Herdier
+B
+W
+Dark grass
+32-34
+39%
+Watchog
+B
+W
+Dark grass
+32-35
+36%
+Scraggy
+B
+W
+Dark grass
+33-35
+25%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+2-4
+100%
+Surfing
+Basculin
+B
+W
+Surfing
+5-15
+100%
+Basculin
+B
+W
+Surfing
+5-15
+100%
+Rippling Water
+Basculin
+B
+W
+Rippling water
+5-20
+100%
+Basculin
+B
+W
+Rippling water
+5-20
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+Near the western shore
+B
+W
+Persim Berry
+×2
+From
+Pokémon Ranger
+Brenda after defeating her
+From
+Pokémon Ranger
+Claude after defeating him
+B
+W
+Pearl
+South of
+Pokémon Ranger
+Claude
+B
+W
+Big Mushroom
+Under a tree, near the
+Pearl
+(hidden)
+B
+W
+Route 17
+Route 17
+The swift ocean currents can make travel difficult, so proceed carefully. Surf to the first spot of shallow water, then grab
+TM06
+(
+Toxic
+) from the next. Ride the northernmost of the two westbound currents to fight
+Swimmer
+Wright and pick up a
+DeepSeaTooth
+. Take the southern current west to reach the large island on
+Route 18
+.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Lydon
+Reward:
+$
+1088
+Basculin
+♂
+Blue-Striped Form
+Lv.
+34
+No item
+Basculin
+♂
+Red-Striped Form
+Lv.
+34
+No item
+Swimmer
+Joyce
+Reward:
+$
+560
+Alomomola
+♀
+Lv.
+35
+No item
+Swimmer
+Wright
+Reward:
+$
+512
+Basculin
+♂
+Red-Striped Form
+Lv.
+32
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+32
+No item
+Basculin
+♂
+Red-Striped Form
+Lv.
+32
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+32
+No item
+Swimmer
+Berke
+Reward:
+$
+544
+Frillish
+♂
+Male
+Lv.
+34
+No item
+Simipour
+♂
+Lv.
+34
+No item
+Swimmer
+Caroline
+Reward:
+$
+544
+Ducklett
+♀
+Lv.
+34
+No item
+Frillish
+♀
+Female
+Lv.
+34
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Surfing
+Frillish
+B
+W
+Surfing
+5-15
+100%
+Rippling Water
+Alomomola
+B
+W
+Rippling water
+5-20
+95%
+Jellicent
+B
+W
+Rippling water
+5-20
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM06
+(
+Toxic
+)
+Shallow water northwest of
+Fisherman
+Lydon
+B
+W
+DeepSeaTooth
+Shallow water northeast of
+Swimmer
+♂ Wright
+B
+W
+Heart Scale
+×3
+On a small rock near the
+P2 Laboratory
+(hidden)
+West of Swimmer Berke (hidden)
+West of Swimmer Caroline (hidden)
+B
+W
+Big Pearl
+Southwest of the
+P2 Laboratory
+(hidden)
+B
+W
+Route 18
+Route 18
+Climb the staircase to the top of the cliff and battle
+Hiker
+Jeremiah. Trek through the tall grass to reach the only building on the island; a girl inside will restore your Pokémon's health. Talk to the
+Pokémon Ranger
+here to receive an Egg he found in the
+Relic Castle
+. The man in black is looking for a
+Rare Bone
+; wild
+Crustle
+sometimes hold them, which you can sell to him for
+$
+10,000.
+If you have a Pokémon that knows
+Strength
+, you can cross the bridge to the south and drop the boulder to find a
+Max Elixir
+. Go down the staircase and shove the second boulder east to fight
+Backpacker
+Sam, and pick up a
+Dragon Scale
+. Head to the northwest, then double-back through the tall grass on the island's west side to find
+HM05
+(
+Waterfall
+)! Go north and climb another staircase to fight
+Veteran
+Ray, then continue east across a second bridge and climb down the last staircase.
+Trainers
+Trainer
+Pokémon
+Hiker
+Jeremiah
+Reward:
+$
+1088
+Boldore
+♂
+Lv.
+34
+No item
+Crustle
+♂
+Lv.
+34
+No item
+Backpacker
+Kumiko
+Reward:
+$
+840
+Emolga
+♀
+Lv.
+35
+No item
+Backpacker
+Sam
+Reward:
+$
+840
+Whimsicott
+♂
+Lv.
+35
+No item
+Veteran
+Ray
+Reward:
+$
+2880
+Basculin
+♂
+Blue-Striped Form
+Lv.
+35
+No item
+Simisage
+♂
+Lv.
+35
+No item
+Darmanitan
+♂
+Lv.
+36
+No item
+Battle Girl
+Hillary
+Reward:
+$
+1120
+Scraggy
+♀
+Lv.
+35
+No item
+Gurdurr
+♂
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Scraggy
+B
+W
+Grass
+28-31
+40%
+Dwebble
+B
+W
+Grass
+30-31
+30%
+Watchog
+B
+W
+Grass
+28-30
+20%
+Sawk
+B
+W
+Grass
+29-31
+10%
+Throh
+B
+W
+Grass
+29-31
+10%
+Dark grass
+Scraggy
+B
+W
+Dark grass
+32-35
+40%
+Crustle
+B
+W
+Dark grass
+34-35
+30%
+Watchog
+B
+W
+Dark grass
+32-34
+20%
+Sawk
+B
+W
+Dark grass
+33-35
+10%
+Throh
+B
+W
+Dark grass
+33-35
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+28-31
+95%
+Sawk
+B
+W
+Rustling grass
+33-35
+5%
+Throh
+B
+W
+Rustling grass
+33-35
+5%
+Surfing
+Frillish
+B
+W
+Surfing
+5-15
+100%
+Rippling water
+Alomomola
+B
+W
+Rippling water
+5-20
+85%
+Jellicent
+B
+W
+Rippling water
+5-20
+5%
+Special Pokémon
+Larvesta
+B
+W
+Egg
+1
+From a
+Pokémon Ranger
+in the house
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Elixir
+Across the bridge from the prefab house (requires
+Strength
+)
+B
+W
+Dragon Scale
+Northwest of
+Backpacker
+Sam (requires
+Strength
+)
+B
+W
+Calcium
+On a rock west of
+Backpacker
+Sam (hidden, requires
+Strength
+)
+B
+W
+HM05
+(
+Waterfall
+)
+In the tall grass on the island's southwest edge
+B
+W
+After arriving from the P2 Laboratory
+Heart Scale
+On the secluded southern beach
+B
+W
+TM19
+(
+Telekinesis
+)
+In the tall grass on the island's north side
+B
+W
+Big Pearl
+On the beach, east of
+Battle Girl
+Hillary (hidden)
+B
+W
+Pearl
+On the beach, southeast of
+Battle Girl
+Hillary (hidden)
+B
+W
+P2 Laboratory
+The P2 Laboratory island
+Ride the southernmost of the two eastbound currents to wind up in front of a small island. Grab
+TM24
+(
+Thunderbolt
+) to the south, then check out the
+P2 Laboratory
+. The building is devoid of people, but is cluttered with machines.
+Surf
+southwest between the currents and around two
+Swimmers
+to reach the large island's interior. A
+Heart Scale
+lies on a secluded part of the beach to the south, while
+Battle Girl
+Hillary and
+TM19
+(
+Telekinesis
+) are farther west.
+Trainers
+Trainer
+Pokémon
+Scientist
+Nathan
+Reward:
+$
+1680
+Garbodor
+♂
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Watchog
+B
+W
+Grass
+28-31
+36%
+Herdier
+B
+W
+Grass
+28-31
+36%
+Scraggy
+B
+W
+Grass
+29-31
+14%
+Klink
+B
+W
+Grass
+29-31
+14%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+28-31
+95%
+Stoutland
+B
+W
+Rustling grass
+31
+5%
+Surfing
+Frillish
+B
+W
+Surfing
+5-15
+100%
+Rippling water
+Alomomola
+B
+W
+Rippling water
+5-20
+95%
+Jellicent
+B
+W
+Rippling water
+5-20
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM24
+(
+Thunderbolt
+)
+In the tall grass
+B
+W
+Dubious Disc
+On the floor of the lab
+B
+W
+Route 6
+Items
+Item
+Location
+Games
+TM84
+(
+Poison Jab
+)
+North of the southernmost bridge (requires
+Surf
+)
+B
+W
+Silk Scarf
+East of the Season Research Lab, south of the entrance to
+Mistralton Cave
+(requires
+Surf
+)
+B
+W
+TinyMushroom
+×2
+Directly behind the north gate of the Season Research Lab (requires
+Surf
+)
+(hidden,
+regrows occasionally
+)
+Near Mistralton Cave entrance (requires
+Surf
+)
+(hidden,
+regrows occasionally
+)
+B
+W
+Big Mushroom
+Directly behind the north gate of the Season Research Lab (requires
+Surf
+)
+(hidden)
+B
+W
+Mistralton Cave
+Mistralton Cave 1F
+The next place to visit is
+Mistralton Cave
+, situated across the river on
+Route 6
+. Somewhere in its depths, the legendary
+Cobalion
+lives in hiding. Legends claim that Cobalion saved the Pokémon of
+Unova
+from a sea of fire in the distant past. Remember to bring a Pokémon with
+Strength
+;
+Flash
+is also good to have.
+Trainers
+Trainer
+Pokémon
+Hiker
+Hugh
+Reward:
+$
+1056
+Drilbur
+♂
+Lv.
+33
+No item
+Gurdurr
+♂
+Lv.
+33
+No item
+Hiker
+Clarke
+Reward:
+$
+1088
+Boldore
+♂
+Lv.
+34
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F, 2F, Guidance Chamber
+Boldore
+B
+W
+Cave
+28-31
+50%
+Woobat
+B
+W
+Cave
+28-30
+30%
+Axew
+B
+W
+Cave
+30-31
+20%
+Dust clouds
+Drilbur
+B
+W
+Dust cloud
+28-31
+100%
+Guidance Chamber
+Cobalion
+B
+W
+Cave
+42
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Elixir
+On a small rock near the first boulder (hidden)
+B
+W
+Hyper Potion
+×2
+On a small rock north of
+Hiker
+Clarke (hidden)
+Northeast of the entrance
+B
+W
+Max Repel
+East of
+Hiker
+Clarke
+B
+W
+2F
+Ultra Ball
+On a small rock southwest of the first boulder (hidden)
+B
+W
+Hyper Potion
+On a small rock east of the first boulder (hidden)
+B
+W
+Hard Stone
+Near the southern wall
+B
+W
+TM80
+(
+Rock Slide
+)
+In the northwest corner
+B
+W
+Iron
+In an alcove in the center of the floor
+B
+W
+PP Up
+In an alcove west of the
+Iron
+(hidden)
+B
+W
+Guidance Chamber
+Revive
+In the southwest
+B
+W
+Ultra Ball
+On a rock southeast of the
+Dusk Stone
+(hidden)
+B
+W
+Dusk Stone
+In the northeast
+B
+W
+Rare Candy
+Northwest of the old man
+B
+W
+Carbos
+On the rock behind the
+Rare Candy
+(hidden)
+B
+W
+1F
+Go south and push the boulder to the hole in the floor. Walk east past
+Hiker
+Hugh and move the second boulder to the next hole. Head north along the east wall to fight
+Hiker
+Clarke, and pick up the
+Max Repel
+. Grab the
+Hyper Potion
+to the northwest, and move the third boulder into place to create a shortcut. Climb the stairway to the second floor.
+2F
+Mistralton Cave 2F
+Head south to move the next boulder. Walk across the rock ledge, and double-back along the southern wall to find a
+Hard Stone
+. Go north, then west to push two more boulders into place. Head to the northeast, then follow the north wall to the west along the upper level for
+TM80
+(
+Rock Slide
+). Go west along the lower level to reach an
+Iron
+, then jump south over the ledge, and climb up to the third floor.
+Guidance Chamber
+Guidance Chamber
+Head west from the stairway to find a
+Revive
+. Backtrack to the east and follow the wall north to get a
+Dusk Stone
+. Talk to the old man to hear a story of the three legendary Pokémon,
+Cobalion
+,
+Terrakion
+, and
+Virizion
+.
+The old man's story
+In the distant past, when Pokémon and people lived in different worlds, a war between people started an intense fire in a forest where many Pokémon lived. The Pokémon were surrounded by smoke and flames. They were in big trouble. And then, the legends
+Cobalion
+,
+Terrakion
+, and
+Virizion
+appeared! Terrakion used its amazing strength to destroy rocks blocking the escape route. Virizion used its quick movements to protect Pokémon from looming flames. And Cobalion led the frightened Pokémon out of the burning woods. ... The people who started the war were routed by the power of the legends. Because of Cobalion, Terrakion, and Virizion, the war was ended. ... When people fight, there's no peace for Pokémon, either. The three legends learned that the deeds of humans could lead to dire consequences for their world. ... They cut themselves off from people and disappeared. No one saw much of them after that, and the three faded into myth...
+Pick up a
+Rare Candy
+to the northwest, then go south and drop the final two boulders into position. Head northwest to find
+Cobalion
+.
+Cobalion
+Cobalion
+'s
+Ability
+,
+Justified
+, gives it an
+Attack
+boost whenever it is hit by a
+Dark-type
+attack. When this happens, its
+Sacred Sword
+attack becomes very powerful, so be careful. Lower its health with
+Normal
+-,
+Grass
+-, and
+Ice-type
+moves before attempting to capture it. If you need to use TM's, it would be recommended to teach a Pokémon
+Reflect
+since it can reduce the damage from Cobalion's attacks by half.
+Types:
+Steel
+Fighting
+Ability:
+Justified
+Held item:
+None
+Cobalion
+Lv.
+42
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Sacred Sword
+Fighting
+Physical
+--
+The old man approaches you after the battle, and says that because
+Cobalion
+is starting to trust you,
+Terrakion
+and
+Virizion
+will give you a chance to battle them, as well. Terrakion is hidden deep in
+Victory Road
+, out of reach for now. Virizion, however, is waiting in Rumination Field, on the eastern side of
+Pinwheel Forest
+.
+Pinwheel Forest
+Regardless of the way you entered, look for a hole in the fence northeast of the bridges. Trek east through the dark grass and go to the far southeast edge of the forest to find
+TM22
+(
+SolarBeam
+). Go west to reach the small pond, and check for a
+Rare Candy
+on the southeast side.
+Surf
+west across the water to grab the
+SilverPowder
+from the ledge, then sail back across the pond and head northeast. Walk through the fallen log and pick up the
+Hyper Potion
+from the tree stump. Rumination Field lies to the north.
+Items
+Item
+Location
+Games
+TM22
+(
+SolarBeam
+)
+In the far southeast part of the forest
+B
+W
+Rare Candy
+On the pond's southeast shore (hidden)
+B
+W
+SilverPowder
+West of the pond (requires
+Surf
+)
+B
+W
+Hyper Potion
+South of Rumination Field
+B
+W
+Rumination Field
+Rumination Field is a tiny, isolated part of the forest, with no other point of interest but
+Virizion
+itself. Like
+Cobalion
+, its
+Justified
+Ability
+boosts its
+Attack
+when it takes damage from a
+Dark-type
+move. Weaken it with super-effective moves (excluding
+Flying-type
+moves due to Virizion suffering a 4× weakness due to its type combo), then whittle its health down with
+Water
+-,
+Grass
+-, or
+Ground-type
+attacks.
+Types:
+Grass
+Fighting
+Ability:
+Justified
+Held item:
+None
+Virizion
+Lv.
+42
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Sacred Sword
+Fighting
+Physical
+--
+Now
+fly
+back to
+Mistralton City
+, and trek through
+Route 7
+to reach
+Twist Mountain
+.
+← Part 7
+Route 6, Chargestone Cave, Mistralton City, Route 7, Mistralton Gym
+Black and White
+walkthrough
+Twist Mountain, Icirrus City, Icirrus Gym, Dragonspiral Tower
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

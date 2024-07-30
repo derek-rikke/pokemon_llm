@@ -1,0 +1,463 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_1
+Keywords: Introduction, Aspertia City, Route 19, Floccesy Town
+
+Walkthrough Text:
+Contents
+1
+Intro
+2
+Aspertia City
+2.1
+Home
+2.2
+Aspertia Outlook
+2.3
+Pokémon Center
+3
+Route 19
+4
+Floccesy Town
+Intro
+After selecting
+New Game
+you are asked to choose your character's gender. This cannot be changed after selecting. The resident researcher of the
+Unova
+region,
+Professor Juniper
+, appears and introduces new Trainers to the Pokémon world. Her lecture is important for new players, though it's nothing new to veterans of the series. She also introduces the player's rival,
+Hugh
+. Once she is done talking, you are asked to enter your character's and your rival's names. The name cannot be changed, so double-check that you have what you want. Press
+OK
+and you are ready for your adventure!
+Aspertia City
+Aspertia City
+Your journey begins in
+Aspertia City
+, on the western edge of
+Unova
+. The Aspertia Outlook on the north side of the city offers a fantastic view of the region, spreading out to the north. The
+Aspertia Gym
+is located in the backyard of the Trainers' School, but the school is closed at the moment, so your challenge will have to wait.
+Items
+Item
+Location
+Games
+Xtransceiver
+In the bag at the start of the game
+B2
+W2
+Pal Pad
+In the bag at the start of the game
+B2
+W2
+Pokédex
+From Bianca at Aspertia Outlook
+B2
+W2
+Poké Ball
+×10
+From Bianca inside the Pokémon Center
+B2
+W2
+Running Shoes
+From Mom outside the Pokémon Center
+B2
+W2
+Town Map
+From Hugh's sister outside the Pokémon Center
+B2
+W2
+Potion
+From the attendant in the gate
+B2
+W2
+Requires
+Surf
+TM53
+(
+Energy Ball
+)
+Beyond the water outside the player's house
+B2
+W2
+After becoming Champion
+Max Revive
+×2
+From Mom
+B2
+W2
+Home
+Mom starts talking to you as you try to leave home. She asks if you want a Pokémon and a
+Pokédex
+, so choose the obvious answer to show your determination to go on an adventure. She tells you that
+Professor Juniper
+'s assistant,
+Bianca
+, is outside looking for you. The girl with the big green hat is not from around here, and may have gotten lost.
+Outside, you meet your rival,
+Hugh
+. He already has a Pokémon, one he raised from an Egg, but wants someone to be his travelling partner. He offers to help you track down
+Bianca
+.
+Aspertia Outlook
+As you climb the stairway to the platform, Hugh is sure that Bianca is up there. Sure enough, she is here enjoying the view. She asks if you will help complete the
+Pokédex
+, so accept the task. Talk to her again and she shows you a container with three
+Poké Balls
+inside, giving you a chance to choose your new partner Pokémon.
+Snivy
+Tepig
+Oshawott
+Grass
+Fire
+Water
+Servine
+Pignite
+Dewott
+Grass
+Fire
+Fighting
+Water
+Serperior
+Emboar
+Samurott
+Grass
+Fire
+Fighting
+Water
+The
+Grass-type
+Snivy
+has the most weaknesses of the trio, with five:
+Fire
+-,
+Bug
+-,
+Poison
+-,
+Flying
+-, and
+Ice-type
+attacks. However, it and its evolutions make up for this with their
+superior
+defenses
+. Its Grass attacks are strong against
+Rock
+-,
+Ground
+-, and
+Water-type
+Pokémon.
+The
+Fire-type
+Tepig
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+-,
+Ground
+-, and
+Rock-type
+attacks. Tepig is unique amongst the Unova first partner Pokémon due to it gaining a secondary type as it grows, while Snivy and Oshawott do not. The
+Fighting-type
+adds two weaknesses,
+Flying
+and
+Psychic
+, but eliminates the Rock-type weakness. With their ability to learn Fighting moves (albeit
+only
+two
+naturally) as well as Fire attacks, Tepig's evolutions have the most type advantages of the first partner evolutions, with the added edge against
+Normal
+-,
+Rock
+-, and
+Dark-type
+Pokémon.
+The
+Water-type
+Oshawott
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+- and
+Electric-type
+attacks. With only these two disadvantages even in its final form, Oshawott is arguably the safest choice of the three first partners.
+After choosing a Pokémon, Bianca asks if you would like to give it a nickname. After that, she hands over your very own
+Pokédex
+! When you try to leave, Hugh walks up and asks Bianca for his own Pokédex; luckily for him, she has an extra one. Then he challenges you to a battle.
+If the
+player
+chose
+Snivy
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Aspertia City
+Black 2 and White 2
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Tepig
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Tepig
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Aspertia City
+Black 2 and White 2
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Oshawott
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Oshawott
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Aspertia City
+Black 2 and White 2
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Snivy
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+There is very little strategy to this battle. Regardless of which two Pokémon battle, they each have a similar moveset, so neither has an advantage. The fight will be over in three turns, barring a critical hit. If you win, you earn
+$
+500 and your Pokémon gains enough
+experience
+to reach level 6. If you lose, it's not the end of the world at all and nothing bad happens, other than you missing out on the money. Don't feel bad if you do lose, though.
+Pokémon Center
+Hugh
+leaves, and
+Bianca
+leads you off for a tour of the local
+Pokémon Center
+. These hospitals restore your Pokémon to full health and eliminate any status ailments that may afflict them. She gives you a brief description of the
+PC
+, which has not changed much. Finally, she leads you to the
+Poké Mart
+counter, where you can buy and sell items. Before she leaves, she gives you ten
+Poké Balls
+to start you on your journey. Nice!
+When you step outside, your Mom and Hugh's sister will show up. Mom gives you a pair of
+Running Shoes
+, which let you run by holding down the B Button. Hugh's sister gives you a
+Town Map
+, a map of the
+Unova
+region. She also gives you an extra map to take to her brother, who has already ventured out to
+Route 19
+. Next, Bianca tells you that she will demonstrate how to catch a Pokémon, so follow her north through the gate. The attendant inside gives you a free
+Potion
+on your way through.
+Route 19
+Route 19
+Route 19
+is a short road that connects
+Aspertia City
+and
+Floccesy Town
+. It is located at the base of a mountain, so the north side of the route is lined with cliffs.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Patrat
+B2
+W2
+Grass
+2-4
+50%
+Purrloin
+B2
+W2
+Grass
+2-4
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+In the eastern patch of grass
+B2
+W2
+After getting the
+Medal Box
+Oran Berry
+×5
+From Alder on your second meeting
+B2
+W2
+Requires
+Surf
+Water Stone
+Northwest of the pond
+B2
+W2
+Nest Ball
+Northeastern part
+B2
+W2
+Expert Belt
+Where Alder was standing (hidden)
+B2
+W2
+Bianca
+is waiting just outside the gate. She demonstrates how to catch wild Pokémon by catching a wild
+Purrloin
+in the tall grass, and explains a bit more about registering the data in the Pokédex. Once she leaves, follow the path eastward where a man named
+Alder
+calls down to you from atop the cliff. This powerful Trainer offers to help train your Pokémon a little before jumping down and leading you to his home in
+Floccesy Town
+.
+Floccesy Town
+Floccesy Town
+In the center of
+Floccesy Town
+is a clock tower for which the town is famous. To the north is
+Pledge Grove
+, a tiny forest that is said to have a connection to
+a mythical Pokémon
+. When you meet
+Alder
+on the north side of town, he asks why you have two
+Town Maps
+, and after hearing your explanation, tells you that
+Hugh
+has been seen on
+Route 20
+.
+Items
+Item
+Location
+Games
+Potion
+×2
+From an old man in a house east of the Pokémon Center
+Dead-end path accessible via Route 20
+Autumn
+(hidden)
+B2
+W2
+Black 2 and White 2
+walkthrough
+Route 20, Floccesy Ranch, Pledge Grove, Aspertia Gym
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

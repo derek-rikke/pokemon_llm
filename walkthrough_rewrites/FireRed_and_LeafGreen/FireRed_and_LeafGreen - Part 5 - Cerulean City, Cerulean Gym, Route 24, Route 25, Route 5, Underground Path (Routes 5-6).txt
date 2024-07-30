@@ -1,0 +1,51 @@
+Game: FireRed_and_LeafGreen
+Part: 5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+### Pokémon FireRed and LeafGreen Walkthrough - Part 5
+
+#### Cerulean City
+- **Trade**: Next to the Pokémon Center, an old man trades Jynx for Poliwhirl (found using a high-level fishing rod).
+- **Items**:
+  - Rare Candy: Northwest house (hidden)
+  - Powder Jar: From an old man in the north-northwest house
+  - TM03 (Water Pulse): Defeat Misty in the Gym
+  - Fame Checker: After defeating Blue
+  - TM28 (Dig): Defeat Team Rocket Grunt after the break-in.
+  
+- **Cerulean Gym**:
+  - **Leader**: Misty (Water-type)
+  - **Strategy**: Use Electric-type attacks (Pikachu's ThunderShock) or Grass-type moves (Vine Whip) against Starmie.
+  - **Rewards**: Cascade Badge (ensures obedience up to level 30, allows Cut) and TM03 (Water Pulse).
+
+#### Rival Battle 3
+- **Location**: Route 24
+- **Strategy**:
+  - Pidgeotto: Use Electric/Rock-type moves.
+  - Abra: Easy target (only has Teleport).
+  - Rattata: Beware of Quick Attack and Hyper Fang.
+  
+#### Route 24
+- **Nugget Bridge**: Battle five trainers. After defeating them, receive a Nugget from a Team Rocket Grunt who then challenges you.
+
+#### Route 25
+- **Sea Cottage**: 
+  - Help Bill with his experiment to receive the S.S. Ticket, which grants access to the S.S. Anne in Vermilion City.
+  - Items: Elixir (northwest of the maze), TM43 (Secret Power), Ether (near Sea Cottage entrance).
+
+#### Cerulean City (Post-Route 25)
+- **Team Rocket Grunt**: Inside the burgled house. Defeat him to recover TM28 (Dig).
+
+#### Route 5
+- **Pokémon Day Care**: Raise one Pokémon at a time for experience.
+- **Underground Path**: Connects to Route 6.
+- **Items**: Various hidden items, including Antidote and Parlyz Heal.
+
+### Key Pokémon and Locations
+- **Route 24**: Oddish, Bellsprout, Caterpie, Weedle
+- **Route 25**: Oddish, Bellsprout, Abra
+- **Route 5**: Pidgey, Meowth, Oddish, Bellsprout
+
+### Notes
+- Ensure to defeat all trainers for experience and rewards.
+- Utilize type advantages in battles for efficient wins.

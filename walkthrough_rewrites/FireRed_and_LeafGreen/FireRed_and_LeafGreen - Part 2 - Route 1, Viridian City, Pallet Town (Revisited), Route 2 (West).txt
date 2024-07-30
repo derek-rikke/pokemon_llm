@@ -1,0 +1,37 @@
+Game: FireRed_and_LeafGreen
+Part: 2
+Keywords: Route 1, Viridian City, Pallet Town (Revisited), Route 2 (West)
+
+**Pokémon FireRed and LeafGreen Walkthrough - Part 2**
+
+**Route 1:**
+- Travel north from Pallet Town to Viridian City.
+- Battle wild Pokémon (Pidgey and Rattata, levels 2-5) for XP.
+- **Item**: Talk to the man near the signpost for a Potion (free sample).
+
+**Viridian City:**
+- **Pokémon Center**: Heal your Pokémon and save your game.
+- **Poké Mart**: Stock up on items (Poké Balls, Potions, etc.). 
+  - **Special Delivery**: Receive Oak's Parcel from the shopkeeper.
+- **Pokémon Academy**: Learn about status ailments.
+- **Deliver Oak's Parcel** to Professor Oak in Pallet Town.
+
+**Pallet Town:**
+- **Oak's Lab**: After delivering the parcel, receive the Pokédex and 5 Poké Balls.
+- **Blue’s House**: Speak to Daisy for a Town Map.
+
+**Return to Viridian City:**
+- After delivering the parcel, you can now shop at the Poké Mart.
+- Talk to the old man for a tutorial on catching Pokémon and receive Teachy TV.
+- Proceed to Route 2 or Route 22.
+
+**Route 22:**
+- Encounter new Pokémon (Rattata, Mankey, Spearow).
+- **Rival Battle 2**: Face Blue (level 9 Pidgey). 
+  - Strategy: Use strong attacks to win. Be cautious if you chose Bulbasaur due to Pidgey's Gust attack. 
+
+**Route 2 (West):**
+- Travel north to Pewter City.
+- Enter Viridian Forest, the next area with new Pokémon (Pidgey, Rattata, Caterpie, Weedle, levels 2-5).
+
+Continue your journey by exploring the forest and capturing new Pokémon!

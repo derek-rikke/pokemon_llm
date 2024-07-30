@@ -1,0 +1,30 @@
+Game: Ruby_and_Sapphire
+Part: 8
+Keywords: Route 112 (South, Revisited), Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym
+
+**Pokémon Ruby and Sapphire Walkthrough: Part 8**
+
+**Route 112 (South) to Mt. Chimney and Lavaridge Town**
+
+1. **Route 112 (South)**: Team Magma/Aqua has taken Professor Cozmo's Meteorite to Mt. Chimney. Take the Cable Car from the station to reach the summit.
+
+2. **Mt. Chimney**:
+   - **Avoid Grunts**: Navigate past battling Grunts and head north to the crater.
+   - **Battle Tabitha/Matt**: Stop to battle the respective Admin (Tabitha for Ruby, Matt for Sapphire) for $800.
+   - **Boss Battle**: Defeat Maxie (Ruby) or Archie (Sapphire) for $2000 and obtain the Meteorite.
+
+3. **Jagged Pass**: 
+   - Use the Acro Bike to scale the terrain. Jump ledges and find hidden items like Full Heal, Burn Heal, and a Great Ball.
+   - Trainers include Hiker Eric and Camper Ethan, offering various rewards.
+
+4. **Lavaridge Town**:
+   - **Pokémon Center & Hot Springs**: Access the hot springs for healing and find a hidden Ice Heal.
+   - **Herb Shop**: Purchase herbal medicines. Talk to the old man for Charcoal.
+   - **Lavaridge Gym**: 
+     - Leader: Flannery (Fire-type). Recommended Pokémon: Water, Ground, Rock types.
+     - Navigate the gym using geysers and defeat trainers (Kindler Cole, Cooltrainer Zane, etc.).
+     - **Flannery Battle**: Use Water/Ground Pokémon against her Fire-types. Defeat her to earn the Heat Badge and TM50 (Overheat).
+
+5. **Post-Gym**: After defeating Flannery, receive Go-Goggles from May/Brendan to explore Route 111's desert.
+
+This concludes Part 8 of the walkthrough.

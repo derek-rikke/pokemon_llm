@@ -1,0 +1,1299 @@
+Part: Part 26
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_26
+Keywords: The Pokémon League
+
+Walkthrough Text:
+Contents
+1
+The Pokémon League
+1.1
+Main Chamber
+1.2
+Fighting Chamber
+1.3
+Rock Chamber
+1.4
+Ghost Chamber
+1.5
+Flying Chamber
+1.6
+Champion's Chamber
+1.6.1
+VS Kukui
+1.6.1.1
+Player chose Rowlet:
+1.6.1.2
+Player chose Litten:
+1.6.1.3
+Player chose Popplio:
+The Pokémon League
+Pokémon League, Main Chamber
+The
+Pokémon League
+is
+Alola
+'s final, toughest trial. The most powerful Trainer in the region is about to be decided!
+Main Chamber
+The main chamber is shaped like a half-circle with four walkways, each leading to a separate chamber. Approach the central platform and
+Kukui
+explains the challenge. Every Pokémon League in every region includes four powerful Trainers called the Elite Four, and now Alola has its own, as well. Challengers must defeat each of the four to advance, and cannot leave unless they are defeated or give up. These elite Trainers may be challenged in any order.
+Fighting Chamber
+Hala's Chamber
+The left-most path leads to kahuna
+Hala
+, the
+Fighting-type
+specialist. Two fists made of light appear from the pedestal behind him and a barrier seals the arena.
+Flying
+-,
+Psychic
+-, and
+Fairy-type
+attacks are best, but avoid using Psychic Pokémon as they tend to have lower physical
+Defense
+and most of Hala's Pokémon can strike back with
+Dark-type
+moves. His
+Crabominable
+holds a
+Fightinium Z
+, allowing it to upgrade its
+Close Combat
+move into
+All-Out Pummeling
+.
+Elite Four
+Hala
+Pokémon League
+Sun and Moon
+Reward:
+$
+11,000
+Type:
+Fighting
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Hariyama
+♂
+Lv.
+54
+Fake Out
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Knock Off
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Anger Point
+Held item:
+None
+Primeape
+♂
+Lv.
+54
+Cross Chop
+Fighting
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Types:
+Normal
+Fighting
+Ability:
+Fluffy
+Held item:
+None
+Bewear
+♂
+Lv.
+54
+Hammer Arm
+Fighting
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Fighting
+Ability:
+Water Absorb
+Held item:
+None
+Poliwrath
+♂
+Lv.
+54
+Waterfall
+Water
+Physical
+--
+Submission
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fighting
+Ice
+Ability:
+Iron Fist
+Held item:
+Fightinium Z
+Crabominable
+♂
+Lv.
+55
+Ice Hammer
+Ice
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+When the battle ends, the platform behind Hala glows in a rainbow-colored light. Stepping on this platform warps you back to the main chamber, just outside his door. The pathway outside lights up, leading to similar platform near the main entrance.
+Rock Chamber
+Olivia's Chamber
+The center-left path leads to kahuna
+Olivia
+, the
+Rock-type
+specialist. Two cliff-like structures made of light emerge from the pedestal behind her and a barrier seals the arena.
+Ground
+attacks will deal serious damage to each of her Pokémon, though
+Grass
+,
+Fighting
+, and
+Steel
+moves are also effective. Olivia can fortify her team with
+Carbink
+'s
+Reflect
+, which increases her active Pokémon's
+Defense
+for five turns, and
+Probopass
+'
+Sandstorm
+, which boosts the
+Special Defense
+of all Rock Pokémon by 50% for its duration. Her
+Lycanroc
+holds a
+Rockium Z
+, allowing it to upgrade its
+Stone Edge
+move into
+Continental Crush
+.
+Elite Four
+Olivia
+Pokémon League
+Sun and Moon
+Reward:
+$
+11,000
+Types:
+Water
+Rock
+Ability:
+Swift Swim
+Held item:
+None
+Relicanth
+♂
+Lv.
+54
+Hydro Pump
+Water
+Special
+--
+Ancient Power
+Rock
+Special
+--
+Yawn
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Fairy
+Ability:
+Clear Body
+Held item:
+None
+Carbink
+Lv.
+54
+Power Gem
+Rock
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Reflect
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Electric
+Ability:
+Sturdy
+Held item:
+None
+Golem
+♀
+Lv.
+54
+Thunder Punch
+Electric
+Physical
+--
+Rock Blast
+Rock
+Physical
+--
+Steamroller
+Bug
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Probopass
+♀
+Lv.
+54
+Earth Power
+Ground
+Special
+--
+Power Gem
+Rock
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Sandstorm
+Rock
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Keen Eye
+Held item:
+Rockium Z
+Lycanroc
+♂
+Lv.
+55
+Crunch
+Dark
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Counter
+Fighting
+Physical
+--
+Rock Climb
+Normal
+Physical
+--
+When the battle ends, the platform behind Olivia glows in a rainbow-colored light. Stepping on this platform warps you back to the main chamber, just outside her door. The pathway outside lights up, leading to similar platform near the main entrance.
+Ghost Chamber
+Acerola's Chamber
+The center-right path leads to captain
+Acerola
+, the
+Ghost-type
+specialist. Two ghastly, purple flames emerge from the pedestal behind her and a barrier seals the arena. It turns out that Acerola is here in place of
+Nanu
+, who refused the invitation for the position.
+Dark-type
+attacks are best for most of her Pokémon, but
+Fire
+and
+Ice
+moves are also useful. Her
+Sableye
+'s rare
+Dark
+/
+Ghost
+typing means that it only sustains serious damage from
+Fairy
+moves. Her
+Palossand
+holds a
+Ghostium Z
+, allowing it to upgrade its
+Shadow Ball
+move into
+Never-Ending Nightmare
+.
+Elite Four
+Acerola
+Pokémon League
+Sun and Moon
+Reward:
+$
+11,000
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+54
+Shadow Claw
+Ghost
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+54
+Ominous Wind
+Ghost
+Special
+--
+Focus Energy
+Normal
+Status
+--
+Amnesia
+Psychic
+Status
+--
+Baton Pass
+Normal
+Status
+--
+Types:
+Ghost
+Grass
+Ability:
+Steelworker
+Held item:
+None
+Dhelmise
+Lv.
+54
+Slam
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Whirlpool
+Water
+Special
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+None
+Froslass
+♀
+Lv.
+54
+Blizzard
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ghost
+Ground
+Ability:
+Water Compaction
+Held item:
+Ghostium Z
+Palossand
+♀
+Lv.
+55
+Shadow Ball
+Ghost
+Special
+--
+Earth Power
+Ground
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Iron Defense
+Steel
+Status
+--
+When the battle ends, the platform behind Acerola glows in a rainbow-colored light. Stepping on this platform warps you back to the main chamber, just outside her door. The pathway outside lights up, leading to similar platform near the main entrance.
+Flying Chamber
+Kahili's Chamber
+The right-most path leads to
+Kahili
+, a previous
+island challenge
+champion and
+Flying-type
+specialist. Two large, green wings made of light emerge from the pedestal behind her and a barrier seals the arena.
+Electric-type
+attacks are the most effective here, but
+Fire
+moves work well on
+Skarmory
+and
+Rock
+moves deal serious damage to the rest of her team. Her
+Toucannon
+holds a
+Flyinium Z
+, allowing it to upgrade its
+Beak Blast
+move into
+Supersonic Skystrike
+.
+Elite Four
+Kahili
+Pokémon League
+Sun and Moon
+Reward:
+$
+11,000
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♂
+Lv.
+54
+Slash
+Normal
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Feint
+Normal
+Physical
+--
+Spikes
+Ground
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+54
+Air Slash
+Flying
+Special
+--
+Swift
+Normal
+Special
+--
+Supersonic
+Normal
+Status
+--
+Poison Fang
+Poison
+Physical
+--
+Types:
+Fire
+Flying
+Ability:
+Dancer
+Held item:
+None
+Oricorio
+♀
+Lv.
+54
+Revelation Dance
+Fire
+Special
+--
+Teeter Dance
+Normal
+Status
+--
+Air Slash
+Flying
+Special
+--
+Feather Dance
+Flying
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Big Pecks
+Held item:
+None
+Mandibuzz
+♀
+Lv.
+54
+Bone Rush
+Ground
+Physical
+--
+Brave Bird
+Flying
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Flatter
+Dark
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Skill Link
+Held item:
+Flyinium Z
+Toucannon
+♂
+Lv.
+55
+Bullet Seed
+Grass
+Physical
+--
+Rock Blast
+Rock
+Physical
+--
+Beak Blast
+Flying
+Physical
+--
+Screech
+Normal
+Status
+--
+When the battle ends, the platform behind Kahili glows in a rainbow-colored light. Stepping on this platform warps you back to the main chamber, just outside her door. The pathway outside lights up, leading to similar platform near the main entrance.
+Champion's Chamber
+Champion's Chamber
+With all four elite Trainers defeated, the platform in the main chamber begins to glow in a rainbow-colored light. Step on this platform to be transported to the Champion's chamber. Climb the stairway to the battlefield to find... an empty throne? Inspect the chair to take a seat, and
+Kukui
+appears. There is one more person to battle in order to claim the Champion title, and of course it would be the professor! He is here to ensure your worthiness for the role and to celebrate the establishment of
+Alola
+'s new Pokémon League.
+VS Kukui
+The professor has a well-rounded team with several different elemental types.
+Fighting
+moves work well against his
+Lycanroc
+,
+Magnezone
+, and
+Snorlax
+.
+Rock
+moves are useful against his
+Ninetales
+and
+Braviary
+.
+Fire
+-,
+Water
+-, and
+Ground-type
+attacks are also effective against his team. His final Pokémon varies based on the first Pokémon you chose, and holds the Z-Crystal that allows it to attack with
+Inferno Overdrive
+,
+Hydro Vortex
+, or
+Bloom Doom
+.
+Player chose
+Rowlet
+:
+Pokémon Professor
+Kukui
+Pokémon League
+Sun and Moon
+Reward:
+$
+13,920
+Type:
+Rock
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Lycanroc
+♂
+Lv.
+57
+Stone Edge
+Rock
+Physical
+--
+Accelerock
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Types:
+Ice
+Fairy
+Ability:
+Snow Cloak
+Held item:
+None
+Ninetales
+♀
+Lv.
+56
+Dazzling Gleam
+Fairy
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Safeguard
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Braviary
+♂
+Lv.
+56
+Crush Claw
+Normal
+Physical
+--
+Brave Bird
+Flying
+Physical
+--
+Tailwind
+Flying
+Status
+--
+Whirlwind
+Normal
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnezone
+Lv.
+56
+Thunderbolt
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Mirror Coat
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Snorlax
+♂
+Lv.
+56
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+High Horsepower
+Ground
+Physical
+--
+Types:
+Fire
+Dark
+Ability:
+Blaze
+Held item:
+Firium Z
+Incineroar
+♂
+Lv.
+58
+Flare Blitz
+Fire
+Physical
+--
+Darkest Lariat
+Dark
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Cross Chop
+Fighting
+Physical
+--
+Player chose
+Litten
+:
+Pokémon Professor
+Kukui
+Pokémon League
+Sun and Moon
+Reward:
+$
+13,920
+Type:
+Rock
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Lycanroc
+♂
+Lv.
+57
+Stone Edge
+Rock
+Physical
+--
+Accelerock
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Types:
+Ice
+Fairy
+Ability:
+Snow Cloak
+Held item:
+None
+Ninetales
+♀
+Lv.
+56
+Dazzling Gleam
+Fairy
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Safeguard
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Braviary
+♂
+Lv.
+56
+Crush Claw
+Normal
+Physical
+--
+Brave Bird
+Flying
+Physical
+--
+Tailwind
+Flying
+Status
+--
+Whirlwind
+Normal
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnezone
+Lv.
+56
+Thunderbolt
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Mirror Coat
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Snorlax
+♂
+Lv.
+56
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+High Horsepower
+Ground
+Physical
+--
+Types:
+Water
+Fairy
+Ability:
+Torrent
+Held item:
+Waterium Z
+Primarina
+♀
+Lv.
+58
+Sparkling Aria
+Water
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Aqua Jet
+Water
+Physical
+--
+Hyper Voice
+Normal
+Special
+--
+Player chose
+Popplio
+:
+Pokémon Professor
+Kukui
+Pokémon League
+Sun and Moon
+Reward:
+$
+13,920
+Type:
+Rock
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Lycanroc
+♂
+Lv.
+57
+Stone Edge
+Rock
+Physical
+--
+Accelerock
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Types:
+Ice
+Fairy
+Ability:
+Snow Cloak
+Held item:
+None
+Ninetales
+♀
+Lv.
+56
+Dazzling Gleam
+Fairy
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Safeguard
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Braviary
+♂
+Lv.
+56
+Crush Claw
+Normal
+Physical
+--
+Brave Bird
+Flying
+Physical
+--
+Tailwind
+Flying
+Status
+--
+Whirlwind
+Normal
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnezone
+Lv.
+56
+Thunderbolt
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Mirror Coat
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Snorlax
+♂
+Lv.
+56
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+High Horsepower
+Ground
+Physical
+--
+Types:
+Grass
+Ghost
+Ability:
+Overgrow
+Held item:
+Grassium Z
+Decidueye
+♂
+Lv.
+58
+Leaf Blade
+Grass
+Physical
+--
+Spirit Shackle
+Ghost
+Physical
+--
+Brave Bird
+Flying
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+When the dust settles,
+Kukui
+congratulates you on becoming the first-ever
+Champion
+of the
+Alola
+region! The professor takes a moment to record this hard-fought achievement for posterity, and you receive the Island Challenge Champion stamp for your
+Trainer Passport
+. This stamp ensures that all Pokémon will obey your every command. The four elite Trainers enter the chamber to congratulate you as well, and warn that as the new Champion, everyone will be aiming for your title.
+Hala
+suggests a celebration so grand that even the sun and moon take notice, then you and Kukui travel back to
+Iki Town
+.
+← Part 25
+Mount Lanakila
+Sun and Moon
+walkthrough
+Post-Game: Guardians of Alola
+Part 27 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

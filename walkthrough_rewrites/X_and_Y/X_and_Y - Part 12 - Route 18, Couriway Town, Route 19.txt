@@ -1,0 +1,52 @@
+Game: X_and_Y
+Part: 12
+Keywords: Route 18, Couriway Town, Route 19
+
+**Part 12: Route 18, Couriway Town, Route 19**
+
+### Route 18
+- **Overview**: Route 18 connects Anistar City to Couriway Town, featuring an Inverse Battle House and Terminus Cave.
+- **Trainers**: 
+  - **Youngster Jayden**: Scolipede (Lv. 48), Pinsir (Lv. 48) - Reward: $1152
+  - **Battle Girl Justine**: Mienshao (Lv. 52) - Reward: $2496
+  - **Hiker Orestes**: Stunfisk (Lv. 50) - Reward: $2800
+  - **Sky Trainer Jeremy**: Ninjask (Lv. 46), Drifblim (Lv. 47), Flygon (Lv. 50) - Reward: $5000
+  - **Black Belt Yanis**: Sawk (Lv. 49), Pangoro (Lv. 50) - Reward: $2400
+  - **Lass Sara**: Granbull (Lv. 48), Dedenne (Lv. 48) - Reward: $1152
+
+- **Available Pokémon**:
+  - Grass encounters include Torkoal, Gurdurr, and others (levels 44-46).
+  
+- **Items**:
+  - **Poké Ball**: Hidden near Route 18 sign.
+  - **Hyper Potion**: South of the Route 18 sign.
+  - **PP Up**: East of the Berry tree.
+
+- **Inverse Battle House**: Daily battles with Psychic Inver; rewards include Rare Candy and evolution items.
+
+- **Terminus Cave**: Can be explored, but cannot reach the deepest area yet.
+
+### Couriway Town
+- **Meet Sycamore**: He battles you with his team (Lv. 50 Venusaur, Charizard, Blastoise) - Reward: $7000.
+- **Items**:
+  - **TM89 (U-turn)**: Couriway Station from an old woman.
+  - **Revive**: Show a Pokémon with Nuzzle to a Schoolgirl near the Pokémon Center.
+  - **TM55 (Scald)**: Answer the quiz in Couriway Hotel.
+
+### Route 19
+- **Overview**: Connects Couriway Town to Snowbelle City with a long bridge.
+- **Trainers**:
+  - **Shauna**: Challenges you after crossing the bridge with a team including Delcatty and Goodra - Reward: $5100.
+  - **Tierno**: Battles you after Shauna, using Talonflame and Crawdaunt - Reward: $5200.
+  - **Trevor**: Challenges you last, using Raichu and Florges - Reward: $5100.
+
+- **Items**:
+  - **HM05 (Waterfall)**: Given by Shauna after battling.
+
+- **Available Pokémon**: Various encounters in flower patches and fishing, including Quagsire and Poliwhirl.
+
+### Key Progression Notes
+- After battling, continue to Snowbelle City.
+- Collect items and Pokémon along the way for a stronger team.
+
+This walkthrough focuses on essential paths, trainer battles, items, and key interactions to streamline your gaming experience.

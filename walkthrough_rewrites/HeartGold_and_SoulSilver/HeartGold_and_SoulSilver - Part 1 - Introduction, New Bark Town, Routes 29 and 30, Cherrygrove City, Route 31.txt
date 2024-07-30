@@ -1,0 +1,39 @@
+Game: HeartGold_and_SoulSilver
+Part: 1
+Keywords: Introduction, New Bark Town, Routes 29 and 30, Cherrygrove City, Route 31
+
+**Pokémon HeartGold and SoulSilver Walkthrough - Part 1**
+
+**Introduction**
+Begin your adventure in New Bark Town, Johto. Choose your character's gender and name, then start your journey.
+
+**New Bark Town**
+- **Location Overview**: Your house, your friend Lyra/Ethan's house, Elm's Lab (northern building).
+- **Items**:
+  - Potion ×6 (from Elm's aide after choosing your Pokémon).
+  - Pokégear (from Mom after receiving your Pokémon).
+
+**Choosing Your Pokémon**
+At Elm's Lab, select one of the following starter Pokémon:
+- **Chikorita** (Grass) – Good against Water, Rock, and Ground, struggles with Fire, Flying, Bug.
+- **Cyndaquil** (Fire) – Strong against Grass, Bug, Ice, and Steel, weak to Water, Rock, Ground.
+- **Totodile** (Water) – Effective against Fire, Rock, and Ground, weak to Grass and Electric.
+
+After choosing, receive a nickname and five Potions from Elm's aide.
+
+**Route 29**
+- Head west to Cherrygrove City. Avoid or battle wild Pokémon in tall grass.
+- **Available Pokémon**: 
+  - Pidgey (Lv 2-4)
+  - Rattata (Lv 2, 4)
+  - Sentret (Lv 2-3)
+  - Hoothoot (Lv 2-4)
+- **Items**:
+  - Potion (east of the northeastern grass patch).
+  - Poké Balls ×5 (from Lyra/Ethan after a catching tutorial).
+  - Green Apricorn (northwest hill, daily).
+
+**Next Steps**
+After Route 29, proceed to Cherrygrove City and Mr. Pokémon's house for further instructions. 
+
+This concise guide focuses on key locations, item acquisition, and battle strategies to help you progress efficiently.

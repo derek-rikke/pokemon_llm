@@ -1,0 +1,36 @@
+Game: Emerald
+Part: 4
+Keywords: Slateport City, Oceanic Museum, Route 110, Trick House
+
+### Part 4: Slateport City and Route 110 Walkthrough
+
+#### Slateport City
+- **Key Locations**:
+  - **Oceanic Museum**: Pay $50 to enter. Defeat Team Aqua Grunts to deliver Devon Goods to Captain Stern.
+  - **Slateport Market**: Purchase vitamins from the Energy Guru and obtain various scarves from the Fan Club chairman based on your Pokémon's contest stats.
+  - **Battle Tent**: Rent three level 30 Pokémon. Win three battles for a Full Heal.
+  
+- **Items**:
+  - **Effort Ribbon**: From the woman next to the Energy Guru (if lead Pokémon has 510 EVs).
+  - **TM46 (Thief)**: From a Team Aqua Grunt inside the Oceanic Museum.
+  - **Powder Jar**: From a woman in Slateport Market.
+
+#### Route 110
+- **Trainers**: Battle various trainers including Pokéfan Isabel and Youngster Timmy for cash rewards.
+- **Rival Battle**: Encounter May/Brendan who uses a team of three Pokémon; strategies vary based on your starter choice.
+- **Key Items**: 
+  - **Itemfinder**: Received after defeating May/Brendan.
+  - **Hidden Items**: Utilize the Itemfinder for treasures along the route.
+
+#### Trick House
+- **Location**: North of Route 110.
+- **Challenges**: Complete puzzles and find hidden scrolls. Each badge earned unlocks new challenges.
+- **Rewards**: Various items including Rare Candy and TM12 (Taunt).
+
+#### Optional Route 103
+- **Trainers**: Battle trainers for additional experience.
+- **Available Pokémon**: Magikarp, Tentacool (Fishing).
+- **Items**: PP Up and various berries located in the forest.
+
+### Summary
+Progress through Slateport City by visiting key locations, battling trainers on Route 110, and completing challenges in the Trick House. Defeat May/Brendan to acquire the Itemfinder and continue your journey towards Mauville City.

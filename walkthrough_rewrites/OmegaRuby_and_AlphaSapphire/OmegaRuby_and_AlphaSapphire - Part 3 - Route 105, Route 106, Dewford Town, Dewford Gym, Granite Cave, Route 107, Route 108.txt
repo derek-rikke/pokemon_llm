@@ -1,0 +1,43 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 3
+Keywords: Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108
+
+## Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 3
+
+### Route 105 
+- **Pokémon**: 
+  - **Surfing**: Tentacool (20, 25), Wingull (20), Pelipper (25, 30)
+  - **Fishing**: Magikarp (Old Rod: 10, 15), Wailmer (Good Rod: 25)
+- **Items**: Iron (southwest of Swimmer Luis), Big Pearl (hidden, north of Iron), Heart Scale (hidden, south of Swimmer Luis).
+
+### Route 106
+- **Pokémon**: Same as Route 105.
+- **Items**: Heart Scale (southeast of signpost), Stardust (north of Backpacker Graeme), Poké Ball (northeast of Fisherman Elliot), Protein (westernmost shoreline).
+
+### Dewford Town
+- **Items**: Silk Scarf (from Ace Trainer at pier), Old Rod (from Fisherman east of Gym).
+- **Dewford Gym**:
+  - **Leader**: Brawly (Fighting-type).
+  - **Strategy**: Use Flying, Psychic, or Fairy-type moves. Good Pokémon include Taillow, Beautifly, Ralts. 
+  - **Brawly's Pokémon**: Machop (14) and Makuhita (16). Machop uses Leer and Bulk Up, while Makuhita has Arm Thrust.
+  - **Reward**: Knuckle Badge and TM08 (Bulk Up).
+
+### Granite Cave
+- **Entrance**: Talk to the Hiker for TM70 (Flash).
+- **Pokémon Available**:
+  - **1F**: Zubat, Abra, Geodude.
+  - **B1F**: Zubat, Makuhita, Aron.
+  - **B2F**: Zubat, Sableye, Mawile.
+- **Items**: TM51 (Steel Wing from Steven), Escape Rope, various hidden items.
+
+### Routes 107 and 108
+- **Route 107**: 
+  - **Pokémon**: Same as previous routes.
+  - **Items**: Super Repel (beach).
+  
+- **Route 108**: 
+  - **Pokémon**: Same as previous routes.
+  - **Items**: Star Piece (south of Swimmer Tara), Rare Candy (hidden, south of Star Piece).
+
+### Next Steps
+- After defeating Brawly, deliver the Devon Parts to Stern in Slateport City, as directed by Mr. Briney.

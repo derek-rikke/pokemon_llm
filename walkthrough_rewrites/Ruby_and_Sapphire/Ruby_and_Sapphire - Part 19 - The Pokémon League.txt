@@ -1,0 +1,63 @@
+Game: Ruby_and_Sapphire
+Part: 19
+Keywords: The Pokémon League
+
+# Pokémon League Walkthrough: Pokémon Ruby and Sapphire
+
+## Pokémon League Overview
+- **Location**: Pokémon League building includes a Pokémon Center (left) and Poké Mart (right).
+- **Preparation**: Stock up on **Hyper Potions**, **Full Restores**, and **Full Heals**. Consider purchasing battle items from Lilycove Department Store (e.g., X Defense, Dire Hits).
+- **Entry**: Speak to the Ace Trainers to enter the Elite Four.
+
+## Elite Four Battles
+
+### Battle 1: Sidney (Dark-type)
+- **Pokémon**: Mightyena, Cacturne, Shiftry, Sharpedo, Absol.
+- **Strategy**: Use **Bug** and **Fighting-type** moves. 
+  - Mightyena: Use special attackers to bypass Intimidate.
+  - Cacturne: Weak to Bug.
+  - Shiftry: Use Persim Berry for confusion.
+  - Sharpedo: Weak defenses; hit hard and fast.
+  - Absol: Use powerful moves to negate its high Attack.
+
+### Battle 2: Phoebe (Ghost-type)
+- **Pokémon**: Dusclops (x2), Banette (x2), Sableye.
+- **Strategy**: Use **Ghost** and **Dark-type** moves.
+  - Dusclops: Watch for Confuse Ray and Curse.
+  - Banette: Beware of Will-O-Wisp and Toxic.
+  - Sableye: Use Foresight to exploit its Fighting weakness.
+
+### Battle 3: Glacia (Ice-type)
+- **Pokémon**: Glalie (x2), Sealeo (x2), Walrein.
+- **Strategy**: Use **Rock**, **Fire**, and **Fighting-type** moves.
+  - Glalie: Can set up Hail; hit with Fire moves.
+  - Sealeo: Watch for Hail and Attract.
+  - Walrein: Use Grass or Electric moves for quick takedown.
+
+### Battle 4: Drake (Dragon-type)
+- **Pokémon**: Shelgon, Altaria, Flygon (x2), Salamence.
+- **Strategy**: Use **Ice** and **Dragon-type** moves.
+  - Shelgon: Dragon Claw and Rock Tomb.
+  - Altaria: Use Ice Beam to exploit its weaknesses.
+  - Flygon: Extremely vulnerable to Ice.
+  - Salamence: Target with special Ice moves due to Intimidate.
+
+## Champion: Steven (Steel-type)
+- **Pokémon**: Skarmory, Claydol, Aggron, Cradily, Armaldo, Metagross.
+- **Strategy**: Use diverse moves to exploit weaknesses.
+  - Skarmory: Use special Fire and Electric attacks.
+  - Claydol: Target with Water, Grass, or Dark moves.
+  - Aggron: Weak to Fighting and Ground moves.
+  - Cradily: Use Bug, Fighting, Ice, or Steel attacks.
+  - Armaldo: Exploit its weaknesses with Water, Rock, or Steel moves.
+  - Metagross: Use special Fire, Ground, Ghost, and Dark attacks.
+
+## Hall of Fame
+- After defeating Steven, you will be honored in the Hall of Fame. Save your game here.
+
+### Notes
+- Be ready for battles without healing in between.
+- Adjust your team to cover different types effectively.
+- Save before challenging the Champion. 
+
+This concludes the Pokémon League walkthrough. Good luck!

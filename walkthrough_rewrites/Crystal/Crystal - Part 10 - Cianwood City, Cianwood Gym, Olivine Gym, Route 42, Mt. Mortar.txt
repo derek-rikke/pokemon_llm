@@ -1,0 +1,43 @@
+Game: Crystal
+Part: 10
+Keywords: Cianwood City, Cianwood Gym, Olivine Gym, Route 42, Mt. Mortar
+
+### Part 10 Walkthrough: Cianwood City to Olivine City
+
+**Cianwood City**
+- **Visit Cianwood Pharmacy**: Talk to the shopkeeper to receive the **SecretPotion** after informing them about **Amphy** at the Olivine Lighthouse.
+- **Cianwood Gym**: 
+  - **Leader**: Chuck (Fighting-type).
+  - **Strategy**: Use Flying, Psychic, or Fairy-type Pokémon against Chuck's Primeape and Poliwrath. 
+  - **Rewards**: Defeating Chuck earns you the **Storm Badge** and **TM01 (DynamicPunch)**. 
+
+**Fly**: After defeating Chuck, receive **HM02 (Fly)** from his wife.
+
+**Olivine City**
+- **Olivine Lighthouse**: Deliver the **SecretPotion** to Jasmine to restore **Amphy**. She will return to the **Olivine Gym**.
+  
+**Olivine Gym**:
+- **Leader**: Jasmine (Steel-type).
+- **Strategy**: Use Fire and Fighting-type moves against her Steel Pokémon. 
+- **Rewards**: Defeating Jasmine grants you the **Mineral Badge** and **TM23 (Iron Tail)**.
+
+**Route 42**: 
+- Connects Ecruteak City to Mahogany Town. Use **Surf** to cross the lakes or navigate through **Mt. Mortar**. 
+
+**Trainers**: 
+- **Fisher Tully**: Qwilfish (Lv. 18).
+- **Hiker Benjamin**: Geodude and Dugtrio.
+
+**Items**:
+- **Ultra Ball**: Near Mt. Mortar's west entrance.
+- **Various Apricorns**: Available south of Mt. Mortar’s entrance.
+
+**Mt. Mortar**: 
+- An optional cave with valuable items. Requires **Surf**, **Strength**, and **Waterfall**.
+- **Trainers**: PokéManiac Miller, Super Nerd Markus.
+- **Items**: Ether, Revive, Hyper Potions, Ultra Ball, Nugget, Escape Rope.
+
+**Chasing Suicune**: Encounter Suicune at the Apricorn grove on Route 42 before it flees.
+
+### Next Steps:
+- After exploring Cianwood and Olivine City, proceed to **Mahogany Town** via Route 42.

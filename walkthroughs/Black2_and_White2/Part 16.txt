@@ -1,0 +1,1002 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_16
+Keywords: Aspertia City, Floccesy Town, Cave of Being, Castelia City, Nimbasa City
+
+Walkthrough Text:
+Contents
+1
+Aspertia City
+1.1
+Home Again
+1.2
+Mass Outbreaks
+2
+Floccesy Town
+2.1
+New Wallpapers
+2.2
+Alder's Challenge
+3
+Route 20
+3.1
+Cave of Being
+4
+Castelia City
+4.1
+Game Freak
+4.2
+Amanita's Gift
+4.3
+The Royal Unova
+5
+Nimbasa City
+5.1
+Battle Institute
+5.2
+Big Stadium and Small Court
+5.3
+Battle Subway
+Aspertia City
+Home Again
+After defeating the Pokémon League, you'll find yourself back where your adventure began:
+Aspertia City
+. As you leave your bedroom, Mom says that she is expecting a visitor. A moment later, a man stops by and introduces himself as Professor Juniper!
+Cedric Juniper
+, father to the other
+Professor Juniper
+. He then upgrades your Pokédex, enabling
+National Dex
+mode. This switches the numbering system from the Unova Dex listing to the international listing, though you are free to switch it back. Cedric leaves, and Mom gives you two
+Max Revives
+as a gift.
+Step outside to meet
+Hugh
+and his little sister, who thank you for helping return her former
+Purrloin
+. They also tell you of a dream she has been having, of a
+Zoroark
+calling out to you from
+Victory Road
+. As they leave, Hugh congratulates you on becoming the new
+Champion
+.
+Mass Outbreaks
+Mass outbreaks
+of Pokémon will now appear in certain parts of the region. These locations change daily, and are broadcast on the electric bulletin boards in every gate.
+Floccesy Town
+New Wallpapers
+Visit the Pokémon Center and access Amanita's PC to receive a new wallpaper commemorating your entrance into the Hall of Fame. It can be accessed under
+Special
+on the menu.
+Alder's Challenge
+Return to
+Alder
+'s house in the northwest part of town to battle the former Champion. His Pokémon are a little tougher than those of
+the current Champion
+, but thankfully not by much, so he's a good opponent to fight right away as a warmup for some of the upcoming fights.
+Pokémon Trainer
+Alder
+Floccesy Town
+Black 2 and White 2
+Reward:
+$
+12400
+Type:
+Bug
+Unknown
+Ability:
+Sticky Hold
+Held item:
+None
+Accelgor
+♂
+Lv.
+60
+Focus Blast
+Fighting
+Special
+--
+Acid Spray
+Poison
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Bug Buzz
+Bug
+Special
+--
+Types:
+Bug
+Steel
+Ability:
+Shell Armor
+Held item:
+None
+Escavalier
+♂
+Lv.
+60
+X-Scissor
+Bug
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Iron Head
+Steel
+Physical
+--
+Reversal
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Reckless
+Held item:
+None
+Bouffalant
+♂
+Lv.
+60
+Wild Charge
+Electric
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Head Charge
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Conkeldurr
+♂
+Lv.
+60
+Stone Edge
+Rock
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Braviary
+♂
+Lv.
+60
+Crush Claw
+Normal
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Bug
+Fire
+Ability:
+Flame Body
+Held item:
+Sitrus Berry
+Volcarona
+♂
+Lv.
+62
+Quiver Dance
+Bug
+Status
+--
+Silver Wind
+Bug
+Special
+--
+Heat Wave
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Half of his team is
+Bug-type
+Pokémon.
+Fire
+attacks will roast his
+Accelgor
+and
+Escavalier
+, and his
+Bouffalant
+takes double the damage from
+Fighting
+moves.
+Flying
+- and
+Psychic-type
+attacks work well against his
+Conkeldurr
+, while his
+Braviary
+is vulnerable to
+Electric
+- and
+Ice-type
+moves. The star of the show,
+Volcarona
+, takes massive damage from
+Rock-type
+attacks, though Flying- and
+Water-type
+moves are also effective. Don't hesitate to use healing items, as his attacks provide a lot of type coverage.
+After the battle, his grandson
+Benga
+runs in. He excitedly tells his grandfather that he made it through the
+Black Tower
+B2
+/
+White Treehollow
+W2
+. He leaves, and Alder suggests that you challenge him in
+Black City
+B2
+/
+White Forest
+W2
+.
+Route 20
+Inside the Cave of Being
+Cave of Being
+The
+Cave of Being
+is a small cave that can be reached by climbing the waterfall on the south side of
+Route 20
+. It is said that the deepest part of the cave connects to the distant
+Sinnoh
+region.
+Professor Juniper
+is inside investigating the area. Suddenly, a mysterious presence can be felt, and the three
+lake guardians
+—
+Uxie
+,
+Mesprit
+, and
+Azelf
+— appear. They float here for a moment before wandering off. To find them, you must step on a certain spot when they are nearby so that they reveal themselves.
+Mesprit can be found on the
+Celestial Tower
+'s rooftop. Stand at the foot of the bell platform to detect its presence.
+Azelf can be found on
+Route 23
+. Travel to the forest on the west side, and stand on the platform near the
+Strength
+puzzle to detect its presence.
+Uxie can be found in
+Nacrene City
+in the southeast area of Unova. Stand outside the Nacrene Museum to detect its presence.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mesprit
+Lv.
+65
+Future Sight
+Psychic
+Special
+--
+Charm
+Normal
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Copycat
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Azelf
+Lv.
+65
+Future Sight
+Psychic
+Special
+--
+Nasty Plot
+Dark
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Last Resort
+Normal
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Uxie
+Lv.
+65
+Future Sight
+Psychic
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Flail
+Normal
+Physical
+--
+Castelia City
+Game Freak
+On 22F of the
+Game Freak
+building, you can battle both Morimoto and Nishino once per day. Visit every day for challenging battles!
+GAME FREAK
+Morimoto
+Castelia City
+Black 2 and White 2
+Reward:
+$
+6240
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+76
+Fake Out
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simipour
+♂
+Lv.
+76
+Surf
+Water
+Special
+--
+Crunch
+Dark
+Physical
+--
+Payback
+Dark
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simisear
+♂
+Lv.
+76
+Crunch
+Dark
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Payback
+Dark
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simisage
+♂
+Lv.
+76
+Energy Ball
+Grass
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Payback
+Dark
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♂
+Lv.
+76
+Air Slash
+Flying
+Special
+--
+Psychic
+Psychic
+Special
+--
+Psyshock
+Psychic
+Special
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+None
+Zebstrika
+♂
+Lv.
+78
+Pursuit
+Dark
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Flame Charge
+Fire
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+GAME FREAK
+Nishino
+Castelia City
+Black 2 and White 2
+Reward:
+$
+6240
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+Leftovers
+Clefable
+♀
+Lv.
+76
+Cosmic Power
+Psychic
+Status
+--
+Sing
+Normal
+Status
+--
+Metronome
+Normal
+Status
+--
+Stored Power
+Psychic
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Huge Power
+Held item:
+Leftovers
+Azumarill
+♂
+Lv.
+76
+Double-Edge
+Normal
+Physical
+--
+Aqua Tail
+Water
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Own Tempo
+Held item:
+Leftovers
+Lickilicky
+♂
+Lv.
+76
+Fire Blast
+Fire
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Blizzard
+Ice
+Special
+--
+Power Whip
+Grass
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+Leftovers
+Wigglytuff
+♀
+Lv.
+76
+Flamethrower
+Fire
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Hydration
+Held item:
+Leftovers
+Alomomola
+♂
+Lv.
+76
+Wish
+Normal
+Status
+--
+Toxic
+Poison
+Status
+--
+Protect
+Normal
+Status
+--
+Aqua Jet
+Water
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Leftovers
+Snorlax
+♂
+Lv.
+78
+Body Slam
+Normal
+Physical
+--
+Yawn
+Normal
+Status
+--
+Superpower
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Amanita's Gift
+Visit
+Amanita
+'s lab on the third floor of the building across the street from the Gym. Speak to her with no more than five Pokémon in your party to receive an
+Eevee
+. This Eevee is apparently one of several sent to her from
+her friend
+in the far-off
+Kanto
+region. Not only does it have its Hidden Ability,
+Anticipation
+, but when it evolves it will receive the Hidden Ability for
+whichever form
+it takes.
+Eeveelution
+Hidden Ability
+Eeveelution
+Hidden Ability
+Eeveelution
+Hidden Ability
+Vaporeon
+Hydration
+Espeon
+Magic Bounce
+Leafeon
+Chlorophyll
+Jolteon
+Quick Feet
+Umbreon
+Inner Focus
+Glaceon
+Ice Body
+Flareon
+Guts
+The Royal Unova
+The rules for battling aboard the
+Royal Unova
+have not changed, but the Trainers have gotten much stronger. Expect a real workout to win those items!
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Mariana
+マリナ
+Marina
+Reward:
+$
+3720
+Rotom
+Lv.
+62
+No item
+Butterfree
+♀
+Lv.
+62
+No item
+Alomomola
+♀
+Lv.
+62
+No item
+Ace Trainer
+Henry
+ヒロト
+Hiroto
+Reward:
+$
+3780
+Tauros
+♂
+Lv.
+63
+No item
+Wailord
+♂
+Lv.
+63
+No item
+Lass
+Sibyl
+トモ
+Tomo
+Reward:
+$
+976
+Chingling
+♀
+Lv.
+61
+No item
+Wormadam
+♀
+Plant Cloak
+Lv.
+61
+No item
+Rich Boy
+Brad
+ヒロキ
+Hiroki
+Reward:
+$
+9760
+Aipom
+♂
+Lv.
+61
+No item
+Murkrow
+♂
+Lv.
+61
+No item
+Lady
+Elizandra
+ハヅキ
+Hadzuki
+Reward:
+$
+9600
+Meowth
+♀
+Lv.
+60
+No item
+Vulpix
+♀
+Lv.
+60
+No item
+Eevee
+♂
+Lv.
+60
+No item
+Socialite
+Cassandra
+ミツヨ
+Mitsuyo
+Reward:
+$
+12200
+Liepard
+♀
+Lv.
+61
+No item
+Arbok
+♀
+Lv.
+61
+No item
+Gentleman
+Robert
+ロバート
+Robert
+Reward:
+$
+12000
+Houndour
+♂
+Lv.
+60
+No item
+Noctowl
+♂
+Lv.
+60
+No item
+Houndoom
+♂
+Lv.
+60
+No item
+Maid
+Tanya
+ユキコ
+Yukiko
+Reward:
+$
+2440
+Emolga
+♀
+Lv.
+61
+No item
+Raichu
+♀
+Lv.
+61
+No item
+Clerk ♂
+Chaz
+リョータ
+Ryōta
+Reward:
+$
+2440
+Ariados
+♂
+Lv.
+61
+No item
+Floatzel
+♂
+Lv.
+61
+No item
+Youngster
+Abe
+ショウタ
+Shōta
+Reward:
+$
+960
+Spearow
+♂
+Lv.
+60
+No item
+Fearow
+♂
+Lv.
+60
+No item
+Linoone
+♂
+Lv.
+60
+No item
+Nimbasa City
+Battle Institute
+Becoming the Champion means that you can now take the
+Battle Institute
+'s Battle Test. Fight against five Trainers to earn a rank based on your results. Bring your strongest Pokémon and give it a try!
+Big Stadium and Small Court
+Now that you have entered the Hall of Fame, the Trainers in
+Big Stadium and Small Court
+are more numerous and their Pokémon are much tougher. Visit every day to make your Pokémon stronger!
+Battle Subway
+The
+Judge
+can now be found in the
+Gear Station
+building. Speak to him, and he will size up the potential of one of your party members. Seek his help when deciding which Pokémon to train.
+← Part 15
+Route 23, Victory Road, Pokémon League
+Black 2 and White 2
+walkthrough
+Driftveil City, Clay Tunnel, Underground Ruins, Undella Town, Undella Bay
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

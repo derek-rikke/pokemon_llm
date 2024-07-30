@@ -1,0 +1,48 @@
+Game: Diamond_and_Pearl
+Part: 12
+Keywords: Route 212, Route 210 (North), Celestic Town, Route 211 (East), Hearthome Gym
+
+## Part 12 Walkthrough: Route 212 to Hearthome Gym
+
+### Route 212
+- **Preparation**: Buy healing items before entering; this is a long route.
+- **Weather**: The southern area is rainy, affecting battles and visibility.
+- **Trainers**: Fight trainers for experience (recommended Pokémon levels: 30+).
+- **Pokémon Mansion**:
+  - Catch **Pichu** or **Pikachu**.
+  - **Items**:
+    - Super Potion (left of Mansion entrance, hidden)
+    - Elixir (behind Trainer tips sign, southwest of Mansion)
+    - TM11 (Sunny Day, west of Mansion, requires Cut)
+    - Various TMs for shards at the shard collector's house.
+- **Travel**: Continue west, then north to reach Hearthome City.
+
+### Route 210 (North)
+- **Access**: Return through Route 209 to reach Route 210.
+- **Cynthia's Quest**: Use Secret Potion on Psyduck; she gives you the Old Charm.
+- **Fog Area**: Use HM05 (Defog) to navigate. 
+- **Items**: Collect hidden items like Old Charm, Super Repel, and Hyper Potions.
+- **Trainers**: Battle Ninja Boys and other trainers along the way.
+
+### Celestic Town
+- **Market**: No Poké Mart; the northwest house serves as one.
+- **Galactic Grunt Battle**: Defeat him to access the Celestic Ruins.
+- **Inside Ruins**: Obtain HM03 (Surf) after talking to Cynthia's grandmother.
+
+### Route 211 (East)
+- **Trainers**: Battle various trainers and collect items like Pecha Berries and TM77 (Psych Up).
+  
+### Hearthome Gym
+- **Preparation**: Heal Pokémon; levels should be around 35.
+- **Gym Layout**: Solve math puzzles to navigate and reach Gym Leader Fantina.
+- **Fantina's Pokémon**:
+  - **Drifblim (Lv. 32)**
+  - **Gengar (Lv. 34)**
+  - **Mismagius (Lv. 36)**
+- **Battle Strategy**: Use Dark-type and Ghost-type moves; avoid Normal-type moves.
+- **Rewards**: Defeating Fantina earns you the Relic Badge and TM65 (Shadow Claw).
+
+### Next Steps
+- After the gym, meet Cynthia who suggests visiting Canalave City and Canalave Library. Prepare to access new areas using Surf.
+
+This concise guide covers essential steps and strategies for progressing through Route 212, Celestic Town, and Hearthome Gym in Pokémon Diamond and Pearl.

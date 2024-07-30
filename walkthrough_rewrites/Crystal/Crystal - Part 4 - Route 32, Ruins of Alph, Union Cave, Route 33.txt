@@ -1,0 +1,68 @@
+Game: Crystal
+Part: 4
+Keywords: Route 32, Ruins of Alph, Union Cave, Route 33
+
+### Pokemon Crystal Walkthrough: Part 4
+
+**Route 32**
+- Route 32 runs south from Violet City to Union Cave, with a path leading to the Ruins of Alph.
+- **Trainers**:
+  - Youngster Albert (Rattata, Zubat) - $128
+  - Picnicker Liz (Nidoran♀) - $180
+  - Fisher Henry (Poliwag) - $320
+  - Fisher Justin (Magikarp) - $200
+  - Fisher Ralph (Goldeen) - $400
+  - Youngster Gordon (Wooper) - $160
+  - Bird Keeper Peter (Pidgey, Spearow) - $192
+
+- **Available Pokémon**: 
+  - Pidgey, Rattata, Ekans, Zubat, Bellsprout, Gastly, Hoothoot, Hoppip, Wooper, Magikarp (Fishing)
+
+- **Items**: 
+  - Miracle Seed (Northeast)
+  - Repel (Southwest of hill)
+  - Super Potion (North of pier, hidden)
+  - Great Balls (Behind Pokémon Center)
+  - Old Rod (From Fishing Guru in Pokémon Center)
+  
+**Ruins of Alph**
+- Accessible via Route 32 and 36.
+- **Chambers**: Complete puzzles to unlock Unown forms. Each chamber has a hidden room with items.
+  - **North Chamber**: First puzzle (Kabuto) - unlocks Unown forms.
+  - **Southeast Chamber**: Second puzzle (Aerodactyl) - unlocks more Unown.
+  - **West Chamber**: Third puzzle (Ho-Oh) - unlocks more Unown.
+  - **Southwest Chamber**: Fourth puzzle (Omanyte) - unlocks final Unown forms.
+
+- **Items in Chambers**: Various berries, TM05 (Roar), and other hidden items.
+
+**Union Cave**
+- Connects Routes 32 and 33.
+- **Trainers**:
+  - Hiker Daniel (Onix) - $352
+  - Firebreather Bill (Koffing) - $288
+  - PokéManiac Larry (Slowpoke) - $600
+  - Hiker Leonard (Geodude, Machop) - $800
+  
+- **Available Pokémon**: Rattata, Sandshrew, Zubat, Geodude, Wooper (Fishing)
+
+- **Items**: 
+  - X Attack (1F, northwest corner)
+  - Great Ball (1F, near Bill)
+  - TM39 (Swift) (B1F)
+  - Elixir (B2F, requires Surf)
+
+**Route 33**
+- Leads west from Union Cave to Azalea Town.
+- **Trainers**: Hiker Anthony (Geodude, Machop) - $352
+- **Available Pokémon**: Rattata, Spearow, Ekans, Zubat, Geodude, Hoppip
+
+- **Item**: PSNCureBerry (Southeast of Union Cave exit)
+
+- **Note**: Trade contacts with trainers for future swarms (e.g., Qwilfish on Route 32 and Dunsparce in Dark Cave).
+
+### Key Gameplay Elements
+- **Surf & Strength** required to access certain areas in the Ruins of Alph and Union Cave later in the game.
+- Puzzle completion in Ruins unlocks Unown forms, providing a unique gameplay element and rewards.
+- Keep an eye out for trainer rematches and special events like Pokémon swarms.
+
+**Next Steps**: Proceed to Azalea Town and explore Slowpoke Well.

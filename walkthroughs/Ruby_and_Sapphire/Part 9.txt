@@ -1,0 +1,2478 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_9
+Keywords: Route 111 (Desert), Petalburg Gym, New Mauville, Route 118, Route 119, Weather Institute
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 111 (desert)
+1.1
+Relic Recovery!
+1.2
+Desert Ruins
+2
+Back to Petalburg City
+3
+Petalburg City
+3.1
+Petalburg Gym
+4
+Now that you can use Surf (optional)
+4.1
+Petalburg City
+4.2
+Littleroot Town
+4.3
+Route 104 (north)
+4.4
+Route 110
+4.5
+Route 111 (south)
+5
+Route 115 (optional)
+6
+Route 105 (optional)
+6.1
+Island Cave
+7
+Mauville City
+8
+Route 110
+8.1
+New Mauville
+8.1.1
+Entrance
+8.1.2
+B1F
+9
+Route 118
+9.1
+Surf's Up!
+9.2
+Get Good with a Good Rod
+9.3
+Gabby and Ty
+9.4
+Meet up with Steven
+10
+Route 119
+10.1
+The Mimic Circle
+10.2
+Rest Stop
+10.3
+Weather Institute
+10.3.1
+Rest and Restore Health
+10.3.2
+Looking for Answers
+10.3.2.1
+VS Courtney
+10.3.2.2
+VS Shelly
+10.3.3
+The Next Step
+10.4
+Rival Battle 3
+10.4.1
+Player chose Treecko
+10.4.2
+Player chose Torchic
+10.4.3
+Player chose Mudkip
+Route 111 (desert)
+Route 111
+With the
+Go-Goggles
+, you can finally venture into the windswept desert on
+Route 111
+. The powerful sandstorm deters most would-be explorers, so no one has yet claimed the valuable treasures lying among the dunes.
+Trainers
+Trainer
+Pokémon
+Desert (requires Go-Goggles)
+Camper
+Cliff
+Reward:
+$
+352
+Baltoy
+Lv.
+22
+No item
+Sandshrew
+♂
+Lv.
+22
+No item
+Baltoy
+Lv.
+22
+No item
+Picnicker
+Heidi
+Reward:
+$
+368
+Sandshrew
+♀
+Lv.
+23
+No item
+Baltoy
+Lv.
+23
+No item
+Camper
+Drew
+Reward:
+$
+384
+Sandshrew
+♂
+Lv.
+24
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+1440
+Sandslash
+♂
+Lv.
+24
+No item
+Picnicker
+Becky
+Reward:
+$
+384
+Sandshrew
+♀
+Lv.
+24
+No item
+Rematch
+Ruin Maniac
+Dusty
+Reward:
+$
+1620
+/
+1800
+/
+1980
+/
+2160
+Sandslash
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandshrew
+R
+S
+E
+Deep sand
+19-21
+35%
+Trapinch
+R
+S
+E
+Deep sand
+19-21
+35%
+Cacnea
+R
+S
+E
+Deep sand
+19, 21
+20%
+Baltoy
+R
+S
+E
+Deep sand
+20, 22
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+×2
+North of the desert's southern entrance
+On a rock, next to Ruin Maniac Dusty (hidden)
+R
+S
+Root Fossil
+or
+Claw Fossil
+Northeast corner
+R
+S
+Protein
+On a rock, northwest of Camper Drew (hidden)
+R
+S
+Rare Candy
+On a rock, northeast of Ruin Maniac Dusty and Picnicker Becky (hidden)
+R
+S
+TM37
+(
+Sandstorm
+)
+Southernmost point, south of the Desert Ruins
+R
+S
+Relic Recovery!
+The unending sandstorm seems to have uncovered two treasures from the ancient past in the desert's northeast corner. The
+Root Fossil
+and
+Claw Fossil
+belong to two species that once lived in the primordial ocean. The researchers at
+Devon Corporation
+back in
+Rustboro
+are able to revive any Fossil they receive into a long-lost Pokémon. The Root Fossil becomes the
+Rock
+/
+Grass
+Lileep
+, while the Claw Fossil turns into the
+Rock
+/
+Bug
+Anorith
+. Removing either one from their resting place causes the other to sink into the sand, so choose carefully!
+Desert Ruins
+The unusual arrangement of stones to the south is known as the
+Desert Ruins
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Back to Petalburg City
+Now that you've claimed your fourth Badge and combed the desert for treasure, your next stop is
+Petalburg City
+. The city is far to the southwest, but there are multiple ways to get there.
+Head northwest around the volcano to
+Fallarbor Town
+, then south through
+Meteor Falls
+to return to Rustboro.
+Go south from the desert to
+Mauville City
+, then west to
+Verdanturf Town
+. Cut through
+Rusturf Tunnel
+to return to Rustboro.
+Once in Rustboro, be sure to stop by
+Devon Corporation
+on the way to have the researchers there revive your Fossil Pokémon.
+Petalburg City
+Petalburg Gym
+Petalburg Gym
+R
+S
+Petalburg City Pokémon Gym
+Leader: Norman
+A man in pursuit of power!
+The
+Petalburg Gym
+, which specializes in
+Normal-type
+Pokémon, is styled as a traditional dojo with multiple rooms. Each room has a single Trainer who uses special items to gain the upper hand in battle. The sign on each door gives a clue to the strategy of the Trainer in the room behind it. The first two rooms beyond the lobby are labeled "Speed" and "Accuracy". The three rooms farther on are named "Zero Reduction", "Defense", and "Recovery". The final two rooms before the Gym Leader are labeled "Strength" and "One-Hit KO". A minimum of three Gym Trainers must be defeated to reach the Gym Leader.
+Fighting
+types like
+Machop
+and
+Makuhita
+will give you the upper hand here.
+Room
+Opponent
+Item Used
+Notes
+Front rooms
+Speed Room
+Cooltrainer Randall
+X Speed
+Paralyze
+his
+Delcatty
+to counter its
+Speed
+boost, or just knock it out quickly.
+Accuracy Room
+Cooltrainer Mary
+X Accuracy
+Her Delcatty's
+Sing
+can become problematic, with accuracy rising from 55% to 73%.
+Middle rooms
+Zero Reduction Room
+Cooltrainer Parker
+Guard Spec.
+Prevents stat reduction. Avoid stat-lowering moves and simply attack.
+Defense Room
+Cooltrainer Lori
+X Defense
+Use
+Special
+attacks to ignore her
+Linoone
+'s Defense boost.
+Recovery Room
+Cooltrainer George
+Super Potion
+Use super-effective moves to defeat his
+Linoone
+before it can be healed.
+Back rooms
+Strength Room
+Cooltrainer Jody
+X Attack
+Counter with Attack-lowering Abilities, like
+Intimidate
+, or moves, like
+Growl
+and
+Charm
+.
+One-Hit KO Room
+Cooltrainer Berke
+Dire Hit
+Sharply raises
+Zangoose
+'s
+critical hit
+ratio. Knock it out quickly with super-effective moves.
+In the final room, your father has been waiting for you. Now that you have earned four other Badges, he is now ready to accept your challenge.
+Norman
+leads with the first of his two
+Slaking
+. Slaking usually leads with
+Yawn
+; if you switch out your Pokémon to keep it from falling
+asleep
+, your next Pokémon will be safe from attack. This is due to Slaking's Ability,
+Truant
+, which prevents it from attacking every other turn. However, his
+Vigoroth
+has no such problem. In fact, the Pokémon is so restless that it can't sleep, due to its
+Vital Spirit
+Ability. All three of Norman's Pokémon know
+Facade
+, which doubles in power if the user is
+Burned
+,
+Poisoned
+, or
+Paralyzed
+, though the
+Attack
+penalty incurred by sustaining a Burn still applies. While
+Ghost
+Pokémon are usually unaffected by Normal-type attacks, and vice-versa, Norman's entire team can use
+Faint Attack
+to deal serious damage to such Pokémon.
+Petalburg Gym
+Trainers
+Trainer
+Pokémon
+Speed Room
+Cooltrainer
+Randall
+Reward:
+$
+1296
+Delcatty
+♀
+Lv.
+27
+No item
+Accuracy Room
+Cooltrainer
+Mary
+Reward:
+$
+1296
+Delcatty
+♀
+Lv.
+27
+No item
+Zero Reduction Room
+Cooltrainer
+Parker
+Reward:
+$
+1296
+Linoone
+♂
+Lv.
+27
+No item
+Defense Room
+Cooltrainer
+Lori
+Reward:
+$
+1296
+Linoone
+♀
+Lv.
+27
+No item
+Recovery Room
+Cooltrainer
+George
+Reward:
+$
+1296
+Linoone
+♂
+Lv.
+27
+No item
+Strength Room
+Cooltrainer
+Jody
+Reward:
+$
+1296
+Zangoose
+♀
+Lv.
+27
+No item
+One-Hit KO Room
+Cooltrainer
+Berke
+Reward:
+$
+1296
+Zangoose
+♂
+Lv.
+27
+No item
+Leader
+Norman
+Petalburg Gym
+Ruby and Sapphire
+Reward:
+$
+3100
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+None
+Slaking
+♂
+Lv.
+28
+Encore
+Normal
+--
+Facade
+Normal
+--
+Yawn
+Normal
+--
+Faint Attack
+Dark
+--
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Vigoroth
+♂
+Lv.
+30
+Slash
+Normal
+--
+Faint Attack
+Dark
+--
+Facade
+Normal
+--
+Encore
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+None
+Slaking
+♂
+Lv.
+31
+Focus Punch
+Fighting
+--
+Slack Off
+Normal
+--
+Facade
+Normal
+--
+Faint Attack
+Dark
+--
+Afterwards, your father awards you the
+Balance Badge
+, which boosts your Pokémon's
+Defense
+by 10% and enables the use of
+Surf
+in the field. He also hands you
+TM42
+(
+Facade
+) as a gift. Norman then remembers that
+Wally
+'s parents stopped by a short time ago, looking for you. Visit them in their home next to the Gym, and Wally's father gives you
+HM03
+(
+Surf
+) as thanks for helping the young Trainer. In battle,
+Surf
+is a strong
+Water-type
+attack; in the field, it allows you to cross bodies of water.
+Now that you can use Surf (optional)
+You can meet many new trainers and find many new items by crossing the ponds and seas scattered throughout Hoenn. When you're ready to cross the sea, approach the coastline and use
+Surf
+. Hop on your seafaring Pokémon's back to glide across the water. While Surfing, it is impossible to use the field moves
+Cut
+,
+Strength
+, or
+Rock Smash
+; however,
+several
+other
+moves
+are allowed. The Itemfinder can't be used while crossing the waves, but you can use an
+Escape Rope
+or a fishing rod while doing so.
+Also now that you have Surf, Mr. Briney will no longer transport you between his house on Route 104 to Dewford Town, or Route 109, instead you'll have to transport yourself using Surf.
+Petalburg City
+Items
+Item
+Location
+Games
+Max Revive
+Across the northeast pond
+R
+S
+Ether
+Across the southwest pond
+R
+S
+Rare Candy
+Across the southwest pond (
+hidden
+)
+R
+S
+Littleroot Town
+Now that you have just defeated Norman, if you return home you will receive a small gift from your
+mom
+.
+Items
+Item
+Location
+Games
+Amulet Coin
+From the player's mother after defeating
+Norman
+R
+S
+Route 104 (north)
+On the north part of this route, just south of
+Rustboro City
+, there is a pond you can now cross to get to its eastern shore, where you'll find a PP UP.
+Items
+Item
+Location
+Games
+PP Up
+North side, across the pond at a landing on its east shore
+R
+S
+Route 110
+This route has two small islands you can now reach. One of them contains a Rare Candy.
+Route 110
+Item
+Location
+Games
+Rare Candy
+On the small grass island
+R
+S
+Route 111 (south)
+On the south part of the route, you may now cross the pond west of
+Winstrate family
+'s house to get an HP Up.
+Route 111
+Item
+Location
+Games
+HP Up
+West side of the pond
+R
+S
+Route 115 (optional)
+Route 115
+You can now fully explore the route by using
+Surf
+. Surf north past Meteor Falls and make landfall at a small beach. Fight a few trainers as you navigate further north through a maze of trees. At the very northwest corner, you can find Route 115's one tiny patch of tall grass.
+Trainers
+Trainer
+Pokémon
+Requires Surf
+Expert
+Timothy
+ウンショウ
+Unshō
+Reward:
+$
+1120
+Hariyama
+♂
+Lv.
+28
+No item
+Black Belt
+Koichi
+タクノリ
+Takunori
+Reward:
+$
+832
+Machop
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+26
+No item
+Rematch
+Expert
+Timothy
+ウンショウ
+Unshō
+Reward:
+$
+1240
+/
+1360
+/
+1480
+/
+1600
+Hariyama
+♂
+Lv.
+31
+/
+34
+/
+37
+/
+40
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Taillow
+R
+S
+E
+Grass
+23-25
+40%
+Swablu
+R
+S
+E
+Grass
+23, 25
+30%
+Jigglypuff
+R
+S
+E
+Grass
+24-25
+10%
+Swellow
+R
+S
+E
+Grass
+25
+10%
+Wingull
+R
+S
+E
+Grass
+24-26
+10%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Requires
+Surf
+Kelpsy Berry
+×6
+From the Berry Trees on the route's north end
+R
+S
+TM01
+(
+Focus Punch
+)
+West of the muddy slope
+R
+S
+Iron
+South of the muddy slope (requires
+Mach Bike
+)
+R
+S
+Route 105 (optional)
+Route 105
+Another one of the
+water routes
+you can now explore at your own speed is
+Route 105
+, which lies between
+Petalburg City
+and
+Dewford Town
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Dawn
+マユカ
+Mayuka
+Reward:
+$
+216
+Marill
+♀
+Lv.
+27
+No item
+Swimmer
+Beverly
+ナツキ
+Natsuki
+Reward:
+$
+208
+Wailmer
+♀
+Lv.
+26
+No item
+Wailmer
+♀
+Lv.
+26
+No item
+Swimmer
+Austin
+ヒロミ
+Hiromi
+Reward:
+$
+200
+Magikarp
+♂
+Lv.
+25
+No item
+Tentacool
+♂
+Lv.
+25
+No item
+Wingull
+♂
+Lv.
+25
+No item
+Ruin Maniac
+Foster
+アキヒト
+Akihito
+Reward:
+$
+1560
+Sandshrew
+♂
+Lv.
+26
+No item
+Sandslash
+♂
+Lv.
+26
+No item
+Swimmer
+Luis
+ヨウヘイ
+Yōhei
+Reward:
+$
+216
+Carvanha
+♂
+Lv.
+27
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+Northern-most sand-only islet (hidden)
+R
+S
+Iron
+Southern-most island
+R
+S
+Note: The wild Pokémon available are same for routes 105, 106, 107, 108, 109 and 110.
+Island Cave
+The unusual arrangement of stones in a corner in the northwest is known as the
+Island Cave
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Mauville City
+When you return to
+Mauville
+, you find
+Wattson
+standing near the Pokémon Center. He asks for a favor, and explains that the city has an underground sector known as
+New Mauville
+. There's a generator inside that hasn't been functioning properly, and he needs you to go and turn it off before the situation gets out of control. He gives you the
+Basement Key
+and directs you to the facility's entrance on
+Route 110
+.
+Surf
+eastward under the north end of
+Seaside Cycling Road
+to reach the facility.
+Route 110
+New Mauville, Entrance
+New Mauville, B1F
+New Mauville
+New Mauville
+was intended to be an underground city extending dozens of floors below the surface. However, the project died in development when it was discovered to be a habitat for wild Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrance
+Magnemite
+R
+S
+E
+Entrance
+22-26
+50%
+Voltorb
+R
+S
+E
+Entrance
+22-26
+50%
+Basement
+Magnemite
+R
+S
+E
+Basement
+22-26
+49%
+Voltorb
+R
+S
+E
+Basement
+22-26
+49%
+Magneton
+R
+S
+E
+Basement
+26
+1%
+Electrode
+R
+S
+E
+Basement
+26
+1%
+Special Pokémon
+Voltorb
+R
+S
+E
+Fake item
+25
+Three
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+Near the center of the floor, on a blue switch
+R
+S
+Parlyz Heal
+Northwest part of the floor, on a green switch
+R
+S
+Full Heal
+North-central room, on a green switch
+R
+S
+Thunderstone
+East of the generator in the northeast room
+R
+S
+Ultra Ball
+East-southeast room, north of the entrance
+R
+S
+Fake Items
+Voltorb
+×3
+Near the center of the floor, on a green switch
+Northwest part of the floor, on a blue switch
+North-central room, on a blue switch
+R
+S
+Entrance
+Use the Basement Key to unlock the door, and step inside to reach the southeast room.
+B1F
+The lower floor uses a series of colored buttons as a security measure; when stepped on, all similarly-colored doors open while all others close. Step on the blue button in the entrance room and go west. Press the green button in the next room and continue on. Pass by the third button and head north to reach an
+Escape Rope
+; collect the item and press the blue button beneath it. Go northwest to find a room with two items, a
+Parlyz Heal
+to the left and a
+Voltorb
+to the right. Follow the hallway eastward to the north-central room and another pair of items, a Voltorb to the left and a
+Full Heal
+to the right; collect the item and step on the green button beneath it. The generator is located in the northeast room; press the red button to shut it down and collect the
+Thunderstone
+before leaving the area.
+With your task complete, return to
+Wattson
+outside the Pokémon Center. Inform him that everything is all right in New Mauville, and the grateful Gym Leader rewards you with
+TM24
+(
+Thunderbolt
+).
+Route 118
+Route 118
+The seaside
+Route 118
+links the west and east sides of the region together. Several new species of Pokémon can be found here, including
+Electric
+types that will be of great value in the upcoming Gym.
+Trainers
+Trainer
+Pokémon
+Western side
+Aroma Lady
+Rose
+Reward:
+$
+560
+Shroomish
+♀
+Lv.
+16
+No item
+Roselia
+♀
+Lv.
+16
+No item
+Fisherman
+Wade
+Reward:
+$
+640
+Carvanha
+♂
+Lv.
+17
+No item
+Guitarist
+Dalton
+Reward:
+$
+480
+Magnemite
+Lv.
+15
+No item
+Whismur
+♂
+Lv.
+15
+No item
+Magnemite
+Lv.
+15
+No item
+Eastern side
+Interviewer
+Gabby & Ty
+Reward:
+$
+2592
+Magnemite
+Lv.
+27
+No item
+Loudred
+♂
+Lv.
+27
+No item
+Fisherman
+Barny
+Reward:
+$
+1000
+Carvanha
+♂
+Lv.
+26
+No item
+Carvanha
+♂
+Lv.
+26
+No item
+Bird Keeper
+Chester
+Reward:
+$
+832
+Taillow
+♂
+Lv.
+26
+No item
+Swellow
+♂
+Lv.
+26
+No item
+Bird Keeper
+Perry
+Reward:
+$
+864
+Wingull
+♂
+Lv.
+27
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+R
+S
+E
+Grass
+24, 26
+30%
+Electrike
+R
+S
+E
+Grass
+24, 26
+30%
+Wingull
+R
+S
+E
+Grass
+25-27
+19%
+Linoone
+R
+S
+E
+Grass
+26
+10%
+Manectric
+R
+S
+E
+Grass
+26
+10%
+Kecleon
+R
+S
+E
+Grass
+25
+1%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Carvanha
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West side
+Heart Scale
+On the beach, on a rock near Fisherman Wade (hidden)
+R
+S
+East side
+Good Rod
+From the Fisherman on the north end of the beach
+R
+S
+Iron
+On the beach, on a rock to the northwest of Fisherman Barny (hidden)
+R
+S
+Sitrus Berry
+×4
+From the soft soil patch, west of the exit to Route 119
+R
+S
+Hyper Potion
+East of Bird Keeper Perry
+R
+S
+Surf's Up!
+When you're ready to cross the river, approach the beach and use
+Surf
+. Hop on your seafaring Pokémon's back to glide across the water. While Surfing, it is impossible to use the field moves
+Cut
+,
+Strength
+, or
+Rock Smash
+; however,
+several
+other
+moves
+are allowed. The Itemfinder can't be used while crossing the waves, but you can use an
+Escape Rope
+or a fishing rod while doing so.
+Get Good with a Good Rod
+The Fisherman on the river's eastern bank believes that Good Rods are really good. Agree with his statement to receive your very own
+Good Rod
+, a mid-level fishing rod that can catch even more kinds of Pokémon than the
+Old Rod
+.
+Using your new Good Rod, you can return to the following Routes to fish up new Pokémon:
+•
+Barboach
+on
+Route 111
+and
+114
+, and at
+Meteor Falls
+;
+•
+Corphish
+on
+Route 102
+and
+117
+, and at
+Petalburg City
+;
+•
+Wailmer
+on
+Route 103
+,
+105
+,
+106
+,
+107
+,
+108
+,
+109
+,
+110
+and
+115
+, and at
+Dewford Town
+.
+Gabby and Ty
+After your first interview on the south side of
+Route 111
+,
+the intrepid news team
+can be found searching for their next story on the eastern bank of
+Route 118
+'s river. Accept their challenge to another
+Double Battle
+and be sure to give them a great interview when the dust settles!
+Meet up with Steven
+As you leave the beach, you are noticed by
+Steven
+. He hasn't seen you since your first meeting in
+Granite Cave
+, and is pleased to see how much you have grown as a Trainer. He wonders if you will raise Pokémon of all types, or only a certain one.
+Route 119
+Route 119
+Known for its sweltering heat and sudden rainfalls, the spacious
+Route 119
+runs north from
+Route 118
+to
+Fortree City
+. The area is filled with patches of tall grass, which hide Trainer and wild Pokémon alike. The extreme weather conditions make this an ideal setting for the
+Weather Institute
+, located on the north end of this tropical rainforest.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Kent
+Reward:
+$
+416
+Ninjask
+♂
+Lv.
+26
+No item
+Bug Maniac
+Donald
+Reward:
+$
+1500
+Wurmple
+♂
+Lv.
+25
+No item
+Silcoon
+♂
+Lv.
+25
+No item
+Beautifly
+♂
+Lv.
+25
+No item
+Bug Catcher
+Greg
+Reward:
+$
+416
+Volbeat
+♂
+Lv.
+26
+No item
+Illumise
+♀
+Lv.
+26
+No item
+Bug Maniac
+Taylor
+Reward:
+$
+1500
+Wurmple
+♂
+Lv.
+25
+No item
+Cascoon
+♂
+Lv.
+25
+No item
+Dustox
+♂
+Lv.
+25
+No item
+Bug Catcher
+Doug
+Reward:
+$
+416
+Nincada
+♂
+Lv.
+26
+No item
+Nincada
+♂
+Lv.
+26
+No item
+Bug Maniac
+Brent
+Reward:
+$
+1620
+Surskit
+♂
+Lv.
+27
+No item
+Fisherman
+Eugene
+Reward:
+$
+960
+Requires
+Surf
+Magikarp
+♂
+Lv.
+30
+No item
+Tentacool
+♂
+Lv.
+21
+No item
+Feebas
+♂
+Lv.
+27
+No item
+Carvanha
+♂
+Lv.
+24
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+1296
+Gloom
+♀
+Lv.
+27
+No item
+Roselia
+♀
+Lv.
+27
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+1344
+Breloom
+♂
+Lv.
+28
+No item
+Bird Keeper
+Phil
+Reward:
+$
+800
+Taillow
+♂
+Lv.
+25
+No item
+Wingull
+♂
+Lv.
+25
+No item
+Swellow
+♂
+Lv.
+25
+No item
+Ninja Boy
+Takashi
+Reward:
+$
+300
+Nincada
+♂
+Lv.
+25
+No item
+Koffing
+♂
+Lv.
+25
+No item
+Ninjask
+♂
+Lv.
+25
+No item
+Bird Keeper
+Hugh
+Reward:
+$
+864
+Swellow
+♂
+Lv.
+27
+No item
+After clearing the Weather Institute
+Ninja Boy
+Yasu
+Reward:
+$
+324
+Ninjask
+♂
+Lv.
+27
+No item
+Ninja Boy
+Hideo
+Reward:
+$
+312
+Koffing
+♂
+Lv.
+26
+No item
+Koffing
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Long grass
+24-27
+30%
+Zigzagoon
+R
+S
+E
+Long grass
+25, 27
+30%
+Linoone
+R
+S
+E
+Long grass
+25, 27
+30%
+Tropius
+R
+S
+E
+Long grass
+25-27
+9%
+Kecleon
+R
+S
+E
+Long grass
+25
+1%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-35
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Carvanha
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Special Pokémon
+Feebas
+R
+S
+E
+Fishing
+Old Rod
+20-25
+50%
+Feebas
+R
+S
+E
+Fishing
+Good Rod
+20-25
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Heal
+Southernmost grass patch, in a small clearing (hidden)
+R
+S
+Super Repel
+Southernmost grass patch, in a clearing to the northwest
+R
+S
+Hyper Potion
+×2
+Southernmost grass patch, in a clearing to the northeast
+Near the muddy slope, south of the Weather Institute
+R
+S
+Zinc
+Northwest of Fisherman Eugene on the river's southern end (requires
+Surf
+)
+R
+S
+Sitrus Berry
+×2
+Soft soil patch under the larger wooden bridge
+R
+S
+Leppa Berry
+×2
+Soft soil patch under the larger wooden bridge
+R
+S
+Calcium
+Pathway to a Secret Base entrance, west of the lower waterfall (hidden, requires
+Acro Bike
+)
+R
+S
+Elixir
+Southeast of the northern bridge
+R
+S
+After clearing the Weather Institute
+Ultra Ball
+Patch of long grass east of the river, northeast of the lower waterfall (hidden, requires
+Surf
+)
+R
+S
+Leaf Stone
+Atop the lower waterfall, to the east (requires
+Surf
+)
+R
+S
+Max Ether
+Tiny strip of land at the base of the upper waterfall (hidden, requires
+Surf
+)
+R
+S
+HM02
+(
+Fly
+)
+From May/Brendan outside Fortree City, after being defeated
+R
+S
+Pomeg Berry
+×6
+In the soft soil near Fortree City
+R
+S
+Return trip
+Hondew Berry
+×4
+Soft soil patch near the upper waterfall (requires
+Surf
+,
+Waterfall
+)
+R
+S
+Rare Candy
+Northwest of the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+,
+Devon Scope
+)
+R
+S
+The Mimic Circle
+A handful of Trainers in the southernmost patch of long grass like to copy the movements of any Trainer passing by, collectively earning them the "Mimic Circle" nickname. They move when you do, so outmaneuver them to pin them down and start battling. Each one remains in a certain area, which gives you a chance to corner them.
+Rest Stop
+A small cabin stands beyond the patch of long grass. Speak to the kind woman inside, and she'll let you and your Pokémon take a quick break to restore their health.
+Weather Institute
+Located on the north end of the route, the
+Weather Institute
+is a high-tech facility used to study and research the intricacies of weather patterns across
+Hoenn
+. This research seems to have attracted the attention of
+Team Magma
+R
+/
+Team Aqua
+S
+, as several Grunts have been stationed outside.
+Trainers
+Ruby
+Trainer
+Pokémon
+1F
+Team Magma Grunt
+Reward:
+$
+560
+Numel
+♀
+Lv.
+28
+No item
+Team Magma Grunt
+Reward:
+$
+540
+Zubat
+♂
+Lv.
+27
+No item
+Poochyena
+♂
+Lv.
+27
+No item
+2F
+Team Magma Grunt
+Reward:
+$
+540
+Poochyena
+♂
+Lv.
+27
+No item
+Numel
+♂
+Lv.
+27
+No item
+Team Magma Grunt
+Reward:
+$
+520
+Poochyena
+♂
+Lv.
+26
+No item
+Zubat
+♂
+Lv.
+26
+No item
+Numel
+♂
+Lv.
+26
+No item
+Sapphire
+Trainer
+Pokémon
+1F
+Team Aqua Grunt
+Reward:
+$
+560
+Carvanha
+♀
+Lv.
+28
+No item
+Team Aqua Grunt
+Reward:
+$
+540
+Zubat
+♂
+Lv.
+27
+No item
+Poochyena
+♂
+Lv.
+27
+No item
+2F
+Team Aqua Grunt
+Reward:
+$
+540
+Poochyena
+♂
+Lv.
+27
+No item
+Carvanha
+♂
+Lv.
+27
+No item
+Team Aqua Grunt
+Reward:
+$
+520
+Poochyena
+♂
+Lv.
+26
+No item
+Zubat
+♂
+Lv.
+26
+No item
+Carvanha
+♂
+Lv.
+26
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Castform
+R
+S
+E
+Gift
+25
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mystic Water
+Held by Castform
+R
+S
+Rest and Restore Health
+Visit the back room to find some Team Magma
+R
+/Team Aqua
+S
+Grunts searching the place. Before battling them, head to the northwest room to find a comfy bed and rest your Pokémon before continuing on. There is also a PC here in case you should need to reorganize your team.
+Looking for Answers
+When you reach the second floor, you find the source of the disturbance: Magma Admin
+Courtney
+R
+/Aqua Admin
+Shelly
+S
+is harassing the researchers! She is here looking for information about extreme weather conditions, and to steal one of the Institute's
+Castform
+, a rare species of Pokémon. She can't allow you to meddle in the team's plans, and draws you into battle.
+VS Courtney
+Magma Admin
+Courtney
+Weather Institute
+Ruby
+Reward:
+$
+1120
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♀
+Lv.
+28
+Tackle
+Normal
+--
+Ember
+Fire
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+28
+Bite
+Dark
+--
+Odor Sleuth
+Normal
+--
+Roar
+Normal
+--
+Swagger
+Normal
+--
+VS Shelly
+Aqua Admin
+Shelly
+Weather Institute
+Sapphire
+Reward:
+$
+1120
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Carvanha
+♀
+Lv.
+28
+Screech
+Normal
+--
+Focus Energy
+Normal
+--
+Crunch
+Dark
+--
+Scary Face
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+28
+Bite
+Dark
+--
+Roar
+normal
+--
+Swagger
+Normal
+--
+Odor Sleuth
+Normal
+--
+The Next Step
+The Admin simply shrugs off her defeat, claiming that the team has other plans before she and the Grunts leave the building. As thanks for your help, one of the researchers even rewards you with a new Pokémon,
+Castform
+, which changes its type and appearance based on the current weather.
+Rival Battle 3
+Leave the building and cross the upper bridge.
+May
+/
+Brendan
+catches up to you when you reach the nearest stairway. Your friend wants to see how much stronger you've become, and wastes no time challenging you to a battle!
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Ruby and Sapphire
+Reward:
+$
+1,860
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♀
+Lv.
+29
+Headbutt
+Normal
+--
+PoisonPowder
+Poison
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♀
+Lv.
+29
+Rollout
+Rock
+--
+Astonish
+Ghost
+--
+Water Pulse
+Water
+--
+Whirlpool
+Water
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+31
+Double Kick
+Fighting
+--
+Bulk Up
+Fighting
+--
+Sand-Attack
+Ground
+--
+Peck
+Flying
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Ruby and Sapphire
+Reward:
+$
+1,860
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♀
+Lv.
+29
+Headbutt
+Normal
+--
+PoisonPowder
+Poison
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♀
+Lv.
+29
+Ember
+Fire
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+31
+Mud Shot
+Ground
+--
+Mud Sport
+Ground
+--
+Foresight
+Normal
+--
+Take Down
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Ruby and Sapphire
+Reward:
+$
+1,860
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♀
+Lv.
+29
+Rollout
+Rock
+--
+Astonish
+Ghost
+--
+Water Pulse
+Water
+--
+Whirlpool
+Water
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♀
+Lv.
+29
+Ember
+Fire
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+31
+Leaf Blade
+Grass
+--
+Screech
+Normal
+--
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+Once you defeat her/him, your friend rewards you with
+HM02
+(
+Fly
+). It's a strong move in battle and even more useful when used in the field, though you'll need to win the Gym Badge from the next city first. She/He then runs off, leaving you to continue on to
+Fortree City
+.
+← Part 8
+Route 112 (south), Mt. Chimney, Jagged Pass, Lavaridge Town
+Ruby and Sapphire
+walkthrough
+Fortree City, Routes 120 and 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

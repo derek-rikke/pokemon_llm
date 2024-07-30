@@ -1,0 +1,42 @@
+Game: Sun_and_Moon
+Part: 9
+Keywords: Wela Volcano Park
+
+**Part 9 Walkthrough Summary**
+
+**Royal Avenue**
+- **Pokémon Center:** Offers TMs for weather moves, each costing $50,000.
+- **Malasada Shop:** Sells various malasadas; one Big Malasada per day for $350.
+- **Battle Royal Dome:** Meet the Masked Royal and learn about Battle Royal format. Participate in a practice battle with Hau and Gladion.
+- **Thrifty Megamart:** Offers a discount coupon. Purchase Poké Balls, healing items, and donate $1,000 to Hypno for TM44 (Rest). Receive a Lemonade from a Drifloon.
+
+**Route 7**
+- Connects Route 6 to Wela Volcano Park.
+- Trainers: Swimmers Dakota, Tiare, Casey, and Vanessa (all level 18-19 Pokémon).
+- Available Pokémon: Diglett (Alolan Form), Tentacool, Finneon, Wingull, Pyukumuku (Surfing), and various others via fishing.
+
+**Wela Volcano Park**
+- **Trainers:** Sightseer Mariah, Ace Trainer Jim, Hiker Calhoun (levels 18-21).
+- **Items:** Hyper Potion (south of the entrance), Charcoal, TM39 (Rock Tomb), and Zygarde Cell locations.
+
+**Captain Kiawe's Trial**
+- Climb to the peak to begin the trial with Kiawe and his Marowak.
+- **First Dance:** Middle Pokémon (Marowak).
+- **Second Dance:** Avoid contact moves against Hiker David's Magmar.
+- **Final Dance:** Focus on defeating Totem Pokémon Salazzle.
+
+**VS Totem Salazzle Strategy**
+- Salazzle (Fire/Poison) has increased Special Defense. Use Ground, Rock, Water, and Psychic moves. 
+- Key Pokémon: Wishiwashi (level 20+) for Water-type moves, Mudbray, Kadabra for coverage.
+- After defeating Salazzle and allies, receive Firium Z, ten Quick Balls, and Charizard Glide for fast travel.
+
+**Next Steps:** Return to Route 7 and proceed north to Route 8. 
+
+**Key Items & Locations:**
+- **Royal Avenue:** Ultra Ball, Rare Candy, TM44 (Rest), Zygarde Cells.
+- **Route 7:** Max Repel, TM73 (Thunder Wave).
+- **Wela Volcano Park:** Hyper Potion, Charcoal, Burn Heal, Totem reward items.
+
+**Gameplay Elements:**
+- Focus on type advantages in battles.
+- Utilize healing items and Pokémon with varied attacks for trials.

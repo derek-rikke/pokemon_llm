@@ -1,0 +1,867 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_13
+Keywords: Nuvema Town, The Dreamyard, The Royal Unova, Relic Castle, Nimbasa City
+
+Walkthrough Text:
+Contents
+1
+Nuvema Town
+2
+Route 18
+3
+The Dreamyard
+4
+Castelia City
+4.1
+Game Freak building
+4.2
+The Royal Unova
+5
+Desert Resort
+5.1
+Relic Castle
+5.1.1
+Volcarona
+6
+Nimbasa City
+6.1
+The Battle Institute
+6.2
+Big Stadium and Small Court
+Nuvema Town
+When you walk downstairs from your room, you meet your mom's "twin". The mystery guest takes off the disguise and introduces himself by his code name,
+Looker
+, a member of the International Police. Thanks to you and the
+Gym Leaders
+,
+Team Plasma
+has fallen, but the
+Seven Sages
+are still at large. He asks you to help track them down, and gives you an item which has nothing to do with your search, the
+Super Rod
+, as thanks. Fish wherever you can to find not only stronger Pokémon, but also species foreign to the region.
+Outside,
+Bianca
+and
+Cheren
+are waiting for you. Bianca apologizes for not alerting the Striaton Gym Leaders in time, and Cheren tells you that
+Ghetsis
+escaped from custody thanks to the
+Shadow Triad
+. He asks what everyone plans to do now, and Bianca says that she's headed to the settlement east of
+Nimbasa City
+. As the three of you discuss your plans,
+Cedric Juniper
+leaves the lab. He says that he just acquired new data from an acquaintance, and upgrades everyone's
+Pokédex
+with the National Mode! Everyone goes their separate ways, leaving you free to start hunting for the sages.
+Route 18
+To find the nearest sage,
+surf
+west from
+Route 1
+, and continue west to
+Route 18
+. Rood is on the beach on the island's southwest side, staring out to sea. He tells you about
+N
+and
+Ghetsis
+, then gives you
+TM32
+(
+Double Team
+).
+Looker
+then arrives to take him into custody.
+The Dreamyard
+The obstacles are now gone, so you can now enter the basement. Some of the Trainers underground will run when you approach them. Wait around the corner, and talk to them from the side to battle them. Fight your way to the southwest part of the basement to find a
+TwistedSpoon
+, then climb up the stairs in the southeast.
+Pick up the
+Revive
+to the west, then go south to find the next of the sages. Gorm jumps out from behind the wall, and tells you about
+Team Plasma
+and
+N's Castle
+. He gives you
+TM75
+(
+Swords Dance
+) before
+Looker
+shows up to arrest him. Head west to find a
+Hyper Potion
+, move the boulder to create a shortcut, and go back down to the basement to grab
+TM85
+(
+Dream Eater
+) from the north corner. On Fridays only, a
+Musharna
+will appear in the eastern patch of grass. This is the only Musharna that can have the
+Hidden Ability
+Telepathy
+, so make sure to catch it!
+Trainers
+Trainer
+Pokémon
+Scientist
+Markus
+Reward:
+$
+3024
+Drowzee
+♂
+Lv.
+63
+No item
+Musharna
+♂
+Lv.
+63
+No item
+Hypno
+♂
+Lv.
+63
+No item
+Scientist
+Chan
+Reward:
+$
+3024
+Poliwhirl
+♀
+Lv.
+63
+No item
+Musharna
+♀
+Lv.
+63
+No item
+Parasect
+♀
+Lv.
+63
+No item
+Psychic
+Tommy
+Reward:
+$
+2016
+Beldum
+Lv.
+63
+No item
+Metang
+Lv.
+63
+No item
+Beheeyem
+♂
+Lv.
+63
+No item
+Reuniclus
+♂
+Lv.
+63
+No item
+Scientist
+Kathrine
+Reward:
+$
+3072
+Jigglypuff
+♀
+Lv.
+64
+No item
+Musharna
+♀
+Lv.
+64
+No item
+Psychic
+Future
+Reward:
+$
+2048
+Natu
+♀
+Lv.
+64
+No item
+Xatu
+♀
+Lv.
+64
+No item
+Banette
+♀
+Lv.
+64
+No item
+Scientist
+Luke
+Reward:
+$
+3072
+Musharna
+♂
+Lv.
+64
+No item
+Stantler
+♂
+Lv.
+64
+No item
+Psychic
+Rudolf
+Reward:
+$
+2080
+Starmie
+Lv.
+65
+No item
+Wobbuffet
+♂
+Lv.
+65
+No item
+Available Pokémon
+Ruins
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Patrat
+B
+W
+Grass
+8-10
+40%
+Purrloin
+B
+W
+Grass
+8-11
+40%
+Munna
+B
+W
+Grass
+8-10
+20%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+8-11
+95%
+Musharna
+B
+W
+Rustling grass
+11
+5%
+Dark grass
+Watchog
+B
+W
+Dark grass
+47
+20%
+Liepard
+B
+W
+Dark grass
+47
+20%
+Raticate
+B
+W
+Dark grass
+48
+10%
+Munna
+B
+W
+Dark grass
+48
+10%
+Ledian
+B
+W
+Dark grass
+49
+10%
+Ariados
+B
+W
+Dark grass
+49
+10%
+Kricketune
+B
+W
+Dark grass
+48, 50
+10%
+Venomoth
+B
+W
+Dark grass
+48, 50
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Basement
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Dark grass
+Raticate
+B
+W
+Dark grass
+47, 50
+35%
+Kricketune
+B
+W
+Dark grass
+47, 50
+35%
+Munna
+B
+W
+Dark grass
+48, 49
+20%
+Ledian
+B
+W
+Dark grass
+49
+5%
+Ariados
+B
+W
+Dark grass
+49
+5%
+Special Pokémon
+Musharna
+B
+W
+Only one
+50
+Once every Friday
+*
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Awakening
+×3
+In a crate east of
+Scientist
+Markus (hidden)
+In a crate north of
+Psychic
+Rudolf (hidden)
+In a crate north of
+Psychic
+Tommy (hidden)
+B
+W
+TwistedSpoon
+Southwest part of the basement
+B
+W
+Revive
+Northwest of Gorm's hiding spot
+B
+W
+TM75
+(
+Swords Dance
+)
+Gift from Gorm of the Seven Sages
+B
+W
+Hyper Potion
+Southwest of the boulder
+B
+W
+Max Potion
+In the barrels south of the boulder (hidden)
+B
+W
+TM85
+(
+Dream Eater
+)
+In the basement's northwest corner
+B
+W
+Castelia City
+Game Freak building
+Visit the Game Freak building and take the elevator to the 22
+nd
+floor. If you talk to the Sound Designer, the background music will change to that of
+Team Rocket
+, the villains of
+HeartGold and SoulSilver
+.
+The Regional Diploma
+Talk to the Game Director here when you complete the Unova Pokédex, and he will reward you with a
+Diploma
+. It will then be hung on the wall of your bedroom in
+Nuvema Town
+. He will give you a second Diploma for completing the National Pokédex, as well.
+Across from the Sound Designer is a character named
+Morimoto
+, who will battle you once per day after you defeat the Elite Four. He represents a real person that helped create most of the Pokémon video games.
+GAME FREAK
+Morimoto
+Castelia City
+Black and White
+Reward:
+$
+6160
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♂
+Lv.
+75
+Fake Out
+Normal
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Night Slash
+Dark
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simipour
+♂
+Lv.
+75
+Surf
+Water
+Special
+--
+Crunch
+Dark
+Physical
+--
+Payback
+Dark
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simisear
+♂
+Lv.
+75
+Flamethrower
+Fire
+Special
+--
+Crunch
+Dark
+Physical
+--
+Payback
+Dark
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Petaya Berry
+Simisage
+♂
+Lv.
+75
+Energy Ball
+Grass
+Special
+--
+Crunch
+Dark
+Physical
+--
+Payback
+Dark
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♂
+Lv.
+75
+Air Slash
+Flying
+Special
+--
+Endeavor
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Psyshock
+Psychic
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Lightningrod
+Held item:
+None
+Zebstrika
+♂
+Lv.
+77
+Pursuit
+Dark
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Flame Charge
+Fire
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+The Royal Unova
+Trainers can board the
+Royal Unova
+in the evening. If you defeat a certain number of Trainers on board, you can get a prize. The challenge and prize change depend on the day of the week. Talk to the crew to get hints on where the Trainers are. You can climb the stairs to the deck to view the sun setting. Whistles blow several times, and eventually the ship will return to port. Beat the Trainers within the time limit to earn your reward!
+Day
+Number of Trainers
+Prize
+Sunday
+Seven people
+Rare Candy
+Monday
+Four people
+Lava Cookie
+Tuesday
+Three people
+Berry Juice
+Wednesday
+Four people
+Lava Cookie
+Thursday
+Five people
+Old Gateau
+Friday
+Four people
+Lava Cookie
+Saturday
+Six people
+RageCandyBar
+Desert Resort
+When you try to enter the
+Relic Castle
+,
+Professor Juniper
+is just leaving the ruins. The professor was researching these ancient Pokémon statues, which are actually
+Darmanitan
+in a
+meditative state
+. She gives you a
+RageCandyBar
+to wake one of them up. The candy bar is a one-time-use item, so to wake the others, you'll need to earn one from the
+Royal Unova
+on a Saturday.
+Relic Castle
+Volcarona's room
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+2560
+Krookodile
+♂
+Lv.
+64
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sandile
+B
+W
+Tower 1F-B1F
+19-22
+50%
+Yamask
+B
+W
+Tower 1F-B1F
+19-22
+50%
+Krokorok
+B
+W
+B3F-B6F
+34-37
+50%
+Cofagrigus
+B
+W
+B3F-B6F
+34-37
+50%
+Sandslash
+B
+W
+B7F
+47-50
+30%
+Onix
+B
+W
+B7F
+48-50
+15%
+Krokorok
+B
+W
+B7F
+47-50
+35%
+Cofagrigus
+B
+W
+B7F
+48-50
+20%
+Claydol
+B
+W
+Volcarona's room
+47-50
+100%
+Special Pokémon
+Volcarona
+B
+W
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+RageCandyBar
+From
+Professor Juniper
+at the castle entrance
+B
+W
+PP Max
+Tower B3F; the lowest sand-covered floor (hidden)
+B
+W
+TM26
+(
+Earthquake
+)
+1F; the highest room in the Relic Castle Tower
+B
+W
+TM04
+(
+Calm Mind
+)
+Gift from Ryoku of the Seven Sages
+B
+W
+After entering the castle itself, continue along until you reach B5F, the room where you and
+Alder
+confronted
+Ghetsis
+. The sand has piled up so that you can reach the door on the east side of the room. In the hallway beyond, a
+Team Plasma Grunt
+runs off when you get too close. Climb down the staircase to enter a maze of underground chambers, where the same Grunt attacks you. Go west to the opposite bi-level hallway, and scale the Relic Castle Tower to the top floor to get
+TM26
+(
+Earthquake
+). Climb back down the tower and travel southeast through the maze of chambers; you'll eventually meet Ryoku of the
+Seven Sages
+. He had been planning to catch the
+Volcarona
+in the next room for
+Ghetsis
+, but abandons his plan. He gives you
+TM04
+(
+Calm Mind
+), then
+Looker
+takes him into custody.
+Volcarona
+Go north from Ryoku's room to reach the deepest part of the
+Relic Castle
+. At the back of the room is
+Volcarona
+, a
+Bug
+/
+Fire
+-type. Volcarona can't be found in the wild, though you can evolve one from the
+Larvesta
+Egg you got on
+Route 18
+. Wear down its health with
+Water
+- and
+Flying-type
+attacks first, then chip away with
+Bug
+- or
+Grass-type
+moves. Watch out for its stat-raising
+Quiver Dance
+, and toss a few
+Dusk Balls
+to capture it.
+Types:
+Bug
+Fire
+Ability:
+Flame Body
+Held item:
+SilverPowder
+Volcarona
+Lv.
+70
+Silver Wind
+Bug
+Special
+--
+Quiver Dance
+Bug
+Status
+--
+Heat Wave
+Fire
+Special
+--
+Bug Buzz
+Bug
+Special
+--
+Nimbasa City
+The Battle Institute
+Outside the Battle Institute
+You can now take the Battle Test at the
+Battle Institute
+. The test assigns challengers a rank based on the results of battling five Trainers. Aim for a high rank by challenging it with your best-trained Pokémon.
+Big Stadium and Small Court
+During practice at the
+Big Stadium and Small Court
+, the Trainers here are looking to battle. Having completed the main story, there are not only more opponents to fight, but the levels of their Pokémon are a lot higher as well. Some will give you valuable items after you defeat them, like a
+Max Revive
+or
+PP Max
+. Visit every day to get lots of items!
+← Part 12
+The Pokémon League, N's Castle
+Black and White
+walkthrough
+Driftveil City, Chargestone Cave, Celestial Tower, Twist Mountain, Opelucid City
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

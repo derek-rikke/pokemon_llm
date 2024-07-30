@@ -1,0 +1,52 @@
+Game: Red_and_Blue
+Part: 11
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone
+
+**Part 11: Route 16 to Fuchsia City**
+
+**Route 16**
+- **Travel:** Use a Bicycle to navigate south to Route 17.
+- **Trainer Battles:**
+  - Biker (Grimer Lv. 29, Koffing Lv. 29) - Reward: $580
+  - Cue Ball (Machop Lv. 28, Mankey Lv. 28) - Reward: $700
+- **Key Item:** 
+  - **HM02 (Fly):** Use Cut on a tree to access a house where a girl gives you HM02.
+
+- **Obstacle:** 
+  - **Snorlax (Lv. 30)** blocks the path. Use the Poké Flute to wake it and consider catching it.
+
+**Route 17**
+- **Travel:** Ride your Bicycle to avoid stopping.
+- **Trainer Battles:**
+  - Cue Ball (Machop Lv. 29, Machoke Lv. 29) - Reward: $725
+  - Biker (Muk Lv. 33) - Reward: $660
+- **Key Items:**
+  - Rare Candy: Hidden in tall grass.
+  - Full Restore: Hidden west of a sign.
+
+**Route 18**
+- **Trainer Battles:**
+  - Bird Keeper (Fearow Lv. 29) - Reward: $725
+- **Trade:** Find a boy needing a Slowbro to trade for his Lickitung.
+
+**Fuchsia City**
+- **Key Locations:**
+  - **Fishing Guru's Brother:** Gives you the Good Rod.
+  - **Safari Zone Warden:** Returns his Gold Teeth for HM04 (Strength).
+
+**Fuchsia Gym**
+- **Leader:** Koga (Poison-type).
+- **Strategy:** Use Psychic and Ground Pokémon against Koga's team.
+- **Battles:**
+  - Juggler (Drowzee Lv. 34) - Reward: $1190
+  - Koga (Koffing Lv. 37, Muk Lv. 39, Weezing Lv. 43) - Reward: Soul Badge and TM06 (Toxic).
+
+**Safari Zone**
+- **Cost:** $500 for 30 Safari Balls.
+- **Strategy:** Use bait or rocks to catch Pokémon without weakening them.
+- **Available Pokémon:** Nidoran♂, Nidoran♀, Exeggcute, Venonat, Rhyhorn, Chansey, etc.
+
+**Key Items in Safari Zone:**
+- Nuggets, Carbos, Full Restore, TM's, Gold Teeth, and HM03 (Surf).
+
+This streamlined guide covers essential travel routes, key item locations, trainer battles, and strategies needed to progress from Route 16 to Fuchsia City and beyond.

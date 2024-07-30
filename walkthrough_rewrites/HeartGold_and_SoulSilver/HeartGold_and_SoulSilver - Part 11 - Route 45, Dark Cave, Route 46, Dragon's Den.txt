@@ -1,0 +1,45 @@
+Game: HeartGold_and_SoulSilver
+Part: 11
+Keywords: Route 45, Dark Cave, Route 46, Dragon's Den
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 11
+
+**Location Overview:**
+- **Mahogany Town:** Home to the seventh Gym and Team Rocket HQ. Items available include RageCandyBars and TM07 (Hail) after defeating Gym Leader Pryce.
+
+**Key NPCs:**
+- **Pushy Salesman:** Sells RageCandyBars.
+- **Shady Sightseer:** Blocks Gym entrance; hints about a man in a black cape.
+
+### Route 43
+- **Trainers:** Campert Spencer (Sandshrew, Sandslash), Picnicker Tiffany (Clefairy), Poké Maniacs (various Pokémon).
+- **Items:** Blk Apricorn, Max Ether, TM36 (Sludge Bomb) after defeating Team Rocket.
+
+**Note:** Two Rocket Grunts charge a $1,000 toll to pass through the gate.
+
+### Lake of Rage
+- **Key Event:** Battle the **Red Gyarados** (Lv. 30) to obtain the **Red Scale**.
+- **Trainers:** Fisherman Andre (Gyarados), Ace Trainers (Mareep, Ninetales).
+- **Items:** Rare Candy, Choice Specs, Max Potion, various healing items.
+
+**Gyarados Battle Strategy:** Use Electric- and Rock-type moves for quick damage.
+
+### Team Rocket HQ
+- **Location:** Hidden beneath Mahogany Town. Navigate through traps and battle various Team Rocket Grunts and Scientists.
+- **Key Battles:**
+  - **Petrel (Executive):** Use Fighting and Psychic moves against his Poison and Flying-types.
+  - **Ariana (Executive):** After defeating her, help Lance disable the Electrode to stop Team Rocket's plans.
+
+**Items Available:**
+- Various healing and battle items throughout the floors.
+
+### Mahogany Gym
+- **Leader:** Pryce (Ice-type).
+- **Battle Strategy:** Use Fire-, Fighting-, Rock-, or Steel-type moves to counter his Pokémon (Seel, Dewgong, Piloswine).
+- **Rewards:** Glacier Badge (allows use of Whirlpool) and TM07 (Hail).
+
+### Next Steps
+- After leaving the Gym, you receive a call from Professor Elm about strange radio broadcasts regarding Team Rocket. Head to **Goldenrod City**'s Radio Tower to continue the story.
+
+### Summary
+In this section, you battled through Route 43 and Lake of Rage, encountered Team Rocket in Mahogany Town, and defeated Pryce in the Gym. Prepare for the next challenge at Goldenrod's Radio Tower.

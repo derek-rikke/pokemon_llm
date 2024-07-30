@@ -1,0 +1,69 @@
+Game: HeartGold_and_SoulSilver
+Part: 23
+Keywords: Route 11, Diglett's Cave, Route 2, Viridian Forest, Pewter City, Pewter Gym
+
+**Part 23: Route 11 to Pewter City**
+
+**Route 11**
+- Connects Route 12 to Vermilion City. 
+- To wake Snorlax, tune your Pokégear’s radio to the Poké Flute Channel and approach it for battle. After defeating it, Diglett's Cave will be accessible.
+- **Trainers**:
+  - Psychic Herman: Exeggcute (Lv. 39) x2, Exeggutor (Lv. 39) - Reward: $1248
+  - Youngster Jason: Sandslash (Lv. 42), Crobat (Lv. 42) - Reward: $672
+  - Youngster Owen: Growlithe (Lv. 44) - Reward: $704
+  - Psychic Fidel: Xatu (Lv. 43) - Reward: $1376
+
+- **Items**:
+  - Green Apricorn: Center tree
+  - Revive: Hidden on the north side
+  - TM86 (Grass Knot): Northeast corner
+
+**Diglett's Cave**
+- Connects Route 11 with Route 2.
+- **Available Pokémon**: 
+  - Diglett (Lv. 13-19, 90%), Dugtrio (Lv. 19-29, 10%)
+- **Items**:
+  - Max Revive: Hidden on lower level
+  - Calcium: Hidden on upper level
+
+**Route 2**
+- Connects Viridian City and Pewter City.
+- **Trainers**:
+  - Bug Catcher Ed: Burmy (Lv. 43), Beedrill (Lv. 43), Butterfree (Lv. 43) - Reward: $688
+  - Bug Catcher Doug: Butterfree (Lv. 39), Ariados (Lv. 37) - Reward: $592
+
+- **Items**:
+  - Carbos: Northeast of Diglett's Cave
+  - Pink Apricorn: South of Diglett's Cave
+  - Nugget: From a man in the first house south of Diglett's Cave
+
+**Viridian Forest**
+- Wild Pikachu can be found here.
+- **Trainers**:
+  - Bug Catcher Abner: Butterfree (Lv. 44), Beedrill (Lv. 44), Pikachu (Lv. 44) - Reward: $704
+
+- **Items**:
+  - Max Ether: Hidden in the southwest corner (requires Cut)
+  - Leaf Stone: Southwest part
+
+**Pewter City**
+- Home to the Pewter Museum of Science and Pewter Gym.
+- **Items**:
+  - Max Revive: Near Route 2 exit (hidden)
+  - Silver Wing: Given by an old man on the east side
+  - TM80 (Rock Slide): From Brock after defeating him
+
+**Pewter Gym**
+- Leader: Brock (Rock/Ground-type).
+- Use Grass and Water-type moves for effectiveness.
+- **Brock's Pokémon**:
+  - Graveler (Lv. 51), Rhyhorn (Lv. 51), Omastar (Lv. 53), Onix (Lv. 54), Kabutops (Lv. 52)
+- Defeating Brock earns the Boulder Badge and TM80 (Rock Slide).
+
+**Trade Opportunity**
+- Inside the Pokémon Center, trade a Haunter for Xatu.
+
+**Legendary Pokémon**
+- Speak to an old man on a hill for the Silver Wing (HG) or Rainbow Wing (SS) to hunt Lugia or Ho-Oh.
+
+Continue to explore or head to the next part of your journey!

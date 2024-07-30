@@ -1,0 +1,50 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 14
+Keywords: Power Plant, Viridian Gym
+
+**Part 14: Power Plant and Viridian Gym**
+
+**Power Plant Overview:**
+- The Power Plant is an abandoned industrial complex with hidden items and Electrode disguised as items.
+- Key Trainers:
+  - **Coach Trainer Mable**: Defeat for 5 Rare Candies.
+- Key Pokémon Encounter Rates:
+  - Grimer, Koffing, Magnemite, Voltorb, Electabuzz (Levels 37-42).
+- Important Items:
+  - **Max Revive**: North of entrance.
+  - **Rare Candy**: Near Mable and south-central room.
+  - **TM38 (Thunder)**: Southeast room.
+  - **Thunder Stone**: Northeast room.
+  - **Max Potion**: Near center of facility.
+  - **Paralyze Heal**: Final room.
+
+**VS Zapdos:**
+- Encounter Zapdos (Level 50) using Rock or Ice-type moves, and catch using Ultra Balls and Razz Berries.
+- After the battle, use the warp tile to exit and fly to Viridian City.
+
+---
+
+**Viridian City:**
+- Upon arrival, meet Trace outside the Gym. The Gym is closed; return to Pallet Town.
+
+**Pallet Town – Oak's Lab:**
+- Receive the **Key Stone** and Mega Stones from Blue for Mega Evolution.
+
+**Viridian Gym:**
+- The Gym specializes in Ground-type Pokémon. No formal entry requirements.
+- Spinner tiles lead you to various trainers:
+  - Battle Ace Trainer Samuel, Tamer Cole, Ace Trainer Kelly, Ace Trainer Yuji, Tamer Jason, and Black Belt Takashi.
+- **Gym Leader Giovanni**: 
+  - Pokémon: Dugtrio, Nidoqueen, Nidoking, Rhydon (Levels 49-50).
+  - Rewards: Earth Badge (ensures obedience) and TM41 (Earthquake).
+- After the battle, Giovanni disbands Team Rocket.
+
+**Next Steps:**
+- Blue arrives at the Gym and suggests heading to Route 22 for the Pokémon League.
+- Prepare for Victory Road, the challenging path before the Indigo Plateau.
+
+---
+
+**Key Points:**
+- Collect all eight Gym Badges.
+- Replenish supplies before facing Victory Road.

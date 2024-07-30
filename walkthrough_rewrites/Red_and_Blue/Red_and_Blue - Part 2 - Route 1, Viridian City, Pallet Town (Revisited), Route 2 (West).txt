@@ -1,0 +1,46 @@
+Game: Red_and_Blue
+Part: 2
+Keywords: Route 1, Viridian City, Pallet Town (Revisited), Route 2 (West)
+
+### Pokémon Red and Blue Walkthrough: Part 2
+
+**Route 1**
+- **Location:** Connects Pallet Town to Viridian City.
+- **Wild Pokémon:** 
+  - Pidgey (Levels 2-5, 50%)
+  - Rattata (Levels 2-4, 50%)
+- **Item:** 
+  - **Potion:** Get a free sample from the man near the signpost.
+
+**Viridian City**
+- **Items:**
+  - **Oak's Parcel:** From the Poké Mart shopkeeper (mandatory delivery to Professor Oak).
+  - **Hidden Potion:** Near the north exit on a small tree.
+  - **TM42 (Dream Eater):** From the sleeping man (requires Cut or Surf).
+  - **Revive:** Inside Viridian Gym.
+  - **TM27 (Fissure):** From the Gym Leader after defeating him.
+- **Pokémon Center:** Heal your Pokémon and save your game.
+- **Poké Mart:** Stock up on supplies.
+- **Pokémon Academy:** Learn about status ailments.
+
+**Pallet Town**
+- **Oak's Lab:** Deliver Oak's Parcel to receive the Pokédex.
+- **Blue's House:** Speak to his sister for a Town Map.
+
+**Route 22**
+- **Rival Battle 2:** 
+  - **Blue's Team (Level 9 Pidgey, Level 8 starter):**
+    - Charmander vs. Squirtle: Beware of Bubble.
+    - Bulbasaur: Use effective moves against Pidgey.
+    - Squirtle: Use effective moves against Pidgey and Blue's Squirtle.
+- **Items:** Heal and stock up on Poké Balls post-battle.
+
+**Route 2 (West)**
+- **Location:** Leads north to Pewter City, with Viridian Forest to the west.
+- **Wild Pokémon:**
+  - Pidgey (Levels 3-5, 45%)
+  - Rattata (Levels 2-5, 40%)
+  - Caterpie (Levels 3-5, 15%)
+  - Weedle (Levels 3-5, 15%)
+
+Proceed through the gate into Viridian Forest for new Pokémon.

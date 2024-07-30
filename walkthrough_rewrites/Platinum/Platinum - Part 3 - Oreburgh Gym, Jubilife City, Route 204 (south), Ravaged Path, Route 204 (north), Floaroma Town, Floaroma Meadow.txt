@@ -1,0 +1,59 @@
+Game: Platinum
+Part: 3
+Keywords: Oreburgh Gym, Jubilife City, Route 204 (south), Ravaged Path, Route 204 (north), Floaroma Town, Floaroma Meadow
+
+### Part 3 Walkthrough
+
+#### Oreburgh Gym
+- **Type**: Rock
+- **Leader**: Roark (Level 14 max)
+- **Recommended Types**: Use Water, Grass, Fighting, or Ground moves. Avoid Bug, Flying, Ice, and Fire types.
+- **Strategy**:
+  - **Geodude (Lv. 12)**: Use Grass or Water-type attacks.
+  - **Onix (Lv. 12)**: Watch out for Screech; switch if Defense is lowered.
+  - **Cranidos (Lv. 14)**: Use Intimidate Pokémon like Shinx to lower its Attack. One good hit should take it down.
+- **Reward**: Coal Badge and TM76 (Stealth Rock). Allows use of Rock Smash outside of battle.
+
+#### Oreburgh Gate (Optional)
+- **Items**:
+  - Big Pearl (B1F, north ledge, Rock Smash required)
+  - TM70 (Flash) (B1F, right side, Rock Smash required)
+
+#### Jubilife City
+- **Key Events**:
+  - After entering, you’ll meet Looker and encounter Team Galactic.
+  - Tag battle with Lucas/Dawn against two Galactic Grunts.
+- **Rewards**: Fashion Case from Jubilife TV employee.
+- **Pokétch Company**: After obtaining the Coal Badge, receive memo pad and unlock GTS.
+
+#### Route 204 (South)
+- **Available Pokémon**: Zubat, Wurmple, Starly, Bidoof, Kricketot, Shinx, Budew.
+- **Items**: Parlyz Heal (right of the fence).
+- **Trainers**: Defeat Youngster and two Lasses before entering Ravaged Path.
+
+#### Ravaged Path
+- **Items**: 
+  - Potion (top of stairs)
+  - TM39 (Rock Tomb, breakable rocks required)
+- **Pokémon**: Zubat, Psyduck.
+
+#### Route 204 (North)
+- **Available Pokémon**: Zubat, Wurmple, Starly, Bidoof, Kricketot, Shinx, Budew.
+- **Items**: Awakening (above Ravaged Path exit), TM09 (Bullet Seed, left of Floaroma Town entrance).
+- **Trainers**: Aroma Lady, Bug Catcher, Twins.
+
+#### Floaroma Town
+- **Items**: 
+  - Oran Berry, Cheri Berry (outside flower shop).
+  - TM88 (Pluck) from a girl in the north-western house.
+- **Events**: Receive Sprayduck watering can from flower shop; daily Berry from the shop.
+- **Next Step**: Talk to a girl about her father in Valley Windworks.
+
+#### Floaroma Meadow
+- **Events**: Fight two Galactic Grunts threatening an old man.
+- **Items**: 
+  - Works Key (from defeated Grunts).
+  - Honey (10 from the old man).
+- **Next Step**: Use the Works Key to enter Valley Windworks.
+
+Continue to proceed to the next part of your journey!

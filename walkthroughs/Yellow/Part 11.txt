@@ -1,0 +1,1383 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_11
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 16
+1.1
+Fly, Fly Away
+1.2
+Roadblock
+2
+Route 17
+3
+Route 18
+3.1
+Time for a Trade
+4
+Fuchsia City
+4.1
+Fishing Guru 2
+4.2
+Safari Zone Warden's house
+4.3
+Fuchsia Gym
+4.4
+Safari Zone
+4.4.1
+Entrance
+4.4.2
+Area 1
+4.4.3
+Area 2
+4.4.4
+Area 3
+Route 16
+Route 16
+Route 17
+Route 16
+links
+Celadon City
+to
+Route 17
+. The road southward to
+Fuchsia City
+can be dangerous for pedestrians, so be sure to bring a Bicycle.
+Trainers
+Trainer
+Pokémon
+Biker
+Reward:
+$
+580
+Grimer
+Lv.
+29
+No item
+Koffing
+Lv.
+29
+No item
+Cue Ball
+Reward:
+$
+700
+Machop
+Lv.
+28
+No item
+Mankey
+Lv.
+28
+No item
+Machop
+Lv.
+28
+No item
+Cue Ball
+Reward:
+$
+725
+Mankey
+Lv.
+29
+No item
+Machop
+Lv.
+29
+No item
+Biker
+Reward:
+$
+660
+Weezing
+Lv.
+33
+No item
+Cue Ball
+Reward:
+$
+825
+Machop
+Lv.
+33
+No item
+Biker
+Reward:
+$
+520
+Grimer
+Lv.
+26
+No item
+Grimer
+Lv.
+26
+No item
+Grimer
+Lv.
+26
+No item
+Grimer
+Lv.
+26
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Doduo
+R
+B
+Y
+Grass
+22, 24, 26
+35%
+Spearow
+R
+B
+Y
+Grass
+22-23
+30%
+Rattata
+R
+B
+Y
+Grass
+23-24
+25%
+Raticate
+R
+B
+Y
+Grass
+25-26
+5%
+Fearow
+R
+B
+Y
+Grass
+24
+5%
+Special Pokémon
+Snorlax
+R
+B
+Y
+Only one
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM02
+(
+Fly
+)
+Northwest house, from the reclusive girl (requires
+Cut
+)
+Y
+Fly, Fly Away
+Use
+Cut
+on the small tree to reach the secluded northern area. Enter the house beyond the gate and speak to the girl inside. She prefers to spend time on her own and gives you
+HM02
+(
+Fly
+) to keep her hideaway a secret. Using Fly in the field allows a Trainer to instantly travel to any city or town that had been visited previously.
+Roadblock
+A
+Snorlax
+has fallen asleep near the gate, blocking the path. Use the
+Poké Flute
+to wake the Pokémon, which attacks in a grumpy rage! Snorlax are hard to find, so catch it if you can.
+Type:
+Normal
+Unknown
+Snorlax
+Lv.
+30
+Headbutt
+Normal
+--
+Amnesia
+Psychic
+--
+Rest
+Psychic
+--
+Struggle
+Normal
+--
+Route 17
+The bridges of
+Route 17
+pass over the ocean on the way downhill to
+Route 18
+. Anyone riding a Bicycle on Cycling Road who decides to stop pedaling will continue rolling southward, unless the A or B Buttons are held.
+Trainers
+Trainer
+Pokémon
+Cue Ball
+Reward:
+$
+725
+Machop
+Lv.
+29
+No item
+Machoke
+Lv.
+29
+No item
+Cue Ball
+Reward:
+$
+725
+Mankey
+Lv.
+29
+No item
+Primeape
+Lv.
+29
+No item
+Biker
+Reward:
+$
+560
+Weezing
+Lv.
+28
+No item
+Koffing
+Lv.
+28
+No item
+Weezing
+Lv.
+28
+No item
+Biker
+Reward:
+$
+660
+Muk
+Lv.
+33
+No item
+Biker
+Reward:
+$
+580
+Voltorb
+Lv.
+29
+No item
+Voltorb
+Lv.
+29
+No item
+Cue Ball
+Reward:
+$
+825
+Machoke
+Lv.
+33
+No item
+Cue Ball
+Reward:
+$
+725
+Primeape
+Lv.
+29
+No item
+Machoke
+Lv.
+29
+No item
+Cue Ball
+Reward:
+$
+650
+Mankey
+Lv.
+26
+No item
+Mankey
+Lv.
+26
+No item
+Machoke
+Lv.
+26
+No item
+Machop
+Lv.
+26
+No item
+Biker
+Reward:
+$
+580
+Weezing
+Lv.
+29
+No item
+Muk
+Lv.
+29
+No item
+Biker
+Reward:
+$
+500
+Koffing
+Lv.
+25
+No item
+Weezing
+Lv.
+25
+No item
+Koffing
+Lv.
+25
+No item
+Koffing
+Lv.
+25
+No item
+Weezing
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Doduo
+R
+B
+Y
+Grass
+26-28
+55%
+Ponyta
+R
+B
+Y
+Grass
+28, 30, 32
+24%
+Fearow
+R
+B
+Y
+Grass
+27, 29
+20%
+Dodrio
+R
+B
+Y
+Grass
+29
+1%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rare Candy
+Tall grass patch, four steps east and two steps north of the northernmost Cue Ball
+(hidden)
+Y
+Full Restore
+One step west and six steps north of the northernmost sign
+(hidden)
+Y
+Max Revive
+Five steps west and four steps south of the fourth sign from the north
+(hidden)
+Y
+PP Up
+Eastern bridge, fourteen steps south of the second Cue Ball from the north
+(hidden)
+Y
+Max Elixer
+Three steps south and two steps west of the southernmost Biker
+(hidden)
+Y
+Route 18
+Route 18
+Route 18
+leads east from
+Route 17
+to
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Reward:
+$
+725
+Spearow
+Lv.
+29
+No item
+Fearow
+Lv.
+29
+No item
+Bird Keeper
+Reward:
+$
+650
+Spearow
+Lv.
+26
+No item
+Spearow
+Lv.
+26
+No item
+Fearow
+Lv.
+26
+No item
+Spearow
+Lv.
+26
+No item
+Bird Keeper
+Reward:
+$
+850
+Dodrio
+Lv.
+34
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Doduo
+R
+B
+Y
+Grass
+22, 24, 26
+35%
+Spearow
+R
+B
+Y
+Grass
+22-23
+30%
+Rattata
+R
+B
+Y
+Grass
+23-24
+25%
+Raticate
+R
+B
+Y
+Grass
+25-26
+5%
+Fearow
+R
+B
+Y
+Grass
+24
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Special Pokémon
+Parasect
+R
+B
+Y
+Trade
+Tangela
+Same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Time for a Trade
+Enter the gate and visit the second floor to find a boy who is looking to trade Pokémon. He is hoping to get a
+Tangela
+, and is willing to trade his
+Parasect
+for one.
+Fuchsia City
+Fuchsia City
+Fuchsia City
+is the largest city in southern
+Kanto
+, located between
+Route 18
+and
+Route 15
+. To the south, a beach leads to the waters of
+Route 19
+. The northern part of the city is occupied by rare Pokémon exhibits and a nature preserve known as the
+Safari Zone
+. Trainers aiming to earn their next Badge can challenge the
+Fuchsia Gym
+in the southwest.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Good Rod
+Southeastern-most house; from the
+Fishing Guru's brother
+Y
+HM04
+(
+Strength
+)
+Southeast house; from
+the Safari Zone Warden
+, after returning his
+Gold Teeth
+Y
+Rare Candy
+Inside the Safari Zone Warden's house (requires
+Strength
+)
+Y
+TM06
+(
+Toxic
+)
+From Koga, after defeating him
+Y
+Fishing Guru 2
+The southeastern-most house belongs to the
+Fishing Guru's brother
+. Speak to him to receive a
+Good Rod
+. This mid-level fishing rod can reel in a greater variety of water-dwelling Pokémon than the
+Old Rod
+. Give it a try at his backyard pond to find
+Poliwag
+and
+Goldeen
+to add to your collection.
+Safari Zone Warden's house
+The southeastern house belongs to
+the Safari Zone Warden
+. It is difficult to understand what he is saying, but seems to have misplaced his set of
+Gold Teeth
+. If you happen to find a set of false teeth, be sure to return it to him.
+Fuchsia Gym
+Fuchsia Gym
+Safari Zone, Entrance
+Safari Zone, Area 1
+Safari Zone, Area 2
+Safari Zone, Area 3
+FUCHSIA CITY POKéMON GYM
+LEADER: KOGA
+The Poisonous
+Ninja Master!
+The
+Fuchsia Gym
+officially specializes in
+Poison-type
+Pokémon, although there are several
+Psychic
+- and
+Ground-type
+Pokémon to be found inside. Poison Pokémon take serious damage from Psychic and Ground moves, while
+Grass
+and
+Bug
+Pokémon may struggle against them. The Gym Leader is trained in the skills of the ninja, and has installed a series of nearly invisible glass panels to disorient any challengers. Anyone looking to battle the Gym Leader must first find the path between these panels to reach the middle of the room.
+Koga
+'s team includes
+Bug
+and Poison Pokémon, so
+Fire
+-,
+Flying
+-, and
+Rock
+attacks will be the most effective. His Pokémon tend to use
+Sleep
+and
+Poisoning
+techniques, so be sure to bring along some
+Awakenings
+and
+Antidotes
+.
+Fuchsia Gym
+Trainers
+Trainer
+Pokémon
+Juggler
+Reward:
+$
+1190
+Drowzee
+Lv.
+34
+No item
+Kadabra
+Lv.
+34
+No item
+Juggler
+Reward:
+$
+1330
+Hypno
+Lv.
+38
+No item
+Juggler
+Reward:
+$
+1085
+Drowzee
+Lv.
+31
+No item
+Drowzee
+Lv.
+31
+No item
+Kadabra
+Lv.
+31
+No item
+Drowzee
+Lv.
+31
+No item
+Tamer
+Reward:
+$
+1320
+Arbok
+Lv.
+33
+No item
+Sandslash
+Lv.
+33
+No item
+Arbok
+Lv.
+33
+No item
+Tamer
+Reward:
+$
+1360
+Sandslash
+Lv.
+34
+No item
+Arbok
+Lv.
+34
+No item
+Juggler
+Reward:
+$
+1190
+Drowzee
+Lv.
+34
+No item
+Hypno
+Lv.
+34
+No item
+Koga
+Fuchsia Gym
+Yellow
+Reward:
+$
+4950
+Types:
+Bug
+Poison
+Venonat
+Lv.
+44
+Tackle
+Normal
+--
+Toxic
+Poison
+--
+Sleep Powder
+Grass
+--
+Psychic
+Psychic
+--
+Types:
+Bug
+Poison
+Venonat
+Lv.
+46
+Toxic
+Poison
+--
+Psybeam
+Psychic
+--
+Supersonic
+Normal
+--
+Psychic
+Psychic
+--
+Types:
+Bug
+Poison
+Venonat
+Lv.
+48
+Toxic
+Poison
+--
+Psychic
+Psychic
+--
+Sleep Powder
+Grass
+--
+Double-Edge
+Normal
+--
+Types:
+Bug
+Poison
+Venomoth
+Lv.
+50
+Toxic
+Poison
+--
+Psychic
+Psychic
+--
+Leech Life
+Bug
+--
+Double Team
+Normal
+--
+After the battle,
+Koga
+awards you the
+Soul Badge
+, which gives your Pokémon a slight
+Speed
+boost during battle and enables the use of
+Surf
+in the field. As a prize, he also gives you
+TM06
+(
+Toxic
+), which he claims is a secret ninja technique from over 400 years ago.
+Safari Zone
+For
+$
+500, Trainers who visit the
+Safari Zone
+are given 30
+Safari Balls
+and allowed to catch any Pokémon they can find. There is a catch: visitors are restricted from using their own Pokémon to weaken the wild Pokémon first. Instead, they may throw either bait or rocks before attempting capture. Throwing bait makes a Pokémon less likely to run, but harder to catch; throwing a rock has the opposite effect. When visitors run out of Safari Balls or walk 500 steps, the game is over.
+Available Pokémon
+Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidoran♂
+R
+B
+Y
+Grass
+14
+25%
+Nidoran♀
+R
+B
+Y
+Grass
+36
+15%
+Parasect
+R
+B
+Y
+Grass
+27, 32
+15%
+Exeggcute
+R
+B
+Y
+Grass
+24
+15%
+Nidorino
+R
+B
+Y
+Grass
+23
+10%
+Rhyhorn
+R
+B
+Y
+Grass
+20
+10%
+Paras
+R
+B
+Y
+Grass
+27
+5%
+Tangela
+R
+B
+Y
+Grass
+22
+4%
+Chansey
+R
+B
+Y
+Grass
+7
+1%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 1
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidoran♀
+R
+B
+Y
+Grass
+29
+25%
+Exeggcute
+R
+B
+Y
+Grass
+22, 26
+20%
+Nidoran♂
+R
+B
+Y
+Grass
+21
+15%
+Nidorina
+R
+B
+Y
+Grass
+32
+10%
+Cubone
+R
+B
+Y
+Grass
+19
+10%
+Tauros
+R
+B
+Y
+Grass
+21
+10%
+Marowak
+R
+B
+Y
+Grass
+24
+5%
+Chansey
+R
+B
+Y
+Grass
+21
+4%
+Scyther
+R
+B
+Y
+Grass
+15
+1%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 2
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidoran♂
+R
+B
+Y
+Grass
+36
+25%
+Nidoran♀
+R
+B
+Y
+Grass
+14
+15%
+Exeggcute
+R
+B
+Y
+Grass
+20
+15%
+Kangaskhan
+R
+B
+Y
+Grass
+28, 33
+15%
+Nidorina
+R
+B
+Y
+Grass
+23
+10%
+Rhyhorn
+R
+B
+Y
+Grass
+25
+10%
+Cubone
+R
+B
+Y
+Grass
+16
+5%
+Scyther
+R
+B
+Y
+Grass
+25
+4%
+Pinsir
+R
+B
+Y
+Grass
+15
+1%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 3
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidoran♂
+R
+B
+Y
+Grass
+29
+25%
+Exeggcute
+R
+B
+Y
+Grass
+22, 26
+20%
+Nidoran♀
+R
+B
+Y
+Grass
+21
+15%
+Nidorino
+R
+B
+Y
+Grass
+32
+10%
+Cubone
+R
+B
+Y
+Grass
+19
+10%
+Tauros
+R
+B
+Y
+Grass
+21
+10%
+Marowak
+R
+B
+Y
+Grass
+24
+5%
+Pinsir
+R
+B
+Y
+Grass
+25
+4%
+Tangela
+R
+B
+Y
+Grass
+27
+1%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Safari Ball
+×30
+Loaned for use in the Safari Game, leftovers are returned when the game ends
+Y
+Entrance
+Nugget
+On the central island (requires
+Surf
+)
+Y
+Area 1
+Carbos
+Northern part of the larger rocky ridge
+Y
+TM37
+(
+Egg Bomb
+)
+In the tall grass nearly surrounded by water
+Y
+Max Potion
+West of the smaller rocky ridge
+Y
+Full Restore
+Southwest of the rest house
+Y
+Area 2
+TM40
+(
+Skull Bash
+)
+Southwest of the rest house
+Y
+Protein
+Northwest of the rest house
+Y
+Area 3
+Gold Teeth
+Northeast of the rocky ridge
+Y
+TM32
+(
+Double Team
+)
+Southeast of the Secret House
+Y
+Revive
+Southeastern-most statue in front of the Secret House
+(hidden)
+Y
+HM03
+(
+Surf
+)
+Secret House; from a safari official as a reward
+Y
+Max Potion
+In the tall grass at the southwest base of the mountain
+Y
+Max Revive
+Southeast side of the rocky ridge
+Y
+Entrance
+Enter the safari and head to the northeast to reach the second area.
+Area 1
+Climb onto the larger rocky ridge to the south and pick up the
+Carbos
+. Head west to reach several patches of tall grass,
+TM37
+(
+Egg Bomb
+) on the edge of a lake, and a
+Max Potion
+to the northwest. Collect the
+Full Restore
+near the rest house and take the northeast exit.
+Area 2
+Go northwest through the tall grass and climb onto the rocky ridge. Head northeast from the three ponds to find
+TM40
+(
+Skull Bash
+). Turn west near the rest house to pick up a
+Protein
+and follow the path to the southwest exit.
+Area 3
+Head south to find a set of
+Gold Teeth
+, then go west to get
+TM32
+(
+Double Team
+) before entering the Secret House. It seems that no one else has ventured this deep into the park, so the
+HM03
+(
+Surf
+) is yours. Use it on a
+Water
+Pokémon, like
+Gyarados
+or
+Lapras
+, and you can cross the pond to the south to reach a
+Max Potion
+and a
+Max Revive
+on the way back to the entrance. Otherwise, you can backtrack through the other areas until the timer runs out, which likely will not be much longer.
+← Part 10
+Saffron City, Silph Co., Saffron Gym
+Yellow
+walkthrough
+Routes 12, 13, 14 and 15, Route 19, Route 20, Seafoam Islands
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

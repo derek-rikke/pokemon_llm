@@ -1,0 +1,57 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 17
+Keywords: Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+
+**Walkthrough: Part 17 - Route 126 to Sootopolis City**
+
+**Route 126**
+- Route 126 is surrounded by water; access Sootopolis City only via Diving.
+- Notable Trainers:
+  - Triathlete Denzel (Azumarill, Lv. 39)
+  - Swimmer Barry (Gyarados, Lv. 39)
+  - Ace Trainer Leopold (Vibrava, Lv. 39; Rhydon, Lv. 39)
+- Key Items:
+  - Green Shard (Northwest island, requires Dive)
+  - Heart Scale (Northern area, hidden)
+  - Various hidden items in seaweed patches.
+
+**Sootopolis City**
+- Rest at the Pokémon Center before proceeding.
+- Meet Steven and Wallace, who guides you to the Cave of Origin.
+- Obtain the Magma Suit (OR) or Aqua Suit (AS) before entering the cave.
+
+**Cave of Origin**
+1. **Entrance**: Navigate through the cave's floors.
+2. **Floor Details**:
+   - 1F: Find a hidden X Attack.
+   - B1F: Retrieve a Revive.
+   - B2F to B4F: Proceed northward to descend deeper.
+3. **Final Chamber**: 
+   - Face **Groudon** (OR) or **Kyogre** (AS) at Lv. 45.
+   - Groudon: Use Water moves; avoid Fire.
+   - Kyogre: Use Grass and Electric moves.
+
+**Aftermath**
+- After defeating the super-ancient Pokémon, you receive the other Orb from Maxie (OR) or Archie (AS).
+- Steven gifts you the Eon Flute, allowing you to soar through Hoenn.
+
+**Sootopolis Gym**
+- **Leader**: Wallace (Water-type).
+- Best counter: Grass and Electric moves.
+- Gym puzzles:
+  - First: 5x5 ice grid.
+  - Second: 7x7 ice grid.
+  - Final: 7x15 ice grid.
+- Notable Gym Trainers:
+  - Poké Fan Marissa (Azumarill, Lv. 43)
+  - Beauty Olivia (Starmie, Lv. 43)
+- **Wallace's Team**:
+  - Luvdisc (Lv. 44)
+  - Whiscash (Lv. 44)
+  - Sealeo (Lv. 44)
+  - Seaking (Lv. 44)
+  - Milotic (Lv. 46)
+
+**Rewards**: Defeating Wallace earns you the Rain Badge and HM05 (Waterfall).
+
+**Next Steps**: Head to the Pokémon League in Ever Grande City or explore remaining areas of Hoenn. Consider visiting Professor Birch for a new Pokédex.

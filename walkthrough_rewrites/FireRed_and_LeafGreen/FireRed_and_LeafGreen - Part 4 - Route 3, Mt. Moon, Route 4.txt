@@ -1,0 +1,40 @@
+Game: FireRed_and_LeafGreen
+Part: 4
+Keywords: Route 3, Mt. Moon, Route 4
+
+## Pokémon FireRed and LeafGreen Walkthrough: Part 4 
+
+### Route 3
+- **Overview**: Leads east from Pewter City into Route 4. 
+- **Trainers**:
+  - **Lass Janice**: 2x Pidgey (Lv. 9) - Reward: $144
+  - **Bug Catcher Colton**: Caterpie (Lv. 10), Weedle (Lv. 10) - Reward: $120
+  - **Youngster Ben**: Rattata (Lv. 11), Ekans (Lv. 11) - Reward: $176
+  - **Lass Sally**: Rattata (Lv. 10), Nidoran♀ (Lv. 10) - Reward: $160
+- **Available Pokémon**: Pidgey, Spearow, Nidoran (♂/♀), Jigglypuff, Mankey.
+- **Items**: Oran Berry (hidden), located between ledges near Youngster Calvin.
+
+### Route 4 (West)
+- **Magikarp Salesman**: Available at the Pokémon Center for $500.
+- **Available Pokémon**: Magikarp (gift, Lv. 5).
+
+### Mt. Moon
+- **Overview**: Contains Trainers and Pokémon like Zubat and Paras.
+- **1F Items**:
+  - TM09 (Bullet Seed), Parlyz Heal, Potion, Rare Candy, Escape Rope, Moon Stone.
+- **B2F Items**:
+  - Star Piece, TM46 (Thief), Ether, Moon Stone, Revive. 
+- **Key Trainers**:
+  - **Super Nerd Jovan**: Magnemite (Lv. 11), Voltorb (Lv. 11) - Reward: $264.
+  - **Team Rocket Grunts**: Various Pokémon (Lv. 11-13) - Rewards vary.
+- **Fossils**: Defeat Super Nerd Miguel to choose between Dome Fossil (Kabuto) and Helix Fossil (Omanyte).
+
+### Route 4 (East)
+- **Overview**: Descends towards Cerulean City.
+- **Available Pokémon**: Rattata, Spearow, Ekans, Sandshrew, Mankey.
+- **Items**: Great Ball (hidden), Razz Berry (hidden), TM05 (Roar).
+- **Move Tutors**: 
+  - Left Tutor: Mega Punch
+  - Right Tutor: Mega Kick (one-time service).
+
+Follow this path to progress efficiently through Route 3, Mt. Moon, and Route 4, collecting items and battling trainers along the way.

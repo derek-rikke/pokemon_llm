@@ -1,0 +1,85 @@
+Game: Sun_and_Moon
+Part: 4
+Keywords: Verdant Cavern
+
+# Part 4: Route 2, Hau'oli Cemetery, Berry Fields, Trial 1: Verdant Cavern
+
+## Route 2
+- **Location:** Northwest Melemele Island, connecting Hau'oli City to Route 3.
+- **Trainers:** 
+  - Beauty Krystal (Gastly, Lv. 9)
+  - Preschooler Kaleb (Spearow, Lv. 8)
+  - Backpacker Ashley (Cottonee, Lv. 10)
+  - Pokémon Breeder Jay (Butterfree, Lv. 10)
+  - Lass Isabella (Misdreavus, Lv. 9)
+  - Preschooler Malia (Cutiefly, Lv. 9)
+
+### Available Pokémon
+- **Southern Grass:** Meowth, Abra, Drowzee, Smeargle, Yungoos.
+- **Northern Grass:** Spearow, Growlithe, Cutiefly.
+- **Rustling Grass:** Yungoos, Alolan Rattata, Makuhita.
+
+### Items
+- **Heal Ball:** Near Hau'oli Cemetery entrance.
+- **Super Potion x2:** Motel parking lot.
+- **Repel:** Behind a lamppost in the motel lot.
+- **Nest Ball x2:** Inside the motel from a Collector.
+- **Stardust:** Behind the house at Berry Fields.
+
+## Hau'oli Cemetery
+- **Location:** Southeastern Route 2.
+- **Trainers:**
+  - Pokémon Breeder Ikue (Pikachu, Lv. 9)
+  - Gentleman Stanley (Makuhita, Lv. 9)
+  - Office Worker Jeremy (Alolan Diglett, Lv. 9)
+
+### Available Pokémon
+- Gastly, Drifloon, Misdreavus, Zubat.
+
+### Items
+- **Great Ball:** Near cemetery entrance.
+- **Ether:** Southernmost intersection.
+- **TM100 (Confide):** East side of the cemetery.
+
+## Berry Fields
+- **Location:** North of Route 2.
+- **Trainer:** Team Skull Grunt (Drowzee, Lv. 10).
+- **Items:**
+  - **Oran Berry:** From caretaker after defeating Team Skull.
+  - **Silver Powder:** Behind caretaker's house.
+  - **Big Mushroom:** Southwest corner of the fields.
+
+### Team Skull Encounter
+- Defeat Team Skull Grunts harassing the caretaker to receive an Oran Berry.
+
+## Pokémon Center
+- **Meet Hau:** He gives you 3 Revives and informs you about Verdant Cavern being sacred.
+- **Trade Opportunity:** Trade a Spearow for Machop, useful for Ilima’s trial.
+
+## Verdant Cavern
+- **Captain Ilima:** Outside the cave, warns about fierce Pokémon.
+- **Trial Objective:** Defeat three Pokémon in their dens to access the Z-Crystal.
+
+### Available Pokémon
+- Zubat, Alolan Diglett, Yungoos.
+
+### Items
+- **Super Potion x2:** Near cave entrance and northeast corner.
+- **TM31 (Brick Break):** On ledge northwest of entrance.
+
+### Trial Steps
+1. Defeat Pokémon in dens.
+2. Collect items like Super Potions and Revives.
+3. Face Team Skull Grunts during the trial.
+4. Finally, battle the **Totem Pokémon** (Gumshoos or Raticate) and its ally.
+
+### Totem Battle Strategy
+- **Type:** Fighting-type moves are effective against Totem Pokémon.
+- **Pokémon Sun:** Totem Gumshoos with ally Yungoos.
+- **Pokémon Moon:** Totem Raticate with ally Rattata.
+
+### Post-Trial
+- Receive **Normalium Z** from Ilima and a tutorial on Z-Moves.
+- Ilima opens the path to Route 3; inform Kahuna Hala of your victory.
+
+With this concise guide, you are ready to navigate Route 2, Hau'oli Cemetery, Berry Fields, and complete your first trial in Verdant Cavern!

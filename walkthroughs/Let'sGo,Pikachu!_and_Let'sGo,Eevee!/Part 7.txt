@@ -1,0 +1,823 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 11
+1.1
+Strive for Success
+1.2
+Diglett's Cave
+2
+Route 2 (East)
+2.1
+Let There Be Light
+2.2
+Meet Up with Trace
+3
+Pewter City
+3.1
+Pewter Museum of Science
+3.2
+Fork in the Road
+4
+Route 9
+5
+Route 10 (North)
+5.1
+Ambush!
+Route 11
+Route 11
+Diglett's Cave
+Route 11
+is a grassy path between
+Vermilion City
+and
+Route 12
+to the east. The southeastern end of
+Diglett's Cave
+can be found here, and leads back to
+Route 2
+.
+Trainers
+Trainer
+Pokémon
+Coach Trainer
+Will
+Reward:
+$
+2,100
+Rattata
+♂
+Lv.
+21
+No item
+Sailor
+Dirk
+Reward:
+$
+1,080
+3
+Poké Balls
+Poliwag
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Youngster
+Eddie
+Reward:
+$
+320
+3
+Poké Balls
+Nidorino
+♂
+Lv.
+16
+No item
+Gentleman
+Wilco
+Reward:
+$
+2,160
+3
+Poké Balls
+Vulpix
+♀
+Lv.
+18
+No item
+Engineer
+Bernie
+Reward:
+$
+1,080
+3
+Poké Balls
+Magnemite
+Lv.
+18
+No item
+Voltorb
+Lv.
+18
+No item
+Engineer
+Braxton
+Reward:
+$
+1,080
+3
+Poké Balls
+Voltorb
+Lv.
+18
+No item
+Gamer
+Hugo
+Reward:
+$
+3,120
+3
+Poké Balls
+Diglett
+♂
+Lv.
+26
+No item
+Sailor
+Yasu
+Reward:
+$
+1,080
+3
+Poké Balls
+Slowpoke
+♂
+Lv.
+18
+No item
+Lass
+Tomoe
+Reward:
+$
+320
+3
+Poké Balls
+Jigglypuff
+♂
+Lv.
+16
+No item
+Nidorina
+♀
+Lv.
+16
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+13-18
+25%
+Rattata
+P
+E
+Grass
+13-18
+25%
+Drowzee
+P
+E
+Grass
+13-18
+25%
+Pidgeotto
+P
+E
+Grass
+13-18
+10%
+Raticate
+P
+E
+Grass
+13-18
+10%
+Mr. Mime
+P
+E
+Grass
+13-18
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+13-18
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pikachu Candy
+×5
+From Coach Trainer Will, after defeating him
+P
+Eevee Candy
+×5
+From Coach Trainer Will, after defeating him
+E
+Super Potion
+South side of the route, between two grass patches
+P
+E
+X Defense
+Middle of the route, between two grass patches
+P
+E
+Lure
+North side of the route, northeast of Gentleman Wilco
+P
+E
+Super Repel
+Northeast part of the route, at the end of the path
+P
+E
+Revive
+North of the gate, on a rock
+(hidden)
+(daily)
+P
+E
+Great Ball
+×5
+South of the gate, in front of the fence
+P
+E
+Other items
+Razz Berry
+Northwest corner of the route, in the bush; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Silver Razz Berry
+Northwest corner of the route, in the bush; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Golden Razz Berry
+Northwest corner of the route, in the bush; often found by the
+player
+'s
+walking Pokémon
+P
+E
+Strive for Success
+Visit the
+gate
+on the route's east side and speak to the Scientist. He happens to be one of
+Professor Oak
+'s
+aides
+and has been tasked with evaluating your
+Pokédex
+progress. If you have caught at least 30 different species, he rewards you by unlocking the
+Judge function
+. This can be used at any time from a Pokémon's status screen to view its
+battle potential
+.
+Diglett's Cave
+Diglett's Cave
+is a long tunnel that spans nearly the whole region, linking
+Route 11
+to the east side of
+Route 2
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+P
+E
+Cave
+13-18
+85%
+Zubat
+P
+E
+Cave
+13-18
+10%
+Dugtrio
+P
+E
+Cave
+13-18
+5%
+Rare Spawns
+Chansey
+P
+E
+Cave
+13-18
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 2 (East)
+Route 2
+The east side of
+Route 2
+was initially inaccessible without
+Chop Down
+. The northwestern end of
+Diglett's Cave
+emerges here.
+Items
+Item
+Location
+Games
+Great Ball
+×5
+North of Diglett's Cave
+P
+E
+Light Up
+In the house south of Diglett's Cave; from Oak's aide, after catching at least 10 different species
+P
+E
+Leaf Stone
+South of the gate and the first ledge (requires
+Chop Down
+)
+P
+E
+Super Potion
+South of the second ledge (requires
+Chop Down
+)
+P
+E
+Let There Be Light
+One of
+Oak
+'s
+aides
+is waiting for you near the house outside
+Diglett's Cave
+. He has a trick to demonstrate for you, but invites you inside as it is too bright for it outdoors. As a reward for capturing at least 10 different species, he teaches your
+partner Pokémon
+a new
+Secret Technique
+, Light Up. This move makes it easier to navigate the dark interior of
+certain underground areas
+.
+Meet Up with Trace
+When you step outside, you run into
+Trace
+again. He is surprised that it was your partner Pokémon who has learned Light Up instead of you, and mentions someplace where you may be able to put it to use. He offers to take you there; if you decide to travel with him, he leads you back to the east side of
+Cerulean City
+.
+Pewter City
+Pewter Museum of Science
+On this latest visit to
+Pewter City
+, you can use
+Chop Down
+to clear the small tree on the northeast hill to reach the employee-only area of the
+museum
+. Speak to the Scientist standing next to the table to receive the
+Old Amber
+. There are Scientists elsewhere who have apparently developed a way to regenerate Pokémon from ancient bits of DNA like this.
+Fork in the Road
+If you did not take Trace's offer to travel together, the next step is to return to
+Cerulean City
+. There are two ways to get back there: either travel east through
+Mt. Moon
+again, or hike back through
+Diglett's Cave
+and head north from
+Vermilion City
+. Once back in Cerulean City, make your way to the east side of town and use
+Chop Down
+to clear the small tree and continue eastward.
+Route 9
+Route 9
+Route 9
+is a rocky, uneven mountain road that links
+Cerulean City
+and
+Route 10
+.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Alicia
+Reward:
+$
+420
+2
+Great Balls
+Eevee
+♀
+Lv.
+21
+No item
+Gloom
+♀
+Lv.
+21
+No item
+Bug Catcher
+Conner
+Reward:
+$
+228
+3
+Poké Balls
+Paras
+♂
+Lv.
+19
+No item
+Hiker
+Jeremy
+Reward:
+$
+880
+3
+Poké Balls
+Onix
+♀
+Lv.
+22
+No item
+Camper
+Drew
+Reward:
+$
+420
+2
+Great Balls
+Sandshrew
+♂
+Lv.
+21
+No item
+Raticate
+♂
+Lv.
+21
+No item
+Youngster
+Chris
+Reward:
+$
+400
+3
+Poké Balls
+Diglett
+♂
+Lv.
+20
+No item
+Fearow
+♂
+Lv.
+20
+No item
+Black Belt
+Brice
+Reward:
+$
+644
+3
+Poké Balls
+Mankey
+♂
+Lv.
+23
+No item
+Picnicker
+Caitlin
+Reward:
+$
+420
+2
+Great Balls
+Goldeen
+♀
+Lv.
+21
+No item
+Pidgeotto
+♀
+Lv.
+21
+No item
+Hiker
+Alan
+Reward:
+$
+880
+3
+Poké Balls
+Geodude
+♂
+Lv.
+22
+No item
+Geodude
+♂
+Lv.
+22
+No item
+Geodude
+♂
+Lv.
+22
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+17-22
+20%
+Spearow
+P
+E
+Grass
+17-22
+20%
+Nidoran♀
+P
+E
+Grass
+17-22
+15%
+Nidoran♂
+P
+E
+Grass
+17-22
+15%
+Raticate
+P
+E
+Grass
+17-22
+10%
+Fearow
+P
+E
+Grass
+17-22
+10%
+Nidorina
+P
+E
+Grass
+17-22
+5%
+Nidorino
+P
+E
+Grass
+17-22
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+17-22
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+×2
+Southwest corner of the route
+Northeast part of the route, north of Camper Drew
+P
+E
+Ether
+Northwest corner of the route
+P
+E
+Poké Ball
+×5
+Middle of the route, south of Youngster Chris
+P
+E
+Pinap Berry
+×5
+Southeast corner of the route, east of Hiker Alan
+(hidden)
+P
+E
+Route 10 (North)
+Route 10
+Route 10
+connects
+Route 9
+to
+Lavender Town
+in the south. Much of the route is occupied by a river and the grounds of the
+Kanto Power Plant
+. Anyone traveling through the area must venture through the dim interior of
+Rock Tunnel
+. A remote Pokémon Center near the cave gives Trainers a chance to prepare themselves.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+616
+Raticate
+♂
+Lv.
+22
+No item
+Camper
+Vance
+Reward:
+$
+440
+2
+Great Balls
+Eevee
+♀
+Lv.
+22
+No item
+Psyduck
+♂
+Lv.
+22
+No item
+Coach Trainer
+Tasha
+Reward:
+$
+2,600
+Poliwhirl
+♂
+Lv.
+25
+No item
+Primeape
+♀
+Lv.
+26
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+18-23
+15%
+Spearow
+P
+E
+Grass
+18-23
+15%
+Nidoran♀
+P
+E
+Grass
+18-23
+15%
+Nidoran♂
+P
+E
+Grass
+18-23
+15%
+Raticate
+P
+E
+Grass
+18-23
+10%
+Fearow
+P
+E
+Grass
+18-23
+10%
+Krabby
+P
+E
+Grass
+18-23
+10%
+Nidorina
+P
+E
+Grass
+18-23
+5%
+Nidorino
+P
+E
+Grass
+18-23
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+18-23
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Lure
+South of the intersection with Route 9
+(hidden)
+(daily)
+P
+E
+Super Potion
+Northeast of the tall grass patch, inside the fence
+P
+E
+Poké Ball
+×5
+Southwest of the Rock Tunnel entrance, south of Coach Trainer Tasha
+P
+E
+TM13
+(
+Brick Break
+)
+From Coach Trainer Tasha, after defeating her
+P
+E
+Great Ball
+×3
+Between the cave entrance and the Pokémon Center
+P
+E
+Ambush!
+When you try to move south past the Pokémon Center, you are stopped by a
+Team Rocket
+Grunt. He recognizes you as the person who continues to thwart the group's plans, and calls over two more Grunts. A fourth appears from behind the building, blocking your escape. They hold you responsible for ruining Team Rocket's reputation and plan to get their revenge. As the Grunts close in, a red-haired woman passing by on her
+Lapras
+steps in. She cannot forgive ganging up on a child and takes on three of the Grunts, leaving only one left for you to battle.
+The three Grunts are dumbfounded. Even outnumbered, the woman defeats them with ease. She introduces herself as
+Lorelei
+of the
+Elite Four
+and threatens to freeze them all solid with her powerful
+Ice-type
+Pokémon, scaring them off in a hurry. She notices that you are collecting Gym Badges, and looks forward to the day when you challenge the
+Pokémon League
+.
+← Part 6
+Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Rock Tunnel, Route 10, Lavender Town, Route 8, Route 7
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

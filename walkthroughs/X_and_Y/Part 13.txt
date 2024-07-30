@@ -1,0 +1,919 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_13
+Keywords: Snowbelle City, Route 20, Pokémon Village, Snowbelle Gym
+
+Walkthrough Text:
+Contents
+1
+Snowbelle City
+1.1
+Pokémon Center
+1.2
+Move Tutor
+1.3
+Time for a Trade
+2
+Route 20
+2.1
+Entrance
+2.2
+Area 1
+2.3
+Area 2
+2.4
+Area 3
+2.5
+Area 4
+2.6
+Area 3
+2.7
+Area 5
+2.8
+Area 6
+2.9
+Area 7
+2.10
+Area 5
+3
+Pokémon Village
+3.1
+Meet Wulfric
+3.2
+Unknown Dungeon
+4
+Snowbelle City
+4.1
+Snowbelle Gym
+Snowbelle City
+Snowbelle City
+Snowbelle City
+stands between
+Route 19
+to the east,
+Route 20
+to the south, and
+Route 21
+to the west. You've traveled far to reach this snowcapped city, home of the eighth and final Gym. Unfortunately, the local Gym Leader isn't around when you first arrive. You'll need to track him down in the worrisomely-named Winding Woods before you can claim your final Badge.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Bisharp
+X
+Y
+Trade
+Jigglypuff
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Gracidea
+From a girl in the Pokémon Center (requires
+Shaymin
+in your party)
+X
+Y
+X Sp. Atk
+In the tree next to the Move Tutor's house (hidden)
+X
+Y
+Full Restore
+Southwest corner, down an icy slope
+X
+Y
+Full Heal
+Northwest corner of the Gym (hidden)
+X
+Y
+Icy Rock
+Northeast of the Boutique, in a small ice formation (hidden)
+X
+Y
+Revive
+From a man in the lone northeast house, if shown a Pokémon with
+Mat Block
+X
+Y
+TM08
+(
+Bulk Up
+)
+North of the Pokémon Center, from a Battle Girl in the left house
+X
+Y
+After defeating the Snowbelle Gym
+TM13
+(
+Ice Beam
+)
+From Wulfric upon his defeat
+X
+Y
+Pokémon Center
+Mr. Bonding
+is warming up inside the local Pokémon Center. Speak to him to receive a new O-Power,
+PP Restoring Power
+. This lets you replenish your lead Pokémon's Power Points, which will be a great help soon when you set out on the long path through Victory Road.
+There is also a woman near the PC who talks about the
+Gracidea
+, a type of flower that resembles those of a certain legendary Pokémon from the far-off
+Sinnoh
+region. Speak to her with a
+Shaymin
+in your party to receive one of these flowers, which allows the Pokémon to
+change form
+.
+Move Tutor
+The southwest house belongs to an old man and his wife. This Move Tutor can teach your starter Pokémon the ultimate move of its type. These attacks are so powerful that the user is forced to rest on the next turn.
+Ultimate Move
+Type
+Learned by
+Frenzy Plant
+Blast Burn
+Hydro Cannon
+Time for a Trade
+The woman in the northwest house is looking to trade. She would like to have a
+Jigglypuff
+, and would gladly trade her
+Bisharp
+for it. Jigglypuff can be found on
+Route 20
+and in
+Pokémon Village
+.
+Route 20
+Route 20
+Route 20
+, or Winding Woods, leads south from
+Snowbelle City
+to
+Pokémon Village
+. The path was designed to disturb the woods as little as possible, so it meanders its way among the trees. Some of these trails seem to bend the very laws of nature by leading back to previous areas. Try to keep your bearings as you search for the Gym Leader.
+Trainers
+Trainer
+Pokémon
+Twins
+Nana & Nina
+Reward:
+$
+1696
+Slurpuff
+♀
+Lv.
+53
+No item
+Aromatisse
+♀
+Lv.
+53
+No item
+Poké Fan
+Roisin
+Reward:
+$
+4240
+Snubbull
+♀
+Lv.
+51
+No item
+Granbull
+♀
+Lv.
+53
+No item
+Fairy Tale Girl
+Wynne
+Reward:
+$
+1664
+Klefki
+♀
+Lv.
+52
+No item
+Azumarill
+♀
+Lv.
+52
+No item
+Poké Fan
+Corey
+Reward:
+$
+4320
+Dedenne
+♂
+Lv.
+54
+No item
+Hex Maniac
+Desdemona
+Reward:
+$
+1728
+Trevenant
+♀
+Lv.
+54
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Jigglypuff
+X
+Y
+Grass
+48-49
+Average
+Noctowl
+X
+Y
+Grass
+48-50
+Average
+Amoonguss
+X
+Y
+Grass
+48-50
+Average
+Gothorita
+X
+Y
+Grass
+48-50
+Rare
+Trevenant
+X
+Y
+Grass
+50
+Rare
+Zoroark
+X
+Y
+Grass
+48, 50
+Very Rare
+Red Flowers
+Gothorita
+X
+Y
+Red Flowers
+49-50
+Average
+Amoonguss
+X
+Y
+Red Flowers
+48-50
+Average
+Trevenant
+X
+Y
+Red Flowers
+48-50
+Average
+Jigglypuff
+X
+Y
+Red Flowers
+48-50
+Rare
+Noctowl
+X
+Y
+Red Flowers
+48-50
+Rare
+Zoroark
+X
+Y
+Red Flowers
+48-50
+Very Rare
+Horde Encounter
+Foongus
+X
+Y
+Horde Encounter
+25
+Common
+Trevenant
+X
+Y
+Horde Encounter
+25
+Average
+Sudowoodo
+X
+Y
+Horde Encounter
+25
+Rare
+with Trevenant
+Trevenant
+X
+Y
+Horde Encounter
+25
+Rare
+with Sudowoodo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Kasib Berry
+From the Berry tree, near the Snowbelle entrance
+X
+Y
+Paralyze Heal
+East of the Kasib Berry tree
+X
+Y
+Meadow Plate
+Two clearings south of the Snowbelle entrance
+X
+Y
+Antidote
+In the big tree near Poké Fan Roisin (hidden)
+X
+Y
+Protein
+In the red flower patch near Poké Fan Corey (requires
+Cut
+)
+X
+Y
+Repeat Ball
+In a tree stump, west of Poké Fan Corey (hidden, requires
+Cut
+)
+X
+Y
+Mental Herb
+In a big tree, east of the J-shaped clearing (hidden)
+X
+Y
+Tiny Mushroom
+In a bare patch of earth in the T-shaped clearing (hidden)
+X
+Y
+X Accuracy
+In the area atop the stone stairway
+X
+Y
+Balm Mushroom
+In the area atop the stone stairway (hidden)
+X
+Y
+TM53
+(
+Energy Ball
+)
+Near Hex Maniac Desdemona (requires
+Cut
+)
+X
+Y
+Entrance
+The first stretch of woods houses a large boulder
+covered in moss
+. Take the western passage to reach a
+Kasib Berry
+tree and a
+Paralyze Heal
+, then backtrack and head south from the boulder.
+Area 1
+Take the southern passage to reach a dead-end with a
+Meadow Plate
+, then backtrack and head west.
+Area 2
+Go west past Twins Nana & Nina, then take the southern passage. Visit the clearing beyond to find Poké Fan Roisin and a hidden
+Antidote
+, then backtrack to the Twins and hike northward.
+Area 3
+Go north toward Fairy Tale Girl Wynne, then take the western passage.
+Area 4
+Cut
+down the tree to reach Poké Fan Corey and a
+Protein
+in the patch of red flowers behind him. Check the tree stumps for a hidden
+Repeat Ball
+before returning to the previous area.
+Area 3
+This time, take the southwest passage near Fairy Tale Girl Wynne and cross the circular clearing beyond.
+Area 5
+This stretch of forest is shaped like the letter "J". Go east to reach a dead-end circular clearing with a hidden
+Mental Herb
+.
+Area 6
+After collecting the Mental Herb and heading back west, you are transported to a T-shaped clearing. Inspect one of the bare patches of earth to find a
+Tiny Mushroom
+, then take the southern passage.
+Area 7
+Head west and climb the stairway to reach an
+X Accuracy
+and a hidden
+Balm Mushroom
+. Descend,
+Cut
+down the tree, and take the western passage. This leads to a dead-end with Hex Maniac Desdemona and
+TM53
+(
+Energy Ball
+). Grab the item and head back east.
+Area 5
+This returns you to the J-shaped clearing. Go southwest to reach the exit.
+Pokémon Village
+Pokémon Village
+Pokémon Village
+is a secret home to runaway Pokémon who have been mistreated by cruel Trainers. As a result, most of the Pokémon here are timid and will flee at the sight of most humans—that is, unless they sense a strong friendship between the visitor and their Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Yellow Flowers
+Ditto
+X
+Y
+Yellow Flowers
+48-49
+Average
+Gothorita
+X
+Y
+Yellow Flowers
+48-50
+Average
+Amoonguss
+X
+Y
+Yellow Flowers
+49-50
+Average
+Jigglypuff
+X
+Y
+Yellow Flowers
+50
+Rare
+Noctowl
+X
+Y
+Yellow Flowers
+50
+Rare
+Zoroark
+X
+Y
+Yellow Flowers
+48-50
+Rare
+Purple Flowers
+Jigglypuff
+X
+Y
+Purple Flowers
+50
+Average
+Noctowl
+X
+Y
+Purple Flowers
+50
+Average
+Amoonguss
+X
+Y
+Purple Flowers
+49-50
+Average
+Ditto
+X
+Y
+Purple Flowers
+48-50
+Rare
+Gothorita
+X
+Y
+Purple Flowers
+48-50
+Rare
+Zoroark
+X
+Y
+Purple Flowers
+48-52
+Rare
+Horde Encounter
+Foongus
+X
+Y
+Horde Encounter
+25
+Common
+Poliwag
+X
+Y
+Horde Encounter
+25
+Average
+Noctowl
+X
+Y
+Horde Encounter
+25
+Rare
+Lombre
+X
+Y
+Horde Encounter
+25
+Rare
+Surfing
+Lombre
+X
+Y
+Surfing
+48-49
+Common
+Poliwhirl
+X
+Y
+Surfing
+48
+Average
+Fishing
+Poliwag
+X
+Y
+Fishing
+Old Rod
+30
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+Common
+Basculin
+X
+Y
+Fishing
+Good Rod
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+40
+Average
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+50
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+50
+Average
+Basculin
+X
+Y
+Fishing
+Super Rod
+50
+Average
+One Trash Can
+Garbodor
+X
+Y
+Shaking trash cans
+46-50
+50%
+Four Trash Cans
+Th
+Banette
+X
+Y
+Shaking trash cans
+46-50
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Chople Berry
+From a
+Furfrou
+X
+Y
+Pretty Wing
+×2
+From a
+Fletchling
+In the tire (hidden)
+X
+Y
+Max Ether
+On the hill in the southeast
+X
+Y
+Honey
+×2
+Under the western canopy (hidden)
+Near the waterfall (hidden,
+reappears occasionally
+)
+X
+Y
+Full Restore
+Northwest of the empty canopy
+X
+Y
+Pixie Plate
+In the yellow flower patch west of the river (requires
+Surf
+)
+X
+Y
+Requires
+Waterfall
+TM29
+(
+Psychic
+)
+Atop the waterfall, to the west (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Meet Wulfric
+After trekking through the Winding Woods, you finally meet Snowbelle's Gym Leader,
+Wulfric
+. As you approach, the group of Pokémon that he was checking up on scatters. Realizing that you aim to challenge him, the Gym Leader apologizes for making you travel all this way. Once he reassures the local Pokémon that you are a friend, he departs for the Gym. Visit with the group of Pokémon here to receive a
+Chople Berry
+and a
+Pretty Wing
+.
+Unknown Dungeon
+Surf upriver to reach a cave known as the
+Unknown Dungeon
+. Because of the powerful Pokémon inside, the man standing here only allows Champions to enter. Be sure to return later to investigate his claims...
+Snowbelle City
+Snowbelle Gym
+Snowbelle Gym
+The
+Snowbelle Gym
+specializes in
+Ice-type
+Pokémon. Use
+Fire
+-,
+Fighting
+-,
+Rock
+-, and
+Steel-type
+attacks to deal serious damage, and avoid using
+Grass
+,
+Flying
+,
+Ground
+, and
+Dragon
+Pokémon. The Gym's layout seems straightforward at first, but it's more complex than it seems. Each Gym Trainer stands near a colored button; defeat each Trainer, and you'll be able to step on the buttons that they guard. Each time a button is pressed, the matching section of the building rotates, altering the arrangement of the connecting paths.
+Battle Ace Trainer Imelda near the pink button, then press the button twice to reach the blue platform. Fight Ace Trainer Viktor, then press the blue button three times. Return to the pink button and press it three more times to reach the center bridge and the yellow platform. Fight Ace Trainer Shannon near the green button, then battle Ace Trainer Theo near the yellow button. Press the yellow button once, and the green button three times to reach the Gym Leader.
+Wulfric
+leads with his
+Abomasnow
+, which immediately summons a
+hailstorm
+with its
+Snow Warning
+Ability; this damages all non-Ice Pokémon for five turns. Use Fire attacks to take it down quickly. His
+Cryogonal
+can prolong the storm with its
+Hail
+move, and deal serious damage to Rock Pokémon with
+Flash Cannon
+; use physical attacks to target its poor Defense. Take out his
+Avalugg
+as soon as possible; its
+Ice Body
+Ability restores its health during a hailstorm, and
+Curse
+raises its
+physical
+stats
+, which combined can become a serious problem. Its Defense is above-average, so opt for special moves rather than physical moves.
+Snowbelle Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Imelda
+Reward:
+$
+5500
+Sneasel
+♀
+Lv.
+54
+No item
+Cloyster
+♀
+Lv.
+55
+No item
+Ace Trainer
+Viktor
+Reward:
+$
+5500
+Delibird
+♂
+Lv.
+54
+No item
+Mamoswine
+♂
+Lv.
+55
+No item
+Ace Trainer
+Shannon
+Reward:
+$
+5400
+Cryogonal
+Lv.
+52
+No item
+Piloswine
+♀
+Lv.
+53
+No item
+Jynx
+♀
+Lv.
+54
+No item
+Ace Trainer
+Theo
+Reward:
+$
+5500
+Beartic
+♂
+Lv.
+54
+No item
+Vanilluxe
+♂
+Lv.
+55
+No item
+Leader
+Wulfric
+Snowbelle Gym
+X and Y
+Reward:
+$
+9440
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+None
+Abomasnow
+♂
+Lv.
+56
+Ice Beam
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+55
+Ice Beam
+Ice
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Flash Cannon
+Steel
+Special
+--
+Hail
+Ice
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Avalugg
+♂
+Lv.
+59
+Avalanche
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Ghost
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Defeated, Wulfric awards you the
+Iceberg Badge
+, which ensures obedience from all Pokémon, and enables the use of
+Waterfall
+in the field. He also gives you
+TM13
+(
+Ice Beam
+) as a prize to mark your final victory against a Gym Leader.
+With all eight Gym Badges in hand, your next destination is the
+Pokémon League
+. But in order to get there, you must first travel through the expansive
+Victory Road
+. Take a break at the Pokémon Center, and stock up on health- and status-restoring items before heading west to
+Route 21
+.
+← Part 12
+Route 18, Couirway Town, Route 19
+X and Y
+walkthrough
+Route 21, Route 22, Victory Road
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,45 @@
+Game: HeartGold_and_SoulSilver
+Part: 14
+Keywords: Routes 27 and 26, Pokemon League Reception Gate, Victory Road
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 14
+
+#### Key Locations:
+- **New Bark Town**: Visit Elm's Lab to receive a **Master Ball** and learn about the **Kimono Girls** in Ecruteak City.
+  
+- **Ecruteak City**: 
+  - **Dance Theater**: Challenge the **Kimono Girls** in succession to prove your bond with Pokémon.
+    - **Zuki** (Umbreon, Level 38)
+    - **Naoko** (Espeon, Level 38)
+    - **Miki** (Flareon, Level 38)
+    - **Sayo** (Jolteon, Level 38)
+    - **Kuni** (Vaporeon, Level 38)
+
+  Defeating them earns you the **Clear Bell** (HG) or **Tidal Bell** (SS) to summon **Ho-Oh** or **Lugia**.
+
+- **Bellchime Trail**: Short path with hidden items like **Tiny Mushrooms** and **Big Mushrooms**.
+
+- **Bell Tower**: 
+  - Access requires the **Fog Badge**, **Clear Bell**, and **Rainbow Wing** (HG) or **Tidal Bell** (SS).
+  - Collect items on each floor, including a **Full Heal** (3F), **Ultra Ball** (4F), **Rare Candy** (5F), and **Max Revive** (7F).
+
+- **Summoning Ho-Oh**: 
+  - At the rooftop, perform the ritual with the Kimono Girls. 
+  - **Battle Ho-Oh (Level 45)**: Use Water/Electric-type moves to weaken it, then apply status effects like Sleep.
+
+#### Whirl Islands:
+- Enter via any island but best from the **Northeast Island** to access **Lugia**.
+- Use **Surf**, **Strength**, and **Whirlpool** for navigation.
+
+- **Items in Whirl Islands**: Collect **Ultra Balls**, **Rare Candies**, and **Max Revives** throughout the caves.
+
+- **Summoning Lugia**: 
+  - Perform the ritual at the waterfall basin.
+  - **Battle Lugia (Level 70)**: Use Rock/Electric/Ice-type moves, chip away with Grass/Psychic moves, and apply status ailments.
+
+#### Important Notes:
+- **Master Ball** is ideal for capturing Legendary Pokémon.
+- Ensure to have healing items for battles against Ho-Oh and Lugia.
+- Use **Escape Rope** to exit caves quickly.
+
+This concise format highlights key instructions and battle strategies, ensuring you progress effectively in your Pokémon journey.

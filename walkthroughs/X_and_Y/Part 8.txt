@@ -1,0 +1,868 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_8
+Keywords: Lumiose City, Lumiose Gym
+
+Walkthrough Text:
+Contents
+1
+Lumiose City
+1.1
+North Boulevard
+1.2
+Centrico Plaza
+1.2.1
+Lumiose Gym
+1.2.2
+Holo Clip
+1.3
+Lysandre Café
+1.3.1
+Holo Clip
+1.4
+North Boulevard
+1.4.1
+Office Buildings
+1.4.2
+Café Triste
+1.4.3
+Galette Stand
+1.4.4
+Lumiose Museum
+1.4.5
+Hotel Richissime
+1.4.6
+Roller Skater
+1.4.7
+Café Ultimo
+1.4.8
+Café Action!
+1.4.9
+Battle Institute
+1.4.10
+Lumiose Station
+1.4.11
+Café Bataille
+1.5
+Autumnal Avenue
+1.5.1
+Poké Ball Boutique
+1.5.2
+Café Pokémon-Amie
+1.5.3
+Restaurant Le Yeah
+1.5.4
+Juice Shoppe
+1.6
+Rouge Alley
+1.6.1
+Vacant Storefront
+1.6.2
+Sushi High Roller
+1.7
+Hibernal Avenue
+1.7.1
+Restaurant Le Wow
+1.7.2
+Café Kizuna
+1.8
+Jaune Alley
+1.8.1
+Trevor's House
+1.9
+Vert Alley
+1.9.1
+Café Cyclone
+1.10
+Estival Avenue
+1.10.1
+Loto-ID Center
+1.10.2
+Café Rouleau
+1.10.3
+Café Gallant
+1.10.4
+Lumiose Press
+Lumiose City
+After a long journey, you are now back in
+Lumiose City
+. Much more of this metropolis can be explored now that the power has been restored. To claim the next badge, head to
+Prism Tower
+in the heart of the city.
+Trainers
+Trainer
+Pokémon
+Backalleys
+Punk Guy
+Faust
+Reward:
+$
+600
+Haunter
+♂
+Lv.
+30
+No item
+Black Belt
+Killian
+Reward:
+$
+600
+Machoke
+♂
+Lv.
+30
+No item
+Beauty
+Anais
+Reward:
+$
+680
+Seadra
+♀
+Lv.
+34
+No item
+Punk Girl
+Lillian
+Reward:
+$
+600
+Krokorok
+♀
+Lv.
+30
+No item
+Beauty
+Aimee
+Reward:
+$
+680
+Fletchinder
+♀
+Lv.
+34
+No item
+Chef
+Kamaboko
+Reward:
+$
+600
+Pidgeotto
+♂
+Lv.
+30
+No item
+Waitress
+Paget
+Reward:
+$
+600
+Kirlia
+♀
+Lv.
+30
+No item
+Beauty
+Cassandra
+Reward:
+$
+680
+Roselia
+♀
+Lv.
+34
+No item
+Owner
+Toro
+Reward:
+$
+600
+Diggersby
+♂
+Lv.
+30
+No item
+Garçon
+Jacopo
+Reward:
+$
+600
+Gabite
+♂
+Lv.
+30
+No item
+Items
+Item
+Location
+Games
+Office Building 1
+Expert Belt
+From the Waitress on 3F
+X
+Y
+Protein
+From the Battle Girl on 3F
+X
+Y
+Lumiose Museum
+TM82
+(
+Dragon Tail
+)
+1F, from an Ace Trainer on the west side
+X
+Y
+Hotel Richissime
+TM49
+(
+Echoed Voice
+)
+5F, given by a Lady inside a bathroom
+X
+Y
+Café Ultimo
+Training Ribbon
+From a woman, if a party Pokémon is Supremely Trained
+X
+Y
+Office Building 3
+Star Piece
+1F, from a female Scientist after shown a Pokémon with
+Aroma Veil
+,
+Flower Veil
+, or
+Sweet Veil
+X
+Y
+Prism Scale
+4F, from a little girl
+X
+Y
+Autumnal Avenue
+Luxury Ball
+Poké Ball Boutique, from a little girl (random, once per day)
+X
+Y
+Heal Ball
+×3
+Poké Ball Boutique, from a little girl (random, once per day)
+X
+Y
+Jaune Alley
+Revive
+Trevor's House; from a female Scientist, after shown a Pokémon with
+Eerie Impulse
+X
+Y
+Backalleys
+Destiny Knot
+Obtained after defeating Beauty Aimee
+X
+Y
+Elixir
+Obtained after defeating Beauty Anais
+X
+Y
+Nugget
+Obtained after defeating Beauty Cassandra
+X
+Y
+After defeating the Lumiose Gym
+TM24
+(
+Thunderbolt
+)
+From Clemont upon his defeat
+X
+Y
+King's Rock
+Lysandre Café, from Lysandre
+X
+Y
+North Boulevard
+Shauna catches up to you just inside the city. She asks if you heard who saved the
+Power Plant
+, but it makes no difference what you tell her. After that, she directs you to Prism Tower to watch its relighting.
+Centrico Plaza
+Outside the tower, you and Shauna meet the local Gym Leader,
+Clemont
+, and his younger sister,
+Bonnie
+. Clemont activates the lighting system and the tower begins to shine. The two siblings head inside, leaving you free to challenge the Gym.
+Lumiose Gym
+Lumiose Gym
+The
+Lumiose Gym
+specializes in
+Electric-type
+Pokémon. Use
+Ground
+attacks to deal serious damage, and avoid using
+Water
+- and
+Flying-type
+Pokémon. Take the elevator to the second floor to meet Bonnie, who informs you that you need to successfully answer her questions to advance. She will display a Pokémon's silhouette, and you must guess its name. To make a selection, you must battle the Trainer who blocks the elevator with the corresponding number. Each wrong answer forces you to battle an additional Trainer, so you may face anywhere from four to twelve opponents before reaching the Gym Leader on 6F. The correct order is #3 (
+Pikachu
+), #1 (
+Fletchling
+), #3 (
+Panpour
+), and #2 (
+Vivillon
+).
+Clemont
+leads with his
+Emolga
+, an
+Electric
+/
+Flying
+Pokémon that only fears
+Rock
+and
+Ice
+moves. Its
+Volt Switch
+move lets it hit and run, so be careful. His
+Magneton
+can be a hassle due to its
+Sturdy
+Ability, and its
+Mirror Shot
+allows it to harass Rock types. Use
+Fighting
+or
+Fire
+attacks to take it down.
+Heliolisk
+is vulnerable only to Ground and Fighting moves, but its
+Grass Knot
+can trip up any Ground types looking to exploit its weakness.
+Lumiose Gym
+Trainers
+Trainer
+Pokémon
+2F
+Schoolboy
+Arno
+Reward:
+$
+1088
+Pachirisu
+♂
+Lv.
+34
+No item
+Schoolboy
+Sherlock
+Reward:
+$
+1088
+Stunfisk
+♂
+Lv.
+34
+No item
+Schoolboy
+Finnian
+Reward:
+$
+1088
+Dedenne
+♂
+Lv.
+34
+No item
+3F
+Rising Star
+Estel
+Reward:
+$
+2100
+Raichu
+♀
+Lv.
+35
+No item
+Rising Star
+Nelly
+Reward:
+$
+2100
+Magneton
+Lv.
+35
+No item
+Rising Star
+Helene
+Reward:
+$
+2100
+Manectric
+♀
+Lv.
+35
+No item
+4F
+Ace Trainer
+Mathis
+Reward:
+$
+3600
+Lanturn
+♂
+Lv.
+36
+No item
+Ace Trainer
+Maxim
+Reward:
+$
+3600
+Electrode
+Lv.
+36
+No item
+Ace Trainer
+Rico
+Reward:
+$
+3600
+Ampharos
+♂
+Lv.
+36
+No item
+5F
+Poké Fan
+Abigail
+Reward:
+$
+2720
+Minun
+♀
+Lv.
+34
+No item
+Poké Fan
+Lydie
+Reward:
+$
+2720
+Plusle
+♀
+Lv.
+34
+No item
+Poké Fan
+Tara
+Reward:
+$
+2720
+Pikachu
+♀
+Lv.
+34
+No item
+Leader
+Clemont
+Lumiose Gym
+X and Y
+Reward:
+$
+5920
+Types:
+Electric
+Flying
+Ability:
+Static
+Held item:
+None
+Emolga
+♂
+Lv.
+35
+Volt Switch
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magneton
+Lv.
+35
+Thunderbolt
+Electric
+Special
+--
+Electric Terrain
+Electric
+Status
+--
+Mirror Shot
+Steel
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Electric
+Normal
+Ability:
+Dry Skin
+Held item:
+None
+Heliolisk
+♂
+Lv.
+37
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Curse
+Unknown
+Status
+--
+After the battle, Clemont awards you the
+Voltage Badge
+, which ensures obedience of all Pokémon up to level 70. He also throws in
+TM24
+(
+Thunderbolt
+) as a prize.
+Holo Clip
+When you step outside, you receive a Holo Clip from
+Sycamore
+. He asks that you meet him in
+Lysandre Café
+, located northwest of the Gym between Magenta Plaza and Autumnal Avenue.
+Lysandre Café
+Inside, you find
+Professor Sycamore
+meeting with
+Lysandre
+. The two briefly discuss
+Mega Evolution
+before Lysandre details more about his passion for beauty. He also reveals that he is related to a powerful king who ruled the region 3,000 years ago. The professor thinks that Lysandre is a great man, and Lysandre hands you a
+King's Rock
+before leaving.
+Holo Clip
+Trevor contacts you when you leave the café, and informs you that the group plans to meet up on
+Route 14
+.
+You can leave at any time, but don't forget to check out the rest of the city!
+North Boulevard
+Office Buildings
+The first office building stands near the
+Route 13
+gate. There is nothing of interest here, as a photo shoot takes up most of the lobby.
+A second office building is located west of the
+Route 14
+gate. On 2F, a ghost girl appears behind you. She whispers,
+"No, you're not the one..."
+, before disappearing. 3F holds a Fighting Dojo, where a Waitress hands out an
+Expert Belt
+and a Battle Girl gives out a
+Protein
+.
+A third building can be found to the east of Hotel Richissime. The Scientist on 1F is looking for a Pokémon with either the
+Aroma Veil
+,
+Flower Veil
+, or
+Sweet Veil
+Abilities; show her one to earn a
+Star Piece
+. On 4F, talk to the little girl for a
+Prism Scale
+.
+Café Triste
+Café Triste can be found to the northeast of the Route 13 gate. There are few customers here, and even once you max your style, it merely gains a few more.
+Galette Stand
+The Galette Stand is located in the northwest, across the street from Autumnal Avenue. The shop offers
+Lumiose Galettes
+for
+$
+100 (
+$
+80 for more stylish patrons), but these are only available for one hour at a time. They may be purchased beginning at 3am, 9am, 3pm, and 9pm. Once per day, you will also receive a free
+Moomoo Milk
+. Those with maximum style may purchase them at any time.
+Lumiose Museum
+The
+Lumiose Museum
+can be found across the street from the North Pokémon Center. Entrance is free, but audio guides are available for
+$
+200 (or free, for those stylish enough). This allows you to check the box near a painting for a detailed explanation. Speak to the Ace Trainer on 1F to receive
+TM82
+(
+Dragon Tail
+).
+Hotel Richissime
+Hotel Richissime
+is a luxury hotel, across the street from Hibernal Avenue. Talk to
+Mr. Bonding
+on 1F to receive the
+Bargain Power
+O-Power. The man behind the desk will allow you to stay the night, healing your Pokémon in the process, for
+$
+100,000. The woman next to him offers to hire you for some part-time work, and gives three tasks per day. Rewards range from
+$
+2,000 to
+$
+650 initially, and
+$
+50,000 to
+$
+950 for the most difficult jobs.
+Room service
+: Receive a guest's order and repeat it correctly to the concierge, Stew, by combining four phrase options. Initially, you receive only one order, but this will increase to four.
+Making beds
+: Go to a certain floor to meet the attendant, Ward. Quickly change the sheets of the bed in each of the four rooms while avoiding delays from the obstacles in the hallways. The time limit begins at 75 seconds initially, and eventually drops to 40 seconds.
+Lost and found
+: A maid, Esse, receives a call from a guest who needs help finding an item on the floor. These items are fragile, and must not be stepped on. At first, you only need to find one item in one room, and it is still useable if stepped on once. Later, four items must be found across the entire floor, and stepping on any of them once is enough to fail the task.
+Also, speak to the girl singing in the bathroom on 5F to receive
+TM49
+(
+Echoed Voice
+).
+Roller Skater
+Near Hotel Richissime is a Roller Skater who teaches a special move, the backflip. To do this, accelerate while jumping off a ledge.
+Café Ultimo
+Café Ultimo stands at the end of Hibernal Avenue. This is a favorite spot for
+Super Training
+fans. Talk to the woman near the counter with a Supremely Trained Pokémon in your party to receive a
+Training Ribbon
+.
+Café Action!
+Down the street from Café Ultimo is Café Action! This café is all about Trainer PR videos, and you can speak to the man near the counter to unlock three new phrases to use in these videos. Visit every day to unlock them all!
+Battle Institute
+The
+Battle Institute
+stands in the east, next to the
+Route 16
+gate. This facility lets you put your battle skills to the ultimate test, but is only open to those who have become the Champion.
+Lumiose Station
+Lumiose Station is located next door to the Battle Institute. This station is a major hub, connecting Lumiose with other cities across the region. However, the high-speed trains are not running at the moment.
+Café Bataille
+Across the street is Café Bataille, which attracts those who are serious about battling. Visitors may find useful advice by speaking to the four Black Belts along the back wall.
+Autumnal Avenue
+Poké Ball Boutique
+The Poké Ball Boutique offers specialty Poké Balls. This is the only location where Premier Balls and Luxury Balls may be purchased individually.
+Quick Ball
+$
+1000
+Dive Ball
+$
+1000
+Timer Ball
+$
+1000
+Premier Ball
+$
+200
+Heal Ball
+$
+300
+Net Ball
+$
+1000
+Nest Ball
+$
+1000
+Dusk Ball
+$
+1000
+Repeat Ball
+$
+1000
+Luxury Ball
+$
+1000
+The quickest and easiest way to become more stylish is buying Premier Balls one at a time. After buying over 100 of these, visit the Ore Emporium on Vernal Avenue; if the man selling Mega Stones has lowered his price to
+$
+10,000, then your style is maxed out!
+Talk to the little girl and answer
+Yes
+to her question. She rewards you with a random item, either three
+Heal Balls
+or one
+Luxury Ball
+. This can be done once per day.
+Café Pokémon-Amie
+Café Pokémon-Amie stands across the street, near Lysandre Café. The place is a favorite of
+Pokémon-Amie
+fans, though there is little of interest here.
+Restaurant Le Yeah
+Restaurant Le Yeah is a two-star restaurant located next door to the Poké Ball Boutique. It costs
+$
+15,000 to enter and participate in
+Triple
+and
+Rotation Battles
+. The perfect reward is 20
+Big Mushrooms
+.
+Juice Shoppe
+The
+Juice Shoppe
+can be found next door to Restaurant Le Yeah. This specialty shop offers juices made from
+Berries
+. The man on the left sells pre-made drinks that have a variety of effects, from increasing level to happiness. The lady on the right will create a custom-blend juice by mixing two Berries; different-colored Berries yield different results. These juices cannot be kept, and must be fed to a party Pokémon immediately. Juice may be bought/blended once per day.
+Name
+Effect
+Requires
+Colorful Shake
+Increases happiness
+Any two different-colored Berries
+Rare Soda
+Increases level by 1-4
+1
+Lansat Berry
++ 1
+Starf Berry
+Ultra Rare Soda
+Increases level by 4-5
+1
+Roseli Berry
++ 1
+Enigma Berry
+Purple Juice
+Increases HP EV by 4-32
+Two purple Berries
+Red Juice
+Increases Attack EV by 4-32
+Two red Berries
+Yellow Juice
+Increases Defense EV by 4-32
+Two yellow Berries
+Blue Juice
+Increases Special Attack EV by 4-32
+Two blue Berries
+Green Juice
+Increases Special Defense EV by 4-32
+Two green Berries
+Pink Juice
+Increases Speed EV by 4-32
+Two pink Berries
+Perilous Soup
+Resets EVs to 0
+1
+Kee Berry
++ 1
+Maranga Berry
+Rouge Alley
+Vacant Storefront
+There is nothing in this vacant building right now, but the owner claims that someone just started renting it and will be moving in very soon...
+Sushi High Roller
+Sushi High Roller
+can be found in the north alley, between the North Pokémon Center and Rough Plaza. The most exclusive of the four restaurants, you must have become the Champion and raised your style to enter. It costs
+$
+500,000 to enter and participate in
+Double
+,
+Triple
+, and
+Rotation Battles
+. The perfect reward is 25
+Big Nuggets
+.
+Hibernal Avenue
+Restaurant Le Wow
+Restaurant Le Wow is a three-star restaurant on the west side of Hibernal Avenue. It is only open to those who have become the Champion, and costs
+$
+100,000 to enter. Visitors may participate in
+Double
+,
+Triple
+, and
+Rotation Battles
+. The perfect reward is 25
+Balm Mushrooms
+.
+Café Kizuna
+There is little to do at Café Kizuna, but the people inside enjoy talking about the friendship between them and their Pokémon.
+Jaune Alley
+Trevor's House
+The single apartment here happens to belong to Trevor's family. Talk to his Ace Trainer sister to learn that their parents left to train their Pokémon while traveling the world. A female Scientist here is interested in seeing a Pokémon with the
+Eerie Impulse
+move; show her one to get a
+Revive
+.
+Vert Alley
+Café Cyclone
+Café Cyclone has several chances for you to tip its patrons, including an old poet, a girl adept at disguise, and a poor
+Furfrou
+looking for a good grooming.
+Estival Avenue
+Loto-ID Center
+Visit the
+Loto-ID Center
+each day to draw a random Loto Ticket number. If that result matches the ID Number of any of your Pokémon, you win a prize!
+Matched
+Prize
+1 digit
+Moomoo Milk
+2 digits
+PP Up
+3 digits
+PP Max
+4 digits
+Rare Candy
+5 digits
+Master Ball
+Café Rouleau
+Café Rouleau caters to roller skating enthusiasts. Speak to the skater in the back to learn how to execute
+The 360
+. To do it, rotate the Control Stick while jumping off a ledge.
+Café Gallant
+There's not much going on in Café Gallant. The only notable thing is that the employees are all male. It is apparently a popular café among the women of Kalos.
+Lumiose Press
+Lumiose Press is located next door to the Loto-ID Center. Speak to
+Viola
+'s sister,
+Alexa
+, to learn more about various locations around the city. She even offers to take you there for free, which beats taking a cab!
+← Part 7
+Route 12, Azure Bay, Coumarine City, Route 13, Kalos Power Plant
+X and Y
+walkthrough
+Route 14, Laverre City, Poké Ball Factory, Route 15, Route 16
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

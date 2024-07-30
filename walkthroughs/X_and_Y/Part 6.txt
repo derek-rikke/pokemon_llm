@@ -1,0 +1,2056 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_6
+Keywords: Route 10, Geosenge Town, Route 11, Reflection Cave, Shalour City, Shalour Gym, Tower of Mastery
+
+Walkthrough Text:
+Contents
+1
+Route 10
+1.1
+Team Flare
+2
+Geosenge Town
+2.1
+Hotel Marine Snow
+2.2
+Team Flare, Again!
+2.3
+Battle Korrina
+3
+Route 11
+3.1
+Receive a Holo Clip
+4
+Reflection Cave
+4.1
+1F
+4.2
+B1F
+4.3
+B2F
+4.4
+B1F
+4.5
+1F
+5
+Shalour City
+5.1
+Mr. Bonding
+5.2
+Rewards from the Residents
+5.3
+Hit the Beach!
+5.4
+Tower of Mastery
+5.4.1
+1F
+5.5
+Shalour Gym
+5.6
+Tower of Mastery
+5.7
+A Gift
+Route 10
+Route 10
+Route 10
+, or Menhir Trail, leads north from
+Cyllage City
+to
+Geosenge Town
+. The path is famous for its wide array of enigmatic stones. No one knows how or why these stones were left this way, but many who visit the revered site report feeling a mysterious energy.
+Trainers
+Trainer
+Pokémon
+Psychic
+Robert
+Reward:
+$
+1232
+Solosis
+♂
+Lv.
+22
+No item
+Tourist
+Fumiko
+Reward:
+$
+1520
+Skiploom
+♀
+Lv.
+19
+No item
+Azumarill
+♀
+Lv.
+19
+No item
+Dunsparce
+♀
+Lv.
+19
+No item
+Team Flare Grunt
+Reward:
+$
+920
+Houndour
+♂
+Lv.
+21
+No item
+Golbat
+♂
+Lv.
+23
+No item
+Psychic
+Sayid
+Reward:
+$
+1176
+Meditite
+♂
+Lv.
+19
+No item
+Kirlia
+♂
+Lv.
+21
+No item
+Team Flare Grunt
+Reward:
+$
+840
+Electrike
+♀
+Lv.
+23
+No item
+Croagunk
+♀
+Lv.
+21
+No item
+Team Flare Grunt
+Reward:
+$
+960
+Gulpin
+♀
+Lv.
+24
+No item
+Tourist
+Tomoko
+Reward:
+$
+1520
+Drifloon
+♀
+Lv.
+19
+No item
+Hippopotas
+♀
+Lv.
+19
+No item
+Pachirisu
+♀
+Lv.
+19
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sigilyph
+X
+Y
+Grass
+19-21
+Average
+Golett
+X
+Y
+Grass
+19-21
+Average
+Hawlucha
+X
+Y
+Grass
+19-21
+Average
+Snubbull
+X
+Y
+Grass
+19-21
+Rare
+Houndour
+X
+Y
+Grass
+19-21
+Rare
+Electrike
+X
+Y
+Grass
+19-21
+Rare
+Eevee
+X
+Y
+Grass
+19-21
+Very Rare
+Emolga
+X
+Y
+Grass
+19-21
+Very Rare
+Yellow Flowers
+Snubbull
+X
+Y
+Yellow Flowers
+19-21
+Average
+Houndour
+X
+Y
+Yellow Flowers
+19-21
+Average
+Electrike
+X
+Y
+Yellow Flowers
+19-21
+Average
+Golett
+X
+Y
+Yellow Flowers
+19-21
+Average
+Sigilyph
+X
+Y
+Yellow Flowers
+20-21
+Rare
+Eevee
+X
+Y
+Yellow Flowers
+19-21
+Very Rare
+Emolga
+X
+Y
+Yellow Flowers
+19-21
+Very Rare
+Hawlucha
+X
+Y
+Yellow Flowers
+19-21
+Very Rare
+Horde Encounter
+Nosepass
+X
+Y
+Horde Encounter
+10
+Common
+Yanma
+X
+Y
+Horde Encounter
+10
+Average
+Houndour
+X
+Y
+Horde Encounter
+10
+Rare
+Electrike
+X
+Y
+Horde Encounter
+10
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Iapapa Berry
+From the tree, north of Cyllage City
+X
+Y
+Revive
+In the field of yellow flowers, north of the Berry tree (hidden, requires
+Strength
+)
+X
+Y
+TM73
+(
+Thunder Wave
+)
+North of the Berry tree (requires
+Strength
+)
+X
+Y
+Mind Plate
+Southern menhir field, southeast corner
+X
+Y
+X Accuracy
+Southern field, northwest corner
+X
+Y
+Paralyze Heal
+Southern field, northeast corner (hidden)
+X
+Y
+Burn Heal
+Central field, southeast corner (hidden)
+X
+Y
+Thunder Stone
+Central field, north of Psychic Sayid
+X
+Y
+Team Flare
+A few
+Team Flare
+Grunts are investigating the standing stones. They are still hurting from their recent losses back in
+Glittering Cave
+, and each one is happy for a rematch.
+Geosenge Town
+Geosenge Town
+Geosenge Town
+connects
+Route 10
+and
+Route 11
+. Legends tell of overwhelming power being channeled by the odd stones that dot the landscape. People visit from across the region to marvel at them, but few facts about their purpose have survived the ages.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Occurs on random days in a random hotel after having spoken to the traders multiple times.
+Magikarp
+X
+Y
+Trade
+Gyarados
+5
+One
+Eevee
+X
+Y
+Trade
+Any Pokémon
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM66
+(
+Payback
+)
+Pokémon Center, from the Monsieur near the dressing room
+X
+Y
+Soft Sand
+Southwest of the Pokémon Center
+X
+Y
+Timer Ball
+North of Hotel Marine Snow
+X
+Y
+Everstone
+In the house northwest of the Pokémon Center, from a Scientist
+X
+Y
+Downcast Ribbon
+Hotel Marine Snow, 2F
+We
+X
+Y
+Hotel Marine Snow
+The hotel stands across the street from the Pokémon Center. Head upstairs to find
+Mr. Bonding
+again; this time, he enables the
+Speed Power
+.
+On Wednesdays, a tourist will hand out a
+Downcast Ribbon
+.
+Team Flare, Again!
+A Team Flare Grunt stands to the north, admiring the town's mystical stones. Excited, he runs off in search of something. He heads to the northwest corner of town, and disappears before an odd-looking pile of rocks.
+Battle Korrina
+Before you can reach Route 11,
+Korrina
+reappears and challenges you to a battle. Her two
+Lucario
+are on the stronger side, so hit hard with
+Fire
+-,
+Fighting
+-, and
+Ground-type
+moves.
+Leader
+Korrina
+Geosenge Town
+X and Y
+Reward:
+$
+4000
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+25
+Swords Dance
+Normal
+Status
+--
+Power-Up Punch
+Fighting
+Physical
+--
+Metal Sound
+Steel
+Status
+--
+Feint
+Normal
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+25
+Swords Dance
+Normal
+Status
+--
+Power-Up Punch
+Fighting
+Physical
+--
+Metal Sound
+Steel
+Status
+--
+Feint
+Normal
+Physical
+--
+Afterwards, she heads off to
+Shalour City
+, on the far side of Route 11.
+Route 11
+Route 11
+Route 11
+, or Miroir Way, is a rugged trail between
+Geosenge Town
+and
+Reflection Cave
+. Mysterious crystals that line the path radiate a soft energy, and are rumored to hold valuable secrets.
+Trainers
+Trainer
+Pokémon
+Psychic
+Emanuel
+Reward:
+$
+1344
+Solosis
+♂
+Lv.
+24
+No item
+Sigilyph
+♂
+Lv.
+24
+No item
+Battle Girl
+Gerardine
+Reward:
+$
+1344
+Mienfoo
+♀
+Lv.
+28
+No item
+Brains & Brawn
+Frank & Sly
+Reward:
+$
+2912
+Mr. Mime
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+28
+No item
+Sky Trainer
+Yvette
+Reward:
+$
+2400
+Emolga
+♀
+Lv.
+23
+No item
+Wingull
+♀
+Lv.
+23
+No item
+Staravia
+♀
+Lv.
+24
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Hariyama
+X
+Y
+Grass
+22-23
+Average
+Staravia
+X
+Y
+Grass
+22-23
+Average
+Sawk
+X
+Y
+Grass
+22-23
+Average
+Throh
+X
+Y
+Grass
+22-23
+Average
+Nidorino
+X
+Y
+Grass
+21-23
+Rare
+Chingling
+X
+Y
+Grass
+21
+Rare
+Stunky
+X
+Y
+Grass
+21
+Rare
+Nidorina
+X
+Y
+Grass
+21-23
+Very Rare
+Dedenne
+X
+Y
+Grass
+21-22
+Very Rare
+Horde Encounter
+Nidoran♀
+X
+Y
+Horde Encounter
+11
+Common
+with Nidoran♂
+Nidoran♂
+X
+Y
+Horde Encounter
+11
+Common
+with Nidoran♀
+Stunky
+X
+Y
+Horde Encounter
+11
+Average
+Starly
+X
+Y
+Horde Encounter
+11-12
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Sitrus Berry
+From the tree, near Psychic Emanuel
+X
+Y
+Super Potion
+On the crystal, near the Berry tree (hidden)
+X
+Y
+TM69
+(
+Rock Polish
+)
+North of the Berry tree (requires
+Cut
+)
+X
+Y
+Hyper Potion
+South of Reflection Cave
+X
+Y
+Thunder Stone
+Near Sky Trainer Yvette, on the smaller of the two crystals (hidden)
+X
+Y
+Receive a Holo Clip
+As you near
+Reflection Cave
+, you receive a Holo Clip from
+Sycamore
+. The professor states that
+Shalour City
+is just ahead, and suggests visiting the Mega Evolution guru there.
+Reflection Cave
+Reflection Cave, 1F
+Reflection Cave, B1F
+Reflection Cave, B2F
+The large
+Reflection Cave
+is home to many wild Pokémon. This, along with its incredibly reflective walls, have lured many Trainers to explore its dark depths.
+Trainers
+1F
+Trainer
+Pokémon
+Backpacker
+Lane
+Reward:
+$
+1040
+Linoone
+♂
+Lv.
+26
+No item
+Battle Girl
+Hedvig
+Reward:
+$
+1248
+Throh
+♂
+Lv.
+25
+No item
+Hawlucha
+♀
+Lv.
+26
+No item
+Ace Trainer
+Monique
+Reward:
+$
+2500
+Doduo
+♀
+Lv.
+24
+No item
+Granbull
+♀
+Lv.
+24
+No item
+Helioptile
+♀
+Lv.
+25
+No item
+Hiker
+Dunstan
+Reward:
+$
+1344
+Sandile
+♂
+Lv.
+22
+No item
+Dwebble
+♂
+Lv.
+23
+No item
+Diggersby
+♂
+Lv.
+24
+No item
+B1F
+Trainer
+Pokémon
+Tourist
+Monami
+Reward:
+$
+1872
+Nidorina
+♀
+Lv.
+26
+No item
+Black Belt
+Igor
+Reward:
+$
+1344
+Sawk
+♂
+Lv.
+28
+No item
+Psychic
+Franz
+Reward:
+$
+1344
+Chimecho
+♂
+Lv.
+24
+No item
+Golett
+Lv.
+24
+No item
+Tourist
+Haruto
+Reward:
+$
+1872
+Nidorino
+♂
+Lv.
+26
+No item
+Honeymooners
+Yuu & Ami
+Reward:
+$
+3744
+Combee
+♂
+Lv.
+26
+No item
+Vespiquen
+♀
+Lv.
+26
+No item
+Ace Trainer
+Emil
+Reward:
+$
+2500
+Absol
+♂
+Lv.
+26
+No item
+Pinsir
+♂
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mr. Mime
+X
+Y
+Cave
+22-23
+Average
+Roggenrola
+X
+Y
+Cave
+21-22
+Average
+Solosis
+X
+Y
+Cave
+22-23
+Average
+Wobbuffet
+X
+Y
+Cave
+22
+Rare
+Chingling
+X
+Y
+Cave
+21-22
+Rare
+Carbink
+X
+Y
+Cave
+23
+Rare
+Sableye
+X
+Y
+Cave
+22-23
+Very Rare
+Horde Encounter
+Mime Jr.
+X
+Y
+Horde Encounter
+11
+Common
+Roggenrola
+X
+Y
+Horde Encounter
+11
+Average
+Roggenrola
+X
+Y
+Horde Encounter
+11
+Rare
+with Carbink
+Carbink
+X
+Y
+Horde Encounter
+11
+Rare
+with Roggenrola
+Drops from the ceiling
+Woobat
+X
+Y
+Ceiling
+21-23
+Common
+Ferroseed
+X
+Y
+Ceiling
+22
+Average
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Nest Ball
+North of the junction near Backpacker Lane
+X
+Y
+Revive
+East of the junction near Backpacker Lane
+X
+Y
+Moon Stone
+Southeast of Battle Girl Hedvig
+X
+Y
+Reveal Glass
+From the Scientist near the exit (requires
+Tornadus
+,
+Thundurus
+, or
+Landorus
+in your party)
+X
+Y
+B1F
+Black Belt
+On the hill in the center
+X
+Y
+TM70
+(
+Flash
+)
+From Tierno in the southwest corner
+X
+Y
+Escape Rope
+South side
+X
+Y
+Hyper Potion
+Northeast corner
+X
+Y
+Iron
+Northwest corner
+X
+Y
+B2F
+Earth Plate
+East side
+X
+Y
+TM74
+(
+Gyro Ball
+)
+In the hidden passage
+X
+Y
+1F
+Head past Backpacker Lane to reach a junction; go north to get a
+Nest Ball
+, and east for a
+Revive
+. Turn south to meet Battle Girl Hedvig, and farther still to reach a
+Moon Stone
+. Backtrack to Hedvig and go east to fight Ace Trainer Monique, and take the stairs to B1F.
+B1F
+Talk to the Pokémon Breeder for a quick rest, then head east to find a
+Black Belt
+on a hill. Go south past Tourist Monami to meet up with
+Tierno
+, and receive
+TM70
+(
+Flash
+) from him. Go east and climb onto the hill for an
+Escape Rope
+, and fight Black Belt Igor. Head north past Psychic Franz and Tourist Haruto to reach a
+Hyper Potion
+in the northeast corner. Battle Honeymooners Yuu & Ami, then Ace Trainer Emil to the west. Go southwest and take the stairs to B2F.
+B2F
+Head to the northeast corner to find a stairway; climb up over the hill to reach an
+Earth Plate
+. Backtrack and head west to an apparent dead-end, and check the reflection on the north wall to discover a hidden tunnel. Inside, pick up
+TM74
+(
+Gyro Ball
+) and take the south exit. Jump the ledge to the east and climb back upstairs.
+B1F
+Backtrack to Ace Trainer Emil and turn west. Collect the
+Iron
+and climb the northwest stairs.
+1F
+Battle Hiker Dunstan, then use
+Strength
+to move the boulder into place and create a shortcut. Go west to meet a female Scientist near the exit. Speak to her to learn about the
+Forces of Nature
+, a trio of legendary Pokémon from the far-off
+Unova
+region. Show her one of these Pokémon to receive the
+Reveal Glass
+, which allows them to
+change form
+. Go north to reach the exit.
+Shalour City
+Shalour City
+Shalour City
+is the seaside home of the
+Tower of Mastery
+, where the Mega Evolution guru makes his home. The tower holds a silent vigil over the city, which also features the region's third Gym.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+X
+Y
+Surfing
+25
+Common
+Mantyke
+X
+Y
+Surfing
+27
+Rare
+Fishing
+Luvdisc
+X
+Y
+Fishing
+Old Rod
+15
+100%
+Gift Pokémon
+Lucario
+X
+Y
+Gift
+32
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Eviolite
+From a Scientist in the southeast house, after seeing at least 40 Pokémon in Coastal Kalos
+X
+Y
+Soothe Bell
+From an elderly woman in the southwest house, after showing a
+happy
+Pokémon
+X
+Y
+Footprint Ribbon
+From a Rising Star in the southwestern-most house, after showing a Pokémon that has grown at least 30 levels in your care
+X
+Y
+Stardust
+×6
+From a woman in the southwestern-most house, after lending her a
+Flying
+or
+Psychic
+Pokémon (×5)
+On a rock, west of the Photo Spot (hidden)
+X
+Y
+Intriguing Stone
+From Tierno on the beach
+X
+Y
+Max Ether
+On the beach, east of the tower gate
+X
+Y
+Max Repel
+In a bush, east of the tower entrance (hidden)
+X
+Y
+Leppa Berry
+From the Rising Star in the house next to the Gym, in exchange for a
+Sitrus Berry
+X
+Y
+X Sp. Atk
+In front of the Gym, behind the bench (hidden)
+X
+Y
+After battling Serena/Calem in the Tower of Mastery
+Sun Stone
+From the Hiker on the east side, in exchange for the
+Intriguing Stone
+X
+Y
+After defeating the Shalour Gym
+TM98
+(
+Power-Up Punch
+)
+From Korrina upon her defeat
+X
+Y
+TM47
+(
+Low Sweep
+)
+Tower of Mastery, from the Psychic on 4F
+X
+Y
+Mega Ring
+Tower of Mastery, from Korrina on the roof
+X
+Y
+Lucarionite
+Tower of Mastery, held by
+Lucario
+X
+Y
+HM03
+(
+Surf
+)
+From Serena/Calem near the east gate
+X
+Y
+Mr. Bonding
+There is a familiar face in the local Pokémon Center:
+Mr. Bonding
+! The O-Power he enables this time is the
+Critical Power
+.
+Rewards from the Residents
+Visit the first house to the west of the Pokémon Center and speak to the elderly woman inside. Show her a
+happy
+Pokémon to receive a
+Soothe Bell
+, which boosts friendship at a faster-than-normal rate when held.
+In the next house to the west, a Rising Star will give your lead Pokémon a
+Footprint Ribbon
+if it has grown at least 30 levels since you received it. In the same building, a girl asks for help retrieving some luggage; lend her a
+Flying
+- or
+Psychic-type
+Pokémon to earn five
+Stardusts
+.
+There is a Scientist in the house to the east of the Pokémon Center. If you have seen at least 40 kinds of Pokémon from the Coastal Kalos Pokédex, he rewards you with an
+Eviolite
+. When held, this item gives a 50% boost to both the Defense and Special Defense of a Pokémon that can still evolve.
+Hit the Beach!
+Tierno and Trevor catch up to you on the way northward. Trevor wants to compare Pokédexes again, and both are excited to meet the Mega Evolution guru. They believe that he can be found in the
+Tower of Mastery
+on the city's north side.
+Continue north to the beach, and Tierno reappears. He received an
+Intriguing Stone
+from a wandering stone collector for showing off his dance moves, and he wants you to have it. He happily hands it over, exclaiming that it might be a Mega Stone.
+Tower of Mastery
+Tower of Mastery
+1F
+A large
+Lucario
+statue greets all who enter the
+Tower of Mastery
+. Step inside the room beneath it to meet
+Korrina
+and the guru, who happens to be her grandfather. Tierno and Trevor enter soon afterwards. The guru asks if it was you who found the
+Intriguing Stone
+, but dismisses it as an ordinary rock, not a Mega Stone. A commotion outside leads the group to check it out, but it's just Serena/Calem and Shauna. After a lengthy discussion about evolution and
+Mega Evolution
+, the guru informs the group that he has only one
+Mega Ring
+, which is required to activate the Mega Stones. Tierno, Shauna, and Trevor quickly decline, leaving you and Serena/Calem. The other Trainer suggests battling to determine who receives the Mega Ring, and uses her/his level 28
+Meowstic
+, level 28
+Absol
+, and second-stage starter Pokémon at level 30. Earning the Mega Ring is not so simple, though; to officially prove yourself, you must defeat Korrina at the Gym.
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Serena
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Braixen
+♂
+Lv.
+30
+Psybeam
+Psychic
+Special
+--
+Fire Spin
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Serena
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Frogadier
+♂
+Lv.
+30
+Quick Attack
+Normal
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Serena
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Quilladin
+♂
+Lv.
+30
+Bite
+Dark
+Physical
+--
+Needle Arm
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Calem
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Braixen
+♂
+Lv.
+30
+Psybeam
+Psychic
+Special
+--
+Fire Spin
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Calem
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Frogadier
+♂
+Lv.
+30
+Quick Attack
+Normal
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Calem
+Tower of Mastery
+X and Y
+Reward:
+$
+3,000
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Quilladin
+♂
+Lv.
+30
+Bite
+Dark
+Physical
+--
+Needle Arm
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Shalour Gym
+Shalour Gym
+The
+Shalour Gym
+specializes in
+Fighting-type
+Pokémon. Use
+Flying
+-,
+Psychic
+-, or
+Fairy-type
+moves to deal serious damage, and avoid using
+Normal
+-,
+Rock
+-,
+Steel
+-,
+Ice
+-, and
+Dark-type
+Pokémon. The Gym is modeled as a large skate park, and the four Roller Skaters are constantly on the move. Defeating each one raises a section of rail; when all four are defeated, the path to the Gym Leader is complete.
+You have battled
+Korrina
+before, but she lets her two
+Lucario
+sit this one out. Her
+Mienfoo
+tends to start off with
+Fake Out
+, and can prove deadly with
+Power-Up Punch
+. As an evolved Pokémon, her
+Machoke
+can deal even more damage, and also has
+Rock Tomb
+to counter Flying Pokémon. The speediest of the bunch, her
+Hawlucha
+is also vulnerable to
+Electric
+- and
+Ice-type
+attacks, and its signature
+Flying Press
+move is treated as both a Fighting- and Flying-type move simultaneously.
+Shalour Gym
+Trainers
+Trainer
+Pokémon
+Roller Skater
+Shun
+Reward:
+$
+864
+Pancham
+♂
+Lv.
+27
+No item
+Throh
+♂
+Lv.
+27
+No item
+Machoke
+♂
+Lv.
+27
+No item
+Roller Skater
+Dash
+Reward:
+$
+960
+Heracross
+♂
+Lv.
+30
+No item
+Roller Skater
+Rolanda
+Reward:
+$
+928
+Sawk
+♂
+Lv.
+27
+No item
+Hariyama
+♂
+Lv.
+29
+No item
+Roller Skater
+Kate
+Reward:
+$
+896
+Meditite
+♀
+Lv.
+28
+No item
+Mienfoo
+♀
+Lv.
+28
+No item
+Leader
+Korrina
+Shalour Gym
+X and Y
+Reward:
+$
+5120
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienfoo
+♀
+Lv.
+29
+Power-Up Punch
+Fighting
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Double Slap
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machoke
+♂
+Lv.
+28
+Power-Up Punch
+Fighting
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fighting
+Flying
+Ability:
+Unburden
+Held item:
+None
+Hawlucha
+♀
+Lv.
+32
+Flying Press
+Fighting
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Power-Up Punch
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Defeated, Korrina awards you the
+Rumble Badge
+, which ensures obedience from all Pokémon up to level 50, and enables the use of
+Surf
+in the field. She also hands out
+TM98
+(
+Power-Up Punch
+) as a prize. She then asks for a favor: meet her in the
+Tower of Mastery
+for another battle, as equals who can both use
+Mega Evolution
+!
+Tower of Mastery
+Inside, the guru tells you that
+Korrina
+, the Mega Evolution successor, is waiting at the top of the tower. Talk to everyone on the way up to learn the history of Mega Evolution. On 2F, a girl reveals the guru's real name: Gurkinn! On 4F, an Ace Trainer hands out
+TM47
+(
+Low Sweep
+). The path ends on 5F, which leads out onto a balcony with
+Korrina
+and her two
+Lucario
+. She gives you the
+Mega Ring
+, a bracelet which now enables you to Mega Evolve certain Pokémon during battle! After a little more dialogue, one Lucario crosses the balcony, wanting to join you in battle. Both Pokémon are holding Mega Stones, so use Mega Evolution right away and unleash
+Power-Up Punch
+to easily defeat the other.
+Successor
+Korrina
+Tower of Mastery
+X and Y
+Reward:
+N/A
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+Lucarionite
+Lucario
+♂
+Lv.
+32
+Swords Dance
+Normal
+Status
+--
+Power-Up Punch
+Fighting
+Physical
+--
+Metal Sound
+Steel
+Status
+--
+Bone Rush
+Ground
+Physical
+--
+Afterwards, Korrina suggests taking that Lucario along on the journey. Leave the tower behind, and stop by the Pokémon Center to prepare for
+Route 12
+.
+A Gift
+Serena/Calem catches up to you near the east gate and hands over
+HM03
+(
+Surf
+). In battle, Surf is a strong
+Water-type
+move that hits nearby Pokémon. In the field, it enables water-bound travel.
+← Part 5
+Route 8 (upper), Ambrette Town, Route 9, Glittering Cave, Route 8 (lower), Cyllage City
+X and Y
+walkthrough
+Route 12, Azure Bay, Coumarine City, Route 13, Kalos Power Plant
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,283 @@
+Part: Part 29
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_29
+Keywords: Snowpoint City, Snowpoint Temple, Catching Regigigas, Heading towards the Battle Zone
+
+Walkthrough Text:
+Contents
+1
+Snowpoint City
+2
+Snowpoint Temple
+3
+Catching Regigigas
+4
+Heading towards the Battle Zone
+Snowpoint City
+Heal your Pokémon before heading off.
+Fly
+to Snowpoint City and go north to the
+Snowpoint Temple
+. When you try and walk into the temple, the woman guarding it tells you to leave as before...... but then
+Candice
+shows up and tells her that Champion
+Cynthia
+let you in! Now, you're allowed in the temple.
+You'll need Pokémon with
+Rock Smash
+and
+Strength
+. Make sure that you have
+Regice
+,
+Regirock
+,
+Registeel
+in your party and at least 45
+Dusk Balls
+before proceeding.
+Snowpoint Temple
+The first floor of the Snowpoint Temple
+B3F
+B1F
+B4F
+B2F
+B5F
+Items
+Item
+Location
+Games
+Calcium
+B1F
+D
+P
+Full Restore
+B3F, in second stone from top of ice
+(hidden)
+D
+P
+NeverMeltIce
+B4F (Requires
+Strength
+)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golbat
+D
+P
+Pt
+Cave
+50-52
+35%
+Graveler
+D
+P
+Pt
+Cave
+52
+10%
+Onix
+D
+P
+Pt
+Cave
+50-52
+15%
+Steelix
+D
+P
+Pt
+Cave
+52
+5%
+Sneasel
+D
+P
+Pt
+Cave
+50-52
+35%
+B1F-B3F
+Golbat
+D
+P
+Pt
+Cave
+52-54
+35%
+Graveler
+D
+P
+Pt
+Cave
+54
+10%
+Onix
+D
+P
+Pt
+Cave
+52-54
+5%
+Steelix
+D
+P
+Pt
+Cave
+53-54
+15%
+Sneasel
+D
+P
+Pt
+Cave
+52-54
+35%
+B4F-B5F
+Golbat
+D
+P
+Pt
+Cave
+54-56
+35%
+Graveler
+D
+P
+Pt
+Cave
+56
+10%
+Steelix
+D
+P
+Pt
+Cave
+54-56
+20%
+Sneasel
+D
+P
+Pt
+Cave
+54-56
+35%
+Special Pokémon
+Regigigas
+D
+P
+Pt
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+There are a few useful items here, and a legendary Pokémon
+Regigigas
+is available if you transfer the
+Regis
+from
+Pokémon Ruby, Sapphire
+, and
+Emerald
+into your Diamond or Pearl game via the
+Pal Park
+. Alternatively you can trade them from
+Platinum
+if they were
+caught
+in that game with the aid of a
+Fateful encounter
+Regigigas from a special
+event
+. The wild Pokémon are between Level 50 and Level 56, and the Legendary Pokémon Regigigas is Level 70 and
+will only battle you if you have
+Regice
+,
+Regirock
+, and
+Registeel
+in your party. You will also need the HMs
+Rock Smash
+and
+Strength
+to proceed, and 45 or more
+Dusk Balls
+for catching Regigigas.
+Once prepared, enter the temple. There are no items on this floor, although there are a few
+ice tiles
+and a gigantic, strange-looking statue near the stairs. Go down to the next floor.
+Here, there is a
+Calcium
+on the ground in plain sight. Getting to it is fairly easy, but just in case you can't figure it out: get to the patch of six ice tiles and slide south from the top left tile. After getting the item, slide north and then walk down to stand beside the bottom left tile in the same patch. Slide east and continue down the stairs. This floor, B2F, is slightly more complex, but still very easy to get through. (To get over the second ice tile, slide from the west side of it.) B3F is almost entirely ice tiles and is therefore more of a challenge. Slide from the tile that will
+not
+result in you hitting a rock, and then slide west when you hit the southern wall. Once in the corner, slide north to hit the rock and then slide east. Once you hit the rock, slide north. Go down the stairs. You can simply walk through this floor, but if you want the
+NeverMeltIce
+, you will need to use Strength to push the boulder into the spot directly north of the ice tile. Once through, continue down the stairs to the final floor.
+Regigigas is on B5F. The ice puzzle here is the hardest. You will need to follow these directions very precisely in order to get to Regigigas: First, go to the tile directly east of the brown rock on the right. Slide on the ice and hit the gray rock directly east of you. slide south to the single non-ice tile and take a step forward so that you're on the ice tile between the rock and that tile. Now, slide east. When you hit the rock, slide north to the single cave tile. Slide directly west. When you hit the rock, slide south. Once you've hit that rock, slide east. Take a step north and you'll be in front of Regigigas!
+Catching Regigigas
+Type:
+Normal
+Unknown
+Ability:
+Slow Start
+Held item:
+None
+Regigigas
+Lv.
+70
+Stomp
+Normal
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Superpower
+Fighting
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Regigigas is Level 70, as stated before, and is a
+Normal-type
+Pokémon. It's not nearly as dangerous as
+Giratina
+was...... until after the first 5 turns of battle, when its ability
+Slow Start
+ceases to take effect. Regigigas has very high all-around stats. Even its lowest base stat total-- Special Attack, is at 80. Its only bad point is its Ability, which makes it, sadly, very hard to use in battle. Make sure that you have 45 or more Dusk Balls— it will probably take 20, 30, or 40 tries to catch this Pokémon— and all three of the original Regis in your party, and then
+save your game
+.
+Once your game is saved, talk to the Pokémon. It has taken the form of a statue...... but the power of your Regis awakens it, and the battle begins!
+Take advantage of the first five turns of the battle to lower Regigigas' HP to red with
+Fighting-type
+moves. Then, throw Dusk Balls until you catch it. If anything goes wrong, such as you knocking out Regigigas by accident, turn off the power and it will be as though the battle never happened. That's why you were told to save.
+Once you have captured Regigigas, exit the Snowpoint Temple and go to the southernmost part of the city.
+Heading towards the Battle Zone
+Heal your Pokémon before proceeding.
+Now that you have the National
+Pokédex
+, there is a whole new area available for you to explore! Speak to the sailor near the boat at the southernmost part of the city, and he will take you to the
+Battle Zone
+!
+← Part 28
+Route 214, Spring Path, Sendoff Spring, Turnback Cave, Catching Giratina, Hotel Grand Lake-- Collecting the Diploma
+Diamond and Pearl
+walkthrough
+Fight Area, Battle Park, Battle Tower, Route 225
+Part 30 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,44 @@
+Game: Crystal
+Part: 12
+Keywords: Goldenrod Radio Tower, Goldenrod Underground, Tin Tower (1F), Route 44, Ice Path
+
+**Part 12 Walkthrough Summary**
+
+**Goldenrod City**
+- **Radio Tower**: Defeat Team Rocket. 
+  - **1F**: Battle a Rocket Grunt (Raticate, Lv. 24).
+  - **2F**: Fight several Rocket Grunts (levels 21-26).
+  - **3F**: Battle Scientist Marc (Magnemite, Lv. 27) and more grunts.
+  - **4F**: Confront another Rocket Grunt and Scientist Rich (Porygon, Lv. 30).
+  - **5F**: Defeat the Rocket Executive (Koffing, Lv. 30; Weezing, Lv. 32) to obtain the **Basement Key**.
+
+**Goldenrod Underground**
+- Use the Basement Key to access the warehouse.
+  - **B2F**: Fight Rival Silver (Pokémon levels 28-32 depending on your starter).
+  - Defeat Rocket Grunts and Burglar Eddie for items.
+  - Speak to the Director to get the **Card Key**.
+
+**Radio Tower (Continued)**
+- Back to the Radio Tower with the **Card Key**.
+  - **3F**: Use the card to access the eastern area.
+  - **4F**: Battle another Executive and then the final Executive (Houndoom, Lv. 35) at **5F**.
+  - After defeating them, receive the **Clear Bell**.
+
+**Ecruteak City**
+- Head to the **Barrier Station** at Tin Tower.
+- Speak to the caretaker about the **Clear Bell**; the **Wise Trio** will challenge you.
+  - Defeat them to access **Tin Tower** and battle **Suicune** (Lv. 40). Use Grass/Electric-type moves to weaken it.
+
+**Mahogany Town**
+- The souvenir shop reopens. 
+- Route 44 leads to **Ice Path**.
+
+**Route 44**
+- Trainers: Psychic Phil (Natu, Kadabra) and various others. 
+- Use the area to find Pokémon and items.
+
+**Ice Path**
+- Navigate through the ice and boulders to reach **Blackthorn City**.
+  - Important items: **HM07 (Waterfall)**, **Max Potions**, **TM44 (Rest)**, **NeverMeltIce**.
+
+**End of Part 12**: Next destination is **Blackthorn City**.

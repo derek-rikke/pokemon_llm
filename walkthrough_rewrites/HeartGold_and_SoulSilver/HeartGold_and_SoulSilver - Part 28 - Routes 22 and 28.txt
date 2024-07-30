@@ -1,0 +1,38 @@
+Game: HeartGold_and_SoulSilver
+Part: 28
+Keywords: Routes 22 and 28
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Routes 22 and 28
+
+#### Route 22
+- **Location:** Connects Viridian City to the Pokémon League Reception Gate.
+- **Key Pokémon:**
+  - **Spearow:** Levels 3-5 (Grass)
+  - **Rattata:** Levels 3-7 (Grass)
+  - **Poliwag:** Levels 5-10 (Surfing)
+  - **Fishing:** Magikarp (Old Rod, 95%)
+- **Items:**
+  - None specified.
+
+#### Route 28
+- **Location:** Mountain path leading to Mt. Silver, crossing back into Johto.
+- **Key Pokémon:**
+  - **Ponyta:** Level 40 (Grass)
+  - **Ursaring:** Level 40 (Grass)
+  - **Poliwag:** Levels 35-40 (Surfing)
+- **Items:**
+  - **TM47 (Steel Wing):** From the recluse in a hidden house that requires cutting a tree.
+  - **TM35 (Flamethrower):** East of the recluse's house.
+  - **Rare Candy:** Hidden at the dead-end path east of the recluse's house.
+
+#### Mt. Silver
+- **Location:** Accessed from Route 28; prepare with Surf, Waterfall, Rock Climb, and Rock Smash.
+- **Key Pokémon:**
+  - **Ponyta:** Level 42 (Grass)
+  - **Sneasel:** Levels 41-43 (Grass)
+  - **Poliwhirl:** Levels 30-48 (Surfing)
+- **Items:**
+  - **Full Restore:** Hidden east of the Pokémon Center.
+  - **Reaper Cloth:** On the southwest hill (requires Surf).
+
+Ensure you have the necessary HMs to explore fully and collect all items.

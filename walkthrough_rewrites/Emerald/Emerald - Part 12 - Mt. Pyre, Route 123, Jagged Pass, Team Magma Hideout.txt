@@ -1,0 +1,47 @@
+Game: Emerald
+Part: 12
+Keywords: Mt. Pyre, Route 123, Jagged Pass, Team Magma Hideout
+
+**Part 12 Walkthrough: Mt. Pyre, Route 123, Jagged Pass, Team Magma Hideout**
+
+**Mt. Pyre**
+- **Interior:**
+  - **1F:** Speak to the old woman for a **Cleanse Tag**.
+  - **2F:** Collect an **Ultra Ball** (southwest corner).
+  - **3F:** Get a **Super Repel** (west wall).
+  - **4F:** Obtain **Sea Incense** (southwest corner).
+  - **5F:** Find **Lax Incense** (south side).
+  - **6F:** Acquire **TM30 (Shadow Ball)** (south side).
+- **Exterior:** Collect **TM48 (Skill Swap)** near the rock wall.
+- **Summit:** Defeat Team Aqua Grunts. Obtain the **Magma Emblem** from the old woman after Team Aqua flees.
+
+**Route 123** *(optional)*
+- Access via Route 122; ensure to have Pokémon with **Cut** and a **Grass** type.
+- Trainers to battle include:
+  - **Hex Maniac Kindra**: Lv. 30 Duskull, Shuppet.
+  - **Collector Ed**: Lv. 30 Zangoose, Seviper.
+
+**Jagged Pass**
+- Use the **Magma Emblem** to reveal the entrance to **Magma Hideout**.
+- Enter from **Lavaridge Town**.
+
+**Magma Hideout**
+- **1F:** Defeat the Grunts; collect items including **Rare Candy**.
+- **B1F:** Engage in **Double Battles**; collect a **Full Restore** and **Max Elixir**.
+- **B2F:** Gather a **PP Max**.
+- **B3F:** Fight more Grunts; collect a **Nugget**.
+- **B4F:** Battle Magma Admin **Tabitha**; he has a team including **Camerupt** (Lv. 33).
+
+**Boss Battles:**
+- **VS Tabitha:** Use strong Water or Ground types against his Fire/Ground Pokémon.
+- **VS Maxie**: Maxie uses a team with **Mightyena**, **Crobat**, and **Camerupt** (all around Lv. 37-39). Focus on type advantages and healing as needed.
+
+**Items to Collect:**
+- **1F:** Rare Candy, Max Revive.
+- **B2F:** PP Max.
+- **B3F:** Nugget.
+- **B4F:** Max Revive.
+
+After defeating Maxie, take the shortcut south back to the entrance and grab an **Escape Rope** along the way.
+
+**Next Steps:** Continue to **Part 13**.

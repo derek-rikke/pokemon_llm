@@ -1,0 +1,74 @@
+Game: Ruby_and_Sapphire
+Part: 7
+Keywords: Fallarbor Town, Route 114, Meteor Falls, Route 115
+
+### Part 7: Fallarbor Town, Route 114, Meteor Falls, Route 115 Walkthrough
+
+**Fallarbor Town**
+- Located between Routes 113 and 114. Features a Contest Hall and the Move Maniac.
+- **Key Items:**
+  - **Nugget**: Near Professor Cozmo's Lab (hidden).
+  - **TM27 (Return)**: From Professor Cozmo in exchange for a Meteorite.
+
+**Meet Lanette**: Inside the Pokémon Center, she invites you to her home on Route 114.
+
+**Move Maniac**: Located in the northwest house. Teaches Pokémon forgotten moves for 1 Heart Scale each.
+
+---
+
+**Route 114**
+- Leads to Meteor Falls and has several Trainers.
+
+**Trainers to Battle**:
+- **Fisherman Nolan**: Barboach (Lv. 20)
+- **Picnicker Nancy**: Marill (Lv. 19), Lombre (Lv. 19)
+- **PokéManiac Steve**: Aron (Lv. 20)
+
+**Available Pokémon**: 
+- **Grass**: Swablu (15-17), Seedot (15-16), Lotad (15-16).
+- **Fishing**: Magikarp (5-10), Goldeen (5-10).
+
+**Key Items**:
+- **TM28 (Dig)**: From Fossil Maniac's brother.
+- **Persim Berry**: From trees southeast of Lanette's house.
+- **Carbos**: Hidden south of the southern grass patch.
+
+---
+
+**Meteor Falls**
+- A cavern with rushing rapids. Requires Surf and Waterfall for full exploration.
+
+**Trainers to Battle**:
+- **Old Couple John and Jay**: Medicham (Lv. 40), Hariyama (Lv. 40).
+- **Dragon Tamer Nicolas**: Altaria (Lv. 38).
+
+**Available Pokémon**:
+- **Cave**: Zubat (14-20), Solrock (14, 16, 18), Lunatone (14, 16, 18).
+- **Fishing**: Magikarp (5-10), Goldeen (5-10).
+
+**Key Items**:
+- **Full Heal**: North of Route 114 entrance.
+- **Moon Stone**: On a hill northwest of the bridge.
+- **TM02 (Dragon Claw)**: B1F in a dead-end back chamber (requires Surf, Waterfall).
+
+---
+
+**Route 115**
+- Connects back to Rustboro City. Requires Surf for full exploration.
+
+**Trainers to Battle**:
+- **Black Belt Nob**: Machop (Lv. 20).
+- **Collector Hector**: Seviper (R) or Zangoose (S) (Lv. 20).
+
+**Available Pokémon**:
+- **Fishing**: Magikarp (5-10), Tentacool (5-10).
+
+**Key Items**:
+- **Great Ball**: South of Meteor Falls, requires Rock Smash.
+- **Heart Scale**: Hidden on the beach, west of the stairway near Battle Girl Cyndy.
+
+**Treasure-Hunting**: Explore thoroughly for items and Trainers. Use Surf to access more Pokémon and items on the north side. 
+
+--- 
+
+**Next Steps**: Head to Route 112, Mt. Chimney, and Lavaridge Town.

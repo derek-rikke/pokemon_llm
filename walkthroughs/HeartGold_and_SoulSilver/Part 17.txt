@@ -1,0 +1,791 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_17
+Keywords: Route 6, Saffron City, Saffron Gym, Route 8
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+New Bark Town
+1.1
+Home
+1.2
+Professor Elm's Lab
+2
+Olivine City
+2.1
+Olivine Harbor
+3
+S.S. Aqua
+3.1
+1F
+3.1.1
+Missing Child
+3.1.2
+The Search Begins
+3.2
+B1F
+3.3
+1F
+3.4
+B1F
+3.5
+1F
+3.5.1
+Captain's cabin
+3.6
+B1F
+4
+Vermilion City
+4.1
+Chasing the Wind
+4.2
+Pokémon Fan Club
+4.3
+Vermilion Gym
+New Bark Town
+Home
+After the credits end, you find yourself back home in
+New Bark Town
+. When you walk downstairs,
+Mom
+informs you that
+Professor Elm
+has something to give you.
+Professor Elm's Lab
+Speak to
+Professor Elm
+to receive an
+S.S. Ticket
+, a boarding pass for the
+S.S. Aqua
+in
+Olivine City
+.
+Olivine City
+Olivine Harbor
+Enter the building on the south side of town to reach the port. Inside, you run into
+Professor Oak
+. He believes that it is time for your
+Pokédex
+to match your new role as Champion, and upgrades the device with its
+National Mode
+. He warns that it will not be as easy to complete the National Pokédex, then suddenly realizes that he is late for a recording of his radio show. He invites you to visit his lab in
+Pallet Town
+, then hurries off to
+Goldenrod City
+.
+Speak to the Sailor to present the
+S.S. Ticket
+. Enter the harbor and speak to a second Sailor to board the ship for
+Kanto
+'s
+Vermilion City
+.
+S.S. Aqua
+S.S. Aqua, 1F
+S.S. Aqua, 1F (Interior)
+S.S. Aqua, B1F
+1F (Captain's cabin)
+The
+S.S. Aqua
+uses hydraulic power to skim across the ocean, making for a speedy voyage between
+Johto
+'s
+Olivine City
+and
+Kanto
+'s
+Vermilion City
+. It is one of the more convenient means of travel between the two regions.
+Trainers
+1F
+Trainer
+Pokémon
+Firebreather
+Lyle
+Reward:
+$
+1152
+Koffing
+♂
+Lv.
+36
+No item
+Flareon
+♂
+Lv.
+39
+No item
+Koffing
+♂
+Lv.
+36
+No item
+Sailor
+Stanly
+Reward:
+$
+1088
+After talking to the Sailor
+on the lower deck
+Machop
+♂
+Lv.
+39
+No item
+Machoke
+♂
+Lv.
+41
+No item
+Psyduck
+♂
+Lv.
+34
+No item
+Pokéfan
+Colin
+Reward:
+$
+2560
+Delibird
+♂
+Lv.
+40
+No item
+Twins
+Meg & Peg
+Reward:
+$
+1248
+Teddiursa
+♀
+Lv.
+39
+No item
+Phanpy
+♀
+Lv.
+39
+No item
+Hiker
+Noland
+Reward:
+$
+1344
+Bronzor
+Lv.
+39
+No item
+Golem
+♂
+Lv.
+42
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+B1F
+Trainer
+Pokémon
+Juggler
+Fritz
+Reward:
+$
+1184
+Mr. Mime
+♂
+Lv.
+37
+No item
+Machoke
+♂
+Lv.
+37
+No item
+Magmar
+♂
+Lv.
+37
+No item
+Sailor
+Jeff
+Reward:
+$
+1280
+Makuhita
+♂
+Lv.
+40
+No item
+Raticate
+♂
+Lv.
+40
+No item
+Picnicker
+Debra
+Reward:
+$
+656
+Seaking
+♀
+Lv.
+41
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Metal Coat
+From the Gentleman, after his granddaughter is located
+HG
+SS
+1F
+Missing Child
+Soon after boarding the ship, a Gentleman bumps into you. The man is distraught, and apologies as he explains that his young granddaughter is missing. He asks that you let him know if she is found, and hurries off to continue his search.
+The Search Begins
+Professor Elm
+'s
+S.S. Ticket
+reserves a cabin in the hallway to the right, marked by a Sailor standing just outside. The room features a
+PC
+and a cozy bed, the perfect place to take a nap and restore health.
+The cabin across the hallway belongs to Firebreather Lyle. Of the two cabins between here and the entrance, one is empty while the other has only a sleeping Sailor. On the opposite end of the ship, the first pair of cabins both have Trainers looking to battle; Poké Fan Colin and Twins Meg & Peg are found in the cabin opposite the entrance, and Hiker Noland can be found in the other. The Gentleman's cabin is at the end of the hallway, on the opposite side from the entrance. The final cabin is empty. There is no unaccompanied little girl to be found here, so head downstairs to check the lower deck.
+B1F
+The room to the left has six beds, and a seasick Juggler Fritz hunched over a trash can. The first room to the right holds a dining area and Sailor Jeff.
+A Sailor blocks the way to the engine room. Speak to him, and he asks that you find another Sailor for him as he cannot leave his post.
+1F
+Head back toward your cabin and enter the one next door. Speak to the drowsy Sailor Stanly, and he immediately jumps up out of bed. He is offended that you would think he was sleeping, and challenges you to battle. Defeat him, and he returns to his post.
+B1F
+If you speak to the Sailor, he thanks you for finding Stanly. There is no little girl to be found in the engine room either, so battle Picnicker Debra if you like, then climb the ladder up to the Captain's cabin.
+1F
+Captain's cabin
+The little girl is located here, safe but bored, and keeps trying to get the Captain to play with her. Speak to her, and she insists on playing a game of hide-and-seek. She disappears in an instant, but fortunately cannot leave the ship.
+B1F
+Return to the engine room and visit the dead-end area at the opposite end of the ship to find the little girl hiding in a corner. Speak to her, and you accompany her back to her grandfather's cabin. As thanks for seeing his granddaughter returned safely, he rewards you with a
+Metal Coat
+. A moment later, the Captain announces that the ship has now arrived in
+Vermilion City
+.
+After this initial trip to
+Kanto
+, the ship sails from Kanto to
+Johto
+every Sunday and Wednesday, and from Johto to Kanto every Monday and Friday.
+Vermilion City
+Vermilion City
+Vermilion City
+is a popular port city located between
+Route 6
+and
+Route 11
+. Vermilion Harbor sees many ships coming and going, and the Pokémon Fan Club is located on the west side of town. The
+Vermilion Gym
+stands in the southwest. Just outside the city limits, a sleeping
+Snorlax
+blocks the way to Route 11 and
+Diglett's Cave
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+HG
+SS
+Rock Smash
+24-37
+80%
+Shuckle
+HG
+SS
+Rock Smash
+32-35
+20%
+Headbutt
+Group A
+Spearow
+HG
+SS
+Headbutt
+11-13
+50%
+Heracross
+HG
+SS
+Headbutt
+11-13
+30%
+Combee
+HG
+SS
+Headbutt
+11-13
+20%
+Headbutt
+Group B
+Spearow
+HG
+SS
+Headbutt
+14-16
+80%
+Combee
+HG
+SS
+Headbutt
+14-16
+20%
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+20%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+Swarm
+Wingull
+HG
+SS
+Swarm
+35
+60%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Harbor
+Iron
+South of the
+S.S. Aqua
+, at the end of the pier (hidden)
+HG
+SS
+City
+Rare Candy
+Pokémon Fan Club; from the Chairman
+HG
+SS
+Heart Scale
+Second boat from the north (hidden; requires
+Surf
+)
+HG
+SS
+Luck Incense
+On the sandbar north of the walkway to the harbor (requires
+Surf
+)
+HG
+SS
+Full Heal
+Southeast corner of the construction site (hidden; requires
+Rock Smash
+)
+HG
+SS
+Later visit
+Sticky Barb
+Grassy trail on the east side, accessed via Route 11
+HG
+SS
+Big Pearl
+On the sandbar south of the walkway to the harbor, accessed via Route 11 (hidden; requires
+Surf
+)
+HG
+SS
+Pearl
+×2
+On the sandbar south of the walkway to the harbor, accessed via Route 11 (hidden; requires
+Surf
+)
+On the sandbar south of the walkway to the harbor, accessed via Route 11 (hidden; requires
+Surf
+)
+HG
+SS
+Lost Item
+Pokémon Fan Club; from one of the members, after hearing of
+Copycat
+'s missing doll
+HG
+SS
+PP Max
+From the man near the city's east exit, after earning all 16 Badges
+HG
+SS
+Chasing the Wind
+As you approach the second turn along the path from the harbor, you find
+Suicune
+standing on the water to the east. It races off as soon as you spot it, and
+Eusine
+appears a moment later. He had hoped to corner the beast by ambushing it here, but did not plan for it running on the water. He mentions how he is starting to see a pattern, and hurries off.
+Pokémon Fan Club
+The Pokémon Fan Club is located on the west side of town. Members meet here to discuss everything about their favorite Pokémon, and include a woman with her
+Bayleef
+and a man who wishes that he had a
+Clefairy
+. Speak to the Chairman to hear a long-winded story about his prized
+Rapidash
+. He eventually realizes how long he has been speaking, and gives you a
+Rare Candy
+as thanks for hearing him out.
+Vermilion Gym
+Vermilion Gym
+Vermilion City Pokémon Gym
+Leader: Lt. Surge
+The Lightning American
+The
+Vermilion Gym
+specializes in
+Electric-type
+Pokémon. Electric-type moves are super effective against
+Flying
+- and
+Water-type
+Pokémon, while Electric-type Pokémon are weak to
+Ground-type
+moves.
+The Gym Leader can be found in the back room, beyond a set of electric fences. Reaching him requires challengers to
+flip two switches
+hidden randomly among the many trash cans. Once the first switch has been found, the second will be in an adjacent can. If the wrong can is inspected and there is no switch inside, the puzzle resets.
+Lt. Surge
+leads with his
+Raichu
+.
+Double Team
+makes it difficult to hit, while
+Thunder Wave
+paralyzes
+the target and cuts its
+Speed
+. Surge's first
+Electrode
+is more defensive than the other, with Double Team and
+Light Screen
+letting it take less damage than normal when it does get hit. His second Electrode is more offense-oriented;
+Screech
+cuts the target's
+Defense
+, allowing it to deal more damage with
+Selfdestruct
+. His final two Pokémon help to cover his team's weaknesses. Many
+Ground-type
+Pokémon are also part-
+Rock
+, and take serious damage from
+Steel-type
+moves like
+Magneton
+'s
+Mirror Shot
+, and
+Fighting-type
+moves like
+Electabuzz
+'s
+Low Kick
+. Electric Pokémon tend to have higher
+Speed
+, so consider making use of items like
+Quick Claw
+and
+X Speed
+.
+Vermilion Gym
+Trainers
+Trainer
+Pokémon
+Juggler
+Horton
+Reward:
+$
+1376
+Potential
+Double Battle
+with Vincent
+Electrode
+Lv.
+43
+No item
+Electrode
+Lv.
+43
+No item
+Electrode
+Lv.
+43
+No item
+Guitarist
+Vincent
+Reward:
+$
+1008
+Potential
+Double Battle
+with Horton or Gregory
+Jolteon
+♂
+Lv.
+45
+No item
+Voltorb
+Lv.
+43
+No item
+Magnemite
+Lv.
+42
+No item
+Gentleman
+Gregory
+Reward:
+$
+8400
+Potential
+Double Battle
+with Vincent
+Pikachu
+♂
+Lv.
+46
+No item
+Flaaffy
+♂
+Lv.
+43
+No item
+Electrike
+♂
+Lv.
+42
+No item
+Leader
+Lt. Surge
+Vermilion Gym
+HeartGold and SoulSilver
+Reward:
+$
+6360
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Raichu
+♂
+Lv.
+51
+Thunder Wave
+Electric
+Status
+--
+Shock Wave
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Team
+Normal
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Electrode
+Lv.
+47
+Thunder Wave
+Electric
+Status
+--
+Double Team
+Normal
+Status
+--
+Shock Wave
+Electric
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Electrode
+Lv.
+47
+Screech
+Normal
+Status
+--
+Double Team
+Normal
+Status
+--
+Selfdestruct
+Normal
+Physical
+--
+Charge Beam
+Electric
+Special
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magneton
+Lv.
+47
+Supersonic
+Normal
+Status
+--
+Double Team
+Normal
+Status
+--
+Shock Wave
+Electric
+Special
+--
+Mirror Shot
+Steel
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+Sitrus Berry
+Electabuzz
+♂
+Lv.
+53
+Quick Attack
+Normal
+Physical
+--
+Shock Wave
+Electric
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Low Kick
+Fighting
+Physical
+--
+After the battle,
+Lt. Surge
+awards you the
+Thunder Badge
+. He also gives out
+TM34
+(
+Shock Wave
+) as a prize.
+← Part 16
+Indigo Plateau
+HeartGold and SoulSilver
+walkthrough
+Route 6, Saffron City
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,38 @@
+Game: Crystal
+Part: 25
+Keywords: Viridian City, Route 1, Pallet Town
+
+**Part 25: Viridian City, Route 1, Pallet Town**
+
+**Viridian City**
+- **Location**: Between Route 2 (north), Route 1 (south), and Route 22 (west).
+- **Available Pokémon**:
+  - **Surfing**: Poliwag (Lv. 5-14), Poliwhirl (Lv. 10-14)
+  - **Fishing**: Magikarp (Old Rod Lv. 10), Poliwag (Old Rod Lv. 10, Good Rod Lv. 20), Poliwhirl (Super Rod Lv. 40)
+- **Items**: TM42 (Dream Eater) from the sleeping man (requires Cut or Surf).
+
+**Viridian Gym**
+- **Status**: Open, but the Gym Leader is often absent. 
+
+**Trainer House**
+- **Battle**: Fight Cal (Lv. 50 Meganium, Typhlosion, Feraligatr). Only one battle per day.
+
+**Route 1**
+- **Trainers**: 
+  - **Danny**: Jynx, Electabuzz, Magmar (Reward: $992)
+  - **Quinn**: Ivysaur, Starmie (Reward: $1824)
+- **Available Pokémon**: 
+  - Pidgey (Lv. 2-4), Rattata (Lv. 2), Sentret (Lv. 3)
+- **Items**: Bitter Berry (daily from a tree south of the northwestern ledge).
+
+**Pallet Town**
+- **Location**: Between Route 1 and Route 21.
+- **Available Pokémon**: 
+  - **Surfing**: Tentacool (Lv. 30-39), Tentacruel (Lv. 35-39)
+  - **Fishing**: Magikarp (Old Rod), Chinchou, Shellder (Good Rod)
+- **Red's House**: Red is away training.
+- **Blue's House**: Blue is serving as the Viridian Gym Leader.
+- **Spa Day with Daisy**: Speak to Daisy between 3:00 PM and 4:00 PM for Pokémon grooming (once daily).
+- **Professor Oak's Lab**: Rate your Pokédex; visit again after getting all 8 Gym Badges for a reward.
+
+Proceed to the next part of your journey.

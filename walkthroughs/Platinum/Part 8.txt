@@ -1,0 +1,1406 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_8
+Keywords: Route 215, Veilstone City, Veilstone Gym
+
+Walkthrough Text:
+Contents
+1
+Route 215
+2
+Veilstone City
+2.1
+Game Corner
+2.2
+Massage Lady
+2.3
+Veilstone Department Store
+3
+Veilstone Gym
+4
+Veilstone City
+Route 215
+Route 215
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Abra
+D
+P
+Pt
+Grass
+19
+10%
+Kadabra
+D
+P
+Pt
+Grass
+21-22
+10%
+Lickitung
+D
+P
+Pt
+Grass
+20
+10%
+Scyther
+D
+P
+Pt
+Grass
+20,22
+15%
+0%
+0%
+Scyther
+D
+P
+Pt
+Grass
+20
+0%
+5%
+5%
+Marill
+D
+P
+Pt
+Grass
+20,22
+25%
+25%
+0%
+Marill
+D
+P
+Pt
+Grass
+20-22
+0%
+0%
+45%
+Staravia
+D
+P
+Pt
+Grass
+19,21
+30%
+0%
+0%
+Staravia
+D
+P
+Pt
+Grass
+19,21-22
+0%
+40%
+0%
+Staravia
+D
+P
+Pt
+Grass
+19
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ruin Maniac
+Calvin
+イサジ
+Isaji
+Reward:
+$
+1104
+Bronzor
+Lv.
+23
+No item
+Shieldon
+♂
+Lv.
+23
+No item
+Jogger
+Craig
+スバル
+Subaru
+Reward:
+$
+768
+Luxio
+♂
+Lv.
+22
+No item
+Luxio
+♂
+Lv.
+24
+No item
+Black Belt
+Derek
+ケンサク
+Kensaku
+Reward:
+$
+624
+Croagunk
+♂
+Lv.
+26
+No item
+Black Belt
+Gregory
+ヨウスケ
+Yōsuke
+Reward:
+$
+552
+Machop
+♂
+Lv.
+23
+No item
+Machop
+♂
+Lv.
+23
+No item
+Machop
+♂
+Lv.
+23
+No item
+Black Belt
+Nathaniel
+グンジ
+Gunji
+Reward:
+$
+576
+Croagunk
+♂
+Lv.
+21
+No item
+Machop
+♂
+Lv.
+24
+No item
+Meditite
+♂
+Lv.
+24
+No item
+Jogger
+Scott
+マサヤ
+Masaya
+Reward:
+$
+800
+Staravia
+♂
+Lv.
+25
+No item
+Ace Trainer
+Dennis
+カツマサ
+Katsumasa
+Reward:
+$
+1500
+Gligar
+♂
+Lv.
+24
+No item
+Drifblim
+♂
+Lv.
+25
+No item
+Buizel
+♂
+Lv.
+24
+No item
+Ace Trainer
+Maya
+エリナ
+Erina
+Reward:
+$
+1500
+Roselia
+♀
+Lv.
+24
+No item
+Ralts
+♀
+Lv.
+24
+No item
+Lickitung
+♀
+Lv.
+25
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Max Ether
+Just past the first bridge
+Pt
+TM66
+(
+Payback
+)
+Given by the
+Black Belt
+before the second bridge
+Pt
+Revive
+In center of the elevation between bridges two and three
+(hidden)
+Pt
+Fist Plate
+Just past
+Black Belt
+Gregory (requires
+Cut
+)
+Pt
+Pecha Berry
+×2
+Berry patch south of
+Black Belt
+Gregory (requires
+Cut
+)
+Pt
+Bluk Berry
+×2
+Berry patch south of
+Black Belt
+Gregory (requires
+Cut
+)
+Pt
+Hyper Potion
+Across the fourth bridge, south of first Berry patch
+Pt
+HP Up
+Northeast corner of the largest grass patch
+Pt
+Ultra Ball
+At the south end of the largest grass patch
+(hidden)
+Pt
+TM34
+(
+Shock Wave
+)
+South of the largest grass patch (requires
+Cut
+)
+Pt
+Iron
+At large trodden area after Jogger Scott
+(hidden)
+Pt
+Full Heal
+Below the ledge past Jogger Scott
+Pt
+Wiki Berry
+Berry patch east of
+Ace Trainer
+Maya
+Pt
+Mago Berry
+Berry patch east of
+Ace Trainer
+Maya
+Pt
+Route 215
+is packed with Trainers and items, and the constant
+rainfall
+boosts the power of
+Water-type
+moves by 50% (and decreases the power of
+Fire-type
+moves by 50%), so this is a good place to train Water-type Pokémon. Bring a Pokémon that knows
+Cut
+- it will make travel significantly easier and will allow you to collect all the items on your way to
+Veilstone City
+. Head east a short distance, then circle around anticlockwise up and across the first bridge. Follow the path until you reach the third bridge, make a detour to fight the
+Black Belt
+to its south, then Cut your way through to another Black Belt to collect the
+Fist Plate
+and jump over the ledge. Use Cut on the tree below the next hill to harvest some Berries, then head up the hill, detour south across the fourth and final bridge. Follow the path onward collecting all the items that are of interest, making sure to Cut your way through to
+TM34
+(
+Shock Wave
+) just below the largest grassy patch.
+Veilstone City
+Veilstone City
+Items
+Item
+Location
+Games
+Calcium
+West of the warehouse, just north of the city entrance
+(hidden)
+Pt
+Star Piece
+Left of the warehouse, far north of the city entrance
+In the biggest meteorite pit
+(hidden)
+Pt
+PP Up
+Between the trees and Veilstone Department Store
+(hidden)
+In the Galactic Veilstone Building, inside the right entrance door, in a cardboard box
+(hidden)
+Pt
+TM63
+(
+Embargo
+)
+Man in the southwestern part of the city
+Pt
+Coin Case
+Clown in a house, west of
+Veilstone Game Corner
+Pt
+Rare Candy
+On the west side of Galactic Veilstone Bulding
+Pt
+HM02
+(
+Fly
+)
+Inside the
+Galactic Warehouse
+Pt
+Having arrived in
+Veilstone City
+, it's time to explore the place. Veilstone is the home of the
+Veilstone Department Store
+,
+Galactic Veilstone Building
+, the
+Veilstone Game Corner
+, and, of course, the
+Veilstone Gym
+.
+In the house directly north of the Pokémon Center lives a man willing to hand over a
+Porygon
+. Make sure you have a free slot in your party so you're able to receive it.
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Porygon
+D
+P
+Pt
+Gift
+25
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Game Corner
+The building in the southern part of the city decorated with glowing lights is the Game Corner. Here, you can collect Coins and then visit the Prize Exchange next door to get valuable items and
+TMs
+. Before you're allowed to play any games however, you'll need a
+Coin Case
+, in which your winnings are kept. Head to the next house to the west of the Game Corner. Speak to the clown inside, who'll hand over a Coin Case if you get the correct answer in his game of coin toss (you can play again whenever you get the wrong answer). In the Prize Exchange building to the east of the Game corner is a man who, if you talk to him while having a Pokémon with
+Hidden Power
+at the front of your party, will let you know what
+type
+Hidden Power
+'s damage will be.
+Massage Lady
+In the house next to the house where you find the Coin Case is the Massage Lady. She'll massage one of your Pokémon once per day and also find an
+Accessory
+, which also raises the Pokémon's
+happiness
+.
+Veilstone Department Store
+Veilstone has a
+Department store
+instead of a conventional Poké Mart. Take the opportunity to stock up on supplies!
+Inside, there is a lady to the left of the entrance who will give you a
+mask
+to be put in the
+Fashion Case
+. The mask will match Lucas/Dawn's
+first partner Pokémon
+. The people at the counter on 1F sell items found in normal
+Poké Marts
+.
+Item
+Location
+Games
+Turtwig Mask
+Accessory
+; if the player started with
+Chimchar
+Pt
+Chimchar Mask
+Accessory
+; if the player started with
+Piplup
+Pt
+Piplup Mask
+Accessory
+; if the player started with
+Turtwig
+Pt
+A man behind the counter on 2F will give you the
+Counter
+Pokétch app.
+Battle items
+and
+vitamins
+are sold here as well.
+Item
+Location
+Games
+Counter
+Obtained from a man behind the counter on 2F
+Pt
+On 3F, you can buy
+TMs
+.
+TM54
+(
+False Swipe
+) can be useful if you plan to complete your
+Pokédex
+, as this attack will never knock out an opponent. They also sell powerful special attacks, such as
+TM25
+(
+Thunder
+),
+TM38
+(
+Fire Blast
+), and
+TM52
+(
+Focus Blast
+), that can be huge upgrades to your current team.
+Secret Base
+decorations
+are sold on 4F.
+On 5F, a man will give you a
+Sticky Barb
+.
+Inexpensive healing items
+can be bought from the
+Vending Machines
+on this floor, too.
+Item
+Location
+Games
+Sticky Barb
+Obtained from a man on 5F
+Pt
+The basement floor sells
+Poffins
+,
+Berries
+, and
+Lava Cookies
+.
+Veilstone Gym
+Veilstone Gym
+After exploring Veilstone City, it's time for you to challenge the Gym for your fourth Badge. Before you enter the Gym, you'll encounter
+Professor Rowan
+'s research assistant
+Lucas
+/
+Dawn
+, and both of you will then meet
+Wake
+,
+Pastoria Gym
+'s leader, as he leaves the Gym. The Veilstone Gym Leader,
+Maylene
+, specializes in
+Fighting
+-type Pokémon, which are weak to
+Psychic
+- and
+Flying
+-type attacks, but Maylene's
+Lucario
+is also weak to Fighting-,
+Fire
+-, and
+Ground
+-type attacks. However, many Fighting-type Pokémon can learn
+Rock
+-type moves, which cover their weakness against Flying-type Pokémon, so a team with Psychic Pokémon and Ghost Pokémon is ideal here.
+The Gym is a maze consisting of many punching bags that you must push to smash barriers made up of tires in order to open up new paths. Your key goal is to aim for the punching bag in the upper left of the Gym that destroys the barrier that will get you to Maylene.
+Knock the first punching bag to the right, and head up through the (now vacant) gap between the bottom right boxing ring and the support pillar. Knock the next bag north, make a quick detour into the ring to battle the First Karate Quad, then knock the bag north once more - it should end up just above and to the right of another bag. Knock this bag north, then follow it and head up and around the stack of tires at the northeast corner of the northeast boxing ring. Knock the next bag (that is just north of the northeast ring) twice to the left, then head south between the northeast ring and the benches, stopping to battle the second and third members of the Karate Quad, then head into the western portion of the Gym.
+Head northwest, fight the fourth and final member of the Karate Quad, then knock the bag next to him south once, and then once east. Next, find the bag directly south of the path between the benches and north of the southwest boxing ring. Knock this bag anticlockwise (up, left, down, then right) all the way back to its original position. This should clear the way to the southwestern-most punching bag, which can now be knocked north once and east. Head up between the benches, and knock the bag above them twice to the east, finally opening up the stairs to allow you to challenge Maylene!
+Veilstone Gym
+Trainers
+Trainer
+Pokémon
+Black Belt
+Colby
+イチロウ
+Ichirō
+Reward:
+$
+648
+Machoke
+♂
+Lv.
+23
+No item
+Machoke
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+27
+No item
+Black Belt
+Darren
+ジロウ
+Jirō
+Reward:
+$
+600
+Machop
+♂
+Lv.
+25
+No item
+Meditite
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+Black Belt
+Rafael
+サブロウ
+Saburō
+Reward:
+$
+624
+Croagunk
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+26
+No item
+Black Belt
+Jeffery
+シロウ
+Shirō
+Reward:
+$
+672
+Heracross
+♂
+Lv.
+28
+No item
+Leader
+Maylene
+Veilstone Gym
+Platinum
+Reward:
+$
+3840
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Meditite
+♀
+Lv.
+28
+Fake Out
+Normal
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Drain Punch
+Fighting
+Physical
+--
+Confusion
+Psychic
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machoke
+♂
+Lv.
+29
+Strength
+Normal
+Physical
+--
+Karate Chop
+Fighting
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+Sitrus Berry
+Lucario
+♂
+Lv.
+32
+Drain Punch
+Fighting
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Bone Rush
+Ground
+Physical
+--
+Maylene leads with her Meditite, which can use
+Fake Out
+on its first turn in battle to force your Pokémon to flinch and deal some damage. A quick
+Flying-type
+like
+Staravia
+using
+Wing Attack
+or
+Aerial Ace
+will take it out before it can use Rock Tomb to counter your
+Flying-type
+-type, but a
+Ghost-type
+is ideal as it will take little damage from Meditite's moves. Her Machoke is more offensive but should not be too difficult to beat though it can also counter Flying types with Rock Tomb, a
+Psychic
+or Ghost Pokémon will do will here too. Last up is Lucario, Maylene's star Pokémon. It has a variety of attacks, but nothing too rough. Its
+Steel-type
+makes it only take regular damage from Flying and Psychic but adds weaknesses to
+Fire
+,
+Fighting
+, and
+Ground
+. Two of them are conveniently exploited by attacks sold at the Department Store, but Lucario can counter
+Fire-type
+-types with
+Bone Rush
+. Be careful of her Gym's signature move
+Drain Punch
+, which heals her Pokémon by 50% of the damage dealt with it, so try not to get into a war of attrition. Maylene will use Hyper Potions when her Pokémon get weak, so try to finish them off without dropping their HP to below 20% (when the HP bar turns red).
+After you defeat her, she'll hand over the Cobble Badge, explaining that it'll allow you use
+HM02
+(
+Fly
+) outside of battle, and that traded Pokémon up to level 50 will obey you without question, along with
+TM60
+(
+Drain Punch
+).
+Veilstone City
+As you leave the Gym,
+Professor Rowan
+'s assistant Lucas/Dawn comes up to you and tells you that their Pokédex has been stolen. Heal up at the Pokémon Center, then head over to the Galactic Warehouse to find two male
+Team Galactic
+Grunts. Challenge the two to a
+Multi Battle
+with Lucas/Dawn.
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+(w. Galactic Grunt)
+Reward:
+$
+1040
+Zubat
+♂
+Lv.
+24
+No item
+Stunky
+♂
+Lv.
+26
+No item
+Galactic Grunt
+(w. Galactic Grunt)
+Reward:
+$
+1040
+Zubat
+♂
+Lv.
+24
+No item
+Croagunk
+♂
+Lv.
+26
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+If the
+player
+chose
+Turtwig
+Partner:
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+/
+♀
+Lv.
+28
+BubbleBeam
+Water
+Special
+--
+Peck
+Flying
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+/
+♀
+Lv.
+28
+BubbleBeam
+Water
+Special
+--
+Peck
+Flying
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+If the
+player
+chose
+Chimchar
+Partner:
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+/
+♀
+Lv.
+28
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+???
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+/
+♀
+Lv.
+28
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+???
+Status
+--
+If the
+player
+chose
+Piplup
+Partner:
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+/
+♀
+Lv.
+28
+Flame Wheel
+Fire
+Physical
+--
+Ember
+Fire
+Special
+--
+Mach Punch
+Fighting
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+/
+♀
+Lv.
+28
+Flame Wheel
+Fire
+Physical
+--
+Ember
+Fire
+Special
+--
+Mach Punch
+Fighting
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Upon defeat, the grunts give back the Pokédex and flee.
+Looker
+then shows up, having heard of the robbery, and is glad you were able to handle the situation. After your partner leaves, Looker guides you into the warehouse. Inside he finds that the door is locked and states there is nothing he can do now. He does find
+HM02
+(
+Fly
+) however, which you should pick up. Before leaving, Looker mentions a rumor of Team Galactic moving something important to
+Pastoria City
+. There's nothing else of importance to do in Veilstone (for now), so it's time to head south to Pastoria, after healing up at the Pokémon Center if necessary. To get to Pastoria, you must enter the east gate through
+Route 214
+.
+← Part 7
+Solaceon Town to Route 210
+Platinum
+walkthrough
+Route 214 to Pastoria City
+Part 9 →

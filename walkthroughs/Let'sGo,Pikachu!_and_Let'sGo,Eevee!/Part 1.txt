@@ -1,0 +1,253 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_1
+Keywords: Introduction, Pallet Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Introduction
+2
+Pallet Town
+2.1
+Home
+2.1.1
+2F
+2.1.2
+1F
+2.2
+A Wild Pokémon Appears!
+2.3
+Professor Oak's Lab
+2.4
+Roadmap to Adventure
+Introduction
+After a brief cutscene, the player is given a choice of several languages—English, Spanish, French, German, Italian, Japanese, Korean, Simplified Chinese, and Traditional Chinese—in which to play. Once this is complete, the resident researcher of the
+Kanto
+region,
+Professor Oak
+, appears and introduces new Trainers to the Pokémon world. The player is presented with eight photos and asked to select a gender and skin tone combination for their character. Next, the player is asked to enter their name, which can be up to twelve characters long. Finally, the professor asks for the name of
+your friend and rival
+. With that done, the player is transported into the world of Pokémon to begin their adventure!
+Pallet Town
+Pallet Town
+The journey begins in
+Pallet Town
+, in the southwest part of the
+Kanto
+region. It is a rather small, sleepy town with only three buildings. The western house belongs to you and
+Mom
+, while the eastern one is home to
+your rival
+and his sister. The large building to the south is
+Professor Oak
+'s
+Laboratory
+. The north part of town leads to the
+tall grasses
+of
+Route 1
+, and the waters to the south open up to
+Route 21
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+First partner Pokémon
+Pikachu
+Partner
+P
+E
+Gift
+5
+One
+Eevee
+Partner
+P
+E
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+×50
+In the Bag; available from the beginning
+P
+E
+Pokédex
+Oak's Lab; from Professor Oak, after receiving the
+partner Pokémon
+P
+E
+Town Map
+Outside the lab; from Mom, after obtaining the Pokédex
+P
+E
+Later visit
+Razz Berry
+×20
+Oak's Lab; from Professor Oak, after delivering his parcel
+P
+E
+Sportswear
+Near Route 1; from Trace's sister, after delivering Oak's Parcel
+P
+E
+Home
+2F
+The journey begins in your bedroom, with you standing in front of your
+Nintendo Switch
+. When you try to go down the stairs, Trace comes running up to your room. Today is the day that you are each supposed to receive your
+first partner Pokémon
+from
+Professor Oak
+! He reminds you to read the email that he sent you, which includes some basic adventure tips, before excitedly running off.
+1F
+Mom
+is standing in the kitchen, and reminds you to go and meet with
+Professor Oak
+. It is best not to keep him waiting, so leave the house to track him down.
+A Wild Pokémon Appears!
+Pallet Town
+has only a few places to explore, and
+Professor Oak
+is nowhere to be found. There is nothing else to do around here right now, so head for the
+tall grass
+on the north side of town. A flock of
+Pidgey
+was helping the professor with his research and he lost track of time. The two of you are about to head for the lab when suddenly, a wild
+Pikachu
+P
+/
+Eevee
+E
+appears! Oak uses the battle to teach you how to catch a wild Pokémon.
+Catching a Pokémon
+The catching mechanics are very different from those in other
+core series
+games, and differ based on the desired control scheme.
+TV Mode
+When using a single Joy-Con, aim it horizontally at the TV screen. To ready a Poké Ball, press the A (or ZR) Button, raise the Joy-Con so it is held vertically, then lower it back down horizontally to throw it. If using the Left Joy-Con, press ▶︎ (or the ZL Button) instead.
+Handheld Mode
+When playing with both Joy-Cons attached to the Nintendo Switch, press the A (or ZL, or ZR) Button to ready the Poké Ball. Move the Switch around to aim, then press the button again to toss the Poké Ball toward the center of the screen.
+Poké Ball Plus
+When using the Poké Ball Plus, press the center button to ready the Poké Ball, raise it up, and then lower the accessory to toss a Poké Ball.
+After the battle, the professor intends to let you nickname the newly-caught Pokémon, until its Poké Ball starts bouncing around wildly. The lively Pokémon dashes off to the lab with you and Oak in hot pursuit!
+Professor Oak's Lab
+Trace
+is already waiting here for the professor, and says that the third Poké Ball on the table just appeared a second ago. Oak explains what had happened, then invites you to take the Poké Ball to receive your
+partner Pokémon
+. He offers you the chance to give it a
+nickname
+, which may be up to twelve characters long. Trace then chooses a second Poké Ball from the table, which contains an
+Eevee
+P
+/ a
+Pikachu
+E
+. Although Pikachu and Eevee are normally capable of
+evolving
+, this particular individual will always refuse to do so.
+Pikachu
+Eevee
+Electric
+Normal
+When you turn to leave, you are stopped by
+Professor Oak
+. Now that you and Trace are starting out as
+Pokémon Trainers
+, he has a request for each of you: take the
+Pokédex
+he invented and use it to gather information on all the Pokémon in the world. This handheld device is a high-tech encyclopedia that records data on every Pokémon you encounter, and will be complete when you catch a member of every species. It was Oak's dream to do this himself, but his advanced age means that he must rely on the two of you instead.
+Roadmap to Adventure
+Outside the lab, you find Mom waiting for you. She and your new Pokémon take a moment to get acquainted. Realizing that you are about to go on an adventure, she brought along a
+Town Map
+of the
+Kanto
+region for you. To view it, open the menu and select it from the Bag. She wishes the two of you safe travels before heading home, leaving you to begin your journey. Leave
+Pallet Town
+behind and head north to
+Route 1
+.
+Main Menu
+Accessed by pressing X, ▲, or shaking the Poké Ball Plus
+Pokédex
+Displays data on every Pokémon seen or caught. An entry is complete when at least one member of that species has been caught.
+Bag
+The Bag stores all items and Pokémon, and includes several sub-menus.
+Pokémon Box
+: Stores all Pokémon on hand. Pokémon can be swapped between the party and storage from this menu.
+Medicine Pocket
+: Healing items, like
+Potions
+and
+Antidotes
+.
+TM Case
+:
+Technical Machines
+, which are used to teach new moves to compatible Pokémon.
+Power-Up Pocket
+: Vitamins like
+PP Up
+, and evolution-inducing items like
+Water Stones
+.
+Candy Jar
+: Holds
+Candy
+, a type of item used to raise a Pokémon's stats.
+Clothing Trunk
+:
+Clothes to dress up your character
+and your
+partner Pokémon
+.
+Catching Pocket
+: Various types of Poké Ball, and Berries to make capture easier or more rewarding.
+Battle Pocket
+: Items like
+X Attack
+to boost a Pokémon's stats during battle.
+Mega Stones
+are also stored here.
+Party
+All Pokémon currently available to fight in battle. May include up to six Pokémon at a time.
+Communicate
+Allows for trading and battling with other players.
+Initially disabled; unlocked after delivering Oak's Parcel.
+Save
+Records any new progress made. The game is suspended in the Nintendo Switch's Sleep Mode, but it is still a good idea to save manually.
+Sub-Menus
+Options
+Accessed by pressing Y or ◀︎ from the Main Menu. Includes settings like text speed and linking with
+Pokémon GO
+.
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 1, Viridian City, Oak's Lab, Route 2
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

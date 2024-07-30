@@ -1,0 +1,37 @@
+Game: Sun_and_Moon
+Part: 13
+Keywords: Docks, Conservation Area
+
+### Part 13: Aether Paradise Walkthrough
+
+#### Overview
+Aether Paradise is an artificial island in the Alola region, established by the Aether Foundation for Pokémon conservation. Note that empty Poké Balls cannot be used here due to a jamming signal.
+
+#### Key Items
+- **TM29 (Psychic)**: B1F; from Wicke after Ultra Beast encounter
+- **Rare Candy**: B1F; near the wall, north of the elevator
+- **Stick**: 1F; from an Aether Employee, northeast of the elevator
+- **X Sp. Atk**: B1F; southwest of the ferry
+- **TM06 (Toxic)**: B1F; southwest corner
+- **Max Revive**: B2F; from Hau after entering the area (after becoming Champion)
+- **Memory Drives**: 2F; from Gladion, north of the elevator
+- **Dubious Disc**: 1F; from Faba, near the north exit
+
+#### B1F: Docks
+- Meet Faba, who introduces you to Wicke. Take the elevator with them to the entrance.
+
+#### 1F: Entrance
+- Access a PC and Pokémon healing service. Wicke will guide you to the conservation area.
+
+#### 2F: Conservation Area
+- Follow the southwest path from the elevator, then north along the western side. At the northwest corner, turn right to find Lusamine.
+- After a conversation, an Ultra Beast appears. Engage in battle with it. 
+  - **Type**: Rock/Poison 
+  - **Effective Moves**: Ground, Water, Psychic, Steel
+  - **Level**: 27
+  - **Abilities**: Beast Boost
+
+After defeating the Ultra Beast, Lusamine expresses her intent to protect it. Wicke will then give you TM29 (Psychic) and Big Malasadas for Hau before the ship departs for Ula'ula Island.
+
+### Next Steps
+- Proceed to Part 14 for your next adventure on Ula'ula Island.

@@ -1,0 +1,710 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_2
+Keywords: Route 1, Viridian City, Pallet Town (Revisited), Route 2 (West)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 1
+1.1
+Into the Wilderness
+1.2
+The Nose Knows
+2
+Viridian City
+2.1
+Pokémon Center
+2.2
+Trainers' School
+2.3
+Trouble Ahead
+2.4
+Poké Mart
+2.4.1
+Special Delivery
+3
+Pallet Town
+3.1
+Oak's Lab
+3.1.1
+Rival Battle 1
+3.1.1.1
+In Let's Go, Pikachu!:
+3.1.1.2
+In Let's Go, Eevee!:
+3.2
+Dress the Part
+4
+Route 1
+4.1
+Free Sample
+4.2
+Challenge Accepted
+5
+Viridian City
+5.1
+Rest & Recharge
+5.2
+Supplies for Sale
+5.3
+Walk the Walk
+5.4
+Nicknaming a Pokémon
+5.5
+Detour
+6
+Route 22
+6.1
+Rival Battle 2
+6.1.1
+In Let's Go, Pikachu!:
+6.1.2
+In Let's Go, Eevee!:
+7
+Route 2 (West)
+Route 1
+Route 1
+Route 1
+is a peaceful, country road that leads north from
+Pallet Town
+to
+Viridian City
+. The path is riddled with patches of
+tall grass
+and one-way
+ledges
+that make northward travel difficult.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+3-4
+40%
+Rattata
+P
+E
+Grass
+3-4
+30%
+Oddish
+P
+E
+Grass
+3-4
+30%
+Bellsprout
+P
+E
+Grass
+3-4
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Later visit
+Potion
+From the Viridian Poké Mart clerk, after delivering Oak's
+Parcel
+P
+E
+Other items
+Razz Berry
+In the northeastern bush; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Into the Wilderness
+Several kinds of wild Pokémon can be seen wandering through the area. To catch a Pokémon, Trainers may only use Berries to make a Pokémon easier to capture; it is not possible to battle wild Pokémon with your own to weaken them. Catching a Pokémon is the only way to earn valuable
+Experience Points
+for your Pokémon team. Since you already have 50 Poké Balls, it is a good time to catch plenty of these Pokémon to start raising your new partner.
+The Nose Knows
+As you approach the north end of the route, your Pikachu
+P
+/ Eevee
+E
+will notice a bush to the east. Whenever it acts like this, be sure to take a closer look at whatever caught its attention. In this case, speaking to the young Pokémon will reveal that it has caught the scent of a
+Razz Berry
+, which makes a wild Pokémon easier to catch. These items sometimes respawn as well, and may be different each time.
+Viridian City
+Viridian City
+Viridian City
+is a small, nature-loving city that is enveloped in green year-round. It is located between
+Route 1
+to the south,
+Route 2
+to the north, and
+Route 22
+to the west.
+Items
+Item
+Location
+Games
+Parcel
+Outside the Poké Mart; from the clerk
+P
+E
+Potion
+Near the city's north exit, west of the small tree
+(hidden)
+(daily)
+P
+E
+Pretty Wing
+Flowerbed east of the Pokémon Center; infrequently found by some
+walking Pokémon
+P
+E
+Later visit
+TM11
+(
+Will-O-Wisp
+)
+From the sleeping man in the southwest (requires
+Chop Down
+)
+P
+E
+Revive
+Inside Viridian Gym
+P
+E
+TM41
+(
+Earthquake
+)
+From the Gym Leader, after defeating him
+P
+E
+Pokémon Center
+The nearest building with the red roof is the
+Pokémon Center
+. This Pokémon hospital will heal your team to full health and eliminate any status ailments they may have. It is a good idea to heal up and save your progress whenever you find a Pokémon Center.
+Trainers' School
+The
+Trainers' School
+in the city's center teaches inexperienced Trainers about the basics of battle. A blackboard in the front of the room describes the five
+status ailments
+that can affect a Pokémon.
+Ailment
+Effect(s)
+Burned
+Burn
+Damage dealt by
+physical moves
+is halved; inflicts damage equal to 1/16 of maximum
+HP
+every turn.
+Fire
+Pokémon cannot be Burned.
+Frozen
+Freeze
+Cannot move until thawed (20% chance of recovery each turn).
+Ice
+Pokémon cannot be Frozen.
+Paralysis
+Paralysis
+Speed
+drops to 50%; cannot attack 1/4 of the time.
+Electric
+Pokémon cannot be Paralyzed.
+Poisoned
+Poison
+Inflicts damage equal to 1/8 of maximum
+HP
+every turn.
+Poison
+and
+Steel
+Pokémon cannot be Poisoned.
+Asleep
+Sleep
+Cannot move for one to three turns.
+Trouble Ahead
+On your first visit to
+Viridian City
+, there is a
+woman with red hair and a man with blue hair
+blocking the way northward. They mention something about guard duty and refuse to move. There is nothing to be done about this yet, so continue exploring the rest of the city instead.
+Poké Mart
+Another shop with a blue roof sits to the northeast of the Pokémon Center. This is the local
+Poké Mart
+; these stores offer a variety of Poké Balls, Potions, and other items. It is a good idea to stock up on supplies whenever possible, as there is no telling what you may run into on your journey. More items become available for purchase based on the number of
+Badges
+a Trainer has earned.
+Special Delivery
+When you approach the Poké Mart, the clerk is standing outside the door. He recognizes you as someone from
+Pallet Town
+and explains that he has a delivery for
+Professor Oak
+. He hands Oak's
+Parcel
+to you and asks that you take it to him. Once he walks back inside the shop, the player is presented with the option to warp directly back to the lab.
+Pallet Town
+Oak's Lab
+The professor asks how Pikachu
+P
+/ Eevee
+E
+is doing, and in response the young Pokémon happily climbs up onto your shoulder
+P
+/ hat
+E
+. Oak accepts his
+Parcel
+from you and
+Trace
+arrives a moment later. The professor shares the parcel's contents, and you each receive 20
+Razz Berries
+. He explains that wild Pokémon are so happy to get a treat like this, that using one before throwing a Poké Ball makes them distracted and much easier to catch.
+Rival Battle 1
+When you go to leave, Trace challenges you to your first Trainer battle! When battling another Trainer, you will use your own Pokémon to fight. The first Pokémon that you send out will be the one in the top-left position in your party. Select
+Fight
+, then choose an attack for your Pokémon to use. This battle should be easy if you have caught a few other Pokémon for backup.
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Professor Oak's Laboratory
+Let's Go, Pikachu!
+Reward:
+$
+120
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Eevee
+♂
+Lv.
+6
+Tackle
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+In
+Let's Go, Eevee!
+:
+Pokémon Trainer
+Trace
+Professor Oak's Laboratory
+Let's Go, Eevee!
+Reward:
+$
+120
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+6
+Thunder Shock
+Electric
+Special
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Dress the Part
+On your second trip out of
+Pallet Town
+, you find
+Trace
+'s big sister near the entrance to
+Route 1
+. Speak to her to receive a set of
+Sportswear
+to dress up your partner Pokémon. Pikachu
+P
+/ Eevee
+E
+happily hops down onto your arm and allows you to interact with it, unlocking the
+Partner Play
+function. This lets you pet the Pokémon and feed it Berries to increase its
+friendship
+. In addition, the
+Play with Pikachu
+P
+/ Eevee
+E
+option, which allows you to access Partner Play, is now unlocked on the main menu.
+Route 1
+Trainers
+Trainer
+Pokémon
+After delivering Professor Oak's Parcel
+Youngster
+Ronny
+Reward:
+$
+60
+3
+Poké Balls
+Rattata
+♂
+Lv.
+3
+No item
+Free Sample
+Partway through the route, you run across the clerk from the
+Viridian City
+Poké Mart. Speak to him and he thanks you for delivering the
+Parcel
+. He invites you to visit the Poké Mart as they offer a wide variety of merchandise, and gives you a
+Potion
+as a free sample.
+Challenge Accepted
+Before you can return to Viridian City, the Youngster near the north end of the route challenges you to a battle. It should be an easy fight, as he only has a single Pokémon. Winning battles against other Trainers not only earns you prize money, but sometimes various types of
+Poké Ball
+as well. While catching Pokémon is the best way to earn
+Experience Points
+, battling other Trainers is the best method of earning these other resources.
+Viridian City
+Rest & Recharge
+On your second visit to
+Viridian City
+, you find
+Trace
+standing near the Pokémon Center. Noticing that you just defeated another Trainer and your Pokémon may be injured, he suggests resting your team at the Pokémon Center, and then runs off.
+Supplies for Sale
+With Oak's
+Parcel
+delivered, it is now possible to purchase items at the Poké Mart. It is always best to stock up on Poké Balls and Potions whenever possible. The nearby forest is home to many poisonous
+Bug-type
+Pokémon, so it would be good to bring an
+Antidote
+or two as well.
+Poké Mart
+Poké Ball
+$
+100
+Potion
+$
+200
+Antidote
+$
+200
+Burn Heal
+$
+300
+Ice Heal
+$
+100
+Awakening
+$
+100
+Paralyze Heal
+$
+300
+Walk the Walk
+North of the Trainers' School is another house with a woman and her
+Oddish
+standing outside. She compliments your partner Pokémon but thinks that hers would be too heavy to carry, so she has it walk alongside her instead. She demonstrates by letting the second Pokémon in your party out of its Poké Ball to follow you around. This can be done for any Pokémon in your party by selecting the
+Take out of Poké Ball
+option.
+Nicknaming a Pokémon
+There is a man inside the house near the woman and her Oddish who mentions
+nicknaming
+a Pokémon. This can be done by selecting a Pokémon in the party and choosing the
+Change name
+option. It is not possible to nickname Pokémon as they are caught, and must be done manually for each Pokémon.
+Detour
+At this point, you may proceed north to Route 2, or make an optional detour westward to
+Route 22
+first.
+Route 22
+It is not yet possible to fully explore
+Route 22
+, but you may still hunt for new Pokémon. A short way into the route,
+Trace
+appears and challenges you to a battle.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+3-4
+30%
+Spearow
+P
+E
+Grass
+3-4
+30%
+Nidoran♀
+P
+E
+Grass
+3-4
+20%
+Nidoran♂
+P
+E
+Grass
+3-4
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Antidote
+In a bush north of the eastern patch of grass
+(hidden)
+P
+E
+Poké Ball
+×5
+In the southwest corner of the route
+P
+E
+Rival Battle 2
+Little has changed since your fight in Oak's Lab, but his
+partner Pokémon
+has learned a new move. Trace has added a
+Pidgey
+to his team, as well. Use the same tactics from your last battle to wear his Pokémon down and take the win.
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Route 22
+Let's Go, Pikachu!
+Reward:
+$
+140
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgey
+♂
+Lv.
+3
+Tackle
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Eevee
+♂
+Lv.
+7
+Tackle
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+In
+Let's Go, Eevee!
+:
+Pokémon Trainer
+Trace
+Route 22
+Let's Go, Eevee!
+Reward:
+$
+140
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgey
+♂
+Lv.
+3
+Tackle
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+7
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, be sure to heal your Pokémon and stock up on Poké Balls, then continue on to
+Route 2
+.
+Route 2 (West)
+Route 2
+Route 2
+runs northward from
+Viridian City
+to
+Pewter City
+. Much of the route's west side is occupied by a large maze of trees known as
+Viridian Forest
+.
+Overgrown trees
+block access to the east side for now. Head through the
+gate
+to enter the forest, a whole new area with new Pokémon to catch!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+3-4
+30%
+Rattata
+P
+E
+Grass
+3-4
+20%
+Oddish
+P
+E
+Grass
+3-4
+20%
+Bellsprout
+P
+E
+Grass
+3-4
+20%
+Caterpie
+P
+E
+Grass
+3-4
+15%
+Weedle
+P
+E
+Grass
+3-4
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+← Part 1
+Introduction, Pallet Town
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Viridian Forest, Pewter City, Pewter Gym
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

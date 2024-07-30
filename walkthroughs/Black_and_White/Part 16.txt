@@ -1,0 +1,1836 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_16
+Keywords: Route 11, Village Bridge, Route 12, Lacunosa Town, Route 13, Giant Chasm
+
+Walkthrough Text:
+Contents
+1
+Route 11
+2
+Village Bridge
+2.1
+The Patrat Girl
+2.2
+Village Bridge Restaurant
+3
+Route 12
+4
+Lacunosa Town
+4.1
+The Gracidea flower
+4.2
+The folktale
+5
+Route 13
+5.1
+Giant Chasm
+5.1.1
+Entrance Cave
+5.1.2
+Crater Forest
+5.1.3
+The Monster's Lair
+Route 11
+Route 11
+Route 11
+passes over a flowing river with a large waterfall. A trailer is parked next to the waterfall. As you head east, climb the waterfall north of the road to find
+TM50
+(
+Overheat
+) to the right, and a hidden
+Max Revive
+to the left. Ride down the southern waterfall to reach Pokémon Ranger Crofton and the
+Protector
+northeast of him. Continue east to
+Village Bridge
+.
+Trainers
+Trainer
+Pokémon
+Backpacker
+Talon
+Reward:
+$
+1560
+Croagunk
+♂
+Lv.
+65
+No item
+Pokémon Ranger
+Thalia
+Reward:
+$
+3840
+Rapidash
+♀
+Lv.
+64
+No item
+Mantine
+♀
+Lv.
+64
+No item
+Cacturne
+♀
+Lv.
+64
+No item
+Backpacker
+Corin
+Reward:
+$
+1560
+Snover
+♀
+Lv.
+65
+No item
+Pokémon Ranger
+Crofton
+Reward:
+$
+3840
+Dewgong
+♂
+Lv.
+64
+No item
+Pinsir
+♂
+Lv.
+64
+No item
+Pelipper
+♂
+Lv.
+64
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Vullaby
+B
+W
+Grass
+48-50
+25%
+Rufflet
+B
+W
+Grass
+48-50
+25%
+Golduck
+B
+W
+Grass
+47-48
+20%
+Gligar
+B
+W
+Grass
+47-50
+15%
+Zangoose
+B
+W
+Grass
+48
+10%
+Seviper
+B
+W
+Grass
+48
+10%
+Amoonguss
+B
+W
+Grass
+48
+10%
+Karrablast
+B
+W
+Grass
+49
+5%
+Pawniard
+B
+W
+Grass
+50
+5%
+Dark Grass
+Mandibuzz
+B
+W
+Dark grass
+58-60
+25%
+Braviary
+B
+W
+Dark grass
+58-60
+25%
+Golduck
+B
+W
+Dark grass
+57-58
+20%
+Gligar
+B
+W
+Dark grass
+57-60
+15%
+Zangoose
+B
+W
+Dark grass
+58
+10%
+Seviper
+B
+W
+Dark grass
+58
+10%
+Amoonguss
+B
+W
+Dark grass
+58
+10%
+Karrablast
+B
+W
+Dark grass
+59
+5%
+Bisharp
+B
+W
+Dark grass
+60
+5%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+47-50
+85%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Gliscor
+B
+W
+Rustling grass
+50
+5%
+Surfing
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Buizel
+B
+W
+Surfing
+25-55
+30%
+Rippling Water
+Buizel
+B
+W
+Rippling water
+25-60
+60%
+Basculin
+B
+W
+Rippling water
+25-60
+30%
+Basculin
+B
+W
+Rippling water
+25-60
+30%
+Floatzel
+B
+W
+Rippling water
+35-70
+10%
+Fishing
+Goldeen
+B
+W
+Fishing
+35-55
+70%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling Water
+Goldeen
+B
+W
+Rippling water
+35-60
+60%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Seaking
+B
+W
+Rippling water
+45-70
+10%
+Swarms
+Shroomish
+B
+W
+Grass
+15-55
+40%
+Paras
+B
+W
+Grass
+15-55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+×2
+Northwest of Backpacker Talon
+South of Backpacker Talon (hidden, requires
+Surf
+)
+B
+W
+Leppa Berry
+×2
+From Pokémon Ranger Thalia after defeating her
+From Pokémon Ranger Crofton after defeating him (requires
+waterfall
+)
+B
+W
+TM50
+(
+Overheat
+)
+Up the northern waterfall on the eastern ledge (requires
+waterfall
+)
+B
+W
+Max Revive
+Atop the northern waterfall, to the left (hidden, (requires
+waterfall
+)
+B
+W
+Protector
+Down the southern waterfall, northeast of Pokémon Ranger Crofton (requires
+waterfall
+)
+B
+W
+Village Bridge
+Village Bridge
+Village Bridge
+is a bridge with houses on it, like the name implies. The bridge has long been a landmark; it is believed to have been built 200 years ago while the region was still being developed. If you need to heal up, talk to the girl in the northeastern-most house. The Village Bridge Restaurant is located on the eastern shore.
+Trainers
+Trainer
+Pokémon
+School Kid
+Serena
+Reward:
+$
+1200
+Zubat
+♀
+Lv.
+60
+No item
+Doduo
+♀
+Lv.
+60
+No item
+Slugma
+♀
+Lv.
+60
+No item
+Poochyena
+♀
+Lv.
+60
+No item
+Electrike
+♀
+Lv.
+60
+No item
+Nosepass
+♀
+Lv.
+60
+No item
+Scientist
+Shannon
+Reward:
+$
+2976
+Amoonguss
+♀
+Lv.
+62
+No item
+Ekans
+♀
+Lv.
+62
+No item
+Seviper
+♀
+Lv.
+62
+No item
+Grimer
+♀
+Lv.
+62
+No item
+Baker
+Chris
+Reward:
+$
+2560
+Combee
+♀
+Lv.
+64
+No item
+Ursaring
+♀
+Lv.
+64
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+B
+W
+Grass
+47-49
+25%
+Bibarel
+B
+W
+Grass
+47-49
+25%
+Vullaby
+B
+W
+Grass
+48-50
+20%
+Rufflet
+B
+W
+Grass
+48-50
+20%
+Zangoose
+B
+W
+Grass
+48-50
+15%
+Seviper
+B
+W
+Grass
+48-50
+15%
+Dark Grass
+Golduck
+B
+W
+Dark grass
+57-59
+25%
+Bibarel
+B
+W
+Dark grass
+57-59
+25%
+Mandibuzz
+B
+W
+Dark grass
+58-60
+20%
+Braviary
+B
+W
+Dark grass
+58-60
+20%
+Zangoose
+B
+W
+Dark grass
+58-60
+15%
+Seviper
+B
+W
+Dark grass
+58-60
+15%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+47-50
+90%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Surfing
+Basculin
+B
+W
+Surfing
+25-55
+100%
+Basculin
+B
+W
+Surfing
+25-55
+100%
+Rippling Water
+Basculin
+B
+W
+Rippling water
+25-70
+95%
+Basculin
+B
+W
+Rippling water
+25-70
+95%
+Lapras
+B
+W
+Rippling water
+35-70
+5%
+Fishing
+Carvanha
+B
+W
+Fishing
+35-55
+70%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling Water
+Carvanha
+B
+W
+Rippling water
+35-60
+60%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Sharpedo
+B
+W
+Rippling water
+35-70
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Leftovers
+In the trash can under the bridge (hidden)
+B
+W
+Calcium
+On the small island under bridge
+B
+W
+HP Up
+Southeast of Derleth (hidden)
+B
+W
+Full Restore
+Northeast of Derleth (hidden)
+B
+W
+Lum Berry
+(once per day)
+From Baker Chris for being a good employee
+B
+W
+Ultra Ball
+On the middle patch of land supporting the bridge (requires
+HM03
+(
+Surf
+))
+B
+W
+Dive Ball
+×5
+(once per day)
+From a fisherman on the bridge's east end for showing him the requested species of fish Pokémon caught that day
+B
+W
+The Patrat Girl
+The second house from the east is home to a woman and her four
+Patrat
+. The group is aiming for new heights, and after speaking to her here, you can see their Patrat Show on
+Marvelous Bridge
+.
+Village Bridge Restaurant
+Village Bridge Restaurant is run out of a trailer below the east end of the bridge. If you defeat Baker Chris, you can work here part-time. Tell Chris each of the customers' orders, and deliver each sandwich to the correct customer. If the customers are happy, Chris will reward you with a
+Lum Berry
+.
+Route 12
+Route 12
+Route 12
+is a short route with gentle hills and large patches of tall grass. Grab the
+Full Heal
+near the
+Village Bridge
+gate, then climb the hills to find
+TM53
+(
+Energy Ball
+) near Pokémon Breeder Ethel. A
+Revive
+lies to the northeast, and
+Lacunosa Town
+is situated off to the east.
+Trainers
+Trainer
+Pokémon
+Backers
+Fey & Sue
+Reward:
+$
+3120
+Swoobat
+♀
+Lv.
+65
+No item
+Swoobat
+♀
+Lv.
+65
+No item
+Pokémon Breeder
+Ethel
+Reward:
+$
+2928
+Shuppet
+♀
+Lv.
+61
+No item
+Phanpy
+♀
+Lv.
+61
+No item
+Skitty
+♀
+Lv.
+61
+No item
+Cacnea
+♀
+Lv.
+61
+No item
+Snorunt
+♀
+Lv.
+61
+No item
+School Kid
+Ann
+Reward:
+$
+1280
+Paras
+♀
+Lv.
+64
+No item
+Wormadam
+♀
+Sandy Cloak
+Lv.
+64
+No item
+School Kid
+Jem
+Reward:
+$
+1260
+Weedle
+♂
+Lv.
+63
+No item
+Kakuna
+♂
+Lv.
+63
+No item
+Beedrill
+♂
+Lv.
+63
+No item
+Pokémon Breeder
+Eustace
+Reward:
+$
+3024
+Makuhita
+♂
+Lv.
+63
+No item
+Riolu
+♂
+Lv.
+63
+No item
+Tyrogue
+♂
+Lv.
+63
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sunkern
+B
+W
+Grass
+47
+20%
+Combee
+B
+W
+Grass
+47
+20%
+Tranquill
+B
+W
+Grass
+48-50
+15%
+Metapod
+B
+W
+Grass
+48-49
+10%
+Kakuna
+B
+W
+Grass
+48
+10%
+Rapidash
+B
+W
+Grass
+49
+10%
+Cherrim
+B
+W
+Grass
+48
+10%
+Pinsir
+B
+W
+Grass
+50
+5%
+Dunsparce
+B
+W
+Grass
+48-49
+5%
+Heracross
+B
+W
+Grass
+50
+5%
+Dark grass
+Sunkern
+B
+W
+Dark grass
+57
+20%
+Combee
+B
+W
+Dark grass
+57
+20%
+Tranquill
+B
+W
+Dark grass
+58-60
+15%
+Metapod
+B
+W
+Dark grass
+58
+10%
+Kakuna
+B
+W
+Dark grass
+58-59
+10%
+Rapidash
+B
+W
+Dark grass
+59
+10%
+Cherrim
+B
+W
+Dark grass
+58
+10%
+Pinsir
+B
+W
+Dark grass
+60
+5%
+Dunsparce
+B
+W
+Dark grass
+58
+5%
+Heracross
+B
+W
+Dark grass
+60
+5%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+47-50
+70%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Butterfree
+B
+W
+Rustling grass
+50
+5%
+Beedrill
+B
+W
+Rustling grass
+50
+5%
+Sunflora
+B
+W
+Rustling grass
+50
+5%
+Vespiquen
+B
+W
+Rustling grass
+50
+5%
+Unfezant
+B
+W
+Rustling grass
+50
+5%
+Special Pokémon
+Doduo
+B
+W
+???
+Swarm
+15-55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Heal
+South of the fence near the Village Bridge gate
+B
+W
+Sitrus Berry
+×2
+From Pokémon Breeder Ethel after defeating her
+From Pokémon Breeder Eustace after defeating him
+B
+W
+TM53
+(
+Energy Ball
+)
+In the center of the route, east of Pokémon Breeder Ethel
+B
+W
+Revive
+Northeast area of the route
+B
+W
+Tinymushroom
+×3
+Northwest of Pokémon Breeder Ethel (hidden, regenerates occasionally)
+East of School Kid Jem (hidden, regenerates occasionally)
+North of Pokémon Breeder Eustace (hidden, regenerates occasionally)
+B
+W
+Big Mushroom
+Northeast of School Kid Jem (hidden)
+B
+W
+Lacunosa Town
+Lacunosa Town
+Lacunosa Town
+is a tiny town comprised of little more than a Pokémon Center. The residents once believed a legend that claimed a monster will attack at night, and no one dares to go outside after nightfall. Take a break at the Poké Center, then go east to reach
+Route 13
+.
+Items
+Item
+Location
+Games
+Gracidea
+Gift from the girl inside the Pokémon Center if she is shown a
+fateful encounter
+Shaymin
+B
+W
+Elixir
+In front of the policeman on the west side of town (hidden)
+B
+W
+Max Repel
+On a wall near the northeast corner (hidden)
+B
+W
+The Gracidea flower
+Talk to the woman in the Poké Center to learn about the
+Gracidea flower
+. If you have a
+Shaymin
+in your party, she will give one to you. This flower is used to switch between Shaymin's Land and Sky Formes.
+The folktale
+Speak to the old woman by the house in the northwest of town, and she will tell you about the meteor,
+the monster
+, and the cold wind. Though no one believes this legend anymore, none of the residents ever venture outside after nightfall. Sometimes during the night time she may fall asleep in the middle of the story, leaving it unfinished.
+Route 13
+Route 13
+Route 13
+is a picturesque seaside route lined with trees. A treasure hunter here will give you a rare item every day, and a move tutor will offer to teach an ultimate move.
+Trainers
+Trainer
+Pokémon
+Lass
+Fey
+Reward:
+$
+1008
+Buneary
+♀
+Lv.
+63
+No item
+Snubbull
+♀
+Lv.
+63
+No item
+Shroomish
+♀
+Lv.
+63
+No item
+Youngster
+Astor
+Reward:
+$
+1008
+Nincada
+♂
+Lv.
+63
+No item
+Mothim
+♂
+Lv.
+63
+No item
+Metapod
+♂
+Lv.
+63
+No item
+Artist
+Zach
+Reward:
+$
+3120
+Camerupt
+♂
+Lv.
+65
+No item
+Fisherman
+Jones
+Reward:
+$
+2016
+Tentacool
+♂
+Lv.
+63
+No item
+Tentacruel
+♂
+Lv.
+63
+No item
+Qwilfish
+♂
+Lv.
+63
+No item
+Fisherman
+Mick
+Reward:
+$
+1920
+Magikarp
+♂
+Lv.
+60
+No item
+Magikarp
+♂
+Lv.
+60
+No item
+Magikarp
+♂
+Lv.
+60
+No item
+Magikarp
+♂
+Lv.
+60
+No item
+Magikarp
+♂
+Lv.
+60
+No item
+Magikarp
+♂
+Lv.
+60
+No item
+Parasol Lady
+Laura
+Reward:
+$
+2016
+Surskit
+♀
+Lv.
+63
+No item
+Goldeen
+♀
+Lv.
+63
+No item
+Seaking
+♀
+Lv.
+63
+No item
+Fisherman
+Vince
+Reward:
+$
+2048
+Krabby
+♂
+Lv.
+64
+No item
+Octillery
+♂
+Lv.
+64
+No item
+Fisherman
+Pete
+Reward:
+$
+2016
+Feebas
+♂
+Lv.
+63
+No item
+Remoraid
+♂
+Lv.
+63
+No item
+Kingler
+♂
+Lv.
+63
+No item
+Twins
+Emy & Lin
+Reward:
+$
+1024
+Plusle
+♀
+Lv.
+64
+No item
+Minun
+♀
+Lv.
+64
+No item
+Gentleman
+Yan
+Reward:
+$
+12800
+Farfetch'd
+♂
+Lv.
+64
+No item
+Granbull
+♀
+Lv.
+64
+No item
+Socialite
+Marian
+Reward:
+$
+12800
+Kricketot
+♀
+Lv.
+64
+No item
+Chimecho
+♀
+Lv.
+64
+No item
+Black Belt
+Benjamin
+Reward:
+$
+2080
+Sawk
+♂
+Lv.
+65
+No item
+Hitmonlee
+♂
+Lv.
+65
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tangela
+B
+W
+Grass
+47-49
+25%
+Swellow
+B
+W
+Grass
+47
+20%
+Golbat
+B
+W
+Grass
+48-50
+15%
+Lunatone
+B
+W
+Grass
+48
+10%
+Solrock
+B
+W
+Grass
+48
+10%
+Absol
+B
+W
+Grass
+48-50
+10%
+Drifblim
+B
+W
+Grass
+49
+10%
+Dark grass
+Tangela
+B
+W
+Dark grass
+57-59
+25%
+Swellow
+B
+W
+Dark grass
+57
+20%
+Golbat
+B
+W
+Dark grass
+58-60
+15%
+Lunatone
+B
+W
+Dark grass
+58
+10%
+Solrock
+B
+W
+Dark grass
+58
+10%
+Absol
+B
+W
+Dark grass
+58-60
+10%
+Drifblim
+B
+W
+Dark grass
+59
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+47-50
+80%
+Emolga
+B
+W
+Rustling grass
+47-50
+10%
+Crobat
+B
+W
+Rustling grass
+50
+5%
+Tangrowth
+B
+W
+Rustling grass
+50
+5%
+Surfing
+Wingull
+B
+W
+Surfing
+25-55
+60%
+Staryu
+B
+W
+Surfing
+25-55
+30%
+Pelipper
+B
+W
+Surfing
+25-55
+10%
+Rippling water
+Staryu
+B
+W
+Rippling water
+25-60
+60%
+Corsola
+B
+W
+Rippling water
+25-60
+30%
+Starmie
+B
+W
+Rippling water
+35-70
+10%
+Fishing
+Krabby
+B
+W
+Fishing
+35-55
+65%
+Shellder
+B
+W
+Fishing
+35-55
+30%
+Luvdisc
+B
+W
+Fishing
+35-55
+5%
+Rippling water
+Shellder
+B
+W
+Rippling water
+35-60
+60%
+Luvdisc
+B
+W
+Rippling water
+35-60
+30%
+Cloyster
+B
+W
+Rippling water
+45-70
+5%
+Kingler
+B
+W
+Rippling water
+35-70
+5%
+Special Pokémon
+Shuppet
+B
+W
+Grass
+Swarm
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+South of Lass Fey (requires
+Cut
+)
+B
+W
+Razor Claw
+On the cliff south of Artist Zach
+B
+W
+Prism Scale
+On the route's northeastern shore (requires
+Surf
+)
+B
+W
+Heart Scale
+On the southern-facing cliff side west of Fisherman Mick
+(hidden)
+B
+W
+Splash Plate
+From a male Veteran in a house in the western-most area of the route (requires
+Surf
+)
+B
+W
+Draco Plate
+From a male Veteran in a house in the western-most area of the route (requires
+Surf
+)
+B
+W
+Pearl String
+South of the Veteran's house (hidden)
+B
+W
+Rare Candy
+On the island with dark grass (hidden)
+B
+W
+Max Revive
+On the island with dark grass (hidden)
+B
+W
+DeepSeaScale
+In the shallow water north of Fisherman Pete (requires
+Surf
+)
+B
+W
+TM29
+(
+Psychic
+)
+On a cliff in the southwestern part of the route (requires
+Strength
+)
+B
+W
+Electirizer
+Southwest of Twins Emy & Lin (requires
+Cut
+)
+B
+W
+Stardust
+×2
+On the coastline west of
+Black Belt
+Benjamin (hidden, reappears occasionally)
+B
+W
+Pearl
+On the coastline west of Black Belt Benjamin (hidden, reappears occasionally)
+B
+W
+Gram 1
+From the old man northeast of Fisherman Jones
+B
+W
+Gram 2
+On the cliff south of Artist Zach
+B
+W
+Gram 3
+From the Parasol Lady south of Parasol Lady Laura
+B
+W
+TM89
+(
+U-turn
+)
+Gift from
+Wingull
+for returning all three Grams
+B
+W
+Behind the two trees near Lass Fey is a
+Max Ether
+. On the bridge south of her is a girl with a
+Wingull
+, which needs help finding the three Grams it lost nearby.
+Gram 2
+is across the bridge south of here, along with a
+Razor Claw
+; talk to the old man at sea level to get
+Gram 1
+; the southern-most Parasol Lady on the beach has
+Gram 3
+. Return the three Grams to Wingull to get
+TM89
+(
+U-turn
+).
+Surf north from the old man to find a
+Prism Scale
+, then climb the staircase and move the boulder into the hole to create a shortcut. Head back south along the sandbar and swim to the east to find a
+DeepSeaScale
+in a patch of shallow water. To the west across the beach is a man in black; this
+treasure hunter
+will give you a valuable item once per day. Past him is a house with a move tutor, who will offer to teach your starter Pokémon either
+Frenzy Plant
+,
+Blast Burn
+, or
+Hydro Cannon
+. Northwest of that is a house with a Veteran who gives you the
+Splash Plate
+and
+Draco Plate
+. Atop the large staircase in the southwest, behind a boulder, is
+TM29
+(
+Psychic
+). An
+Electirizer
+lies behind a small tree to the southeast.
+Return to
+Lacunosa Town
+to rest and stock up on Ultra Balls, then head east to the
+Giant Chasm
+.
+Giant Chasm
+Giant Chasm
+The
+Giant Chasm
+is the old impact site of a large meteor, with a verdant forest on the crater floor. The deepest part of the crater is said to be the home of a monster, and the residents of
+Lacunosa
+avoid the place at all costs. Many foreign Pokémon make their home here, like
+Ditto
+and
+Absol
+. A full list of available Pokémon can be found
+here
+.
+Items
+Item
+Location
+Games
+Entrance cave
+Big Mushroom
+On a rock northwest of the entrance (hidden)
+B
+W
+Star Piece
+Near the southwest corner, beyond a boulder (requires
+HM04
+(
+Strength
+))
+Behind a boulder in the northwest corner (requires
+HM04
+(
+Strength
+))
+B
+W
+TinyMushroom
+On a rock near the northwest corner (hidden)
+On a rock by the north wall between two boulders (hidden)
+B
+W
+Comet Shard
+Behind a boulder on the north side (requires
+HM04
+(
+Strength
+))
+B
+W
+Crater Forest
+Max Elixir
+Southwest corner
+B
+W
+Max Potion
+North from the entrance
+B
+W
+Revive
+Against the north wall
+B
+W
+Carbos
+Near the crater's north wall
+B
+W
+TM13
+(
+Ice Beam
+)
+Near the northeast corner
+B
+W
+Full Heal
+In a dark grass patch to the east
+B
+W
+Max Revive
+Among the trees in the southeast corner
+B
+W
+TM03
+(
+Psyshock
+)
+Near the crater's south wall
+B
+W
+Entrance Cave
+Go left and check the first small rock to the west for a
+Big Mushroom
+, and move the boulder in the southwest to get a
+Star Piece
+. Inspect the small rocks in the northwest corner for a hidden
+TinyMushroom
+, then move the next boulder for a second Star Piece. Check the rocks just east of here for another TinyMushroom, and move the third boulder to find a
+Comet Shard
+. When you reach the northeast corner, you have a choice; you can either
+surf
+to the southwest, or jump the ledge and
+shove
+a fourth boulder. Both ways lead to the staircase at the exit.
+Crater Forest
+The trees and ledges in the crater forest form a natural maze, forcing travelers to move in a clockwise direction. Pick up the
+Max Elixir
+to your left and head north. Grab the
+Max Potion
+to the right and jump the ledge. A
+Revive
+lies in the northwest corner, and a
+Carbos
+is just south of it. To the east is a fork in the road with
+TM13
+(
+Ice Beam
+) on the southern trail. A
+Full Heal
+lies in a patch of dark grass, and a
+Max Revive
+is sitting among the trees in the southeast corner. To the northwest is
+TM03
+(
+Psyshock
+), in another patch of dark grass. Jump the ledge to the northwest, and follow the trail through the trees to the pit in the middle of the forest. Something cries out when you approach it, and the whole forest is instantly buried under a thick blanket of snow. Go northeast to enter the monster's lair.
+The Monster's Lair
+Inside this tiny cave is
+Kyurem
+, the third member of the
+Tao trio
+. Start off by inflicting double-damage with
+Fighting
+-,
+Rock
+-, or
+Dragon-type
+attacks, then wear down its health with
+Grass
+-,
+Water
+-, or
+Electric-type
+moves. Its signature move
+Glaciate
+, while not overly powerful, is guaranteed to reduce the target's Speed, and
+Endeavor
+can be brutal as its health is worn away. As the battle takes place in a cave, Dusk Balls are an effective method of capture.
+Types:
+Dragon
+Ice
+Ability:
+Pressure
+Held item:
+None
+Kyurem
+Lv.
+75
+Glaciate
+Ice
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Imprison
+Psychic
+Status
+--
+Endeavor
+Normal
+Physical
+--
+With
+Kyurem
+captured, the snow that had buried the forest is gone, so you can collect any items you may have missed. Now make your way south to
+Undella Town
+.
+← Part 15
+The Pokémon League: Round 2
+Black and White
+walkthrough
+Undella Town, Undella Bay, Abyssal Ruins, Route 14, Abundant Shrine
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

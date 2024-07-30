@@ -1,0 +1,41 @@
+Game: Diamond_and_Pearl
+Part: 6
+Keywords: Route 206, Wayward Cave (Main part), Route 207, Mt. Coronet (Southern Area Part 1), Route 208
+
+### Part 6 Walkthrough: Key Locations and Instructions
+
+#### Route 206
+- **Access**: Use your Bicycle to enter Cycling Road.
+- **Exp. Share**: Speak to Rowan's assistant at the northern gate after seeing 35 Pokémon.
+- **Battles**: Train against Electric, Flying, and Fire-types; Geodude is effective here.
+- **Items**: Berry patches, a hidden Elixir, and a Poison Barb. Wild Pokémon include Geodude, Bronzor (with Metal Coat), and Ponyta.
+
+#### Wayward Cave (Main Part)
+- **Requirements**: Bring Pokémon with Flash and Rock Smash.
+- **Navigating**: Use Flash to light the cave. Avoid battling Trainers until you find Mira, who helps in Multi Battles.
+- **Battles**: Defeat Trainers and collect items like Rare Candy and TM32 (Double Team).
+- **Pokémon**: Zubat, Geodude, and Bronzor are available.
+
+#### Route 207
+- **Encounter**: Meet Lucas/Dawn who gives you the Vs. Seeker and Dowsing Machine.
+- **Battles**: Trainers use Pokémon weak to Flying, Fighting, Water, and Grass.
+- **Items**: Oran Berries, Super Potions, and hidden Rare Candy.
+
+#### Oreburgh Gate (Basement)
+- **Items**: Jump ramps with your Bicycle to find TM31 (Brick Break).
+
+#### Mt. Coronet (Southern Area Part 1)
+- **Access**: You need Surf and Rock Climb to progress further.
+- **Encounter**: Speak to a mysterious man for lore.
+- **Wild Pokémon**: Machop, Geodude, and Zubat.
+
+#### Route 208
+- **Direction**: Head east to reach Hearthome City.
+- **Battles**: Use Pokémon like Zubat or Machop to counter Trainers' weaknesses.
+- **Items**: Berry Searcher from the Berry Master's daughter, and Odd Keystone from the Black Belt.
+
+### Summary
+- Collect key items (Exp. Share, Vs. Seeker).
+- Utilize Pokémon types effectively against Trainers.
+- Explore caves and routes for wild Pokémon and hidden items.
+- Prepare for upcoming challenges by leveling up and capturing useful Pokémon.

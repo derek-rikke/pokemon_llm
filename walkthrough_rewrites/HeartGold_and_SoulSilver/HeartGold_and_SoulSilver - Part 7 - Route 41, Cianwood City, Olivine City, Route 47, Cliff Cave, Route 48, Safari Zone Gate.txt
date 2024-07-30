@@ -1,0 +1,48 @@
+Game: HeartGold_and_SoulSilver
+Part: 7
+Keywords: Route 41, Cianwood City, Olivine City, Route 47, Cliff Cave, Route 48, Safari Zone Gate
+
+**Part 7 Walkthrough - Pokémon HeartGold and SoulSilver**
+
+**Route 35:**
+- Connects Goldenrod City to National Park and Pokéathlon Dome.
+- Trainers to battle: 
+  - Picnicker Kim (Vulpix, Lv. 15)
+  - Camper Elliot (Sandshrew, Lv. 13; Marill, Lv. 15)
+  - Juggler Irwin (Voltorb, various levels)
+  - Firebreather Walt (Magmar, levels 11 and 16)
+- Key Pokémon available: Pidgey, Nidoran♂/♀, Abra, Drowzee.
+- Items: 
+  - Grass Mail (Kenya the Spearow from southern gate guard)
+  - TM66 (Payback) in southeast clearing.
+  
+**Pokéathlon Dome:**
+- Participate in athletic competitions with Pokémon.
+- Speak to Magnus to enter; receive Apriblender for Aprijuice.
+- Events prioritize Speed, Power, Skill, Stamina, and Jump.
+- Win medals and earn points for prizes at Athlete Shop.
+
+**National Park:**
+- Hosts Bug-Catching Contest (Tues, Thurs, Sat).
+- Trainers: Pokéfan Beverly (Snubbull, Lv. 16), School Kid Jack (Oddish, Lv. 12).
+- Available Pokémon: Caterpie, Weedle, Metapod, Kakuna, Venonat.
+- Items: Quick Claw, Soothe Bell, TM28 (Dig).
+
+**Route 36:**
+- Connects National Park to Ruins of Alph and Violet City.
+- Battle Trainers: Psychic Mark (Abra, Kadabra).
+- Encounter Sudowoodo with SquirtBottle; defeat to receive Berry Pots and HM06 (Rock Smash).
+
+**Route 37:**
+- Leads to Ecruteak City.
+- Trainers: Twins Tori & Til (Marill, Mareep) and Psychic Greg (Drowzee).
+- Available Pokémon: Pidgey, Growlithe, Vulpix.
+- Items: Red, Blue, Black Apricorns.
+
+**Key Strategies:**
+- Utilize Aprijuice to enhance Pokémon performance in Pokéathlon.
+- Prepare for Bug-Catching Contest by catching the best Bug-type Pokémon.
+- Defeat Sudowoodo for useful items and access to new areas.
+
+**Next Steps:**
+- Head to Ecruteak City after completing tasks in Route 37.

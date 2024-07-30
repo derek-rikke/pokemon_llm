@@ -1,0 +1,52 @@
+Game: Sun_and_Moon
+Part: 12
+Keywords: Memorial Hill, Akala Outskirts, Ruins of Life, Akala Grand Trial, Hano Grand Resort, Hano Beach
+
+**Part 12 Walkthrough Summary: Sun and Moon**
+
+**1. Memorial Hill**
+- Located east of Route 9, this area features trainers and hidden items.
+- Key Trainers: 
+  - Gentleman Smith (Umbreon, LV 23)
+  - Preschooler Liam (Jigglypuff, LV 21)
+  - Madame Sayuri (Comfey, LV 23)
+- Hidden Items: Heal Powder, Adrenaline Orb, Super Repel.
+- Defeat Team Skull Grunts trying to steal Slowpoke; proceed to Akala Outskirts.
+
+**2. Akala Outskirts**
+- Connects Memorial Hill to Ruins of Life.
+- Key Trainers:
+  - Fisherman Vernon (Staryu, LV 23)
+  - Black Belt Kenji (Hariyama, LV 24)
+- Obtain TM28 (Leech Life) on the coast.
+- Battle Team Skull Admin Plumeria (Golbat, LV 25; Salandit, LV 26).
+
+**3. Ruins of Life**
+- Home of Tapu Lele; receive Rockium Z after completing the Akala Grand Trial.
+- Prepare to battle Olivia, the Rock-type specialist.
+- Use Grass, Water, Fighting, or Ground moves against her team.
+
+**4. Akala Grand Trial**
+- Olivia’s team:
+  - Nosepass (LV 26)
+  - Boldore (LV 26)
+  - Lycanroc (LV 27)
+- Strategies: Use Grass or Water moves for effectiveness; avoid Rock-type attacks against Ground Pokémon.
+
+**5. Hano Grand Resort**
+- Largest hotel in Alola; interact with Faba from Aether Foundation for a tour invitation.
+- Key Trainers:
+  - Veteran Roger (Trumbeak, LV 27)
+  - Golf Buddies Tara & Tina (Oricorio, LV 25 each).
+
+**6. Hano Beach**
+- Engage in Pyukumuku-chucking for rewards; collect hidden items.
+- Key Trainers: Swimmers with various Pokémon (all LV 24-25).
+- Speak to the man near the lifeguard tower to collect rewards for returning Pyukumuku.
+
+**7. Set Sail for Paradise**
+- Accept Faba's offer for the tour of Aether Paradise.
+- Join Hau, Kukui, and Olivia as the ferry departs.
+
+**Next Steps:**
+- Proceed to Aether Paradise for further adventures.

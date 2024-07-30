@@ -1,0 +1,1564 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_15
+Keywords: Acuity Lakefront, Snowpoint City, Snowpoint Gym, Lake Acuity, Veilstone City
+
+Walkthrough Text:
+Contents
+1
+Acuity Lakefront
+2
+Snowpoint City
+2.1
+Move Tutor
+2.2
+In-game trade
+3
+Snowpoint Gym
+4
+Now that you can use Rock Climb (optional)
+4.1
+Route 208
+4.2
+Veilstone City
+4.3
+Valor Lakefront
+4.4
+Route 213
+4.5
+Route 210 (North)
+4.6
+Route 211 (East)
+4.7
+Route 216
+5
+Acuity Lakefront
+6
+Lake Acuity
+7
+Veilstone City
+7.1
+Galactic Warehouse
+7.2
+Team Galactic HQ
+7.2.1
+1F
+7.2.2
+2F
+7.2.3
+1F
+7.3
+Galactic Warehouse
+7.4
+Team Galactic HQ
+7.4.1
+3F
+7.5
+Team Galactic HQ (main building)
+7.5.1
+1F
+7.5.2
+2F
+7.5.3
+Meeting Hall
+7.5.4
+2F
+7.5.5
+3F
+7.5.6
+4F
+Acuity Lakefront
+Acuity Lakefront
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sneasel
+D
+P
+Pt
+Grass
+33,35
+25%
+25%
+0%
+Sneasel
+D
+P
+Pt
+Grass
+35
+0%
+0%
+15%
+Swinub
+D
+P
+Pt
+Grass
+32,34
+35%
+Snorunt
+D
+P
+Pt
+Grass
+32-33
+0%
+0%
+20%
+Snover
+D
+P
+Pt
+Grass
+32-35
+40%
+40%
+0%
+Snover
+D
+P
+Pt
+Grass
+33-35
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+North-east corner of the lakefront
+Pt
+Follow the path in
+Acuity Lakefront
+to reach the
+Lake Acuity
+'s entrance, and you'll see your rival
+Barry
+there. He tells you that to climb the slope that leads to Lake Acuity, you will need to win the Badge at the
+Snowpoint Gym
+. After he leaves, head east to Snowpoint City.
+Snowpoint City
+Snowpoint City
+Snowpoint City
+has a few attractions, the main ones of interest to you on your first visit will be the Gym and possibly the
+Move Tutor
+.
+Items
+Item
+Location
+Games
+Ultra Ball
+Next to the crane
+Pt
+Rare Candy
+East of the Gym
+(hidden)
+Pt
+Everstone
+Held by
+Gaspar
+Pt
+Move Tutor
+Located in the upper right hand corner house is the Move Tutor where much like the one on
+Route 212
+you can trade him shards in exchange for learning new moves if that Pokémon you want to teach it to is compatible.
+Snowpoint City
+Move
+Type
+Cat.
+Shards
+Helping Hand
+Normal
+Status
+2
+2
+0
+4
+Last Resort
+Normal
+Physical
+0
+8
+0
+0
+Magnet Rise
+Electric
+Status
+0
+2
+2
+4
+Snore
+Normal
+Special
+2
+2
+0
+4
+Spite
+Ghost
+Status
+0
+0
+0
+8
+Swift
+Normal
+Special
+0
+4
+2
+2
+Synthesis
+Grass
+Status
+0
+6
+0
+2
+Uproar
+Normal
+Special
+0
+2
+0
+6
+In-game trade
+In the upper left hand house is a girl who will trade a
+Haunter
+named Gaspar that will hold an
+Everstone
+(which prevents it from evolving into
+Gengar
+) in exchange for a
+Medicham
+.
+Snowpoint Gym
+Snowpoint Gym
+The secret to the puzzle of the Gym is to smash the snowballs on the ground is to slide in from above at a fast enough speed to smash them. Your main goal is that from the entrance, head straight to reach the Gym Leader, but only after you've smashed the snowballs that were in the way. Just slide around the Gym and predict which areas you need to slide down to smash those snowballs. Of course it will take some time to experiment until all the necessary snowballs are gone. You do not have to face all of the Gym Trainers in this Gym.
+Candice's
+Sneasel
+is easily handeled by
+Fighting-types
+(though Fighting Pokémon must watch out for
+Aerial Ace
+), and her
+Abomasnow
+is easily beaten by a
+Fire-type
+. While
+Piloswine
+can hit hard, it is slow and has six different weaknesses. Her
+Froslass
+can be a bit of a problem, especially if Abomasnow's
+Snow Warning
+already activated, since
+Hail
+raises Froslass's evasion
+and causes
+Blizzard
+to never miss. Froslass is weak to Fire,
+Rock
+,
+Ghost
+,
+Dark
+, so take it out with one of those types (or any strong attack) before it goes out of control with
+Double Team
+or Blizzard.
+Snowpoint City Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Anton
+ヨシオ
+Yoshio
+Reward:
+$
+2640
+Glalie
+♂
+Lv.
+44
+No item
+Ace Trainer
+Alicia
+レイミ
+Reimi
+Reward:
+$
+2580
+Sneasel
+♀
+Lv.
+40
+No item
+Sneasel
+♀
+Lv.
+43
+No item
+Ace Trainer
+Savannah
+トキコ
+Tokiko
+Reward:
+$
+2220
+Snorunt
+♀
+Lv.
+39
+No item
+Snorunt
+♀
+Lv.
+40
+No item
+Glalie
+♀
+Lv.
+42
+No item
+Ace Trainer
+Sergio
+ヒョウ
+Hyō
+Reward:
+$
+2520
+Snover
+♂
+Lv.
+41
+No item
+Sneasel
+♂
+Lv.
+42
+No item
+Ace Trainer
+Brenna
+ミズホ
+Mizuho
+Reward:
+$
+2460
+Sneasel
+♀
+Lv.
+40
+No item
+Snorunt
+♀
+Lv.
+40
+No item
+Snover
+♀
+Lv.
+41
+No item
+Ace Trainer
+Isaiah
+ヒデキ
+Hideki
+Reward:
+$
+2640
+Piloswine
+♂
+Lv.
+44
+No item
+Leader
+Candice
+Snowpoint Gym
+Platinum
+Reward:
+$
+5280
+Types:
+Dark
+Ice
+Ability:
+Keen Eye
+Held item:
+None
+Sneasel
+♀
+Lv.
+40
+Aerial Ace
+Flying
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Types:
+Ice
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Piloswine
+♀
+Lv.
+40
+Earthquake
+Ground
+Physical
+--
+Avalanche
+Ice
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Hail
+Ice
+Status
+--
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+None
+Abomasnow
+♀
+Lv.
+42
+Focus Blast
+Fighting
+Special
+--
+Avalanche
+Ice
+Physical
+--
+Wood Hammer
+Grass
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+Sitrus Berry
+Froslass
+♀
+Lv.
+44
+Double Team
+Normal
+Status
+--
+Blizzard
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Once you've beaten Candice you will receive the Icicle Badge that will will allow you to use Rock Climb outside of battle as well as
+TM72
+(
+Avalanche
+) that while it causes your Pokémon to usually
+move last
+, it's power will double if that Pokémon was struck by a damaging move first.
+Now that you can use Rock Climb (optional)
+Now that have access to the move
+Rock Climb
+in the field, we can gain access to some items and fight some trainers around the region.
+Route 208
+Items
+Item
+Location
+Games
+Star Piece
+Northwest of Hiker Alexander (requires
+Rock Smash
+and
+Rock Climb
+)
+(hidden)
+Pt
+Trainers
+Trainer
+Pokémon
+Fisherman
+Cody
+テルマサ
+Terumasa
+Reward:
+$
+1056
+Barboach
+♂
+Lv.
+33
+No item
+Gyarados
+♂
+Lv.
+33
+No item
+Hiker
+Alexander
+クマオ
+Kumao
+Reward:
+$
+1280
+Graveler
+♂
+Lv.
+38
+No item
+Probopass
+♂
+Lv.
+40
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Veilstone City
+Items
+Item
+Location
+Games
+Full Incense
+On a platform east of the gym (requires
+Rock Climb
+)
+Pt
+Valor Lakefront
+Items
+Item
+Location
+Games
+Sun Stone
+At the top of the climbable ledges in the east of Hotel Grand Lake (requires
+Rock Climb
+)
+(hidden)
+Pt
+TM85
+(
+Dream Eater
+)
+To the left of the house of the woman who lost her
+Suite Key
+, accessed from next to the westernmost house (requires
+Rock Climb
+)
+Pt
+Iron
+To the left of the house of the woman who lost her Suite Key (requires
+Rock Climb
+)
+Pt
+Route 213
+Items
+Item
+Location
+Games
+Protein
+East of the Hotel Grand Lake southern entrance (requires
+Rock Climb
+)
+Pt
+TM05
+(
+Roar
+)
+Up in the highest mountain looking at the beach (requires
+Rock Climb
+)
+Pt
+HP Up
+Up in the highest mountain looking at the beach (requires
+Rock Climb
+)
+(hidden)
+Pt
+Coin Toss
+From a
+Rich Boy
+inside a bungalow to the northeast of the hotel entrance (requires
+Rock Climb
+)
+Pt
+Max Revive
+Inside a trash can in the bungalow to the northeast of the hotel entrance (requires
+Rock Climb
+)
+(hidden)
+Pt
+Route 210 (North)
+Items
+Item
+Location
+Games
+Shiny Stone
+South of the pit between the climbable rocks (requires
+Rock Climb
+)
+(hidden)
+Pt
+Zinc
+Ledge south of Dragon Tamer Patrick (requires
+Rock Climb
+)
+Pt
+Trainers
+Trainer
+Pokémon
+Dragon Tamer
+Patrick
+リュウヘイ
+Ryūhei
+Reward:
+$
+1088
+Requires
+Rock Climb
+Gible
+♂
+Lv.
+34
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Route 211 (East)
+Items
+Item
+Location
+Games
+TM29
+(
+Psychic
+)
+At the highest hill of the eastern part of the route (requires
+Rock Climb
+and
+Rock Smash
+)
+Pt
+Calcium
+On the same hill as
+TM29
+(
+Psychic
+) (requires
+Rock Climb
+and
+Rock Smash
+)
+(hidden)
+Pt
+Route 216
+Items
+Item
+Location
+Games
+Mental Herb
+In the center of the snowy ledge (requires
+Rock Climb
+)
+Pt
+HP Up
+Northeast of the Mental Herb (requires
+Rock Climb
+)
+Pt
+Max Potion
+South of Skier Andrea (requires
+Rock Climb
+)
+Pt
+TM13
+(
+Ice Beam
+)
+East of Skier Andrea (requires
+Rock Climb
+)
+Pt
+Trainers
+Trainer
+Pokémon
+Black Belt
+Philip
+ダンジ
+Danji
+Reward:
+$
+960
+Machoke
+♂
+Lv.
+40
+No item
+Skier
+Bradley
+フジヤ
+Fujiya
+Reward:
+$
+1152
+Snorunt
+♂
+Lv.
+36
+No item
+Swinub
+♂
+Lv.
+36
+No item
+Snover
+♂
+Lv.
+36
+No item
+Skier
+Kaitlyn
+ナツキ
+Natsuki
+Reward:
+$
+1216
+Swinub
+♀
+Lv.
+36
+No item
+Snover
+♀
+Lv.
+38
+No item
+Skier
+Andrea
+アイミ
+Aimi
+Reward:
+$
+1248
+Snover
+♀
+Lv.
+39
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Acuity Lakefront
+Items
+Item
+Location
+Games
+Reaper Cloth
+Near the entrance to Lake Acuity (requires
+Rock Climb
+)
+Pt
+Acuity Lakefront
+Now that you have the Icicle Badge, you can climb the walls that have the bits of rock in them with
+Rock Climb
+. Pick up the
+Reaper Cloth
+before entering
+Lake Acuity
+.
+Lake Acuity
+Lake Acuity
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+38
+5%
+Golduck
+D
+P
+Pt
+Grass
+39-40
+15%
+Sneasel
+D
+P
+Pt
+Grass
+41
+10%
+Snorunt
+D
+P
+Pt
+Grass
+39-40
+0%
+0%
+20%
+Bibarel
+D
+P
+Pt
+Grass
+39-40
+25%
+Snover
+D
+P
+Pt
+Grass
+38-41
+45%
+45%
+0%
+Snover
+D
+P
+Pt
+Grass
+38,41
+0%
+0%
+25%
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Seaking
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Seaking
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM14
+(
+Blizzard
+)
+At northwest corner of tall grass in the northeast part of the lake (requires
+Surf
+)
+Pt
+When you arrive at
+Lake Acuity
+, Galactic
+Commander
+Jupiter
+has already defeated
+Barry
+and caught
+Uxie
+. She leaves while stating that Barry is a weak Trainer. Barry, though upset, states his desire to become stronger.
+Surf
+across the lake to the patch of grass in the northeastern corner, where you can pick up
+TM14
+(
+Blizzard
+).
+Now
+Fly
+back to
+Veilstone City
+and make sure you're ready for a lot of fighting. It's time to raid
+Team Galactic
+'s Headquarters!
+Veilstone City
+Veilstone City
+Team Galactic HQ
+Head towards the
+Team Galactic HQ
+in the northeast corner of
+Veilstone City
+and talk to the lone grunt there, who is angry at you since his
+Clefairy
+was taken away after you defeated him before. He claims ignorance about a
+Storage Key
+and runs away. Luckily,
+Looker
+shows up and states he has the Storage Key with him. He suggests that it is best to enter the HQ through the
+Galactic Warehouse
+you were at before. Make sure to select a well-balanced team for this mission, as you are going to need it.
+Galactic Warehouse
+Galactic Warehouse exterior
+Galactic Warehouse B1F
+Items
+Item
+Location
+Games
+Dusk Stone
+Behind the locked door that required the
+Storage Key
+Pt
+Zinc
+Downstairs near the entrance, down a fork in the hallway
+Pt
+TM36
+(
+Sludge Bomb
+)
+Southeast of the Galactic Key
+Pt
+Galactic Key
+Downstairs near the entrance, behind the locked door
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1640
+Golbat
+♂
+Lv.
+41
+No item
+Galactic Grunt
+Reward:
+$
+1600
+Houndour
+♂
+Lv.
+38
+No item
+Murkrow
+♂
+Lv.
+40
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Head to the metal doors you saw before and Looker will arrive and open them for you. Once that is done, continue down the stairs to the basement of the warehouse. This bottom floor connects to the Team Galactic HQ. Follow the hallway east to the stairs at the end, battling the two grunts.
+Team Galactic HQ
+Galactic HQ 1F
+Items
+Item
+Location
+Games
+TM49
+(
+Snatch
+)
+At the first pair of warp panels, take the right
+Pt
+Dubious Disc
+1F; in the room that connects to the warehouse through the locked door, between two seats at the table
+Pt
+Rare Candy
+In the hallway leading up to TM21, by a machine
+(hidden)
+Pt
+TM21
+(
+Frustration
+)
+Behind the locked door in the generator room
+Pt
+Green Shard
+From the first pair of Galactic Grunts, go east and take the top warp pad
+Pt
+Max Potion
+In the room with the Green Shard, in a box
+(hidden)
+Pt
+Max Revive
+From the first pair of Galactic Grunts, go east and take the bottom warp pad
+Pt
+Poké Doll
+In the bed on the right in the nap room
+(hidden)
+Pt
+Nugget
+Near three warp panels after battling a duo of grunts
+(hidden)
+Pt
+Protein
+In a room where three warp pads are located near each other, the right pad leads to the room with the Protein
+Pt
+Max Elixir
+In a room where three warp pads are located near each other, the middle pad leads to the room with the Max Elixir
+Pt
+Elixir
+In a room with two tables and a Max Elixir, in a crate in the southwest corner
+(hidden)
+Pt
+Master Ball
+Received from
+Cyrus
+after defeating him
+Pt
+Razor Claw
+In the room to the east of the one where
+Cyrus
+awaits
+(hidden)
+Pt
+Full Restore
+After leaving
+Cyrus
+'s office, in the room with the green fluid machines
+Pt
+PP Up
+Among boxes to the right of the doorway of the easternmost door at the entrance
+(hidden)
+Pt
+Team Galactic
+Trainer
+Pokémon
+These Trainers are accessible by going through the
+Galactic Warehouse
+Galactic Grunt
+Reward:
+$
+1640
+Glameow
+♀
+Lv.
+41
+No item
+Galactic Grunt
+Reward:
+$
+1560
+Glameow
+♀
+Lv.
+37
+No item
+Murkrow
+♂
+Lv.
+38
+No item
+Croagunk
+♂
+Lv.
+39
+No item
+Scientist
+Fredrick
+Reward:
+$
+1920
+Kirlia
+♂
+Lv.
+40
+No item
+Kadabra
+♂
+Lv.
+40
+No item
+Galactic Grunt
+Reward:
+$
+1640
+Stunky
+♂
+Lv.
+41
+No item
+Galactic Grunt
+Reward:
+$
+1560
+Murkrow
+♂
+Lv.
+39
+No item
+Stunky
+♂
+Lv.
+39
+No item
+These Trainers are accessible by going through the door next to the reception
+Galactic Grunt
+Reward:
+$
+1520
+Golbat
+♂
+Lv.
+40
+No item
+Golbat
+♂
+Lv.
+38
+No item
+Galactic Grunt
+Reward:
+$
+1560
+Golbat
+♀
+Lv.
+39
+No item
+Houndour
+♀
+Lv.
+39
+No item
+Scientist
+Darrius
+Reward:
+$
+2016
+Porygon2
+Lv.
+42
+No item
+Galactic Grunt
+Reward:
+$
+1600
+Stunky
+♂
+Lv.
+38
+No item
+Croagunk
+♂
+Lv.
+40
+No item
+Galactic Grunt
+Reward:
+$
+1520
+Croagunk
+♀
+Lv.
+38
+No item
+Stunky
+♀
+Lv.
+38
+No item
+Glameow
+♀
+Lv.
+38
+No item
+1F
+Once up the stairs, you'll arrive in the very upper right-hand corner of 1F. After defeating the Galactic Grunt there, use the right
+warp panel
+to enter a closed-off area where you will find
+TM49
+(
+Snatch
+). Step back onto the panel from whence you came. Afterwards, use the left warp panel to go up to 2F.
+2F
+Galactic HQ 2F
+From here, use the nearby warp panel to return to 1F.
+1F
+Ignore the grunt to the right and take the panel to the left, go down the stairs and defeat the
+Scientist
+, grab the
+Dubious Disc
+, take the second set of stairs to the left and keep going west.
+Galactic Warehouse
+Grab the
+Galactic Key
+, which will allow you to open the locked steel doors, and you will meet a Galactic Grunt who mentions that
+Cyrus
+is having a meeting. You can get to it by entering the HQ's main building from Veilstone and using the Galactic Key. You can unlock the nearby door which will allow you to head back easily to the Warehouse's entrance, but let's make a little side trip by backtracking to 2F. Use the stairs to access 3F.
+Team Galactic HQ
+3F
+Galactic HQ 3F
+Defeat the Galactic Grunts and then open the locked door to find
+TM21
+(
+Frustration
+). Now head back to the Galactic Warehouse and leave there to return to Veilstone City. It is now time to enter the main building.
+Team Galactic HQ (main building)
+1F
+Use your new Galactic Key to open the locked door and head up to 2F.
+2F
+You should now be in the middle area of 2F. Simply fight the grunts and then use each of the warp panels. This will earn you two items. Afterwards, use the warp panel that is located by the TVs to reach the meeting hall, where Cyrus is.
+Meeting Hall
+Galactic Meeting Hall
+You will meet up with Looker here and listen to Cyrus giving his speech about how the world is incomplete and the fact that he now has the power to create a new one for Team Galactic's benefit. After he and the grunts leave, Looker leaves to investigate this further. Follow in the direction he went to find another warp panel that will take you to a new area of 2F.
+2F
+You'll be in the upper-right area of 2F where there are some beds to rest your Pokémon team. Hidden in the right-hand bed is a
+Poké Doll
+. Climb the stairs to 3F.
+3F
+After dealing with two Galactic Grunts you'll find three warp panels here. The upper right one takes you to an area where you can find a
+Protein
+. The upper left will get you a
+Max Elixir
+, and the lower left is the one you'll need to proceed to an area with stairs up to 4F.
+4F
+Galactic HQ 4F
+This is where Cyrus's office is located. After you open the locked door, Cyrus will greet you and mention that the new world is actually only for him, since he feels his underlings are just as flawed as the rest of the world. Finding you interesting, he'll challenge you to a battle.
+Galactic Boss
+Cyrus
+Team Galactic HQ
+Platinum
+Reward:
+$
+8280
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+44
+Screech
+Normal
+Status
+--
+Ice Punch
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+44
+Air Cutter
+Flying
+Special
+--
+Poison Fang
+Poison
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+Sitrus Berry
+Honchkrow
+♂
+Lv.
+46
+Night Shade
+Ghost
+Special
+--
+Faint Attack
+Dark
+Physical
+--
+Drill Peck
+Flying
+Physical
+--
+Astonish
+Ghost
+Physical
+--
+His team is the same as the previous, except that two of his Pokémon have evolved. His first Pokémon,
+Sneasel
+, is easily vulnerable to
+Fighting-types
+. His other two
+Crobat
+and
+Honchkrow
+both are
+Flying-type
+and should be easily vulnerable to
+Rock
+,
+Ice
+and
+Electric-types
+. Just remember that Crobat is the faster of the two and may try to confuse your Pokémon with
+Supersonic
+, and Honchkrow possesses better physical attack moves that could KO your Pokémon if you are not careful.
+Lake Trio room
+Afterwards, Cyrus will give you a
+Master Ball
+and then leave. He mentions that if you want to save the
+Lake Pokémon
+, you should use the nearby warp panel to get to them. Use that warp panel and you will reach a hallway. At the end is where the Lake Trio are being held. Once you reach that room, where they are, you can overhear a conversation between
+Charon
+and
+Saturn
+about how Charon is happy with the new world Cyrus will create. Talk to Saturn and he'll challenge you to a battle since, unlike Cyrus, he will not let you roam freely and interfere with their plans.
+Commander
+Saturn
+Team Galactic HQ
+Platinum
+Reward:
+$
+3520
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+42
+Bite
+Dark
+Physical
+--
+Air Cutter
+Flying
+Special
+--
+Poison Fang
+Poison
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Poison
+Fighting
+Ability:
+Anticipation
+Held item:
+Sitrus Berry
+Toxicroak
+♀
+Lv.
+44
+Brick Break
+Fighting
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+42
+Extrasensory
+Psychic
+Special
+--
+Gyro Ball
+Steel
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Saturn's team is the same as before but at higher levels, so the same tactics you used at
+Lake Valor
+should work here. Once you defeat him, Saturn will let you press the switch that will set
+Azelf
+,
+Mesprit
+, and
+Uxie
+free. He mentions that Cyrus crafted a special
+Red Chain
+for capturing something on
+Mt. Coronet
+.
+Return to Cyrus's office and a new pathway will have opened up with a warp panel that will take you to the green warp panel just inside one of the main doors of the Galactic HQ. Take it, exit the building, and heal up at the Pokémon Center.
+Your biggest quest now awaits you. You will need a strong Pokémon team with the HM moves
+Surf
+,
+Strength
+,
+Rock Smash
+, and
+Rock Climb
+. You should stock up on
+Super Repels
+,
+Moomoo Milks
+,
+Revives
+, and maybe a few
+Lava Cookies
+.
+Once you are prepared, your next destination is to enter Mt. Coronet from the south entrance. You can either
+Fly
+to
+Oreburgh City
+and head north, or
+Hearthome City
+and head west, but the path from Oreburgh is faster.
+← Part 14
+Lake Verity to Route 217
+Platinum
+walkthrough
+Mt. Coronet (south)
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

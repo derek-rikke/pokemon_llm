@@ -1,0 +1,61 @@
+Game: Crystal
+Part: 22
+Keywords: Route 15, Route 14, Route 13, Route 12
+
+### Part 22 Walkthrough Summary
+
+#### Route 15
+- **Location**: East of Fuchsia City.
+- **Trainers**:
+  - **Schoolboy Kipp**: Voltorb (Lv. 27), Magnemite (Lv. 27), Voltorb (Lv. 31), Magneton (Lv. 31) - Reward: $992.
+  - **Schoolboy Tommy**: Xatu (Lv. 32), Alakazam (Lv. 34) - Reward: $1088.
+  - **Teacher Hillary**: Aipom (Lv. 32), Cubone (Lv. 36) - Reward: $2592.
+  - **Schoolboy Billy**: Paras (Lv. 27), Ditto (Lv. 35) - Reward: $1120.
+  - **Teacher Colette**: Clefairy (Lv. 36) - Reward: $2592.
+  - **Schoolboy Johnny**: Bellsprout (Lv. 29), Weepinbell (Lv. 31), Victreebel (Lv. 33) - Reward: $1056.
+
+- **Available Pokémon**:
+  - Pidgeotto, Nidorina, Nidorino, Venonat, Venomoth, Chansey, Noctowl, Hoppip, Quagsire.
+- **Item**: PP Up (requires Cut, west side of the hill).
+
+#### Route 14
+- **Location**: Coastal road leading to Route 13.
+- **Trainers**:
+  - **Bird Keeper Roy**: Fearow (Lv. 29, 35) - Reward: $840.
+  - **Pokéfan Carter**: Bulbasaur, Charmander, Squirtle (all Lv. 29) - Reward: $2320.
+  - **Pokéfan Trevor**: Psyduck (Lv. 33) - Reward: $2640.
+
+- **Available Pokémon**: Similar to Route 15, with added Hoppip and Skiploom.
+- **Item**: Gold Berry (held by traded Aerodactyl).
+
+#### Route 13
+- **Location**: Narrow path towards Route 12.
+- **Trainers**:
+  - **Bird Keeper Bret**: Pidgeotto (Lv. 32), Fearow (Lv. 32) - Reward: $768.
+  - **Pokéfan Joshua**: Pikachu (multiple, Lv. 23) - Reward: $1840.
+  - **Pokéfan Alex**: Nidoking, Slowking, Seaking (all Lv. 29) - Reward: $2320.
+
+- **Available Pokémon**: Similar to previous routes, plus Tentacool and Quagsire (surfing).
+- **Items**: Hidden Calcium (east of Trainer Tips sign).
+
+#### Route 12
+- **Location**: Connects Route 13 and Lavender Town (Silence Bridge).
+- **Trainers**:
+  - **Fisher Barney**: Gyarados (Lv. 30) - Reward: $1200.
+  - **Fisher Stephen**: Magikarp (Lv. 25), Qwilfish (Lv. 31) - Reward: $1240.
+  - **Fisher Martin**: Remoraid (Lv. 32) - Reward: $1280.
+  - **Fisher Kyle**: Seaking (Lv. 28), Poliwhirl (Lv. 31) - Reward: $1240.
+
+- **Available Pokémon**: Similar to previous routes, with more fishing options.
+- **Items**: 
+  - Nugget (requires Surf, Cut).
+  - Calcium (hidden in northern field).
+  - Super Rod (received from Fishing Guru's brother).
+  - Elixir (hidden in northeast platform, requires Surf).
+
+### Key Strategies
+- Utilize **Cut** to access hidden items and paths.
+- Rematch trainers for higher-level Pokémon.
+- Consider trading for Aerodactyl on Route 14.
+
+This concise guide provides essential information for navigating Routes 12-15 in Pokémon Crystal.

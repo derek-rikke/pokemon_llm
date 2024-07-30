@@ -1,0 +1,1166 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_8
+Keywords: Route 5 (South), Trial 2: Brooklet Hill, Route 6
+
+Walkthrough Text:
+Contents
+1
+Route 5 (South)
+1.1
+A Stranger Appears
+1.2
+Pokémon Center
+1.2.1
+For Science
+1.2.2
+Time for a Trade
+2
+Brooklet Hill
+2.1
+A Mysterious Disturbance
+2.2
+Captain Lana's Trial
+2.2.1
+VS Totem Wishiwashi
+3
+Route 5 (South)
+4
+Paniola Ranch
+5
+Route 6
+5.1
+Battle for the Balloon
+Route 5 (South)
+Route 5
+Route 5
+connects
+Paniola Ranch
+with
+Brooklet Hill
+to the southwest,
+Lush Jungle
+to the north, and
+Route 8
+to the northwest. A winding route with many branches, it is quite challenging for people traveling on foot.
+Trainers
+Trainer
+Pokémon
+Twins
+Isa and Nico
+Reward:
+$
+360
+Happiny
+♀
+Lv.
+15
+No item
+Igglybuff
+♀
+Lv.
+15
+No item
+Pokémon Breeder
+Yuka
+Reward:
+$
+640
+Morelull
+♀
+Lv.
+15
+No item
+Ledyba
+♀
+Lv.
+16
+No item
+Rising Star Duo
+Lauren and Justin
+Reward:
+$
+1,632
+Vullaby
+♀
+Lv.
+17
+No item
+Rufflet
+♂
+Lv.
+17
+No item
+Pokémon Breeder
+Cory
+Reward:
+$
+640
+Paras
+♂
+Lv.
+15
+No item
+Spinarak
+♂
+Lv.
+16
+No item
+After defeating all other regular Trainers
+Trial Guide
+Bronson
+Reward:
+$
+1,056
+Slowpoke
+♂
+Lv.
+22
+Psychium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Lillipup
+Lillipup
+S
+M
+Grass
+13-16
+30%
+Pikipek
+Pikipek
+S
+M
+Grass
+13-16
+20%
+Fomantis
+Fomantis
+S
+M
+Grass
+13-16
+20%
+Caterpie
+Caterpie
+Butterfree
+S
+M
+Grass
+13-16
+10%
+Grubbin
+Grubbin
+S
+M
+Grass
+13-16
+10%
+Metapod
+Caterpie
+Butterfree
+S
+M
+Grass
+13-16
+9%
+Butterfree
+N/A
+S
+M
+Grass
+13-16
+1%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+13-16
+100%
+Special Pokémon
+Bounsweet
+N/A
+S
+M
+Trade
+Lillipup
+16
+One
+Exclusively from
+Island Scan
+Bellsprout
+N/A
+S
+M
+Grass
+16
+One
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+Southeast; against a rock formation, northeast of Paniola Town
+S
+M
+Star Piece
+Southeast; center of the rocky, crescent-shaped path, against a rock blocking the ramp from the grass
+(hidden)
+S
+M
+TM41
+(
+Torment
+)
+Southeast; north side of the rocky ledge
+S
+M
+Revive
+×3
+From Hau, after defeating Gladion
+S
+M
+TM57
+(
+Charge Beam
+)
+Dead-end path south of the Pokémon Center
+S
+M
+Dire Hit
+Pokémon Center; from a Fisherman
+S
+M
+Bright Powder
+Pokémon Center; held by Bouncee, a
+Bounsweet
+received in a trade
+S
+M
+$
+3,000
+Pokémon Center; from the Scientist, after registering
+Feebas
+in the Pokédex
+S
+M
+Later visit
+TM96
+(
+Nature Power
+)
+From Trial Guide Bronson, after defeating him
+S
+M
+A Stranger Appears
+Follow the path to the northwest to meet up with
+Hau
+. He seems to have just lost a battle against an angry-looking young man who introduces himself as
+Gladion
+. His goal is to make his partner,
+Null
+, as strong as it can be, while also doing small jobs for
+Team Skull
+. He immediately challenges you to a battle.
+Team Skull
+Gladion
+Route 5
+Sun and Moon
+Reward:
+$
+720
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+17
+Bite
+Dark
+Physical
+--
+Wing Attack
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Battle Armor
+Held item:
+None
+Type: Null
+Lv.
+18
+Tackle
+Normal
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, he talks about not being strong enough when two Team Skull Grunts approach from the north. They taunt Gladion, blaming him for their failure in stealing the
+Totem Pokémon
+from
+Brooklet Hill
+. One of the Grunts reminds him that he will never really be part of Team Skull, and the pair leaves with Gladion following in silence. Hau gives you three
+Revives
+and heads off to continue training for the next trial.
+Pokémon Center
+For Science
+A Scientist can be found near the Café. He is investigating
+Brooklet Hill
+and the effects of water quality on Pokémon, and asks that you catch a
+Feebas
+from there. Speak with him after registering the fish in the Pokédex to receive a
+$
+3,000 reward.
+Time for a Trade
+A young man named Kihei is standing to the left of the front desk. He is looking for a
+Lillipup
+, and is willing to trade his
+Bounsweet
+for one. As a
+Grass-type
+Pokémon, Bounsweet will be helpful when challenging the next trial. His Pokémon arrives holding a
+Bright Powder
+.
+Brooklet Hill
+Brooklet Hill
+Brooklet Hill
+is the best fishing spot in all of Alola. The cascading waterfalls make the area look like a terrace field.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Hal
+Reward:
+$
+544
+Requires
+Lapras Paddle
+or
+Sharpedo Jet
+Tentacool
+♂
+Lv.
+17
+No item
+Fisherman
+Ernest
+Reward:
+$
+544
+Barboach
+♂
+Lv.
+16
+No item
+Goldeen
+♂
+Lv.
+17
+No item
+Backpacker
+Mikiko
+Reward:
+$
+408
+Fletchling
+♀
+Lv.
+17
+No item
+Fisherman
+Herbert
+Reward:
+$
+544
+Poliwag
+♂
+Lv.
+17
+No item
+Fisherman
+Carl
+Reward:
+$
+544
+Requires
+Lapras Paddle
+or
+Sharpedo Jet
+Magikarp
+♂
+Lv.
+16
+No item
+Magikarp
+♂
+Lv.
+17
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+First field of grass
+Psyduck
+Psyduck
+S
+M
+Grass
+14-17
+30%
+Lillipup
+Lillipup
+S
+M
+Grass
+14-17
+20%
+Paras
+Paras
+S
+M
+Grass
+14-17
+20%
+-
+Morelull
+Morelull
+S
+M
+Grass
+14-17
+-
+20%
+Poliwag
+Poliwag
+S
+M
+Grass
+14-17
+10%
+Wingull
+Wingull
+S
+M
+Grass
+14-17
+10%
+Dewpider
+Dewpider
+S
+M
+Grass
+14-17
+10%
+-
+Surskit
+Surskit
+S
+M
+Grass
+14-17
+-
+10%
+Fields of grass across second lake
+Psyduck
+Psyduck
+S
+M
+Grass
+14-17
+30%
+Wingull
+Wingull
+S
+M
+Grass
+14-17
+30%
+Poliwag
+Poliwag
+S
+M
+Grass
+14-17
+20%
+Dewpider
+Dewpider
+S
+M
+Grass
+14-17
+20%
+-
+Surskit
+Surskit
+S
+M
+Grass
+14-17
+-
+20%
+Surfing
+Poliwag
+Poliwag
+S
+M
+Surfing
+14-17
+40%
+Psyduck
+Psyduck
+S
+M
+Surfing
+14-17
+20%
+Dewpider
+Dewpider
+S
+M
+Surfing
+14-17
+40%
+-
+Surskit
+Surskit
+S
+M
+Surfing
+14-17
+-
+40%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+70%
+Goldeen
+Goldeen
+Seaking
+S
+M
+Fishing
+10-15
+29%
+Feebas
+Feebas
+S
+M
+Fishing
+10-15
+1%
+Fishing at a bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+50%
+Goldeen
+Goldeen
+Seaking
+S
+M
+Fishing
+10-15
+45%
+Feebas
+Feebas
+S
+M
+Fishing
+10-15
+5%
+Special Pokémon
+Wishiwashi
+Wishiwashi
+S
+M
+Surfing
+17
+One
+Wishiwashi
+Wishiwashi
+S
+M
+Surfing
+18
+One
+Exclusively from
+Island Scan
+Marill
+N/A
+S
+M
+Grass
+17
+One
+Sa
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Net Ball
+Southwest side of the first lake
+S
+M
+Rare Candy
+Southeast beach in the first lake (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Elixir
+Clearing in the first tall grass patch
+(hidden)
+S
+M
+Lapras Paddle
+From Lana at the water's edge
+S
+M
+X Sp. Atk
+North side of the second lake
+S
+M
+Revive
+Southwest side of the second lake (requires Lapras Paddle)
+S
+M
+Max Repel
+Clearing in the second tall grass patch
+(hidden)
+(requires Lapras Paddle)
+S
+M
+TM55
+(
+Scald
+)
+Southeast side of the third lake (requires Lapras Paddle)
+S
+M
+Totem's Den
+Hyper Potion
+Southwest side of the beach
+S
+M
+Waterium Z
+Reward from Lana, after clearing her trial
+S
+M
+Fishing Rod
+Reward from Lana, after clearing her trial
+S
+M
+Dive Ball
+×10
+Reward from Lana, after clearing her trial
+S
+M
+A Mysterious Disturbance
+Enter the area to meet Captain
+Lana
+, who immediately asks for your help. Follow her across the first lake and pick up the
+Net Ball
+to the south, near Fisherman Ernest.
+At the second lake, Lana directs your attention to some unknown creature splashing furiously. Believing a fearsome Pokémon to be the cause, she asks you to swim out to investigate and registers
+Lapras Paddle
+in your Ride Pager. While surfing on Lapras, pressing the B Button results in a speed boost. Grab the
+X Sp. Atk
+on the north side of the lake near Backpacker Mikiko before wading out into the water. Investigate the splashing to see the shadows of several fish Pokémon flee the scene; check it again to be attacked by a
+Wishiwashi
+. After the battle, Lana is surprised that such a small fish could make such big waves. She then notices another commotion farther ahead, so exit the lake to the southwest. Collect the
+Revive
+at the Photo Spot and continue southward as the storm clouds move in.
+Sail across the third lake to investigate this latest disturbance. Like the previous encounter, the first interaction scares off most of the fish Pokémon, leaving only a single Wishiwashi to battle. The rainstorm begins in earnest, and Lana still seems unconvinced that the little fish could be behind all of the splashing. She then hears even more frenzied splashing, which sounds "as big as a
+Wailord
+", and runs off. Surf to the secluded southeast area to find
+TM55
+(
+Scald
+), then follow her to the southwest. She reminds you that the
+falling rain
+boosts the power of
+Water-type
+moves before running ahead.
+Captain Lana's Trial
+Step inside the Captain's Gate to enter the Totem's Den and officially begin
+Lana
+'s trial. She tasks you with defeating the Totem Pokémon and directs you to another disturbance out in the water. She also reminds you that wild Pokémon cannot be caught until the trial is cleared. The Totem's
+Water-type
+moves receive a power boost in the rain, but Pokémon with the
+Cloud Nine
+Ability, like
+Psyduck
+, can cancel such weather effects. Lapras trembles in fear, smaller shadows combine to form a large creature under the waves, and the Totem Pokémon attacks!
+VS Totem Wishiwashi
+The great fish begins with increased stats in its School Form due to its
+Schooling
+Ability, and is surrounded by an aura that further raises its
+Defense
+by one stage. With higher stats and a power boost from the
+rain
+,
+Water Gun
+can deal some serious damage. Totem
+Wishiwashi
+may be formidable in its School Form, but when its health falls below 25% it reverts to Solo Form and loses its heightened stats. If Alomomola is present, use weaker moves to chip away at Totem Wishiwashi's health then a stronger attack to knock it out. The Totem Pokémon may survive a strong attack at full health, giving Alomomola a chance to restore its health and its School Form with
+Heal Pulse
+. Use
+Grass
+- and
+Electric-type
+attacks for best results.
+Totem Wishiwashi
+Ally Wishiwashi
+Ally Alomomola
+Aura:
+Defense
++1
+Type:
+Water
+Unknown
+Ability:
+Schooling
+Held item:
+Sitrus Berry
+Wishiwashi
+♂
+Lv.
+20
+Water Gun
+Water
+Special
+--
+Growl
+Normal
+Status
+--
+Rain Dance
+Water
+Status
+--
+Soak
+Water
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Schooling
+Held item:
+None
+Wishiwashi
+♂
+/
+♀
+Lv.
+18
+Helping Hand
+Normal
+Status
+--
+Feint Attack
+Dark
+Physical
+--
+Brine
+Water
+Special
+--
+Aqua Ring
+Water
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Healer
+Held item:
+None
+Alomomola
+♂
+/
+♀
+Lv.
+18
+Helping Hand
+Normal
+Status
+--
+Double Slap
+Normal
+Physical
+--
+Heal Pulse
+Psychic
+Status
+--
+Water Gun
+Water
+Special
+--
+After the Totem Pokémon and its allies are defeated, the storm clouds disappear and you return to shore. Lana rewards you with the
+Waterium Z
+and teaches you the pose for
+Hydro Vortex
+. That's not all, as she also gives you a handmade
+Fishing Rod
+and ten
+Dive Balls
+. To use the rod, look for piles of rocks under the water and press the A Button to cast the line; press the A Button again when an exclamation point appears. Items may sometimes be reeled in instead of Pokémon. Lana offers to accompany you back to the Pokémon Center on
+Route 5
+, and directs you to
+Kiawe
+'s trial next, in
+Wela Volcano Park
+.
+Route 5 (South)
+Outside the Pokémon Center, Lana reminds you of the pair of
+Sudowoodo
+blocking the path south from
+Paniola Ranch
+, saying that you should be able to scare them away with your new Waterium Z. Rest at the Pokémon Center if needed, then head southeast to return to the ranch.
+Paniola Ranch
+Continue south to meet the pair of
+Sudowoodo
+blocking the path. They run off without a fight toward the Battle Royal Dome. As thanks for clearing the road, the little boy standing nearby will give you a
+Mystic Water
+. Continue south to Route 6.
+Route 6
+Route 6
+Route 6
+is a plain, straight street that runs through the middle of
+Akala Island
+. It links
+Paniola Ranch
+in the north with
+Heahea City
+in the south. The
+Royal Avenue
+complex stands to the east. An isolated part of
+Paniola Town
+can be accessed to the west.
+Trainers
+Trainer
+Pokémon
+Youngster
+Anthony
+Reward:
+$
+320
+Magby
+♂
+Lv.
+15
+No item
+Yungoos
+♂
+Lv.
+16
+No item
+Pokémon Breeder
+William
+Reward:
+$
+680
+Sudowoodo
+♂
+Lv.
+17
+No item
+Team Skull Grunt
+Reward:
+$
+544
+Drowzee
+♂
+Lv.
+17
+No item
+Beauty
+Brittney
+Reward:
+$
+544
+Cubone
+♀
+Lv.
+17
+No item
+Dancer
+Maika
+Reward:
+$
+680
+Oricorio
+♀
+Pa'u Style
+Lv.
+17
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Northern field of grass
+Lillipup
+Lillipup
+S
+M
+Grass
+14-17
+30%
+Mudbray
+Mudbray
+S
+M
+Grass
+14-17
+20%
+Pikipek
+Pikipek
+S
+M
+Grass
+14-17
+15%
+25%
+Grubbin
+Grubbin
+S
+M
+Grass
+14-17
+10%
+Yungoos
+Yungoos
+S
+M
+Grass
+14-17
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+14-17
+-
+10%
+Igglybuff
+Igglybuff
+Jigglypuff
+Happiny
+S
+M
+Grass
+14-17
+10%
+-
+Eevee
+Eevee
+Espeon
+S
+M
+Grass
+14-17
+5%
+-
+Eevee
+Eevee
+Umbreon
+S
+M
+Grass
+14-17
+-
+5%
+Two southern fields of grass
+Lillipup
+Lillipup
+S
+M
+Grass
+14-17
+30%
+Oricorio
+Pa'u Style
+Oricorio
+S
+M
+Grass
+14-17
+20%
+Pikipek
+Pikipek
+S
+M
+Grass
+14-17
+15%
+25%
+Grubbin
+Grubbin
+S
+M
+Grass
+14-17
+10%
+Yungoos
+Yungoos
+S
+M
+Grass
+14-17
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+14-17
+-
+10%
+Igglybuff
+Igglybuff
+Jigglypuff
+Happiny
+S
+M
+Grass
+14-17
+10%
+-
+Eevee
+Eevee
+Espeon
+S
+M
+Grass
+14-17
+5%
+-
+Eevee
+Eevee
+Umbreon
+S
+M
+Grass
+14-17
+-
+5%
+Exclusively from
+Island Scan
+Gothita
+N/A
+S
+M
+Grass
+17
+One
+Su
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+North end, on the west side
+S
+M
+Rare Candy
+West side, between the cracked rocks (requires Tauros Charge)
+S
+M
+Carbos
+In a clearing southwest of the cracked rocks
+(hidden)
+S
+M
+X Speed
+Bare patch of land in the southeast grass patch
+(hidden)
+S
+M
+Battle for the Balloon
+Head south to find a
+Mudsdale
+and its Trainer, who calls for your help in chasing off two
+Team Skull
+Grunts that are harassing a
+Drifloon
+. Recognizing you from
+Melemele Island
+, the two Grunts prepare for battle. The Trainer introduces herself as
+Hapu
+and leaves one opponent to you while she takes on the other.
+After defeating them, the Grunts quickly flee after Hapu's threat to let Mudsdale stomp them. She thanks you for your help, and suggests checking out the
+Battle Royal Dome
+before setting off with Mudsdale.
+← Part 7
+Heahea City, Route 4, Paniola Town, Paniola Ranch
+Sun and Moon
+walkthrough
+Royal Avenue, Battle Royal Dome, Route 7, Wela Volcano Park
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

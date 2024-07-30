@@ -1,0 +1,1055 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_7
+Keywords: Route 5, Driftveil Drawbridge, Driftveil City, Driftveil Gym
+
+Walkthrough Text:
+Contents
+1
+Route 5
+1.1
+Bianca's HM
+1.2
+Hidden Grottoes Revealed
+1.3
+The Berry Seller
+1.4
+The Hungry Maid
+1.5
+Battle the Musician
+1.6
+Roadblock
+2
+Driftveil Drawbridge
+2.1
+Funfest Mission
+2.2
+The Youngster's Wish
+3
+Driftveil City
+3.1
+Team Plasma, Old & New
+3.2
+Grand Hotel
+3.3
+Luxury Suites
+3.4
+Continental Hotel
+3.5
+Chateau Hotel
+3.6
+Move Tutor
+3.7
+Former Plasma Base
+3.8
+Driftveil Gym
+3.8.1
+Easy Mode/Normal Mode
+3.8.2
+Challenge Mode
+Route 5
+Route 5
+Route 5
+is a short path that leads from
+Nimbasa City
+to the
+Driftveil Drawbridge
+in the west. It is usually a lively place because many Pokémon Trainers like to gather here.
+Trainers
+Trainer
+Pokémon
+Baker
+Jenn
+Reward:
+$
+960
+Sunkern
+♀
+Lv.
+24
+No item
+Combee
+♂
+Lv.
+24
+No item
+Artist
+Horton
+Reward:
+$
+1200
+Sigilyph
+♂
+Lv.
+25
+No item
+Pokémon Ranger
+Lois
+Reward:
+$
+1500
+Budew
+♀
+Lv.
+25
+No item
+Roselia
+♀
+Lv.
+25
+No item
+Dancer
+Brian
+Reward:
+$
+800
+Scraggy
+♂
+Lv.
+25
+No item
+Backers
+Ava & Aya
+Reward:
+$
+1152
+Minccino
+♀
+Lv.
+24
+No item
+Minccino
+♀
+Lv.
+24
+No item
+Musician
+Preston
+Reward:
+$
+800
+Maractus
+♂
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Minccino
+B2
+W2
+Grass
+21-24
+30%
+Gothita
+B2
+W2
+Grass
+21-24
+30%
+Solosis
+B2
+W2
+Grass
+21-24
+30%
+Liepard
+B2
+W2
+Grass
+22-24
+20%
+Trubbish
+B2
+W2
+Grass
+21-24
+20%
+Dark grass
+Minccino
+B2
+W2
+Dark grass
+23-26
+30%
+Gothita
+B2
+W2
+Dark grass
+23-26
+30%
+Solosis
+B2
+W2
+Dark grass
+23-26
+30%
+Liepard
+B2
+W2
+Dark grass
+24-26
+20%
+Trubbish
+B2
+W2
+Dark grass
+23-26
+20%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+21-24
+85%
+Emolga
+B2
+W2
+Rustling grass
+22
+10%
+Cinccino
+B2
+W2
+Rustling grass
+24
+5%
+Hidden Grotto
+Foongus
+B2
+W2
+Hidden Grotto
+20-25
+Frequent
+Liepard
+B2
+W2
+Hidden Grotto
+20-25
+Average
+Minccino
+B2
+W2
+Hidden Grotto
+20-25
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM02
+(
+Fly
+)
+From Bianca, just outside Nimbasa City
+B2
+W2
+Super Repel
+On the ledge near the dark grass patch
+B2
+W2
+Cheri Berry
+From Pokémon Ranger Lois after defeating her
+B2
+W2
+Hyper Potion
+×2
+In the trees to the southwest, behind the fence
+South of the Trainer Tips sign (hidden)
+B2
+W2
+Electric Guitar
+Prop
+; from Musician Preston after defeating him
+B2
+W2
+Bianca's HM
+As you leave
+Nimbasa
+,
+Bianca
+catches up to you. She gives you
+HM02
+(
+Fly
+), which lets you instantly return to any familiar city or town. Use it on something like
+Pidove
+or
+Sigilyph
+.
+Hidden Grottoes Revealed
+After handing over the HM,
+Bianca
+claims that she hears something. She leads you north, where she hears a rustling in the trees. She explains that this must be a
+Hidden Grotto
+, one of many scattered across the region. These grottoes are hard to find, they simply look like a large shadow under a group of trees. Inside, you can meet a Pokémon with its
+Hidden Ability
+, a visible item, or a hidden item. After a while, another Pokémon may show up, or another item may appear. This grotto happens to have a
+Minccino
+inside, which has its Hidden Ability
+Skill Link
+. Bianca leaves you to catch it, or not, on your own.
+The Berry Seller
+A woman near the gate sells a bunch of five Berries every day for
+$
+200. These bunches may be
+Pomeg
+,
+Kelpsy
+,
+Qualot
+,
+Hondew
+, or
+Grepa Berries
+. She only sells one bunch per day.
+The Hungry Maid
+The Maid inside the trailer is trying to cook a meal, but is looking for more ingredients. If you give her
+any edible item
+, like
+Berry Juice
+or
+Casteliacone
+, she will pay for your generosity. The items she receives are worth anywhere from
+$
+20 to
+$
+30,000.
+Battle the Musician
+Defeat Musician Preston to receive a new
+Prop
+for the
+Pokémon Musical
+, an Electric Guitar.
+Roadblock
+A large crowd is gathered on the west side of the route. The drawbridge is blocked by a Motorcyclist, his name... Charles. A male Ace Trainer asks for help, so get ready to battle. Charles challenges you to a
+Rotation Battle
+B2
+or a
+Triple Battle
+W2
+, so check the order of your party members.
+Motorcyclist
+Charles
+Route 5
+Black 2 and White 2
+Reward:
+$
+832
+Types:
+Psychic
+Flying
+Ability:
+Magic Guard
+Held item:
+None
+Sigilyph
+♂
+Lv.
+26
+Air Cutter
+Flying
+Special
+--
+Psybeam
+Psychic
+Special
+--
+Whirlwind
+Normal
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+None
+Archen
+♂
+Lv.
+26
+Pluck
+Flying
+Physical
+--
+Agility
+Psychic
+Status
+--
+AncientPower
+Rock
+Special
+--
+Quick Guard
+Fighting
+Status
+--
+Types:
+Water
+Rock
+Ability:
+Solid Rock
+Held item:
+None
+Tirtouga
+♂
+Lv.
+26
+Wide Guard
+Rock
+Status
+--
+Aqua Jet
+Water
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Crunch
+Dark
+Physical
+--
+The crowd disperses when Charles is defeated, and you can proceed west over the drawbridge.
+Driftveil Drawbridge
+The Driftveil Drawbridge
+The
+Driftveil Drawbridge
+is managed by the Driftveil Gym Leader, and is raised and lowered to accommodate the city's shipping schedule. Bird Pokémon frequently fly over the bridge, and may drop a few
+feathers
+. All but one of the seven varieties can be used to raise a Pokémon's
+Effort values
+. Most of these can also be sold for
+$
+1500, making them a handy source of quick cash. Sometimes
+Ducklett
+may rest on the bridge, as well.
+Funfest Mission
+By talking to the man on the east end of the bridge, the
+Funfest Mission
+Wings Falling on the Drawbridge
+will be added.
+The Youngster's Wish
+In the center of the bridge stands a Youngster. He would like to see a
+Charizard
+, for which the bridge is nicknamed. If you speak to him with one in your party, he hands over a
+Heal Powder
+as thanks.
+Driftveil City
+Driftveil City
+B
+W
+Driftveil City
+is a major port city that distributes a large variety of goods. The Driftveil Market sells items found nowhere else in
+Unova
+. The city was developed considerably over the last two years, and is now filled with many hotels. In the northwest, construction has begun on
+Clay Tunnel
+, a shortcut to
+Twist Mountain
+, which is still ongoing.
+Items
+Item
+Location
+Games
+Ultra Ball
+On the island, southwest of the statue (hidden)
+B2
+W2
+Calcium
+Near the west end of the stone bridge
+B2
+W2
+Shell Bell
+From an old man on Grand Hotel Driftveil 1F
+B2
+W2
+Haban Berry
+From the Axew on Grand Hotel Driftveil 19F
+B2
+W2
+Luxury Ball
+×3
+From a girl in the Pokémon Center
+B2
+W2
+Expert Belt
+From the man in sunglasses in the Market
+B2
+W2
+TM63
+(
+Embargo
+)
+In the Market, near the west entrance
+B2
+W2
+Everstone
+From the Waiter on Luxury Suites 23F
+B2
+W2
+Heart Scale
+From the Lady on Luxury Suites 1F (one per day)
+B2
+W2
+Big Root
+From the Veteran on Continental Hotel 25F
+B2
+W2
+Air Balloon
+From the Gentleman on Chateau Hotel 25F
+B2
+W2
+Inside the Gym
+Fresh Water
+From Clyde near the entrance
+B2
+W2
+TM78
+(
+Bulldoze
+)
+From Clay after defeating him
+B2
+W2
+Team Plasma, Old & New
+On your way into the city, you meet a former member of
+Team Plasma
+arguing with a current member, who is trying to convince his friend to rejoin the group. He refuses, saying that it will make his lord
+N
+sad. The current member laughs, calling the team's former "king" a traitor who disappeared when they needed him.
+Hugh
+arrives suddenly and the current member runs off, with Hugh not far behind. The former member invites you to hear more of their history at their old base, west of the Gym.
+Grand Hotel
+Grand Hotel Driftveil stands near the stone bridge. Speak to the old man on the first floor; if you have seen at least 70 different Pokémon, he rewards you with a
+Shell Bell
+. After that, take the elevator to 19F and play with the
+Axew
+to receive the
+Haban Berry
+it was holding.
+Luxury Suites
+Driftveil Luxury Suites sits in the southwest. On the first floor, a Lady asks to see a Pokémon with a certain move; fulfill her request to receive a
+Heart Scale
+. She asks to see a new move every day. On 23F, a Waiter gives you an
+Everstone
+.
+Continental Hotel
+The Driftveil Continental Hotel is located in the northeast part of the city. Talk to the Veteran on 25F to receive a
+Big Root
+.
+Chateau Hotel
+The Chateau Hotel can be found north of the Market. On the first floor, you meet a master Move Tutor who is interested in
+Red Shards
+. Give him a certain number of them to have him teach a Pokémon a new move. On 25F, a Gentleman gives you an
+Air Balloon
+.
+Move Tutor
+The house next to the Chateau Hotel belongs to the local Move Tutor. He is obsessed with
+Red Shards
+, and will teach a variety of moves for the right number of Shards. The Driftveil Gym's weaknesses include
+Ice
+- and
+Grass-type
+attacks, so you may want to have him teach
+Ice Punch
+or
+Seed Bomb
+.
+Move
+Type
+Category
+Shards
+Covet
+2
+Bug Bite
+2
+Drill Run
+4
+Bounce
+4
+Signal Beam
+4
+Iron Head
+4
+Super Fang
+6
+Uproar
+6
+Move
+Type
+Category
+Shards
+Seed Bomb
+6
+Dual Chop
+6
+Low Kick
+8
+Gunk Shot
+8
+Fire Punch
+10
+ThunderPunch
+10
+Ice Punch
+10
+Former Plasma Base
+When you visit the former
+Plasma
+base on the hill near the Gym, you meet an old man named
+Rood
+standing outside. He wishes to have a battle to determine what kind of person you are.
+Pokémon Trainer
+Rood
+Driftveil City
+Black 2 and White 2
+Reward:
+$
+2700
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♂
+Lv.
+27
+Helping Hand
+Normal
+Status
+--
+Take Down
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♂
+Lv.
+27
+Heart Stamp
+Psychic
+Physical
+--
+Imprison
+Psychic
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Attract
+Normal
+Status
+--
+Afterwards,
+Hugh
+shows up and
+Rood
+leads you both into the building. Rood explains how he and the other former Plasma members are repenting for their misdeeds from two years ago. Hugh asks where is his sister's missing purrloin but Rood suggests that Team Plasma is still using it. Hugh now leaves to defeat the Pokemon Gym. Rood then asks you to look after a Pokémon for him, a
+Zorua
+that once traveled with
+N
+.
+Driftveil Gym
+Driftveil Gym
+Driftveil City Pokémon Gym
+Leader: Clay
+The Underground Boss
+The
+Driftveil Gym
+specializes in
+Ground-type
+Pokémon. In keeping with his Miner King title,
+Clay
+has established his Gym in a large underground cavern littered with green crystals. To reach the Gym Leader in the northeast, challengers must navigate a series of conveyor belts through the shadowy chamber. A spotlight snaps on over each platform you visit, and there are four platforms that function as lifts so you can get a better view of your surroundings.
+Clay
+'s favorite move,
+Bulldoze
+, lowers his opponent's
+Speed
+when it hits. To counter this, give your fighters a
+Quick Claw
+to let them sometimes attack first. As for his team, all three (or four, if you're playing Challenge Mode) of Clay's Pokémon are weakened by
+Water-type
+attacks. As an alternative, his
+Krokorok
+and
+Sandslash
+are both vulnerable to
+Grass-type
+moves- while Krokorok,
+Onix
+and
+Excadrill
+are afraid of
+Fighting-type
+moves.
+Driftveil Gym
+Trainers
+Trainer
+Pokémon
+Worker
+Noel
+Reward:
+$
+1240
+Baltoy
+Lv.
+31
+No item
+Worker
+Tavarius
+Reward:
+$
+1160
+Drilbur
+♂
+Lv.
+29
+No item
+Baltoy
+Lv.
+29
+No item
+Sandile
+♂
+Lv.
+29
+No item
+Worker
+Niel
+Reward:
+$
+1200
+Baltoy
+Lv.
+30
+No item
+Sandile
+♂
+Lv.
+30
+No item
+Worker
+Friedrich
+Reward:
+$
+1240
+Sandile
+♂
+Lv.
+31
+No item
+Worker
+Pasqual
+Reward:
+$
+1200
+Drilbur
+♂
+Lv.
+30
+No item
+Baltoy
+Lv.
+30
+No item
+Worker
+Tibor
+Reward:
+$
+1200
+Sandile
+♂
+Lv.
+30
+No item
+Drilbur
+♂
+Lv.
+30
+No item
+Worker
+Maynard
+Reward:
+$
+1240
+Drilbur
+♂
+Lv.
+31
+No item
+Easy Mode/Normal Mode
+Leader
+Clay
+Driftveil Gym
+Black 2 and White 2
+Reward:
+$
+3600
+/
+$
+3960
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krokorok
+♂
+Lv.
+28
+/
+31
+Crunch
+Dark
+Physical
+--
+Sand Tomb
+Ground
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Torment
+Dark
+Status
+--
+Type:
+Ground
+Unknown
+Ability:
+Sand Veil
+Held item:
+None
+Sandslash
+♂
+Lv.
+28
+/
+31
+Crush Claw
+Normal
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Types:
+Ground
+Steel
+Ability:
+Sand Force
+Held item:
+Sitrus Berry
+Excadrill
+♂
+Lv.
+30
+/
+33
+Slash
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Challenge Mode
+Leader
+Clay
+Driftveil Gym
+Black 2 and White 2
+Reward:
+$
+4320
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+Sitrus Berry
+Krokorok
+♂
+Lv.
+34
+Crunch
+Dark
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Torment
+Dark
+Status
+--
+Bulldoze
+Ground
+Physical
+--
+Type:
+Ground
+Unknown
+Ability:
+Sand Veil
+Held item:
+None
+Sandslash
+♂
+Lv.
+34
+Bulldoze
+Ground
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Rock
+Ground
+Ability:
+Sturdy
+Held item:
+None
+Onix
+♂
+Lv.
+34
+Explosion
+Normal
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Rock Polish
+Rock
+Status
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Ground
+Steel
+Ability:
+Sand Force
+Held item:
+Sitrus Berry
+Excadrill
+♂
+Lv.
+36
+Slash
+Normal
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+For defeating him,
+Clay
+awards you the
+Quake Badge
+, which ensures that all Pokémon of level 60 or less obey. He also gives you
+TM78
+(
+Bulldoze
+) as a prize.
+Clay then leads you out of the Gym, where you meet up with
+Hugh
+again. Clay invites the two of you to the
+Pokémon World Tournament
+located south of the city. Hugh rages against Clay for letting former members of
+Team Plasma
+live in his city; while Clay tries to calm him down, Hugh does not seem convinced and runs off to the south. Follow him to the World Tournament area.
+← Part 6
+Nimbasa City, Nimbasa Gym, Route 16, Lostlorn Forest
+Black 2 and White 2
+walkthrough
+Pokémon World Tournament, Plasma Frigate, Relic Passage
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

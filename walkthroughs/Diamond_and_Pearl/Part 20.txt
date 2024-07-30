@@ -1,0 +1,907 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_20
+Keywords: Catching the Lake Guardians, Hotel Grand Lake, Route 222, Sunyshore City, Vista Lighthouse
+
+Walkthrough Text:
+Contents
+1
+Now that Team Galactic is done for......
+1.1
+Galactic HQ, words from Commander Saturn
+2
+Catching the Lake Guardians
+2.1
+Catching Mesprit
+2.2
+Catching Azelf
+2.3
+Catching Uxie
+3
+Hotel Grand Lake
+4
+Route 222
+5
+Sunyshore City
+5.1
+Vista Lighthouse
+Now that Team Galactic is done for......
+Now that
+Team Galactic
+is utterly destroyed and finally out of the way, there are a few things for you to do.
+Visit
+Celestic Town
+and collect data of
+Palkia
+D
+/
+Dialga
+P
+Visit
+Galactic HQ
+,
+Veilstone City
+Catch the Lake guardians (further discussed)
+Galactic HQ, words from Commander Saturn
+Go to Veilstone City. Head to Galactic HQ. You'll find that it is renamed as Galactic Veilstone Building. Head inside, and you'll find
+Commander
+Saturn
+near the reception. Talk to him, and he'll tell you:
+"So, it's you...
+I've heard about you and what took place at the Spear Pillar.
+What our boss really wanted... Even I don't know that.
+His confident manner of speaking... His logical words...
+I think people just became so enthralled by him.
+I allowed myself to believe his words because I wanted to see the world he intended to make.
+I've been left in charge of this HQ building and the remnants of the membership...
+The decision on what Team Galactic should do rests with me...
+But I've learned that extremism is never the solution..."
+So Saturn's left in charge of the whole Team Galactic, and he's considering what to do next. He has learnt that "extremism is never the solution". Remember this message-- always taking things to the extreme leads to failure.
+Catching the Lake Guardians
+You'll need to bring Pokémon with
+Surf
+. Buy plenty of
+Dusk Balls
+and
+Quick Balls
+, as well as many bottles of
+Repel
+before proceeding.
+The
+Lake guardians
+will wait for you in the cavern of their respective lake:
+Mesprit
+in
+Verity Cavern
+,
+Lake Verity
+Azelf
+in
+Valor Cavern
+,
+Lake Valor
+Uxie
+in
+Acuity Cavern
+,
+Lake Acuity
+When you talk to Azelf and Uxie, they will immediately battle you. But Mesprit won't, unlike the rest.
+As all 3 are pure
+Psychic-type
+Pokémon,
+Dark-type
+,
+Bug-type
+and
+Ghost-type
+moves are super effective, while
+Fighting-type
+moves are not very effective. Bring Pokémon with those moves. All 3 are at Level 50, so be careful. Their attacks—
+Confusion
+and
+Future Sight
+(which lands a hit 2 turns later), can deal a lot of damage.
+You can just proceed on without catching them, but why would you reject their "invitation"?
+Catching Mesprit
+Mesprit in Verity Cavern
+Go to Lake Verity. Surf to the middle of the lake and enter Verity Cavern. Talk to Mesprit and get ready for a battle...... but suddenly a picture of Mesprit pops out, then Mesprit disappears!
+Professor Rowan
+comes in and says that you have tried to do what he asked you to do, but Mesprit doesn't provide you any answer, and Mesprit wants to "play with you". He also tells you that you can track Mesprit down with the Pokétch App Marking Map. (He will be surprised if you don't have the Marking Map, and tells you to visit Pokétch Company in
+Jubilife City
+.) Mesprit will be considered as a seen Pokémon in your Pokédex.
+Make sure that you have your first Pokémon under Level 50, your Pokétch App Marking Map is ready, buy a lot of
+Quick Balls
+and
+Repel
+before proceeding to catch Mesprit.
+Now Mesprit roams around
+Sinnoh
+. It can appear on almost every route, and also at the
+Valley Windworks
+and
+Fuego Ironworks
+. When you change locations, it will teleport to another place too.
+You'll see a blinking face on the Marking Map. That blinking face represents Mesprit...... no, actually, any roaming Pokémon. It is highly recommended that you catch it now because there'll be another
+roaming Pokémon
+after you completed the main storyline, and there'll be 2 blinking faces on the map, which will totally mess you up -- you won't know which blinking face is which Pokémon until you run into one of them in a battle!
+Two of the best places to "wait" for Mesprit to show up are
+Route 205
+and the Valley Windworks. Run back and forth between the boundary of these two places until you and Mesprit are in the same place. Once Mesprit is in the same place as you, use a bottle of
+Repel
+, save your game, and set a Pokémon at or under Level 50 as your first Pokémon (be sure that it can outspeed Mesprit). Then, go inside the tall grass and run around (or surf around in the water) until Mesprit appears.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mesprit
+Lv.
+50
+Confusion
+Psychic
+Special
+--
+Lucky Chant
+Normal
+Status
+--
+Future Sight
+Psychic
+Special
+--
+Charm
+Normal
+Status
+--
+Immediately inflict a status ailment (paralysis, sleep, freeze) on Mesprit when you encounter it. After your first move, Mesprit will escape unless your Pokémon used
+Mean Look
+or other similar moves that prevent escaping. All damages and status ailments will remain on Mesprit even it escapes, though. The next time you encounter Mesprit, hit it with a super-effective attack (if you are afraid that the attack may knock Mesprit out, launch a regularly-effective attack). If Mesprit is damaged enough (i.e. HP bar is in yellow), use attacks that are not very effective to whittle its health away.
+When Mesprit is in critical health (i.e. HP bar is in red), the next time you encounter Mesprit, start throwing Quick Balls without hesitation. Since you only have the first turn as your only chance in an encounter, Quick Balls are your best choice, but they'll not surely capture it -- you may need to waste 10, 20, 30 or even more if you're really unlucky. Be very patient, and you'll ultimately succeed.
+Or, if you decided to prevent it from escaping, throw
+Ultra Balls
+(or Dusk Balls if playing at night) instead. You may also consider about using your probably only
+Master Ball
+, but as mentioned above, there will be
+another roaming Pokémon
+for you to catch after you completed the main storyline. You could save this precious ball for that one.
+Comparing to the other 2 Lake guardians, Mesprit's stats are more balanced. Half (i.e. 2) of its moves are offensive, while the remaining half are defensive. Its offensive and defensive stats are also balanced.
+Catching Azelf
+Azelf in Valor Cavern
+Make sure that you buy a lot of Dusk Balls before proceeding.
+Go to Lake Valor. You will find that the lake has miraculously been restored. Surf to the southeast of the lake to collect
+TM25
+(
+Thunder
+), and then surf again to the middle and enter Valor Cavern.
+Item
+Item
+Location
+Games
+TM25
+(
+Thunder
+)
+Southeast part of the lake
+D
+P
+Pt
+Make sure that you heal your Pokémon and save your game before proceeding!
+Now talk to Azelf. It will actually battle you— right here, right now, no running.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Azelf
+Lv.
+50
+Confusion
+Psychic
+Special
+--
+Uproar
+Normal
+Special
+--
+Future Sight
+Psychic
+Special
+--
+Nasty Plot
+Dark
+Status
+--
+Apply the same strategy as the one you used to catch Dialga/Palkia. As you are inside a cave,
+Dusk Balls
+are your best and only choice, but they'll not surely capture it -- you may also need to waste 10, 20, 30 or even more if you're really unlucky. Be patient and you will finally succeed.
+Azelf is more offensive. Its attacks hurt more, and it also has
+Nasty Plot
+to boost its Sp. Atk, so watch out!
+Catching Uxie
+Uxie in Acuity Cavern
+Make sure that you buy a lot of Dusk Balls before proceeding.
+Go to Lake Acuity. Surf to the middle of the lake and enter Acuity Cavern.
+Make sure that you heal your Pokémon and save your game before proceeding!
+Now talk to Uxie. It will also battle you right here and right now -- no running.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Uxie
+Lv.
+50
+Confusion
+Psychic
+Special
+--
+Yawn
+Normal
+Status
+--
+Future Sight
+Psychic
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Again, apply the same strategy as the one you used to catch Dialga/Palkia. As you are inside a cave, Dusk Balls are your best and only choice, but they'll not surely capture it -- you may need to waste 10, 20, 30 or even more if you're really unlucky. Be very patient, and you'll finally succeed.
+Uxie is more defensive. Its attacks hurt less, but you still need to be careful. Its
+Yawn
+can make your Pokémon drowsy and fall asleep in the next turn.
+Hotel Grand Lake
+Heal your Pokémon before proceeding. You'll need to bring Pokémon with
+Cut
+,
+Surf
+and
+Rock Smash
+.
+Head east from
+Seven Stars Restaurant
+,
+Hotel Grand Lake
+. There was a man that blocked you, but now that the blackout of Sunyshore City is over, you can proceed to
+Route 222
+.
+Route 222
+Route 222
+Make sure that you have Pokémon with
+Cut
+,
+Surf
+and
+Rock Smash
+before proceeding.
+This beach path is quite straightforward— head east and you'll reach the gate to Sunyshore City. There is a large amount of Trainers. However, most can be avoided if you do not wish to battle (But why would you want to avoid them?). This is a good place for training for your upcoming Gym challenge. The house on the left is a
+Pikachu
+fan club, and the house on the right contains a man that will randomly assess the size of any
+Remoraid
+that you show him. If it's big enough, you will be rewarded with an item. There are also many items scattered on this route. To grab all of them, you'll need some
+HMs
+.
+Items
+Item
+Location
+Games
+Wiki Berry
+×2
+At the berry patch, north of the jumpable ledge
+D
+P
+Mago Berry
+×2
+At the berry patch, north of the jumpable ledge
+D
+P
+Aguav Berry
+×2
+At the berry patch, north of the jumpable ledge
+D
+P
+Qualot Berry
+At the berry patch, north of the jumpable ledge
+D
+P
+Honey
+Near the fourth flight of steps on the northern path, west of the man who gives out
+TM56
+(
+Fling
+)
+D
+P
+TM56
+(
+Fling
+)
+From the man near cliff edge
+D
+P
+Ultra Ball
+In the grass north-west of the man who gives out
+TM56
+(
+Fling
+)
+(hidden)
+D
+P
+Net Ball
+Show the Fisherman a larger Remoraid than the one listed
+D
+P
+Carbos
+Behind
+cut
+-able tree
+D
+P
+Honey
+In large patch of grass east of beach (requires
+Rock Smash
+)
+(hidden)
+D
+P
+Big Mushroom
+In small patch of grass in far southeast corner (requires
+Rock Smash
+and
+Surf
+)
+(hidden)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mr. Mime
+D
+P
+Pt
+Grass
+41-42
+15%
+Wingull
+D
+P
+Pt
+Grass
+41
+10%
+Gastrodon
+D
+P
+Pt
+Grass
+40-42
+10%
+10%
+20%
+Gastrodon
+D
+P
+Pt
+Grass
+40
+20%
+Glameow
+D
+P
+Pt
+Grass
+40
+20%
+Purugly
+D
+P
+Pt
+Grass
+41-42
+15%
+Floatzel
+D
+P
+Pt
+Grass
+40-42
+25%
+25%
+35%
+Chatot
+D
+P
+Pt
+Grass
+40-41
+20%
+20%
+0%
+Surfing and Fishing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Rich Boy
+Trey
+マサヒコ
+Masahiko
+Reward:
+$
+6880
+Luxio
+♂
+Lv.
+43
+No item
+Beauty
+Nicola
+ノリカ
+Norika
+Reward:
+$
+2408
+Lopunny
+♀
+Lv.
+43
+No item
+Policeman
+Thomas
+セイタロウ
+Seitarō
+Reward:
+$
+1680
+Noctowl
+♂
+Lv.
+42
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Sailor
+Marc
+ユウジロウ
+Yūjirō
+Reward:
+$
+1376
+Mantyke
+♂
+Lv.
+43
+No item
+Tuber
+Conner
+トモオ
+Tomoo
+Reward:
+$
+172
+Remoraid
+♂
+Lv.
+43
+No item
+Sailor
+Luther
+ユウシ
+Yūshi
+Reward:
+$
+1376
+Feebas
+♂
+Lv.
+37
+No item
+Machoke
+♂
+Lv.
+40
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+43
+No item
+Fisherman
+Alec
+タツオ
+Tatsuo
+Reward:
+$
+1344
+Magikarp
+♂
+Lv.
+40
+No item
+Gyarados
+♂
+Lv.
+42
+No item
+Fisherman
+George
+マサシ
+Masashi
+Reward:
+$
+1344
+Magikarp
+♂
+Lv.
+38
+No item
+Remoraid
+♂
+Lv.
+40
+No item
+Finneon
+♂
+Lv.
+40
+No item
+Gyarados
+♂
+Lv.
+42
+No item
+Fisherman
+Brett
+ユキオ
+Yukio
+Reward:
+$
+1248
+Magikarp
+♂
+Lv.
+39
+No item
+Finneon
+♂
+Lv.
+42
+No item
+Feebas
+♂
+Lv.
+39
+No item
+Fisherman
+Cole
+マツオ
+Matsuo
+Reward:
+$
+1312
+Gyarados
+♂
+Lv.
+41
+No item
+Remoraid
+♂
+Lv.
+38
+No item
+Gyarados
+♂
+Lv.
+41
+No item
+Tuber
+Holly
+アユミ
+Ayumi
+Reward:
+$
+172
+Remoraid
+♀
+Lv.
+43
+No item
+Poké Kid
+Janet
+アヤカ
+Ayaka
+Reward:
+$
+328
+Pikachu
+♀
+Lv.
+41
+No item
+Pikachu
+♀
+Lv.
+41
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Sunyshore City
+Route 222
+When you enter Sunyshore City, a man with red hair appears and introduces himself as
+Flint
+, a member of the Sinnoh
+Elite Four
+! (Elite Four members are way tougher than Gym Leaders and will be your next challenge after you obtain the final Gym Badge.) He tells you that his good friend, who is the Gym Leader of Sunyshore Gym -- Volkner, is not in mood of battle and has headed to Vista Lighthouse. He recognizes your talent and hopes that you'll have an exciting battle with Volkner.
+You'll need to bring Pokémon with
+Rock Climb
+.
+This fairly large city has elevated bridges that are actually solar panels! They were built to provide electricity to the
+Vista Lighthouse
+and
+Sunyshore Gym
+, which use a lot of electricity. Heal up at the Pokémon Center, and explore the town. The large building to your north is
+Sunyshore Market
+, where you can buy seals for your Ball Capsules. Different seals are sold on each day of the week. If you travel on the solar panel roads to the two houses in the northeast corner of the city, you can meet an elderly couple that will comment on Team Galactic. Apparently, the woman knew Galactic Boss
+Cyrus
+when he was younger. These people are in the house on the right. The house on the left has a woman in it that will give your Pokémon a Ribbon once per day if you tell her a story. The house that you must access using Rock Climb has a scientist inside that can give you several different Pokétch Apps, as a reward for showing him a Pokémon with the
+nature
+that he requests.
+When you try to enter the Gym (it's in the city's northwest corner), you'll find that Flint is there to tell you that Volkner is not back yet.
+If you go north from the Pokémon Center far enough, you will arrive on a small beach. You can surf on the water, but this route comes after you have eight Badges. The girl standing on the beach--
+Jasmine
+, is a Gym Leader in
+Olivine City
+,
+Johto
+region. Talk to her after you get your eighth and final Badge to receive
+HM07
+(
+Waterfall
+). The water is
+Route 223
+. Wait to travel across the ocean until you have your eighth Badge— you do not have the necessary HM to climb the waterfall at the end.
+Now head to the Vista Lighthouse on the southeast of the town via the bridge. Grab the hidden
+Zap Plate
+, then head inside.
+Items
+Item
+Location
+Games
+HM07
+(
+Waterfall
+)
+From
+Jasmine
+after defeating
+Volkner
+D
+P
+Pt
+Effort Ribbon
+From a lady in the
+Sunyshore Market
+, if the player's Pokémon has 510
+Effort values
+D
+P
+Pearl
+Between the Sunyshore Market and the blank sign painted white
+(hidden)
+D
+P
+Thunderstone
+Behind the
+Vista Lighthouse
+D
+P
+Pt
+Zap Plate
+In front of the
+Vista Lighthouse
+(hidden)
+D
+P
+Alert Ribbon
+From Julia
+Mo
+D
+P
+Shock Ribbon
+From Julia
+Tu
+D
+P
+Downcast Ribbon
+From Julia
+We
+D
+P
+Careless Ribbon
+From Julia
+Th
+D
+P
+Relax Ribbon
+From Julia
+Fr
+D
+P
+Snooze Ribbon
+From Julia
+Sa
+D
+P
+Smile Ribbon
+From Julia
+Su
+D
+P
+Calendar
+From the
+Pokétch
+app developer if shown a Pokémon with a Serious
+Nature
+(requires
+Rock Climb
+)
+D
+P
+Dot Artist
+From the Pokétch app developer if shown a Pokémon with a Naive
+Nature
+(requires
+Rock Climb
+)
+D
+P
+Roulette
+From the Pokétch app developer if shown a Pokémon with a Quirky
+Nature
+(requires
+Rock Climb
+)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+35-45
+60%
+Pelipper
+D
+P
+Pt
+Surfing
+35-45
+30%
+Mantyke
+D
+P
+Pt
+Surfing
+30-45
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+55%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+45%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Vista Lighthouse
+You'll be immediately in a lift that brings you up. After arriving on the top floor, talk to everyone. One of them is Gym Leader
+Volkner
+. He'll tell you that there haven't been any worthy challengers recently. After talking with him, he'll go back to Sunyshore Gym. Look into the binoculars (press A button on it) and you'll see the
+Pokémon League
+, where you'll later challenge the Elite Four.
+Now heal your Pokémon and go to Sunyshore Gym. Talk to Flint, and he'll say that Volkner is back, reminds you that you need to have a heated battle with him, then walks off.
+← Part 19
+Team Galactic's final showdown, Catching Dialga/Palkia, Back in Mt. Coronet
+Diamond and Pearl
+walkthrough
+Sunyshore Gym, Route 223, Pokémon League (Victory Road Entrance)
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

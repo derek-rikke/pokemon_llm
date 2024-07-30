@@ -1,0 +1,61 @@
+Game: Platinum
+Part: 13
+Keywords: Iron Island, Lake Valor
+
+**Part 13: Iron Island and Lake Valor Walkthrough**
+
+### Iron Island
+1. **Outside Iron Island**
+   - **Available Pokémon**: Tentacool, Tentacruel, Wingull, Pelipper (Surf), Magikarp, Finneon (Fishing).
+   - **Items**: 
+     - Star Piece (hidden rock outside cave).
+     - HM04 (Strength from Riley).
+     - Metal Coat (house after National Dex).
+   - **Tip**: Bring only five Pokémon for a Pokémon Egg later.
+
+2. **1F**
+   - **Available Pokémon**: Zubat, Golbat, Geodude, Graveler, Onix.
+   - **Instructions**: Go down left stairs to B1F.
+
+3. **B1F**
+   - **Available Pokémon**: Golbat, Graveler, Onix, Sableye (Dual-slot), Mawile (Dual-slot).
+   - **Items**: Protector, Yellow Shard, Escape Rope, Max Repel, Revive, Star Piece.
+   - **Tip**: Collect items and face trainers; take right stairs to B2F.
+
+4. **B2F**
+   - **Available Pokémon**: Graveler, Steelix (rare), and gift Pokémon Riolu (Egg).
+   - **Items**: Elixir, TM23 (Iron Tail), various hidden Star Pieces.
+   - **Tip**: Team up with Riley for battles; he heals you after each fight.
+
+5. **Final Area**
+   - **Items**: Shiny Stone, Metal Coat, Nugget in Registeel's cave.
+   - **Tip**: Use elevator to exit and return to Canalave City for the Mine Badge.
+
+### Canalave Gym
+1. **Overview**: Steel-type Gym with a maze layout.
+   - **Strategy**: Use Fire, Ground, Fighting, and Special attacks against Steel Pokémon.
+   - **Instructions**: Navigate through elevators to reach Byron on 4F.
+
+2. **Byron's Team**:
+   - Magneton (Lv. 37) - weak to Fire/Ground.
+   - Steelix (Lv. 38) - avoid Earthquake with Fire-types.
+   - Bastiodon (Lv. 41) - vulnerable to Fighting/Ground attacks.
+   - **Reward**: Mine Badge and TM91 (Flash Cannon).
+
+### Canalave City
+- **Post-Gym**: Meet Barry at Canalave Library; discuss Lake guardians.
+- **Next Objective**: Go to Lake Valor, where Team Galactic is causing trouble.
+
+### Oreburgh Gate (Optional)
+- **Items**: Earth Plate, TM01 (Focus Punch) accessible now with Strength.
+
+### Lake Valor
+- **Situation**: Team Galactic has dried up the lake using a bomb.
+- **Battles**: Defeat Galactic Grunts to enter Valor Cavern and face Commander Saturn.
+  - **Saturn's Team**:
+    - Golbat (Lv. 38) - weak to Electric/Rock.
+    - Bronzor (Lv. 38) - weak to Fire.
+    - Toxicroak (Lv. 40) - weak to Psychic, Ground, and Flying.
+- **Post-Battle**: Head to Lake Verity after defeating Saturn.
+
+This concise guide captures essential instructions, items, and battle strategies for progressing through Iron Island, Canalave Gym, and Lake Valor.

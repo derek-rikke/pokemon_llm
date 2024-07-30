@@ -1,0 +1,1248 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_16
+Keywords: Route 126, Sootopolis City, Cave of Origin, Route 129, Route 130, Route 131, Pacifidlog Town
+
+Walkthrough Text:
+Contents
+1
+Route 126
+2
+Sootopolis City (first visit)
+2.1
+A Battle of Legends
+2.2
+Catch Up with Steven
+3
+Cave of Origin
+3.1
+Entrance
+3.2
+1F
+3.3
+B1F
+4
+Route 129
+5
+Route 130
+5.1
+Mirage Island
+6
+Route 131
+7
+Pacifidlog Town (optional)
+7.1
+An Old Legend
+7.2
+Mirage Man
+7.3
+Move Tutor
+7.4
+Time for a Trade
+7.5
+Friendship is Everything
+Route 126
+Route 126
+Route 126 (underwater)
+The waters of
+Route 126
+surround a massive crater, inside of which lies
+Sootopolis City
+. There's no way to reach the city from the surface, but an entrance is hidden beneath the waves in the southern area.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Leonardo
+Reward:
+$
+272
+Potential
+Double Battle
+with Isobel
+Carvanha
+♂
+Lv.
+34
+No item
+Triathlete
+Isobel
+Reward:
+$
+1360
+Potential
+Double Battle
+with Leonardo
+Staryu
+Lv.
+34
+No item
+Swimmer
+Dean
+Reward:
+$
+248
+Carvanha
+♂
+Lv.
+31
+No item
+Wingull
+♂
+Lv.
+31
+No item
+Carvanha
+♂
+Lv.
+31
+No item
+Swimmer
+Nikki
+Reward:
+$
+264
+Marill
+♀
+Lv.
+33
+No item
+Spheal
+♀
+Lv.
+33
+No item
+Swimmer
+Barry
+Reward:
+$
+272
+Gyarados
+♂
+Lv.
+34
+No item
+Swimmer
+Sienna
+Reward:
+$
+264
+Potential
+Double Battle
+with Pablo
+Luvdisc
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Triathlete
+Pablo
+Reward:
+$
+1320
+Potential
+Double Battle
+with Sienna
+Staryu
+Lv.
+33
+No item
+Staryu
+Lv.
+33
+No item
+Requires
+Dive
+Swimmer
+Brenda
+Reward:
+$
+272
+Goldeen
+♀
+Lv.
+34
+No item
+Rematch
+Triathlete
+Pablo
+*
+Reward:
+$
+1480
+Staryu
+Lv.
+37
+No item
+Staryu
+Lv.
+37
+No item
+Triathlete
+Pablo
+*
+Reward:
+$
+1560
+Wingull
+♂
+Lv.
+39
+No item
+Staryu
+Lv.
+39
+No item
+Staryu
+Lv.
+39
+No item
+Triathlete
+Pablo
+*
+Reward:
+$
+1640
+Pelipper
+♂
+Lv.
+41
+No item
+Staryu
+Lv.
+41
+No item
+Staryu
+Lv.
+41
+No item
+Triathlete
+Pablo
+*
+Reward:
+$
+1720
+Pelipper
+♂
+Lv.
+43
+No item
+Starmie
+Lv.
+43
+No item
+Starmie
+Lv.
+43
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Green Shard
+Northwest corner of the route, accessible through an underwater passage from Route 124 (requires
+Dive
+)
+E
+Underwater
+Stardust
+Northeast dark spot (hidden)
+E
+Ultra Ball
+North-central dark spot (hidden)
+E
+Heart Scale
+Northwest dark spot (hidden)
+E
+Yellow Shard
+Far western area, in a clearing in a patch of seaweed (hidden)
+E
+Pearl
+Far western area, in a clearing in a patch of seaweed (hidden)
+E
+Iron
+Far western area, in a clearing in a patch of seaweed (hidden)
+E
+Blue Shard
+Very southwest area, in a patch of seaweed (hidden)
+E
+Big Pearl
+Among the seaweed on the crater's southeast side (hidden)
+E
+Sootopolis City (first visit)
+Sootopolis City
+Sootopolis City
+rises from the crater of an inactive volcano and can only be reached by sea or sky. The
+final Gym
+in the
+Hoenn League
+is located here, but there are more urgent matters to attend to first. With
+Hoenn
+'s weather becoming increasingly oppressive, you must race to the
+Cave of Origin
+and stop the super-ancient Pokémon from destroying the entire region! A girl named
+Kiri
+lives here and will give you two Berries each day, but she will not give out Berries while
+Groudon
+and
+Kyogre
+battle. If you visit Sootopolis City before completing
+Seafloor Cavern
+, you can collect all items here early (except
+HM07
+(
+Waterfall
+)). The Gym will still be closed.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+100%
+Magikarp
+R
+S
+E
+Fishing
+Super Rod
+30-35
+80%
+Gyarados
+R
+S
+E
+Fishing
+Super Rod
+5-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Note: No surfing Pokémon can appear during the battle between Groudon and Kyogre.
+A Battle of Legends
+When you surface inside the crater, you find
+Groudon
+and
+Kyogre
+locked in battle a short distance ahead. The unending shifts in weather have frightened many of the city's residents into their homes with their doors locked tight, while others brave the elements to witness the super-ancient Pokémon fighting.
+Maxie
+and
+Archie
+stand outside the Gym, which is also closed, begging the two Pokémon to stop their battle, but to no effect.
+Catch Up with Steven
+Surf westward from the Gym to a grassy shore to meet
+Steven
+. He assumes that your presence here means that you're prepared to become involved in this crisis, and has someone he would like you to meet. He leads you around to the north side of the crater and the entrance to the
+Cave of Origin
+. After a word with the guard, he asks you to search the cave for someone named
+Wallace
+.
+Cave of Origin
+Cave of Origin
+Cave of Origin, Entrance
+Cave of Origin, 1F
+Cave of Origin, B1F
+The
+Cave of Origin
+is said to hold a great source of ancient power. Whatever lies in its uncharted depths, it has drawn the attention of the super-ancient Pokémon. It must be stopped, and only you can save Hoenn from its destructive influence! No wild Pokémon appear in Wallace's room.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrance
+Zubat
+R
+S
+E
+Cave
+28-35
+90%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+1F
+Zubat
+R
+S
+E
+Cave
+30-34
+60%
+Sableye
+R
+S
+E
+Cave
+30, 32, 34
+30%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Entrance
+There's not a moment to lose! Sprint down the entry hall to reach the cave's interior.
+1F
+Head in a clockwise direction to reach the ladder in the northeast.
+B1F
+The lowest floor is lined with sapphires and rubies. Visit the south side of this mist-filled room to meet
+Wallace
+. He was once the
+Sootopolis Gym
+Leader, but something came up that caused him to leave the Gym in the care of his mentor,
+Juan
+. According to Wallace,
+Groudon
+and
+Kyogre
+are not the only super-ancient Pokémon—there is a third somewhere, named
+Rayquaza
+. It's believed that it was Rayquaza that becalmed the two combatants in the distant past, but even Wallace can't be sure where it's located now. He asks if you might know where it is, and after you mention
+Sky Pillar
+, he sets off in search of the ancient creature. To follow him, you'll need to trek through the southeast ocean beginning with
+Route 129
+.
+Note: the entrance to the Cave of Origin is blocked for the rest of the game after awakening Rayquaza.
+Route 129
+Route 129
+Route 129
+lies to the south of
+Route 128
+. The several Trainers found here make it a worthwhile place to explore.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Reed
+Reward:
+$
+264
+Spheal
+♂
+Lv.
+33
+No item
+Sharpedo
+♂
+Lv.
+33
+No item
+Triathlete
+Chase
+Reward:
+$
+1360
+Wingull
+♂
+Lv.
+26
+No item
+Staryu
+Lv.
+34
+No item
+Triathlete
+Allison
+Reward:
+$
+1320
+Wingull
+♀
+Lv.
+27
+No item
+Staryu
+Lv.
+33
+No item
+Swimmer
+Clarence
+Reward:
+$
+272
+Potential
+Double Battle
+with Tisha
+Sharpedo
+♂
+Lv.
+34
+No item
+Swimmer
+Tisha
+Reward:
+$
+272
+Potential
+Double Battle
+with Clarence
+Chinchou
+♀
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+4%
+Wailord
+R
+S
+E
+Surfing
+25-30
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 130
+Route 130
+Route 130, with Mirage Island
+Route 130
+is a short, straightforward route that links Routes
+129
+and
+131
+. The waterway is occasionally occupied by
+Mirage Island
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Rodney
+Reward:
+$
+272
+Gyarados
+♂
+Lv.
+34
+No item
+Swimmer
+Katie
+Reward:
+$
+264
+Potential
+Double Battle
+with Santiago
+Goldeen
+♀
+Lv.
+33
+No item
+Spheal
+♀
+Lv.
+33
+No item
+Swimmer
+Santiago
+Reward:
+$
+264
+Potential
+Double Battle
+with Katie
+Tentacruel
+♂
+Lv.
+33
+No item
+Wailmer
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mirage Island
+Wynaut
+R
+S
+E
+Grass
+5, 10, 15, 20, 25, 30, 35, 40, 45, 50
+100%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Liechi Berry
+Soft soil patch on Mirage Island
+E
+Mirage Island
+While
+Route 130
+usually appears as a simple stretch of ocean, it is sometimes home to a strange island that seems to appear and disappear. This rare island is inhabited only by
+Wynaut
+, which range in level from 5 to 50. A soft soil patch on the island's east side holds a single
+Liechi Berry
+tree. This is the best Berry to use in
+Pokéblocks
+, as it will produce Gold Pokéblocks.
+Route 131
+Route 131
+Route 131
+lies between
+Route 130
+to the east and
+Pacifidlog Town
+to the west. There are no underwater trenches in this stretch of ocean, but several Trainers on the surface are looking to battle. On the route's north side is a large island that is home to the towering
+Sky Pillar
+.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Kevin
+Reward:
+$
+272
+Potential
+Double Battle
+with Talia
+Spheal
+♂
+Lv.
+34
+No item
+Triathlete
+Talia
+Reward:
+$
+1360
+Potential
+Double Battle
+with Kevin
+Staryu
+Lv.
+34
+No item
+Swimmer
+Richard
+Reward:
+$
+272
+Pelipper
+♂
+Lv.
+34
+No item
+Swimmer
+Kara
+Reward:
+$
+272
+Seaking
+♀
+Lv.
+34
+No item
+Swimmer
+Herman
+Reward:
+$
+264
+Wingull
+♂
+Lv.
+33
+No item
+Tentacruel
+♂
+Lv.
+33
+No item
+Swimmer
+Susie
+Reward:
+$
+272
+Luvdisc
+♀
+Lv.
+34
+No item
+Sis and Bro
+Reli & Ian
+Reward:
+$
+792
+Azumarill
+♂
+Lv.
+35
+No item
+Wingull
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pacifidlog Town (optional)
+Pacifidlog Town
+After chasing
+Team Aqua
+out of
+Lilycove City
+, you can visit
+Pacifidlog Town
+and the three routes to the west anytime you want a rest from the action. This town is a humble community resting on the calm waters of eastern
+Hoenn
+. These floating homes surround a central Pokémon Center, where weary Trainers can catch a break from the waves.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+25-35
+40%
+Special Pokémon
+Horsea
+R
+S
+E
+Trade
+Bagon
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM21
+(
+Frustration
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's
+friendship
+is low (one TM per week)
+E
+TM27
+(
+Return
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is high (one TM per week)
+E
+Wave Mail
+Held by Seasor, the traded
+Horsea
+E
+An Old Legend
+Visit the northeast house and talk to the girl inside. She tells you a mysterious bit of wisdom passed down from her grandfather:
+Six dots open three doors
+. Her father also remembers hearing tales of three Pokémon representing the powers of
+Rock
+,
+Ice
+, and
+Steel
+. It seems that Hoenn still has some secrets to discover!
+Mirage Man
+The old man in the southeast house spends his time by scanning the horizon for
+Mirage Island
+. Speak with him every day to learn if the island has appeared.
+Move Tutor
+Visit the Pokémon Center and speak to the young man near the entrance. He offers to teach the move
+Explosion
+to a Pokémon, one time only.
+Time for a Trade
+The boy in the south-central house is having trouble catching different Pokémon around town. He wishes to trade his
+Horsea
+for a
+Bagon
+. Horsea can be found on Routes
+132
+,
+133
+, and
+134
+to the west, while Bagon can only be found in
+Meteor Falls
+.
+Friendship is Everything
+Stop by the southwest house to meet the brother of the Pokémon Fan Club chairman. Have him evaluate your relationship with your lead Pokémon, and he'll reward your friendship with
+TM27
+(
+Return
+). If your Pokémon is unfriendly toward you, he'll give you
+TM21
+(
+Frustration
+) instead.
+← Part 15
+Shoal Cave, Route 127, Route 128, Seafloor Cavern
+Emerald
+walkthrough
+Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

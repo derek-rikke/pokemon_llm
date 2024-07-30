@@ -1,0 +1,50 @@
+Game: FireRed_and_LeafGreen
+Part: 7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+**Part 7: Route 11 to Route 10 (North)**
+
+**Route 11**
+- This route connects Vermilion City to Route 12, with Diglett's Cave leading to Route 2.
+- **Trainers**: Battle Youngster Eddie (Ekans Lv. 21), Gamer Hugo (Poliwag, Horsea Lv. 18), Engineer Bernie (Magnemite, Magneton Lv. 18), and more.
+- **Items**: 
+  - *Awakening*: Northwest
+  - *X Defend*: Middle of the route
+  - *Great Ball*: South of the gate
+  - *Escape Rope*: On a rock north of the gate (hidden)
+  
+- **Treasure**: Speak to the Scientist at the east gate for the Itemfinder after catching 30 species.
+- **Trade**: Near Oak's aide, trade Nidorina (FR) or Nidorino (LG) for its counterpart.
+
+**Diglett's Cave**
+- Connects Route 11 to Route 2; catch Diglett (Lv. 15-22) and Dugtrio (Lv. 29, 31).
+
+**Route 2 (East)**
+- Accessible with HM01 (Cut) after Diglett's Cave.
+- **Items**: 
+  - *HM05 (Flash)*: From Oak's aide after catching 10 species
+  - *Ether*: South of the gate
+  - *Parlyz Heal*: South of the second ledge
+- **Trade**: Trade Abra for Mr. Mime in the northeast house.
+
+**Pewter City**
+- Use Cut to access the museum's employee area for the *Old Amber*.
+- **Next Steps**: Return to Cerulean City; either go through Mt. Moon or Diglett's Cave.
+
+**Route 9**
+- Rocky path connecting Cerulean City and Route 10.
+- **Trainers**: Battle various trainers like Picnicker Alicia (Oddish, Bellsprout Lv. 18) and Hiker Jeremy (Machop, Onix Lv. 20).
+- **Items**: 
+  - *TM40 (Aerial Ace)*: Southwest corner
+  - *Ether*: Northwest (hidden)
+  - *Burn Heal*: Southeast corner
+  - *Rare Candy*: Northeast corner (hidden)
+
+**Route 10 (North)**
+- Links Route 9 to Lavender Town; features Rock Tunnel.
+- **Trainers**: Battle Picnicker Heidi (Pikachu, Clefairy Lv. 20) and PokéManiac Mark (requires Surf).
+- **Items**: 
+  - *Everstone*: From Oak's aide in the Pokémon Center after catching 20 species.
+  - *Super Potion*: East of Rock Tunnel’s north entrance (hidden, requires Cut).
+
+Before entering Rock Tunnel, ensure to speak to Oak's aide for the Everstone, which prevents Pokémon from evolving.

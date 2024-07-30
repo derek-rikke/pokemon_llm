@@ -1,0 +1,294 @@
+Part: Part 24
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_24
+Keywords: Twinleaf Town, Sandgem Town, Pokemon Research Lab — Upgrading Pokédex, Pokemon Swarm
+
+Walkthrough Text:
+Contents
+1
+Back at Home -- Twinleaf Town
+2
+Sandgem Town
+3
+Pokémon Research Lab-- Upgrading Pokédex to National Pokédex
+3.1
+I missed some Pokémon!
+3.1.1
+Unown
+3.1.2
+Riolu
+3.1.3
+Opposite game mascot
+3.1.4
+Optional Pokémon: Manaphy
+3.2
+Afterwards......
+4
+Pokémon Swarm
+Back at Home -- Twinleaf Town
+Congratulations! You have become the Champion and advanced to the After Game storyline.
+You'll start in your room at home, in
+Twinleaf Town
+, just like the start of your game. (Every time you beat the Pokémon League, you'll start here again.)
+Check your Trainer Card. You'll find that a star is added and the colour of your Card changed. Turn to your back and you'll find the record "Hall Of Fame Debut".
+Check your Pokédex. You'll also find that you've seen all 150 Pokémon...... no,
+the first 150
+Pokémon in
+Sinnoh Pokédex
+, but only if you strictly followed this walkthrough and faced all Trainers. If you have completed, great job! However, there are a lot of Pokémon for you to see, not just only 150...... But anyway. You should tell this to
+Professor Rowan
+. So, get ready and head downstairs.
+Your Mom will tell you that
+Rival
+Barry
+has gone to the
+Battle Zone
+. The Battle Zone is the island northeast of the main part of Sinnoh Region. You can access there by taking a ship in
+Snowpoint City
+, but for now, you cannot do much. Head to
+Sandgem Town
+(where the Pokémon Research Lab is) first.
+Sandgem Town
+You'll see Prof. Rowan's aide Dawn/Lucas outside the Pokémon Research Lab. She/He will congratulate you. Head to the Pokémon Centre and boot up the PC. Access "Rowan's PC". If you've seen all of the first 150 Pokémon in Sinnoh, Prof. Rowan will tell you to come over to the Lab!
+Pokémon Research Lab-- Upgrading Pokédex to National Pokédex
+Talk to Prof. Rowan. He tells you that he has been waiting.
+Professor Oak
+then comes in. The 2 professors joke around. After that, Prof. Oak upgrades your Pokédex with National Mode!
+Afterwards, Prof. Oak will say that
+Pal Park
+is now open and hurries off for a meeting.
+Finally, Prof. Rowan will give you a
+Poké Radar
+for you to catch special Pokémon in grass.
+I missed some Pokémon!
+Check your Pokédex and hunt down the Pokémon that you haven't seen yet. There are some Pokémon that are easily omitted, especially 3 of them.
+Unown
+Go to
+Solaceon Ruins
+and enter a wild Pokémon battle. No
+Trainers
+use Unown and the only place to see it is Solaceon Ruins.
+Riolu
+If you don't have the patience to hatch the Riolu egg, didn't get the egg from
+Riley
+, or didn't even visit
+Iron Island
+, you'll have to see one in the basement of
+Oreburgh Gate
+. Surf west and you can fight
+Veteran
+Grant to see one. Refer to Section 13 for details.
+Opposite
+game mascot
+You can see the picture of
+Palkia
+D
+or
+Dialga
+P
+in
+Celestic Town
+after catching your game mascot. Refer to Section 20 for details. If you have seen 149 Pokémon and this is the only one unseen, Dawn/Lucas will inform you that
+Cynthia
+'s grandmother wants you to visit her.
+Optional Pokémon:
+Manaphy
+Here is a special note about the optional Pokémon for completing the
+Sinnoh Dex
+.
+Mythical Pokémon
+Manaphy-- which is a member of the
+Sea guardians
+, is the last entry in
+Sinnoh Dex
+, numbered as #151. It is the
+only optional Pokémon
+for the completion of Sinnoh Dex, but all other 150 Pokémon are compulsory. What does it mean? If you somehow possess Manaphy, all 151 Pokémon included by the Sinnoh Dex must be seen before you can obtain the National Dex. If you have Manaphy, but have not seen any of the required 150 Pokémon, you will not obtain the National Mode upgrade.
+You don't really need to freak out about missing this one. But if you really want to have Manaphy, a game that belongs to the Pokémon Ranger series is required. Complete a special mission through
+Ranger Net
+and transfer the Manaphy egg (which has a unique sprite as opposed to other eggs) to this game. Hatch the egg to obtain Manaphy.
+Afterwards......
+There are many more things for you to do:
+Explore Battle Zone
+Catch some new Pokémon
+Pokémon Swarm
+Poké Radar
+Pokémon Mansion
+Legendary Pokémon
+Go to
+Pal Park
+Explore
+Route 224
+Collect
+Diploma
+You can now really explore Battle Zone, but you still have something to do in the main part of Sinnoh! Why wouldn't you finish these things first?
+This walkthrough will start from swarming Pokémon.
+Pokémon Swarm
+Now that you got the National Pokedex,
+Jubilife TV
+will have a News Flash to tell you that there is a swarm (also known as mass outbreak) of Pokémon at somewhere in the region.
+Dawn
+/
+Lucas
+'s sister will also tell you about the swarm. To find her, go to Dawn's/Lucas' house in
+Sandgem Town
+.
+The outbreak will let you catch some previously unavailable Pokémon. The swarm lasts for a day and expires at midnight (12:00AM). The next day, another swarm of Pokémon will appear.
+Available Pokémon (Swarm)
+Pokémon
+Location
+Levels
+Game
+Pidgey
+Route 229
+51
+D
+P
+Magnemite
+Fuego Ironworks
+28, 29
+D
+P
+Farfetch'd
+Route 221
+28
+D
+P
+Doduo
+Route 201
+2
+D
+P
+Drowzee
+Route 215
+20, 21
+D
+P
+Krabby
+Route 226
+49–52
+D
+P
+Voltorb
+Route 218
+28, 29
+D
+P
+Cubone
+Route 203
+4
+D
+P
+Lickitung
+Lake Valor
+34–36
+D
+P
+Natu
+Route 224
+53
+D
+P
+Dunsparce
+Route 208
+18
+D
+P
+Snubbull
+Route 209
+16
+D
+P
+Swinub
+Route 217
+34
+D
+P
+Corsola
+Route 230
+50
+D
+P
+Delibird
+Route 216
+32
+D
+P
+Phanpy
+Route 207
+5, 7
+D
+P
+Smoochum
+Lake Acuity
+35
+D
+P
+Zigzagoon
+Route 202
+3
+D
+P
+Surskit
+Lake Verity
+2
+D
+P
+Slakoth
+Eterna Forest
+10,11
+D
+P
+Makuhita
+Route 225
+48-51
+D
+P
+Nosepass
+Route 206
+14
+D
+P
+Skitty
+Route 222
+40
+D
+P
+Electrike
+Valley Windworks
+7,9,10
+D
+P
+Spoink
+Route 214
+22, 23
+D
+P
+Spinda
+Route 227
+55
+D
+P
+Absol
+Route 213
+20
+D
+P
+Beldum
+Route 228
+51-54
+D
+P
+Next "stop", Poké Radar Pokémon.
+← Part 23
+Final Preparation, VS Elite Four, VS Champion, Hall Of Fame
+Diamond and Pearl
+walkthrough
+Poke Radar, Pal Park, Dual-slot, Hearthome City, Pokemon Mansion, Pokemon League
+Part 25 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

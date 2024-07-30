@@ -1,0 +1,642 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_2
+Keywords: Violet City, Sprout Tower, Route 32, Union Cave, Route 33, Azalea Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cherrygrove City
+1.1
+City Tour
+1.2
+Pokémon Center
+1.3
+Poké Mart
+1.4
+One More Thing
+2
+Route 30
+2.1
+Southern house
+2.2
+Mr. Pokémon's house
+2.3
+A Terrible Tale
+3
+Cherrygrove City
+3.1
+Ambush!
+3.2
+Rival Battle 1
+3.2.1
+If the player chose Chikorita:
+3.2.2
+If the player chose Cyndaquil:
+3.2.3
+If the player chose Totodile:
+4
+New Bark Town
+4.1
+Professor Elm's Lab
+4.2
+Home
+4.2.1
+Safeguard Your Savings
+5
+Route 29
+5.1
+How to Catch a Pokémon
+Cherrygrove City
+Cherrygrove City
+The Pokégear's Map
+Cherrygrove City
+is a small city between
+Route 29
+to the east and
+Route 30
+to the north. The air is filled with the smell of flowers and the salty sea breeze.
+Items
+Item
+Location
+Games
+Running Shoes
+From Guide Gent outside his home, after taking the city tour
+HG
+SS
+Map Card
+From Guide Gent at the exit to
+Route 30
+, after taking the city tour
+HG
+SS
+Later visit
+Mystic Water
+From the man on the island (requires
+Surf
+)
+HG
+SS
+Nugget
+×2
+East of the Pokémon Center, accessed via the southeast pond on
+Route 30
+(hidden; requires
+Surf
+)
+On the northwest cliff (hidden; requires
+Surf
+,
+Rock Climb
+)
+HG
+SS
+City Tour
+An elderly man known by his nickname, Guide Gent, can be found on the east side of town. When you attempt to pass by, he stops you. Recognizing you as a rookie Trainer, he offers to explain a few things. He rushes ahead with
+a tour
+, but hurries back when he realizes that you are not wearing any
+Running Shoes
+. He points out the
+Pokémon Center
+, the
+Poké Mart
+, the path to
+Route 30
+, and the sea, before ending the tour outside his home. To reward you for keeping up with him, he gives you a pair of Running Shoes.
+The Sprint button now appears on the Touch Screen.
+He relays the instructions: by toggling the Sprint Button on the Touch Screen, or by holding the B Button, a pair of Running Shoes allows the wearer to move at twice the speed of walking.
+Pokémon Center
+The first building you will see is the
+Pokémon Center
+. This Pokémon hospital will heal your team to full health and eliminate any status ailments they may have. Each facility also has a PC for Trainers to use, where they can access their Pokémon storage,
+Mailbox
+, and use
+Seals
+to decorate their Poké Balls. As Trainers may only carry six Pokémon with them at once, any others are immediately transferred to storage upon capture. It is a good idea to heal up and save your progress whenever you find a Pokémon Center.
+Poké Mart
+Another shop sits to the west of the Pokémon Center. This is the local
+Poké Mart
+; these stores offer a variety of Poké Balls, Potions, and other items. It is helpful to stock up on supplies whenever possible, as there is no telling what you may run into on your journey.
+Lower cashier (Generation IV)
+Poké Ball
+After catching tutorial on
+Route 29
+$
+200
+Potion
+$
+300
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Upper cashier (Generation IV)
+Air Mail
+After catching tutorial on
+Route 29
+$
+50
+Heal Ball
+After catching tutorial on
+Route 29
+$
+300
+One More Thing
+When you approach the north exit to
+Route 30
+, you are stopped by Guide Gent. He forgot to give you something, and hands you a
+Map Card
+to add to your
+Pokégear
+. This expansion card acts as a
+Town Map
+, allowing you to view the entire region. It even displays your current location!
+Route 30
+Route 30
+Running north from
+Cherrygrove City
+,
+Route 30
+is a grassy path where many novice Trainers like to battle. The road diverges as it moves northward; the eastern branch leads to a clearing with
+Mr. Pokémon
+'s house, while the western branch leads uphill to
+Route 31
+. A battle between Pokémon Trainers initially blocks the western path.
+Trainers
+Trainer
+Pokémon
+Youngster
+Joey
+Reward:
+$
+64
+Rattata
+♂
+Lv.
+4
+No item
+Youngster
+Mikey
+Reward:
+$
+64
+Pidgey
+♂
+Lv.
+2
+No item
+Rattata
+♂
+Lv.
+4
+No item
+Bug Catcher
+Don
+Reward:
+$
+48
+Caterpie
+♂
+Lv.
+3
+No item
+Caterpie
+♂
+Lv.
+3
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+HG
+SS
+Grass
+3-4
+50%
+35%
+0%
+Metapod
+HG
+SS
+Grass
+4
+10%
+15%
+0%
+Weedle
+HG
+SS
+Grass
+3-4
+50%
+35%
+0%
+Kakuna
+HG
+SS
+Grass
+4
+10%
+15%
+0%
+Pidgey
+HG
+SS
+Grass
+2, 4
+40%
+50%
+0%
+Pidgey
+HG
+SS
+Grass
+4
+10%
+0%
+0%
+Pidgey
+HG
+SS
+Grass
+3, 4
+0%
+50%
+0%
+Rattata
+HG
+SS
+Grass
+3-4
+0%
+0%
+40%
+Hoothoot
+HG
+SS
+Grass
+4
+0%
+0%
+30%
+Hoothoot
+HG
+SS
+Grass
+3-4
+0%
+0%
+60%
+Ledyba
+HG
+SS
+Grass
+3
+30%
+0%
+0%
+Spinarak
+HG
+SS
+Grass
+2
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+×2
+East of the southernmost patch of grass
+West branch; in the flowerbed east of the Trainer Tips sign (hidden)
+HG
+SS
+Apricorn Box
+From the man in the southern house
+HG
+SS
+Grn Apricorn
+On the tree next to the southern house (daily)
+HG
+SS
+Antidote
+Between the southern house and the fork in the road
+HG
+SS
+Pink Apricorn
+East branch; on the tree to the west of Mr. Pokémon's house (daily)
+HG
+SS
+Mystery Egg
+Northeast house; from Mr. Pokémon
+HG
+SS
+Pokédex
+Northeast house; from Professor Oak, after obtaining the Mystery Egg
+HG
+SS
+Later visit
+HP Up
+From Youngster Joey, after defeating him in a rematch
+HG
+SS
+Exp. Share
+Northeast house; from Mr. Pokémon, in exchange for the
+Red Scale
+HG
+SS
+Blue Orb
+Northeast house; from Mr. Pokémon, after obtaining a
+Kanto
+first partner Pokémon
+from Professor Oak
+HG
+Red Orb
+Northeast house; from Mr. Pokémon, after obtaining a
+Kanto
+first partner Pokémon
+from Professor Oak
+SS
+Southern house
+Visit the southernmost house and speak to the man inside. He says that most people that stop by are actually looking for
+Mr. Pokémon
+'s house, instead. He asks if you have any Apricorns, and explains a bit about them. Realizing that you have nothing to keep them in, he gives you an
+Apricorn Box
+. This box allows you to pick and store Apricorns, with enough room for 99 of each of the seven varieties.
+Mr. Pokémon's house
+Visit the house in the northeast clearing to meet
+Mr. Pokémon
+. He recognizes you right away as an associate of
+Professor Elm
+, and gives you the
+Mystery Egg
+. He says that he obtained the Egg from a friend of his from
+Ecruteak City
+. Elm is the authority on Pokémon
+evolution
+, which is why he contacted him about the Egg, and even Mr. Pokémon's guest agrees. Mr. Pokémon heals your Pokémon before the man introduces himself as
+Professor Oak
+, and notices that Elm entrusted you with your
+first partner Pokémon
+. Seeing that you are dependable, Oak decides to give you a
+Pokédex
+.
+The Pokédex button now appears on the Touch Screen.
+This handheld device is a high-tech encyclopedia that records data on every Pokémon you encounter, and will be complete when you catch a member of every species. Oak exchanges phone numbers with you, then leaves for his radio show in
+Goldenrod City
+.
+A Terrible Tale
+When you step back outside,
+Professor Elm
+calls in a state of panic. He is too upset to describe what has happened, so hurry back to
+New Bark Town
+to investigate!
+Cherrygrove City
+Ambush!
+When you reach the east side of
+Cherrygrove City
+,
+the young, red-haired man
+that was spying on
+Elm
+'s Lab ambushes you. He knows that you received a Pokémon from the Lab, and calls it a waste for a wimp like you to have one of Elm's rare Pokémon. It turns out that he also has a Pokémon, and draws you into battle.
+Rival Battle 1
+When battling, each Trainer sends out one Pokémon at a time; both of these particular Pokémon are on
+Level
+5, indicated by the
+Lv5
+aside each Pokémon. Below that is the health bar, which shows the Pokémon's remaining
+HP
+. A battle is won or lost when either side has no remaining Pokémon with the strength to continue.
+Choosing
+Fight
+will allow you to launch an attack against the target. Both combatants have two moves. The first will damage the opponent, and the other will lower one of its stats. If your Pokémon's HP runs low, be sure to use a Potion. Go to
+Bag
+to select the medicine and apply it to the Pokémon.
+If the player chose
+Chikorita
+:
+Passerby
+Boy
+Cherrygrove City
+HeartGold and SoulSilver
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Cyndaquil
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Cyndaquil
+:
+Passerby
+Boy
+Cherrygrove City
+HeartGold and SoulSilver
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Totodile
+♂
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Totodile
+:
+Passerby
+Boy
+Cherrygrove City
+HeartGold and SoulSilver
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Chikorita
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Once you have defeated
+him
+, you earn a cash reward of
+$
+500 and your Pokémon earns valuable
+Experience Points
+. He leaves, but returns a moment later to retrieve the
+Trainer Card
+that he dropped and is annoyed to find that you saw his name on it. He leaves a second time, leaving you free to continue on to Elm's Lab.
+New Bark Town
+Professor Elm's Lab
+Back in
+New Bark Town
+, you return to the laboratory to find a police officer questioning the professor. One of his
+rare Pokémon
+was stolen by
+a young man with long, red hair
+! The officer believes that the culprit will always return to the scene of the crime, and assumes you to be the guilty party before
+Lyra
+/
+Ethan
+intervenes. She/He points out the red-haired boy as the true thief, and upon hearing that you battled a Trainer matching this description, the officer asks if you happened to catch his name. As with the
+player character
+, the
+rival
+'s name may be up to seven characters long. Once the officer and your friend leave,
+Professor Elm
+asks about
+Mr. Pokémon
+'s discovery. He accepts the
+Mystery Egg
+and intends to keep it for a while in order to study it. He is pleased to hear that
+Professor Oak
+gave you a
+Pokédex
+. He suggests taking the
+Pokémon Gym
+challenge, with the nearest one being located in
+Violet City
+. The road to becoming a
+Pokémon Champion
+will be a long one, so he advises you to stop at home before setting off.
+Home
+Safeguard Your Savings
+Speak to
+Mom
+, who is excited to see your new Pokémon. Realizing that you are headed off on an adventure, she offers to save your money for you. If all of your Pokémon faint during battle, you will
+black out
+and lose some of your money, but anything left with Mom is safe. If you accept her offer, 25% of the prize money won from each battle will automatically be sent to her. Money can be deposited with or withdrawn from her at any time. For every
+$
+10,000 of savings on-hand, she will occasionally call to say that she has bought
+an item or a bundle of five Berries
+, then apologizes for spending the money she is saving. There is no limit to the number of Berries that may be obtained, but other items can only be obtained once.
+Route 29
+How to Catch a Pokémon
+When you return to
+Route 29
+,
+Lyra
+/
+Ethan
+is waiting for you. She/He and Marill lead you into the
+tall grass
+, where they demonstrate how to catch a wild Pokémon by lowering the target's
+HP
+before throwing a Poké Ball. She/He also mentions how inflicting status ailments like
+Sleep
+and
+Paralysis
+help to increase the odds of a successful capture. With the demonstration complete, she/he hands you five
+Poké Balls
+to start you on your journey. From this point on, you are able to purchase them for yourself in most
+Poké Marts
+.
+By this point, the Trainer battle that blocked
+Route 30
+'s western branch has ended. Continue north from
+Cherrygrove City
+to reach
+Route 31
+.
+← Part 1
+New Bark Town, Route 29
+HeartGold and SoulSilver
+walkthrough
+Route 31, Violet City, Sprout Tower
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,45 @@
+Game: Sun_and_Moon
+Part: 16
+Keywords: Route 11, Route 12, Blush Mountain, Secluded Shore, Route 13
+
+**Part 16 Walkthrough Summary**
+
+**Malie City**
+- **Malie Garden**: After defeating Guzma, receive a Z-Crystal (Decidium Z, Incinium Z, or Primarium Z) from Professor Kukui based on your starter. Use Flying/Rock moves against Guzma's Bug Pokémon.
+
+**Route 11**
+- Connects Malie City to Route 12.
+- **Items**: 
+  - Big Mushroom (2) in grass patches
+  - Stardust (2) in second and third grass patches
+  - Quick Ball in northeastern grass patch.
+- **Trainers**: Battle Alyssa and Sho (Herdier, Fletchinder), Hayden (Stufful), Clayton (Hariyama).
+
+**Route 12**
+- Connects Route 11 to Blush Mountain.
+- **Hapu**: Registers Mudsdale Gallop for rocky terrain traversal.
+- **Items**: 
+  - Burn Heal, Elixir, Hyper Potion, X Attack, PP Up, TM77 (Psych Up), several Zygarde Cells.
+- **Trainers**: Fight Yoko & Lane (Pancham, Krokorok), Leilani (Tirtouga), Matthew (Cranidos), Jayson (Porygon, Magneton).
+
+**Blush Mountain**
+- Visit the Geothermal Power Plant.
+- **Trainers**: Shane (Psyduck, Fearow), Ishaan (Espeon).
+- **Items**: Zinc, Sun Stone, Timer Ball, Zygarde Cell, TM63 (Embargo), Lure Ball.
+
+**Secluded Shore**
+- Accessed from Route 12.
+- **Trainers**: Sara (Alomomola), Robert (Whiscash, Sandygast).
+- **Items**: Pearls and Big Pearls (regenerate), Zygarde Cells.
+
+**Route 13**
+- Links Route 12 with Haina Desert and Tapu Village.
+- **Items**: Max Potion (from Hau), Moon Stone, Guard Spec., TM12 (Taunt), Zygarde Cells.
+- **The Search for Cosmog**: Talk to Hau and Gladion about Team Skull's interest in Cosmog.
+
+**Gameplay Tips**
+- Focus on leveling Pokémon that counter Guzma's Bug type.
+- Utilize the healing Trial Guides on Routes 11 and 12.
+- Collect Zygarde Cells for future benefits.
+
+Continue to explore and prepare for the next trials and encounters!

@@ -1,0 +1,559 @@
+Part: Part 28
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_28
+Keywords: Mt. Silver
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mt. Silver Cave
+1.1
+1F
+1.2
+2F
+1.3
+Summit
+1.3.1
+VS Red
+Mt. Silver Cave
+Mt. Silver, 1F
+Mt. Silver, 2F
+C
+Mt Silver, 3F
+Mt. Silver
+is a hallowed mountain that rises up between
+Johto
+and
+Kanto
+.
+These caves
+are home to powerful Pokémon, so only certain Trainers deemed up to the challenge may enter.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+G
+S
+C
+Cave
+45
+5%
+Graveler
+G
+S
+C
+Cave
+43
+30%
+Onix
+G
+S
+C
+Cave
+42
+30%
+Ursaring
+G
+S
+C
+Cave
+44
+30%
+Donphan
+G
+S
+C
+Cave
+44
+30%
+Larvitar
+G
+S
+C
+Cave
+15, 20
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+G
+S
+C
+Cave
+48
+5%
+Golduck
+G
+S
+C
+Cave
+48
+30%
+Quagsire
+G
+S
+C
+Cave
+45
+40%
+40%
+30%
+Misdreavus
+G
+S
+C
+Cave
+45
+0%
+0%
+10%
+Ursaring
+G
+S
+C
+Cave
+47
+20%
+Donphan
+G
+S
+C
+Cave
+47
+20%
+Larvitar
+G
+S
+C
+Cave
+15, 20
+5%
+Surfing
+Seaking
+G
+S
+C
+Surfing
+35-44
+90%
+Goldeen
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Goldeen
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Goldeen
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Goldeen
+G
+S
+C
+Fishing
+Super Rod
+40
+70%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Seaking
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Summit
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+G
+S
+C
+Cave
+48, 51
+50%
+Golduck
+G
+S
+C
+Cave
+51
+5%
+Onix
+G
+S
+C
+Cave
+48
+30%
+Ursaring
+G
+S
+C
+Cave
+50
+10%
+Donphan
+G
+S
+C
+Cave
+50
+10%
+Larvitar
+G
+S
+C
+Cave
+15, 20
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+X Accuracy
+Rocky ridge in the southeast corner
+G
+S
+Escape Rope
+Southeast corner, between two ledges
+G
+S
+Dire Hit
+Southeast area, on a rock between two ledges (hidden)
+G
+S
+Max Elixer
+Northwest area, between two ledges
+G
+S
+Ultra Ball
+Dead-end path in the northeast area (hidden)
+G
+S
+2F
+Max Potion
+South-central area, on the lone rock (hidden)
+G
+S
+Max Revive
+Lower dead-end chamber, accessed via southern-most cave opening (requires
+Surf
+,
+Waterfall
+)
+G
+S
+Full Restore
+Upper dead-end chamber, accessed via northeastern cave opening (requires
+Surf
+,
+Waterfall
+)
+G
+S
+1F
+The first chamber is the only part of the cave that is dark enough that
+Flash
+is usable. Grab the
+Protein
+from the southeast ridge, then jump the ledge to the west to pick up an
+Escape Rope
+. Go north and walk along the C-shaped ridge to reach the center of the chamber. The northern-most ridge becomes a three-way intersection; take the western path to get a
+Max Elixer
+, then turn east and walk through the cave opening into the next chamber.
+2F
+Surf
+out into the water to the west, then use
+Waterfall
+. Climb onto the ridge and enter the cave opening to find a small, dead-end chamber with a
+Max Revive
+. Back in the main chamber, climb up the three stairways and continue northward along the rocky ridge. Pass by the north-central cave opening, then climb the second waterfall to reach the northeast area. The second dead-end tunnel holds a
+Full Restore
+. Sail back westward and enter the final cave opening.
+Summit
+Cross over the rocky land bridge to finally meet
+Red
+, former Champion of the
+Kanto
+region. He and his Pokémon have been in training here since he gave up his Champion title, and that training has resulted in each of his Pokémon reaching sky-high levels. Even with a type advantage, Red's Pokémon will not go down without a fight.
+VS Red
+Red
+leads with his
+Pikachu
+, which has already grown to level 81. Its powerful
+Electric-type
+attacks will inflict a great deal of damage to an unprepared target, but it is still vulnerable to
+Ground-type
+moves, like
+Earthquake
+. His
+Espeon
+is dangerous for any Pokémon with low
+Special Defense
+, so hit it with
+Bug
+-,
+Ghost
+-, or
+Dark-type
+attacks to knock it out quickly.
+Snorlax
+can restore its health with
+Rest
+, and even attack while asleep with
+Snore
+.
+Amnesia
+boosts its Special Defense, but
+Fighting-type
+attacks, its only weakness, are classified as
+physical moves
+anyway.
+Venusaur
+'s
+Sunny Day
+lets it recover even more health with
+Synthesis
+and launch
+SolarBeam
+without charging. A
+Grass-type
+Pokémon, it fares poorly in extreme heat or cold, so use
+Fire
+and
+Ice
+moves to wear it down. His
+Charizard
+takes massive damage from
+Rock-type
+attacks, but is also vulnerable to
+Water
+and Electric moves. Finally, his
+Blastoise
+falters against Grass and Electric attacks, but can retaliate against Grass Pokémon with
+Blizzard
+.
+P
+K
+M
+N
+Trainer
+Red
+Silver Cave
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+7700
+Type:
+Electric
+Unknown
+Held item:
+None
+Pikachu
+♂
+Lv.
+81
+Charm
+Normal
+--
+Quick Attack
+Normal
+--
+Thunderbolt
+Electric
+--
+Thunder
+Electric
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Espeon
+♂
+Lv.
+73
+Mud-Slap
+Ground
+--
+Swift
+Normal
+--
+Reflect
+Psychic
+--
+Psychic
+Psychic
+--
+Type:
+Normal
+Unknown
+Held item:
+None
+Snorlax
+♂
+Lv.
+75
+Amnesia
+Psychic
+--
+Snore
+Normal
+--
+Rest
+Psychic
+--
+Body Slam
+Normal
+--
+Types:
+Grass
+Poison
+Held item:
+None
+Venusaur
+♂
+Lv.
+77
+Sunny Day
+Fire
+--
+Giga Drain
+Grass
+--
+Synthesis
+Grass
+--
+SolarBeam
+Grass
+--
+Types:
+Fire
+Flying
+Held item:
+None
+Charizard
+♂
+Lv.
+77
+Flamethrower
+Fire
+--
+Wing Attack
+Flying
+--
+Slash
+Normal
+--
+Fire Spin
+Fire
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Blastoise
+♂
+Lv.
+77
+Rain Dance
+Water
+--
+Blizzard
+Ice
+--
+Surf
+Water
+--
+Whirlpool
+Water
+--
+After the battle,
+Red
+pauses for a moment in stunned silence. Then, in the blink of an eye, he disappears. He is not gone for good though, as defeating the Elite Four and Champion again will cause him to reappear here. The credits roll for the second time, and you resume your adventure in front of the
+Mt. Silver
+Pokémon Center.
+Having scaled the mountain and defeated the legendary Trainer, the final remaining task is to complete the Pokédex.
+Pokémon Gold and Silver
+brought the total number of Pokémon up to 251, so there is plenty of training left to do!
+← Part 27
+Route 22, Route 28
+Gold and Silver
+walkthrough
+Tying Loose Ends: Tin Tower, Whirl Islands, Mt. Mortar
+Part 29 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

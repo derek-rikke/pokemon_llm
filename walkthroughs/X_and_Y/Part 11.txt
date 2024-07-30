@@ -1,0 +1,1963 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_11
+Keywords: Lysandre Labs, Geosenge Town, Team Flare Secret HQ
+
+Walkthrough Text:
+Contents
+1
+Lumiose City
+1.1
+Lysandre Café
+1.2
+Lysandre Labs
+1.2.1
+B1F
+1.2.1.1
+Central room
+1.2.1.2
+NW office
+1.2.1.3
+Central room
+1.2.1.4
+West room
+1.2.1.5
+Central room
+1.2.1.6
+NE room
+1.2.1.7
+Central room
+1.2.1.8
+Eastern room
+1.2.2
+B2F
+1.2.3
+B3F
+2
+Geosenge Town
+2.1
+Enter the HQ
+2.2
+Team Flare Secret HQ
+2.2.1
+1F
+2.2.2
+Hallway
+2.2.3
+Basement
+2.3
+Aftermath
+3
+Anistar City
+Lumiose City
+To reach Lysandre Café, fly to the central Pokémon Center and cross Magenta Plaza. It's a well-known
+Team Flare
+hangout, so it's a good place to start looking for their secret base. Be sure to stock up on supplies before heading inside; there's sure to be some tough opposition ahead!
+Lysandre Café
+Take on the two Team Flare Grunts to learn of a secret door somewhere in the building. After defeating the two, you learn the door's password: "open sesame". Examine the china cabinet at the far wall to recite the password. The cabinet slides away, revealing the entrance to
+Lysandre Labs
+.
+Trainers
+Trainer
+Pokémon
+Team Flare Grunt
+Reward:
+$
+1,840
+Scrafty
+♂
+Lv.
+46
+No item
+Team Flare Grunt
+Reward:
+$
+1,840
+Liepard
+♀
+Lv.
+46
+No item
+Lysandre Labs
+Lysandre Labs, B1F
+Lysandre Labs, B3F
+Lysandre
+'s laboratory houses a host of
+Team Flare
+fanatics. Be ready to battle at any time as you make your way through its confounding depths.
+Trainers
+Trainer
+Pokémon
+B1F
+Team Flare Grunt
+Reward:
+$
+1,840
+Swalot
+♀
+Lv.
+46
+No item
+Team Flare Grunt
+Reward:
+$
+1,720
+Swalot
+♂
+Lv.
+45
+No item
+Liepard
+♂
+Lv.
+43
+No item
+Team Flare Grunt
+Reward:
+$
+1,760
+Liepard
+♂
+Lv.
+44
+No item
+Mightyena
+♂
+Lv.
+44
+No item
+Team Flare Grunt
+Reward:
+$
+1,760
+Houndoom
+♀
+Lv.
+44
+No item
+Toxicroak
+♀
+Lv.
+44
+No item
+Team Flare Grunt
+Reward:
+$
+1,800
+Manectric
+♀
+Lv.
+43
+No item
+Scrafty
+♀
+Lv.
+45
+No item
+Team Flare Grunt
+Reward:
+$
+1,840
+Golbat
+♂
+Lv.
+46
+No item
+Team Flare Grunt
+Reward:
+$
+1,760
+Toxicroak
+♀
+Lv.
+44
+No item
+Liepard
+♀
+Lv.
+44
+No item
+Team Flare Grunt
+Reward:
+$
+1,800
+Mightyena
+♂
+Lv.
+43
+No item
+Toxicroak
+♂
+Lv.
+45
+No item
+Items
+Item
+Location
+Games
+B1F
+Revive
+×4
+From the
+Masked
+Heroes
+in the northwest room (×3)
+In the western room
+X
+Y
+TM12
+(
+Taunt
+)
+From a Grunt in the western room
+X
+Y
+Black Glasses
+In the northeast corner
+X
+Y
+Hyper Potion
+Dead-end area near the western room, accessible via warp panel
+X
+Y
+Elevator Key
+From Team Flare Mable upon her defeat
+X
+Y
+Rare Candy
+North-central room, with the research materials
+X
+Y
+B1F
+Central room
+Follow the short hallway northward to find
+Lysandre
+waiting for you in the dimly-lit underground chamber. He aims to test your power, so show him what you're made of, Trainer!
+Team Flare
+Lysandre
+Lysandre Labs
+X and Y
+Reward:
+$
+9,800
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienfoo
+♂
+Lv.
+45
+Swords Dance
+Normal
+Status
+--
+High Jump Kick
+Fighting
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Murkrow
+♂
+Lv.
+45
+Foul Play
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Types:
+Fire
+Normal
+Ability:
+Rivalry
+Held item:
+None
+Pyroar
+♂
+Lv.
+47
+Hyper Voice
+Normal
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+49
+Aqua Tail
+Water
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+After he storms off, take a look around his lab. There are two types of floor panels; spin panels send you spinning until you hit a wall, and warp panels teleport you around the building. Head west to reach the first warp panel, which leads to the northwest corner. The first of the team's four scientists,
+Aliana
+, has been waiting here for you.
+Team Flare
+Aliana
+Lysandre Labs
+X and Y
+Reward:
+$
+6,720
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+46
+Taunt
+Dark
+Status
+--
+Sucker Punch
+Dark
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Embargo
+Dark
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Druddigon
+♀
+Lv.
+48
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Surf
+Water
+Special
+--
+Afterwards, she moves away, giving you access to the next two warp panels. Take the green panel to warp to the southwest corner, then head north over spin panels and past a second Grunt to enter the northwest office.
+NW office
+The Defenders of Kalos are here, searching for a very tall person that Team Flare is also hunting for, but they can't reveal any more than that. However, they hand over three
+Revives
+to help you out.
+Central room
+Take the spin panels southward to reach the western room.
+West room
+In the break room, a Grunt mistakes you for a comrade and gives you
+TM12
+(
+Taunt
+). Grab the
+Revive
+and take a rest in one of the beds, if needed.
+Central room
+Head northeast, battling three more Grunts on the way, and step inside the northeast room.
+NE room
+Enter the northeast room to battle two more scientists,
+Celosia
+then
+Bryony
+.
+Team Flare
+Celosia
+Lysandre Labs
+X and Y
+Reward:
+$
+6,720
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Manectric
+♀
+Lv.
+46
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Battle Armor
+Held item:
+None
+Drapion
+♀
+Lv.
+48
+Night Slash
+Dark
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Acupressure
+Normal
+Status
+--
+Team Flare
+Bryony
+Lysandre Labs
+X and Y
+Reward:
+$
+6,720
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♀
+Lv.
+46
+Fake Out
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Taunt
+Dark
+Status
+--
+Slash
+Normal
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Bisharp
+♀
+Lv.
+48
+Night Slash
+Dark
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Afterwards, they reveal more of Team Flare's plan. The group is using the electricity stolen from the Power Plant to fuel the ultimate weapon, but that's not all. They also plan to use the large stones on
+Route 10
+to siphon additional power from Pokémon near
+Geosenge Town
+. Those stones mark the graves of Pokémon that perished when the ultimate weapon was unleashed 3,000 years ago, and the group is planning for the same thing to happen again!
+Central room
+There are three spinner panels to the south. Take the westernmost one to a warp panel in the southwest, near the elevator. This leads you to the northeast corner; grab the
+Black Glasses
+and fight off the Grunt to reach the next warp panel. This one leads to the north-central room, which holds a
+Rare Candy
+and research materials that detail Kalos' dark past and Lysandre's own history. The reports on the table read:
+"When I was young, I went on a journey around Kalos with my Pokémon. I reached out to help those suffering because they had nothing. At first, they were grateful, but eventually, they began to take my help for granted and demand more and more... Will fools like those people consume the Kalos region? This world is stable and secure. So the population of people and Pokémon continues to increase unabated. But there is a limit to the amount of money and energy the world is capable of producing. Either everything is lost, or only a handful are saved. This is something best not left to man... I must use a tool of higher power..."
+Return to the three south-facing spinner panels and take the easternmost one. Take the nearest warp to detour for a
+Hyper Potion
+, then continue southward. Battle the Grunt in the southeast corner, and take the warp panel here. Go northeast to reach the eastern room.
+Eastern room
+Inside, you meet the fourth scientist,
+Mable
+. Win this battle to finally obtain the
+Elevator Key
+!
+Team Flare
+Mable
+Lysandre Labs
+X and Y
+Reward:
+$
+6,720
+Types:
+Dark
+Fire
+Ability:
+Early Bird
+Held item:
+None
+Houndoom
+♀
+Lv.
+46
+Snarl
+Dark
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Foul Play
+Dark
+Physical
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♀
+Lv.
+48
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Low Sweep
+Fighting
+Physical
+--
+Make your way back to the elevator, and ride down to B2F.
+B2F
+Go west down the long hallway to find Lysandre and his prisoner, the mysterious traveler from
+Route 13
+. Lysandre reveals the man's name,
+AZ
+, and the prisoner recounts
+a tale of sorrow and loss
+that sheds more light on the events that rocked Kalos three thousand years ago. He pleads with you to reclaim the key to the ultimate weapon from Lysandre, who leaves for the elevator, asking that you follow him to B3F.
+B3F
+Go north to find Lysandre talking with a fifth scientist, a man named
+Xerosic
+. Lysandre asks that you battle Xerosic to prove yourself as the "chosen one"; if you are victorious, he claims that the group will abandon their scheme.
+Team Flare
+Xerosic
+Lysandre Labs
+X and Y
+Reward:
+$
+6,720
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+46
+X-Scissor
+Bug
+Physical
+--
+Cross Poison
+Poison
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Types:
+Dark
+Psychic
+Ability:
+Contrary
+Held item:
+None
+Malamar
+♂
+Lv.
+48
+Superpower
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Xerosic is impressed by your talent, and asks you to press one of the two colored buttons behind him. He tells you that one button will activate the ultimate weapon while the other will disable it. Lysandre promised that Team Flare would abandon their objective if you choose correctly, but Xerosic has other plans. The red button reawakens the weapon outright; the blue button does nothing, but Xerosic uses a remote control to reawaken it anyway. A short cut-scene shows the weapon emerging from deep underground, and Xerosic excitedly says that the poisonous flower has bloomed in
+Geosenge Town
+. Fly back there in a hurry!
+Geosenge Town
+The once-quiet
+Geosenge Town
+has been completely transformed by the ultimate weapon's reappearance. Many buildings have been ruined, with only the Pokémon Center, Hotel Marine Snow, and a couple of homes still intact.
+Trainers
+Trainer
+Pokémon
+Team Flare Grunt
+Reward:
+$
+1800
+Manectric
+♂
+Lv.
+45
+No item
+Scrafty
+♂
+Lv.
+45
+No item
+Golbat
+♂
+Lv.
+45
+No item
+Enter the HQ
+Team Flare Secret HQ
+Team Flare's secret headquarters
+are located on the northwest edge of the town. To get there, you must first defeat the single Grunt outside. Serena/Calem catches up to you near the hideout's entrance, and insists on going with you.
+If the player chose
+Chespin
+:
+Pokémon Trainer
+Serena
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+49
+Flamethrower
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+46
+Discharge
+Electric
+Special
+--
+Double Kick
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+If the player chose
+Fennekin
+:
+Pokémon Trainer
+Serena
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+49
+Water Shuriken
+Water
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+46
+Quick Attack
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+If the player chose
+Froakie
+:
+Pokémon Trainer
+Serena
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+49
+Brick Break
+Fighting
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+46
+Muddy Water
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Aurora Beam
+Ice
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+If the player chose
+Chespin
+:
+Pokémon Trainer
+Calem
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+49
+Flamethrower
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+46
+Discharge
+Electric
+Special
+--
+Double Kick
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+If the player chose
+Fennekin
+:
+Pokémon Trainer
+Calem
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+49
+Water Shuriken
+Water
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+46
+Quick Attack
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+If the player chose
+Froakie
+:
+Pokémon Trainer
+Calem
+Team Flare Secret HQ
+X and Y
+Reward:
+N/A
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+49
+Brick Break
+Fighting
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+46
+Muddy Water
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Aurora Beam
+Ice
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Team Flare Secret HQ
+At last, you have reached
+Team Flare
+'s secret headquarters. Now you can stop
+Lysandre
+and his band of zealots from activating the ultimate weapon. Time is short though, as the weapon will soon have all the power it needs to be unleashed!
+Trainers
+Trainer
+Pokémon
+Hallway
+Team Flare Admin
+Reward:
+$
+7,840
+(with female Team Flare Grunt)
+Toxicroak
+♂
+Lv.
+50
+No item
+Team Flare Grunt
+Reward:
+$
+7,840
+(with male Team Flare Admin)
+Liepard
+♀
+Lv.
+48
+No item
+Team Flare Admin
+Reward:
+$
+7,840
+(with male Team Flare Grunt)
+Manectric
+♀
+Lv.
+50
+No item
+Team Flare Grunt
+Reward:
+$
+7,840
+(with female Team Flare Admin)
+Mightyena
+♂
+Lv.
+48
+No item
+Team Flare Admin
+Reward:
+$
+7,840
+(with female Team Flare Grunt)
+Houndoom
+♂
+Lv.
+50
+No item
+Team Flare Grunt
+Reward:
+$
+7,840
+(with male Team Flare Admin)
+Scrafty
+♀
+Lv.
+48
+No item
+Basement
+Team Flare Admin
+Reward:
+$
+3,840
+Liepard
+♀
+Lv.
+47
+No item
+Manectric
+♀
+Lv.
+48
+No item
+Team Flare Admin
+Reward:
+$
+4,000
+Swalot
+♀
+Lv.
+50
+No item
+Team Flare Admin
+Reward:
+$
+3,840
+Mightyena
+♂
+Lv.
+47
+No item
+Houndoom
+♂
+Lv.
+48
+No item
+Team Flare Admin
+Reward:
+$
+4,000
+Golbat
+♂
+Lv.
+50
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Xerneas
+X
+Y
+Only one
+50
+One
+Yveltal
+X
+Y
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F
+Lysandre lurks inside, awaiting your arrival. He refuses to stop the ultimate weapon now that it's been deployed. Instead, he battles you to buy time for the weapon to finish charging.
+Team Flare
+Lysandre
+Team Flare Secret HQ
+X and Y
+Reward:
+$
+10,200
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienshao
+♂
+Lv.
+47
+Swords Dance
+Normal
+Status
+--
+High Jump Kick
+Fighting
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+None
+Honchkrow
+♂
+Lv.
+47
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Types:
+Fire
+Normal
+Ability:
+Unnerve
+Held item:
+None
+Pyroar
+♂
+Lv.
+49
+Hyper Voice
+Normal
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+51
+Aqua Tail
+Water
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Afterwards, Serena/Calem suggests searching for the legendary Pokémon. Take the northwest door to explore the rest of the area. If you approach the window behind Lysandre, you can catch a glimpse of the legendary Pokémon far below, being drained of its life force to power the ultimate weapon.
+Hallway
+The headquarters is filled with Grunts and high-ranking Admins. As you race to the basement, you must defeat several pairs of Team Flare fanatics. You're not alone though, as Serena/Calem battles by your side. Her/His team consists of
+Meowstic
+at level 45,
+Absol
+at level 46,
+Eevee's evolved form
+at level 46, and third-stage starter Pokémon at level 49. About halfway through the hallway, a friendly voice calls out to you; Shauna followed the two of you inside and wants to help out. When you reach the basement door, you find it sealed with a high-tech electronic lock. But this is no problem for Shauna, as
+Clemont
+happened to give her a device for figuring out puzzles. The device quickly unlocks the door, so hurry inside!
+Basement
+Team Flare makes its last stand in the dark basement chamber where the legendary Pokémon is being held. Shauna and Serena/Calem lure a few of the Admins away, leaving you to take out the rest one by one. Doing so rescues the legendary Pokémon from the brink of oblivion, but it must still be caught before it will join you.
+Xerneas
+X
+is the first legendary
+Fairy-type
+Pokémon to be discovered. Its Ability,
+Fairy Aura
+, gives a power boost to all Fairy attacks. This includes its
+Moonblast
+move, an already-powerful attack that may lower the target's
+Special Attack
+. Its signature move,
+Geomancy
+, sharply increases its Special Attack, Special Defense, and Speed on the second turn. Use
+Poison
+and
+Steel
+moves to wear it down quickly, then follow up with
+Bug
+,
+Dark
+, and
+Fighting
+moves to weaken it further.
+Yveltal
+Y
+is the first legendary
+Dark
+/
+Flying
+Pokémon to be discovered. Its Ability,
+Dark Aura
+, gives a power boost to all Dark attacks, which includes both its
+Snarl
+and
+Dark Pulse
+moves. Its signature move,
+Oblivion Wing
+, steals energy from the target to restore its own health. Use
+Electric
+,
+Ice
+,
+Rock
+, and
+Fairy
+moves to wear it down quickly, then follow up with
+Ghost
+,
+Grass
+, and Dark moves to weaken it further.
+Type:
+Fairy
+Unknown
+Ability:
+Fairy Aura
+Held item:
+None
+Xerneas
+Lv.
+50
+Gravity
+Psychic
+Status
+--
+Geomancy
+Fairy
+Status
+--
+Moonblast
+Fairy
+Special
+--
+Megahorn
+Bug
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Dark Aura
+Held item:
+None
+Yveltal
+Lv.
+50
+Snarl
+Dark
+Special
+--
+Oblivion Wing
+Flying
+Special
+--
+Disable
+Normal
+Status
+--
+Dark Pulse
+Dark
+Special
+--
+Once it's caught, you may choose to swap out a party member for it. Soon after, Shauna and Serena/Calem reappear, followed by Lysandre. He intends to reclaim the legendary Pokémon's power for the ultimate weapon, and challenges you to one final battle. This time, he is also able to use Mega Evolution!
+Team Flare Boss
+Lysandre
+Team Flare Secret HQ
+X and Y
+Reward:
+$
+10,600
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienshao
+♂
+Lv.
+49
+Swords Dance
+Normal
+Status
+--
+High Jump Kick
+Fighting
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Honchkrow
+♂
+Lv.
+49
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+Types:
+Fire
+Normal
+Ability:
+Unnerve
+Held item:
+None
+Pyroar
+♂
+Lv.
+51
+Hyper Voice
+Normal
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+Gyaradosite
+Gyarados
+♂
+Lv.
+53
+Aqua Tail
+Water
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Lysandre tells you that when the legendary Pokémon awakened, it reclaimed much of its energy that had been sent to the ultimate weapon. The weapon has little power left, but there's still enough to use it once! The weapon activates, firing into the sky a massive ball of energy, which then comes crashing back down. It destroys the weapon, causing it to fall back underground, leaving a giant crater in its wake. The Secret HQ and its entrance are also destroyed.
+Aftermath
+After fleeing the Secret HQ, Shauna and Serena/Calem meet you back at the crater. Trevor, Tierno, and the
+Masked
+Heroes
+are also present. Following a short briefing, the group leaves for
+Anistar City
+. Before you can follow,
+AZ
+appears. He speaks a bit more about the king and his eternal Pokémon, and finally reveals that he is the former king that built the ultimate weapon.
+Anistar City
+As you leave the city, you receive another Holo Clip, this time from
+Sycamore
+. He wants to talk face-to-face, and asks you to meet him in
+Couriway Town
+.
+← Part 10
+Dendemille Town, Frost Cavern, Route 17, Anistar City
+X and Y
+walkthrough
+Route 18, Terminus Cave, Couriway Town, Route 19
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

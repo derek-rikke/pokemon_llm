@@ -1,0 +1,1241 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_3
+Keywords: Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Routes 105 and 106
+2
+Dewford Town
+2.1
+Dewford Hall
+2.2
+Hook the Big One!
+2.3
+Dewford Gym
+3
+Route 106
+3.1
+Granite Cave
+3.1.1
+1F
+3.1.2
+1F (Back)
+3.1.2.1
+The Mural
+4
+Dewford Town
+5
+Routes 107 and 108
+Routes 105 and 106
+Route 105
+R
+S
+Route 106
+As the voyage is a quick one, there is no time to fully explore the waters of Routes
+105
+and
+106
+just yet. Return after earning the
+fifth Badge
+in order to
+travel
+at your own speed.
+Available Pokémon
+Route 105
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Surfing (
+DexNav exclusive
+)
+Krabby
+OR
+AS
+Surfing
+25
+??%
+Frillish
+OR
+AS
+Surfing
+25
+??%
+Skrelp
+OR
+AS
+Surfing
+25
+??%
+Clauncher
+OR
+AS
+Surfing
+25
+??%
+Fishing
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 106
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Surfing (
+DexNav exclusive
+)
+Krabby
+OR
+AS
+Surfing
+25
+??%
+Frillish
+OR
+AS
+Surfing
+25
+??%
+Skrelp
+OR
+AS
+Surfing
+25
+??%
+Clauncher
+OR
+AS
+Surfing
+25
+??%
+Fishing
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Route 105
+Item
+Location
+Games
+Iron
+On the beach, southwest of Swimmer ♂ Luis
+OR
+AS
+Big Pearl
+On the beach, one step north of the Iron (hidden)
+OR
+AS
+Heart Scale
+On the islet south of Swimmer ♂ Luis (hidden)
+OR
+AS
+Route 106
+Item
+Location
+Games
+Heart Scale
+Water's edge, southeast of the signpost (hidden)
+OR
+AS
+Stardust
+On a rock, north of Backpacker Graeme (hidden)
+OR
+AS
+Poké Ball
+Water's edge, northeast of Fisherman Elliot (hidden)
+OR
+AS
+Protein
+Western-most part of the shoreline
+OR
+AS
+Dewford Town
+Dewford Town
+Dewford Town
+is a tiny island town in the southern ocean. Despite its isolation, many Trainers visit the area to challenge the
+Dewford Gym
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Silk Scarf
+From an Ace Trainer in the house at the pier
+OR
+AS
+Old Rod
+From the Fisherman east of the Gym
+OR
+AS
+After defeating the Dewford Gym
+TM08
+(
+Bulk Up
+)
+From Brawly upon his defeat
+OR
+AS
+Return trip
+TM36
+(
+Sludge Bomb
+)
+From a Collector in Dewford Hall, after earning at least 5 Badges
+OR
+AS
+Dewford Hall
+Located to the north of the Pokémon Center, Dewford Hall is known as "Everyone's Information Exchange". Though Dewford is a tiny island community, when someone coins a
+trendy phrase
+here, it quickly spreads throughout the region. Speak to the boy outside the building to learn that "Potion festivals" are the coolest thing in cool right now; if you disagree, he offers a chance to change the current phrase, which the residents inside will quickly adopt.
+Hook the Big One!
+Speak to the Fisherman outside the Gym, and answer his question to receive the
+Old Rod
+. This low-end fishing rod can hook Pokémon from any body of water, so be sure to try it out everywhere!
+Dewford Gym
+Dewford Gym
+Dewford Town Pokémon Gym
+Leader: Brawly
+A big wave in fighting!
+The
+Dewford Gym
+specializes in
+Fighting-type
+Pokémon.
+Flying
+-,
+Psychic
+, and
+Fairy-type
+moves are the most effective here, so this is a great opportunity to train
+Taillow
+,
+Beautifly
+,
+Wingull
+, or
+Ralts
+.
+Zubat
+is also good once it reaches level 13, and it being part of your team when attacking Brawly will boost its friendship, which you need to raise for it to evolve into
+Crobat
+eventually. Keep your
+Normal
+-,
+Rock
+-, and
+Dark-type
+Pokémon out of the fray for now. The Gym is modeled as a fitness center, filled with weight-lifting equipment and exercise machines. The buff Trainers inside hone their skills by training in total darkness. Step on the floor switches in the main hall to temporarily light up the darkened rooms, then plot a path forward before stepping into the darkness.
+Even with only two Pokémon,
+Brawly
+can be a tough opponent. Both his
+Machop
+and
+Makuhita
+have the
+Guts
+Ability, which boosts the Pokémon's
+Attack
+by 50% when afflicted by any status condition.
+Bulk Up
+allows the user to raise its Attack and
+Defense
+, and Machop can deal even more damage by lowering the target's Defense with
+Leer
+.
+Dewford Gym
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Laura
+Reward:
+$
+416
+Meditite
+♀
+Lv.
+13
+No item
+Black Belt
+Hideki
+Reward:
+$
+416
+Machop
+♂
+Lv.
+13
+No item
+Battle Girl
+Tessa
+Reward:
+$
+352
+Meditite
+♀
+Lv.
+11
+No item
+Machop
+♂
+Lv.
+11
+No item
+Leader
+Brawly
+Dewford Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,920
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machop
+♂
+Lv.
+14
+Leer
+Normal
+Status
+--
+Karate Chop
+Fighting
+Physical
+--
+Seismic Toss
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Makuhita
+♂
+Lv.
+16
+Arm Thrust
+Fighting
+Physical
+--
+Knock Off
+Dark
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Bulk Up
+Fighting
+Status
+--
+After the battle, Brawly awards you the
+Knuckle Badge
+, which ensures obedience of all Pokémon up to level 30. He also hands out
+TM08
+(
+Bulk Up
+) as a prize.
+If you speak to Brawly again, he suggests checking out
+Granite Cave
+to the north of town. The place is filled with rare stones and wall paintings thousands of years old, and his friend
+Steven
+rushed there as soon as Brawly told him about it.
+Route 106
+Trainers
+Trainer
+Pokémon
+Fisherman
+Ned
+Reward:
+$
+416
+Tentacool
+♂
+Lv.
+13
+No item
+Backpacker
+Graeme
+Reward:
+$
+312
+Slakoth
+♂
+Lv.
+13
+No item
+Fisherman
+Elliot
+Reward:
+$
+384
+Magikarp
+♂
+Lv.
+10
+No item
+Tentacool
+♂
+Lv.
+12
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Heart Scale
+Water's edge, southeast of the signpost (hidden)
+OR
+AS
+Stardust
+On a rock, north of Backpacker Graeme (hidden)
+OR
+AS
+Poké Ball
+Water's edge, northeast of Fisherman Elliot (hidden)
+OR
+AS
+Protein
+Western-most part of the shoreline
+OR
+AS
+Granite Cave, 1F
+Granite Cave, 1F (Back)
+Granite Cave
+While the ground floor of
+Granite Cave
+is well-lit from the natural light outside, it can be difficult to explore the underground portion without the use of
+Flash
+.
+Trainers
+Trainer
+Pokémon
+B2F (requires Mach Bike)
+Ruin Maniac
+Omari
+Reward:
+$
+420
+Sandshrew
+♂
+Lv.
+15
+No item
+Hiker
+Davian
+Reward:
+$
+480
+Geodude
+♂
+Lv.
+15
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+OR
+AS
+Cave
+9-12
+40%
+Abra
+OR
+AS
+Cave
+10, 12
+15%
+Geodude
+OR
+AS
+Cave
+10, 12
+5%
+Makuhita
+OR
+AS
+Cave
+9-12
+40%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+6
+60%
+Geodude
+OR
+AS
+Horde Encounter
+6
+35%
+with Makuhita
+Makuhita
+OR
+AS
+Horde Encounter
+6
+35%
+with Geodude
+Makuhita
+OR
+AS
+Horde Encounter
+6
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+OR
+AS
+Cave
+10-12
+30%
+Abra
+OR
+AS
+Cave
+10, 12
+20%
+Makuhita
+OR
+AS
+Cave
+10, 12
+20%
+Aron
+OR
+AS
+Cave
+10-12
+30%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+6
+60%
+Aron
+OR
+AS
+Horde Encounter
+6
+40%
+DexNav
+exclusive
+*
+Onix
+OR
+AS
+Cave
+12
+??%
+Timburr
+OR
+AS
+Cave
+12
+??%
+Axew
+OR
+AS
+Cave
+12
+??%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+OR
+AS
+Cave
+10-12
+30%
+Abra
+OR
+AS
+Cave
+10, 12
+20%
+Mawile
+OR
+AS
+Cave
+10, 12
+20%
+Sableye
+OR
+AS
+Cave
+10, 12
+20%
+Aron
+OR
+AS
+Cave
+10-12
+30%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+6
+60%
+Sableye
+OR
+AS
+Horde Encounter
+6
+5%
+Mawile
+OR
+AS
+Horde Encounter
+6
+5%
+Aron
+OR
+AS
+Horde Encounter
+6
+35%
+DexNav
+exclusive
+*
+Onix
+OR
+AS
+Cave
+12
+??%
+Timburr
+OR
+AS
+Cave
+12
+??%
+Axew
+OR
+AS
+Cave
+12
+??%
+Rock Smash
+Geodude
+OR
+AS
+Rock Smash
+10-12
+84%
+Nosepass
+OR
+AS
+Rock Smash
+10, 12
+16%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM70
+(
+Flash
+)
+From a Hiker near the entrance
+OR
+AS
+TM51
+(
+Steel Wing
+)
+From Steven, after delivering the
+Letter
+to him
+OR
+AS
+B1F (requires Mach Bike)
+Escape Rope
+Near the ladder to 1F
+OR
+AS
+Poké Ball
+Dead-end tunnel on the south side
+OR
+AS
+Paralyze Heal
+Dead-end tunnel on the south side (hidden)
+OR
+AS
+X Defense
+In the corner on the east-central side (hidden)
+OR
+AS
+B2F (requires Mach Bike)
+Repel
+North side; northwest corner
+OR
+AS
+Super Potion
+North side; southeast of the middle ladder (hidden)
+OR
+AS
+Rare Candy
+North side; northeast corner
+OR
+AS
+TM65
+(
+Shadow Claw
+)
+South side; west of the large rock
+OR
+AS
+Everstone
+South side; in the large rock on the upper platform (hidden)
+OR
+AS
+Steelixite
+South side; east of the large rock (hidden)
+OR
+AS
+Escape Rope
+South side; east of Hiker Davian
+OR
+AS
+Other Items
+Heart Scale
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Hard Stone
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Soft Sand
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Normal Gem
+Randomly found by smashing
+breakable rocks
+OR
+AS
+1F
+Follow the tunnel to the northwest to find a Hiker, who gives out
+TM70
+(
+Flash
+). Turn north and follow the sloping path down to the first floor's rear chamber.
+1F (Back)
+In the rear chamber, you find
+Steven
+admiring an ancient wall painting. Give him the
+Letter
+from
+Mr. Stone
+to complete your mission, and Steven gives you
+the TM
+for his favorite move,
+Steel Wing
+, in return.
+The Mural
+This ancient artwork was only recently discovered, and attracts visitors from far and wide.
+A huge Pokémon is depicted in a terrible rage, with what appear to be omegas (Ω) marked on either arm. Volcanoes erupt all around this behemoth, while humans and Pokémon are overwhelmed by its power. In addition, there seems to be a meteor in the shape of a triangle falling from the sky, while the rest of the heavens are dominated by a monstrous, broiling sun.
+A gigantic Pokémon is shown wreaking havoc, with what appear to be alphas (α) marked on its arms. The sea swells around this leviathan in enormous waves and a great storm rages overhead, with heavy rain and lightning bolts. A falling star in the shape of a triangle appears over the figures of defeated people and Pokémon, a dark herald of their suffering.
+Dewford Town
+Talk to
+Mr. Briney
+on the pier and inform him of your successful delivery. He tells you that
+Mr. Stone
+has already assigned you a new task: delivering the
+Devon Parts
+to someone named
+Stern
+in
+Slateport City
+.
+Routes 107 and 108
+Route 107
+Route 108
+Like with Routes
+105
+and
+106
+, there is no opportunity to fully explore the area at the moment. There is little of interest on
+Route 107
+, but
+Route 108
+holds what remains of the half-sunken
+Sea Mauville
+facility.
+Available Pokémon
+Route 107
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Surfing (
+DexNav
+exclusive
+*
+)
+Krabby
+OR
+AS
+Surfing
+25
+??%
+Frillish
+OR
+AS
+Surfing
+25
+??%
+Skrelp
+OR
+AS
+Surfing
+25
+??%
+Clauncher
+OR
+AS
+Surfing
+25
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+Underwater
+Chinchou
+OR
+AS
+Dive
+25
+50%
+Clamperl
+OR
+AS
+Dive
+30
+30%
+Lanturn
+OR
+AS
+Dive
+30
+15%
+Relicanth
+OR
+AS
+Dive
+30, 35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 108
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Surfing (
+DexNav
+exclusive
+*
+)
+Krabby
+OR
+AS
+Surfing
+25
+??%
+Frillish
+OR
+AS
+Surfing
+25
+??%
+Skrelp
+OR
+AS
+Surfing
+25
+??%
+Clauncher
+OR
+AS
+Surfing
+25
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Route 107
+Super Repel
+On the beach, accessible from Dewford Town
+OR
+AS
+Route 107 (Underwater)
+Flame Plate
+One step south from the middle of the northern-most underwater point (hidden; requires
+Surf
+,
+Dive
+)
+OR
+AS
+Yellow Shard
+South of the dive spot (hidden; requires
+Surf
+,
+Dive
+)
+OR
+AS
+Route 108
+Star Piece
+On a patch of sand, south of Swimmer ♀ Tara
+OR
+AS
+Rare Candy
+On a rock, south of the Star Piece (hidden)
+OR
+AS
+← Part 2
+Route 104, Petalburg Woods, Rustboro City, Route 116, Rusturf Tunnel
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 109, Slateport City, Oceanic Museum, Route 110, Trick House
+Part 4 →

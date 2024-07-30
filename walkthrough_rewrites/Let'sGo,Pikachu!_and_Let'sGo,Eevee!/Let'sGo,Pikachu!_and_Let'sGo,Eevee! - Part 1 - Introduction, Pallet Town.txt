@@ -1,0 +1,47 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 1
+Keywords: Introduction, Pallet Town
+
+# Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! Walkthrough - Part 1: Pallet Town
+
+## Introduction
+After a short cutscene, choose your language, customize your character, and name yourself and your rival. You are now ready to start your adventure!
+
+## Pallet Town
+Your journey starts in Pallet Town, a small area in the Kanto region. Key locations include:
+- **Your Home**: Western house.
+- **Rival's Home**: Eastern house.
+- **Professor Oak's Lab**: Southern building.
+
+### Available Pokémon
+- **Partner Pokémon**: Pikachu (P) or Eevee (E) - Level 5, received as gifts.
+
+### Items
+- **Poké Balls**: 50 (in your Bag from the start).
+- **Pokédex**: From Professor Oak after receiving your partner Pokémon.
+- **Town Map**: From your Mom after obtaining the Pokédex.
+- **Razz Berries**: 20 (from Oak after delivering his parcel).
+- **Sportswear**: From Trace's sister after delivering Oak's parcel.
+
+### Gameplay Steps
+1. **Home (2F)**: Start in your bedroom. Head downstairs when prompted by Trace.
+2. **Home (1F)**: Talk to Mom, then leave to find Professor Oak.
+3. **Wild Pokémon Encounter**: Head to the tall grass north of town where you’ll encounter a wild Pikachu/Eevee. Oak will teach you how to catch Pokémon.
+   - **Catching Mechanics**: Use a Joy-Con or the Poké Ball Plus to throw Poké Balls.
+
+### Professor Oak's Lab
+- Trace is waiting for you. After a brief dialogue, choose your partner Pokémon (Pikachu or Eevee).
+- Oak gives you a **Pokédex** and asks you to complete it by catching all Pokémon.
+
+### Roadmap to Adventure
+- Outside the lab, your Mom gives you the **Town Map**. 
+- Leave Pallet Town and head north to **Route 1** to continue your journey.
+
+### Main Menu Overview
+- Accessed by pressing X, ▲, or shaking the Poké Ball Plus.
+- **Pokédex**: Shows Pokémon data.
+- **Bag**: Stores items and Pokémon.
+- **Party**: Displays Pokémon available for battles.
+- **Save**: Records your progress.
+
+Prepare for your next adventure in **Route 1**!

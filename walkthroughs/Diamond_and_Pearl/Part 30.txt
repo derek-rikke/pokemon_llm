@@ -1,0 +1,841 @@
+Part: Part 30
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_30
+Keywords: Fight Area, Battle Park, Battle Tower, Route 225
+
+Walkthrough Text:
+Contents
+1
+Fight Area
+2
+Battle Park
+3
+Battle Tower
+3.1
+Left Attendant
+3.2
+Center Attendant
+3.2.1
+On 21st consecutive battle
+3.2.2
+On 49th consecutive battle
+3.3
+Right Attendant
+4
+Exchange Service Corner
+5
+Back in Fight Area
+6
+Route 225
+Fight Area
+The ferry from
+Snowpoint City
+takes you here. This is the
+Fight Area
+of
+Battle Zone
+. After you arrive,
+Rival
+Barry
+will ask that "what took you so long?" and threatens to fine you for 100 million! He then says that he wants to become the greatest Trainer ever, but a red-hair guy overheard and tells him to go to the volcano (which will be
+Stark Mountain
+) and hunt down the treasure. Barry bolts off to the
+Battle Tower
+. The red-hair guy introduces himself as
+Buck
+, then leaves.
+You can get the ferry back if you need to. This is the location of Sinnoh's
+Battle Tower
+. If you're into competitive battling, like many of the residents of this town, this is the place for you!
+You can get
+Scope Lens
+from a lady in the Poke Mart.
+There are 2 Trainers blocking your way to Route 225, and another 2 block your way to Route 230. They will leave when you get your National PokeDex (which you should have done) and explored Battle Tower.
+Items
+Item
+Location
+Games
+Super Rod
+From a Fisherman near gate to Rt. 225
+D
+P
+Scope Lens
+From a Lady in Poke Mart
+D
+P
+Pomeg Berry
+×2
+At the berry patch west of the
+Pokémon Center
+D
+P
+Hondew Berry
+×2
+At the berry patch west of the
+Pokémon Center
+D
+P
+Battle Park
+The Battle Park.
+The Exchange Service Corner's exterior.
+When you step into the gate to
+Battle Park
+, you will receive a
+Point Card
+. If you have any questions about how the Battle Tower works, speak to any of the women at the counter.
+The Battle Tower, which is located here, is a great place to show off your skills. The first building you see here is the Exchange Service Corner, where you can exchange
+Battle Points
+(BP) you earn in the Battle Tower for
+TMs
+,
+held items
+,
+Vitamins
+, and even
+Rare Candies
+.
+Since you don't have any BP yet, keep walking north to the Battle Tower.
+Battle Tower
+The Battle Tower's interior.
+This is where Trainers go to show off their skills. Here, the
+Pokédex
+is not added to, Pokémon don't earn Experience Points, and all Pokémon above Level 50 are reset to their Level 50 stats while in the tower. When you challenge the
+Battle Tower
+, you fight 7 battles in a row. If you win them all, you get BP. If you lose, your win streak (number of battles you've won in a row) is reset to zero. Basically, what you try to do here is not lose. Not all Pokémon are allowed—
+Game mascot
+legendary Pokémon and
+Event Pokémon
+can't be used. You also can't have duplicate Pokémon or held items. If you can win 100 times in a row (which is extremely impressive), you can get a
+star on your Trainer Card
+.
+There are 3 attendants. Here's what you can do by talking to each of them:
+Left Attendant
+If you talk to this person, you can participate in a Multi Battle, i.e. a tag team battle. You will be entering 2 Pokémon. If you want to participate in a Multi Battle with a friend by using DS wireless communications, say "yes" when the attendant asks if you want to form a tag team with a friend. If you say "no," you will be taken to a room called the Battle Salon where you can decide to team up with
+Cheryl
+,
+Mira
+,
+Riley
+,
+Marley
+, or
+Buck
+. (You haven't teamed up with Buck yet— we'll get to that part.)
+Center Attendant
+Here, you can participate in Single or Double battles by yourself. For a Single Battle, you need 3 Pokémon. For a Double Battle, you need 4. Your 21st and 49th consecutive battles will be against
+Barry
+'s father— Tower Tycoon
+Palmer
+.
+On 21st consecutive battle
+Tower Tycoon
+Palmer
+Battle Tower
+Diamond and Pearl
+Reward:
+20
+BP
+#
+Pokémon
+Item
+Moves
+Nature
+EVs
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+0350
+Milotic
+Salac Berry
+Hydro Pump
+Dragon Pulse
+Recover
+Hypnosis
+Timid
+-
+-
+252
+-
+-
+252
+0464
+Rhyperior
+Expert Belt
+Rock Wrecker
+Ice Beam
+Thunderbolt
+Flamethrower
+Quiet
+-
+252
+-
+252
+-
+-
+0149
+Dragonite
+Wide Lens
+Dragon Rush
+Aqua Tail
+Iron Tail
+Stone Edge
+Adamant
+252
+252
+-
+-
+-
+-
+On 49th consecutive battle
+Tower Tycoon
+Palmer
+Battle Tower
+Diamond and Pearl
+Reward:
+20
+BP
+#
+Pokémon
+Item
+Moves
+Nature
+EVs
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+0486
+Regigigas
+Chople Berry
+Crush Grip
+Ice Punch
+Stone Edge
+Brick Break
+Adamant
+252
+252
+-
+-
+-
+-
+0485
+Heatran
+BrightPowder
+Explosion
+Magma Storm
+Dark Pulse
+Flash Cannon
+Quiet
+170
+170
+-
+170
+-
+-
+0488
+Cresselia
+Leftovers
+Calm Mind
+Moonlight
+Psychic
+Shadow Ball
+Bold
+252
+-
+252
+-
+-
+-
+Right Attendant
+If there's Wi-fi where you are, you can connect your DS to the network and battle people from all over the world. You can participate in Single Battles and Double Battles.
+Exchange Service Corner
+Once you have some BP, you can exchange it for prizes here.
+Items
+Left Cashier
+HP Up
+1
+BP
+Protein
+1
+BP
+Iron
+1
+BP
+Calcium
+1
+BP
+Zinc
+1
+BP
+Carbos
+1
+BP
+Rare Candy
+48
+BP
+Power Bracer
+16
+BP
+Power Belt
+16
+BP
+Power Lens
+16
+BP
+Power Band
+16
+BP
+Power Anklet
+16
+BP
+Power Weight
+16
+BP
+Flame Orb
+16
+BP
+Toxic Orb
+16
+BP
+White Herb
+32
+BP
+Power Herb
+32
+BP
+BrightPowder
+48
+BP
+Choice Band
+48
+BP
+Focus Band
+48
+BP
+Scope Lens
+48
+BP
+Muscle Band
+48
+BP
+Focus Sash
+48
+BP
+Choice Scarf
+48
+BP
+Razor Claw
+48
+BP
+Razor Fang
+48
+BP
+Right Cashier
+TM06
+(
+Toxic
+)
+32
+BP
+TM45
+(
+Attract
+)
+32
+BP
+TM61
+(
+Will-O-Wisp
+)
+32
+BP
+TM73
+(
+Thunder Wave
+)
+32
+BP
+TM31
+(
+Brick Break
+)
+40
+BP
+TM40
+(
+Aerial Ace
+)
+40
+BP
+TM04
+(
+Calm Mind
+)
+48
+BP
+TM08
+(
+Bulk Up
+)
+48
+BP
+TM30
+(
+Shadow Ball
+)
+64
+BP
+TM53
+(
+Energy Ball
+)
+64
+BP
+TM81
+(
+X-Scissor
+)
+64
+BP
+TM26
+(
+Earthquake
+)
+80
+BP
+TM36
+(
+Sludge Bomb
+)
+80
+BP
+TM59
+(
+Dragon Pulse
+)
+80
+BP
+TM71
+(
+Stone Edge
+)
+80
+BP
+Back in Fight Area
+Now that you have visited Battle Tower, the 4 Trainers blocking roads to Routes 225 and 230 are gone. You can explore any of these routes first, but the walkthrough will start from Rt. 225 and go clockwise.
+Walk north from the pier and receive the
+Super Rod
+from the Fisherman. With the Super Rod, you can fish for fully evolved
+Water-type
+Pokémon such as
+Gyarados
+and
+Seaking
+, or some foreign Pokémon like
+Chinchou
+and
+Luvdisc
+.
+Route 225
+Make sure that you heal your Pokémon before proceeding! You'll need to bring Pokémon with
+Cut
+,
+Surf
+and
+Rock Climb
+.
+Also,
+always let your leading Pokémon hold Amulet Coin or Luck Incense
+to gain double prize after Trainer battles, especially if you're running out of money.
+This route is "a road of challenges", as a sign in Fight Area stated. There are tough Trainers and wild Pokémon in Route 225. Most Pokémon you'll fight are above Level 50.
+Route 225
+Items
+Item
+Location
+Games
+HP Up
+In the southwest corner of the route (requires
+Rock Climb
+)
+D
+P
+Dubious Disc
+On the other side of the lake north of the house (requires
+Surf
+)
+D
+P
+Rare Candy
+East of Bird Keeper Audrey, Pokémon Ranger Ashlee, and Psychic Daisy (requires
+Cut
+)
+D
+P
+Rare Candy
+South of the house, just above a small patch of grass
+(hidden)
+D
+P
+Ultra Ball
+On the hill connected by bridges south of the lower pond
+D
+P
+Ultra Ball
+On the ledge south of Ace Trainer Quinn
+(hidden)
+D
+P
+Revive
+Northwest of Ace Trainer Quinn
+D
+P
+Lax Incense
+West of the house (requires
+Cut
+)
+D
+P
+Fresh Water
+From the the man in the house
+D
+P
+Hyper Potion
+Atop the ledge right of Psychic Daisy
+(hidden)
+D
+P
+Max Repel
+In the northernmost patch of grass
+(hidden)
+D
+P
+Dawn Stone
+Atop a ledge at the northern end of the route (requires
+Rock Climb
+)
+D
+P
+Tamato Berry
+×2
+Berry patch west of Ace Trainer Deanna (requires
+Cut
+)
+D
+P
+Kelpsy Berry
+×2
+Berry patch west of Ace Trainer Deanna (requires
+Cut
+)
+D
+P
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Audrey
+マイナ
+Maina
+Reward:
+$
+1728
+Farfetch'd
+♀
+Lv.
+52
+No item
+Swellow
+♀
+Lv.
+54
+No item
+Pokémon Ranger
+Ashlee
+アリナ
+Arina
+Reward:
+$
+3360
+Zigzagoon
+♀
+Lv.
+50
+No item
+Skarmory
+♀
+Lv.
+56
+No item
+Psychic
+Daisy
+フウカ
+Fūka
+Reward:
+$
+1760
+Slowpoke
+♀
+Lv.
+51
+No item
+Slowbro
+♀
+Lv.
+55
+No item
+Pokémon Ranger
+Dwayne
+ユキト
+Yukito
+Reward:
+$
+3300
+Donphan
+♂
+Lv.
+55
+No item
+Ace Trainer
+Rodolfo
+ショウイチ
+Shōichi
+Reward:
+$
+3180
+Lickitung
+♂
+Lv.
+53
+No item
+Miltank
+♀
+Lv.
+53
+No item
+Ace Trainer
+Quinn
+ミツハル
+Mitsuharu
+Reward:
+$
+3180
+Pinsir
+♂
+Lv.
+53
+No item
+Mightyena
+♂
+Lv.
+53
+No item
+Ace Trainer
+Deanna
+ショウコ
+Shōko
+Reward:
+$
+3180
+Flaaffy
+♀
+Lv.
+53
+No item
+Tropius
+♀
+Lv.
+53
+No item
+Dragon Tamer
+Geoffrey
+Requires
+HM08
+レツ
+Retsu
+Reward:
+$
+1760
+Dratini
+♂
+Lv.
+53
+No item
+Dragonair
+♂
+Lv.
+55
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+D
+P
+Pt
+Grass
+20-22
+5%
+Raticate
+D
+P
+Pt
+Grass
+50-52
+30%
+Spearow
+D
+P
+Pt
+Grass
+20-22
+5%
+Fearow
+D
+P
+Pt
+Grass
+50-52
+40%
+40%
+20%
+Machoke
+D
+P
+Pt
+Grass
+51
+5%
+Roselia
+D
+P
+Pt
+Grass
+51
+5%
+Roselia
+D
+P
+Pt
+Grass
+51
+15%
+Skuntank
+D
+P
+Pt
+Grass
+51
+10%
+Banette
+D
+P
+Pt
+Grass
+50-52
+0%
+0%
+20%
+Surfing and Fishing
+Golduck
+D
+P
+Pt
+Surfing
+40-55
+70%
+Poliwhirl
+D
+P
+Pt
+Surfing
+40-50
+30%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Poliwag
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Poliwhirl
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+35%
+Special Pokémon
+Makuhita
+D
+P
+Pt
+Swarm
+48-51
+40%
+Mankey
+D
+P
+Pt
+Poké Radar
+22
+2%
+Primeape
+D
+P
+Pt
+Poké Radar
+51-52
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Head north to the small pool of water (after fighting the Trainers and cutting the trees to get the item), and Surf across it for a shortcut. Otherwise, walk west from the 3 Trainers and the item. You'll need to navigate the bridges and go up and down steps to get to the northern half of the Route, which can be a puzzle to get through the first time. Make a thorough search of the area, because a lot of valuable items are here. After using Rock Climb to fight the last Trainer on this route and grabbing the item, exit the Route at its northern terminus to end up in the
+Survival Area
+.
+← Part 29
+Snowpoint City, Snowpoint Temple, Catching Regigigas, Heading towards Battle Zone
+Diamond and Pearl
+walkthrough
+Survival Area, Routes 226-227, Stark Mountain
+Part 31 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

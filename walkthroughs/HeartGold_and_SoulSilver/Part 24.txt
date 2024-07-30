@@ -1,0 +1,1350 @@
+Part: Part 24
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_24
+Keywords: Route 3, Mt. Moon, Route 4
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 3
+2
+Mt. Moon
+2.1
+Mt. Moon Square
+2.1.1
+Shop
+2.1.2
+Clefairy Dance
+3
+Route 4
+Route 3
+Route 3
+Route 3
+is a rugged route that links
+Pewter City
+to
+Mt. Moon
+in the east. Just outside the city is a large crater where several meteorites have fallen. These rocks seem to emit a strange cosmic energy that may influence
+a certain species
+of Pokémon.
+Trainers
+Trainer
+Pokémon
+Youngster
+Regis
+Reward:
+$
+640
+Golbat
+♂
+Lv.
+40
+No item
+Electrode
+Lv.
+40
+No item
+Youngster
+Warren
+Reward:
+$
+672
+Fearow
+♂
+Lv.
+38
+No item
+Raticate
+♂
+Lv.
+42
+No item
+Youngster
+Jimmy
+Reward:
+$
+672
+Raticate
+♂
+Lv.
+42
+No item
+Arbok
+♂
+Lv.
+42
+No item
+Parasect
+♂
+Lv.
+42
+No item
+Double Team
+Zac & Jen
+Reward:
+$
+11280
+Dugtrio
+♂
+Lv.
+47
+No item
+Electabuzz
+♂
+Lv.
+47
+No item
+Firebreather
+Otis
+Reward:
+$
+1504
+Magmar
+♂
+Lv.
+43
+No item
+Weezing
+♂
+Lv.
+40
+No item
+Camerupt
+♂
+Lv.
+47
+No item
+Hiker
+Bruce
+Reward:
+$
+1440
+Graveler
+♂
+Lv.
+39
+No item
+Rhydon
+♂
+Lv.
+44
+No item
+Clefairy
+♀
+Lv.
+45
+No item
+Black Belt
+Manford
+Reward:
+$
+1128
+Poliwrath
+♂
+Lv.
+47
+No item
+Black Belt
+Ander
+Reward:
+$
+1056
+Primeape
+♂
+Lv.
+43
+No item
+Graveler
+♂
+Lv.
+39
+No item
+Machoke
+♂
+Lv.
+44
+No item
+Hiker
+Dwight
+Reward:
+$
+1408
+Magneton
+Lv.
+44
+No item
+Steelix
+♂
+Lv.
+44
+No item
+Firebreather
+Burt
+Reward:
+$
+1440
+Weezing
+♂
+Lv.
+42
+No item
+Magcargo
+♂
+Lv.
+45
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+5-10
+35%
+35%
+60%
+Rattata
+HG
+SS
+Grass
+5
+,
+5-8
+30%
+30%
+0%
+Spearow
+HG
+SS
+Grass
+5-8
+55%
+55%
+0%
+Spearow
+HG
+SS
+Grass
+5-8
+35%
+35%
+0%
+Ekans
+HG
+SS
+Grass
+8
+20%
+Arbok
+HG
+SS
+Grass
+10
+5%
+Jigglypuff
+HG
+SS
+Grass
+6
+10%
+Zubat
+HG
+SS
+Grass
+5
+0%
+0%
+30%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+6-10
+50%
+Pineco
+HG
+SS
+Headbutt
+6-7
+30%
+Wurmple
+HG
+SS
+Headbutt
+6-10
+20%
+Swarm
+Baltoy
+HG
+SS
+Swarm
+5
+40%
+Gulpin
+HG
+SS
+Swarm
+5
+40%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+5
+20%
+Minun
+HG
+SS
+Hoenn Sound
+8
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+5-8
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Root
+South of Hiker Bruce
+HG
+SS
+Hyper Potion
+On a rock, west of the Pokémon Center (hidden, requires
+Rock Smash
+)
+HG
+SS
+Star Piece
+×2
+Inside the craters (hidden)
+HG
+SS
+Other Items
+Blue Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Green Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Max Ether
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Red Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Revive
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Star Piece
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Yellow Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Mt. Moon
+Mt. Moon
+Mt. Moon
+once featured a large cave network, but recent collapses have left only a single chamber connecting
+Route 3
+to
+Route 4
+.
+Silver
+appears not far from the entrance and challenges you once again. After he leaves, climb the ladder to the east.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+6
+30%
+Zubat
+HG
+SS
+Cave
+6-8
+50%
+Geodude
+HG
+SS
+Cave
+8
+30%
+Geodude
+HG
+SS
+Cave
+6-10
+35%
+Sandshrew
+HG
+SS
+Cave
+8
+20%
+Paras
+HG
+SS
+Cave
+12
+10%
+Sandslash
+HG
+SS
+Cave
+10
+5%
+Clefairy
+HG
+SS
+Cave
+8
+5%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+8
+20%
+Absol
+HG
+SS
+Hoenn Sound
+6-8
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+8
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+6-8
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+On a rock (hidden)
+HG
+SS
+Player chose
+Chikorita
+:
+Player chose
+Cyndaquil
+:
+Player chose
+Totodile
+:
+Rival
+Silver
+Mt. Moon
+HeartGold and SoulSilver
+Reward:
+$
+3200
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+46
+Faint Attack
+Dark
+Physical
+--
+Icy Wind
+Ice
+Special
+--
+Shadow Claw
+Ghost
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+47
+Poison Fang
+Poison
+Physical
+--
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+46
+Discharge
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+48
+Psychic
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Recover
+Normal
+Status
+--
+Disable
+Normal
+Status
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gengar
+♂
+Lv.
+48
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Curse
+???
+Status
+--
+Mean Look
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Typhlosion
+♂
+Lv.
+50
+Flamethrower
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Swift
+Normal
+Special
+--
+Flame Wheel
+Fire
+Physical
+--
+Rival
+Silver
+Mt. Moon
+HeartGold and SoulSilver
+Reward:
+$
+3200
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+46
+Faint Attack
+Dark
+Physical
+--
+Icy Wind
+Ice
+Special
+--
+Shadow Claw
+Ghost
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+47
+Poison Fang
+Poison
+Physical
+--
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+46
+Discharge
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+48
+Psychic
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Recover
+Normal
+Status
+--
+Disable
+Normal
+Status
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gengar
+♂
+Lv.
+48
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Curse
+???
+Status
+--
+Mean Look
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Feraligatr
+♂
+Lv.
+50
+Waterfall
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Rival
+Silver
+Mt. Moon
+HeartGold and SoulSilver
+Reward:
+$
+3200
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+46
+Faint Attack
+Dark
+Physical
+--
+Icy Wind
+Ice
+Special
+--
+Shadow Claw
+Ghost
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+47
+Poison Fang
+Poison
+Physical
+--
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+46
+Discharge
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+48
+Psychic
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Recover
+Normal
+Status
+--
+Disable
+Normal
+Status
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gengar
+♂
+Lv.
+48
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Curse
+???
+Status
+--
+Mean Look
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Meganium
+♂
+Lv.
+50
+PoisonPowder
+Poison
+Status
+--
+Synthesis
+Grass
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Petal Dance
+Grass
+Special
+--
+Mt. Moon Square
+Mt. Moon Square
+Mt. Moon Square
+is located on the heights of the mountain, where few people ever venture. In the field to the west,
+Clefairy
+are said to perform secret rituals.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Poliwag
+HG
+SS
+Surfing
+35
+60%
+Magikarp
+HG
+SS
+Surfing
+30-35
+40%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+90%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+Between the trees to the east
+HG
+SS
+Moon Stone
+Near the pond on Monday nights, after interrupting the Clefairy dance
+HG
+SS
+Shop
+There is a small shop here that caters to weary travelers, selling health-restoring and battle-ending items.
+Fresh Water
+$
+200
+Lemonade
+$
+350
+Soda Pop
+$
+300
+Heart Mail
+$
+50
+Repel
+$
+350
+Poké Doll
+$
+1000
+Clefairy Dance
+From 8:00 PM Monday through 4:00 AM Tuesday, six
+Clefairy
+appear in the field to the west. Four of them begin dancing around the pond, which shows a reflection of the full moon. When you enter the field, they get startled and run away, leaving behind an item that turns out to be a
+Moon Stone
+. The group returns to worship the moon every week.
+Enter the south side of the cave for a shortcut to the exit.
+Route 4
+Route 4
+Route 4
+leads down from the mountains and eastward to
+Cerulean City
+. Collect the items, then fly back to
+Pewter City
+and head south.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Hope
+Reward:
+$
+704
+Flaaffy
+♀
+Lv.
+44
+No item
+Bird Keeper
+Hank
+Reward:
+$
+1408
+Pidgey
+♂
+Lv.
+13
+No item
+Pidgeot
+♂
+Lv.
+44
+No item
+Picnicker
+Sharon
+ミナコ
+Minako
+Reward:
+$
+688
+Furret
+♀
+Lv.
+41
+No item
+Rapidash
+♀
+Lv.
+43
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ekans
+HG
+SS
+Grass
+8
+20%
+Jigglypuff
+HG
+SS
+Grass
+6
+5%
+Arbok
+HG
+SS
+Grass
+10
+5%
+Spearow
+HG
+SS
+Grass
+5-8
+55%
+55%
+10%
+Spearow
+HG
+SS
+Grass
+5-8
+35%
+35%
+0%
+Rattata
+HG
+SS
+Grass
+5-10
+35%
+35%
+55%
+Rattata
+HG
+SS
+Grass
+5
+,
+5-8
+30%
+30%
+35%
+Zubat
+HG
+SS
+Grass
+5
+0%
+0%
+30%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+5-10
+90%
+Seaking
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Goldeen
+HG
+SS
+Fishing
+Super Rod
+40
+90%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Seaking
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+6-10
+50%
+Pineco
+HG
+SS
+Headbutt
+6-7
+30%
+Wurmple
+HG
+SS
+Headbutt
+6-10
+20%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+8
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+5
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+8
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+5
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Mushroom
+Southeast of Bird Keeper Hank (hidden)
+HG
+SS
+HP Up
+On a ledge to the east
+HG
+SS
+Ultra Ball
+Northeast of Picnicker Hope (hidden)
+HG
+SS
+← Part 23
+Route 11, Diglett's Cave, Route 2, Pewter City
+HeartGold and SoulSilver
+walkthrough
+Viridian City, Route 1, Pallet Town
+Part 25 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

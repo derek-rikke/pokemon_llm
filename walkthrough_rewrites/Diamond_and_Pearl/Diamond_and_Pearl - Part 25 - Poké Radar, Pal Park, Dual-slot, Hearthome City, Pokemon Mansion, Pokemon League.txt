@@ -1,0 +1,63 @@
+Game: Diamond_and_Pearl
+Part: 25
+Keywords: Poké Radar, Pal Park, Dual-slot, Hearthome City, Pokemon Mansion, Pokemon League
+
+### Part 25: Key Locations and Strategies
+
+**Poké Radar**
+- Use the Poké Radar from Professor Rowan to catch rare Pokémon in rustling grass.
+- After each encounter, new patches will rustle. If you run away or after three rustles, the Radar stops; recharge by walking 50 steps.
+
+**Available Pokémon:**
+- Various Pokémon can be found using the Poké Radar across different routes. Refer to the complete list for details.
+
+---
+
+**Routes 219-221**
+- Head south from Sandgem Town with a Pokémon that knows Surf to reach Pal Park. Battle trainers and collect items along the way.
+
+---
+
+**Pal Park**
+- Upon arrival, meet Professor Oak who will introduce you to the Pokétch App Trainer Counter.
+- Transfer Pokémon from GBA games (Ruby, Sapphire, etc.) to participate in the Catching Show, where you catch Pokémon in different park zones.
+
+---
+
+**Dual-slot Mode**
+- Insert a Generation III game in the GBA slot to unlock the Dual-slot method, allowing access to additional Pokémon on certain routes. 
+
+**Available Pokémon (Dual-slot):**
+- Various Pokémon can be captured based on the GBA game used. Check for specific Pokémon and their locations.
+
+---
+
+**Hearthome City**
+- Fly to Hearthome City, deposit a Pokémon if necessary, and speak to Bebe in the house next to the Pokémon Center to receive an Eevee (Lv. 5).
+
+---
+
+**Route 212**
+- Continue south to reach Pokémon Mansion.
+
+---
+
+**Pokémon Mansion**
+1. **Mr. Backlot's Office**: Speak with Mr. Backlot; say "Yes" when prompted about envy. He hints at a rare Pokémon in the Trophy Garden.
+2. **Trophy Garden**: Rare Pokémon appear at a 5% encounter rate. 
+
+**Available Pokémon:**
+- Various Pokémon can be found through Mr. Backlot, including Clefairy, Jigglypuff, and Eevee.
+
+---
+
+**Pokémon League**
+- Ensure you have Pokémon with Surf, Strength, Defog, Waterfall, and Rock Climb.
+- Access Route 224 by re-entering Victory Road from the Pokémon League.
+
+---
+
+**Next Steps**
+- Heal your Pokémon at the Pokémon League Main Building, then surf down the waterfall to continue your journey. 
+
+**Note**: This guide is part of a comprehensive walkthrough project. For further assistance, refer to the complete game guide.

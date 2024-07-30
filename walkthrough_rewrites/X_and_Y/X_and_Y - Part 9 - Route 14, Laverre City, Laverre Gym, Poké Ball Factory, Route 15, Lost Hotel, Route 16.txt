@@ -1,0 +1,53 @@
+Game: X_and_Y
+Part: 9
+Keywords: Route 14, Laverre City, Laverre Gym, Poké Ball Factory, Route 15, Lost Hotel, Route 16
+
+### Part 9 Walkthrough Summary
+
+#### Route 14
+- **Key Features**: Connects Lumiose City to Laverre City. 
+- **Notable Battles**: 
+  - **Rival Battle**: Face Trevor and Serena/Calem outside Lumiose gate. They have Pokémon around level 35-37.
+- **Items**:
+  - **Super Potion**: Hidden in sand pit.
+  - **Rare Candy**: Behind swings.
+  - **Cleanse Tag**: East of Pokémon Ranger Melina.
+- **Available Pokémon**: Weepinbell, Skorupi, Quagsire, Goomy, Haunter.
+
+#### Laverre City
+- **Pokémon Center**: Rest and visit Mr. Bonding for Encounter Power.
+- **Pokémon Fan Club**: Earn Effort Ribbon if any Pokémon are fully trained.
+- **Laverre Gym**: Focus on Poison and Steel moves against Fairy-types. Gym Leader Valerie uses Mawile, Mr. Mime, and Sylveon.
+- **Items**:
+  - **TM99 (Dazzling Gleam)**: Reward after defeating Valerie.
+- **Poké Ball Factory**: Located north of the city.
+
+#### Poké Ball Factory
+- **Access**: Distract the Team Flare Grunt with Shauna.
+- **Key Battles**: Defeat Team Flare Grunts and Admins.
+- **Items**:
+  - **Master Ball**: Given by the President after defeating Team Flare.
+
+#### Route 15 (Brun Way)
+- **Connects**: Laverre City to Dendemille Town.
+- **Trainers**: Pokémon Rangers and Hex Maniacs with Pokémon up to level 41.
+- **Items**: Revive, Net Ball, various berries.
+
+#### Lost Hotel
+- **Exploration**: Full of trainers and items, accessible from Route 15.
+- **Trainers**: Various Punk trainers with level 39-42 Pokémon.
+- **Available Pokémon**: Magneton, Electrode, Litwick, Rotom (shaking trash cans).
+- **Items**: TM95 (Snarl), various hidden items.
+
+#### Route 16 (Mélancolie Path)
+- **Connection**: Route 15 to Lumiose City.
+- **Key Features**: Fishing Shack located here.
+- **Items**: Max Revive, Rare Candy, Super Rod from the Fishing Shack.
+
+### Gameplay Tips
+- Use Poison and Steel Pokémon against Fairy types in Laverre Gym.
+- Collect items and Pokémon in hidden locations throughout routes.
+- Engage in battles to level up and prepare for upcoming challenges.
+
+### Next Steps
+- After completing Route 16, head to Dendemille Town.

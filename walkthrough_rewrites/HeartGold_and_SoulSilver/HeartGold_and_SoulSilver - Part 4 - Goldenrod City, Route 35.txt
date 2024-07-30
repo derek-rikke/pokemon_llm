@@ -1,0 +1,61 @@
+Game: HeartGold_and_SoulSilver
+Part: 4
+Keywords: Goldenrod City, Route 35
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 4
+
+**Route 32**
+- Route 32 connects Violet City to Union Cave.
+- **Trainers:**
+  - Youngster Albert: Rattata, Zubat (Rewards: $128)
+  - Picnicker Liz: Nidoran♀ (Reward: $128)
+  - Fisherman Henry: Poliwag (Reward: $256)
+  - Bird Keeper Peter: Pidgey, Spearow (Reward: $256)
+
+- **Items:**
+  - Miracle Seed: Northeast of the route.
+  - Repel: Southwest of the hill.
+  - Great Balls: Near the pier and outside Union Cave (hidden).
+  - TM09 (Bullet Seed): Southwest cliff.
+  - Old Rod: Obtained from the Fishing Guru in the Pokémon Center.
+
+**Ruins of Alph**
+- Accessible from Route 32.
+- Contains four chambers with puzzles that unlock Unown forms.
+- Completing puzzles reveals hidden items.
+  
+**Items in Ruins:**
+- North Chamber: Oran Berry, Heal Powder.
+- Southeast Chamber: Sitrus Berry, Moon Stone (requires Surf).
+- West Chamber: Life Orb, Charcoal (requires Surf).
+- Southwest Chamber: Mystic Water, Stardust (requires Surf).
+
+**Scheming for Slowpoke Tails**
+- A shady man attempts to sell a Slowpoke Tail for $1,000,000 near the Pokémon Center.
+
+**Union Cave**
+- Connects Routes 32 and 33. Explore later for additional exits.
+- **Trainers:**
+  - Firebreather Ray: Vulpix (Reward: $288)
+  - Hiker Daniel: Onix (Reward: $352)
+  - Poké Maniacs with various Pokémon.
+
+- **Items:**
+  - X Attack: Northwest area, near Firebreather Ray.
+  - Great Ball: Near Firebreather Bill.
+  - TM39 (Rock Tomb): B1F, southwest corner.
+  - Elixir: B2F, northeast corner (requires Surf).
+
+**Route 33**
+- Short path to Azalea Town.
+- **Trainers:**
+  - Hiker Anthony: Geodude, Machop (Reward: $352).
+
+- **Items:**
+  - Pink Apricorn: Southeast of Union Cave exit (daily).
+  - Black Apricorn: Southeast of Union Cave exit (daily).
+
+### Summary
+- Progress through Route 32 to explore Ruins of Alph and Union Cave.
+- Collect important items and defeat trainers for rewards.
+- Access hidden areas with Surf and Strength later in the game.

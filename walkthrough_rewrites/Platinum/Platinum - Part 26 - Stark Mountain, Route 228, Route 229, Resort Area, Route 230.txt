@@ -1,0 +1,52 @@
+Game: Platinum
+Part: 26
+Keywords: Stark Mountain, Route 228, Route 229, Resort Area, Route 230
+
+**Part 26: Stark Mountain to Route 230 Walkthrough**
+
+**Stark Mountain**
+- Required: Rock Climb, Dusk Balls.
+- Navigate using Rock Climb to reach Heatran's room. Save before challenging Heatran (Lv. 50, Fire/Steel). Use Water or Fighting-type moves to weaken it, then throw Dusk Balls to catch.
+
+**Route 228**
+- **Available Pokémon**: 
+  - Diglett, Dugtrio, Rhydon, Cacnea, Cacturne, Hippowdon (Grass)
+  - Poliwag, Poliwhirl (Surfing)
+  - Magikarp, Barboach, Whiscash, Gyarados (Fishing)
+- **Items**: 
+  - Max Repel (southwest of Ace Trainer Jose, hidden)
+  - Rare Candy (near Route 226 connector, hidden)
+  - Protector (east of Ace Trainer Jose)
+  - Full Restore (south of Ace Trainer Moira, hidden)
+- **Trainers**: Several Ace Trainers and Pokémon Rangers with varying levels and Pokémon.
+
+**Move Tutor**: Located in the north house; teaches ultimate moves for starter Pokémon if their happiness is maxed.
+
+**Route 229**
+- **Available Pokémon**: 
+  - Pidgey, Ledian, Beautifly, Roselia (Grass)
+  - Surskit, Masquerain (Surfing)
+  - Magikarp, Seaking, Gyarados (Fishing)
+- **Items**: 
+  - Reaper Cloth (east of cuttable tree)
+  - Full Restore (northeast corner)
+- **Trainers**: Includes Ace Trainers and Pokémon Rangers.
+
+**Resort Area**
+- **Available Pokémon**: Psyduck, Golduck (Surfing); Magikarp (Fishing).
+- **Items**: 
+  - Nuggets (northwest of Villa and south of its door, hidden)
+  - Various Berries in patches around the Villa.
+- **Ribbon Syndicate**: Requires 10 different Ribbons for entry. Offers spa treatments to increase Pokémon happiness and rare Ribbons.
+
+**Villa**: Decorate your Villa; past owner provides furniture options.
+
+**Route 230**
+- **Available Pokémon**: Oddish, Gloom, Bellsprout, Wingull (Grass); Tentacruel, Pelipper (Surfing).
+- **Items**: 
+  - Water Stone (hidden in the wall)
+  - Rare Candy (requires Rock Smash)
+  - Ultra Ball (hidden, requires Rock Smash)
+- **Trainers**: Swimmers with varying levels.
+
+**Final Steps**: After defeating Charon and exploring, aim to complete the National Pokédex. Trade with others for all Pokémon and visit the Game Freak director at Hotel Grand Lake for a diploma. Challenge the Elite Four, Battleground, and Battle Frontier as desired.

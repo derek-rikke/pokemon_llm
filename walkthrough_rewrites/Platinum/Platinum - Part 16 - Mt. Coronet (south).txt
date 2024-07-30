@@ -1,0 +1,59 @@
+Game: Platinum
+Part: 16
+Keywords: Mt. Coronet (south)
+
+### Mt. Coronet (South) Walkthrough
+
+**Preparation:** Ensure you have Pokémon with HMs: Surf, Strength, Rock Smash, and Rock Climb.
+
+#### 1F
+- **Items:**
+  - Dawn Stone: Southeast corner (requires Surf)
+  - Protein: Northern edge of the hill (requires Surf)
+- Enter via Route 207 or 208. Surf to the northeastern corner, climb rocks, and ascend stairs to 2F.
+
+#### 2F
+- **Pokémon:** Clefairy, Golbat, Machoke, Graveler, Nosepass, Medicham, Chingling, Bronzong
+- **Items:**
+  - Max Repel: North of stairs from 1F
+  - TM80 (Rock Slide): Northeast of Route 207 exit (requires Strength)
+  - Black Flute: Given by Looker
+- Exit southwest to Route 207 for an Iron and Timer Ball (requires Surf, Strength, Rock Climb).
+
+#### 3F
+- **Pokémon:** Same as 2F
+- **Items:**
+  - Max Repel: Northwest corner
+- Defeat two Galactic Grunts, then exit to reach the summit area.
+
+#### Lower Summit
+- **Pokémon:** Golbat, Machoke, Nosepass, Medicham, Absol, Snover, Abomasnow
+- **Items:**
+  - Max Potion: In the grass east of 3F exit
+  - Various hidden items (Energy Roots, Star Pieces, etc.)
+- Navigate through the hail, use Super Repels to avoid battles.
+
+#### 4F
+- **Pokémon:** Same as 2F
+- **Items:** Various hidden items including Yellow Shard, Heal Powder, Sun Stone, Max Revive.
+- Ascend using Rock Climb and defeat two Galactic Grunts.
+
+#### Upper Summit
+- Follow the path to the entrance to 5F.
+
+#### 5F
+- **Pokémon:** Same as 2F
+- **Items:** Max Elixir.
+- Continue to 6F via stairs.
+
+#### 6F
+- **Pokémon:** Same as 2F
+- **Items:** Full Restore, Rare Candy.
+- Battle two Galactic Grunts and head to 7F.
+
+#### 7F
+- **Pokémon:** Same as 2F
+- Defeat the last grunt and proceed to the exit leading to Spear Pillar.
+
+### Conclusion
+You have reached Spear Pillar, prepare to confront Cyrus and end his plans.

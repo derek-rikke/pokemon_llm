@@ -1,0 +1,502 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_17
+Keywords: Cerulean Cave
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cerulean City
+1.1
+Cerulean Cave
+1.1.1
+1F (South)
+1.1.2
+2F (South)
+1.1.3
+1F (East)
+1.1.4
+2F (Northeast)
+1.1.5
+1F (Northeast)
+1.1.6
+2F (Northwest)
+1.1.7
+1F (Northwest)
+1.1.8
+B1F
+1.1.8.1
+VS Mewtwo
+Cerulean City
+There is only one place left to explore:
+Cerulean Cave
+, a mysterious place on the northwest edge of
+Cerulean City
+. To get there, visitors must
+Surf
+southward from
+Route 24
+.
+Cerulean Cave
+Cerulean Cave, 1F
+Cerulean Cave, 2F
+Cerulean Cave, B1F
+Cerulean Cave
+is a mysterious cavern located in the northwest part of
+Cerulean City
+. Only the most powerful Trainers who have entered the
+Hall of Fame
+are allowed to enter due to the powerful wild Pokémon inside. The sprawling cave network is unforgiving, so be sure to prepare well. Pack the
+Super Rod
+and stock up on
+Ultra Balls
+, and bring the
+Master Ball
+as well. It is here that the
+genetically-engineered Pokémon
+from
+Cinnabar Island
+'s
+Pokémon Mansion
+fled after escaping the facility.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+B
+Y
+Cave
+50, 55
+40%
+Graveler
+R
+B
+Y
+Cave
+45
+15%
+Sandslash
+R
+B
+Y
+Cave
+52
+10%
+Weepinbell
+R
+B
+Y
+Cave
+55
+10%
+Gloom
+R
+B
+Y
+Cave
+55
+10%
+Parasect
+R
+B
+Y
+Cave
+54
+5%
+Venomoth
+R
+B
+Y
+Cave
+54
+5%
+Ditto
+R
+B
+Y
+Cave
+55, 60
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Seaking
+R
+B
+Y
+Fishing
+Super Rod
+35, 45, 55
+60%
+Goldeen
+R
+B
+Y
+Fishing
+Super Rod
+25
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+B
+Y
+Cave
+52, 57
+40%
+Graveler
+R
+B
+Y
+Cave
+50
+15%
+Sandslash
+R
+B
+Y
+Cave
+56
+10%
+Rhyhorn
+R
+B
+Y
+Cave
+50
+10%
+Ditto
+R
+B
+Y
+Cave
+60
+10%
+Gloom
+R
+B
+Y
+Cave
+58
+5%
+Weepinbell
+R
+B
+Y
+Cave
+58
+5%
+Rhydon
+R
+B
+Y
+Cave
+58, 60
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+B
+Y
+Cave
+54, 59
+40%
+Graveler
+R
+B
+Y
+Cave
+55
+15%
+Ditto
+R
+B
+Y
+Cave
+60, 65
+15%
+Rhyhorn
+R
+B
+Y
+Cave
+52
+10%
+Rhydon
+R
+B
+Y
+Cave
+62
+10%
+Lickitung
+R
+B
+Y
+Cave
+50, 55
+5%
+Chansey
+R
+B
+Y
+Cave
+56
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Seaking
+R
+B
+Y
+Fishing
+Super Rod
+40, 50, 60
+60%
+Goldeen
+R
+B
+Y
+Fishing
+Super Rod
+30
+40%
+Special Pokémon
+Mewtwo
+R
+B
+Y
+Only one
+70
+Only one
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Elixer
+South; north of the larger pool of water
+Y
+Rare Candy
+East; southeast of the smaller pool of water
+Y
+Ultra Ball
+East; on the northern rocky ridge
+Y
+PP Up
+South; south of the rocky ridge, on a lone rock
+(hidden)
+Y
+Max Revive
+Northeast; south of the rocky ridge in the northeast
+Y
+2F
+Ultra Ball
+South; middle area of 2F
+Y
+PP Up
+South; south-central part of 2F, on a lone rock
+(hidden)
+Y
+Max Revive
+South; middle area of 2F
+Y
+Full Restore
+Northeast; east-central area
+Y
+Rare Candy
+Northwest; west-central area
+Y
+B1F
+Max Elixer
+Eastern path in the north-central area
+Y
+PP Up
+On a lone bit of rubble near the southwest pool of water
+(hidden)
+Y
+Ultra Ball
+×2
+Rocky ridge in the southwest
+Northeast corner
+Y
+Max Revive
+Rocky ridge in the southwest
+Y
+1F (South)
+Use
+Surf
+to swim westward and grab the
+Max Elixer
+before climbing the ladder to the west.
+2F (South)
+Go northeastward to find an
+Ultra Ball
+, then backtrack to the south and head east to get a
+Max Revive
+. Continue on and climb down the ladder to the northeast.
+1F (East)
+Surf to the southeast for a
+Rare Candy
+, then continue westward. Pick up the
+Ultra Ball
+on the rocky ridge, then take the ladder to the south.
+2F (Northeast)
+Head northwest to find two diverging tunnels. Take the northern trail first to get a
+Full Restore
+, then follow the southern trail to the ladder in the far northeast corner.
+1F (Northeast)
+Go southeast to reach a
+Max Revive
+, then backtrack and follow the tunnel westward to the next ladder.
+2F (Northwest)
+Walk to the southwest to grab a
+Rare Candy
+, then climb down the ladder to the north.
+1F (Northwest)
+Take the next ladder down to the lower floor.
+B1F
+Follow the tunnel to a fork in the road. Collect the
+Max Elixer
+from the eastern path before turning southward. Use
+Surf
+to reach the rocky ridge in the southwest and collect the
+Ultra Ball
+and
+Max Revive
+there. Go east, then north to cross the large rocky ridge and pick up an
+Ultra Ball
+to the east. Surf southward to find
+Mewtwo
+, alone on its island. Be sure to save the game before interacting with it, as there is only one chance to catch it.
+VS Mewtwo
+Not only is
+Mewtwo
+the strongest Pokémon around, but it has already reached level 70. As a
+Psychic-type
+Pokémon, it is only vulnerable to
+Bug-type
+attacks. Bug moves are fairly weak, and so a better way would be to use the
+Legendary birds
+, as they are the closest to Mewtwo's equals in terms of power. The Legendary Pokémon can restore its health repeatedly with
+Recover
+, so inflicting status ailments are a must. Not only will this make Mewtwo easier to catch, but
+Sleep
+,
+Freezing
+, and
+Paralysis
+will prevent it from replenishing its HP. It will not let itself be caught easily, so either use the
+Master Ball
+when the battle begins or be prepared to go through more than a few
+Ultra Balls
+.
+Type:
+Psychic
+Unknown
+Mewtwo
+Lv.
+70
+Barrier
+Psychic
+--
+Swift
+Normal
+--
+Psychic
+Psychic
+--
+Recover
+Normal
+--
+With the
+Pokémon League
+defeated and
+Cerulean Cave
+cleared, the only thing left to do is to complete the
+Pokédex
+. There are 151 different Pokémon species that have been discovered so far, leaving plenty of training left to do!
+← Part 16
+The Pokémon League
+Yellow
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

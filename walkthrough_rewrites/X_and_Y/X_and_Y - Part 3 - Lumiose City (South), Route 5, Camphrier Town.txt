@@ -1,0 +1,43 @@
+Game: X_and_Y
+Part: 3
+Keywords: Lumiose City (South), Route 5, Camphrier Town
+
+## Part 3: Lumiose City (South), Route 5, Camphrier Town
+
+### Lumiose City
+- **Objective**: Explore the south side due to a blackout.
+- **Key Locations**:
+  - **Pokémon Center**: Trade Poké Miles for items.
+  - **Sycamore Pokémon Lab**: Meet Professor Sycamore. Battle him using Bulbasaur, Charmander, or Squirtle (all level 10). Receive a second Pokémon and its Mega Stone.
+  - **PR Video Studio**: Film a promotional video; receive a Lens Case.
+  - **Café Soleil**: Meet Lysandre and Diantha.
+  - **Shutterbug Café**: Take photos for rewards (Wide Lens, Scope Lens, Zoom Lens).
+
+- **Items**: 
+  - **Luxury Balls** (Sycamore Lab, 2F)
+  - **TM54 (False Swipe)** (Sycamore Lab, 3F)
+  - **Various items** from office buildings (Quick Claw, Quick Balls, Timer Balls).
+  
+### Route 5
+- **Trainers**: 
+  - **Korrina**: Gym Leader, introduces her Lucario.
+  - **Tierno**: Battle him for 1200 Poké Dollars.
+
+- **Key Items**:
+  - **TM01 (Hone Claws)**: Found on a ledge accessed via grind rails.
+  - **Berries**: Collect Oran Berries from trees.
+  
+- **Horde Encounters**: Explained by Trevor; use Honey to trigger them.
+
+### Camphrier Town
+- **Meet Cassius**: Access new PC features after meeting him.
+- **Name Rater**: Change Pokémon nicknames at the Pokémon Center.
+- **Hotel Camphrier**: Receive items like Full Heal and Shock Ribbon.
+- **Shabboneau Castle**: Meet Shauna; collect an Escape Rope on the second floor.
+
+### Important Gameplay Elements
+- **Mega Evolution**: Discussed with Professor Sycamore; hints found in Camphrier Town.
+- **O-Powers**: Introduced by Mr. Bonding at the gate to Route 5.
+
+### Summary
+Progress through Lumiose City, engage with key characters, and gather essential items. Battle Korrina and Tierno on Route 5, and conclude with exploration and interactions in Camphrier Town. Collect items and prepare for the next challenges!

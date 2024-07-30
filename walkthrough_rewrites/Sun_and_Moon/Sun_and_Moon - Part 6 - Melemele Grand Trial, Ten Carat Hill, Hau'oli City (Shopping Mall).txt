@@ -1,0 +1,45 @@
+Game: Sun_and_Moon
+Part: 6
+Keywords: Melemele Grand Trial, Ten Carat Hill, Hau'oli City (Shopping Mall)
+
+### Part 6 Walkthrough Summary
+
+**Iki Town and Melemele Grand Trial**
+- Head to Iki Town to meet Professor Kukui and Lillie.
+- Challenge Hala, the Kahuna, who specializes in Fighting-type Pokémon. Use Flying, Psychic, or Fairy moves.
+- Key Pokémon to consider:
+  - **Mankey** (Lv. 14): Vulnerable to Psychic; avoid critical hits due to Anger Point.
+  - **Makuhita** (Lv. 14): Use Fake Out to flinch; resistant to Fire/Ice.
+  - **Crabrawler** (Lv. 15): Strong with Power-Up Punch; can use Z-Move All-Out Pummeling.
+- After defeating Hala, receive the Fightinium Z and the Tauros Ride Pager, enhancing travel and allowing boulder breaking.
+
+**Route 1 (Hau'oli Outskirts)**
+- Mom congratulates you and suggests visiting **Ten Carat Hill** for rare Pokémon.
+
+**Ten Carat Hill**
+- Located southwest of Kukui's Research Center.
+- Items:
+  - **X Attack**: Near entrance.
+  - **Super Potion**: North of upper ledge (requires Tauros Charge).
+  - **Ultra Ball**: South of upper ledge (requires Tauros Charge).
+  - **TM62 (Acrobatics)**: On the southeast slope.
+- Pokémon to catch:
+  - **Rockruff** (only here), **Zubat**, **Roggenrola**, **Alolan Diglett**, **Carbink**.
+
+**Hau'oli City**
+- Explore the Shopping Mall:
+  - **Gracidea Boutique**: High-end fashion items.
+  - **Antiquities of the Ages**: Legendary artifacts and Plates.
+  - **Move Tutor Booth**: Tutors for powerful moves (Frenzy Plant, Hydro Cannon).
+  - **Battle Buffet**: Pay to battle for dishes, limited to once daily.
+- Visit **Ilima’s House** for a battle and receive an **Everstone**.
+- Head to the Marina to join Kukui, Hau, and Lillie for the trip to Akala Island.
+
+### Key Items and Locations
+- **Fightinium Z**: From Hala after the trial.
+- **Tauros Ride Pager**: Allows access to previously unreachable areas.
+- **TM54 (False Swipe)**: Given by Kukui.
+- **Items in Ten Carat Hill**: X Attack, Super Potion, Ultra Ball, TM62 (Acrobatics).
+- **Shopping Mall Items**: Gracidea, various Plates, and fashion items.
+
+Proceed to Akala Island after preparing with the newly acquired items and Pokémon.

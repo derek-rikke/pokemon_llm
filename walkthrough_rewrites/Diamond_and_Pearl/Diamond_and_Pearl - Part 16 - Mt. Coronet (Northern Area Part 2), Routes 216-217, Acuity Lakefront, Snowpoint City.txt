@@ -1,0 +1,41 @@
+Game: Diamond_and_Pearl
+Part: 16
+Keywords: Mt. Coronet (Northern Area Part 2), Routes 216-217, Acuity Lakefront, Snowpoint City
+
+## Part 16 Walkthrough: Mt. Coronet (Northern Area Part 2), Routes 216-217, Acuity Lakefront, Snowpoint City
+
+### Preparation
+- **Stock Up on Items:** Buy 15-25 healing items (Fresh Water, Soda Pop, Moomoo Milk, Lemonade) instead of Potions. Recommended: 10 Great Balls. Heal your Pokémon.
+- **Essential HM Moves:** Bring Pokémon with **Surf**, **Strength**, **Defog**, and **Rock Smash**. Train to Level 40+.
+
+### Mt. Coronet (Northern Area Part 2)
+- **Items to Collect:**
+  - Revive, TinyMushroom, Escape Rope, Elixir, TM69 (Rock Polish), Rare Candy (requires Strength/Rock Smash).
+- **Pokémon Available:**
+  - Meditite, Machop, Chingling, Geodude, Zubat, Cleffa, Clefairy.
+- **Navigating the Cavern:** Use **Defog** to clear fog. Look for Feebas in specific water blocks.
+
+### Route 216
+- **Conditions:** Snowy; cannot use Bicycle.
+- **Items:** Full Heal, Ice Heal.
+- **Pokémon Available:** Sneasel, Snover, Graveler, Machoke, Meditite.
+- **Trainers:** Fight Ace Trainers and heal at Snowbound Lodge.
+
+### Route 217
+- **Conditions:** Harsh blizzard; visibility is poor.
+- **Items:** PP Up, Full Heal, Iron, Calcium, TM07 (Hail), HM08 (Rock Climb), Icicle Plate.
+- **Pokémon Available:** Sneasel, Meditite, Machoke, Snover.
+- **Important:** Find HM08 from the Hiker and receive the Icicle Plate as a reward.
+
+### Acuity Lakefront
+- **Items:** Ultra Ball.
+- **Pokémon Available:** Zubat, Machoke, Sneasel, Snover.
+- **Next Steps:** Head east and collect items before moving to Snowpoint City.
+
+### Snowpoint City
+- **Heal at Pokémon Center.** 
+- **Items:** Hyper Potion.
+- **Trading:** Trade for Haunter (Gaspar) for Medicham.
+- **Gym Access:** Head to Snowpoint Gym for your next challenge.
+
+Prepare thoroughly for battles ahead, utilize the items found, and ensure your Pokémon are well-trained before challenging the Snowpoint Gym.

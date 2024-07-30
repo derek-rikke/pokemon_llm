@@ -1,0 +1,1352 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_4
+Keywords: Goldenrod City, Route 35
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 32
+1.1
+Ruins of Alph
+1.1.1
+North chamber
+1.1.2
+Southeast chamber
+1.1.3
+West chamber
+1.1.4
+Southwest chamber
+1.2
+Scheming for SlowpokeTails
+1.3
+Fishing Guru 1
+2
+Union Cave
+2.1
+1F
+2.2
+B1F (North)
+2.3
+1F
+2.4
+B1F (South)
+2.5
+B2F
+3
+Route 33
+Route 32
+Route 32
+The Ruins of Alph
+Ruins of Alph, Interior
+Route 32
+is a lengthy road that runs south along the shore from
+Violet City
+to
+Union Cave
+. A path on the north end leads west to the mysterious
+Ruins of Alph
+.
+Trainers
+Trainer
+Pokémon
+Youngster
+Albert
+Reward:
+$
+128
+Rattata
+♂
+Lv.
+6
+No item
+Zubat
+♂
+Lv.
+8
+No item
+Picnicker
+Liz
+Reward:
+$
+128
+Nidoran♀
+Lv.
+8
+No item
+Camper
+Roland
+Reward:
+$
+144
+Nidoran♂
+Lv.
+9
+No item
+Fisherman
+Henry
+Reward:
+$
+256
+Poliwag
+♂
+Lv.
+8
+No item
+Poliwag
+♂
+Lv.
+8
+No item
+Fisherman
+Justin
+Reward:
+$
+160
+Magikarp
+♂
+Lv.
+5
+No item
+Magikarp
+♂
+Lv.
+5
+No item
+Magikarp
+♂
+Lv.
+15
+No item
+Magikarp
+♂
+Lv.
+5
+No item
+Fisherman
+Ralph
+Reward:
+$
+320
+Goldeen
+♂
+Lv.
+10
+No item
+Youngster
+Gordon
+Reward:
+$
+160
+Wooper
+♂
+Lv.
+10
+No item
+Bird Keeper
+Peter
+Reward:
+$
+256
+Pidgey
+♂
+Lv.
+6
+No item
+Pidgey
+♂
+Lv.
+6
+No item
+Spearow
+♂
+Lv.
+8
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+4, 6
+35%
+40%
+0%
+Rattata
+HG
+SS
+Grass
+4
+0%
+0%
+30%
+Rattata
+HG
+SS
+Grass
+6
+5%
+0%
+0%
+Rattata
+HG
+SS
+Grass
+4-6
+0%
+10%
+0%
+Ekans
+HG
+SS
+Grass
+4
+30%
+Zubat
+HG
+SS
+Grass
+4
+5%
+0%
+5%
+Bellsprout
+HG
+SS
+Grass
+6
+30%
+30%
+20%
+Mareep
+HG
+SS
+Grass
+6
+20%
+20%
+10%
+Hoppip
+HG
+SS
+Grass
+6
+10%
+10%
+0%
+Wooper
+HG
+SS
+Grass
+6
+0%
+0%
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Miracle Seed
+Northeast part of the route, from the man north of the first grass patch
+HG
+SS
+Repel
+Southwest of the hill, in the grass patch west of Picnicker Liz
+HG
+SS
+Great Ball
+×2
+Southwest of the pier, in the tall grass
+Outside the
+Union Cave
+entrance (hidden)
+HG
+SS
+TM09
+(
+Bullet Seed
+)
+On the southwest cliff
+HG
+SS
+Poison Barb
+Dead-end path behind the Pokémon Center, from
+Frieda
+Fr
+HG
+SS
+Relax Ribbon
+Dead-end path behind the Pokémon Center; from
+Frieda
+Fr
+, after meeting all seven Week Siblings
+HG
+SS
+Old Rod
+Pokémon Center; from the Fishing Guru
+HG
+SS
+Lure Ball
+×2
+Pokémon Center; from the Apricorn enthusiast
+HG
+SS
+Later visit
+TM05
+(
+Roar
+)
+From the man on the northern hill (requires
+Cut
+)
+HG
+SS
+Super Potion
+On the northern hill, west of the man who gives out
+TM05
+(requires
+Cut
+)
+HG
+SS
+Heart Scale
+East of the pier, on the smaller rock near the pillar under the train bridge (hidden; requires
+Surf
+)
+HG
+SS
+Shell Bell
+Southeast of the
+Union Cave
+entrance, beyond a
+breakable rock
+(requires
+Rock Smash
+)
+HG
+SS
+Ruins of Alph
+The grounds where the
+Ruins of Alph
+are located can be reached from
+Route 32
+to the east and
+Route 36
+to the north. There are four interior chambers. Each chamber holds a puzzle in which tiles must be arranged to show the image of a specific Pokémon species. Completing each puzzle causes a series of
+Unown
+forms to begin appearing in the large hall beneath the complex. The mysterious Pokémon species appears in
+many different forms
+that all resemble letters of the alphabet. Unown's encounter rate is evenly divided among all unlocked forms.
+Each chamber also features a message in Unown script on the rear wall. Deciphering this message and using the correct item or field move reveals a doorway to hidden room filled with items.
+Trainers
+Trainer
+Pokémon
+Accessed from Union Cave (requires
+Surf
+)
+Psychic
+Nathan
+Reward:
+$
+832
+Girafarig
+♂
+Lv.
+26
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Natu
+HG
+SS
+Grass
+18, 20, 22, 24
+90%
+Smeargle
+HG
+SS
+Grass
+20, 22
+10%
+Fishing
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+After clearing at least one puzzle
+Unown
+HG
+SS
+Cave
+5
+100%
+After obtaining all 26 alphabetic Unown forms, completing all 4 tile puzzles, and unlocking all 4 secret rooms
+Unown
+HG
+SS
+Cave
+5
+50%
+Unown
+HG
+SS
+Cave
+5
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Exterior
+Item
+Location
+Games
+Potion
+Northeast area, in the southernmost of three buildings, next to the west wall
+HG
+SS
+Great Ball
+Near the east gate, on a lone rock south of the path, next to a group of five rocks (hidden)
+HG
+SS
+TinyMushroom
+Two steps east of the western pond, on a bit of darker-colored dirt (hidden)
+HG
+SS
+Unown Report
+From a Scientist in the underground hall, after solving the first puzzle
+HG
+SS
+Later visit
+Rare Candy
+Northwest area, on a solid rock partially hidden behind the northwesternmost structure (hidden; requires
+Rock Smash
+)
+HG
+SS
+Hyper Potion
+North side of the western pond (requires
+Rock Smash
+)
+HG
+SS
+Nugget
+Southwest hill, on the small rock two steps north of the grassy area (hidden; accessed via
+Union Cave
+)
+HG
+SS
+Big Mushroom
+Southwest hill, on the southwesternmost smaller rock south of the cave exit (hidden; accessed via
+Union Cave
+)
+HG
+SS
+Hidden rooms
+Item
+Location
+Games
+Oran Berry
+North chamber
+HG
+SS
+Pecha Berry
+North chamber
+HG
+SS
+Heal Powder
+North chamber
+HG
+SS
+EnergyPowder
+North chamber
+HG
+SS
+Sitrus Berry
+Southeast chamber (requires
+Surf
+)
+HG
+SS
+Moon Stone
+Southeast chamber (requires
+Surf
+)
+HG
+SS
+Heal Powder
+Southeast chamber (requires
+Surf
+)
+HG
+SS
+Energy Root
+Southeast chamber (requires
+Surf
+)
+HG
+SS
+Life Orb
+West chamber (requires
+Surf
+)
+HG
+SS
+Leppa Berry
+West chamber (requires
+Surf
+)
+HG
+SS
+Revival Herb
+West chamber (requires
+Surf
+)
+HG
+SS
+Charcoal
+West chamber (requires
+Surf
+)
+HG
+SS
+Leppa Berry
+Southwest chamber (requires
+Surf
+,
+Strength
+)
+HG
+SS
+Mystic Water
+Southwest chamber (requires
+Surf
+,
+Strength
+)
+HG
+SS
+Stardust
+Southwest chamber (requires
+Surf
+,
+Strength
+)
+HG
+SS
+Star Piece
+Southwest chamber (requires
+Surf
+,
+Strength
+)
+HG
+SS
+North chamber
+The north chamber is the only one accessible at first. Examine the text on the rear wall to find a single word:
+ESCAPE
+. Using an
+Escape Rope
+here reveals a hidden doorway. The room behind holds an
+Oran Berry
+,
+Pecha Berry
+,
+Heal Powder
+, and an
+EnergyPowder
+. Dropping down through the hole at the back wall leads to a hidden room above the underground hall, where a message in Unown script can be found on the floor:
+OUR CLAN ENGRAVED WORDS IN THIS PLACE
+Our clan engraved words in this place
+In the entry room, a bit of text beside the puzzle hints at the Pokémon's identity. Move the tiles to their proper place to reveal the Pokémon's image and complete the puzzle. Doing so causes the floor to fall away, dropping you into the underground hall where the first ten forms of
+Unown
+have awakened. This draws the attention of a researcher, who notices your talent for archaeology and gives you the
+Unown Report
+. This device records the limited data available on each of the Unown forms.
+Puzzle
+Hint
+Pokémon
+Unown Forms Unlocked
+#1
+(North)
+This Pokémon hides on the seafloor and watches the shore with eyes on its back.
+Kabuto
+#2
+(Southeast)
+This Pokémon knew no fear and flew as it pleased through the skies long ago.
+Aerodactyl
+#3
+(West)
+This Pokémon, with feathers of seven colors, flies through the sky, according to legend.
+Ho-Oh
+#4
+(Southwest)
+A ten-legged Pokémon that swims on the bottom of the sea and eats plankton.
+Omanyte
+Southeast chamber
+The southeast chamber can be accessed after obtaining
+HM03
+(
+Surf
+). Examine the text on the rear wall to find a single word:
+LIGHT
+. Using the move
+Flash
+here will reveal another hidden doorway. The room behind holds a
+Sitrus Berry
+,
+Moon Stone
+,
+Heal Powder
+, and an
+Energy Root
+. Dropping down through the hole at the back wall leads to a second hidden room above the underground hall, where another message in Unown script can be found on the floor:
+OUR CLAN CREATED POKEMON STATUE OUTSIDE
+Our clan created Pokémon statue outside
+In the entry room, move the tiles to reveal an image of
+Aerodactyl
+, and the floor falls away. Completing this puzzle causes five more
+Unown
+forms to appear in the underground hall.
+West chamber
+The western chamber can only be accessed through
+Union Cave
+, after obtaining
+HM03
+(
+Surf
+). Examine the text on the rear wall to find a single word:
+HO OH
+. Positioning a
+Ho-Oh
+in the first party slot will reveal another hidden doorway. The room behind holds a
+Life Orb
+,
+Leppa Berry
+,
+Revival Herb
+, and a
+Charcoal
+. Dropping down through the hole at the back wall leads to a third hidden room above the underground hall, where another message in Unown script can be found on the floor:
+WE HUMANS NEED TO WALK WITH THEM
+We humans need to walk with them
+WE LEAVE HERE FOR THE SAKE OF THEM
+We leave here for the sake of them
+In the entry room, move the tiles to reveal an image of
+Ho-Oh
+, and the floor falls away. Completing this puzzle causes four more
+Unown
+forms to appear.
+Southwest chamber
+The southwest chamber can only be accessed through
+Union Cave
+, after obtaining
+HM03
+(
+Surf
+) and
+HM04
+(
+Strength
+). Examine the text on the rear wall to find a single word:
+WATER
+. Attempting to use a
+Water Stone
+here will reveal another hidden doorway. The room behind holds a
+Leppa Berry
+,
+Mystic Water
+,
+Stardust
+, and a
+Star Piece
+. Dropping down through the hole at the back wall leads to another hidden room above the underground hall, where a final message in Unown script can be found on the floor:
+THEY POSSESS POWER TO SENSE WITH MIND AND REJECT OUTSIDE
+They possess power to sense with mind and reject outside
+In the entry room, move the tiles to reveal an image of
+Omanyte
+, and the floor falls away. Completing this puzzle causes the final seven
+Unown
+forms to appear.
+Scheming for SlowpokeTails
+As you approach the southern end of the route, you see a shady man loitering around to the west of the Pokémon Center. If spoken to, he tries to sell you a "tasty, nutritious
+SlowpokeTail
+" for the special price of
+$
+1,000,000. When he realizes that you do not have the cash, he shooes you away.
+Fishing Guru 1
+Visit the Pokémon Center to rest your weary team and prepare for the upcoming cave. Speak to the Fisherman near the counter to receive an
+Old Rod
+. With this
+fishing
+rod, you can now cast your line at any body of water to reel in
+Water-type
+Pokémon. The Old Rod is a low-end model, and is often only able to hook
+Magikarp
+.
+Union Cave
+Union Cave, 1F
+Union Cave, B1F
+Union Cave, B2F
+Union Cave
+is a small cave on the southern end of
+Johto
+'s peninsula, located between Routes
+32
+and
+33
+. The ground-level tunnel simply connects the two routes together. Seawater wells up from underground in several areas, initially blocking access to the deepest parts of the cave. Exploring the lower levels at a later point reveals two more exits that lead back to the
+Ruins of Alph
+.
+Trainers
+1F
+Trainer
+Pokémon
+1F
+Firebreather
+Ray
+Reward:
+$
+288
+Vulpix
+♀
+Lv.
+9
+No item
+Hiker
+Daniel
+Reward:
+$
+352
+Onix
+♂
+Lv.
+11
+No item
+Hiker
+Russel
+Reward:
+$
+256
+Geodude
+♂
+Lv.
+4
+No item
+Geodude
+♂
+Lv.
+6
+No item
+Geodude
+♂
+Lv.
+8
+No item
+Firebreather
+Bill
+Reward:
+$
+192
+Koffing
+♂
+Lv.
+6
+No item
+Koffing
+♂
+Lv.
+6
+No item
+Poké Maniac
+Larry
+Reward:
+$
+704
+Slowpoke
+♂
+Lv.
+11
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+B1F
+Trainer
+Pokémon
+B1F (North)
+Hiker
+Leonard
+Reward:
+$
+800
+Geodude
+♂
+Lv.
+23
+No item
+Machop
+♂
+Lv.
+25
+No item
+Hiker
+Phillip
+Reward:
+$
+800
+Geodude
+♂
+Lv.
+23
+No item
+Graveler
+♂
+Lv.
+25
+No item
+B1F (South)
+Poké Maniac
+Andrew
+Reward:
+$
+1536
+Marowak
+♂
+Lv.
+24
+No item
+Marowak
+♂
+Lv.
+24
+No item
+Poké Maniac
+Calvin
+Reward:
+$
+1664
+Kangaskhan
+♀
+Lv.
+26
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+B2F
+Trainer
+Pokémon
+B2F
+Ace Trainer
+Nick
+Reward:
+$
+1560
+Charmander
+♂
+Lv.
+26
+No item
+Squirtle
+♂
+Lv.
+26
+No item
+Bulbasaur
+♂
+Lv.
+26
+No item
+Ace Trainer
+Gwen
+Reward:
+$
+1320
+Eevee
+♂
+Lv.
+26
+No item
+Vaporeon
+♂
+Lv.
+22
+No item
+Flareon
+♂
+Lv.
+22
+No item
+Jolteon
+♂
+Lv.
+22
+No item
+Ace Trainer
+Emma
+Reward:
+$
+1680
+Poliwhirl
+♀
+Lv.
+28
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Cave
+4
+10%
+Rattata
+HG
+SS
+Cave
+4, 6
+40%
+Sandshrew
+HG
+SS
+Cave
+6
+30%
+Zubat
+HG
+SS
+Cave
+5, 7
+25%
+Geodude
+HG
+SS
+Cave
+6
+30%
+Onix
+HG
+SS
+Cave
+6
+5%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Cave
+6
+5%
+Rattata
+HG
+SS
+Cave
+6, 8
+35%
+Sandshrew
+HG
+SS
+Cave
+8
+30%
+Zubat
+HG
+SS
+Cave
+7, 9
+25%
+Geodude
+HG
+SS
+Cave
+8
+30%
+Onix
+HG
+SS
+Cave
+8
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+X Attack
+Northwest area
+HG
+SS
+Great Ball
+East-central area, near Firebreather Bill
+HG
+SS
+Potion
+West-central area, north side of the largest pool
+HG
+SS
+Parlyz Heal
+East of the largest pool, on a stalagmite (hidden)
+HG
+SS
+Awakening
+Southeast area, near the exit to
+Route 33
+HG
+SS
+B1F
+X Defend
+North; north of the stairs from 1F
+HG
+SS
+X Speed
+North; on a lone rock near the south wall (hidden)
+HG
+SS
+TM39
+(
+Rock Tomb
+)
+North; southwest corner
+HG
+SS
+Later visit
+Big Pearl
+1F; West of the largest pool, on a stalagmite on a bit of dry land (hidden; requires
+Surf
+)
+HG
+SS
+Revive
+B1F; Northeast area, on a small stalagmite northeast of Hiker Leonard (hidden; requires
+Surf
+)
+HG
+SS
+Elixir
+B2F; Northeast corner (requires
+Surf
+)
+HG
+SS
+Hyper Potion
+B2F; East-central ridge (requires
+Surf
+)
+HG
+SS
+Calcium
+B2F; West-central ridge, northwest of Ace Trainer Gwen (hidden; requires
+Surf
+)
+HG
+SS
+Ultra Ball
+B2F; Southwest area, on a stalagmite a few steps northwest of Ace Trainer Emma (hidden; requires
+Surf
+)
+HG
+SS
+1F
+Go west to reach an
+X Attack
+in the northwest area. Continue northward to battle Firebreather Ray, then take the stairs down to B1F.
+B1F (North)
+Go north to reach an
+X Defend
+, then pick up
+TM39
+(
+Rock Tomb
+) in the southwest corner. The rest of the area cannot be explored without using
+Surf
+, so backtrack up the stairs to 1F.
+Return to the Ruins
+Requires:
+HM03
+(
+Surf
+),
+HM04
+(
+Strength
+)
+Return later and use
+Surf
+to cross the water and reach two branching paths. The northern tunnel leads to the western part of the
+Ruins of Alph
+, which houses the third puzzle and the area's only patch of tall grass. The southern tunnel is blocked by a boulder; using
+Strength
+to clear a path leads to the fourth puzzle in the southwest part of the ruins.
+1F
+Go south to battle Hiker Daniel, then move southeastward to fight Hiker Russell. Turn south to reach Firebreather Bill; defeat him and collect the
+Great Ball
+in the corner to the south. Go west to pick up a
+Potion
+, then continue southward. Battle Poké Maniac Larry, then turn southeastward to reach an
+Awakening
+near the exit.
+Down to the Depths
+Requires:
+HM03
+(
+Surf
+)
+Return later and use
+Surf
+to cross the pool of water in the southwest area.
+B1F (South)
+Battle Poké Maniac Andrew and
+Surf
+eastward. Climb down the ladder next to Poké Maniac Calvin.
+B2F
+Cross the water to reach an
+Elixir
+in the northeast area. Sail southward to reach Ace Trainer Nick and a
+Hyper Potion
+on the east-central ridge. Go northwestward across the water to battle Ace Trainer Gwen, then head south to fight Ace Trainer Emma. On Fridays, a wild
+Lapras
+wanders its way in from the sea and appears in the southern-most pool.
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+or
+Shell Armor
+Held item:
+None
+Lapras
+♂
+/
+♀
+Lv.
+20
+Confuse Ray
+Ghost
+Status
+--
+Ice Shard
+Ice
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Route 33
+Route 33
+Route 33
+is a short path that leads west from
+Union Cave
+to
+Azalea Town
+. A pair of
+Apricorn
+Trees grow in the southeast.
+Trainers
+Trainer
+Pokémon
+Hiker
+Anthony
+Reward:
+$
+352
+Geodude
+♂
+Lv.
+11
+No item
+Machop
+♂
+Lv.
+11
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+6-7
+40%
+0%
+60%
+Rattata
+HG
+SS
+Grass
+4, 6-7
+0%
+45%
+0%
+Rattata
+HG
+SS
+Grass
+6
+10%
+0%
+30%
+Rattata
+HG
+SS
+Grass
+4, 6
+0%
+15%
+0%
+Spearow
+HG
+SS
+Grass
+6
+20%
+20%
+0%
+Ekans
+HG
+SS
+Grass
+7
+30%
+Zubat
+HG
+SS
+Grass
+4
+5%
+0%
+0%
+Zubat
+HG
+SS
+Grass
+4, 6, 8
+0%
+0%
+40%
+Hoppip
+HG
+SS
+Grass
+6, 8
+35%
+35%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pnk Apricorn
+Southeast of the Union Cave exit, on the western tree (daily)
+HG
+SS
+Blk Apricorn
+Southeast of the Union Cave exit, on the eastern tree (daily)
+HG
+SS
+← Part 3
+Route 30, Route 31, Violet City
+HeartGold and SoulSilver
+walkthrough
+Azalea Town, Slowpoke Well, Ilex Forest, Route 34
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

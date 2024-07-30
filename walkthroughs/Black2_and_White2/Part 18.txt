@@ -1,0 +1,1413 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_18
+Keywords: Route 14, Abundant Shrine, Black City & White Forest, Route 15, Marvelous Bridge
+
+Walkthrough Text:
+Contents
+1
+Route 14
+1.1
+Abundant Shrine
+2
+The Southeast
+2.1
+Black City
+2.1.1
+Market
+2.1.2
+Black Tower
+2.1.2.1
+Basic Rules
+2.1.2.2
+Clearing an Area
+2.2
+White Forest
+2.2.1
+Market
+2.2.2
+White Treehollow
+2.2.2.1
+Basic Rules
+2.2.2.2
+Clearing an Area
+3
+Route 15
+3.1
+Poké Transfer Lab
+4
+Marvelous Bridge
+4.1
+Cresselia
+4.2
+The Magikarp Salesman
+Route 14
+Route 14
+Route 14
+runs east to west alongside gentle rivers and thundering waterfalls. The spray kicked up from these waterfalls bathes the area in a thick mist, which can make it tough to see. Above the waterfalls and far to the west lies the
+Abundant Shrine
+, the only remaining sign that there was once a village here.
+Trainers
+Trainer
+Pokémon
+Socialite
+Marian
+トシエ
+Toshie
+Reward:
+$
+7800
+Lopunny
+♀
+Lv.
+39
+No item
+Gentleman
+Sheldon
+セイジロウ
+Seijirō
+Reward:
+$
+7800
+Delcatty
+♀
+Lv.
+39
+No item
+Battle Girl
+Glinda
+ナオ
+Nao
+Reward:
+$
+1280
+Gurdurr
+♂
+Lv.
+40
+No item
+Fisherman
+Sid
+リョウスケ
+Ryōsuke
+Reward:
+$
+1216
+Staryu
+Lv.
+38
+No item
+Buizel
+♂
+Lv.
+38
+No item
+Ace Trainer
+Kipp
+ユウスケ
+Yūsuke
+Reward:
+$
+2340
+Rotation Battle
+Tangela
+♂
+Lv.
+39
+No item
+Zebstrika
+♂
+Lv.
+39
+No item
+Skarmory
+♂
+Lv.
+39
+No item
+Ace Trainer
+Junko
+ショウコ
+Shōko
+Reward:
+$
+2340
+Triple Battle
+Gligar
+♀
+Lv.
+39
+No item
+Lilligant
+♀
+Lv.
+39
+No item
+Basculin
+♀
+Red-Striped Form
+Lv.
+39
+No item
+Backpacker
+Reece
+レンタロウ
+Rentarō
+Reward:
+$
+912
+Skorupi
+♂
+Lv.
+38
+No item
+Pinsir
+♂
+Lv.
+38
+No item
+Waterfall is required
+Black Belt
+Jay
+ケンキチ
+Kenkichi
+Reward:
+$
+1664
+Heracross
+♂
+Lv.
+52
+No item
+Conkeldurr
+♂
+Lv.
+52
+No item
+Gigalith
+♂
+Lv.
+52
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+B2
+W2
+Grass
+34-35
+25%
+Swablu
+B2
+W2
+Grass
+33
+20%
+Mienfoo
+B2
+W2
+Grass
+33-35
+20%
+Absol
+B2
+W2
+Grass
+34-36
+15%
+Drifblim
+B2
+W2
+Grass
+34-35
+15%
+Altaria
+B2
+W2
+Grass
+36
+5%
+Dark grass
+Mienfoo
+B2
+W2
+Dark grass
+37-39
+30%
+Golduck
+B2
+W2
+Dark grass
+37-39
+25%
+Altaria
+B2
+W2
+Dark grass
+37-40
+15%
+Absol
+B2
+W2
+Dark grass
+38-40
+15%
+Drifblim
+B2
+W2
+Dark grass
+38-39
+15%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+33-36
+90%
+Emolga
+B2
+W2
+Rustling grass
+34
+10%
+Surfing
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Buizel
+B2
+W2
+Surfing
+25-40
+30%
+Rippling water
+Buizel
+B2
+W2
+Rippling water
+25-40
+60%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Floatzel
+B2
+W2
+Rippling water
+25-40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+East of Socialite Marian
+B2
+W2
+Max Potion
+East of Fisherman Sid
+B2
+W2
+Heart Scale
+North of Backpacker Reece (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Protein
+West of Fisherman Sid (hidden; requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Nugget
+×2
+Northwest of Backpacker Reece (hidden; requires
+Surf
+,
+Waterfall
+)
+South of Black Belt Jay (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Pick up the
+Big Pearl
+on the beach and head south. Surf west from the northernmost bridge and climb the waterfall to reach a
+Heart Scale
+. Climb the next waterfall and check the north side of the river to find a
+Nugget
+. Surf west again to battle Black Belt Jay, and grab the nearby item, another
+Nugget
+. Ride down the waterfall and go west to reach the
+Abundant Shrine
+.
+Abundant Shrine
+Abundant Shrine
+Trainers
+Trainer
+Pokémon
+Youngster
+Wes
+コウタ
+Kōta
+Reward:
+$
+624
+Skorupi
+♂
+Lv.
+39
+No item
+Seviper
+♂
+Lv.
+39
+No item
+Twins
+Rae & Ula
+シホとチホ
+Shiho and Chiho
+Reward:
+$
+608
+Swablu
+♀
+Lv.
+38
+No item
+Swablu
+♀
+Lv.
+38
+No item
+Lass
+Lurleen
+チセ
+Chise
+Reward:
+$
+624
+Deerling
+♀
+Autumn Form
+Lv.
+39
+No item
+Zangoose
+♀
+Lv.
+39
+No item
+Youngster
+Jaye
+ヤスヒサ
+Yasuhisa
+Reward:
+$
+592
+Karrablast
+♂
+Lv.
+37
+No item
+Shelmet
+♂
+Lv.
+37
+No item
+Joltik
+♂
+Lv.
+37
+No item
+Scolipede
+♂
+Lv.
+37
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Cottonee
+B2
+W2
+Grass
+33-35
+30%
+Petilil
+B2
+W2
+Grass
+33-35
+30%
+Swablu
+B2
+W2
+Grass
+33
+20%
+Bronzor
+B2
+W2
+Grass
+32
+15%
+Vulpix
+B2
+W2
+Grass
+34
+10%
+Golduck
+B2
+W2
+Grass
+34
+10%
+Marill
+B2
+W2
+Grass
+34
+10%
+Altaria
+B2
+W2
+Grass
+36
+5%
+Dark grass
+Cottonee
+B2
+W2
+Dark grass
+37-39
+35%
+Petilil
+B2
+W2
+Dark grass
+37-39
+35%
+Vulpix
+B2
+W2
+Dark grass
+37
+20%
+Altaria
+B2
+W2
+Dark grass
+38-40
+15%
+Golduck
+B2
+W2
+Dark grass
+38
+10%
+Marill
+B2
+W2
+Dark grass
+38
+10%
+Bronzong
+B2
+W2
+Dark grass
+36
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+33-36
+75%
+Emolga
+B2
+W2
+Rustling grass
+34
+10%
+Ninetales
+B2
+W2
+Rustling grass
+36
+5%
+Azumarill
+B2
+W2
+Rustling grass
+36
+5%
+Whimsicott
+B2
+W2
+Rustling grass
+36
+5%
+Lilligant
+B2
+W2
+Rustling grass
+36
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Marill
+B2
+W2
+Surfing
+25-40
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+25-40
+60%
+Basculin
+B2
+W2
+Rippling water
+25-40
+35%
+Basculin
+B2
+W2
+Rippling water
+25-40
+35%
+Azumarill
+B2
+W2
+Rippling water
+30-40
+5%
+Swarm
+Slowpoke
+B2
+W2
+Grass
+15-55
+40%
+Hidden Grotto
+Amoonguss
+B2
+W2
+Hidden Grotto
+35-40
+Common
+Bronzor
+B2
+W2
+Hidden Grotto
+35-40
+Uncommon
+Vulpix
+B2
+W2
+Hidden Grotto
+35-40
+Rare
+Hidden Grotto
+Amoonguss
+B2
+W2
+Hidden Grotto
+35-40
+Common
+Golduck
+B2
+W2
+Hidden Grotto
+35-40
+Uncommon
+Swablu
+B2
+W2
+Hidden Grotto
+35-40
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Calcium
+Between the ledge and the southern pond (hidden)
+B2
+W2
+TinyMushroom
+Southeast of Youngster Wes (hidden)
+B2
+W2
+Shiny Stone
+Northeast of Youngster Wes
+B2
+W2
+Max Revive
+East of Lass Lurleen
+B2
+W2
+TM92
+(
+Trick Room
+)
+East of Youngster Jaye
+B2
+W2
+Big Mushroom
+West of Youngster Jaye (hidden)
+B2
+W2
+Heal Ball
+East of the shrine
+B2
+W2
+PP Max
+East of the fence near the northeast patch of soil (hidden)
+B2
+W2
+Rare Candy
+West of the fence near the northeast patch of soil
+B2
+W2
+Requires Therian Forme Landorus
+Reveal Glass
+From an old man who appears near the shrine
+B2
+W2
+Go west to find a
+Calcium
+hidden near the pond, then head north to reach Youngster Wes and the
+Shiny Stone
+northeast of him. Turn southwest and battle Twins Rae & Ula, then grab the
+Max Revive
+near Lass Lurleen.
+TM92
+(
+Trick Room
+) lies to the east of Youngster Jaye.
+The shrine to
+Landorus
+stands on a hill to the north. If you visit with a Landorus that was caught
+elsewhere
+, an old man will appear. He gives a brief history lesson about the
+Forces of Nature
+before handing over a
+Reveal Glass
+. This mirror is said to show the truth, and can be used to switch any of the three Pokémon between their
+Incarnate and Therian Formes
+.
+Cross the pond to the east of the shrine to get a
+Heal Ball
+, then head to the northeastern plot of soil. A
+Rare Candy
+lies on the west end of the fence, while a hidden
+PP Max
+lies on the east end.
+Back on
+Route 14
+, follow the river and jump the ledge to reach a
+Max Potion
+. Head southwest to enter
+Black City
+or
+White Forest
+.
+The Southeast
+Black City and White Forest
+The southeast locale on
+Unova
+'s main landmass differs between versions, either
+Black City
+or
+White Forest
+, respectively.
+Black City
+Black City
+is a modern metropolis filled with skyscrapers. On the north side of the city stands the
+Black Tower
+.
+Market
+The Market is located on the south side of the city, but is initially empty. The stores will open one by one as you progress through Black Tower. Only one item may be purchased per day from each store.
+Store 1 (unlocked upon clearing Area 2)
+Thunderstone
+*
+$
+10000
+Protector
+*
+$
+10000
+Store 2 (unlocked upon clearing Area 5)
+Fire Stone
+*
+$
+20000
+Metal Coat
+*
+$
+20000
+Store 3 (unlocked upon clearing Area 8)
+Dusk Stone
+*
+$
+40000
+Up-Grade
+*
+$
+40000
+Store 4 (unlocked upon clearing Area 10)
+Dawn Stone
+*
+$
+60000
+Dubious Disc
+*
+$
+60000
+Black Tower
+Black Tower
+The
+Black Tower
+is a battle arena that was just recently constructed. The Trainers found inside change every time you enter it. Battle these Trainers on your way through the various Areas. Defeat the Boss Trainer at the end of each Area to advance. There are ten Areas in all, each more challenging than the last.
+Basic Rules
+Unlike other battle facilities, you will earn prize money and Experience Points by defeating the Trainers here. However, using the Bag is not allowed, so you will be unable to use items besides held items to restore health or cure status conditions. Each Area's Doctor will, upon defeat, offer a one-time-only courtesy; if you do not need it at that time, you can return to heal up later. The opposing Pokémon you encounter will not be registered in the Pokédex. It is possible to save your progress during the challenge, and you can quit midway by leaving via the elevator.
+Clearing an Area
+Defeat Trainers in the Area to receive hints about where to find the Gate Trainer, who controls the door to the Boss Trainer's room. Defeat the Gate Trainer to open the door to the Boss Trainer's room. Defeat the Boss Trainer to clear the Area. A full list of Trainers can be found
+here
+.
+Alder
+'s grandson
+Benga
+waits in Area 10's final room; defeat him here then meet him back in
+Floccesy Town
+to receive a
+shiny
+Gible
+. If you are accessing Black Tower from White 2, a trainer named Janna will serve as the Boss Trainer for Area 10 instead.
+After clearing each Area, you will be returned to the entrance to receive your reward. The item obtained is random, and those obtained for clearing Areas 4, 5, 8, and 9 will be doubled. Once Area 5 is cleared you will receive the Tower Key that will allow you to use the
+Key System
+to swap it into White 2, allowing Black City to be accessed in White 2.
+Area
+Reward
+Areas 1-3
+HP Up
+Protein
+Iron
+Calcium
+Zinc
+Carbos
+Areas 4, 5
+HP Up
+×2
+Protein
+×2
+Iron
+×2
+Calcium
+×2
+Zinc
+×2
+Carbos
+×2
+Area
+Reward
+Areas 6, 7
+Health Wing
+Muscle Wing
+Resist Wing
+Genius Wing
+Clever Wing
+Swift Wing
+Rare Candy
+Areas 8, 9
+Health Wing
+×2
+Muscle Wing
+×2
+Resist Wing
+×2
+Genius Wing
+×2
+Clever Wing
+×2
+Swift Wing
+×2
+Rare Candy
+×2
+Area
+Reward
+Area 10
+Pomeg Berry
+Kelpsy Berry
+Qualot Berry
+Hondew Berry
+Grepa Berry
+Tamato Berry
+Rare Candy
+White Forest
+White Forest
+is an ancient grove filled with giant trees. On the north side of the forest stands the
+White Treehollow
+.
+Market
+The Market is located on the south side of the forest, but is initially empty. The stores will open one by one as you progress through White Treehollow. Only one item may be purchased per day from each store.
+Top-left store (unlocked upon clearing Area 2)
+Leaf Stone
+*
+$
+10000
+DeepSeaTooth
+*
+$
+10000
+Top-right store (unlocked upon clearing Area 5)
+Water Stone
+*
+$
+20000
+DeepSeaScale
+*
+$
+20000
+Bottom-left store (unlocked upon clearing Area 8)
+Shiny Stone
+*
+$
+40000
+Dragon Scale
+*
+$
+40000
+Bottom-right store (unlocked upon clearing Area 10)
+Oval Stone
+*
+$
+60000
+King's Rock
+*
+$
+60000
+White Treehollow
+White Treehollow
+The
+White Treehollow
+is a battle arena that was just recently established. The Trainers found inside change every time you enter it. Battle these Trainers on your way through the various Areas. Defeat the Boss Trainer at the end of each Area to advance. There are ten Areas in all, each more challenging than the last.
+Basic Rules
+Unlike other battle facilities, you will earn prize money and Experience Points by defeating the Trainers here. However, using the Bag is not allowed, so you will be unable to use items besides held items to restore health or cure status conditions. Each Area's Nurse will, upon defeat, offer a one-time-only courtesy; if you do not need it at that time, you can return to heal up later. The opposing Pokémon you encounter will not be registered in the Pokédex. It is possible to save your progress during the challenge, and you can quit midway by leaving via the elevator.
+Clearing an Area
+Defeat Trainers in the Area to receive hints about where to find the Gate Trainer, who controls the door to the Boss Trainer's room. Defeat the Gate Trainer to open the door to the Boss Trainer's room. Defeat the Boss Trainer to clear the Area. A full list of Trainers can be found
+here
+.
+Alder
+'s grandson
+Benga
+waits in Area 10's final room; defeat him here then meet him back in
+Floccesy Town
+to receive a
+shiny
+Dratini
+. If you are accessing White Treehollow from Black 2, a trainer named Jariel will serve as the Boss Trainer for Area 10 instead.
+After clearing each Area, you will be returned to the entrance to receive your reward. The item obtained is random, and those obtained for clearing Areas 4, 5, 8, and 9 will be doubled. Once Area 5 is cleared you will receive the Treehollow Key that will allow you to use the
+Key System
+to swap it into Black 2, allowing White Forest to be accessed in Black 2.
+Area
+Reward
+Areas 1-3
+HP Up
+Protein
+Iron
+Calcium
+Zinc
+Carbos
+Areas 4, 5
+HP Up
+×2
+Protein
+×2
+Iron
+×2
+Calcium
+×2
+Zinc
+×2
+Carbos
+×2
+Area
+Reward
+Areas 6, 7
+Health Wing
+Muscle Wing
+Resist Wing
+Genius Wing
+Clever Wing
+Swift Wing
+Rare Candy
+Areas 8, 9
+Health Wing
+×2
+Muscle Wing
+×2
+Resist Wing
+×2
+Genius Wing
+×2
+Clever Wing
+×2
+Swift Wing
+×2
+Rare Candy
+×2
+Area
+Reward
+Area 10
+Pomeg Berry
+Kelpsy Berry
+Qualot Berry
+Hondew Berry
+Grepa Berry
+Tamato Berry
+Rare Candy
+Route 15
+Route 15
+Route 15
+is characterized by its sheer cliffs, which may scare some people away. In the center of the route is the
+Poké Transfer Lab
+, where you can migrate Pokémon to
+Unova
+from other regions.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Elliot
+アキヒロ
+Akihiro
+Reward:
+$
+3840
+Growlithe
+♂
+Lv.
+60
+No item
+Stoutland
+♂
+Lv.
+60
+No item
+Houndour
+♂
+Lv.
+60
+No item
+Backpacker
+Talon
+タカオ
+Takao
+Reward:
+$
+1440
+Seedot
+♂
+Lv.
+60
+No item
+Croagunk
+♂
+Lv.
+60
+No item
+Cacnea
+♂
+Lv.
+60
+No item
+Backpacker
+Corin
+コマキ
+Komaki
+Reward:
+$
+1440
+Poochyena
+♀
+Lv.
+60
+No item
+Cubone
+♀
+Lv.
+60
+No item
+Torkoal
+♀
+Lv.
+60
+No item
+Scientist
+Marie
+カズホ
+Kazuho
+Reward:
+$
+2880
+Gulpin
+♀
+Lv.
+60
+No item
+Garbodor
+♀
+Lv.
+60
+No item
+Magnezone
+Lv.
+60
+No item
+Pokéfan
+Lydia
+ノリコ
+Noriko
+Reward:
+$
+3840
+Meowth
+♀
+Lv.
+60
+No item
+Glameow
+♀
+Lv.
+60
+No item
+Liepard
+♀
+Lv.
+60
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandslash
+B2
+W2
+Grass
+54-56
+30%
+Gligar
+B2
+W2
+Grass
+55-57
+25%
+Sawk
+B2
+W2
+Grass
+55-57
+20%
+Throh
+B2
+W2
+Grass
+55-57
+20%
+Pupitar
+B2
+W2
+Grass
+55-57
+15%
+Scrafty
+B2
+W2
+Grass
+55
+10%
+Dark grass
+Sandslash
+B2
+W2
+Dark grass
+62-64
+30%
+Gligar
+B2
+W2
+Dark grass
+63-65
+25%
+Sawk
+B2
+W2
+Dark grass
+63-65
+20%
+Throh
+B2
+W2
+Dark grass
+63-65
+20%
+Pupitar
+B2
+W2
+Dark grass
+63-65
+15%
+Scrafty
+B2
+W2
+Dark grass
+63
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+54-57
+75%
+Emolga
+B2
+W2
+Rustling grass
+55
+10%
+Tyranitar
+B2
+W2
+Rustling grass
+57
+5%
+Gliscor
+B2
+W2
+Rustling grass
+57
+5%
+Throh
+B2
+W2
+Rustling grass
+57
+5%
+Sawk
+B2
+W2
+Rustling grass
+57
+5%
+Swarm
+Fearow
+B2
+W2
+Grass
+15-55
+40%
+Special Pokémon
+Rotom
+B2
+W2
+Trade
+Ditto
+60
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM26
+(
+Earthquake
+)
+South of the eastern gate (requires
+Strength
+)
+B2
+W2
+Ultra Ball
+In the patch of dark grass (hidden; requires
+Strength
+)
+B2
+W2
+HP Up
+Near the rock to the east of Backpacker Talon (hidden)
+B2
+W2
+Max Potion
+Beneath the western bridge
+B2
+W2
+Max Elixir
+Held by traded
+Rotom
+B2
+W2
+Go south from the gate and move the boulder at the foot of the stairs to get
+TM26
+(
+Earthquake
+). Move the other boulder into place and climb the stairs to reach a
+Max Potion
+. Work your way to the west side of the cliff to find a trailer parked here; the woman inside is offering to trade her
+Rotom
+for a
+Ditto
+, which can be caught in the
+Giant Chasm
+'s Crater Forest. Take Rotom to
+Shopping Mall Nine
+'s warehouse to change its forms. Check out the Transfer Lab before reaching
+Marvelous Bridge
+.
+The Poké Transfer Lab
+Poké Transfer Lab
+The
+Poké Transfer Lab
+is the building that houses the
+Poké Transfer
+itself, the machinery that can transfer Pokémon from a
+Generation IV
+game. When you first enter, a Scientist leads you to Professor Andrew Park, who is very excited to see that you have all eight badges. After his rambling speech, you can participate at any time. The minigame itself involves two DS systems, a Poké Ball-flinging crossbow, and a few clouds of pink sleeping gas. Pokémon that are transferred from Sinnoh or Johto cannot be returned. They also are not allowed to have any items, or know any HM moves.
+Marvelous Bridge
+Marvelous Bridge
+Marvelous Bridge
+is a beautiful futuristic bridge that stretches over the ocean between
+Route 15
+and
+Route 16
+. Like
+Driftveil Drawbridge
+, flying Pokémon sometimes drop their
+feathers
+on the bridge.
+Cresselia
+When you pass under the eastern archway, the
+Lunar Wing
+begins to shine. Hold it up high, and
+Cresselia
+swoops down. Start the battle with
+Bug
+-,
+Ghost
+-, or
+Dark-type
+moves to reduce its health quickly, then follow up with
+Fighting
+or
+Psychic
+moves.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cresselia
+♀
+Lv.
+68
+Future Sight
+Psychic
+Special
+--
+Slash
+Normal
+Physical
+--
+Moonlight
+Normal
+Status
+--
+Psycho Cut
+Psychic
+Physical
+--
+The Magikarp Salesman
+On the bridge's west end is
+a man
+who will sell you a
+Magikarp
+for
+$
+500. After enough training, it grows into the formidable
+Gyarados
+. The fish is foreign to
+Unova
+, so you won't find it normally; however, you will soon be able to hunt them for free. If you decide to take him up on his offer, return here with an empty slot in your party.
+← Part 17
+Driftveil City, Clay Tunnel, Twist Mountain, Undella Town, Abyssal Ruins
+Black 2 and White 2
+walkthrough
+N's Castle, Tubeline Bridge, Route 8, Moor of Icirrus, Icirrus City, Dragonspiral Tower, Giant Chasm
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

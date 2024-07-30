@@ -1,0 +1,51 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 16
+Keywords: Route 128, Seafloor Cavern
+
+### Part 16: Route 128 and Seafloor Cavern Walkthrough
+
+**Route 128 Overview:**
+- Located between Route 127 and Route 129, leading to Ever Grande City.
+- Team Magma (Omega Ruby) or Team Aqua (Alpha Sapphire) is in the area, seeking the underwater cave Captain Stern discovered.
+
+**Key Trainers:**
+- **Ace Trainer Cornelius**: Golem (Lv. 39), Raichu (Lv. 39) - Reward: $2,340
+- **Fisherman Wayne**: Wailmer (Lv. 37), Seadra (Lv. 37) - Reward: $1,184
+- **Triathlete Isaiah**: Starmie (Lv. 36-49) - Rewards vary ($1,440 - $1,960)
+
+**Available Pokémon:**
+- **Surfing**: Tentacool, Pelipper, Tentacruel
+- **Fishing**: Magikarp, Luvdisc, Wailmer (Good/Super Rod)
+
+**Items:**
+- **Heart Scale**: 3 hidden locations (requires Dive)
+- **TMs**: TM55 (Scald) in Room 7, TM26 (Earthquake) in Room 9.
+
+---
+
+**Seafloor Cavern:**
+- Accessible via an underwater cave in Route 128.
+
+**Room Navigation:**
+1. **Entrance**: Hidden Heart Scale in the southeast corner.
+2. **Room 1**: Use Rock Smash to clear boulders; battle two Grunts.
+3. **Room 2**: Defeat a Grunt; push a boulder into a hole.
+4. **Room 3**: Hidden Escape Rope in the southeast; continue to the next room.
+5. **Room 4**: Solve boulder puzzles to proceed.
+6. **Room 7**: Ride currents to find TM55 (Scald).
+7. **Room 9**: Collect TM26 (Earthquake) before heading down to Room 10.
+
+---
+
+**Final Battle (Room 10):**
+- Face **Maxie (Omega Ruby)** or **Archie (Alpha Sapphire)**.
+- **Maxie’s Team**: Mightyena (Lv. 41), Weezing (Lv. 41), Crobat (Lv. 41), Camerupt (Lv. 43).
+- **Archie’s Team**: Mightyena (Lv. 41), Muk (Lv. 41), Crobat (Lv. 41), Sharpedo (Lv. 43).
+- Defeat them to witness the awakening of **Groudon (OR)** or **Kyogre (AS)**, causing drastic weather changes in Hoenn.
+
+---
+
+**Aftermath:**
+- The awakened Pokémon heads to Sootopolis City. Follow Steven to investigate the changes in weather conditions.
+
+**Next Steps:** Proceed to Route 126 and Sootopolis City for further exploration.

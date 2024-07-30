@@ -1,0 +1,1459 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_12
+Keywords: The Pokémon League: Elite Four, N's Castle
+
+Walkthrough Text:
+Contents
+1
+The Elite Four
+1.1
+Lower-left room: Shauntal
+1.2
+Upper-left room: Grimsley
+1.3
+Upper-right room: Caitlin
+1.4
+Lower-right room: Marshal
+1.5
+The Champion's Temple
+2
+N's Castle
+2.1
+2F
+2.2
+3F
+2.3
+4F
+2.4
+5F
+2.4.1
+Throne Room
+The Elite Four
+Outside the central plaza
+The
+Pokémon League
+is where the Elite Four await the challenge of aspiring Trainers. The four are the most talented Trainers of their respective types, and should not be taken lightly.
+Stop by the Pokémon Center in the structure to the west. When preparing a team, it is recommended to bring Pokémon with levels in the mid-50s, if not higher. You should definitely have your Pokémon well-rested for the upcoming gauntlet. Also, consider using TMs to create a more diverse movepool. The Poké Mart offers a wide assortment of items, so be sure to stock up on medicine while you can.
+Items
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Full Restore
+$
+3000
+Revive
+$
+1500
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Awakening
+$
+250
+Burn Heal
+$
+250
+Ice Heal
+$
+250
+Full Heal
+$
+600
+Escape Rope
+$
+550
+Repel
+$
+350
+Super Repel
+$
+500
+Max Repel
+$
+700
+Heal Ball
+$
+300
+Net Ball
+$
+1000
+Nest Ball
+$
+1000
+Quick Ball
+$
+1000
+Dusk Ball
+$
+1000
+Timer Ball
+$
+1000
+Repeat Ball
+$
+1000
+Luxury Ball
+$
+1000
+Save the game after each battle in case things do not go well. That way, you will only need to re-battle the previous opponent. Unlike past games, where challengers fought against each Elite Four member in the same order, the Elite Four of
+Unova
+can be battled in any order. The elite Trainers are waiting in their separate rooms, each accessible from the central plaza. From left to right, they are
+Shauntal
+,
+Grimsley
+,
+Caitlin
+, and
+Marshal
+. After defeating each Trainer, you will be warped back to the plaza, and a blue light shines from the floor. Once all four tiles are lit up, you can challenge the Champion.
+Shauntal
+Lower-left room: Shauntal
+When you enter the far-left room, a pair of will-o-wisps will carry you up the spiral staircase. On top of the towering bookshelf is
+Shauntal
+, an accomplished novelist and master of the
+Ghost-type
+.
+Elite Four
+Shauntal
+Pokémon League
+Black and White
+Reward:
+$
+6000
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+None
+Cofagrigus
+♀
+Lv.
+48
+Psychic
+Psychic
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Grass Knot
+Grass
+Special
+--
+Types:
+Water
+Ghost
+Ability:
+Cursed Body
+Held item:
+None
+Jellicent
+♀
+Lv.
+48
+Shadow Ball
+Ghost
+Special
+--
+Surf
+Water
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Brine
+Water
+Special
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+None
+Golurk
+Lv.
+48
+Curse
+Ghost
+Status
+--
+Brick Break
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Punch
+Ghost
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+None
+Chandelure
+♀
+Lv.
+50
+Fire Blast
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Payback
+Dark
+Physical
+--
+Shauntal's lead,
+Cofagrigus
+, is a female spook who has four moves of different types, packing
+Psychic
+,
+Shadow Ball
+,
+Will-O-Wisp
+and
+Grass Knot
+in its arsenal. It has high defenses, making it quite hard to take down. It has quite low speed, which you can use to your advantage.
+Her next Pokémon is Jellicent. It has four weaknesses, which you can use to your advantage. These include
+Ghost-type
+,
+Grass-type
+,
+Electric-type
+and
+Dark-type
+. Jellicent also packs fair Defense, excellent HP, and good Sp. Def., but if you stick to attacking, it will eventually fall.
+Golurk and Chandelure share a weakness to Water, meaning a
+flooded
+battlefield is one of their worst nightmares. They are also weak to the usual types Ghosts are weak to: themselves and Dark types. If you have any of the types listed above, beating Shauntal will be like writing your language's alphabet.
+Grimsley
+Upper-left room: Grimsley
+The center-left room is designed like an elegant ballroom. Torches line the spiral staircase, and burst to life as you move past. An elaborate chandelier hangs above the battlefield, where you meet
+Grimsley
+. He is the son of a distinguished family that eventually fell into ruin. As a result, this master
+Dark-type
+Trainer developed a gambling habit, hoping to win back his family's wealth. All of his Pokémon are vulnerable to
+Fighting-type
+attacks, so you will be in great shape with moves like
+Brick Break
+or
+Focus Blast
+. If you haven't got any Fighting moves, try and hit them with their secondary weaknesses (like
+Water
+for
+Krookodile
+and
+Flying
+for Scrafty), or just use the strongest
+Bug
+-type move that you've got. Be careful when using Fighting-type Pokémon though, as his
+Liepard
+and
+Bisharp
+can strike back with
+Aerial Ace
+.
+Elite Four
+Grimsley
+Pokémon League
+Black and White
+Reward:
+$
+6000
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+None
+Scrafty
+♂
+Lv.
+48
+Sand-Attack
+Ground
+Status
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krookodile
+♀
+Lv.
+48
+Crunch
+Dark
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Foul Play
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♀
+Lv.
+48
+Fake Out
+Normal
+Physical
+--
+Attract
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♀
+Lv.
+50
+X-Scissor
+Bug
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Caitlin
+Upper-right room: Caitlin
+Upon reaching the edge of the platform, a veil of psychic energy will carry you along the ribbon-like walkway while meteors fall around you. The battlefield is supported by three tall columns, and a starry sky is seen behind. The curtains on the canopied bed open and out walks
+Caitlin
+, the master
+Psychic-type
+Trainer.
+Dark-type
+Pokémon will be immune to most of her Pokémon's moves, but watch out for
+Reuniclus
+'
+Focus Blast
+! Use
+Ghost
+,
+Bug
+, and Dark-type moves to hit her Pokémon's weak points.
+Elite Four
+Caitlin
+Pokémon League
+Black and White
+Reward:
+$
+6000
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+None
+Reuniclus
+♀
+Lv.
+48
+Energy Ball
+Grass
+Special
+--
+Thunder
+Electric
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Psychic
+Flying
+Ability:
+Wonder Skin
+Held item:
+None
+Sigilyph
+♀
+Lv.
+48
+Air Slash
+Flying
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Musharna
+♀
+Lv.
+48
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+None
+Gothitelle
+♀
+Lv.
+50
+Calm Mind
+Psychic
+Status
+--
+Thunderbolt
+Electric
+Special
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Marshal
+Lower-right room: Marshal
+The room to the right belongs to
+Marshal
+, a master
+Fighting-type
+Trainer. The small platform carries you up the winding track, around a column of mechanical parts. The battlefield is designed like an arena, and the spotlights flick on when you approach. All of Marshal's Pokémon are pure Fighting-types, and share a weakness to
+Flying
+- and
+Psychic-type
+moves. However, if you choose to send in a Flying-type, he can retaliate with
+Rock-type
+attacks. It is recommended to use TM40 to teach a Pokémon
+Aerial Ace
+; many Pokémon can learn it, including
+Serperior
+and
+Samurott
+.
+Elite Four
+Marshal
+Pokémon League
+Black and White
+Reward:
+$
+6000
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Throh
+♂
+Lv.
+48
+Stone Edge
+Rock
+Physical
+--
+Payback
+Dark
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Storm Throw
+Fighting
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Sawk
+♂
+Lv.
+48
+Stone Edge
+Rock
+Physical
+--
+Karate Chop
+Fighting
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Conkeldurr
+♂
+Lv.
+48
+Stone Edge
+Rock
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Type:
+Fighting
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Mienshao
+♂
+Lv.
+50
+U-turn
+Bug
+Physical
+--
+Jump Kick
+Fighting
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Alder's room, before being destroyed by N's Castle
+N's Castle rising up from the ground
+The Champion's Temple
+After defeating each member of the Elite Four, visit the statue in the center of the plaza. Check the plaque, and the statue takes you to the large chamber below. Go north and climb up the three flights of stairs to reach the Champion's temple.
+Alder
+and
+N
+are inside, and the battle is already over. Amazingly, N has won. Alder begs him not to separate Pokémon and people, but N will hear none of it. He realizes that you have obtained the
+Light Stone
+B
+/
+Dark Stone
+W
+, and is happy about it, for some reason. But he claims that this place isn't suitable for the legendary dragons, and moments later a giant castle rises up out of the ground and surrounds the Pokémon League! N leaves for the castle, and
+Cheren
+arrives to help Alder.
+N's Castle
+N's Castle
+was constructed in secret over many years, hidden away under the Pokémon League. Immediately upon entering the castle, you are confronted by six of the
+Seven Sages
+. Just as they are about to attack, the Gym Leaders jump into the fray!
+Bianca
+set out to warn them all about
+N
+, but didn't have enough time to reach the Striaton Gym Leaders. Let them take care of the Sages while you go on ahead.
+Items
+Item
+Location
+Games
+Max Potion
+2F; in the east room
+B
+W
+Max Revive
+3F; in the center room
+B
+W
+Ultra Ball
+3F; from a Plasma Grunt in the west room
+B
+W
+Rare Candy
+4F; inside N's room
+B
+W
+Full Restore
+4F; in the center room
+B
+W
+2F
+When you reach the second floor, one of the
+Shadow Triad
+appears. This member of the trio tells you not to fear, as you can heal your Pokémon and access your PC even inside the castle. It's a nice thing to hear from a surprising place.
+The middle room is where you will meet
+Anthea and Concordia
+, two high-ranking members of
+Team Plasma
+. Talk to Anthea on the left to have her heal your Pokémon. Talk to Concordia to hear a story about
+N
+'s past. Because of the strange way
+Ghetsis
+raised him, he doesn't trust people — only Pokémon.
+3F
+Check the first room you pass on the third floor to find a laboratory. One of the researchers claims that Team Plasma managed to infiltrate the Pokémon Storage System. On N's command, they plan to steal and release every Pokémon stored in the PC system! You can use the PC here to reorganize their party if needed.
+Talk to a Plasma Grunt in the west room to get an
+Ultra Ball
+. Another Grunt will give you the opportunity to warp back to the Pokémon Center by the Elite Four plaza. If you need more items, briefly return to the Pokémon League. Talk to the Grunt again to return to this room.
+4F
+Another member of the Shadow Triad appears when you reach the fourth floor, and tells you that the room to the left is N's room. A basketball hoop, a child's train set... why is N living in a room full of toys?
+In the center room is a Plasma Grunt who criticizes
+two foreign
+criminal groups
+for being too conspicuous. Team Plasma may have built their castle for years in secret, but surely their plans will crumble, as well. Grab the
+Full Restore
+and climb to the fifth floor.
+5F
+Ghetsis appears when you try to enter the throne room. He is excited because his ambitions are about to be realized. He claims that you should see if you have "what it takes to be the hero," and invites you to enter the throne room.
+Throne Room
+N
+is sitting on the throne. He tells you to show him the depth of your determination, and calls
+Zekrom
+B
+/
+Reshiram
+W
+to his side. The legendary dragon breaks through the wall behind the throne, and lands near N. In a show of force, the dragon uses its crackling electricity
+B
+/blazing fire
+W
+to completely evaporate the water lining the sides of the room.
+When the first dragon appears, the
+Light Stone
+B
+/
+Dark Stone
+W
+suddenly jumps out of your Bag. The stone floats in the air for a moment, slowly absorbing the aura from its surroundings before reawakening as
+Reshiram
+B
+/
+Zekrom
+W
+. N says that it is testing you, and wants to help you. The dragon appears and battles you as a test. Get ready!
+Use
+Ground
+- or
+Dragon-type
+moves to lower its health quickly, then weaken it further with
+Fire
+-,
+Grass
+-, or
+Electric-type
+attacks. Even if you knock it out, as long as there is room in the party or the PC, you can keep challenging it until it is captured. Capturing
+Reshiram
+B
+/
+Zekrom
+W
+shouldn't be too terribly hard— both dragons have a much higher
+catch rate
+(45) than all of the other legendaries (3). Try throwing a
+Quick Ball
+at it on the first turn, or lower its HP and use an
+Ultra Ball
+.
+Types:
+Dragon
+Fire
+Ability:
+Turboblaze
+Held item:
+None
+Reshiram
+Lv.
+50
+DragonBreath
+Dragon
+Special
+--
+Slash
+Normal
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Fusion Flare
+Fire
+Special
+--
+Types:
+Dragon
+Electric
+Ability:
+Teravolt
+Held item:
+None
+Zekrom
+Lv.
+50
+DragonBreath
+Dragon
+Special
+--
+Slash
+Normal
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Fusion Bolt
+Electric
+Physical
+--
+When added to the party, it will always be the lead Pokémon. That way, the first round with N will always be one legendary dragon against the other. Use
+Ground
+- and
+Dragon-type
+attacks to wear down the opposing dragon. If
+Reshiram
+attacks with
+Fusion Flare
+after
+Zekrom
+uses
+Fusion Bolt
+(and vice-versa), the second dragon to attack will inflict double the damage. Usually, your dragon will be slower than his, so use that to your advantage.
+As for his other Pokémon, use their weaknesses to gain the upper hand. His
+Vanilluxe
+and
+Klinklang
+are weak against
+Fire
+attacks, while
+Zoroark
+, and
+Carracosta
+are all vulnerable to
+Fighting-type
+attacks. Don't let Zoroark fool you; it will take the form of the last Pokémon N used, so still utilize Fighting and Bug-type moves due to its Dark-type typing. His two Fossil Pokémon (Carracosta and
+Archeops
+are also at a disadvantage against
+Electric-type
+moves. Almost all of N's team except for the legendary and Archeops are weak to Fighting-type attacks though, so make use of Brick Break, Low Sweep, or Focus Blast. If you started out with
+Emboar
+, this fight shouldn't be too hard.
+Team Plasma
+N
+N's Castle
+Black
+Reward:
+$
+10000
+Types:
+Dragon
+Electric
+Ability:
+Teravolt
+Held item:
+None
+Zekrom
+Lv.
+52
+Fusion Bolt
+Electric
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+Held item:
+None
+Klinklang
+Lv.
+50
+Flash Cannon
+Steel
+Special
+--
+Metal Sound
+Steel
+Status
+--
+Hyper Beam
+Normal
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Illusion
+Held item:
+None
+Zoroark
+♂
+Lv.
+50
+Flamethrower
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Night Slash
+Dark
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Types:
+Water
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Carracosta
+♂
+Lv.
+50
+Stone Edge
+Rock
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+None
+Archeops
+♂
+Lv.
+50
+Stone Edge
+Rock
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Vanilluxe
+♂
+Lv.
+50
+Blizzard
+Ice
+Special
+--
+Hail
+Ice
+Status
+--
+Flash Cannon
+Steel
+Special
+--
+Frost Breath
+Ice
+Special
+--
+Team Plasma
+N
+N's Castle
+White
+Reward:
+$
+10000
+Types:
+Dragon
+Fire
+Ability:
+Turboblaze
+Held item:
+None
+Reshiram
+Lv.
+52
+Hyper Beam
+Normal
+Special
+--
+Fusion Flare
+Fire
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+Held item:
+None
+Klinklang
+Lv.
+50
+Flash Cannon
+Steel
+Special
+--
+Metal Sound
+Steel
+Status
+--
+Hyper Beam
+Normal
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Illusion
+Held item:
+None
+Zoroark
+♂
+Lv.
+50
+Flamethrower
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Night Slash
+Dark
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Types:
+Water
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Carracosta
+♂
+Lv.
+50
+Stone Edge
+Rock
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+None
+Archeops
+♂
+Lv.
+50
+Stone Edge
+Rock
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Vanilluxe
+♂
+Lv.
+50
+Blizzard
+Ice
+Special
+--
+Hail
+Ice
+Status
+--
+Flash Cannon
+Steel
+Special
+--
+Frost Breath
+Ice
+Special
+--
+Finally defeated,
+N
+is forced to question his convictions. Two heroes at the same time... one that pursues truth, one that pursues ideals... Could they both be right?
+Ghetsis
+appears, and yells at N for losing to an ordinary Trainer. His words also imply that N is his son, as they apparently share the surname Harmonia. Ghetsis reveals that he was pulling
+Team Plasma
+'s strings, and hoped to use his position within the organization to manipulate people into releasing their Pokémon, leaving themselves defenseless against his ambitions. He says that those who get in the way must be eliminated.
+Alder
+and
+Cheren
+arrive to help, and Ghetsis attacks the player.
+His Pokémon have few weaknesses, especially
+Eelektross
+, which has none due to its ability,
+Levitate
+, although a Pokémon with a
+ground
+-type move and
+Mold Breaker
+will break through it.
+Grass-type
+attacks will inflict four times the damage to his
+Seismitoad
+, and
+Bisharp
+is doubly vulnerable to
+Fighting-type
+moves.
+Cofagrigus
+and
+Bouffalant
+should be pretty straightforward, but KO Bouffalant quickly to make sure it can't do too much damage.
+The real trouble comes when
+Hydreigon
+appears. It will destroy any
+Ice
+-types with
+Fire Blast
+, so don't use pure Ice-types against him. Chances are, if Hydreigon doesn't have anything super-effective against you, it will spam
+Dragon Pulse
+, so make sure you can live through at least one hit. A Pokémon with high
+Special Defense
+will be useful here. Otherwise, keep on healing and blasting at it until it goes down.
+Team Plasma
+Ghetsis
+N's Castle
+Black and White
+Reward:
+$
+9720
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+None
+Cofagrigus
+♂
+Lv.
+52
+Toxic
+Poison
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Protect
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Reckless
+Held item:
+None
+Bouffalant
+♂
+Lv.
+52
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Water
+Ground
+Ability:
+Swift Swim
+Held item:
+None
+Seismitoad
+♂
+Lv.
+52
+Muddy Water
+Water
+Special
+--
+Rain Dance
+Water
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Sludge Wave
+Poison
+Special
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♂
+Lv.
+52
+Night Slash
+Dark
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Metal Burst
+Steel
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Eelektross
+♂
+Lv.
+52
+Crunch
+Dark
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Hydreigon
+♂
+Lv.
+54
+Dragon Pulse
+Dragon
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Surf
+Water
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Ghetsis can't believe that he, "the perfect ruler of a perfect new world," was defeated. He laughs evilly and then explains that he told N to become the hero. Ghetsis couldn't meet the Legendary dragon because the dragon will only obey someone with a pure heart. Alder and Cheren take him into custody, and N explains that he wanted to battle you again and again because he couldn't believe that your Pokémon were happy with you. You and him walk to the back of the room, where he releases his dragon through the hole in the wall and bids you farewell.
+After the credits roll, a short cutscene shows Zekrom
+B
+/Reshiram
+W
+flying along with N on its back, and using the power in its tail to accelerate across the sky.
+When the credits are over, you are back home in
+Nuvema Town
+.
+← Part 11
+Opelucid City, Opelucid Gym, Route 10, Victory Road
+Black and White
+walkthrough
+Nuvema Town, The Dreamyard, The Royal Unova, Relic Castle, Nimbasa City
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,47 @@
+Game: Diamond_and_Pearl
+Part: 4
+Keywords: Floaroma Town, Route 205 (Parts 1-2), Valley Windworks, Floaroma Meadow (South), Eterna Forest
+
+**Part 4 Walkthrough: Key Locations and Progress**
+
+### Floaroma Town
+- **Items:**
+  - **TM88 (Pluck):** Talk to the girl in the house left of the Flower Shop.
+  - **Sprayduck:** Get from the woman inside the Flower Shop (watering can for Berries).
+  - **Berries:** Pick them in soft soil near the shop.
+- **Note:** Two Galactic Grunts block Floaroma Meadow. Proceed east to Route 205.
+
+### Route 205 (Part 1)
+- **Objective:** Head to Valley Windworks to rescue the little girl’s father.
+- **New Pokémon:** Shellos, Buizel, and Pachirisu can be caught in the area.
+
+### Valley Windworks
+- **Prepare:** Heal your Pokémon.
+- **Available Pokémon:** Drifloon (Fridays only, after defeating Galactic).
+- **Battle:** Defeat the Galactic Grunt at the entrance for the Works Key.
+- **Commander Mars Battle Strategy:**
+  - Focus on her **Lv. 16 Purugly** with Fighting-type moves (Monferno or Machop recommended).
+
+### Floaroma Meadow (South)
+- **Battle Two Galactic Grunts** to obtain the Works Key and some Honey.
+- **Honey Trees:** Slather honey on trees to attract Pokémon (e.g., Combee, Heracross).
+
+### Back to Valley Windworks
+- **Objective:** Use the Works Key to enter.
+- **Defeat more Galactic Grunts** inside and confront Commander Mars.
+
+### Route 205 (Part 2)
+- **Proceed:** Cross the bridge and follow the path, battling trainers and collecting items.
+- **Note:** You’ll need HM03 (Surf) to access Fuego Ironworks.
+
+### Eterna Forest
+- **Cheryl:** A companion who heals your Pokémon after battles.
+- **Battles:** Expect double battles and multi battles alongside Cheryl.
+- **Old Chateau Access:** Requires Cut to enter.
+- **Moss Rock:** For evolving Eevee into Leafeon (not obtainable yet).
+
+### Items in Eterna Forest
+- **Antidote:** Left of the bottom entrance.
+- **Great Ball:** South of the Psychics.
+
+This concise guide focuses on the essential steps, battles, and item locations necessary for progressing through Part 4 of the game.

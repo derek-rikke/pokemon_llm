@@ -1,0 +1,1191 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_11
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 16
+1.1
+Roadblock
+1.2
+Fly, Fly Away
+2
+Route 17
+3
+Route 18
+4
+Fuchsia City
+4.1
+Pokémon Center
+4.1.1
+Move Tutor
+4.1.2
+Time for a Trade
+4.2
+Safari Zone warden's house
+4.3
+Fuchsia Gym
+4.4
+Safari Zone
+4.4.1
+Playful Park
+4.4.2
+GO Park complex
+Route 16
+Route 16
+Route 16
+links
+Celadon City
+to
+Route 17
+and Pokémon Road.
+Trainers
+Trainer
+Pokémon
+Northern half (requires Chop Down)
+Punk Guy
+Lao
+Reward:
+$
+1,008
+3
+Poké Balls
+Onix
+♂
+Lv.
+36
+No item
+Muk
+♂
+Lv.
+36
+No item
+Roughneck
+Koji
+Reward:
+$
+1,008
+3
+Poké Balls
+Raticate
+♂
+Lv.
+36
+No item
+Rhyhorn
+♂
+Lv.
+36
+No item
+Koffing
+♀
+Lv.
+36
+No item
+Punk Guy
+Hideo
+Reward:
+$
+1,008
+3
+Poké Balls
+Arbok
+♀
+Lv.
+36
+No item
+Fearow
+♂
+Lv.
+36
+No item
+Main path
+Camper
+Ruben
+Reward:
+$
+700
+2
+Great Balls
+Psyduck
+♀
+Lv.
+35
+No item
+Psyduck
+♂
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Doduo
+P
+E
+Grass
+31-36
+25%
+Pidgey
+P
+E
+Grass
+31-36
+20%
+Pidgeotto
+P
+E
+Grass
+31-36
+20%
+Rattata
+P
+E
+Grass
+31-36
+15%
+Raticate
+P
+E
+Grass
+31-36
+15%
+Dodrio
+P
+E
+Grass
+31-36
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+31-36
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+North side of the tall grass patch (requires
+Chop Down
+)
+P
+E
+TM14
+(
+Fly
+)
+Northwest house, from the reclusive girl (requires Chop Down)
+P
+E
+Ultra Ball
+×30
+Southern gate; from
+Oak
+'s
+aide
+, after catching at least 40 different species
+P
+E
+Awakening
+North side of the southern gate
+(hidden)
+(daily)
+P
+E
+Super Potion
+Southwest of the southern gate, on the dirt path
+P
+E
+Great Ball
+×3
+West of the southern gate, near the water's edge
+P
+E
+Roadblock
+A
+Snorlax
+has fallen asleep near the gate, blocking the path. Use the
+Poké Flute
+to wake the Pokémon. Just then,
+Mr. Fuji
+approaches you with something he forgot to mention. He says that Snorlax are dangerous when they first awaken, as they are hungry and likely to attack anything they perceive as food. Fuji suggests calming it down by battling it with your own Pokémon; once docile, the Pokémon can be captured like any other. Snorlax are hard to find, so catch it if you can.
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Snorlax
+♂
+/
+♀
+Lv.
+34
+Yawn
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Headbutt
+Normal
+Physical
+--
+Rest
+Psychic
+Status
+--
+Fly, Fly Away
+Use
+Cut
+on the small tree to reach the secluded northern area. Enter the house beyond the gate and speak to the girl inside. She prefers to spend time on her own and gives you
+TM14
+(
+Fly
+) to keep her hideaway a secret.
+Route 17
+Route 17
+The flower-filled trails of
+Route 17
+'s Pokémon Road pass over the ocean on the way southward to
+Route 18
+. The relaxing atmosphere gives Trainers an opportunity to enjoy some leisure time with their Pokémon.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Dalia
+Reward:
+$
+740
+2
+Great Balls
+Vaporeon
+♀
+Lv.
+37
+No item
+Beauty
+Alexis
+Reward:
+$
+2,220
+3
+Poké Balls
+Jolteon
+♂
+Lv.
+37
+No item
+Lass
+Mila
+Reward:
+$
+720
+3
+Poké Balls
+Flareon
+♀
+Lv.
+36
+No item
+Ace Trainer
+Johnson
+Reward:
+$
+3,900
+5
+Ultra Balls
+Wartortle
+♂
+Lv.
+40
+No item
+Magneton
+Lv.
+39
+No item
+Marowak
+♀
+Lv.
+39
+No item
+Punk Guy
+Corey
+Reward:
+$
+1,064
+3
+Poké Balls
+Primeape
+♀
+Lv.
+38
+No item
+Graveler
+♂
+Lv.
+38
+No item
+Coach Trainer
+Grantley
+Reward:
+$
+4,100
+Fearow
+♂
+Lv.
+40
+No item
+Beedrill
+♂
+Lv.
+40
+No item
+Sandslash
+♂
+Lv.
+41
+No item
+Beauty
+Samantha
+Reward:
+$
+2,220
+3
+Poké Balls
+Weepinbell
+♀
+Lv.
+37
+No item
+Gentleman
+Orson
+Reward:
+$
+4,560
+3
+Poké Balls
+Persian
+♀
+Lv.
+38
+No item
+Ace Trainer
+Maria
+Reward:
+$
+3,900
+5
+Ultra Balls
+Exeggutor
+♂
+Lv.
+40
+No item
+Ninetales
+♀
+Lv.
+39
+No item
+Starmie
+Lv.
+39
+No item
+Picnicker
+Misaki
+Reward:
+$
+740
+2
+Great Balls
+Vulpix
+♀
+Lv.
+37
+No item
+Ivysaur
+♀
+Lv.
+37
+No item
+Wigglytuff
+♀
+Lv.
+37
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+P
+E
+Grass
+33-38
+20%
+Doduo
+P
+E
+Grass
+33-38
+20%
+Psyduck
+P
+E
+Grass
+33-38
+15%
+Pidgey
+P
+E
+Grass
+33-38
+10%
+Pidgeotto
+P
+E
+Grass
+33-38
+10%
+Rattata
+P
+E
+Grass
+33-38
+5%
+Raticate
+P
+E
+Grass
+33-38
+5%
+Rapidash
+P
+E
+Grass
+33-38
+5%
+Dodrio
+P
+E
+Grass
+33-38
+5%
+Eevee
+P
+E
+Grass
+33-38
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+33-38
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+In front of the two northeastern benches
+P
+E
+Super Lure
+In the tall grass patch, west of Ace Trainer Johnson
+P
+E
+Great Ball
+×3
+In the tall grass patch, southwest of Ace Trainer Johnson
+P
+E
+Elixir
+In the tall grass patch, southwest of the Trainer Tips sign
+P
+E
+TM58
+(
+Drill Run
+)
+From Coach Trainer Grantley, after defeating him
+P
+E
+Rare Candy
+In the tall grass patch south of Coach Trainer Grantley
+P
+E
+Silver Razz Berry
+×3
+In the yellow flower patch at the northeast corner of the southernmost field of grass
+(hidden)
+P
+E
+Silver Pinap Berry
+×8
+Southern-most patch of tall grass (×5)
+In the yellow flowers at the southeast corner of the southern-most grass patch
+(hidden)
+(×3)
+P
+E
+Silver Nanab Berry
+×3
+Southeast of the two southern benches, in the small yellow bush near Gentleman Orson
+(hidden)
+P
+E
+Nugget
+In a patch of yellow flowers, near Beauty Samantha and her
+Weepinbell
+P
+E
+Super Repel
+Behind the two southwestern benches
+P
+E
+Later visit
+Blast-Off Set
+After becoming Champion: from
+Jessie
+and
+James
+, after defeating them
+P
+E
+Other items
+Razz Berry
+Northwest corner, in the small bush (item determined randomly)
+(hidden)
+West of Jolteon, between two yellow bushes (item determined randomly)
+(hidden)
+East of Flareon and southwest of the benches, in the yellow bush (item determined randomly)
+(hidden)
+Northwest corner of the northern-most grass patch, in the yellow bush (item determined randomly)
+(hidden)
+Southwest corner of the northern-most grass patch, in the yellow bush (item determined randomly)
+(hidden)
+South end of the small, north-central grass patch, in the yellow bush (item determined randomly)
+(hidden)
+East of
+Coach Trainer
+Grantley, in the yellow bush (item determined randomly)
+(hidden)
+Northeast corner of the southern-most grass patch, in the yellow bush (item determined randomly)
+(hidden)
+North of the two benches to the west of Beauty Samantha and Weepinbell, in the yellow bush (item determined randomly)
+(hidden)
+Southeastern end of the route, near Picknicker Misaki and Vulpix, in the yellow bush (item determined randomly)
+(hidden)
+P
+E
+Nanab Berry
+Pinap Berry
+Razz Berry
+×5
+Near the northeast benches, in a yellow bush (item determined randomly)
+(hidden)
+P
+E
+Silver Razz Berry
+Nanab Berry
+×5
+North end of the small grass patch north of the body of water, between two yellow bushes (item determined randomly)
+(hidden)
+P
+E
+Silver Nanab Berry
+Pinap Berry
+×5
+West of the body of water, near a lamppost (item determined randomly)
+(hidden)
+P
+E
+Silver Pinap Berry
+Pinap Berry
+Berry plant: from a bush near the route's northwest corner; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Silver Pinap Berry
+Golden Pinap Berry
+Nanab Berry
+Berry plant: from the bush at the southeast end of the northern-most grass patch, Sometimes found by the player's walking Pokémon
+P
+E
+Silver Nanab Berry
+Golden Nanab Berry
+Route 18
+Route 18
+Route 18
+leads east from
+Route 17
+to
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Wilton
+Reward:
+$
+2,340
+3
+Poké Balls
+Fearow
+♂
+Lv.
+39
+No item
+Dodrio
+♂
+Lv.
+39
+No item
+Bird Keeper
+Ramiro
+Reward:
+$
+2,340
+3
+Poké Balls
+Pidgeot
+♂
+Lv.
+39
+No item
+Bird Keeper
+Jacob
+Reward:
+$
+2,340
+3
+Poké Balls
+Farfetch'd
+♂
+Lv.
+39
+No item
+Farfetch'd
+♂
+Lv.
+39
+No item
+Farfetch'd
+♂
+Lv.
+39
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+33-38
+20%
+Pidgeotto
+P
+E
+Grass
+33-38
+20%
+Doduo
+P
+E
+Grass
+33-38
+20%
+Rattata
+P
+E
+Grass
+33-38
+15%
+Raticate
+P
+E
+Grass
+33-38
+15%
+Dodrio
+P
+E
+Grass
+33-38
+10%
+Rare Spawns
+Chansey
+P
+E
+Grass
+33-38
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Silver Razz Berry
+×3
+In a patch of yellow flowers near the Route 17 entrance
+(hidden)
+(daily)
+P
+E
+Elixir
+South of the gate
+P
+E
+Other items
+Razz Berry
+From the bush near the route's east end; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Silver Razz Berry
+Golden Razz Berry
+Fuchsia City
+Fuchsia City
+Fuchsia City
+is the largest city in southern
+Kanto
+, located between
+Route 18
+and
+Route 15
+. To the south, a beach leads to the waters of
+Route 19
+. The northern part of the city is occupied by the Safari Zone, which consists of two parts: the Playful Park, a zoo that features rare Pokémon exhibits; and a nature preserve known as the
+GO Park
+complex. Trainers aiming to earn their next Badge can challenge the
+Fuchsia Gym
+in the southwest.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Marowak
+Alolan Form
+P
+E
+Trade
+Marowak
+38
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Sea Skim
+Playful Park; taught by the man near the
+Lapras
+exhibit, west of the Poké Mart
+P
+E
+Safari Set
+Southeast house; from
+the Safari Zone warden
+, after returning his
+Gold Teeth
+P
+E
+Strong Push
+Southeast house; taught by the Safari Zone warden, after returning his Gold Teeth
+P
+E
+Nugget
+Southeast house; from a
+Diglett
+(daily; requires
+Strong Push
+)
+P
+E
+Super Lure
+In the backyard of the southeastern-most house
+P
+E
+TM06
+(
+Toxic
+)
+From Koga, after defeating him
+P
+E
+Pokémon Center
+Move Tutor
+Visit the Pokémon Center and speak to the
+Tamer
+seated to the right of the counter. He happens to be another
+Move Tutor
+and offers to teach even more
+exclusive moves
+to your
+partner Pokémon
+.
+Let's Go, Pikachu!
+Move
+Type
+Cat.
+Splishy Splash
+Water
+Special
+Let's Go, Eevee!
+Move
+Type
+Cat.
+Sappy Seed
+Grass
+Physical
+Freezy Frost
+Ice
+Special
+Sparkly Swirl
+Fairy
+Special
+Time for a Trade
+The Gentleman standing to the left of the counter is hoping to trade Pokémon. He would like to get a
+Marowak
+and is willing to part with his
+Alolan
+Marowak in exchange. His is a
+Fire
+/
+Ghost
+Pokémon, a unique typing not normally seen in the
+Kanto
+region. This trade may be conducted multiple times.
+Safari Zone warden's house
+The southeastern house belongs to
+the Safari Zone warden
+. It is difficult to understand what he is saying, but seems to have misplaced his set of
+Gold Teeth
+. If you happen to find a set of false teeth, be sure to return it to him.
+Fuchsia Gym
+Fuchsia Gym
+Fuchsia City Pokémon Gym
+Leader: Koga
+The Poisonous Ninja Master
+The
+Fuchsia Gym
+officially specializes in
+Poison-type
+Pokémon, although there are several
+Ghost
+Pokémon inside, as well. Poison-type moves are super effective against
+Grass
+- and
+Fairy-type
+Pokémon, while Poison-type Pokémon are weak to
+Ground
+- and
+Psychic-type
+moves. On the first visit, the
+Gym guide
+explains that just as the Safari Zone gives people a chance to meet many different Pokémon, Trainers who challenge the Fuchsia Gym must also have met many Pokémon. Only those who have caught at least 50 different species may enter the building. The man drops his disguise to reveal the
+Gym Leader
+, who promises a tough battle before disappearing in a cloud of smoke, only to reappear in the room's center.
+The Gym Leader is trained in the skills of the ninja, and has installed a series of nearly invisible glass panels to disorient any challengers. Anyone looking to battle the Gym Leader must first find the path between these panels to reach the middle of the room. Fortunately, the smoke that rises from the floor helps to identify which path to take.
+Koga
+'s team includes
+Bug
+and Poison Pokémon, so
+Fire
+-,
+Flying
+-, and
+Rock
+attacks will also be effective. His Pokémon tend to inflict severe poisoning with
+Toxic
+before stalling for time with
+Protect
+, so be sure to bring along some
+Antidotes
+.
+Fuchsia Gym
+Trainers
+Trainer
+Pokémon
+Tamer
+Phil
+Reward:
+$
+2,460
+Nidorina
+♀
+Lv.
+41
+No item
+Nidorino
+♂
+Lv.
+41
+No item
+Ace Trainer
+Kayden
+Reward:
+$
+4,200
+Muk
+♂
+Lv.
+41
+No item
+Beedrill
+♂
+Lv.
+42
+No item
+Juggler
+Kirk
+Reward:
+$
+1,600
+Haunter
+♀
+Lv.
+40
+No item
+Juggler
+Harry
+Reward:
+$
+1,600
+Haunter
+♂
+Lv.
+40
+No item
+Haunter
+♂
+Lv.
+40
+No item
+Haunter
+♀
+Lv.
+40
+No item
+Ace Trainer
+Annie
+Reward:
+$
+4,200
+Ivysaur
+♀
+Lv.
+41
+No item
+Weezing
+♂
+Lv.
+42
+No item
+Tamer
+Edgar
+Reward:
+$
+2,460
+Arbok
+♀
+Lv.
+41
+No item
+Arbok
+♂
+Lv.
+41
+No item
+Arbok
+♂
+Lv.
+41
+No item
+Gym Leader
+Koga
+Fuchsia Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+7,040
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+43
+Toxic
+Poison
+Status
+--
+Protect
+Normal
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Explosion
+Normal
+Physical
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Muk
+♂
+Lv.
+43
+Toxic
+Poison
+Status
+--
+Protect
+Normal
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♀
+Lv.
+43
+Toxic
+Poison
+Status
+--
+Protect
+Normal
+Status
+--
+Fly
+Flying
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Types:
+Bug
+Poison
+Mega Stone:
+None
+Venomoth
+♂
+Lv.
+44
+Sludge Bomb
+Poison
+Special
+--
+Protect
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Bug Buzz
+Bug
+Special
+--
+After the battle,
+Koga
+awards you the
+Soul Badge
+, which ensures obedience from all Pokémon up to level 60. As a prize, he also gives you
+TM27
+(
+Toxic
+), which he claims is an ancient move passed down through his family for 400 years.
+Safari Zone
+Playful Park
+On the first visit to the Playful Park, your
+partner Pokémon
+excitedly runs ahead to interact with some of the nearby Pokémon, including
+Slowpoke
+,
+Kangaskhan
+, and
+Psyduck
+. It very nearly gets trampled by a
+Tauros
+!
+GO Park complex
+GO Park complex, Interior
+The
+GO Park
+complex is a special nature preserve that houses Pokémon imported from the land of
+Pokémon GO
+. Trainers must participate in a minigame where they lead all the Pokémon in current Play Yard to the goal. If all Pokémon reach the goal within the time limit, the Pokémon are added to the rest of the Trainer's collection.
+← Part 10
+Saffron City, Silph Co., Saffron Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Routes 12, 13, 14 and 15, Route 19, Route 20, Seafoam Islands
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

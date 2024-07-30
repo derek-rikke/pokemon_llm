@@ -1,0 +1,57 @@
+Game: Diamond_and_Pearl
+Part: 17
+Keywords: Snowpoint Gym, Lake Acuity, Veilstone City, Galactic HQ, Galactic Warehouse, Raiding Galactic HQ (Part 1)
+
+## Part 17 Walkthrough Summary
+
+### Snowpoint Gym
+- **Preparation**: Heal Pokémon and aim for Level 40.
+- **Type**: Ice-type; Leader Candice (strongest Pokémon at Level 42).
+- **Strategy**: Use Fire, Fighting, Rock, Steel, Electric, Grass, Flying, or Ghost-type moves.
+- **Gym Puzzle**: Slide on ice tiles to break snowballs blocking the path to Candice. 
+
+**Candice's Team**:
+1. **Snover** (Ice/Grass, Level 38)
+2. **Sneasel** (Ice/Dark, Level 38)
+3. **Medicham** (Fighting/Psychic, Level 40)
+4. **Abomasnow** (Ice/Grass, Level 42)
+
+- **Rewards**: Icicle Badge (allows HM08 - Rock Climb) and TM72 (Avalanche).
+
+### Back to Acuity Lakefront
+- **Next Steps**: Head back to Acuity Lakefront; Galactic Grunts are no longer blocking access.
+
+### Lake Acuity
+- **Event**: Encounter Rival Barry vs. Commander Jupiter. 
+- **Item**: Collect TM14 (Blizzard) in the northwest corner of the lake (requires Surf).
+
+### Using Rock Climb
+- **Explore New Areas**: Use Rock Climb to access new locations, items, and Trainers.
+
+#### Item Locations:
+1. **Mt. Coronet**: 
+   - Max Potion, Ether, Escape Rope, TM80 (Rock Slide), Revive.
+2. **Route 208**: Hidden Iron on the western side.
+3. **Hotel Grand Lake**: TM85 (Dream Eater), Max Revive, Rare Candy.
+4. **Route 213**: Protein, TM05 (Roar), Max Revive.
+5. **Route 210 (Foggy)**: Nugget (requires Defog).
+6. **Route 211 (East)**: TM29 (Psychic), Zinc.
+7. **Route 216**: TM13 (Ice Beam), Mental Herb, HP Up.
+
+### Veilstone City
+- **Item**: Full Incense (southeast of Gym).
+- **Galactic HQ Access**: Acquire Storage Key from a fleeing Grunt.
+
+### Galactic Warehouse
+- **Access**: Use Storage Key.
+- **Items**: Dusk Stone, various items in basement.
+- **Fight Grunts and Scientists.** 
+
+### Galactic HQ (Part 1)
+- **Access**: Use Galactic Key to enter.
+- **Items**: PP Up, Max Revive, Elixir, Full Heal, Ultra Ball, Rare Candy, Nugget, Master Ball (after defeating Cyrus).
+- **Strategy**: Fight Trainers, navigate warp panels to collect items.
+
+**Preparation for Boss Battle**: Heal Pokémon before proceeding to the next area. 
+
+This concise summary retains the essential gameplay elements, item locations, and battle strategies necessary for progress in the game.

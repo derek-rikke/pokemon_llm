@@ -1,0 +1,70 @@
+Game: Crystal
+Part: 28
+Keywords: Mt. Silver
+
+### Part 28: Mt. Silver Walkthrough
+
+**Location Overview:**
+Mt. Silver is a challenging area between Johto and Kanto, home to powerful Pokémon. 
+
+---
+
+#### Pokémon Encounters
+
+**1F Pokémon (Levels 42-46):**
+- **Golbat** (5% - 45)
+- **Graveler** (30% - 43)
+- **Onix** (20% - 42)
+- **Magmar** (10% - 45)
+- **Ursaring** (30% - 44)
+- **Larvitar** (5% - 15, 20)
+
+**2F Pokémon (Levels 46-48):**
+- **Golbat** (30% - 48)
+- **Machoke** (30% - 48)
+- **Parasect** (15% - 46, 48)
+- **Ursaring** (20% - 47)
+
+**Summit Pokémon (Levels 49-51):**
+- **Golbat** (30% - 51)
+- **Graveler** (20% - 48)
+- **Onix** (30% - 48)
+- **Ursaring** (10% - 50)
+- **Larvitar** (9% - 15, 20)
+- **Pupitar** (1% - 20)
+
+---
+
+#### Item Locations
+
+**1F:**
+- **Protein:** Southeast corner
+- **Escape Rope:** Southeast between ledges
+- **Ultra Ball:** Central area
+- **Max Elixer:** Western ridge
+
+**2F:**
+- **Max Potion:** South-central area
+- **PP Up:** Requires Surf/Waterfall
+- **Max Revive:** Dead-end chamber (requires Surf/Waterfall)
+- **Calcium:** Northeast ridge (requires Surf/Waterfall)
+- **Full Restore:** Upper dead-end chamber (requires Surf/Waterfall)
+
+---
+
+#### Battle Strategy: VS Red
+
+Red leads with **Pikachu** (Lv. 81). Use Ground-type moves like **Earthquake**. Follow up with these strategies for his team:
+- **Espeon (Lv. 73):** Use Bug, Ghost, or Dark moves.
+- **Snorlax (Lv. 75):** Use Fighting-type moves.
+- **Venusaur (Lv. 77):** Use Fire or Ice moves.
+- **Charizard (Lv. 77):** Use Rock-type moves.
+- **Blastoise (Lv. 77):** Use Grass or Electric moves.
+
+**Post-Battle:** After defeating Red, he will disappear. To encounter him again, defeat the Elite Four and Champion. Completing your Pokédex is your next goal!
+
+**Reward:** $7700
+
+---
+
+**End of Part 28**

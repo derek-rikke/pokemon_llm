@@ -1,0 +1,57 @@
+Game: HeartGold_and_SoulSilver
+Part: 15
+Keywords: Indigo Plateau
+
+### Part 15: Indigo Plateau Walkthrough
+
+**New Bark Town**  
+- Use **Surf** to reach **Route 27**.
+
+**Route 27**  
+- Connects New Bark Town to Route 26. Navigate through **Tohjo Falls**.
+- **Trainers**: Fight various trainers for cash and experience.
+- **Pokémon**: Encounter Raticate, Arbok, and Doduo in the grass; Tentacool while surfing.
+- **Items**: 
+  - Rare Candy (east-southeast of Tohjo Falls, requires Surf)
+  - TM37 (Sandstorm) from an elderly woman near Tohjo Falls if your lead Pokémon is friendly.
+  - TM02 (Dragon Claw) and Destiny Knot (requires Surf, Whirlpool).
+
+**Tohjo Falls**  
+- Requires **HM07 (Waterfall)** and the **Rising Badge** to access the Pokémon League.
+
+**Route 26**  
+- Long route to the Pokémon League Reception Gate. 
+- **Trainers**: Defeat various trainers for rewards.
+- **Items**: 
+  - Blu Apricorn (northern tree, daily)
+  - Max Elixir (southwest of the gate)
+
+**Pokémon League Reception Gate**  
+- Present all eight Johto Badges to enter **Victory Road**.
+
+**Victory Road**  
+- Navigate through the cave; prepare for tough battles.
+- **Trainers**: Battle through various trainers and a final rival encounter.
+- **Pokémon**: Encounter Golbat, Graveler, and Donphan.
+- **Items**: Collect various healing items and TMs, including TM26 (Earthquake) and TM79 (Dark Pulse).
+
+**Ambush - Rival Battle 5**  
+- Silver challenges you before exiting. His team has evolved:
+  - **Strategy**: Use Bug, Ghost, or Dark-type moves against Kadabra. 
+  - Prepare for tough battles against his evolved Pokémon.
+
+**Indigo Plateau**  
+- After defeating Silver, exit the cave to reach the Pokémon League at Indigo Plateau.
+
+### Key Pokémon Encounters:
+- Raticate, Arbok, Doduo, Tentacool (Route 27)
+- Golbat, Graveler, Donphan (Victory Road)
+
+### Important Items:
+- Rare Candy, TMs, healing items throughout Route 27, Route 26, and Victory Road.
+
+### Strategy Tips:
+- Ensure your lead Pokémon is friendly to receive TM rewards.
+- Stock up on healing items before facing the Pokémon League.
+
+Prepare for the final challenge at Indigo Plateau!

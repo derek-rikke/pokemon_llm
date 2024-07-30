@@ -1,0 +1,71 @@
+Game: Gold_and_Silver
+Part: 28
+Keywords: Mt. Silver
+
+**Part 28: Mt. Silver Walkthrough**
+
+**Mt. Silver Cave Overview**
+Mt. Silver is a challenging area between Johto and Kanto, home to high-level Pokémon. 
+
+**Available Pokémon:**
+
+*1F:*
+- Golbat (Lv. 45, 5%)
+- Graveler (Lv. 43, 30%)
+- Onix (Lv. 42, 30%)
+- Ursaring (Lv. 44, 30%)
+- Donphan (Lv. 44, 30%)
+- Larvitar (Lv. 15, 20, 5%)
+
+*2F:*
+- Golbat (Lv. 48, 5%)
+- Golduck (Lv. 48, 30%)
+- Quagsire (Lv. 45, 40%)
+- Ursaring (Lv. 47, 20%)
+- Donphan (Lv. 47, 20%)
+- Larvitar (Lv. 15, 20, 5%)
+
+*Summit:*
+- Golbat (Lv. 48, 51, 50%)
+- Golduck (Lv. 51, 5%)
+- Onix (Lv. 48, 30%)
+- Ursaring (Lv. 50, 10%)
+- Donphan (Lv. 50, 10%)
+- Larvitar (Lv. 15, 20, 5%)
+
+**Item Locations:**
+
+*1F:*
+- X Accuracy: Southeast ridge
+- Escape Rope: Southeast corner
+- Max Elixir: Northwest area
+- Ultra Ball: Northeast dead-end (hidden)
+
+*2F:*
+- Max Potion: South-central rock (hidden)
+- Max Revive: Lower dead-end (requires Surf, Waterfall)
+- Full Restore: Upper dead-end (requires Surf, Waterfall)
+
+**Cave Navigation:**
+
+*1F:* 
+- Use Flash in the dark area. Collect Protein, then jump to grab Escape Rope. Continue north, then west to find Max Elixir before heading to 2F.
+
+*2F:*
+- Surf west and use Waterfall to reach a dead-end chamber for Max Revive. Return to main chamber, go north, climb waterfalls, and find Full Restore in the second dead-end tunnel.
+
+**Summit:**
+- Cross the land bridge to battle Red, who has high-level Pokémon. 
+
+**Battle Strategy vs. Red:**
+- **Pikachu (Lv. 81):** Use Ground-type moves like Earthquake.
+- **Espeon (Lv. 73):** Use Bug, Ghost, or Dark-type moves.
+- **Snorlax (Lv. 75):** Use Fighting-type attacks.
+- **Venusaur (Lv. 77):** Use Fire or Ice moves.
+- **Charizard (Lv. 77):** Use Rock-type moves.
+- **Blastoise (Lv. 77):** Use Grass or Electric attacks.
+
+After defeating Red, the credits will roll, and you will resume in front of the Mt. Silver Pokémon Center. Your final task is to complete the Pokédex, with a total of 251 Pokémon available.
+
+**Next Steps:** 
+Continue to Route 22 and Route 28 or explore other areas like Tin Tower and Whirl Islands.

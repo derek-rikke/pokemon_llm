@@ -1,0 +1,603 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_18
+Keywords: Lavender Town, Route 10, Rock Tunnel, Kanto Power Plant
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Lavender Town
+1.1
+Kanto Radio Tower
+1.2
+House of Memories
+1.3
+Name Rater
+2
+Route 10 (south)
+2.1
+Rock Tunnel
+2.1.1
+1F
+2.1.2
+B1F
+2.1.3
+1F
+2.1.4
+B1F
+2.1.5
+1F
+3
+Route 10 (north)
+3.1
+Power Plant
+Lavender Town
+Lavender Town
+House of Memories
+Lavender Town
+is still a small town, though it experienced a big change during the last three years as
+Pokémon Tower
+was converted into the region's new Radio Tower.
+Kanto Radio Tower
+The tower security has been on alert ever since Johto's
+Radio Tower
+was taken over by
+Team Rocket
+, so visitors are restricted to the first floor. Accessing Kanto's radio programs requires an
+EXPN Card
+for the Pokégear. However, an incident at the
+Kanto Power Plant
+has disrupted the tower's energy supply, so you must restore power before you can obtain the EXPN Card.
+House of Memories
+The
+House of Memories
+was built to accommodate the departed Pokémon from the former
+Pokémon Tower
+site. There are several graves on the ground floor, and many more located in underground chambers that are off-limits to all but the caretaker,
+Mr. Fuji
+.
+Name Rater
+The
+Name Rater
+lives in the southeast house, and allows Trainers to rename any of their Pokémon. However, he cannot rename a Pokémon obtained in a trade.
+Route 10 (south)
+Route 10
+The south side of
+Route 10
+has only two Trainers between
+Lavender Town
+and
+Rock Tunnel
+. The
+Kanto Power Plant
+is located nearby, but can only be reached by surfing downriver from
+Route 9
+.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Robert
+Reward:
+$
+2752
+Quagsire
+♂
+Lv.
+43
+No item
+Hiker
+Jim
+Reward:
+$
+1440
+Machamp
+♂
+Lv.
+45
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM69
+(
+Rock Polish
+)
+Above a ledge to the west (requires
+Strength
+)
+HG
+SS
+Rock Tunnel, 1F
+Rock Tunnel, B1F
+Rock Tunnel
+Rock Tunnel
+is an undeveloped cave network that links
+Route 10
+to
+Route 9
+.
+Rare
+Pokémon
+, displaced from the former Kanto
+Safari Zone
+, can now be found inside. In addition, the inky darkness means that
+Flash
+is usable here.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Cubone
+HG
+SS
+Cave
+10-13
+35%
+Geodude
+HG
+SS
+Cave
+10
+30%
+Machop
+HG
+SS
+Cave
+12
+20%
+Zubat
+HG
+SS
+Cave
+8
+10%
+Machoke
+HG
+SS
+Cave
+14
+5%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+12
+20%
+Absol
+HG
+SS
+Hoenn Sound
+10
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+12
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+10
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+HG
+SS
+Cave
+12
+30%
+Cubone
+HG
+SS
+Cave
+12
+30%
+Onix
+HG
+SS
+Cave
+16
+20%
+Zubat
+HG
+SS
+Cave
+10
+10%
+Marowak
+HG
+SS
+Cave
+14
+5%
+Kangaskhan
+HG
+SS
+Cave
+14
+5%
+Rock Smash
+Geodude
+HG
+SS
+Rock Smash
+12-21
+100%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+16
+20%
+Absol
+HG
+SS
+Hoenn Sound
+12
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+16
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+12
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+X Defend
+On a stalagmite, northeast of the southern entrance (hidden)
+HG
+SS
+TM56
+(
+Fling
+)
+North of the southern entrance
+HG
+SS
+Elixir
+Southwest area
+HG
+SS
+X Accuracy
+On the northwest platform (hidden)
+HG
+SS
+B1F
+Oval Stone
+South-central area, far-left side (requires
+Rock Climb
+)
+HG
+SS
+HP Up
+South-central area, second chamber from the left (hidden, requires
+Rock Climb
+)
+HG
+SS
+Iron
+South-central area, far-right side (requires
+Rock Climb
+)
+HG
+SS
+Revive
+North-central area
+HG
+SS
+PP Up
+Lower area in the floor's center
+HG
+SS
+Max Potion
+Southeast area (hidden, requires
+Rock Smash
+)
+HG
+SS
+Other Items
+Red Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Blue Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Yellow Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Green Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Revive
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Max Ether
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Star Piece
+Randomly found by smashing
+breakable rocks
+HG
+SS
+1F
+Climb onto the platform and take the eastern stairs down, then east to the rock formations. Head to the southern-most rock formation to obtain an
+X Defend
+, then head north to collect
+TM56
+(
+Fling
+). Return to the platform and take the western stairs, then immediately north, to find an
+Elixir
+. Head southwest and take the ladder to the basement.
+B1F
+Go northeast to pass by several paths
+running down the wall
+. Head northwest from here and climb the ladder.
+1F
+Head east, then turn to the northwest. Inspect the southern part of the platform for a hidden
+X Accuracy
+, then pass over the northern part to reach the northwest ladder.
+B1F
+Grab the
+Revive
+to the east, then take the next pair of stairways eastward. The next stairway leads to a lower area with a
+PP Up
+. Continue on to the southeast corner and use
+Rock Smash
+to find a hidden
+Max Potion
+. Climb the ladder back to 1F.
+1F
+Follow the path northeastward to the exit.
+Route 10 (north)
+Outside the tunnel's northern exit is a conveniently-placed Pokémon Center. Chat up the patrons inside to learn that the
+Kanto Power Plant
+'s manager is looking for a strong Trainer to recover a stolen piece of equipment. Head up north to the canal, then swim southward to reach the building.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Voltorb
+HG
+SS
+Grass
+17
+30%
+Spearow
+HG
+SS
+Grass
+16
+30%
+30%
+0%
+Raticate
+HG
+SS
+Grass
+15-18
+,
+16
+25%
+20%
+25%
+Fearow
+HG
+SS
+Grass
+18
+10%
+10%
+0%
+Electabuzz
+HG
+SS
+Grass
+15
+,
+15-18
+5%
+10%
+5%
+Quagsire
+HG
+SS
+Grass
+16-18
+0%
+0%
+40%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+10-15
+90%
+Seaking
+HG
+SS
+Surfing
+15
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+16
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+16-17
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+16
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+16-17
+20%
+Power Plant
+Magneton
+HG
+SS
+Trade
+Dugtrio
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Carbos
+West side of the Power Plant (hidden)
+HG
+SS
+Power Plant
+Kanto Power Plant
+The old, abandoned
+Kanto Power Plant
+was recently renovated in order to power the region more efficiently. However, a thief has stolen an essential part of the new generator, forcing it offline. As you turn to leave, the police officer is alerted to a shady character that has been seen loitering around
+Cerulean City
+, and asks you to check it out. Surf back northward and head west to reach the city.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Magneton
+HG
+SS
+Trade
+Dugtrio
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Metal Coat
+Held by Maggie, the traded
+Magneton
+HG
+SS
+TM57
+(
+Charge Beam
+)
+From the Power Plant manager, after the
+Machine Part
+is recovered
+HG
+SS
+← Part 17
+Route 6, Saffron City, Route 8
+HeartGold and SoulSilver
+walkthrough
+Route 9, Cerulean City, Routes 24 and 25, Route 5
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

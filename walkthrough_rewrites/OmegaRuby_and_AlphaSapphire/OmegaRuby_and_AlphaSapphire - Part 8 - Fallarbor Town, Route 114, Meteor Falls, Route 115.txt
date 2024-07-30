@@ -1,0 +1,62 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 8
+Keywords: Fallarbor Town, Route 114, Meteor Falls, Route 115
+
+### Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 8
+
+#### Fallarbor Town
+- **Meet Lanette**: Visit the Pokémon Center to meet Lanette, who has improved the Pokémon Storage System. She invites you to her house on Route 114.
+- **Abduction**: After heading west, May/Brendan informs you that Professor Cozmo has been kidnapped by Team Magma/Aqua and taken to Meteor Falls.
+- **Move Maniac**: Located in the northwest house, he can teach Pokémon their forgotten moves for a Heart Scale.
+
+**Items:**
+- Nugget: Near Professor Cozmo's Lab (hidden)
+- Honey: From a Bug Maniac in the Pokémon Center (one per day)
+- TM23 (Smack Down): From Professor Cozmo after rescuing him
+- Galladite: From Professor Cozmo after completing the Delta Episode
+
+#### Route 114
+- **Overview**: Route 114 leads to Meteor Falls. Look for the Fossil Maniac and Lanette's house.
+- **Trainers**: Battle various trainers including Fishermen, Poké Maniacs, and Hikers.
+- **Available Pokémon**: Nuzleaf, Lombre, Swablu, Zangoose, and Seviper among others.
+
+**Items**:
+- TM28 (Dig): From the Fossil Maniac's brother
+- Rare Candy: Atop the waterfall (requires Surf/Waterfall)
+- Comet Shard: In a small crater (hidden)
+
+#### Meteor Falls
+- **Overview**: Located between Routes 114 and 115, Meteor Falls has two levels and rushing rapids.
+- **Trainers**: Battle Team Magma/Aqua with May/Brendan in a Multi Battle.
+  
+**Team Magma Admin (Omega Ruby)**:
+- Pokémon: Mightyena, Numel, Koffing
+
+**Team Aqua Admin (Alpha Sapphire)**:
+- Pokémon: Mightyena, Carvanha, Grimer
+
+- After defeating them, you'll chase them away. Archie/Maxie (leader of the opposing team) appears and hints at their plans.
+
+**Items**:
+- Full Heal: Near Route 114 entrance
+- Moon Stone: On a hill northwest of the bridge
+- TM02 (Dragon Claw) and other hidden items (requires Surf/Waterfall)
+
+#### Fallarbor Town (Return)
+- **Professor Cozmo's Lab**: After the battle, the professor thanks you and gives TM23 (Smack Down).
+
+#### Route 115
+- **Overview**: Accessible after Meteor Falls, requires Surf to explore fully.
+- **Trainers**: Includes Black Belts and Collectors.
+  
+**Available Pokémon**: Magikarp, Tentacool, Jigglypuff, Swablu.
+
+**Items**:
+- Heart Scale: On the beach (hidden)
+- Great Ball: South of Meteor Falls (on a ledge)
+
+**Treasure Hunting**: Use the Dowsing Machine to find items and explore thoroughly after acquiring Surf.
+
+---
+
+Remember to return to Meteor Falls later for new Pokémon and items after completing the final gym!

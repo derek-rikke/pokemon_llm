@@ -1,0 +1,49 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 6
+Keywords: Route 117, Verdanturf Town, Route 116, Rusturf Tunnel (Revisited), Devon Corporation (Revisited)
+
+**Pokémon Omega Ruby and Alpha Sapphire Walkthrough: Part 6**
+
+**Route 117**
+- **Location:** West of Mauville City, leading to Verdanturf Town and Rusturf Tunnel.
+- **Pokémon Day Care:** Leave up to two Pokémon to level up and potentially find Eggs.
+- **Trainers:** 
+  - Anna & Meg: Reward $864
+  - Triathlete Dylan: Reward $720
+  - Pokémon Breeder Lydia: Reward $680
+  - Bug Maniac Derek: Reward $420
+  - Pokémon Breeder Isaac: Reward $680
+- **Available Pokémon (Grass):** Zigzagoon, Illumise, Volbeat, Roselia, Marill, Oddish (various levels and rates).
+- **Items:**
+  - Pinap Berry ×8: East side berry trees.
+  - Revive: Northwest (requires Cut).
+  - Great Ball: Southwest.
+  - Ultra Ball: Rematch with Anna & Meg.
+
+**Verdanturf Town**
+- **Location:** West of Route 117.
+- **Items:**
+  - Mawilite: Southeast part of town.
+  - Repel: Hidden southeast.
+  - Intriguing Stone: From a girl after finding her Shroomish.
+  - TM45 (Attract): Inside Contest Hall.
+  - Gardevoirite: From Wanda after defeating Groudon/Kyogre and clearing Rusturf Tunnel.
+
+**Route 116 / Rusturf Tunnel**
+- **Access:** Use Rock Smash (requires Dynamo Badge) to clear rocks in Rusturf Tunnel.
+- **Items:**
+  - Aggronite: From Wanda's boyfriend after clearing debris.
+  - Max Ether: Northeast part of the cave.
+  - Random items (Big Pearl, Heart Scale, etc.) from smashing breakable rocks.
+
+- **Quests:**
+  - **Reunion:** Clear rocks to reunite Wanda with her boyfriend; receive Aggronite.
+  - **Lost His Glasses:** Find Black Glasses for a Bug Maniac (keep them).
+  - **The Researcher's Reward:** Receive Repeat Ball from a Devon researcher outside the tunnel.
+
+**Rustboro City / Devon Corporation**
+- **Task:** Visit Mr. Stone to identify the Intriguing Stone as Pidgeotite.
+
+**Next Steps:** Continue to Route 111 (south). 
+
+This guide provides key instructions and item locations for efficient gameplay in this section.

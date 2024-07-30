@@ -1,0 +1,51 @@
+Game: Platinum
+Part: 7
+Keywords: Solaceon Town, Solaceon Ruins, Lost Tower, Route 210 (south)
+
+**Part 7: Solaceon Town to Route 210 (South)**
+
+**1. Solaceon Town**
+- **Items:**
+  - Persim Berry, Nanab Berry (×2), Figy Berry: Near Poké Mart
+  - Seal Case: House in the far east
+  - PP Up: Eastern ledge
+  - Big Mushroom: Tree in the northeast corner (hidden)
+  
+- **Pokémon Day Care:** Deposit Pokémon for training; it costs $100 initially and $100 per level gained. You can also breed Pokémon here.
+
+- **Pokémon News Press:** Show a specific Pokémon daily for rewards (Poké Balls and Heart Scale).
+
+- **Solaceon Ruins:** Head east to find the entrance.
+
+**2. Solaceon Ruins**
+- **Pokémon:** Encounter all 28 Unown forms here; needed for Pokédex completion. 
+- **Items:** 
+  - HM05 (Defog): Found in the final room.
+  - Fire Stone, Water Stone, Thunderstone: Hidden in dead-end rooms.
+  - Nugget, Mind Plate, Odd Incense: Final room.
+  
+- **Tips:** Explore to find Unown in various rooms. Ensure to read the north inscription for hints on room navigation.
+
+**3. Lost Tower (Optional)**
+- Located on Route 209. Requires HM05 (Defog) for the last three floors.
+- **Items:**
+  - Honey: 2F, on the last gravestone (hidden).
+  - Revive: 3F, southwest corner.
+  - TM27 (Return): 4F, south side.
+  - Cleanse Tag, Spell Tag: From elderly ladies on 5F.
+
+- **Trainers:** Battle trainers for rewards as you progress.
+
+**4. Route 210 (South)**
+- **Trainers:** 
+  - Jogger Wyatt: Pikachu (Lv. 24).
+  - Rancher Marco: Ponyta (Lv. 24).
+  - Double Battles with Belle & Pa, and Twins Teri & Tia.
+
+- **Items:**
+  - TM51 (Roost): Speak to a woman near the Honey Tree.
+  - Rare Candy: Hidden in the grassy patch below the Café Cabin.
+  
+- **Café Cabin:** Battle trainers and buy Moomoo Milk ($500 per bottle, $6000 for case).
+
+**Next Steps:** After completing Route 210, proceed east to Route 215.

@@ -1,0 +1,888 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_9
+Keywords: Abandoned Ship, New Mauville, Route 118
+
+Walkthrough Text:
+Contents
+1
+Abandoned Ship (optional)
+1.1
+1F (east)
+1.2
+B1F
+1.3
+1F (west)
+1.4
+Captain's Office
+1.5
+B1F
+2
+Trick House - Puzzle 4 (optional)
+3
+Mauville City (optional)
+4
+New Mauville (optional)
+4.1
+Entrance
+4.2
+B1F
+4.3
+Done
+5
+Route 118
+5.1
+Get Good with a Good Rod
+5.2
+Gabby and Ty
+5.3
+Meet up with Steven
+6
+Route 123 (optional)
+6.1
+Berry Master's House
+6.1.1
+Berry Master
+6.1.2
+Berry Master's Wife
+Abandoned Ship (optional)
+Abandoned Ship, exterior
+Abandoned Ship, 1F
+Abandoned Ship, B1F
+Located on
+Route 108
+, the
+Abandoned Ship
+is all that remains from when the S.S. Cactus ran aground. The old vessel has many rusted holes, broken doors, and furniture scattered around. Once slated for demolition, the half-sunken vessel now exists as a refuge for water-dwelling Pokémon. Navigating the structure requires the use of
+a certain field move
+in addition to
+Surf
+, so some parts will be inaccessible for now.
+Trainers
+Trainer
+Pokémon
+1F (east)
+Beauty
+Thalia
+Reward:
+$
+2000
+Potential
+Double Battle
+with Demetrius
+Wailmer
+♀
+Lv.
+25
+No item
+Horsea
+♀
+Lv.
+25
+No item
+Youngster
+Demetrius
+Reward:
+$
+400
+Potential
+Double Battle
+with Thalia
+Zigzagoon
+♂
+Lv.
+25
+No item
+Electrike
+♂
+Lv.
+25
+No item
+B1F
+Sailor
+Duncan
+Reward:
+$
+800
+Spheal
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+1F (west)
+Tuber
+Charlie
+Reward:
+$
+104
+Marill
+♂
+Lv.
+26
+No item
+Ruin Maniac
+Garrison
+Reward:
+$
+1560
+Potential
+Double Battle
+with Jani
+Sandslash
+♂
+Lv.
+26
+No item
+Tuber
+Jani
+Reward:
+$
+104
+Potential
+Double Battle
+with Garrison
+Marill
+♀
+Lv.
+26
+No item
+Young Couple
+Kira & Dan
+Reward:
+$
+1600
+Volbeat
+♂
+Lv.
+25
+No item
+Illumise
+♀
+Lv.
+25
+No item
+Rematch
+Beauty
+Thalia
+*
+Reward:
+$
+2720
+Wailmer
+♀
+Lv.
+34
+No item
+Horsea
+♀
+Lv.
+34
+No item
+Beauty
+Thalia
+*
+Reward:
+$
+2880
+/
+3040
+Luvdisc
+♀
+Lv.
+36
+/
+38
+No item
+Wailmer
+♀
+Lv.
+36
+/
+38
+No item
+Seadra
+♀
+Lv.
+36
+/
+38
+No item
+Beauty
+Thalia
+*
+Reward:
+$
+3200
+Luvdisc
+♀
+Lv.
+40
+No item
+Wailord
+♀
+Lv.
+40
+No item
+Kingdra
+♀
+Lv.
+40
+No item
+Young Couple
+Kira & Dan
+Reward:
+$
+1920
+/
+2112
+/
+2304
+/
+2496
+Volbeat
+♂
+Lv.
+30
+/
+33
+/
+36
+/
+39
+No item
+Illumise
+♀
+Lv.
+30
+/
+33
+/
+36
+/
+39
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+99%
+Tentacruel
+R
+S
+E
+Surfing
+30-35
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Harbor Mail
+East side, northwest room
+E
+Revive
+West side, north room
+E
+B1F
+Dive Ball
+In the cabin with the broken door
+E
+Escape Rope
+Southwest cabin
+E
+TM13
+(
+Ice Beam
+)
+Northeast room (requires
+Storage Key
+)
+E
+2F
+Storage Key
+Captain's office
+E
+1F (east)
+Three of the four cabins here are connected. Visit the isolated northwest cabin for a
+Harbor Mail
+and head downstairs.
+B1F
+Fight Sailor Duncan and collect a
+Dive Ball
+from the north-central cabin. Visit the southwest cabin for an
+Escape Rope
+and climb the stairs in the northwest corner.
+1F (west)
+Pass through the north cabin to get a
+Revive
+, then go through the south door to reach the outside of the ship. Climb the stairway there to reach the Captain's office.
+Captain's Office
+The Scientist inside is investigating the ship on
+Captain Stern
+'s behalf. Stern asked him to find a Scanner, but he hasn't had much success. Pick up the nearby
+Storage Key
+and return to the basement floor.
+B1F
+Inspect the locked door to the northeast cabin to insert the Storage Key. The key becomes stuck in the lock, but the door opens. Inside, you find
+TM13
+(
+Ice Beam
+). After that, head for the south-central cabin. Seawater has flooded into the room, so you can come back and
+go underwater
+later in the game.
+Trick House - Puzzle 4 (optional)
+In
+Trick House
+now you can complete the puzzle 4. First, make sure you have a Pokémon that knows
+Strength
+.
+Mauville City (optional)
+When you return to
+Mauville
+, you find
+Wattson
+standing near the Pokémon Center. He asks for a favor, and explains that the city has an underground sector known as
+New Mauville
+. There's a generator inside that hasn't been functioning properly, and he needs you to go and turn it off before the situation gets out of control. He gives you the
+Basement Key
+and directs you to the facility's entrance on
+Route 110
+.
+Surf
+eastward under the north end of
+Seaside Cycling Road
+to reach the facility.
+Items
+Item
+Location
+Games
+Basement Key
+From Wattson, after agreeing to help shut down New Mauville's generator
+E
+TM24
+(
+Thunderbolt
+)
+From Wattson, after shutting down New Mauville's generator
+E
+New Mauville (optional)
+New Mauville, Entrance
+New Mauville, B1F
+New Mauville
+was intended to be an underground city extending dozens of floors below the surface. However, the project died in development when it was discovered to be a habitat for wild Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrance
+Magnemite
+R
+S
+E
+Entrance
+22-26
+50%
+Voltorb
+R
+S
+E
+Entrance
+22-26
+50%
+Basement
+Magnemite
+R
+S
+E
+Basement
+22-26
+49%
+Voltorb
+R
+S
+E
+Basement
+22-26
+49%
+Magneton
+R
+S
+E
+Basement
+26
+1%
+Electrode
+R
+S
+E
+Basement
+26
+1%
+Special Pokémon
+Voltorb
+R
+S
+E
+Fake item
+25
+Three
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+Near the center of the floor, on a blue switch
+E
+Ultra Ball
+East-southeast room, north of the entrance
+E
+Parlyz Heal
+Northwest part of the floor, on a green switch
+E
+Full Heal
+North-central room, on a green switch
+E
+Thunderstone
+East of the generator in the northeast room
+E
+Fake Items
+Voltorb
+×3
+Near the center of the floor, on a green switch
+Northwest part of the floor, on a blue switch
+North-central room, on a blue switch
+E
+Entrance
+Use the Basement Key to unlock the door, and step inside to reach the southeast room.
+B1F
+The lower floor uses a series of colored buttons as a security measure; when stepped on, all similarly-colored doors open while all others close. Step on the blue button in the entrance room and go west. Press the green button in the next room and continue on. Pass by the third button and head north to reach an
+Escape Rope
+; collect the item, go to the right to reach an
+Ultra Ball
+, back and press the blue button beneath it. Go northwest to find a room with two items, a
+Parlyz Heal
+to the left and a
+Voltorb
+to the right. Follow the hallway eastward to the north-central room and another pair of items, a Voltorb to the left and a
+Full Heal
+to the right; collect the item and step on the green button beneath it. The generator is located in the northeast room; press the red button to shut it down and collect the
+ThunderStone
+before leaving the area walking or using an Escape Rope.
+Done
+With your task complete, return to
+Wattson
+outside the Pokémon Center. Inform him that everything is all right in New Mauville, and the grateful Gym Leader rewards you with
+TM24
+(
+Thunderbolt
+).
+Route 118
+Route 118
+You can now fully explore the route by using
+Surf
+. The seaside
+Route 118
+links the west and east sides of the region together. Several new species of Pokémon can be found here, including
+Manectric
+, which might be of great value in the upcoming Gym.
+Trainers
+Trainer
+Pokémon
+Eastern side
+Interviewer
+Gabby & Ty
+Reward:
+$
+2592
+Magnemite
+Lv.
+27
+No item
+Loudred
+♂
+Lv.
+27
+No item
+Fisherman
+Barny
+Reward:
+$
+1000
+Tentacool
+♂
+Lv.
+25
+No item
+Carvanha
+♂
+Lv.
+25
+No item
+Bird Keeper
+Chester
+Reward:
+$
+800
+Taillow
+♂
+Lv.
+25
+No item
+Swellow
+♂
+Lv.
+25
+No item
+Bird Keeper
+Perry
+Reward:
+$
+832
+Wingull
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+R
+S
+E
+Grass
+24, 26
+30%
+Electrike
+R
+S
+E
+Grass
+24, 26
+30%
+Wingull
+R
+S
+E
+Grass
+25-27
+19%
+Linoone
+R
+S
+E
+Grass
+26
+10%
+Manectric
+R
+S
+E
+Grass
+26
+10%
+Kecleon
+R
+S
+E
+Grass
+25
+1%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Carvanha
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+East side
+Good Rod
+From the Fisherman on the north end of the beach
+E
+Iron
+On the beach, on a rock to the northwest of Fisherman Barny (hidden)
+E
+Sitrus Berry
+×4
+From the soft soil patch, west of the exit to Route 119
+E
+Hyper Potion
+East of Bird Keeper Perry
+E
+Get Good with a Good Rod
+The Fisherman on the river's eastern bank believes that Good Rods are really good. Agree with his statement to receive your very own
+Good Rod
+, a mid-level fishing rod that can catch even more kinds of Pokémon than the
+Old Rod
+.
+Gabby and Ty
+After your first interview on the south side of
+Route 111
+,
+the intrepid news team
+can be found searching for their next story on the eastern bank of
+Route 118
+'s river. Accept their challenge to another
+Double Battle
+and be sure to give them a great interview when the dust settles!
+Meet up with Steven
+As you leave the beach, you are noticed by
+Steven
+. He hasn't seen you since your first meeting in
+Granite Cave
+, and is pleased to see how much you have grown as a Trainer. He wonders if you will raise Pokémon of all types, or only a certain one.
+Route 123 (optional)
+Before heading north to Route 119, let's head east to
+Route 123
+for a quick stop. The
+Berry Master
+'s house, and his extensive backyard garden, can be found on the route's west side.
+Trainers
+Trainer
+Pokémon
+Accessed via Route 118, Route 122
+Bug Catcher
+Davis
+Reward:
+$
+432
+Potential
+Double Battle
+with Jazmyn
+Pinsir
+♂
+Lv.
+27
+No item
+Cooltrainer
+Jazmyn
+Reward:
+$
+540
+Potential
+Double Battle
+with Davis
+Absol
+♀
+Lv.
+27
+No item
+Aroma Lady
+Violet
+Reward:
+$
+1040
+Roselia
+♀
+Lv.
+26
+No item
+Gloom
+♀
+Lv.
+26
+No item
+Twins
+Miu & Yuki
+Reward:
+$
+624
+Beautifly
+♂
+Lv.
+26
+No item
+Dustox
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Accessible from Routes 118 or 122
+Ultra Ball
+South of the Berry Master's house
+E
+Revive
+North of the Berry Master's garden (hidden)
+E
+Berry Master's House
+The
+Berry Master
+'s house, and
+the Berry garden he tends
+, are located near the route's west end.
+Items
+Item
+Location
+Games
+Grepa Berry
+×8
+In the soft soil bed in the Berry Master's garden
+E
+Pomeg Berry
+×8
+In the soft soil bed in the Berry Master's garden
+E
+Qualot Berry
+×8
+In the soft soil bed in the Berry Master's garden
+E
+Berry Master
+Talk to Berry Master to receive two Berries from a group of ten every day, chosen randomly (the berries can be two identical or different).
+Berry
+Pomeg Berry
+Kelpsy Berry
+Qualot Berry
+Hondew Berry
+Grepa Berry
+Tamato Berry
+Cornn Berry
+Magost Berry
+Rabuta Berry
+Nomel Berry
+Berry Master's Wife
+The
+Berry Master's wife
+will give out a Berry each day as well, but the type depends on whether or not you tell her a special phrase. Most answers will result in a common type of Berry, while certain answers will earn a rarer variety. After hearing all five phrases, she will hand out one common Berry from a group of ten every day. At this moment, you can only get the rare
+Spelon Berry
+.
+Phrase
+Berry Received
+GREAT BATTLE
+Spelon Berry
+If you do not qualify for a special Berry:
+Berry
+Cheri Berry
+Chesto Berry
+Pecha Berry
+Rawst Berry
+Aspear Berry
+Leppa Berry
+Oran Berry
+Persim Berry
+Lum Berry
+Sitrus Berry
+← Part 8
+Route 111 (desert), Mirage Tower, Petalburg City, Route 115, Route 105, Route 107, Route 108
+Emerald
+walkthrough
+Route 119, Weather Institute, Fortree City, Route 120
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

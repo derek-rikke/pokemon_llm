@@ -1,0 +1,49 @@
+Game: Diamond_and_Pearl
+Part: 1
+Keywords: Introduction, Twinleaf Town, Verity Lakefront, Lake Verity, Route 201, Sandgem Town, Back to Twinleaf Town
+
+**Pokémon Diamond and Pearl Walkthrough: Part 1**
+
+**Introduction**
+- Start the game and create your character. Choose your gender and name, then name your rival Barry.
+
+**Twinleaf Town**
+- Begin your journey at home. Your mom informs you that Barry wants to meet you. Head to Barry's house, where he rushes out to Lake Verity.
+
+**Route 201**
+- Follow Barry north to Route 201. Avoid tall grass as per your mom's warning.
+
+**Verity Lakefront**
+- Take the path to Lake Verity. You can find a hidden Potion here, accessible from Route 201.
+
+**Lake Verity**
+- Upon arrival, you encounter Professor Rowan and his assistant (Dawn/Lucas). After a wild Starly attack, choose your starter Pokémon from the briefcase: Turtwig, Chimchar, or Piplup. Each has unique strengths:
+  - **Turtwig**: Grass-type; evolves into Torterra; strong physical attacker.
+  - **Chimchar**: Fire-type; fast and offensive; evolves into Infernape.
+  - **Piplup**: Water-type; defensive with Steel-type upon evolving into Empoleon.
+
+**First Battle**
+- Defeat a Level 2 Starly. Rowan’s assistant takes the briefcase, and you return to Twinleaf Town.
+
+**Getting the Running Shoes**
+- Meet Rowan and receive the Running Shoes from your mom. Head north to Route 201.
+
+**Route 201**
+- Encounter wild Bidoof and Starly. A woman near the Poké Mart gives you a Potion.
+
+**Sandgem Town**
+- At Sandgem Town, enter the Pokémon Research Lab. Professor Rowan gives you your chosen starter and a Pokédex. Afterward, Lucas/Dawn shows you the Pokémon Center and Poké Mart.
+
+**Back to Twinleaf Town**
+- Return home for rest and receive a Journal from your mom. Barry's mom requests you to deliver a Parcel to him in Jubilife City. 
+
+**Next Steps**
+- Leave Twinleaf Town and head to Route 219 for an Antidote. Then proceed north to Route 202.
+
+**Items Collected**
+- Potion (Route 201)
+- Running Shoes (from Mom)
+- Pokédex (from Professor Rowan)
+- Journal (from Mom after returning)
+
+Continue to explore and battle on your adventure!

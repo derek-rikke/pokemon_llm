@@ -1,0 +1,49 @@
+Game: Red_and_Blue
+Part: 3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+**Part 3: Viridian Forest and Pewter City**
+
+**Route 2: Viridian Forest**
+- **Overview**: A natural maze with various trainers and Pokémon.
+- **Trainers**:
+  - Bug Catcher (Weedle Lv. 6, Caterpie Lv. 6) - Reward: $60
+  - Bug Catcher (Weedle Lv. 7, Kakuna Lv. 7) - Reward: $70
+  - Bug Catcher (Weedle Lv. 9) - Reward: $90
+- **Available Pokémon**: 
+  - Weedle (Lv. 3-5), Caterpie (Lv. 3-5), Kakuna (Lv. 4-6), Metapod (Lv. 4-6), Pikachu (Lv. 3, 5)
+- **Items**:
+  - Poké Ball: Northwest path (R/B)
+  - Antidote: Near the lone tree (hidden) and northeast area (R/B)
+  - Potions: Southeast dead-end path and in front of last Bug Catcher (hidden) (R/B)
+
+**Instructions**: 
+1. Follow the northwest trail for a Poké Ball.
+2. Head east to battle the first Bug Catcher, then north for another battle.
+3. Collect the Antidote, move west through tall grass to a signpost, and explore the southeast dead-end for a Potion.
+4. Continue west, defeat the last Bug Catcher, and exit to Route 2, heading north to Pewter City.
+
+---
+
+**Pewter City**
+- **Overview**: Home to the Pewter Museum of Science and Pewter Gym.
+- **Items**: 
+  - TM34 (Bide): From Brock after defeating him (R/B).
+  - Old Amber: Pewter Museum (requires Cut).
+
+**Calling All Challengers**: 
+- The Gym Leader Brock is ready for challenges. Stock up on Potions at the Poké Mart.
+
+**Pewter Museum of Science**: 
+- Admission: $50. Focus on fossils and space exploration.
+
+**Pewter Gym**:
+- **Leader**: Brock (Rock/Ground-type).
+- **Strategy**: Use Grass or Water attacks for effectiveness. Charmander’s Ember (if leveled to 16 for Charmeleon) or a Butterfree with Confusion is recommended. If Onix uses Bide, lower its stats to mitigate damage.
+- **Trainers**: 
+  - Jr. Trainer (Diglett Lv. 11, Sandshrew Lv. 11) - Reward: $220
+  - Brock (Geodude Lv. 12, Onix Lv. 14) - Reward: $1386
+
+**Post-Gym**: 
+- Receive the Boulder Badge (boosts Attack and enables Flash). 
+- Next destination: Cerulean City. Stock up on items and head east to Route 3.

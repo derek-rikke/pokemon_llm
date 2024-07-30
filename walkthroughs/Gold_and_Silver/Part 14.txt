@@ -1,0 +1,1648 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_14
+Keywords: Route 27, Route 26, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+New Bark Town
+1.1
+Elm's Lab
+1.2
+Leaving Home, Again
+2
+Route 27
+2.1
+West side
+2.1.1
+Welcome to Kanto!
+2.2
+Tohjo Falls
+2.3
+East side
+2.3.1
+A Friendly Gift
+3
+Route 26
+3.1
+Rest stop
+3.2
+Week Siblings' home
+3.3
+Pokémon League Reception Gate
+3.3.1
+VIPs Only
+4
+Victory Road
+4.1
+1F
+4.2
+2F
+4.3
+3F
+4.4
+2F
+4.5
+3F
+4.6
+2F
+4.7
+3F
+4.7.1
+Ambush!
+4.7.2
+Rival Battle 5
+4.7.2.1
+If the player chose Chikorita:
+4.7.2.2
+If the player chose Cyndaquil:
+4.7.2.3
+If the player chose Totodile:
+New Bark Town
+New Bark Town
+Elm's Lab
+When you return to Elm's Lab in
+New Bark Town
+,
+the professor
+thanks you for helping with his research. To show his appreciation, he rewards you with a
+Master Ball
+, a rare model of Poké Ball that catches any Pokémon without fail! According to Elm, this type of Poké Ball is usually given only to recognized Pokémon researchers, but he thinks that you will make better use of it than he would. It is best to use it when battling a Legendary Pokémon, as they can be very difficult to capture otherwise.
+Leaving Home, Again
+Use
+Surf
+to sail eastward from
+New Bark Town
+to reach
+Route 27
+.
+Route 27
+Route 27
+Tohjo Falls
+Route 27
+is a seaside route that connects
+New Bark Town
+in the west and
+Route 26
+in the east. The uneven terrain hinders eastbound travel, forcing Trainers to pass through
+Tohjo Falls
+.
+Trainers
+Trainer
+Pokémon
+East of Tohjo Falls
+Cooltrainer
+Megan
+Reward:
+$
+1536
+Bulbasaur
+♂
+Lv.
+32
+No item
+Ivysaur
+♂
+Lv.
+32
+No item
+Venusaur
+♂
+Lv.
+32
+No item
+Cooltrainer
+Blake
+Reward:
+$
+1488
+Magneton
+Lv.
+33
+No item
+Quagsire
+♂
+Lv.
+31
+No item
+Exeggcute
+♂
+Lv.
+31
+No item
+Bird Keeper
+Jose
+Reward:
+$
+840
+Requires
+Surf
+,
+Whirlpool
+Farfetch'd
+♂
+Lv.
+35
+No item
+Cooltrainer
+Brian
+Reward:
+$
+1680
+Sandslash
+♂
+Lv.
+35
+No item
+Psychic
+Gilbert
+Reward:
+$
+1088
+Starmie
+Lv.
+30
+No item
+Exeggcute
+♂
+Lv.
+30
+No item
+Girafarig
+♂
+Lv.
+34
+No item
+Cooltrainer
+Reena
+Reward:
+$
+1488
+Starmie
+Lv.
+31
+No item
+Nidoqueen
+♀
+Lv.
+33
+No item
+Starmie
+Lv.
+31
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Raticate
+G
+S
+C
+Grass
+28
+30%
+0%
+0%
+Raticate
+G
+S
+C
+Grass
+28,30
+0%
+40%
+40%
+Raticate
+G
+S
+C
+Grass
+30
+0%
+10%
+10%
+Arbok
+G
+S
+C
+Grass
+28
+30%
+Sandslash
+G
+S
+C
+Grass
+30
+5%
+Ponyta
+G
+S
+C
+Grass
+32
+5%
+Doduo
+G
+S
+C
+Grass
+28,30
+50%
+50%
+0%
+Dodrio
+G
+S
+C
+Grass
+30
+5%
+5%
+0%
+Quagsire
+G
+S
+C
+Grass
+28
+10%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+28,30
+0%
+0%
+50%
+Quagsire
+G
+S
+C
+Grass
+28,30,32
+0%
+0%
+55%
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+15-24
+90%
+Tentacruel
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West side
+Rare Candy
+Isolated bit of land east-southeast of Tohjo Falls (requires
+Surf
+)
+G
+S
+East side (requires Waterfall)
+TM37
+(
+Sandstorm
+)
+From a woman in the house, if the lead party Pokémon is
+friendly
+enough
+G
+S
+TM22
+(
+SolarBeam
+)
+Isolated bit of land south of the bridge (requires
+Surf
+,
+Whirlpool
+)
+G
+S
+West side
+Welcome to Kanto!
+When you step out of the water, you draw the attention of a man standing nearby. He asks if you know what you have just done, and excitedly informs you that you have just taken your first step into the
+Kanto
+region.
+Tohjo Falls
+Tohjo Falls
+is a small cave in southwest
+Kanto
+that serves to link the two regions together. As it cannot be cleared before obtaining
+HM07
+(
+Waterfall
+) and the
+Rising Badge
+, it also acts as a natural barrier so that only the strongest Trainers continue onward to the
+Pokémon League
+at
+Indigo Plateau
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Raticate
+G
+S
+C
+Cave
+22
+30%
+Zubat
+G
+S
+C
+Cave
+22
+30%
+Golbat
+G
+S
+C
+Cave
+22
+20%
+Slowpoke
+G
+S
+C
+Cave
+21,23
+15%
+Rattata
+G
+S
+C
+Cave
+20
+5%
+Surfing
+Goldeen
+G
+S
+C
+Surfing
+20-24
+60%
+Slowpoke
+G
+S
+C
+Surfing
+20-24
+30%
+Seaking
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Goldeen
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Goldeen
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Moon Stone
+Dead-end path, west of the two waterfalls (requires
+Surf
+)
+G
+S
+East side
+A Friendly Gift
+Visit the house outside
+Tohjo Falls
+to meet an elderly woman. After hearing that you are headed to the Pokémon League, she asks if your Pokémon are loyal enough to you. If your lead Pokémon is
+friendly
+enough, she rewards you with
+TM37
+(
+Sandstorm
+).
+Route 26
+Route 26
+Route 26
+is one of the longest routes in
+Kanto
+, and occupies much of the western part of the region. It stretches from
+Route 27
+in the far southwest to the
+Pokémon League Reception Gate
+that sits at the crossroads between
+Route 28
+to the west,
+Route 22
+to the east, and
+Victory Road
+to the north.
+Trainers
+Trainer
+Pokémon
+Fisher
+Scott
+Reward:
+$
+1360
+Qwilfish
+♂
+Lv.
+30
+No item
+Qwilfish
+♂
+Lv.
+30
+No item
+Seaking
+♂
+Lv.
+34
+No item
+Psychic
+Richard
+Reward:
+$
+1152
+Espeon
+♂
+Lv.
+36
+No item
+Cooltrainer
+Joyce
+Reward:
+$
+1536
+Pikachu
+♀
+Lv.
+36
+No item
+Blastoise
+♂
+Lv.
+32
+No item
+Cooltrainer
+Gaven
+Reward:
+$
+1536
+Victreebel
+♂
+Lv.
+32
+No item
+Kingler
+♂
+Lv.
+32
+No item
+Flareon
+♂
+Lv.
+32
+No item
+Cooltrainer
+Jake
+Reward:
+$
+1680
+Parasect
+♂
+Lv.
+33
+No item
+Golduck
+♂
+Lv.
+35
+No item
+Cooltrainer
+Beth
+Reward:
+$
+1728
+Rapidash
+♀
+Lv.
+36
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Raticate
+G
+S
+C
+Grass
+30
+4%
+5%
+0%
+Raticate
+G
+S
+C
+Grass
+28, 30
+0%
+0%
+40%
+Raticate
+G
+S
+C
+Grass
+28, 30
+34%
+35%
+70%
+Arbok
+G
+S
+C
+Grass
+30
+5%
+Sandslash
+G
+S
+C
+Grass
+28
+30%
+Ponyta
+G
+S
+C
+Grass
+32
+20%
+Doduo
+G
+S
+C
+Grass
+28, 30
+40%
+40%
+0%
+Dodrio
+G
+S
+C
+Grass
+30
+5%
+5%
+0%
+Quagsire
+G
+S
+C
+Grass
+30
+1%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+30, 32
+0%
+0%
+10%
+Quagsire
+G
+S
+C
+Grass
+30
+1%
+0%
+5%
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+25-34
+90%
+Tentacruel
+G
+S
+C
+Surfing
+30-34
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Ekans
+G
+S
+C
+Headbutt
+10
+15%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ice Berry
+Halfway through the route, on a tree behind the rest stop (daily)
+G
+S
+Max Elixer
+Southwest of the gate and the northern-most pair of ledges
+G
+S
+Rest stop
+Visit the house on the eastern road and speak to the woman inside. Noticing how tired that your Pokémon appear to be, she lets you take a moment to rest, restoring your Pokémon to full health in the process.
+Week Siblings' home
+The house on the edge of the grass patch in the southwest belongs to the
+Week Siblings
+. No one is home, but a note on the table lists each sibling's designated location. Each sibling gives out a different
+type-enhancing item
+.
+Day
+Sibling
+Location
+Item Received
+Monday
+Monica
+Route 40
+Sharp Beak
+Tuesday
+Tuscany
+Route 29
+Pink Bow
+Wednesday
+Wesley
+Lake of Rage
+Black Belt
+Thursday
+Arthur
+Route 36
+Hard Stone
+Friday
+Frieda
+Route 32
+Poison Barb
+Saturday
+Santos
+Blackthorn City
+Spell Tag
+Sunday
+Sunny
+Route 37
+Magnet
+Pokémon League Reception Gate
+VIPs Only
+All Trainers traveling to
+Indigo Plateau
+must present their Badges to prove their worth. The first guard looks to see if a Trainer has earned all eight Badges from the
+Johto
+region. Once he has verified that you have earned every Badge, you are free to continue on. Two other men block the way to the west and east exits. Step through the doors to the north to enter
+Victory Road
+.
+Victory Road
+Victory Road, 1F
+Victory Road, 2F
+Victory Road, 3F
+Indigo Plateau
+Victory Road
+is a difficult tunnel separating the
+Pokémon League Reception Gate
+and
+Indigo Plateau
+. It serves as a final test for aspiring Trainers to prove themselves, as only the strongest reach the other side. The cave
+was originally
+a grueling hike, but later cave-ins have left the accessible areas diminished. The are also no other Trainers to be found inside, likely due to the risk of further collapse.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+G
+S
+C
+Cave
+32
+30%
+Graveler
+G
+S
+C
+Cave
+32
+30%
+Ursaring
+G
+S
+C
+Cave
+33
+20%
+Donphan
+G
+S
+C
+Cave
+33
+20%
+Onix
+G
+S
+C
+Cave
+34-36
+15%
+Rhyhorn
+G
+S
+C
+Cave
+35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Full Heal
+×2
+Southwest area, on a lone rock in the middle of the path (hidden)
+Northeast area, eastern-most dead-end path
+G
+S
+Max Revive
+Northeast area, western-most dead-end path
+G
+S
+2F
+X Special
+Above the ledge in the south-central area
+G
+S
+Full Restore
+Above the east-central ledge, accessed via 3F
+G
+S
+TM26
+(
+Earthquake
+)
+Northwest area, accessed by falling from 3F
+G
+S
+Max Potion
+On the lone rock in the northwest area, accessed by falling from 3F (hidden)
+G
+S
+1F
+Walk up onto the rocky ridge and head northeast to pick up a
+Full Heal
+and a
+Max Revive
+. Go west and climb the northwest ladder.
+2F
+Move eastward across the ridge to collect the
+X Special
+from the ledge to the south. Head east, then turn north and climb up the ladder.
+3F
+Step up onto the ridge and follow it to the southwest. Jump the ledge to the south, then climb down the ladder in the southeast.
+2F
+Grab the
+Full Restore
+, then jump the ledge. Climb the western ladder again to 3F.
+3F
+Move counter-clockwise around the ridge, then go all the way to the western wall and jump down through the hole.
+2F
+Pick up
+TM26
+(
+Earthquake
+), then jump the ledge to the east and climb the ladder one last time.
+3F
+Take a moment to tend to your Pokémon, then move northward around the ridge again. The exit is a short distance to the north.
+Ambush!
+Before you can reach the exit,
+Silver
+appears once again. He cannot understand how you are headed to the Pokémon League, as he sees you as so much weaker than himself. He considers himself invincible, and draws you into battle to prove it.
+Rival Battle 5
+Each of
+Silver
+'s Pokémon has grown a few more levels since the last battle. His
+Magnemite
+has since evolved into
+Magneton
+, and the Pokémon that he took from
+Elm
+'s lab has now evolved into its final form. He has recently added a
+Kadabra
+to his team, as well; as a
+Psychic-type
+Pokémon, Kadabra has low physical
+Defense
+and takes serious damage from
+Bug
+-,
+Ghost
+-, and
+Dark-type
+attacks.
+If the player chose
+Chikorita
+:
+Silver
+Victory Road
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2280
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+34
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+36
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+35
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Swift
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+35
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Kadabra
+♂
+Lv.
+35
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psybeam
+Psychic
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Typhlosion
+♂
+Lv.
+38
+Ember
+Fire
+--
+SmokeScreen
+Normal
+--
+Quick Attack
+Normal
+--
+Flame Wheel
+Fire
+--
+If the player chose
+Cyndaquil
+:
+Silver
+Victory Road
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2280
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+34
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+36
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+35
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Swift
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+35
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Kadabra
+♂
+Lv.
+35
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psybeam
+Psychic
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Feraligatr
+♂
+Lv.
+38
+Slash
+Normal
+--
+Scary Face
+Normal
+--
+Rage
+Normal
+--
+Water Gun
+Water
+--
+If the player chose
+Totodile
+:
+Silver
+Victory Road
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+2280
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+34
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+36
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+35
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+Swift
+Normal
+--
+ThunderShock
+Electric
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+35
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Kadabra
+♂
+Lv.
+35
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psybeam
+Psychic
+--
+Type:
+Grass
+Unknown
+Held item:
+None
+Meganium
+♂
+Lv.
+38
+PoisonPowder
+Poison
+--
+Razor Leaf
+Grass
+--
+Body Slam
+Normal
+--
+Reflect
+Psychic
+--
+Afterward, Silver admits that he may need some time for self-reflection to figure out why he cannot defeat you. He reaffirms his intent to keep getting stronger, and looks forward to the day when he finally beats you. He tells you to keep training until then, and leaves. Exit the cave to arrive at
+Indigo Plateau
+, the site of the Pokémon League.
+← Part 13
+Blackthorn City, Route 45, Dark Cave, Route 46
+Gold and Silver
+walkthrough
+Indigo Plateau
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

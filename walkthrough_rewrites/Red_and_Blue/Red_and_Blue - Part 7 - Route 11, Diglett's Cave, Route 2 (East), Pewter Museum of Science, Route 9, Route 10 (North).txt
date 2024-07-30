@@ -1,0 +1,76 @@
+Game: Red_and_Blue
+Part: 7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+### Pokémon Red and Blue Walkthrough - Part 7
+
+**Route 11**  
+- Location: Between Vermilion City and Route 12.  
+- **Diglett's Cave**: Connects to Route 2.  
+- **Trainers**:  
+  - Gambler (Poliwag, Horsea) - $1260  
+  - Youngster (Ekans) - $315  
+  - Youngster (Sandshrew, Zubat) - $285  
+  - Youngster (Nidoran♂, Nidorino) - $270  
+  - Engineer (Magnemite) - $1050  
+
+- **Items**:  
+  - **Escape Rope**: Hidden in a tree north of the gate.  
+  - **Itemfinder**: From Professor Oak's aide after capturing 30 Pokémon.  
+
+- **Trade**: Near Oak's aide, trade Nidorino for Nidorina.
+
+---
+
+**Diglett's Cave**  
+- Pokémon:  
+  - Diglett (15-22) - 95%  
+  - Dugtrio (29-31) - 5%  
+
+---
+
+**Route 2 (East)**  
+- **Access**: Requires HM01 (Cut).  
+- **Items**:  
+  - **HM05 (Flash)**: From Oak's aide after catching 10 Pokémon.  
+  - **HP Up**: South of the gate.  
+  - **Moon Stone**: South of the second ledge.  
+
+- **Trade**: For Mr. Mime, trade an Abra with the man in the northeast house.
+
+---
+
+**Pewter City**  
+- **Pewter Museum**: Use Cut to access the employee area and receive **Old Amber** from the Scientist.  
+
+- **Next Steps**: Return to Cerulean City via Mt. Moon or Diglett's Cave.
+
+---
+
+**Route 9**  
+- Links Cerulean City to Route 10.  
+- **Trainers**:  
+  - Jr. Trainer (Oddish, Bellsprout) - $360  
+  - Hiker (Machop, Onix) - $700  
+  - Bug Catcher (Beedrill) - $190  
+
+- **Items**:  
+  - **TM30 (Teleport)**: Southwest corner.  
+  - **Ether**: Hidden on a boulder in the northwest.
+
+---
+
+**Route 10 (North)**  
+- Connects Route 9 to Lavender Town.  
+- **Trainers**:  
+  - Jr. Trainer (Pikachu, Clefairy) - $400  
+
+- **Items**:  
+  - **Super Potion**: East of Rock Tunnel's north entrance (requires Cut).  
+
+---
+
+### Summary
+- Capture Pokémon and defeat trainers to collect rewards.  
+- Utilize trades and hidden items to enhance your journey.  
+- Progress through routes and caves to reach new locations and challenges.

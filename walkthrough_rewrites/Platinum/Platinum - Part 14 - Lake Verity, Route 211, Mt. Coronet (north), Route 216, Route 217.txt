@@ -1,0 +1,36 @@
+Game: Platinum
+Part: 14
+Keywords: Lake Verity, Route 211, Mt. Coronet (north), Route 216, Route 217
+
+**Part 14: Lake Verity to Route 217 Walkthrough**
+
+**Lake Verity**  
+- **Available Pokémon:** Starly (Lv. 2-4), Bidoof (Lv. 2-4), Psyduck (Lv. 20-30, Surfing), Golduck (Lv. 20-40, Surfing), Magikarp (Lv. 3-25, Fishing), Goldeen (Lv. 15-20, Fishing), Seaking (Lv. 25-35, Fishing).  
+- **Item:** TM38 (Fire Blast) in the southeast corner of the western grass patch (requires Surf).  
+- **Battle:** Assist Lucas/Dawn against Team Galactic. Defeat Commander Mars (Lv. 38 Golbat, Lv. 38 Bronzor, Lv. 40 Purugly) for $3120.
+
+**Route 211**  
+- **Access:** Enter from either Eterna City (west) or Celestic Town (east).  
+- **Available Pokémon (West Side):** Zubat (Lv. 14), Machop (Lv. 14-15), Hoothoot (Lv. 15), Meditite (Lv. 13-15), Chingling (Lv. 14, 16), Bronzor (Lv. 14, 16).  
+- **Items:** Great Ball (hidden), TM12 (Taunt, under the bridge, requires Rock Smash).  
+- **Available Pokémon (East Side):** Zubat (Lv. 28), Machoke (Lv. 29-30), Graveler (Lv. 28), Noctowl (Lv. 29), and others.  
+- **Items:** Various Berries and TM77 (Psych Up) near Ruin Maniac.
+
+**Mt. Coronet (North)**  
+- **1F Pokémon:** Zubat, Machop, Geodude, Cleffa, Nosepass, Meditite, Bronzor.  
+- **B1F Pokémon:** Clefairy, Golbat, Graveler, Meditite, Chingling.  
+- **Items:** Various hidden items, including Rare Candy, Ultra Ball, and TM69 (Rock Polish). Use Defog for visibility in B1F. Fish for Feebas in the large water area.  
+- **Access Route 216:** Head north to exit.
+
+**Route 216**  
+- **Available Pokémon:** Zubat, Graveler, Sneasel, Meditite, Snover.  
+- **Trainers:** Various Ace Trainers and Skiers with Pokémon levels around 39-42.  
+- **Items:** PP Up (hidden), Full Heal, Revive.
+
+**Route 217**  
+- **Available Pokémon:** Sneasel, Swinub, Snorunt, Snover.  
+- **Trainers:** Various trainers with levels around 35-40.  
+- **Items:** HM08 (Rock Climb) in the house, Icicle Plate, and various hidden items.  
+- **Note:** Navigate carefully due to blizzard effects; use Dowsing Machine for hidden items.
+
+**Next Step:** Proceed to the next area after Route 217.

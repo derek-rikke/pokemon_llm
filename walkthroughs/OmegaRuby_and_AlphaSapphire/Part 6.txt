@@ -1,0 +1,584 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_6
+Keywords: Route 117, Verdanturf Town, Route 116, Rusturf Tunnel (Revisited), Devon Corporation (Revisited)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 117
+1.1
+Pokémon Day Care
+2
+Verdanturf Town
+2.1
+Wanda's House
+2.2
+Lost and Found
+3
+Route 116
+3.1
+Rusturf Tunnel
+3.1.1
+Reunion
+3.2
+Lost His Glasses
+3.3
+The Researcher's Reward
+4
+Rustboro City
+4.1
+Devon Corporation
+Route 117
+Route 117
+Route 117
+stretches west from
+Mauville City
+. The optional path serves as a shortcut back to western
+Hoenn
+, by way of
+Verdanturf Town
+and
+Rusturf Tunnel
+. A
+Pokémon Day Care
+is located just outside the big city.
+Trainers
+Trainer
+Pokémon
+Teammates
+Anna & Meg
+Reward:
+$
+864
+Zigzagoon
+♀
+Lv.
+17
+No item
+Makuhita
+♂
+Lv.
+18
+No item
+Triathlete
+Dylan
+Reward:
+$
+720
+Doduo
+♂
+Lv.
+18
+No item
+Pokémon Breeder
+Lydia
+Reward:
+$
+680
+Wingull
+♀
+Lv.
+17
+No item
+Shroomish
+♀
+Lv.
+17
+No item
+Azurill
+♀
+Lv.
+17
+No item
+Goldeen
+♀
+Lv.
+17
+No item
+Budew
+♀
+Lv.
+17
+No item
+Skitty
+♀
+Lv.
+17
+No item
+Bug Maniac
+Derek
+Reward:
+$
+420
+Nincada
+♂
+Lv.
+15
+No item
+Dustox
+♂
+Lv.
+15
+No item
+Beautifly
+♂
+Lv.
+15
+No item
+Pokémon Breeder
+Isaac
+Reward:
+$
+680
+Whismur
+♂
+Lv.
+17
+No item
+Zigzagoon
+♂
+Lv.
+17
+No item
+Aron
+♂
+Lv.
+17
+No item
+Poochyena
+♂
+Lv.
+17
+No item
+Taillow
+♂
+Lv.
+17
+No item
+Makuhita
+♂
+Lv.
+17
+No item
+Rematch
+Teammates
+Anna & Meg
+*
+Reward:
+$
+1,968
+Linoone
+♀
+Lv.
+40
+No item
+Hariyama
+♂
+Lv.
+41
+No item
+Triathlete
+Dylan
+*
+Reward:
+$
+720
+Dodrio
+♂
+Lv.
+41
+No item
+Pokémon Breeder
+Isaac
+*
+Reward:
+$
+1,600
+Whismur
+♂
+Lv.
+40
+No item
+Zigzagoon
+♂
+Lv.
+40
+No item
+Aron
+♂
+Lv.
+40
+No item
+Poochyena
+♂
+Lv.
+40
+No item
+Taillow
+♂
+Lv.
+40
+No item
+Makuhita
+♂
+Lv.
+40
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+OR
+AS
+Grass
+12-14
+30%
+Illumise
+OR
+AS
+Grass
+11, 13
+20%
+Volbeat
+OR
+AS
+Grass
+11, 13
+20%
+Roselia
+OR
+AS
+Grass
+12, 14
+20%
+Marill
+OR
+AS
+Grass
+11, 13
+15%
+Oddish
+OR
+AS
+Grass
+14
+10%
+Volbeat
+OR
+AS
+Grass
+14
+4%
+Illumise
+OR
+AS
+Grass
+14
+4%
+Surskit
+OR
+AS
+Grass
+14
+1%
+Horde Encounter
+Oddish
+OR
+AS
+Horde Encounter
+7
+60%
+with Zigzagoon
+Zigzagoon
+OR
+AS
+Horde Encounter
+7
+60%
+with Oddish
+Roselia
+OR
+AS
+Horde Encounter
+7
+35%
+Marill
+OR
+AS
+Horde Encounter
+7
+5%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pinap Berry
+×8
+From the Berry Trees on the east side of the route
+OR
+AS
+Revive
+Northwest part of the route (requires
+Cut
+)
+OR
+AS
+Great Ball
+Southwest part of the route
+OR
+AS
+Ultra Ball
+Occasionally received from Teammates Anna & Meg after a rematch
+OR
+AS
+Pokémon Day Care
+The
+Pokémon Day Care
+is a facility that raises Pokémon for busy Trainers. For a small fee, up to two Pokémon can be left here to be raised by the Day Care staff. During their stay, Pokémon will gradually level up and learn new moves. When two
+compatible
+Pokémon are left at the same time, you may return to find an
+Egg
+! Speak to the Day-Care Man and he will hint at the odds of finding one.
+Quote
+Chance for Egg
+"Those two seem to get along like a house on fire."
+70%
+"Those two seem peaceable enough toward each other."
+50%
+"But I have to say, those two don’t seem to like each other all that much."
+20%
+"Those two would really rather play with other Pokémon, though, and not each other."
+0%
+Whenever an Egg is found, the Day-Care Man will be facing the road, eager to talk to you. Speak to him to receive the Egg, and carry it with you on your journey. The more you travel with an Egg, the faster the Pokémon inside will hatch.
+Verdanturf Town
+Verdanturf Town
+Verdanturf
+is a small town just west of
+Route 117
+, at the foot of the mountains. Due to the prevailing wind pattern, the area is always kept clear of falling volcanic ash.
+Wally
+is visiting with his uncle's family here, in the hopes that the fresh, clean air will improve his health.
+Items
+Item
+Location
+Games
+Mawilite
+Southeast part of town, accessible via Route 117
+OR
+AS
+Repel
+Southeast part of town, accessible via Route 117 (hidden)
+OR
+AS
+Intriguing Stone
+From a little girl as thanks for finding her
+Shroomish
+OR
+AS
+TM45
+(
+Attract
+)
+From a woman inside the Contest Hall
+OR
+AS
+Return trip
+Gardevoirite
+From
+Wanda
+, after capturing or defeating
+Groudon
+OR
+/
+Kyogre
+AS
+and clearing the
+cracked rocks
+from
+Rusturf Tunnel
+OR
+AS
+Wanda's House
+The middle home on the south side belongs to
+Wanda
+, who happens to be
+Wally
+'s cousin. This is where Wally is staying for now, but it seems that he's run off to train his Pokémon. According to Wanda's mother, Wanda is concerned about her boyfriend, who is working non-stop to complete the construction of
+Rusturf Tunnel
+. She often goes there to visit him.
+Lost and Found
+The little girl near Wanda's House is sad about losing her
+Shroomish
+. She believes that the Pokémon got separated from her near the town sign. Inspect the sign, and Shroomish pops out from behind it. The Pokémon is automatically reunited with the little girl, who is so relieved that she rewards you with an
+Intriguing Stone
+!
+Route 116
+Rusturf Tunnel
+Rusturf Tunnel
+Items
+Item
+Location
+Games
+Aggronite
+From
+Wanda
+'s boyfriend, after
+clearing
+the remaining debris
+OR
+AS
+Max Ether
+Northeast part of the cave
+OR
+AS
+Other Items
+Big Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Hard Stone
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Normal Gem
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Soft Sand
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Star Piece
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Reunion
+With the
+Dynamo Badge
+, you can finally use
+Rock Smash
+to clear a path through
+Rusturf Tunnel
+. Step inside and go northwest to reach a group of cracked rocks. Clear the debris to open the tunnel and reunite
+Wanda
+with her hardworking boyfriend. As thanks, he gives you an
+Aggronite
+that he found in the cave!
+Lost His Glasses
+Take the tunnel's middle exit to reach a previously-unreachable part of
+Route 116
+. The Bug Maniac here has lost his glasses, so dig out your
+Dowsing Machine
+and use it to track down a pair of
+Black Glasses
+. These aren't the glasses he lost though, so you get to keep them. Before moving on, be sure to grab the
+HP Up
+on the ridge.
+The Researcher's Reward
+Continue through Rusturf Tunnel to its western exit to return to Route 116. A
+Devon
+researcher can be found just outside the tunnel. It's the same researcher that you've helped before, and as thanks for delivering the
+Devon Parts
+to
+Captain Stern
+, he wishes to reward you with a
+Repeat Ball
+. After receiving this one, you can buy Repeat Balls,
+Net Balls
+, and
+Timer Balls
+in Rustboro City.
+Rustboro City
+Devon Corporation
+Stop by
+Rustboro City
+to visit
+Mr. Stone
+. He should be happy to see you after all the favors you've done for him. This time he does you a favor, by identifying the
+Intriguing Stone
+you obtained in
+Verdanturf
+. It turns out to be a Mega Stone, a
+Pidgeotite
+.
+← Part 5
+Mauville City
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 111 (south), Route 112, Fiery Path, Route 111 (north), Route 113
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

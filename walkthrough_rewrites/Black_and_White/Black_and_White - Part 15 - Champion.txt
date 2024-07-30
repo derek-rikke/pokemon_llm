@@ -1,0 +1,43 @@
+Game: Black_and_White
+Part: 15
+Keywords: Champion
+
+**Part 15: The Pokémon League - Champion**
+
+**Overview:**
+After defeating Team Plasma, you can now challenge the Elite Four and the Champion, Alder.
+
+**Elite Four Battles:**
+
+1. **Shauntal (Ghost-type)**
+   - Key Pokémon: Cofagrigus, Jellicent, Golurk, Froslass, Drifblim, Chandelure (Levels 71-73).
+   - Strategy: Use Ghost- or Dark-type moves, but be wary of her counterattacks. Water-, Electric-, and Rock-type attacks are effective. Avoid moves like Shadow Ball and Payback.
+   - Reward: $8760.
+
+2. **Grimsley (Dark-type)**
+   - Key Pokémon: Sharpedo, Scrafty, Krookodile, Liepard, Drapion, Bisharp (Levels 71-73).
+   - Strategy: Use Fighting-type moves against most of his team. Ground-type moves like Earthquake are particularly effective against Drapion. Watch for his Aerial Ace.
+   - Reward: $8760.
+
+3. **Caitlin (Psychic-type)**
+   - Key Pokémon: Musharna, Sigilyph, Reuniclus, Gothitelle, Bronzong, Metagross (Levels 71-73).
+   - Strategy: Fire-type moves are effective against Metagross and Bronzong. Bug-, Ghost-, and Dark-type attacks work well on her other Pokémon. Be cautious of Metagross’ Earthquake.
+   - Reward: $8760.
+
+4. **Marshal (Fighting-type)**
+   - Key Pokémon: Breloom, Throh, Sawk, Mienshao, Toxicroak, Conkeldurr (Levels 71-73).
+   - Strategy: Use Psychic-type moves, especially against Toxicroak. Flying-type moves are also effective. Watch out for Toxic, Close Combat, and Hi Jump Kick.
+   - Reward: $8760.
+
+**Champion: Alder**
+- Key Pokémon: Accelgor, Bouffalant, Druddigon, Vanilluxe, Escavalier, Volcarona (Levels 75-77).
+- Strategy: Target Accelgor, Escavalier, and Vanilluxe with Fire-type moves. Use Flying-type moves against Accelgor and Volcarona. Fighting-type moves are effective against Vanilluxe and Bouffalant. Attack quickly to avoid powerful moves.
+- Reward: $15400.
+
+**Post-Champion:**
+After defeating Alder, you will access the Hall of Fame to register your achievements. The credits roll again, and you return to Nuvema Town. 
+
+**Next Steps:**
+Fly to Opelucid City and head east to Route 11. 
+
+This concludes Part 15 of the walkthrough.

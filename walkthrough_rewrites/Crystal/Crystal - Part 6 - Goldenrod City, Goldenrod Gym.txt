@@ -1,0 +1,42 @@
+Game: Crystal
+Part: 6
+Keywords: Goldenrod City, Goldenrod Gym
+
+**Part 6: Goldenrod City and Goldenrod Gym**
+
+**Goldenrod City Overview:**
+- Located between Routes 34 and 35, it's the largest city in Johto.
+- Key locations: Goldenrod Department Store, Magnet Train Station, Radio Tower, Game Corner, and Goldenrod Gym.
+
+**Key Items and Locations:**
+- **Goldenrod Department Store:** 
+  - **B1F:** Ultra Ball (2nd visit), Burn Heal & Ether (3rd visit).
+  - **5F:** TM27 (Return) if lead Pokémon has high friendship, TM21 (Frustration) if low.
+  - **6F:** Vending machines for healing items.
+  
+- **Bike Shop:** 
+  - Obtain a Bicycle to move faster.
+
+- **Radio Tower:** 
+  - Participate in the Lucky Number Lottery and Promo Quiz for prizes and Radio Card.
+
+- **Game Corner:** 
+  - Play games using a Coin Case; prizes include TM25 (Thunder) and Pokémon (Abra, Cubone).
+
+- **Underground Shops:** 
+  - Includes herbal shop, Pokémon salon (increases friendship), and bargain shop (open Mondays).
+
+- **Name Rater:** 
+  - Located near the north exit; can rename Pokémon if caught by the Trainer.
+
+**Goldenrod Gym:**
+- **Leader:** Whitney (Normal-type).
+- **Strategy:** Use Fighting-type Pokémon (e.g., Machop) to counter Whitney’s Miltank and Clefairy.
+- **Miltank's Rollout** can be devastating; prioritize defeating it quickly.
+- **Rewards:** Plain Badge (boosts Speed) and TM45 (Attract).
+
+**Post-Gym:**
+- Speak to Whitney after the battle to receive your badge. The flower shop nearby discusses a strange tree on Route 36.
+
+**Next Steps:** 
+- Proceed to Route 35, National Park, Route 36, and Route 37.

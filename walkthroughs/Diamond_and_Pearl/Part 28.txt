@@ -1,0 +1,488 @@
+Part: Part 28
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_28
+Keywords: Route 214, Spring Path, Sendoff Spring, Turnback Cave, Catching Giratina, Hotel Grand Lake — Collecting Diploma
+
+Walkthrough Text:
+Contents
+1
+Route 214
+2
+Spring Path
+3
+Sendoff Spring
+4
+Turnback Cave
+5
+Catching Giratina
+6
+Route 214 - Valor Lakefront
+7
+Hotel Grand Lake-- Collecting the Diploma
+Route 214
+Make sure that you bring at least 40 Dusk Balls, as well as Pokémon with
+Defog
+,
+Rock Smash
+and
+Rock Climb
+.
+Head south from
+Veilstone City
+to
+Route 214
+. Travel south, staying as close as you can to the line of trees to your right, and you'll come to a path that wasn't there before (previously, there were only two trees missing, but now the whole path opens up)! Enter the path. Before you continue, make sure that you have Pokémon that know the afore-mentioned HM moves.
+Be aware that there are wild Pokémon over Level 60, and a very powerful legendary Pokémon that is Level 70 here.
+In order to catch the legendary Pokémon without the
+Master Ball
+, you should bring 40 or more
+Dusk Balls
+. The more you have, the better.
+Spring Path
+This mysterious path is called Spring Path. The creepy music and its unexplained appearance out of nowhere may give you the feeling that something evil is waiting for you. Keep walking east and enter
+Sendoff Spring
+at the end of this short path.
+Sendoff Spring
+Sendoff Spring
+According to your map, this is "the fourth lake of Sinnoh that was kept secret." This whole new location is very mysterious, isn't it?
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+D
+P
+Pt
+Grass
+53-54
+20%
+Noctowl
+D
+P
+Pt
+Grass
+53-54
+0%
+0%
+20%
+Chimecho
+D
+P
+Pt
+Grass
+52, 54
+10%
+Staravia
+D
+P
+Pt
+Grass
+52-54
+25%
+25%
+5%
+Bibarel
+D
+P
+Pt
+Grass
+52-54
+45%
+Fishing and Surfing
+Golduck
+D
+P
+Pt
+Surfing
+40-55
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Seaking
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Special Pokémon
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+52
+8%
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+52
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Go through the patch of tall grass and climb up the wall. The bridge you see in front of you leads out into empty space. Go around the large crater you are on the edge of and use Rock Climb on the place you need it— directly opposite where you started. Then, enter the cave. There are no Trainers to be found, but there are Pokémon that are at a high level -- probably
+above Level 60
+.
+Turnback Cave
+Available Pokémon (Before encountering a pillar)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+45-46
+30%
+Haunter
+D
+P
+Pt
+Cave
+44-46
+30%
+Bronzor
+D
+P
+Pt
+Cave
+44
+5%
+Bronzong
+D
+P
+Pt
+Cave
+45-46
+35%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+44,46
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+44,46
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (From the first to the second pillar room)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+55-56
+30%
+Haunter
+D
+P
+Pt
+Cave
+54-56
+30%
+Bronzor
+D
+P
+Pt
+Cave
+54
+5%
+Bronzong
+D
+P
+Pt
+Cave
+55-56
+35%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+54,56
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+54,56
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (Between second and third pillars)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+65-66
+30%
+Haunter
+D
+P
+Pt
+Cave
+64-66
+30%
+Bronzor
+D
+P
+Pt
+Cave
+64
+5%
+Bronzong
+D
+P
+Pt
+Cave
+65-66
+35%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+64,66
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+64,66
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (From the third pillar room on)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+55-56
+30%
+Haunter
+D
+P
+Pt
+Cave
+54-56
+30%
+Bronzor
+D
+P
+Pt
+Cave
+54
+5%
+Bronzong
+D
+P
+Pt
+Cave
+55-56
+35%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+54,56
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+54,56
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Reaper Cloth
+Every time the player reaches the last room by passing through only three rooms
+D
+P
+Rare Bone
+Every time the player reaches the last room by passing through 4-15 rooms
+D
+P
+Stardust
+Every time the player reaches the last room by passing through 16-30 rooms
+D
+P
+This is it— the place where another Legendary Pokémon named
+Giratina
+lives. Giratina was once as well known as
+Dialga
+and
+Palkia
+, but it was banished here and forgotten because of its violence long ago. While Dialga controls time and Palkia controls space, Giratina controls antimatter. These 3 Legendary Pokémon form the
+Creation Trio
+. This cave is an ancient cemetery, and the dimensions are said to be distorted here. Giratina is a powerful
+Ghost
+/
+Dragon
+-type Pokémon.
+While Defog is not strictly necessary, using it will make seeing easier. Rock Smash will help you get through this cave faster.
+A pillar.
+This cave is unique in that all of the rooms are randomized upon entry. In other words, this cave is different each time you enter it. The inscription in front of you, which reads:
+"...Past three pillars...offer up... to the... ...before 30 is surpassed..."
+is a hint. You must go through three rooms with pillars, without going through more than 30 rooms, in order to find Giratina. Since the rooms are randomized, this is how you get through:
+Each room has four doors— one on each side. Before advancing to a door, check the pattern of the rocks of each side. If rocks on a side has a pattern that is different from the opposite, the room on that side is where you need to go through. If you find a room with a pillar, read the inscription. The first number that appears is how many pillars you've found. The second number is the number of rooms you've been through. All you can do is keep going—
+Escape Ropes
+can't be used here. If you get lost or want to start over, go through where you enter the room, and you'll be back to the first room. If you go through 30 rooms and still haven't gone through the (third) pillar, any door will bring you back to the first room. As you go through more rooms, the wild Pokémon will be stronger.
+When you reach Giratina's room, heal your Pokémon if necessary, check that you have at least 40 Dusk Balls with you,
+save your game
+, and talk to it to initiate a battle. If you aren't ready for the fight just yet, any of the doors here will take you back to the entrance room. Prepare for a difficult fight and
+be aware that the upcoming battle is your only chance to catch this dangerous creature!
+Catching Giratina
+Types:
+Ghost
+Dragon
+Ability:
+Pressure
+Held item:
+None
+Giratina
+Lv.
+70
+Shadow Force
+Ghost
+Physical
+--
+Heal Block
+Psychic
+Status
+--
+Earth Power
+Ground
+Special
+--
+Slash
+Normal
+Physical
+--
+Giratina in Turnback Cave
+Make sure that you heal your Pokémon, save your game and check if you have at least 40 Dusk Balls before proceeding!
+Giratina, as was mentioned before, is a Ghost/Dragon-type Pokémon, at Level 70. It is the only Pokémon that is weak to both of its types. It has an extremely large amount of HP, and its Attack and Special Attack are great. Its Defense and Special Defense are alright (for a Legendary Pokémon, that is), but with the amount of HP Giratina has, it won't be going anywhere anytime soon. Its lowest stat is Speed, and even that isn't terrible.
+Giratina knows some very dangerous moves, so you will need to watch out. First, inflict a status ailment (other than burn and poison). Next, reduce its HP with a good move that are super effective (such as Ghost-type, Dragon-type,
+Ice-type
+or
+Dark-type
+move). Then, use attacks that are regularly or not very effective to reduce its health further. (Be extremely cautious if you actually use Psychic-type Pokémon, as Giratina will knock them out with
+Shadow Force
+. If you're using Rock-type or Steel-type Pokémon, watch out for
+Earth Power
+.) When Giratina's HP bar is in red, start chucking Dusk Balls (because you're in a cave) until you catch it. It will take 10, 20, maybe 30, or even 40 tries before you succeed. Giratina has its
+signature move
+-- Shadow Force, a powerful two-turn Ghost-type attack with 120 base power (like
+SolarBeam
+). Before striking, Giratina vanishes for one turn and will be invulnerable to any of your attacks during that time. When Giratina reapppears and attacks, it will strike through Protect or Detect. Thankfully, this move only has 5 PP, but if the Pokémon it hits isn't a
+Normal-type
+Pokémon, which is immune to Ghost-type attacks, it can really hurt, or even knock out your Pokémon in 1 hit.
+After catching Giratina, read the inscription. Any of the doors here will automatically take you back to the entrance room. Every time you come back, there will be an item in the same spot.
+If you accidentally knock Giratina out, if Giratina defeats you, or if you run out of Poke Balls, just soft reset and it will be there again. That's why you were told to save.
+Route 214 - Valor Lakefront
+Now go back to Route 214 and head south to
+Valor Lakefront
+. Continue until you reach
+Seven Stars Restaurant
+,
+Hotel Grand Lake
+.
+Hotel Grand Lake-- Collecting the Diploma
+Go inside the northwest house, west of Seven Stars Restaurant. Talk to the man, which is a
+Game Freak
+lead developer. He'll give you a certificate, which is called the
+Diploma
+, for completing the Sinnoh PokéDex (
+seeing
+will do). Talk to him again when you complete the National PokéDex (to complete this, you need to
+catch all Pokémon
+), and he'll give you another one.
+← Part 27
+Canalave City, Fullmoon Island, Back to Canalave City, Catching Cresselia, Iron Island
+Diamond and Pearl
+walkthrough
+Snowpoint City, Snowpoint Temple, Catching Regigigas, Heading towards the Battle Zone
+Part 29 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

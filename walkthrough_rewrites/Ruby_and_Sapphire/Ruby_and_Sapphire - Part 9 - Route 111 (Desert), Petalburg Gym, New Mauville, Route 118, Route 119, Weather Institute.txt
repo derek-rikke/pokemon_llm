@@ -1,0 +1,47 @@
+Game: Ruby_and_Sapphire
+Part: 9
+Keywords: Route 111 (Desert), Petalburg Gym, New Mauville, Route 118, Route 119, Weather Institute
+
+**Part 9: Route 111 (Desert), Petalburg Gym, New Mauville, Route 118, Route 119, Weather Institute**
+
+### Route 111 (Desert)
+- **Access**: Use the Go-Goggles to explore the desert.
+- **Trainers**: Battle various trainers including Cliff, Heidi, and Drew for cash rewards.
+- **Pokémon**: Catch Sandshrew, Trapinch, Cacnea, and Baltoy.
+- **Items**:
+  - Stardust ×2 (by Ruin Maniac Dusty)
+  - Root Fossil / Claw Fossil (northeast corner)
+  - Protein (northwest of Camper Drew)
+  - Rare Candy (northeast of Dusty and Becky)
+  - TM37 (Sandstorm at southernmost point)
+
+### Back to Petalburg City
+- Return via Fallarbor Town or Mauville City. Revive your fossils at Devon Corporation in Rustboro.
+
+### Petalburg City
+- **Petalburg Gym**: Defeat Gym Trainers (focus on Speed, Accuracy, and Defense strategies). 
+- **Gym Leader**: Norman (uses Normal-type Pokémon). 
+  - Strategy: Use Fighting-type Pokémon like Machop and Makuhita.
+  - Rewards: Balance Badge and TM42 (Facade). After the battle, visit Wally's parents for HM03 (Surf).
+
+### Now that you can use Surf (optional)
+- Use Surf to access new areas and trainers. Mr. Briney will no longer transport you; use Surf instead.
+
+### Route 118
+- **Trainers**: Battle Aroma Lady Rose, Fisherman Wade, and Gabby & Ty for money.
+- **Items**: Collect a Good Rod from a fisherman and find various berries and potions.
+- **Pokémon**: Find Electric-types, including Electrike and Manectric.
+
+### Route 119
+- **Trainers**: Fight various trainers including Bug Catchers and Rangers.
+- **Weather Institute**: 
+  - Battle Team Magma/Aqua Grunts.
+  - Defeat Courtney/Shelly (use Water and Fighting-type moves).
+  - Receive Castform after defeating the Admin.
+- **Rival Battle 3**: Battle May/Brendan after leaving the institute. Rewards: HM02 (Fly).
+
+### Key Locations
+- **Items**: Collect various healing items and TMs throughout your journey.
+- **Pokémon Catching**: Utilize Surf to find new Pokémon in water routes.
+
+Continue your journey to Fortree City!

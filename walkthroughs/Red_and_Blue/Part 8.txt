@@ -1,0 +1,781 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 10
+1.1
+Rock Tunnel
+1.1.1
+1F (Northeast)
+1.1.2
+B1F (Southeast)
+1.1.3
+1F (West)
+1.1.4
+B1F (Northwest)
+1.1.5
+1F (South)
+2
+Route 10 (South)
+3
+Lavender Town
+3.1
+Name Rater
+3.2
+Lavender Volunteer Pokémon House
+3.3
+Pokémon Tower
+3.3.1
+Rival Battle 5
+3.3.2
+Restless Spirits
+4
+Route 8
+4.1
+Underground Path
+5
+Route 7
+Route 10
+Rock Tunnel
+Rock Tunnel, 1F
+Rock Tunnel, B1F
+As it has been left in its natural state and undeveloped,
+Rock Tunnel
+is pitch-black inside. Though not required, it is useful to bring a Pokémon that can use
+Flash
+to illuminate the winding tunnels. There are many Trainers within the cave, whether for the fun of exploring, training, or simply having gotten lost in the darkness.
+Trainers
+1F
+Trainer
+Pokémon
+PokéManiac
+Reward:
+$
+1150
+Cubone
+Lv.
+23
+No item
+Slowpoke
+Lv.
+23
+No item
+Hiker
+Reward:
+$
+665
+Geodude
+Lv.
+19
+No item
+Machop
+Lv.
+19
+No item
+Geodude
+Lv.
+19
+No item
+Geodude
+Lv.
+19
+No item
+Hiker
+Reward:
+$
+700
+Onix
+Lv.
+20
+No item
+Onix
+Lv.
+20
+No item
+Geodude
+Lv.
+20
+No item
+Hiker
+Reward:
+$
+735
+Geodude
+Lv.
+21
+No item
+Graveler
+Lv.
+21
+No item
+Jr. Trainer♀
+Reward:
+$
+440
+Bellsprout
+Lv.
+22
+No item
+Clefairy
+Lv.
+22
+No item
+Jr. Trainer♀
+Reward:
+$
+380
+Pidgey
+Lv.
+19
+No item
+Rattata
+Lv.
+19
+No item
+Rattata
+Lv.
+19
+No item
+Bellsprout
+Lv.
+19
+No item
+Jr. Trainer♀
+Reward:
+$
+400
+Meowth
+Lv.
+20
+No item
+Oddish
+Lv.
+20
+No item
+Pidgey
+Lv.
+20
+No item
+B1F
+Trainer
+Pokémon
+PokéManiac
+Reward:
+$
+1250
+Slowpoke
+Lv.
+25
+No item
+Jr. Trainer♀
+Reward:
+$
+440
+Oddish
+Lv.
+22
+No item
+Bulbasaur
+Lv.
+22
+No item
+PokéManiac
+Reward:
+$
+1100
+Charmander
+Lv.
+22
+No item
+Cubone
+Lv.
+22
+No item
+Hiker
+Reward:
+$
+875
+Geodude
+Lv.
+25
+No item
+Hiker
+Reward:
+$
+700
+Machop
+Lv.
+20
+No item
+Onix
+Lv.
+20
+No item
+Jr. Trainer♀
+Reward:
+$
+420
+Jigglypuff
+Lv.
+21
+No item
+Pidgey
+Lv.
+21
+No item
+Meowth
+Lv.
+21
+No item
+Hiker
+Reward:
+$
+735
+Geodude
+Lv.
+21
+No item
+Geodude
+Lv.
+21
+No item
+Graveler
+Lv.
+21
+No item
+PokéManiac
+Reward:
+$
+1000
+Slowpoke
+Lv.
+20
+No item
+Slowpoke
+Lv.
+20
+No item
+Slowpoke
+Lv.
+20
+No item
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+15-18
+55%
+Geodude
+R
+B
+Y
+Cave
+16-17
+25%
+Machop
+R
+B
+Y
+Cave
+15, 17
+15%
+Onix
+R
+B
+Y
+Cave
+13, 15
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+16-18
+50%
+Geodude
+R
+B
+Y
+Cave
+16-18
+26%
+Machop
+R
+B
+Y
+Cave
+15, 17
+15%
+Onix
+R
+B
+Y
+Cave
+13, 17
+9%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F (Northeast)
+Defeat the PokéManiac, then climb down the ladder in the northeast corner to reach B1F.
+B1F (Southeast)
+Go southwest to battle another PokéManiac. Follow the tunnel northeastward, battling a Jr. Trainer♀ and another PokéManiac along the way. In the northeast corner, you will need to battle at least one of the two Hikers before taking the ladder back up to 1F.
+1F (West)
+Head southeast past the first two Hikers. Turn to the northeast and battle the third Hiker before climbing the nearby ladder.
+B1F (Northwest)
+Another Jr. Trainer♀, Hiker, and PokéManiac can be found here. Go southwest, then northwest to find the final ladder.
+1F (South)
+Go south to battle the last three Trainers. The ladder to the exit is located to the southwest.
+Route 10 (South)
+The southern part of
+Route 10
+is shorter than the northern one. Several more Trainers can be found here, but if your Pokémon are injured the eastern path can be taken to avoid them.
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♀
+Reward:
+$
+420
+Pidgey
+Lv.
+21
+No item
+Pidgeotto
+Lv.
+21
+No item
+Hiker
+Reward:
+$
+735
+Geodude
+Lv.
+21
+No item
+Onix
+Lv.
+21
+No item
+Hiker
+Reward:
+$
+665
+Onix
+Lv.
+19
+No item
+Graveler
+Lv.
+19
+No item
+PokéManiac
+Reward:
+$
+1000
+Cubone
+Lv.
+20
+No item
+Slowpoke
+Lv.
+20
+No item
+Items
+Item
+Location
+Games
+Max Ether
+East of the Rock Tunnel exit, on a boulder
+(hidden)
+R
+B
+Lavender Town
+Lavender Town
+A real ghost!
+Lavender Town
+is a quiet, somber town where people come to visit their departed Pokémon. The area is known for ghost sightings in
+Pokémon Tower
+. The Volunteer Pokémon House and the
+Name Rater
+'s home are also located here. In addition, the local Poké Mart offers new items like
+Revives
+and
+Great Balls
+.
+Items
+Item
+Location
+Games
+Later visit
+Poké Flute
+Pokémon House; from
+Mr. Fuji
+, after rescuing him in Pokémon Tower
+R
+B
+Name Rater
+One of the houses on the south side of town belongs to the
+Name Rater
+. This man judges a Trainer's nickname for their Pokémon, and offers the chance to change it. His service is free, so nicknames may be changed repeatedly.
+Lavender Volunteer Pokémon House
+The Lavender Volunteer Pokémon House is located in the center of town. Founded by
+Mr. Fuji
+, the organization was established to care for orphaned and abandoned Pokémon. Many members of the group live here in their safe house while looking after these Pokémon. According to one man, it is odd that Mr. Fuji is not here at the moment, and wonders aloud where he may have gone.
+Pokémon Tower
+As the place where departed Pokémon are laid to rest,
+Pokémon Tower
+has a strong connection to the spirit world and most of the wild Pokémon inside belong to the
+Ghost
+type. The paranormal activity increases beyond the second floor, where ghosts and possessed Channelers are a common sight. However, without a
+certain item
+, it is impossible to reach the tower's highest floor.
+Rival Battle 5
+Blue
+can be found on the second floor. It is possible to battle him right now, or delay the fight until you are ready to clear the tower.
+Restless Spirits
+Most
+ghosts
+inside the tower are truly mischievous Pokémon in disguise that can be battled or captured after obtaining a
+certain item
+.
+Gastly
+and
+Haunter
+are two of only three known
+Ghost-type
+Pokémon, so it is worthwhile to track them down. The one true ghost here blocks access to the top floor, but as there is nothing that can be done but run from it, it is best to leave it for later. Rumor says there is some kind of prototype in
+Celadon City
+to the west that can reveal what is hidden.
+Route 8
+Route 8
+Route 8
+connects
+Lavender Town
+to the east and
+Saffron City
+to the west. The eastern end of the second Underground Path can be found here.
+Trainers
+Trainer
+Pokémon
+Lass
+Reward:
+$
+330
+Clefairy
+Lv.
+22
+No item
+Clefairy
+Lv.
+22
+No item
+Gambler
+Reward:
+$
+1680
+Growlithe
+Lv.
+24
+No item
+Vulpix
+Lv.
+24
+No item
+Super Nerd
+Reward:
+$
+550
+Grimer
+Lv.
+22
+No item
+Muk
+Lv.
+22
+No item
+Grimer
+Lv.
+22
+No item
+Lass
+Reward:
+$
+345
+Nidoran♀
+Lv.
+23
+No item
+Nidorina
+Lv.
+23
+No item
+Super Nerd
+Reward:
+$
+650
+Koffing
+Lv.
+26
+No item
+Lass
+Reward:
+$
+360
+Meowth
+Lv.
+24
+No item
+Meowth
+Lv.
+24
+No item
+Meowth
+Lv.
+24
+No item
+Lass
+Reward:
+$
+285
+Pidgey
+Lv.
+19
+No item
+Rattata
+Lv.
+19
+No item
+Nidoran♂
+Lv.
+19
+No item
+Meowth
+Lv.
+19
+No item
+Pikachu
+Lv.
+19
+No item
+Gambler
+Reward:
+$
+1540
+Poliwag
+Lv.
+22
+No item
+Poliwag
+Lv.
+22
+No item
+Poliwhirl
+Lv.
+22
+No item
+Super Nerd
+Reward:
+$
+500
+Voltorb
+Lv.
+20
+No item
+Koffing
+Lv.
+20
+No item
+Voltorb
+Lv.
+20
+No item
+Magnemite
+Lv.
+20
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+18, 20
+35%
+Meowth
+R
+B
+Y
+Grass
+18, 20
+25%
+Mankey
+R
+B
+Y
+Grass
+18, 20
+25%
+Ekans
+R
+B
+Y
+Grass
+17, 19
+20%
+Sandshrew
+R
+B
+Y
+Grass
+17, 19
+20%
+Vulpix
+R
+B
+Y
+Grass
+15-18
+20%
+Growlithe
+R
+B
+Y
+Grass
+15-18
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Underground Path
+It is still not possible to reach
+Saffron City
+, as all the gatekeepers are too distracted wishing they had something to drink. Enter the second
+Underground Path
+instead and follow the tunnel westward to
+Route 7
+.
+Items
+Item
+Location
+Games
+Nugget
+Inside the Underground Path, thirty-five steps west of the Route 8 stairway
+(hidden)
+R
+B
+Elixer
+Inside the Underground Path, nineteen steps east of the Route 7 stairway
+(hidden)
+R
+B
+Route 7
+Route 7
+Route 7
+is a short path that links
+Saffron City
+to the east and
+Celadon City
+to the west. The western end of the second
+Underground Path
+emerges here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+19, 22
+35%
+Meowth
+R
+B
+Y
+Grass
+17-20
+30%
+Mankey
+R
+B
+Y
+Grass
+17-20
+30%
+Oddish
+R
+B
+Y
+Grass
+19, 22
+25%
+Bellsprout
+R
+B
+Y
+Grass
+19, 22
+25%
+Vulpix
+R
+B
+Y
+Grass
+18, 20
+10%
+Growlithe
+R
+B
+Y
+Grass
+18, 20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+← Part 7
+Route 11, Diglett's Cave, Pewter Museum, Route 9, Route 10
+Red and Blue
+walkthrough
+Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,602 @@
+Part: Part 28
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_28
+Keywords: Routes 22 and 28
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 22
+2
+Route 28
+2.1
+The Recluse
+3
+Mt. Silver
+Route 22
+Route 22
+Route 22
+leads from
+Viridian City
+back to the
+Pokémon League Reception Gate
+in the west. Now that all four of the building's hallways are open, it is possible to travel between
+Johto
+and
+Kanto
+on foot, without taking the
+S.S. Aqua
+or the
+Magnet Train
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spearow
+HG
+SS
+Grass
+3-5
+50%
+50%
+0%
+Rattata
+HG
+SS
+Grass
+3
+,
+3-7
+30%
+30%
+95%
+Doduo
+HG
+SS
+Grass
+4
+10%
+10%
+0%
+Fearow
+HG
+SS
+Grass
+7
+5%
+5%
+0%
+Ponyta
+HG
+SS
+Grass
+6
+5%
+Surfing
+Poliwag
+HG
+SS
+Surfing
+5-10
+90%
+Poliwhirl
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+93%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+3-7
+50%
+Spinarak
+HG
+SS
+Headbutt
+5-7
+30%
+Ledyba
+HG
+SS
+Headbutt
+5-7
+30%
+Pineco
+HG
+SS
+Headbutt
+3-4
+30%
+Wurmple
+HG
+SS
+Headbutt
+3-7
+20%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+5
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+3
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+5
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+3
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 28
+Route 28
+Route 28
+is a hidden mountain road that leads to
+Mt. Silver
+. This is the final route in
+Kanto
+, and halfway to the mountain the path crosses back into
+Johto
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+HG
+SS
+Grass
+40
+30%
+Tangela
+HG
+SS
+Grass
+39
+30%
+Donphan
+HG
+SS
+Grass
+40
+20%
+Ursaring
+HG
+SS
+Grass
+40
+20%
+Rapidash
+HG
+SS
+Grass
+42
+,
+41-43
+10%
+Doduo
+HG
+SS
+Grass
+41
+5%
+5%
+0%
+Dodrio
+HG
+SS
+Grass
+43
+5%
+5%
+0%
+Sneasel
+HG
+SS
+Grass
+42
+0%
+0%
+10%
+Surfing
+Poliwag
+HG
+SS
+Surfing
+35-40
+90%
+Poliwhirl
+HG
+SS
+Surfing
+40
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+93%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Headbutt
+Natu
+HG
+SS
+Headbutt
+39-43
+20%
+Aipom
+HG
+SS
+Headbutt
+39-43
+30%
+Heracross
+HG
+SS
+Headbutt
+39-43
+50%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+40
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+39-40
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+40
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+39-40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM47
+(
+Steel Wing
+)
+From the Idol in the house
+HG
+SS
+TM35
+(
+Flamethrower
+)
+East of the Idol's house
+HG
+SS
+Rare Candy
+At the dead-end path, east of the Idol's house (hidden)
+HG
+SS
+The Recluse
+Cut down a small tree to reach the secluded house on the hill. The woman inside is a bit of a celebrity, and gives you
+TM47
+(
+Steel Wing
+) to keep her hideaway a secret.
+Mt. Silver
+Mt. Silver (exterior)
+The road from
+Route 28
+leads directly to the Pokémon Center at the foot of the mountain. Make any last-minute preparations;
+Surf
+,
+Waterfall
+, and
+Rock Climb
+are required to reach every chamber, while
+Rock Smash
+is also recommended.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+HG
+SS
+Grass
+42
+40%
+Tangela
+HG
+SS
+Grass
+41
+40%
+Donphan
+HG
+SS
+Grass
+42
+20%
+Ursaring
+HG
+SS
+Grass
+42
+20%
+Rapidash
+HG
+SS
+Grass
+44
+10%
+Doduo
+HG
+SS
+Grass
+41
+5%
+5%
+0%
+Dodrio
+HG
+SS
+Grass
+43
+5%
+5%
+0%
+Sneasel
+HG
+SS
+Grass
+41-43
+0%
+0%
+10%
+Surfing
+Poliwhirl
+HG
+SS
+Surfing
+30-48
+92%
+Poliwag
+HG
+SS
+Surfing
+30-40
+8%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+93%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Headbutt
+Heracross
+HG
+SS
+Headbutt
+39-44
+60%
+Aipom
+HG
+SS
+Headbutt
+39-44
+30%
+Natu
+HG
+SS
+Headbutt
+39-44
+10%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+42
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+41-42
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+42
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+41-42
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Restore
+East of the Pokémon Center (hidden)
+HG
+SS
+Reaper Cloth
+On the southwest hill (requires
+Surf
+)
+HG
+SS
+← Part 27
+Viridian Gym, Oak's Lab, Kanto Power Plant, Cerulean Cave
+HeartGold and SoulSilver
+walkthrough
+Mt. Silver
+Part 29 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

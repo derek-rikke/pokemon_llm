@@ -1,0 +1,56 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 5
+Keywords: Mauville City, Mauville Gym
+
+**Part 5: Mauville City & Mauville Gym**
+
+**Overview:**
+Mauville City is located in central Hoenn, featuring various shops and the Mauville Gym, led by Wattson.
+
+**Key Locations & Items:**
+- **1F Items:**
+  - X Speed: South side behind the city map.
+  - Globe: From a Backpacker in the courtyard.
+  - X Defense: Hidden behind Square Tower in the courtyard.
+  - TM58 (Sky Drop): From a Delinquent inside the Poké Mart.
+  - Acro/Mach Bike: From Rydel's Cycles (choose one, swap anytime).
+  - Vs. Recorder: Inside Battle Institute.
+  - TM48 (Round): From the girl at Crooner's Café.
+  - HM06 (Rock Smash): From Wally's uncle after defeating Wally.
+  - TM72 (Volt Switch): From Wattson after defeating him.
+
+- **3F Items:**
+  - Nugget: From an old man on the south side.
+  - Luxury Ball: Under western tower (hidden).
+  - Max Repel: Under eastern tower (hidden).
+
+**Main Events:**
+1. **Meet Wally:** Upon entering, you find Wally challenging the Mauville Gym.
+   
+2. **Courtyard Activities:** 
+   - Visit the Pokémon Center and Poké Mart.
+   - Collect hidden items and speak with trainers for O-Powers.
+
+3. **District Highlights:**
+   - **Northeast District:** Tour TV Mauville, visit the Battle Institute for a Vs. Recorder.
+   - **Southeast District:** Learn ultimate moves at the Ultimate Move Studio and Pledge Move Dojo.
+   - **Mauville Food Court:** Face trainers for meals; prizes include Nuggets and Berries.
+
+4. **Wally's Challenge:** Defeat Wally outside the Gym to receive HM06 (Rock Smash) and progress.
+
+**Mauville Gym:**
+- **Leader:** Wattson (Electric-type).
+- **Strategy:** Use Ground-type moves; Fire and Fighting moves are also effective. Avoid Flying and Water Pokémon (except Marshtomp).
+- **Gym Layout:** Navigate colored switches to alter the barriers.
+
+**Battle Strategy against Wattson:**
+- **Pokémon:** 
+  - **Magnemite (Lv. 19):** Weak to Ground moves.
+  - **Voltorb (Lv. 19):** Use caution due to Rollout.
+  - **Magneton (Lv. 21):** Watch for Supersonic and Volt Switch.
+
+**Aftermath:**
+Defeating Wattson earns you the **Dynamo Badge** (ensures obedience of Pokémon up to level 40 and allows Rock Smash) and TM72 (Volt Switch).
+
+**Next Steps:**
+Proceed to the next area after clearing Mauville Gym.

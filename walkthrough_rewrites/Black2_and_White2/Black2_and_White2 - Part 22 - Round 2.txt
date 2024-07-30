@@ -1,0 +1,32 @@
+Game: Black2_and_White2
+Part: 22
+Keywords: Round 2
+
+### Part 22: Reversal Mountain, Nature Preserve, Pokémon League: Round 2
+
+**Reversal Mountain**
+1. Find Doctor Derek and use the nearby stairs to reach Heatran's chamber (BF1).
+2. Save your game, use the Magma Stone to reveal Heatran, and challenge it.
+3. Paralyze and weaken Heatran with moves that deal neutral damage, using a Water-type Pokémon to absorb its Fire and Steel attacks.
+
+**Nature Preserve**
+- Accessed via airplane from Mistralton City, featuring Pokémon up to level 100.
+- Key Pokémon to catch include:
+  - Nuzleaf, Altaria, Girafarig, Golduck, Noctowl, Fraxure, Kecleon (various levels)
+  - Special Pokémon: Shiny Haxorus (Lv. 60) found in the clearing.
+- Items: 
+  - Max Potion (Northwest runway, requires Surf)
+  - Rare Candy (Northeast cliff, requires Surf and Waterfall)
+  - Big Nugget (North of pond in dark grass, requires Surf)
+
+**Pokémon League: Round 2**
+- Elite Four and Champion are stronger, with higher-level Pokémon. Prepare a strong team.
+
+**Rematch Strategies:**
+- **Shauntal**: Use Ghost- and Dark-type attacks. Beware of her Gengar's Psychic vulnerability.
+- **Grimsley**: Exploit Fighting-type moves against most Pokémon. Use Electric, Rock, or Ice against Honchkrow.
+- **Caitlin**: Target her Pokémon with Ghost moves; Metagross is weak to Fire and Ground.
+- **Marshal**: Use Flying-type moves against his Fighting Pokémon. Take out Lucario with Fire, Fighting, or Ground moves.
+- **Champion Iris**: Use Ice moves against her dragons, and switch for super-effective hits on Lapras and Aggron.
+
+Prepare and strategize before each battle to maximize your chances of victory!

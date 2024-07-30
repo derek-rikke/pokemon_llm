@@ -1,0 +1,1508 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_5
+Keywords: Route 8 (Upper), Ambrette Town, Route 9, Glittering Cave, Route 8 (Lower), Cyllage City, Cyllage Gym
+
+Walkthrough Text:
+Contents
+1
+Route 8 (upper)
+1.1
+Sina and Dexio
+1.2
+Stepping Stones
+1.3
+Try a Sky Battle
+2
+Ambrette Town
+2.1
+Meet up with Serena/Calem
+2.2
+A Smashing Good Time
+2.3
+Trading Time
+2.4
+Fossil Lab
+2.5
+A Request
+2.6
+Hotel Ambrette
+3
+Route 9
+3.1
+Ride with Rhyhorn
+4
+Glittering Cave
+4.1
+1F
+4.2
+B1F
+4.2.1
+Meet Team Flare
+4.2.2
+Ancient Treasures
+4.2.3
+Tag Team
+4.2.4
+Locate the Assistant
+5
+Ambrette Town
+5.1
+Fossil Lab
+5.2
+Ambrette Aquarium
+6
+Route 8 (lower)
+6.1
+Treasure Hunting
+7
+Cyllage City
+7.1
+Time for a Trade
+7.2
+Cycle Shop
+7.3
+Poké-Massage
+7.4
+Pop Quiz
+7.5
+Hotel Cyllage
+7.6
+Collect an HM
+7.7
+Cyllage Gym
+Route 8 (upper)
+Route 8
+Route 8
+, or Muraille Coast, is a road of great contrasts. The upper cliffside path leads southward from
+Connecting Cave
+to
+Ambrette Town
+. After passing through Ambrette, it is possible to take the lower seaside path northward to
+Cyllage City
+.
+Trainers
+Trainer
+Pokémon
+Cliffside
+Rising Star
+Paulette
+Reward:
+$
+1140
+Axew
+♀
+Lv.
+19
+No item
+Rising Star
+Rhys
+Reward:
+$
+1020
+Pancham
+♂
+Lv.
+15
+No item
+Skiddo
+♂
+Lv.
+16
+No item
+Goldeen
+♂
+Lv.
+17
+No item
+Black Belt
+Cadoc
+Reward:
+$
+960
+Machop
+♂
+Lv.
+20
+No item
+Sky Trainer
+Howe
+Reward:
+$
+1800
+Drifloon
+♂
+Lv.
+15
+No item
+Pidgeotto
+♂
+Lv.
+18
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spoink
+X
+Y
+Grass
+13-14
+20%
+Zangoose
+X
+Y
+Grass
+14
+10%
+Seviper
+X
+Y
+Grass
+14
+10%
+Absol
+X
+Y
+Grass
+15
+10%
+Bagon
+X
+Y
+Grass
+14-15
+5%
+Drifloon
+X
+Y
+Grass
+13-15
+30%
+Mienfoo
+X
+Y
+Grass
+15
+10%
+Inkay
+X
+Y
+Grass
+14-15
+15%
+Yellow flowers
+Spoink
+X
+Y
+Yellow flowers
+15
+10%
+Zangoose
+X
+Y
+Yellow flowers
+14
+10%
+Seviper
+X
+Y
+Yellow flowers
+14
+10%
+Absol
+X
+Y
+Yellow flowers
+13-14
+20%
+Bagon
+X
+Y
+Yellow flowers
+14-15
+5%
+Drifloon
+X
+Y
+Yellow flowers
+15
+10%
+Mienfoo
+X
+Y
+Yellow flowers
+13-15
+30%
+Inkay
+X
+Y
+Yellow flowers
+14-15
+15%
+Horde Encounter
+Taillow
+X
+Y
+Horde Encounter
+7
+5%
+Wingull
+X
+Y
+Horde Encounter
+7
+60%
+Zangoose
+X
+Y
+Horde Encounter
+8
+35%
+with Seviper
+Seviper
+X
+Y
+Horde Encounter
+8
+35%
+with Zangoose
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+In a rock, north of Connecting Cave (hidden)
+X
+Y
+HP Up
+Southwest of Connecting Cave, between two ledges
+X
+Y
+Escape Rope
+West of Black Belt Cadoc, near the cliff's edge (hidden)
+X
+Y
+Leaf Stone
+East of the stepping stones
+X
+Y
+Heart Scale
+Southwest of the stepping stones, accessed via Ambrette Town
+X
+Y
+Requires
+Strength
+Water Stone
+South of Rising Star Paulette
+X
+Y
+Sina and Dexio
+A short distance from
+Connecting Cave
+, you are approached by Sina and Dexio. They upgrade your Pokédex with the Coastal Kalos listing, which encompasses the Pokémon found in the western third of the region. Then the two disappear as soon as they arrive.
+Stepping Stones
+To the south, a muddy pit is located just outside
+Ambrette Town
+. This forces travelers to jump from one stepping stone to another in order to cross it. Be sure to collect the
+Leaf Stone
+to the east!
+Try a Sky Battle
+Cross the muddy pit from the north side, and land on one of the eastern stones. This causes you to be challenged by Howe, a
+Sky Trainer
+. Trainers of this class only participate in
+Sky Battles
+, an optional battle format where only
+Flying
+or
+Levitating
+Pokémon are eligible.
+Ambrette Town
+Ambrette Town
+Ambrette
+is a dusty little town situated between
+Route 8
+and
+Route 9
+. The town is known for its Aquarium and its Fossil Lab, where Pokémon
+Fossils
+are studied and restored.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Dwebble
+X
+Y
+Rock Smash
+18-20
+66%
+Dwebble
+X
+Y
+Rock Smash
+13-15
+66%
+Binacle
+X
+Y
+Rock Smash
+18, 20
+34%
+Binacle
+X
+Y
+Rock Smash
+13, 15
+34%
+Special Pokémon
+Occurs on random days in a random hotel after having spoken to the traders multiple times.
+Magikarp
+X
+Y
+Trade
+Gyarados
+5
+One
+Eevee
+X
+Y
+Trade
+Any Pokémon
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Upper level
+TM94
+(
+Rock Smash
+)
+From a girl outside the Aquarium
+X
+Y
+Dive Ball
+(one per day)
+From the Punk Guy outside the Fossil Lab, in exchange for a
+Poké Ball
+X
+Y
+Health Wing
+(one per day)
+From a girl in the blue-roofed house, after seeing a Pokémon with requested
+Speed
+or higher
+X
+Y
+TM96
+(
+Nature Power
+)
+From a girl on Hotel Ambrette 1F
+X
+Y
+Alert Ribbon
+From a traveler on Hotel Ambrette 2F
+Mo
+X
+Y
+X Attack
+Outside Hotel Ambrette, on the cliff's edge (hidden)
+X
+Y
+Rocky Helmet
+From a girl in the east gate
+X
+Y
+Aerodactylite
+From a Scientist in the Fossil Lab, after clearing
+Glittering Cave
+X
+Y
+Old Rod
+From a Fisherman on the Aquarium's lower level
+X
+Y
+Lower level, accessed via Route 8
+Rare Candy
+South of three breakable rocks (hidden)
+X
+Y
+Pearl
+South of Hotel Ambrette
+X
+Y
+Ether
+Randomly found by smashing
+breakable rocks
+X
+Y
+Max Ether
+Randomly found by smashing
+breakable rocks
+X
+Y
+Pearl
+Randomly found by smashing
+breakable rocks
+X
+Y
+Big Pearl
+Randomly found by smashing
+breakable rocks
+X
+Y
+Heart Scale
+Randomly found by smashing
+breakable rocks
+X
+Y
+Star Piece
+Randomly found by smashing
+breakable rocks
+X
+Y
+Hard Stone
+Randomly found by smashing
+breakable rocks
+X
+Y
+Soft Sand
+Randomly found by smashing
+breakable rocks
+X
+Y
+Revive
+Randomly found by smashing
+breakable rocks
+X
+Y
+Meet up with Serena/Calem
+Serena/Calem appears when you reach the stairway leading down into Ambrette. She/He suggests checking out the Fossil Lab, as the Scientists there may know something about the mysterious
+Mega Stones
+.
+A Smashing Good Time
+Speak to the girl near the Pokémon Center to receive
+TM94
+(
+Rock Smash
+). In the field, it allows a Pokémon to break apart small, cracked rocks. Doing so may reveal items or even certain Pokémon.
+Trading Time
+The Punk Guy outside the Fossil Lab is looking to trade—items, not Pokémon. He offers a
+Dive Ball
+in exchange for a
+Poké Ball
+. A Dive Ball acts like a normal Poké Ball, but is more effective against Pokémon found by
+Surfing
+or
+Fishing
+. This trade can be done once per day.
+Fossil Lab
+Serena/Calem is anxious to visit the Fossil Lab, but the Scientists here know little about the
+Mega Stones
+. However, they hint that their field assistant, on a dig site in
+Glittering Cave
+to the east, may know more.
+A Request
+Visit the blue-roofed house and speak to the female Ace Trainer inside. She asks to see a Pokémon with a Speed of a certain value or higher. Fulfill her request to receive a
+Health Wing
+. This can be done once per day.
+Hotel Ambrette
+Hotel Ambrette stands on the smaller southern cliff. Speak to the girl in the lobby to receive
+TM96
+(
+Nature Power
+). Nature Power becomes
+a different move
+based on the battle's location.
+Mr. Bonding
+can be found on the second floor, where he enables the
+Sp. Def. Power
+.
+On Mondays, speaking to a traveler on the second floor will result in an
+Alert Ribbon
+.
+Route 9
+Route 9
+Route 9
+, or Spikes Passage, links
+Ambrette Town
+and
+Glittering Cave
+. The rocky path was forged by retired
+Rhyhorn
+racers, but the terrain is too harsh for all but a certain Pokémon to cross.
+Trainers
+Trainer
+Pokémon
+Sky Trainer
+Orion
+Reward:
+$
+2100
+Ledian
+♂
+Lv.
+21
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Hippopotas
+X
+Y
+Terrain
+15-17
+40%
+Sandile
+X
+Y
+Terrain
+15-17
+40%
+Helioptile
+X
+Y
+Terrain
+15-17
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Defense
+North of the first two boulders
+X
+Y
+Paralyze Heal
+South side of the fork, behind a boulder
+X
+Y
+Fire Stone
+Narrow path beyond the Paralyze Heal
+X
+Y
+Dusk Ball
+Southeast, near Sky Trainer Orion
+X
+Y
+Super Repel
+In a rock, northeast of the Pokémon Ranger (hidden)
+X
+Y
+Ride with Rhyhorn
+Most of the route is too dangerous for Trainers to cross by themselves, but the friendly resident Rhyhorn is happy to help. Hop onto its back and ride it eastward to
+Glittering Cave
+. While mounted, press the
+A Button
+to smash the large rocks that litter the path, and the
+B Button
+to dismount.
+Glittering Cave
+Glittering Cave
+The deep, dark
+Glittering Cave
+has many twists and turns, and lots of wild Pokémon. Try not to get lost inside, where
+Luminous Moss
+glows an emerald green.
+Trainers
+Trainer
+Pokémon
+Team Flare Grunt
+Reward:
+$
+720
+Houndour
+♂
+Lv.
+18
+No item
+Zubat
+♂
+Lv.
+18
+No item
+Team Flare Grunt
+Reward:
+$
+720
+Gulpin
+♀
+Lv.
+18
+No item
+Electrike
+♀
+Lv.
+18
+No item
+Team Flare Grunt
+Reward:
+$
+1600
+(with Team Flare Grunt)
+Scraggy
+♂
+Lv.
+20
+No item
+Team Flare Grunt
+Reward:
+$
+1600
+(with Team Flare Grunt)
+Croagunk
+♀
+Lv.
+20
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Machop
+X
+Y
+Cave
+15-17
+30%
+Onix
+X
+Y
+Cave
+17
+10%
+Cubone
+X
+Y
+Cave
+15-16
+20%
+Rhyhorn
+X
+Y
+Cave
+17
+10%
+Kangaskhan
+X
+Y
+Cave
+17
+5%
+Mawile
+X
+Y
+Cave
+15-16
+5%
+Lunatone
+X
+Y
+Cave
+17
+10%
+Solrock
+X
+Y
+Cave
+17
+10%
+Drops from the ceiling
+Woobat
+X
+Y
+Ceiling
+15-17
+85%
+Ferroseed
+X
+Y
+Ceiling
+15-17
+15%
+Rock Smash
+Onix
+X
+Y
+Rock Smash
+15-17
+35%
+Dwebble
+X
+Y
+Rock Smash
+15, 17
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hard Stone
+1F; Second dead-end path
+X
+Y
+TM65
+(
+Shadow Claw
+)
+1F; Third dead-end path
+X
+Y
+Escape Rope
+B1F; West side
+X
+Y
+Jaw Fossil
+or
+Sail Fossil
+From the Fossil Lab assistant
+X
+Y
+1F
+The outer tunnels are very dark, and the path is sometimes blocked by darker shadows that hide wild Pokémon. To reach the basement, go straight ahead at every junction. When in doubt, look for the green crystals that light the way. The first junction leads to a dead-end; the second, to a
+Hard Stone
+; and the third, to
+TM65
+(
+Shadow Claw
+).
+B1F
+Meet Team Flare
+The inner tunnels are easier to navigate. Several members of
+Team Flare
+, a stylish but snobby group, are searching the area for Fossils. They do not take kindly to your presence, so be ready to battle!
+Ancient Treasures
+There are several
+cracked rocks
+scattered around the area. These may hide treasures like
+Hard Stones
+,
+Revives
+, or even Pokémon. Even the occasional
+Old Amber
+may appear; when restored, the material inside this ancient tree sap becomes the
+Rock
+/
+Flying
+Aerodactyl
+. Return later after defeating the Elite Four, and other Fossil varieties may also appear.
+Tag Team
+Near the end of the cave, a pair of Team Flare Grunts block the path. Serena/Calem arrives just in time and offers to help take them on. Join up with her/his
+Espurr
+,
+Absol
+, and second-stage starter Pokémon to clear out these feisty fashionistas.
+Locate the Assistant
+The Fossil Lab assistant is conducting his research at the very end of the cave. Speak to him, and he offers one of the two Fossils he just found. The
+Jaw Fossil
+will become the
+Rock
+/
+Dragon
+Tyrunt
+, while the
+Sail Fossil
+will become the
+Rock
+/
+Ice
+Amaura
+. Afterwards, you can use the nearby
+Escape Rope
+to warp to the entrance, and trek back to
+Ambrette Town
+.
+Ambrette Town
+Fossil Lab
+Speak to the assistant who now stands at the counter to restore any new Fossils.
+Tyrunt
+hits hard with biting moves due to its
+Strong Jaw
+Ability, while
+Amaura
+'s
+Refrigerate
+Ability treats its
+Normal-type
+moves as
+Ice-type
+moves. All Pokémon obtained this way will appear at level 20. On the way out, talk to one of the workers to receive a Mega Stone, the
+Aerodactylite
+.
+Ambrette Aquarium
+The Ambrette Aquarium is a multi-level building on the west side of town. Go downstairs and talk to the Fisherman near the golden
+Magikarp
+statue to receive an
+Old Rod
+. This low-end fishing rod can hook Pokémon from any body of water, so be sure to try it out everywhere!
+Route 8 (lower)
+Trainers
+Trainer
+Pokémon
+Swimmer ♀
+Genevieve
+Reward:
+$
+336
+Wingull
+♀
+Lv.
+19
+No item
+Psyduck
+♀
+Lv.
+21
+No item
+Fisherman
+Wharton
+Reward:
+$
+1064
+Tentacool
+♂
+Lv.
+19
+No item
+Tentacool
+♂
+Lv.
+19
+No item
+Tentacool
+♂
+Lv.
+19
+No item
+Fisherman
+Shad
+Reward:
+$
+1120
+Shellder
+♂
+Lv.
+20
+No item
+Staryu
+Lv.
+20
+No item
+Swimmer ♀
+Marissa
+Reward:
+$
+352
+Masquerain
+♀
+Lv.
+22
+No item
+Sky Trainer
+Aveza
+Reward:
+$
+2200
+Skiploom
+♀
+Lv.
+19
+No item
+Swoobat
+♀
+Lv.
+22
+No item
+Sky Trainer
+Colm
+Reward:
+$
+2900
+Mantyke
+♂
+Lv.
+28
+No item
+Jumpluff
+♂
+Lv.
+29
+No item
+Requires
+Surf
+Swimmer ♂
+Estaban
+Reward:
+$
+448
+Skrelp
+♂
+Lv.
+28
+No item
+Horsea
+♂
+Lv.
+28
+No item
+Swimmer ♂
+Ramses
+Reward:
+$
+480
+Tentacool
+♂
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Dwebble
+X
+Y
+Rock Smash
+18-20
+66%
+Dwebble
+X
+Y
+Rock Smash
+13-15
+66%
+Binacle
+X
+Y
+Rock Smash
+18, 20
+34%
+Binacle
+X
+Y
+Rock Smash
+13, 15
+34%
+Fishing
+Luvdisc
+X
+Y
+Fishing
+Old Rod
+15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mago Berry
+From the tree, north of Ambrette Aquarium
+X
+Y
+Dowsing Machine
+From a Swimmer ♀, northeast of the Berry tree
+X
+Y
+Pearl
+Southwest of the Swimmer ♀ who hands out the
+Dowsing Machine
+(hidden,
+reappears occasionally
+)
+X
+Y
+Stardust
+Southwest of the Berry tree (hidden,
+reappears occasionally
+)
+X
+Y
+Ultra Ball
+In a rock, north of the Aquarium stairway and two larger rocks (hidden,
+reappears occasionally
+)
+X
+Y
+Heart Scale
+West of the Aquarium stairway (hidden,
+reappears occasionally
+)
+X
+Y
+Requires
+Surf
+Heart Scale
+In a rock, on the sandy northwest island (hidden)
+X
+Y
+TM19
+(
+Roost
+)
+In the northernmost shallow area
+X
+Y
+Treasure Hunting
+There are many cracked rocks on
+Route 8
+'s lower level, which may hide valuable items like
+Star Pieces
+,
+Max Revives
+, and
+Heart Scales
+. In addition, other items like
+Pearls
+occasionally wash up on the beach.
+There is a Swimmer ♀ to the northeast of the
+Mago Berry
+tree. On the way past, she gives you a
+Dowsing Machine
+. This handy item can detect any treasure hidden nearby. The beams of colored light point the way; when they cross and turn red, the treasure is one step away!
+Cyllage City
+Cyllage City
+Cyllage
+is a small city nestled between the cliffs and the sea, and is surrounded by a steep Bicycle racetrack. Landmarks include the
+Cyllage Gym
+and Cycle Shop.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Onix
+X
+Y
+Rock Smash
+15-17
+35%
+Dwebble
+X
+Y
+Rock Smash
+15, 17
+65%
+Dwebble
+X
+Y
+Rock Smash
+13-15
+66%
+Binacle
+X
+Y
+Rock Smash
+13, 15
+34%
+Fishing
+Luvdisc
+X
+Y
+Fishing
+Old Rod
+15
+100%
+Special Pokémon
+Steelix
+X
+Y
+Trade
+Luvdisc
+20
+One
+Special Pokémon
+Occurs on random days in a random hotel after having spoken to the traders multiple times.
+Magikarp
+X
+Y
+Trade
+Gyarados
+5
+One
+Eevee
+X
+Y
+Trade
+Any Pokémon
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Whipped Dream
+From a man in the southeastern-most house
+X
+Sachet
+From a man in the southeastern-most house
+Y
+Ether
+In a rock, behind the southeastern-most house (hidden)
+X
+Y
+Bicycle
+From the Cycle Shop owner
+X
+Y
+Soda Pop
+From the girl behind the Cycle Shop,
+$
+300 per bottle
+X
+Y
+Persim Berry
+×3
+House north of the Pokémon Center, after completing the quiz
+X
+Y
+TM44
+(
+Rest
+)
+From a man on Hotel Cyllage 1F
+X
+Y
+TM88
+(
+Sleep Talk
+)
+From a girl on Hotel Cyllage 1F
+X
+Y
+Destiny Knot
+Hotel Cyllage 2F, from the Maid in the west room
+X
+Y
+Rage Candy Bar
+On 2F of Hotel Cyllage if the player is talking to the
+Waiter
+for the fourth time
+X
+Y
+Lava Cookie
+On 2F of Hotel Cyllage if the player is talking to the
+Madame
+for the fourth time
+X
+Y
+Strange Souvenir
+On 2F of Hotel Cyllage if the player is talking to the
+Backpacker
+for the fourth time
+X
+Y
+Snooze Ribbon
+Hotel Cyllage 2F
+Sa
+X
+Y
+Pearl
+Lone rock on the western sandbar (hidden)
+X
+Y
+X Speed
+At the bottom of the hill of the bike path, two spaces south and one east from the biker
+(hidden)
+X
+Y
+Super Potion
+Behind the benches, northeast of the Boutique
+X
+Y
+Protein
+In a rock, outside the Gym (hidden)
+X
+Y
+X Defense
+West of the Gym
+X
+Y
+X Sp. Atk
+Northeast corner of the racetrack
+X
+Y
+HM04
+(
+Strength
+)
+From Grant, on the racetrack
+X
+Y
+After defeating the Cyllage Gym
+TM39
+(
+Rock Tomb
+)
+From
+Grant
+upon his defeat
+X
+Y
+Requires
+Surf
+Charti Berry
+From the boy in the house on the southwest island
+X
+Y
+Time for a Trade
+Inside the Pokémon Center, an Ace Trainer named Farris would like to trade. He offers his
+Steelix
+, nicknamed Thumper, in exchange for a
+Luvdisc
+. Luvdisc are common in these waters, and Steelix can be very effective at the
+Cyllage Gym
+.
+Cycle Shop
+The Cycle Shop stands just east of the Pokémon Center. Answer the owner's question to receive a choice of either a green or yellow
+Bicycle
+!
+Poké-Massage
+Next door to the Pokémon Center, a girl offers to give one of your Pokémon a massage, free of charge. This increases the Pokémon's
+happiness
+, which is important for
+certain
+moves
+and
+evolutions
+.
+Pop Quiz
+Visit the house to the west of the Boutique to take a quiz. The girl asks which
+Berry
+cures confusion, and which
+move
+causes it. Answer correctly to win three
+Persim Berries
+.
+Hotel Cyllage
+Head upstairs and talk to the Maid in the west room to get a
+Destiny Knot
+.
+Mr. Bonding
+can be found in the east room, where he enables the new
+Prize Money Power
+.
+Collect an HM
+Follow the paved road up the cliffside to meet
+Grant
+, the local Gym Leader, near the first bend. A Bicycle race just ended, but since you missed it, Grant hands over
+HM04
+(
+Strength
+) as a consolation prize. In the field, this lets Pokémon move large boulders, but it cannot be used without the local Gym badge.
+Cyllage Gym
+Cyllage Gym
+The
+Cyllage Gym
+specializes in
+Rock-type
+Pokémon. Use
+Fighting
+,
+Ground
+, and
+Steel
+attacks to deal serious damage, and avoid using
+Fire
+-,
+Flying
+-, and
+Bug-type
+Pokémon.
+Grass
+and
+Water
+moves are also effective, but secondary types make things more complicated. Scale the rock walls, climbing ever higher to reach the Gym Leader at the summit.
+Grant
+'s
+Amaura
+can hinder its foe with
+Thunder Wave
+, and can hit hard with its
+Refrigerated
+Take Down
+. Due to its dual weakness, even weak Fighting moves like
+Rock Smash
+can deal major damage to it.
+Tyrunt
+'s
+Bite
+gets a boost from its
+Strong Jaw
+Ability, and
+Rock Tomb
+can lower the foe's Speed. Its secondary type leaves it vulnerable to
+Dragon
+- and
+Fairy-type
+moves.
+Cyllage Gym
+Trainers
+Trainer
+Pokémon
+Rising Star
+Didier
+Reward:
+$
+1380
+Dwebble
+♂
+Lv.
+21
+No item
+Relicanth
+♂
+Lv.
+23
+No item
+Rising Star
+Manon
+Reward:
+$
+1320
+Solrock
+Lv.
+22
+No item
+Lunatone
+Lv.
+22
+No item
+Hiker
+Craig
+Reward:
+$
+1344
+Roggenrola
+♂
+Lv.
+24
+No item
+Hiker
+Bernard
+Reward:
+$
+1176
+Rhyhorn
+♂
+Lv.
+21
+No item
+Nosepass
+♂
+Lv.
+21
+No item
+Onix
+♂
+Lv.
+21
+No item
+Leader
+Grant
+Cyllage Gym
+X and Y
+Reward:
+$
+4000
+Types:
+Rock
+Ice
+Ability:
+Refrigerate
+Held item:
+None
+Amaura
+♂
+Lv.
+25
+Aurora Beam
+Ice
+Special
+--
+Rock Tomb
+Rock
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Rock
+Dragon
+Ability:
+Strong Jaw
+Held item:
+None
+Tyrunt
+♂
+Lv.
+25
+Rock Tomb
+Rock
+Physical
+--
+Bite
+Dark
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Afterwards,
+Grant
+awards you the
+Cliff Badge
+, which ensures obedience from all Pokémon up to level 40, and allows the use of
+Strength
+in the field. He also hands out
+TM39
+(
+Rock Tomb
+) as a prize.
+← Part 4
+Route 7 (east), Route 6, Parfum Palace, Route 7 (west), Connecting Cave
+X and Y
+walkthrough
+Route 10, Geosenge Town, Route 11, Reflection Cave, Shalour City
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

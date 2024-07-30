@@ -1,0 +1,48 @@
+Game: X_and_Y
+Part: 17
+Keywords: Sea Spirit's Den, Unknown Dungeon, Terminus Cave
+
+**Part 17: Legendary Pokémon Locations in X and Y**
+
+**Azure Bay - Sea Spirit's Den**
+- After defeating the Pokémon League, track down legendary birds based on your starter:
+  - Chespin → Articuno
+  - Fennekin → Zapdos
+  - Froakie → Moltres
+- The bird will flee after the first encounter and roam the region. After 11 encounters, it will appear at Sea Spirit's Den.
+- Recommended items: Ultra Balls, Dusk Balls, Quick Balls, Timer Balls.
+
+**Battle Strategies:**
+- **Articuno (Lv. 70)**: Weak to Fire, Electric, Rock, Steel. Use these types to lower its health.
+- **Zapdos (Lv. 70)**: Weak to Rock, Ice. Use super-effective moves before gradually wearing it down.
+- **Moltres (Lv. 70)**: Weak to Water, Electric, Rock. Start strong and follow up with Grass, Fire, Bug, or Fighting moves.
+
+---
+
+**Pokémon Village - Unknown Dungeon**
+- Fly to Snowbelle City, traverse Route 20 to reach Pokémon Village.
+- The cave entrance is accessible now. Mewtwo (Lv. 70) awaits inside.
+- **Battle Strategy**: Use Bug, Ghost, or Dark moves initially. Consider status moves like Spore or Thunder Wave to hinder Mewtwo, or use the Master Ball.
+
+**Items Found:**
+- Oval Stone (hidden), Mewtwonite X/Y (after capturing Mewtwo).
+
+---
+
+**Route 18 - Terminus Cave**
+- Terminus Cave is a former coal mine with treasure and trainers.
+- The final chamber is accessible after defeating the League.
+
+**Notable Trainers:**
+- Worker Narek (Graveler, Golem) and various Hikers with Pokémon levels ranging from 46-52.
+
+**Items in Terminus Cave:**
+- Dragon Scale, TM31 (Brick Break), Dusk Ball, Heat Rock, various healing items, and Zygarde's Orbs.
+
+**Zygarde (Lv. 70)**: 
+- Type: Dragon/Ground. Use Ice, Dragon, Fairy moves to lower its health, then switch to Fire, Poison, or Rock moves.
+
+---
+
+**Final Note:**
+Complete your Pokédex; Kalos has 721 species to discover!

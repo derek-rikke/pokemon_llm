@@ -1,0 +1,4057 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_15
+Keywords: Route 23, Victory Road, The Pokémon League
+
+Walkthrough Text:
+Contents
+1
+Route 23
+1.1
+East side
+1.2
+West side
+1.2.1
+Strength puzzle
+2
+Victory Road
+2.1
+Entrance
+2.2
+Cave 1F
+B2
+2.3
+River Valley
+2.4
+Cave 2F
+2.4.1
+Southern path
+2.4.2
+Southwest path
+2.4.3
+North side
+2.5
+Mountainside
+2.5.1
+Western path
+2.5.2
+Southern path
+2.6
+Cave 1F
+W2
+2.7
+Grove
+2.8
+River Valley
+2.9
+Cave 2F
+2.9.1
+Southern path
+2.9.2
+Southeast path
+2.9.3
+North side
+2.10
+Mountainside
+2.10.1
+Eastern path
+2.10.2
+Southern path
+2.11
+Northern path
+3
+Pokémon League
+3.1
+Left room: Shauntal
+3.1.1
+Initial battle (Easy Mode/Normal Mode)
+3.1.2
+Initial battle (Challenge Mode)
+3.2
+Center-left room: Grimsley
+3.2.1
+Initial battle (Easy Mode/Normal Mode)
+3.2.2
+Initial battle (Challenge Mode)
+3.3
+Center-right room: Caitlin
+3.3.1
+Initial battle (Easy Mode/Normal Mode)
+3.3.2
+Initial battle (Challenge Mode)
+3.4
+Right room: Marshal
+3.4.1
+Initial battle (Easy Mode/Normal Mode)
+3.4.2
+Initial battle (Challenge Mode)
+3.5
+The Champion's Temple
+3.5.1
+Initial battle (Easy Mode/Normal Mode)
+3.5.2
+Initial battle (Challenge Mode)
+Route 23
+Route 23
+Route 23
+is a long mountain road that stretches off to the northwest. On the east side, the path meanders along the river that lies beneath the cliff face. On the west side, small trails wind through the labyrinthine grove of trees. To the north lies
+Victory Road
+, a proving ground for Trainers headed to the
+Pokémon League
+.
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Brenda
+ジュン
+Jun
+Reward:
+$
+1696
+Throh
+♂
+Lv.
+53
+No item
+Ace Trainer
+Grant
+タイキ
+Taiki
+Reward:
+$
+3180
+Emolga
+♂
+Lv.
+53
+No item
+Jellicent
+♂
+Male
+Lv.
+53
+No item
+Hiker
+Don
+タモツ
+Tamotsu
+Reward:
+$
+1632
+Piloswine
+♂
+Lv.
+51
+No item
+Probopass
+♂
+Lv.
+51
+No item
+Ace Trainer
+Juliet
+コトノ
+Kotono
+Reward:
+$
+3180
+Swanna
+♀
+Lv.
+53
+No item
+Galvantula
+♀
+Lv.
+53
+No item
+Black Belt
+Luke
+シンペイ
+Shinpei
+Reward:
+$
+1696
+Sawk
+♂
+Lv.
+53
+No item
+Pokémon Ranger
+Steve
+スティーブ
+Sutību
+Reward:
+$
+3120
+Stunfisk
+♂
+Lv.
+52
+No item
+Amoonguss
+♂
+Lv.
+52
+No item
+Pokémon Ranger
+Lena
+レナ
+Rena
+Reward:
+$
+3180
+Floatzel
+♀
+Lv.
+53
+No item
+Lucario
+♂
+Lv.
+53
+No item
+Hiker
+Doug
+トモタカ
+Tomotaka
+Reward:
+$
+1696
+Boldore
+♂
+Lv.
+53
+No item
+Aggron
+♂
+Lv.
+53
+No item
+Ace Trainer
+Miki
+ミキ
+Miki
+Reward:
+$
+3240
+Scolipede
+♀
+Lv.
+54
+No item
+Arcanine
+♂
+Lv.
+54
+No item
+Black Belt
+Benjamin
+テツジ
+Tetsuji
+Reward:
+$
+1696
+Gurdurr
+♂
+Lv.
+53
+No item
+Scrafty
+♂
+Lv.
+53
+No item
+Ace Trainer
+Tom
+ケント
+Kento
+Reward:
+$
+3240
+Magmar
+♂
+Lv.
+54
+No item
+Mamoswine
+♂
+Lv.
+54
+No item
+Battle Girl
+Tiffany
+チサト
+Chisato
+Reward:
+$
+1696
+Gurdurr
+♂
+Lv.
+53
+No item
+Mienshao
+♀
+Lv.
+53
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sawk
+B2
+W2
+Grass
+48-49
+25%
+Throh
+B2
+W2
+Grass
+48-49
+25%
+Bouffalant
+B2
+W2
+Grass
+49-51
+25%
+Mienfoo
+B2
+W2
+Grass
+48
+15%
+Golduck
+B2
+W2
+Grass
+50
+10%
+Gligar
+B2
+W2
+Grass
+49
+10%
+Amoonguss
+B2
+W2
+Grass
+49
+10%
+Vullaby
+B2
+W2
+Grass
+47
+5%
+Rufflet
+B2
+W2
+Grass
+47
+5%
+Dark grass
+Sawk
+B2
+W2
+Dark grass
+53-54
+25%
+Throh
+B2
+W2
+Dark grass
+53-54
+25%
+Bouffalant
+B2
+W2
+Dark grass
+54-56
+25%
+Mienshao
+B2
+W2
+Dark grass
+53
+15%
+Golduck
+B2
+W2
+Dark grass
+55
+10%
+Gligar
+B2
+W2
+Dark grass
+54
+10%
+Amoonguss
+B2
+W2
+Dark grass
+54
+10%
+Vullaby
+B2
+W2
+Dark grass
+52
+5%
+Rufflet
+B2
+W2
+Dark grass
+52
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+48-51
+80%
+Emolga
+B2
+W2
+Rustling grass
+49
+10%
+Gliscor
+B2
+W2
+Rustling grass
+51
+5%
+Throh
+B2
+W2
+Rustling grass
+51
+5%
+Sawk
+B2
+W2
+Rustling grass
+51
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+40-55
+70%
+Basculin
+B2
+W2
+Surfing
+40-55
+70%
+Buizel
+B2
+W2
+Surfing
+40-55
+30%
+Rippling water
+Buizel
+B2
+W2
+Rippling water
+40-55
+60%
+Basculin
+B2
+W2
+Rippling water
+40-55
+30%
+Basculin
+B2
+W2
+Rippling water
+40-55
+30%
+Floatzel
+B2
+W2
+Rippling water
+45-55
+10%
+Hidden Grotto
+Golduck
+B2
+W2
+Hidden Grotto
+50-55
+Uncommon
+Zangoose
+B2
+W2
+Hidden Grotto
+50-55
+Uncommon
+Seviper
+B2
+W2
+Hidden Grotto
+50-55
+Uncommon
+Absol
+B2
+W2
+Hidden Grotto
+50-55
+Uncommon
+Gligar
+B2
+W2
+Hidden Grotto
+50-55
+Rare
+Special Pokémon
+Amoonguss
+B2
+W2
+Fake item
+56
+Three
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+East side
+Heart Scale
+Near the house outside the Giant Chasm (requires
+Cut
+or
+Surf
+)
+B2
+W2
+TM35
+(
+Flamethrower
+)
+From the old man in the house near the waterfall (requires
+Surf
+)
+B2
+W2
+Rare Candy
+Upper level, east of the waterfall (hidden)
+B2
+W2
+Sitrus Berry
+×2
+From Pokémon Ranger Steve upon his defeat
+From Pokémon Ranger Lena upon her defeat
+B2
+W2
+TM05
+(
+Roar
+)
+Upper level, west of Pokémon Ranger Steve
+B2
+W2
+Star Piece
+×2
+In a rock southeast of Black Belt Luke
+Upper level, on a ledge west of the Giant Chasm (requires
+Cut
+)
+B2
+W2
+Iron
+On the cliff to the north of the Ace Trainer's house
+B2
+W2
+West side
+Repeat Ball
+Dead-end path north of Ace Trainer Tom (requires
+Cut
+)
+B2
+W2
+Ultra Ball
+Dead-end path in the eastern part of the forest (hidden, requires
+Cut
+)
+B2
+W2
+Full Heal
+On the platform near the group of boulders
+B2
+W2
+HP Up
+Dead-end path in the northwest part of the forest (requires
+Cut
+)
+B2
+W2
+Calcium
+Dead-end path in the southwest part of the forest (requires
+Cut
+)
+B2
+W2
+Yellow Shard
+In a rock south of the
+Strength
+puzzle (hidden)
+B2
+W2
+Green Shard
+In a grass patch, northeast of the
+Strength
+puzzle
+B2
+W2
+Max Potion
+Near Battle Girl Tiffany (requires
+Cut
+and
+Strength
+)
+B2
+W2
+PP Up
+On the rock column to the southeast of Victory Road (hidden)
+B2
+W2
+TM12
+(
+Taunt
+)
+On the rock column to the southwest of Victory Road
+B2
+W2
+Fake items
+Amoonguss
+×3
+East side, in a grass patch near Black Belt Luke
+West side, in a grass patch near Hiker Doug
+West side, in a grass patch to the east of the
+Strength
+puzzle
+B2
+W2
+East side
+North of the cave exit is a house with a female Ace Trainer inside. Talk to her to have your Pokémon restored to full health. This is especially useful immediately after the events that occurred in the
+Giant Chasm
+.
+Southwest of the rest house is a small tree near the river.
+Cut
+it down or
+Surf
+around it to reach the
+Heart Scale
+Head north through the river valley to a large stairway. Wade across the river to a second house; the old man inside will give out
+TM35
+(
+Flamethrower
+). Climb the stairway, pick up the hidden
+Rare Candy
+to the east, then detour across the bridge to the south. Grab
+TM05
+(
+Roar
+) across the next bridge, then head south from Black Belt Luke. Check the rock for a hidden
+Star Piece
+, then pick up the
+Iron
+to the south and cross the next bridge. A second Star Piece is sitting on the ledge here, and there is a
+Hidden Grotto
+off to the south. Once you have collected all the items, return to the top of the large stairway and head west.
+West side
+A short way down the path is Pokémon Ranger Lena, who gives you a
+Sitrus Berry
+when you defeat her. Head west, chop down the tree, and continue on to reach a raised platform to the southwest. Pick up the
+Full Heal
+and move the boulder south into the hole. Backtrack a bit and head west to reach Hiker Doug; cut down the nearby tree and move the second boulder southward. Return to the east side of the forest, and chop down the tree here. Head northeast to find an
+Ultra Ball
+hidden in the trees, then go west to reach a
+Repeat Ball
+. Wander westward through the forest to have Black Belt Benjamin challenge you, which clears the path he was blocking. Cross the platform in the northwest to get an
+HP Up
+, then loop around to take the path where Benjamin was standing. Chop down another tree and head south to find a
+Calcium
+, then jump either ledge to the east.
+Strength puzzle
+Go east and move the third boulder one space to the left.
+Surf
+across the water and move the fourth boulder into the hole for easier access. Jump the ledge and push the boulder all the way to the north for later. The fifth boulder sits to the northeast; push it one space to the right so it lines up with the hole to the south. Now go south then west to find a
+Yellow Shard
+hidden in a rock. Surf west, then go back east and push the third boulder two spaces right, then one space up to the hole. This gives you an opening to move the final three boulders into place. Shove the second boulder east, the fifth boulder south, and the sixth boulder east.
+Climb the stairway and go east to get a
+Max Potion
+. Continue east, then go north over the bridge. Inspect the grass patch to reveal a hidden
+PP Up
+, then grab
+TM12
+(
+Taunt
+) to the west. Climb back down the stairway and go north. Ignore the first "item", and grab the second one, a
+Green Shard
+. Jump the ledge and head north towards
+Victory Road
+.
+Victory Road
+Victory Road
+Victory Road
+is the last hurdle before the Pokémon League. Only those who have earned all eight Gym Badges may pass through here. There are as many as 25 Trainers scattered across the intricate landscape.
+Trainers
+Cave 1F
+Trainer
+Pokémon
+Ace Trainer
+Billy
+トモヤ
+Tomoya
+Reward:
+$
+3300
+Golurk
+Lv.
+55
+No item
+Sigilyph
+♂
+Lv.
+55
+No item
+Ace Trainer
+Jamie
+ヒトミ
+Hitomi
+Reward:
+$
+3300
+Drifblim
+♀
+Lv.
+55
+No item
+Claydol
+Lv.
+55
+No item
+Psychic
+Alia
+ミヅキ
+Mizuki
+Reward:
+$
+1728
+Lampent
+♀
+Lv.
+54
+No item
+Musharna
+♀
+Lv.
+54
+No item
+Psychic
+Al
+アル
+Al
+Reward:
+$
+1728
+Metang
+Lv.
+54
+No item
+Cofagrigus
+♂
+Lv.
+54
+No item
+Veteran
+Claude
+クロード
+Claude
+Reward:
+$
+8800
+(with Veteran Cecil)
+Braviary
+♂
+Lv.
+55
+No item
+Carracosta
+♂
+Lv.
+55
+No item
+Veteran
+Cecile
+セシル
+Cecil
+Reward:
+$
+8800
+(with Veteran Claude)
+Mandibuzz
+♀
+Lv.
+55
+No item
+Archeops
+♂
+Lv.
+55
+No item
+Grove
+Trainer
+Pokémon
+Black 2
+Ace Trainer
+Chandra
+ヒカル
+Hikaru
+Reward:
+$
+3300
+Darmanitan
+♀
+Lv.
+55
+No item
+Tangrowth
+♀
+Lv.
+55
+No item
+White 2
+Ace Trainer
+Beckett
+スグル
+Suguru
+Reward:
+$
+3300
+Whimsicott
+♂
+Lv.
+55
+No item
+Unfezant
+♂
+Male
+Lv.
+55
+No item
+Ace Trainer
+Shelly
+シェリー
+Shelly
+Reward:
+$
+3300
+Swoobat
+♀
+Lv.
+55
+No item
+Lilligant
+♀
+Lv.
+55
+No item
+Doctor
+Logan
+テルユキ
+Teruyuki
+Reward:
+$
+3240
+Clefable
+♀
+Lv.
+54
+No item
+River Valley
+Trainer
+Pokémon
+Veteran
+Cathy
+アスカ
+Asuka
+Reward:
+$
+4400
+Sigilyph
+♀
+Lv.
+55
+No item
+Crobat
+♀
+Lv.
+55
+No item
+Backpacker
+Mae
+マヨイ
+Mayoi
+Reward:
+$
+1296
+Sawsbuck
+♀
+Autumn Form
+Lv.
+54
+No item
+Ace Trainer
+Pierce
+ヒトシ
+Hitoshi
+Reward:
+$
+3300
+Swanna
+♂
+Lv.
+55
+No item
+Ampharos
+♂
+Lv.
+55
+No item
+Black 2
+Ace Trainer
+Beckett
+スグル
+Suguru
+Reward:
+$
+3300
+Whimsicott
+♂
+Lv.
+55
+No item
+Unfezant
+♂
+Male
+Lv.
+55
+No item
+Ace Trainer
+Shelly
+シェリー
+Shelly
+Reward:
+$
+3300
+Swoobat
+♀
+Lv.
+55
+No item
+Lilligant
+♀
+Lv.
+55
+No item
+White 2
+Ace Trainer
+Chandra
+ヒカル
+Hikaru
+Reward:
+$
+3300
+Darmanitan
+♀
+Lv.
+55
+No item
+Tangrowth
+♀
+Lv.
+55
+No item
+Cave 2F
+Trainer
+Pokémon
+Veteran
+Abraham
+エイブラム
+Abram
+Reward:
+$
+4400
+Gigalith
+♂
+Lv.
+55
+No item
+Skarmory
+♂
+Lv.
+55
+No item
+Possible Tag Battle
+Ace Trainer
+Shanta
+サヤカ
+Sayaka
+Reward:
+$
+3300
+Heatmor
+♀
+Lv.
+55
+No item
+Galvantula
+♀
+Lv.
+55
+No item
+Ace Trainer
+Webster
+ユウジ
+Yūji
+Reward:
+$
+3300
+Durant
+♂
+Lv.
+55
+No item
+Ferrothorn
+♂
+Lv.
+55
+No item
+Pokémon Ranger
+Eddie
+エディ
+Eddie
+Reward:
+$
+3240
+Electabuzz
+♂
+Lv.
+54
+No item
+Probopass
+♂
+Lv.
+54
+No item
+Pokémon Ranger
+Elle
+エル
+Elle
+Reward:
+$
+3240
+Magmar
+♀
+Lv.
+54
+No item
+Camerupt
+♀
+Lv.
+54
+No item
+Cave 2F Back
+Trainer
+Pokémon
+Veteran
+Hugo
+ユウゴ
+Yūgo
+Reward:
+$
+4320
+Fraxure
+♂
+Lv.
+54
+No item
+Zweilous
+♂
+Lv.
+54
+No item
+Flygon
+♂
+Lv.
+54
+No item
+Mountainside
+Trainer
+Pokémon
+Black Belt
+Martell
+タツマ
+Tatsuma
+Reward:
+$
+1728
+Pinsir
+♂
+Lv.
+54
+No item
+Heracross
+♂
+Lv.
+54
+No item
+Battle Girl
+Chalina
+チグサ
+Chigusa
+Reward:
+$
+1728
+Throh
+♂
+Lv.
+54
+No item
+Sawk
+♂
+Lv.
+54
+No item
+Ace Trainer
+Elmer
+ユウイチ
+Yūichi
+Reward:
+$
+3300
+Zweilous
+♂
+Lv.
+55
+No item
+Eelektross
+♂
+Lv.
+55
+No item
+Ace Trainer
+Caroll
+キャロル
+Carroll
+Reward:
+$
+3300
+Fraxure
+♀
+Lv.
+55
+No item
+Vanilluxe
+♀
+Lv.
+55
+No item
+Veteran
+Portia
+サトエ
+Satoe
+Reward:
+$
+4320
+Zebstrika
+♀
+Lv.
+54
+No item
+Sawk
+♂
+Lv.
+54
+No item
+Starmie
+Lv.
+54
+No item
+Veteran
+Sterling
+ギンジ
+Ginji
+Reward:
+$
+4320
+Beartic
+♂
+Lv.
+54
+No item
+Throh
+♂
+Lv.
+54
+No item
+Golurk
+Lv.
+54
+No item
+Available Pokémon
+Cave 1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Banette
+B2
+W2
+Cave
+47-50
+70%
+Golurk
+B2
+W2
+Cave
+48-50
+30%
+Surfing
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Marill
+B2
+W2
+Surfing
+35-50
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+35-50
+60%
+Basculin
+B2
+W2
+Rippling water
+35-50
+35%
+Basculin
+B2
+W2
+Rippling water
+35-50
+35%
+Azumarill
+B2
+W2
+Rippling water
+40-50
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Grove
+Pokémon
+Games
+Location
+Levels
+Rate
+Cottonee
+B2
+W2
+Grass
+47-50
+70%
+Petilil
+B2
+W2
+Grass
+47-50
+70%
+Roselia
+B2
+W2
+Grass
+48-50
+30%
+Dark grass
+Cottonee
+B2
+W2
+Dark grass
+52-55
+70%
+Petilil
+B2
+W2
+Dark grass
+52-55
+70%
+Roselia
+B2
+W2
+Dark grass
+53-55
+30%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+47-50
+80%
+Dunsparce
+B2
+W2
+Rustling grass
+49
+10%
+Roserade
+B2
+W2
+Rustling grass
+50
+5%
+Whimsicott
+B2
+W2
+Rustling grass
+50
+5%
+Lilligant
+B2
+W2
+Rustling grass
+50
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+River Valley
+Pokémon
+Games
+Location
+Levels
+Rate
+Tranquill
+B2
+W2
+Grass
+47-50
+80%
+Altaria
+B2
+W2
+Grass
+49-50
+20%
+Dark grass
+Tranquill
+B2
+W2
+Dark grass
+52-55
+80%
+Altaria
+B2
+W2
+Dark grass
+54-55
+20%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+47-50
+85%
+Dunsparce
+B2
+W2
+Rustling grass
+49
+10%
+Unfezant
+B2
+W2
+Rustling grass
+50
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Buizel
+B2
+W2
+Surfing
+35-50
+30%
+Rippling water
+Buizel
+B2
+W2
+Rippling water
+35-50
+60%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Floatzel
+B2
+W2
+Rippling water
+40-50
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cave 2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+41-44
+80%
+Onix
+B2
+W2
+Cave
+43-44
+20%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+41-44
+80%
+Onix
+B2
+W2
+Dust cloud
+41
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cave 2F Back
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+47-50
+80%
+Onix
+B2
+W2
+Cave
+49-50
+20%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+47-50
+80%
+Onix
+B2
+W2
+Dust cloud
+47
+20%
+Surfing
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Marill
+B2
+W2
+Surfing
+35-50
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+35-60
+60%
+Basculin
+B2
+W2
+Rippling water
+35-70
+35%
+Basculin
+B2
+W2
+Rippling water
+35-70
+35%
+Azumarill
+B2
+W2
+Rippling water
+40-70
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cave 3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Druddigon
+B2
+W2
+Cave
+47-50
+80%
+Zweilous
+B2
+W2
+Cave
+49-50
+20%
+Dust clouds
+Excadrill
+B2
+W2
+Cave
+47-50
+80%
+Onix
+B2
+W2
+Cave
+47
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Mountainside
+Pokémon
+Games
+Location
+Levels
+Rate
+Gurdurr
+B2
+W2
+Grass
+47-50
+70%
+Throh
+B2
+W2
+Grass
+48-50
+30%
+Dark grass
+Gurdurr
+B2
+W2
+Dark grass
+52-55
+70%
+Throh
+B2
+W2
+Dark grass
+53-55
+30%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+47-50
+95%
+Sawk
+B2
+W2
+Rustling grass
+50
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Cave 4F
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+47-50
+80%
+Onix
+B2
+W2
+Cave
+49-50
+20%
+Dust clouds
+Excadrill
+B2
+W2
+Cave
+47-50
+80%
+Onix
+B2
+W2
+Cave
+47
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Entrance
+Item
+Location
+Games
+HM05
+(
+Waterfall
+)
+From N when first entering Victory Road
+B2
+W2
+TM01
+(
+Hone Claws
+)
+East of the Pokémon Center
+B2
+W2
+Dusk Stone
+In the ruins, in a rock on the west side (hidden)
+B2
+W2
+PP Up
+South side of the ruins
+B2
+W2
+Star Piece
+On the ledge to the southeast of the Pokémon Center
+B2
+W2
+Iron
+Dead-end path in the ruins, south of the ledge (hidden)
+B2
+W2
+Cave 1F
+Item
+Location
+Games
+TM93
+(
+Wild Charge
+)
+On a platform in the southwest corner (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Grove
+Item
+Location
+Games
+Ultra Ball
+Northeast corner
+B2
+W2
+Full Restore
+Southwest corner (requires
+Cut
+)
+B2
+W2
+River Valley
+Item
+Location
+Games
+Full Restore
+Southeast corner, in the tall grass
+B2
+W2
+Ultra Ball
+Near the eastern bridge
+B2
+W2
+Max Repel
+×2
+Near the eastern bridge
+Near the western bridge
+B2
+W2
+Escape Rope
+Central cliff, east of Backpacker Mae (requires
+Surf
+)
+B2
+W2
+Cave 2F
+Item
+Location
+Games
+Max Revive
+Near the southeast entrance (hidden)
+B2
+W2
+Full Restore
+In a rock near the southwest entrance (hidden)
+B2
+W2
+Cheri Berry
+From Pokémon Ranger Eddie upon his defeat
+B2
+W2
+Rawst Berry
+From Pokémon Ranger Elle upon her defeat
+B2
+W2
+Mountainside
+Item
+Location
+Games
+Max Elixir
+West of Black Belt Martell
+B2
+W2
+Normal Gem
+In a rock, northwest of Black Belt Martell (hidden)
+B2
+W2
+Rare Candy
+In a rock, northeast of Battle Girl Chalina (hidden)
+B2
+W2
+Max Revive
+North of Ace Trainer Elmer
+B2
+W2
+Dragon Fang
+South of Veteran Portia
+B2
+W2
+Cave 2F Back
+Item
+Location
+Games
+PP Max
+North of the platform
+B2
+W2
+Red Shard
+In a rock on the platform (hidden)
+B2
+W2
+Max Elixir
+Northeast of the water (hidden, requires
+Surf
+)
+B2
+W2
+Rare Candy
+Southeast corner (requires
+Surf
+)
+B2
+W2
+Cave 3F
+Item
+Location
+Games
+Dragon Scale
+West of Veteran Hugo
+B2
+W2
+Entrance
+N
+is waiting at the area's entrance, and gives you
+HM05
+(
+Waterfall
+) to help navigate the rough terrain. Once he leaves, follow the path to be scanned for each of the eight Badges, and the Badge Check Gate lowers into the ground. A Pokémon Center stands to the northeast, and some old ruins lie to the east. Go east from the Center to find
+TM01
+(
+Hone Claws
+), then enter the ruins to get a
+PP Up
+to the south and a
+Star Piece
+to the north. Bring a party with
+Cut
+,
+Surf
+,
+Strength
+,
+Waterfall
+, and
+Flash
+, and step inside the first cave.
+Although Victory Road is nearly identical in both versions, the route to the mountaintop and Trainer locations will vary.
+Cave 1F
+B2
+Go north past Ace Trainer Billy, and use
+Strength
+to move the boulder to the hole. Continue north then west to reach Psychic Alia. The path southward is damaged, so instead go north to enter the River Valley.
+River Valley
+Pick up the
+Full Restore
+to the east, then hike north through the tall grass to reach the water. Sail under the bridge and climb the stairway to get an
+Ultra Ball
+. To the north is a
+Max Repel
+and a few Trainers; take them out and step inside the next cave.
+Cave 2F
+Check the dead-end straight ahead for a hidden
+Max Revive
+, then fight the two Ace Trainers to the west. Further west, the tunnel meets others that branch off to the south, west, and north.
+Southern path
+Take the south tunnel to re-emerge in the River Valley.
+Fight Backpacker Mae, then cross the river to get the
+Escape Rope
+. Ride down the waterfall and sail east, where you can enter Cave 1F.
+Surf south then west to reach dry land. Fight Veterans Cecile and Claude in a Double Battle, then grab
+TM93
+(
+Wild Charge
+) to the southwest. Jump the ledge to the east to fight Psychic Al, then go north to battle Ace Trainer Jamie. A boulder sits off to the west, but it can only be pushed from the other side.
+Southwest path
+Take the southwest tunnel, and check the small rock for a hidden
+Full Restore
+. Battle Veteran Abraham, then step outside to the River Valley again.
+The bridge to the south is broken, so pick up the
+Max Repel
+and head east past Ace Trainer Pierce. Surf south across the river, then head west to reach the Grove.
+To the east is Ace Trainer Chandra, and there is an
+Ultra Ball
+lying in the dark grass further east. Go southwest and chop down the tree to reach a
+Full Restore
+, then take the southeast exit back to Cave 1F again.
+Approaching from the Grove puts you on the other side of the boulder sitting here. Push it two spaces left, two spaces down, all the way to the right, one space up, three spaces right, and one space down to the hole. This opens up a shortcut from the Grove to the Entrance.
+North side
+The north side of the chamber has two boulders, but the one to the left is inaccessible from here. Move the other one into place and head east. Defeat Pokémon Ranger Eddie for a
+Cheri Berry
+, and step outside.
+Mountainside
+Climb the stairway to pick up a
+Max Elixir
+near Black Belt Martell. Detour to the west to find a
+Normal Gem
+hidden among the rocks, and continue up the cliff to the top. Head west to find the path branching off again.
+Western path
+Go all the way west, then climb down the mountainside to reach Battle Girl Chalina. Detour to the east for a
+Rare Candy
+hidden among the rocks, then south for a
+Max Revive
+. Climb all the way down to enter Cave 2F again.
+Fight Pokémon Ranger Elle for a
+Rawst Berry
+, then go east and move the boulder into place. Head north into the next chamber, Cave 2F Back.
+Use
+Flash
+to light things up, then go north to get a
+PP Max
+. Climb onto the platform and check the rocks for a hidden
+Red Shard
+. Go east to reach a pool of water; there is a hidden
+Max Elixir
+to the northeast, and a
+Rare Candy
+to the south. Head north to re-emerge on the Mountainside.
+Southern path
+Pick up the
+Dragon Fang
+, and take the eastern stairway to Cave 3F.
+Head south and go down the stairway near Veteran Hugo to get a
+Dragon Scale
+. Jump the ledge and head outside.
+A
+Zoroark
+is guarding the cave entrance to the east. It will not move yet, but return later to reach
+a new area
+.
+Cave 1F
+W2
+Head north, then turn west over the bridge to fight Ace Trainer Jamie. Continue west and shove the boulder into the hole. Go north from here to reach the Grove.
+Grove
+Go north and grab the
+Ultra Ball
+in the northeast corner, then cut down the tree in the southwest to reach a
+Full Restore
+. Continue north to the River Valley.
+River Valley
+Cross the bridge to fight Veteran Cathy, then defeat Doctor Logan to have him heal your Pokémon. Grab the
+Max Repel
+and enter the cave.
+Cave 2F
+Inspect the rock east of Veteran Abraham for a hidden
+Full Restore
+, then fight the two Ace Trainers to the east. Further east, the tunnel meets others that branch off to the south, east, and north.
+Southern path
+Take the south tunnel to re-emerge in the River Valley.
+Fight Backpacker Mae, then cross the river to get the
+Escape Rope
+. Ride down the waterfall and sail east, where you can enter Cave 1F.
+Surf south then west to reach dry land. Fight Veterans Cecile and Claude in a Double Battle, then grab
+TM93
+(
+Wild Charge
+) to the southwest.
+Southeast path
+Head east and check the dead-end for a hidden
+Max Revive
+, then exit to the River Valley.
+To the east is a
+Max Repel
+. Pick up the
+Ultra Ball
+near Ace Trainer Pierce, then surf eastward. Climb the stairway and follow the path to find a
+Full Restore
+and Ace Trainer Shanta. Head west to re-enter Cave 1F.
+Fight Psychic Alia and cross the bridge. Use
+Strength
+to shove the boulder one space up, three spaces right, two spaces down, one space left, and two spaces down to fit it into the hole. To the west is Ace Trainer Billy and a ledge that leads back to the Entrance.
+North side
+The north side of the chamber has two boulders, but the one to the right is inaccessible from here. Move the other one into place and head west. Defeat Pokémon Ranger Ellie for a
+Rawst Berry
+, and step outside.
+Mountainside
+Climb the stairway past Ace Trainer Elmer to get a
+Max Revive
+. Detour to the east to find a
+Rare Candy
+hidden among the rocks, and continue up the cliff to the top. Head east to find the path branching off again.
+Eastern path
+Go all the way east, then climb down the mountainside to reach Ace Trainer Caroll. Detour to the west for a
+Normal Gem
+hidden among the rocks, then south for a
+Max Elixir
+. Climb all the way down to enter Cave 2F again.
+Fight Pokémon Ranger Eddie for a
+Cheri Berry
+, then go west and move the boulder into place. Head north into the next chamber, Cave 2F Back.
+Use
+Flash
+to light things up, then go north to get a
+PP Max
+. Climb onto the platform and check the rocks for a hidden
+Red Shard
+. Go east to reach a pool of water; there is a hidden
+Max Elixir
+to the northeast, and a
+Rare Candy
+to the south. Head north to re-emerge on the Mountainside.
+Southern path
+Pick up the
+Dragon Fang
+, and take the eastern stairway to Cave 3F.
+Head south and go down the stairway near Veteran Hugo to get a
+Dragon Scale
+. Jump the ledge and head outside.
+A
+Zoroark
+is guarding the cave entrance to the east. It will not move yet, but return later to reach
+a new area
+.
+Northern path
+Battle past Veterans Portia and Sterling, and enter the tunnel.
+Hugh
+catches up to you here, and challenges you to a battle.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Victory Road
+Black 2 and White 2
+Reward:
+$
+5700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+55
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+55
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Surf
+Water
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Bouffalant
+♂
+Lv.
+55
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Charcoal
+Emboar
+♂
+Lv.
+57
+Flamethrower
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Scald
+Water
+Special
+--
+Pokémon Trainer
+Hugh
+Victory Road
+Black 2 and White 2
+Reward:
+$
+5700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+55
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+55
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Bouffalant
+♂
+Lv.
+55
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Mystic Water
+Samurott
+♂
+Lv.
+57
+Surf
+Water
+Special
+--
+X-Scissor
+Bug
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+Revenge
+Fighting
+Physical
+--
+Pokémon Trainer
+Hugh
+Victory Road
+Black 2 and White 2
+Reward:
+$
+5700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+55
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+55
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Bouffalant
+♂
+Lv.
+55
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Miracle Seed
+Serperior
+♂
+Lv.
+57
+Giga Drain
+Grass
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Coil
+Poison
+Status
+--
+As thanks for helping him return his sister's Pokémon, he gives you
+TM24
+(
+Thunderbolt
+). Once he leaves, exit the tunnel and pass under the gate to reach the
+Pokémon League
+!
+Pokémon League
+Outside the central plaza
+The
+Pokémon League
+is the greatest trial for any Trainer. By defeating the
+Elite Four
+, you will earn the chance to battle the region's new
+Champion
+. Stop by the Pokémon Center in the structure to the west. When preparing a team, it is recommended to bring Pokémon with levels in the 60s, if not higher. Consider using TMs to create a more diverse movepool. The Poké Mart offers a wide assortment of items, so be sure to stock up on medicine.
+The 17
+Medals
+earned by using one party Pokémon and Pokémon of a specific type can be earned during this initial challenge. As the entire Elite Four and the Champion use significantly stronger Pokémon in all rematches, using a single Pokémon in the mid-70s can make obtaining the Lonely Champ Medal much easier than trying to earn it later on.
+Unlike most of their foreign counterparts, the Elite Four of
+Unova
+can be battled in any order. The elite Trainers are waiting in their separate rooms, each accessible from the central plaza. From left to right, they are
+Shauntal
+,
+Grimsley
+,
+Caitlin
+, and
+Marshal
+. After defeating each Trainer, you will be warped back to the plaza, where a blue light shines from the floor. Once all four tiles are lit up, you can challenge the Champion.
+Left room: Shauntal
+Will-o-wisps line the stairway, and others disappear from
+Shauntal
+'s library when you approach. Her ghosts are all vulnerable to
+Ghost
+- and
+Dark-type
+attacks, while
+Golurk
+and
+Chandelure
+also take heavy damage from
+Water
+moves.
+Cofagrigus
+tends to lead off with
+Will-O-Wisp
+, and may be difficult to take out thanks to its strong defenses.
+Drifblim
+'s high HP helps to balance out its low defenses, and its
+Acrobatics
+move hits hardest due to its lack of held item. The biggest threat from
+Golurk
+is
+Earthquake
+, but Dark Pokémon should also look out for its
+Brick Break
+move. Lastly,
+Chandelure
+'s
+Fire Blast
+and
+Shadow Ball
+attacks pack quite a punch because of its
+Special Attack
+, rated fifth-highest among all Pokémon.
+Initial battle (Easy Mode/Normal Mode)
+Elite Four
+Shauntal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+6400
+/
+$
+6960
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+None
+Cofagrigus
+♀
+Lv.
+52
+/
+56
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Grass Knot
+Grass
+Special
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+52
+/
+56
+Acrobatics
+Flying
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+None
+Golurk
+Lv.
+52
+/
+56
+Earthquake
+Ground
+Physical
+--
+Shadow Punch
+Ghost
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+Sitrus Berry
+Chandelure
+♀
+Lv.
+54
+/
+58
+Fire Blast
+Fire
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Initial battle (Challenge Mode)
+Elite Four
+Shauntal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+7440
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+Leftovers
+Cofagrigus
+♀
+Lv.
+60
+Grass Knot
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Ghost
+Flying
+Ability:
+Unburden
+Held item:
+Flying Gem
+Drifblim
+♀
+Lv.
+60
+Psychic
+Psychic
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Types:
+Ground
+Ghost
+Ability:
+Iron Fist
+Held item:
+Expert Belt
+Golurk
+Lv.
+60
+Heavy Slam
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Shadow Punch
+Ghost
+Physical
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+Muscle Band
+Banette
+♀
+Lv.
+60
+Shadow Claw
+Ghost
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Psychic
+Psychic
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+Choice Scarf
+Chandelure
+♀
+Lv.
+62
+Fire Blast
+Fire
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Center-left room: Grimsley
+Giant metal claws open to allow access to the elevated battlefield, then snap shut behind you. All of
+Grimsley
+'s Pokémon have a weakness to
+Fighting-type
+attacks.
+Liepard
+tends to start things off with
+Fake Out
+, and can distract your male Pokémon with
+Attract
+.
+Scrafty
+compensates for its low
+Speed
+with high defenses, and can mix things up with
+Poison Jab
+and
+Rock Tomb
+.
+Krookodile
+'s
+Intimidate
+Ability lowers its foe's Attack, but moves like
+Surf
+and
+Focus Blast
+are unaffected. Finally,
+Bisharp
+is doubly vulnerable to Fighting attacks, but Fighting Pokémon should look out for its
+Aerial Ace
+.
+Initial battle (Easy Mode/Normal Mode)
+Elite Four
+Grimsley
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+6400
+/
+$
+6960
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♀
+Lv.
+52
+/
+56
+Fake Out
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Attract
+Normal
+Status
+--
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+None
+Scrafty
+♀
+Lv.
+52
+/
+56
+Rock Tomb
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krookodile
+♀
+Lv.
+52
+/
+56
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+Sitrus Berry
+Bisharp
+♀
+Lv.
+54
+/
+58
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Initial battle (Challenge Mode)
+Elite Four
+Grimsley
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+7440
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Normal Gem
+Liepard
+♀
+Lv.
+60
+Fake Out
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Attract
+Normal
+Status
+--
+Types:
+Dark
+Fighting
+Ability:
+Moxie
+Held item:
+Leftovers
+Scrafty
+♀
+Lv.
+60
+Rock Tomb
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+Expert Belt
+Krookodile
+♀
+Lv.
+60
+Crunch
+Dark
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+Muscle Band
+Absol
+♀
+Lv.
+60
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+Quick Claw
+Bisharp
+♀
+Lv.
+62
+Metal Claw
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Center-right room: Caitlin
+The falling stardust reveals the stairway to
+Caitlin
+, who emerges from a large white flower. Her Pokémon belong to the
+Psychic
+type, and take heavy damage from
+Ghost
+-,
+Dark
+-, and
+Bug-type
+attacks.
+Musharna
+'s
+Charge Beam
+can boost its Special Attack, making
+Dream Eater
+even more potent.
+Sigilyph
+is the fastest yet frailest of the group, and can harass its opponent with
+Psychic
+,
+Air Slash
+, and oddly enough,
+Ice Beam
+.
+Reuniclus
+can use
+Focus Blast
+to thwart its Dark opponents, and can linger on with
+Recover
+. Lastly,
+Gothitelle
+loves to boost its stats with
+Calm Mind
+before launching an attack, so take it out quickly with a physical move like
+Crunch
+.
+Initial battle (Easy Mode/Normal Mode)
+Elite Four
+Caitlin
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+6400
+/
+$
+6960
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Musharna
+♀
+Lv.
+52
+/
+56
+Reflect
+Psychic
+Status
+--
+Yawn
+Normal
+Status
+--
+Dream Eater
+Psychic
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Types:
+Psychic
+Flying
+Ability:
+Wonder Skin
+Held item:
+None
+Sigilyph
+♀
+Lv.
+52
+/
+56
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Air Slash
+Flying
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+None
+Reuniclus
+♀
+Lv.
+52
+/
+56
+Focus Blast
+Fighting
+Special
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Recover
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+Sitrus Berry
+Gothitelle
+♀
+Lv.
+54
+/
+58
+Calm Mind
+Psychic
+Status
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Initial battle (Challenge Mode)
+Elite Four
+Caitlin
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+7440
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+Zoom Lens
+Musharna
+♀
+Lv.
+60
+Reflect
+Psychic
+Status
+--
+Hypnosis
+Psychic
+Status
+--
+Dream Eater
+Psychic
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Types:
+Psychic
+Flying
+Ability:
+Wonder Skin
+Held item:
+Expert Belt
+Sigilyph
+♀
+Lv.
+60
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Air Slash
+Flying
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Magic Guard
+Held item:
+Leftovers
+Reuniclus
+♀
+Lv.
+60
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Recover
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Frisk
+Held item:
+Wise Glasses
+Gothitelle
+♀
+Lv.
+60
+Calm Mind
+Psychic
+Status
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Life Orb
+Metagross
+Lv.
+62
+Zen Headbutt
+Psychic
+Physical
+--
+Bullet Punch
+Steel
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Right room: Marshal
+The cage bursts open, the stairway extends, and the floodlights snap on.
+Marshal
+'s team consists of pure-
+Fighting-type
+Pokémon, which are only vulnerable to
+Psychic
+- and
+Flying-type
+attacks.
+Throh
+can score a critical hit with
+Storm Throw
+, and lash out with
+Rock Tomb
+and
+Payback
+.
+Sawk
+is faster and stronger, and its
+Sturdy
+Ability prevents a one-hit knockout.
+Mienshao
+can inflict massive damage with
+Hi Jump Kick
+, unless it backfires. Finally, his
+Conkeldurr
+can boost its already-high stats with
+Bulk Up
+, and
+Stone Edge
+is dangerous for any Flying Pokémon.
+Initial battle (Easy Mode/Normal Mode)
+Elite Four
+Marshal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+6400
+/
+$
+6960
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Throh
+♂
+Lv.
+52
+/
+56
+Rock Tomb
+Rock
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Storm Throw
+Fighting
+Physical
+--
+Payback
+Dark
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Sawk
+♂
+Lv.
+52
+/
+56
+Payback
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Regenerator
+Held item:
+None
+Mienshao
+♂
+Lv.
+52
+/
+56
+Hi Jump Kick
+Fighting
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Bounce
+Flying
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+Sitrus Berry
+Conkeldurr
+♂
+Lv.
+54
+/
+58
+Stone Edge
+Rock
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Initial battle (Challenge Mode)
+Elite Four
+Marshal
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+7440
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+Leftovers
+Throh
+♂
+Lv.
+60
+Storm Throw
+Fighting
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Payback
+Dark
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Sturdy
+Held item:
+Muscle Band
+Sawk
+♂
+Lv.
+60
+Brick Break
+Fighting
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Payback
+Dark
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Regenerator
+Held item:
+Expert Belt
+Mienshao
+♂
+Lv.
+60
+Hi Jump Kick
+Fighting
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Bounce
+Flying
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+Wise Glasses
+Lucario
+♂
+Lv.
+60
+Shadow Ball
+Ghost
+Special
+--
+Aura Sphere
+Fighting
+Special
+--
+Psychic
+Psychic
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+Flame Orb
+Conkeldurr
+♂
+Lv.
+62
+Hammer Arm
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+The Champion's Temple
+After defeating each member of the Elite Four, visit the statue in the center of the plaza. Check the plaque, and the statue descends to the large chamber below. Go north and climb up the three flights of stairs to reach the Champion's temple.
+Iris
+used to be a
+Dragon-type
+specialist, but her current team is more well-rounded.
+Ice
+attacks will have the most success against her, but
+Dragon
+-,
+Fighting
+-, and
+Electric-type
+moves will also help. First up is
+Hydreigon
+; its
+Dragon Pulse
+is already a big threat, but even more so after a Special Attack boost with
+Charge Beam
+. Her
+Aggron
+'s sky-high Defense lets it brush off most physical attacks, but it takes massive damage from Fighting moves like
+Aura Sphere
+, or Ground type moves such as
+Earthquake
+.
+Lapras
+'
+Ice Beam
+can wreak havoc on your own dragons; use Electric or Fighting moves to take it out. Her
+Druddigon
+'s attacks hit hard thanks to
+Sheer Force
+and its Life Orb, but a
+Water
+Pokémon with an Ice attack can take care of it quickly.
+Archeops
+' undoing lies in its
+Defeatist
+Ability; wear its health halfway down, and its impressive offenses are cut in half. Her
+Haxorus
+excels in Attack and Speed, but
+Dragon Dance
+raises them to levels that could rip your team apart, and its Focus Sash prevents a one-hit knockout.
+Initial battle (Easy Mode/Normal Mode)
+Champion
+Iris
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+11000
+/
+$
+11800
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Hydreigon
+♀
+Lv.
+53
+/
+57
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+Life Orb
+Druddigon
+♀
+Lv.
+53
+/
+57
+Dragon Tail
+Dragon
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Steel
+Rock
+Ability:
+Rock Head
+Held item:
+None
+Aggron
+♀
+Lv.
+53
+/
+57
+Double-Edge
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+None
+Archeops
+♂
+Lv.
+53
+/
+57
+Acrobatics
+Flying
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+None
+Lapras
+♀
+Lv.
+53
+/
+57
+Surf
+Water
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Sing
+Normal
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Focus Sash
+Haxorus
+♀
+Lv.
+55
+/
+59
+Dual Chop
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Earthquake
+Ground
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Initial battle (Challenge Mode)
+Champion
+Iris
+Pokémon League
+Black 2 and White 2
+Reward:
+$
+12600
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+Wise Glasses
+Hydreigon
+♀
+Lv.
+61
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+Life Orb
+Druddigon
+♀
+Lv.
+61
+Outrage
+Dragon
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Steel
+Rock
+Ability:
+Rock Head
+Held item:
+Muscle Band
+Aggron
+♀
+Lv.
+61
+Head Smash
+Rock
+Physical
+--
+Double-Edge
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Autotomize
+Steel
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Defeatist
+Held item:
+Flying Gem
+Archeops
+♂
+Lv.
+61
+Acrobatics
+Flying
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+Wide Lens
+Lapras
+♀
+Lv.
+61
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Thunder
+Electric
+Special
+--
+Sing
+Normal
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Focus Sash
+Haxorus
+♀
+Lv.
+63
+Outrage
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Earthquake
+Ground
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Congratulations, defeating
+Iris
+marks you as the new Pokémon League Champion! She shows you into the
+Hall of Fame
+room, where your victorious team is recorded and your progress is saved. Reaching this point unlocks
+Challenge Mode
+B2
+or
+Easy Mode
+W2
+, which increase or decrease the difficulty of opposing Trainers, respectively. These modes can be selected under
+Unova Link
+at the title screen's main menu. The credits roll, and the new Champion heads for home.
+← Part 14
+Route 21, Seaside Cave, Plasma Frigate, Giant Chasm
+Black 2 and White 2
+walkthrough
+Aspertia City, Floccesy Town, Route 20, Castelia City, Nimbasa City
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

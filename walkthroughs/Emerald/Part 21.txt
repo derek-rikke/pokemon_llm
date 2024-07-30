@@ -1,0 +1,1793 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_21
+Keywords: S.S. Tidal, Battle Frontier
+
+Walkthrough Text:
+Contents
+1
+Slateport City/Lilycove City
+2
+S.S. Tidal
+2.1
+1F
+2.2
+Basement
+2.3
+The Battle Frontier beckons!
+3
+Battle Frontier
+3.1
+Entrance
+3.1.1
+Overview
+3.1.2
+Restrictions
+3.2
+Scott's House
+3.3
+Battle Factory
+3.4
+Battle Dome
+3.4.1
+VS Tucker (Silver Challenge)
+3.4.2
+VS Tucker (Gold Challenge)
+3.5
+Battle Pike
+3.5.1
+VS Lucy (Silver Challenge)
+3.5.2
+VS Lucy (Gold Challenge)
+3.6
+Battle Tower
+3.6.1
+VS Anabel (Silver Challenge)
+3.6.2
+VS Anabel (Gold Challenge)
+3.7
+Battle Arena
+3.7.1
+VS Greta (Silver Challenge)
+3.7.2
+VS Greta (Gold Challenge)
+3.8
+Battle Palace
+3.8.1
+VS Spenser (Silver Challenge)
+3.8.2
+VS Spenser (Gold Challenge)
+3.9
+Battle Pyramid
+3.9.1
+VS Brandon (Silver Challenge)
+3.9.2
+VS Brandon (Gold Challenge)
+3.10
+Other Areas
+3.10.1
+The Odd Tree
+3.10.2
+Artisan Cave
+3.10.3
+Time for a Trade
+3.10.4
+Ranking Hall
+3.10.5
+Double or Nothing
+3.10.6
+Stats Judge
+3.10.7
+Move Tutors
+3.10.8
+Exchange Service Corner
+Slateport City/Lilycove City
+That
+S.S. Ticket
+is burning a hole in your Bag! Fly to either
+Slateport
+or
+Lilycove
+, then head to the harbor building. Present your ticket to the woman near the ferry, and she'll ask where you'd like to go.
+S.S. Tidal
+S.S. Tidal, 1F
+S.S. Tidal, B1F
+Captain Stern's mighty vessel, the
+S.S. Tidal
+, ferries people between Slateport City, Lilycove City, and the Battle Frontier.
+Trainers
+Trainer
+Pokémon
+Cabins
+Young Couple
+Lea & Jed
+Reward:
+$
+2880
+Luvdisc
+♀
+Lv.
+45
+No item
+Luvdisc
+♀
+Lv.
+45
+No item
+Rich Boy
+Garret
+Reward:
+$
+9000
+Azumarill
+♂
+Lv.
+45
+Nugget
+Gentleman
+Micah
+Reward:
+$
+3520
+Manectric
+♂
+Lv.
+44
+No item
+Manectric
+♂
+Lv.
+44
+No item
+Pokéfan
+Colton
+Reward:
+$
+3360
+Skitty
+♀
+Lv.
+22
+Oran Berry
+Skitty
+♀
+Lv.
+36
+Oran Berry
+Skitty
+♀
+Lv.
+40
+Oran Berry
+Skitty
+♀
+Lv.
+12
+Oran Berry
+Skitty
+♀
+Lv.
+30
+Oran Berry
+Delcatty
+♀
+Lv.
+42
+Oran Berry
+Lady
+Naomi
+E
+Reward:
+$
+9000
+Roselia
+♀
+Lv.
+45
+Nugget
+Gentleman
+Thomas
+Reward:
+$
+3600
+Zangoose
+♂
+Lv.
+45
+No item
+Basement
+Sailor
+Phillip
+Reward:
+$
+1408
+Potential
+Double Battle
+with Leonard
+Tentacruel
+♂
+Lv.
+44
+No item
+Machoke
+♂
+Lv.
+44
+No item
+Sailor
+Leonard
+Reward:
+$
+1376
+Potential
+Double Battle
+with Phillip
+Machop
+♂
+Lv.
+43
+No item
+Pelipper
+♂
+Lv.
+43
+No item
+Machoke
+♂
+Lv.
+43
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM49
+(
+Snatch
+)
+From a man in the top-right cabin
+E
+Leftovers
+In the northwest trash can on the basement floor (hidden)
+E
+1F
+After you climb aboard,
+Scott
+will come and tell you that someone like you should visit the Battle Frontier and he's already made arrangements with the ship's captain to let you visit there anytime. After that, you can find
+Mr. Briney
+and
+Peeko
+on the north side of the ship. The two are happy to be back out on the seas, and even more so now that Briney has been made the ship's honorary captain!
+There are eight cabins on the main floor with three cabins on each side holding Trainers who are anxious to battle. On the south side, the second cabin from the left is your own, with a bed where you can rest your Pokémon. If you're going from Slateport to Lilycove, the ship will reach its destination after you sleep once, but if you're going from Lilycove to Slateport you'll need two rests until you arrive. On the north side, the farthest cabin to the right holds a Poké Maniac who gives you
+TM49
+(
+Snatch
+).
+Basement
+Head downstairs to visit the ship's spacious storage. There's plenty of room for Pokémon battles to play out, and the two hardworking Sailors here will happily oblige. Be sure to search the trash cans to discover some
+Leftovers
+, as well.
+The Battle Frontier beckons!
+After you reach your destination, exit the ship and board it once again. This time, choose to go to the Battle Frontier!
+Battle Frontier
+Battle Frontier
+Inside the Battle Factory
+The great
+Battle Frontier
+was built to provide a challenge to all those able to defeat the Pokémon League, with the best and brightest Trainers from across the region competing here to determine who among them is the strongest. The small island that once held only the
+Battle Tower
+has been developed to include seven facilities in all. These are, from west to east: the Battle Factory, Battle Dome, Battle Pike, Battle Tower, Battle Arena, Battle Palace, and Battle Pyramid. Each facility is headed by a
+Frontier Brain
+, elite Trainers who have mastered the art of battling under their respective rule sets.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Meowth
+R
+S
+E
+Trade
+Skitty
+The same as the Traded Pokémon
+One
+Sudowoodo
+R
+S
+E
+Only one
+40
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Frontier Pass
+Gift from a guide in the front
+gate
+upon first entering
+E
+1-3
+BP
+Gift from
+Scott
+when first talked to at his house
+E
+Retro Mail
+Held by Meowow, the traded
+Meowth
+E
+Silver Shield
+From Scott, after winning 50 consecutive battles in the Battle Tower
+E
+Gold Shield
+From Scott, after winning 100 consecutive battles in the Battle Tower
+E
+Lansat Berry
+From Scott, after winning all seven Silver Symbols
+E
+Starf Berry
+From Scott, after winning all seven Gold Symbols
+E
+Entrance
+Overview
+When you first enter the Battle Frontier, a woman at the entrance issues you a
+Frontier Pass
+. This pass holds your Trainer Card, a small map of the Frontier, and all records of your exploits here; this includes the number of accumulated
+Battle Points
+earned, and any of the seven
+Frontier Symbols
+won. One battle from any facility may be recorded and stored on the Frontier Pass to be viewed or overwritten at any time.
+Battle Points are earned by winning a set number of battles in any facility, usually in small amounts, but gradually growing through each consecutive streak. Defeating the Frontier Brain for the first time earns challengers the Silver Symbol of that facility, as well as 10BP. The second defeat of the same Brain earns the challenger the facility's Gold Symbol and another 10BP. The Frontier Brain will only appear in 3-vs-3 Single Battle mode.
+Restrictions
+No two Pokémon may hold the same item, and items may not be used from the
+Bag
+during battle (except in the
+Battle Pyramid
+). Battles conducted in the Frontier do not award any experience or prize money. The following Pokémon cannot be entered for battle:
+Mewtwo
+,
+Mew
+,
+Lugia
+,
+Ho-Oh
+,
+Celebi
+,
+Kyogre
+,
+Groudon
+,
+Rayquaza
+,
+Jirachi
+,
+Deoxys
+(Speed Forme) and
+Egg
+.
+Scott's House
+Scott resides in a house located between the Battle Dome and Battle Tower, and will give you various rewards as you progress through the Battle Frontier. When you first arrive at the Battle Frontier, Scott will award you with 1, 2, or 3 BP depending on the how many times you spoke (11 in total) throughout the game.
+Battle Factory
+The
+Battle Factory
+stands in the southwest corner of the island. Unlike the other facilities, the Battle Factory is less interested about a Trainer's ability to battle and more interested in researching a Trainer's capacity to use
+rental Pokémon
+. The Battle Factory functions the same way as the
+Battle Tent
+in
+Slateport City
+. Before each battle, challengers learn a bit of info about the upcoming opponent, and may switch one of their rental Pokémon with one used by the previous opponent.
+A Trainer's battle style is based on the moves of his or her Pokémon. Certain moves fall under
+one of seven categories
+. Depending on the number of moves from each category a Trainer's team has, his or her battle style will be described differently.
+Upon reaching the 21st and 42nd battle in a streak,
+Noland
+will appear and challenge you to a battle. Like all other Trainers here, his rental Pokémon are completely random. Defeat him to earn the
+Knowledge Symbol
+.
+Battle Dome
+Inside the Battle Dome
+The
+Battle Dome
+is located in the island's northwest corner. Inside, tournaments between 16 Trainers are held. Before each battle, Trainers learn a bit about their opponent, including their Pokémon, battle style, and how they train. Then, both Trainers choose two Pokémon from their three-Pokémon party to use in battle. Competitors can learn who was eliminated in each round by viewing the tournament bracket.
+Upon winning five and ten championships,
+Tucker
+will appear and challenge you to a battle. Defeat him to earn the
+Tactics Symbol
+.
+VS Tucker (Silver Challenge)
+Dome Ace
+Tucker
+Battle Dome
+Emerald
+Reward:
+13
+BP
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+Focus Band
+Swampert
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Earthquake
+Ground
+--
+Counter
+Fighting
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Lum Berry
+Salamence
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Dragon Claw
+Dragon
+--
+Aerial Ace
+Flying
+--
+Earthquake
+Ground
+--
+Brick Break
+Fighting
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+White Herb
+Charizard
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Overheat
+Fire
+--
+Aerial Ace
+Flying
+--
+Earthquake
+Ground
+--
+Rock Slide
+Rock
+--
+VS Tucker (Gold Challenge)
+Dome Ace
+Tucker
+Battle Dome
+Emerald
+Reward:
+15
+BP
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+Leftovers
+Swampert
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Earthquake
+Ground
+--
+Mirror Coat
+Psychic
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Quick Claw
+Metagross
+Lv.
+50
+,
+60-100
+Meteor Mash
+Steel
+--
+Psychic
+Psychic
+--
+Earthquake
+Ground
+--
+Protect
+Normal
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+Chesto Berry
+Latias
+♀
+Lv.
+50
+,
+60-100
+Psychic
+Psychic
+--
+Calm Mind
+Psychic
+--
+Thunderbolt
+Electric
+--
+Rest
+Psychic
+--
+Battle Pike
+Inside the Battle Pike
+The outside of the
+Battle Pike
+is designed like a
+Seviper
+. There are 21 rooms inside, in seven sets of three. Challengers may choose any of the three in a set to continue through, and in each room, any one of eight events may occur. A woman standing outside each room hints as to what is in one of the three rooms.
+Single battle: A Trainer with 3 Pokémon walks up to the challenger and battles.
+Double battle: Two Trainers with 1 Pokémon each will team up and battle the player. This room will not appear if the player already has two fainted Pokémon.
+Hard single battle and healing: 3 Pokémon per side against a higher-tier opponent; winner's Pokémon are completely healed.
+Wild Pokémon: Wild
+Seviper
+,
+Milotic
+,
+Dusclops
+,
+Electrode
+,
+Breloom
+, and
+Wobbuffet
+appear.
+No event: A person who is not a Trainer stands in the room and does nothing.
+Status effect: A surprise attack will inflict a status on one or more of the challenger's Pokémon. The status includes
+Kirlia
+'s
+burn
+,
+poison
+,
+paralysis
+, or
+sleep
+and Dusclops's
+burn
+or
+freeze
+.
+One or two recovery: One or two of the challenger's Pokémon will be healed.
+Full recovery: All of the challenger's Pokémon will be healed.
+Upon completing two and ten passes through the building,
+Lucy
+will appear and challenge you to a battle. Defeat her to earn the
+Luck Symbol
+.
+VS Lucy (Silver Challenge)
+Pike Queen
+Lucy
+Battle Pike
+Emerald
+Reward:
+11
+BP
+Type:
+Poison
+Unknown
+Ability:
+Shed Skin
+Held item:
+Quick Claw
+Seviper
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Poison Fang
+Poison
+--
+Crunch
+Dark
+--
+Giga Drain
+Grass
+--
+Swagger
+Normal
+--
+Types:
+Bug
+Rock
+Ability:
+Sturdy
+Held item:
+Chesto Berry
+Shuckle
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Toxic
+Poison
+--
+Sandstorm
+Rock
+--
+Protect
+Normal
+--
+Rest
+Psychic
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+Leftovers
+Milotic
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Surf
+Water
+--
+Mirror Coat
+Psychic
+--
+Ice Beam
+Ice
+--
+Recover
+Normal
+--
+VS Lucy (Gold Challenge)
+Pike Queen
+Lucy
+Battle Pike
+Emerald
+Reward:
+18
+BP
+Type:
+Poison
+Unknown
+Ability:
+Shed Skin
+Held item:
+Focus Band
+Seviper
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Sludge Bomb
+Poison
+--
+Crunch
+Dark
+--
+Giga Drain
+Grass
+--
+Swagger
+Normal
+--
+Types:
+Steel
+Ground
+Ability:
+Rock Head
+or
+Sturdy
+Held item:
+BrightPowder
+Steelix
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Earthquake
+Ground
+--
+Screech
+Normal
+--
+Rock Slide
+Rock
+--
+Explosion
+Normal
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+Chesto Berry
+Gyarados
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Return
+Normal
+--
+Dragon Dance
+Dragon
+--
+Roar
+Normal
+--
+Rest
+Psychic
+--
+Battle Tower
+Inside the Battle Tower
+The
+Battle Tower
+stands tall on the north-central part of the island. It features 3-vs-3 Single Battle and 4-vs-4 Double Battle formats, and each round consists of seven opposing Trainers who increase in difficulty as the challenger progresses.
+Upon completing five and ten runs through the tower,
+Anabel
+will appear and challenge you to a battle. Defeat her to earn the
+Ability Symbol
+.
+VS Anabel (Silver Challenge)
+Salon Maiden
+Anabel
+Battle Tower
+Emerald
+Reward:
+15
+BP
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+or
+Inner Focus
+Held item:
+BrightPowder
+Alakazam
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Ice Punch
+Ice
+--
+ThunderPunch
+Electric
+--
+Fire Punch
+Fire
+--
+Disable
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Pressure
+Held item:
+Lum Berry
+Entei
+Lv.
+50
+,
+60-100
+Fire Blast
+Fire
+--
+Calm Mind
+Psychic
+--
+Return
+Normal
+--
+Roar
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+or
+Thick Fat
+Held item:
+Quick Claw
+Snorlax
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Body Slam
+Normal
+--
+Belly Drum
+Normal
+--
+Yawn
+Normal
+--
+Shadow Ball
+Ghost
+--
+VS Anabel (Gold Challenge)
+Salon Maiden
+Anabel
+Battle Tower
+Emerald
+Reward:
+20
+BP
+Type:
+Electric
+Unknown
+Ability:
+Pressure
+Held item:
+Lum Berry
+Raikou
+Lv.
+50
+,
+60-100
+Thunderbolt
+Electric
+--
+Calm Mind
+Psychic
+--
+Reflect
+Psychic
+--
+Rest
+Psychic
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+BrightPowder
+Latios
+♂
+Lv.
+50
+,
+60-100
+Psychic
+Psychic
+--
+Dragon Claw
+Dragon
+--
+Calm Mind
+Psychic
+--
+Recover
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+or
+Thick Fat
+Held item:
+Chesto Berry
+Snorlax
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Curse
+???
+--
+Return
+Normal
+--
+Rest
+Psychic
+--
+Shadow Ball
+Ghost
+--
+Battle Arena
+Inside the Battle Arena
+The
+Battle Arena
+is located to the southeast of the Battle Tower. Inside, two Pokémon are pitted against each other for three rounds. If neither Pokémon was defeated in that time, they are then rated on their battle proficiency in three categories. The Pokémon with the higher score wins, and the Pokémon with the lower score leaves the battlefield. A tie results in both Pokémon leaving the battlefield. A knockout means an automatic win for the Pokémon still standing.
+Similar to the
+Battle Tent
+in
+Fallarbor Town
+, Pokémon are rated on their Mind, Skill, and Body. The Pokémon with the better rating in each category earns two points, while a tie earns a single point for each Pokémon.
+Mind highlights a Pokémon's offensive style. One point is earned for each damage-dealing attack chosen (except
+Counter
+,
+Mirror Coat
+, and
+Bide
+), and a single point is lost if either
+Protect
+,
+Detect
+, or
+Endure
+is chosen. No other moves award points. Only the move selection matters; even if the Pokémon does not actually use the move (due to an effect such as
+paralysis
+), it will still score in this category. The Pokémon with the higher rating earns an additional two points for the overall judgment.
+Skill focuses on a Pokémon's accuracy. One point is earned for each attack that lands successfully, while two points are deducted if the move misses, fails, or is prevented from executing due to an effect such as paralysis. If the move was caused to fail by
+Protect
+,
+Detect
+, or flinching from
+Fake Out
+, however, no points are deducted. Hitting a move
+super effectively
+rewards two points rather than one, but dealing not very effective damage instead deducts one point. The Pokémon with the higher rating earns an additional two points for the overall judgment.
+Body focuses on the amount of HP remaining after three rounds compared to the total HP at the beginning. The Pokémon with the better ratio earns an additional two points for the overall judgment.
+Upon reaching 28 and 56 wins,
+Greta
+will appear and challenge you to a battle. Defeat her to earn the
+Guts Symbol
+.
+VS Greta (Silver Challenge)
+Arena Tycoon
+Greta
+Battle Arena
+Emerald
+Reward:
+12
+BP
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+or
+Guts
+Held item:
+Salac Berry
+Heracross
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Megahorn
+Bug
+--
+Rock Tomb
+Rock
+--
+Endure
+Normal
+--
+Reversal
+Fighting
+--
+Type:
+Dark
+Unknown
+Ability:
+Synchronize
+Held item:
+Leftovers
+Umbreon
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Faint Attack
+Dark
+--
+Psychic
+Psychic
+--
+Confuse Ray
+Ghost
+--
+Body Slam
+Normal
+--
+Types:
+Bug
+Ghost
+Ability:
+Wonder Guard
+Held item:
+BrightPowder
+Shedinja
+Lv.
+50
+,
+60-100
+Shadow Ball
+Ghost
+--
+Return
+Normal
+--
+Aerial Ace
+Flying
+--
+Confuse Ray
+Ghost
+--
+VS Greta (Gold Challenge)
+Arena Tycoon
+Greta
+Battle Arena
+Emerald
+Reward:
+13
+BP
+Type:
+Dark
+Unknown
+Ability:
+Synchronize
+Held item:
+Chesto Berry
+Umbreon
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Double-Edge
+Normal
+--
+Psychic
+Psychic
+--
+Confuse Ray
+Ghost
+--
+Rest
+Psychic
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+Leftovers
+Gengar
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Psychic
+Psychic
+--
+Hypnosis
+Psychic
+--
+Dream Eater
+Psychic
+--
+Destiny Bond
+Ghost
+--
+Types:
+Grass
+Fighting
+Ability:
+Effect Spore
+Held item:
+Lum Berry
+Breloom
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Focus Punch
+Fighting
+--
+Spore
+Grass
+--
+Giga Drain
+Grass
+--
+Headbutt
+Normal
+--
+Battle Palace
+Inside the Battle Palace
+The
+Battle Palace
+stands in the southeast corner of the island. Like the
+Verdanturf
+Battle Tent
+, Pokémon battles conducted here see Pokémon left to their own devices, with no outside commands from their Trainers. A Pokémon's battle style depends on its
+Nature
+, and may change when its HP gets low.
+All moves belong to one of three categories: Attack, Defense, or Support. Defense moves are all moves that target the user. Support moves are all non-damaging moves that don't fall in the Defense category. Attack moves are all moves not listed under Defense or Support.
+Each Nature has a different ratios that determine how often a Pokémon with that Nature is likely to use Attack, Defense, or Support moves. These ratios change when the Pokémon's HP falls below 50%. During each turn of battle, a category is selected, and a random attack of that category is chosen from the Pokémon's moveset. If no such move exists, the Pokémon will appear "incapable of using its power", and skip its turn.
+Upon completing a winning streak of 21 and 42 battles,
+Spenser
+will appear and challenge you to a battle. Defeat him to earn the
+Spirits Symbol
+.
+VS Spenser (Silver Challenge)
+Palace Maven
+Spenser
+Battle Palace
+Emerald
+Reward:
+15
+BP
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+BrightPowder
+Crobat
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Fly
+Flying
+--
+Confuse Ray
+Ghost
+--
+Toxic
+Poison
+--
+Double Team
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+Scope Lens
+Slaking
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Brick Break
+Fighting
+--
+Shadow Ball
+Ghost
+--
+Earthquake
+Ground
+--
+Swagger
+Normal
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+or
+Shell Armor
+Held item:
+Quick Claw
+Lapras
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Horn Drill
+Normal
+--
+Ice Beam
+Ice
+--
+Confuse Ray
+Ghost
+--
+Protect
+Normal
+--
+VS Spenser (Gold Challenge)
+Palace Maven
+Spenser
+Battle Palace
+Emerald
+Reward:
+16
+BP
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+or
+Flash Fire
+Held item:
+White Herb
+Arcanine
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Overheat
+Fire
+--
+ExtremeSpeed
+Normal
+--
+Roar
+Normal
+--
+Protect
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+Scope Lens
+Slaking
+♂
+/
+♀
+Lv.
+50
+,
+60-100
+Hyper Beam
+Normal
+--
+Shadow Ball
+Ghost
+--
+Earthquake
+Ground
+--
+Yawn
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Pressure
+Held item:
+King's Rock
+Suicune
+Lv.
+50
+,
+60-100
+Surf
+Water
+--
+Bite
+Dark
+--
+Blizzard
+Ice
+--
+Calm Mind
+Psychic
+--
+Battle Pyramid
+Inside the Battle Pyramid
+The
+Battle Pyramid
+stands tall on the island's northeast corner. There are seven floors, each one shrouded in darkness that can only be dispelled by defeating opponents on each floor. Challengers cannot take any items into the pyramid, and items found inside can only be used inside. These items are stored in a special Bag, the Battle Bag, that is loaned to each challenger at the entrance. The Battle Bag has enough room for ten different items, and up to 99 of each. If the challenger is victorious, the Battle Bag stores these items for the next battle; upon defeat, the Battle Bag's contents return to one
+Hyper Potion
+and one
+Ether
+. If at any point the challenger acquires more than 10 different items, extra items must be discarded.
+Wild Pokémon may be encountered within the pyramid, with strategies differing depending on how many floors the challenger has ventured through. A Hex Maniac next to the PC will tell challengers what to expect from the upcoming floor. These themes range from certain types of Pokémon, Pokémon with moves that inflict status ailments, and Pokémon with certain Abilities.
+After completing 21 floors and 70 floors,
+Brandon
+appears at the peak and challenges you to a battle. Defeat him to earn the
+Brave Symbol
+.
+VS Brandon (Silver Challenge)
+Pyramid King
+Brandon
+Battle Pyramid
+Emerald
+Reward:
+16
+BP
+Type:
+Rock
+Unknown
+Ability:
+Clear Body
+Held item:
+Quick Claw
+Regirock
+Lv.
+50
+,
+60-100
+AncientPower
+Rock
+--
+Superpower
+Fighting
+--
+Earthquake
+Ground
+--
+Explosion
+Normal
+--
+Type:
+Steel
+Unknown
+Ability:
+Clear Body
+Held item:
+Leftovers
+Registeel
+Lv.
+50
+,
+60-100
+Metal Claw
+Steel
+--
+Iron Defense
+Steel
+--
+Earthquake
+Ground
+--
+Toxic
+Poison
+--
+Type:
+Ice
+Unknown
+Ability:
+Clear Body
+Held item:
+Chesto Berry
+Regice
+Lv.
+50
+,
+60-100
+Ice Beam
+Ice
+--
+Amnesia
+Psychic
+--
+Thunder
+Electric
+--
+Rest
+Psychic
+--
+VS Brandon (Gold Challenge)
+Pyramid King
+Brandon
+Battle Pyramid
+Emerald
+Reward:
+19
+BP
+Types:
+Ice
+Flying
+Ability:
+Pressure
+Held item:
+Scope Lens
+Articuno
+Lv.
+50
+,
+60-100
+Blizzard
+Ice
+--
+Aerial Ace
+Flying
+--
+Water Pulse
+Water
+--
+Reflect
+Psychic
+--
+Types:
+Electric
+Flying
+Ability:
+Pressure
+Held item:
+Lum Berry
+Zapdos
+Lv.
+50
+,
+60-100
+Thunder
+Electric
+--
+Detect
+Fighting
+--
+Drill Peck
+Flying
+--
+Light Screen
+Psychic
+--
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+BrightPowder
+Moltres
+Lv.
+50
+,
+60-100
+Fire Blast
+Fire
+--
+Aerial Ace
+Flying
+--
+Hyper Beam
+Normal
+--
+Safeguard
+Normal
+--
+Other Areas
+The Odd Tree
+Southeast of the Battle Palace, there is an odd tree standing atop the waterfall that actually moves to avoid water. Use the
+Wailmer Pail
+to disturb it, and the tree attacks! It turns out to be a
+Sudowoodo
+, a Pokémon more akin to a rock than a tree.
+Artisan Cave
+Artisan Cave entrance
+Artisan Cave, B1F
+Artisan Cave, 1F
+Artisan Cave
+is a network of tunnels that link one end of the island to the other. The entrance is located to the south, and is accesible after defeat Sudowoodo or catch it, you'll have access to the water behind it, surf on it, go down the waterfall, and go all the way to the west. The exit leads to a ledge just east of the Battle Tower. Only
+Smeargle
+can be found inside, and its
+signature move
+,
+Sketch
+, lets it copy nearly any other move permanently. When paired with a compatible female, this allows a male Smeargle to pass on nearly any move to the resulting offspring.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Smeargle
+R
+S
+E
+Cave
+40-50
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+B1F
+Iron
+Northeast of the entrance, on the northern of two rocks (hidden)
+E
+HP Up
+In the southeast pit
+E
+Zinc
+On a rock in the eastern pit (hidden)
+E
+Calcium
+North-northeast area, on the right-most of two rocks near the stairway (hidden)
+E
+Protein
+Northwest corner, on the north-most of two rocks (hidden)
+E
+1F
+Carbos
+At the end of the eastern path
+E
+Time for a Trade
+A small building stands just west of the Battle Tower. Speak to the woman inside, and she asks to trade her
+Meowth
+for your
+Skitty
+. Meowth cannot be found anywhere in the wild, while Skitty are found on
+Route 116
+.
+Ranking Hall
+Record Hall
+The Ranking Hall is located on the island's north side, between the Battle Tower and Battle Pyramid. There are three rooms inside. Records for the Battle Factory, Battle Dome, and Battle Pike are displayed in the left room. The center room holds records for the Battle Tower. Records for the Battle Arena, Battle Palace, and Battle Pyramid are displayed in the right room.
+Double or Nothing
+In the building to the south of the Battle Pyramid, there are several people placing bets on which challengers they expect to clear certain facilities. After earning three Silver Symbols, one of the men will ask that you compete in a random facility, which changes daily. He then asks that you chip in some Battle Points—either 5, 10, or 15—and if you emerge victorious, he pays you back with twice that amount. If not, the Battle Points you gave him are lost.
+Stats Judge
+In the building behind the Pokémon Center is
+an old man
+who can
+judge
+one of your Pokémon's stats. He first describes the Pokémon's overall ability, which is based on the sum of its six
+IVs
+. He then indicates which stat is highest, and which range it falls under.
+Move Tutors
+Southwest of the Battle Dome is a building with two elderly women inside. Both women are
+Move Tutors
+, and each one offers to teach any of ten different moves to a Pokémon. Prices range from 16 to 48
+Battle Points
+.
+Left Tutor
+Move
+Type
+Price
+Softboiled
+Normal
+16
+BP
+Seismic Toss
+Fighting
+24
+BP
+Dream Eater
+Psychic
+24
+BP
+Mega Punch
+Normal
+24
+BP
+Mega Kick
+Normal
+48
+BP
+Body Slam
+Normal
+48
+BP
+Rock Slide
+Rock
+48
+BP
+Counter
+Fighting
+48
+BP
+Thunder Wave
+Electric
+48
+BP
+Swords Dance
+Normal
+48
+BP
+Right Tutor
+Move
+Type
+Price
+Defense Curl
+Normal
+16
+BP
+Snore
+Normal
+24
+BP
+Mud-Slap
+Ground
+24
+BP
+Swift
+Normal
+24
+BP
+Icy Wind
+Ice
+24
+BP
+Endure
+Normal
+48
+BP
+Psych Up
+Normal
+48
+BP
+Ice Punch
+Ice
+48
+BP
+ThunderPunch
+Electric
+48
+BP
+Fire Punch
+Fire
+48
+BP
+Exchange Service Corner
+Exchange Service Corner
+The
+Exchange Service Corner
+is located in front of the Battle Tower. Inside, Battle Points earned on the island may be redeemed for various prizes, including
+Secret Base
+goods,
+Vitamins
+, and
+Held items
+for Pokémon.
+The held items that cost 48 BP are
+Leftovers
+,
+White Herb
+,
+Quick Claw
+, and
+Mental Herb
+.
+The held items that cost 64 BP are
+BrightPowder
+,
+Choice Band
+,
+King's Rock
+,
+Focus Band
+, and
+Scope Lens
+.
+After completing the Battle Frontier by earning Silver and Gold Symbols for each facility, your final mission is to complete the Pokédex. The discovery of Hoenn-native Pokémon has brought the total number of species to 386, so there is still plenty to keep you busy!
+← Part 20
+Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+Emerald
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

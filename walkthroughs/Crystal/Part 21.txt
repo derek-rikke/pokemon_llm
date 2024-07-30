@@ -1,0 +1,674 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_21
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym
+
+Walkthrough Text:
+Contents
+1
+Route 16
+2
+Route 17
+3
+Route 18
+4
+Fuchsia City
+4.1
+Safari Zone Warden's house
+4.2
+Fuchsia Gym
+4.3
+Road Closed
+Route 16
+Route 16
+Route 16
+links
+Celadon City
+to
+Route 17
+. The road southward to
+Fuchsia City
+can be dangerous for pedestrians, so be sure to bring a Bicycle.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+G
+S
+C
+Grass
+27,29
+45%
+40%
+0%
+Grimer
+G
+S
+C
+Grass
+26,28
+50%
+50%
+0%
+Grimer
+G
+S
+C
+Grass
+26-28
+0%
+0%
+80%
+Muk
+G
+S
+C
+Grass
+30
+5%
+Murkrow
+G
+S
+C
+Grass
+29
+0%
+0%
+15%
+Slugma
+G
+S
+C
+Grass
+29
+0%
+5%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 17
+Route 17
+The bridges of
+Route 17
+pass over the ocean on the way downhill to
+Route 18
+. Anyone riding a Bicycle on Cycling Road who decides to stop pedaling will continue rolling southward.
+Trainers
+Trainer
+Pokémon
+Biker
+Riley
+Reward:
+$
+1088
+Weezing
+♂
+Lv.
+34
+No item
+Biker
+Glenn
+Reward:
+$
+1024
+Koffing
+♂
+Lv.
+28
+No item
+Magmar
+♂
+Lv.
+30
+No item
+Weezing
+♂
+Lv.
+32
+No item
+Biker
+Joel
+Reward:
+$
+1024
+Magmar
+♂
+Lv.
+32
+No item
+Magmar
+♂
+Lv.
+32
+No item
+Biker
+Charles
+Reward:
+$
+960
+Koffing
+♂
+Lv.
+30
+No item
+Charmeleon
+♂
+Lv.
+30
+No item
+Weezing
+♂
+Lv.
+30
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+G
+S
+C
+Grass
+30,32
+40%
+40%
+0%
+Grimer
+G
+S
+C
+Grass
+29
+0%
+20%
+0%
+Grimer
+G
+S
+C
+Grass
+29, 31, 33
+55%
+0%
+0%
+Grimer
+G
+S
+C
+Grass
+29-33
+0%
+0%
+95%
+Muk
+G
+S
+C
+Grass
+33
+5%
+Slugma
+G
+S
+C
+Grass
+29, 32
+0%
+35%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Elixer
+North of the ledge, on the western half of the four fenceposts (hidden)
+C
+Route 18
+Route 18
+Route 18
+leads east from
+Route 17
+to
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Bob
+Reward:
+$
+816
+Noctowl
+♂
+Lv.
+34
+No item
+Bird Keeper
+Boris
+Reward:
+$
+768
+Doduo
+♂
+Lv.
+30
+No item
+Doduo
+♂
+Lv.
+28
+No item
+Dodrio
+♂
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+G
+S
+C
+Grass
+27,29
+45%
+40%
+0%
+Grimer
+G
+S
+C
+Grass
+26,28
+50%
+50%
+0%
+Grimer
+G
+S
+C
+Grass
+26-29
+0%
+0%
+95%
+Muk
+G
+S
+C
+Grass
+30
+5%
+5%
+5%
+Slugma
+G
+S
+C
+Grass
+29
+0%
+5%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Fuchsia City
+Fuchsia City
+Fuchsia City
+is the largest city in southern
+Kanto
+, located between
+Route 18
+and
+Route 15
+. To the south, a beach leads to the waters of
+Route 19
+. Trainers aiming to earn their next Badge can challenge the
+Fuchsia Gym
+in the southwest.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+G
+S
+C
+Surfing
+10-24
+100%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+100%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+90%
+Gyarados
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Burnt Berry
+North of the Poké Mart, on a tree (daily; requires
+Cut
+)
+C
+TM06
+(
+Toxic
+)
+From
+Gym Leader
+Janine
+, after defeating her
+C
+Safari Zone Warden's house
+The southeastern house belongs to
+the Safari Zone warden
+. According to his granddaughter, he closed the
+Safari Zone
+rather suddenly and left to vacation somewhere overseas. Many saw this as a disappointing development, as residents and tourists alike would visit the nature preserve for their chance at catching some of the rare Pokémon inside. The northern part of the city was once occupied by exhibits that housed rare Pokémon, as well, but they have since fallen into disrepair and the Pokémon have wandered off into the surrounding wilderness.
+Fuchsia Gym
+Fuchsia Gym
+Fuchsia City Pokémon Gym
+Leader: Janine
+The Poisonous Ninja Master
+The
+Fuchsia Gym
+specializes in
+Poison-type
+Pokémon. Poison-type moves are super effective against
+Grass-type
+Pokémon, while Poison-type Pokémon are weak to
+Ground
+- and
+Psychic-type
+moves.
+The Gym Leader is trained in the skills of the ninja, and has installed a series of nearly invisible glass panels to disorient any challengers. In addition, each of the Gym Trainers has disguised themselves as the
+Gym Leader
+. Follow the east wall toward the back of the building, then loop around toward the front. The Gym Leader is located in the southwest part of the building.
+Janine
+'s Pokémon use
+poisoning
+and
+confusion
+to incapacitate their opponent. Her
+Crobat
+is fast, so hit it with
+Psychic
+-,
+Electric
+-,
+Ice
+-, or
+Rock-type
+attacks to take it down quickly. Both of her
+Weezing
+are dangerous, as
+Toxic
+badly poisons the target, and
+Explosion
+is a last-ditch move that deals massive damage. Their phsycial
+Defense
+is high, so use Psychic-type moves to target their lower
+Special Defense
+instead.
+Ariados
+can lower the target's
+Speed
+and steal its
+HP
+for itself, while
+Venomoth
+prefers to use poison- and confusion-inducing moves. As
+Bug
+Pokémon, both take serious damage from
+Fire
+-, Rock-, and
+Flying-type
+attacks.
+Fuchsia Gym
+Trainers
+Trainer
+Pokémon
+Lass
+Linda
+Reward:
+$
+816
+Bulbasaur
+♂
+Lv.
+30
+No item
+Ivysaur
+♂
+Lv.
+32
+No item
+Venusaur
+♂
+Lv.
+34
+No item
+Picnicker
+Cindy
+Reward:
+$
+720
+Nidoqueen
+♀
+Lv.
+36
+No item
+Camper
+Barry
+Reward:
+$
+720
+Nidoking
+♂
+Lv.
+36
+No item
+Lass
+Alice
+Reward:
+$
+720
+Gloom
+♀
+Lv.
+30
+No item
+Arbok
+♀
+Lv.
+34
+No item
+Gloom
+♀
+Lv.
+30
+No item
+Leader
+Janine
+Fuchsia Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+3900
+Types:
+Poison
+Flying
+Held item:
+None
+Crobat
+♂
+Lv.
+36
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Supersonic
+Normal
+--
+Screech
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Weezing
+♂
+Lv.
+36
+Sludge Bomb
+Poison
+--
+Smog
+Poison
+--
+Toxic
+Poison
+--
+Explosion
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Weezing
+♂
+Lv.
+36
+Sludge Bomb
+Poison
+--
+Smog
+Poison
+--
+Toxic
+Poison
+--
+Explosion
+Normal
+--
+Types:
+Bug
+Poison
+Held item:
+None
+Ariados
+♂
+Lv.
+33
+String Shot
+Bug
+--
+Night Shade
+Ghost
+--
+Giga Drain
+Grass
+--
+Scary Face
+Normal
+--
+Types:
+Bug
+Poison
+Held item:
+None
+Venomoth
+♂
+Lv.
+39
+Toxic
+Poison
+--
+Psychic
+Psychic
+--
+Double Team
+Normal
+--
+Supersonic
+Normal
+--
+After the battle,
+Janine
+awards you the
+Soul Badge
+. She also hands out
+TM06
+(
+Toxic
+) as a prize.
+Road Closed
+The ocean route leading southward is blocked by rocky debris. According to the guard in the gate, these boulders landed here as a result of
+Cinnabar Island
+'s volcano erupting. The only other way out of
+Fuchsia City
+is east to
+Route 15
+.
+← Part 20
+Route 7, Celadon City
+Crystal
+walkthrough
+Route 15, Route 14, Route 13, Route 12
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

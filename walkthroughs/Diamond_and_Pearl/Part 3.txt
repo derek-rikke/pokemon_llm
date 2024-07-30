@@ -1,0 +1,1464 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_3
+Keywords: Route 207, Oreburgh Mine, Oreburgh Gym, Oreburgh Gate (Basement), Jubilife City, Route 204 (South, North), Ravaged Path
+
+Walkthrough Text:
+Contents
+1
+Route 207
+2
+Oreburgh Mine
+3
+Oreburgh Gym
+4
+Oreburgh Gate (Basement)
+4.1
+Later...
+5
+Jubilife City
+5.1
+Jubilife TV
+5.2
+Global Trade Station (GTS)
+5.3
+Pokétch Company
+5.4
+Items
+6
+Route 204 (South)
+7
+Ravaged Path
+8
+Route 204 (North)
+9
+Later......
+Route 207
+While there is not much that can be done here until you obtain the
+Bicycle
+, you can find a
+Machop
+here to help in the upcoming
+Gym
+match, especially if you started with
+Chimchar
+. You can also pick up a couple of
+Poké Balls
+in the grass.
+Be aware that there are some Berries planted, but you cannot reach them until you get the second Badge. If you don't want the Berry plants to die, do not go too far north or try getting the items.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+D
+P
+Pt
+Grass
+5-7
+55%
+Machop
+D
+P
+Pt
+Grass
+5-7
+35%
+45%
+25%
+Kricketot
+D
+P
+Pt
+Grass
+6
+10%
+0%
+10%
+Zubat
+D
+P
+Pt
+Grass
+6
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+×2
+Northwestern corner of the tall grass
+Northeastern corner of the tall grass (
+hidden
+)
+D
+P
+Oreburgh Mine
+Oreburgh Mine B1F
+Oreburgh Mine B2F
+In order to battle the
+Gym Leader
+,
+Roark
+, you need to speak to him in the
+Oreburgh Mine
+. He can be found in the basement. After he shows you
+Rock Smash
+, he returns to the
+Gym
+and will wait there for you to challenge him. There are two
+Workers
+for you to battle here and a few items to pick up. You can also find wild
+Onix
+here, which can be a good addition to your team if you can later evolve it into
+Steelix
+through
+trade
+, but is otherwise probably not worth the effort.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+6-8
+48%
+Geodude
+D
+P
+Pt
+Cave
+4-10
+50%
+Onix
+D
+P
+Pt
+Cave
+7-9
+2%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Worker
+Mason
+Reward:
+$
+360
+Machop
+♂
+Lv.
+9
+No item
+Worker
+Colin
+Reward:
+$
+280
+Geodude
+♂
+Lv.
+7
+No item
+Onix
+♂
+Lv.
+7
+No item
+Items
+Item
+Location
+Games
+Escape Rope
+South of the
+ledge
+D
+P
+Potion
+On the right side of the undersea floor
+D
+P
+X Defend
+To the right of the entrance/exit
+D
+P
+Oreburgh Gym
+Oreburgh Gym
+Heal your Pokémon before entering the Gym.
+The Gym battle can be tough. It is recommended that you train your Pokémon until they're at Level 13 or more.
+It's now time for your first
+Gym
+battle. The
+Oreburgh Gym
+is pretty straightforward and has no puzzles, though it is possible to take the raised path and avoid the two Trainers present. However, the Trainers are pretty easy to beat, and it's always good to gain some extra
+money
+and
+experience
+.
+Oreburgh Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Jonathon
+シンスケ
+Shinsuke
+Reward:
+$
+160
+Geodude
+♂
+Lv.
+10
+No item
+Youngster
+Darius
+コウタ
+Kōta
+Reward:
+$
+128
+Geodude
+♂
+Lv.
+8
+No item
+Onix
+♂
+Lv.
+8
+No item
+Leader
+Roark
+Oreburgh Gym
+Diamond and Pearl
+Reward:
+$
+1680
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Geodude
+♂
+Lv.
+12
+Rock Throw
+Rock
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Onix
+♂
+Lv.
+12
+Rock Throw
+Rock
+Physical
+--
+Screech
+Normal
+Status
+--
+Stealth Rock
+Rock
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Mold Breaker
+Held item:
+None
+Cranidos
+♂
+Lv.
+14
+Headbutt
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Roark leads with a Level 12
+Geodude
+which is easily knocked out by any move that is
+super effective
+against
+Rock
+(e.g.
+Water
+,
+Grass
+, or
+Fighting
+; you should definitely have a move of one of those types). If you don't bring it down, it can use
+Stealth Rock
+, which damages Pokémon you
+switch into
+battle. His Level 12
+Onix
+has high
+Defense
+, so it may take two or three hits unless you are using a Water or Grass-type move, or a
+non-resisted
+Special-based attack
+. Onix has the same moves as Geodude, plus
+Screech
+, which makes your
+Defense
+plummet. Level 14
+Cranidos
+can be a huge problem if you don't outspeed and knock it out very soon. It has an extremely high
+Attack
+, plus
+Headbutt
+for massive damage and
+Leer
+to drop your
+Defense
+, making its attacks more damaging.
+Pursuit
+is a solid move that can hurt a lot if you
+switch out
+your Pokémon. However, Cranidos is very fragile, so one or two super-effective hits will bring it down before it can completely destroy your team. Moves like
+Mega Drain
+,
+Mach Punch
+,
+Bubble
+, and
+Metal Claw
+work well.
+After the battle, Roark gives you the
+Coal Badge
+and
+TM76
+(
+Stealth Rock
+). You can now use
+Rock Smash
+outside of battle, and
+Poké Marts
+will start carrying more items, such as
+Super Potions
+,
+Repels
+, and
+Escape Ropes
+. Now head back to
+Oreburgh Gate
+, where you meet
+Barry
+. He tells you to go back to
+Jubilife City
+and go north to
+Eterna City
+.
+Oreburgh Gate (Basement)
+Oreburgh Gate Basement
+You'll need to bring Pokémon with
+Rock Smash
+.
+Now that you have the ability to use
+Rock Smash
+, you can destroy the rocks to reach
+Oreburgh Gate
+'s basement. This is the first place in the game to find a
+Psyduck
+, as well as
+TM70
+(
+Flash
+). This former
+HM
+can be used later in the game to light up dark caves, and extra copies can be bought in the
+Veilstone Department Store
+.
+Later...
+Come back after receiving the
+Bicycle
+to hop over the dirt mounds to receive
+TM31
+(
+Brick Break
+). Then after beating the
+Hearthome Gym
+and
+Canalave Gym
+, you can use
+Surf
+and
+Strength
+to find the
+Earth Plate
+and
+TM01
+(
+Focus Punch
+).
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+B1F (requires Rock Smash)
+Zubat
+D
+P
+Pt
+Cave
+7-9
+59%
+Psyduck
+D
+P
+Pt
+Cave
+7-10
+30%
+Geodude
+D
+P
+Pt
+Cave
+7-9
+10%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+Middle of the basement
+D
+P
+TM70
+(
+Flash
+)
+On the right side of the basement
+D
+P
+Jubilife City
+Heal your Pokémon before proceeding.
+Once in
+Jubilife City
+, head to the north exit. You will see
+Professor Rowan
+and his assistant
+Lucas
+/
+Dawn
+with two male
+Galactic Grunts
+, who will engage you in your first
+Multi Battle
+.
+If the
+player
+chose
+Turtwig
+Partner:
+If the
+player
+chose
+Chimchar
+Partner:
+If the
+player
+chose
+Piplup
+Partner:
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+13
+Bubble
+Water
+Special
+--
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+13
+Bubble
+Water
+Special
+--
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+13
+Absorb
+Grass
+Special
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+13
+Absorb
+Grass
+Special
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+13
+Ember
+Fire
+Special
+--
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+13
+Ember
+Fire
+Special
+--
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Trainers
+Trainer
+Pokémon
+Galactic
+Grunt
+Reward:
+$
+720
+(w. Galactic Grunt)
+Zubat
+♂
+Lv.
+9
+No item
+Galactic
+Grunt
+Reward:
+$
+720
+(w. Galactic Grunt)
+Wurmple
+♂
+Lv.
+9
+No item
+After the battle, the Grunts run off. Professor Rowan explains that they are part of
+Team Galactic
+, a
+villainous group
+that seeks power from Pokémon
+evolution
+for some nefarious purpose. Rowan explains that Pokémon release some type of energy when they evolve, but he believes it is a "mystic power" beyond human control. After he and Lucas/Dawn leave, a man from
+Jubilife TV
+gives you a
+Fashion Case
+, which can hold
+accessories
+and
+backdrops
+, and tells you that the TV station is now open to visitors.
+Additionally, the Global Trade Station will also be open. You can also collect a new application program for your
+Pokétch
+.
+Jubilife TV
+Jubilife TV
+The Fun-and-Games TV Station!
+Welcome to Jubilife TV. They are numerous things you can do here. First, there is always a Trainer in the ground floor lobby that you can battle once per day, but the Trainer that appears depends on the
+day of the week
+. On Thursday, there will be a pair of
+Interviewers
+(a
+Reporter
+and a
+Cameraman
+), and the battle will be your first
+Double Battle
+.
+Trainers
+Monday
+Trainer
+Pokémon
+Reporter
+Kinsey
+Reward:
+$
+680
+Chatot
+♀
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Tuesday
+Trainer
+Pokémon
+Cameraman
+Tevin
+Reward:
+$
+544
+Pachirisu
+♂
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Wednesday
+Trainer
+Pokémon
+Clown
+Lee
+Reward:
+$
+408
+Mr. Mime
+♂
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Thursday
+Trainer
+Pokémon
+Interviewers
+Roxy and Oli
+Reward:
+$
+2448
+Wooper
+♂
+Lv.
+17
+No item
+Marill
+♂
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Friday
+Trainer
+Pokémon
+Poké Kid
+Ariel
+Reward:
+$
+120
+Pikachu
+♀
+Lv.
+15
+No item
+Pikachu
+♀
+Lv.
+15
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Saturday
+Trainer
+Pokémon
+Guitarist
+Arturo
+Reward:
+$
+384
+Zubat
+♂
+Lv.
+16
+No item
+Zubat
+♂
+Lv.
+16
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Sunday
+Trainer
+Pokémon
+Idol
+Grace
+Reward:
+$
+1080
+Pikachu
+♀
+Lv.
+15
+No item
+Clefairy
+♀
+Lv.
+15
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+On the first floor, you can enter The Pokémon Lottery Corner. It is located on the ground floor of the Jubilife TV building, where it is conducted by a receptionist named
+Felicity
+. The winning ID number changes daily, and the game looks for matches by examining the IDs of all Pokémon in the player's party and in all PC boxes (but not Pokémon in the
+Day Care
+). You can only check for one match a day.
+Item
+Location
+Games
+Backdrop
+Trainer ID matched last digit
+D
+P
+PP Up
+Trainer ID matched last two digits
+D
+P
+Exp. Share
+Trainer ID matched last three digits
+D
+P
+Max Revive
+Trainer ID matched last four digits
+D
+P
+Master Ball
+Trainer ID matched perfectly
+D
+P
+On the second floor, you can you can dress up your Pokémon with
+accessories
+and get a
+mask
+of your
+first partner Pokémon
+from a man.
+Items
+Item
+Location
+Games
+Turtwig Mask
+Accessory
+; if the player started with
+Turtwig
+D
+P
+Chimchar Mask
+Accessory
+; if the player started with
+Chimchar
+D
+P
+Piplup Mask
+Accessory
+; if the player started with
+Piplup
+D
+P
+On the third floor, you can go inside the
+Ranking Rooms
+to access your game records. You can also talk to a man who asks for your opinion on TV. By answering EVERYONE HAPPY and Wi-Fi CONNECTION using the
+Easy chat system
+, you can unlock
+Mystery Gift
+. You can answer more questions to get some PC Box wallpapers. The phrase for a given wallpaper depends on the player's game,
+Trainer ID
+, and game language.
+Online generators
+have been created to provide the required phrases for any game.
+Global Trade Station (GTS)
+Outside of the GTS
+Inside the GTS
+The Global Trade Station (GTS for short) is the worldwide network over which you can
+trade
+Pokémon via the
+Nintendo Wi-Fi Connection
+. Now that you have
+Coal Badge
+, the GTS is also open. There is a large globe called the
+Geonet
+, which you can indicate their location, and on which small dots representing players you have traded with will appear. When you first logs on to Geonet, you will be asked where you live in. Talk to the woman at the counter. She will direct you into a room in which you can either put up a Pokémon to be traded or trade a Pokémon you own for one that has been put up.
+Pokémon searches, after being confined to one species that has been seen by the player, can be further narrowed down to
+level
+,
+gender
+and the country where the person is trading it from is. By level, players can search for and request Pokémon Lv.9 or below, Lv.10 or above, Lv.20 or above and so on until Lv.100, or they can search for Pokémon of any level. Gender is similar, with the player being able to search for male, female or either gender of the selected Pokémon; searching for genderless species automatically sets the gender to 'either'.
+Pokémon offerings are similarly governed, as the requested Pokémon in return cannot be any Pokémon that the player has not seen. Pokémon that are offered cannot be bargained, as the player has to choose one Pokémon he or she wants for it, instead of having a more flexible list. Like normal trades, a Pokémon can also hold an item when being offered or traded. Pokémon that evolve after a trade will do so in the same manner they would after a normal trade. The GTS also allows individuals to trade between two different games without having two Nintendo DS systems. It is recommended to check up on a deposited Pokémon every so often, as the Pokémon may flee if it is kept in the GTS for an extended period of time.
+Pokétch Company
+Go to the
+Pokétch Company
+and talk to the owner. He will give you a new application program (abbreviated as App, just like iPhone and Android Apps in your real life) Memo Pad for your
+Pokétch
+. Talk to him again and he will say that the next App will be ready when you have 3 Gym
+Badges
+.
+Items
+Item
+Location
+Games
+Memo Pad
+From the
+Pokétch Co. President
+after obtaining the
+Coal Badge
+D
+P
+Marking Map
+From the
+Pokétch Co. President
+after obtaining three
+Badges
+D
+P
+Link Searcher
+From the
+Pokétch Co. President
+after obtaining five
+Badges
+D
+P
+Move Tester
+From the
+Pokétch Co. President
+after obtaining the
+Icicle Badge
+D
+P
+Now heal your Pokémon and head north to
+Route 204
+.
+Route 204 (South)
+Route 204
+You'll need to bring Pokémon with
+Rock Smash
+.
+You were able to access the southern part of
+Route 204
+before going to
+Oreburgh City
+, but if you haven't already, pick up the
+Parlyz Heal
+and battle the trainers here. Now that you can use
+Rock Smash
+, you can get through the
+Ravaged Path
+, which connects the southern and northern parts of the route.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+4
+0%
+0%
+10%
+Starly
+D
+P
+Pt
+Grass
+4, 6
+25%
+35%
+25%
+Bidoof
+D
+P
+Pt
+Grass
+4, 6
+25%
+Kricketot
+D
+P
+Pt
+Grass
+4
+10%
+0%
+10%
+Shinx
+D
+P
+Pt
+Grass
+4-5
+15%
+Budew
+D
+P
+Pt
+Grass
+4-5
+25%
+25%
+15%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Lass
+Sarah
+ナオ
+Nao
+Reward:
+$
+112
+Bidoof
+♀
+Lv.
+7
+No item
+Youngster
+Tyler
+テルキ
+Teruki
+Reward:
+$
+80
+Magikarp
+♂
+Lv.
+5
+No item
+Starly
+♂
+Lv.
+5
+No item
+Lass
+Samantha
+メイ
+May
+Reward:
+$
+112
+Budew
+♀
+Lv.
+7
+No item
+Items
+Item
+Location
+Games
+Parlyz Heal
+Above the pond in the southeast
+D
+P
+Ravaged Path
+Ravaged Path
+Make sure that you have Pokémon with
+Rock Smash
+before heading into the cave.
+There's not much you can do here, except pick up the
+Antidote
+and use
+Rock Smash
+to find
+TM39
+(
+Rock Tomb
+) to the west. Without
+Surf
+, you can't go any deeper, so go through the cave to the east and continue north.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+3-6
+78%
+Geodude
+D
+P
+Pt
+Cave
+5
+20%
+Psyduck
+D
+P
+Pt
+Cave
+5
+2%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Antidote
+Directly inside the cave, next to the
+breakable rocks
+D
+P
+TM39
+(
+Rock Tomb
+)
+West of cave entrance (requires
+Rock Smash
+)
+D
+P
+Route 204 (North)
+The wild Pokémon available here are the same as in the south, though their levels are higher. Battle more trainers (picking up an
+Awakening
+and
+TM09
+along the way) and then go north to
+Floaroma Town
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+6
+0%
+0%
+10%
+Starly
+D
+P
+Pt
+Grass
+6, 8
+25%
+35%
+25%
+Bidoof
+D
+P
+Pt
+Grass
+6, 8
+25%
+Kricketot
+D
+P
+Pt
+Grass
+6
+10%
+10%
+0%
+Shinx
+D
+P
+Pt
+Grass
+6-7
+15%
+Budew
+D
+P
+Pt
+Grass
+6, 7
+25%
+25%
+15%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Aroma Lady
+Taylor
+カオリ
+Kaori
+Reward:
+$
+352
+Budew
+♀
+Lv.
+7
+No item
+Cherubi
+♀
+Lv.
+7
+No item
+Bug Catcher
+Brandon
+ダイスケ
+Daisuke
+Reward:
+$
+176
+Wurmple
+♂
+Lv.
+7
+No item
+Kricketot
+♂
+Lv.
+7
+No item
+Twins
+Liv & Liz
+サラとサリ
+Sara and Sari
+Reward:
+$
+288
+Pachirisu
+♀
+Lv.
+9
+No item
+Pachirisu
+♀
+Lv.
+9
+No item
+Items
+Item
+Location
+Games
+Awakening
+Directly north of the
+Ravaged Path
+exit
+D
+P
+TM09
+(
+Bullet Seed
+)
+To the west before the entrance to
+Floaroma Town
+D
+P
+Later......
+Return to both Route 204 and the Ravaged Path after gaining the ability to use
+Cut
+and
+Surf
+to collect more items, namely the
+Sea Incense
+,
+Luck Incense
+,
+TM78
+(
+Captivate
+) (use Cut and talk to the person deep inside) and
+TM03
+(
+Water Pulse
+).
+← Part 2
+Route 202, Jubilife City, Route 204, Ravaged Path, Route 203, Oreburgh Gate, Oreburgh City
+Diamond and Pearl
+walkthrough
+Floaroma Town, Route 205 (Part 1-2), Valley Windworks, Floaroma Meadow (South), Eterna Forest
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

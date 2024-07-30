@@ -1,0 +1,35 @@
+Game: UltraSun_and_UltraMoon
+Part: 29
+Keywords: Ultra Warp Ride
+
+**Part 29: Ultra Warp Ride Overview**
+
+1. **Entering Ultra Warp Ride**:
+   - Access Ultra Warp Ride via the Ultra Wormhole in Ultra Space.
+   
+2. **Navigating the Wormhole**:
+   - Use the control stick to steer through the wormholes. Aim for the larger ones for better chances of finding Ultra Beasts or Legendary Pokémon.
+   - Collect the colored orbs to increase your speed and enhance your warp opportunities.
+
+3. **Finding Ultra Beasts**:
+   - Look for the specific Ultra Wormholes related to Ultra Beasts:
+     - Nihilego: Green
+     - Buzzwole: Blue
+     - Pheromosa: Pink
+     - Xurkitree: Yellow
+     - Celesteela: Silver
+     - Kartana: Red
+     - Guzzlord: Black
+   - Once inside the wormhole, you’ll encounter the Ultra Beast. Prepare your team for battle.
+
+4. **Battle Strategies**:
+   - Use Pokémon with status effects (like Sleep or Paralysis) to improve capture chances.
+   - Bring high-level Pokémon to withstand strong attacks.
+
+5. **Post-Battle**:
+   - After defeating or capturing the Ultra Beast, return to Ultra Space by using the warp portal.
+
+6. **Saving Progress**:
+   - Always save your game after capturing an Ultra Beast to prevent data loss.
+
+By following these key steps, you will successfully navigate the Ultra Warp Ride and encounter various Ultra Beasts.

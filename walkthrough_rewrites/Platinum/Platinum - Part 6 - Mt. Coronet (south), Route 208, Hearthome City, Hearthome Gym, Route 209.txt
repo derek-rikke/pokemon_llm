@@ -1,0 +1,59 @@
+Game: Platinum
+Part: 6
+Keywords: Mt. Coronet (south), Route 208, Hearthome City, Hearthome Gym, Route 209
+
+### Part 6 Walkthrough: Mt. Coronet (South) to Route 209
+
+#### Mt. Coronet (South)
+- **Key Pokémon**: 
+  - Clefairy (Cave, Level 17, 10%)
+  - Zubat (Cave, Levels 18-19, 5%)
+  - Geodude (Cave, Levels 17-19, 20%)
+  - Nosepass (Cave, Level 18, 5%)
+- **Items**: 
+  - Energy Powder (Hidden, above Route 207 entrance)
+  - Revive (Hidden, southwest corner)
+  - Stardust (Hidden, center hill)
+- **Instructions**: Walk through Mt. Coronet until you exit to Route 208. You will encounter Cyrus here but cannot interact meaningfully yet.
+
+#### Route 208
+- **Key Pokémon**: 
+  - Ralts (Grass, Levels 17-18, 15%)
+  - Budew (Grass, Levels 18-19, 30%)
+- **Trainers**: 
+  - Hiker Jonathan (Onix, Level 22)
+  - Black Belt Kyle (Machop, Level 23)
+- **Items**: 
+  - Great Ball (South of Black Belt Kyle)
+  - Ether (Requires Rock Smash, eastern waterfall ledge)
+- **Instructions**: Battle trainers, collect items, and proceed to Hearthome City. Visit the Berry Master for daily berries and the Berry Searcher app.
+
+#### Hearthome City
+- **Items**: 
+  - Shell Bell (Pokémon Hotel, 2nd floor)
+  - Poffin Case (Pokémon Fan Club)
+- **Instructions**: After entering, a lost Buneary will lead you to the Super Contest Hall. Meet Gym Leader Fantina. Visit Bebe's house for an Eevee (20% chance female). Explore the city for items and services.
+
+#### Hearthome Gym
+- **Strategy**: Fantina uses Ghost-types, which are weak to Dark and Ghost moves.
+- **Trainers**: 
+  - Various trainers with Ghost-type Pokémon (e.g., Duskull, Haunter, Mismagius).
+- **Instructions**: Navigate the maze to find Fantina. Use Dark-type moves against her Pokémon. Defeat her to earn the Relic Badge and TM65 (Shadow Claw).
+
+#### Route 209
+- **Instructions**: After defeating Fantina, head east to Route 209. Heal your team and stock up on Great Balls.
+- **Trainer Encounter**: You will battle Barry at the entrance.
+- **Key Pokémon**: 
+  - Staravia (Level 25)
+  - Roselia (Level 23)
+- **Items**: 
+  - Good Rod (From Fisherman near Hearthome City entrance)
+  - Great Balls (Hidden in tall grass)
+- **Instructions**: Continue battling trainers and collecting items while heading towards Solaceon Town. 
+
+### Summary
+- Progress through Mt. Coronet, Route 208, and Hearthome City.
+- Defeat Fantina at the Hearthome Gym.
+- Prepare for a battle with Barry before moving to Route 209. 
+
+This walkthrough highlights essential Pokémon, items, and strategies to ensure smooth progression through this segment of the game.

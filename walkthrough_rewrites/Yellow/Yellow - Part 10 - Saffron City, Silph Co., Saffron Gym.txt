@@ -1,0 +1,61 @@
+Game: Yellow
+Part: 10
+Keywords: Saffron City, Silph Co., Saffron Gym
+
+### Pokémon Yellow Walkthrough: Part 10 - Saffron City, Silph Co., and Saffron Gym
+
+**Saffron City Overview**
+- Central city with two Gyms: Saffron Gym and Fighting Dojo.
+- Important locations: Silph Co. headquarters, Mr. Psychic's house, and Copycat's house.
+
+**Key Locations and Items**
+- **Mr. Psychic's House**: 
+  - Receive TM29 (Psychic).
+- **Copycat's House**: 
+  - Give her a Poké Doll for TM31 (Mimic).
+- **Fighting Dojo**: 
+  - Defeat Karate Master for a choice between Hitmonlee or Hitmonchan.
+
+**Silph Co. Overview**
+- **Structure**: 11 floors, navigate using warp tiles.
+- **Important Items**:
+  - TM36 (Selfdestruct) - 2F
+  - Card Key - 5F (needed for locked doors)
+  - Master Ball - 11F (after defeating Giovanni)
+
+**Silph Co. Walkthrough**
+1. Start on **2F**: Use warp tiles to access **8F**.
+2. On **8F**: Battle Scientist and two Rocket Grunts; then go to **3F**.
+3. On **3F**: Collect TM36, then battle Grunt and warp to **5F**.
+4. On **5F**: After defeating Grunts and a Scientist, collect the Card Key.
+5. Use Card Key to access **6F** for HP Up and X Accuracy.
+6. Go to **7F**: Collect TM03 (Swords Dance), then proceed to **9F**.
+7. On **9F**: Heal Pokémon in the break room, then head to **10F**.
+8. On **10F**: Collect Carbos, Rare Candy, and TM26 (Earthquake).
+9. Return to **3F** and unlock the central room for a Hyper Potion.
+10. On **7F (Northwest)**: Battle Rival (Blue) with a diverse team based on his Eevee evolution.
+11. On **11F**: Battle Jessie and James, then confront Giovanni.
+
+**VS Giovanni**
+- **Team**: Nidorino, Rhyhorn, Persian, Nidoqueen.
+- **Strategy**: Use Ground-type moves like Earthquake and Water-type moves against Rhyhorn and Nidoqueen.
+
+**Post-Giovanni**
+- Receive Master Ball from the Silph Co. president as thanks.
+
+**Saffron Gym**
+- **Leader**: Sabrina (Psychic-type).
+- **Strategy**: Use Bug, Normal, Flying, or Rock-type moves.
+- Navigate using warp tiles to reach Sabrina.
+
+**Saffron Gym Trainers**
+- Various Psychic Pokémon, including Slowbro and Mr. Mime.
+  
+**VS Sabrina**
+- **Team**: Abra, Kadabra, Alakazam (all level 50).
+- **Reward**: Marsh Badge and TM46 (Psywave).
+
+**Next Destination**
+- Head to Fuchsia City, accessible via Cycling Road or coastal route.
+
+This guide provides essential navigation and battle strategies to progress through Saffron City, Silph Co., and Saffron Gym.

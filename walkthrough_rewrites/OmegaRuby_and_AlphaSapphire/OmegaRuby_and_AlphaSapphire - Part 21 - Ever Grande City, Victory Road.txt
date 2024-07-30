@@ -1,0 +1,52 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 21
+Keywords: Ever Grande City, Victory Road
+
+## Pokémon Omega Ruby and Alpha Sapphire Walkthrough: Part 21
+
+### Ever Grande City and Victory Road Overview
+After defeating all Gym Leaders and earning eight Badges, head to Ever Grande City. Fly to Route 128 and Surf east through the channel to reach the city. 
+
+### Ever Grande City
+- **Preparation**: Visit the Pokémon Center before entering Victory Road.
+- **Item Locations**: 
+  - **Revive**: South of Victory Road (hidden).
+  - **TM29 (Psychic)**: On the eastern cliff via Victory Road.
+  - **Mewtwonite Y**: West of the Pokémon League entrance.
+
+### Victory Road
+Victory Road is a challenging area requiring Surf and Strength. Flash is optional but helpful.
+
+#### Key Trainers and Battle Strategies:
+1. **Ace Trainer Albert**: 
+   - Pokémon: Sigilyph (Lv. 45), Rhyperior (Lv. 45).
+2. **Ace Trainer Hope**: 
+   - Pokémon: Froslass (Lv. 47).
+3. **Expert Bryn**: 
+   - Pokémon: Hitmontop (Lv. 45), Throh (Lv. 45).
+4. **Street Thug Regan**: 
+   - Pokémon: Houndoom (Lv. 43), Shiftry (Lv. 43).
+5. **Ace Duo Jude & Rory**: 
+   - Pokémon: Armaldo (Lv. 47), Cradily (Lv. 47).
+6. **Dragon Tamer Egon**: 
+   - Pokémon: Kingdra (Lv. 47).
+
+#### Important Items:
+- **1F (Interior)**: Find Full Heal and Max Repel (hidden).
+- **B1F**: Collect PP Up and TM35 (Flamethrower) (requires Strength).
+- **2F**: Obtain Iron (hidden) and TM81 (X-Scissor) via Surf and Waterfall.
+
+### VS Wally
+In the final chamber, you'll battle Wally, who has a well-rounded team:
+- **Altaria** (Dragon/Flying): Use Ice moves.
+- **Delcatty**: Take it out quickly to avoid status effects.
+- **Roselia**: Use Fire, Ice, Flying, or Psychic moves.
+- **Magneton**: Use Ground moves for a quick defeat.
+- **Gallade** (Mega): Use Flying, Ghost, or Fairy moves to counter its strong attacks.
+
+After defeating Wally, he gives you a **Dawn Stone**.
+
+### Final Steps
+Continue north from Victory Road to reach the Pokémon League. Before entering, check the sparkling spot to find **Mewtwonite Y**.
+
+Prepare for the Elite Four and Champion battles ahead!

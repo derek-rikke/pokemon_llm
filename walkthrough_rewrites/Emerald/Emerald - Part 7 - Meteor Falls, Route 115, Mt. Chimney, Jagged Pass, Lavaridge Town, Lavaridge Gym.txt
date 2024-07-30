@@ -1,0 +1,49 @@
+Game: Emerald
+Part: 7
+Keywords: Meteor Falls, Route 115, Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym
+
+### Part 7 Walkthrough Summary
+
+**Meteor Falls**
+- **Location**: Between Routes 114 and 115. 
+- **Key Items**: Full Heal (north of Route 114 entrance), Moon Stone (northwest of the bridge).
+- **Available Pokémon**: Zubat (14-20), Solrock (14, 16, 18), Magikarp (5-10), Goldeen (5-10).
+- **Story Progress**: After encountering Team Magma Grunts, head to either Route 114 or Route 115 to pursue them.
+
+**Route 115 (Optional)**
+- **Key Items**: Great Ball (south of Meteor Falls), Bluk Berries, PP Up, Heart Scale (hidden).
+- **Battles**: Various trainers including Black Belt Nob and Collector Hector.
+
+**Route 112 (South)**
+- **Progress**: Team Magma has taken the Meteorite to Mt. Chimney. 
+- **Action**: Use the Cable Car to reach Mt. Chimney.
+
+**Mt. Chimney**
+- **Battles**: Fight Team Magma Grunts and Admin Tabitha.
+- **Key Battle**: Maxie (Reward: $2000). Use Water-type moves against his Fire-types and Ground-types.
+- **Item**: Retrieve the Meteorite after defeating Maxie.
+
+**Jagged Pass**
+- **Progress**: Navigate down the pass; use the Acro Bike for northward travel.
+- **Battles**: Trainers like Hiker Eric and various Team Magma Grunts.
+
+**Lavaridge Town**
+- **Features**: Pokémon Center, Hot Springs, Herb Shop (revival items available), Move Tutor (offers Mimic).
+- **Gym**: Lavaridge Gym specializes in Fire-types. Use Water, Ground, and Rock moves. 
+- **Key Battle**: Flannery (Reward: Heat Badge, TM50 - Overheat).
+
+**Route 112**
+- **Exit**: Head east from Lavaridge Town, collect a Nugget on the way.
+
+**Fiery Path (Optional)**
+- **Item Locations**: TM06 (Toxic), Fire Stone (requires Strength).
+
+**Mt. Chimney (Optional)**
+- **Revisit**: Battle trainers for experience.
+
+**Trick House - Puzzle 3 (Optional)**
+- **Requirement**: Pokémon with Rock Smash.
+
+**General Tips**:
+- Utilize effective type matchups against Fire-type Pokémon.
+- Collect useful items and train your Pokémon to prepare for gym battles.

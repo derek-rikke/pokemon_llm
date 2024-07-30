@@ -1,0 +1,63 @@
+Game: Platinum
+Part: 15
+Keywords: Acuity Lakefront, Snowpoint City, Snowpoint Gym, Lake Acuity, Veilstone City
+
+### Part 15 Walkthrough: Acuity Lakefront to Veilstone City
+
+#### Acuity Lakefront
+- **Items**: 
+  - Ultra Ball (Northeast corner)
+- **Pokémon**:
+  - Sneasel (Lv. 33-35, 25% rate)
+  - Snover (Lv. 32-35, 40% rate)
+- **Progress**: Speak to Barry, then head east to Snowpoint City.
+
+#### Snowpoint City
+- **Items**:
+  - Ultra Ball (Next to the crane)
+  - Rare Candy (East of Gym)
+  - Everstone (Held by Gaspar in trade for Medicham)
+- **Move Tutor**: Located in the upper right house, trades shards for moves.
+
+#### Snowpoint Gym
+- **Puzzle**: Slide to smash snowballs blocking your path.
+- **Leader Candice**:
+  - **Team**: 
+    - Sneasel (Lv. 40) - Weak to Fighting
+    - Piloswine (Lv. 40) - Weak to Fighting, Fire, Water, Steel, Grass, Fighting
+    - Abomasnow (Lv. 42) - Weak to Fire, Fighting, Rock, Bug, Steel
+    - Froslass (Lv. 44) - Weak to Fire, Rock, Ghost, Dark
+- **Reward**: Icicle Badge (allows Rock Climb) and TM72 (Avalanche).
+
+#### Rock Climb Access (Optional)
+- Use Rock Climb to explore various routes and find items:
+  - **Route 208**: Star Piece
+  - **Veilstone City**: Full Incense
+  - **Valor Lakefront**: Sun Stone, TM85 (Dream Eater), Iron
+  - **Route 213**: Protein, TM05 (Roar)
+  - **Route 210 (North)**: Shiny Stone, Zinc
+  - **Route 211 (East)**: TM29 (Psychic), Calcium
+  - **Route 216**: Mental Herb, HP Up, Max Potion, TM13 (Ice Beam)
+
+#### Lake Acuity
+- **Items**: 
+  - Reaper Cloth (Near Lake entrance)
+  - TM14 (Blizzard) (Northeast corner, requires Surf)
+- **Progress**: Barry appears, then Team Galactic's Jupiter captures Uxie.
+
+#### Veilstone City
+- **Team Galactic HQ**:
+  - Enter through the Galactic Warehouse.
+  - **Items**: Dusk Stone, TM36 (Sludge Bomb), Galactic Key.
+  - **Battles**: Defeat Galactic Grunts and Scientists.
+- **Main Building**:
+  - **Cyrus Battle**: 
+    - Sneasel (Lv. 44) - Vulnerable to Fighting
+    - Crobat (Lv. 44) - Vulnerable to Rock, Ice, Electric
+    - Honchkrow (Lv. 46) - Vulnerable to Rock, Electric
+- **Rewards**: Master Ball after defeating Cyrus.
+
+#### Next Steps
+- After defeating Commander Saturn and freeing the Lake Trio, prepare for the journey to Mt. Coronet. Ensure you have Surf, Strength, Rock Smash, and Rock Climb, along with items like Super Repels and Revives.
+
+**Next Destination**: Mt. Coronet (south entrance).

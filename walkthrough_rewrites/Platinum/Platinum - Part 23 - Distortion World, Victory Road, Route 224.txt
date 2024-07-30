@@ -1,0 +1,49 @@
+Game: Platinum
+Part: 23
+Keywords: Distortion World, Victory Road, Route 224
+
+**Part 23: Distortion World, Victory Road, Route 224**
+
+**Distortion World**
+- **Griseous Orb Location:** Found in Turnback Cave. Hold it with Giratina to maintain Origin Forme outside the Distortion World.
+- **Exit:** Use the portal to return to Turnback Cave.
+
+**Victory Road**
+- **HMs Required:** Surf, Waterfall, Rock Climb, Strength, Defog.
+- **Entry:** Fly to the Pokémon League, descend the waterfall to enter.
+- **1F:** Access the eastern door after becoming Champion and obtaining the National Pokédex.
+  
+**B1F (Deep Area)**
+- **Pokémon Encounter Rates:**
+  - Golbat: 5%
+  - Graveler: 30%
+  - Floatzel: 35%
+  - Dewgong: 15%
+  - Gabite: 5%
+- **Items:** Rare Candy, Dusk Stone, Full Restore, Leftovers, Nugget, and others found by navigating the maze and defeating Trainers.
+
+**Trainer Battles:**
+- **Key Trainers:** 
+  - Ace Trainer Micah (Metang, Ludicolo)
+  - Psychic Desiree (Mr. Mime, Mismagius)
+  - Black Belt Eddie (Mankey, Infernape)
+- **Notable Tactics:** Use a diverse team to counter various Pokémon types.
+
+**Route 224**
+- **Pokémon Encounter Rates:**
+  - Oddish: 20%
+  - Gloom: 5%
+  - Gyarados: 60% (Fishing with Super Rod)
+- **Key Trainers:**
+  - Ace Trainer Ruben (Nuzleaf, Gyarados)
+  - Psychic Brittney (Drowzee, Alakazam)
+  
+**Items on Route 224:**
+- **Notable Items:** Zinc, Up-Grade, PP Max, Ultra Balls, and various Berries.
+
+**General Tips:**
+- Clear fog in Victory Road and escort Marley for healing after battles.
+- Use Surf to navigate water sections and access hidden items.
+- Prepare for diverse Trainer teams.
+
+**Next Step:** Fly to Snowpoint City to continue your journey.

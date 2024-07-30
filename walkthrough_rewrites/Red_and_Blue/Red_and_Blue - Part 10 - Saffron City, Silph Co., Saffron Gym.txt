@@ -1,0 +1,40 @@
+Game: Red_and_Blue
+Part: 10
+Keywords: Saffron City, Silph Co., Saffron Gym
+
+### Part 10: Saffron City, Silph Co., Saffron Gym
+
+**Saffron City Overview**
+- Saffron City is centrally located and features Silph Co. and two Pokémon Gyms (Saffron Gym and Fighting Dojo).
+
+**Key Locations and Items**
+1. **Mr. Psychic's House**: 
+   - Obtain TM29 (Psychic) from Mr. Psychic.
+
+2. **Silph Co.**: 
+   - Enter through the back (the front guard is asleep).
+   - The building has 11 floors with warp tiles.
+   - Key Items:
+     - TM36 (Selfdestruct) - 2F
+     - Card Key - 5F
+     - Rare Candy, Carbos, TM26 (Earthquake) - 10F
+     - Master Ball - 11F (after defeating Giovanni)
+   - **Rival Battle 6** (Blue):
+     - Battle on 7F. His Pokémon levels vary based on your starter choice.
+
+3. **Fighting Dojo**: 
+   - Located next to Saffron Gym; defeat the Karate Master to choose between Hitmonlee or Hitmonchan.
+
+4. **Saffron Gym**: 
+   - Leader: Sabrina (Psychic-type Pokémon).
+   - Use Normal, Flying, or Rock-type moves due to Psychic Pokémon's low Defense.
+   - Navigate through warp tiles to reach Sabrina.
+   - **Defeat Sabrina** for the Marsh Badge and TM46 (Psywave).
+
+**Battle Strategies**
+- **Giovanni** (Final battle in Silph Co.):
+  - Use Ground-type moves against Nidorino, Rhyhorn, and Nidoqueen.
+  - Use Fighting moves against Kangaskhan.
+  
+**Next Steps**
+- After defeating Sabrina, head to Fuchsia City via Cycling Road or the coastal route south of Lavender Town.

@@ -1,0 +1,49 @@
+Game: Black_and_White
+Part: 18
+Keywords: Black City and White Forest, Route 15, Poké Transfer Lab, Marvelous Bridge, Route 16, Lostlorn Forest
+
+**Part 18 Walkthrough: Black City, White Forest, and Surrounding Routes**
+
+**Black City (Black Version only)**
+- **Overview:** The city grows with more residents depending on your game progress. Battle various Trainers here.
+- **Market:** Located west of the Pokémon Center; offers expensive evolution-related items. Defeat 10 Trainers outside for a reward of $10,000.
+- **Notable Trainers:**
+  - **Roughneck Johnny** (Galvantula, Gothitelle, Krookodile) - Reward: $2080
+  - **Backpacker Kiyo** (Heatmor, Beartic, Excadrill) - Reward: $1560
+- **Items Sold:** Includes Fresh Water ($1000), various evolutionary stones ($10,000 each), and rare items like Nugget ($50,000).
+
+**White Forest (White Version only)**
+- **Overview:** The forest attracts Pokémon as residents come and go. Pokémon found here are all level 5 and vary based on residents.
+- **Mayor's House:** Show the Mayor a specific Pokémon daily for a berry reward (Pecha, Bluk, etc.).
+- **Notable Trainers:** 
+  - **School Kid Shayne** (Scrafty, Cofagrigus, Reuniclus) - Reward: $1300
+  - **Nursery Aide Briana** (Chandelure, Cinccino, Vanilluxe) - Reward: $2600.
+
+**Route 15**
+- **Poké Transfer Lab:** Allows Pokémon transfer from Generation IV games. Participate in the minigame here.
+- **Notable Trainers:**
+  - **Pokéfan Elliot** (Gulpin, Drifloon, etc.) - Reward: $3968
+  - **Pokémon Ranger Shelly** (Altaria, Abomasnow) - Reward: $3900.
+
+**Marvelous Bridge**
+- **Overview:** A scenic bridge connecting Routes 15 and 16. Daily battles against an Ace Trainer (Glinda) who challenges you to a Triple or Rotation Battle.
+- **Notable Events:** Encounter the Vanishing Girl and the Shadow Triad who give you the Adamant, Lustrous, and Griseous Orbs.
+- **Magikarp Salesman:** Purchase a Magikarp for $500.
+
+**Route 16**
+- **Overview:** Short route linking Marvelous Bridge to Nimbasa City, leading to Lostlorn Forest.
+- **Notable Trainers:**
+  - **Policeman Daniel** (Herdier) - Reward: $960
+  - **Cyclist Krissa** (Ducklett, Liepard) - Reward: $704.
+
+**Lostlorn Forest**
+- **Overview:** Small forest area with a river. Contains a Big Mushroom and Rare Candy.
+- **Notable Trainers:** Backpacker who discusses a mysterious woman in a trailer.
+- **Available Pokémon:** Includes Swadloon, Cottonee, Petilil, and others.
+
+**Key Items Locations:**
+- **Route 15:** Up-Grade, TM09 (Venoshock), Sitrus Berries.
+- **Route 16:** Rare Candy, TM66 (Payback), Charcoal.
+- **Lostlorn Forest:** Big Mushroom, Rare Candy.
+
+Complete your Pokédex by capturing new Pokémon found throughout these areas.

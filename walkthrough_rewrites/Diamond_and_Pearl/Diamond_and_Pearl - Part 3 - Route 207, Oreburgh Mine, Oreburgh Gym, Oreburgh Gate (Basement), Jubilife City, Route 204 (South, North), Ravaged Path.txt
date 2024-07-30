@@ -1,0 +1,59 @@
+Game: Diamond_and_Pearl
+Part: 3
+Keywords: Route 207, Oreburgh Mine, Oreburgh Gym, Oreburgh Gate (Basement), Jubilife City, Route 204 (South, North), Ravaged Path
+
+**Part 3 Walkthrough Summary**
+
+**Route 207**
+- Obtain the **Bicycle** to access more areas.
+- Wild Pokémon: **Machop** (5-7), **Geodude** (5-7).
+- Items: **Poké Balls** (2 in tall grass).
+
+**Oreburgh Mine**
+- Speak to **Gym Leader Roark** in the basement to unlock the **Oreburgh Gym**.
+- Battle two workers for experience.
+- Wild Pokémon: **Onix** (7-9), **Zubat** (6-8), **Geodude** (4-10).
+- Items: **Escape Rope**, **Potion**, **X Defend**.
+
+**Oreburgh Gym**
+- Recommended level: **13+**.
+- Trainers: Youngster Jonathon (Geodude lv. 10), Youngster Darius (Geodude lv. 8, Onix lv. 8).
+- Leader Roark's team: 
+  - Geodude lv. 12
+  - Onix lv. 12
+  - Cranidos lv. 14 (high attack; use Water, Grass, or Fighting moves).
+- Reward: **Coal Badge**, **TM76 (Stealth Rock)**.
+
+**Oreburgh Gate (Basement)**
+- Use **Rock Smash** to access items and **Psyduck** (7-10).
+- Items: **TM70 (Flash)**, **Stardust**.
+
+**Jubilife City**
+- After the gym, head north for a multi-battle with Team Galactic.
+- Receive a **Fashion Case** and access to **Jubilife TV** and the **Global Trade Station (GTS)**.
+
+**Jubilife TV**
+- Daily battles with trainers depending on the day.
+- Use the Lottery Corner for prizes based on Pokémon ID matches.
+
+**Global Trade Station (GTS)**
+- Trade Pokémon online using the Nintendo Wi-Fi Connection.
+
+**Pokétch Company**
+- Obtain the **Memo Pad** after getting the Coal Badge.
+
+**Route 204 (South)**
+- Access the southern area and pick up **Parlyz Heal**.
+- Use Rock Smash to enter **Ravaged Path**.
+
+**Ravaged Path**
+- Items: **Antidote**, **TM39 (Rock Tomb)**.
+
+**Route 204 (North)**
+- Higher level wild Pokémon. Items: **Awakening**, **TM09 (Bullet Seed)**.
+- Battle trainers and head to **Floaroma Town**.
+
+**Later...**
+- Return to collect items using **Cut** and **Surf** after obtaining those abilities.
+
+This concise guide focuses on essential tasks, battles, and item locations to progress smoothly through the game.

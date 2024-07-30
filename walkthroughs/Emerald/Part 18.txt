@@ -1,0 +1,1668 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_18
+Keywords: Sky Pillar, Ever Grande City, Victory Road
+
+Walkthrough Text:
+Contents
+1
+Sky Pillar (optional)
+1.1
+1F-5F
+1.2
+Apex
+2
+Trick House - Puzzle 7 (optional)
+3
+Now that you can use Waterfall (optional)
+3.1
+Route 114
+3.2
+Route 119
+4
+Meteor Falls (optional)
+4.1
+1F (front)
+4.2
+1F (back)
+4.3
+B1F (front)
+5
+Ever Grande City (south)
+6
+Victory Road
+6.1
+1F
+6.1.1
+VS Wally
+6.2
+B1F
+6.3
+B2F
+6.4
+B1F
+6.5
+1F
+7
+Ever Grande City (north)
+Sky Pillar (optional)
+Sky Pillar, 1F
+Sky Pillar, 2F
+Sky Pillar, 3F
+Sky Pillar, 4F
+Sky Pillar, 5F
+Sky Pillar, 6F
+Inmediately after putting an end to the battle between
+Groudon
+and
+Kyogre
+,
+Rayquaza
+has returned home to
+Sky Pillar
+. The building's advanced age coupled with the dragon's movements have left several areas of flooring
+unstable
+, which makes the
+Mach Bike
+necessary to reach the apex this time around.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golbat
+R
+S
+E
+1F
+34-35
+30%
+Sableye
+R
+S
+E
+1F
+33-34
+30%
+Claydol
+R
+S
+E
+1F
+36-38
+25%
+Banette
+R
+S
+E
+1F
+37-38
+15%
+3F
+Golbat
+R
+S
+E
+3F
+34-35
+30%
+Sableye
+R
+S
+E
+3F
+33-34
+30%
+Claydol
+R
+S
+E
+3F
+36-38
+25%
+Banette
+R
+S
+E
+3F
+37-38
+15%
+5F
+Golbat
+R
+S
+E
+5F
+34-35
+30%
+Sableye
+R
+S
+E
+5F
+33-34
+30%
+Claydol
+R
+S
+E
+5F
+36-38
+19%
+Banette
+R
+S
+E
+5F
+37-38
+15%
+Altaria
+R
+S
+E
+5F
+38-39
+6%
+Special Pokémon
+Rayquaza
+R
+S
+E
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F-5F
+Enter the tower and climb the stairs to 2F. There are several patches of unstable floor here, so use the Mach Bike to speed over them and continue on. Things get tricky on 4F, where you must once again stop cycling on one of two cracked tiles on the north side of the floor; this causes you to fall back down to the previously-inaccessible part of 3F. Climb to 5F and take the stairs in the northeast to reach the apex.
+Apex
+Upon reaching the rooftop, you find the legendary creature fully awake beyond the final flight of stairs. At level 70,
+Rayquaza
+is the highest-leveled Pokémon before the credits, and as such, easily warrants the use of a
+Master Ball
+. If you want to save the Master Ball, you will need a similarly high-leveled Pokémon with excellent stats and several dozen
+Timer Balls
+. Be sure to
+SAVE THE GAME
+before trying to catch it! As a
+Dragon
+/
+Flying
+Pokémon, it is especially vulnerable to
+Ice
+attacks, but Dragon- and
+Rock-type
+moves are also useful. Begin with these super-effective moves to deal heavy damage, and consider putting it to sleep before it can restore its health with
+Rest
+. Follow up with
+Grass
+,
+Fire
+, and
+Water
+moves to wear its health away even further. Beware of its most dangerous move,
+Outrage
+: after rampaging for several turns, Rayquaza becomes confused from fatigue. While it can deal serious damage to its target, it may also cause the dragon to attack itself in its confusion, and could end up knocking itself out! If you do manage to catch it, it will prove to be useful against the
+Elite Four
+.
+Types:
+Dragon
+Flying
+Ability:
+Air Lock
+Held item:
+None
+Rayquaza
+Lv.
+70
+Fly
+Flying
+--
+Rest
+Psychic
+--
+ExtremeSpeed
+Normal
+--
+Outrage
+Dragon
+--
+Trick House - Puzzle 7 (optional)
+In
+Trick House
+now you can complete puzzle 7.
+Now that you can use Waterfall (optional)
+A few new items on routes
+114
+and
+119
+become accessible.
+Route 114
+Route 114
+Item
+Location
+Games
+Rare Candy
+In the small patch of land west of the top of the waterfall (requires
+Surf
+and
+Waterfall
+)
+E
+Route 119
+Route 119
+Item
+Location
+Games
+Hondew Berry
+×4
+Soft soil patch near the upper waterfall (requires
+Surf
+,
+Waterfall
+)
+E
+Nugget
+Far north past the upper waterfall (requires
+Acro Bike
+,
+Surf
+, and
+Waterfall
+)
+E
+Rare Candy
+Northwest of the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+,
+Devon Scope
+)
+E
+Meteor Falls (optional)
+Meteor Falls, 1F (front)
+Meteor Falls, B1F (front)
+Meteor Falls, 1F (back)
+Meteor Falls, B1F (back)
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+,
+Waterfall
+Old Couple
+John and Jay
+Reward:
+$
+3120
+Medicham
+♂
+Lv.
+39
+No item
+Hariyama
+♂
+Lv.
+39
+No item
+Dragon Tamer
+Nicolas
+Reward:
+$
+1776
+Altaria
+♂
+Lv.
+37
+No item
+Altaria
+♂
+Lv.
+37
+No item
+Rematch
+Old Couple
+John and Jay
+Reward:
+$
+3440
+/
+3680
+/
+3920
+/
+4160
+Medicham
+♂
+Lv.
+43
+/
+46
+/
+49
+/
+52
+No item
+Hariyama
+♂
+Lv.
+43
+/
+46
+/
+49
+/
+52
+No item
+Dragon Tamer
+Nicolas
+*
+Reward:
+$
+1968
+/
+2112
+Altaria
+♂
+Lv.
+41
+/
+44
+No item
+Altaria
+♂
+Lv.
+41
+/
+44
+No item
+Dragon Tamer
+Nicolas
+*
+Reward:
+$
+2208
+Bagon
+♂
+Lv.
+46
+No item
+Altaria
+♂
+Lv.
+46
+No item
+Altaria
+♂
+Lv.
+46
+No item
+Dragon Tamer
+Nicolas
+*
+Reward:
+$
+2352
+Altaria
+♂
+Lv.
+49
+No item
+Altaria
+♂
+Lv.
+49
+No item
+Shelgon
+♂
+Lv.
+49
+Dragon Fang
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+1F (front)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+S
+E
+Cave
+14-20
+80%
+Solrock
+R
+S
+E
+Cave
+14, 16, 18
+20%
+Surfing
+Zubat
+R
+S
+E
+Surfing
+5-35
+90%
+Solrock
+R
+S
+E
+Surfing
+5-35
+10%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Super Rod
+20-45
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F (back), B1F (front)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+33, 35, 38, 40
+65%
+Solrock
+R
+S
+E
+Cave
+33, 35, 37, 39
+35%
+Surfing
+Golbat
+R
+S
+E
+Surfing
+30-35
+90%
+Solrock
+R
+S
+E
+Surfing
+5-35
+10%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Super Rod
+20-35
+80%
+Whiscash
+R
+S
+E
+Fishing
+Super Rod
+30-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F (back)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+33, 35, 38, 40
+50%
+Solrock
+R
+S
+E
+Cave
+35, 37, 39
+25%
+Bagon
+R
+S
+E
+Cave
+25, 30, 35
+25%
+Surfing
+Golbat
+R
+S
+E
+Surfing
+30-35
+90%
+Solrock
+R
+S
+E
+Surfing
+5-35
+10%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Super Rod
+20-35
+80%
+Whiscash
+R
+S
+E
+Fishing
+Super Rod
+30-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM23
+(
+Iron Tail
+)
+Northwestern-most hill, accessed via B1F (requires
+Surf
+,
+Waterfall
+)
+E
+PP Up
+Southeastern hill, accessed via B1F (requires
+Surf
+,
+Waterfall
+)
+E
+B1F
+TM02
+(
+Dragon Claw
+)
+In the dead-end back chamber (requires
+Surf
+,
+Waterfall
+)
+E
+1F (front)
+Enter
+Meteor Falls
+and scale the upper waterfall to reach the second part of 1F.
+1F (back)
+A series of ledges restrict movement from this direction, so go northeast and climb down the ladder.
+B1F (front)
+A short distance away, you find a fork in the road.
+Taking the northwest ladder leads to the previous chamber, where another ladder leads back here. This lets you
+Surf
+across the water to the north doorway, which leads to a tiny chamber with
+TM02
+(
+Dragon Claw
+). It's also the only area where wild
+Bagon
+can be found. Surf southeast from that chamber to another doorway which leads to a part of the entrance chamber that holds a
+PP Up
+.
+Taking the southwest ladder leads to the far northwest hill in the entrance chamber. Collect
+TM23
+(
+Iron Tail
+).
+Ever Grande City (south)
+Ever Grande City
+High above the ocean,
+Ever Grande City
+is lush with grass and flowers. The large waterfall makes it impossible to reach the city itself without a Pokémon able to
+scale
+the cascading waters. The island is divided by
+Victory Road
+, which runs through a large mountain at the center of the isle. Visit the Pokémon Center to make your preparations before braving this final challenge on the road to the
+Pokémon League
+, also in here inside is
+Scott
+to talk with him in his last localization before completing the game.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Luvdisc
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Luvdisc
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Corsola
+R
+S
+E
+Fishing
+Super Rod
+30-35
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Victory Road
+Victory Road, 1F
+Victory Road, B1F
+Victory Road, B2F
+Victory Road
+, the long, tough trail through the mountainside, is the final challenge on the road to the
+Pokémon League
+. This grueling trail serves as a way to weed out all but the most determined Trainers. The field moves
+Surf
+,
+Strength
+,
+Rock Smash
+, and
+Waterfall
+are required to reach the other side, while
+Flash
+is optional. If you can make it through this daunting tunnel, you just might have what it takes to enter the
+Hall of Fame
+!
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Albert
+Reward:
+$
+2064
+Magneton
+Lv.
+43
+No item
+Muk
+♂
+Lv.
+43
+No item
+Cooltrainer
+Hope
+Reward:
+$
+2160
+Roselia
+♀
+Lv.
+45
+No item
+Cooltrainer
+Shannon
+Reward:
+$
+2160
+Claydol
+Lv.
+45
+No item
+Cooltrainer
+Samuel
+Reward:
+$
+2016
+Swellow
+♂
+Lv.
+42
+No item
+Mawile
+♂
+Lv.
+42
+No item
+Kadabra
+♂
+Lv.
+42
+No item
+Cooltrainer
+Julie
+Reward:
+$
+2016
+Sandslash
+♀
+Lv.
+42
+No item
+Ninetales
+♀
+Lv.
+42
+No item
+Tropius
+♀
+Lv.
+42
+No item
+Cooltrainer
+Owen
+Reward:
+$
+2016
+Kecleon
+♂
+Lv.
+42
+No item
+Graveler
+♂
+Lv.
+42
+No item
+Wailord
+♂
+Lv.
+42
+No item
+Cooltrainer
+Dianne
+Reward:
+$
+2064
+Potential
+Double Battle
+with Felix
+Claydol
+Lv.
+43
+No item
+Lanturn
+♀
+Lv.
+43
+No item
+Cooltrainer
+Felix
+Reward:
+$
+2064
+Potential
+Double Battle
+with Dianne
+Medicham
+♂
+Lv.
+43
+No item
+Claydol
+Lv.
+43
+No item
+Cooltrainer
+Caroline
+Reward:
+$
+2064
+Skarmory
+♀
+Lv.
+43
+No item
+Sableye
+♀
+Lv.
+43
+No item
+Cooltrainer
+Vito
+Reward:
+$
+2016
+Dodrio
+♂
+Lv.
+42
+No item
+Kadabra
+♂
+Lv.
+42
+No item
+Electrode
+Lv.
+42
+No item
+Shiftry
+♂
+Lv.
+42
+No item
+Cooltrainer
+Michelle
+Reward:
+$
+2016
+Torkoal
+♀
+Lv.
+42
+No item
+Medicham
+♀
+Lv.
+42
+No item
+Ludicolo
+♀
+Lv.
+42
+No item
+Cooltrainer
+Mitchell
+Reward:
+$
+2064
+Potential
+Double Battle
+with Halle
+Lunatone
+Lv.
+43
+No item
+Solrock
+Lv.
+43
+No item
+Cooltrainer
+Halle
+Reward:
+$
+2064
+Potential
+Double Battle
+with Mitchell
+Sableye
+♀
+Lv.
+43
+No item
+Absol
+♀
+Lv.
+43
+No item
+Cooltrainer
+Edgar
+Reward:
+$
+2064
+Cacturne
+♂
+Lv.
+43
+No item
+Pelipper
+♂
+Lv.
+43
+No item
+Cooltrainer
+Katelynn
+Reward:
+$
+2064
+Potential
+Double Battle
+with Quincy
+Gardevoir
+♀
+Lv.
+43
+No item
+Slaking
+♀
+Lv.
+43
+No item
+Cooltrainer
+Quincy
+Reward:
+$
+2064
+Potential
+Double Battle
+with Katelynn
+Slaking
+♂
+Lv.
+43
+No item
+Dusclops
+♂
+Lv.
+43
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+38, 40
+25%
+Hariyama
+R
+S
+E
+Cave
+38, 40
+25%
+Zubat
+R
+S
+E
+Cave
+36
+10%
+Loudred
+R
+S
+E
+Cave
+40
+10%
+Makuhita
+R
+S
+E
+Cave
+36
+10%
+Lairon
+R
+S
+E
+Cave
+40
+10%
+Whismur
+R
+S
+E
+Cave
+36
+5%
+Aron
+R
+S
+E
+Cave
+36
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+38, 40, 42
+35%
+Hariyama
+R
+S
+E
+Cave
+38, 40, 42
+35%
+Lairon
+R
+S
+E
+Cave
+40, 42
+25%
+Mawile
+R
+S
+E
+Cave
+38
+5%
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+30-40
+30%
+Graveler
+R
+S
+E
+Rock Smash
+35-40
+70%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+40, 42, 44
+35%
+Sableye
+R
+S
+E
+Cave
+40, 42, 44
+35%
+Lairon
+R
+S
+E
+Cave
+40, 42, 44
+25%
+Mawile
+R
+S
+E
+Cave
+42, 44
+5%
+Surfing
+Golbat
+R
+S
+E
+Surfing
+25-40
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Whiscash
+R
+S
+E
+Fishing
+Super Rod
+30-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Elixir
+On a ledge on the east side of the floor
+E
+PP Up
+On the southeast cliff, accessible via B1F
+E
+Ultra Ball
+On the west edge of the southeast cliff, accessible via B1F (hidden)
+E
+B1F
+Full Restore
+North of Cooltrainer Samuel (requires
+Strength
+,
+Rock Smash
+)
+E
+TM29
+(
+Psychic
+)
+Isolated northeast cliff, accessible via B2F
+E
+B2F
+Max Repel
+In a nook near the northeast ladder (hidden)
+E
+Full Heal
+Between the two waterfalls, near Cooltrainer Vito
+E
+Elixir
+In a nook atop the eastern waterfall (hidden)
+E
+1F
+Head north under the first two bridges and climb the north-northwest stairway. Turn east and cross over these next two bridges to reach a
+Max Elixir
+on a ledge to the east. Jump the ledge and head to the northwest, battling Cooltrainer Albert on the way. Climb the west-central stairway and cross the bridge, and
+Wally
+appears from the south. His defeat in your previous battle forced him to become stronger, and you find that the sickly, weak-willed kid you met back in
+Petalburg City
+is no more. In his place stands a confident Trainer, ready to show off how much training he's done!
+VS Wally
+Wally leads with his
+Altaria
+, a
+Dragon
+/
+Flying
+type that is especially vulnerable to
+Ice
+attacks. It can raise its
+Attack
+and
+Speed
+with
+Dragon Dance
+, so use super-effective moves to take it down before it becomes a major threat.
+Delcatty
+may be his weakest Pokémon, but it can still cause problems with
+Sing
+,
+Charm
+, and its
+Cute Charm
+Ability. Its stats aren't very threatening, but knock it out quickly to avoid these pitfalls. With moves like
+Toxic
+and
+Leech Seed
+, his
+Roselia
+can tip the battle in his favor as time goes on. Knock it out with
+Fire
+,
+Ice
+,
+Flying
+, or
+Psychic
+moves.
+Magneton
+can be a major threat due to its high
+Special Attack
+; strike it with
+Ground
+moves to take it down. Finally, Wally resorts to using his
+Gardevoir
+.
+Psychic
+and
+Future Sight
+are strong attacks that receive a
+same-type attack bonus
+, and
+Calm Mind
+can boost its damage output to dangerous levels. Use
+Dark
+,
+Ghost
+, and
+Bug
+moves to knock it out and win the battle.
+P
+K
+M
+N
+Trainer
+Wally
+Victory Road
+Emerald
+Reward:
+$
+2700
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+44
+Aerial Ace
+Flying
+--
+Safeguard
+Normal
+--
+DragonBreath
+Dragon
+--
+Dragon Dance
+Dragon
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+43
+Sing
+Normal
+--
+Assist
+Normal
+--
+Charm
+Normal
+--
+Faint Attack
+Dark
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+44
+Magical Leaf
+Grass
+--
+Leech Seed
+Grass
+--
+Giga Drain
+Grass
+--
+Toxic
+Poison
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+41
+Supersonic
+Normal
+--
+Thunderbolt
+Electric
+--
+Tri Attack
+Normal
+--
+Screech
+Normal
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Gardevoir
+♂
+Lv.
+45
+Double Team
+Normal
+--
+Calm Mind
+Psychic
+--
+Psychic
+Psychic
+--
+Future Sight
+Psychic
+--
+Wally admits that he couldn't defeat you this time, but promises to continue his training and catch up to you one day. From this point on, he remains in Victory Road to train, and may be challenged to a rematch after entering the
+Hall of Fame
+. Battle Cooltrainer Hope in the northwest corner, and take the ladder down to B1F.
+B1F
+As this level is deeper underground, it's a good idea to use
+Flash
+to light the way. There are two boulders nearby; use
+Strength
+to move the first boulder westward and the second boulder eastward. This leads to a fork in the road. Take the northern path past cracked rocks (using
+Rock Smash
+), boulders, and Cooltrainer Shannon to reach the ladder in the southeast corner; this leads to a
+PP Up
+and a hidden
+Ultra Ball
+on 1F. Back on B1F, jump the nearby ledge and head north past Cooltrainer Samuel to find a
+Full Restore
+beyond some boulders and a cracked rock. Backtrack to the southeast ledge, then go west to reach the next ladder.
+B2F
+Go north to fight Cooltrainer Julie and
+Surf
+north across the water's edge. Climb the stairway, check the nook in the north wall for a hidden
+Max Repel
+, then take the northeast ladder to an isolated cliff on B1F, which holds
+TM29
+(
+Psychic
+). Back on B2F, head south to battle Cooltrainer Owen. After that, pass over the two bridges to fight Cooltrainer Caroline at the west end. Go north to find yourself at the top of a waterfall. Surf out to the northeast to battle
+Cooltrainer Vito
+(the last member of
+Winstrate family
+) and claim a
+Full Heal
+, then continue east to find a hidden
+Elixir
+atop the eastern waterfall. Turn around and ride down the western waterfall before turning east to reach the next ladder.
+B1F
+Fight the three nearby Cooltrainers, then head southeast and use Strength and Rock Smash to clear a way to the final ladder.
+1F
+Cross over the final bridge and head north to fight Cooltrainer Edgar. Go a short distance northward and turn the corner to come within view of the exit.
+Ever Grande City (north)
+With
+Victory Road
+behind you, only a long, stone walkway separates you from the Pokémon League, where the Elite Four and Champion await your challenge. Follow the walkway to the large building at its end, and prepare for your final test.
+← Part 17
+Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+Emerald
+walkthrough
+Pokémon League
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

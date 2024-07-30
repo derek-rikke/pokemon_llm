@@ -1,0 +1,52 @@
+Game: HeartGold_and_SoulSilver
+Part: 10
+Keywords: Route 44, Ice Path, Blackthorn City
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 10
+
+#### Cianwood City
+- **Cianwood City** is a small coastal town with a Gym and Pharmacy.
+- **Available Pokémon**: 
+  - **Surfing**: Tentacool (10-25), Tentacruel (15-25)
+  - **Fishing**: Magikarp (10), Krabby (10-20), Corsola (20)
+  - **Rock Smash**: Krabby (15-24), Shuckle (23-28)
+
+- **Items**:
+  - **Stardust**: Hidden between drying racks
+  - **SecretPotion**: After speaking with Jasmine at Olivine Lighthouse
+  - **TM01 (Focus Punch)**: Defeat Chuck
+  - **HM02 (Fly)**: From Chuck's wife after defeating him
+  - **Revive**: Hidden next to the northernmost house
+
+#### Cianwood Gym
+- **Leader**: Chuck (Fighting-type)
+  - **Primeape**: Lv. 29 (Rock Slide, Focus Punch)
+  - **Poliwrath**: Lv. 31 (Hypnosis, Surf, Focus Punch)
+- **Strategy**: Use Flying, Psychic, Grass, or Electric-type moves. Healing items like Awakening can help.
+
+#### After the Gym
+- Receive **HM02 (Fly)** from Chuck's wife. 
+- Encounter **Suicune** on the beach; battle **Eusine**.
+  - **Eusine's Team**: Drowzee, Haunter, Electrode (use Ghost and Dark-type moves).
+
+#### Olivine City
+- **Olivine Lighthouse**: Deliver **SecretPotion** to Jasmine; she will return to the Gym.
+- **Olivine Gym**
+  - **Leader**: Jasmine (Steel-type)
+    - **Magnemite**: Lv. 30 (Thunderbolt)
+    - **Steelix**: Lv. 35 (Iron Tail, Rock Throw)
+- **Strategy**: Use Fire, Fighting, or Ground-type moves.
+
+#### Route 42
+- Connects Ecruteak City to Mahogany Town.
+- **Available Pokémon**: Spearow, Zubat, Mareep (Grass encounters).
+- **Items**:
+  - **TM65 (Shadow Claw)**: Near Mt. Mortar entrance
+  - **HM04 (Strength)**: From a Hiker near Mt. Mortar
+
+#### Mt. Mortar
+- **Trainers**: Various Pokémon trainers, including Poké Maniacs and Super Nerds.
+- **Strategy**: Use Surf, Strength, and Flash for navigation. Collect items like Hyper Potion, Revive, and Max Potion.
+
+#### Conclusion
+- After clearing Cianwood and Olivine, head to Route 42 and prepare for the mountainous region ahead.

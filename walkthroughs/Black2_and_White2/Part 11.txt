@@ -1,0 +1,2040 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_11
+Keywords: Lentimas Town, Strange House, Reversal Mountain, Undella Town, Undella Bay
+
+Walkthrough Text:
+Contents
+1
+Lentimas Town
+1.1
+Juniper Tells a Story
+1.2
+Move Tutor
+2
+Strange House
+2.1
+Entrance Hall
+2.2
+B1F
+2.3
+Entrance Hall
+2.4
+B1F
+2.5
+Entrance Hall
+3
+Reversal Mountain
+B2
+3.1
+Lentimas chamber
+3.2
+Main chamber
+3.3
+Mountainside
+3.4
+Main chamber
+3.5
+Basement chamber
+3.6
+Main chamber
+3.7
+Undella chamber
+4
+Reversal Mountain
+W2
+4.1
+Lentimas chamber
+4.2
+Main chamber
+4.3
+Mountainside
+4.4
+Main chamber
+4.5
+Basement chamber
+4.6
+Main chamber
+4.7
+Undella chamber
+5
+Undella Town
+5.1
+The Billionaire
+5.2
+Marine Tube
+5.3
+Caitlin's villa
+5.4
+Funfest Mission
+5.5
+Rival battle
+6
+Undella Bay
+6.1
+Jellicent
+Lentimas Town
+Lentimas Town
+Lentimas Town
+is a tiny, isolated town known for its porcelain and pottery made from volcanic clay. A Move Tutor who is obsessed with
+Blue Shards
+resides here. The expansive
+Reversal Mountain
+lies to the east.
+Items
+Item
+Location
+Games
+Fire Stone
+On the hill behind the Pokémon Center
+B2
+W2
+TM57
+(
+Charge Beam
+)
+From a woman in the southwest house
+B2
+W2
+Spell Tag
+From an old woman in the Pokémon Center
+B2
+W2
+Juniper Tells a Story
+When the group gets off of the plane,
+Professor Juniper
+explains why she brought you along. Two years ago, the legendary dragons
+Reshiram
+and
+Zekrom
+each recognized a different Trainer as the hero, and followed its chosen Trainer. Juniper believes that there is no way
+Team Plasma
+can use them in their plans. She wants you to visit
+Opelucid City
+and ask
+Drayden
+, the mayor, about the legendary dragons. To reach Opelucid, you need to first travel east through
+Reversal Mountain
+, where
+Bianca
+is headed to do some research on
+Heatran
+.
+Move Tutor
+A Move Tutor lives in the western house. He is obsessed with
+Blue Shards
+, and will teach a variety of moves for the right number of Shards. The next Gym's weaknesses include
+Ice
+- and
+Dragon-type
+attacks, so you may want to have him teach
+Icy Wind
+and
+Dragon Pulse
+now.
+Move
+Type
+Category
+Shards
+Last Resort
+2
+Iron Defense
+2
+Magnet Rise
+4
+Magic Coat
+4
+Block
+6
+Hyper Voice
+6
+Electroweb
+6
+Icy Wind
+6
+Iron Tail
+6
+Move
+Type
+Category
+Shards
+Aqua Tail
+8
+Earth Power
+8
+Zen Headbutt
+6
+Foul Play
+8
+Superpower
+10
+Gravity
+10
+Dragon Pulse
+10
+Dark Pulse
+10
+Strange House
+Strange House
+East of
+Lentimas Town
+is a rugged canyon. Hidden away in the eastern part of the canyon is the
+Strange House
+, an old building that is known for a sad incident that occurred here. A ghost sometimes appears inside, and pieces of furniture move around on their own.
+Trainers
+Trainer
+Pokémon
+Backpacker
+Boone
+Reward:
+$
+864
+Numel
+♂
+Lv.
+36
+No item
+Sigilyph
+♂
+Lv.
+36
+No item
+Psychic
+Lynette
+Reward:
+$
+1152
+Drifloon
+♀
+Lv.
+36
+No item
+Spoink
+♀
+Lv.
+36
+No item
+Drifblim
+♀
+Lv.
+36
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+B1F, 1F-2F
+Litwick
+B2
+W2
+B1F, 1F-2F
+31-33
+30%
+Gothita
+B2
+W2
+B1F, 1F-2F
+31
+20%
+Solosis
+B2
+W2
+B1F, 1F-2F
+31
+20%
+Raticate
+B2
+W2
+B1F, B1F-2F
+32-34
+15%
+Golbat
+B2
+W2
+B1F, 1F-2F
+32-33
+15%
+Banette
+B2
+W2
+B1F, 1F-2F
+32-34
+15%
+Gothorita
+B2
+W2
+B1F, 1F-2F
+34
+5%
+Duosion
+B2
+W2
+B1F, 1F-2F
+34
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Spell Tag
+B2F; in the center of the room
+B2
+W2
+Full Heal
+Entrance Hall; in the lower-west room
+B2
+W2
+Dusk Stone
+B2F; southeast part of the library
+B2
+W2
+Rare Candy
+Entrance Hall; in the upper-east room
+B2
+W2
+Lunar Wing
+Entrance Hall; in the upper-middle room
+B2
+W2
+Entrance Hall
+When you enter the building, all areas except one are blocked off by furniture. Go left and take the stairs to the basement.
+B1F
+The basement houses a library. Books on the six freestanding bookcases all talk about Pokémon or moves that involve sleep or dreams. Pick up the
+Spell Tag
+and climb the eastern stairs.
+Entrance Hall
+Backpacker Boone is waiting to battle in the nearest room. Climb the staircase to the upper level and go west. A ghost girl appears, and calls out to her family before disappearing. Loop around to reach the lower-west room, and pick up the
+Full Heal
+inside. Take the western stairs to return to the basement.
+B1F
+Make your way along the new route through the library, and grab the
+Dusk Stone
+on your way eastward.
+Entrance Hall
+Climb the eastern staircase to reach a
+Rare Candy
+in the upper-east room. You can battle Psychic Lynette in the upper-west room, then climb the center staircase. The ghost girl appears again, and talks about hearing her father in the dark dream. Enter the room to find the
+Lunar Wing
+. When you pick it up, the ghost girl appears one last time. She asks you to return the feather someday to the
+Pokémon
+that lost it, before fading away.
+Reversal Mountain
+B2
+Reversal Mountain exterior
+Reversal Mountain 1F
+Reversal Mountain B1F
+Reversal Mountain
+is an ancient, sprawling volcano. The area witnessed a huge eruption long ago, and now lies dormant as rainwater collects in the crater. While inside the mountain, much like
+Relic Passage
+, you can find
+colored shards
+here from the
+dust clouds
+that randomly pop up. The exit leads east to
+Undella Town
+.
+Trainers
+Outside
+Trainer
+Pokémon
+Cyclist
+Jeremiah
+Reward:
+$
+1184
+Zebstrika
+♂
+Lv.
+37
+No item
+Cyclist
+Adelaide
+Reward:
+$
+1184
+Unfezant
+♀
+Female
+Lv.
+37
+No item
+Inside
+Trainer
+Pokémon
+1F
+Black Belt
+Corey
+Reward:
+$
+1184
+Rotation Battle
+Gurdurr
+♂
+Lv.
+37
+No item
+Scraggy
+♂
+Lv.
+37
+No item
+Scraggy
+♂
+Lv.
+37
+No item
+Hiker
+Markus
+Reward:
+$
+2072
+(with Backpacker Kiyo)
+Gurdurr
+♂
+Lv.
+37
+No item
+Crustle
+♂
+Lv.
+37
+No item
+Backpacker
+Kiyo
+Reward:
+$
+2072
+(with Hiker Markus)
+Golbat
+♂
+Lv.
+37
+No item
+Swanna
+♂
+Lv.
+37
+No item
+Pokémon Ranger
+Eliza
+Reward:
+$
+2280
+Banette
+♀
+Lv.
+38
+No item
+Golduck
+♀
+Lv.
+38
+No item
+Doctor
+Derek
+Reward:
+$
+2280
+Swoobat
+♂
+Lv.
+38
+No item
+Battle Girl
+Chan
+Reward:
+$
+1184
+Triple Battle
+Riolu
+♂
+Lv.
+37
+No item
+Gurdurr
+♂
+Lv.
+37
+No item
+Riolu
+♂
+Lv.
+37
+No item
+Backpacker
+Kumiko
+Reward:
+$
+2072
+(with Hiker Jared)
+Golbat
+♀
+Lv.
+37
+No item
+Darmanitan
+♀
+Lv.
+37
+No item
+Hiker
+Jared
+Reward:
+$
+2072
+(with Backpacker Kumiko)
+Boldore
+♂
+Lv.
+37
+No item
+Excadrill
+♂
+Lv.
+37
+No item
+Ace Trainer
+Ray
+Reward:
+$
+4680
+(with Ace Trainer Cora)
+Vibrava
+♂
+Lv.
+39
+No item
+Camerupt
+♂
+Lv.
+39
+No item
+Ace Trainer
+Cora
+Reward:
+$
+4680
+(with Ace Trainer Ray)
+Grumpig
+♀
+Lv.
+39
+No item
+Drifblim
+♀
+Lv.
+39
+No item
+B1F
+Pokémon Ranger
+Lewis
+Reward:
+$
+2280
+Watchog
+♂
+Lv.
+38
+No item
+Grumpig
+♂
+Lv.
+38
+No item
+Available Pokémon
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Skorupi
+B2
+W2
+Grass
+31-33
+30%
+Spoink
+B2
+W2
+Grass
+31
+20%
+Drifblim
+B2
+W2
+Grass
+32-33
+20%
+Trapinch
+B2
+W2
+Grass
+32-34
+15%
+Grumpig
+B2
+W2
+Grass
+33
+10%
+Skarmory
+B2
+W2
+Grass
+34
+5%
+Dark grass
+Skorupi
+B2
+W2
+Dark grass
+35-37
+30%
+Grumpig
+B2
+W2
+Dark grass
+35-37
+30%
+Drifblim
+B2
+W2
+Dark grass
+36-37
+20%
+Skarmory
+B2
+W2
+Dark grass
+36-38
+15%
+Vibrava
+B2
+W2
+Dark grass
+38
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+31-34
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrances
+Woobat
+B2
+W2
+Cave
+32-35
+35%
+Boldore
+B2
+W2
+Cave
+32-35
+25%
+Spoink
+B2
+W2
+Cave
+31
+20%
+Skorupi
+B2
+W2
+Cave
+33-35
+15%
+Grumpig
+B2
+W2
+Cave
+35
+5%
+Main
+Woobat
+B2
+W2
+Cave
+32-35
+35%
+Boldore
+B2
+W2
+Cave
+32-35
+25%
+Grumpig
+B2
+W2
+Cave
+35
+20%
+Skorupi
+B2
+W2
+Cave
+33-35
+15%
+Spoink
+B2
+W2
+Cave
+31
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+32-35
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Outside
+Item
+Location
+Games
+TM30
+(
+Shadow Ball
+)
+Behind the Strange House
+B2
+W2
+Full Heal
+Near the entrance from Lentimas Town
+B2
+W2
+Escape Rope
+On the cliff, accessible from mountain interior
+B2
+W2
+Smoke Ball
+On the cliff, accessible from mountain interior
+B2
+W2
+Inside
+Item
+Location
+Games
+1F
+Max Repel
+In the entry chamber
+B2
+Nugget
+East of Black Belt Corey
+B2
+Green Shard
+In the stalagmite north of Backpacker Kiyo and Hiker Markus (hidden)
+B2
+Hyper Potion
+Dead-end tunnel east of Backpacker Kiyo and Hiker Markus
+B2
+Blue Shard
+Dead-end tunnel east of Backpacker Kiyo and Hiker Markus (hidden)
+B2
+Persim Berry
+From Pokémon Ranger Eliza after defeating her
+B2
+TM69
+(
+Rock Polish
+)
+Dead-end tunnel east of Doctor Derek
+B2
+Revive
+Dead-end tunnel north of Battle Girl Chan
+B2
+Star Piece
+In a stalagmite east of Battle Girl Chan (hidden)
+B2
+PP Up
+South of Hiker Jared
+B2
+Calcium
+Dead-end path south of Ace Trainers Ray and Cora (hidden)
+B2
+TM54
+(
+False Swipe
+)
+From the Scientist for completing the local Habitat List
+B2
+Elixir
+In the stalagmite south of the Scientist (hidden)
+B2
+B1F
+Water Gem
+In the smaller stalagmite (hidden)
+B2
+Toxic Orb
+Near Pokémon Ranger Lewis
+B2
+Persim Berry
+From Pokémon Ranger Lewis after defeating him
+B2
+Lentimas chamber
+Pick up the
+Max Repel
+and turn east.
+Main chamber
+Step inside the main chamber and
+Bianca
+teams up with you to get through the mountain. Head south past Black Belt Corey and grab the
+Nugget
+in the tunnel to the east. Continue south and check the nearest stalagmite for a hidden
+Green Shard
+. Check the tunnel east of Backpacker Kiyo and Hiker Markus to get a
+Hyper Potion
+and a hidden
+Blue Shard
+. Go through the southwest entryway.
+Mountainside
+The southern passage leads to two exterior areas. From the eastern cliff, you can see the
+Strange House
+. On the southern cliff, you can pick up an
+Escape Rope
+and a
+Smoke Ball
+.
+Main chamber
+Return to the main chamber and head east. Defeat Pokémon Ranger Eliza to get a
+Persim Berry
+. When you pass the nearby stairway,
+Bianca
+asks to investigate the chamber below, which she believes to be home to the Pokémon
+Heatran
+. East of the stairway is a dead-end tunnel with
+TM69
+(
+Rock Polish
+). The tunnel east of that has a
+Revive
+, and the dead-end path east of Battle Girl Chan has a stalagmite with a hidden
+Star Piece
+. Return to the northwest entryway, and head east. Fight Backpacker Kumiko and Hiker Jared, and pick up the
+PP Up
+south of them. Continue east to Ace Trainers Ray and Cora, and inspect the dead-end tunnel south of them to find a hidden
+Calcium
+. Nearby is a Scientist who asks if you have completed the local Habitat List, he rewards you with
+TM54
+(
+False Swipe
+) for doing so. Go south from here to reach the second basement chamber.
+Basement chamber
+Check the nearest stalagmite for a hidden
+Water Gem
+. Pick up the
+Toxic Orb
+to the west, and defeat Pokémon Ranger Lewis to get another
+Persim Berry
+.
+Main chamber
+Head back north, and turn east at the Scientist to reach the next area.
+Undella chamber
+Bianca
+still wants to investigate the mountain, so she leaves you free to exit to
+Undella Town
+.
+Reversal Mountain
+W2
+Reversal Mountain exterior
+Reversal Mountain 1F
+Reversal Mountain B1F
+Reversal Mountain
+is an ancient, sprawling volcano. The area is known for its many recent eruptions, and magma constantly rises up from below. While inside the mountain, much like
+Relic Passage
+, you can find
+colored shards
+here from the
+dust clouds
+that randomly pop up. The exit leads east to
+Undella Town
+.
+Trainers
+Outside
+Trainer
+Pokémon
+Cyclist
+Jeremiah
+Reward:
+$
+1184
+Zebstrika
+♂
+Lv.
+37
+No item
+Cyclist
+Adelaide
+Reward:
+$
+1184
+Unfezant
+♀
+Female
+Lv.
+37
+No item
+Inside
+Trainer
+Pokémon
+1F
+Battle Girl
+Chan
+Reward:
+$
+1184
+Triple Battle
+Riolu
+♂
+Lv.
+37
+No item
+Gurdurr
+♂
+Lv.
+37
+No item
+Riolu
+♂
+Lv.
+37
+No item
+Hiker
+Markus
+Reward:
+$
+2072
+(with Backpacker Kiyo)
+Gurdurr
+♂
+Lv.
+37
+No item
+Crustle
+♂
+Lv.
+37
+No item
+Backpacker
+Kiyo
+Reward:
+$
+2072
+(with Hiker Markus)
+Golbat
+♂
+Lv.
+37
+No item
+Swanna
+♂
+Lv.
+37
+No item
+Pokémon Ranger
+Lewis
+Reward:
+$
+2280
+Watchog
+♂
+Lv.
+38
+No item
+Camerupt
+♂
+Lv.
+38
+No item
+Doctor
+Derek
+Reward:
+$
+2280
+Swoobat
+♂
+Lv.
+38
+No item
+Backpacker
+Kumiko
+Reward:
+$
+2072
+(with Hiker Jared)
+Golbat
+♀
+Lv.
+37
+No item
+Darmanitan
+♀
+Lv.
+37
+No item
+Hiker
+Jared
+Reward:
+$
+2072
+(with Backpacker Kumiko)
+Boldore
+♂
+Lv.
+37
+No item
+Excadrill
+♂
+Lv.
+37
+No item
+Black Belt
+Corey
+Reward:
+$
+1184
+Rotation Battle
+Gurdurr
+♂
+Lv.
+37
+No item
+Scraggy
+♂
+Lv.
+37
+No item
+Scraggy
+♂
+Lv.
+37
+No item
+Ace Trainer
+Ray
+Reward:
+$
+4680
+(with Ace Trainer Cora)
+Vibrava
+♂
+Lv.
+39
+No item
+Camerupt
+♂
+Lv.
+39
+No item
+Ace Trainer
+Cora
+Reward:
+$
+4680
+(with Ace Trainer Ray)
+Grumpig
+♀
+Lv.
+39
+No item
+Drifblim
+♀
+Lv.
+39
+No item
+B1F
+Pokémon Ranger
+Eliza
+Reward:
+$
+2280
+Krokorok
+♀
+Lv.
+38
+No item
+Arcanine
+♂
+Lv.
+38
+No item
+Available Pokémon
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Skorupi
+B2
+W2
+Grass
+31-33
+30%
+Numel
+B2
+W2
+Grass
+31
+20%
+Drifblim
+B2
+W2
+Grass
+32-33
+20%
+Trapinch
+B2
+W2
+Grass
+32-34
+15%
+Camerupt
+B2
+W2
+Grass
+33
+10%
+Skarmory
+B2
+W2
+Grass
+34
+5%
+Dark grass
+Skorupi
+B2
+W2
+Dark grass
+35-37
+30%
+Camerupt
+B2
+W2
+Dark grass
+35-37
+30%
+Drifblim
+B2
+W2
+Dark grass
+36-37
+20%
+Skarmory
+B2
+W2
+Dark grass
+36-38
+15%
+Vibrava
+B2
+W2
+Dark grass
+38
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+31-34
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrances
+Woobat
+B2
+W2
+Cave
+32-35
+35%
+Boldore
+B2
+W2
+Cave
+32-35
+25%
+Numel
+B2
+W2
+Cave
+31
+20%
+Skorupi
+B2
+W2
+Cave
+33-35
+15%
+Camerupt
+B2
+W2
+Cave
+35
+5%
+Main
+Woobat
+B2
+W2
+Cave
+32-35
+35%
+Boldore
+B2
+W2
+Cave
+32-35
+25%
+Camerupt
+B2
+W2
+Cave
+35
+20%
+Skorupi
+B2
+W2
+Cave
+33-35
+15%
+Numel
+B2
+W2
+Cave
+31
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+32-35
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Outside
+Item
+Location
+Games
+TM30
+(
+Shadow Ball
+)
+Behind the Strange House
+B2
+W2
+Full Heal
+Near the entrance from Lentimas Town
+B2
+W2
+Escape Rope
+On the cliff, accessible from mountain interior
+B2
+W2
+Smoke Ball
+On the cliff, accessible from mountain interior
+B2
+W2
+Inside
+Item
+Location
+Games
+1F
+Max Repel
+In the entry chamber
+W2
+Elixir
+Dead-end path east of the entrance (hidden)
+W2
+Hyper Potion
+Northeast of Battle Girl Chan
+W2
+Revive
+Southeast of Backpacker Kiyo and Hiker Markus
+W2
+Rawst Berry
+From Pokémon Ranger Lewis after defeating him
+W2
+PP Up
+Nearest tunnel east of Doctor Derek
+W2
+Star Piece
+In the rock northwest of Black Belt Corey (hidden)
+W2
+TM69
+(
+Rock Polish
+)
+North of Hiker Jared and Backpacker Kumiko
+W2
+Red Shard
+In a rock in the southeast corner (hidden)
+W2
+Yellow Shard
+Dead-end path west of Ace Trainers Ray and Cora
+W2
+Calcium
+Dead-end path west of Ace Trainers Ray and Cora (hidden)
+W2
+TM54
+(
+False Swipe
+)
+From the Scientist for completing the local Habitat List
+W2
+Nugget
+South of the Scientist (hidden)
+W2
+B1F
+Rawst Berry
+From Pokémon Ranger Eliza after defeating her
+W2
+Flame Orb
+Near Pokémon Ranger Eliza
+W2
+Fire Gem
+In one of the smaller rocks (hidden)
+W2
+Lentimas chamber
+Pick up the
+Max Repel
+and turn east.
+Main chamber
+Step inside the main chamber and
+Bianca
+teams up with you to get through the mountain. Head east to grab the
+Hyper Potion
+. Head back west then southward. Take the first right and Fight Battle Girl Chan. Head south for a double battle and then pick up the
+Revive
+to the south. After, continue out the cave entrance in the southwest corner.
+Mountainside
+The southern passage leads to two exterior areas. From the eastern cliff, you can see the
+Strange House
+. On the southern cliff, you can pick up an
+Escape Rope
+and a
+Smoke Ball
+.
+Main chamber
+Return to the main chamber and head east. Defeat Pokémon Ranger Lewis to get a
+Rawst Berry
+. When you pass the nearby stairway,
+Bianca
+asks to investigate the chamber below, which she believes to be home to the Pokémon
+Heatran
+. Continuing eastward, take the first northbound tunnel to reach a
+PP Up
+. Fight Black Belt Corey and go down the stairs nearby to reach the second basement chamber.
+Basement chamber
+Defeat Pokémon Ranger Eliza to get another
+Rawst Berry
+. Grab the
+Flame Orb
+to the west, and inspect the smaller rocks to find a hidden
+Fire Gem
+.
+Main chamber
+Check the dead-end to the northwest to find a
+Star Piece
+hidden in the rock. Go east, then turn south to reach
+TM69
+(
+Rock Polish
+). Battle Backpacker Kiyo and Hiker Markus, then check the dead-end in the southeast to find a hidden
+Red Shard
+. Head back north to reach Ace Trainers Ray and Cora, then turn west. Grab the
+Yellow Shard
+from the dead-end to the south, and check the area to find a hidden
+Calcium
+to the north. East of the two Ace Trainers is a Scientist; if you complete the local Habitat List, he rewards you with
+TM54
+(
+False Swipe
+). Check the rock to the south for a
+Nugget
+and continue east.
+Undella chamber
+Bianca
+still wants to investigate the mountain, so she leaves you free to exit to
+Undella Town
+.
+Undella Town
+Undella Town
+Undella Town
+is a popular summer retreat, and is currently undergoing an expansion project. The beachfront town stands between
+Route 13
+to the north and
+Route 14
+to the south.
+Undella Bay
+lies to the east.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Surfing
+Frillish
+B2
+W2
+Surfing
+25-40
+65%
+Staryu
+B2
+W2
+Surfing
+25-40
+30%
+Basculin
+B2
+W2
+Surfing
+30-40
+5%
+Basculin
+B2
+W2
+Surfing
+30-40
+5%
+Ripping water
+Staryu
+B2
+W2
+Rippling water
+25-40
+60%
+Jellicent
+B2
+W2
+Rippling water
+25-40
+30%
+Starmie
+B2
+W2
+Rippling water
+30-40
+5%
+Basculin
+B2
+W2
+Rippling water
+30-40
+5%
+Basculin
+B2
+W2
+Rippling water
+30-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Shiny Stone
+In front of the bulldozer (hidden)
+B2
+W2
+Berry Juice
+South of the Reversal Mountain exit
+B2
+W2
+Prism Scale
+In the Pokémon Center, from the man near the PC
+B2
+W2
+Pearl
+South of the gate (hidden,
+reappears
+occasionally)
+South of the construction zone (hidden,
+reappears
+occasionally)
+B2
+W2
+Heart Scale
+Near the southwest villa (hidden)
+B2
+W2
+Post-Hall of Fame
+HM06
+(
+Dive
+)
+From Hugh, near the gate
+B2
+W2
+The Billionaire
+The billionaire father of
+The Riches
+lives alone in the northwest villa, after his family moved to another town. He buys rare items, and pays a high price for any
+Flutes
+you bring him. After you get
+HM06
+(
+Dive
+), you can also sell him the ancient items found in the
+Abyssal Ruins
+.
+Marine Tube
+The
+Marine Tube
+runs underneath
+Undella Bay
+and connects the town to
+Humilau City
+. Janitors are working hard to clean the tube, which has not yet opened for visitors.
+Caitlin's villa
+The eastern villa belongs to
+Caitlin
+, one of the Elite Four. Once you defeat the Pokémon League, you can meet
+Cynthia
+, the
+Sinnoh
+Champion, here for a battle.
+Funfest Mission
+Talk to the man in sunglasses in the Pokémon Center. A new Funfest Mission,
+Shocking Shopping!
+is added to the
+Entralink
+.
+Rival battle
+When you approach the gate,
+Hugh
+catches up to you. Prepare for battle!
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+4100
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+39
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+39
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Charcoal
+Emboar
+♂
+Lv.
+41
+Take Down
+Normal
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Heat Crash
+Fire
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+4100
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+39
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+39
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Mystic Water
+Samurott
+♂
+Lv.
+41
+Aqua Jet
+Water
+Physical
+--
+Encore
+Normal
+Status
+--
+Revenge
+Fighting
+Physical
+--
+Slash
+Normal
+Physical
+--
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+4100
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+39
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+39
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Miracle Seed
+Serperior
+♂
+Lv.
+41
+Coil
+Poison
+Status
+--
+Leaf Blade
+Grass
+Physical
+--
+Slam
+Normal
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Undella Bay
+Undella Bay
+Undella Bay
+is a stretch of ocean where vacationers often visit to sunbathe. The
+Abyssal Ruins
+lie on the ocean floor far below, and are inaccessible without
+HM06
+(
+Dive
+).
+Trainers
+Trainer
+Pokémon
+Swimmer
+Matt
+Reward:
+$
+624
+Mantyke
+♂
+Lv.
+39
+No item
+Swimmer
+Arissa
+Reward:
+$
+624
+Alomomola
+♀
+Lv.
+39
+No item
+Ace Trainer
+Summer
+Reward:
+$
+2400
+Pelipper
+♀
+Lv.
+40
+No item
+Starmie
+Lv.
+40
+No item
+Swimmer
+Bart
+Reward:
+$
+624
+Basculin
+♂
+Red-Striped Form
+Lv.
+39
+No item
+Swimmer
+Mitzi
+Reward:
+$
+608
+Spheal
+♀
+Lv.
+38
+No item
+Wailmer
+♀
+Lv.
+38
+No item
+Swimmer
+Tim
+Reward:
+$
+624
+Sealeo
+♂
+Lv.
+39
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Surfing
+Frillish
+B2
+W2
+Surfing
+25-40
+65%
+Mantyke
+B2
+W2
+Surfing
+25-40
+30%
+30%
+30%
+-
+Spheal
+B2
+W2
+Surfing
+25-40
+-
+-
+-
+30%
+Remoraid
+B2
+W2
+Surfing
+30-40
+5%
+Rippling water
+Wailmer
+B2
+W2
+Rippling water
+25-40
+30%
+30%
+30%
+60%
+Jellicent
+B2
+W2
+Rippling water
+25-40
+60%
+60%
+60%
+-
+Sealeo
+B2
+W2
+Rippling water
+25-40
+-
+-
+-
+30%
+Wailord
+B2
+W2
+Rippling water
+30-40
+5%
+Mantine
+B2
+W2
+Rippling water
+30-40
+5%
+5%
+5%
+-
+Walrein
+B2
+W2
+Rippling water
+30-40
+-
+-
+-
+5%
+Special Pokémon
+Jellicent
+B2
+W2
+Only one
+40
+Once per week
+Mo
+Jellicent
+B2
+W2
+Only one
+40
+Once per week
+Th
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+On the beach (hidden)
+B2
+W2
+Draco Plate
+On the north side of the beach
+B2
+W2
+Splash Plate
+On the island with Ace Trainer Summer
+B2
+W2
+Jellicent
+Once per week, a special
+Jellicent
+will float into the bay. A male appears on Mondays
+B2
+, while a female appears on Thursdays
+W2
+. Both have their hidden Ability,
+Damp
+.
+← Part 10
+Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+Black 2 and White 2
+walkthrough
+Route 13, Lacunosa Town, Route 12, Village Bridge, Route 11
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

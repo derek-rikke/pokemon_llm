@@ -1,0 +1,61 @@
+Game: FireRed_and_LeafGreen
+Part: 12
+Keywords: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+
+**Pokémon FireRed and LeafGreen Walkthrough - Part 12**
+
+**Key Areas: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)**
+
+### Route 12
+- **Trainers**: 
+  - Fisherman Ned: Goldeen (Lv. 22), Poliwag (Lv. 22)
+  - Fisherman Chip: Tentacool (Lv. 24), Goldeen (Lv. 24)
+  - Rocker Luca: Voltorb (Lv. 29), Electrode (Lv. 29)
+- **Items**: 
+  - TM27 (Return) from girl on the second floor of Lavender gate.
+  - Super Rod from Fishing Guru's brother (south of Route 11).
+- **Roadblock**: Use Poké Flute to wake Snorlax (Lv. 30) blocking the path.
+
+### Route 13
+- **Trainers**: 
+  - Picnicker Alma: Goldeen (Lv. 28), Horsea (Lv. 28)
+  - Bird Keeper Sebastian: Pidgey (Lv. 29), Pidgeotto (Lv. 29)
+- **Available Pokémon**: Oddish, Bellsprout, Venonat, Pidgey.
+
+### Route 14
+- **Trainers**: 
+  - Bird Keeper Carter: Pidgey (Lv. 28), Doduo (Lv. 28)
+  - Biker Gerald: Koffing (Lv. 29), Muk (Lv. 29)
+- **Items**: Pinap Berry (southeast corner), Zinc (in tall grass).
+
+### Route 15
+- **Trainers**: 
+  - Picnicker Becky: Pikachu (Lv. 29), Raichu (Lv. 29)
+  - Crush Kin Ron & Mya: Hitmonchan (Lv. 29), Hitmonlee (Lv. 29)
+- **Items**: TM18 (Rain Dance) at the northern hill (requires Cut), Exp. Share from Professor Oak's aide after catching 50 Pokémon.
+
+### Fuchsia City
+- **Preparation**: Ensure you have Surf and Strength before heading to the southern islands.
+
+### Route 19
+- **Trainers**: 
+  - Swimmer Richard: Tentacool (Lv. 30), Shellder (Lv. 30)
+- **Available Pokémon**: Psyduck, Slowpoke (Fishing and Surfing).
+
+### Route 20 (East)
+- **Trainers**: 
+  - Swimmer Barry: Shellder (Lv. 31), Cloyster (Lv. 31).
+- **Available Pokémon**: Tentacool, Horsea (Fishing).
+
+### Seafoam Islands
+- **Exploration**: Navigate through currents and boulders to reach Articuno.
+- **Articuno Battle Strategy**: Use Fire, Electric, and Rock-type moves to weaken it, then inflict status ailments like Sleep or Paralysis to increase capture chance.
+- **Items**: 
+  - Ice Heal (1F), Revive (B1F), Water Stone (B2F), Nugget (B3F, hidden).
+
+### Route 20 (West)
+- **Trainers**: 
+  - Picnicker Irene: Tentacool (Lv. 30), Horsea (Lv. 30).
+  - Swimmer Nora: Shellder (Lv. 30), Cloyster (Lv. 30).
+
+This concise guide highlights the essential paths, trainers, items, and strategies for progression through the specified routes in Pokémon FireRed and LeafGreen.

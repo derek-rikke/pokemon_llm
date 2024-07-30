@@ -1,0 +1,64 @@
+Game: Sun_and_Moon
+Part: 26
+Keywords: The Pokémon League
+
+### Pokémon League Walkthrough
+
+#### Overview
+The Pokémon League is Alola's final challenge where you face the Elite Four and the Champion. Defeat all four Elite Trainers in any order to reach the Champion.
+
+#### Main Chamber
+- Approach the central platform to begin.
+
+#### Elite Four Battles
+
+1. **Fighting Chamber - Hala**
+   - **Type:** Fighting
+   - **Best Against:** Flying, Psychic, Fairy
+   - **Key Pokémon:**
+     - Hariyama (Lv. 54)
+     - Bewear (Lv. 54)
+     - Crabominable (Lv. 55, holds Fightinium Z)
+   - **Reward:** $11,000
+
+2. **Rock Chamber - Olivia**
+   - **Type:** Rock
+   - **Best Against:** Ground, Fighting, Steel
+   - **Key Pokémon:**
+     - Carbink (Lv. 54)
+     - Golem (Lv. 54)
+     - Lycanroc (Lv. 55, holds Rockium Z)
+   - **Reward:** $11,000
+
+3. **Ghost Chamber - Acerola**
+   - **Type:** Ghost
+   - **Best Against:** Dark, Fire, Ice
+   - **Key Pokémon:**
+     - Sableye (Lv. 54)
+     - Palossand (Lv. 55, holds Ghostium Z)
+   - **Reward:** $11,000
+
+4. **Flying Chamber - Kahili**
+   - **Type:** Flying
+   - **Best Against:** Electric, Rock, Fire
+   - **Key Pokémon:**
+     - Skarmory (Lv. 54)
+     - Toucannon (Lv. 55, holds Flyinium Z)
+   - **Reward:** $11,000
+
+#### Champion's Chamber - VS Kukui
+- After defeating the Elite Four, step on the glowing platform to face Kukui.
+- **Best Moves Against Kukui:**
+  - Fighting against Lycanroc, Magnezone, Snorlax.
+  - Rock against Ninetales and Braviary.
+  - Fire, Water, and Ground against his other Pokémon.
+- **Key Pokémon:**
+  - Lycanroc (Lv. 57)
+  - Ninetales (Lv. 56)
+  - Primarina (Lv. 58, if you chose Popplio)
+  - Incineroar (Lv. 58, if you chose Litten)
+  - Decidueye (Lv. 58, if you chose Rowlet)
+- **Reward:** $13,920
+
+#### Conclusion
+After defeating Kukui, you become the first Champion of Alola. You receive the Island Challenge Champion stamp for your Trainer Passport, ensuring your Pokémon will obey you. Celebrate with the Elite Four and return to Iki Town.

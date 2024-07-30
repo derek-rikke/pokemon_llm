@@ -1,0 +1,79 @@
+Game: Crystal
+Part: 7
+Keywords: Route 35, National Park, Route 36, Route 37
+
+**Part 7 Walkthrough Summary: Route 35 to Route 37**
+
+---
+
+**Route 35:**  
+- **Trainers:**  
+  - Kim (Vulpix, Lv. 15) - $300  
+  - Elliot (Sandshrew, Lv. 13; Marill, Lv. 15) - $300  
+  - Brooke (Pikachu, Lv. 16) - $320  
+  - Ivan (Diglett, Lv. 10/14; Zubat, Lv. 10) - $280  
+  - Irwin (Voltorb, Lv. 2/6/10/14) - $560  
+  - Walt (Magmar, Lv. 11/13) - $624  
+  - Dirk (Growlithe, Lv. 14, night only) - $560  
+  - Arnie (Venonat, Lv. 15) - $240  
+  - Bryan (Pidgey, Lv. 12; Pidgeotto, Lv. 14) - $336  
+
+- **Item Locations:**  
+  - **Flower Mail:** Held by Kenya (Spearow) at southern gate.  
+  - **TM04 (Rollout):** Near tall grass.  
+  - **HP Up:** From the guard after delivering Kenya to Route 31.  
+  - **Mystery Berry:** West of the pond (daily, requires Surf).  
+
+- **Spearow Delivery Task:** Deliver Kenya and receive TM50 (Nightmare) and HP Up.
+
+- **Yanma Swarm:** Defeat Arnie to get his phone number for swarm alerts.
+
+---
+
+**National Park:**  
+- **Bug-Catching Contest:** Held Tue, Thu, Sat. Use Park Balls to catch the best Bug-type Pokémon.  
+- **Prizes:**  
+  - 1st: Sun Stone  
+  - 2nd: Everstone  
+  - 3rd: Gold Berry  
+  - Runner-Up: Berry  
+
+- **Items:**  
+  - **Quick Claw:** Southeast area.  
+  - **Parlyz Heal:** North of eastern gate.  
+  - **TM28 (Dig):** Tree-lined path in southwest.  
+  - **Full Heal:** Hidden path northwest of southern gate.  
+
+---
+
+**Route 36:**  
+- **Trainers:**  
+  - Mark (Abra, Lv. 13; Kadabra, Lv. 15) - $544  
+  - Alan (Tangela, Lv. 16) - $512  
+
+- **Sudowoodo Encounter:** Use SquirtBottle to battle Sudowoodo (Lv. 20).  
+- Clear the path to receive TM08 (Rock Smash) from the man to the east.
+
+- **Item Locations:**  
+  - **Ice Berry:** Northeast tree (daily).  
+  - **TM08 (Rock Smash):** After defeating Sudowoodo.  
+  - **Hard Stone:** Northeast area from Arthur.  
+  - **Fire Stone:** From Schoolboy Alan (requires phone number).
+
+---
+
+**Route 37:**  
+- **Trainers:**  
+  - Ann & Anne (Clefairy, Jigglypuff, Lv. 16) - $320  
+  - Greg (Drowzee, Lv. 17) - $544  
+
+- **Item Locations:**  
+  - **Red Apricorn:** Northwest tree (daily).  
+  - **Blu Apricorn:** Northeast tree (daily).  
+  - **Blk Apricorn:** Southern tree (daily).  
+  - **Ether:** Hidden northwest of Ecruteak sign.  
+  - **Magnet:** East side from Sunny Su.  
+
+---
+
+This summary condenses key information on trainers, items, and tasks from Route 35 through Route 37, providing essential gameplay guidance.

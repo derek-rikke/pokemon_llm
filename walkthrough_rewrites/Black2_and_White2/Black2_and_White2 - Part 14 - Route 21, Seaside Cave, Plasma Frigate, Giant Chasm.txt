@@ -1,0 +1,49 @@
+Game: Black2_and_White2
+Part: 14
+Keywords: Route 21, Seaside Cave, Plasma Frigate, Giant Chasm
+
+**Part 14 Walkthrough: Route 21, Seaside Cave, Plasma Frigate, Giant Chasm**
+
+### Route 21
+- **Trainers**: Defeat various trainers including Swimmers and Black Belts for rewards. Key Pokémon include Wailord (Lv. 46), Crustle (Lv. 47).
+- **Items**: 
+  - Big Pearl: Northeast of Black Belt Kenneth
+  - PP Up: South of Fisherman Kenzo
+
+### Seaside Cave
+- **1F**: 
+  - Trainers: Defeat Pokémon Rangers and Black Belts for rewards. 
+  - Items: Persim Berries, Blue Shard (hidden), Dive Ball, Full Restore, Heart Scale, TM06 (Toxic).
+- **B1F**: 
+  - Defeat Battle Girl Maki and others. 
+  - Collect Max Repel, Rare Candy, and navigate using Strength.
+- **Exit**: Clear south exit to Undella Bay.
+
+### Plasma Frigate
+- **North Entrance**: 
+  - Fight Team Plasma Grunts. 
+  - Collect Revive, TM67 (Retaliate), and Plasma Card.
+- **B1F**: 
+  - Engage more Grunts. 
+  - Activate 4 switches to deactivate the barrier to the Command Center.
+  
+### Command Center
+- **Zinzolin Battle**: Multi Battle with Hugh against Zinzolin and Grunt. Use Fighting-type moves against their Ice Pokémon.
+- **Items**: Collect various items, including Plasma Card and healing items.
+
+### Giant Chasm
+- **Entrance**: Follow Hugh to encounter Team Plasma. Help Rood fend off Grunts.
+- **Crater Forest**: Collect Max Revives and battle Team Plasma Grunts. 
+- **Inner Cave**: 
+  - Defeat Ghetsis and Kyurem. 
+  - Use effective type moves to defeat Ghetsis' Pokémon (e.g., Grass against Seismitoad, Ice against Hydreigon).
+
+### Final Battle
+- Defeat Ghetsis after battling fusions of Kyurem. 
+- N arrives to assist, leading to the final showdown.
+- After defeating Ghetsis, Team Plasma is disbanded.
+
+### Progression
+- After the battle, visit the Pokémon League as encouraged by N. Access Route 23 from the outer cave.
+
+This concise walkthrough highlights key battles, item locations, and strategies to progress through Route 21, Seaside Cave, Plasma Frigate, and Giant Chasm in Pokémon Black 2 and White 2.

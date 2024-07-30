@@ -1,0 +1,43 @@
+Game: Diamond_and_Pearl
+Part: 7
+Keywords: Hearthome City, Amity Square, Route 209
+
+### Part 7 Walkthrough: Hearthome City, Amity Square, Route 209
+
+#### Hearthome City
+- **Keira Encounter**: After entering, you'll meet Keira, a Pokémon Contest Judge. She requests a meeting at the Contest Hall before you can explore Routes 209 and 212.
+- **Pokémon Egg**: Talk to the Hiker near Route 209's exit to receive a Pokémon Egg (Happiny) if you have an empty party slot.
+
+**Key Items**:
+- **Shell Bell**: Hearthome Hotel (2F).
+- **Poffin Case**: Pokémon Fan Club (east of Poké Mart).
+- **Glitter Powder**: Contest Hall (from Keira).
+- **Tuxedo/Dress**: Contest Hall (from Johanna).
+- **Mild Poffin**: Contest Hall (from the man near the entrance).
+- **Tiny Mushroom**: Near Amity Square West Gate (hidden).
+
+#### Amity Square
+- Enter from the gates near the Pokémon Center or Hearthome Gym with a cute Pokémon (e.g., Buneary).
+- **Items**:
+  - **TM43 (Secret Power)**: Near west entrance.
+  - **TM45 (Attract)**: Near east entrance.
+  - **Spooky Plate**: Near a house by the east entrance.
+  - **Amulet Coin**: On the old building’s stairs (hidden).
+
+#### 2nd Rival Battle
+- Barry challenges you before exiting to Route 209. Heal your Pokémon before this battle.
+- **Battle Rewards**: $2100. Barry’s team varies based on your starter choice.
+
+#### Route 209
+- **Items**:
+  - **Honey**: Northeast corner of tall grass.
+  - **Good Rod**: From the Fisherman on the bridge.
+  - **TM47 (Steel Wing)**: Behind a small tree near the Lost Tower.
+- **Pokémon**: Chansey (5% chance of holding a Lucky Egg), Spiritomb (requires Odd Keystone and 32 link interactions).
+
+#### Notable Trainers
+- **Pokémon Breeder Albert**: Rewards $720.
+- **Cowgirl Shelley**: Rewards $240.
+- **Young Couple Ty & Sue**: Rewards $2432.
+
+Prepare to explore the Lost Tower and Solaceon Town after completing Route 209 tasks.

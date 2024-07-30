@@ -1,0 +1,56 @@
+Game: Ruby_and_Sapphire
+Part: 6
+Keywords: Route 111 (South), Route 112 (South), Fiery Path, Route 112 (North), Route 111 (North), Route 113
+
+**Part 6 Walkthrough: Pokémon Ruby and Sapphire**
+
+**Route 111 (South)**
+- **Trainers:**
+    - Gabby and Ty (Magnemite, Whismur) - $1824
+    - Picnicker Irene (Shroomish, Marill) - $288
+    - Camper Travis (Sandshrew) - $288
+- **Items:** 
+    - **Macho Brace**: Defeat the Winstrate family in their house.
+    - **HP Up**: West side of the pond.
+- **Pokémon Locations:**
+    - Rock Smash: Geodude (Lv. 5-20)
+    - Fishing: Magikarp (Old Rod, 70%), Goldeen (Old Rod, 30%).
+
+**Winstrate House:**
+- Challenge the Winstrate family to four consecutive battles to earn the **Macho Brace**.
+
+**Route 112 (South)**
+- **Trainers:**
+    - Camper Larry (Zigzagoon, Nuzleaf) - $288
+    - Picnicker Carol (Taillow, Lombre) - $288
+    - Hiker Trent (multiple Geodude) - $640
+- **Access Denied:** Team Magma/Aqua blocks the cable car.
+
+**Fiery Path:**
+- **Pokémon Locations:** Numel, Koffing, Grimer, Torkoal (Lv. 14-16).
+- **Items:**
+    - **TM06 (Toxic)**: Northwest corner (requires Strength).
+    - **Fire Stone**: Southwest corner (requires Strength).
+
+**Route 112 (North)**
+- Gather Berries on the way east after exiting Fiery Path.
+- **Pokémon Locations:** Numel, Machop (Lv. 14-16).
+- **Items:** Pecha Berry, Rawst Berry (x4 each).
+
+**Route 111 (North)**
+- Rest Stop available before heading to Route 113.
+- **Trainers:**
+    - Cooltrainer Wilton (Electrike, Wailmer, Makuhita) - $864.
+
+**Route 113**
+- **Trainers:**
+    - Youngster Neal (Trapinch, Linoone) - $320
+    - Ninja Boy Lao (Koffing) - $228
+- **Items:**
+    - **Ether**: Hidden in a soot pile.
+    - **Glass Workshop**: Collect ash with the **Soot Sack** for crafting items.
+
+**Glass Workshop:**
+- Receive a **Soot Sack** to collect ash; can be exchanged for various items based on the number of steps through ash.
+
+This concise guide outlines key progress points, trainer battles, item locations, and Pokémon encounters to assist players in navigating this section of the game efficiently.

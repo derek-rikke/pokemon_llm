@@ -1,0 +1,49 @@
+Game: Gold_and_Silver
+Part: 22
+Keywords: Route 15, Route 14, Route 13, Route 12
+
+**Pokémon Gold and Silver Walkthrough - Part 22**
+
+**Route 15**
+- Hilly path from Fuchsia City to Route 14.
+- **Trainers:** 
+  - Schoolboy Kipp (Voltorb, Magnemite)
+  - Schoolboy Tommy (Xatu, Alakazam)
+  - Teacher Hillary (Aipom, Cubone)
+  - Schoolboy Billy (Paras, Ditto)
+  - Teacher Colette (Clefairy)
+  - Schoolboy Johnny (Bellsprout, Victreebel)
+- **Item:** PP Up (west side, requires Cut).
+- **Available Pokémon:** Pidgeotto, Nidorina, Chansey, Hoppip, Quagsire.
+
+**Route 14**
+- Coastal road leading to Route 13.
+- **Trainers:**
+  - Bird Keeper Roy (Fearow)
+  - Pokéfan Carter (Bulbasaur, Charmander, Squirtle)
+  - Pokéfan Trevor (Psyduck)
+- **Special Trade:** Trade Chansey for Aerodactyl (requires Cut).
+- **Items:** Gold Berry (held by Aerodactyl).
+
+**Route 13**
+- Narrow path with many trainers.
+- **Trainers:**
+  - Bird Keeper Bret (Pidgeotto, Fearow)
+  - Bird Keeper Perry (Farfetch'd)
+  - Pokéfan Joshua (Pikachu)
+  - Pokéfan Alex (Nidoking, Slowking)
+  - Hiker Kenny (Sandslash, Golem)
+- **Items:** Hidden Calcium (east of Trainer Tips sign).
+- **Available Pokémon:** Pidgeotto, Nidorina, Chansey, Tentacool (surfing).
+
+**Route 12**
+- Connects Route 13, Route 11, and Lavender Town.
+- **Trainers:**
+  - Fisher Barney (Gyarados)
+  - Fisher Stephen (Magikarp, Qwilfish)
+  - Fisher Martin (Remoraid)
+  - Fisher Kyle (Seaking, Poliwhirl)
+- **Items:** Nugget (southern field, requires Surf/Cut), Calcium (northern field, requires Cut), Super Rod (Fishing Guru's house).
+- **Available Pokémon:** Tentacool, Quagsire, fishing varieties.
+
+*Use this guide to navigate through Routes 12 to 15 efficiently, battling trainers and capturing Pokémon.*

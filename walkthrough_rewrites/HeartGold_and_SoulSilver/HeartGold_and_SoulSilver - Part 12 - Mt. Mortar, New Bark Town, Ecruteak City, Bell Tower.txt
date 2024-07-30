@@ -1,0 +1,54 @@
+Game: HeartGold_and_SoulSilver
+Part: 12
+Keywords: Mt. Mortar, New Bark Town, Ecruteak City, Bell Tower
+
+### Pokémon HeartGold and SoulSilver Walkthrough - Part 12
+
+#### Goldenrod City
+- **Objective**: Defeat Team Rocket and liberate the Radio Tower.
+- **Radio Tower**:
+  - **1F-5F**: Battle Team Rocket Grunts and Scientists. Key battles include:
+    - **Petrel** (5F): After defeating him, you'll receive the **Basement Key**.
+  
+#### Goldenrod Underground
+- **Exploration**: Use the **Basement Key** to access the Underground Warehouse.
+- **Trainers**: Battle Team Rocket Grunts and Burglar Duncan.
+- **Items**:
+  - **Full Heal**, **Smoke Ball**, **Ultra Ball**, **Max Potion**, **TM82 (Sleep Talk)**, **Card Key** from the Director.
+
+#### Rival Battle 4
+- **Location**: Goldenrod Tunnel.
+- **Strategy**: Silver's Pokémon are leveled up. Use Fighting moves against his Sneasel.
+
+#### Puzzle: The Shifting Shutters
+- Activate buttons in the order: Blue (left), Green (middle), Red (right).
+
+#### Warehouse
+- Collect items: **Max Ether**, **TM82**, and speak to the Director for the **Card Key**.
+- **Card Key** allows access to the Radio Tower's 3F.
+
+#### Radio Tower (3F-Observation Deck)
+- **3F**: Use the **Card Key** to battle Team Rocket.
+- **Proton** (4F): Defeat him to continue.
+- **Ariana** (5F): After her defeat, go to the Observation Deck.
+
+#### Final Battle: Archer
+- After defeating Archer, Team Rocket disbands and you receive the **Rainbow Wing** (HG) or **Silver Wing** (SS).
+
+#### Mahogany Town
+- The souvenir shop reopens. Items available include:
+  - RageCandyBar, Great Ball, Super Potion, etc.
+
+#### Route 44
+- **Trainers**: Battle various trainers including Psychic Phil and Ace Trainers.
+- **Pokémon**: Catch Bellsprout, Weepinbell, Lickitung, etc.
+
+#### Ice Path
+- **Objective**: Navigate the icy cave leading to Blackthorn City.
+- **Items**: Collect **HM07 (Waterfall)**, **Max Potion**, **TM72 (Avalanche)**, and **NeverMeltIce**.
+- **Puzzle**: Move boulders to create paths across the ice.
+
+#### Next Steps
+- Head to **Blackthorn City** after exiting the Ice Path. 
+
+This concise guide outlines key objectives, battles, items, and strategies for progressing through Part 12 of Pokémon HeartGold and SoulSilver.

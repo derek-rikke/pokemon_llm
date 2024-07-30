@@ -1,0 +1,1335 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_6
+Keywords: Ecruteak Gym, Union Cave, Routes 38 and 39, Olivine City, Route 40
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Goldenrod City
+1.1
+Goldenrod Department Store
+1.1.1
+B1F
+1.1.2
+2F: Trainer's Market
+1.1.3
+3F: Battle Collection
+1.1.4
+4F: Medicine Box
+1.1.5
+5F: TM Corner
+1.1.5.1
+Time for a Trade
+1.1.5.2
+An Intriguing Impression
+1.1.6
+6F: Rooftop Square
+1.1.6.1
+Daily Drawing Corner
+1.2
+Friendship checker
+1.3
+Bike Shop
+1.4
+Magnet Train Station
+1.5
+Goldenrod Radio Tower
+1.5.1
+1F
+1.5.1.1
+Pokémon Lottery Corner
+1.5.1.2
+Promo Quiz
+1.5.2
+2F
+1.5.2.1
+Buena's Password
+1.5.2.2
+Heightened Security
+1.6
+Global Terminal
+1.7
+Game Corner
+1.7.1
+Prize Corner
+1.8
+Bill's house
+1.9
+Goldenrod Tunnel
+1.9.1
+A Friendly Face
+1.9.2
+Herbal shop
+1.9.3
+Pokémon Salon
+1.9.4
+Bargain shop
+1.9.5
+Memorial Photo Studio
+1.10
+Name Rater
+1.11
+Goldenrod Gym
+1.12
+Goldenrod Flower Shop
+Goldenrod City
+Goldenrod City
+Goldenrod City
+is a sprawling metropolis located in western
+Johto
+, between Routes
+34
+and
+35
+. It is the region's largest city, and a major hub of economy and telecommunications. The
+Goldenrod Department Store
+offers a wide variety of goods, and
+an underground shopping district
+has its own selection. The
+Radio Tower
+broadcasts several informative programs, while patrons aim to hit the jackpot at the local
+Game Corner
+. A
+bicycle shop
+headquartered in
+Kanto
+has recently acquired a second location here, while the high-speed
+Magnet Train
+links the two neighboring regions. The
+Goldenrod Gym
+can be found in the northeast part of the city, next to a flower shop.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Machop
+HG
+SS
+Trade
+Drowzee
+The same as the traded Pokémon
+One
+Gift Pokémon
+Eevee
+HG
+SS
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+Department Store (B1F); southeast area, after speaking to the nearby Black Belt
+HG
+SS
+Burn Heal
+Department Store (B1F); northwest area, after speaking to the nearby Black Belt
+HG
+SS
+Ether
+Department Store (B1F); south-central area, after speaking to the nearby Black Belt
+HG
+SS
+Antidote
+Department Store (B1F); in a lone box southeast of the elevator (hidden)
+HG
+SS
+Super Potion
+Department Store (B1F); central area, southwest corner of the right-hand crate (hidden)
+HG
+SS
+Parlyz Heal
+Department Store (B1F); southwest corner of the westernmost crate (hidden)
+HG
+SS
+TM27
+(
+Return
+)
+Department Store (5F); from the woman behind the counter, if lead Pokémon has high
+friendship
+Su
+HG
+SS
+TM21
+(
+Frustration
+)
+Department Store (5F); from the woman behind the counter, if lead Pokémon has low friendship
+Su
+HG
+SS
+Macho Brace
+Department Store (5F); held by Muscle, a
+Machop
+received through a trade
+HG
+SS
+Bicycle
+From the Bike Shop in the southeast district
+HG
+SS
+Super Potion
+South of the Bike Shop, one step northwest of the lamppost (hidden)
+HG
+SS
+Radio Card
+Radio Tower (1F); prize for clearing the quiz
+HG
+SS
+Blue Card
+Radio Tower (2F); from
+Buena
+HG
+SS
+TM45
+(
+Attract
+)
+From
+Gym Leader
+Whitney
+, after defeating her
+HG
+SS
+SquirtBottle
+From the Flower Shop in the northeast, after earning the
+Plain Badge
+HG
+SS
+Later visit
+Amulet Coin
+Department Store (B1F); northeast room, accessed via the
+Goldenrod Tunnel
+warehouse
+HG
+SS
+TM11
+(
+Sunny Day
+)
+Radio Tower (3F); from a woman, after defeating
+Team Rocket
+HG
+SS
+Ultra Ball
+Radio Tower (4F); near
+Proton
+(requires
+Card Key
+)
+HG
+SS
+BrightPowder
+Radio Tower (4F); from
+DJ Mary
+, after defeating Team Rocket
+HG
+SS
+Basement Key
+Radio Tower (5F); from
+Petrel
+, after defeating him
+HG
+SS
+Rainbow Wing
+Radio Tower; from the Director, after defeating Team Rocket
+HG
+Silver Wing
+Radio Tower; from the Director, after defeating Team Rocket
+SS
+Department Store, Basement
+Goldenrod Department Store
+The
+Goldenrod Department Store
+is the largest shop in
+Johto
+. Nearly any item a Trainer could want can be found here.
+B1F
+Department Store, 1F
+The basement is only accessible by elevator. A pair of Black Belts and a few
+Machoke
+are working to renovate the area. Several smaller side rooms are blocked by large blue crates. Speak to each Black Belt while he faces a Machoke; this causes him to direct the Pokémon to move the crate aside, opening the smaller room. There is an
+Ultra Ball
+in the southeast room, a
+Burn Heal
+to the north, and an
+Ether
+to the south.
+2F: Trainer's Market
+Department Store, 2F
+The Trainer's Market is found on the second floor. Everyday items like
+Great Balls
+and
+Super Potions
+are offered here.
+Upper cashier
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Escape Rope
+$
+550
+Poké Doll
+$
+1000
+Repel
+$
+350
+Super Repel
+$
+500
+Max Repel
+$
+700
+Grass Mail
+$
+50
+Flame Mail
+$
+50
+Bubble Mail
+$
+50
+Space Mail
+$
+50
+Lower cashier
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Revive
+$
+1500
+Antidote
+$
+100
+Paralyze Heal
+$
+250
+Burn Heal
+$
+250
+Ice Heal
+$
+250
+Awakening
+$
+250
+Full Heal
+$
+600
+3F: Battle Collection
+Department Store, 3F
+The Battle Collection occupies the third floor.
+Temporary stat-enhancing items
+are sold here.
+X Speed
+$
+350
+X Attack
+$
+500
+X Defend
+$
+550
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+X Accuracy
+$
+950
+X Special
+$
+350
+X Sp. Def
+$
+350
+4F: Medicine Box
+Department Store, 4F
+A pharmacy known as the Medicine Box is located on the fourth floor.
+Permanent stat-enhancing items
+can be purchased here.
+Protein
+$
+9800
+Iron
+$
+9800
+Calcium
+$
+9800
+Zinc
+$
+9800
+Carbos
+$
+9800
+HP Up
+$
+9800
+5F: TM Corner
+Department Store, 5F
+The TM Corner can be found on the fifth floor. Several valuable
+Technical Machines
+are offered here.
+Generation IV
+TM70
+(
+Flash
+)
+$
+1000
+TM17
+(
+Protect
+)
+$
+2000
+TM54
+(
+False Swipe
+)
+$
+2000
+TM83
+(
+Natural Gift
+)
+$
+2000
+TM16
+(
+Light Screen
+)
+$
+2000
+TM33
+(
+Reflect
+)
+$
+2000
+TM22
+(
+SolarBeam
+)
+$
+3000
+TM52
+(
+Focus Blast
+)
+$
+5500
+TM38
+(
+Fire Blast
+)
+$
+5500
+TM25
+(
+Thunder
+)
+$
+5500
+TM14
+(
+Blizzard
+)
+$
+5500
+TM15
+(
+Hyper Beam
+)
+$
+7500
+Time for a Trade
+A man on the west side of 5F would like to
+trade
+Pokémon. He is willing to part with his
+Machop
+in exchange for a
+Drowzee
+. Drowzee can be found just outside
+Goldenrod City
+, on Routes
+34
+and
+35
+.
+An Intriguing Impression
+On Sundays, a second vendor appears behind the counter. Speak to her, and she will assess how your lead Pokémon feels about you. If it is
+friendly
+toward you, she hands out
+TM27
+(
+Return
+) as a reward. If not, she gives out
+TM21
+(
+Frustration
+) instead. She hands out only one TM each week.
+6F: Rooftop Square
+Department Store, 6F
+The Rooftop Square houses a picnic area and several
+vending machines
+. Each machine offers the same selection of
+drinks
+.
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+Daily Drawing Corner
+Speak to the lower cashier to enter a raffle hosted by the Daily Drawing Corner. For
+$
+300, entrants may try their luck at winning either a random type of
+Berry
+(~55% chance), a type of
+Poké Ball
+(~35% chance), or a
+TM
+(~10% chance). The prize for third place is randomly selected from a list of seven Berries. Prizes for first and second place vary based on the
+day of the week
+. Entrants may play the raffle as frequently as they wish.
+Day
+First Prize
+Second Prize
+Monday
+TM65
+(
+Shadow Claw
+)
+Nest Ball
+Tuesday
+TM91
+(
+Flash Cannon
+)
+Repeat Ball
+Wednesday
+TM57
+(
+Charge Beam
+)
+Net Ball
+Thursday
+TM60
+(
+Drain Punch
+)
+Quick Ball
+Friday
+TM42
+(
+Facade
+)
+Dusk Ball
+Saturday
+TM62
+(
+Silver Wind
+)
+Timer Ball
+Sunday
+TM02
+(
+Dragon Claw
+)
+Luxury Ball
+Third Prize
+Cheri Berry
+Chesto Berry
+Pecha Berry
+Rawst Berry
+Aspear Berry
+Oran Berry
+Persim Berry
+Friendship checker
+The house to the northeast of the department store belongs to a woman who can evaluate the
+friendliness
+of the first Pokémon in your party. There are
+certain Pokémon
+that can only be acquired when a Pokémon is happy with its Trainer. There are
+many things
+that can be done in order to deepen a Pokémon's friendship with its Trainer, like
+grooming
+it or feeding it
+vitamins
+.
+Bike Shop
+Bike Shop, interior
+The
+Bike Shop
+has recently moved to the city's southeast neighborhood from the
+Kanto
+region, but is having trouble attracting customers. Recognizing the great deal of traveling you will be doing as a Pokémon Trainer, the owner asks to loan you a
+Bicycle
+. His hope is that others will see you riding one of his bikes and be interested enough to visit his shop. He takes down your contact information, and soon you have a brand new Bicycle. Riding a bike is faster than traveling on foot, and the owner gains new customers—everybody wins!
+Sometime later, you receive a call from the owner. He says that business is better now that people have seen you with one of his Bikes, and lets you keep the one he lent you to show his thanks.
+Magnet Train Station
+The
+Magnet Train
+station is located in the northwest part of the city. The high-speed train links Goldenrod City to
+Saffron City
+, in the middle of the neighboring
+Kanto
+region. With a
+Pass
+, it is normally possible for visitors to board the train at any time. However, it seems to be running late and has not yet returned from its latest journey into Kanto.
+Goldenrod Radio Tower
+The
+Goldenrod Radio Tower
+stands tall in the northwest part of the city. It is the source of all
+Pokégear
+broadcasts in
+Johto
+. Visitors are allowed on the first and second floors, while the upper floors are restricted to authorized personnel only.
+1F
+Radio Tower, 1F
+Pokémon Lottery Corner
+A woman behind the front desk named Felicity runs the
+Pokémon Lottery Corner
+. The lottery generates a random, five-digit number every day. Speak to Felicity, the woman behind the PC, to have her check today's number against the
+ID Numbers
+of your Pokémon, and if any of these numbers are a full or partial match, you win a prize.
+Success Rate
+Prize
+1 digit matched
+Ultra Ball
+2 digits matched
+PP Up
+3 digits matched
+Exp. Share
+4 digits matched
+Max Revive
+5 digits matched
+Master Ball
+Promo Quiz
+The woman behind the counter, farthest from the entrance, is running a promotional campaign. Speak to her to take a short quiz, with a free
+Radio Card
+as a prize.
+#
+Question
+Answers
+1
+Can you check the
+Town Map
+with your
+Pokégear
+?
+Yes
+No
+2
+Nidorina
+can only be female. True?
+Yes
+No
+3
+Kurt
+, the Poké Ball creator, uses
+apricots
+as ingredients?
+Yes
+No
+4
+It's impossible to use a
+TM
+on
+Magikarp
+. True?
+Yes
+No
+5
+In
+Professor Oak
+'s popular show,
+Pokémon Talk
+, is he on with
+Marie
+?
+Yes
+No
+Correct answers are marked in
+bold
+.
+When you complete the quiz,
+a pink-haired girl
+standing nearby cheers your accomplishment before leaving for the Gym. With the Radio Card installed, Trainers can use their
+Pokégear
+to tune into several different programs.
+Program
+Host(s)
+Channel
+Description
+Pokémon Music
+Ben
+Pokémon Music Channel,
+Station 1
+(top-left)
+Broadcasts different music based on the day of the week.
+The Pokémon March
+Su
+Mo
+We
+Fr
+doubles the wild encounter rate; the Pokémon Lullaby
+Tu
+Th
+Sa
+halves it.
+Professor Oak's Pokémon Talk
+Professor Oak
+and
+Mary
+Pokémon Channel,
+Station 2
+(top-right)
+Talk show discussing locations where semi-rare Pokémon can be found.
+That Town, These People
+Unknown
+Town Channel,
+Station 3
+(bottom-left)
+Describes the top three most interesting things about a given town or city. Alternates with
+Trainer Profiles
+every hour.
+Trainer Profiles
+Snap
+Street Corner Channel,
+Station 3
+(bottom-left)
+Discusses a randomly-selected Trainer class. Alternates with
+That Town, These People
+every hour.
+Pokémon Search Party
+Unknown
+Variety Channel,
+Station 4
+(bottom-right)
+Rotates hourly with
+Serial Radio Drama
+and
+Buena's Password
+. Runs every three hours starting at 12:00am.
+A documentary covering the group's journey to explore caves and ruins.
+Serial Radio Drama
+Unknown
+Variety Channel,
+Station 4
+(bottom-right)
+Rotates hourly with
+Pokémon Search Party
+and
+Buena's Password
+. Runs every three hours starting at 1:00am.
+Features four different plays of various genres, all performed by a group known as Silver Drama.
+Buena's Password
+Buena
+Variety Channel,
+Station 4
+(bottom-right)
+Rotates hourly with
+Pokémon Search Party
+and
+Serial Radio Drama
+. Runs every three hours starting at 2:00am.
+Broadcasts one password daily. Listeners who recite the password to Buena earn
+Blue Card
+points for prizes.
+2F
+Radio Tower, 2F
+Buena's Password
+Speak to
+Buena
+in her second-floor studio. She gives out a
+Blue Card
+and invites you to tune into her program,
+Buena's Password
+. After learning the secret password, listeners must visit Buena in her studio and repeat it back to her. Declaring the correct password earns the listener a point for their Blue Card, which holds a maximum of 30. If 30 points are accumulated, the listener may speak to Buena to register her phone number in the
+Pokégear
+. Prizes are earned by accumulating specific quantities of these points and speaking to Buena's assistant.
+Prize
+Total Points
+Poké Ball
+1 point
+Full Restore
+3 points
+Protein
+5 points
+Iron
+10 points
+Carbos
+15 points
+Nugget
+20 points
+Rare Candy
+25 points
+HP Up
+30 points
+Heightened Security
+A Police Officer posted in front of the stairs to 3F reminds visitors that the upper floors are off-limits. He mentions how this was not always the case, and says that something is wrong with the director.
+Global Terminal
+The
+Global Terminal
+features several different services. The
+Global Trade System
+allows Trainers to trade Pokémon with others far away, and a Battle Video Gallery displays video clips created by other Trainers with the
+Vs. Recorder
+. Photos taken in the
+Goldenrod Tunnel
+can be uploaded and viewed, as well.
+Please note:
+Online connectivity is no longer supported. Though it is still possible to enter the building, the Global Terminal's features are no longer accessible.
+Game Corner
+Game Corner, interior
+The
+Goldenrod Game Corner
+is located in the southwest part of the city, behind the Pokémon Center. The venue is operated by
+Mr. Game
+, and features a single cardtable for a game that he recently created,
+Voltorb Flip
+.
+Speak to Mr. Game behind the table, and he invites you to save up enough Coins to trade for prizes before giving you a
+Coin Case
+.
+Prize Corner
+Coins can be exchanged for prizes from the two Gentlemen at the small table to the right.
+Left Gentleman
+HG
+Abra
+(
+Lv.
+15)
+200
+Coins
+Ekans
+(
+Lv.
+15)
+700
+Coins
+Dratini
+(
+Lv.
+15)
+2,100
+Coins
+Left Gentleman
+SS
+Abra
+(
+Lv.
+15)
+200
+Coins
+Sandshrew
+(
+Lv.
+15)
+700
+Coins
+Dratini
+(
+Lv.
+15)
+2,100
+Coins
+Right Gentleman - TMs
+TM90
+(
+Substitute
+)
+2,000
+Coins
+TM75
+(
+Swords Dance
+)
+4,000
+Coins
+TM44
+(
+Rest
+)
+6,000
+Coins
+TM35
+(
+Flamethrower
+)
+10,000
+Coins
+TM13
+(
+Ice Beam
+)
+6,000
+Coins
+TM24
+(
+Thunderbolt
+)
+10,000
+Coins
+Right Gentleman - Held items
+Silk Scarf
+1,000
+Coins
+Wide Lens
+1,000
+Coins
+Zoom Lens
+1,000
+Coins
+Metronome
+1,000
+Coins
+Bill's house
+The house to the southwest of the Game Corner is home to a woman and her daughter. They are relatives of
+Bill
+, the inventor of the
+Pokémon Storage System
+. His mother reveals that he is currently away on business at the Pokémon Center in
+Ecruteak City
+.
+After meeting him in Ecruteak, he returns home to
+Goldenrod
+. Stop by his house afterwards to receive a
+gift
+from him.
+Goldenrod Tunnel
+Goldenrod Tunnel
+Goldenrod Tunnel
+is an underground passage that connects the southwest and northwest parts of the city, with a photo booth and a small access hallway leading to the basement of the Department Store. It contains a bargain shop that sells
+valuable items
+, a
+Pokémon salon
+, and
+a shop selling herbal medicine
+. Each has set hours of operation and all three are never open at the same time.
+Trainers
+Trainer
+Pokémon
+North of the three shops
+PokéManiac
+Donald
+Reward:
+$
+704
+Slowpoke
+♂
+Lv.
+11
+No item
+Slowpoke
+♂
+Lv.
+11
+No item
+Super Nerd
+Teru
+Reward:
+$
+432
+Magnemite
+Lv.
+7
+No item
+Magnemite
+Lv.
+7
+No item
+Magnemite
+Lv.
+9
+No item
+Voltorb
+Lv.
+11
+No item
+South of the three shops
+PokéManiac
+Issac
+Reward:
+$
+768
+Lickitung
+♂
+Lv.
+12
+No item
+Super Nerd
+Eric
+Reward:
+$
+528
+Grimer
+♂
+Lv.
+11
+No item
+Grimer
+♂
+Lv.
+11
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Fashion Case
+Entrance (either); from
+Lyra
+/
+Ethan
+upon entering for the first time
+HG
+SS
+A Friendly Face
+When you first enter the above-ground building at either end of the tunnel,
+Lyra
+/
+Ethan
+and Marill are just leaving. She/He informs you of a Dress-Up Shop ahead, where Pokémon can put on Accessories and take photos in the Photo Booth. They give you a
+Fashion Case
+as a gift to store Accessories.
+Herbal shop
+The southern booth houses a
+shop that offers herbal medicine
+. These items heal or revive Pokémon for a cheaper price than traditional medicine. However, Pokémon do not enjoy their bitter taste, so using them on a Pokémon will lessen its
+friendship
+rating. This shop is only open on weekends.
+Energy Root
+$
+800
+EnergyPowder
+$
+500
+Revival Herb
+$
+2800
+Heal Powder
+$
+450
+Pokémon Salon
+The middle booth houses the
+Pokémon Salon
+, which is run by two brothers. Their services deepen a Pokémon's
+friendship
+with its Trainer, though at different rates. The younger and less experienced brother is available on Sundays, Wednesdays, and Fridays, and charges
+$
+300. The older and more experienced brother is available on Tuesdays, Thursdays, and Saturdays, and charges
+$
+500. This also raises a Pokémon's
+Beauty
+and
+sheen
+. Their shop is closed on Mondays.
+Bargain shop
+The northern booth houses a bargain shop, which is only open on Mondays from 4:00 am to 9:00 am. This merchant deals in valuable items; while having no use themselves, they can be resold elsewhere for decent profit. Only one of each item may be purchased per week.
+Nugget
+$
+4500
+Pearl
+$
+650
+Big Pearl
+$
+3500
+Stardust
+$
+900
+Star Piece
+$
+4600
+Memorial Photo Studio
+The
+Memorial Photo Studio
+is located at the north end of the tunnel, and is operated by two men.
+The first man allows visitors to dress up as a
+Team Rocket Grunt
+and take
+photos
+with their party Pokémon. These photos can then be viewed from the
+PC
+.
+The second man gives Trainers a chance to dress up their Pokémon using up to ten
+Accessories
+from the
+Fashion Case
+before having their photo taken. These photos are framed and displayed in the gallery to the north. A Hiker in this gallery runs a raffle; for
+$
+100, entrants may win one of 39 Accessories or one of 14
+Backdrops
+.
+Name Rater
+The house near the city's north exit belongs to the
+Name Rater
+. Here, Trainers can have the
+nicknames
+of their Pokémon rated and, if the Pokémon's
+ID number
+matches the
+Trainer's ID number
+, the nickname can be changed. If the Pokémon was caught by the Trainer that currently owns it, he says that the name could be better and offers the chance to change it. If the Pokémon was obtained via a
+trade
+, he says that the name is perfect and refuses to change it.
+Goldenrod Gym
+Goldenrod Gym
+Goldenrod City Pokémon Gym
+Leader: Whitney
+The Incredibly Pretty Girl!
+The
+Goldenrod Gym
+specializes in
+Normal-type
+Pokémon. Normal-type moves are not super-effective against any Pokémon, while Normal-type Pokémon are weak to
+Fighting-type
+moves.
+The Gym is filled with potted plants, and features a large central room in the shape of a
+Clefairy
+. Go north and walk up the first stairway, then continue north to battle Beauty Victoria. Turn east, walk down the northeast stairway, and enter the central room through the northeast doorway. Move southwest to battle Lass Carrie, then turn northward to draw Lass Cathy's attention. Once she has been defeated, circle around behind her to reach the
+Gym Leader
+.
+Whitney
+'s
+Clefairy
+may not be much of a problem on its own, but there is always a chance that using
+Metronome
+calls a powerful attack if luck is on its side. The more pressing threat is her
+Miltank
+. It has high
+Defense
+and
+Speed
+, and can restore its health with
+Milk Drink
+. Its most dangerous move is
+Rollout
+, which doubles in power for each consecutive hit. The easiest way to oppose the Goldenrod Gym is to bring the
+Machop
+available for
+trade
+in the Department Store. Its
+Fighting-type
+moves will deal serious damage to Whitney's Pokémon, and Miltank's Rollout is not very effective against Fighting-type Pokémon.
+Goldenrod Gym
+Trainers
+Trainer
+Pokémon
+Beauty
+Victoria
+Reward:
+$
+896
+Sentret
+♀
+Lv.
+9
+No item
+Sentret
+♀
+Lv.
+13
+No item
+Sentret
+♀
+Lv.
+16
+No item
+Beauty
+Samantha
+Reward:
+$
+896
+Meowth
+♀
+Lv.
+16
+No item
+Meowth
+♀
+Lv.
+16
+No item
+Lass
+Carrie
+Reward:
+$
+272
+Snubbull
+♀
+Lv.
+17
+No item
+Lass
+Cathy
+Reward:
+$
+240
+Jigglypuff
+♀
+Lv.
+15
+No item
+Jigglypuff
+♀
+Lv.
+15
+No item
+Jigglypuff
+♀
+Lv.
+15
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Leader
+Whitney
+Goldenrod Gym
+HeartGold and SoulSilver
+Reward:
+$
+2280
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+17
+DoubleSlap
+Normal
+Physical
+--
+Mimic
+Normal
+Status
+--
+Encore
+Normal
+Status
+--
+Metronome
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Scrappy
+Held item:
+Lum Berry
+Miltank
+♀
+Lv.
+19
+Rollout
+Rock
+Physical
+--
+Attract
+Normal
+Status
+--
+Stomp
+Normal
+Physical
+--
+Milk Drink
+Normal
+Status
+--
+After the battle,
+Whitney
+sobs uncontrollably. Unable to claim your new Badge, you turn to leave when Lass Cathy steps in. According to her, Whitney always cries when she loses, but will compose herself soon. Speak to Whitney again, and she finally awards you the
+Plain Badge
+, which enables the use of
+Strength
+in the field. She also gives out
+TM45
+(
+Attract
+) as a prize. Afterward, she claims to have heard that a venue called the
+Pokéathlon Dome
+has recently opened next to the
+National Park
+, and suggests that you try it out since you are so good at battling.
+Goldenrod Flower Shop
+Before you leave for
+Route 35
+, be sure to stop by the flower shop to the east-northeast of the Gym. Speak to the woman inside to learn of an
+odd tree
+on
+Route 36
+that actually squirms around to avoid contact with water. She believes that it could be dangerous, but seeing that you have the
+Plain Badge
+, decides that you will be alright on your own and gives you a
+SquirtBottle
+so that you can see for yourself.
+← Part 5
+Azalea Town, Slowpoke Well, Ilex Forest, Route 34
+HeartGold and SoulSilver
+walkthrough
+Route 35, National Park, Route 36, Route 37
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

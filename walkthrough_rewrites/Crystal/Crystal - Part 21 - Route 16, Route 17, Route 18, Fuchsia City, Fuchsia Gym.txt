@@ -1,0 +1,59 @@
+Game: Crystal
+Part: 21
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym
+
+### Part 21 Walkthrough Summary
+
+**Route 16**
+- Travel from Celadon City to Route 17. Use a Bicycle for safety.
+- **Available Pokémon:**
+  - Fearow (Levels 27-29)
+  - Grimer (Levels 26-28)
+  - Muk (Level 30)
+  - Murkrow (Level 29)
+  - Slugma (Level 29)
+
+**Route 17**
+- Cycle downhill to Route 18. Stopping on Cycling Road will cause you to roll south.
+- **Trainers:**
+  - **Biker Riley:** Weezing (Lv. 34) - Reward: $1088
+  - **Biker Glenn:** Koffing (Lv. 28), Magmar (Lv. 30), Weezing (Lv. 32) - Reward: $1024
+  - **Biker Joel:** Magmar (Lv. 32) - Reward: $1024
+  - **Biker Charles:** Koffing (Lv. 30), Charmeleon (Lv. 30), Weezing (Lv. 30) - Reward: $960
+- **Available Pokémon:**
+  - Fearow (Levels 30-32)
+  - Grimer (Level 29)
+  - Muk (Level 33)
+  - Slugma (Levels 29, 32)
+
+**Route 18**
+- Leads east to Fuchsia City.
+- **Trainers:**
+  - **Bird Keeper Bob:** Noctowl (Lv. 34) - Reward: $816
+  - **Bird Keeper Boris:** Doduo (Levels 28-30), Dodrio (Lv. 32) - Reward: $768
+- **Available Pokémon:**
+  - Fearow (Levels 27-29)
+  - Grimer (Levels 26-28)
+  - Muk (Level 30)
+
+**Fuchsia City**
+- The largest city in southern Kanto, located between Route 18 and Route 15.
+- **Pokémon:**
+  - Surfing/Fishing: Magikarp (Level 10-20), Gyarados (Level 20)
+- **Items:**
+  - Burnt Berry (North of Poké Mart, requires Cut)
+  - TM06 (Toxic) from Gym Leader Janine after defeating her.
+
+**Fuchsia Gym**
+- **Leader:** Janine (Poison-type)
+- **Strategy:** Use Ground or Psychic-type moves against her Poison-types. 
+  - **Pokémon to watch for:**
+    - Crobat (Lv. 36): Use Psychic, Electric, Ice, or Rock moves.
+    - Weezing (Lv. 36): Avoid Toxic and Explosion damage; use Psychic moves.
+    - Ariados (Lv. 33) and Venomoth (Lv. 39): Weak to Fire, Rock, and Flying moves.
+- **Reward:** Soul Badge and TM06 (Toxic).
+
+**Road Closed**
+- The ocean route south is blocked due to boulders from Cinnabar Island's volcano. The only exit is east to Route 15. 
+
+This summary provides the key information needed for progressing through Routes 16, 17, and 18, as well as navigating Fuchsia City and its Gym.

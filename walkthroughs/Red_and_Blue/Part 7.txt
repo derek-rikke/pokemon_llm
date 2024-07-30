@@ -1,0 +1,687 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 11
+1.1
+Treasure Hunting
+1.2
+Time for a Trade
+1.3
+Diglett's Cave
+2
+Route 2 (East)
+2.1
+Time for a Trade
+2.2
+Let There Be Light
+3
+Pewter City
+3.1
+Pewter Museum of Science
+3.2
+Fork in the Road
+4
+Route 9
+5
+Route 10 (North)
+Route 11
+Route 11
+Diglett's Cave
+Route 11
+is a grassy path between
+Vermilion City
+and
+Route 12
+to the east. The southeastern end of
+Diglett's Cave
+can be found here, and leads back to
+Route 2
+.
+Trainers
+Trainer
+Pokémon
+Gambler
+Reward:
+$
+1260
+Poliwag
+Lv.
+18
+No item
+Horsea
+Lv.
+18
+No item
+Youngster
+Reward:
+$
+315
+Ekans
+Lv.
+21
+No item
+Youngster
+Reward:
+$
+285
+Sandshrew
+Lv.
+19
+No item
+Zubat
+Lv.
+19
+No item
+Youngster
+Reward:
+$
+270
+Nidoran♂
+Lv.
+18
+No item
+Nidorino
+Lv.
+18
+No item
+Gambler
+Reward:
+$
+1260
+Bellsprout
+Lv.
+18
+No item
+Oddish
+Lv.
+18
+No item
+Gambler
+Reward:
+$
+1260
+Growlithe
+Lv.
+18
+No item
+Vulpix
+Lv.
+18
+No item
+Engineer
+Reward:
+$
+1050
+Magnemite
+Lv.
+21
+No item
+Youngster
+Reward:
+$
+255
+Rattata
+Lv.
+17
+No item
+Rattata
+Lv.
+17
+No item
+Raticate
+Lv.
+17
+No item
+Gambler
+Reward:
+$
+1260
+Voltorb
+Lv.
+18
+No item
+Magnemite
+Lv.
+18
+No item
+Engineer
+Reward:
+$
+900
+Magnemite
+Lv.
+18
+No item
+Magnemite
+Lv.
+18
+No item
+Magneton
+Lv.
+18
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ekans
+R
+B
+Y
+Grass
+12, 14-15
+45%
+Sandshrew
+R
+B
+Y
+Grass
+12, 14-15
+45%
+Spearow
+R
+B
+Y
+Grass
+13, 15, 17
+30%
+Drowzee
+R
+B
+Y
+Grass
+9, 11, 13, 15
+25%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Special Pokémon
+Nidorina
+R
+B
+Y
+Trade
+Nidorino
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+In a tree just north of the gate
+(hidden)
+R
+B
+Itemfinder
+In the gate; from
+Professor Oak
+'s
+aide
+, after capturing 30 different species
+R
+B
+Treasure Hunting
+Visit the
+gate
+on the route's east side and speak to the Scientist. He happens to be one of
+Professor Oak
+'s
+aides
+and has been tasked with evaluating your
+Pokédex
+progress. If you have caught at least 30 different species, he rewards you with the
+Itemfinder
+. Using this machine reveals any items that may be hidden nearby.
+Time for a Trade
+The boy near Oak's aide wants a
+Nidorino
+, and is willing to trade his
+Nidorina
+for one. Both Pokémon can be obtained elsewhere without trading, but Nidorina may be harder to find for some Trainers
+R
+than others
+B
+.
+Diglett's Cave
+Diglett's Cave
+is a long tunnel that spans nearly the whole region, linking
+Route 11
+to the east side of
+Route 2
+. Like the name implies, the only Pokémon that can be found here are
+Diglett
+and its evolved form,
+Dugtrio
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+R
+B
+Y
+Cave
+15-22
+95%
+Dugtrio
+R
+B
+Y
+Cave
+29, 31
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 2 (East)
+Route 2
+The east side of
+Route 2
+was initially inaccessible without
+HM01
+(
+Cut
+). The northwestern end of
+Diglett's Cave
+emerges here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mr. Mime
+R
+B
+Y
+Trade
+Abra
+The same as the Traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM05
+(
+Flash
+)
+In the eastern gate; from Oak's aide, after catching at least 10 different species
+R
+B
+HP Up
+South of the gate and the first ledge
+R
+B
+Moon Stone
+South of the second ledge
+R
+B
+Time for a Trade
+Visit the northeast house and speak to the man inside. He is looking to get an
+Abra
+, and is willing to trade his
+Mr. Mime
+to get one. Abra can be found near
+Cerulean City
+, though their tendency to
+Teleport
+makes them difficult to capture. Mr. Mime is a unique Pokémon that cannot be found anywhere else.
+Let There Be Light
+Use
+Cut
+and continue south to reach the
+gate
+, where another of
+Oak
+'s
+aides
+is waiting for you. As a reward for capturing at least 10 different species, he gives out
+HM05
+(
+Flash
+). This move makes it easier to navigate the dark interior of
+certain underground areas
+.
+From here, you may want to revisit
+Viridian City
+to get
+TM42
+(
+Dream Eater
+) from the man near the pond.
+Pewter City
+Pewter Museum of Science
+On this latest visit to
+Pewter City
+, you can use
+Cut
+to clear the small tree on the northeast hill to reach the employee-only area of the
+museum
+. Speak to the Scientist standing next to the table to receive the
+Old Amber
+. There are Scientists elsewhere who have apparently developed a way to regenerate Pokémon from ancient bits of DNA like this.
+Fork in the Road
+The next step is to return to
+Cerulean City
+. There are two ways to get back there: either travel east through
+Mt. Moon
+again, or hike back through
+Diglett's Cave
+and head north from
+Vermilion City
+. Once back in Cerulean City, make your way to the east side of town and use
+Cut
+to clear the small tree and continue eastward.
+Route 9
+Route 9
+Route 9
+is a rocky, uneven mountain road that links
+Cerulean City
+and
+Route 10
+.
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♀
+Reward:
+$
+360
+Oddish
+Lv.
+18
+No item
+Bellsprout
+Lv.
+18
+No item
+Oddish
+Lv.
+18
+No item
+Bellsprout
+Lv.
+18
+No item
+Hiker
+Reward:
+$
+700
+Machop
+Lv.
+20
+No item
+Onix
+Lv.
+20
+No item
+Bug Catcher
+Reward:
+$
+190
+Beedrill
+Lv.
+19
+No item
+Beedrill
+Lv.
+19
+No item
+Jr. Trainer♂
+Reward:
+$
+420
+Growlithe
+Lv.
+21
+No item
+Charmander
+Lv.
+21
+No item
+Hiker
+Reward:
+$
+735
+Geodude
+Lv.
+21
+No item
+Onix
+Lv.
+21
+No item
+Bug Catcher
+Reward:
+$
+200
+Caterpie
+Lv.
+20
+No item
+Weedle
+Lv.
+20
+No item
+Venonat
+Lv.
+20
+No item
+Jr. Trainer♂
+Reward:
+$
+380
+Rattata
+Lv.
+19
+No item
+Diglett
+Lv.
+19
+No item
+Ekans
+Lv.
+19
+No item
+Sandshrew
+Lv.
+19
+No item
+Hiker
+Reward:
+$
+700
+Geodude
+Lv.
+20
+No item
+Machop
+Lv.
+20
+No item
+Geodude
+Lv.
+20
+No item
+Jr. Trainer♀
+Reward:
+$
+460
+Meowth
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+R
+B
+Y
+Grass
+14, 16-17
+45%
+Spearow
+R
+B
+Y
+Grass
+13, 16-17
+30%
+Ekans
+R
+B
+Y
+Grass
+11, 13, 15, 17
+25%
+Sandshrew
+R
+B
+Y
+Grass
+11, 13, 15, 17
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM30
+(
+Teleport
+)
+Southwest corner of the route
+R
+B
+Ether
+On a boulder in the northwest part of the route
+(hidden)
+R
+B
+Route 10 (North)
+Route 10
+Route 10
+connects
+Route 9
+to
+Lavender Town
+in the south. Much of the route is occupied by a river and the grounds of the
+Kanto Power Plant
+. Anyone traveling through the area must venture through the dim interior of
+Rock Tunnel
+. A remote Pokémon Center near the cave gives Trainers a chance to prepare themselves.
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♀
+Reward:
+$
+400
+Pikachu
+Lv.
+20
+No item
+Clefairy
+Lv.
+20
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Voltorb
+R
+B
+Y
+Grass
+14, 16-17
+45%
+Spearow
+R
+B
+Y
+Grass
+13, 16-17
+30%
+Ekans
+R
+B
+Y
+Grass
+11, 13, 15, 17
+25%
+Sandshrew
+R
+B
+Y
+Grass
+11, 13, 15, 17
+25%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+One step east of Rock Tunnel's north entrance
+(hidden, requires
+Cut
+)
+R
+B
+← Part 6
+Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+Red and Blue
+walkthrough
+Rock Tunnel, Route 10, Lavender Town, Route 8, Route 7
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

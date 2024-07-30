@@ -1,0 +1,575 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_14
+Keywords: Power Plant, Viridian Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Power Plant
+1.1
+In Search of Power
+1.1.1
+VS Zapdos
+2
+Viridian City
+3
+Pallet Town
+3.1
+Oak's Lab
+3.1.1
+A New Form of Evolution?!
+3.2
+A Shadow Reappears
+3.3
+Viridian Gym
+3.4
+Changing of the Guard
+3.5
+The Path to the Summit
+Power Plant
+Power Plant
+The
+Power Plant
+is an industrial complex that was abandoned years ago, though some of the machinery still works. Many forgotten items can be found lying around, but beware: some are actually
+Electrode
+that only look like items.
+Trainers
+Trainer
+Pokémon
+Coach Trainer
+Mable
+Reward:
+$
+4,500
+Omastar
+♂
+Lv.
+44
+No item
+Kabutops
+♂
+Lv.
+44
+No item
+Aerodactyl
+♂
+Lv.
+45
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Grimer
+P
+E
+Walking
+37-42
+25%
+Koffing
+P
+E
+Walking
+37-42
+25%
+Magnemite
+P
+E
+Walking
+37-42
+23%
+Voltorb
+P
+E
+Walking
+37-42
+23%
+Electabuzz
+P
+E
+Walking
+37-42
+14%
+Magneton
+P
+E
+Walking
+37-42
+5%
+Muk
+P
+E
+Walking
+37-42
+5%
+Electrode
+P
+E
+Walking
+37-42
+5%
+Weezing
+P
+E
+Walking
+37-42
+5%
+Rare Spawns
+Chansey
+P
+E
+Walking
+37-42
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+North of the entrance room
+P
+E
+Rare Candy
+×6
+From Coach Trainer Mable, after defeating her (×5)
+In the south-central room, next to the large machine
+P
+E
+X Sp. Def
+Southeast of Coach Trainer Mable
+P
+E
+TM38
+(
+Thunder
+)
+In the southeast room
+P
+E
+Thunder Stone
+Northeast room, northwest corner
+P
+E
+Max Potion
+×2
+In the northeast corner of the long horizontal area near the center of the facility
+Northeast room, northeast corner
+P
+E
+Voltorb Candy
+Central room
+P
+E
+Paralyze Heal
+Central room, near the
+Electrode
+P
+E
+Fake items
+Electrode
+×4
+In the long horizontal area near the center of the facility
+In the southeast area of the facility
+In the area east of
+Zapdos
+In the small area north of the long horizontal area near the center of the facility
+P
+E
+In Search of Power
+Pass through the entrance room to get a
+Max Revive
+. Continue northward to find Coach Trainer Mable; defeat her to get five
+Rare Candies
+. Turn east and visit the narrow, west-east room in the middle of the building to find a
+Voltorb Candy
+. Leave this room and continue south to get an
+X Sp. Def
+. Travel south to the exterior wall and pick up another
+Rare Candy
+in the south-central room. Collect
+TM38
+(
+Thunder
+) in the southeast room, then follow the narrow hallway northward. Grab the
+Thunder Stone
+and
+Max Potion
+from the northeast room. Continue westward and pass through the first room at the end of the hallway to reach the second, which a
+Paralyze Heal
+can be found. Head northwest from here to reach the final room.
+VS Zapdos
+Zapdos
+is likely the second of the
+Legendary birds
+that you will encounter. Use
+Rock
+- and
+Ice-type
+attacks to defeat it quickly and attempt to catch it. Like with
+Articuno
+,
+Ultra Balls
+and
+Razz Berry
+variants work best!
+Types:
+Electric
+Flying
+Mega Stone:
+None
+Zapdos
+Lv.
+50
+Drill Peck
+Flying
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Agility
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+When the battle is over, step on the
+warp tile
+to the southwest to teleport outside the entrance, then fly back to
+Viridian City
+.
+Viridian City
+When you return to
+Viridian City
+, you find
+Trace
+standing outside the Gym. It seems the building is still closed, and Trace is unsure what to do. Each of you has collected seven
+Badges
+by now, leaving only the one from
+Viridian Gym
+. Trace suggests informing someone they cannot get into the Gym, so the two Trainers automatically travel back to
+Pallet Town
+.
+Pallet Town
+Oak's Lab
+A New Form of Evolution?!
+When you and
+Trace
+arrive,
+Professor Oak
+is speaking with his grandson,
+Blue
+. Blue congratulates the two of you for chasing
+Team Rocket
+out of the
+Silph Co.
+building, and has a reward for each of you. The
+Key Stone
+that he gives you enables certain Pokémon to achieve a greater form of evolution, called
+Mega Evolution
+. This can only be triggered during battle, but only if a Trainer holds the Pokémon's corresponding
+Mega Stone
+. The energy involved is too great for a Pokémon to sustain for long and the change wears off when battle ends. Fortunately, Blue also has several Mega Stones to give you: the
+Venusaurite
+, the
+Charizardite X
+, the
+Charizardite Y
+, and the
+Blastoisinite
+. He suggests trying these out when you challenge the
+Pokémon League
+.
+A Shadow Reappears
+When you leave the lab, your
+partner Pokémon
+notices something and runs off to the west. It is interested in what the girl in the flower patch is doing, but she is only picking flowers to make a bouquet for someone. She asks that you keep it a secret, and shares a bit of gossip: it seems that the mysterious
+Viridian Gym
+Leader has finally returned, so hurry back to
+Viridian City
+to claim that final
+Badge
+!
+Viridian Gym
+Viridian City Pokémon Gym
+...
+The Gym Leader of
+Viridian Gym
+has finally returned! Even the
+Gym guide
+does not know the person's identity. Earning the seven other
+Badges
+was enough of a challenge, so there is no formal requirement to enter the Gym. The Viridian Gym specializes in
+Ground-type
+Pokémon. Ground-type moves are super effective against
+Fire
+-,
+Electric
+-,
+Rock
+-,
+Poison
+-, and
+Steel-type
+Pokémon, while Ground-type Pokémon are weak to
+Grass
+-,
+Water
+-, and
+Ice-type
+moves.
+The Viridian Gym uses a series of
+spinner tiles
+to disorient any challengers. Follow the green spinner tiles to the northeast, where you stop yourself by spinning into a fence. Battle Ace Trainer Samuel a short distance to the southwest. Take the green spinner tiles westward from here to reach a yellow stopper tile along the west wall; this catches the attention of Tamer Cole, and draws him away from his starting position. Spin off to the north to fight Ace Trainer Kelly in the northwest corner. Take the green spinner tiles along the north and east walls to reach the southeast corner; battle Ace Trainer Yuji and pick up the
+Revive
+here. Spin off westward from the entrance to the southwest corner. With Tamer Cole having moved northward to battle you, it is possible to take the nearby blue spinner tiles to reach the central area. Battle Tamer Jason and/or Black Belt Takashi, then move to the yellow stopper tile. When you do so, the lights snap on in the darkened hallway, revealing
+Giovanni
+and his
+Persian
+in the
+Gym Leader
+'s office.
+Giovanni
+resumed his position as Gym Leader shortly after his defeat in
+Saffron City
+. He welcomes you to his hideout, where he intends to work to restore
+Team Rocket
+to its former glory. He is less than thrilled to see you again, but promises to hold nothing back this time!
+Viridian Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Samuel
+Reward:
+$
+4,800
+Nidoking
+♂
+Lv.
+48
+No item
+Tamer
+Cole
+Reward:
+$
+2,820
+Nidorino
+♂
+Lv.
+47
+No item
+Rhyhorn
+♂
+Lv.
+47
+No item
+Ace Trainer
+Kelly
+Reward:
+$
+4,800
+Nidoqueen
+♀
+Lv.
+48
+No item
+Ace Trainer
+Yuji
+Reward:
+$
+4,800
+Dugtrio
+♂
+Lv.
+47
+No item
+Rhyhorn
+♂
+Lv.
+48
+No item
+Tamer
+Jason
+Reward:
+$
+2,820
+Sandslash
+♀
+Lv.
+47
+No item
+Black Belt
+Takashi
+Reward:
+$
+1,316
+Graveler
+♂
+Lv.
+47
+No item
+Gym Leader
+Giovanni
+Viridian Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+8,000
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Dugtrio
+♂
+Lv.
+49
+Slash
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Ground
+Mega Stone:
+None
+Nidoqueen
+♀
+Lv.
+49
+Super Fang
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Ground
+Mega Stone:
+None
+Nidoking
+♂
+Lv.
+49
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Horn Drill
+Normal
+Physical
+--
+Types:
+Ground
+Rock
+Mega Stone:
+None
+Rhydon
+♂
+Lv.
+50
+Earthquake
+Ground
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Giovanni
+awards you the
+Earth Badge
+, which ensures obedience from all Pokémon, regardless of level. As a prize, he also gives you
+TM41
+(
+Earthquake
+), a TM he claims to have made when he first acted as Gym Leader. He refuses to face his followers after this defeat, and officially disbands
+Team Rocket
+. He promises to devote his life to Pokémon training, and bids you farewell.
+Changing of the Guard
+When you exit the Gym,
+Blue
+is just arriving. He is shocked that a criminal would use a Pokémon Gym as their hideout, and decides to look after the
+Viridian Gym
+from now on. To reach the
+Pokémon League
+, he points you toward
+Route 22
+to the west.
+The Path to the Summit
+Having won all eight Gym Badges, the next destination is the
+Indigo Plateau
+, far to the northwest. The elite Trainers there are tough, but before you can challenge them, you must first survive a grueling cave known as
+Victory Road
+. Gather your strongest Pokémon team and visit a Poké Mart to replenish your supply of Potions and Poké Balls. A third Legendary Pokémon can be found deep inside.
+← Part 13
+Cinnabar Island, Cinnabar Gym, Route 21
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 22, Route 23, Victory Road
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

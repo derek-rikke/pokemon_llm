@@ -1,0 +1,60 @@
+Game: Gold_and_Silver
+Part: 21
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym
+
+**Part 21 Walkthrough: Pokémon Gold and Silver**
+
+**Route 16**
+- Connects Celadon City to Route 17. Use a Bicycle to navigate safely.
+- **Wild Pokémon:** 
+  - Fearow (Levels 27, 29)
+  - Grimer (Levels 26, 28)
+  - Muk (Level 30)
+  - Murkrow (Level 28)
+  - Slugma (Level 27)
+
+**Route 17**
+- Cycling Road; stopping will cause you to roll downhill.
+- **Trainers:**
+  - Riley: Weezing (Lv. 34) - Reward: $1088
+  - Glenn: Koffing (Lv. 28), Magmar (Lv. 30), Weezing (Lv. 32) - Reward: $1024
+  - Joel: 2x Magmar (Lv. 32) - Reward: $1024
+  - Charles: Koffing (Lv. 30), Charmeleon (Lv. 30), Weezing (Lv. 30) - Reward: $960
+- **Items:**
+  - Max Ether (hidden in northern grass).
+  - Max Elixir (west of four fenceposts).
+
+**Route 18**
+- Leads east to Fuchsia City.
+- **Trainers:**
+  - Bob: Noctowl (Lv. 34) - Reward: $816
+  - Boris: Doduo (Lv. 30, 28), Dodrio (Lv. 32) - Reward: $768
+- **Wild Pokémon:** 
+  - Fearow (Levels 27, 29)
+  - Grimer (Levels 26, 28)
+  - Muk (Level 30)
+  - Slugma (Level 27)
+
+**Fuchsia City**
+- Largest city in southern Kanto. Home to the Fuchsia Gym.
+- **Wild Pokémon:**
+  - Surfing: Magikarp (Level 10-24)
+  - Fishing: Magikarp (Old Rod - Level 10; Good Rod - Level 20), Gyarados (Good Rod - Level 20)
+- **Items:**
+  - Burnt Berry (daily from a tree near the Poké Mart).
+  - TM06 (Toxic) from Gym Leader Janine after defeating her.
+
+**Fuchsia Gym**
+- Leader: Janine (Poison-type specialist).
+- Use Psychic, Electric, Ice, or Rock moves against her Pokémon.
+- **Janine's Team:**
+  - Crobat (Lv. 36)
+  - 2x Weezing (Lv. 36)
+  - Ariados (Lv. 33)
+  - Venomoth (Lv. 39)
+- **Rewards:** Soul Badge and TM06 (Toxic).
+
+**Road Closed**
+- The southern ocean route is blocked due to volcanic debris from Cinnabar Island. Exit Fuchsia City to Route 15. 
+
+This guide provides essential directions, trainer battles, and item locations to progress effectively through these areas.

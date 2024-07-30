@@ -1,0 +1,1844 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_9
+Keywords: Twist Mountain, Icirrus City, Icirrus Gym, Dragonspiral Tower
+
+Walkthrough Text:
+Contents
+1
+Twist Mountain
+1.1
+3F
+1.2
+2F
+1.3
+1F
+1.4
+3F
+1.5
+2F
+1.6
+1F
+2
+Icirrus City
+2.1
+The ore collector
+2.2
+Pokémon Fan Club
+2.3
+Aha's Pep Quiz
+2.4
+Icirrus Gym
+2.5
+Dragonspiral Tower
+2.5.1
+2F
+2.5.2
+3F
+2.5.3
+4F
+2.5.4
+5F
+2.5.5
+6F
+2.5.6
+7F
+Twist Mountain
+Twist Mountain
+is a mountain rich in valuable minerals, and the multitude of tunnels make it easy for
+Workers
+to extract them from the surrounding rock. The tunnels are spread out over four floors, but you cannot explore the entire area on your first visit. The mountain is prone to heavy snow in the
+winter
+months, blocking some tunnels and revealing others.
+Trainers
+Normal Trainers
+Trainer
+Pokémon
+Outside the entrance
+Hiker
+Terrell
+Reward:
+$
+1088
+Boldore
+♂
+Lv.
+34
+No item
+Gurdurr
+♂
+Lv.
+34
+No item
+Inside the mountain
+Hiker
+Darrell
+Reward:
+$
+1056
+Woobat
+♂
+Lv.
+33
+No item
+Gurdurr
+♂
+Lv.
+33
+No item
+Boldore
+♂
+Lv.
+33
+No item
+Ace Trainer
+Caroll
+Reward:
+$
+2100
+Vanillish
+♀
+Lv.
+35
+No item
+Gothorita
+♀
+Lv.
+35
+No item
+Duosion
+♀
+Lv.
+35
+No item
+Battle Girl
+Sharon
+Reward:
+$
+1152
+Throh
+♂
+Lv.
+36
+No item
+Worker
+Brand
+Reward:
+$
+1360
+Boldore
+♂
+Lv.
+34
+No item
+Excadrill
+♂
+Lv.
+34
+No item
+Worker
+Heath
+Reward:
+$
+1400
+Swoobat
+♂
+Lv.
+35
+No item
+Worker
+Rob
+Reward:
+$
+1320
+Boldore
+♂
+Lv.
+33
+No item
+Boldore
+♂
+Lv.
+33
+No item
+Boldore
+♂
+Lv.
+33
+No item
+Worker
+Cairn
+Reward:
+$
+1400
+Excadrill
+♂
+Lv.
+35
+No item
+Doctor
+Hank
+Reward:
+$
+2040
+Duosion
+♂
+Lv.
+34
+No item
+Musharna
+♂
+Lv.
+34
+No item
+Season-dependent
+Trainer
+Pokémon
+Spring, Summer, Autumn only
+Hiker
+Neil
+Reward:
+$
+1088
+Woobat
+♂
+Lv.
+34
+No item
+Boldore
+♂
+Lv.
+34
+No item
+Black Belt
+Teppei
+Reward:
+$
+1152
+Sawk
+♂
+Lv.
+36
+No item
+Worker
+Rich
+Reward:
+$
+1360
+Gurdurr
+♂
+Lv.
+34
+No item
+Boldore
+♂
+Lv.
+34
+No item
+Winter only
+Ace Trainer
+Jordan
+Reward:
+$
+2100
+Krokorok
+♂
+Lv.
+35
+No item
+Palpitoad
+♂
+Lv.
+35
+No item
+Klang
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+1F, 2F, 3F, B1F
+Boldore
+B
+W
+Cave
+28-31
+49%
+45%
+49%
+-
+Boldore
+B
+W
+Cave
+29-30
+-
+-
+-
+30%
+Woobat
+B
+W
+Cave
+29-31
+10%
+-
+10%
+-
+Woobat
+B
+W
+Cave
+28-31
+-
+20%
+-
+-
+Woobat
+B
+W
+Cave
+28-30
+-
+-
+-
+10%
+Gurdurr
+B
+W
+Cave
+28-30
+30%
+30%
+30%
+-
+Gurdurr
+B
+W
+Cave
+29
+-
+-
+-
+10%
+Cubchoo
+B
+W
+Cave
+28
+10%
+4%
+10%
+-
+Cubchoo
+B
+W
+Cave
+28-31
+-
+-
+-
+45%
+Cryogonal
+B
+W
+Cave
+31
+1%
+-
+1%
+5%
+Cryogonal
+B
+W
+Cave
+28
+-
+1%
+-
+-
+Dust clouds
+Drilbur
+B
+W
+Dust cloud
+28-31
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+3F
+Revive
+North of the entry tunnel
+B
+W
+Full Heal
+Southeast of the entry tunnel
+B
+W
+Hyper Potion
+On the wall northeast of
+Hiker
+Darrell (hidden)
+B
+W
+Stardust
+In a pile of dirt west of
+Worker
+Heath (hidden)
+B
+W
+Moon Stone
+Near a large rock east of
+Worker
+Heath
+B
+W
+2F
+Stardust
+In the southeastern-most pile of dirt near
+Worker
+Rob (hidden)
+B
+W
+Max Potion
+On a walkway on the interior's southeast area
+B
+W
+Ether
+On a walkway on the interior's west side
+B
+W
+Elixir
+In the western cave, to the southwest (hidden)
+B
+W
+PP Up
+In the western cave, near
+Worker
+Cairn
+B
+W
+Nugget
+In the western cave, south of the ledge
+B
+W
+Revive
+In the western cave, behind the
+Nugget
+(hidden)
+B
+W
+1F
+Protein
+In the northern cave, in a pile of dirt south of
+Black Belt
+Teppei (hidden)
+B
+W
+B1F
+TM91
+(
+Flash Cannon
+)
+Northeast of the
+ice-covered rock
+B
+W
+Spring, Summer, Autumn only
+Ultra Ball
+1F; in the northern cave, northwest of
+Black Belt
+Teppei
+B
+W
+Winter only
+Metal Coat
+1F; in the interior's southeast cave
+B
+W
+TM90
+(
+Substitute
+)
+1F; in the northeast tunnel, west of
+Ace Trainer
+Jordan
+B
+W
+Stardust
+1F; Main floor, in the north (hidden)
+B
+W
+Iron
+1F; Main floor, in the northeast (hidden)
+B
+W
+Rare Candy
+1F; Main floor, in the east (hidden)
+B
+W
+Layout
+Version
+Route 7
+entrance
+Exterior
+3F
+2F
+Black
+White
+Version
+1F
+B1F
+Black
+White
+Spring, Summer, Autumn
+3F
+Near the entrance, you run into
+Clay
+, who is checking up on the mines. He is concerned because he hasn't seen
+Team Plasma
+lately, and doesn't know the location of their base. He leaves, and
+Cheren
+heads deeper into the mountain.
+The interior of the mountain is a deep pit, with many walkways lining the walls. Go north from the entry tunnel to find a
+Revive
+, then southeast for a
+Full Heal
+. Take the southern doorway, fight
+Hiker
+Darrell, make a left down the first path and go through the doorway to fight
+Ace Trainer
+Caroll. Then go back in the tunnel and go through the doorway behind
+Battle Girl
+Sharon. Take the next doorway to an area covered with piles of dirt (one of which hides
+Worker
+Heath). Pick up a hidden
+Stardust
+on the second pile of dirt, and a
+Moon Stone
+to the east. Climb down the staircase to reach the mountain's mid-level.
+2F
+To the south are a half-dozen more piles of dirt; one hides a
+Stardust
+while another hides
+Worker
+Rob. Take the western doorway, and go north to find a
+Max Potion
+. Follow the walkway to the west for an
+Ether
+and the next doorway. Walk all the way to the west to find a hidden
+Elixir
+, then go northwest to find
+Worker
+Cairn and a
+PP Up
+. Jump the ledge for the
+Nugget
+and the hidden
+Revive
+behind it, and loop around to the northeast doorway. To the south is
+Doctor
+Hank; defeat him to have him heal your team. Enter the first doorway to the north, battle
+Hiker
+Neil, and continue north. Go west down the staircase to reach the lower level.
+1F
+Go west to find an
+Ultra Ball
+, then head south past
+Black Belt
+Teppei and (the hidden)
+Worker
+Rich to reach the interior floor.
+Outside is an empty rest house, a conveniently placed vending machine, and two bulldozers. Head south and enter the lowest area. Climb down the staircase to the deepest part of the mountain. The damp cave houses a large
+ice-covered rock
+, and
+TM91
+(
+Flash Cannon
+) to the northeast. Climb back up to the central area, and step through the northeast doorway.
+Soon you find
+Cheren
+arguing with a
+Plasma
+grunt. Then a second enters, and tells the first that "that item" has been found, and they should go to the tower. They disappear in a flash, leaving you to take the exit to
+Icirrus City
+.
+Winter
+3F
+Near the entrance, you run into
+Clay
+, who is checking up on the mines. He is concerned because he hasn't seen
+Team Plasma
+lately, and doesn't know the location of their base. He leaves, and
+Cheren
+heads deeper into the mountain.
+The interior of the mountain is covered in heavy snow. Some of the commonly-used tunnels are buried, while the height of the snow lets you reach areas that are otherwise inaccessible. Go north from the entry tunnel to find a
+Revive
+, then southeast for a
+Full Heal
+. Take the southern doorway, fight
+Hiker
+Darrell, make a left down the first path and go through the doorway to fight
+Ace Trainer
+Caroll. Then go back in the tunnel and go through the doorway behind
+Battle Girl
+Sharon. Take the next doorway to an area covered with piles of dirt (one of which hides
+Worker
+Heath), and pick up the
+Moon Stone
+to the east. Climb down the staircase to reach the mountain's mid-level.
+2F
+To the south are a half-dozen more piles of dirt; one hides a
+Stardust
+while another hides
+Worker
+Rob. Take the western doorway, and go north to find a
+Max Potion
+. Follow the walkway to the west for an
+Ether
+and the next doorway. Walk all the way to the west to find a hidden
+Elixir
+, then go northwest to find
+Worker
+Cairn and a
+PP Up
+. Jump the ledge for the
+Nugget
+and the hidden
+Revive
+behind it, and loop around to the northeast doorway. To the south is
+Doctor
+Hank; defeat him to have him heal your team.
+1F
+Head south over the snow to reach the lowest area. Climb down the staircase to the deepest part of the mountain. The damp cave houses a large
+ice-covered rock
+, and
+TM91
+(
+Flash Cannon
+) to the northeast. Get back to the snowy central area, and check the cave to the east for a
+Metal Coat
+. Go northwest, climb up the snowpack to the highest level, and take the northeast doorway. Walk west down the staircase and through the door, then head southeast to fight
+Ace Trainer
+Jordan. Go west to find
+TM90
+(
+Substitute
+), jump the ledge to the east, and go north through the doorway.
+Soon you find
+Cheren
+arguing with a
+Plasma
+grunt. Then a second enters, and tells the first that "that item" has been found, and they should go to the tower. They disappear in a flash, leaving you to take the exit to
+Icirrus City
+.
+Icirrus City
+Icirrus City
+When you step out of the mountain,
+Cedric Juniper
+comes to talk to you. According to him, the
+Dragonspiral Tower
+is the oldest building in
+Unova
+. Stories claim that it is where legendary Pokémon came to life, or where they remain in deep slumber. He leaves to investigate the tower, north of the city.
+Icirrus City
+'s wetlands occupy the area to the south, while the buildings are situated on higher, stable ground. The
+Pokémon Fan Club
+is located here, and you can win prizes for answering Aha's quizzes.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Puddles
+Palpitoad
+B
+W
+Puddle
+30-32
+40%
+40%
+40%
+-
+Shelmet
+B
+W
+Puddle
+30-32
+40%
+40%
+40%
+-
+Stunfisk
+B
+W
+Puddle
+31-32
+20%
+20%
+20%
+-
+Surfing
+Stunfisk
+B
+W
+Surfing
+15-35
+100%
+Rippling Water
+Stunfisk
+B
+W
+Rippling water
+15-40
+95%
+Seismitoad
+B
+W
+Rippling water
+15-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM14
+(
+Blizzard
+)
+Poké Mart,
+$
+70,000
+B
+W
+TM25
+(
+Thunder
+)
+Poké Mart,
+$
+70,000
+B
+W
+TM38
+(
+Fire Blast
+)
+Poké Mart,
+$
+70,000
+B
+W
+TM31
+(
+Brick Break
+)
+From the old woman in the Pokémon Center
+B
+W
+Exp. Share
+From the Fan Club chairman
+B
+W
+Cleanse Tag
+From the Fan Club chairman
+B
+W
+King's Rock
+From the Fan Club chairman
+B
+W
+Antidote
+(one per day)
+For answering Aha's quiz correctly
+B
+W
+Parlyz Heal
+(one per day)
+For answering Aha's quiz incorrectly
+B
+W
+Max Revive
+In the puddle south of the Pokémon Center, next to the deep water (hidden)
+B
+W
+Timer Ball
+East of the Pokémon Center, across the two bridges (hidden)
+B
+W
+Ultra Ball
+East of the Pokémon Center, across the two bridges (hidden)
+B
+W
+Fresh Water
+From Clyde in the Gym
+B
+W
+Only during Winter
+Max Potion
+West of the Pokémon Center (hidden)
+B
+W
+Rare Candy
+South of the Fan Club
+B
+W
+RageCandyBar
+From the wife of the ex-
+Rocket
+member, southeast house
+B
+W
+TinyMushroom
+×2
+Near the windmill south of the Pokémon Center (hidden, regrows occasionally)
+B
+W
+Big Mushroom
+Near the windmill south of the Pokémon Center (hidden, regrows occasionally)
+B
+W
+After defeating the Icirrus Gym
+TM79
+(
+Frost Breath
+)
+From
+Brycen
+for defeating him
+B
+W
+The ore collector
+The old gentleman in the Pokémon Center is interested in collecting any stones, gems, and minerals you might have, and is willing to pay double the normal price for them.
+Items
+Price
+All
+Shards
+and
+Gems
+$
+200
+Hard Stone
+$
+500
+Damp Rock
+,
+Heat Rock
+,
+Icy Rock
+,
+Smooth Rock
+,
+Everstone
+,
+Float Stone
+$
+1,000
+Pearl
+$
+1,400
+Oval Stone
+$
+1,500
+Stardust
+$
+2,000
+Dawn Stone
+,
+Dusk Stone
+,
+Fire Stone
+,
+Moon Stone
+,
+Shiny Stone
+,
+Sun Stone
+,
+Thunderstone
+,
+Water Stone
+,
+Odd Keystone
+$
+3,000
+Shoal Shell
+$
+7,000
+Big Pearl
+$
+7,500
+Star Piece
+$
+9,800
+Nugget
+$
+10,000
+Pearl String
+$
+25,000
+Big Nugget
+$
+30,000
+Comet Shard
+$
+60,000
+Pokémon Fan Club
+Talk to the chairman and show him a well-trained Pokémon to get an item. Depending on the number of levels grown, you can obtain up to three different items. A Pokémon that has grown 25-49 levels will earn you an
+Exp. Share
+, 50-98 levels will get you a
+Cleanse Tag
+, and a Pokémon that's grown 99 levels will earn you a
+King's Rock
+.
+The girl in the Fan Club will offer to check your Pokémon's mood. Choose a Pokémon to show her, and she will tell you how
+friendly
+it is toward you.
+Aha's Pep Quiz
+The home of Aha, Wye, and Ditoh is east of the Gym. The mother, Wye, pulls you into the game the moment you step inside. The father, Aha, will ask you a question, while Wye gives hints to the answer. A correct answer will earn you an
+Antidote
+, while an incorrect one will get you a
+Parlyz Heal
+instead. You can take the quiz once per day.
+Icirrus Gym
+Icirrus Gym
+Icirrus City Pokémon Gym
+Leader: Brycen
+Ice Mask
+The
+Icirrus Gym
+specializes in the
+Ice-type
+. Every Pokémon in the Gym is a pure Ice-type, and can be melted with
+Fire
+moves, shattered with
+Fighting
+attacks, or smashed into dust with
+Rock
+and
+Steel
+moves. TM moves like
+Brick Break
+or
+Flash Cannon
+are good to use here.
+Go north from the entrance to curved spinner, which redirects you to the blue tile to the west. Slide to the right and battle
+Black Belt
+Grant. Step on the red switch to rotate the spinner, then bounce off of it again to reach the northeast. Fight
+Battle Girl
+Miriam, then slide east over the first jump. Battle Black Belt Kendrew and slide east, north, east, and north again to reach Battle Girl Mikiko. Head southeast and loop around to the spinner, which redirects you to the blue tile in the southeast corner. Go north to step on the switch, pass by Mikiko again, and bounce off of the spinner to reach the northwest. Slide west over the jump to fight Battle Girl Chandra, then bounce off of the spinner twice. Go north to fight Black Belt Thomas, rotate the spinner, and slide north.
+Brycen
+waits at the top of the staircase.
+Icirrus Gym
+Trainers
+Trainer
+Pokémon
+Black Belt
+Grant
+Reward:
+$
+1120
+Cubchoo
+♂
+Lv.
+35
+No item
+Cryogonal
+Lv.
+35
+No item
+Cubchoo
+♂
+Lv.
+35
+No item
+Battle Girl
+Miriam
+Reward:
+$
+1184
+Cryogonal
+Lv.
+37
+No item
+Black Belt
+Kendrew
+Reward:
+$
+1184
+Cubchoo
+♂
+Lv.
+37
+No item
+Battle Girl
+Mikiko
+Reward:
+$
+1152
+Cubchoo
+♀
+Lv.
+36
+No item
+Vanillish
+♀
+Lv.
+36
+No item
+Battle Girl
+Chandra
+Reward:
+$
+1152
+Vanillish
+♀
+Lv.
+36
+No item
+Vanillish
+♀
+Lv.
+36
+No item
+Black Belt
+Thomas
+Reward:
+$
+1152
+Vanillish
+♂
+Lv.
+36
+No item
+Cubchoo
+♂
+Lv.
+36
+No item
+Leader
+Brycen
+Icirrus Gym
+Black and White
+Reward:
+$
+4680
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Vanillish
+♂
+Lv.
+37
+Frost Breath
+Ice
+Special
+--
+Acid Armor
+Poison
+Status
+--
+Astonish
+Ghost
+Physical
+--
+Mirror Shot
+Steel
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Snow Cloak
+Held item:
+None
+Beartic
+♂
+Lv.
+39
+Swagger
+Normal
+Status
+--
+Icicle Crash
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Brine
+Water
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+37
+Aurora Beam
+Ice
+Special
+--
+Reflect
+Psychic
+Status
+--
+Frost Breath
+Ice
+Special
+--
+Rapid Spin
+Normal
+Physical
+--
+Brycen
+awards you the
+Freeze Badge
+, which that all Pokémon up to level 80 will obey you. He also gives you
+TM79
+(
+Frost Breath
+) as a prize. Take the slide to the left for a shortcut to the entrance.
+Outside,
+Cheren
+and
+Bianca
+are waiting for you. While they're talking,
+Brycen
+exits the Gym and confronts the
+Shadow Triad
+, who claim that
+Ghetsis
+wants you to visit
+Dragonspiral Tower
+before disappearing again. Follow Brycen and Cheren north to reach the tower.
+Dragonspiral Tower
+Dragonspiral Tower
+Dragonspiral Tower
+is said to be the oldest structure in the
+Unova
+region. Stories claim that the legendary dragon is waiting on the top floor for the person who pursues truths or ideals.
+Cedric Juniper
+is waiting at the entrance to the tower.
+Bianca
+introduces herself, and he tells you that he saw
+Brycen
+and
+Cheren
+chase after a large group of
+Team Plasma
+members that broke through the tower wall. Juniper gives you an
+Old Gateau
+to help you climb the tower.
+Trainers
+Outside
+Trainer
+Pokémon
+Ace Trainer
+Jesse
+Reward:
+$
+2160
+Vanillish
+♂
+Lv.
+36
+No item
+Galvantula
+♂
+Lv.
+36
+No item
+Ace Trainer
+Jamie
+Reward:
+$
+2100
+Cubchoo
+♀
+Lv.
+35
+No item
+Darmanitan
+♀
+Lv.
+35
+No item
+Leavanny
+♀
+Lv.
+35
+No item
+Inside
+Trainer
+Pokémon
+4F
+Team Plasma Grunt
+Reward:
+$
+1360
+Watchog
+♂
+Lv.
+34
+No item
+Team Plasma Grunt
+Reward:
+$
+1360
+Liepard
+♀
+Lv.
+34
+No item
+Team Plasma Grunt
+Reward:
+$
+1360
+Scraggy
+♂
+Lv.
+34
+No item
+Team Plasma Grunt
+Reward:
+$
+1320
+Liepard
+♀
+Lv.
+33
+No item
+Liepard
+♀
+Lv.
+33
+No item
+Team Plasma Grunt
+Reward:
+$
+1280
+Watchog
+♂
+Lv.
+32
+No item
+Krokorok
+♂
+Lv.
+32
+No item
+Scraggy
+♂
+Lv.
+32
+No item
+6F
+Team Plasma Grunt
+Reward:
+$
+1320
+Watchog
+♂
+Lv.
+33
+No item
+Krokorok
+♂
+Lv.
+33
+No item
+Team Plasma Grunt
+Reward:
+$
+1360
+Krokorok
+♂
+Lv.
+34
+No item
+Team Plasma Grunt
+Reward:
+$
+1320
+Trubbish
+♀
+Lv.
+33
+No item
+Liepard
+♀
+Lv.
+33
+No item
+Team Plasma Grunt
+Reward:
+$
+1360
+Watchog
+♂
+Lv.
+34
+No item
+Available Pokémon
+Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tranquill
+B
+W
+Grass
+30-32
+30%
+30%
+30%
+-
+Vanillite
+B
+W
+Grass
+31-33
+-
+-
+-
+30%
+Deerling
+B
+W
+Grass
+31-32
+30%
+-
+-
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+30%
+-
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+-
+30%
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+-
+-
+30%
+Mienfoo
+B
+W
+Grass
+31-33
+30%
+Druddigon
+B
+W
+Grass
+31-33
+10%
+10%
+10%
+-
+Cubchoo
+B
+W
+Grass
+33
+-
+-
+-
+10%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+30-33
+85%
+85%
+85%
+90%
+Emolga
+B
+W
+Rustling grass
+31
+10%
+Unfezant
+B
+W
+Rustling grass
+33
+5%
+5%
+5%
+-
+Dark Grass (Winter only)
+Vanillish
+B
+W
+Dark grass
+31-33
+-
+-
+-
+30%
+Sawsbuck
+B
+W
+Dark grass
+30-32
+-
+-
+-
+30%
+Mienfoo
+B
+W
+Dark grass
+31-33
+-
+-
+-
+30%
+Beartic
+B
+W
+Dark grass
+33
+-
+-
+-
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tranquill
+B
+W
+Grass
+31-32
+30%
+30%
+30%
+-
+Vanillite
+B
+W
+Grass
+31-32
+-
+-
+-
+30%
+Deerling
+B
+W
+Grass
+31-32
+30%
+-
+-
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+30%
+-
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+-
+30%
+-
+Deerling
+B
+W
+Grass
+31-32
+-
+-
+-
+30%
+Mienfoo
+B
+W
+Grass
+30-33
+30%
+Druddigon
+B
+W
+Grass
+31-33
+10%
+Cubchoo
+B
+W
+Grass
+33
+-
+-
+-
+10%
+Dark Grass
+Tranquill
+B
+W
+Dark grass
+35-36
+30%
+30%
+30%
+-
+Vanillish
+B
+W
+Dark grass
+31-33
+-
+-
+-
+30%
+Sawsbuck
+B
+W
+Dark grass
+34-36
+30%
+-
+-
+-
+Sawsbuck
+B
+W
+Dark grass
+34-36
+-
+30%
+-
+-
+Sawsbuck
+B
+W
+Dark grass
+34-36
+-
+-
+30%
+-
+Sawsbuck
+B
+W
+Dark grass
+34-36
+-
+-
+-
+30%
+Mienfoo
+B
+W
+Dark grass
+33-36
+30%
+Druddigon
+B
+W
+Dark grass
+31-33
+10%
+10%
+10%
+-
+Beartic
+B
+W
+Dark grass
+33
+-
+-
+-
+10%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+30-33
+85%
+85%
+85%
+90%
+Emolga
+B
+W
+Rustling grass
+31
+10%
+Unfezant
+B
+W
+Rustling grass
+33
+5%
+5%
+5%
+-
+Surfing
+Basculin
+B
+W
+Surfing
+15-35
+100%
+Basculin
+B
+W
+Surfing
+15-35
+100%
+Rippling Water
+Basculin
+B
+W
+Rippling water
+15-40
+100%
+Basculin
+B
+W
+Rippling water
+15-40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Golett
+B
+W
+1F
+30-32
+50%
+Druddigon
+B
+W
+1F
+30-33
+30%
+Mienfoo
+B
+W
+1F
+33
+20%
+Golett
+B
+W
+2F
+30-33
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Entrance
+Old Gateau
+Gift from
+Cedric Juniper
+B
+W
+Nugget
+On the cliff north of
+Icirrus City
+(Winter only)
+B
+W
+Outside the tower
+TM63
+(
+Embargo
+)
+East of the tower (requires
+Surf
+)
+B
+W
+Heart Scale
+On the eastern outer wall of the tower (hidden, requires
+Surf
+)
+B
+W
+Inside the tower
+Hyper Potion
+2F, northeast corner
+B
+W
+Stardust
+2F, on top of a pillar
+B
+W
+Shiny Stone
+3F, northwest corner
+B
+W
+Dragon Fang
+4F, northeast corner
+B
+W
+Star Piece
+5F, third ring
+B
+W
+Stardust
+5F, first ring
+B
+W
+Revive
+5F, second ring
+B
+W
+Max Elixir
+6F, northeast corner
+B
+W
+2F
+On the first floor, you can hear something on a rampage further up the tower. The second floor is littered with broken columns; these act as a bridge if you don't have a Pokémon with
+Strength
+. Don't miss the
+Hyper Potion
+and the
+Stardust
+.
+3F
+The third floor is covered with one-way launch ramps. Jump to the south, then take the middle ramp west, then north to reach a
+Shiny Stone
+. Go south and take the southernmost ramp west to the winding staircase.
+4F
+When you reach the fourth floor,
+Brycen
+and
+Cheren
+are holding off a large group of
+Team Plasma
+members. Brycen tells you to go on ahead while they keep the criminals busy. Head to the next floor and put a hurting on the five Plasma grunts that try to stop you. Grab the Dragon Fang in the northeast corner, and take the exit to the north.
+5F
+The fifth floor is made up of four large circular paths around the central column. Head to the right to find a
+Star Piece
+, then a
+Stardust
+. Walk around the column and jump the ramp to reach a
+Revive
+, then go left to reach the stairs.
+6F
+When you reach the sixth floor, you hear more of the rampage above. Giallo of the
+Seven Sages
+is standing here, speaking to four of the grunts. He commands them to attack, and you have to defeat all four in a row before you can advance.
+7F
+On the top floor,
+N
+is befriending the legendary Pokémon
+Zekrom
+B
+/
+Reshiram
+W
+. The dragon recognizes N as a hero. N tells you that if you want to stop him, you must become a hero as well. He tells you to look for the other dragon, and flies off with his new ally.
+When you return to the entrance,
+Alder
+arrives. He tells you that the
+Relic Castle
+may hold a clue about the other legendary dragon.
+Fly
+back to
+Nimbasa City
+, and trek through
+Route 4
+to reach the desert.
+← Part 8
+Route 17, Route 18, P2 Laboratory, Mistralton Cave, Rumination Field
+Black and White
+walkthrough
+Relic Castle, Nacrene Museum, Route 8, Moor of Icirrus, Tubeline Bridge, Route 9
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

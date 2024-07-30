@@ -1,0 +1,37 @@
+Game: Scarlet_and_Violet
+Part: 1
+Keywords: Introduction, Cabo Poco, Director Clavell's mansion, Nemona
+
+**Part 1: Introduction to Pokémon Scarlet and Violet**
+
+**Character Creation:**  
+- Choose language and customize your character (model, name, hair, eyes).
+
+**Overview:**  
+- Attend Naranja Academy (Scarlet) or Uva Academy (Violet). Meet Academy Director Clavell and witness a mysterious Pokémon.
+
+**Cabo Poco Items:**  
+- **Rotom Phone:** From Mom at your house.
+- **Pokédex:** From Nemona after your first battle.
+- **Sandwich, Potions (x5), $10,000:** From Mom at Nemona's house after battling.
+- **Antidotes:** South of your house and by Nemona's house.
+- **Poké Balls:** Various locations including north of your house and near the beach.
+
+**Gameplay Steps:**  
+1. Explore Cabo Poco: Collect items (Antidote, Potions, Poké Balls).
+2. Meet Clavell and Nemona at her house. Choose your first Pokémon: Sprigatito (Grass), Fuecoco (Fire), or Quaxly (Water).
+3. After selection, Nemona will challenge you to a battle at the beach.
+
+**Battle Strategy:**  
+- **Sprigatito:** Grass-type, weak to Fire, Flying, Bug, Poison, Ice.
+- **Fuecoco:** Fire-type, weak to Water, Ground, Rock.
+- **Quaxly:** Water-type, weak to Grass, Electric.
+
+**Post-Battle:**  
+- After defeating Nemona, you'll receive the Pokédex. Clavell tasks her with guiding you to the Academy.
+- Nemona gives you a Sandwich and five Potions. Follow her to Poco Path to continue your adventure.
+
+**Next Step:**  
+- Proceed to Poco Path to begin capturing wild Pokémon. 
+
+**Link to Part 2**: [Poco Path and Beyond](https://bulbapedia.bulbagarden.net/wiki/Appendix:Scarlet_and_Violet_walkthrough/Section_2)

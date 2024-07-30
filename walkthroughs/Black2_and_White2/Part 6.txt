@@ -1,0 +1,1324 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_6
+Keywords: Nimbasa City, Nimbasa Gym, Anville Town, Route 16, Lostlorn Forest
+
+Walkthrough Text:
+Contents
+1
+Nimbasa City
+1.1
+Pair up against the Subway Bosses
+1.2
+Gear Station
+1.2.1
+The Battle Subway
+1.2.1.1
+Format
+1.2.1.2
+Rewards
+1.3
+Big Stadium and Small Court
+1.4
+Musical Theater
+1.5
+Amusement Park
+1.5.1
+Shining Roller Coaster
+1.5.2
+Rondez-View Ferris Wheel
+1.5.3
+Nimbasa Gym
+1.5.3.1
+Easy Mode/Normal Mode
+1.5.3.2
+Challenge Mode
+1.6
+Hugh and Team Plasma face off
+2
+Anville Town
+2.1
+The Missing Pansage
+2.2
+Funfest Mission
+2.3
+Lost & Found
+2.4
+The turntable
+3
+Route 16
+3.1
+Bridge Gate
+3.2
+Lostlorn Forest
+3.2.1
+Battle with the Pokémon Breeder
+3.2.2
+The Rangers' Reward
+3.2.3
+A Rare TM
+Nimbasa City
+Nimbasa City
+Nimbasa City
+is a city of leisure, with facilities like the
+Battle Subway
+,
+Pokémon Musical
+, and even an amusement park. Two sports arenas,
+Big Stadium and Small Court
+, are also located here. The
+Nimbasa Gym
+was originally located where the Shining Roller Coaster stands, but has since moved to a new building east of the Rondez-View Ferris wheel.
+Items
+Item
+Location
+Games
+Red Shard
+×10
+From the Gentleman in the Pokémon Center
+B2
+W2
+Soothe Bell
+From the Socialite in the building north of the Battle Institute, if the lead Pokémon's friendship is high
+B2
+W2
+Sun Stone
+From a male Ace Trainer in the building north of the Pokémon Center
+B2
+W2
+Thunderstone
+Between the Pokémon Center and Battle Institute (hidden)
+B2
+W2
+Vs. Recorder
+From Rosa or Nate, after defeating Ingo and Emmet
+B2
+W2
+Prop Case
+From the Pokémon Musical owner in the Musical Theater
+B2
+W2
+TM49
+(
+Echoed Voice
+)
+From a girl in the Musical Theater
+B2
+W2
+Dropped Item
+South of the park entrance
+B2
+W2
+Revive
+In the trash can outside the Shining Roller Coaster (hidden)
+B2
+W2
+Parlyz Heal
+×2
+From the Beauty in the back of Shining Roller Coaster
+Near the Audino figure in the park
+B2
+W2
+Inside the Nimbasa Gym
+Fresh Water
+From Clyde at the entrance
+B2
+W2
+TM72
+(
+Volt Switch
+)
+From Elesa after defeating her
+B2
+W2
+Pair up against the Subway Bosses
+When you enter the city,
+Subway Bosses
+Ingo
+and
+Emmet
+are standing outside of
+Gear Station
+. Talk to the Pokémon Trainer in front of them to team up against the conductors. Male players will team up with Rosa, while female players will team up with Nate. Your partner's Pokémon changes depending on which starter Pokémon you chose;
+Dewott
+if you chose
+Snivy
+,
+Servine
+if you chose
+Tepig
+, or
+Pignite
+if you chose
+Oshawott
+.
+Subway Boss
+and
+Subway Boss
+Ingo
+Emmet
+Nimbasa City
+Black 2 and White 2
+Reward:
+$
+5200
+Type:
+Fighting
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Gurdurr
+♂
+Lv.
+26
+Wake-Up Slap
+Fighting
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Low Kick
+Fighting
+Physical
+--
+Chip Away
+Normal
+Physical
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Boldore
+♂
+Lv.
+26
+Iron Defense
+Steel
+Status
+--
+Power Gem
+Rock
+Special
+--
+Smack Down
+Rock
+Physical
+--
+Mud-Slap
+Ground
+Special
+--
+Afterwards, the Subway Bosses return to the Subway and your partner thanks you with a
+Vs. Recorder
+. This item lets you record a video of a battle in the Subway, or a Link Battle with a friend.
+Gear Station
+Map of the various railway lines
+From
+Gear Station
+, you can board any one of the eight railway lines. The seven others lead to their respective challenges, but the Brown Line is different. Rather than have you battle another group of Trainers, this line is the only way to reach
+Anville Town
+far to the northwest.
+The Battle Subway
+In the
+Battle Subway
+, you earn
+Battle Points
+for every seven Trainers you defeat. These points can be redeemed at the Exchange Service Corner for
+rare items
+.
+Format
+Each train uses its own battle format. The Single Train uses Single Battles, while the Double Train uses Double Battles. The Multi Train pairs you up with another Trainer, with each using two Pokémon. The Super Single, Super Double, and Super Multi Trains become available after reaching 21 consecutive wins on each of the three other lines. Lastly, the Wi-Fi Train allows you to battle Trainers from around the world.
+Rewards
+There are seven Battle
+Medals
+to be earned here, and three of them can only be obtained by defeating the Subway Bosses. Also, one of three trophies will be displayed at home in
+Aspertia
+after reaching 49 straight wins on any of the Super Trains.
+Big Stadium and Small Court
+Big Stadium and Small Court
+are the major sports venues of the
+Unova
+region. The stadium hosts baseball, soccer, and football games, while the court hosts tennis and basketball games. The players double as Trainers and can be battled daily, unless a game is in progress. The number of Trainers and the levels of their Pokémon increase as you earn more Badges. Keep yourself fighting fit by visiting every day.
+Sports schedule and event hours for Big Stadium (UTC):
+Sun
+Mon
+Tues
+Wed
+Thurs
+Fri
+Sat
+Baseball
+Baseball
+Soccer
+Football
+Baseball
+Soccer
+Football
+2PM-5PM
+2PM-5PM
+2PM-4PM
+2PM-4PM
+2PM-5PM
+2PM-4PM
+2PM-4PM
+Today is
+Monday
+Sports schedule and event hours for Small Court (UTC):
+Sun
+Mon
+Tues
+Wed
+Thurs
+Fri
+Sat
+Tennis
+Tennis
+Basketball
+Tennis
+Basketball
+Tennis
+Basketball
+10AM-11AM
+10AM-11AM
+10AM-12PM
+10AM-11AM
+10AM-12PM
+10AM-11AM
+10AM-12PM
+Today is
+Monday
+Musical Theater
+The Musical Theater on the north side of the city is where the
+Pokémon Musical
+is held. When you step inside, the owner gives you a
+Prop Case
+so you can participate. A girl near the PC gives you
+TM49
+(
+Echoed Voice
+) as well.
+Amusement Park
+The amusement park is located on the east side of the city. South of the entrance is the
+Dropped Item
+, a lost
+Xtransceiver
+. The owner soon calls, and the two of you gradually become friends. Male players will meet
+Yancy
+, while female players will meet
+Curtis
+. Eventually, you will be able to trade Pokémon.
+Shining Roller Coaster
+Two years ago, the Nimbasa Gym was located in this building. There are still Ladies and Rich Boys looking to battle here. Proceed by pressing switches to change the coaster's path. Talk to the woman at the back of the building to get a
+Parlyz Heal
+to help out at the new Gym.
+Trainers
+Trainer
+Pokémon
+Rich Boy
+Rolan
+Reward:
+$
+3840
+Blitzle
+♂
+Lv.
+24
+No item
+Lady
+Colette
+Reward:
+$
+3840
+Flaaffy
+♀
+Lv.
+24
+No item
+Rondez-View Ferris Wheel
+There is a Pokémon Trainer in front of the Ferris wheel. The Trainer varies depending on the season and the player's gender. After defeating the Trainer, you can ride the Ferris wheel together.
+Trainers
+If player is Nate
+Trainer
+Pokémon
+Lass
+Persephone
+Reward:
+$
+384
+Spring only
+Liepard
+♀
+Lv.
+24
+No item
+Nursery Aide
+June
+Reward:
+$
+960
+Summer only
+Swadloon
+♀
+Lv.
+24
+No item
+Clerk ♀
+Trisha
+Reward:
+$
+960
+Autumn only
+Minccino
+♀
+Lv.
+24
+No item
+Beauty
+December
+Reward:
+$
+1344
+Winter only
+Flaaffy
+♀
+Lv.
+24
+No item
+If player is Rosa
+Trainer
+Pokémon
+Dancer
+Dirk
+Reward:
+$
+768
+Spring only
+Darumaka
+♂
+Lv.
+24
+No item
+Clerk ♂
+Augustin
+Reward:
+$
+960
+Summer only
+Tranquill
+♂
+Lv.
+24
+No item
+Hiker
+Andy
+Reward:
+$
+768
+Autumn only
+Boldore
+♂
+Lv.
+24
+No item
+Guitarist
+January
+Reward:
+$
+768
+Winter only
+Whirlipede
+♀
+Lv.
+24
+No item
+Nimbasa Gym
+The new Nimbasa Gym
+Nimbasa City Pokémon Gym
+Leader: Elesa
+The Shining Beauty
+Elesa
+has moved the
+Electric-type
+-specialist
+Nimbasa Gym
+to a new building east of the Ferris wheel. The supermodel has designed her Gym with a large runway through the center. A new section is lit up as you approach each Gym Trainer, until you reach Elesa singing on the stage. Her Pokémon frequently use
+Volt Switch
+to shuffle in and out of battle.
+Flaaffy
+and
+Zebstrika
+are vulnerable to
+Ground-type
+attacks, while
+Emolga
+fears
+Rock-type
+moves. Pokémon from the desert, like
+Sandile
+or
+Sandshrew
+, are immune to electrical attacks and should have little trouble here.
+Nimbasa Gym
+Trainers
+Trainer
+Pokémon
+Beauty
+Nikola
+Reward:
+$
+1512
+Elekid
+♂
+Lv.
+27
+No item
+Flaaffy
+♀
+Lv.
+27
+No item
+Beauty
+Fleming
+Reward:
+$
+1512
+Flaaffy
+♀
+Lv.
+27
+No item
+Blitzle
+♀
+Lv.
+27
+No item
+Beauty
+Ampère
+Reward:
+$
+1512
+Blitzle
+♀
+Lv.
+27
+No item
+Elekid
+♂
+Lv.
+27
+No item
+Easy Mode/Normal Mode
+Leader
+Elesa
+Nimbasa Gym
+Black 2 and White 2
+Reward:
+$
+3360
+/
+$
+3600
+Types:
+Electric
+Flying
+Ability:
+Static
+Held item:
+None
+Emolga
+♀
+Lv.
+26
+/
+28
+Quick Attack
+Normal
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Flaaffy
+♀
+Lv.
+26
+/
+28
+Thunder Wave
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Take Down
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+Sitrus Berry
+Zebstrika
+♀
+Lv.
+28
+/
+30
+Flame Charge
+Fire
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Challenge Mode
+Leader
+Elesa
+Nimbasa Gym
+Black 2 and White 2
+Reward:
+$
+3840
+Types:
+Electric
+Flying
+Ability:
+Static
+Held item:
+Sitrus Berry
+Emolga
+♀
+Lv.
+30
+Quick Attack
+Normal
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Flaaffy
+♀
+Lv.
+30
+Thunder Wave
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Bug
+Electric
+Ability:
+Unnerve
+Held item:
+None
+Joltik
+♀
+Lv.
+30
+Thunder Wave
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Energy Ball
+Grass
+Special
+--
+X-Scissor
+Bug
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+Sitrus Berry
+Zebstrika
+♀
+Lv.
+32
+Volt Switch
+Electric
+Special
+--
+Pursuit
+Dark
+Physical
+--
+Flame Charge
+Fire
+Physical
+--
+Stomp
+Normal
+Physical
+--
+After the battle,
+Elesa
+awards you the
+Bolt Badge
+, which ensures that all Pokémon up to level 50 will obey you. She also gives you
+TM72
+(
+Volt Switch
+) as a prize.
+Hugh and Team Plasma face off
+Hugh
+is arguing with four
+Plasma Grunts
+outside
+Big Stadium
+. He is clearly angry with them, and the Grunts are also itching for a fight.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+1080
+Trubbish
+♂
+Lv.
+27
+No item
+Team Plasma Grunt
+Reward:
+$
+1080
+Watchog
+♀
+Lv.
+27
+No item
+Before running off, they brag about searching for a power source for their secret weapon. Afterwards, Hugh explains that
+Team Plasma
+stole his little sister's
+Purrloin
+five years ago. He restores your Pokémon's health before chasing after Team Plasma.
+Anville Town
+Anville Town
+The only way to reach
+Anville Town
+in
+Unova
+'s far northwest is by taking the Brown Line from
+Nimbasa
+'s Gear Station. A large turntable for changing a train's direction sits in the center of town. On weekends, the town is bustling with tourists that visit to watch the trains come and go. Some tourists may even want to trade items.
+Items
+Item
+Location
+Games
+BrightPowder
+From the girl on the platform for finding her Pansage
+B2
+W2
+Rare Candy
+From the Depot Agent in the southeast house
+B2
+W2
+Revive
+From the Backpacker in exchange for two
+Escape Ropes
+Sa
+Su
+B2
+W2
+PP Up
+From the Clerk♂ in exchange for a
+Star Piece
+Sa
+Su
+B2
+W2
+Full Restore
+From the female Ace Trainer in exchange for twenty
+Poké Balls
+Sa
+Su
+B2
+W2
+The Missing Pansage
+Talk to the girl on the platform to learn that her
+Pansage
+has gotten lost somewhere in
+Nimbasa City
+. Luckily it has been found by a Depot Agent, who is waiting outside the Musical Theater. Talk to him about the girl, then tell her where Pansage turned up. As thanks for finding it, she gives you a
+BrightPowder
+. She also remarks that
+a green-haired man
+told her that Pansage wants to be a railroad conductor.
+Funfest Mission
+When you trade an item with the Backpacker, a new
+Funfest Mission
+is added. The mission is either named
+Exciting Trading
+B2
+or
+Exhilirating Trading
+W2
+.
+Lost & Found
+A Depot Agent in the southeast house will give you a lost
+Rare Candy
+the first time you talk to him. After seven consecutive battles on the
+Battle Subway
+, he will give out a number of
+Vitamins
+,
+Full Restores
+,
+Revives
+, or
+Elixirs
+for each set of seven victories at the Battle Subway that day, capping at ten per day.
+The turntable
+Anville Town
+is known for its connection with locomotives. Every day, a different train engine can be found on the turntable, most of them a part of the Battle Subway. A Worker on the bridge
+explains
+a bit about each one.
+Route 16
+Route 16
+Route 16
+is a short route that connects
+Nimbasa City
+and
+Marvelous Bridge
+. The elevator to the bridge is out-of-order, so eastward travel is blocked for now. On the north side of the route, a small grove of trees leads to
+Lostlorn Forest
+. When you are finished here, cross westward through the city to reach
+Route 5
+.
+Trainers
+Trainer
+Pokémon
+Depot Agent
+Hank
+Reward:
+$
+1000
+Drilbur
+♂
+Lv.
+25
+No item
+Cyclist
+Hector
+Reward:
+$
+800
+Tranquill
+♂
+Lv.
+25
+No item
+Backpacker
+Ivan
+Reward:
+$
+600
+Watchog
+♂
+Lv.
+25
+No item
+Backers
+Stu & Art
+Reward:
+$
+1152
+Scraggy
+♂
+Lv.
+24
+No item
+Scraggy
+♂
+Lv.
+24
+No item
+Cyclist
+Krissa
+Reward:
+$
+800
+Whirlipede
+♀
+Lv.
+25
+No item
+Requires Strength
+Backpacker
+Blossom
+Reward:
+$
+600
+Liepard
+♀
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Minccino
+B2
+W2
+Grass
+21-24
+30%
+Gothita
+B2
+W2
+Grass
+21-24
+30%
+Solosis
+B2
+W2
+Grass
+21-24
+30%
+Liepard
+B2
+W2
+Grass
+22-24
+20%
+Trubbish
+B2
+W2
+Grass
+21-24
+20%
+Dark grass
+Minccino
+B2
+W2
+Dark grass
+23-26
+30%
+Gothita
+B2
+W2
+Dark grass
+23-26
+30%
+Solosis
+B2
+W2
+Dark grass
+23-26
+30%
+Liepard
+B2
+W2
+Dark grass
+24-26
+20%
+Trubbish
+B2
+W2
+Dark grass
+23-26
+20%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+21-24
+85%
+Emolga
+B2
+W2
+Rustling grass
+22
+10%
+Cinccino
+B2
+W2
+Rustling grass
+24
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Macho Brace
+From the Infielder in Nimbasa's east gate
+B2
+W2
+Heal Ball
+Northwest part of the grove (requires
+Cut
+)
+B2
+W2
+TinyMushroom
+North of Backpacker Blossom (hidden, requires
+Strength
+)
+B2
+W2
+TM66
+(
+Payback
+)
+Behind the fence, east of Backpacker Blossom (requires
+Strength
+)
+B2
+W2
+Fresh Water
+From the Roughneck in the Bridge Gate
+B2
+W2
+Bridge Gate
+No one can cross the bridge yet, but you can still visit the Bridge Gate. Talk to the Roughneck near the vending machine, and he gives you an extra
+Fresh Water
+that the machine dispensed to him.
+Lostlorn Forest
+Lostlorn Forest
+Two years ago,
+Lostlorn Forest
+was a grove thick with trees. But this was only an illusion created by a
+Zoroark
+, and the real forest looked like it does now.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Galen
+Reward:
+$
+768
+*
+Tranquill
+♂
+Lv.
+24
+No item
+Liepard
+♂
+Lv.
+24
+No item
+Pokémon Ranger
+Serenity
+Reward:
+$
+1560
+Trubbish
+♀
+Lv.
+26
+No item
+Pokémon Ranger
+Forrest
+Reward:
+$
+1560
+Emolga
+♂
+Lv.
+26
+No item
+Requires Surf, Waterfall
+Veteran
+Murphy
+Reward:
+$
+4080
+Larvesta
+♂
+Lv.
+51
+No item
+Pinsir
+♂
+Lv.
+51
+No item
+Heracross
+♂
+Lv.
+51
+No item
+Leavanny
+♂
+Lv.
+51
+No item
+Scolipede
+♂
+Lv.
+51
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Swadloon
+B2
+W2
+Grass
+21-24
+25%
+Cottonee
+B2
+W2
+Grass
+21-24
+25%
+Petilil
+B2
+W2
+Grass
+21-24
+25%
+Venipede
+B2
+W2
+Grass
+21
+20%
+Roselia
+B2
+W2
+Grass
+23-24
+15%
+Combee
+B2
+W2
+Grass
+22
+10%
+Heracross
+B2
+W2
+Grass
+24
+5%
+Pinsir
+B2
+W2
+Grass
+24
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+21-23
+40%
+Emolga
+B2
+W2
+Rustling grass
+22
+10%
+Pansage
+B2
+W2
+Rustling grass
+22
+10%
+Pansear
+B2
+W2
+Rustling grass
+22
+10%
+Panpour
+B2
+W2
+Rustling grass
+22
+10%
+Vespiquen
+B2
+W2
+Rustling grass
+24
+5%
+Roserade
+B2
+W2
+Rustling grass
+24
+5%
+Leavanny
+B2
+W2
+Rustling grass
+24
+5%
+Whimsicott
+B2
+W2
+Rustling grass
+24
+5%
+Lilligant
+B2
+W2
+Rustling grass
+24
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+In the tree stump near the bridge
+B2
+W2
+Pecha Berry
+From Pokémon Ranger Serenity after defeating her
+B2
+W2
+TM95
+(
+Snarl
+)
+From the Backpacker in front of the northwest tree stump
+B2
+W2
+Leaf Stone
+South of the Backpacker in front of the northwest tree stump (hidden)
+B2
+W2
+Net Ball
+In front of the tree stump in the northeast corner
+B2
+W2
+Cheri Berry
+From Pokémon Ranger Forrest after defeating him
+B2
+W2
+Requires Surf, Waterfall
+Rare Candy
+East of the waterfall, in the dark grass
+B2
+W2
+Grass Gem
+North of
+Veteran
+Murphy (hidden)
+B2
+W2
+Battle with the Pokémon Breeder
+Like Irene on
+Route 4
+, Pokémon Breeder Galen will rebattle you with the same team whenever you revisit the forest.
+The Rangers' Reward
+The two Pokémon Rangers here, Serenity and Forrest, each give you a different Berry when you defeat them. Serenity, hiding in the tall grass, rewards you with a
+Pecha Berry
+. To the northeast, Forrest rewards you with a
+Cheri Berry
+.
+A Rare TM
+Talk to the odd Backpacker in the northwest part of the forest to hear about
+Zoroark
+'s visit two years ago. He gives you
+TM95
+(
+Snarl
+), and transforms into a Zoroark as he runs off.
+← Part 5
+Route 4, Desert Resort, Relic Castle, Join Avenue
+Black 2 and White 2
+walkthrough
+Route 5, Driftveil Drawbridge, Driftveil City, Driftveil Gym
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

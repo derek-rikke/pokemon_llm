@@ -1,0 +1,2207 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_17
+Keywords: A World Expands, Cerulean Cave
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Pallet Town
+1.1
+Home
+1.2
+A World Expands
+1.3
+List of Master Trainers
+2
+Cerulean City
+2.1
+Cerulean Cave
+2.1.1
+1F
+2.1.2
+2F
+2.1.3
+1F (Northwest)
+2.1.4
+B1F
+2.1.4.1
+VS Mewtwo
+2.2
+Still Hunting a Legend
+2.3
+Cerulean Cave
+2.3.1
+VS Green
+Pallet Town
+Home
+When you reappear in your room, your partner happily gifts you the
+Small Bouquet
+it made. As you attempt to go downstairs,
+Trace
+rushes into your room with rumors of a strong-looking Pokémon spotted near a cave in
+Cerulean City
+. He intends to make it a competition between the two of you, and whoever catches the Pokémon first wins.
+A World Expands
+Stepping outside, you realize that your world has expanded after becoming Champion. The coveted title brings new privileges, so you can now fly through the sky on
+Charizard
+,
+Aerodactyl
+, or
+Dragonite
+whenever you like! This allows you to encounter other
+Flying-type
+Pokémon high in the skies, and also lets you bypass areas that require
+Chop Down
+or
+Sea Skim
+.
+As you reach this realization, a Youngster calls out to you. He reintroduces himself as Ronny from
+Route 1
+, and informs you that
+Master Trainers
+have now appeared all throughout
+Kanto
+. These elite Trainers have spent their entire careers training one specific Pokémon species, and will not be easy to defeat! There are 153 of them to find, and they can be identified by their red clothes and the speech bubble above their head that shows their chosen Pokémon. When battling them, you may only use a single Pokémon and it must be the same as theirs. Their Pokémon are high-leveled and well-trained, so defeating them all will not be easy.
+List of Master Trainers
+Trainer
+Location
+Pokémon
+Level
+Moves
+Lass
+Rena
+Route 4
+Bulbasaur
+Lv. 65
+Sludge Bomb
+Take Down
+Growth
+-
+Lass
+Katrina
+Route 14
+Ivysaur
+Lv. 70
+Sludge Bomb
+Double-Edge
+Growth
+-
+Lass
+Sal
+Route 23
+Venusaur
+Lv. 75
+Sludge Bomb
+Outrage
+Growth
+-
+Ace Trainer
+Tim
+Celadon Condominiums
+Charmander
+Lv. 65
+Slash
+Seismic Toss
+Smokescreen
+-
+Ace Trainer
+Christopher
+Route 10
+Charmeleon
+Lv. 70
+Outrage
+Dig
+Smokescreen
+-
+Ace Trainer
+Edmund
+Route 23
+Charizard
+Lv. 75
+Dragon Pulse
+Thunder Punch
+Protect
+-
+Beauty
+Suzy
+Route 12
+Squirtle
+Lv. 65
+Headbutt
+Bite
+Withdraw
+-
+Beauty
+Prita
+Route 20
+Wartortle
+Lv. 70
+Headbutt
+Rock Slide
+Skull Bash
+-
+Beauty
+Tessa
+Route 20
+Blastoise
+Lv. 80
+Fake Out
+Rock Slide
+Dark Pulse
+Substitute
+Bug Catcher
+Jake
+Route 18
+Caterpie
+Lv. 65
+Tackle
+String Shot
+-
+-
+Bug Catcher
+Bryson
+Route 11
+Metapod
+Lv. 65
+Tackle
+String Shot
+Harden
+-
+Bug Catcher
+Bobby
+Route 2
+Butterfree
+Lv. 75
+Quiver Dance
+Sleep Powder
+Air Slash
+-
+Bug Catcher
+Scott
+Viridian Forest
+Weedle
+Lv. 65
+Poison Sting
+String Shot
+-
+-
+Bug Catcher
+Kenny
+Route 13
+Kakuna
+Lv. 65
+Poison Sting
+String Shot
+Harden
+-
+Bug Catcher
+Terry
+Route 8
+Beedrill
+Lv. 75
+Outrage
+Drill Run
+Agility
+-
+Bird Keeper
+Louey
+Route 2
+Pidgey
+Lv. 65
+Fly
+Toxic
+Protect
+Roost
+Bird Keeper
+Howie
+Route 16
+Pidgeotto
+Lv. 70
+Air Slash
+Headbutt
+Agility
+-
+Bird Keeper
+Wyatt
+Route 12
+Pidgeot
+Lv. 75
+Sky Attack
+Hyper Beam
+Reflect
+Roost
+Youngster
+Bret
+Route 10
+Rattata
+Lv. 65
+Bite
+Headbutt
+Thunder Wave
+-
+Youngster
+Denis
+Cerulean City
+Raticate
+Lv. 75
+Double-Edge
+Facade
+Blizzard
+-
+Bird Keeper
+Ralph
+Pewter City
+Spearow
+Lv. 70
+Fury Attack
+Focus Energy
+-
+-
+Bird Keeper
+Theo
+Route 18
+Fearow
+Lv. 80
+Sky Attack
+Focus Energy
+Drill Run
+-
+Scientist
+Herbert
+Route 4
+Ekans
+Lv. 70
+Glare
+Bite
+Rock Slide
+-
+Scientist
+Adam
+Team Rocket Hideout
+Arbok
+Lv. 75
+Glare
+Facade
+Wrap
+Sucker Punch
+Lass
+Ikue
+Viridian Forest
+Pikachu
+Lv. 75
+Slam
+Toxic
+Substitute
+Reflect
+Lass
+Charlotte
+Pokémon Tower
+Raichu
+Lv. 75
+Headbutt
+Double Team
+Hyper Beam
+-
+Hiker
+Paul
+Route 11
+Sandshrew
+Lv. 70
+Poison Jab
+Seismic Toss
+Sand Attack
+-
+Hiker
+Benjamin
+Route 7
+Sandslash
+Lv. 75
+Drill Run
+Swords Dance
+Substitute
+-
+Ace Trainer
+Ronnie
+Route 3
+Nidoran♀
+Lv. 65
+Super Fang
+Thunderbolt
+Ice Beam
+-
+Ace Trainer
+Fred
+Underground Path (Rt. 7-8)
+Nidorina
+Lv. 70
+Super Fang
+Thunder
+Blizzard
+-
+Ace Trainer
+Percy
+Route 23
+Nidoqueen
+Lv. 75
+Super Fang
+Blizzard
+Surf
+-
+Ace Trainer
+Alvin
+Route 4
+Nidoran♂
+Lv. 70
+Iron Tail
+Headbutt
+-
+-
+Ace Trainer
+Dave
+Underground Path (Rt. 7-8)
+Nidorino
+Lv. 75
+Iron Tail
+Dig
+-
+-
+Ace Trainer
+Carlton
+Route 23
+Nidoking
+Lv. 80
+Horn Drill
+Drill Run
+Ice Punch
+-
+Lass
+Chel
+Saffron City
+Clefairy
+Lv. 70
+Sing
+Metronome
+-
+-
+Lass
+Alexandra
+Mt. Moon
+Clefable
+Lv. 80
+Iron Tail
+Moonblast
+Minimize
+-
+Ace Trainer
+Finn
+Route 6
+Vulpix
+Lv. 70
+Toxic
+Fire Spin
+Confuse Ray
+-
+Ace Trainer
+Arnold
+Route 9
+Ninetales
+Lv. 75
+Hypnosis
+Calm Mind
+Dark Pulse
+Dream Eater
+Lass
+Marge
+Pewter City
+Jigglypuff
+Lv. 70
+Sing
+Body Slam
+Disable
+-
+Lass
+Yumi
+Silph Co.
+Wigglytuff
+Lv. 75
+Sing
+Tri Attack
+Disable
+-
+Scientist
+West
+Rock Tunnel
+Zubat
+Lv. 70
+Air Slash
+Confuse Ray
+-
+-
+Scientist
+Keaton
+Victory Road
+Golbat
+Lv. 75
+Fly
+Confuse Ray
+Roost
+-
+Lass
+Amy
+Viridian City
+Oddish
+Lv. 65
+Sludge Bomb
+-
+-
+-
+Lass
+Emma
+Pewter City
+Gloom
+Lv. 70
+Sludge Bomb
+-
+-
+-
+Lass
+Satoko
+Route 14
+Vileplume
+Lv. 75
+Substitute
+Reflect
+Hyper Beam
+-
+Bug Catcher
+Evan
+Mt. Moon
+Paras
+Lv. 70
+X-Scissor
+Sludge Bomb
+-
+-
+Bug Catcher
+Hans
+Route 2
+Parasect
+Lv. 75
+Leech Life
+Sludge Bomb
+-
+-
+Bug Catcher
+Olly
+Route 24
+Venonat
+Lv. 70
+Disable
+Sleep Powder
+Psybeam
+-
+Bug Catcher
+Lajos
+Route 15
+Venomoth
+Lv. 75
+Quiver Dance
+Sleep Powder
+Psychic
+-
+Hiker
+Colin
+Diglett's Cave
+Diglett
+Lv. 70
+Sucker Punch
+Dig
+-
+-
+Hiker
+Dexter
+Diglett's Cave
+Dugtrio
+Lv. 75
+Sand Attack
+Substitute
+Fissure
+Slash
+Youngster
+Ken
+Viridian City
+Meowth
+Lv. 70
+Nasty Plot
+Thunderbolt
+Dark Pulse
+-
+Youngster
+Shawn
+Team Rocket Hideout
+Persian
+Lv. 75
+Hypnosis
+Dream Eater
+Nasty Plot
+Hyper Beam
+Beauty
+Nicole
+Route 21
+Psyduck
+Lv. 70
+Amnesia
+Psychic
+Rest
+-
+Beauty
+Camille
+Route 4
+Golduck
+Lv. 75
+Yawn
+Calm Mind
+Psychic
+-
+Black Belt
+Tadashi
+Route 5
+Mankey
+Lv. 70
+Focus Energy
+Karate Chop
+Fury Swipes
+-
+Black Belt
+Kano
+Route 11
+Primeape
+Lv. 75
+Counter
+Taunt
+Brick Break
+-
+Ace Trainer
+Austin
+Route 7
+Growlithe
+Lv. 70
+Dig
+Toxic
+Reflect
+-
+Ace Trainer
+Satch
+Celadon City
+Arcanine
+Lv. 75
+Facade
+Hyper Beam
+Double-Edge
+Reflect
+Lass
+Vicky
+Route 12
+Poliwag
+Lv. 65
+Hypnosis
+Headbutt
+Hydro Pump
+-
+Lass
+Kimberly
+Cerulean City
+Poliwhirl
+Lv. 70
+Substitute
+Scald
+Psychic
+-
+Black Belt
+Yuen
+Cerulean City
+Poliwrath
+Lv. 75
+Brick Break
+Bulk Up
+Psychic
+-
+Psychic
+Angelo
+Viridian City
+Abra
+Lv. 70
+Calm Mind
+Shadow Ball
+Thunder Wave
+-
+Psychic
+Jaime
+Saffron City
+Kadabra
+Lv. 75
+Iron Tail
+Thunder Punch
+Facade
+-
+Psychic
+Frasier
+Route 10
+Alakazam
+Lv. 80
+Disable
+Recover
+Calm Mind
+Tri Attack
+Black Belt
+Masahiro
+Silph Co.
+Machop
+Lv. 65
+Thunder Punch
+Poison Jab
+Bulk Up
+-
+Black Belt
+Ryuji
+Fuchsia City
+Machoke
+Lv. 70
+Poison Jab
+Fire Punch
+Bulk Up
+-
+Black Belt
+Randy
+Vermilion City
+Machamp
+Lv. 75
+Brick Break
+Headbutt
+Bulk Up
+-
+Lass
+Hana
+Viridian City
+Bellsprout
+Lv. 65
+Poison Jab
+Sludge Bomb
+Growth
+-
+Lass
+Emily
+Pokémon Tower
+Weepinbell
+Lv. 70
+Poison Jab
+Sludge Bomb
+Growth
+-
+Lass
+Dianne
+Celadon City
+Victreebel
+Lv. 75
+Poison Jab
+Sucker Punch
+Swords Dance
+-
+Scientist
+Francis
+Route 20
+Tentacool
+Lv. 75
+Barrier
+Headbutt
+Hydro Pump
+-
+Scientist
+Melvin
+Route 20
+Tentacruel
+Lv. 80
+Wrap
+Screech
+Barrier
+Headbutt
+Hiker
+Irwin
+Rock Tunnel
+Geodude
+Lv. 65
+Bide
+Brick Break
+-
+-
+Hiker
+Dillan
+Victory Road
+Graveler
+Lv. 70
+Fire Blast
+Sand Attack
+Defense Curl
+-
+Hiker
+Valentino
+Pewter Museum of Science
+Golem
+Lv. 75
+Dig
+Fire Punch
+Defense Curl
+Protect
+Ace Trainer
+Garret
+Saffron City
+Ponyta
+Lv. 70
+Reflect
+Toxic
+Fire Spin
+Rest
+Ace Trainer
+Raymond
+Saffron City
+Rapidash
+Lv. 75
+Hypnosis
+Horn Drill
+Drill Run
+-
+Beauty
+Jill
+Route 21
+Slowpoke
+Lv. 70
+Thunder Wave
+Earthquake
+Facade
+-
+Beauty
+Haruka
+Route 21
+Slowbro
+Lv. 75
+Disable
+Calm Mind
+Yawn
+Shadow Ball
+Scientist
+Murray
+Underground Path (Rt. 5-6)
+Magnemite
+Lv. 70
+Flash Cannon
+Supersonic
+-
+-
+Scientist
+Julian
+Underground Path (Rt. 5-6)
+Magneton
+Lv. 75
+Thunder
+Hyper Beam
+-
+-
+Bird Keeper
+Moe
+Vermilion City
+Farfetch'd
+Lv. 70
+Swords Dance
+Fly
+Feint
+-
+Bird Keeper
+Barney
+Cerulean City
+Doduo
+Lv. 70
+Swords Dance
+Jump Kick
+-
+-
+Bird Keeper
+Seymour
+Route 15
+Dodrio
+Lv. 75
+Agility
+Headbutt
+-
+-
+Beauty
+Aina
+Seafoam Islands
+Seel
+Lv. 70
+Double-Edge
+Encore
+-
+-
+Beauty
+Lois
+Seafoam Islands
+Dewgong
+Lv. 75
+Horn Drill
+Toxic
+Rest
+Protect
+Scientist
+Cory
+Celadon City
+Grimer
+Lv. 70
+Minimize
+Fire Punch
+Protect
+-
+Scientist
+Gordon
+Pokémon Mansion
+Muk
+Lv. 75
+Haze
+Rock Slide
+Thunder Punch
+-
+Beauty
+Shelly
+Route 19
+Shellder
+Lv. 70
+Shell Smash
+Ice Shard
+Headbutt
+-
+Beauty
+Rose
+Route 20
+Cloyster
+Lv. 75
+Barrier
+Toxic
+Protect
+Rest
+Psychic
+Arin
+Lavender Town
+Gastly
+Lv. 70
+Shadow Ball
+-
+-
+-
+Psychic
+Danny
+Lavender Town
+Haunter
+Lv. 75
+Shadow Ball
+-
+-
+-
+Psychic
+Ross
+Lavender Town
+Gengar
+Lv. 80
+Hypnosis
+Dream Eater
+Thunderbolt
+-
+Hiker
+Jim
+Underground Path (Rt. 7-8)
+Onix
+Lv. 70
+Wrap
+Toxic
+Harden
+Protect
+Psychic
+Anton
+Viridian City
+Drowzee
+Lv. 70
+Thunder Wave
+Headbutt
+Meditate
+-
+Psychic
+Vlad
+Pokémon Tower
+Hypno
+Lv. 75
+Hypnosis
+Nasty Plot
+Shadow Ball
+-
+Ace Trainer
+Carl
+Vermilion City
+Krabby
+Lv. 70
+Superpower
+X-Scissor
+-
+-
+Ace Trainer
+Leopold
+Silph Co.
+Kingler
+Lv. 75
+Agility
+Stomp
+Scald
+Guillotine
+Scientist
+Humphrey
+Power Plant
+Voltorb
+Lv. 70
+Light Screen
+Swift
+-
+-
+Scientist
+Elton
+Route 17
+Electrode
+Lv. 75
+Screech
+Headbutt
+Light Screen
+-
+Lass
+Summer
+Route 24
+Exeggcute
+Lv. 70
+Sludge Bomb
+Facade
+-
+-
+Lass
+Cindy
+Cinnabar Island
+Exeggutor
+Lv. 75
+Hypnosis
+Solar Beam
+Hyper Beam
+-
+Hiker
+Richter
+Route 8
+Cubone
+Lv. 70
+Bonemerang
+Growl
+-
+-
+Hiker
+Julius
+Lavender Town
+Marowak
+Lv. 75
+Swords Dance
+Double-Edge
+Fire Punch
+-
+Black Belt
+Cheng
+Fighting Dojo
+Hitmonlee
+Lv. 75
+High Jump Kick
+Feint
+-
+-
+Black Belt
+Wong
+Fighting Dojo
+Hitmonchan
+Lv. 75
+Bulk Up
+Thunder Punch
+Ice Punch
+Fire Punch
+Youngster
+Cid
+Route 16
+Lickitung
+Lv. 70
+Fire Blast
+Blizzard
+Thunder
+Disable
+Scientist
+Albert
+Route 17
+Koffing
+Lv. 70
+Shadow Ball
+Will-O-Wisp
+Protect
+-
+Scientist
+Donnie
+Team Rocket Hideout
+Weezing
+Lv. 75
+Flamethrower
+Thunderbolt
+Taunt
+-
+Hiker
+Farkas
+Route 17
+Rhyhorn
+Lv. 70
+Dragon Pulse
+Fire Blast
+-
+-
+Hiker
+Eugine
+Team Rocket Hideout
+Rhydon
+Lv. 75
+Earthquake
+Horn Drill
+-
+-
+Lass
+Mizuki
+Fuchsia City
+Chansey
+Lv. 75
+Seismic Toss
+Soft-Boiled
+Light Screen
+Reflect
+Lass
+Harleen
+Route 15
+Tangela
+Lv. 75
+Bind
+Hyper Beam
+Toxic
+Protect
+Ace Trainer
+Mac
+Fuchsia City
+Kangaskhan
+Lv. 75
+Rage
+Headbutt
+-
+-
+Beauty
+Beverly
+Route 19
+Horsea
+Lv. 70
+Scald
+Protect
+-
+-
+Beauty
+Lucy
+Route 12
+Seadra
+Lv. 75
+Smokescreen
+Hyper Beam
+Substitute
+-
+Beauty
+Evette
+Route 12
+Goldeen
+Lv. 70
+Agility
+Headbutt
+Poison Jab
+-
+Beauty
+Arianna
+Route 13
+Seaking
+Lv. 75
+Skull Bash
+Scald
+Protect
+-
+Beauty
+Jo
+Route 19
+Staryu
+Lv. 70
+Tri Attack
+Swift
+Light Screen
+-
+Psychic
+Harrison
+Route 25
+Starmie
+Lv. 75
+Minimize
+Psywave
+Light Screen
+-
+Psychic
+Rui
+Celadon Condominiums
+Mr. Mime
+Lv. 70
+Calm Mind
+Barrier
+Dazzling Gleam
+-
+Bug Catcher
+Louie
+Route 15
+Scyther
+Lv. 75
+Swords Dance
+Slash
+Roost
+-
+Psychic
+Avery
+Cerulean City
+Jynx
+Lv. 75
+Calm Mind
+Lovely Kiss
+Dream Eater
+Seismic Toss
+Scientist
+Levi
+Route 10
+Electabuzz
+Lv. 75
+Reflect
+Fire Punch
+Psychic
+-
+Ace Trainer
+Jace
+Pokémon Mansion
+Magmar
+Lv. 75
+Toxic
+Confuse Ray
+Psychic
+Fire Spin
+Bug Catcher
+Ryouta
+Route 18
+Pinsir
+Lv. 75
+Rock Slide
+X-Scissor
+Guillotine
+-
+Ace Trainer
+Jaxson
+Fuchsia City
+Tauros
+Lv. 75
+Double-Edge
+Rage
+-
+-
+Youngster
+Easton
+Route 4
+Magikarp
+Lv. 65
+Tackle
+Splash
+-
+-
+Ace Trainer
+Dominic
+Celadon City
+Gyarados
+Lv. 75
+Earthquake
+Thunderbolt
+-
+-
+Lass
+Hazel
+Pokémon Tower
+Lapras
+Lv. 75
+Solar Beam
+Thunderbolt
+Confuse Ray
+-
+Lass
+Aoi
+Route 17
+Eevee
+Lv. 75
+Reflect
+Double-Edge
+-
+-
+Lass
+Yue
+Celadon Department Store
+Vaporeon
+Lv. 75
+Shadow Ball
+Toxic
+Rest
+-
+Scientist
+Alphonse
+Celadon Department Store
+Jolteon
+Lv. 75
+Light Screen
+Yawn
+Shadow Ball
+-
+Ace Trainer
+Dax
+Celadon Department Store
+Flareon
+Lv. 75
+Flare Blitz
+Superpower
+Fire Spin
+-
+Scientist
+Jordan
+Rocket Game Corner
+Porygon
+Lv. 70
+Iron Tail
+Conversion
+Shadow Ball
+Thunderbolt
+Hiker
+Colson
+Mt. Moon
+Omanyte
+Lv. 70
+Scald
+Blizzard
+-
+-
+Hiker
+Lionel
+Cinnabar Lab
+Omastar
+Lv. 75
+Shell Smash
+Waterfall
+Rock Slide
+Bite
+Hiker
+Barnaby
+Mt. Moon
+Kabuto
+Lv. 70
+Reflect
+Sand Attack
+Substitute
+Leech Life
+Hiker
+Kenji
+Pewter City
+Kabutops
+Lv. 75
+Mega Drain
+Brick Break
+Feint
+-
+Hiker
+Hisato
+Pewter Museum of Science
+Aerodactyl
+Lv. 75
+Roost
+Fly
+Toxic
+Iron Tail
+Ace Trainer
+Jay
+Route 16
+Snorlax
+Lv. 75
+Reflect
+Facade
+Rest
+-
+Ace Trainer
+Jirard
+Route 23
+Dratini
+Lv. 65
+Dragon Pulse
+Ice Beam
+Agility
+-
+Ace Trainer
+Arjun
+Seafoam Islands
+Dragonair
+Lv. 70
+Dragon Pulse
+Blizzard
+Thunder Wave
+Light Screen
+Ace Trainer
+Grayson
+Cerulean City
+Dragonite
+Lv. 75
+Outrage
+Ice Beam
+Aqua Jet
+Reflect
+The Master Trainers for
+Legendary Pokémon
+,
+Mythical Pokémon
+, and
+Ditto
+will not battle you. Instead, they wish to see a Pokémon of their respective specialty with a high enough
+CP
+.
+Location
+Pokémon
+CP
+Pokémon Mansion
+Ditto
+4,000+
+Seafoam Islands
+Articuno
+7,500+
+Power Plant
+Zapdos
+7,500+
+Victory Road
+Moltres
+7,500+
+Pokémon Mansion
+Mewtwo
+9,000+
+Pokémon Mansion
+Mew
+8,000+
+Pokémon Mansion
+Meltan
+4,000+
+Pokémon Mansion
+Melmetal
+8,000+
+Cerulean City
+There is only one place left to explore:
+Cerulean Cave
+, a mysterious place on the northwest edge of
+Cerulean City
+. To get there, visitors may use
+Sea Skim
+to sail southward from
+Route 24
+, or simply fly over the water with a
+Flying-type
+Pokémon. The Coach Trainer who had initially blocked entry to the cave has moved aside, and can now be battled like any other. Defeating Coach Trainer Harjit earns you
+TM60
+(
+Megahorn
+).
+Items
+Item
+Location
+Games
+TM60
+(
+Megahorn
+)
+Outside Cerulean Cave; from Coach Trainer Harjit, after defeating him
+P
+E
+Escape Rope
+×3
+Outside Cerulean Cave; from Trace, after catching
+Mewtwo
+P
+E
+Cerulean Cave
+Cerulean Cave
+is a mysterious cavern located in the northwest part of
+Cerulean City
+. Only the most powerful Trainers who have entered the
+Hall of Fame
+are allowed to enter due to the powerful wild Pokémon inside. The sprawling cave network is unforgiving, so be sure to prepare well. Pack the
+Super Rod
+and stock up on
+Ultra Balls
+, and bring the
+Master Ball
+as well. It is here that the
+genetically-engineered Pokémon
+from
+Cinnabar Island
+'s
+Pokémon Mansion
+fled after escaping the facility.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+51-56
+15%
+Golduck
+P
+E
+Cave
+51-56
+15%
+Graveler
+P
+E
+Cave
+51-56
+15%
+Zubat
+P
+E
+Cave
+51-56
+10%
+Geodude
+P
+E
+Cave
+51-56
+10%
+Lickitung
+P
+E
+Cave
+51-56
+10%
+Rhyhorn
+P
+E
+Cave
+51-56
+10%
+Psyduck
+P
+E
+Cave
+51-56
+5%
+Rhydon
+P
+E
+Cave
+51-56
+5%
+Ditto
+P
+E
+Cave
+51-56
+5%
+Rare Spawns
+Snorlax
+P
+E
+Cave
+51-56
+-
+Sea Skim
+Poliwag
+P
+E
+Sea Skim
+51-56
+45%
+Magikarp
+P
+E
+Sea Skim
+51-56
+45%
+Poliwhirl
+P
+E
+Sea Skim
+51-56
+9%
+Poliwrath
+P
+E
+Sea Skim
+51-56
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+51-56
+20%
+Graveler
+P
+E
+Cave
+51-56
+20%
+Lickitung
+P
+E
+Cave
+51-56
+15%
+Rhyhorn
+P
+E
+Cave
+51-56
+10%
+Rhydon
+P
+E
+Cave
+51-56
+10%
+Chansey
+P
+E
+Cave
+51-56
+10%
+Zubat
+P
+E
+Cave
+51-56
+5%
+Geodude
+P
+E
+Cave
+51-56
+5%
+Ditto
+P
+E
+Cave
+51-56
+5%
+Rare Spawns
+Snorlax
+P
+E
+Cave
+51-56
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+51-56
+15%
+Golduck
+P
+E
+Cave
+51-56
+15%
+Graveler
+P
+E
+Cave
+51-56
+15%
+Zubat
+P
+E
+Cave
+51-56
+10%
+Geodude
+P
+E
+Cave
+51-56
+10%
+Lickitung
+P
+E
+Cave
+51-56
+10%
+Rhyhorn
+P
+E
+Cave
+51-56
+10%
+Psyduck
+P
+E
+Cave
+51-56
+5%
+Rhydon
+P
+E
+Cave
+51-56
+5%
+Ditto
+P
+E
+Cave
+51-56
+5%
+Rare Spawns
+Snorlax
+P
+E
+Cave
+51-56
+-
+Sea Skim
+Poliwag
+P
+E
+Sea Skim
+51-56
+45%
+Magikarp
+P
+E
+Sea Skim
+51-56
+45%
+Poliwhirl
+P
+E
+Sea Skim
+51-56
+9%
+Poliwrath
+P
+E
+Sea Skim
+51-56
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Standard Items
+Item
+Location
+Games
+1F
+PP Max
+On the island in the northeast corner
+P
+E
+Max Repel
+Western ridge, north side
+P
+E
+Full Heal
+Southwest area, south of the water's edge
+P
+E
+Max Revive
+Central ridge, northwest of the eastern ladder
+P
+E
+Full Restore
+On the plateau near the entrance
+(hidden)
+(daily)
+P
+E
+Rare Candy
+South of the two inaccessible ladders in the northwest corner
+(hidden)
+(daily)
+P
+E
+2F
+Max Lure
+North-central area, northwest of the two adjacent ladders
+P
+E
+Ultra Ball
+×5
+South-central area
+P
+E
+Rare Candy
+Near the southwest corner
+P
+E
+Max Revive
+Southeast area
+P
+E
+Full Restore
+East side, on a patch of glittering ground
+P
+E
+B1F
+Max Revive
+In a corner on the east side of the northwest ridge, north of the pool of water
+(hidden)
+(daily)
+P
+E
+Escape Rope
+Northeast corner
+P
+E
+Full Restore
+Central ridge; northeast corner
+P
+E
+Max Elixir
+Southwest of the central ridge
+P
+E
+PP Max
+Past the water's edge, west of
+Mewtwo
+'s island
+(hidden)
+(daily)
+P
+E
+Mewtwonite X
+From
+Green
+, after defeating her
+P
+E
+Mewtwonite Y
+Poké Ball
+×5
+On the ground, after defeating Green
+P
+E
+Other items
+Pearl
+1F; from a glowing spot near the western ladder to 2F
+Sometimes found by the
+player
+'s
+walking Pokémon
+(daily)
+2F; from a glowing spot west of the large central crystal
+Sometimes found by the player's walking Pokémon (daily)
+P
+E
+Big Pearl
+Stardust
+2F; from a glowing spot in the northeastern corner of the floor
+Sometimes found by the player's walking Pokémon (daily)
+B1F; from a glowing spot immediately northeast of the central plateau
+Sometimes found by the player's walking Pokémon (daily)
+P
+E
+Star Piece
+Pearl
+B1F; from the edge of the small pool of water
+Sometimes found by the
+player
+'s
+walking
+Water-type
+Pokémon (daily)
+P
+E
+Big Pearl
+Heart Scale
+Recurring Items
+Item
+Location
+Games
+2F
+Poké Ball
+Sometimes found on a glowing spot
+P
+E
+Great Ball
+Sometimes found on a glowing spot
+P
+E
+Ultra Ball
+Sometimes found on a glowing spot
+P
+E
+Ultra Ball
+×10
+Sometimes found on a glowing spot
+P
+E
+Master Ball
+Sometimes found on a glowing spot
+P
+E
+Golden Razz Berry
+Sometimes found on a glowing spot
+P
+E
+Golden Nanab Berry
+Sometimes found on a glowing spot
+P
+E
+Golden Pinap Berry
+Sometimes found on a glowing spot
+P
+E
+Max Revive
+Sometimes found on the crystal in the middle of the floor
+P
+E
+Dome Fossil
+Helix Fossil
+Old Amber
+B1F
+Dome Fossil
+Sometimes found on the central plateau
+P
+E
+Helix Fossil
+Old Amber
+1F
+Head to the water's edge and use
+Sea Skim
+to reach a
+PP Max
+on the island in the northeast corner. Ignore the nearby and ladder and continue surfing westward. At the west end of the water, you can reach dry land to the north and south. Climb the hill to the north to get a
+Max Repel
+, then head south along the ridge or the water to find a
+Full Heal
+. Turn eastward and continue along the central ridge in a counter-clockwise direction to pick up a
+Max Revive
+on the north side. With the first floor cleared, you may climb either nearby ladder to reach 2F.
+2F
+The second floor is one large, open chamber. Be sure to collect the several visible items that are scattered around, including treasures like a
+Rare Candy
+and a
+Max Revive
+. There are also several glowing spots on the ground that mark the potential location of other
+hidden treasures
+. To continue through the cave, climb down the ladder in the northwest corner.
+1F (Northwest)
+Take the next ladder down to the lower floor.
+B1F
+Go east along the ridge and walk down the hill. Continue along to the northeast corner, where an
+Escape Rope
+can be found. Head south along the east wall. From the southeast corner, turn north and climb onto the central ridge. Move north to reach a
+Full Restore
+, then go west. Head south and zigzag a bit to reach a
+Max Elixir
+near a patch of glowing crystals. Use
+Sea Skim
+to reach the southwest island and find
+Mewtwo
+, alone on its island. Like with the
+legendary birds
+, Mewtwo will reappear if defeated or run from after you enter the
+Hall of Fame
+again.
+VS Mewtwo
+Not only is
+Mewtwo
+the strongest Pokémon around, but it has already reached level 70. As a
+Psychic-type
+Pokémon, it is best to use
+Bug
+-,
+Ghost
+-, and
+Dark-type
+attacks to lower its health quickly. The Legendary Pokémon can restore its health repeatedly with
+Recover
+, so inflicting status ailments like
+Sleep
+and
+Paralysis
+are useful to limit its movements. Mewtwo will not let itself be caught easily, so either use the
+Master Ball
+immediately after it is defeated or be prepared to go through more than a few
+Ultra Balls
+. When the battle is over, use an
+Escape Rope
+to quickly exit the cave.
+Type:
+Psychic
+Unknown
+Mega Stone:
+None
+Mewtwo
+Lv.
+70
+Swift
+Normal
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Recover
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Still Hunting a Legend
+When you exit the cave,
+Trace
+rushes up to you from the west. He's impressed that you have captured
+Mewtwo
+, but disappointed that you beat him to it. He tells you that he ran into "some gutsy girl" who was looking for a powerful Pokémon, and must have gone into the cave. With Mewtwo captured, Trace isn't interested in exploring the cave anymore, and gives you his three
+Escape Ropes
+instead. He thinks that the girl is likely still looking for Mewtwo, and suggests going back to show her.
+Cerulean Cave
+Make your way through the cave again to return to
+Mewtwo
+'s island on the lower floor. On the north side, you find a girl standing with her back to you. Speak to her, and you are suddenly hit with a low-flying Poké Ball! She apologizes for mistaking you for a Pokémon, and introduces herself as
+Green
+. She asks if you are also here looking for "something special", and is upset to learn that you have already caught the Genetic Pokémon, and so challenges you to a battle!
+VS Green
+Pokémon Trainer
+Green
+Cerulean Cave
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+19,040
+Type:
+Fairy
+Unknown
+Mega Stone:
+None
+Clefable
+♀
+Lv.
+66
+Moonblast
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Tri Attack
+Normal
+Special
+--
+Types:
+Ghost
+Poison
+Mega Stone:
+None
+Gengar
+♂
+Lv.
+66
+Dark Pulse
+Dark
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Victreebel
+♂
+Lv.
+66
+Power Whip
+Grass
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Ninetales
+♀
+Lv.
+66
+Fire Blast
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Foul Play
+Dark
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Kangaskhan
+♀
+Lv.
+66
+Dizzy Punch
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Water
+Unknown
+Mega Stone:
+Blastoisinite
+Blastoise
+♂
+Lv.
+68
+Hydro Pump
+Water
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Fake Out
+Normal
+Physical
+--
+After the battle,
+Green
+accepts that
+Mewtwo
+belongs with you, and hands you a pair of items as a reward: the
+Mewtwonite X
+and the
+Mewtwonite Y
+. With these
+Mega Stones
+, Mewtwo can now
+Mega Evolve
+into one of two forms during battle, boosting its aleady-high stats to incredible heights! The girl has an idea, and jokingly asks if you would like to become her Pokémon alongside Mewtwo. She even throws several Poké Balls at you! When she's had enough, she runs off, leaving you free to collect the five
+Poké Balls
+that she left behind.
+← Part 16
+The Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+The Pokémon League: Round 2, Tying Loose Ends
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

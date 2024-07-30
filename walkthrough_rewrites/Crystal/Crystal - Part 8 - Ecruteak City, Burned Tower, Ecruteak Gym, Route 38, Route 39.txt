@@ -1,0 +1,38 @@
+Game: Crystal
+Part: 8
+Keywords: Ecruteak City, Burned Tower, Ecruteak Gym, Route 38, Route 39
+
+**Ecruteak City Walkthrough**
+
+**1. Ecruteak City Overview**
+- Located in northern Johto, known for its traditional architecture and ties to legendary Pokémon.
+
+**2. Key Locations and Items**
+- **Pokémon Center**: Meet Bill, who introduces the Time Capsule for trading with past games.
+- **Ecruteak Dance Theater**: Battle the Kimono Girls (Eevee evolutions) to earn HM03 (Surf) from a Gentleman afterward.
+- **Burned Tower**: 
+  - **1F**: Encounter Eusine and Rival Silver; battle him using Fire, Ground, and Fighting moves against Magnemite, and Ghost, Psychic, or Dark moves against Haunter and Zubat.
+  - **B1F**: Observe the three Legendary beasts; they flee upon approach. 
+
+**3. Ecruteak Gym**
+- **Leader**: Morty (Ghost-type).
+  - Use Dark and Ghost moves; avoid Normal and Fighting moves.
+  - Gym layout features an invisible bridge; navigate carefully.
+  - Defeat Morty to obtain the Fog Badge and TM30 (Shadow Ball).
+
+**4. Route 38**
+- Leads west from Ecruteak City.
+- Battle trainers like Sailor Harry (Wooper) and Beauty Valerie (Hoppip, Skiploom).
+
+**5. Route 39**
+- Connects Route 38 to Olivine City; visit Moomoo Farm.
+- Help the farmer by feeding Berries to a sick Miltank to receive TM13 (Snore) and access Moomoo Milk for purchase.
+
+**6. Trainer Battles**
+- Check for rematch opportunities with trainers who provide their Pokégear numbers.
+
+**7. Available Pokémon**
+- **Ecruteak City**: Poliwag (Surfing), Magikarp (Fishing).
+- **Route 38 & 39**: Pidgeotto, Rattata, Magnemite, Tauros, etc.
+
+This concise walkthrough highlights essential locations, battles, and items to progress through Ecruteak City and surrounding areas effectively.

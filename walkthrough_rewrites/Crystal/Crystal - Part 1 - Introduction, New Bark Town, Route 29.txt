@@ -1,0 +1,40 @@
+Game: Crystal
+Part: 1
+Keywords: Introduction, New Bark Town, Route 29
+
+**Pokémon Crystal Walkthrough: Part 1 - New Bark Town and Route 29**
+
+**Introduction:**
+- Start your game, choose your character's gender, set the current time, and select a name from presets or create a custom one (up to 7 characters).
+
+**New Bark Town:**
+- **Location Overview:** This small town includes your home, Professor Elm's Lab, and leads to Route 29 and Route 27.
+- **First Partner Pokémon Options:**
+  - **Chikorita** (Grass) - Strong against Water, Rock, Ground; weak to Fire, Flying, Bug, Poison, Ice.
+  - **Cyndaquil** (Fire) - Strong against Grass, Bug, Ice, Steel; weak to Water, Rock, Ground.
+  - **Totodile** (Water) - Strong against Fire, Rock, Ground; weak to Grass, Electric.
+- **Items:**
+  - **Pokégear:** Received from Mom in your bedroom.
+  - **Potion:** From Elm's aide after selecting your Pokémon.
+  - **Berry:** Held by your first Pokémon.
+- After choosing your Pokémon, you receive its nickname option and the task to visit Mr. Pokémon to the west.
+
+**Route 29:**
+- **Path Overview:** Leads west to Cherrygrove City, with tall grass patches for wild Pokémon encounters.
+- **Wild Pokémon Available:**
+  - **Pidgey (Level 2-3)**
+  - **Rattata (Level 2-3)**
+  - **Sentret (Level 2-3)**
+  - **Hoothoot (Level 2-3)**
+  - **Hoppip (Level 3)**
+- **Items:**
+  - **Potion:** Found east of the northeastern grass patch.
+  - **Berry:** Located on a tree on the northwest hill (regrows daily).
+
+**Gameplay Tips:**
+- Save your game frequently by accessing the menu.
+- Use Berries for healing during battles; they regenerate each day.
+- Utilize your Pokégear to heal your Pokémon at Professor Elm's Lab.
+
+**Next Steps:**
+- Continue your journey to Cherrygrove City and visit Mr. Pokémon.

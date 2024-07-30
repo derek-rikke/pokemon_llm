@@ -1,0 +1,49 @@
+Game: Platinum
+Part: 2
+Keywords: Route 202, Jubilife City, Route 203, Oreburgh Gate, Oreburgh City, Oreburgh Mine
+
+## Part 2 Walkthrough: Route 202 to Oreburgh Mine
+
+### Route 202
+- **Starting Point**: Leave Sandgem Town and enter Route 202.
+- **Catch Tutorial**: Meet Dawn/Lucas, who will demonstrate catching a Pokémon and give you 5 Poké Balls.
+- **Trainers**: Defeat 3 Trainers along the route.
+- **Items**: Find a Potion in the grass west of the northern end.
+- **Next Stop**: Head north to reach Jubilife City.
+
+### Jubilife City
+- **Key Locations**:
+  - **Trainer's School**: Deliver a parcel to your rival, who gives you a Town Map. Battle two other Trainers here.
+  - **Pokétch Campaign**: Collect 3 coupons from clowns to receive a Pokétch.
+- **Items**:
+  - Stardust (hidden near southern entrance)
+  - X Attack (inside Trainer's School)
+  - Old Rod (from a fisherman at the western gate)
+- **Next Destination**: Heal at the Pokémon Center and prepare for a rival battle on Route 203.
+
+### Route 203
+- **Rival Battle**: Expect a challenge from your rival immediately after leaving Jubilife.
+- **Items**: 
+  - Find Poké Ball near the lower western plateau.
+  - Repel and X Defend are located on the higher eastern plateau.
+- **Trainers**: Battle various Trainers, including Youngster Michael and others.
+- **Wild Pokémon**: Catch Bidoof, Zubat, and Shinx.
+- **Next Stop**: Proceed to Oreburgh Gate.
+
+### Oreburgh Gate
+- **Item**: Receive HM06 (Rock Smash) from a Hiker at the entrance.
+- **Trainers**: Battle Camper Curtis and Picnicker Diana.
+- **Next Stop**: Continue to Oreburgh City.
+
+### Oreburgh City
+- **Gym Challenge**: The Gym Leader, Roark, is in Oreburgh Mine. Prepare for your first Gym battle.
+- **Trade**: You can trade a Machop for an Abra (Kazza) with a local.
+- **Items**: Collect Dusk Ball, Super Potion, and others from various locations in the city.
+
+### Oreburgh Mine
+- **Wild Pokémon**: Encounter Zubat, Geodude, and Onix.
+- **Items**: Find a Potion, Escape Rope, and Poké Balls.
+- **Meeting Roark**: After navigating the mine, meet Roark, who will instruct you on using Rock Smash and head back to the Gym for your challenge.
+
+### Summary
+Prepare your team and items as you progress from Route 202 to Oreburgh City, where you will tackle the first Gym challenge against Roark. Collect items, battle Trainers, and catch Pokémon along the way.

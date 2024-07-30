@@ -1,0 +1,1407 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_7
+Keywords: Route 41, Cianwood City, Olivine City, Route 47, Cliff Cave, Route 48, Safari Zone Gate
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 35
+1.1
+Mail Delivery
+1.2
+Cameron the Photographer
+2
+Pokéathlon Dome
+2.1
+Exterior
+2.1.1
+Meet the Master
+2.1.2
+Aprijuice Stand
+2.2
+Interior
+2.2.1
+Dress the Part
+2.3
+Courses
+3
+National Park
+3.1
+Bug-Catching Contest
+3.1.1
+Prizes
+4
+Route 36
+4.1
+An Inconvenient Tree
+4.1.1
+VS Sudowoodo
+5
+Route 37
+Route 35
+Route 35
+Route 35
+is a short, pleasant path that leads northward from
+Goldenrod City
+. The main road leads to a gate that serves as the entrance to both the
+National Park
+and the
+Pokéathlon Dome
+, while a smaller trail acts as a shortcut to
+Route 36
+.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Kim
+Reward:
+$
+240
+Vulpix
+♀
+Lv.
+15
+No item
+Camper
+Elliot
+Reward:
+$
+240
+Sandshrew
+♂
+Lv.
+13
+No item
+Marill
+♂
+Lv.
+15
+No item
+Picnicker
+Brooke
+Reward:
+$
+256
+Pikachu
+♀
+Lv.
+16
+No item
+Camper
+Ivan
+Reward:
+$
+224
+Diglett
+♂
+Lv.
+10
+No item
+Diglett
+♂
+Lv.
+14
+No item
+Zubat
+♂
+Lv.
+10
+No item
+Juggler
+Irwin
+Reward:
+$
+448
+Voltorb
+Lv.
+2
+No item
+Voltorb
+Lv.
+6
+No item
+Voltorb
+Lv.
+10
+No item
+Voltorb
+Lv.
+14
+No item
+Firebreather
+Walt
+Reward:
+$
+512
+Magmar
+♂
+Lv.
+11
+No item
+Magmar
+♂
+Lv.
+16
+No item
+Policeman
+Dirk
+Reward:
+$
+560
+Night
+only
+Growlithe
+♂
+Lv.
+14
+No item
+Growlithe
+♂
+Lv.
+14
+No item
+Bug Catcher
+Arnie
+Reward:
+$
+240
+Venonat
+♂
+Lv.
+15
+No item
+Bird Keeper
+Bryan
+Reward:
+$
+448
+Pidgey
+♂
+Lv.
+12
+No item
+Pidgeotto
+♂
+Lv.
+14
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+14
+5%
+5%
+0%
+Nidoran♀
+HG
+SS
+Grass
+12
+30%
+Nidoran♂
+HG
+SS
+Grass
+12
+30%
+Abra
+HG
+SS
+Grass
+10
+10%
+Drowzee
+HG
+SS
+Grass
+14
+20%
+Ditto
+HG
+SS
+Grass
+10
+4%
+Hoothoot
+HG
+SS
+Grass
+14
+0%
+0%
+5%
+Yanma
+HG
+SS
+Grass
+12
+1%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+9-10
+50%
+Pineco
+HG
+SS
+Headbutt
+9-10
+30%
+Exeggcute
+HG
+SS
+Headbutt
+9-10
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+10-11
+50%
+Ledyba
+HG
+SS
+Headbutt
+13-14
+30%
+Spinarak
+HG
+SS
+Headbutt
+13-14
+30%
+Exeggcute
+HG
+SS
+Headbutt
+10-11
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Grass Mail
+Held by Kenya, a
+Spearow
+received from
+the guard
+in the southern gate
+HG
+SS
+Paralyze Heal
+West of the tall grass, in a corner of the grove of trees
+HG
+SS
+TM66
+(
+Payback
+)
+In the clearing in the southeast corner
+HG
+SS
+Later visit
+HP Up
+From the guard in the southern gate, after delivering his Spearow with its Mail to
+Route 31
+HG
+SS
+Grn Apricorn
+Northwest of the pond, on a tree (daily; requires
+Surf
+)
+HG
+SS
+Nugget
+North of the Apricorn tree; west-northwest of Juggler Irwin (hidden; requires
+Surf
+)
+HG
+SS
+Mail Delivery
+Speak to
+the guard
+in the southern gate, and he asks for a favor. Deliver his
+Spearow
+, named Kenya, and the piece of
+Mail
+it holds to his friend on
+Route 31
+. It is intended for the man dozing near the pond there. Complete the delivery, and he wakes up just long enough to give you
+TM50
+(
+Nightmare
+). Return here and speak to the guard afterward to receive an
+HP Up
+as a reward.
+Cameron the Photographer
+Enter the north gate and go left. If you speak to the first man, he introduces himself as
+Cameron
+the Photographer. He asks if you would like to have your photo taken, and if so, proceeds to take a snapshot of you alongside your party Pokémon.
+Pokéathlon Dome
+Pokéathlon Dome
+The
+Pokéathlon Dome
+is a venue where
+Pokéathlon
+competitions are held. Only the most athletic Pokémon will win the gold!
+Items
+Item
+Location
+Games
+PP Up
+East side of the building, in front of the smaller bit of fence (hidden)
+HG
+SS
+Protein
+South of the Aprijuice stand, in the southernmost field of grass (hidden)
+HG
+SS
+Apriblender
+From the attendant at the Aprijuce stand
+HG
+SS
+Jersey
+Interior; from
+Whitney
+upon approaching the reception desk for the first time
+HG
+SS
+Rare Candy
+×3
+Exterior; from the woman running with her
+Pidgey
+, after dashing 1,000 times in the Pokéathlon
+Interior; from an elderly man on the west side, after jumping 1,000 times in the Pokéathlon
+Interior; from a blond man on the east side, after tackling 2,000 times in the Pokéathlon
+HG
+SS
+Exterior
+Meet the Master
+After exiting the gate, move north along the path to be met by an old man and his
+Poliwrath
+. He believes that your lead Pokémon is ready to participate in the
+Pokéathlon
+, and leads the way to the
+Pokéathlon Dome
+building. He invites you to take part in the athletic competitions held here, and introduces himself as
+Magnus
+, the venue's founder, before heading inside.
+Aprijuice Stand
+Using the Apriblender
+A Typhlosion's performance
+In the plaza to the west, there is a stand that offers Aprijuice for sale. Seeing a confused look on your face, the attendant gives you an
+Apriblender
+so that you may familiarize yourself with the beverage. This device is stored in the
+Apricorn Box
+and is used to blend Apricorns into Aprijuice, a type of drink that improves a Pokémon's athletic
+performance
+. Up to five Apricorns may be added to the Apriblender at once, after which the user must walk 100 steps in order to mix up the drink. Each cycle produces enough Aprijuice for three servings. Attributes including flavor level, mildness level, and taste all influence the drink's effect on a Pokémon. These effects are temporary, and wear off when the Pokémon is stored in the
+PC
+.
+The stand's selection of Aprijuice includes three of five varieties, each having been developed by a popular Pokéathlete. Availability varies by the day.
+Interior
+Pokéathlon Dome, 1F
+Pokéathlon Dome, 2F
+Dress the Part
+When you reach the front desk, you are approached by
+Whitney
+, who is also here to participate in the
+Pokéathlon
+. She is excited to enter the competition but is surprised at your outfit, and runs off for a moment before returning with a Jersey so that you may look your best. She suddenly remembers that she left her Pokémon behind, and leaves for
+Goldenrod City
+to retrieve them.
+Courses
+There are five courses to enter, with each prioritizing a single
+performance
+stat. Each course includes three events.
+Course
+Medal
+Events
+Speed
+Hurdle Dash, Pennant Capture, and Relay Run
+Power
+Block Smash, Circle Push, and Goal Roll
+Skill
+Snow Throw, Goal Roll, and Pennant Capture
+Stamina
+Ring Drop, Relay Run, and Block Smash
+Jump
+Lamp Jump, Disc Catch, and Hurdle Dash
+By winning courses, the participating Pokémon will earn medals for their species. Trainers earn points based on how well their team did and if they qualified for any bonuses. The Trainer with the highest score wins, with a tie settled with a random draw by the Pokéathlon host. A win will earn the Trainer an additional 100 points, which can be spent on prizes at the
+Athlete Shop
+, or
+Data Cards
+that may be used to see records of various actions, course wins and losses, and other statistics. Beating the records for all 10 of the events in the Pokéathlon increases the
+Trainer Card
+level.
+National Park
+National Park
+The
+National Park
+is a beautiful recreational space between
+Route 35
+to the south and
+Route 36
+to the east. A haven for
+Bug
+and
+Grass
+Pokémon, a
+Bug-Catching Contest
+is held here every
+Tuesday, Thursday, and Saturday
+.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Beverly
+Reward:
+$
+1024
+Snubbull
+♀
+Lv.
+16
+No item
+Pokéfan
+William
+Reward:
+$
+1024
+Raichu
+♂
+Lv.
+16
+No item
+School Kid
+Jack
+Reward:
+$
+300
+Oddish
+♂
+Lv.
+12
+No item
+Voltorb
+Lv.
+15
+No item
+Lass
+Krise
+Reward:
+$
+272
+Oddish
+♀
+Lv.
+14
+No item
+Cubone
+♀
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+HG
+SS
+Grass
+10, 12
+50%
+0%
+0%
+Caterpie
+HG
+SS
+Grass
+10
+0%
+30%
+0%
+Metapod
+HG
+SS
+Grass
+10
+30%
+30%
+0%
+Weedle
+HG
+SS
+Grass
+10, 12
+50%
+0%
+0%
+Weedle
+HG
+SS
+Grass
+10
+0%
+30%
+0%
+Kakuna
+HG
+SS
+Grass
+10
+30%
+30%
+0%
+Pidgey
+HG
+SS
+Grass
+10, 12, 14
+20%
+0%
+0%
+Pidgey
+HG
+SS
+Grass
+12, 14
+0%
+15%
+0%
+Hoothoot
+HG
+SS
+Grass
+10, 12, 14
+0%
+0%
+100%
+Sunkern
+HG
+SS
+Grass
+10, 12
+0%
+25%
+0%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+10-12
+50%
+Pineco
+HG
+SS
+Headbutt
+10-12
+30%
+Exeggcute
+HG
+SS
+Headbutt
+10-12
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+13-15
+50%
+Ledyba
+HG
+SS
+Headbutt
+13-15
+30%
+Spinarak
+HG
+SS
+Headbutt
+13-15
+30%
+Exeggcute
+HG
+SS
+Headbutt
+13-15
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Quick Claw
+Southeast area, from a woman sitting with her
+Persian
+HG
+SS
+Soothe Bell
+Outside the fence, north of the eastern gate
+HG
+SS
+TM28
+(
+Dig
+)
+Outside the fence, end of the tree-lined path in the southwest
+HG
+SS
+Full Heal
+×2
+Two steps north, one step east of the smaller southern fountain (hidden)
+Outside the fence, end of narrow path north of the southern gate (hidden)
+HG
+SS
+Nugget
+Sometimes given out by Poké Fan Beverly, after registering her phone number
+HG
+SS
+Sport Ball
+×20
+Loaned for use in the Bug-Catching Contest; leftovers are returned when the game ends
+HG
+SS
+Later visit
+Shiny Stone
+Northeast area, on a cliff outside the fence (requires
+Rock Climb
+)
+HG
+SS
+Bug-Catching Contest
+There is no entry fee for the
+Bug-Catching Contest
+. Anyone may enter once per day, every
+Tuesday, Thursday, and Saturday
+.
+To compete, Trainers must catch the single best
+Bug-type
+Pokémon they can find. To do this, Trainers are given 20
+Sport Balls
+and are only allowed to use a single Pokémon from their party. The others remain with the contest officials until the competition is over. Any Pokémon caught will be recorded in the Pokédex, but only one Pokémon may be kept to be judged. The Pokémon selected to be judged may be kept after the competition.
+The competition ends when 20 minutes have passed, all
+Sport Balls
+have been used, or the Trainer
+blacks out
+, leaves the park, or chooses to quit. After that, the judging will occur, in which Trainers are scored on their skills of capturing rare and powerful Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+HG
+SS
+Grass
+7-18
+20%
+Weedle
+HG
+SS
+Grass
+7-18
+20%
+Metapod
+HG
+SS
+Grass
+9-18
+10%
+Kakuna
+HG
+SS
+Grass
+9-18
+10%
+Paras
+HG
+SS
+Grass
+10-17
+10%
+Venonat
+HG
+SS
+Grass
+10-16
+10%
+Butterfree
+HG
+SS
+Grass
+12-15
+5%
+Beedrill
+HG
+SS
+Grass
+12-15
+5%
+Scyther
+HG
+SS
+Grass
+13-14
+5%
+Pinsir
+HG
+SS
+Grass
+13-14
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Prizes
+Place
+Prize
+1st
+Sun Stone
+(pre-National Pokédex)
+Random
+evolution stone
+(post-National Pokédex)
+2nd
+Everstone
+3rd
+Sitrus Berry
+Runner-Up
+Shed Shell
+Route 36
+Route 36
+Route 36
+is a densely wooded path that branches off in several directions. It connects the
+National Park
+and
+Route 35
+in the west with the
+Ruins of Alph
+to the south,
+Violet City
+to the east, and
+Route 37
+to the north.
+Trainers
+Trainer
+Pokémon
+Psychic
+Mark
+Reward:
+$
+512
+Abra
+♂
+Lv.
+14
+No item
+Abra
+♂
+Lv.
+14
+No item
+Kadabra
+♂
+Lv.
+16
+No item
+School Kid
+Alan
+Reward:
+$
+340
+Tangela
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+13, 15
+25%
+0%
+0%
+Pidgey
+HG
+SS
+Grass
+12, 15
+25%
+0%
+0%
+Pidgey
+HG
+SS
+Grass
+13
+0%
+20%
+0%
+Nidoran♀
+HG
+SS
+Grass
+12
+30%
+Nidoran♂
+HG
+SS
+Grass
+12
+30%
+Nidoran♀
+HG
+SS
+Grass
+12-13
+30%
+Nidoran♂
+HG
+SS
+Grass
+12-13
+30%
+Vulpix
+HG
+SS
+Grass
+13
+10%
+0%
+10%
+Vulpix
+HG
+SS
+Grass
+13-15
+0%
+15%
+0%
+Growlithe
+HG
+SS
+Grass
+13
+10%
+0%
+10%
+Growlithe
+HG
+SS
+Grass
+13, 15
+0%
+15%
+0%
+Hoothoot
+HG
+SS
+Grass
+13-15
+0%
+0%
+25%
+Stantler
+HG
+SS
+Grass
+13
+5%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+4-5
+50%
+Pineco
+HG
+SS
+Headbutt
+4-5
+30%
+Exeggcute
+HG
+SS
+Headbutt
+4-5
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+6-7
+50%
+Ledyba
+HG
+SS
+Headbutt
+6-7
+30%
+Spinarak
+HG
+SS
+Headbutt
+6-7
+30%
+Exeggcute
+HG
+SS
+Headbutt
+6-7
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Blu Apricorn
+Northeast of the National Park gate, on a tree (daily)
+HG
+SS
+Awakening
+North of the tall grass; southwest side of the third tree from the west (hidden)
+HG
+SS
+Berry Pots
+From Floria, after removing
+Sudowoodo
+HG
+SS
+Oran Berry
+×3
+From Floria, after removing
+Sudowoodo
+HG
+SS
+Pecha Berry
+×3
+From Floria, after removing
+Sudowoodo
+HG
+SS
+HM06
+(
+Rock Smash
+)
+From the man to the east of
+Sudowoodo
+'s location
+HG
+SS
+Hard Stone
+Northeast area; from Arthur
+Th
+HG
+SS
+Careless Ribbon
+Northeast area; from Arthur
+Th
+, after meeting all of the Week Siblings
+HG
+SS
+Hyper Potion
+Northwest of Sudowoodo's location, southwest of the grove
+HG
+SS
+Fire Stone
+Sometimes given out by School Kid Alan, after registering his phone number
+HG
+SS
+An Inconvenient Tree
+The odd tree mentioned by the woman in
+Goldenrod City
+'s flower shop can be found in the middle of the route, blocking travel from every direction. Despite its tree-like appearance, this oddity actually tries to avoid water. The woman's sister, Floria, is here to investigate, and urges you to sprinkle it with the
+SquirtBottle
+. Splash a bit of water on it, and it attacks! It turns out to be a
+Sudowoodo
+, a rare Pokémon that is more similar to a rock than a tree.
+VS Sudowoodo
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+or
+Rock Head
+Held item:
+None
+Sudowoodo
+♂
+/
+♀
+Lv.
+20
+Flail
+Normal
+Physical
+--
+Low Kick
+Fighting
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Mimic
+Normal
+Status
+--
+Afterward, Floria gives you the
+Berry Pots
+as thanks for entertaining her. This portable planter allows a Trainer to plant, water, and grow Berry plants while traveling. She also gives out three
+Oran Berries
+and three
+Pecha Berries
+so that you may try it out. Hearing that your next destination is
+Ecruteak City
+, she directs you northward before leaving to return to
+Goldenrod City
+.
+Once the path is clear, speak with the man to the east to receive
+HM06
+(
+Rock Smash
+).
+Route 37
+Route 37
+Route 37
+is a short road that leads north from
+Route 36
+to
+Ecruteak City
+. A secluded grove of
+Apricorn
+trees stands on the east side.
+Trainers
+Trainer
+Pokémon
+Twins
+Tori & Til
+Reward:
+$
+512
+Marill
+♀
+Lv.
+16
+No item
+Mareep
+♀
+Lv.
+16
+No item
+Beauty
+Callie
+Reward:
+$
+896
+Double Battle
+with Kassandra
+Clefable
+♀
+Lv.
+16
+No item
+Wigglytuff
+♀
+Lv.
+16
+No item
+Beauty
+Kassandra
+Reward:
+$
+896
+Double Battle
+with Callie
+Wigglytuff
+♀
+Lv.
+16
+No item
+Clefable
+♀
+Lv.
+16
+No item
+Psychic
+Greg
+Reward:
+$
+544
+Drowzee
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+13, 15
+60%
+50%
+0%
+Pidgey
+HG
+SS
+Grass
+15
+20%
+0%
+0%
+Pidgey
+HG
+SS
+Grass
+13, 15
+0%
+50%
+0%
+Pidgeotto
+HG
+SS
+Grass
+15
+0%
+5%
+0%
+Vulpix
+HG
+SS
+Grass
+14
+10%
+0%
+10%
+Vulpix
+HG
+SS
+Grass
+14-15
+0%
+15%
+0%
+Growlithe
+HG
+SS
+Grass
+14
+10%
+0%
+10%
+Growlithe
+HG
+SS
+Grass
+14-15
+0%
+15%
+0%
+Hoothoot
+HG
+SS
+Grass
+15
+0%
+0%
+20%
+Hoothoot
+HG
+SS
+Grass
+13, 15
+0%
+0%
+60%
+Ledyba
+HG
+SS
+Grass
+13, 15
+40%
+0%
+0%
+Spinarak
+HG
+SS
+Grass
+13, 15
+0%
+0%
+40%
+Stantler
+HG
+SS
+Grass
+15
+30%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+12-14
+50%
+Pineco
+HG
+SS
+Headbutt
+12-14
+30%
+Exeggcute
+HG
+SS
+Headbutt
+12-14
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+15-17
+50%
+Ledyba
+HG
+SS
+Headbutt
+15-17
+30%
+Spinarak
+HG
+SS
+Headbutt
+15-17
+30%
+Exeggcute
+HG
+SS
+Headbutt
+15-17
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Red Apricorn
+Eastern grove, on the northwest tree (daily)
+HG
+SS
+Blu Apricorn
+Eastern grove, on the northeast tree (daily)
+HG
+SS
+Blk Apricorn
+Eastern grove, on the southern tree (daily)
+HG
+SS
+Magnet
+East side; from
+Sunny
+Su
+HG
+SS
+Smile Ribbon
+East side; from
+Sunny
+Su
+, after meeting all of the Week Siblings
+HG
+SS
+← Part 6
+Goldenrod City
+HeartGold and SoulSilver
+walkthrough
+Ecruteak City, Route 38, Route 39
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

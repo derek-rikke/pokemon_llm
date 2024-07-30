@@ -1,0 +1,967 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_12
+Keywords: Memorial Hill, Akala Outskirts, Ruins of Life, Akala Grand Trial, Hano Grand Resort, Hano Beach
+
+Walkthrough Text:
+Contents
+1
+Memorial Hill
+1.1
+Aether VS Skull
+2
+Akala Outskirts
+2.1
+VS Plumeria
+3
+Ruins of Life
+3.1
+Akala Grand Trial
+4
+Hano Grand Resort
+4.1
+The Green Man
+5
+Hano Beach
+5.1
+Pyukumuku-Chucking
+6
+Hano Grand Resort
+6.1
+Set Sail for Paradise
+Memorial Hill
+Memorial Hill
+Memorial Hill
+is located to the east of
+Route 9
+. The ancient burial site holds many of the old ruling families of
+Alola
+. It is believed that it was established at this location for its proximity to the
+Ruins of Life
+and Akala's
+guardian deity
+,
+Tapu Lele
+.
+Trainers
+Trainer
+Pokémon
+Gentleman
+Smith
+Reward:
+$
+4,600
+Umbreon
+♂
+Lv.
+23
+No item
+Preschooler
+Liam
+Reward:
+$
+264
+Jigglypuff
+♀
+Lv.
+21
+No item
+Ledian
+♂
+Lv.
+22
+No item
+Madame
+Sayuri
+Reward:
+$
+4,600
+Comfey
+♀
+Lv.
+23
+No item
+Punk Girl
+Melissa
+Reward:
+$
+736
+Ariados
+♀
+Lv.
+23
+No item
+After visiting Olivia's shop in Konikoni City
+Team Skull Grunt
+Reward:
+$
+736
+Raticate
+♂
+Alolan form
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Gastly
+Gastly
+S
+M
+Grass
+20-23
+50%
+Phantump
+Phantump
+S
+M
+Grass
+20-23
+30%
+Zubat
+Zubat
+S
+M
+Grass
+20-23
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heal Powder
+In front of the south-central headstone
+(hidden)
+S
+M
+Adrenaline Orb
+In front of the west-central headstone
+(hidden)
+S
+M
+Cleanse Tag
+Dead-end path in the maze's southeast corner
+S
+M
+Super Repel
+In front of the northwest headstone
+(hidden)
+S
+M
+Revival Herb
+Northwest area, near Madame Sayuri
+(hidden)
+S
+M
+Dusk Ball
+Above the western ledge
+S
+M
+Spell Tag
+In front of the northeast headstone
+S
+M
+Hyper Potion
+East side; isolated path behind the tree line
+S
+M
+Aether VS Skull
+When you reach the path below the eastern fence, you stumble across an
+Aether Foundation Employee
+and
+an Aether administrator
+facing off with two Team Skull Grunts. The two Grunts are trying to steal a
+Slowpoke
+, and it's up to you to step in and save the day. Defeat the first Grunt and they both run off.
+Afterward, the Chief offers you a tour of the
+Hano Grand Resort
+on the southeast part of
+Akala
+as thanks, but you must first clear Olivia's grand trial.
+Akala Outskirts
+Akala Outskirts
+The
+Akala Outskirts
+is a short stretch of grassy coastline on the southernmost point of Akala. It connects
+Memorial Hill
+in the west to the
+Ruins of Life
+to the north.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Vernon
+Reward:
+$
+736
+Staryu
+Lv.
+23
+No item
+Gyarados
+♂
+Lv.
+23
+No item
+Black Belt
+Kenji
+Reward:
+$
+768
+Hariyama
+♂
+Lv.
+24
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Wingull
+Wingull
+S
+M
+Grass
+20-23
+50%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+20-23
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+20-23
+-
+30%
+Nosepass
+Nosepass
+S
+M
+Grass
+20-23
+15%
+Stufful
+Stufful
+S
+M
+Grass
+20-23
+5%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-23
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-23
+20%
+Chinchou
+Chinchou
+S
+M
+Fishing
+10-23
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-23
+60%
+Chinchou
+Chinchou
+S
+M
+Fishing
+10-23
+20%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-23
+20%
+Exclusively from
+Island Scan
+Honedge
+N/A
+S
+M
+Grass
+23
+One
+We
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Leech Life
+)
+Dead-end path on the coast
+S
+M
+Tiny Mushroom
+×2
+Middle of the northeast grass patch
+(hidden, regenerates occasionally)
+Middle of the central grass patch
+(hidden)
+S
+M
+Big Mushroom
+North side of the northwest grass patch
+(hidden)
+S
+M
+Zygarde Cell
+Above the western ledge
+S
+M
+VS Plumeria
+When you approach the north exit to the
+Ruins of Life
+, you are confronted by a Punk Girl with pink and yellow hair. She gives her name as
+Plumeria
+, an admin of
+Team Skull
+and "big sister" to the Team Skull Grunts. To stop you from beating up on the other members, she challenges you to a battle.
+Team Skull Admin
+Plumeria
+Akala Outskirts
+Sun and Moon
+Reward:
+$
+3,120
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+25
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Fire
+Ability:
+Corrosion
+Held item:
+None
+Salandit
+♀
+Lv.
+26
+Flame Burst
+Fire
+Special
+--
+Double Slap
+Normal
+Physical
+--
+Poison Gas
+Poison
+Status
+--
+Curse
+Unknown
+Status
+--
+Plumeria
+reluctantly accepts her defeat, but warns that if you continue to mess with
+Team Skull
+, she will be more serious the next time.
+Ruins of Life
+Ruins of Life
+The
+Ruins of Life
+are a sacred space, home to the
+guardian deity
+of
+Akala Island
+,
+Tapu Lele
+.
+Items
+Item
+Location
+Games
+Rockium Z
+From Olivia, after clearing her grand trial
+S
+M
+Upon reaching the exterior of the ruins,
+Professor Burnet
+arrives with
+Lillie
+. Burnet helped Lillie make her way to the ruins, which she was searching for in order to help
+Nebby
+. Burnet leaves, and Lillie heals your Pokémon to full health.
+Olivia
+emerges from the cave, explaining that she is here because
+Tapu Lele
+summoned her to clean up the ruins. Moving onto other business, the kahuna gives you a chance to prepare before starting her grand trial.
+Akala Grand Trial
+As a
+Rock-type
+Pokémon specialist,
+Olivia
+'s team takes serious damage from
+Grass
+,
+Water
+,
+Fighting
+,
+Ground
+, and
+Steel
+moves. Grass Pokémon have access to
+Grassium Z
+and
+Bloom Doom
+, while Water Pokémon can make use of
+Waterium Z
+and
+Hydro Vortex
+. Alternatively, they can hold a
+Miracle Seed
+or
+Mystic Water
+for a reliable power boost. As it is part-
+Flying
+,
+Dartrix
+is susceptible to Rock attacks; the
+Grass
+/
+Ghost
+Decidueye
+is stronger but should be wary of her
+Lycanroc
+'s
+Bite
+.
+Brionne
+and
+Primarina
+are only vulnerable to
+Nosepass
+'
+Spark
+.
+Olivia
+starts off with her
+Nosepass
+. Though
+Rock Slide
+is stronger,
+Spark
+lets it face off with Water Pokémon looking for a type advantage. Its
+Sturdy
+Ability prevents a one-hit knockout. Ground Pokémon are an easy choice against it, as they are immune to Spark and
+Thunder Wave
+, and take less damage than normal from Rock Slide.
+Boldore
+can rack up damage with
+Rock Blast
+, or hinder the target's accuracy with
+Mud-Slap
+. Like Nosepass, it also has the Sturdy Ability. Both of Olivia's first two Pokémon have higher physical
+Defense
+than
+Special Defense
+, so Special attacks are more effective. Her Midnight Form
+Lycanroc
+resists
+Sleep
+with its
+Vital Spirit
+Ability. Its defenses are more equal, so either physical or special moves will do the trick. With the
+Z-Crystal
+it holds, at any time Lycanroc can upgrade its Rock Slide move, turning it into the Rock-type Z-Move,
+Continental Crush
+. While powerful, this can fortunately be done only once.
+Island Kahuna
+Olivia
+Ruins of Life
+Sun and Moon
+Reward:
+$
+4,320
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Nosepass
+♀
+Lv.
+26
+Rock Slide
+Rock
+Physical
+--
+Spark
+Electric
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Boldore
+♂
+Lv.
+26
+Rock Blast
+Rock
+Physical
+--
+Mud-Slap
+Ground
+Special
+--
+Headbutt
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Vital Spirit
+Held item:
+Rockium Z
+Lycanroc
+♂
+Lv.
+27
+Bite
+Dark
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, Olivia rewards you with the
+Rockium Z
+and teaches you the pose for
+Continental Crush
+. She then stamps your
+Trainer Passport
+with the
+Akala Trial Completion
+stamp. This stamp ensures that all Pokémon up to Level 50, even those received in a trade, will obey without question.
+Hau
+appears as you turn to leave, hoping for a battle with Olivia. He mentions that
+the same weird green guy
+from
+Aether
+told him to visit
+Hano Grand Resort
+after clearing the kahuna's grand trial. Olivia advises you to find out what Aether wants, and tells you that the resort is located to the east of
+Heahea City
+, over the bridge from the Dimensional Research Lab.
+Hano Grand Resort
+Hano Grand Resort
+Hano Grand Resort
+is the largest hotel in
+Alola
+. The five-star resort is fully booked a year in advance.
+Hano Beach
+is located to the east.
+Trainers
+Trainer
+Pokémon
+Inside
+Veteran
+Roger
+Reward:
+$
+2,376
+Trumbeak
+Trumbeak
+♂
+Lv.
+27
+No item
+Golf Buddies
+Tara and Tina
+Reward:
+$
+3,000
+Oricorio
+Oricorio
+♀
+Pom-Pom Style
+Lv.
+25
+No item
+Oricorio
+Oricorio
+♂
+Pa'u Style
+Lv.
+25
+No item
+Items
+Item
+Location
+Games
+Footprint Ribbon
+From the Pokémon Breeder in the lobby, if shown a Pokémon that has grown 30+ levels since capture
+S
+M
+Metronome
+Lobby; from Veteran Roger, after defeating him
+S
+M
+TM45
+(
+Attract
+)
+Lobby; from the man in the Machamp costume, after defeating Golf Buddies Tara & Tina
+S
+M
+Later visit
+TM92
+(
+Trick Room
+)
+From
+Kahili
+, after becoming Champion
+S
+M
+The Green Man
+In the hotel lobby, you are met by the weird green guy from
+Aether Foundation
+again. He finally introduces himself as
+Faba
+, and wants to thank you for your help with
+Team Skull
+by taking you on a tour of
+Aether Paradise
+, an artificial island built for Pokémon conservation. Decline his offer for the moment, as there are still things to do before leaving
+Akala Island
+.
+Hano Beach
+Hano Beach
+Hano Beach
+is located to the east of
+Hano Grand Resort
+. Because
+Pyukumuku
+often wash up on the shore, Pyukumuku-chucking is a popular part-time job here.
+Trainers
+Trainer
+Pokémon
+Requires
+Lapras Paddle or Sharpedo Jet
+Swimmer
+Chelsea
+Reward:
+$
+600
+Pyukumuku
+Pyukumuku
+♀
+Lv.
+25
+No item
+Swimmer
+Roddy
+Reward:
+$
+600
+Gyarados
+♂
+Lv.
+25
+No item
+Swimmer
+Laura
+Reward:
+$
+600
+Finneon
+♀
+Lv.
+24
+No item
+Shellder
+♀
+Lv.
+25
+No item
+Swimmer
+Lawrence
+Reward:
+$
+600
+Wingull
+♂
+Lv.
+24
+No item
+Barboach
+♂
+Lv.
+25
+No item
+Swimmer
+Alicia
+Reward:
+$
+600
+Psyduck
+♀
+Lv.
+25
+No item
+Swimmer
+Logan
+Reward:
+$
+600
+Wishiwashi
+Wishiwashi
+♂
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Ambush encounters
+Staryu
+Staryu
+S
+M
+Sand cloud
+21-24
+80%
+Sandygast
+Sandygast
+S
+M
+Sand cloud
+21-24
+20%
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+21-24
+30%
+Finneon
+Finneon
+S
+M
+Surfing
+21-24
+30%
+Wingull
+Wingull
+S
+M
+Surfing
+21-24
+20%
+Pyukumuku
+Pyukumuku
+S
+M
+Surfing
+21-24
+20%
+Ambush encounters
+Tentacool
+Tentacool
+S
+M
+Water splashes
+21-24
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pearl
+×3
+Water's edge, south of the male Swimmer
+(hidden, regenerates occasionally)
+Between the four eastern-most umbrellas
+(hidden, regenerates occasionally)
+Behind the lifeguard tower
+(hidden)
+S
+M
+Soda Pop
+×2
+From the female Swimmer, near the southeastern-most umbrella
+Near the chair under the northwestern-most umbrella
+(hidden, regenerates occasionally)
+S
+M
+$
+20,000
+From the Bellhop, after returning all the
+Pyukumuku
+to the ocean (once daily)
+S
+M
+Heart Scale
+×2
+North end of the beach; northeast of the Trainer Tips sign
+(hidden, regenerates occasionally)
+North end of the beach; south of the northern-most umbrella
+(hidden, regenerates occasionally)
+S
+M
+Antidote
+Ocean floor; past the south end of the beach (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Dive Ball
+Ocean floor; past the south end of the beach (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Black Glasses
+On the island (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Pearl String
+Ocean floor; north part of the area (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Zygarde Cell
+×2
+Under the southwestern-most umbrella
+Under the lifeguard tower, north of the southeastern-most umbrella
+Day
+S
+M
+Pyukumuku-Chucking
+Speak to the man near the lifeguard tower on the north end of the beach.
+Pyukumuku
+often wash up onto the beach, and he needs help returning them to the ocean. Scour the beach to find the six Pokémon and toss them back into the surf. Speak with the man again afterwards to receive a
+$
+20,000 reward. The Pokémon do not remain in the water for very long, so you can return and repeat the quest once per day for an additional
+$
+20,000 reward.
+Hano Grand Resort
+Set Sail for Paradise
+Return to the hotel and accept
+Faba
+'s offer, then
+Hau
+,
+Kukui
+, and
+Olivia
+enter. Hau wants to go on the tour, too; as kahuna, Olivia is here to see her trial-goers off. Kukui has business to attend to, but can't wait to meet up again in
+Malie Garden
+on
+Ula'ula Island
+. Faba leads you and Hau to the marina, and the ferry sets sail for
+Aether Paradise
+.
+← Part 11
+Diglett's Tunnel, Route 9, Konikoni City
+Sun and Moon
+walkthrough
+Aether Paradise
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

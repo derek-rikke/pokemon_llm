@@ -1,0 +1,44 @@
+Game: HeartGold_and_SoulSilver
+Part: 20
+Keywords: Route 7, Celadon City, Celadon Gym
+
+**Pokémon HeartGold and SoulSilver Walkthrough - Part 20: Route 7, Celadon City, Celadon Gym**
+
+**Route 7:**
+- Route between Saffron City and Celadon City.
+- **Pokémon Encountered (Night Only):** 
+  - Murkrow (Lv. 17-19)
+  - Houndour (Lv. 15)
+- **Items:** 
+  - Mental Herb (North of tall grass)
+
+**Celadon City:**
+- **Key Locations:**
+  - **Department Store:** Largest Poké Mart, buy essential items and TMs.
+  - **Game Corner:** Play Voltorb Flip; buy TMs and Pokémon.
+  - **Celadon Condominiums:** 
+    - GB Sounds from a Game Freak employee (after obtaining all 16 Badges).
+    - Spell Tag from a man on the roof (night only).
+- **Items:**
+  - PP Up (Southeast, hidden)
+  - TM67 (Recycle, north side)
+  - Turtwig, Chimchar, Piplup Masks (2F from Crasher Wake)
+
+**Celadon Gym:**
+- **Leader:** Erika (Grass-type)
+- **Strategy:** Use Fire, Flying, or Ice moves. Avoid Water, Ground, Rock.
+  - **Key Pokémon:**
+    - Jumpluff (Lv. 51) - Weak to Ice
+    - Tangela (Lv. 52) - Vulnerable to special moves
+    - Victreebel (Lv. 56) - Can use Sunny Day to boost Fire moves
+    - Bellossom (Lv. 56) - Uses SolarBeam without charge if Sunny Day is in effect
+- **Gym Navigation:**
+  1. Battle Lass Michelle along the east wall.
+  2. Continue north to Picnicker Tanya.
+  3. Approach Beauty Julia from the south.
+  4. Cut down the tree to reach Erika.
+
+**Post-Gym:**
+- Defeating Erika rewards you with the Rainbow Badge and TM21 (Giga Drain). 
+
+This guide focuses on essential routes, Pokémon encounters, item locations, and strategies for the Celadon Gym.

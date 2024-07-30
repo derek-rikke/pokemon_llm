@@ -1,0 +1,765 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_15
+Keywords: Route 10, Mount Hokulani, Trial 5: Hokulani Observatory
+
+Walkthrough Text:
+Contents
+1
+Route 10
+1.1
+Stufful's Adventure
+1.2
+VS Team Skull
+2
+Mount Hokulani
+2.1
+Catch Up with Kukui
+2.2
+Hokulani Summit
+2.3
+Hokulani Observatory
+2.3.1
+Captain Sophocles' Trial
+2.3.1.1
+VS Totem Vikavolt
+Route 10
+Route 10
+Route 10
+is a simple, grassy path that leads from
+Malie City
+to
+Mount Hokulani
+. Travel up the mountainside is difficult on foot, so visitors must take the Exeggutor Express from the bus stop on the north side.
+Trainers
+Trainer
+Pokémon
+Firefighter
+Alex
+Reward:
+$
+1,120
+Poliwhirl
+♂
+Lv.
+28
+No item
+Beauty
+Andrea
+Reward:
+$
+864
+Steenee
+♀
+Lv.
+27
+No item
+Police Officer
+Mitchell
+Reward:
+$
+1,120
+Growlithe
+♂
+Lv.
+28
+No item
+After reading The Light of Alola in the Malie Library
+Team Skull Grunt
+Reward:
+$
+864
+Golbat
+♂
+Lv.
+27
+No item
+Team Skull Grunt
+Reward:
+$
+864
+Raticate
+♂
+Alolan form
+Lv.
+27
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fearow
+Fearow
+S
+M
+Grass
+24-27
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+24-27
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+24-27
+-
+30%
+Ledian
+Ledian
+S
+M
+Grass
+24-27
+20%
+-
+Ariados
+Ariados
+S
+M
+Grass
+24-27
+-
+20%
+Skarmory
+Skarmory
+S
+M
+Grass
+24-27
+10%
+Pancham
+Pancham
+Pangoro
+S
+M
+Grass
+24-27
+10%
+Ambush encounters
+Fearow
+Fearow
+S
+M
+Rustling tree
+24-27
+80%
+Skarmory
+Skarmory
+S
+M
+Rustling tree
+24-27
+20%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+24-27
+100%
+Exclusively from
+Island Scan
+Staravia
+N/A
+S
+M
+Grass
+27
+One
+Th
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Lemonade
+Next to a rock just outside Malie City
+S
+M
+Paralyze Heal
+North side of the southernmost grass patch
+S
+M
+Tiny Mushroom
+South of the path and the Berry tree, in a corner
+(hidden)
+S
+M
+X Accuracy
+In a bare spot in the western grass patch
+S
+M
+Never-Melt Ice
+From the woman near Malie City, after finding all eight of her
+Stufful
+S
+M
+$
+15,000
+From the woman near Malie City, after finding all eight of her Stufful
+S
+M
+Zygarde Cell
+Western part of the route, near the Trainer Tips sign
+Day
+S
+M
+Stufful's Adventure
+Speak to the elderly woman outside
+Malie City
+. Recognizing you as a trial-goer, she asks for a favor. Her eight
+Stufful
+have not been getting much exercise lately so she let them out of their Poké Balls to play. They haven't returned yet, and as it is difficult for her to move around, she asks that you find them and send them back to her. Once they have all been located, speak to her again to receive a
+Never-Melt Ice
+and
+$
+15,000 as thanks.
+1. South of the southeastern grass patch
+2. Behind a tree, east of the Berry tree
+3. Behind the Berry tree
+4. Behind a tree, southeast of the Trainer Tips sign
+5. Behind the Trainer Tips sign
+6. In the southwestern grass patch
+7. Across the road from the northern grass patch
+8. In the northern grass patch
+VS Team Skull
+Continue to the north end of the route to reach the bus stop sign, which is in the process of being stolen by a pair of
+Team Skull
+Grunts. Defeat one after the other to chase them off, then
+Professor Kukui
+appears. He mentions wishing that Team Skull would challenge "the League" instead of causing trouble, but refuses to go into more detail, saying that you will find out soon enough. Back to the matter at hand, Kukui explains that you will need to take the bus to reach the top of
+Mount Hokulani
+. Inspect the sign to wait for the next bus, and the Exeggutor Express arrives a moment later.
+Mount Hokulani
+Mount Hokulani
+Mount Hokulani
+is the second-tallest mountain in
+Alola
+. The Exeggutor Express takes passengers to the summit, dropping them off outside the
+Hokulani Observatory
+.
+Trainers
+Trainer
+Pokémon
+Office Worker
+Jessica
+Reward:
+$
+1,120
+Clefairy
+♀
+Lv.
+28
+No item
+Hiker
+Thomas
+Reward:
+$
+896
+Boldore
+♂
+Lv.
+27
+No item
+Geodude
+♂
+Alolan form
+Lv.
+28
+No item
+Collector
+Todd
+Reward:
+$
+896
+Passimian
+♂
+Lv.
+28
+No item
+Oranguru
+♂
+Lv.
+28
+No item
+After defeating all other regular Trainers in the area
+Veteran
+Akira
+Reward:
+$
+2,640
+Absol
+♂
+Lv.
+30
+Darkinium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fearow
+Fearow
+S
+M
+Grass
+25-28
+40%
+30%
+Minior
+N/A
+S
+M
+Grass
+25-28
+30%
+Ditto
+Ditto
+S
+M
+Grass
+25-28
+10%
+Skarmory
+Skarmory
+S
+M
+Grass
+25-28
+10%
+Beldum
+Beldum
+S
+M
+Grass
+25-28
+10%
+Cleffa
+Cleffa
+Clefairy
+Chansey
+S
+M
+Grass
+25-28
+-
+10%
+Exclusively from
+Island Scan
+Axew
+N/A
+S
+M
+Grass
+28
+One
+Sa
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Moon Ball
+East of the Pokémon Center, from
+Samson Oak
+S
+M
+Level Ball
+North of the Pokémon Center, behind the trucks
+S
+M
+TM72
+(
+Volt Switch
+)
+Outside a gap in the guardrail, near the northeast grass patch
+S
+M
+Fast Ball
+South of the northeast grass patch, across the street
+S
+M
+Rare Candy
+On a rock, south of a gap in the guardrail on the easternmost point of the road
+(hidden)
+S
+M
+Heavy Ball
+Outside a gap in the guardrail, beside the larger southwestern grass patch
+S
+M
+Max Potion
+Outside a gap in the guardrail, in the smaller southwestern grass patch
+S
+M
+TM95
+(
+Snarl
+)
+From Veteran Akira after defeating him
+S
+M
+Catch Up with Kukui
+When you step off the bus,
+Kukui
+calls to you from across the parking lot. He informs you that
+Mount Hokulani
+is only the second-tallest mountain in
+Alola
+, and directs your attention to another mountain peak visible through the mist. This icy mountain with construction equipment on its summit is
+Mount Lanakila
+, the highest peak in Alola. It is a sacred place, the closest point that anyone can get to the legendary Pokémon, said to be the sun
+S
+/ moon
+M
+incarnate. It is on this hallowed ground that Kukui has been working to establish Alola's own
+Pokémon League
+. He intends to have everyone who has completed their island challenges battle against the kahunas to become the island challenge champion. Then these
+Champions
+can show the world what is so special about Alolan Pokémon and their Trainers!
+Hokulani Summit
+When you approach the observatory,
+Kukui
+greets the man standing outside, who refers to the professor as "Royal". Kukui introduces the man as
+Molayne
+, the person in charge of the observatory and the one who maintains the
+PC Storage System
+. Although he is no longer
+Hokulani
+'s captain, he challenges you to a battle to determine if you are qualified to take on the current trial. He specializes in
+Steel-type
+Pokémon, so
+Fire
+-,
+Fighting
+-, and
+Ground-type
+moves will work the best.
+Pokémon Trainer
+Molayne
+Mount Hokulani
+Sun and Moon
+Reward:
+$
+3,000
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♂
+Lv.
+29
+Air Cutter
+Flying
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+None
+Metang
+Lv.
+29
+Zen Headbutt
+Psychic
+Physical
+--
+Bullet Punch
+Steel
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ground
+Steel
+Ability:
+Tangling Hair
+Held item:
+None
+Dugtrio
+♂
+Lv.
+30
+Metal Claw
+Steel
+Physical
+--
+Mud Bomb
+Ground
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+When the battle is over, Kukui leaves for
+Malie Garden
+to find
+Hau
+and Molayne welcomes you to the observatory.
+Hokulani Observatory
+Hokulani Observatory
+Hokulani Observatory
+is a celestial research center that, with the help of Pokémon like
+Charjabug
+and
+Togedemaru
+, views and studies distant planets and galaxies.
+Items
+Item
+Location
+Games
+Comet Shard
+From the Scientist behind the reception desk
+S
+M
+Electrium Z
+From Sophocles, after completing his trial
+S
+M
+Steelium Z
+From Molayne, after completing Sophocles' trial
+S
+M
+Professor's Mask
+From Molayne, after completing Sophocles' trial
+S
+M
+Zygarde Cell
+West end of the hallway
+Night
+S
+M
+Captain Sophocles' Trial
+To begin the trial, pass through the door behind the reception desk and enter the Captain's Gate in the hallway beyond. Inside you meet
+Sophocles
+, the inventor of the
+Festival Plaza
+. He says that since every trial boils down to summoning the Totem Pokémon and proving your strength to it, his trial skips straight to this part. He explains that the observatory uses technology to monitor sounds, inaudible to people, detected from outer space. Pokémon can hear these sounds just fine, and Sophocles has built a device that uses this tech to summon the
+Totem Pokémon
+. He informs you that using other sounds,
+Molayne
+was able to develop a security system for the building, and then activates the "Ping Totem Pokémon 2.0". The power suddenly goes out and Sophocles wonders if a fuse blew. With the electronic door stuck shut behind you, he explains that you will need to pass an audio quiz to deactivate the security system.
+Sophocles will play an audio clip of a familiar sound. After identifying the source of each sound, the door briefly opens and shuts, letting in a Pokémon attracted by the device's sounds. Defeat
+these wayward Pokémon
+to progress to the next question. After answering the fourth question, the Totem Pokémon appears.
+Correct answers are listed in bold.
+Audio Quiz
+Choices
+What sound do you hear?
+Pokémon Center
+Getting an
+item
+Evolution
+You hear this sound when you get what?
+A
+TM
+Rotom Dex
+A
+Berry
+Which Pokémon's cry is this sound?
+Pyukumuku
+Charjabug
+Grubbin
+What appears when you hear the following music?
+A
+Trainer
+A
+wild Pokémon
+A
+Totem Pokémon
+VS Totem Vikavolt
+When the battle begins, the Totem
+Vikavolt
+is surrounded by an aura that raises every stat by one stage. As in other trials, it is recommended to focus on the Totem Pokémon first and any allies afterward. The
+Bug
+/
+Electric
+Pokémon has the
+Levitate
+Ability, which protects it from
+Ground
+attacks. Use
+Fire
+-, and
+Rock-type
+attacks for best results.
+Torracat
+can deal serious damage with
+Firium Z
+and
+Inferno Overdrive
+. Rock Pokémon, like
+Minior
+which can be found on
+Mount Hokulani
+, are also useful here.
+Totem Vikavolt
+Ally Charjabug
+Aura:
+Atk
+,
+Def
+,
+Sp. Atk
+,
+Sp. Def
+,
+Spd
++1
+Types:
+Bug
+Electric
+Ability:
+Levitate
+Held item:
+Occa Berry
+Vikavolt
+♂
+Lv.
+29
+Vice Grip
+Normal
+Physical
+--
+Charge
+Electric
+Status
+--
+Spark
+Electric
+Physical
+--
+Bug Bite
+Bug
+Physical
+--
+Types:
+Bug
+Electric
+Ability:
+Battery
+Held item:
+None
+Charjabug
+♂
+/
+♀
+Lv.
+28
+Thunder Wave
+Electric
+Status
+--
+String Shot
+Bug
+Status
+--
+Mud-Slap
+Ground
+Special
+--
+Vice Grip
+Normal
+Physical
+--
+Types:
+Bug
+Electric
+Ability:
+Battery
+Held item:
+None
+Charjabug
+♂
+/
+♀
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Spark
+Electric
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the Totem Pokémon and its allies are defeated, power to the observatory is restored. Molayne enters and congratulates Sophocles on his successful experiment. Sophocles rewards you with the
+Electrium Z
+and teaches you the pose for
+Gigavolt Havoc
+. Molayne congratulates you on clearing the trial and gives you the
+Steelium Z
+. He then asks for a favor: return the
+Professor's Mask
+that
+Kukui
+left behind. He tells you that the professor should be headed back to
+Malie Garden
+, so summon
+Charizard
+and fly back to the city.
+← Part 14
+Malie City, Malie Garden, Outer Cape
+Sun and Moon
+walkthrough
+Route 11, Route 12, Blush Mountain, Secluded Shore, Route 13
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

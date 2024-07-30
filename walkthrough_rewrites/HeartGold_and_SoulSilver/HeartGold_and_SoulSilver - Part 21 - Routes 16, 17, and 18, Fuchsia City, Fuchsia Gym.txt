@@ -1,0 +1,38 @@
+Game: HeartGold_and_SoulSilver
+Part: 21
+Keywords: Routes 16, 17, and 18, Fuchsia City, Fuchsia Gym
+
+### Pokémon HeartGold and SoulSilver Walkthrough - Part 21
+
+**Routes 16, 17, and 18, Fuchsia City, Fuchsia Gym**
+
+**Route 16**  
+- Key Pokémon: Slugma (27), Murkrow (29, night).  
+- Special Pokémon: Plusle (26-27, Hoenn Sound), Minun (28, Hoenn Sound).  
+- **Vacation House**: Speak to the old man daily for trendy phrases.
+
+**Route 17 (Cycling Road)**  
+- Key Pokémon: Grimer (27-29), Slugma (27, 29).  
+- Trainers: Various Bikers with Pokémon levels 37-47.  
+- Items:  
+  - Max Ether (hidden, west side of bridge)  
+  - Max Elixir (hidden, west side of bridge)  
+
+**Route 18**  
+- Continue south to Fuchsia City.  
+- Trainers: Biker Charles (Koffing, 41), Bird Keeper Bob (Noctowl, 48).
+
+**Fuchsia City**  
+- **Pal Park**: Transfer Pokémon from previous games.  
+- **Items**:  
+  - Red Apricorn (north of Pokémon Center, requires Cut)  
+  - Nugget (hidden, northeast flower boxes)  
+- **The Juggler**: Trades three Berries for a Shard.
+
+**Fuchsia Gym**  
+- **Leader**: Janine (Poison-type).  
+- Strategy: Use Psychic, Fire, and Water-type moves. Most Pokémon are in the 40s. Watch for Toxic, Confuse Ray, and Explosion.
+- **Gym Trainers**: Levels vary (up to 48).  
+- **Defeat Janine for the Soul Badge** and TM84 (Poison Jab).
+
+**Next Steps**: The route south is blocked; proceed east to Route 15.

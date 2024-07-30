@@ -1,0 +1,51 @@
+Game: Sun_and_Moon
+Part: 7
+Keywords: Heahea City, Route 4, Paniola Town, Paniola Ranch, Pokémon Nursery
+
+**Part 7: Heahea City, Route 4, Paniola Town, Paniola Ranch, Pokémon Nursery**
+
+**Heahea City**
+- Arrival: Meet Olivia and Mallow, the trial captains.
+- Items:
+  - $10,000: From the old man in the apparel shop after registering Pyukumuku.
+  - Rare Candy: From a woman across the street from the apparel shop.
+  - Zygarde Cube: From Dexio after defeating him by the Tide Song Hotel.
+  - Big Mushroom: Behind the Dimensional Research Lab.
+- Battle Dexio (Water, Psychic) and Sina (Ice, Flying) near the Tide Song Hotel to receive the Zygarde Cube.
+- Collect Zygarde Cells in the hotel lobby and nearby areas.
+
+**Route 4**
+- Connects Heahea City to Paniola Town.
+- Trainers:
+  - Bellhop Jody (Drifloon, Lv. 14)
+  - Collector Bryan (Munchlax, Bagon, Lv. 13-14)
+  - Sightseer Scotty (Rattata, Lv. 14)
+  - Cook Ernie (Cutiefly, Lv. 14)
+- Pokémon: Lillipup, Mudbray, Pikipek, Grubbin, Yungoos, Alolan Rattata, Igglybuff, and Eevee.
+- Items: Great Ball, Tiny Mushroom, Zygarde Cells, Revive, etc.
+
+**Paniola Town**
+- Features farmland and is near Paniola Ranch.
+- Items:
+  - Dire Hit: From Hau after battling him.
+  - Revive: Near hay cart in town.
+  - Fresh Water: Southwest corner.
+  - Quick Ball: From Magmar in Kiawe's house.
+- Rival Battle 4: Face Hau (Pikachu and Brionne) and receive a Dire Hit.
+
+**Kiawe's House**
+- Located across from the Pokémon Center; obtain Quick Ball from upstairs.
+
+**Paniola Ranch**
+- Contains Moomoo Paddock and Pokémon Nursery.
+- Trainers:
+  - Madame Elizabeth (Carbink, Lv. 15)
+  - Pokémon Breeders (Tauros, Mudbray, Lillipup, Growlithe, etc.)
+- Items: TM10 (Hidden Power), Scope Lens, Moomoo Milk, etc.
+- Mallow registers Stoutland for Stoutland Search.
+- Battle Pokémon Breeder Wesley for Scope Lens.
+- At the Pokémon Nursery, receive a Pokémon Egg and TM10 (Hidden Power).
+
+**General Tips**
+- Collect items and Pokémon along the way.
+- Prepare for upcoming trials and battles.

@@ -1,0 +1,45 @@
+Game: X_and_Y
+Part: 8
+Keywords: Lumiose City, Lumiose Gym
+
+### Lumiose City Walkthrough: Part 8
+
+**Overview**: Return to Lumiose City and head to Prism Tower for your next Gym challenge.
+
+#### Key Locations:
+- **Prism Tower**: Central location for the Lumiose Gym.
+- **Lysandre Café**: Meet Professor Sycamore and Lysandre after defeating the Gym.
+
+#### Items & Rewards:
+- **Expert Belt**: 1F of Office Building 1.
+- **TM82 (Dragon Tail)**: Lumiose Museum, 1F.
+- **TM49 (Echoed Voice)**: Hotel Richissime, 5F.
+- **King's Rock**: Obtained from Lysandre in Lysandre Café.
+- **TM24 (Thunderbolt)**: Received from Clemont after defeating him.
+
+#### Gym Challenge: Lumiose Gym
+- **Type**: Electric
+- **Strategy**: Use Ground-type moves. Avoid Water and Flying Pokémon.
+- **Answering Questions**: Answer Bonnie’s silhouette quiz correctly to face the Gym Leader. The correct sequence is:
+  1. #3 (Pikachu)
+  2. #1 (Fletchling)
+  3. #3 (Panpour)
+  4. #2 (Vivillon)
+
+**Clemont's Pokémon**:
+1. **Emolga** (Lv. 35): Weak to Rock and Ice moves.
+2. **Magneton** (Lv. 35): Use Fighting or Fire moves.
+3. **Heliolisk** (Lv. 37): Vulnerable to Ground and Fighting moves.
+
+#### Holo Clip
+- After exiting the Gym, you receive a Holo Clip from Sycamore, directing you to Lysandre Café.
+
+#### Notable City Features:
+- **Café Ultimo**: Get a Training Ribbon for a Supremely Trained Pokémon.
+- **Battle Institute**: Test your skills post-Champion status.
+- **Loto-ID Center**: Draw daily for prizes based on matching Pokémon ID numbers.
+
+#### Final Notes:
+- Explore the city, including cafés, boutiques, and restaurants, for items, battles, and style upgrades. Don't miss interactions with various NPCs for additional rewards and information.
+
+Continue your journey by heading to Route 14 after gathering items and completing battles in Lumiose City.

@@ -1,0 +1,58 @@
+Game: FireRed_and_LeafGreen
+Part: 20
+Keywords: Round 2
+
+### Part 20: Cerulean Cave & The Pokémon League: Round 2
+
+#### Cerulean City
+- **Accessing Cerulean Cave**: Surf south from Route 24 to reach the cave in the northwest corner of Cerulean City. Only Hall of Fame trainers can enter.
+
+#### Cerulean Cave Overview
+- **Preparation**: Bring a Super Rod, Ultra Balls, and a Master Ball. The cave is populated with strong Pokémon.
+
+**Available Pokémon:**
+- **1F**: Parasect, Magneton, Golbat, Primeape, Ditto, Machoke, Electrode, Wobbuffet.
+- **2F**: Golbat, Machoke, Parasect, Kadabra, Ditto, Magneton, Wobbuffet, Electrode.
+- **B1F**: Kadabra, Ditto, Parasect, Golbat, Machoke, Magneton, Electrode, Wobbuffet.
+
+**Items:**
+- **1F**: Nugget, Ultra Ball, Max Elixir, Full Restore.
+- **2F**: Full Restore, PP Up, Ultra Ball.
+- **B1F**: Max Revive, Ultra Ball.
+
+#### Encountering Mewtwo
+- **Location**: Found in B1F after using Surf. 
+- **Battle Strategy**: Mewtwo is level 70 (Psychic-type). Use Bug, Ghost, and Dark-type moves. Inflict status ailments to facilitate catching. Use the Master Ball for an easy catch.
+
+### A Legend On the Loose
+- **Tracking Entei, Raikou, or Suicune**:
+  - Save your game before tracking.
+  - Use Repels to avoid low-level Pokémon.
+  - Use Pokémon levels between 11-49 in the first slot.
+  - Encounter the roaming Pokémon in grassy areas; use moves like Mean Look to prevent escape.
+  
+#### Indigo Plateau: Elite Four
+1. **Lorelei**: 
+   - **Team**: Piloswine, Dewgong, Cloyster, Jynx, Lapras.
+   - **Weakness**: Fighting and Electric-types.
+
+2. **Bruno**: 
+   - **Team**: Steelix, Hitmonchan, Hitmonlee, Machamp.
+   - **Weakness**: Fire and Water moves.
+
+3. **Agatha**: 
+   - **Team**: Crobat, Misdreavus, Arbok, Gengar.
+   - **Weakness**: Psychic and Ground moves.
+
+4. **Lance**: 
+   - **Team**: Gyarados, Dragonite, Kingdra, Aerodactyl.
+   - **Weakness**: Dragon moves for Kingdra; use Ice moves against Dragonite.
+
+5. **Rival Battle 9** (Blue):
+   - **Team**: Heracross, Alakazam, Tyranitar, Exeggutor, Gyarados, Charizard.
+   - **Strategy**: Know type advantages; exploit Heracross’s weakness to Flying and Tyranitar’s to Fighting.
+
+### Conclusion
+With the Pokémon League defeated and Cerulean Cave cleared, focus on completing the Pokédex with 386 Pokémon species available.
+
+For further details, refer to previous sections or guides.

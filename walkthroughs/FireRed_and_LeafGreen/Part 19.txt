@@ -1,0 +1,2854 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_19
+Keywords: Sevii Islands, Part III:Five Island, Seven Island
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Five Island
+1.1
+Five Isle Meadow
+1.1.1
+Rocket Warehouse
+1.1.1.1
+Spinner maze
+1.1.1.2
+Southeast room
+1.1.1.3
+East-central room
+1.1.1.4
+Northeast room
+1.2
+Memorial Pillar
+1.2.1
+A Tribute for Tectonix
+1.3
+Water Labyrinth
+1.3.1
+A Joyful Gift
+1.4
+Resort Gorgeous
+1.4.1
+Resort Gorgeous
+1.4.2
+Lost Cave
+1.4.2.1
+1F
+1.4.2.2
+B1F
+1.4.3
+Resort Gorgeous
+2
+Seven Island
+2.1
+Seven Island (Town)
+2.2
+Trainer Tower
+2.2.1
+Trainer Tower
+2.3
+Canyon Entrance
+2.4
+Sevault Canyon
+2.4.1
+Tanoby Key
+2.4.2
+The Chansey Dance
+2.5
+Tanoby Ruins
+2.5.1
+Tanoby Chambers
+Five Island
+Five Island
+Five Isle Meadow
+Rocket Warehouse
+Memorial Pillar
+Five Island
+covers another large area of the ocean. The main island includes the town of
+Five Island
+and
+Five Isle Meadow
+to the east, where the
+Rocket Warehouse
+is located. The southeast islands make up
+Memorial Pillar
+.
+Water Labyrinth
+,
+Resort Gorgeous
+, and
+Lost Cave
+can be found to the north.
+Five Isle Meadow
+Five Isle Meadow
+is a short path just outside the town of
+Five Island
+. The
+Rocket Warehouse
+stands in the middle of the area. Examine the door to enter the two passwords and gain entry.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+1536
+Rattata
+♂
+Lv.
+48
+No item
+Grimer
+♂
+Lv.
+48
+No item
+Muk
+♂
+Lv.
+48
+No item
+Team Rocket Grunt
+Reward:
+$
+1536
+Ekans
+♂
+Lv.
+48
+No item
+Gloom
+♂
+Lv.
+48
+No item
+Gloom
+♂
+Lv.
+48
+No item
+Team Rocket Grunt
+Reward:
+$
+1568
+Koffing
+♂
+Lv.
+49
+No item
+Weezing
+♂
+Lv.
+49
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sentret
+FR
+LG
+Grass
+10, 15
+30%
+Pidgey
+FR
+LG
+Grass
+44
+20%
+Pidgeotto
+FR
+LG
+Grass
+48, 50
+15%
+Hoppip
+FR
+LG
+Grass
+10, 15
+15%
+Meowth
+FR
+LG
+Grass
+41
+10%
+Persian
+FR
+LG
+Grass
+47, 50
+5%
+Psyduck
+FR
+LG
+Grass
+41
+5%
+Slowpoke
+FR
+LG
+Grass
+41
+5%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+65%
+Hoppip
+FR
+LG
+Surfing
+5-15
+30%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+North of the warehouse, in a small clearing (requires
+Cut
+)
+FR
+LG
+PP Up
+Southwest of the warehouse (requires
+Surf
+)
+FR
+LG
+Rocket Warehouse
+The
+Rocket Warehouse
+is
+Team Rocket
+'s base of operations in the
+Sevii Islands
+. Like the
+Rocket Hideout
+in
+Celadon City
+, the building uses a maze of
+spinner tiles
+to thwart any intruders.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+1568
+Houndour
+♂
+Lv.
+49
+No item
+Houndour
+♂
+Lv.
+49
+No item
+Team Rocket Grunt
+Reward:
+$
+1536
+Machop
+♂
+Lv.
+48
+No item
+Machop
+♂
+Lv.
+48
+No item
+Machoke
+♂
+Lv.
+48
+No item
+Team Rocket Grunt
+Reward:
+$
+1568
+Hypno
+♂
+Lv.
+49
+No item
+Hypno
+♂
+Lv.
+49
+No item
+Items
+Item
+Location
+Games
+Up-Grade
+Northwest room
+FR
+LG
+Pearl
+West-central edge of the maze
+FR
+LG
+Net Ball
+In a lone box just west of the maze's center
+(hidden)
+FR
+LG
+Big Pearl
+South-central edge of the maze
+FR
+LG
+TM36
+(
+Sludge Bomb
+)
+North-central room, on the table
+FR
+LG
+Sapphire
+Northeast room; from
+Gideon
+, after defeating him
+FR
+LG
+Nest Ball
+Northeast room, on the box
+(hidden)
+FR
+LG
+Spinner maze
+Enter the maze of
+spinner tiles
+to reach the stopper tile in the southwest corner. Walk carefully northeastward and step on the spinner with the east-facing arrow; this leads to a stopper tile in the north-central part of the maze. Go east and step on the row of spinners leading south to reach another stopper tile in the southwest corner. Follow the path to reach a
+Pearl
+near the west wall. Take the north-facing row of spinners to the northwest room; pick up the
+Up-Grade
+and battle the female Rocket Grunt. On the east side of the northwest room, step on the western spinner tile to stop near the maze entrance in the southeast. From here, you can detour southward to reach a
+Big Pearl
+, or continue northward to battle the next Rocket Grunt. Take the spinner tile two steps to the west of him to reach the middle of the maze. Go northwest to the lone cardboard box, then walk northeastward to the north-central room. Pick up
+TM36
+(
+Sludge Bomb
+) from the table, then head south. Battle the third Rocket Grunt to the south to exit the maze.
+Southeast room
+Next, battle the female Rocket Admin near the front entrance.
+Team Rocket
+Admin
+Rocket Warehouse
+FireRed and LeafGreen
+Reward:
+$
+1728
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Muk
+♂
+Lv.
+52
+Rock Tomb
+Rock
+--
+Minimize
+Normal
+--
+Sludge Bomb
+Poison
+--
+Screech
+Normal
+--
+Type:
+Poison
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arbok
+♂
+Lv.
+53
+Sludge Bomb
+Poison
+--
+Earthquake
+Ground
+--
+Iron Tail
+Steel
+--
+Bite
+Dark
+--
+Types:
+Grass
+Poison
+Ability:
+Chlorophyll
+Held item:
+None
+Vileplume
+♂
+Lv.
+54
+Stun Spore
+Grass
+--
+Giga Drain
+Grass
+--
+Sludge Bomb
+Poison
+--
+Sleep Powder
+Grass
+--
+She had always followed
+Giovanni
+'s orders, not caring if they were right or wrong, but has a change of heart after losing to you. She uses the machine next to her to reverse the two eastern spinner tiles. This creates a shortcut to bypass the maze, giving you a chance to visit the Pokémon Center before taking on the last few battles.
+East-central room
+The final Rocket Admin accuses you of spreading lies about
+Team Rocket
+disbanding to create confusion in their ranks. He aims to put a stop to this.
+Team Rocket
+Admin
+Rocket Warehouse
+FireRed and LeafGreen
+Reward:
+$
+1760
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+53
+Shadow Ball
+Ghost
+--
+Sludge Bomb
+Poison
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Weezing
+♂
+Lv.
+54
+Thunderbolt
+Electric
+--
+Shadow Ball
+Ghost
+--
+Explosion
+Normal
+--
+Sludge Bomb
+Poison
+--
+Types:
+Dark
+Fire
+Ability:
+Early Bird
+Held item:
+None
+Houndoom
+♂
+Lv.
+55
+Flamethrower
+Fire
+--
+Crunch
+Dark
+--
+Shadow Ball
+Ghost
+--
+Iron Tail
+Steel
+--
+After his defeat, he notices the
+Earth Badge
+that you won from
+Giovanni
+. Realizing that Giovanni has gone underground and
+Team Rocket
+in
+Kanto
+is finished, he admits defeat for their branch in the
+Sevii Islands
+, as well. He states his intention for the group to abandon the warehouse, but vows to find Giovanni and resurrect Team Rocket before he and the others flee the building.
+Northeast room
+The Scientist
+who stole the
+Sapphire
+can be found in the northeast room. He was nearly able to sell the gemstone to
+Team Rocket
+for a high price, but the deal fell apart when you defeated the group. He is out for revenge and draws you into battle.
+Scientist
+Gideon
+Rocket Warehouse
+FireRed and LeafGreen
+Reward:
+$
+2208
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Voltorb
+Lv.
+46
+Swift
+Normal
+--
+Screech
+Normal
+--
+Spark
+Electric
+--
+SonicBoom
+Normal
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Electrode
+Lv.
+46
+Spark
+Electric
+--
+SonicBoom
+Normal
+--
+Screech
+Normal
+--
+Charge
+Electric
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnemite
+Lv.
+46
+Screech
+Normal
+--
+Swift
+Normal
+--
+Spark
+Electric
+--
+Thunder Wave
+Electric
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magneton
+Lv.
+46
+Tri Attack
+Normal
+--
+Spark
+Electric
+--
+Thunder Wave
+Electric
+--
+SonicBoom
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Trace
+Held item:
+None
+Porygon
+Lv.
+46
+Tri Attack
+Normal
+--
+Conversion
+Normal
+--
+Recover
+Normal
+--
+Psybeam
+Psychic
+--
+Gideon is not interested in the
+Sapphire
+if he cannot sell it, and finally gives up the gemstone. Deliver this to
+Celio
+on
+One Island
+and his work on the Network Machine will be complete. This enables Trainers to battle and trade with others in the distant
+Hoenn
+and
+Orre
+regions.
+Memorial Pillar
+Memorial Pillar
+is an area of ocean to the southeast of
+Five Isle Meadow
+that includes
+Five Island
+'s two southernmost islets.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Milo
+Reward:
+$
+1176
+Pidgey
+♂
+Lv.
+47
+No item
+Pidgeotto
+♂
+Lv.
+49
+No item
+Bird Keeper
+Chaz
+Reward:
+$
+1176
+Spearow
+♂
+Lv.
+47
+No item
+Fearow
+♂
+Lv.
+49
+No item
+Bird Keeper
+Harold
+Reward:
+$
+1176
+Hoothoot
+♂
+Lv.
+47
+No item
+Noctowl
+♂
+Lv.
+49
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Hoppip
+FR
+LG
+Grass
+6, 8, 10, 12, 14, 16
+100%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+65%
+Hoppip
+FR
+LG
+Surfing
+5-15
+30%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Razz Berry
+Northern island; east-southeast of Bird Keeper Milo
+(hidden)
+FR
+LG
+Sitrus Berry
+Northern island; southeast of Bird Keeper Chaz
+(hidden)
+FR
+LG
+Bluk Berry
+Northern island; south of Bird Keeper Chaz
+(hidden)
+FR
+LG
+TM42
+(
+Facade
+)
+Southern island; from Tectonix's grieving Trainer, after leaving a
+Lemonade
+at the memorial
+FR
+LG
+Metal Coat
+Southern island; grassy area southwest of the memorial
+FR
+LG
+Big Pearl
+Southern island; on the southwest beach
+(hidden
+recurring item
+; group C)
+FR
+LG
+A Tribute for Tectonix
+The southern island serves as a gravesite for an
+Onix
+,
+nicknamed
+Tectonix by its loving Trainer. The memorial itself is a large rock pillar shaped like an Onix's tail. Its Trainer can be found here, spending time with his dearly departed Pokémon and cleaning the memorial. If you examine the pillar and leave a can of Tectonix's favorite drink,
+Lemonade
+, the man thanks you for your kindness with
+TM42
+(
+Facade
+).
+Fly
+back to the town of
+Five Island
+and be sure to make room in your party before heading north.
+Water Labyrinth
+The
+Water Labyrinth
+is a small patch of ocean that leads north from the town of
+Five Island
+. Much of the area is comprised of a maze of rocks jutting up out of the water.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Alize
+Reward:
+$
+1344
+Pikachu
+♂
+Lv.
+48
+No item
+Clefairy
+♀
+Lv.
+48
+No item
+Marill
+♂
+Lv.
+48
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+65%
+Hoppip
+FR
+LG
+Surfing
+5-15
+30%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Gift Pokémon
+Togepi
+FR
+LG
+Egg
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+A Joyful Gift
+The tiny islet has only Pokémon Breeder Alize and an elderly Gentleman. Speak to him to receive a
+Pokémon Egg
+, if the lead Pokémon in your party has maximum
+friendship
+. The Egg will eventually hatch into a
+Togepi
+.
+Resort Gorgeous
+Resort Gorgeous
+is a small patch of ocean that holds several smaller islands at the northernmost extent of
+Five Island
+. The area is named for the resort on the middle island.
+Lost Cave
+is located to the east.
+Trainers
+Trainer
+Pokémon
+Painter
+Rayna
+Reward:
+$
+800
+Smeargle
+♂
+Lv.
+50
+No item
+Lady
+Jacki
+Reward:
+$
+10000
+Hoppip
+♂
+Lv.
+48
+Stardust
+Skiploom
+♂
+Lv.
+50
+Stardust
+Painter
+Celina
+Reward:
+$
+800
+Smeargle
+♂
+Lv.
+50
+No item
+Lady
+Gillian
+Reward:
+$
+9800
+Mareep
+♂
+Lv.
+47
+Stardust
+Mareep
+♂
+Lv.
+48
+Stardust
+Flaaffy
+♂
+Lv.
+49
+Nugget
+Youngster
+Destin
+Reward:
+$
+768
+Raticate
+♂
+Lv.
+48
+No item
+Pidgeotto
+♂
+Lv.
+48
+No item
+Painter
+Daisy
+Reward:
+$
+800
+Smeargle
+♂
+Lv.
+50
+No item
+Swimmer♂
+Toby
+Reward:
+$
+192
+Poliwhirl
+♂
+Lv.
+48
+No item
+Tentacool
+♂
+Lv.
+48
+No item
+Tentacruel
+♂
+Lv.
+48
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+65%
+Hoppip
+FR
+LG
+Surfing
+5-15
+30%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nest Ball
+Western island, west of the rock
+(hidden
+recurring item
+; group C)
+FR
+LG
+Stardust
+×2
+Center island, northwest area
+(hidden
+recurring item
+; group B)
+Center island, southwest area
+(hidden
+recurring item
+; group B)
+FR
+LG
+Star Piece
+South of Selphy's house
+(hidden
+recurring item
+; group C)
+FR
+LG
+Resort Gorgeous
+The resort itself belongs to a wealthy Pokémon Trainer named
+Selphy
+. However, there does not appear to be anyone home at the moment.
+Lost Cave
+Lost Cave
+is a tiny island cave always covered in fog from the ocean. Because these conditions obscure the cave's
+layout
+, visitors are easily disoriented and often find themselves back at the entrance.
+Trainers
+Trainer
+Pokémon
+Ruin Maniac
+Lawson
+Reward:
+$
+2352
+Onix
+♂
+Lv.
+47
+No item
+Graveler
+♂
+Lv.
+48
+No item
+Marowak
+♂
+Lv.
+49
+No item
+Psychic
+Laura
+Reward:
+$
+980
+Natu
+♀
+Lv.
+48
+No item
+Natu
+♀
+Lv.
+48
+No item
+Xatu
+♀
+Lv.
+49
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Haunter
+FR
+LG
+Cave
+44, 46, 48, 50, 52
+30%
+Gastly
+FR
+LG
+Cave
+38, 40
+25%
+Zubat
+FR
+LG
+Cave
+37
+20%
+Golbat
+FR
+LG
+Cave
+41, 43
+20%
+Murkrow
+FR
+LG
+Cave
+22
+5%
+Misdreavus
+FR
+LG
+Cave
+22
+5%
+Item room
+Haunter
+FR
+LG
+Cave
+44, 46, 48, 50, 52
+30%
+Zubat
+FR
+LG
+Cave
+37
+20%
+Gastly
+FR
+LG
+Cave
+40
+20%
+Murkrow
+FR
+LG
+Cave
+15, 20, 22
+20%
+Misdreavus
+FR
+LG
+Cave
+15, 20, 22
+20%
+Golbat
+FR
+LG
+Cave
+41
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Starting from the room with Ruin Maniac Lawson
+Lax Incense
+East, south
+FR
+LG
+Sea Incense
+East, north, south, north
+FR
+LG
+Max Revive
+East, north, south, south, east, east
+FR
+LG
+Rare Candy
+East, north, south, south, east, west, south, west
+FR
+LG
+Later visit
+Silk Scarf
+East, north, south, south, east, west, south, east, north
+(Chamber where Selphy is found)
+FR
+LG
+1F
+To explore the cave, visitors must take note of the quantity of rocks found in each chamber. This number indicates the path forward by comparing it to the position on a clock. Traveling in the opposite direction will lead to a dead-end room with an item. To begin, climb down the ladder from the entrance to reach the lower floor.
+B1F
+Battle Ruin Maniac Dawson in the first chamber. There are three rocks here, so go through the cave opening to the east. The second chamber has twelve rocks; the south exit leads to a
+Lax Incense
+while the north exit leads to the next chamber. Six rocks in the third chamber means that you must turn around and take the south exit that you just passed through. There are six rocks in the fourth chamber as well; the north exit leads to a
+Sea Incense
+while the south exit leads to the next chamber. Go east in the fifth chamber. The sixth chamber has nine rocks; the east exit leads to a
+Max Revive
+while the west exit lets you continue on. Go south in the seventh chamber. In the eighth chamber, the west exit leads to a
+Rare Candy
+while the east exit leads forward. Twelve rocks in the ninth chamber points to the north exit.
+Lady
+Selphy
+can be found in the final chamber. She is surprised by your presence, and draws you into battle.
+Lady
+Selphy
+Lost Cave
+FireRed and LeafGreen
+Reward:
+$
+9800
+Type:
+Normal
+Unknown
+Ability:
+Limber
+Held item:
+Nugget
+Persian
+♂
+Lv.
+49
+Taunt
+Dark
+--
+Bite
+Dark
+--
+Torment
+Dark
+--
+Pay Day
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Limber
+Held item:
+Nugget
+Persian
+♂
+Lv.
+49
+Taunt
+Dark
+--
+Scratch
+Normal
+--
+Torment
+Dark
+--
+Pay Day
+Normal
+--
+Selphy is bored and fatigued from getting lost in the cave, and asks that you help her to her home. She automatically travels with you to the front door of her resort, where she dismisses you.
+Resort Gorgeous
+Now that she is back home,
+Selphy
+will occasionally want to see a certain species of Pokémon. If you present the correct Pokémon to her, she will have her butler, Sebastian, give you a random item as a reward. She will grow bored if you take too long (more than 250 steps taken), and wish to see a different Pokémon instead. The requested Pokémon may be any species that you have encountered.
+Items
+Item
+Location
+Games
+Luxury Ball
+Reward from Selphy (
+70% chance
+)
+FR
+LG
+Nugget
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Pearl
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Big Pearl
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Stardust
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Star Piece
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Rare Candy
+Reward from Selphy (
+5% chance
+)
+FR
+LG
+Seven Island
+Seven Island
+Trainer Tower, 1F
+Canyon Entrance
+Sevault Canyon
+Seven Island
+is the southernmost of the
+Sevii Islands
+and the farthest from mainland
+Kanto
+. Its remote location has left the island virtually untouched, making it difficult to hike across. The town of
+Seven Island
+lies across a bridge from the main island, with a
+battle facility
+known as
+Trainer Tower
+farther to the north. South of town, the
+Canyon Entrance
+and
+Sevault Canyon
+open up to the sea, where the
+Tanoby Ruins
+are located.
+Seven Island (Town)
+The town of
+Seven Island
+holds little more than a Pokémon Center and Poké Mart. On the main bridge, an Ace Trainer offers to teach the move
+Swords Dance
+to a compatible Pokémon.
+Trainer Tower
+Trainer Tower
+stretches from the north side of
+town
+to the the northernmost island, where the
+battle facility
+that gave the area its name stands tall.
+Trainers
+Trainer
+Pokémon
+Psychic
+Rodette
+Reward:
+$
+1000
+Natu
+♀
+Lv.
+48
+No item
+Drowzee
+♀
+Lv.
+48
+No item
+Hypno
+♀
+Lv.
+50
+No item
+Psychic
+Dario
+Reward:
+$
+1040
+Girafarig
+♂
+Lv.
+52
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacool
+FR
+LG
+Surfing
+5-35
+90%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Mantine
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nanab Berry
+Southeast of Psychic Rodette, just north of town
+(hidden)
+FR
+LG
+Pearl
+On the beach, three steps west of the sign
+(hidden
+recurring item
+; group B)
+FR
+LG
+Big Pearl
+On the beach, north of the sign
+(hidden
+recurring item
+; group C)
+FR
+LG
+Trainer Tower
+Trainer Tower sets a goal for challengers of battling through eight floors of opponents to reach the rooftop as quickly as possible. There are four different types of battle in which challengers may participate:
+Single Mode
+,
+Double Mode
+,
+Knockout Mode
+, and
+Mixed Mode
+. Beating the record time for each mode earns a challenger a rare item, which can be obtained repeatedly. Unlike most battle facilities, a challenger's Pokémon are not healed between battles, though recovery items like
+Revives
+and
+Potions
+may be used. If necessary, challengers can return to the entrance to heal their party at the Pokémon Center, though this will waste more time in comparison to using items. Battles do not award
+experience
+or money, and the levels of the opposing Trainers' Pokémon match that of the player's highest-leveled party Pokémon.
+Items
+Item
+Location
+Games
+Up-Grade
+Reward for clearing Single Mode (repeatable)
+FR
+LG
+Dragon Scale
+Reward for clearing Double Mode (repeatable)
+FR
+LG
+Metal Coat
+Reward for clearing Knockout Mode (repeatable)
+FR
+LG
+King's Rock
+Reward for clearing Mixed Mode (repeatable)
+FR
+LG
+Canyon Entrance
+The
+Canyon Entrance
+is a small stretch of land that leads southward from the town of
+Seven Island
+to
+Sevault Canyon
+. The hilly landscape gives Trainers an idea of the harsh terrain up ahead.
+Trainers
+Trainer
+Pokémon
+Aroma Lady
+Miah
+Reward:
+$
+1400
+Bellossom
+♀
+Lv.
+50
+No item
+Bellossom
+♀
+Lv.
+50
+No item
+Juggler
+Mason
+Reward:
+$
+1880
+Voltorb
+Lv.
+47
+No item
+Voltorb
+Lv.
+47
+No item
+Pineco
+♂
+Lv.
+47
+No item
+Pineco
+♂
+Lv.
+47
+No item
+Pokémon Ranger
+Nicolas
+Reward:
+$
+1836
+Weepinbell
+♂
+Lv.
+51
+No item
+Victreebel
+♂
+Lv.
+51
+No item
+Pokémon Ranger
+Madeline
+Reward:
+$
+1836
+Gloom
+♀
+Lv.
+51
+No item
+Vileplume
+♀
+Lv.
+51
+No item
+Young Couple
+Eve & Jon
+Reward:
+$
+2800
+Golduck
+♂
+Lv.
+50
+No item
+Psyduck
+♂
+Lv.
+50
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sentret
+FR
+LG
+Grass
+10, 15
+30%
+Spearow
+FR
+LG
+Grass
+44
+20%
+Fearow
+FR
+LG
+Grass
+48, 50
+15%
+Phanpy
+FR
+LG
+Grass
+10, 15
+15%
+Meowth
+FR
+LG
+Grass
+41
+10%
+Persian
+FR
+LG
+Grass
+47, 50
+5%
+Psyduck
+FR
+LG
+Grass
+41
+5%
+Slowpoke
+FR
+LG
+Grass
+41
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rawst Berry
+Southwest corner, northeast of Young Couple Eve & Jon
+(hidden)
+FR
+LG
+Sevault Canyon
+Sevault Canyon
+is a long, narrow valley leading southward to the ocean. The canyon seems to serve as a training ground for elite Trainers, while being guarded by equally skilled Pokémon Rangers. A small cave known as
+Tanoby Key
+is located on the valley's north side. The
+Tanoby Ruins
+lie to the south.
+Trainers
+Trainer
+Pokémon
+Cool Couple
+Lex & Nya
+Reward:
+$
+2496
+Tauros
+♂
+Lv.
+52
+No item
+Miltank
+♀
+Lv.
+52
+No item
+Tamer
+Evan
+Reward:
+$
+1960
+Sandslash
+♂
+Lv.
+48
+No item
+Lickitung
+♂
+Lv.
+48
+No item
+Ursaring
+♂
+Lv.
+49
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+1764
+Tangela
+♂
+Lv.
+49
+No item
+Exeggcute
+♂
+Lv.
+49
+No item
+Exeggutor
+♂
+Lv.
+49
+No item
+Pokémon Ranger
+Katelyn
+Reward:
+$
+1872
+Chansey
+♀
+Lv.
+52
+No item
+Crush Girl
+Cyndy
+Reward:
+$
+1152
+Primeape
+♂
+Lv.
+48
+Black Belt
+Hitmontop
+♂
+Lv.
+48
+Black Belt
+Machoke
+♂
+Lv.
+48
+Black Belt
+Cooltrainer
+Leroy
+Reward:
+$
+1800
+Rhydon
+♂
+Lv.
+47
+No item
+Slowbro
+♂
+Lv.
+48
+No item
+Machoke
+♂
+Lv.
+48
+No item
+Kangaskhan
+♀
+Lv.
+47
+No item
+Ursaring
+♂
+Lv.
+50
+No item
+Cooltrainer
+Michelle
+Reward:
+$
+1800
+Persian
+♀
+Lv.
+47
+No item
+Dewgong
+♀
+Lv.
+47
+No item
+Ninetales
+♀
+Lv.
+48
+No item
+Rapidash
+♀
+Lv.
+48
+No item
+Girafarig
+♀
+Lv.
+50
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+FR
+LG
+Grass
+46
+20%
+Phanpy
+FR
+LG
+Grass
+15
+20%
+Fearow
+FR
+LG
+Grass
+50
+15%
+Fearow
+FR
+LG
+Grass
+50
+10%
+Meowth
+FR
+LG
+Grass
+43
+10%
+Cubone
+FR
+LG
+Grass
+46
+10%
+Marowak
+FR
+LG
+Grass
+52
+10%
+Persian
+FR
+LG
+Grass
+49, 52
+5%
+Onix
+FR
+LG
+Grass
+54
+5%
+Skarmory
+FR
+LG
+Grass
+30
+5%
+Larvitar
+FR
+LG
+Grass
+15, 20
+5%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+25-40
+65%
+Graveler
+FR
+LG
+Rock Smash
+30-50
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+Southeast of the
+Tanoby Key
+entrance
+FR
+LG
+Max Elixir
+Tall grass patch halfway through the area, southwest corner
+FR
+LG
+King's Rock
+East-central area, behind the three large rocks (requires
+Strength
+,
+Rock Smash
+)
+FR
+LG
+Lucky Punch
+In the lone house, on the table
+FR
+LG
+Cheri Berry
+Five steps south of the lone house
+(hidden)
+FR
+LG
+Tanoby Key
+Tanoby Key
+The
+Tanoby Key
+is a small cave in the northwest part of the canyon. The chamber houses seven pits in the earth, along with several boulders.
+Trainer Tips!
+1.
+Use
+Strength
+to move the north-central boulder (↑4) northward to the first pit.
+2.
+Move the northwest boulder (→1, ↑2, ←3) to the northwest pit, and the northeast boulder (←1, ↑2, →3) to the northeast pit.
+3.
+Move the southwest boulder (←1, ↑2) to the southwest pit, and the southeast boulder (→1, ↑2) to the southeast pit.
+4.
+Move the remaining southwest boulder (↑3, ←1) to the west-central pit, and the remaining southeast boulder (↑3, →1) to the east-central pit.
+Once each pit is occupied by a boulder, the earth shakes as a mysterious rumble echoes somewhere far away.
+The Chansey Dance
+The lone building in
+Sevault Canyon
+belongs to a man and his
+Chansey
+. Speak to him to learn that the man loves to dance, and even offers you a chance to join in. If you accept his offer, dancing the Chansey Dance heals all of your Pokémon to full health. Lucky!
+Tanoby Ruins
+The
+Tanoby Ruins
+consist of a group of seven islets scattered near the southern edge of
+Seven Island
+. Each of these small islands holds one of the
+Tanoby Chambers
+. According to a Ruin Maniac, these ruins have been around for more than 1,500 years.
+Trainers
+Trainer
+Pokémon
+Requires Surf
+Ruin Maniac
+Brandon
+Reward:
+$
+2400
+Onix
+♂
+Lv.
+50
+No item
+Gentleman
+Clifford
+Reward:
+$
+3528
+Marowak
+♂
+Lv.
+49
+No item
+Golduck
+♂
+Lv.
+49
+No item
+Painter
+Edna
+Reward:
+$
+800
+Smeargle
+♂
+Lv.
+50
+No item
+Ruin Maniac
+Benjamin
+Reward:
+$
+2304
+Geodude
+♂
+Lv.
+48
+No item
+Graveler
+♂
+Lv.
+48
+No item
+Graveler
+♂
+Lv.
+48
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacool
+FR
+LG
+Surfing
+5-35
+90%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Mantine
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Qwilfish
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Remoraid
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×4
+West of Sevault Canyon; on the northwesternmost islet
+(hidden
+recurring item
+; group C)
+(requires
+Surf
+)
+West of Sevault Canyon; on the middle islet
+(hidden
+recurring item
+; group C)
+(requires
+Surf
+)
+East of Sevault Canyon; on the middle islet
+(hidden
+recurring item
+; group C)
+(requires
+Surf
+)
+East of Sevault Canyon; on the eastern most islet
+(hidden
+recurring item
+; group C)
+(requires
+Surf
+)
+FR
+LG
+Tanoby Chambers
+The
+Tanoby Chambers
+are seven ruined structures from a bygone era. The intention behind their creation has long been lost to history. They may have some connection to the earth as all are named after plants; from east to west: Monean, Liptoo, Weepth, Dilford, Scufib, Rixy, and Viapois. Clearing the earthen puzzle in
+Tanoby Key
+reveals their true purpose, serving as a home to the
+Unown
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Monean Chamber
+Unown
+FR
+LG
+Cave
+25
+99%
+Unown
+FR
+LG
+Cave
+25
+1%
+Liptoo Chamber
+Unown
+FR
+LG
+Cave
+25
+50%
+Unown
+FR
+LG
+Cave
+25
+30%
+Unown
+FR
+LG
+Cave
+25
+14%
+Unown
+FR
+LG
+Cave
+25
+5%
+Unown
+FR
+LG
+Cave
+25
+1%
+Weepth Chamber
+Unown
+FR
+LG
+Cave
+25
+60%
+Unown
+FR
+LG
+Cave
+25
+30%
+Unown
+FR
+LG
+Cave
+25
+8%
+Unown
+FR
+LG
+Cave
+25
+2%
+Dilford Chamber
+Unown
+FR
+LG
+Cave
+25
+40%
+Unown
+FR
+LG
+Cave
+25
+20%
+Unown
+FR
+LG
+Cave
+25
+20%
+Unown
+FR
+LG
+Cave
+25
+14%
+Unown
+FR
+LG
+Cave
+25
+6%
+Scufib Chamber
+Unown
+FR
+LG
+Cave
+25
+40%
+Unown
+FR
+LG
+Cave
+25
+25%
+Unown
+FR
+LG
+Cave
+25
+20%
+Unown
+FR
+LG
+Cave
+25
+13%
+Unown
+FR
+LG
+Cave
+25
+2%
+Rixy Chamber
+Unown
+FR
+LG
+Cave
+25
+50%
+Unown
+FR
+LG
+Cave
+25
+30%
+Unown
+FR
+LG
+Cave
+25
+10%
+Unown
+FR
+LG
+Cave
+25
+8%
+Unown
+FR
+LG
+Cave
+25
+2%
+Viapois Chamber
+Unown
+FR
+LG
+Cave
+25
+99%
+Unown
+FR
+LG
+Cave
+25
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+← Part 18
+Four Island, Six Island
+FireRed and LeafGreen
+walkthrough
+Cerulean Cave, The Pokémon League: Round 2
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

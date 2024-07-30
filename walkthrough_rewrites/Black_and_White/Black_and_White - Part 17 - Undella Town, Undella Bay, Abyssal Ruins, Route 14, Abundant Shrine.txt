@@ -1,0 +1,37 @@
+Game: Black_and_White
+Part: 17
+Keywords: Undella Town, Undella Bay, Abyssal Ruins, Route 14, Abundant Shrine
+
+**Part 17 Walkthrough: Undella Town, Undella Bay, Abyssal Ruins, Route 14, Abundant Shrine**
+
+### Undella Town
+- **Final HM:** Speak to the girl on the plateau west of the Pokémon Center to receive HM06 (Dive).
+- **Cynthia Battle:** In the villa west of the Pokémon Center, Cynthia (Lv. 75 Pokémon) will battle you. Train your Pokémon to counter her team's weaknesses, especially against Spiritomb and Eelektross, which are immune to many types.
+- **Battle The Riches:** Challenge members of The Riches family at their villa for high rewards. Defeating all six members will yield significant prize money, especially if you use an Amulet Coin.
+
+### Undella Bay
+- **Diving:** Use Dive at darker water spots to explore the Abyssal Ruins.
+- **Pokémon Available:** 
+  - **Surfing:** Wingull, Mantyke, Pelipper
+  - **Fishing:** Remoraid, Shellder, Luvdisc
+- **Items:** Stardust and Pearl can be found on the western shore.
+
+### Abyssal Ruins
+- Requires Dive, Surf, Strength, and Flash. 
+- **Explore:**
+  - **1F:** Collect various Plates including Dread Plate and Earth Plate.
+  - **2F:** Follow the path and use Flash to move pillars.
+  - **3F & 4F:** Retrieve additional Relics including the Relic Crown.
+- **Treasure Value:** All relics can be sold for approximately $1,706,000.
+
+### Route 14
+- **Access:** Use Surf and Waterfall to navigate.
+- **Trainers:** Includes Fisherman Sid and Ace Trainers with Pokémon around levels 62-68.
+- **Items:** Find an Ultra Ball on a cliff, and TM08 (Bulk Up) from Giallo.
+
+### Abundant Shrine
+- **Trainers:** Face Youngster Wes and Lass Lurleen, both with Pokémon around level 61-63.
+- **Items:** TM35 (Flamethrower) and Rare Candy are available.
+- **Legendary Encounter:** If you have Tornadus or Thundurus, bring them to the shrine to summon Landorus (Lv. 70). Use Water-type moves first, then weaken it with Fighting, Poison, or Bug moves, and catch it with Ultra Balls.
+
+This section covers key battles, item locations, and strategies for progressing through these areas of the game.

@@ -1,0 +1,65 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 10
+Keywords: Route 111 (Desert), Petalburg Gym, Route 118, Southern Island
+
+# Pokémon Omega Ruby and Alpha Sapphire Walkthrough: Part 10
+
+## Route 111 (Desert)
+- **Go-Goggles** allow access to the desert.
+- **Treasure Locations:**
+  - **Stardust** ×2: Hidden northeast of the southern entrance.
+  - **Root/Claw Fossil**: Northeast corner (choose one, the other sinks).
+  - **PP Up, Protein, Revive**: Various hidden spots.
+  - **TM37 (Sandstorm)**: Southernmost point.
+  
+- **Trainers**:
+  - **Camper Cliff**: Sandslash (Lv. 26)
+  - **Ruin Maniac Dusty**: Baltoy (Lv. 24), rematch after badges.
+
+## Back to Petalburg City
+- Return options:
+  - Backtrack through Mt. Chimney or head south to Mauville, then west to Verdanturf.
+- Revive Fossil Pokémon at **Devon Corporation** in Rustboro.
+
+## Petalburg City
+### Petalburg Gym
+- **Leader**: Norman (Normal-type).
+- **Strategy**: Use Fighting-type Pokémon. Defeat at least 3 Gym Trainers.
+- **Norman’s Pokémon**:
+  - Slaking (Lv. 28), Vigoroth (Lv. 28), Slaking (Lv. 30). Use Protect against Vigoroth and capitalize on Slaking's Truant ability.
+
+- **Rewards**:
+  - **Balance Badge**: Obedience for Pokémon up to Level 60, ability to use Surf.
+  - **TM67 (Retaliate)**.
+
+## Route 118
+- **New Pokémon**: Electric-types valuable for upcoming Gym.
+- **Trainers**:
+  - Various trainers including Aroma Lady Rose and Fisherman Barny (Carvanha, Gyarados).
+  
+- **Items**:
+  - **Heart Scale**: Hidden on the beach.
+  - **Good Rod**: From a fisherman.
+
+### Key Events
+- **Surfing**: Use Surf to cross bodies of water.
+- **Gabby and Ty**: Battle them for a Double Battle challenge.
+- **Meet Steven**: Encounter legendary Pokémon Latias/Latios and prepare for Southern Island.
+
+## Southern Island
+- **Legendary Pokémon**: Latias (OR) or Latios (AS) available.
+- **Items**:
+  - **Mega Bracelet**: From Steven after defeating Team Magma/Aqua.
+  - **Latiosite/Latiasite**: Held by the respective legendary Pokémon.
+  
+### Battles
+- **Team Magma/Aqua Admins**: Engage in a Multi Battle alongside Steven.
+  
+### Aftermath
+- Team Magma/Aqua will flee, and you get to catch the legendary Pokémon. Steven gives you the **Mega Bracelet** allowing Mega Evolution.
+
+To continue your journey, head back to **Route 118**. If you have an **Eon Ticket**, you can catch the other Eon Pokémon.
+
+---
+
+This concise guide retains essential information on key instructions, item locations, and battle strategies critical to progressing in Pokémon Omega Ruby and Alpha Sapphire.

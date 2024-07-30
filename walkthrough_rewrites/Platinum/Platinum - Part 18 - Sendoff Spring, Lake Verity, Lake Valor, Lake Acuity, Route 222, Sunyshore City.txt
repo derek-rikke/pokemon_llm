@@ -1,0 +1,46 @@
+Game: Platinum
+Part: 18
+Keywords: Sendoff Spring, Lake Verity, Lake Valor, Lake Acuity, Route 222, Sunyshore City
+
+**Part 18 Walkthrough: Sendoff Spring to Sunyshore City**
+
+1. **Sendoff Spring**
+   - After returning, visit Sandgem Town, as directed by Cynthia.
+   - If you lack Fly, head south to Spring Path, then to Route 214, and reach Veilstone City for necessary Pokémon.
+
+2. **Sandgem Town**
+   - At Professor Rowan's lab, he advises heading to Sunyshore City for the final Gym and eventually the Elite Four.
+
+3. **Catching the Lake Guardians**
+   - The Lake Guardians (Azelf, Mesprit, Uxie) are necessary for the National Pokédex. All are Level 50.
+   - Recommended strategy: Use a Steel-type Pokémon and False Swipe or a sleep-inducing move. Bring Dusk Balls (40 recommended) or Timer Balls.
+   - Use HM Surf to navigate to the lakes.
+
+4. **Lake Verity**
+   - Surf to the southwestern corner for TM38 (Fire Blast).
+   - Encounter Mesprit, which will flee; use the Marking Map to track it.
+   - Catching strategy: Paralyze or sleep Mesprit, then weaken it.
+
+5. **Lake Valor**
+   - Surf to the southeastern corner for TM25 (Thunder).
+   - Save before battling Azelf. Use Steel-types to resist its attacks and catch it with Dusk Balls.
+
+6. **Lake Acuity**
+   - Surf to the northeastern corner for TM14 (Blizzard).
+   - Battle Uxie, focusing on using non-super-effective moves to lower its HP. Dusk Balls are optimal for capture.
+
+7. **Route 222**
+   - Move toward Sunyshore City. Key Pokémon include Electabuzz, which can only be found here.
+   - Engage fishermen for potential rare Pokémon, including Feebas needed for the Pokédex.
+   - Collect items like TM56 (Fling) and various berries along the route.
+
+8. **Sunyshore City**
+   - Find Flint of the Elite Four, who mentions Gym Leader Volkner's boredom.
+   - Explore the city; meet Jasmine after defeating Volkner for HM07 (Waterfall).
+   - Visit Sunyshore Market for items and the Effort Ribbon.
+   - The Pokétch developer offers apps based on your Pokémon's Natures.
+
+9. **Vista Lighthouse**
+   - Locate the hidden Zap Plate and speak to Volkner to challenge him in the Gym.
+
+With this information, you can efficiently navigate through the Sendoff Spring to Sunyshore City and prepare for your final Gym battle.

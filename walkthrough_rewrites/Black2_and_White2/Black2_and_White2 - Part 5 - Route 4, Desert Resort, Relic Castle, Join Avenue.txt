@@ -1,0 +1,36 @@
+Game: Black2_and_White2
+Part: 5
+Keywords: Route 4, Desert Resort, Relic Castle, Join Avenue
+
+**Part 5: Route 4, Desert Resort, Relic Castle, Join Avenue**
+
+**Route 4 (B2/W2)**
+- **Bianca**: Receive the **Dowsing MCHN** at Castelia Gate.
+- **Trainers**: Battle various trainers including Pokémon Breeder Irene and Colress.
+  - **Colress Battle**: Defeat him for a **Protein**. He uses Magnemite (Lv. 21) and Klink (Lv. 23).
+- **Items**:
+  - **Mystic Water**: Near the water.
+  - **Wide Lens**: Second floor of the building with the trade.
+  - **TM28 (Dig)**: In sand behind the northwest blue-roofed building.
+  - **Hidden Items**: Check areas around trainers for items like **Hyper Potion** and **Red Shard**.
+
+**Desert Resort**
+- **Nurse Mariah**: Heals Pokémon after defeating her.
+- **Funfest Mission**: Unlock a Funfest mission with Pokémon Ranger.
+- **Items**: Look for hidden items in the sand including **Rawst Berries** and **Stardust**. 
+
+**Relic Castle**
+- **Trainers**: Battle trainers like Psychic Perry and Dua.
+- **Items**: Find **TM39 (Rock Tomb)** and **Heart Scale** in the ruins.
+
+**Join Avenue**
+- **Manager Role**: Accept the role of manager and choose a favorite phrase.
+- **Development**: Invite visitors to establish shops. The avenue develops through communication and recommendations.
+- **Shop Types**: Different shops can be established based on visitors' dreams (e.g., Antique Shop, Beauty Salon).
+- **Popularity**: Recommend shops to increase their popularity and unlock more items.
+
+**Navigation Tips**: 
+- Use the Dowsing MCHN to locate hidden items.
+- Regularly visit Join Avenue to expand its features and offerings. 
+
+Continue to explore and battle trainers to progress in your adventure!

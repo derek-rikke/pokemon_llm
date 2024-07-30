@@ -1,0 +1,966 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_11
+Keywords: Great Marsh, Pastoria Gym, Pastoria City, Route 213-Valor Lakefront
+
+Walkthrough Text:
+Contents
+1
+Great Marsh
+1.1
+Later...
+2
+Pastoria Gym
+3
+3rd Rival Battle
+4
+Route 213-Valor Lakefront
+Great Marsh
+The Great Marsh
+In the northern area of Pastoria City is the
+Great Marsh
+which works the same way as the
+Safari Zone
+from the other regions which you have to pay
+$
+500 to get in. The game played here is the same as the
+Kanto Safari Zone
+except to agitate Pokémon, mud is thrown instead of a rock. Your time in the game is measured by steps, you can only go 500 steps before your time is over. Unlike the Safari Zone, the Great Marsh has a number of Pokémon that rotate between its areas regularly.
+In the entrance building there is a 2/F where for
+$
+100 you can use the binoculars to see a random Pokémon that will appear in one of the six areas in the Marsh. Also the time of day can affect what the binoculars show you. It is recommended to use the binoculars for locating the three rarest Pokémon:
+Croagunk
+,
+Skorupi
+, and
+Carnivine
+since they are rotated to various areas regularly.
+The Great Marsh is divided into six areas that start at the north end and are numbered from left to right. When you start you will be around Areas 5 and 6, and you can use a small train to quickly move to any area you wish by using the yellow boxes near the train. There are also mud areas you have to travel through on foot that can cause you to get stuck in deeper mud and have to wiggle yourself free.
+When you first enter the Great Marsh, talk to the person with green hair you see to the right of the entrance to receive
+HM05
+(
+Defog
+). Also, go to Area 2 and use the
+Dowsing Machine
+near the upper-right corner of the Great Marsh to find a hidden
+Toxic Plate
+.
+Available Pokémon (Anytime)
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+20-30
+8%
+Azurill
+D
+P
+Pt
+Grass
+20-30
+1%
+Marill
+D
+P
+Pt
+Grass
+20-30
+15%
+Wooper
+D
+P
+Pt
+Grass
+20-30
+20%
+Quagsire
+D
+P
+Pt
+Grass
+20-30
+15%
+Bidoof
+D
+P
+Pt
+Grass
+20-30
+1%
+Bibarel
+D
+P
+Pt
+Grass
+20-30
+20%
+Starly
+D
+P
+Pt
+Grass
+9%
+9%
+0%
+Budew
+D
+P
+Pt
+Grass
+10%
+10%
+0%
+Hoothoot
+D
+P
+Pt
+Grass
+20-24
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+26
+0%
+0%
+9%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Gyarados
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+5%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (Rotating)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+D
+P
+Pt
+Grass
+20-26
+10%
+Roselia
+D
+P
+Pt
+Grass
+20-26
+10%
+Staravia
+D
+P
+Pt
+Grass
+20-26
+10%
+Skorupi
+D
+P
+Pt
+Grass
+20-26
+10%
+Croagunk
+D
+P
+Pt
+Grass
+20-26
+10%
+Carnivine
+D
+P
+Pt
+Grass
+20-26
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Items (Area 1)
+Item
+Location
+Games
+Potion
+Near the train stop
+D
+P
+Super Repel
+Northwest of train stop
+D
+P
+Rare Candy
+In the most northwestern corner
+(hidden)
+D
+P
+Items (Area 2)
+Item
+Location
+Games
+Toxic Plate
+In the trees on the Northern edge, directly above the woman with the parasol
+(hidden)
+D
+P
+Great Ball
+East of the train stop
+D
+P
+Items (Area 3)
+Item
+Location
+Games
+Honey
+On the far west side, north of the man who incorrectly describes Bait and Mud
+D
+P
+Ultra Ball
+West of the train stop, about halfway across the area
+(hidden)
+D
+P
+Items (Area 4)
+Item
+Location
+Games
+Poké Ball
+Near train stop
+D
+P
+Super Potion
+East side, above a ledge
+D
+P
+Nugget
+In the trees north-east of the large eastern pond
+(hidden)
+D
+P
+Items (Area 5)
+Item
+Location
+Games
+Antidote
+Near train stop
+D
+P
+Full Heal
+Northwest of the Antidote
+(hidden)
+D
+P
+Items (Area 6)
+Item
+Location
+Games
+HM05
+(
+Defog
+)
+Talk to the boy with green hair when entering the marsh
+D
+P
+Parlyz Heal
+Northeast corner of the pond
+D
+P
+Hyper Potion
+A couple of steps below the Parlyz Heal
+(hidden)
+D
+P
+Later...
+Once you've collected the National Pokédex, you can find some non-regional Pokémon in the Great Marsh such as
+Kangaskhan
+and
+Yanma
+, along with Croagunk and Skorupi's evolved forms
+Toxicroak
+and
+Drapion
+.
+Pastoria Gym
+Heal your Pokémon before entering the Gym.
+You probably don't need extra training -- if you can beat Veilstone Gym, this Gym will not be a big problem. The strongest Pokémon in this Gym is at Level 30, which is the same level as the strongest one in Veilstone Gym, because you can actually challenge this Gym before challenging Veilstone Gym.
+The Pastoria Gym which is located to the southwest of the Pokémon Center, and specializes in
+Water-type
+Pokémon. Bring a collection of
+Electric-type
+and
+Grass-type
+Pokémon, especially since a few of the Water-type Pokémon are part
+Ground-type
+(which harms Electric-type Pokémon and means that Electric-type moves are useless on them) or have an
+Ice-type
+move (which makes it bad for Grass-type Pokémon).
+The puzzle for this Gym is to hit the switch to control the water flow and use the logs at the right height to move along. First travel north, then west to eventually find a yellow switch to hit it. Then ignore the nearby green switch and travel north to reach the platform where you can see the Gym leader
+Crasher Wake
+and on this platform is a fisherman Trainer and a green switch. Press the switch and ignore the nearby yellow switch then travel south then west to find a platform with a sailor and a blue switch. Once the blue switch has been pressed follow the path, ignoring the yellow switch you pressed earlier to press a green switch.
+Then use the stairs pointing south and follow the path to the end to find a yellow switch. This will allow you to use the stairs pointing north and it will lead you to another blue switch. Now you will be able to reach Crasher Wake if you've pressed the switches in the correct order. His strongest Pokémon is
+Floatzel
+which knows how to use
+Ice Fang
+so avoid using a Grass-type Pokémon on it.
+Pastoria Gym
+Trainers
+Trainer
+Pokémon
+Tuber
+Jacky
+クウタ
+Kūta
+Reward:
+$
+104
+Buizel
+Lv.
+26
+No item
+Fisherman
+Walter
+コウスケ
+Kōsuke
+Reward:
+$
+832
+Barboach
+Lv.
+26
+No item
+Sailor
+Damian
+ユウゾウ
+Yūzō
+Reward:
+$
+768
+Wingull
+Lv.
+24
+No item
+Wingull
+Lv.
+24
+No item
+Tuber
+Caitlyn
+ウキエ
+Ukie
+Reward:
+$
+96
+Azurill
+Lv.
+24
+No item
+Marill
+Lv.
+24
+No item
+Fisherman
+Erick
+ヒサオ
+Hisao
+Reward:
+$
+768
+Goldeen
+Lv.
+22
+No item
+Barboach
+Lv.
+24
+No item
+Gyarados
+Lv.
+24
+No item
+Sailor
+Samson
+ノブアキ
+Nobuaki
+Reward:
+$
+768
+Shellos
+West Sea
+Lv.
+24
+No item
+Shellos
+West Sea
+Lv.
+24
+No item
+Wingull
+Lv.
+24
+No item
+Leader
+Wake
+Pastoria Gym
+Diamond and Pearl
+Reward:
+$
+3600
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+27
+Brine
+Water
+Special
+--
+Dragon Rage
+Dragon
+Special
+--
+Bite
+Dark
+Physical
+--
+Swagger
+Normal
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Damp
+Held item:
+None
+Quagsire
+♂
+Lv.
+27
+Slam
+Normal
+Physical
+--
+Mud Bomb
+Ground
+Special
+--
+Mud Sport
+Ground
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+Sitrus Berry
+Floatzel
+♂
+Lv.
+30
+Brine
+Water
+Special
+--
+Ice Fang
+Ice
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Swift
+Normal
+Special
+--
+After defeating Crasher Wake, he will give you the
+Fen Badge
+that will allow all Pokémon up to Level 50 obey you without question (unless you defeated Wake before obtaining the
+Cobble Badge
+in Veilstone City, in which case, the limit would be raised to Level 40 Pokémon instead) and will allow you to use
+Defog
+outside of battle. He'll also give you
+TM55
+(
+Brine
+), a Water-type move where it's special feature is that the amount of damage is doubled when the enemy Pokémon is at less than half of their maximum HP.
+3rd Rival Battle
+Make sure that you heal your Pokémon before proceeding!
+Once you have 4 Badges, talk to the Team Galactic grunt near the Great Marsh building he mentions a bomb and noticing you he takes to the east exit. Listen to him talking about Team Galactic again and he takes off to
+Route 213
+. Just as you are about to tail him, Rival
+Barry
+shows up to challenge you.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Diamond and Pearl
+Reward:
+$
+2800
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+26
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+25
+Pursuit
+Dark
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+25
+Poison Sting
+Poison
+Physical
+--
+Magical Leaf
+Grass
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Toxic Spikes
+Poison
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+Lv.
+28
+Mach Punch
+Fighting
+Physical
+--
+Flame Wheel
+Fire
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Diamond and Pearl
+Reward:
+$
+2800
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+26
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+25
+Stomp
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+25
+Poison Sting
+Poison
+Physical
+--
+Magical Leaf
+Grass
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+Lv.
+28
+Peck
+Flying
+Physical
+--
+Growl
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+BubbleBeam
+Water
+Special
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Diamond and Pearl
+Reward:
+$
+2800
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+26
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+25
+Pursuit
+Dark
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+25
+Stomp
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+Lv.
+28
+Bite
+Dark
+Physical
+--
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Withdraw
+Water
+Status
+--
+After defeating Barry, he notes how much tougher you are. He notices the Galactic grunt and suggests you chase him.
+Route 213-Valor Lakefront
+Heal your Pokémon before proceeding.
+Your next job is to head from Route 213 to
+Valor Lakefront
+, searching for the Galactic Grunt and talking to him each time you find him. First you will find him around the ocean as you head towards the closed mountain area and listen to him talk about the
+Valley Windworks
+and notices you again. Then he flees to the
+Hotel Grand Lake
+. He'll next be found near the entrance to
+Route 222
+. Despite being tired, he refuses to fight, and runs to the upper part of the Valor Lakefront near the entrance. Talk to him again and this time he is ready to fight.
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1000
+Glameow
+♂
+Lv.
+25
+No item
+Once you defeat the grunt, he walks off and just as you reach the lake entrance, he is gone and only
+Cynthia
+is there with the guards. Cynthia reveals she came to research the lake and is surprised to find it is closed to the public and changing the subject about the
+Psyduck
+on
+Route 210
+. Once you admit you heard about the problem, she gives you the
+SecretPotion
+to treat their headache. Before returning to Route 210, you should explore
+Route 212
+first.
+← Part 10
+Route 214, Valor Lakefront, Hotel Grand Lake, Route 213, Pastoria City
+Diamond and Pearl
+walkthrough
+Route 212, Route 210 (North), Celestic Town, Route 211 (East), Hearthome Gym
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

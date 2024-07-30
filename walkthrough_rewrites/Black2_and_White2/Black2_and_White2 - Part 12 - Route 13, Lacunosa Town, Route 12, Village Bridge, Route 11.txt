@@ -1,0 +1,56 @@
+Game: Black2_and_White2
+Part: 12
+Keywords: Route 13, Lacunosa Town, Route 12, Village Bridge, Route 11
+
+### Part 12 Walkthrough Summary
+
+#### Route 13
+- **Location:** Connects to Lacunosa Town and the Giant Chasm.
+- **Key Trainers:**
+  - Black Belt Wesley: Gurdurr (Lv. 41)
+  - Battle Girl Alize: Scrafty (Lv. 41)
+  - Ace Trainer Miguel: Delcatty (Lv. 41), Eelektrik (Lv. 41)
+  - Cobalion (Lv. 45) is located north in the clearing; use Fire, Fighting, or Ground attacks to weaken it, avoiding Dark-type moves.
+
+- **Items:**
+  - Max Repel: West of Battle Girl Alize
+  - Ultra Ball: On the beach, north of Battle Girl Alize
+  - TM29 (Psychic): Near Fisherman Vince (requires Surf)
+
+#### Lacunosa Town
+- **Legend:** A tale of a monster attacking at night.
+- **Key Events:**
+  - Meet Professor Juniper and Bianca to learn about the Giant Chasm.
+  - Zinzolin appears; battle alongside Hugh against Team Plasma.
+  
+- **Items:**
+  - Metronome: Northeast house
+  - Various berries from a businessman (night only)
+
+#### Route 12
+- **Trainers:** 
+  - Battle Girl Azra: Gurdurr, Mienfoo (Lv. 41)
+  - Black Belt Jeriel: Heracross (Lv. 42)
+
+- **Items:**
+  - Timer Ball: North of Lacunosa Town entrance
+  - Rare Candy: East of the tallest hill
+
+#### Village Bridge
+- **Trainers:**
+  - Smasher Lizzy: Whimsicott (Lv. 44)
+  - Gentleman Stonewall: Durant, Lucario (Lv. 43)
+
+- **Rest Stop:** Heal your Pokémon at the easternmost house.
+- **Items:**
+  - Carbos: On the tennis court
+  - Ultra Ball: Southwest corner
+
+#### Route 11
+- **Special Pokémon:** Virizion (Lv. 45) appears at the west side of Route 11; use Fire, Ice, or Flying attacks, avoiding Dark-type moves.
+
+- **Items:**
+  - Favored Mail: From Pokémon Ranger Crofton
+  - Full Heal: Near the west gate (requires Surf)
+
+Continue west to reach Opelucid City.

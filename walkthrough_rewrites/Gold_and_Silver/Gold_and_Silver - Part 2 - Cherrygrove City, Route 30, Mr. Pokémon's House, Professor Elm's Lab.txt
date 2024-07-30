@@ -1,0 +1,44 @@
+Game: Gold_and_Silver
+Part: 2
+Keywords: Cherrygrove City, Route 30, Mr. Pokémon's House, Professor Elm's Lab
+
+**Pokémon Gold and Silver Walkthrough - Part 2**
+
+**Cherrygrove City**
+- **Overview**: Located between Route 29 (east) and Route 30 (north).
+- **Key Locations**:
+  - **Pokémon Center**: Heal your Pokémon and access storage.
+  - **Poké Mart**: Stock up on items like Poké Balls and Potions.
+    - Items for sale: 
+      - Poké Ball: $200
+      - Potion: $300
+      - Antidote: $100
+
+**Route 30**
+- Head north from Cherrygrove City; the path splits. 
+- **Mr. Pokémon's House**: 
+  - Located on the eastern branch. 
+  - Receive the **Mystery Egg** from Mr. Pokémon and the **Pokédex** from Professor Oak.
+- **Trainers**: Battle local trainers for cash and experience (e.g., Youngster Joey with Rattata, Youngster Mikey with Pidgey).
+
+**Important Items on Route 30**:
+- **Berry**: Daily from the tree next to the southern house.
+- **Potion**: Hidden in the flower bed southwest of Mr. Pokémon's house.
+- **PSNCureBerry**: On the tree west of Mr. Pokémon's house.
+
+**Rival Battle 1**: 
+- After Mr. Pokémon's house, return to Cherrygrove City.
+- You will be ambushed by a rival (red-haired boy). 
+- Strategies:
+  - Use Potions if your Pokémon's HP is low.
+  - Levels for rival's Pokémon are all Level 5.
+
+**New Bark Town**
+- Return to Professor Elm's Lab to report the stolen Pokémon.
+- Deliver the Mystery Egg to Elm; receive five Poké Balls from his aide.
+- **Home**: Talk to Mom to save your money. Optionally, she can save 25% of your prize money.
+
+**Next Steps**: 
+- After your tasks in New Bark Town, head north from Cherrygrove City to reach Route 31.
+
+This concludes Part 2 of the walkthrough. Continue your journey to Violet City!

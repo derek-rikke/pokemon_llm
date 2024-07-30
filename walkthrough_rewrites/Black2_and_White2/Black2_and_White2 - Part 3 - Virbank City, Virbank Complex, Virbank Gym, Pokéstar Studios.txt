@@ -1,0 +1,59 @@
+Game: Black2_and_White2
+Part: 3
+Keywords: Virbank City, Virbank Complex, Virbank Gym, Pokéstar Studios
+
+**Part 3 Walkthrough: Virbank City, Virbank Complex, Virbank Gym, and Pokéstar Studios**
+
+### Virbank City
+- **Arrival:** Upon entering, you’ll receive a call from your mom. Explore the city for valuable items.
+- **Items Locations:**
+  - **Great Ball x2:** Western gate attendant.
+  - **Poké Toy:** East of Pokémon Center.
+  - **Burn Heal:** Southwest building, from a Nursery Aide.
+  - **Antidote:** Hidden in a trash can outside the southwest building.
+  - **Poké Ball x5:** From Roughneck outside the Gym.
+  - **Pearl:** Under the south bridge by the Gym (hidden).
+  - **Fresh Water:** Inside the Gym from Clyde.
+  - **TM09 (Venoshock):** From Roxie after defeating her.
+  - **HM01 (Cut):** From Roxie after defeating a Plasma Grunt by the docks.
+  - **Rare Candy:** Near the stairway west of the Pokémon Center.
+
+### Virbank Complex
+- **Description:** An industrial area with tall grass. Visit at night for stunning views.
+- **Available Pokémon:** 
+  - **Outer Area:** Patrat, Pidove, Magnemite, Elekid, Magby.
+  - **Inner Area:** Magnemite, Elekid, Magby, Growlithe, Koffing.
+- **Items Locations:**
+  - **X Accuracy:** South of the city in grass.
+  - **Great Ball:** Trade with Roughneck near the crane (one per day).
+  - **Silk Scarf:** Follow the path from the stairway near the crane.
+  - **TM46 (Thief):** Near Worker Isaac in the southeast corner.
+  - **TM94 (Rock Smash):** From the Workers' boss after defeating them.
+  - **Ether:** From the Scientist after talking to him three times (requires Cut).
+
+### Virbank Gym
+- **Leader:** Roxie (Poison-type).
+- **Strategy:** Use Psychic, Ground, Fire, or Flying-type moves. Bring Antidotes for healing.
+- **Gym Trainers:**
+  - **Roughneck Nicky:** Grimer, Koffing (Lv. 14).
+  - **Guitarist Billy Jo:** Venipede, Koffing (Lv. 14).
+- **Roxie's Pokémon:**
+  - **Koffing (Lv. 15/16):** Use strong physical attacks.
+  - **Whirlipede (Lv. 17/18):** Be cautious of its Venoshock; use Antidotes.
+
+Defeating Roxie earns you the **Toxic Badge** and **TM09 (Venoshock)**.
+
+### Pokéstar Studios
+- **Description:** A film studio where you can star in movies.
+- **Getting Started:** Talk to the assistant director to choose a script.
+- **Shooting a Movie:** Follow the script to achieve good endings, which improve your Star Rank and your Pokémon's Star Rank.
+- **Item Rewards:** Lemonade from a Backpacker in the theater lobby after a good ending.
+
+### Team Plasma Encounter
+After defeating the Gym, head to the pier to find Roxie and Hugh confronting Team Plasma. Defeat the Grunt (Patrat, Lv. 14) to progress. Roxie gives you **HM01 (Cut)**.
+
+### Route 20
+- **Plasma Grunt Encounter:** Climb the stairway and find the Grunt in a clearing (Purrloin, Lv. 14).
+- **Next Steps:** Return to Virbank and head to the pier to board the ship to Castelia City.
+
+This concludes Part 3 of your journey!

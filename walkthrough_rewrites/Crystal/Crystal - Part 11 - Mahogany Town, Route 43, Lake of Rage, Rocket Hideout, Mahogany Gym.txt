@@ -1,0 +1,51 @@
+Game: Crystal
+Part: 11
+Keywords: Mahogany Town, Route 43, Lake of Rage, Rocket Hideout, Mahogany Gym
+
+### Part 11 Walkthrough: Mahogany Town & Lake of Rage
+
+#### Mahogany Town
+- **Items**: 
+  - **RageCandyBar**: $300 from the man near the east exit.
+  - **TM16 (Icy Wind)**: Reward for defeating Gym Leader Pryce.
+
+- **Key Locations**:
+  - **Mahogany Gym**: Ice-type Gym led by Pryce.
+
+#### Route 43
+- **Trainers**: Various trainers including Camper Spencer (Sandshrew, Lv. 17) and Fisher Marvin (Magikarp, Lv. 10).
+- **Available Pokémon**: Pidgeotto, Raticate, Venonat, etc.
+- **Items**: 
+  - **Bitter Berry**: West of the larger pond (requires Surf and Cut).
+  - **Max Ether**: West of the gate on the upper ledge.
+
+- **Greedy Guards**: Pay $1,000 to pass through the gate to Lake of Rage.
+
+#### Lake of Rage
+- **Key Events**: Encounter a **Red Gyarados** (Lv. 30). Use Electric or Rock-type moves to defeat it. 
+- **Items**: 
+  - **Max Potion**: Northeast corner (hidden).
+  - **Red Scale**: Obtained after defeating Red Gyarados.
+  
+- **Lance**: Meet Lance who asks for your help to find the source of a mysterious radio signal.
+
+#### Team Rocket Hideout (Mahogany Town)
+- **Location**: Hidden underground complex.
+- **B1F**: Battle Grunts and collect items like Guard Spec. and Hyper Potion.
+- **B2F**: Fight more Grunts and Scientists, gather passwords ("SlowpokeTail" and "RaticateTail") to access the boss.
+- **B3F**: Face Rocket Executive; defeat their Pokémon (Zubat, Koffing, Raticate) to progress.
+- **Final Encounter**: Help Lance disable the Electrode powering the radio signal.
+
+#### Mahogany Gym
+- **Leader**: Pryce (Water/Ice-type).
+- **Strategy**: Use Fighting, Fire, Rock, or Steel-type moves against Pryce's Pokémon (Seel, Dewgong, Piloswine).
+- **Reward**: Glacier Badge (increases Special Attack and Defense, allows use of Whirlpool) and TM16 (Icy Wind).
+
+#### Next Steps
+- After defeating Pryce, receive a call from Professor Elm regarding Team Rocket's activities at the Goldenrod Radio Tower. Head there to continue the quest.
+
+### Summary
+- **Key Locations**: Mahogany Town, Lake of Rage, Team Rocket Hideout, Mahogany Gym.
+- **Main Tasks**: Defeat Red Gyarados, infiltrate Team Rocket Hideout, defeat Pryce, and head to Goldenrod City.
+
+This concise guide emphasizes essential gameplay elements, item locations, and battle strategies while omitting less critical details.

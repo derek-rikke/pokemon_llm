@@ -1,0 +1,52 @@
+Game: Emerald
+Part: 5
+Keywords: Mauville City, Mauville Gym, Route 117, Verdanturf Town, Rusturf Tunnel (Revisited)
+
+### Part 5 Walkthrough Summary
+
+**Mauville City**
+- **Key Locations**: Mauville Gym, Rydel's Cycles, Game Corner.
+- **Items**:
+  - **Coin Case**: From a woman next to the Poké Mart (trade for Harbor Mail).
+  - **HM06 (Rock Smash)**: From a scientist in the southeast house.
+  - **Bikes**: Choose from Mach Bike (faster, climbs slopes) or Acro Bike (slower, performs tricks).
+  - **TM34 (Shock Wave)**: From Wattson after defeating him.
+
+**Mauville Gym**
+- **Leader**: Wattson (Electric-type).
+- **Strategy**: Use Ground-type moves against Magneton and Manectric. Be wary of Selfdestruct from Voltorb.
+- **Trainers**: Battle various trainers to prepare for Wattson.
+
+**After Defeating the Gym**
+- **Explore Routes**:
+  - **Route 104**: Collect items like White Herb (north) and Rare Candy (Granite Cave).
+  - **Granite Cave**: Use Rock Smash to find Nosepass.
+  - **Route 110**: Participate in battles on Seaside Cycling Road.
+
+**Optional Areas**
+- **Trick House**: Complete Puzzle 2.
+- **Route 117**: Features Pokémon Day Care and trainers to battle.
+- **Verdanturf Town**: Contains TM45 (Attract), Move Tutor for Fury Cutter, and a Battle Tent with challenges.
+
+**Rusturf Tunnel**
+- **Access**: Use Rock Smash to clear debris and reunite Wanda with her boyfriend to receive HM04 (Strength).
+- **Items**: Find Max Ether and hidden items in the tunnel.
+
+**Route 118**
+- **Trainers**: Battle various trainers while exploring the western side.
+
+### Key Items to Collect
+- **Mach Bike/Acro Bike**: Choose one from Rydel.
+- **TM34 (Shock Wave)**: From Wattson.
+- **HM04 (Strength)**: After clearing Rusturf Tunnel.
+
+### Battle Tips
+- **Electric-type Gym**: Use Ground-type Pokémon for effectiveness.
+- **Trainer Battles**: Level up your Pokémon by battling trainers in each area.
+
+### Progression Steps
+1. Defeat Wattson in Mauville Gym.
+2. Explore Route 104 and Granite Cave for items.
+3. Battle trainers on Route 110 and complete optional areas for rewards.
+4. Clear Rusturf Tunnel and collect HM04.
+5. Continue your journey to Route 118 and beyond.

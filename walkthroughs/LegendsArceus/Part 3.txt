@@ -1,0 +1,1310 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Legends:_Arceus_walkthrough/Section_3
+Keywords: First Star: Jubilife Village, Obsidian Fieldlands
+
+Walkthrough Text:
+Contents
+1
+Jubilife Village
+1.1
+Head to the training grounds
+1.2
+Captain of the Security Corps
+2
+Obsidian Fieldlands
+2.1
+Warden of the Diamond Clan
+2.2
+New areas to explore (Optional)
+2.3
+Continue through Deertrack Path
+2.4
+Head to Deertrack Heights
+Jubilife Village
+The player receiving their first star
+Head north into
+Galaxy Hall
+, and go into
+Cyllene
+'s office. Press
+A
+to show Cyllene your Pokédex.
+You've become a
+First Star recruit
+!
+Gaining a higher
+rank
+grants you many benefits. For example, as a First Star recruit, you can use a new type of Poké Ball called a
+Heavy Ball
+and Pokémon up to level 20 will obey you in battle. You'll also earn more money from survey reports. Cyllene commends you for your hard work and hopes that you continue to keep at it. She hands you recipes for Heavy Balls and
+Revives
+, then suggests that you rest for the night.
+You eat dinner at The Wallflower with
+Rei
+/
+Akari
+and
+Professor Laventon
+, who congratulate you on receiving your first star. Rei/Akari brings up requests and how they can come from anywhere, even outside of Jubilife Village. For example, Rei/Akari wants you to help them with a request from
+Mai
+of the
+Diamond Clan
+because it requires skill in battling.
+Items
+Item
+Location
+Games
+Recipe
+:
+Heavy Ball
+Obtained from
+Cyllene
+after achieving First Star rank
+LA
+Recipe
+:
+Revive
+Obtained from
+Cyllene
+after achieving First Star rank
+LA
+Head to the training grounds
+The next day, Rei/Akari shows up at your door, asking if you have time to help them out. They suggest that you head to the
+pastures
+in the east end of the village to change the Pokémon in your party.
+When you're ready, head north to the
+training grounds
+, and press
+A
+to talk to Rei/Akari. They admit to having a partner Pokémon, a
+Pikachu
+, but can't quite command it in battle as easily as you can. So, they challenge you to a Pokémon battle to train them!
+The Survey Corps'
+Rei
+Training grounds
+Pokémon Legends: Arceus
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+9
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Curse
+Unknown
+Status
+--
+The Survey Corps'
+Akari
+Training grounds
+Pokémon Legends: Arceus
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+9
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder Wave
+Electric
+Status
+--
+Curse
+Unknown
+Status
+--
+An example of the symbols next to each move
+After defeating Rei/Akari in battle, they felt like they understood Pikachu for once and were in sync. They strive to be as connected as you are with your Pokémon.
+Rei/Akari also mentions that they had heard the Professor mention something called
+Types
+, which are attributes that effect what a Pokémon's strengths or weaknesses are. Types are extremely important in Pokémon, as they can double, halve, or even negate the damage of an attack, so definitely keep them in mind.
+When selecting a move, there will be several icons in the move's interface. On the far left is the icon of the move's type. On the far right is its
+effectiveness
+, the strength of the move against an enemy Pokémon's types. If it's a small dot, it's neutral damage (1x). If it's a circle, that means it's super effective (2x). If it's a triangle, that's not very effective (1/2x). If it's a cross or an X, that means it doesn't effect them (0x). These symbols make it so that you don't always have to always worry about what types the enemy Pokémon is weak to. Otherwise, you can use a
+type chart
+.
+Zisu, the Captain of the Security Corps
+Captain of the Security Corps
+Types
+The entire time,
+Zisu
+, the captain of the
+Security Corps
+, was watching the battle and approaches. She is the local master of Pokémon battling and she gives you some tips.
+Firstly, she mentions that in battle, you can
+change the properties of a move
+by using either
+agile style
+or
+strong style
+. Agile style makes it so that your Pokémon moves faster in the
+action order
+(and can possibly go twice in a row) but weakens the move's power. Strong style is the opposite, making your Pokémon move slower in the action order but making the attack do much more damage. Either style is a temporary one-turn buff that uses more
+power points
+.
+You can apply one of the styles by pressing
+L
+or
+R
+when selecting the move in battle.
+You may not see the option to select a style, but don't worry; a Pokémon slowly gains the ability to use styles on certain moves as they level up. (For example, the above image has the style option for
+Iron Head
+, but not for
+Double-Edge
+.) Eventually, you can also use certain items to enable your Pokémon to be able to use styles on more moves.
+Zisu also mentions that at any time, you can ask her to
+teach your Pokémon new moves
+for a small fee. Definitely make use of this, as she can give your Pokémon many of their most powerful moves.
+Rei/Akari remind you that they asked for your help with the request from Mai last night—it's about time that they meet up with her on
+Aspiration Hill
+. You receive a new mission:
+A Request from Mai
+.
+Go ahead and make any preparations you need to make, then head to the east gate to depart for the
+Obsidian Fieldlands
+.
+Obsidian Fieldlands
+Volo, spooking the player from behind
+Mai, one of the wardens of the Diamond Clan
+You return to the
+Fieldlands Camp
+, when suddenly... you get spooked by
+Volo
+from behind! He teaches you about the back strike technique, which increases a Pokémon's catch rate (when throwing a Poké Ball) or stuns it (when sending your Pokémon out for battle). He wishes you well and heads off.
+You can speak with Professor Laventon to return to Jubilife Village at any point, and when you earn enough research points, you can talk to Cyllene to increase your rank.
+You should take a rest in the tent to heal your Pokémon. When you're ready, head down Aspiration Hill and talk to the guardsman on the bridge. Now that you're a First Star rank recruit, he lets you pass and tells you to not let your guard down.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+6
+Mushroom Cake Marketing
+A villager named
+Morel
+wants everyone to know about the crafting recipe he invented using mushrooms. To that end, he says he'll teach the recipe to you!
+Give Morel the item he requested.
+Recipe
+:
+Mushroom Cake
+Obsidian Fieldlands
+:
+Fieldlands Camp
+Receive Mission 5: "A Request from Mai"
+11
+The Timbre of the Fields
+Music lover
+Yeo
+is captivated by the sound she hears coming from the Kricketot in the Obsidian Fieldlands. Fill in Kricketot's Pokédex page and show it to her!
+Show Yeo the completed Pokédex entry for Kricketot.
+Vivichoke
+×3
+Obsidian Fieldlands
+:
+Fieldlands Camp
+Receive Mission 5: "A Request from Mai"
+Warden of the Diamond Clan
+Continue through the bridge and approach Rei/Akari, who is currently talking to someone. She introduces herself as
+Mai
+, one of the
+wardens
+of the
+Diamond Clan
+, and the one who requested help. She asks if you're confident in your ability to lead your Pokémon in battle, and she shows you that her partner Pokémon is
+Munchlax
+.
+Then, she challenges you to a battle to see if you're capable!
+Warden
+Mai
+Deertrack Path
+Pokémon Legends: Arceus
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Munchlax
+♂
+Lv.
+10
+Tackle
+Normal
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+She commends you for winning the battle and heals your Pokémon. She also hands you 5
+Vivichokes
+, which you can craft into
+Revives
+. She explains that she needs help dealing with an
+alpha Pokémon
+nearby
+Deertrack Heights
+. In response, you Arc Phone rings again, showing you the way to pursue it.
+Items
+Item
+Location
+Games
+Vivichoke
+×5
+From
+Mai
+, after defeating her at the bridge
+LA
+Then, Mai asks you if you know what the almighty Sinnoh is. The Diamond Clan settled in Hisui to worship the almighty Sinnoh, the creator of time, the world, and the Pokémon that live in it. It's an old tale, and almighty Sinnoh has long since ceased direct contact with most people. However, it still has connections with a few Pokémon, and it's the warden's job to look after them. One of them is currently causing trouble at
+Deertrack Heights
+, so Mai wants you to meet her there to learn more.
+The possible areas that a First Star recruit can explore
+New areas to explore (Optional)
+This section is incomplete.
+Please feel free to edit this section to add missing information and complete it.
+Reason: Each area's item lists
+Now that you've crossed the bridge, you have access to nearly the entire map of Obsidian Fieldlands (besides a few islands that you can't reach quite yet). The first five areas you could access before were Aspiration Hill, Horseshoe Plains, Floaro Gardens, Sandgem Flats, and part of Lake Verity. You can refer to
+this part of the walkthrough
+for the available items and Pokémon for those areas.
+After crossing the bridge, you can reach
+Grueling Grove
+,
+Worn Bridge
+,
+Windswept Run
+,
+Nature's Pantry
+,
+Tidewater Dam
+,
+The Heartwood
+,
+Grandtree Arena
+,
+Oreburrow Tunnel
+, and
+Obsidian Falls
+. If you're trying to find Oreburrow Tunnel, you can throw your Pokémon at a crack in the wall and it'll clear a path for you. You can enter either from the south end of Grueling Grove or the east side of The Heartwood.
+The next two story-related areas,
+Deertrack Path
+and
+Deertrack Heights
+, are covered in the following subsection.
+Available Pokémon
+Available Pokémon (Grueling Grove)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Combee
+6-9
+21-24
+✔
+✔
+Fixed Alpha
+Heracross
+45
+✔
+✔
+In the air
+Beautifly
+15-18
+30-33
+✔
+✔
+✔
+✔
+Dustox
+15-18
+30-33
+✔
+✔
+Mothim
+20-23
+35-38
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+15-18
+30-33
+✔
+✔
+Wormadam
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Worn Bridge)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-12
+22-27
+✔
+✔
+Geodude
+9-12
+24-27
+✔
+✔
+Buizel
+‡
+7-10
+22-25
+✔
+✔
+Fixed Alpha
+Floatzel
+‡
+31
+✔
+✔
+In the air
+Starly
+‡
+7-10
+✔
+✔
+✔
+✔
+Drifloon
+‡
+7-10
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+‡
+9-12
+24-27
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Windswept Run)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+9-14
+24-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Abra
+9-12
+24-27
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+11-14
+26-29
+✔
+✔
+Buizel
+9-12
+24-27
+✔
+✔
+Drifloon
+9-12
+24-27
+✔
+✔
+Fixed Alpha
+Staravia
+32
+✔
+✔
+In the air
+Zubat
+9-12
+24-27
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-12
+24-27
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+9-12
+24-27
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Nature's Pantry)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pikachu
+9-12
+24-27
+✔
+✔
+Zubat
+9-12
+24-27
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Paras
+9-12
+24-27
+✔
+✔
+Pichu
+9-12
+24-27
+✔
+✔
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+10-13
+25-28
+✔
+✔
+Fixed Alpha
+Parasect
+30
+✔
+✔
+In the air
+Zubat
+9-13
+24-28
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-13
+24-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Flying
+Staraptor
+‡
+34-37
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+9-12
+24-27
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Tidewater Dam)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+9-16
+24-31
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+‡
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+‡
+14-17
+29-32
+✔
+✔
+✔
+✔
+Bidoof
+11-14
+26-29
+✔
+✔
+Bibarel
+15-18
+30-33
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Kricketune
+10-13
+25-28
+✔
+✔
+Fixed Alpha
+Bibarel
+16
+✔
+✔
+Kricketune
+‡
+30
+✔
+✔
+In the air
+Zubat
+13-16
+28-31
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+9-13
+24-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-12
+24-27
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (The Heartwood)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+13-18
+28-33
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Psyduck
+13-16
+28-31
+✔
+✔
+Scyther
+13-16
+28-31
+✔
+✔
+Wurmple
+3-6
+18-21
+✔
+✔
+Silcoon
+7-9
+22-24
+✔
+✔
+✔
+✔
+Cascoon
+7-9
+22-24
+✔
+✔
+Combee
+‡
+15-18
+30-33
+✔
+✔
+Buneary
+13-18
+28-33
+✔
+✔
+Fixed Alpha
+Lopunny
+‡
+40
+✔
+✔
+In the air
+Beautifly
+13-16
+28-31
+✔
+✔
+✔
+✔
+Dustox
+13-16
+28-31
+✔
+✔
+Shaking trees
+Combee
+13-16
+28-31
+✔
+✔
+Cherubi
+‡
+15-18
+30-33
+✔
+✔
+Cherrim
+‡
+25-28
+40-43
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Grandtree Arena)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Scyther
+13-16
+28-31
+✔
+✔
+Fixed Alpha
+Scyther
+‡
+42
+✔
+✔
+Shaking trees
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Oreburrow Tunnel)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+13-16
+28-31
+✔
+✔
+Golbat
+‡
+22-25
+37-40
+✔
+✔
+Machop
+13-16
+28-31
+✔
+✔
+Shinx
+‡
+11-14
+26-29
+✔
+✔
+Luxio
+‡
+15-18
+30-33
+✔
+✔
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Happiny
+13-16
+28-31
+✔
+✔
+Fixed Alpha
+Golbat
+‡
+35
+✔
+✔
+Magikarp
+‡
+55
+✔
+✔
+Shaking trees
+Combee
+‡
+13-16
+28-31
+✔
+✔
+Shaking ore deposits
+Geodude
+13-16
+28-31
+✔
+✔
+Graveler
+25-28
+40-43
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Obsidian Falls)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+‡
+13-16
+28-31
+✔
+✔
+Machop
+‡
+13-16
+24-27
+28-31
+39-42
+✔
+✔
+Machoke
+‡
+41-44
+56-59
+✔
+✔
+Geodude
+‡
+13-16
+28-31
+✔
+✔
+Chansey
+‡
+41-44
+56-59
+✔
+✔
+Happiny
+‡
+13-16
+41-44
+28-31
+56-59
+✔
+✔
+Fixed Alpha
+Graveler
+‡
+30
+✔
+✔
+Blissey
+‡
+62
+✔
+✔
+In the air
+Zubat
+‡
+13-16
+28-31
+✔
+✔
+Golbat
+‡
+22-25
+37-40
+✔
+✔
+Starly
+‡
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+‡
+14-17
+29-32
+✔
+✔
+✔
+✔
+Flying
+Gyarados
+24-27
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+11-14
+26-29
+✔
+✔
+Water
+Magikarp
+16-19
+31-34
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Deertrack Path
+Continue through Deertrack Path
+When you're ready, continue following the path from the bridge, called
+Deertrack Path
+. You'll see torches beside you if you're going in the right direction.
+Available Pokémon
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-10
+22-25
+✔
+✔
+Kricketot
+6-9
+21-24
+✔
+✔
+Munchlax
+7-10
+22-25
+✔
+✔
+In the air
+Starly
+7-10
+✔
+✔
+✔
+✔
+Drifloon
+7-10
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+7-10
+22-25
+✔
+✔
+Shaking ore deposits
+Geodude
+7-10
+22-25
+✔
+✔
+Mass outbreak
+Starly
+11-13
+26-28
+✔
+✔
+Kricketot
+‡
+7-9
+22-24
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+13
+Trees That Bear Berries
+Bjorn
+of the Agriculture Corps wants you to get a Cheri Berry for him. He says he'll give you a helpful tip if you're able to grant his wish...
+Gather the number of Berries Bjorn wanted, then give them to him.
+Poké Ball
+×15
+Obsidian Fieldlands
+:
+Deertrack Path
+Receive Mission 5: "A Request from Mai"
+The tutorial screen of alpha Pokémon
+Head to Deertrack Heights
+At the top of Deertrack Path is
+Deertrack Heights
+. When you reach a fork in the road, take the east path with the stairs heading upward. You'll see Mai waiting for you at the top.
+Available Pokémon
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Zubat
+7-14
+22-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Geodude
+7-12
+22-27
+✔
+✔
+Stantler
+9-14
+24-29
+✔
+✔
+Chimchar
+10-13
+25-28
+✔
+✔
+Monferno
+14-17
+29-32
+✔
+✔
+Starly
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shinx
+9-12
+24-27
+✔
+✔
+Fixed Alpha
+Stantler
+42
+✔
+✔
+In the air
+Zubat
+11-14
+26-29
+✔
+✔
+Golbat
+22-25
+37-40
+✔
+✔
+Starly
+10-13
+25-28
+✔
+✔
+✔
+✔
+Staravia
+14-17
+29-32
+✔
+✔
+✔
+✔
+Shaking trees
+Burmy
+Plant Cloak
+9-14
+24-29
+✔
+✔
+Shaking ore deposits
+Geodude
+7-14
+22-29
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Approach Mai at the top of the stairs. Professor Laventon arrives panting, after sprinting all the way from the Fieldlands Camp. He wanted to see the
+alpha Pokémon
+for himself, and Mai allows it. Mai explains the situation: she wanted to pay tribute to a Pokémon that is related to almighty Sinnoh, but instead, she's interrupted by the cry of an alpha
+Kricketune
+that's been causing trouble. Mai heals your Pokémon, and wishes you luck with taking it on. Laventon ponders about its size, and Mai explains that alphas are significantly larger and stronger than normal Pokémon.
+Approach the Kricketune to battle it (you don't need to throw out a Pokémon). You can catch most of the static encounters in this game, and the game will let you know if you are unable to.
+Bug types like Kricketune are weak to
+Fire
+,
+Flying
+, and
+Rock-type
+attacks.
+Type:
+Bug
+Unknown
+Mega Stone:
+None
+Kricketune
+♂
+/
+♀
+Lv.
+12
+False Swipe
+Normal
+Physical
+--
+Absorb
+Grass
+Special
+--
+Tackle
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+The great Wyrdeer
+In battle, you can press
+Y
+to show the
+action order
+, which shows the order that Pokémon will be taking turns and how often. This is based on factors like their
+Speed
+, whether you're using
+agile or strong style
+, etc.
+Once you've taken out the alpha Kricketune, Mai heals your party again, as a different Pokémon cries out. Up on the cliff is the great
+Wyrdeer
+! It jumps down to get a better look, and takes a liking to you. When it leaves, Mai explains that it lets people
+ride
+on it if it deems them worthy. Rei/Akari appears, sent by Cyllene. They explain that after subduing the alpha Pokémon, they can set up another camp site at this location. Laventon shows concern if it's okay to do this, but Mai reassures him that it's alright as long as you coexist and thrive with the Pokémon. Mai leaves to report back to her superior, and promises to give you a reward when she can.
+You've completed
+A Request from Mai
+!
+Later in the day, the
+Construction Corps
+appear and build the new camp site, which Laventon dubs the
+Heights Camp
+! You can
+fast travel
+to this camp at any time, and when you depart from Jubilife Village, you can choose to start from this camp instead.
+After a long day, Rei/Akari suggests that you all return to The Wallflower at
+Jubilife Village
+.
+← Part 2
+The Pokédex
+: Jubilife Village, Obsidian Fieldlands
+Legends: Arceus
+walkthrough
+Frenzied Kleavor
+: Jubilife Village, Obsidian Fieldlands, Jubilife Village (Revisited), Obsidian Fieldlands (Revisited), Frenzied Kleavor
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

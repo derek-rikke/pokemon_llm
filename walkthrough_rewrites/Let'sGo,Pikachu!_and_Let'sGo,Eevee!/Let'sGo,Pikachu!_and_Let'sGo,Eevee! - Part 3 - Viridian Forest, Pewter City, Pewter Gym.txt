@@ -1,0 +1,59 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+**Part 3 Walkthrough: Viridian Forest, Pewter City, Pewter Gym**
+
+**Viridian Forest (Route 2)**
+- **Trainers to Battle:**
+  - Lass Joana: Rattata (Lv. 4) - Reward: $40, 3 Poké Balls
+  - Bug Catcher Brian: Weedle (Lv. 3) - Reward: $36, 3 Poké Balls
+  - Bug Catcher Rick: Caterpie (Lv. 3) - Reward: $36, 3 Poké Balls
+  - Lass Brittany: Nidoran♀ (Lv. 4) - Reward: $40, 3 Poké Balls
+  - Bug Catcher Doug: Kakuna (Lv. 3) - Reward: $36, 3 Poké Balls
+  - Lass Jocelyn: Pidgey (Lv. 4) - Reward: $40, 3 Poké Balls
+  - Bug Catcher Sammy: Metapod (Lv. 3) - Reward: $36, 3 Poké Balls
+
+- **Wild Pokémon:**
+  - Caterpie, Weedle, Pidgey, Metapod, Kakuna, Oddish, Bellsprout, Pikachu (rare)
+
+- **Items:**
+  - Poké Balls ×5: Southwest corner
+  - Tiny Mushroom: Northwest dead-end path
+  - Antidote: North of southern entrance
+  - Razz Berries ×3: Southeast corner
+  - Potion ×2: Northeast corner and near Bug Catcher Sammy (hidden)
+  - Lure: Southeast dead-end path
+
+- **Strategy:** Navigate through the forest battling trainers and collecting items. Use Lures to attract rare Pokémon like Bulbasaur.
+
+**Pewter City**
+- **Meet Trace:** Entering Pewter City, Trace gives you 5 Potions.
+- **Pewter Museum of Science:** Admission is $50; explore for fossils and exhibits.
+- **Slowpoke Sitting Quest:** Babysit a Slowpoke for a Big Pearl (worth $4,000).
+
+- **Items Available:**
+  - Potions ×5: From Trace
+  - Pewter Crunchies: Pokémon Center
+  - X Defense: Behind Pokémon Center
+  - Big Pearl: From Slowpoke quest
+  - TM01 (Headbutt): After defeating Brock
+  - Great Balls ×5: From Blue after defeating Brock
+
+**Pewter Gym**
+- **Leader:** Brock (Rock/Ground-type Pokémon)
+- **Strategy:** Use Grass or Water Pokémon for an advantage. Pikachu and Eevee learn Double Kick (Fighting-type) around level 10, which is effective against Rock-types.
+
+- **Gym Trainers:**
+  - Picnicker Amara: Geodude (Lv. 7) - Reward: $140
+  - Camper Liam: Geodude (Lv. 7) - Reward: $140
+
+- **Brock's Pokémon:**
+  - Geodude (Lv. 11)
+  - Onix (Lv. 12)
+
+- **Post-Battle Reward:** Boulder Badge (ensures obedience up to level 20) and TM01 (Headbutt).
+
+**Meet Blue:** After the Gym, Blue gives you 5 Great Balls.
+
+**Next Steps:** Head east to Route 3. Visit the Poké Mart for new items, including Great Balls, Escape Ropes, and Repels before proceeding.

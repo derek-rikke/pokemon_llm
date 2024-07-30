@@ -1,0 +1,53 @@
+Game: Emerald
+Part: 18
+Keywords: Sky Pillar, Ever Grande City, Victory Road
+
+**Part 18: Sky Pillar, Ever Grande City, Victory Road**
+
+**Sky Pillar (Optional)**  
+- **Access**: After defeating Groudon and Kyogre, head to Sky Pillar. Use the Mach Bike to navigate unstable floors.  
+- **Floors**: Climb to 5F and take the northeast stairs to reach the apex.  
+- **Legendary Pokémon**: Rayquaza (Lv. 70). Recommended to use a Master Ball or Timer Balls. Effective strategies include using Ice, Dragon, and Rock-type moves. Beware of its Outrage attack.
+
+**Trick House - Puzzle 7 (Optional)**  
+- Complete Puzzle 7 in Trick House.
+
+**Now that you can use Waterfall (Optional)**  
+- **Route 114**:  
+  - Rare Candy: West of the top waterfall (requires Surf, Waterfall).  
+- **Route 119**:  
+  - Hondew Berries: Near upper waterfall (requires Surf, Waterfall).  
+  - Nugget: Far north past upper waterfall (requires Acro Bike, Surf, Waterfall).  
+  - Rare Candy: Northwest of upper waterfall (requires Surf, Waterfall, Acro Bike, Devon Scope).
+
+**Meteor Falls (Optional)**  
+- Access the various floors for Pokémon and items. Notable Pokémon include Bagon (B1F).  
+- **Items**:  
+  - TM23 (Iron Tail) and PP Up on 1F.  
+  - TM02 (Dragon Claw) in B1F.
+
+**Ever Grande City (South)**  
+- **Access**: Requires a Pokémon capable of Waterfall.  
+- Visit the Pokémon Center to prepare for Victory Road.
+
+**Victory Road**  
+- **Requirements**: Use Surf, Strength, Rock Smash, and Waterfall (Flash optional).  
+- **Battles**: Fight multiple Cooltrainers, including Wally in 1F.  
+  - **Wally's Team**:  
+    - Altaria (Lv. 44) - Weak to Ice.  
+    - Delcatty (Lv. 43) - Use strong attacks to avoid status effects.  
+    - Roselia (Lv. 44) - Weak to Fire, Ice, Flying, Psychic.  
+    - Magneton (Lv. 41) - Use Ground-type moves.  
+    - Gardevoir (Lv. 45) - Weak to Dark, Ghost, Bug.  
+- Defeat Wally for a reward and continue through the caves.
+
+**B1F**  
+- Use Flash for visibility. Move boulders and follow the path to find items like Full Restore and PP Up.  
+
+**B2F**  
+- Continue battling trainers and collect items, including TM29 (Psychic).  
+
+**Exit**  
+- After battling the last trainers, head to the exit leading to Ever Grande City (North), where the Pokémon League awaits.  
+
+Prepare for your final challenge against the Elite Four!

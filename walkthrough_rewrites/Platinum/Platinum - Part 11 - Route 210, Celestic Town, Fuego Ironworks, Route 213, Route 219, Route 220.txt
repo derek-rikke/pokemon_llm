@@ -1,0 +1,54 @@
+Game: Platinum
+Part: 11
+Keywords: Route 210, Celestic Town, Fuego Ironworks, Route 213, Route 219, Route 220
+
+### Walkthrough: Part 11 - Route 210 to Canalave City
+
+#### Route 210
+- **Objective**: Clear Psyduck with the SecretPotion from Cynthia.
+- **Key Items**:
+  - **Old Charm**: Received after curing Psyduck.
+  - **Max Repel**: Behind a tree west of Psyduck.
+  - **TM30 (Shadow Ball)**: Across two logs (requires Rock Smash).
+  
+- **Available Pokémon**:
+  - **Grass**: Machop, Scyther, Meditite, Swablu
+  - **Fishing**: Magikarp, Barboach, Whiscash
+  
+- **Trainers**: Defeat Ninja Boys and Ace Trainers throughout the route. Notable battles include:
+  - **Cyrus**: At the Celestic Ruins, use Fighting or Rock-type moves to counter his team.
+
+#### Celestic Town
+- **Items**:
+  - **HM03 (Surf)**: From Cynthia's grandmother after defeating Cyrus.
+  - **Choice Specs**: Morning only, boosts Special moves.
+  
+- **Objective**: Deliver the Old Charm to Cynthia's grandmother and battle Team Galactic's Cyrus.
+
+#### Now that you can use Surf (Optional)
+- **Locations** to explore for items and trainers:
+  - **Twinleaf Town**: Odd Keystone by the pond (requires Surf).
+  - **Oreburgh Gate**: Battle Veteran Grant (requires Surf).
+  - **Route 204**: HP Up and Sea Incense (requires Surf).
+  - **Pastoria City**: Mystic Water on the land north of the boats (requires Surf).
+
+#### Fuego Ironworks (Optional)
+- **Objective**: Reach Mr. Fuego using spin tiles.
+- **Key Items**:
+  - **TM35 (Flamethrower)**: Near the boiler.
+  - **Star Piece**: Given by Mr. Fuego, trade for colored shards.
+
+#### Floaroma Meadow (Optional)
+- **Items**: Hidden items include a Miracle Seed and Ultra Ball.
+
+#### Route 213 (Optional)
+- **Trainers**: Multiple swimmers with Pokémon levels ranging from 31-35.
+- **Items**: Big Pearl and Max Revive in the islets (requires Surf).
+
+### Summary
+- Clear Psyduck on Route 210 to receive the Old Charm.
+- Defeat Cyrus in Celestic Town to obtain HM03 (Surf).
+- Use Surf to explore various routes for items and trainers.
+- Optional areas like Fuego Ironworks and Floaroma Meadow contain valuable items and Pokémon. 
+
+Plan your route and battles accordingly to maximize your item collection and Pokémon training!

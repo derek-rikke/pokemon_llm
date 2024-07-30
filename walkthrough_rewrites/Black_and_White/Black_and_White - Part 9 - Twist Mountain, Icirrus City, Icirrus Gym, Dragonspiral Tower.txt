@@ -1,0 +1,45 @@
+Game: Black_and_White
+Part: 9
+Keywords: Twist Mountain, Icirrus City, Icirrus Gym, Dragonspiral Tower
+
+**Part 9 Walkthrough Summary: Twist Mountain to Dragonspiral Tower**
+
+**Twist Mountain**
+- **Location**: Multi-level cave; some areas blocked by snow in winter.
+- **Key Trainers**: 
+  - Hiker Terrell (Boldore, Gurdurr, Lv. 34)
+  - Ace Trainer Caroll (Vanillish, Gothorita, Duosion, Lv. 35)
+- **Items**: 
+  - Revive (3F, north of entry)
+  - Full Heal (3F, southeast of entry)
+  - Stardust (hidden in various locations)
+  - TM91 (Flash Cannon) in B1F near ice-covered rock.
+- **Progress**: Follow the paths to reach the exit leading to Icirrus City.
+
+**Icirrus City**
+- **Key Locations**:
+  - Pokémon Fan Club: Earn items based on Pokémon training levels.
+  - Aha's Pep Quiz: Daily quiz rewards.
+- **Items**:
+  - TM14 (Blizzard), TM25 (Thunder), TM38 (Fire Blast) available for purchase.
+- **Post-Gym**: Brycen rewards you with the Freeze Badge and TM79 (Frost Breath).
+
+**Icirrus Gym**
+- **Leader**: Brycen (Ice-type Pokémon).
+- **Battle Strategy**: Use Fire, Fighting, Rock, or Steel moves.
+- **Key Trainers**: 
+  - Black Belt Grant (Cubchoo, Cryogonal)
+  - Brycen (Vanillish, Beartic, Cryogonal).
+- **Rewards**: Freeze Badge, TM79.
+
+**Dragonspiral Tower**
+- **Location**: North of Icirrus City; where the legendary dragon resides.
+- **Key Trainers**: 
+  - Ace Trainers Jesse and Jamie outside.
+  - Team Plasma Grunts inside.
+- **Items**: 
+  - Old Gateau (from Cedric Juniper)
+  - Various items scattered within the tower (e.g., Dragon Fang, Max Elixir).
+- **Progress**: Defeat Team Plasma members and reach the top where N befriends Zekrom (B) or Reshiram (W). Alder advises visiting Relic Castle next.
+
+**Next Steps**: Fly to Nimbasa City and head to Route 4 for further adventures.

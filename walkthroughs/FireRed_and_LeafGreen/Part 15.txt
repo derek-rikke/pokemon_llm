@@ -1,0 +1,1010 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_15
+Keywords: Route 21, Power Plant, Viridian Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 21
+2
+Pallet Town
+3
+Route 10
+3.1
+Power Plant
+3.1.1
+In Search of Power
+3.1.1.1
+VS Zapdos
+4
+Viridian City
+4.1
+Viridian Gym
+4.2
+The Path to the Summit
+Route 21
+Route 21
+Route 21
+is an ocean route that leads from
+Cinnabar Island
+back to
+Pallet Town
+. A single patch of tall grass grows just outside of town.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Wade
+Reward:
+$
+972
+Magikarp
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Fisherman
+Ronald
+Reward:
+$
+1008
+Seaking
+♂
+Lv.
+28
+No item
+Goldeen
+♂
+Lv.
+28
+No item
+Seaking
+♂
+Lv.
+28
+No item
+Seaking
+♂
+Lv.
+28
+No item
+Sis and Bro
+Lil & Ian
+Reward:
+$
+264
+Seadra
+♂
+Lv.
+33
+No item
+Starmie
+Lv.
+33
+No item
+Swimmer♂
+Spencer
+Reward:
+$
+132
+Seadra
+♂
+Lv.
+33
+No item
+Tentacruel
+♂
+Lv.
+33
+No item
+Fisherman
+Claude
+Reward:
+$
+1116
+Shellder
+♂
+Lv.
+31
+No item
+Cloyster
+♂
+Lv.
+31
+No item
+Fisherman
+Nolan
+Reward:
+$
+1188
+Seaking
+♂
+Lv.
+33
+No item
+Goldeen
+♂
+Lv.
+33
+No item
+Swimmer♂
+Jack
+Reward:
+$
+148
+Starmie
+Lv.
+37
+No item
+Swimmer♂
+Roland
+Reward:
+$
+128
+Poliwhirl
+♂
+Lv.
+32
+No item
+Tentacool
+♂
+Lv.
+32
+No item
+Seadra
+♂
+Lv.
+32
+No item
+Swimmer♂
+Jerome
+Reward:
+$
+132
+Staryu
+Lv.
+33
+No item
+Wartortle
+♂
+Lv.
+33
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+FR
+LG
+Grass
+17-28
+100%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+100%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pearl
+On the fifth island from the south, next to Swimmer Spencer
+(hidden
+recurring item
+; group B)
+FR
+LG
+Pallet Town
+Having now explored nearly all of the
+Kanto
+region, it is a good time to tie up any loose ends, the most important of which is the
+Power Plant
+. To get there, fly back to
+Route 10
+.
+Route 10
+To reach the
+Power Plant
+, use
+Surf
+to follow the river southward past the
+Rock Tunnel
+entrance. It is only a short distance away, with a single PokéManiac outside the building.
+Trainers
+Trainer
+Pokémon
+PokéManiac
+Mark
+Reward:
+$
+1392
+Requires
+Surf
+Rhyhorn
+♂
+Lv.
+29
+No item
+Lickitung
+♂
+Lv.
+29
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+100%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-35
+84%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-35
+84%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+One step west, four steps north of PokéManiac Mark
+(hidden)
+FR
+LG
+Power Plant
+Power Plant
+The
+Power Plant
+is an industrial complex that was abandoned years ago, though some of the machinery still works. Many forgotten items can be found lying around, but beware: some are actually
+Electrode
+that only look like items.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+FR
+LG
+Walking
+22, 25
+30%
+Voltorb
+FR
+LG
+Walking
+22, 25
+30%
+Pikachu
+FR
+LG
+Walking
+22, 24, 26
+25%
+Magneton
+FR
+LG
+Walking
+31, 34
+15%
+Magneton
+FR
+LG
+Walking
+31, 34
+10%
+Electabuzz
+FR
+LG
+Walking
+32, 35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+North of the entrance room
+FR
+LG
+TM17
+(
+Protect
+)
+In the long west-east room near the center of the facility
+FR
+LG
+Elixir
+In the long west-east room near the center of the facility
+FR
+LG
+TM25
+(
+Thunder
+)
+In the southeast room
+FR
+LG
+ThunderStone
+×2
+Northeast room, northeast corner
+One step south, three steps east of
+Zapdos
+' location
+(hidden)
+FR
+LG
+Max Elixir
+Central room, in front of the eastern of three machines
+(hidden)
+FR
+LG
+Fake items
+Electrode
+×2
+In the south-central room
+Northeast room, northwest corner
+FR
+LG
+In Search of Power
+Pass through the entrance room to get a
+Max Potion
+. Continue in a clockwise direction to the large, central room to find
+TM17
+(
+Protect
+) and an
+Elixir
+. Collect
+TM25
+(
+Thunder
+) in the southeast room, then follow the narrow hallway northward. Grab the
+ThunderStone
+from the northeast corner of the northeast room. Continue westward to reach the final room.
+VS Zapdos
+Zapdos
+is the last of the
+legendary birds
+that you will encounter. Use
+Rock
+- and
+Ice-type
+attacks to weaken it quickly, then follow up with
+Grass
+,
+Flying
+, and
+Fighting
+moves to wear its health down further. Like with
+Articuno
+and
+Moltres
+, it will be useful to cause status ailments like
+Sleep
+to increase the odds of catching it.
+Types:
+Electric
+Flying
+Ability:
+Pressure
+Held item:
+None
+Zapdos
+Lv.
+50
+Thunder Wave
+Electric
+--
+Agility
+Psychic
+--
+Detect
+Fighting
+--
+Drill Peck
+Flying
+--
+When the battle is over, take the side exit and fly back to
+Viridian City
+.
+Viridian City
+Items
+Item
+Location
+Games
+Viridian Gym
+TM26
+(
+Earthquake
+)
+From Giovanni, after defeating him
+FR
+LG
+Macho Brace
+On the spot where Giovanni stood
+(hidden)
+(requires using the
+Itemfinder
+on this spot)
+FR
+LG
+Viridian Gym
+Viridian Gym
+VIRIDIAN CITY POKéMON GYM
+...
+In the time it took to collect the seven other Badges, the Gym Leader of
+Viridian Gym
+has finally returned.
+Giovanni
+resumed his position as Gym Leader shortly after his defeat in
+Saffron City
+. The
+Viridian Gym
+specializes in
+Ground-type
+Pokémon.
+Grass
+-,
+Water
+-, and
+Ice-type
+attacks will be the most useful.
+Flying-type
+Pokémon are immune to Ground attacks and Flying moves will deal serious damage to the several
+Fighting
+Pokémon inside.
+Psychic
+moves will work wonders against
+Poison-type
+Pokémon.
+Like the
+Rocket Hideout
+in
+Celadon City
+, the Viridian Gym also employs
+spinner tiles
+to confuse and disorient any challengers. Go north through the center room. Battle Ace Trainer Warren and Black Belt Takashi, so that Takashi walks away from the north wall. Return to the entrance and follow the spinner tiles north and west to reach the Gym Leader.
+Viridian Gym
+Trainers
+Trainer
+Pokémon
+Tamer
+Cole
+Reward:
+$
+1560
+Arbok
+♂
+Lv.
+39
+No item
+Tauros
+♂
+Lv.
+39
+No item
+Black Belt
+Kiyo
+Reward:
+$
+1032
+Machoke
+♂
+Lv.
+43
+Black Belt
+Cooltrainer
+Samuel
+Reward:
+$
+1404
+Sandslash
+♂
+Lv.
+37
+No item
+Sandslash
+♂
+Lv.
+37
+No item
+Rhyhorn
+♂
+Lv.
+38
+No item
+Nidorino
+♂
+Lv.
+39
+No item
+Nidoking
+♂
+Lv.
+39
+No item
+Cooltrainer
+Yuji
+Reward:
+$
+1368
+Sandslash
+♂
+Lv.
+38
+No item
+Graveler
+♂
+Lv.
+38
+No item
+Onix
+♂
+Lv.
+38
+No item
+Graveler
+♂
+Lv.
+38
+No item
+Marowak
+♂
+Lv.
+38
+No item
+Black Belt
+Atsushi
+Reward:
+$
+960
+Machop
+♂
+Lv.
+40
+Black Belt
+Machoke
+♂
+Lv.
+40
+Black Belt
+Tamer
+Jason
+Reward:
+$
+1720
+Rhyhorn
+♂
+Lv.
+43
+No item
+Cooltrainer
+Warren
+Reward:
+$
+1404
+Marowak
+♂
+Lv.
+37
+No item
+Marowak
+♂
+Lv.
+37
+No item
+Rhyhorn
+♂
+Lv.
+38
+No item
+Nidorina
+♀
+Lv.
+39
+No item
+Nidoqueen
+♀
+Lv.
+39
+No item
+Black Belt
+Takashi
+Reward:
+$
+912
+Machoke
+♂
+Lv.
+38
+Black Belt
+Machop
+♂
+Lv.
+38
+Black Belt
+Machoke
+♂
+Lv.
+38
+Black Belt
+Leader
+Giovanni
+Viridian Gym
+FireRed and LeafGreen
+Reward:
+$
+5000
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+45
+Take Down
+Normal
+--
+Rock Blast
+Rock
+--
+Scary Face
+Normal
+--
+Earthquake
+Ground
+--
+Type:
+Ground
+Unknown
+Ability:
+Sand Veil
+Held item:
+None
+Dugtrio
+♂
+Lv.
+42
+Slash
+Normal
+--
+Sand Tomb
+Ground
+--
+Mud-Slap
+Ground
+--
+Earthquake
+Ground
+--
+Types:
+Poison
+Ground
+Ability:
+Poison Point
+Held item:
+None
+Nidoqueen
+♀
+Lv.
+44
+Double Kick
+Fighting
+--
+Earthquake
+Ground
+--
+Poison Sting
+Poison
+--
+Body Slam
+Normal
+--
+Types:
+Poison
+Ground
+Ability:
+Poison Point
+Held item:
+None
+Nidoking
+♂
+Lv.
+45
+Double Kick
+Fighting
+--
+Earthquake
+Ground
+--
+Poison Sting
+Poison
+--
+Thrash
+Normal
+--
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+50
+Take Down
+Normal
+--
+Rock Blast
+Rock
+--
+Scary Face
+Normal
+--
+Earthquake
+Ground
+--
+After the battle,
+Giovanni
+awards you the
+Earth Badge
+, which ensures obedience from all Pokémon, regardless of level. As a prize, he also gives you
+TM26
+(
+Earthquake
+), a TM he claims to have made when he first acted as Gym Leader. He seems remorseful of his actions, and officially disbands
+Team Rocket
+before disappearing.
+The Path to the Summit
+Having won all eight Gym Badges, the next destination is the
+Indigo Plateau
+, far to the northwest. The elite Trainers there are tough, but before you can challenge them, you must first survive a grueling cave known as
+Victory Road
+. Gather your strongest Pokémon team with access to
+Surf
+and
+Strength
+, and visit a Poké Mart to replenish your supply of Potions and Poké Balls.
+← Part 14
+One Island, Two Island, Three Island
+FireRed and LeafGreen
+walkthrough
+Route 22, Route 23, Victory Road
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

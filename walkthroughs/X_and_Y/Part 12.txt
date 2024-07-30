@@ -1,0 +1,1573 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_12
+Keywords: Route 18, Couriway Town, Route 19
+
+Walkthrough Text:
+Contents
+1
+Route 18
+1.1
+Inverse Battle house
+1.2
+Terminus Cave
+2
+Couriway Town
+2.1
+Meet up with Sycamore
+2.2
+Talk with the Townspeople
+2.3
+Couriway Hotel
+3
+Route 19
+3.1
+Challenge Accepted
+3.1.1
+Player chose Chespin
+3.1.2
+Player chose Fennekin
+3.1.3
+Player chose Froakie
+Route 18
+Route 18
+Route 18
+, or Vallée Étroite Way, is a lush mountain trail that runs southeast from
+Anistar City
+to
+Couriway Town
+. The area is best known for
+a recently-closed coal mine
+and the
+Inverse Battle
+House.
+Trainers
+Trainer
+Pokémon
+Youngster
+Jayden
+Reward:
+$
+1152
+Scolipede
+♂
+Lv.
+48
+No item
+Pinsir
+♂
+Lv.
+48
+No item
+Battle Girl
+Justine
+Reward:
+$
+2496
+Mienshao
+♀
+Lv.
+52
+No item
+Hiker
+Orestes
+Reward:
+$
+2800
+Stunfisk
+♂
+Lv.
+50
+No item
+Sky Trainer
+Jeremy
+Reward:
+$
+5000
+Ninjask
+♂
+Lv.
+46
+No item
+Drifblim
+♂
+Lv.
+47
+No item
+Flygon
+♂
+Lv.
+50
+No item
+Black Belt
+Yanis
+Reward:
+$
+2400
+Sawk
+♂
+Lv.
+49
+No item
+Pangoro
+♂
+Lv.
+50
+No item
+Lass
+Sara
+Reward:
+$
+1152
+Granbull
+♂
+Lv.
+48
+No item
+Dedenne
+♀
+Lv.
+48
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Torkoal
+X
+Y
+Grass
+44-45
+Average
+Gurdurr
+X
+Y
+Grass
+44-46
+Average
+Sandslash
+X
+Y
+Grass
+46
+Rare
+Graveler
+X
+Y
+Grass
+45-46
+Rare
+Lairon
+X
+Y
+Grass
+46
+Rare
+Pupitar
+X
+Y
+Grass
+46
+Rare
+Durant
+X
+Y
+Grass
+44
+Rare
+Heatmor
+X
+Y
+Grass
+45-46
+Very Rare
+Red Flowers
+Sandslash
+X
+Y
+Red Flowers
+44-46
+Average
+Lairon
+X
+Y
+Red Flowers
+44-46
+Average
+Pupitar
+X
+Y
+Red Flowers
+44-46
+Average
+Gurdurr
+X
+Y
+Red Flowers
+45-46
+Average
+Graveler
+X
+Y
+Red Flowers
+45-46
+Rare
+Torkoal
+X
+Y
+Red Flowers
+46
+Rare
+Durant
+X
+Y
+Red Flowers
+44
+Rare
+Heatmor
+X
+Y
+Red Flowers
+45
+Very Rare
+Horde Encounter
+Geodude
+X
+Y
+Horde Encounter
+23
+Common
+Durant
+X
+Y
+Horde Encounter
+23
+Average
+Durant
+X
+Y
+Horde Encounter
+24
+Rare
+with Heatmor
+Heatmor
+X
+Y
+Horde Encounter
+24
+Rare
+with Durant
+Rustling bush
+Durant
+X
+Y
+Rustling bush
+44-46
+Common
+Heatmor
+X
+Y
+Rustling bush
+45
+Rare
+Rock Smash
+Graveler
+X
+Y
+Rock Smash
+44-46
+Common
+Shuckle
+X
+Y
+Rock Smash
+44-46
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+In a bush, behind the Route 18 sign (hidden)
+X
+Y
+Hyper Potion
+South of the Route 18 sign, beneath a ledge
+X
+Y
+Wacan Berry
+From the Berry tree, north of the main road (requires
+Cut
+)
+X
+Y
+PP Up
+East of the Berry tree, accessed via grind rail
+X
+Y
+Ether
+Between the bridge and the Inverse Battle house (hidden)
+X
+Y
+X Defense
+In the corner near Black Belt Yanis (requires
+Rock Smash
+)
+X
+Y
+Max Ether
+South of the third entrance to Terminus Cave
+X
+Y
+Super Potion
+South of Hiker Orestes, on a rock near the elevated tracks (hidden)
+X
+Y
+Honey
+In the red flower patch, northeast of Lass Sara (hidden,
+Recurring item
+occasionally)
+X
+Y
+Inverse Battle house
+Visit the house on the hill past the bridge to meet a Psychic who has invented a new type of battle, the
+Inverse Battle
+. In these unusual battles, the type chart is completely reversed. Moves that would normally be super-effective against their target are considered not very effective, and vice versa. For example, this means that
+Fire
+moves deal greater damage to
+Water
+Pokémon, and
+Dragon-type
+attacks can now hit
+Fairy
+Pokémon. You can have an Inverse Battle against Psychic Inver once per day, with him using a random selection of three Pokémon from
+a wide list of possibilities
+in each battle. If you win, he rewards you with a
+Rare Candy
+,
+Berry
+, or
+Evolution stone
+. If none of your Pokémon faint during battle,
+he rewards you
+with three of the same item.
+Terminus Cave
+The abandoned coal mine near the Inverse Battle house is known as
+Terminus Cave
+. It is possible to explore most of the cave at this point, but an Ace Trainer prevents anyone from reaching the deepest chamber. Professor Sycamore is waiting for you in
+Couriway Town
+, and there is surely some catching up to do after the events in
+Geosenge Town
+, so it may be best to hurry along for now. Perhaps you will return someday to investigate the rumors of a monster lurking in its dark tunnels...
+Couriway Town
+Couriway Town
+The rushing roar of
+Couriway Town
+'s giant waterfall is surprisingly soothing. The railway brings people from across the region to see the huge, majestic falls. Even though you're only passing through, don't let that stop you from taking a moment to enjoy the awesome spectacle of nature.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Lombre
+X
+Y
+Surfing
+44
+Common
+Floatzel
+X
+Y
+Surfing
+44
+Average
+Fishing
+Poliwag
+X
+Y
+Fishing
+Old Rod
+25
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+35
+Common
+Basculin
+X
+Y
+Fishing
+Good Rod
+35
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+35
+Average
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+45
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+45
+Average
+Basculin
+X
+Y
+Fishing
+Super Rod
+45
+Average
+Special Pokémon
+Occurs on random days in a random hotel after having spoken to the traders multiple times.
+Magikarp
+X
+Y
+Trade
+Gyarados
+5
+One
+Eevee
+X
+Y
+Trade
+Any Pokémon
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pretty Wing
+In a bush, southwest of the Pokémon Center (hidden)
+X
+Y
+Ether
+On the landing between the two staircases (hidden)
+X
+Y
+TM89
+(
+U-turn
+)
+At Couriway Station, from the old woman
+X
+Y
+Poké Ball
+At Couriway Station, between the two benches (hidden)
+X
+Y
+Rare Candy
+On the east side of Couriway Station
+X
+Y
+Revive
+From a girl in the house near the Pokémon Center, after being shown a Pokémon with
+Nuzzle
+X
+Y
+Burn Heal
+Near the two benches on the viewing platform (hidden)
+X
+Y
+Miracle Seed
+,
+Charcoal
+, or
+Mystic Water
+From the Beauty in the southwest house, if her quiz is answered correctly
+X
+Y
+TM55
+(
+Scald
+)
+From a girl in the hotel lobby, after correctly answering her quiz
+X
+Y
+Relax Ribbon
+From a woman in Couriway Hotel
+Fr
+X
+Y
+Fresh Water
+(one per day)
+From the man near the waterfalls, sold for
+$
+300
+X
+Y
+Oran Berry
+From the man near the waterfalls, given with your first Fresh Water purchase
+X
+Y
+Prism Scale
+In the shallow pool, northeast of the hotel (hidden)
+X
+Y
+Max Potion
+In the corner beneath the waterfalls, northeast of the hotel
+X
+Y
+Requires
+Waterfall
+TM80
+(
+Rock Slide
+)
+Southeast of the hotel (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Meet up with Sycamore
+As you approach the bridge,
+Professor Sycamore
+appears. He apologizes for not realizing the errors of
+Lysandre
+'s ways any sooner, then challenges you to a friendly battle. He has been brushing up on his skills, so expect a tougher fight this time around!
+Pokémon Professor
+Sycamore
+Couriway Town
+X and Y
+Reward:
+$
+7,000
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Venusaur
+♂
+Lv.
+50
+Petal Dance
+Grass
+Special
+--
+Worry Seed
+Grass
+Status
+--
+Synthesis
+Grass
+Status
+--
+Petal Blizzard
+Grass
+Physical
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+None
+Charizard
+♂
+Lv.
+50
+Flame Burst
+Fire
+Special
+--
+Wing Attack
+Flying
+Physical
+--
+Slash
+Normal
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Blastoise
+♂
+Lv.
+50
+Water Pulse
+Water
+Special
+--
+Aqua Tail
+Water
+Physical
+--
+Iron Defense
+Steel
+Status
+--
+Skull Bash
+Normal
+Physical
+--
+Talk with the Townspeople
+Speaking with the residents is both informative and profitable, so be sure to visit with everyone!
+Climb the stairway to Couriway Station and talk to the Madame to receive
+TM89
+(
+U-turn
+).
+Visit the house near the Pokémon Center. The Schoolgirl inside wants to see a Pokémon with
+Nuzzle
+. Show her a Pokémon, like
+Pikachu
+or
+Dedenne
+, that knows this move to get a
+Revive
+.
+Stop by the house south of the bridge and speak to the Beauty inside. She wants to see how well you know your first Pokémon, and quizzes you on its height and weight. Answer correctly to obtain either a
+Miracle Seed
+,
+Charcoal
+, or
+Mystic Water
+.
+Couriway Hotel
+Couriway Hotel is located on the south side of town. Talk to the girl in the lobby for another quizzical question; answer correctly to obtain
+TM55
+(
+Scald
+).
+Mr. Bonding
+can be found upstairs, waiting to meet you again. This time, he grants you the
+Stealth Power
+O-Power, which decreases the chance of encountering wild Pokémon.
+On Fridays, there is a woman upstairs who will give a
+Relax Ribbon
+to your lead Pokémon.
+Route 19
+Route 19
+Route 19
+, or Grande Vallée Way, consists of a large valley between
+Couriway Town
+in the northeast and
+Snowbelle City
+in the southwest. Many flowers line the upper path, while the lower path leads to a less-inviting swampy basin. The route's most impressive landmark is the long bridge that spans the swampy gorge.
+Trainers
+Trainer
+Pokémon
+Hex Maniac
+Josette
+Reward:
+$
+1600
+Pumpkaboo
+♀
+Lv.
+50
+No item
+Pumpkaboo
+♀
+Lv.
+50
+No item
+Rangers
+Ivy & Orrick
+Reward:
+$
+8480
+Tauros
+♂
+Lv.
+53
+No item
+Miltank
+♀
+Lv.
+53
+No item
+Swimmer ♀
+Coral
+Reward:
+$
+832
+Stunfisk
+♀
+Lv.
+52
+No item
+Pokémon Ranger
+Clementine
+Reward:
+$
+4320
+Alomomola
+♀
+Lv.
+54
+No item
+Pokémon Ranger
+Ambre
+Reward:
+$
+4080
+Emolga
+♀
+Lv.
+51
+No item
+Grumpig
+♀
+Lv.
+51
+No item
+Pokémon Ranger
+Shinobu
+Reward:
+$
+4080
+Zangoose
+♂
+Lv.
+51
+No item
+Beartic
+♂
+Lv.
+51
+No item
+Sky Trainer
+Sera
+Reward:
+$
+5200
+Noctowl
+♀
+Lv.
+50
+No item
+Aerodactyl
+♂
+Lv.
+52
+No item
+Fairy Tale Girl
+Lovelyn
+Reward:
+$
+1568
+Mr. Mime
+♀
+Lv.
+49
+No item
+Azumarill
+♀
+Lv.
+49
+No item
+Aromatisse
+♀
+Lv.
+49
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Purple Flowers
+Weepinbell
+X
+Y
+Purple Flowers
+46-48
+Average
+Drapion
+X
+Y
+Purple Flowers
+47-48
+Average
+Quagsire
+X
+Y
+Purple Flowers
+46-48
+Rare
+Karrablast
+X
+Y
+Purple Flowers
+47
+Rare
+Shelmet
+X
+Y
+Purple Flowers
+47
+Rare
+Sliggoo
+X
+Y
+Purple Flowers
+46-47
+Rare
+Haunter
+X
+Y
+Purple Flowers
+47
+Very Rare
+Carnivine
+X
+Y
+Purple Flowers
+46
+Very Rare
+Yellow Flowers
+Quagsire
+X
+Y
+Yellow Flowers
+46-48
+Average
+Sliggoo
+X
+Y
+Yellow Flowers
+46-47
+Average
+Weepinbell
+X
+Y
+Yellow Flowers
+46-48
+Rare
+Drapion
+X
+Y
+Yellow Flowers
+47-48
+Rare
+Karrablast
+X
+Y
+Yellow Flowers
+47
+Rare
+Shelmet
+X
+Y
+Yellow Flowers
+47
+Rare
+Haunter
+X
+Y
+Yellow Flowers
+47
+Very Rare
+Carnivine
+X
+Y
+Yellow Flowers
+46
+Very Rare
+Horde Encounter
+Weepinbell
+X
+Y
+Horde Encounter
+24
+Common
+Gligar
+X
+Y
+Horde Encounter
+24
+Average
+Arbok
+X
+Y
+Horde Encounter
+25
+Rare
+Puddle
+Quagsire
+X
+Y
+Puddle
+46-48
+Average
+Stunfisk
+X
+Y
+Puddle
+47
+Average
+Sliggoo
+X
+Y
+Puddle
+47-48
+Average
+Karrablast
+X
+Y
+Puddle
+47
+Rare
+Shelmet
+X
+Y
+Puddle
+47
+Rare
+Haunter
+X
+Y
+Puddle
+47
+Very Rare
+Carnivine
+X
+Y
+Puddle
+46
+Very Rare
+Surfing
+Quagsire
+X
+Y
+Surfing
+46
+Common
+Stunfisk
+X
+Y
+Surfing
+46, 48
+Average
+Sliggoo
+X
+Y
+Surfing
+47
+Rare
+Fishing
+Poliwag
+X
+Y
+Fishing
+Old Rod
+25
+100%
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+35
+Average
+Barboach
+X
+Y
+Fishing
+Good Rod
+35
+Common
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+45
+Common
+Whiscash
+X
+Y
+Fishing
+Super Rod
+45
+Average
+Politoed
+X
+Y
+Fishing
+Super Rod
+50
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Net Ball
+On a rock, east of Hex Maniac Josette (hidden)
+X
+Y
+Max Revive
+South of Hex Maniac Josette, in a clearing among the stepping stones
+X
+Y
+Antidote
+In a purple flower patch, south of Sky Trainer Sera (hidden)
+X
+Y
+Damp Rock
+East of Pokémon Rangers Ivy & Orrick (hidden, requires
+Surf
+)
+X
+Y
+Rare Bone
+South of Swimmer ♀ Coral (requires
+Surf
+)
+X
+Y
+Escape Rope
+On the broken rocks next to Pokémon Ranger Clementine (hidden, requires
+Surf
+)
+X
+Y
+Toxic Plate
+North of Pokémon Ranger Ambre (requires
+Surf
+,
+Strength
+)
+X
+Y
+PP Up
+In the yellow flower patch, west of Pokémon Ranger Ambre (requires
+Surf
+)
+X
+Y
+Yache Berry
+From the Berry tree, east of Pokémon Ranger Shinobu (requires
+Surf
+)
+X
+Y
+TM36
+(
+Sludge Bomb
+)
+East of Pokémon Ranger Shinobu, near the Couriway gate (requires
+Surf
+)
+X
+Y
+HP Up
+In the southeast flower patch, near Fairy Tale Girl Lovelyn
+X
+Y
+HM05
+(
+Waterfall
+)
+From Shauna, after defeating her, Tierno, and Trevor on the bridge
+X
+Y
+Timer Ball
+West of the bridge (hidden)
+X
+Y
+Challenge Accepted
+As you cross the lengthy bridge that spans the great valley, Shauna arrives and challenges you to a battle.
+Player chose
+Chespin
+Pokémon Trainer
+Shauna
+Route 19
+X and Y
+Reward:
+$
+5100
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+49
+Charm
+Fairy
+Status
+--
+Play Rough
+Fairy
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Return
+Normal
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Goodra
+♂
+Lv.
+49
+Dragon Pulse
+Dragon
+Special
+--
+Sludge Wave
+Poison
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♀
+Lv.
+51
+Water Shuriken
+Water
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Double Team
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Fennekin
+Pokémon Trainer
+Shauna
+Route 19
+X and Y
+Reward:
+$
+5100
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+49
+Charm
+Fairy
+Status
+--
+Play Rough
+Fairy
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Return
+Normal
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Goodra
+♂
+Lv.
+49
+Dragon Pulse
+Dragon
+Special
+--
+Sludge Wave
+Poison
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♀
+Lv.
+51
+Spiky Shield
+Grass
+Status
+--
+Seed Bomb
+Grass
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Froakie
+Pokémon Trainer
+Shauna
+Route 19
+X and Y
+Reward:
+$
+5100
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+49
+Charm
+Fairy
+Status
+--
+Play Rough
+Fairy
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Return
+Normal
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Goodra
+♂
+Lv.
+49
+Dragon Pulse
+Dragon
+Special
+--
+Sludge Wave
+Poison
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♀
+Lv.
+51
+Mystical Fire
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+The moment that you finish your battle with Shauna, Tierno and Trevor appear. Tierno wastes no time in challenging you to another battle.
+Pokémon Trainer
+Tierno
+Route 19
+X and Y
+Reward:
+$
+5200
+Types:
+Fire
+Flying
+Ability:
+Flame Body
+Held item:
+None
+Talonflame
+♂
+Lv.
+48
+Swords Dance
+Normal
+Status
+--
+Acrobatics
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Poison Point
+Held item:
+None
+Roserade
+♀
+Lv.
+49
+Petal Dance
+Grass
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Shell Armor
+Held item:
+None
+Crawdaunt
+♂
+Lv.
+52
+Swords Dance
+Normal
+Status
+--
+Crabhammer
+Water
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle, Trevor decides to join the crowd and challenge you as well. He likes a fair fight though, and heals your Pokémon before battle.
+Pokémon Trainer
+Trevor
+Route 19
+X and Y
+Reward:
+$
+5100
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Raichu
+♂
+Lv.
+49
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Nuzzle
+Electric
+Physical
+--
+Slam
+Normal
+Physical
+--
+Types:
+Rock
+Flying
+Ability:
+Rock Head
+Held item:
+None
+Aerodactyl
+♂
+Lv.
+49
+Crunch
+Dark
+Physical
+--
+Ancient Power
+Rock
+Special
+--
+Sky Drop
+Flying
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Type:
+Fairy
+Unknown
+Ability:
+Flower Veil
+Held item:
+None
+Florges
+♀
+Lv.
+51
+Moonblast
+Fairy
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Confide
+Normal
+Status
+--
+Misty Terrain
+Fairy
+Status
+--
+That was a lot of battling, but don't worry, Serena/Calem is off training with the Mega Evolution guru, so that's it for now. Tierno and Trevor run off to catch more Pokémon, and Shauna gives you
+HM05
+(
+Waterfall
+), a gift from the group, before joining them.
+← Part 11
+Lysandre Labs, Geosenge Town, Team Flare Secret HQ
+X and Y
+walkthrough
+Snowbelle City, Route 20, Pokémon Village
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

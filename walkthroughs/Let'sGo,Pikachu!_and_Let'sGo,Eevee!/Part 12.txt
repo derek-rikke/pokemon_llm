@@ -1,0 +1,2240 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_12
+Keywords: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 12
+1.1
+Roadblock
+1.2
+Dazzle the Competition
+2
+Route 13
+3
+Route 14
+4
+Route 15
+4.1
+A Coveted Role
+5
+Fuchsia City
+5.1
+Prepare to Set Sail
+6
+Route 19
+6.1
+Treasure Trouble
+7
+Route 20 (East)
+7.1
+Potion Delivery Service
+7.2
+Seafoam Islands
+7.2.1
+1F
+7.2.2
+B1F (West)
+7.2.3
+B2F (South)
+7.2.4
+B1F (West)
+7.2.5
+B2F (Northwest)
+7.2.6
+B1F (Northeast)
+7.2.7
+B2F (Northeast)
+7.2.8
+B3F
+7.2.9
+B4F
+7.2.9.1
+VS Articuno
+7.2.10
+B3F
+8
+Route 20 (West)
+Route 12
+Route 12
+Route 12
+connects
+Lavender Town
+,
+Route 11
+, and
+Route 13
+. Beyond the northern gate, the area is also known as Silence Bridge. It is a favorite spot for Fishermen.
+Trainers
+Trainer
+Pokémon
+North of Snorlax
+Fisherman
+Ned
+Reward:
+$
+1,080
+3
+Poké Balls
+Staryu
+Lv.
+27
+No item
+Fisherman
+Chip
+Reward:
+$
+1,080
+3
+Poké Balls
+Poliwhirl
+♂
+Lv.
+27
+No item
+Fisherman
+Hank
+Reward:
+$
+1,080
+3
+Poké Balls
+Magikarp
+♂
+Lv.
+27
+No item
+Seaking
+♂
+Lv.
+27
+No item
+Poliwag
+♀
+Lv.
+27
+No item
+Fisherman
+Elliot
+Reward:
+$
+1,080
+3
+Poké Balls
+Gyarados
+♂
+Lv.
+27
+No item
+Magikarp
+♂
+Lv.
+27
+No item
+Ace Trainer
+Zach
+Reward:
+$
+2,900
+5
+Ultra Balls
+Tangela
+♂
+Lv.
+28
+No item
+Onix
+♂
+Lv.
+29
+No item
+South of Snorlax
+Fisherman
+Andrew
+Reward:
+$
+1,440
+3
+Poké Balls
+Tentacool
+♀
+Lv.
+36
+No item
+Kingler
+♂
+Lv.
+36
+No item
+Rocker
+Luca
+Reward:
+$
+1,008
+3
+Poké Balls
+Requires
+Chop Down
+Electabuzz
+♂
+Lv.
+36
+No item
+Camper
+Justin
+Reward:
+$
+700
+2
+Great Balls
+Nidoran♂
+Lv.
+35
+No item
+Nidorino
+♂
+Lv.
+35
+No item
+Coach Trainer
+Priya
+Reward:
+$
+3,900
+Butterfree
+♀
+Lv.
+38
+No item
+Clefable
+♀
+Lv.
+39
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+31-36
+20%
+Pidgeotto
+P
+E
+Grass
+31-36
+20%
+Oddish
+P
+E
+Grass
+31-36
+15%
+Gloom
+P
+E
+Grass
+31-36
+15%
+Bellsprout
+P
+E
+Grass
+31-36
+15%
+Weepinbell
+P
+E
+Grass
+31-36
+15%
+Krabby
+P
+E
+Grass
+31-36
+15%
+Farfetch'd
+P
+E
+Grass
+31-36
+10%
+Kingler
+P
+E
+Grass
+31-36
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+31-36
+-
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+31-36
+30%
+Horsea
+P
+E
+Sea Skim
+31-36
+30%
+Magikarp
+P
+E
+Sea Skim
+31-36
+30%
+Tentacruel
+P
+E
+Sea Skim
+31-36
+5%
+Seadra
+P
+E
+Sea Skim
+31-36
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM50
+(
+Roost
+)
+From the girl on the second floor of the Lavender gate
+P
+E
+TM24
+(
+X-Scissor
+)
+Southeast of the Lavender Town gate (requires
+Sea Skim
+)
+P
+E
+Lure
+Southwest of the Lavender gate, near Fisherman Chip
+P
+E
+Repel
+On the platform jutting out east from the pathway, north of the Fishing Area
+P
+E
+Ultra Ball
+×3
+Northeast of the path to
+Route 11
+, near Ace Trainer Zach
+P
+E
+Silver Pinap Berry
+×5
+East of Route 11, on the fence below the big tree
+(hidden)
+P
+E
+TM32
+(
+Dazzling Gleam
+)
+From Mr. Dazzling inside his home, after reminding him of his name
+P
+E
+Water Stone
+Southwest of Mr. Dazzling's house (requires
+Chop Down
+)
+P
+E
+Awakening
+Southeast of Mr. Dazzling's house, near Camper Justin
+P
+E
+TM59
+(
+Dream Eater
+)
+From Coach Trainer Priya, after defeating her
+P
+E
+Max Lure
+South end of the route, in the tall grass patch (requires Chop Down)
+P
+E
+Other items
+Pearl
+From the water to the east of Mr. Dazzling's house, sometimes found by the
+player
+'s
+walking
+Water-type
+Pokémon
+P
+E
+Big Pearl
+Heart Scale
+Roadblock
+Halfway through the route, a second
+Snorlax
+has fallen asleep in another inconvenient place. Use the
+Poké Flute
+like before to wake the Pokémon, and it attacks in a grumpy rage!
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Snorlax
+♂
+/
+♀
+Lv.
+34
+Yawn
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Headbutt
+Normal
+Physical
+--
+Rest
+Psychic
+Status
+--
+Dazzle the Competition
+The house to the south of the intersection with
+Route 11
+is home to an elderly man and former
+Move Deleter
+who cannot remember his name. Remind him that his name is Mr. Dazzling, and he gives you
+TM32
+(
+Dazzling Gleam
+) as thanks.
+Route 13
+Route 13
+Route 13
+is a difficult, narrow path that leads westward to
+Route 14
+. Many Trainers can be found among the maze of fences.
+Trainers
+Trainer
+Pokémon
+Camper
+Nash
+Reward:
+$
+740
+2
+Great Balls
+Sandshrew
+♂
+Lv.
+37
+No item
+Sandslash
+♂
+Lv.
+37
+No item
+Picnicker
+Susie
+Reward:
+$
+740
+2
+Great Balls
+Jigglypuff
+♀
+Lv.
+37
+No item
+Weepinbell
+♀
+Lv.
+37
+No item
+Beauty
+Lola
+Reward:
+$
+2,220
+3
+Poké Balls
+Chansey
+♀
+Lv.
+37
+No item
+Ace Trainer
+Kite
+Reward:
+$
+4,000
+5
+Ultra Balls
+Requires
+Chop Down
+Graveler
+♀
+Lv.
+39
+No item
+Magneton
+Lv.
+39
+No item
+Haunter
+♂
+Lv.
+40
+No item
+Bug Catcher
+Milo
+Reward:
+$
+432
+3
+Poké Balls
+Scyther
+♂
+Lv.
+36
+No item
+Pinsir
+♂
+Lv.
+36
+No item
+Bird Keeper
+Robert
+Reward:
+$
+2,340
+3
+Poké Balls
+Doduo
+♂
+Lv.
+39
+No item
+Pidgeotto
+♀
+Lv.
+39
+No item
+Picnicker
+Gwen
+Reward:
+$
+740
+2
+Great Balls
+Raticate
+♀
+Lv.
+37
+No item
+Golduck
+♂
+Lv.
+37
+No item
+Beauty
+Sheila
+Reward:
+$
+2,220
+3
+Poké Balls
+Eevee
+♂
+Lv.
+37
+No item
+Persian
+♀
+Lv.
+37
+No item
+Camper
+Perry
+Reward:
+$
+740
+2
+Great Balls
+Growlithe
+♂
+Lv.
+37
+No item
+Nidorino
+♂
+Lv.
+37
+No item
+Punk Guy
+Jared
+Reward:
+$
+1,064
+3
+Poké Balls
+Golbat
+♂
+Lv.
+38
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+33-38
+20%
+Pidgeotto
+P
+E
+Grass
+33-38
+20%
+Oddish
+P
+E
+Grass
+33-38
+15%
+Gloom
+P
+E
+Grass
+33-38
+15%
+Bellsprout
+P
+E
+Grass
+33-38
+15%
+Weepinbell
+P
+E
+Grass
+33-38
+15%
+Krabby
+P
+E
+Grass
+33-38
+15%
+Farfetch'd
+P
+E
+Grass
+33-38
+10%
+Kingler
+P
+E
+Grass
+33-38
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+33-38
+-
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+33-38
+30%
+Horsea
+P
+E
+Sea Skim
+33-38
+30%
+Magikarp
+P
+E
+Sea Skim
+33-38
+30%
+Tentacruel
+P
+E
+Sea Skim
+33-38
+5%
+Seadra
+P
+E
+Sea Skim
+33-38
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+East edge of the tall grass patch (requires
+Chop Down
+)
+P
+E
+Golden Pinap Berry
+In a gap along the fence on the southern edge of the maze
+(hidden)
+P
+E
+Silver Nanab Berry
+×5
+Dead-end path, south of Punk Guy Jared
+(hidden)
+(daily)
+P
+E
+Full Heal
+Northwest part of the route, west of Camper Perry
+P
+E
+Route 14
+Route 14
+Route 14
+is a pleasant coastal road where the salty breeze blows in from the sea. The path runs south to
+Route 15
+.
+Trainers
+Trainer
+Pokémon
+Camper
+Beck
+Reward:
+$
+740
+2
+Great Balls
+Flareon
+♂
+Lv.
+37
+No item
+Camper
+Carter
+Reward:
+$
+740
+2
+Great Balls
+Psyduck
+♂
+Lv.
+37
+No item
+Dugtrio
+♂
+Lv.
+37
+No item
+Bird Keeper
+Benny
+Reward:
+$
+2,340
+3
+Poké Balls
+Pidgeotto
+♀
+Lv.
+39
+No item
+Fearow
+♂
+Lv.
+39
+No item
+Bird Keeper
+Donald
+Reward:
+$
+2,340
+3
+Poké Balls
+Fearow
+♂
+Lv.
+39
+No item
+Pidgeot
+♂
+Lv.
+39
+No item
+Ace Trainer
+Kindra
+Reward:
+$
+3,900
+5
+Ultra Balls
+Vaporeon
+♀
+Lv.
+40
+No item
+Sandslash
+♀
+Lv.
+39
+No item
+Dodrio
+♀
+Lv.
+39
+No item
+Punk Guy
+Harvey
+Reward:
+$
+1,064
+3
+Poké Balls
+Raticate
+♂
+Lv.
+38
+No item
+Raticate
+♂
+Lv.
+38
+No item
+Punk Guy
+Malik
+Reward:
+$
+1,064
+3
+Poké Balls
+Rhyhorn
+♂
+Lv.
+38
+No item
+Punk Guy
+Gerald
+Reward:
+$
+1,064
+3
+Poké Balls
+Magmar
+♂
+Lv.
+38
+No item
+Punk Guy
+Felix
+Reward:
+$
+1,064
+3
+Poké Balls
+Weezing
+♀
+Lv.
+38
+No item
+Roughneck
+Zeek
+Reward:
+$
+1,064
+3
+Poké Balls
+Machoke
+♂
+Lv.
+38
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+33-38
+20%
+Pidgeotto
+P
+E
+Grass
+33-38
+20%
+Oddish
+P
+E
+Grass
+33-38
+15%
+Bellsprout
+P
+E
+Grass
+33-38
+15%
+Gloom
+P
+E
+Grass
+33-38
+15%
+Weepinbell
+P
+E
+Grass
+33-38
+15%
+Venonat
+P
+E
+Grass
+33-38
+15%
+Venomoth
+P
+E
+Grass
+33-38
+9%
+Tauros
+P
+E
+Grass
+33-38
+5%
+Scyther
+P
+E
+Grass
+33-38
+1%
+Pinsir
+P
+E
+Grass
+33-38
+1%
+Rare Spawns
+Chansey
+P
+E
+Grass
+33-38
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+Eastern path; under the northeast bush near Bird Keeper Benny
+P
+E
+Nugget
+Western path; on the ledge to the south of the tall grass patch
+P
+E
+Golden Razz Berry
+Northern edge of the tall grass patch
+(hidden)
+(daily)
+P
+E
+Other items
+Nanab Berry
+In the centermost bush on the east side of the route, sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Silver Nanab Berry
+Golden Nanab Berry
+In the centermost bush on the east side of the route, rarely found by the
+player
+'s
+walking Pokémon
+P
+E
+Route 15
+Route 15
+Route 15
+leads west from
+Route 14
+back to
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+Northern path (requires Chop Down)
+Coach Trainer
+Midge
+Reward:
+$
+4,100
+Machoke
+♀
+Lv.
+40
+No item
+Magmar
+♂
+Lv.
+41
+No item
+Picnicker
+Yazmin
+Reward:
+$
+740
+2
+Great Balls
+Tangela
+♀
+Lv.
+37
+No item
+Seaking
+♂
+Lv.
+37
+No item
+Southern path
+Punk Guy
+Ernest
+Reward:
+$
+1,064
+3
+Poké Balls
+Primeape
+♂
+Lv.
+38
+No item
+Muk
+♂
+Lv.
+38
+No item
+Punk Guy
+Alex
+Reward:
+$
+1,064
+3
+Poké Balls
+Arbok
+♂
+Lv.
+38
+No item
+Beauty
+Lana
+Reward:
+$
+2,220
+3
+Poké Balls
+Growlithe
+♂
+Lv.
+37
+No item
+Growlithe
+♂
+Lv.
+37
+No item
+Growlithe
+♀
+Lv.
+37
+No item
+Bird Keeper
+Edwin
+Reward:
+$
+2,340
+3
+Poké Balls
+Dodrio
+♂
+Lv.
+39
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+33-38
+20%
+Pidgeotto
+P
+E
+Grass
+33-38
+20%
+Oddish
+P
+E
+Grass
+33-38
+15%
+Bellsprout
+P
+E
+Grass
+33-38
+15%
+Gloom
+P
+E
+Grass
+33-38
+15%
+Weepinbell
+P
+E
+Grass
+33-38
+15%
+Venonat
+P
+E
+Grass
+33-38
+15%
+Venomoth
+P
+E
+Grass
+33-38
+9%
+Scyther
+P
+E
+Grass
+33-38
+1%
+Pinsir
+P
+E
+Grass
+33-38
+1%
+Tauros
+P
+E
+Grass
+33-38
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+33-38
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM31
+(
+Fire Punch
+)
+Northern path; from Coach Trainer Midge, after defeating her (requires
+Chop Down
+)
+P
+E
+TM47
+(
+Surf
+)
+Northern path; west side of the hill (requires Chop Down)
+P
+E
+Golden Nanab Berry
+In the third patch of tall grass from the Route 14 entrance
+(hidden)
+(daily)
+P
+E
+Hyper Potion
+Southern path; west of Punk Guy Alex
+P
+E
+Ultra Ball
+×3
+Southern path; east of Punk Guy Ernest
+P
+E
+Assistant Set
+In the gate; from
+Professor Oak
+'s
+aide
+, after capturing 50 different species
+P
+E
+Other items
+Pinap Berry
+From the bush southeast of
+Coach Trainer
+Midge, sometimes found by the
+player
+'s
+walking Pokémon
+(requires
+Chop Down
+)
+P
+E
+Silver Pinap Berry
+Golden Pinap Berry
+From the bush southeast of Coach Trainer Midge, rarely found by the player's walking Pokémon (requires Chop Down)
+P
+E
+A Coveted Role
+Enter the gate and speak to another of
+Professor Oak
+'s
+aides
+. If you have caught at least 50 different species, the professor has asked him to give you an
+Assistant Set
+. When dressed in these clothes, it looks as though you work for the famous Professor Oak!
+Fuchsia City
+Prepare to Set Sail
+Traveling through the southern islands will require the use of
+Sea Skim
+and
+Strong Push
+. Be sure to bring along plenty of Poké Balls, too. Not only are there several new
+Water
+Pokémon to catch, but there is also rumored to be a
+Legendary Pokémon
+nesting somewhere along the way.
+Route 19
+Route 19
+Route 19
+runs south from the
+Fuchsia City
+beach to
+Route 20
+. It is a popular spot for swimming and sunbathing.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Reece
+Reward:
+$
+760
+3
+Poké Balls
+Dratini
+♀
+Lv.
+38
+No item
+Swimmer
+Richard
+Reward:
+$
+760
+3
+Poké Balls
+Starmie
+Lv.
+38
+No item
+Requires Sea Skim
+Beauty
+Alice
+Reward:
+$
+820
+3
+Poké Balls
+Golduck
+♀
+Lv.
+41
+No item
+Cloyster
+♂
+Lv.
+41
+No item
+Swimmer
+Axle
+Reward:
+$
+840
+3
+Poké Balls
+Poliwhirl
+♂
+Lv.
+42
+No item
+Swimmer
+David
+Reward:
+$
+840
+3
+Poké Balls
+Seel
+♀
+Lv.
+42
+No item
+Seel
+♂
+Lv.
+42
+No item
+Seadra
+♂
+Lv.
+42
+No item
+Beauty
+Connie
+Reward:
+$
+820
+3
+Poké Balls
+Vaporeon
+♀
+Lv.
+41
+No item
+Beauty
+Anya
+Reward:
+$
+820
+3
+Poké Balls
+Seel
+♀
+Lv.
+41
+No item
+Seaking
+♀
+Lv.
+41
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+37-42
+30%
+Staryu
+P
+E
+Sea Skim
+37-42
+30%
+Magikarp
+P
+E
+Sea Skim
+37-42
+30%
+Tentacruel
+P
+E
+Sea Skim
+37-42
+9%
+Starmie
+P
+E
+Sea Skim
+37-42
+1%
+Rare Spawns
+Lapras
+P
+E
+Sea Skim
+37-42
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Gold Teeth
+North side of the beach, from
+Jessie
+P
+E
+Full Heal
+On the beach, between the two ledges
+P
+E
+Revive
+×2
+Near the route's northwest corner, on a rock
+(hidden)
+(daily; requires
+Sea Skim
+)
+Near the route's southeast corner, on a rock
+(hidden)
+(daily; requires
+Sea Skim
+)
+P
+E
+Other items
+Pearl
+East side of the beach, sometimes found by the
+player
+'s
+walking
+Ground-type
+Pokémon (item determined randomly)
+P
+E
+Big Pearl
+Treasure Trouble
+On the first visit to the beach outside
+Fuchsia City
+, the
+Team Rocket trio
+can be found trying to come up with their next get-rich-quick scheme. It seems that they had visited
+GO Park
+looking for rare Pokémon, but the place was too complicated and they took off.
+Jessie
+accidentally kicks something hard in the sand, and
+James
+excitedly wonders if it could be some kind of treasure. They dig up the item, which shines gold in the sun, but it turns out to only be someone's
+Gold Teeth
+. They're too grossed out to take it, so Jessie tosses it at you as they run off.
+Route 20 (East)
+Route 20
+The waves of
+Route 20
+are a popular spot for swimming. The path is separated in the middle by the
+Seafoam Islands
+. The waters lead westward to
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+East of Seafoam Islands
+Swimmer
+Douglas
+Reward:
+$
+820
+3
+Poké Balls
+Gyarados
+♂
+Lv.
+42
+No item
+Swimmer
+Darrin
+Reward:
+$
+880
+3
+Poké Balls
+Golduck
+♂
+Lv.
+44
+No item
+Gyarados
+♂
+Lv.
+44
+No item
+Beauty
+Shirley
+Reward:
+$
+820
+3
+Poké Balls
+Wartortle
+♀
+Lv.
+41
+No item
+Starmie
+Lv.
+41
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+37-42
+45%
+Magikarp
+P
+E
+Sea Skim
+37-42
+45%
+Tentacruel
+P
+E
+Sea Skim
+37-42
+5%
+Gyarados
+P
+E
+Sea Skim
+37-42
+5%
+Rare Spawns
+Lapras
+P
+E
+Sea Skim
+37-42
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Potion Delivery Service
+Upon reaching the western of the
+Seafoam Islands
+, be sure to speak to the Poké Mart clerk near the cave entrance. She is part of the retail chain's Potion delivery service, and heals your Pokémon team to full health as a demonstration to attract more customers.
+Seafoam Islands
+Seafoam Islands
+The
+Seafoam Islands
+are a pair of islands that are shaped the same, as if they were twins. A shocking cold fills the caverns inside. Several large boulders and fast-moving currents hinder travel at first.
+Available Pokémon
+1F, B1F, B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+39-44
+20%
+Zubat
+P
+E
+Cave
+39-44
+16%
+Slowpoke
+P
+E
+Cave
+39-44
+15%
+Seel
+P
+E
+Cave
+39-44
+15%
+Jynx
+P
+E
+Cave
+39-44
+14%
+Slowbro
+P
+E
+Cave
+39-44
+10%
+Dewgong
+P
+E
+Cave
+39-44
+10%
+Rare Spawns
+Squirtle
+P
+E
+Cave
+39-44
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+39-44
+20%
+Zubat
+P
+E
+Cave
+39-44
+16%
+Slowpoke
+P
+E
+Cave
+39-44
+15%
+Seel
+P
+E
+Cave
+39-44
+15%
+Jynx
+P
+E
+Cave
+39-44
+14%
+Slowbro
+P
+E
+Cave
+39-44
+10%
+Dewgong
+P
+E
+Cave
+39-44
+10%
+Rare Spawns
+Squirtle
+P
+E
+Cave
+39-44
+-
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+39-44
+30%
+Shellder
+P
+E
+Sea Skim
+39-44
+30%
+Magikarp
+P
+E
+Sea Skim
+39-44
+30%
+Tentacruel
+P
+E
+Sea Skim
+39-44
+9%
+Cloyster
+P
+E
+Sea Skim
+39-44
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B4F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+39-44
+20%
+Zubat
+P
+E
+Cave
+39-44
+16%
+Slowpoke
+P
+E
+Cave
+39-44
+15%
+Seel
+P
+E
+Cave
+39-44
+15%
+Jynx
+P
+E
+Cave
+39-44
+14%
+Slowbro
+P
+E
+Cave
+39-44
+10%
+Dewgong
+P
+E
+Cave
+39-44
+10%
+Rare Spawns
+Squirtle
+P
+E
+Cave
+39-44
+-
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+39-44
+30%
+Shellder
+P
+E
+Sea Skim
+39-44
+30%
+Magikarp
+P
+E
+Sea Skim
+39-44
+30%
+Tentacruel
+P
+E
+Sea Skim
+39-44
+9%
+Cloyster
+P
+E
+Sea Skim
+39-44
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Ice Heal
+Southwest corner of the rocky ridge
+P
+E
+Rare Candy
+×5
+From Coach Trainer Yas, after defeating him
+P
+E
+Escape Rope
+On the rocky ridge, east of the first ladder
+P
+E
+Heart Scale
+×2
+East of the entrance, on a rock
+(hidden)
+(daily)
+North of the northeast ladder, on a rock
+(hidden)
+(daily)
+P
+E
+B1F
+Super Repel
+Southwest corner of the eastern ridge
+P
+E
+Max Revive
+Near the western hole, on a rock
+(hidden)
+P
+E
+Max Potion
+North of the smaller western ridge
+P
+E
+Great Ball
+×5
+Northeast; accessible by ladder from 1F
+P
+E
+Super Lure
+Southeast; west of the two ladders
+P
+E
+B2F
+Heart Scale
+×3
+Southwest of the northwestern-most ladder, on a rock
+(hidden)
+(daily)
+On the east wall near the northeastern-most ladder, on a rock
+(hidden)
+(daily)
+Southwest corner, on a rock
+(hidden)
+(daily)
+P
+E
+TM55
+(
+Ice Beam
+)
+South; south of the larger western ridge
+P
+E
+Pearl
+South; east of the rock pillar on the south wall, on a rock
+(hidden)
+(daily)
+P
+E
+Ice Stone
+Southeast; on the ridge, northwest of the two ladders
+P
+E
+B3F
+Super Lure
+North side of the western ridge, north of the northwest ladder
+P
+E
+X Speed
+Southwest part of the western ridge
+P
+E
+Revive
+Southwest part of the western ridge, on a rock
+(hidden)
+P
+E
+Hyper Potion
+Western ridge, southeast corner
+P
+E
+Ultra Ball
+×3
+East of the water's edge
+P
+E
+Super Repel
+Northeast; east of the two ladders
+P
+E
+B4F
+Big Pearl
+×3
+Northwest islet, southwest of
+Articuno
+South of the western ladder
+East side, on the north edge of the water
+P
+E
+Other items
+Pearl
+B1F; from a rock in the southwest corner:
+Sometimes found by the
+player
+'s
+walking
+Ice-type
+Pokémon (item determined randomly)
+B2F; from a rock along the northern wall, east of the ladder in the northwest corner:
+Sometimes found by the
+player
+'s
+walking
+Ice-type
+Pokémon (item determined randomly)
+B2F; from a rock along the southern wall, east of the ladder in the southwest corner:
+Sometimes found by the
+player
+'s
+walking
+Ice-type
+Pokémon (item determined randomly)
+P
+E
+Big Pearl
+Ice Stone
+1F
+Head northeast and use
+Strong Push
+to move the boulder to the hole in the floor so that it falls to the floor below. Climb up onto the rocky ridge and pick up the
+Ice Heal
+to the west. Go north and defeat Coach Trainer Yas to get five
+Rare Candies
+. Continue east past the first ladder and grab the
+Escape Rope
+. If you are running low on Poké Balls, speak to the man on the east side of the rocky ridge to get some more. Push the second boulder down the hole in the northeast area, then backtrack and climb down the first ladder.
+B1F (West)
+Go northeast over the rocky ridge to get a
+Super Repel
+, and climb down the ladder on the eastern ridge.
+B2F (South)
+Head south from the ridge to find
+TM55
+(
+Ice Beam
+) tucked away in a corner. Climb back up the same ladder to return to B1F.
+B1F (West)
+Continue northeastward and push the boulder down through the next break in the floor. Backtrack to the west and grab the
+Max Potion
+in the northwest corner before climbing the northwest ladder.
+B2F (Northwest)
+Walk eastward to find the same boulder and drop it down to the next floor. Once it falls through, return to the first floor and climb down the ladder in the northeast area.
+B1F (Northeast)
+Pick up the set of five
+Great Balls
+. Drop the boulder through the hole and jump down after it.
+B2F (Northeast)
+Push the boulder through the next hole and continue after it.
+B3F
+Moving these two boulders has caused them to fall into the seawater flowing through here, blocking the swift ocean currents and allowing you to use
+Sea Skim
+to reach new places. Climb onto the rocky ridge to the west and loop around in a clockwise direction to reach a
+Super Lure
+near the northwest ladder. Go south to reach an
+X Speed
+, then grab the
+Hyper Potion
+to the east. Head southwest to reach a group of boulders. In the alcove, push the boulder on the right to the north wall. Move the boulder on the left two steps southward, then one step westward. Next, push the boulder sitting to the south of the ladder all the way to the west. Move the boulder on the right so it is one step north of the eastern gap in the floor, and drop it down. Push the boulder on the left to the western hole and jump down behind it.
+B4F
+With the second set of boulders blocking the currents, you may now reach the small northwest island. Grab the
+Big Pearl
+from the water's edge and be sure to save your progress before approaching the legendary bird Pokémon.
+VS Articuno
+Articuno
+is likely the first of the
+Legendary birds
+that you will encounter. Use
+Fire
+-,
+Electric
+-, and
+Rock-type
+attacks to defeat it quickly and attempt to catch it. Legendary Pokémon will not let themselves be captured easily, so use
+Ultra Balls
+and
+Razz Berry
+variants for best results!
+Types:
+Ice
+Flying
+Mega Stone:
+None
+Articuno
+Lv.
+50
+Mirror Coat
+Psychic
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Agility
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+When the battle is over, surf to the rocky ridge and pick up the
+Big Pearl
+. Go northeast to find another
+Big Pearl
+on the water's edge, then backtrack and climb up the western ladder.
+B3F
+Walk up onto the rocky ridge and go east. Surf to the eastern shore, pick up the set of three
+Ultra Balls
+, and climb the ladder in the southeast. This takes you through a series of ladders back up to ground level; be sure to collect the
+Ice Stone
+and
+Super Lure
+along the way. Take the exit in the southeast part of 1F to re-emerge on
+Route 20
+through the eastern island.
+Route 20 (West)
+Route 20
+'s western half connects to
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+West of the islands
+Picnicker
+Irene
+Reward:
+$
+860
+2
+Great Balls
+Marowak
+♀
+Lv.
+43
+No item
+Gloom
+♀
+Lv.
+43
+No item
+Wigglytuff
+♀
+Lv.
+43
+No item
+Beauty
+Hansol
+Reward:
+$
+860
+3
+Poké Balls
+Slowbro
+♂
+Lv.
+43
+No item
+Bird Keeper
+Roger
+Reward:
+$
+2,700
+3
+Poké Balls
+Fearow
+♂
+Lv.
+45
+No item
+Dodrio
+♂
+Lv.
+45
+No item
+Pidgeot
+♀
+Lv.
+45
+No item
+Swimmer
+Dean
+Reward:
+$
+880
+3
+Poké Balls
+Starmie
+Lv.
+44
+No item
+Tentacruel
+♀
+Lv.
+44
+No item
+Kingler
+♂
+Lv.
+44
+No item
+Picnicker
+Missy
+Reward:
+$
+820
+2
+Great Balls
+Jolteon
+♀
+Lv.
+41
+No item
+Beauty
+Nora
+Reward:
+$
+820
+3
+Poké Balls
+Cloyster
+♂
+Lv.
+41
+No item
+Beauty
+Melissa
+Reward:
+$
+860
+3
+Poké Balls
+Seaking
+♂
+Lv.
+43
+No item
+Jynx
+♀
+Lv.
+43
+No item
+Ace Trainer
+Marty
+Reward:
+$
+4,600
+5
+Ultra Balls
+Golem
+♂
+Lv.
+45
+No item
+Pinsir
+♂
+Lv.
+46
+No item
+← Part 11
+Route 16, Route 17, Route 18, Fuchsia City, Safari Zone
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Cinnabar Island, Cinnabar Gym, Route 21
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

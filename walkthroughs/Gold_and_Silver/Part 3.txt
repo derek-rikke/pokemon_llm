@@ -1,0 +1,861 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_3
+Keywords: Route 31, Violet City, Sprout Tower, Violet Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 31
+2
+Violet City
+2.1
+Time for a Trade
+2.2
+Earl's Pokémon Academy
+2.3
+Sprout Tower
+2.3.1
+1F (Center)
+2.3.2
+2F (Northeast)
+2.3.3
+1F (North)
+2.3.4
+2F (Southwest)
+2.3.5
+3F
+2.3.5.1
+VS Sage Li
+2.4
+Violet Gym
+2.5
+Elm and the Egg
+2.6
+Pokémon Center
+Route 31
+Route 31
+Route 31
+is a short, winding path, linking
+Route 30
+with
+Violet City
+to the west. A cave entrance on the route's east side leads to
+Dark Cave
+, but the area is difficult to navigate without certain field moves.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Wade
+Reward:
+$
+32
+Caterpie
+♂
+Lv.
+2
+No item
+Caterpie
+♂
+Lv.
+2
+No item
+Weedle
+♂
+Lv.
+3
+No item
+Caterpie
+♂
+Lv.
+2
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+G
+S
+C
+Grass
+4-5
+35%
+35%
+0%
+Metapod
+G
+S
+C
+Grass
+5
+15%
+0%
+0%
+Metapod
+G
+S
+C
+Grass
+5-6
+0%
+15%
+0%
+Weedle
+G
+S
+C
+Grass
+4
+30%
+0%
+0%
+Weedle
+G
+S
+C
+Grass
+4-5
+0%
+35%
+0%
+Kakuna
+G
+S
+C
+Grass
+5
+10%
+0%
+0%
+Kakuna
+G
+S
+C
+Grass
+5-6
+0%
+15%
+0%
+Pidgey
+G
+S
+C
+Grass
+3
+30%
+30%
+0%
+Pidgey
+G
+S
+C
+Grass
+5
+10%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+3
+0%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+4-5
+0%
+0%
+40%
+Bellsprout
+G
+S
+C
+Grass
+3
+20%
+Hoothoot
+G
+S
+C
+Grass
+5
+0%
+0%
+10%
+Hoothoot
+G
+S
+C
+Grass
+3,5
+0%
+0%
+40%
+Ledyba
+G
+S
+C
+Grass
+4
+30%
+0%
+0%
+Spinarak
+G
+S
+C
+Grass
+4
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Antidote
+Near the sign outside Dark Cave
+G
+S
+Bitter Berry
+Southwest side of the pond, on the tree
+(daily)
+G
+S
+Poké Ball
+South of the pond and the ledge
+G
+S
+Later visit
+TM50
+(
+Nightmare
+)
+From the man near the pond, after delivering his friend's
+Spearow
+from
+Route 35
+G
+S
+Violet City
+Violet City
+Violet City
+is an old village surrounded by trees. The city stands between
+Route 31
+to the east,
+Route 32
+to the south, and
+Route 36
+to the west. It is a common destination for new Pokémon Trainers, as a
+Pokémon academy
+and the
+Violet Gym
+are both located here. A tall building known as
+Sprout Tower
+stands on the north side of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Togepi
+G
+S
+C
+Egg
+5
+One
+Special Pokémon
+Onix
+G
+S
+C
+Trade
+Bellsprout
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Bitter Berry
+Held by Rocky, an
+Onix
+received through a trade
+G
+S
+PRZCureBerry
+In the clearing near the southern exit, on the tree
+(daily)
+G
+S
+TM31
+(
+Mud-Slap
+)
+From
+Gym Leader
+Falkner
+, after defeating him
+G
+S
+Later visit
+Hyper Potion
+End of the path behind the Pokémon Center
+(hidden)
+(requires
+Cut
+)
+G
+S
+Rare Candy
+In the clearing beyond the eastern lake (requires Surf)
+G
+S
+PP Up
+In the clearing beyond the western lake (requires
+Surf
+)
+G
+S
+Time for a Trade
+Visit the house to the southwest of the Pokémon Center to find a boy who would like to
+trade
+Pokémon. He is willing to part with his
+Onix
+in exchange for a
+Bellsprout
+. Bellsprout can be found nearby on Routes
+31
+and
+32
+.
+Earl's Pokémon Academy
+The local
+Pokémon academy
+is run by a man named
+Earl Dervish
+, who is initially found standing between the Gym and Poké Mart. Speak to him, and he asks if you have defeated the local Gym; say no, and he leads you to the school while he twirls around at every turn along the way. The school teaches inexperienced Trainers about the basics of battle. A blackboard in the front of the room describes the five status ailments that can affect a Pokémon.
+Ailment
+Effect(s)
+BRN
+Burn
+Attack
+drops to 50%; inflicts damage equal to 1/8 of maximum
+HP
+every turn.
+FRZ
+Freeze
+Cannot move until thawed (about 10% chance of recovery per turn).
+PAR
+Paralysis
+Speed
+drops to 25%; cannot attack 1/4 of the time.
+PSN
+Poison
+Inflicts damage equal to 1/8 of maximum
+HP
+every turn; loses 1 HP for every four steps taken outside of battle.
+SLP
+Sleep
+Cannot move for one to six turns.
+Sprout Tower, 1F
+Sprout Tower, 2F
+Sprout Tower, 3F
+Sprout Tower
+Sprout Tower
+is a large pagoda held together by a flexible pillar that sways from side to side. This flexibility protects the tower from earthquakes and symbolizes the battles occurring on the upper floors. It is inhabited by Sages who study diligently and teach that all living beings coexist through cooperation. It is said that the swaying pillar was once a 100-foot-tall
+Bellsprout
+.
+Trainers
+Trainer
+Pokémon
+Sage
+Nico
+Reward:
+$
+96
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Sage
+Chow
+Reward:
+$
+96
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Sage
+Edmond
+Reward:
+$
+96
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Bellsprout
+♂
+Lv.
+3
+No item
+Sage
+Jin
+Reward:
+$
+192
+Bellsprout
+♂
+Lv.
+6
+No item
+Sage
+Neal
+Reward:
+$
+192
+Bellsprout
+♂
+Lv.
+6
+No item
+Sage
+Troy
+Reward:
+$
+224
+Bellsprout
+♂
+Lv.
+7
+No item
+Hoothoot
+♂
+Lv.
+7
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+2F-3F
+Rattata
+G
+S
+C
+2F-3F
+3-6
+100%
+100%
+0%
+Rattata
+G
+S
+C
+2F-3F
+3,5
+0%
+0%
+15%
+Gastly
+G
+S
+C
+2F-3F
+3-6
+0%
+0%
+85%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Parlyz Heal
+North; south of the northeast stairway
+G
+S
+2F
+X Defend
+Southwest; north of the western stairway
+G
+S
+3F
+Potion
+West of the stairway
+G
+S
+Escape Rope
+Northeast of the pillar
+G
+S
+HM05
+(
+Flash
+)
+From Sage Li, after defeating him
+G
+S
+1F (Center)
+The tower is three stories tall. The ground floor is open to tourists, who visit to see the unique style in which the tower is built. Pass by the swaying pillar and climb the stairs to 2F.
+2F (Northeast)
+Go east to battle Sage Nico and take the stairs back down to 1F.
+1F (North)
+Pick up the
+Parlyz Heal
+to the south. Head west to battle Sage Chow, then climb up the western stairway.
+2F (Southwest)
+Grab the
+X Defend
+to the north, then battle Sage Edmond in the southwest corner. Climb the southern stairway to 3F.
+3F
+Collect the
+Potion
+to the west. Continue northward to battle Sages Jin, Neal, and Troy.
+When you pass the swaying pillar, you find that
+Silver
+has just defeated the elder Sage, Li. He acknowledges Silver's skill as a Pokémon Trainer and hands him a
+Hidden Machine
+, but warns that he should not treat his Pokémon so harshly. Silver notices you at this point, and complains about the elder Sage being weak. He clearly has no intention of heeding the Sage's warning, as he is only interested in strong Pokémon that can win. He then uses an Escape Rope to leave the tower.
+Pick up the
+Escape Rope
+in the northeast corner, then speak to Sage Li. He welcomes you to the tower, and offers to test the bonds between you and your Pokémon.
+VS Sage Li
+Li's two
+Bellsprout
+can both boost their
+Special Attack
+with
+Growth
+, which lets them deal extra damage with
+Vine Whip
+.
+Grass-type
+Pokémon like these are vulnerable to
+Fire
+- and
+Flying-type
+attacks, so
+Pidgey
+,
+Hoothoot
+, and
+Cyndaquil
+will have little trouble getting past them. His Hoothoot, a Flying-type Pokémon, takes serious damage from
+Rock-type
+attacks.
+Sage
+Li
+Sprout Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+320
+Types:
+Grass
+Poison
+Held item:
+None
+Bellsprout
+♂
+Lv.
+7
+Vine Whip
+Grass
+--
+Growth
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Poison
+Held item:
+None
+Bellsprout
+♂
+Lv.
+7
+Vine Whip
+Grass
+--
+Growth
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Normal
+Flying
+Held item:
+None
+Hoothoot
+♂
+Lv.
+10
+Tackle
+Normal
+--
+Growl
+Normal
+--
+Foresight
+Normal
+--
+Struggle
+Normal
+--
+When the battle is over, Li rewards you with
+HM05
+(
+Flash
+). This field move lights up even the darkest caves, but to use it outside of battle, you must first defeat the
+Violet Gym
+.
+Violet Gym
+Violet Gym
+Violet City Pokémon Gym
+Leader: Falkner
+The Elegant Master of Flying Pokémon
+The
+Violet Gym
+specializes in
+Flying-type
+Pokémon. Flying-type moves are super effective against
+Bug
+-,
+Fighting
+-, and
+Grass-type
+Pokémon, while Flying-type Pokémon are weak to
+Electric
+-,
+Ice
+-, and
+Rock-type
+moves.
+The Gym has a simple layout, and features a winding walkway that passes over a seemingly bottomless pit. There are two Gym Trainers that must be defeated in order to reach the
+Gym Leader
+.
+Both of
+Falkner
+'s Pokémon can use
+Mud-Slap
+, a
+Ground-type
+attack that lowers the target's
+Accuracy
+. Despite its low power, it still deals increased damage to
+Fire
+Pokémon like
+Cyndaquil
+. His
+Pidgeotto
+'s
+Gust
+attack does well against
+Bug
+Pokémon, and
+Grass-type
+Pokémon like
+Chikorita
+. Flying Pokémon can do little against the high
+Defense
+of
+Rock-type
+Pokémon; if you traded for the boy's
+Onix
+, counterattack with
+Rock Throw
+for an easy victory.
+Violet Gym
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Abe
+Reward:
+$
+216
+Spearow
+♂
+Lv.
+9
+No item
+Bird Keeper
+Rod
+Reward:
+$
+168
+Pidgey
+♂
+Lv.
+7
+No item
+Pidgey
+♂
+Lv.
+7
+No item
+Leader
+Falkner
+Violet Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Held item:
+None
+Pidgey
+♂
+Lv.
+7
+Tackle
+Normal
+--
+Mud-Slap
+Ground
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Normal
+Flying
+Held item:
+None
+Pidgeotto
+♂
+Lv.
+9
+Tackle
+Normal
+--
+Mud-Slap
+Ground
+--
+Gust
+Flying
+--
+Struggle
+Normal
+--
+After the battle,
+Falkner
+awards you the
+Zephyr Badge
+, which gives your Pokémon a slight
+Attack
+boost during battle and enables the use of
+Flash
+in the field. He also gives you
+TM31
+(
+Mud-Slap
+) as a prize.
+Elm and the Egg
+Professor Elm
+calls when you step outside the Gym, and says that they have discovered something about the
+Mystery Egg
+. He informs you that his aide is in the nearby Pokémon Center, and asks that you pay him a visit.
+Pokémon Center
+Elm
+'s aide is waiting for you near the counter. Speak to him to receive a message from the professor, asking that you take the
+Mystery Egg
+. The aide explains that in order for a Pokémon to grow and hatch from an Egg, it must spend time with other active Pokémon. He asks that you call the professor when it hatches, then leaves.
+← Part 2
+Cherrygrove City, Route 30, Mr. Pokémon's house
+Gold and Silver
+walkthrough
+Route 32, Ruins of Alph, Union Cave, Route 33
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

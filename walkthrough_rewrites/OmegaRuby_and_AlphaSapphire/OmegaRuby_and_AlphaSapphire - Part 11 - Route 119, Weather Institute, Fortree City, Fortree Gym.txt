@@ -1,0 +1,45 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 11
+Keywords: Route 119, Weather Institute, Fortree City, Fortree Gym
+
+### Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 11
+
+**Route 119**
+- **Overview**: Route 119 features tall grass, trainers, and the Weather Institute at the north end.
+- **Key Trainers**: 
+  - Bug Catchers, Bug Maniacs, and Pokémon Rangers are present with Pokémon ranging from levels 26-31.
+- **Items**: 
+  - Max Repel, Full Heal, Zinc, Calcium, and various Berries can be found throughout the route.
+- **Mimic Circle**: Engage trainers in the southernmost grass patch who mimic your movements.
+- **Weather Institute**: 
+  - **Rest & Health**: Heal Pokémon inside.
+  - **Battles**: Fight Team Magma/Aqua Grunts and Admins (Tabitha/Shelly) on the 1st and 2nd floors.
+  - **Gift**: Receive Castform after defeating the Admin.
+  - **Items**: Collect Rocky Helmet and various weather-related rocks from the receptionist.
+
+**Rival Battle 3**
+- **Location**: After leaving the Weather Institute, battle your rival, May/Brendan, at Route 119.
+- **Victory**: Receive HM02 (Fly) after winning.
+
+**Fortree City**
+- **Overview**: A city built in trees with the Fortree Gym specializing in Flying-type Pokémon.
+- **Secret Base Guild**: 
+  - Talk to Aarune for a Proclamation and details on Secret Base mechanics.
+- **Items**: Find Super Repel, TM10 (Hidden Power), and trade for Skitty.
+
+**Fortree Gym**
+- **Leader**: Winona (Flying-type).
+- **Strategy**: Use Electric, Rock, or Ice moves against her Pokémon.
+- **Key Pokémon**:
+  - Swellow (Lv. 33) - Use Electric moves.
+  - Pelipper (Lv. 33) - Weak to Electric.
+  - Skarmory (Lv. 33) - Use Fire or Electric.
+  - Altaria (Lv. 35) - Use Rock or Fairy moves.
+
+**Gym Rewards**: Defeating Winona grants the Feather Badge and TM19 (Roost).
+
+**Next Steps**: 
+- Use Fly to travel back to previously visited locations. 
+- Head to Route 120 to continue your journey.
+
+This walkthrough provides essential details for progressing through Route 119, Fortree City, and the Fortree Gym, focusing on key battles, items, and strategies.

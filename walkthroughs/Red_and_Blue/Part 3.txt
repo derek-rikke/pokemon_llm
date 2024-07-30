@@ -1,0 +1,365 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 2
+1.1
+Viridian Forest
+2
+Pewter City
+2.1
+Calling All Challengers
+2.2
+Pewter Museum of Science
+2.3
+Pewter Gym
+Route 2
+Viridian Forest
+Viridian Forest
+Viridian Forest
+is a sprawling, wooded area located on
+Route 2
+. A natural maze, it is easy to get lost inside.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Reward:
+$
+60
+Weedle
+Lv.
+6
+No item
+Caterpie
+Lv.
+6
+No item
+Bug Catcher
+Reward:
+$
+70
+Weedle
+Lv.
+7
+No item
+Kakuna
+Lv.
+7
+No item
+Weedle
+Lv.
+7
+No item
+Bug Catcher
+Reward:
+$
+90
+Weedle
+Lv.
+9
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Weedle
+R
+B
+Y
+Grass
+3-5
+45%
+Caterpie
+R
+B
+Y
+Grass
+3-5
+45%
+Kakuna
+R
+B
+Y
+Grass
+4-6
+40%
+Metapod
+R
+B
+Y
+Grass
+4-6
+40%
+Caterpie
+R
+B
+Y
+Grass
+3
+5%
+Weedle
+R
+B
+Y
+Grass
+3
+5%
+Metapod
+R
+B
+Y
+Grass
+4
+5%
+Kakuna
+R
+B
+Y
+Grass
+4
+5%
+Pikachu
+R
+B
+Y
+Grass
+3, 5
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+Dead-end grassy path northwest of the south entrance
+R
+B
+Antidote
+×2
+West side of the lone tree near the south entrance
+(hidden)
+Northeast area of the forest, past a
+Trainer Tips
+sign
+R
+B
+Potion
+×2
+Dead-end path southeast of the north exit
+In front of the last Bug Catcher near the north exit
+(hidden)
+R
+B
+Follow the trail to the northwest to reach a
+Poké Ball
+in the tall grass. Return to the entrance, and this time head eastward. Battle the first
+Bug Catcher
+on the east side of the forest, then continue north to fight the second. Grab the nearby
+Antidote
+and turn west to the tall grass. Zigzag westward through the trees to reach a signpost. Explore the dead-end path to the southeast to get a
+Potion
+, then continue westward. Defeat one last Bug Catcher to reach the northern edge of the forest. Leave the gate to re-emerge on
+Route 2
+and continue north to
+Pewter City
+.
+Pewter City
+Pewter City
+Pewter City
+is a quiet city nestled in the northern mountains between
+Route 2
+and
+Route 3
+. The
+Pewter Museum of Science
+and the
+Pewter Gym
+are located here.
+Items
+Item
+Location
+Games
+TM34
+(
+Bide
+)
+From Brock, after defeating him
+R
+B
+Later visit
+Old Amber
+Pewter Museum; from a Scientist in the employee-only section (requires
+Cut
+)
+R
+B
+Calling All Challengers
+The local
+Gym Leader
+is looking for challengers, and the kid blocking the city's east exit will escort you to the Gym if you try to leave. This is the first city to sell
+Potions
+, so stock up at the Poké Mart before taking up the challenge.
+Pewter Museum of Science
+The
+Pewter Museum of Science
+is located on the north side of the city. It hosts a wide range of artifacts and exhibits, with a focus on
+fossil
+excavation and space exploration. Admission to the main building is
+$
+50 for a child's ticket. The smaller building next door is closed to the public.
+Pewter Gym
+Pewter Gym
+PEWTER CITY POKéMON GYM
+LEADER: BROCK
+The Rock Solid POKéMON Trainer!
+The
+Pewter Gym
+specializes in
+Rock-type
+Pokémon.
+Grass
+and
+Water
+attacks are the most effective here, as they deal serious damage to the Gym Trainer's Pokémon, and are doubly effective against
+Brock
+'s
+Rock
+/
+Ground
+Pokémon. Though
+Geodude
+and
+Onix
+resist
+Fire
+attacks, their poor
+Special
+stat allows
+Charmander
+'s
+Ember
+to inflict a decent amount of damage anyway. For an added power boost, consider raising Charmander to level 16, when it
+evolves
+into
+Charmeleon
+. An alternative method would be to raise a
+Caterpie
+until it evolves to
+Butterfree
+, then have it learn
+Confusion
+on Level 12. If Brock's Onix uses
+Bide
+, spend the next few turns using stat-lowering moves, as any damage it endures during this time will be returned for twice as much!
+Pewter Gym
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♂
+Reward:
+$
+220
+Diglett
+Lv.
+11
+No item
+Sandshrew
+Lv.
+11
+No item
+Brock
+Pewter Gym
+Red, Green
+, and
+Blue
+Reward:
+$
+1386
+Types:
+Rock
+Ground
+Geodude
+Lv.
+12
+Tackle
+Normal
+--
+Defense Curl
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Rock
+Ground
+Onix
+Lv.
+14
+Tackle
+Normal
+--
+Screech
+Normal
+--
+Bide
+Normal
+--
+Struggle
+Normal
+--
+After the battle,
+Brock
+awards you the
+Boulder Badge
+, which gives your Pokémon a slight
+Attack
+boost during battle and enables the use of
+Flash
+in the field. He also gives you
+TM34
+(
+Bide
+) as a prize.
+With the
+Pewter Gym
+defeated, your next destination is
+Cerulean City
+to the east. Visit the Poké Mart for Potions, Poké Balls, and an
+Escape Rope
+or two for the cave up ahead. Once you are ready, head east to reach
+Route 3
+.
+← Part 2
+Route 1, Viridian City, Oak's Lab, Route 2
+Red and Blue
+walkthrough
+Route 3, Mt. Moon, Route 4
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

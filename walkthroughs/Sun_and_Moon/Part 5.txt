@@ -1,0 +1,790 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_5
+Keywords: Route 3, Melemele Meadow, Seaward Cave, Kala'e Bay
+
+Walkthrough Text:
+Contents
+1
+Route 3
+1.1
+Unfriendly Skies
+1.2
+Lost...
+1.3
+Melemele Meadow
+1.3.1
+...and Found
+1.4
+Seaward Cave
+2
+Kala'e Bay
+3
+Route 3
+3.1
+Melemele Meadow
+3.2
+Rival Battle 3
+3.2.1
+Player chose Rowlet:
+3.2.2
+Player chose Litten:
+3.2.3
+Player chose Popplio:
+Route 3
+Route 3
+Route 3
+is a rocky path that leads eastward along the cliffs from
+Route 2
+and back around to
+Route 1
+in the south. The entrance to
+Melemele Meadow
+is located halfway through the route. The path overlooks
+Kala'e Bay
+to the east.
+Trainers
+Trainer
+Pokémon
+Rising Star
+Ian
+Reward:
+$
+624
+Psyduck
+♂
+Lv.
+13
+No item
+Rising Star
+Tatiana
+Reward:
+$
+624
+Petilil
+♀
+Lv.
+13
+No item
+Rising Star
+Joshua
+Reward:
+$
+624
+Growlithe
+♂
+Lv.
+13
+No item
+After defeating all other Trainers on the route
+Ace Trainer
+Makana
+Reward:
+$
+952
+Rockruff
+♂
+Lv.
+13
+Red Card
+Slowpoke
+♂
+Lv.
+14
+Red Card
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Two fields of grass north of bridge
+Spearow
+Spearow
+S
+M
+Grass
+9-12
+40%
+Mankey
+Mankey
+S
+M
+Grass
+9-12
+20%
+Cutiefly
+Cutiefly
+S
+M
+Grass
+9-12
+20%
+Delibird
+Delibird
+S
+M
+Grass
+9-12
+10%
+Yungoos
+Yungoos
+S
+M
+Grass
+9-12
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+9-12
+-
+10%
+Field of grass south of bridge
+Spearow
+Spearow
+S
+M
+Grass
+9-12
+49%
+Mankey
+Mankey
+S
+M
+Grass
+9-12
+20%
+Cutiefly
+Cutiefly
+S
+M
+Grass
+9-12
+20%
+Yungoos
+Yungoos
+S
+M
+Grass
+9-12
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+9-12
+-
+10%
+Bagon
+Bagon
+Salamence
+S
+M
+Grass
+9-12
+1%
+Ambush encounters
+Spearow
+Spearow
+S
+M
+Shadow
+11-12
+70%
+Rufflet
+Rufflet
+S
+M
+Shadow
+11-12
+30%
+Vullaby
+Vullaby
+S
+M
+Shadow
+11-12
+30%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+9-12
+100%
+Exclusively from
+Island Scan
+Cyndaquil
+N/A
+S
+M
+Grass
+12
+One
+Su
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Sharp Beak
+Middle of the southern path through the rocky area
+S
+M
+Stardust
+In the recess in the north side of the rocky outcrop (hidden)
+S
+M
+Heal Ball
+East of the northern grass patch
+S
+M
+Soothe Bell
+North of the bridge, from the Pokémon Breeder near the eastern grass patch
+S
+M
+After rescuing Nebby in Melemele Meadow
+Red Card
+From Ace Trainer Makana near the bridge, after defeating him
+S
+M
+Super Potion
+Southeast of the bridge, next to the rock
+S
+M
+Nest Ball
+South of the bridge, west of the grass patch overlooking the bay
+S
+M
+Later visit
+$
+3,000
+From a Sightseer near the Route 1 exit, if
+Rockruff
+is registered in the Pokédex
+S
+M
+TM83
+(
+Infestation
+)
+Northeast of the bridge, past the Pokémon Breeder (requires
+Tauros Charge
+)
+S
+M
+Unfriendly Skies
+The shadows of
+Flying-type
+Pokémon patrolling the skies are a common sight in the area. These Pokémon will
+ambush
+any Trainer who strays too close. Pokémon encountered this way may sometimes drop an item after battle, like a
+Sharp Beak
+or a
+Pretty Wing
+.
+Lost...
+Kukui
+is searching for
+Lillie
+about halfway through the route, standing near the north side of the wooden bridge. He inadvertently blocks you from moving any farther southward for the moment, so turn around and make a left at the nearest sign to investigate
+Melemele Meadow
+.
+Melemele Meadow
+Melemele Meadow
+Melemele Meadow
+is a secluded place where bright, yellow flowers grow in abundance. Wild Pokémon can be found among the blooms, while elevated earthen walkways facilitate travel through the area.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Cottonee
+Cottonee
+S
+M
+Yellow flowers
+9-12
+30%
+Petilil
+Petilil
+S
+M
+Yellow flowers
+9-12
+30%
+Cutiefly
+Cutiefly
+S
+M
+Yellow flowers
+9-12
+30%
+Oricorio
+Pom-Pom Style
+Oricorio
+S
+M
+Yellow flowers
+9-12
+20%
+Caterpie
+Caterpie
+Butterfree
+S
+M
+Yellow flowers
+9-12
+10%
+Metapod
+Caterpie
+Butterfree
+S
+M
+Yellow flowers
+9-12
+9%
+Butterfree
+N/A
+S
+M
+Yellow flowers
+9-12
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+South of the first flower field, near the entrance
+S
+M
+Honey
+×3
+West of the rock in the first flower field
+(hidden)
+Inside the eastern flower field, between the plateau and the southern edge of the field
+(hidden)
+North end of the western flower field, next to the large rock
+(hidden)
+S
+M
+Yellow Nectar
+×2
+Sparkling in the flowers near the male Sightseer on the ledge
+Night
+(regenerates daily)
+Sparkling in the flowers on the highest level and farthest from the entrance
+Night
+(regenerates daily)
+S
+M
+Net Ball
+West of the large flower patch, on the plateau near the Seaward Cave entrance
+S
+M
+Poison Barb
+Western part of the meadow, on a cliff in the southwest
+S
+M
+...and Found
+Lillie
+can be found near the meadow entrance. It turns out that she had taken off in pursuit of
+Nebby
+after its latest escape attempt. The Pokémon ran off through the flowers, but can be seen near the west side of the area. Speak to Lillie again before running off to have your Pokémon healed.
+Follow the dirt path southward to reach a
+Great Ball
+and enter the first flower patch. During nighttime hours, a sparkling spot can be found here; inspect it to find a bit of
+Yellow Nectar
+. Cross westward through the flowers and up the ramp, then pick up the
+Net Ball
+to the south. Follow the dirt path to the northeast and jump off the ledge near the male Sightseer to reach the second flower patch. Head west and climb up the hill, past Nebby. Cross through the flowers here to reach a
+Poison Barb
+, and a Photo Spot at the end of the path. Go back past Nebby and through the flower patch to the east, pass by the female Sightseer, and jump the ledge. Head southwest through the first flower patch and inspect the wall to find a hidden tunnel to
+Seaward Cave
+.
+Seaward Cave
+Seaward Cave
+Seaward Cave
+connects
+Melemele Meadow
+and
+Kala'e Bay
+. The path slopes downward to water level where it opens to the bay. It is filled with the salty smell of the sea.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+9-12
+70%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+9-12
+30%
+Exclusively from
+Island Scan
+Totodile
+N/A
+S
+M
+Cave
+12
+One
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+Near the tunnel to Melemele Meadow
+S
+M
+Heal Ball
+Behind a rock, southwest of the Melemele Meadow tunnel
+S
+M
+Super Potion
+West of the pool near the Kala'e Bay entrance
+S
+M
+Star Piece
+South of the pool near the Kala'e Bay entrance, in a rock
+(hidden)
+S
+M
+Never-Melt Ice
+North of the pool near the Kala'e Bay entrance
+S
+M
+Stardust
+Between three large rocks, west of the pool near the Kala'e Bay entrance
+(hidden)
+S
+M
+Later visit
+Max Revive
+Southwest part of the cave (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Expert Belt
+Behind the rocks on the northern path (requires
+Tauros Charge
+)
+S
+M
+An
+Escape Rope
+can be found near the entrance. Follow the passage south to reach a larger chamber with a
+Heal Ball
+to the west. Go east then south, ignoring the series of ledges for now. Take the nearest turn eastward for a dead-end path with a
+Never-Melt Ice
+, then backtrack and head southwest for a
+Super Potion
+. Continue southward to find another dead-end path with a
+Star Piece
+hidden in a rock. Follow the path eastward to reach the exit to
+Kala'e Bay
+.
+Kala'e Bay
+Kala'e Bay
+Kala'e Bay
+is regarded as one of the most scenic spots on
+Melemele Island
+. Though the area is accessible, it cannot be fully explored at the moment. Trainers with the ability to
+cross the water
+will be able to explore the small islands and the southwest beach. A
+Fishing Rod
+will be necessary to encounter several of the marine species here.
+Items
+Item
+Location
+Games
+Net Ball
+Water's edge, north of the Seaward Cave entrance
+S
+M
+Later visit (requires
+Lapras Paddle or Sharpedo Jet
+)
+Dive Ball
+On the island east of Seaward Cave
+S
+M
+Big Pearl
+On the island east of Seaward Cave
+(hidden, regenerates occasionally)
+S
+M
+Pearl
+Southwest beach, north of the grass-sand line
+(hidden, regenerates occasionally)
+S
+M
+TM05
+(
+Roar
+)
+South side of the southwest beach
+S
+M
+Route 3
+Melemele Meadow
+Return to
+Nebby
+on the north side of
+Melemele Meadow
+. Interact with it to trigger a cutscene where you return it to
+Lillie
+, who then heals your Pokémon as thanks. The two of you leave the meadow and find
+Hau
+near the entrance. He wants to see if he has learned anything from his trial, so prepare for battle!
+Rival Battle 3
+Player chose
+Rowlet
+:
+Pokémon Trainer
+Hau
+Route 3
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+13
+Growl
+Normal
+Status
+--
+Play Nice
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Electro Ball
+Electric
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Popplio
+♂
+Lv.
+14
+Water Gun
+Water
+Special
+--
+Growl
+Normal
+Status
+--
+Disarming Voice
+Fairy
+Special
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Player chose
+Litten
+:
+Pokémon Trainer
+Hau
+Route 3
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+13
+Growl
+Normal
+Status
+--
+Play Nice
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Electro Ball
+Electric
+Special
+--
+Types:
+Grass
+Flying
+Ability:
+Overgrow
+Held item:
+None
+Rowlet
+♂
+Lv.
+14
+Leafage
+Grass
+Physical
+--
+Growl
+Normal
+Status
+--
+Peck
+Flying
+Physical
+--
+Astonish
+Ghost
+Physical
+--
+Player chose
+Popplio
+:
+Pokémon Trainer
+Hau
+Route 3
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+13
+Growl
+Normal
+Status
+--
+Play Nice
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Electro Ball
+Electric
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Litten
+♂
+Lv.
+14
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Leer
+Normal
+Status
+--
+When the battle is over,
+Kukui
+arrives and thanks you for tracking
+Lillie
+down. Having defeated the one and only trial on
+Melemele Island
+, it is time to face the
+Kahuna
+. Continue south through
+Route 3
+and head west to
+Iki Town
+for
+Hala
+'s grand trial!
+← Part 4
+Route 2, Hau'oli Cemetery, Berry Fields, Verdant Cavern
+Sun and Moon
+walkthrough
+Melemele Grand Trial, Ten Carat Hill, Hau'oli City (Shopping Mall)
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

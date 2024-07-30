@@ -1,0 +1,50 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 16
+Keywords: Indigo Plateau
+
+**Part 16: Indigo Plateau Walkthrough**
+
+**Indigo Plateau Overview**  
+Indigo Plateau is the location of the Pokémon League in Kanto, where players face the Elite Four and the Champion after defeating all eight Gym Leaders. Prepare by visiting the Poké Mart (west) and Pokémon Center (east).
+
+**Trading**  
+- **Super Nerd (near Poké Mart)**: Trades Alolan Exeggutor for Exeggutor.
+
+**Madame Memorial**  
+- **Location**: Near the Pokémon Center.  
+- **Function**: Exchange a Heart Scale to teach Pokémon any level-up move.
+
+**Elite Four Battles**  
+Prepare healing items (Potions, Revives) for the following battles:
+
+1. **Lorelei (Ice-type)**  
+   - **Strategy**: Use Electric moves against her Water/Ice Pokémon.  
+   - **Pokémon**: Dewgong, Jynx, Cloyster, Slowbro, Lapras.  
+   - **Reward**: $10,400.
+
+2. **Bruno (Fighting-type)**  
+   - **Strategy**: Use Flying, Psychic, or Fairy moves.  
+   - **Pokémon**: Onix, Hitmonchan, Hitmonlee, Poliwrath, Machamp.  
+   - **Reward**: $10,600.
+
+3. **Agatha (Ghost/Poisons-type)**  
+   - **Strategy**: Use Ground or Psychic moves.  
+   - **Pokémon**: Arbok, Gengar, Golbat, Weezing, Gengar.  
+   - **Reward**: $10,800.
+
+4. **Lance (Dragon-type)**  
+   - **Strategy**: Use Ice, Electric, or Dragon moves.  
+   - **Pokémon**: Seadra, Aerodactyl, Gyarados, Charizard, Dragonite.  
+   - **Reward**: $11,000.
+
+**Champion Battle**  
+- **Opponent**: Trace, who uses Pidgeot (Mega Evolves).  
+- **Strategy**: Use Electric or Rock moves against Pidgeot; Water moves against Marowak and Rapidash; Electric against Slowbro; Ground moves against Jolteon/Raichu.  
+- **Pokémon**: Pidgeot, Vileplume, Marowak, Rapidash, Slowbro, Jolteon/Raichu.  
+- **Reward**: $13,680.
+
+**Hall of Fame**  
+After defeating Trace, Professor Oak congratulates you. Your victory is recorded in the Hall of Fame, and the game saves your progress. 
+
+**End of Walkthrough**  
+The adventure concludes with a return to Pallet Town, where your partner gathers flowers before the credits roll.

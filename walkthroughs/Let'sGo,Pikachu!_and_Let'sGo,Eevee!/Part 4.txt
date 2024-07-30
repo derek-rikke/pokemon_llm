@@ -1,0 +1,948 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_4
+Keywords: Route 3, Mt. Moon, Route 4
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 3
+1.1
+A Trainer of Trainers
+2
+Route 4 (West)
+2.1
+The Magikarp Salesman
+3
+Mt. Moon
+3.1
+1F
+3.2
+B2F (South)
+3.3
+1F
+3.4
+B2F (Northeast)
+3.5
+1F
+3.6
+B1F
+3.7
+B2F (Outer Area)
+4
+Route 4 (East)
+Route 3
+Route 3
+Route 3
+is a grassy road that leads east from
+Pewter City
+into the mountains around
+Route 4
+. Many Trainers can be found along the way as they raise their Pokémon for the upcoming cave.
+Trainers
+Trainer
+Pokémon
+Lass
+Janice
+Reward:
+$
+140
+3
+Poké Balls
+Oddish
+♀
+Lv.
+6
+No item
+Coach Trainer
+Kareem
+Reward:
+$
+1,100
+Bulbasaur
+♂
+Lv.
+11
+No item
+Youngster
+Calvin
+Reward:
+$
+120
+3
+Poké Balls
+Spearow
+♂
+Lv.
+6
+No item
+Camper
+Victor
+Reward:
+$
+140
+2
+Great Balls
+Nidoran♂
+Lv.
+7
+No item
+Picnicker
+Robin
+Reward:
+$
+140
+2
+Great Balls
+Nidoran♀
+Lv.
+7
+No item
+Youngster
+Ben
+Reward:
+$
+120
+3
+Poké Balls
+Rattata
+♂
+Lv.
+6
+No item
+Bug Catcher
+Greg
+Reward:
+$
+60
+3
+Poké Balls
+Kakuna
+♂
+Lv.
+5
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+3-8
+40%
+Spearow
+P
+E
+Grass
+3-8
+40%
+Rattata
+P
+E
+Grass
+3-8
+30%
+Spearow
+P
+E
+Grass
+3-8
+30%
+Ekans
+P
+E
+Grass
+3-8
+20%
+Sandshrew
+P
+E
+Grass
+3-8
+20%
+Mankey
+P
+E
+Grass
+3-8
+20%
+Rare Spawns
+Charmander
+P
+E
+Grass
+3-8
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+×2
+From Coach Trainer Kareem, after defeating him
+In the tall grass patch on the route's east end
+P
+E
+Potion
+South of Youngster Calvin, between the two ledges
+P
+E
+Poké Ball
+×3
+South of Youngster Calvin, on the lowest level
+P
+E
+Lure
+Sitting behind a bush, northeast of Picnicker Robin
+P
+E
+Other items
+Razz Berry
+From the bush near the route's east end; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Nanab Berry
+A Trainer of Trainers
+A short way into the route, a
+Coach Trainer
+will introduce himself to you. Recognizing you as a new Trainer, he explains that others like himself can be found in various places, training other Trainers. They provide a good challenge in battle and can give out good rewards, so go ahead and take him on!
+Route 4 (West)
+Route 4
+is divided into two sections by a large mountain. The smaller western area holds only a Pokémon Center and the entrance to the mysterious
+Mt. Moon
+.
+Trainers
+Trainer
+Pokémon
+Coach Trainer
+Oberon
+Reward:
+$
+1,300
+Meowth
+♀
+Lv.
+13
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spearow
+P
+E
+Grass
+7-12
+40%
+Rattata
+P
+E
+Grass
+7-12
+35%
+Spearow
+P
+E
+Grass
+7-12
+30%
+Rattata
+P
+E
+Grass
+7-12
+25%
+Ekans
+P
+E
+Grass
+7-12
+20%
+Sandshrew
+P
+E
+Grass
+7-12
+20%
+Mankey
+P
+E
+Grass
+7-12
+20%
+Psyduck
+P
+E
+Grass
+7-12
+5%
+Rare Spawns
+Charmander
+P
+E
+Grass
+7-12
+-
+Gift Pokémon
+Magikarp
+P
+E
+Gift
+5
+Purchase for
+$
+500
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM57
+(
+Pay Day
+)
+From Coach Trainer Oberon, after defeating him
+P
+E
+Escape Rope
+Among the rocks west of the Pokémon Center
+P
+E
+The Magikarp Salesman
+Inside the Pokémon Center,
+a shady man
+to the left of the counter offers to sell you a
+Magikarp
+for
+$
+500. The fish is nearly useless until it evolves into the powerful
+Gyarados
+at level 20. With enough money to spare, you can end up with a strong
+Water-type
+Pokémon sooner than normal.
+Mt. Moon
+Mt. Moon
+Mt. Moon
+is a mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as
+Moon Stones
+. There are many Trainers exploring the tunnels inside. Many cave-dwelling Pokémon, like
+Zubat
+and
+Paras
+, make their home here.
+Trainers
+1F
+Trainer
+Pokémon
+Bug Catcher
+Kent
+Reward:
+$
+84
+3
+Poké Balls
+Butterfree
+♂
+Lv.
+7
+No item
+Lass
+Evelyn
+Reward:
+$
+160
+3
+Poké Balls
+Bellsprout
+♀
+Lv.
+8
+No item
+Super Nerd
+Jovan
+Reward:
+$
+400
+3
+Poké Balls
+Grimer
+♂
+Lv.
+10
+No item
+Youngster
+Robby
+Reward:
+$
+160
+3
+Poké Balls
+Mankey
+♂
+Lv.
+8
+No item
+Lass
+Miriam
+Reward:
+$
+160
+3
+Poké Balls
+Clefairy
+♀
+Lv.
+8
+No item
+Youngster
+Josh
+Reward:
+$
+160
+3
+Poké Balls
+Sandshrew
+♂
+Lv.
+8
+No item
+Hiker
+Marcos
+Reward:
+$
+400
+3
+Poké Balls
+Geodude
+♂
+Lv.
+10
+No item
+Geodude
+♂
+Lv.
+10
+No item
+B2F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+252
+Rattata
+♂
+Lv.
+9
+No item
+Team Rocket Grunt
+Reward:
+$
+252
+Drowzee
+♂
+Lv.
+9
+No item
+Team Rocket Grunt
+Reward:
+$
+252
+Zubat
+♀
+Lv.
+9
+No item
+Super Nerd
+Miguel
+Reward:
+$
+400
+3
+Poké Balls
+Voltorb
+Lv.
+10
+No item
+Magnemite
+Lv.
+10
+No item
+Available Pokémon
+1F, B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+P
+E
+Cave
+5-10
+40%
+Geodude
+P
+E
+Cave
+5-10
+40%
+Paras
+P
+E
+Cave
+5-10
+15%
+Clefairy
+P
+E
+Cave
+5-10
+4%
+Onix
+P
+E
+Cave
+5-10
+1%
+Rare Spawns
+Chansey
+P
+E
+Cave
+5-10
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+P
+E
+Cave
+5-10
+40%
+Geodude
+P
+E
+Cave
+5-10
+34%
+Paras
+P
+E
+Cave
+5-10
+15%
+Clefairy
+P
+E
+Cave
+5-10
+9%
+Clefable
+P
+E
+Cave
+5-10
+1%
+Onix
+P
+E
+Cave
+5-10
+1%
+Rare Spawns
+Chansey
+P
+E
+Cave
+5-10
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+In the chamber to the west of the entrance
+P
+E
+Great Ball
+×5
+In the chamber to the west of the entrance, north of Bug Catcher Kent
+P
+E
+Awakening
+Southeast area, on the opposite side of the wall from the entrance
+P
+E
+Ether
+Southeast corner
+P
+E
+Repel
+East-central area, northeast of Youngster Robby
+P
+E
+Stardust
+Northeast corner, in a crater
+(hidden)
+(daily)
+P
+E
+Pearl
+Northwest corner
+P
+E
+Poké Ball
+Northwest corner; from a man near the final ladder, if the player has less than 10 Poké Balls (repeatable)
+P
+E
+B1F
+Big Mushroom
+Accessed via the first ladder from the western entrance, to the west of the second crater between two groups of rocks
+(hidden)
+(daily)
+P
+E
+B2F
+Rare Candy
+South; accessible via the first ladder found on 1F
+P
+E
+Moon Stone
+×2
+South; accessible via the first ladder found on 1F
+(hidden)
+(daily)
+Northeast; accessible via the second ladder found on 1F
+(hidden)
+(daily)
+P
+E
+Nugget
+Northeast; accessible via the second ladder found on 1F
+P
+E
+Revive
+×2
+Outer area; north of the ladder in the middle of the floor
+Outer area; west side, near the final Team Rocket Grunt
+P
+E
+Potion
+Outer area; northeast of the central ladder and the first Team Rocket Grunt
+P
+E
+Dome Fossil
+Main chamber; choice between the two Fossils, after defeating the Super Nerd on the northwest platform
+P
+E
+Helix Fossil
+Other items
+Tiny Mushroom
+B1F; accessed via the first ladder on 1F; found by
+walking
+Paras
+and
+Parasect
+, east of the ladder to B2F
+B1F; accessed via the second ladder on 1F; found by walking Paras and Parasect about midway between the ladders to 1F and B2F
+B1F; accessed via the third ladder on 1F; found by walking Paras and Parasect just south of the ladder to 1F
+P
+E
+Big Mushroom
+Tiny Mushroom
+B2F (South); found by walking Paras and Parasect, east of the
+Team Rocket Grunt
+B2F (Outer area); found by walking Paras and Parasect on the long western path, in the large area accessible from the third ladder on 1F or the cave's eastern entrance
+P
+E
+Big Mushroom
+1F
+When you first enter the cave, you run into the
+two shady characters
+that had previously blocked the road through
+Viridian City
+. They let slip that they are looking for rare
+Fossils
+to sell, and demand that you hand them over if you find any.
+Collect the
+Potion
+to the west, then battle Bug Catcher Kent to reach a set of 5
+Great Balls
+. Follow the tunnel eastward to battle Lass Evelyn and turn the corner.
+The red-haired woman from earlier
+is annoyed that she cannot get away from you, and runs off to the north. Climb down the nearest ladder to B2F.
+B2F (South)
+Grab the
+Rare Candy
+from the raised platform. Inspect the crater to find a hidden
+Moon Stone
+and take the ladder back to 1F.
+1F
+Go south to battle Super Nerd Jovan and pick up the nearby
+Awakening
+. Continue east past Youngster Robby to reach an
+Ether
+. Turn north through the eastern-most tunnel to pick up a
+Repel
+, then inspect the crater to the north for a
+Stardust
+. Battle Lass Miriam and continue westward.
+The blue-haired man
+tells you to stop following them and runs farther ahead. Climb down the second ladder to a different part of the basement.
+B2F (Northeast)
+Pick up the
+Nugget
+from the platform. Inspect the crater to find another hidden
+Moon Stone
+before returning to 1F.
+1F
+Continue westward along the tunnel. Grab the
+Pearl
+in the crater to the north, then climb the third ladder.
+B1F
+A short distance from the ladder, you catch up to the
+Meowth
+that belongs to the
+two shady characters
+, who runs off in a hurry.
+B2F (Outer Area)
+Go north to get a
+Revive
+, then head southeast to battle a
+Team Rocket
+Grunt and collect the nearby
+Potion
+.
+In the southeast corner, you find the two shady characters trying to convince Meowth to help them gather Fossils.
+Continue along the winding tunnel in a clockwise direction to the northwest, where you find another
+Revive
+and another Team Rocket Grunt blocking the way. Head north to be stopped by Super Nerd Miguel, who claims both the
+Helix Fossil
+and
+Dome Fossil
+lying here as his own. Defeat him, and he lets you choose one of them for yourself. The Helix Fossil was once a
+Omanyte
+, while the Dome Fossil was once an
+Kabuto
+. Go west toward the final ladder and you are ambushed by
+the shady duo and their Meowth
+, who finally introduce themselves as
+Jessie
+and
+James
+. They intend to steal the fossil you just acquired, and draw you into battle. As the first
+Double Battle
+you have encountered, the Pokémon in the top-left and top-center slots in your party will take part.
+Team Rocket
+and
+Team Rocket
+Jessie
+James
+Mt. Moon
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+1,152
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Ekans
+♂
+Lv.
+12
+Wrap
+Normal
+Physical
+--
+Acid
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Koffing
+♂
+Lv.
+12
+Poison Gas
+Poison
+Status
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterward, the pair runs off, leaving you free to climb the final ladder to the exit.
+Route 4 (East)
+Route 4
+Route 4
+is a one-way road leading downhill from the mountains to
+Cerulean City
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spearow
+P
+E
+Grass
+7-12
+40%
+Rattata
+P
+E
+Grass
+7-12
+35%
+Spearow
+P
+E
+Grass
+7-12
+30%
+Rattata
+P
+E
+Grass
+7-12
+25%
+Ekans
+P
+E
+Grass
+7-12
+20%
+Sandshrew
+P
+E
+Grass
+7-12
+20%
+Mankey
+P
+E
+Grass
+7-12
+20%
+Psyduck
+P
+E
+Grass
+7-12
+5%
+Rare Spawns
+Charmander
+P
+E
+Grass
+7-12
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Paralyze Heal
+South of the Mt. Moon exit
+P
+E
+Poké Ball
+×5
+On the northwest hill
+P
+E
+Repel
+East end of the southern-most part of the route
+P
+E
+PP Up
+East side of the route, in a bush to the east of the central plateau
+(hidden)
+(daily)
+P
+E
+Great Ball
+×3
+Next to a bush near the entrance to Cerulean City
+P
+E
+Other items
+Razz Berry
+In the bush between the plateaus; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Nanab Berry
+Later visit
+PP Max
+On the highest eastern plateau, accessed from Cerulean City (requires
+Sea Skim
+)
+P
+E
+← Part 3
+Viridian Forest, Route 2, Pewter City, Pewter Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

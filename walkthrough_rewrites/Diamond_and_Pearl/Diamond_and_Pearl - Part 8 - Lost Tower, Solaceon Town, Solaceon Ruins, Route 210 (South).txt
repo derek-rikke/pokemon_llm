@@ -1,0 +1,35 @@
+Game: Diamond_and_Pearl
+Part: 8
+Keywords: Lost Tower, Solaceon Town, Solaceon Ruins, Route 210 (South)
+
+**Part 8: Lost Tower, Solaceon Town, Solaceon Ruins, Route 210 (South)**
+
+### Lost Tower
+- **Location:** Sinnoh's Pokémon graveyard.
+- **1F:** Level up female Burmy for Trash Cloak Wormadam. Use stairs to 2F.
+- **2F:** Defeat Youngster Oliver. Collect **Oval Stone** (for Happiny) and **Stardust** (hidden).
+- **3F:** Face two Trainers. Find **Revive**. Catch rare **Golbat** for future Crobat.
+- **4F:** Collect **TM27 (Return)** and a hidden **Great Ball**. Last floor with Trainers.
+- **5F:** Receive **HM04 (Strength)** and **Cleanse Tag** from elderly women. Leave for Solaceon Town.
+
+### Solaceon Town
+- **Items:** Collect berries near Poké Mart. Obtain **Seal Case** from the woman in the eastern house.
+- **Pokémon Day Care:** Leave Pokémon to breed or raise levels. Get **Day Care Checker** from the man outside.
+- **Pokémon News Press:** Bring requested Pokémon for Poké Balls.
+- **Ruin Maniac:** Talk to him for **Pokémon History** (Pokétch upgrade).
+
+### Solaceon Ruins
+- **Unown:** Only location to capture Unown (level 14-30). Use Quick Balls and False Swipe.
+- **Items:** Hidden items in dead-end rooms. Collect **Mind Plate**, **Odd Incense**, and **Nugget** in the special chamber.
+- **Ruin Maniac Karl:** Battle for rewards.
+
+### Route 210 (South)
+- **Items:** Berry patch nearby. Collect **TM51 (Roost)** from a girl on a dirt mound. Find **Great Ball** (hidden).
+- **Café Cabin:** Purchase Moomoo Milk and battle Trainers.
+
+### Trainers on Route 210
+- **Jogger Wyatt:** Reward: $672 (Ponyta).
+- **Rancher Marco:** Reward: $680 (Aipom, Girafarig, Psyduck).
+- **Breeders:** Various levels and Pokémon, including Pichu and Cleffa.
+
+**Next Steps:** Head east from Café Cabin to Route 215. You can return to Solaceon Ruins for Unown later.

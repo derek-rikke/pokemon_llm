@@ -1,0 +1,43 @@
+Game: X_and_Y
+Part: 1
+Keywords: Introduction, Vaniville Town, Route 1, Aquacorde Town, Vaniville Town (Revisited)
+
+**Part 1 Walkthrough: Vaniville Town to Aquacorde Town**
+
+1. **Introduction**
+   - Select your language, character gender, skin tone, and name.
+   - Meet Professor Sycamore, who introduces you to the Pokémon world.
+
+2. **Vaniville Town**
+   - Items: 
+     - Running Shoes and Holo Caster (automatically obtained).
+   - Home:
+     - Examine the mirror to change clothes.
+     - Speak with your mom who suggests meeting neighbors.
+   - Head outside to meet Calem/Serena and Shauna, who invite you to Aquacorde Town.
+
+3. **Route 1**
+   - A short route connecting Vaniville and Aquacorde with no items or wild Pokémon.
+
+4. **Aquacorde Town**
+   - Items:
+     - Pokédex from Trevor after selecting your starter Pokémon.
+     - Prof's Letter from Tierno.
+     - Potion from the shopkeeper near the fountain.
+   - Meet friends at an outdoor table; choose your starter from:
+     - **Chespin (Grass)** – Strong against Water, Rock, Ground; weak to Fire, Bug, Poison, Flying, Ice.
+     - **Fennekin (Fire)** – Strong against Grass, Bug, Ice, Steel; weak to Water, Rock, Ground.
+     - **Froakie (Water)** – Strong against Fire, Rock, Ground; weak to Grass, Electric.
+   - After choosing, Shauna battles you.
+
+5. **Return to Vaniville Town**
+   - Deliver the Prof's Letter to your mom.
+   - She gives you a Town Map and a Potion.
+   - Mom's Rhyhorn says goodbye as you prepare for your adventure.
+
+6. **Aquacorde Town (Revisited)**
+   - Stock up on items (Potions and Poké Balls) before heading to Route 2. 
+   - Note: Buying 10 Poké Balls gives you a bonus Premier Ball.
+   - Heal Pokémon at the building with the red awning.
+
+**Next Steps: Head north to Route 2.**

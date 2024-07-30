@@ -1,0 +1,565 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_2
+Keywords: Cherrygrove City, Route 30, Mr. Pokémon's House, Professor Elm's Lab
+
+Walkthrough Text:
+Contents
+1
+Cherrygrove City
+1.1
+City Tour
+1.2
+Pokémon Center
+1.3
+Poké Mart
+2
+Route 30
+2.1
+Mr. Pokémon's house
+2.2
+A Terrible Tale
+3
+Cherrygrove City
+3.1
+Ambush!
+3.2
+Rival Battle 1
+3.2.1
+If the player chose Chikorita:
+3.2.2
+If the player chose Cyndaquil:
+3.2.3
+If the player chose Totodile:
+4
+New Bark Town
+4.1
+Professor Elm's Lab
+4.2
+Home
+4.2.1
+Safeguard Your Savings
+Cherrygrove City
+Cherrygrove City
+The Pokégear's Map
+Cherrygrove City
+is a small city between
+Route 29
+to the east and
+Route 30
+to the north. The air is filled with the smell of flowers and the salty sea breeze.
+Items
+Item
+Location
+Games
+Map Card
+From Guide Gent, after taking the city tour
+C
+Later visit
+Mystic Water
+From the man on the island (requires
+Surf
+)
+C
+City Tour
+An elderly man known by his nickname, Guide Gent, can be found on the east side of town. Speak to him to be taken on
+a tour
+of the city. He points out the
+Pokémon Center
+, the
+Poké Mart
+, the path to
+Route 30
+, and the sea, before ending the tour outside his home. Afterward, he gives you a
+Map Card
+to add to your Pokégear. This expansion card acts as a
+Town Map
+, allowing you to view the entire region. It even displays your current location!
+Pokémon Center
+The first building you will see is the
+Pokémon Center
+. This Pokémon hospital will heal your team to full health and eliminate any status ailments they may have. Each facility also has a PC for Trainers to use, where they can access their Pokémon storage and item storage. As Trainers may only carry six Pokémon with them at once, any others are immediately transferred to storage upon capture. It is a good idea to heal up and save your progress whenever you find a Pokémon Center.
+Poké Mart
+Another shop sits to the west of the Pokémon Center. This is the local
+Poké Mart
+; these stores offer a variety of Poké Balls, Potions, and other items. It is helpful to stock up on supplies whenever possible, as there is no telling what you may run into on your journey.
+Poké Ball
+After receiving
+Poké Balls
+from
+Elm
+'s
+aide
+$
+200
+Potion
+$
+300
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Awakening
+$
+250
+Route 30
+Route 30
+Mr. Pokémon's house
+Running north from
+Cherrygrove City
+,
+Route 30
+is a grassy path where many novice Trainers like to battle. The road diverges as it moves northward; the eastern branch leads to a clearing with
+Mr. Pokémon
+'s house, while the western branch leads uphill to
+Route 31
+. A battle between Pokémon Trainers initially blocks the western path.
+Trainers
+Trainer
+Pokémon
+After delivering the Mystery Egg to Professor Elm
+Youngster
+Joey
+Reward:
+$
+64
+Rattata
+♂
+Lv.
+4
+No item
+Youngster
+Mikey
+Reward:
+$
+64
+Pidgey
+♂
+Lv.
+2
+No item
+Rattata
+♂
+Lv.
+4
+No item
+Bug Catcher
+Don
+Reward:
+$
+48
+Caterpie
+♂
+Lv.
+3
+No item
+Caterpie
+♂
+Lv.
+3
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+G
+S
+C
+Grass
+3-4
+50%
+50%
+0%
+Weedle
+G
+S
+C
+Grass
+3
+5%
+5%
+0%
+Pidgey
+G
+S
+C
+Grass
+4
+10%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+3-4
+0%
+40%
+0%
+Zubat
+G
+S
+C
+Grass
+3
+0%
+0%
+5%
+Poliwag
+G
+S
+C
+Grass
+4
+0%
+0%
+20%
+Hoothoot
+G
+S
+C
+Grass
+3-4
+0%
+0%
+45%
+Ledyba
+G
+S
+C
+Grass
+3
+30%
+0%
+0%
+Spinarak
+G
+S
+C
+Grass
+3
+0%
+0%
+30%
+Hoppip
+G
+S
+C
+Grass
+4
+5%
+5%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Berry
+×2
+On the tree next to the southern house (daily)
+From the man in the southern house
+C
+Antidote
+In the grove of trees behind the southern house
+C
+Potion
+East branch; in the flower bed southwest of Mr. Pokémon's house
+(hidden)
+C
+PSNCureBerry
+East branch; on the tree to the west of Mr. Pokémon's house
+C
+Mystery Egg
+Northeast house; from Mr. Pokémon
+C
+Pokédex
+Northeast house; from Professor Oak, after obtaining the Mystery Egg
+C
+Later visit
+HP Up
+From Youngster
+Joey
+, after defeating him (fourth
+rematch
+only)
+C
+Mr. Pokémon's house
+Visit the house in the northeast clearing to meet
+Mr. Pokémon
+. He recognizes you right away as an associate of
+Professor Elm
+, and gives you the
+Mystery Egg
+. He says that he obtained the Egg from a couple who runs a
+Pokémon Day Care
+. Elm is the authority on Pokémon
+evolution
+, which is why he contacted him about the Egg, and even Mr. Pokémon's guest agrees. The man introduces himself as
+Professor Oak
+, and notices that Elm entrusted you with your
+first partner Pokémon
+. Seeing that you are dependable, Oak decides to give you a
+Pokédex
+. This handheld device is a high-tech encyclopedia that records data on every Pokémon you encounter, and will be complete when you catch a member of every species. Oak then leaves for his radio show in
+Goldenrod City
+. Speak to Mr. Pokémon to have him heal your Pokémon before you leave.
+A Terrible Tale
+When you step back outside,
+Professor Elm
+calls in a state of panic. He is too upset to describe what has happened, so hurry back to
+New Bark Town
+to investigate!
+Cherrygrove City
+Ambush!
+When you reach the east side of
+Cherrygrove City
+,
+the young, red-haired man
+that was spying on
+Elm
+'s Lab ambushes you. He knows that you received a Pokémon from the Lab, and calls it a waste for a wimp like you to have one of Elm's rare Pokémon. It turns out that he also has a Pokémon, and draws you into battle.
+Rival Battle 1
+When battling, each Trainer sends out one Pokémon at a time; both of these particular Pokémon are on
+Level
+5, indicated by the
+:L5
+aside each Pokémon. Below that is the health bar, which shows the Pokémon's remaining
+HP
+. A battle is won or lost when either side has no remaining Pokémon with the strength to continue.
+Choosing
+Fight
+will allow you to launch an attack against the target. Both combatants have two moves. The first will damage the opponent, and the other will lower one of its stats. If your Pokémon's HP runs low, be sure to use a Potion. Go to
+Pack
+to select the medicine and apply it to the Pokémon. If it is holding the Berry from
+Route 29
+, it will automatically consume the item when its HP falls below 50%.
+If the player chose
+Chikorita
+:
+???
+Cherrygrove City
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+300
+Type:
+Fire
+Unknown
+Held item:
+None
+Cyndaquil
+♂
+Lv.
+5
+Tackle
+Normal
+--
+Leer
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+If the player chose
+Cyndaquil
+:
+???
+Cherrygrove City
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+300
+Type:
+Water
+Unknown
+Held item:
+None
+Totodile
+♂
+Lv.
+5
+Scratch
+Normal
+--
+Leer
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+If the player chose
+Totodile
+:
+???
+Cherrygrove City
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+300
+Type:
+Grass
+Unknown
+Held item:
+None
+Chikorita
+♂
+Lv.
+5
+Tackle
+Normal
+--
+Growl
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Once you have defeated
+him
+, you earn a cash reward of
+$
+300, and he will leave. The encounter earns your Pokémon valuable
+Experience Points
+, as well. Continue on to Elm's Lab.
+New Bark Town
+Professor Elm's Lab
+Back in
+New Bark Town
+, you return to the laboratory to find a police officer questioning the professor. One of his
+rare Pokémon
+was stolen by
+a young man with long, red hair
+! Upon hearing that you battled a Trainer matching this description, the officer asks if you happened to catch his name. As with the
+player character
+, the
+rival
+'s name may be up to seven characters long. Once the officer leaves, speak to
+Professor Elm
+to deliver the
+Mystery Egg
+. He is shocked by the discovery, and is pleased to hear that
+Professor Oak
+gave you a
+Pokédex
+. He suggests taking the
+Pokémon Gym
+challenge, with the nearest one being located in
+Violet City
+. The road to becoming a
+Pokémon Champion
+will be a long one, so he advises you to stop at home before setting off.
+On your way out the door, Elm's aide hands you five
+Poké Balls
+to start you on your journey. From this point on, you are able to purchase them for yourself in most
+Poké Marts
+.
+Home
+Safeguard Your Savings
+Speak to
+Mom
+, who is excited to see your new Pokémon. Realizing that you are headed off on an adventure, she offers to save your money for you. If all of your Pokémon faint during battle, you will
+black out
+and lose some of your money, but anything left with Mom is safe. If you accept her offer, 25% of the prize money won from each battle will automatically be sent to her. Money can be deposited with or withdrawn from her at any time. Once enough has been saved, she will occasionally call to say that she has bought
+decorations
+or other items, then apologizes for spending the money she is saving. Each item can only be obtained once.
+Total Saved
+Cost
+Item
+$
+900
+$
+600
+Super Potion
+$
+4000
+$
+270
+Repel
+$
+7000
+$
+600
+Super Potion
+$
+10000
+$
+1800
+Charmander Doll
+$
+15000
+$
+3000
+Moon Stone
+$
+19000
+$
+600
+Super Potion
+$
+30000
+$
+4800
+Clefairy Doll
+$
+40000
+$
+900
+Hyper Potion
+$
+50000
+$
+8000
+Pikachu Doll
+$
+100000
+$
+22800
+Big Snorlax
+By the time you deliver the
+Mystery Egg
+to
+Professor Elm
+, the Trainer battle that blocked
+Route 30
+'s western branch has ended. Continue north from
+Cherrygrove City
+to reach
+Route 31
+.
+← Part 1
+New Bark Town, Route 29
+Crystal
+walkthrough
+Route 31, Violet City, Sprout Tower
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

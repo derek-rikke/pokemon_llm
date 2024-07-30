@@ -1,0 +1,65 @@
+Game: Diamond_and_Pearl
+Part: 10
+Keywords: Route 214, Valor Lakefront, Hotel Grand Lake, Route 213, Pastoria City
+
+### Part 10 Walkthrough: Route 214 to Pastoria City
+
+**Route 214:**
+- Choose the western path to minimize Trainer encounters; use **Rock Smash** to clear boulders and avoid tall grass.
+- Items: 
+  - **Max Potion**: In grass south of Ruin Maniac Trainers.
+  - **Big Root**: North of the Honey Tree near Trainer Douglas.
+  - **Heart Scale**: Hidden in the grass pattern west of Psychic Mitchell.
+  
+- Eastern path has more Trainers. After defeating Psychic Mitchell, find the **Heart Scale** to the west.
+
+**Available Pokémon:**
+- **Geodude** (22), **Graveler** (23-24), **Ponyta** (23-24), **Sudowoodo** (23-24), **Girafarig** (24), **Kricketune** (23-24).
+
+---
+
+**Ruin Maniac Cave / Maniac Tunnel:**
+- Expand the tunnel by collecting Unown from Solaceon Ruins. 
+- Item: **TM28 (Dig)** at the entrance.
+- Encounter **Hippopotas** in this area.
+
+---
+
+**Valor Lakefront:**
+- Find **Parlyz Heal** in the grass upon entering.
+- Available Pokémon: **Geodude** (20), **Graveler** (21-22), **Staravia** (21-22).
+
+---
+
+**Hotel Grand Lake:**
+- Obtain the **Suite Key** near the southern exit; return it to the woman for a **Lava Cookie**.
+- **TM92 (Trick Room)**: From the clown in the bungalow near the hotel entrance.
+
+---
+
+**Seven Stars Restaurant:**
+- Engage in **Double Battles** with Trainers here; they change daily.
+
+---
+
+**Route 213:**
+- Simple path leading to **Pastoria City**. Use **Dowsing Machine** for hidden items.
+- Item: **TM40 (Aerial Ace)** requires **Rock Smash**.
+  
+- Available Pokémon: **Wingull** (20), **Buizel** (20-21), **Shellos** (20-22).
+
+---
+
+**Pastoria City:**
+- Challenge the Gym for your fourth badge.
+- **Great Marsh** functions like the Safari Zone.
+- **Macho Brace**: From the boy north of the Poké Mart if you show all three forms of Burmy.
+- **Move Reminder**: Located near the Macho Brace boy; he can teach level-up moves in exchange for Heart Scales.
+
+---
+
+**Key Items:**
+- **Awakening**, **PP Up**, **Super Potion**, **Great Ball**: Hidden near Hotel Grand Lake.
+- **Full Heal**: In a puddle south of the west entrance. 
+
+This concise guide focuses on essential paths, items, Pokémon encounters, and critical locations needed for progress in the game.

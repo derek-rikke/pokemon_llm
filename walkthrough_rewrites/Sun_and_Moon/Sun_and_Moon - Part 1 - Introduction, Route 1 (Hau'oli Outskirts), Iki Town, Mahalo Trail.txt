@@ -1,0 +1,41 @@
+Game: Sun_and_Moon
+Part: 1
+Keywords: Introduction, Route 1 (Hau'oli Outskirts), Iki Town, Mahalo Trail
+
+### Pokémon Sun and Moon Walkthrough: Part 1
+
+**Introduction**
+- Choose your language and select a Trainer Passport photo (gender and skin tone).
+- Name your character (up to 12 characters).
+- After a brief cutscene, you begin your journey.
+
+**Route 1 (Hau'oli Outskirts)**
+- Move to your new home on Melemele Island.
+- After three months, wake up and speak with your mom.
+- Follow Professor Kukui to Iki Town.
+
+**Iki Town**
+- Meet Hala, the Island Kahuna. He will guide you.
+- Hala mentions searching for the missing Kahuna and suggests checking Mahalo Trail.
+
+**Mahalo Trail**
+- Head north from Iki Town.
+- Encounter a mysterious girl and her Pokémon, Cosmog.
+- Protect Nebby from Spearow, which leads to a cutscene with Tapu Koko.
+- Receive the Sparkling Stone from Lillie as thanks.
+
+**Choosing a Pokémon**
+- Return to Iki Town where Hala offers you a choice of one of three starter Pokémon:
+  - **Rowlet** (Grass/Flying): Weak to Fire, Poison, Flying, Rock, Ice.
+  - **Litten** (Fire): Weak to Water, Rock, Ground.
+  - **Popplio** (Water): Weak to Grass, Electric.
+
+**Rival Battle 1**
+- Battle Hau, Hala's grandson, who challenges you after you choose your Pokémon.
+- After the battle, Hala recognizes the Sparkling Stone and invites you to the town festival.
+
+**Route 1 (Hau'oli Outskirts)**
+- Return home to introduce your new Pokémon to your mom and Meowth.
+- Rest until the next day.
+
+Continue your adventure in Part 2.

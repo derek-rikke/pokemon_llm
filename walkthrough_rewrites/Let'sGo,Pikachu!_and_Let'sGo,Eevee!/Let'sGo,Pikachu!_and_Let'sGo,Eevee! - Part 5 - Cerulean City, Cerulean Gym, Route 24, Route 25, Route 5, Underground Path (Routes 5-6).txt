@@ -1,0 +1,47 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+### Part 5 Walkthrough Summary
+
+**Cerulean City:**
+- **Pokémon Center:** 
+  - Move Tutor: Teaches partner Pokémon exclusive moves (e.g., Pikachu's Zippy Zap, Eevee's Buzzy Buzz).
+  - Trade: Alolan Rattata for regular Rattata.
+- **Bulbasaur:** Available if you have caught 30 Pokémon.
+- **Items:**
+  - Heart Scale (5): From Bike Maniac after listening to all bike descriptions.
+  - Rare Candy: In the backyard of the northwest house (hidden).
+  - TM29 (Scald): Defeat Misty in the Gym.
+  - Burn Heal: Southwest part of town, outside hedge wall.
+
+**Cerulean Gym:**
+- **Leader:** Misty (Water-type).
+  - Recommended Pokémon: Pikachu and Bulbasaur.
+  - Misty's team: Psyduck (Lv. 18), Starmie (Lv. 19).
+  - Strategy: Use Electric moves against Starmie to counter its Water-type moves.
+
+**Rival Battle 3:**
+- **Opponent:** Trace.
+  - Team: Pidgey (Lv. 12), Oddish (Lv. 12), Eevee (Lv. 13).
+  - Use Electric attacks against Pidgey and Flying attacks against Oddish.
+
+**Route 24:**
+- **Nugget Bridge:** Defeat 5 Trainers for a Nugget.
+- **Items:** Rare Pokémon like Squirtle can be found.
+
+**Route 25:**
+- **Sea Cottage:** Help Bill with his experiment to receive 2 S.S. Tickets.
+- **Items:** Various TMs and healing items are available.
+
+**Return to Cerulean City:**
+- Confront a Team Rocket Grunt and retrieve TM10 (Dig).
+
+**Route 5:**
+- **Pokémon Day Care:** Raise Pokémon for experience while away.
+- **Items:** Great Balls, Ether, and other useful items can be found.
+
+**Underground Path:**
+- Look for hidden items as you travel through.
+
+This summary includes essential locations, Pokémon encounters, key items, and strategies for battles to progress through the game effectively.

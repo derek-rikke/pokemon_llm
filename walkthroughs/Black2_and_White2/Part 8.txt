@@ -1,0 +1,1602 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_8
+Keywords: Pokémon World Tournament, Plasma Frigate, Relic Passage
+
+Walkthrough Text:
+Contents
+1
+Pokémon World Tournament
+1.1
+Hidden Power Guy
+1.2
+Move Reminder
+1.3
+Move Deleter
+1.4
+Ultimate Move Tutor
+1.5
+Battle-Combo Move Tutor
+1.6
+World Tournament building
+1.6.1
+Driftveil Tournament
+2
+Plasma Frigate
+3
+Relic Passage
+3.1
+North chamber
+3.2
+Middle chamber
+4
+Relic Castle
+5
+Relic Passage
+5.1
+Middle chamber
+5.2
+South chamber
+Pokémon World Tournament
+The Pokémon World Tournament
+The
+Pokémon World Tournament
+is a facility south of
+Driftveil City
+that stands on the former
+Cold Storage
+site. Famous Pokémon Trainers from around the world gather here to compete against one another. Outside the building, several vendors stand ready to teach new moves to the competitors' Pokémon. To the west, the north side of the
+Relic Passage
+can be found.
+Items
+Item
+Location
+Games
+Ether
+In the southwest, near the Relic Passage (hidden)
+B2
+W2
+PP Up
+On the pier to the south
+B2
+W2
+Rocky Helmet
+From the Worker, southeast of the fountain
+B2
+W2
+Zinc
+In a trash can, north of the fountain (hidden)
+B2
+W2
+Hidden Power Guy
+The man in the northwest booth is able to see what type of
+Hidden Power
+a Pokémon will have. If you plan to teach the move, be sure to see what he has to say.
+Move Reminder
+The girl in the southwest booth is the Move Reminder. For the price of one
+Heart Scale
+per transaction, she will re-teach an old move that your Pokémon has forgotten.
+Move Deleter
+East of the Move Reminder is the Move Deleter. This old man can help a Pokémon forget one of its moves, even HM moves that can't normally be forgotten.
+Ultimate Move Tutor
+The old man at the southeast booth can teach an ultimate move to any fully-evolved starter Pokémon. However, it must share a strong bond with its Trainer. The quiet
+Grass
+Pokémon like
+Serperior
+can learn
+Frenzy Plant
+, the blazing
+Fire
+Pokémon like
+Emboar
+can learn
+Blast Burn
+, and the restless
+Water
+Pokémon like
+Samurott
+can learn
+Hydro Cannon
+.
+Battle-Combo Move Tutor
+The man in the easternmost booth teaches a special move to any members of the starter Pokémon families.
+Grass-type
+Pokémon like the
+Snivy
+family can learn
+Grass Pledge
+,
+Fire-type
+Pokémon like the
+Tepig
+family can learn
+Fire Pledge
+, and
+Water-type
+Pokémon like the
+Oshawott
+family can learn
+Water Pledge
+. Using these moves on the same turn in a Double or Triple Battle will raise their power to 150, and activate additional effects.
+Types Involved
+Description
+Creates a sea of fire where all non-
+Fire
+Pokémon lose 1/8 of their max
+HP
+every turn for four turns
+Creates a rainbow that doubles the likelihood of a move's additional effect(s) for four turns
+Creates a vast swamp that reduces the opponent's
+Speed
+by 50% for four turns
+World Tournament building
+Hugh
+and
+Clay
+are waiting outside the PWT building. When you approach, the Gym Leader proudly guides the two of you into the elaborate tournament hall. Inside is
+Cheren
+, who was busy investigating something when he was strong-armed by Clay into participating. Follow him and Hugh north to register in the tournament.
+Driftveil Tournament
+Three consecutive victories are needed to win the
+Driftveil Tournament
+. The use of items is prohibited during the tournament, so hand out items to your Pokémon before registering. Opponents are not usually decided ahead of time, but for your first tournament, you will need to defeat
+Hugh
+,
+Cheren
+, and
+Colress
+.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Pokémon World Tournament
+Black 2 and White 2
+Reward:
+N/A
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Pignite
+♂
+Lv.
+25
+Take Down
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+Heat Crash
+Fire
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simipour
+♂
+Lv.
+25
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+25
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Pokémon Trainer
+Hugh
+Pokémon World Tournament
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Dewott
+♂
+Lv.
+25
+Aqua Jet
+Water
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Revenge
+Fighting
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisage
+♂
+Lv.
+25
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+25
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Pokémon Trainer
+Hugh
+Pokémon World Tournament
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Servine
+♂
+Lv.
+25
+Leech Seed
+Grass
+Status
+--
+Leaf Blade
+Grass
+Physical
+--
+Slam
+Normal
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisear
+♂
+Lv.
+25
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+25
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Pokémon Trainer
+Cheren
+Pokémon World Tournament
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+or
+Sand Rush
+Held item:
+None
+Stoutland
+♂
+/
+♀
+Lv.
+25
+Tackle
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Odor Sleuth
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+or
+Technician
+Held item:
+None
+Cinccino
+♂
+/
+♀
+Lv.
+25
+Work Up
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Bullet Seed
+Grass
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Illuminate
+or
+Keen Eye
+Held item:
+None
+Watchog
+♂
+/
+♀
+Lv.
+25
+Work Up
+Normal
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Hypnosis
+Psychic
+Status
+--
+Bite
+Dark
+Physical
+--
+Pokémon Trainer
+Colress
+Pokémon World Tournament
+Black 2 and White 2
+Reward:
+1
+BP
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+or
+Sturdy
+Held item:
+None
+Magneton
+Lv.
+25
+Thunder Wave
+Electric
+Status
+--
+Supersonic
+Normal
+Status
+--
+ThunderShock
+Electric
+Special
+--
+Mirror Shot
+Steel
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Telepathy
+or
+Synchronize
+Held item:
+None
+Elgyem
+♂
+/
+♀
+Lv.
+25
+Growl
+Normal
+Status
+--
+Headbutt
+Normal
+Physical
+--
+Psybeam
+Psychic
+Special
+--
+Heal Block
+Psychic
+Status
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+or
+Minus
+Held item:
+None
+Klink
+Lv.
+25
+Charge
+Electric
+Status
+--
+ThunderShock
+Electric
+Special
+--
+Gear Grind
+Steel
+Physical
+--
+Bind
+Normal
+Physical
+--
+After earning 1
+BP
+for winning the tournament, Roxie comes and tells that she will join the tournament. Clay thanks us for making Driftveil City popular and then leaves. Now head outside to see
+Team Plasma
+members passing by the building.
+Colress
+tries to stop
+Hugh
+from chasing them, but he doesn't listen, and follows them south to the pier. Rest up before following him.
+Plasma Frigate
+A large ship is moored at the pier. Go with Hugh and
+Cheren
+to storm the ship, which turns out to be
+Team Plasma's base of operations
+. The three of you are immediately surrounded by a crowd of Grunts. Defeat the first two on your own, then team up with Cheren then Hugh to take out the others.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+1200
+Koffing
+♂
+Lv.
+30
+No item
+Team Plasma Grunt
+Reward:
+$
+1200
+Trubbish
+♂
+Lv.
+30
+No item
+Team Plasma Grunt
+Reward:
+$
+2320
+(with Team Plasma Grunt)
+Golbat
+♂
+Lv.
+29
+No item
+Liepard
+♂
+Lv.
+29
+No item
+Team Plasma Grunt
+Reward:
+$
+2320
+(with Team Plasma Grunt)
+Grimer
+♂
+Lv.
+29
+No item
+Krokorok
+♂
+Lv.
+29
+No item
+Team Plasma Grunt
+Reward:
+$
+2320
+(with Team Plasma Grunt)
+Koffing
+♂
+Lv.
+29
+No item
+Watchog
+♂
+Lv.
+29
+No item
+Team Plasma Grunt
+Reward:
+$
+2320
+(with Team Plasma Grunt)
+Grimer
+♂
+Lv.
+29
+No item
+Raticate
+♂
+Lv.
+29
+No item
+Leader
+Cheren
+Plasma Frigate
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Stoutland
+♂
+Lv.
+33
+Thunder Fang
+Electric
+Physical
+--
+Strength
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Odor Sleuth
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Unknown
+Held item:
+None
+Watchog
+♂
+Lv.
+31
+Hyper Fang
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Low Kick
+Fighting
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Unknown
+Held item:
+None
+Cinccino
+♀
+Lv.
+31
+Wake-Up Slap
+Fighting
+Physical
+--
+Tail Slap
+Normal
+Physical
+--
+Rock Blast
+Rock
+Physical
+--
+Bullet Seed
+Grass
+Physical
+--
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Plasma Frigate
+Black 2 and White 2
+Reward:
+N/A
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Pignite
+♂
+Lv.
+33
+Take Down
+Normal
+Physical
+--
+Smog
+Poison
+Special
+--
+Heat Crash
+Fire
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simipour
+♂
+Lv.
+31
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+31
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Pokémon Trainer
+Hugh
+Plasma Frigate
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Dewott
+♂
+Lv.
+33
+Aqua Jet
+Water
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Revenge
+Fighting
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisage
+♂
+Lv.
+31
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+31
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Pokémon Trainer
+Hugh
+Plasma Frigate
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Servine
+♂
+Lv.
+33
+Leech Seed
+Grass
+Status
+--
+Leaf Blade
+Grass
+Physical
+--
+Slam
+Normal
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisear
+♂
+Lv.
+31
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+31
+Taunt
+Dark
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Detect
+Fighting
+Status
+--
+Zinzolin
+, one of the
+Seven Sages
+, emerges from the ship and declares that Team Plasma will rule
+Unova
+. He calls the
+Shadow Triad
+to appear, and they whisk the three of you off of the ship. Hugh runs off in a huff, and Cheren sets out for
+Route 6
+.
+Relic Passage
+Relic Passage
+The
+Relic Passage
+is a large underground cave that was only recently discovered. It connects the
+Pokémon World Tournament
+and the
+Castelia Sewers
+. One of the tunnels leads to the lowest floor of the
+Relic Castle
+, buried deep under the desert sands. The
+dust clouds
+that randomly pop up not only give you a chance of encountering a wild
+Drilbur
+or
+Onix
+, but it also gives you a chance of acquiring a random
+colored shard
+. This can help with collecting the shards you need to trade in to a Move Tutor for your Pokémon to learn any compatible move they offer.
+Trainers
+North chamber
+Trainer
+Pokémon
+Backpacker
+Eileen
+Reward:
+$
+768
+Sandslash
+♀
+Lv.
+32
+No item
+Backpacker
+Randall
+Reward:
+$
+768
+Raticate
+♂
+Lv.
+32
+No item
+Hiker
+Keith
+Reward:
+$
+992
+Drilbur
+♂
+Lv.
+31
+No item
+Roggenrola
+♂
+Lv.
+31
+No item
+Middle chamber
+Trainer
+Pokémon
+Hiker
+Tobias
+Reward:
+$
+992
+Roggenrola
+♂
+Lv.
+31
+No item
+Timburr
+♂
+Lv.
+31
+No item
+Psychic
+Tully
+Reward:
+$
+1056
+Swoobat
+♂
+Lv.
+33
+No item
+Psychic
+Ena
+Reward:
+$
+1024
+Baltoy
+Lv.
+32
+No item
+Yamask
+♀
+Lv.
+32
+No item
+Backpacker
+Annie
+Reward:
+$
+768
+Watchog
+♀
+Lv.
+32
+No item
+South chamber
+Trainer
+Pokémon
+Backpacker
+Kendall
+Reward:
+$
+432
+Herdier
+♂
+Lv.
+18
+No item
+Scientist
+Terrance
+Reward:
+$
+864
+Grimer
+♂
+Lv.
+18
+No item
+Scientist
+Lumina
+Reward:
+$
+816
+Venipede
+♀
+Lv.
+17
+No item
+Koffing
+♀
+Lv.
+17
+No item
+Available Pokémon
+North chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+27-30
+34%
+Woobat
+B2
+W2
+Cave
+27-30
+31%
+Gurdurr
+B2
+W2
+Cave
+28-30
+20%
+Raticate
+B2
+W2
+Cave
+29
+10%
+Onix
+B2
+W2
+Cave
+30
+5%
+Dust clouds
+Drilbur
+B2
+W2
+Dust cloud
+27-30
+80%
+Onix
+B2
+W2
+Dust cloud
+27
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Middle chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+27-30
+34%
+Woobat
+B2
+W2
+Cave
+27-30
+31%
+Gurdurr
+B2
+W2
+Cave
+28-30
+20%
+Raticate
+B2
+W2
+Cave
+29
+10%
+Onix
+B2
+W2
+Cave
+30
+5%
+Dust clouds
+Drilbur
+B2
+W2
+Dust cloud
+27-30
+80%
+Onix
+B2
+W2
+Dust cloud
+27
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+South chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Roggenrola
+B2
+W2
+Cave
+16-18
+34%
+Woobat
+B2
+W2
+Cave
+16-17
+31%
+Timburr
+B2
+W2
+Cave
+17-18
+20%
+Rattata
+B2
+W2
+Cave
+17
+10%
+Onix
+B2
+W2
+Cave
+18
+5%
+Dust clouds
+Drilbur
+B2
+W2
+Dust cloud
+16-19
+80%
+Onix
+B2
+W2
+Dust cloud
+16-18
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+North chamber
+Protein
+Northeast, near Backpacker Randall
+B2
+W2
+Middle chamber
+Big Pearl
+Northwest of the lake (requires
+Surf
+)
+B2
+W2
+Blue Shard
+In a rock, south of the lake (hidden)
+B2
+W2
+Max Repel
+Dead-end path southeast of the lake (hidden)
+B2
+W2
+Green Shard
+In a rock, south of Psychic Tully (hidden)
+B2
+W2
+Red Shard
+In a rock, west of Psychic Ena (hidden)
+B2
+W2
+Yellow Shard
+In a rock, north of Backpacker Annie (hidden)
+B2
+W2
+Ultra Ball
+East chamber, accessible from Castelia side (requires
+Strength
+)
+B2
+W2
+Rock Gem
+East chamber, accessible from Castelia side (hidden, requires
+Strength
+)
+B2
+W2
+Rare Candy
+East chamber, accessible from Castelia side (requires
+Strength
+)
+B2
+W2
+Rocky Helmet
+East chamber, accessible from Castelia side (requires
+Strength
+)
+B2
+W2
+South chamber
+Max Repel
+Between two western ledges, accessible from Driftveil side
+B2
+W2
+Escape Rope
+×2
+North of Scientist Terrance
+South of Scientist Lumina (hidden)
+B2
+W2
+Hard Stone
+West of Scientist Lumina
+B2
+W2
+North chamber
+Speak to the Worker near the entrance to add a new Funfest Mission,
+Find Treasure!
+, to the
+Entralink
+. Follow the tunnel eastward, then north to reach a
+Protein
+near Backpacker Randall. Battle Hiker Keith in the southeast, and step through the opening in the wall to reach the middle chamber.
+Middle chamber
+Go south to reach a small lake. A
+Big Pearl
+lies on the lake's west side, while a
+Blue Shard
+is hidden in a rock to the south, and a
+Max Repel
+hides in the dead-end path to the southeast. Continue eastward to fight Psychic Tully, and check the nearby rock for a
+Green Shard
+. Head northeast to battle Psychic Ena, then check the rock here for a
+Red Shard
+.
+Move
+the boulder out of the way, and walk through the northeast opening to reach the
+Relic Castle
+.
+Relic Castle
+Relic Castle
+The lowest floor of the
+Relic Castle
+consists of five rooms connected in a row, plus a sixth room north of the middle room. Visit the easternmost room to get an
+Ultra Ball
+, and check the center room for a hidden
+Sun Stone
+. The north room is home to the
+Bug
+/
+Fire
+Pokémon
+Volcarona
+. If you defeat Volcarona, it will respawn when you enter the Hall of Fame again.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Relic Passage floor
+Yamask
+B2
+W2
+Relic Passage floor
+27-30
+40%
+Sandile
+B2
+W2
+Relic Passage floor
+27-28
+30%
+Sandslash
+B2
+W2
+Relic Passage floor
+28-29
+20%
+Krokorok
+B2
+W2
+Relic Passage floor
+29-30
+10%
+Volcarona's room
+Baltoy
+B2
+W2
+Volcarona's room
+27-30
+100%
+Special Pokémon
+Volcarona
+B2
+W2
+Only one
+35
+,
+65
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Sun Stone
+Center room (hidden)
+B2
+W2
+Ultra Ball
+On a pile of sand in the easternmost room
+B2
+W2
+Relic Passage
+Middle chamber
+Head southwest to fight Backpacker Annie, and check the rock near her to find a
+Yellow Shard
+. Turn east and climb the stairway to reach the south chamber.
+South chamber
+Go southeast and
+move
+the boulder over to the hole in the ground. Head north through the long tunnel to reach a small room in the middle chamber, where an
+Ultra Ball
+,
+Rocky Helmet
+,
+Rare Candy
+, and hidden
+Rock Gem
+can be found. Return to the boulder and jump the first ledge to the west to reach a
+Max Repel
+. Jump the last ledge and head east; this part of the passage was accessible when you first reached the
+Castelia Sewers
+. An
+Escape Rope
+lies north of Scientist Terrance, and a
+Hard Stone
+sits to the west of Scientist Lumina. Head south to exit through the sewers.
+Fly
+back to
+Driftveil City
+, and go west to reach
+Route 6
+.
+← Part 7
+Route 5, Driftveil Drawbridge, Driftveil City, Driftveil Gym
+Black 2 and White 2
+walkthrough
+Route 6, Mistralton Cave, Chargestone Cave
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

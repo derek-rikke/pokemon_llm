@@ -1,0 +1,63 @@
+Game: FireRed_and_LeafGreen
+Part: 6
+Keywords: Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+
+**Part 6: Route 6, Vermilion City, S.S. Anne, Vermilion Gym**
+
+**Route 6:**
+- Located south of Saffron City, leading to Vermilion City.
+- **Trainers:** 
+  - Bug Catcher Keigo: 3x Lv. 16 Weedle/Caterpie (Reward: $192)
+  - Camper Ricky: Lv. 20 Squirtle (Reward: $400)
+  - Picnicker Nancy: 2x Lv. 16 Rattata/Pikachu (Reward: $320)
+  - Bug Catcher Elijah: Lv. 20 Butterfree (Reward: $240)
+  - Picnicker Isabelle: 3x Lv. 16 Pidgey (Reward: $320)
+  - Camper Jeff: Lv. 16 Spearow/Raticate (Reward: $320)
+
+- **Items:**
+  - Rare Candy: Hidden, northeast hill.
+  - Sitrus Berry: Hidden, northwest hill.
+
+**Vermilion City:**
+- Key locations include the Pokémon Center, Fishing Guru’s house, trade house, and Pokémon Fan Club.
+- **Items:**
+  - Max Ether: Hidden, near Pokémon Center.
+  - Vs. Seeker: Speak to Ace Trainer at Pokémon Center.
+  - Old Rod: Received from Fishing Guru in the northwest house.
+  - Bike Voucher: From Pokémon Fan Club Chairman.
+
+**S.S. Anne:**
+- Accessible after reaching Vermilion City.
+- **Items:**
+  - TM31 (Brick Break): 1F, second cabin from the left.
+  - Great Ball: Kitchen, lower left corner.
+  - HM01 (Cut): From the captain in his quarters after helping him.
+
+- **Rival Battle 4:**
+  - Opponent uses: 
+    - Pidgeotto (Lv. 19) - Weak to Rock/Electric moves.
+    - Raticate (Lv. 16) - Watch out for Hyper Fang.
+    - Kadabra (Lv. 18) - Use physical moves.
+    - Choose Pokémon with type advantages based on starter.
+
+**Vermilion Gym:**
+- **Leader:** Lt. Surge (Electric-type).
+- **Strategy:** 
+  - Solve the trash can switch puzzle to access Lt. Surge.
+  - Use Ground-type moves (like Dig) against his Electric Pokémon.
+  
+**Trainer Battles:**
+- Sailor Dwayne: 2x Lv. 21 Pikachu (Reward: $672)
+- Engineer Baily: Voltorb/Magnemite (Reward: $1008)
+- Gentleman Tucker: Lv. 23 Pikachu (Reward: $1656)
+
+**Gym Leader Battle:**
+- **Lt. Surge’s Pokémon:**
+  - Voltorb (Lv. 21)
+  - Pikachu (Lv. 18)
+  - Raichu (Lv. 24)
+  
+- **Post-battle:** 
+  - Receive Thunder Badge and TM34 (Shock Wave).
+  
+Next destination: Route 11 to the east.

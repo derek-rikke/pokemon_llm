@@ -1,0 +1,1771 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_5
+Keywords: Mauville City, Mauville Gym, Route 117, Verdanturf Town, Rusturf Tunnel (Revisited)
+
+Walkthrough Text:
+Contents
+1
+Mauville City
+1.1
+Rydel's Cycles
+1.2
+Game Corner
+1.2.1
+Prizes
+1.3
+Move Tutor
+1.4
+Wally's Challenge
+1.5
+Mauville Gym
+2
+Now that you have the Mach Bike and Dynamo Badge (optional)
+2.1
+Route 104 (north)
+2.2
+Granite Cave
+2.3
+Route 110
+3
+Trick House - Puzzle 2 (optional)
+4
+Route 117 (optional)
+4.1
+Pokémon Day Care
+5
+Verdanturf Town (optional)
+5.1
+Move Tutor
+5.2
+Battle Tent
+5.3
+Wanda's House
+5.4
+Friendship Rater
+6
+Rusturf Tunnel
+6.1
+Reunion
+6.2
+Route 116
+7
+Route 118 (optional)
+Mauville City
+Mauville City
+Mauville City
+is located in central
+Hoenn
+, situated between Routes
+110
+,
+111
+,
+117
+, and
+118
+. Tourist hotspots include the
+Mauville Gym
+,
+Game Corner
+, and
+Rydel's Cycles
+.
+Items
+Item
+Location
+Games
+Coin Case
+From the woman in the house next to the Poké Mart, in exchange for a piece of
+Harbor Mail
+E
+X Speed
+Southeast of the Poké Mart, behind the fence
+E
+HM06
+(
+Rock Smash
+)
+From the Scientist in the southeast house
+E
+Acro Bike
+or
+Mach Bike
+From Rydel; can switch models at any time by speaking to him again
+E
+Treecko Doll
+,
+Torchic Doll
+,or
+Mudkip Doll
+From a girl in the Game Corner, to match the player's starter Pokémon
+E
+20
+Coins
+From a man to the right of the Game Corner's service desk
+E
+After defeating the Mauville Gym
+TM34
+(
+Shock Wave
+)
+From Wattson upon his defeat
+E
+Rydel's Cycles
+Rydel's Cycles
+is located near the city's east exit. Spotting your dirty
+Running Shoes
+, the shop owner,
+Rydel
+, realizes that you've done a lot of traveling. He offers you a free bicycle, and gives you the choice between two models. The
+Mach Bike
+is faster and is able to ride up
+muddy slopes
+, which is useful for exploring places like
+Granite Cave
+. The
+Acro Bike
+is slower which allows for more precise control and the ability to perform
+tricks
+. After choosing a bike, you can speak to Rydel at any time to swap it for the other model.
+Game Corner
+Game Corner interior
+Roulette
+The
+Game Corner
+features sixteen
+slot machines
+, four of which are in use by other patrons, and two
+roulette
+tables. A
+Coin Case
+is needed to participate.
+Coins
+may be purchased from the woman at the left side of the service desk, available at 50 for
+$
+1,000 and 500 for
+$
+10,000.
+Prizes
+Collect enough coins and they can be exchanged for valuable prizes. To do so, speak to either of the two women at the right side of the service desk.
+Left woman
+TM32
+(
+Double Team
+)
+1500
+Coins
+TM29
+(
+Psychic
+)
+3500
+Coins
+TM35
+(
+Flamethrower
+)
+4000
+Coins
+TM24
+(
+Thunderbolt
+)
+4000
+Coins
+TM13
+(
+Ice Beam
+)
+4000
+Coins
+Right woman
+Treecko Doll
+1000
+Coins
+Torchic Doll
+1000
+Coins
+Mudkip Doll
+1000
+Coins
+Move Tutor
+Another
+Move Tutor
+can be found outside the Gym. This man offers to teach the move
+Rollout
+to a Pokémon, one time only.
+Wally's Challenge
+When you approach the Gym, you find
+Wally
+and his uncle talking outside the building. He desperately wants to challenge the Gym, but his uncle has reservations. He challenges you to a quick battle to test his skills.
+P
+K
+M
+N
+Trainer
+Wally
+Mauville City
+Emerald
+Reward:
+$
+960
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Ralts
+♂
+Lv.
+16
+Growl
+Normal
+--
+Confusion
+Psychic
+--
+Double Team
+Normal
+--
+Teleport
+Psychic
+--
+After being defeated, he decides to return to
+Verdanturf Town
+. As they turn to leave, his uncle recognizes you as the Trainer who helped Wally catch his
+Ralts
+, and invites you to visit them in Verdanturf.
+Scott
+arrives after they leave. He was watching the match, and was impressed that you didn't hold anything back, even when battling a friend. He lets you know that he'll be cheering for you, and heads west to
+Route 117
+. Soon after that, you receive a call from
+Wally
+. His uncle has just bought him a PokéNav, and he's excited that he can contact you anytime.
+Mauville Gym
+Mauville Gym
+Mauville City Pokémon Gym
+Leader: Wattson
+The cheerfully electrifying man!
+The
+Mauville Gym
+specializes in
+Electric-type
+Pokémon. While most Pokémon of this type are only vulnerable to
+Ground-type
+attacks, the other Pokémon inside make
+Fire
+and
+Fighting
+moves useful as well. Keep your
+Water
+- and
+Flying-type
+Pokémon on the sidelines for now. The Gym features several electrical barriers, which can be turned on and off by stepping on thunderbolt-shaped switches. To reach the Gym Leader, simply step on the southwest switch.
+Wattson
+leads with his
+Voltorb
+. Though its
+Attack
+is low, its
+Selfdestruct
+may unexpectedly knock out one of your Pokémon. His
+Electrike
+is not much of a threat, but it can strike first with
+Quick Attack
+. Pokémon that use
+contact
+moves against Electrike also risk becoming paralyzed due to its
+Static
+Ability.
+Magneton
+likes to start with
+Supersonic
+to confuse its foe. Its
+Special Attack
+is dangerously high, which allows it to deal serious damage with the unavoidable
+Shock Wave
+move; fortunately, it also sustains quadruple damage from Ground moves. His
+Manectric
+can use
+Howl
+to raise its
+Attack
+, which boosts the damage dealt by Quick Attack. It can also actively paralyze the foe with
+Thunder Wave
+, and like Electrike, has the Static Ability.
+Mauville Gym
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Vivian
+Reward:
+$
+408
+Potential
+Double Battle
+with Kirk
+Meditite
+♀
+Lv.
+17
+No item
+Meditite
+♀
+Lv.
+17
+No item
+Guitarist
+Kirk
+Reward:
+$
+544
+Potential
+Double Battle
+with Vivian
+Electrike
+♂
+Lv.
+17
+No item
+Voltorb
+Lv.
+17
+No item
+Youngster
+Ben
+Reward:
+$
+272
+Zigzagoon
+♂
+Lv.
+17
+No item
+Gulpin
+♂
+Lv.
+17
+No item
+Bug Maniac
+Angelo
+Reward:
+$
+1020
+Potential
+Double Battle
+with Shawn
+Illumise
+♀
+Lv.
+17
+No item
+Volbeat
+♂
+Lv.
+17
+No item
+Guitarist
+Shawn
+Reward:
+$
+544
+Potential
+Double Battle
+with Angelo
+Voltorb
+Lv.
+17
+No item
+Magnemite
+Lv.
+17
+No item
+Leader
+Wattson
+Mauville Gym
+Emerald
+Reward:
+$
+2400
+Type:
+Electric
+Unknown
+Ability:
+Soundproof
+Held item:
+None
+Voltorb
+Lv.
+20
+Rollout
+Rock
+--
+Spark
+Electric
+--
+Selfdestruct
+Normal
+--
+Shock Wave
+Electric
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Electrike
+♂
+Lv.
+20
+Shock Wave
+Electric
+--
+Leer
+Normal
+--
+Quick Attack
+Normal
+--
+Howl
+Normal
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+22
+Supersonic
+Normal
+--
+Shock Wave
+Electric
+--
+Thunder Wave
+Electric
+--
+SonicBoom
+Normal
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+Sitrus Berry
+Manectric
+♂
+Lv.
+24
+Quick Attack
+Normal
+--
+Thunder Wave
+Electric
+--
+Shock Wave
+Electric
+--
+Howl
+Normal
+--
+After the battle, Wattson awards you the
+Dynamo Badge
+, which boosts your Pokémon's
+Speed
+by 10% and enables the use of
+Rock Smash
+in the field. He also hands out
+TM34
+(
+Shock Wave
+) as a prize, and registers himself in your PokéNav.
+Now that you have the Mach Bike and Dynamo Badge (optional)
+There are items on
+Route 104
+and
+Granite Cave
+B2F that you can pick up.
+Route 104 (north)
+Route 104
+Item
+Location
+Games
+White Herb
+From a girl in front of the
+Pretty Petal flower shop
+, after talking to the woman inside the shop by the door and obtaining the
+Dynamo Badge
+E
+Granite Cave
+Granite Cave (B2F)
+Item
+Location
+Games
+Everstone
+In the rock near the Rare Candy (requires
+Mach Bike
+)
+(hidden)
+E
+Repel
+Beneath the first two sets of cracked floors (requires
+Mach Bike
+)
+E
+Rare Candy
+Down the ladder past the three sets of cracked floors (requires
+Mach Bike
+)
+E
+You can also find
+Nosepass
+in Granite Cave (B2F) now by using the
+HM
+move
+Rock Smash
+on the rocks. The rocks reset each time you leave and re-enter the floor.
+Route 110
+While riding your bicycle, you can enter
+Route 110
+'s
+Seaside Cycling Road
+and battle the trainers there.
+Trainers
+Trainer
+Pokémon
+Seaside Cycling Road
+Psychic
+Jaclyn
+Reward:
+$
+384
+Abra
+♂
+Lv.
+16
+No item
+Triathlete
+Abigail
+Reward:
+$
+640
+Magnemite
+Lv.
+16
+No item
+Triathlete
+Anthony
+Reward:
+$
+560
+Magnemite
+Lv.
+14
+No item
+Magnemite
+Lv.
+14
+No item
+Triathlete
+Benjamin
+Reward:
+$
+640
+Magnemite
+Lv.
+16
+No item
+Triathlete
+Jasmine
+Reward:
+$
+240
+Magnemite
+Lv.
+14
+No item
+Magnemite
+Lv.
+14
+No item
+Voltorb
+Lv.
+6
+No item
+Triathlete
+Jacob
+Reward:
+$
+560
+Voltorb
+Lv.
+6
+No item
+Voltorb
+Lv.
+6
+No item
+Magnemite
+Lv.
+14
+No item
+Rematch
+Triathlete
+Abigail
+*
+Reward:
+$
+1120
+/
+1240
+Magnemite
+Lv.
+28
+/
+31
+No item
+Triathlete
+Abigail
+*
+Reward:
+$
+1360
+/
+1480
+Magneton
+Lv.
+34
+/
+37
+No item
+Triathlete
+Benjamin
+*
+Reward:
+$
+1200
+/
+1320
+Magnemite
+Lv.
+30
+/
+33
+No item
+Triathlete
+Benjamin
+*
+Reward:
+$
+1440
+/
+1560
+Magneton
+Lv.
+36
+/
+39
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Trick House - Puzzle 2 (optional)
+In
+Trick House
+now you can complete the puzzle 2.
+Route 117 (optional)
+Route 117
+Route 117
+stretches west from
+Mauville City
+. The optional path serves as a shortcut back to western
+Hoenn
+, by way of
+Verdanturf Town
+and
+Rusturf Tunnel
+. A
+Pokémon Day Care
+is located just outside the city.
+Trainers
+Trainer
+Pokémon
+Triathlete
+Dylan
+Reward:
+$
+680
+Doduo
+♂
+Lv.
+17
+No item
+Sr. and Jr.
+Anna & Meg
+Reward:
+$
+544
+Zigzagoon
+♂
+Lv.
+15
+No item
+Makuhita
+♂
+Lv.
+17
+No item
+Pokémon Breeder
+Isaac
+Reward:
+$
+440
+Whismur
+♂
+Lv.
+11
+No item
+Zigzagoon
+♂
+Lv.
+11
+No item
+Aron
+♂
+Lv.
+11
+No item
+Poochyena
+♂
+Lv.
+11
+No item
+Taillow
+♂
+Lv.
+11
+No item
+Makuhita
+♂
+Lv.
+11
+No item
+Triathlete
+Maria
+Reward:
+$
+680
+Doduo
+♀
+Lv.
+17
+No item
+Bug Maniac
+Derek
+Reward:
+$
+960
+Dustox
+♂
+Lv.
+16
+No item
+Beautifly
+♂
+Lv.
+16
+No item
+Psychic
+Brandi
+Reward:
+$
+408
+Potential
+Double Battle
+with Melina
+Ralts
+♀
+Lv.
+17
+No item
+Triathlete
+Melina
+Reward:
+$
+680
+Potential
+Double Battle
+with Brandi or Aisha
+Doduo
+♀
+Lv.
+17
+No item
+Battle Girl
+Aisha
+Reward:
+$
+408
+Potential
+Double Battle
+with Melina
+Meditite
+♀
+Lv.
+17
+No item
+Pokémon Breeder
+Lydia
+Reward:
+$
+440
+Wingull
+♀
+Lv.
+11
+No item
+Shroomish
+♀
+Lv.
+11
+No item
+Marill
+♀
+Lv.
+11
+No item
+Roselia
+♀
+Lv.
+11
+No item
+Skitty
+♀
+Lv.
+11
+No item
+Goldeen
+♀
+Lv.
+11
+No item
+Rematch
+Triathlete
+Dylan
+*
+Reward:
+$
+1120
+/
+1240
+Doduo
+♂
+Lv.
+28
+/
+31
+No item
+Triathlete
+Dylan
+*
+Reward:
+$
+1360
+/
+1480
+Dodrio
+♂
+Lv.
+34
+/
+37
+No item
+Sr. and Jr.
+Anna & Meg
+*
+Reward:
+$
+960
+/
+1056
+Zigzagoon
+♂
+Lv.
+28
+/
+31
+No item
+Makuhita
+♂
+Lv.
+30
+/
+33
+No item
+Sr. and Jr.
+Anna & Meg
+*
+Reward:
+$
+1152
+Linoone
+♂
+Lv.
+34
+No item
+Makuhita
+♂
+Lv.
+36
+No item
+Sr. and Jr.
+Anna & Meg
+*
+Reward:
+$
+1216
+Linoone
+♂
+Lv.
+36
+No item
+Hariyama
+♂
+Lv.
+38
+No item
+Pokémon Breeder
+Isaac
+*
+Reward:
+$
+880
+Loudred
+♂
+Lv.
+22
+No item
+Linoone
+♂
+Lv.
+22
+No item
+Aron
+♂
+Lv.
+22
+No item
+Mightyena
+♂
+Lv.
+22
+No item
+Swellow
+♂
+Lv.
+22
+No item
+Makuhita
+♂
+Lv.
+22
+No item
+Pokémon Breeder
+Isaac
+*
+Reward:
+$
+1000
+/
+1120
+Loudred
+♂
+Lv.
+25
+/
+28
+No item
+Linoone
+♂
+Lv.
+25
+/
+28
+No item
+Aron
+♂
+Lv.
+25
+/
+28
+No item
+Mightyena
+♂
+Lv.
+25
+/
+28
+No item
+Swellow
+♂
+Lv.
+25
+/
+28
+No item
+Hariyama
+♂
+Lv.
+25
+/
+28
+No item
+Pokémon Breeder
+Isaac
+*
+Reward:
+$
+1240
+Loudred
+♂
+Lv.
+31
+No item
+Linoone
+♂
+Lv.
+31
+No item
+Lairon
+♂
+Lv.
+31
+No item
+Mightyena
+♂
+Lv.
+31
+No item
+Swellow
+♂
+Lv.
+31
+No item
+Hariyama
+♂
+Lv.
+31
+No item
+Triathlete
+Maria
+*
+Reward:
+$
+1120
+/
+1240
+Doduo
+♀
+Lv.
+28
+/
+31
+No item
+Triathlete
+Maria
+*
+Reward:
+$
+1360
+/
+1480
+Dodrio
+♀
+Lv.
+34
+/
+37
+No item
+Pokémon Breeder
+Lydia
+*
+イクエ
+Ikue
+Reward:
+$
+880
+Wingull
+♀
+Lv.
+22
+No item
+Shroomish
+♀
+Lv.
+22
+No item
+Marill
+♀
+Lv.
+22
+No item
+Roselia
+♀
+Lv.
+22
+No item
+Skitty
+♀
+Lv.
+22
+No item
+Goldeen
+♀
+Lv.
+22
+No item
+Pokémon Breeder
+Lydia
+*
+Reward:
+$
+1000
+/
+1120
+Pelipper
+♀
+Lv.
+25
+/
+28
+No item
+Breloom
+♀
+Lv.
+25
+/
+28
+No item
+Marill
+♀
+Lv.
+25
+/
+28
+No item
+Roselia
+♀
+Lv.
+25
+/
+28
+No item
+Delcatty
+♀
+Lv.
+25
+/
+28
+No item
+Goldeen
+♀
+Lv.
+25
+/
+28
+No item
+Pokémon Breeder
+Lydia
+*
+Reward:
+$
+1240
+Pelipper
+♀
+Lv.
+31
+No item
+Breloom
+♀
+Lv.
+31
+No item
+Azumarill
+♀
+Lv.
+31
+No item
+Roselia
+♀
+Lv.
+31
+No item
+Delcatty
+♀
+Lv.
+31
+No item
+Seaking
+♀
+Lv.
+31
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Grass
+13-14
+40%
+Poochyena
+R
+S
+E
+Grass
+13-14
+30%
+Illumise
+R
+S
+E
+Grass
+13-14
+18%
+Marill
+R
+S
+E
+Grass
+13
+10%
+Seedot
+R
+S
+E
+Grass
+13
+1%
+Volbeat
+R
+S
+E
+Grass
+13
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Swarm
+Seedot
+R
+S
+E
+Swarm
+13
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Wepear Berry
+×9
+From the Berry Trees on the east side of the route
+E
+Revive
+Northwest part of the route (requires
+Cut
+)
+E
+Great Ball
+Southwest part of the route
+E
+Repel
+Southwest part of the route (hidden)
+E
+Pokémon Day Care
+The
+Pokémon Day Care
+is a facility that raises Pokémon for busy Trainers. For a small fee, up to two Pokémon can be left here to be raised by the Day Care staff. During their stay, Pokémon will gradually level up and learn new moves. When two
+compatible
+Pokémon are left at the same time, you may return to find an
+Egg
+! Speak to the Day-Care Man and he will hint at the odds of finding one.
+Quote
+Chance for Egg
+"The two seem to get along very well."
+70%
+"The two seem to get along."
+50%
+"The two don't seem to like each other much."
+20%
+"The two prefer to play with other Pokémon more than each other."
+0%
+Whenever an Egg is found, the Day-Care Man will be standing farther away from the fence, eager to talk to you. Speak to him to receive the Egg, and carry it with you on your journey. The more you travel with an Egg, the faster the Pokémon inside will hatch.
+Verdanturf Town (optional)
+Verdanturf Town
+Verdanturf
+is a small town just west of
+Route 117
+, at the foot of the mountains. Due to the prevailing wind pattern, the area is always kept clear of falling volcanic ash.
+Wally
+is visiting with his uncle's family here, in the hopes that the fresh, clean air will improve his health.
+Items
+Item
+Location
+Games
+TM45
+(
+Attract
+)
+From a woman inside the Battle Tent
+E
+Nest Ball
+Reward for winning three consecutive battles in the Battle Tent
+E
+Move Tutor
+Another
+Move Tutor
+can be found inside the Pokémon Center. This young boy offers to teach the move
+Fury Cutter
+to a Pokémon, one time only.
+Battle Tent
+The
+Verdanturf Battle Tent
+stands in the northwest corner of town, and is the second of three scattered throughout
+Hoenn
+. At this location, challengers select three of their Pokémon to battle three opposing Trainers. These Trainers' Pokémon will either be level 30, or match the highest-leveled Pokémon in your party, whichever is higher. Trainers take a backseat here, while their Pokémon battle on their own, using moves most suited to their
+Natures
+. All moves are grouped into three categories; Attack, Defense, and Support. Each Nature has a ratio of Attack, Defense, and Support moves that Pokémon with that Nature will prefer to use, but these ratios may change when a Pokémon's HP falls below 50%. During battle, a Pokémon chooses one of these categories, then selects a random attack from its moveset that matches that category. If no such attack exists, the Pokémon will "appear incapable of using its power" and skip its turn. The reward for winning three consecutive battles here is a
+Nest Ball
+.
+Scott
+can be found in the entry hall, in which he only appear in this place if you have the
+Dynamo Badge
+, a requirement we fulfill. He claims that a Battle Tent is a great place to meet tough Trainers, and expects you to do your best here.
+Wanda's House
+The middle home on the south side belongs to
+Wanda
+, who happens to be
+Wally
+'s cousin. This is where Wally is staying for now, but it seems that he's run off to train his Pokémon. According to Wanda's mother, Wanda is concerned about her boyfriend, who is working non-stop to complete the construction of
+Rusturf Tunnel
+. She often goes there to visit him.
+Friendship Rater
+In the house situated to the left of Wanda's house, there is a woman who rates the
+friendship
+of Pokémon.
+Rusturf Tunnel
+Rusturf Tunnel
+Trainers
+Trainer
+Pokémon
+Hiker
+Mike
+Reward:
+$
+640
+Geodude
+♂
+Lv.
+16
+No item
+Geodude
+♂
+Lv.
+16
+No item
+Machop
+♂
+Lv.
+16
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Whismur
+R
+S
+E
+Cave
+5-8
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM04
+(
+Strength
+)
+From
+Wanda
+'s boyfriend, after
+clearing
+the remaining debris
+E
+Max Ether
+Northeast part of the cave
+E
+Reunion
+Enter the cave through either
+Route 116
+or
+Verdanturf Town
+. With the
+Dynamo Badge
+, you can finally use
+Rock Smash
+to clear a path through
+Rusturf Tunnel
+. Step inside and go northwest to reach a group of cracked rocks. Clear the debris to open the tunnel and reunite
+Wanda
+with her hardworking boyfriend. As thanks, he gives you
+HM04
+(
+Strength
+)!
+Route 116
+Items
+Item
+Location
+Games
+Western area
+Repeat Ball
+From the Devon researcher, after delivering the
+Devon Goods
+to
+Captain Stern
+E
+Accessed through
+Verdanturf Town
+Black Glasses
+In the isolated eastern area, accessed via Rusturf Tunnel, by the bottom of the stairs (hidden)
+E
+HP Up
+In the isolated eastern area, on the mountainside
+E
+If you leave the tunnel through the middle exit, then you enter a new area on
+Route 116
+. You can pick up a
+Black Glasses
+and
+HP Up
+here. Additionally, you can talk to a
+Devon Corporation
+employee anytime after delivering the Devon Goods, and he will give you a free
+Repeat Ball
+and allow you to buy more Repeat Balls and
+Timer Balls
+at
+Rustboro City
+.
+Route 118 (optional)
+We're going to head right, from Mauville City to Route 118. This is the western side of the route. You can't explore most of it, but the experience is valuable.
+Trainers
+Trainer
+Pokémon
+Western side
+Aroma Lady
+Rose
+Reward:
+$
+560
+Potential
+Double Battle
+with Deandre
+Roselia
+♀
+Lv.
+14
+No item
+Shroomish
+♀
+Lv.
+14
+No item
+Roselia
+♀
+Lv.
+14
+No item
+Youngster
+Deandre
+Reward:
+$
+224
+Potential
+Double Battle
+with Rose
+Zigzagoon
+♂
+Lv.
+14
+No item
+Aron
+♂
+Lv.
+14
+No item
+Electrike
+♂
+Lv.
+14
+No item
+Fisherman
+Wade
+Reward:
+$
+640
+Tentacool
+♂
+Lv.
+16
+No item
+Guitarist
+Dalton
+Reward:
+$
+480
+Magnemite
+Lv.
+15
+No item
+Whismur
+♂
+Lv.
+15
+No item
+Rematch
+Aroma Lady
+Rose
+*
+Reward:
+$
+1040
+Shroomish
+♀
+Lv.
+26
+No item
+Roselia
+♀
+Lv.
+26
+No item
+Aroma Lady
+Rose
+*
+Reward:
+$
+1120
+/
+1240
+Shroomish
+♀
+Lv.
+28
+/
+31
+No item
+Gloom
+♀
+Lv.
+28
+/
+31
+No item
+Roselia
+♀
+Lv.
+28
+/
+31
+No item
+Aroma Lady
+Rose
+*
+Reward:
+$
+1360
+Breloom
+♀
+Lv.
+34
+No item
+Gloom
+♀
+Lv.
+34
+No item
+Roselia
+♀
+Lv.
+34
+No item
+Guitarist
+Dalton
+*
+Reward:
+$
+800
+Magnemite
+Lv.
+25
+No item
+Whismur
+♂
+Lv.
+25
+No item
+Magnemite
+Lv.
+25
+No item
+Guitarist
+Dalton
+*
+Reward:
+$
+896
+Magnemite
+Lv.
+28
+No item
+Loudred
+♂
+Lv.
+28
+No item
+Magnemite
+Lv.
+28
+No item
+Guitarist
+Dalton
+*
+Reward:
+$
+992
+Magneton
+Lv.
+31
+No item
+Loudred
+♂
+Lv.
+31
+No item
+Magneton
+Lv.
+31
+No item
+Guitarist
+Dalton
+*
+Reward:
+$
+1088
+Magneton
+Lv.
+34
+No item
+Exploud
+♂
+Lv.
+34
+No item
+Magneton
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West side
+Heart Scale
+On the beach, on a rock near Fisherman Wade (hidden)
+E
+← Part 4
+Route 110, Trick House, Route 103
+Emerald
+walkthrough
+Route 111 (south), Route 112 (south), Fiery Path, Route 112 (north), Route 111 (north), Route 113, Fallarbor Town, Route 114
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

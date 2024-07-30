@@ -1,0 +1,1335 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_10
+Keywords: Route 44, Ice Path, Blackthorn City
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cianwood City
+1.1
+Cianwood City Pharmacy
+1.2
+Then There was One
+1.3
+Cianwood Gym
+1.4
+Fly Like a Bird
+1.5
+Cameron's house
+1.6
+Chasing the Wind
+1.6.1
+VS Eusine
+2
+Olivine City
+2.1
+Olivine Lighthouse
+2.1.1
+6F
+2.2
+Grand Opening!
+2.3
+Olivine Gym
+3
+Route 42
+3.1
+The Hasty Hiker
+3.2
+Chasing the Wind
+3.3
+Mt. Mortar
+3.3.1
+Lower level (West Entrance to East Entrance)
+3.3.1.1
+Entrance (Southwest)
+3.3.1.2
+Lower Cave
+3.3.1.3
+Entrance (Southeast)
+Cianwood City
+Cianwood City
+Cianwood City
+is a small, seaside town on a separate landmass to the southwest of mainland
+Johto
+. Despite its distance, many Trainers still brave the waters of Routes
+40
+and
+41
+to challenge the
+Cianwood Gym
+, or to visit
+a centuries-old pharmacy
+known for its unique medicine.
+Cliff Edge Gate
+leads west to Routes
+47
+and
+48
+, but the
+Johto Safari Zone
+at the end is still under construction.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+HG
+SS
+Surfing
+10-25
+90%
+Tentacruel
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+50%
+Staryu
+HG
+SS
+Fishing
+Good Rod
+20
+0%
+0%
+10%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Corsola
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+10%
+0%
+Rock Smash
+Krabby
+HG
+SS
+Rock Smash
+15-24
+80%
+Shuckle
+HG
+SS
+Rock Smash
+23-28
+20%
+Gift Pokémon
+Shuckle
+HG
+SS
+Gift
+20
+One
+If the player has only one Pokémon
+Tentacool
+HG
+SS
+Gift
+15
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+Between the two middle drying racks (hidden)
+HG
+SS
+Berry Juice
+Held by Shuckie, a
+Shuckle
+received from Kirk for safekeeping
+HG
+SS
+SecretPotion
+Cianwood City Pharmacy; after speaking with
+Jasmine
+in
+Olivine Lighthouse
+HG
+SS
+TM01
+(
+Focus Punch
+)
+From
+Gym Leader
+Chuck
+, after defeating him
+HG
+SS
+HM02
+(
+Fly
+)
+In front of Cianwood Gym; from
+Chuck
+'s wife, after defeating her husband
+HG
+SS
+Revive
+Next to the northernmost house (hidden; requires
+Rock Smash
+)
+HG
+SS
+Cianwood City Pharmacy
+The
+Cianwood City Pharmacy
+is located on the south side of town, and has served as the local Poké Mart for the last 500 years. Inform the shopkeeper of the situation in
+Olivine Lighthouse
+to receive the
+SecretPotion
+, a powerful remedy only dispensed in emergencies.
+After dispensing the SecretPotion, the shopkeeper offers traditional medicine for sale.
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Full Heal
+$
+600
+Revive
+$
+1500
+Then There was One
+The house in the southwest part of town belongs to a PokéManiac. Speak to him to learn that he was bullied by someone with "
+piercing eyes and long hair
+" into giving up one of his Pokémon. He still has one left, but is afraid of what will happen if the thief returns. He asks that you take his remaining Pokémon, a
+Shuckle
+, for safekeeping.
+He will eventually ask for his Shuckle back, but will decide to let you keep it if it has grown
+friendly
+enough toward you.
+Cianwood Gym
+Cianwood Gym
+Cianwood City Pokémon Gym
+Leader: Chuck
+His Roaring Fists Do The Talking
+The
+Cianwood Gym
+specializes in
+Fighting-type
+Pokémon. Fighting-type moves are super effective against
+Dark
+-,
+Ice
+-,
+Normal
+-,
+Rock
+-, and
+Steel-type
+Pokémon, while Fighting-type Pokémon are weak to
+Flying
+- and
+Psychic-type
+moves.
+The Gym is designed to mimic a cliffside, with an artificial waterfall under which the
+Gym Leader
+can be seen meditating. First, climb up the west side to battle Black Belt Yoshi and Black Belt Nob. When Nob approaches you, he blocks off the stairway to the uppermost level from this direction. On the east side, battle Black Belt Lao, then cross over the bridge to reach a red button on the west side's uppermost level. Pressing this button turns the winch and raises the pipe, stopping the flow of water.
+Chuck
+'s
+Primeape
+has a high
+Attack
+stat, allowing it to deal considerable damage already. Using
+Leer
+cuts the foe's
+Defense
+, and
+Rock Slide
+lets it fight back against
+Flying-type
+Pokémon. His
+Poliwrath
+can lull the target to
+sleep
+with
+Hypnosis
+, and
+Body Slam
+may cause
+paralysis
+. As a
+Water
+Pokémon, it is also vulnerable to
+Grass
+- and
+Electric-type
+moves. Both Pokémon have access to
+Focus Punch
+, the strongest Fighting-type move and one that forces the user to first spend a turn readying its attack. If the user is hit before it can strike, the move fails. Healing items like
+Awakening
+and
+Chesto Berry
+will be helpful, as will using moves like
+Reflect
+to boost your Pokémon's
+Defense
+.
+Cianwood Gym
+Trainers
+Trainer
+Pokémon
+West side
+Black Belt
+Yoshi
+キヨマサ
+Kiyomasa
+Reward:
+$
+648
+Hitmonlee
+♂
+Lv.
+27
+No item
+Black Belt
+Nob
+テッカン
+Tekkan
+Reward:
+$
+600
+Machop
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+East side
+Black Belt
+Lao
+フミヒト
+Fumihito
+Reward:
+$
+648
+Hitmonchan
+♂
+Lv.
+27
+No item
+Black Belt
+Lung
+モリカズ
+Morikazu
+Reward:
+$
+600
+Mankey
+♂
+Lv.
+23
+No item
+Mankey
+♂
+Lv.
+23
+No item
+Primeape
+♂
+Lv.
+25
+No item
+Leader
+Chuck
+Cianwood Gym
+HeartGold and SoulSilver
+Reward:
+$
+3720
+Type:
+Fighting
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Primeape
+♂
+Lv.
+29
+Rock Slide
+Rock
+Physical
+--
+Double Team
+Normal
+Status
+--
+Focus Punch
+Fighting
+Physical
+--
+Leer
+Normal
+Status
+--
+Types:
+Water
+Fighting
+Ability:
+Water Absorb
+Held item:
+Sitrus Berry
+Poliwrath
+♂
+Lv.
+31
+Surf
+Water
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Body Slam
+Normal
+Physical
+--
+Focus Punch
+Fighting
+Physical
+--
+After the battle,
+Chuck
+awards you the
+Storm Badge
+, which ensures obedience of all Pokémon up to level 70 and enables the use of
+Fly
+in the field. He also gives you
+TM01
+(
+Focus Punch
+) as a prize.
+Fly Like a Bird
+Upon leaving the Gym,
+Chuck's wife
+immediately notices your new
+Storm Badge
+, and gives you
+HM02
+(
+Fly
+). This field move allows a Trainer to quickly return to any familiar location. She comments how it is a good thing that her husband was defeated, as it gives him a reason to train.
+Cameron's house
+The northeast house belongs to the
+Cameron
+, the Photographer. He is not home, but a relative of his invites you to use the camera set up outside to take pictures with your party Pokémon.
+Chasing the Wind
+The far north end of the beach holds a small hill at the foot of the cliffs. It is here that you have your first sighting of the legendary
+Suicune
+since it fled from the
+Burned Tower
+. When you get too close, it races around you before running out over the waves.
+Eusine
+appears a moment later, and challenges you to a battle in order to prove himself to the legendary beast.
+VS Eusine
+Eusine
+has a diverse team of Pokémon, but there is still some overlap in weaknesses. His
+Drowzee
+can lull the target to sleep with
+Hypnosis
+before stealing its health with
+Dream Eater
+.
+Haunter
+'s
+Mean Look
+prevents escape while
+Curse
+cuts its health in order to afflict the target. Both of these Pokémon are vulnerable to
+Ghost
+- and
+Dark-type
+attacks. As an
+Electric-type
+Pokémon, his
+Electrode
+takes serious damage only from
+Ground-type
+moves.
+Mystery Man
+Eusine
+Cianwood City
+HeartGold and SoulSilver
+Reward:
+$
+3240
+Type:
+Psychic
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Drowzee
+♂
+Lv.
+25
+Hypnosis
+Psychic
+Status
+--
+Disable
+Normal
+Status
+--
+Confusion
+Psychic
+Special
+--
+Dream Eater
+Psychic
+Special
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Haunter
+♂
+Lv.
+25
+Hypnosis
+Psychic
+Status
+--
+Lick
+Ghost
+Physical
+--
+Mean Look
+Normal
+Status
+--
+Curse
+???
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Electrode
+Lv.
+27
+SonicBoom
+Normal
+Special
+--
+Rollout
+Rock
+Physical
+--
+Screech
+Normal
+Status
+--
+Thunder
+Electric
+Special
+--
+After the battle,
+Eusine
+promises to keep searching for
+Suicune
+, and bids you farewell until your next meeting.
+Olivine City
+Olivine Lighthouse
+6F
+Return to the
+Olivine Lighthouse
+and take the elevator to the top floor to deliver the
+SecretPotion
+to
+Jasmine
+. She administers the medicine to
+Amphy
+, and its vitality and light is restored. Seeing it returned to full health, Jasmine promises to return to the
+Olivine Gym
+.
+Grand Opening!
+Upon leaving the lighthouse, you receive a call from Warden
+Baoba
+. He informs you that the
+Safari Zone
+is finally open, and that it can be reached by traveling through
+Cianwood City
+'s
+Cliff Edge Gate
+.
+Olivine Gym
+Olivine Gym
+Olivine City Pokémon Gym
+Leader: Jasmine
+The Steel-Clad Defense Girl
+The
+Olivine Gym
+specializes in
+Steel-type
+Pokémon. Steel-type moves are super effective against
+Ice
+- and
+Rock-type
+Pokémon, while Steel-type Pokémon are weak to
+Fighting
+-,
+Fire
+-, and
+Ground-type
+moves.
+The Gym features neither puzzles to solve nor Gym Trainers to defeat, allowing challengers to reach the
+Gym Leader
+immediately.
+Both of
+Jasmine
+'s two
+Magnemite
+can harass their target with
+Supersonic
+and
+Thunder Wave
+, though
+Ground-type
+Pokémon are immune to the latter. Her
+Steelix
+is vulnerable to
+Fire
+attacks as well, but can retaliate with
+Rock Throw
+against unsuspecting Fire Pokémon.
+Screech
+lowers the target's
+Defense
+, while
+Iron Tail
+may do the same. Its low
+Special Defense
+leaves it particularly vulnerable to
+special
+Fire- and
+Water-type
+attacks.
+Olivine Gym
+Trainers
+None.
+Leader
+Jasmine
+Olivine Gym
+HeartGold and SoulSilver
+Reward:
+$
+4200
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magnemite
+Lv.
+30
+Thunderbolt
+Electric
+Special
+--
+SonicBoom
+Normal
+Special
+--
+Supersonic
+Normal
+Status
+--
+Thunder Wave
+Electric
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magnemite
+Lv.
+30
+Thunderbolt
+Electric
+Special
+--
+SonicBoom
+Normal
+Special
+--
+Supersonic
+Normal
+Status
+--
+Thunder Wave
+Electric
+Status
+--
+Types:
+Steel
+Ground
+Ability:
+Sturdy
+Held item:
+Sitrus Berry
+Steelix
+♀
+Lv.
+35
+Iron Tail
+Steel
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Screech
+Normal
+Status
+--
+After the battle,
+Jasmine
+awards you the
+Mineral Badge
+. She also gives you
+TM23
+(
+Iron Tail
+) as a prize.
+Having now explored western
+Johto
+, the next destination is the region's mountainous northeast area. Fly back to
+Ecruteak City
+and head east to reach
+Route 42
+.
+Route 42
+Route 42
+Route 42
+connects
+Ecruteak City
+to
+Mahogany Town
+in the east. The path runs along the base of
+Mt. Mortar
+, and is divided twice over by small lakes. Crossing these waters directly requires the use of
+Surf
+, but it is possible to detour through the mountain to avoid them. A grove of
+Apricorn
+trees grows in the middle of the route.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Tully
+Reward:
+$
+608
+Qwilfish
+♂
+Lv.
+19
+No item
+Poké Maniac
+Shane
+Reward:
+$
+1088
+Nidorina
+♀
+Lv.
+17
+No item
+Nidorino
+♂
+Lv.
+17
+No item
+Hiker
+Benjamin
+Reward:
+$
+544
+Diglett
+♂
+Lv.
+15
+No item
+Geodude
+♂
+Lv.
+15
+No item
+Dugtrio
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spearow
+HG
+SS
+Grass
+14, 16
+30%
+30%
+0%
+Spearow
+HG
+SS
+Grass
+14, 16
+40%
+40%
+0%
+Zubat
+HG
+SS
+Grass
+14, 16
+0%
+0%
+30%
+Zubat
+HG
+SS
+Grass
+14, 16
+0%
+0%
+40%
+Mankey
+HG
+SS
+Grass
+15
+30%
+Mareep
+HG
+SS
+Grass
+13
+30%
+Mareep
+HG
+SS
+Grass
+13, 15
+50%
+Flaaffy
+HG
+SS
+Grass
+15, 17
+10%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+10-25
+90%
+Seaking
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Headbutt
+Group A
+Spearow
+HG
+SS
+Headbutt
+13-14
+50%
+Heracross
+HG
+SS
+Headbutt
+13-14
+30%
+Aipom
+HG
+SS
+Headbutt
+13-14
+20%
+Headbutt
+Group B
+Spearow
+HG
+SS
+Headbutt
+15-16
+80%
+Aipom
+HG
+SS
+Headbutt
+15-16
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM65
+(
+Shadow Claw
+)
+Near the sign to Mt. Mortar's west entrance
+HG
+SS
+HM04
+(
+Strength
+)
+From a Hiker leaving the western entrance to Mt. Mortar
+HG
+SS
+Pnk Apricorn
+South of Mt. Mortar's middle entrance, on the western tree (daily; requires
+Surf
+,
+Cut
+)
+HG
+SS
+Grn Apricorn
+South of Mt. Mortar's middle entrance, on the middle tree (daily; requires
+Surf
+,
+Cut
+)
+HG
+SS
+Ylw Apricorn
+South of Mt. Mortar's middle entrance, on the eastern tree (daily; requires
+Surf
+,
+Cut
+)
+HG
+SS
+Super Potion
+Northeast of the Apricorn grove, at the water's edge (requires
+Surf
+)
+HG
+SS
+Max Potion
+Southeast of the eastern lake, on the lone rock (hidden; requires
+Surf
+)
+HG
+SS
+Later visit
+Dubious Disc
+North of the eastern lake, accessed via Mt. Mortar (requires
+Rock Climb
+)
+HG
+SS
+The Hasty Hiker
+Just as you approach the western entrance to
+Mt. Mortar
+, a Hiker comes running out of the cave. He apologizes for bumping into you, and gives you
+HM04
+(
+Strength
+) to make up for it. This field move lets a compatible Pokémon move large boulders with ease.
+Chasing the Wind
+A grove of
+Apricorn
+trees grows between the two lakes, blocked by an
+overgrown tree
+. Enter this grove to find
+Suicune
+again, standing among the trees. It flees again when you get too close, dashing off eastward toward
+Mahogany Town
+.
+Eusine
+arrives a moment later, and mentions how you always seem to be around when Suicune appears. He is not worried though, as he believes his desire to search for the Pokémon surpasses your own. He reaffirms his commitment to find out what Suicune is looking for, and hurries off after it.
+Mt. Mortar, Entrance
+Mt. Mortar, Lower Cave
+Mt. Mortar
+Mt. Mortar
+is a sprawling cave set deep into the northern mountains. It is an optional cave to enter, but contains many valuable items and Pokémon. Navigating the difficult terrain requires the use of
+Surf
+,
+Strength
+,
+Flash
+, and
+Waterfall
+. As such, it is not possible to reach every area on the first visit.
+Trainers
+Trainer
+Pokémon
+1F
+Poké Maniac
+Harrison
+Reward:
+$
+1088
+Nidoking
+♂
+Lv.
+17
+No item
+Nidoqueen
+♀
+Lv.
+17
+No item
+Super Nerd
+Markus
+Reward:
+$
+912
+Requires
+Strength
+,
+or
+Surf
+and
+Waterfall
+,
+or
+Rock Climb
+Slowpoke
+♂
+Lv.
+19
+No item
+2F
+Super Nerd
+Hugh
+Reward:
+$
+1872
+Requires
+Surf
+,
+Waterfall
+Seadra
+♂
+Lv.
+39
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+13, 15
+60%
+Machop
+HG
+SS
+Cave
+14
+20%
+Rattata
+HG
+SS
+Cave
+14, 16
+14%
+Geodude
+HG
+SS
+Cave
+14
+5%
+Marill
+HG
+SS
+Cave
+15
+1%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+10-25
+90%
+Seaking
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Lower Cave
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+HG
+SS
+Cave
+13, 15
+50%
+Machop
+HG
+SS
+Cave
+13, 15
+35%
+Rattata
+HG
+SS
+Cave
+14
+10%
+Zubat
+HG
+SS
+Cave
+14
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Entrance
+Hyper Potion
+Northeast of the western entrance, on a lone rock (hidden)
+HG
+SS
+Ether
+West of the waterfall, accessed via Lower Cave
+HG
+SS
+Revive
+East of the waterfall, accessed via Lower Cave
+HG
+SS
+Lower Cave
+Max Repel
+In the darker patch of dirt, northeast of the boulder (hidden; requires
+Strength
+)
+HG
+SS
+Ultra Ball
+West-central area (requires
+Strength
+)
+HG
+SS
+Max Potion
+Central area, next to a group of five stalagmites (requires
+Strength
+)
+HG
+SS
+Escape Rope
+East-central area, southeast of Super Nerd Markus (requires
+Strength
+)
+HG
+SS
+Nugget
+Northeast area (requires
+Strength
+)
+HG
+SS
+Lower level (West Entrance to East Entrance)
+Entrance (Southwest)
+From the western cave entrance, go north and pass through the opening to reach the Lower Cave.
+Lower Cave
+Climb up the ladder to the northwest. This leads to the upper level of the Entrance, to the western platform atop the waterfall. Collect the
+Ether
+and climb back down the ladder.
+Go east and use
+Strength
+on the boulder to clear a path northward. Detour up the first stairway on the left to reach an
+Ultra Ball
+, then continue northward. Pick up the
+Max Potion
+to the northeast, then turn eastward. The nearest stairway leads to Super Nerd Markus and a shortcut to the entrance. Continue eastward first to reach an
+Escape Rope
+to the southeast, then climb the large stairway to collect a
+Nugget
+to the north. Return to the boulder near the south wall. Head east and climb the stairway to reach a second ladder.
+This leads to the upper level of the Entrance, to the eastern platform atop the waterfall. Collect the
+Revive
+and climb back down the ladder.
+Go south to return to the Entrance.
+Entrance (Southeast)
+Head southeast to reach the eastern cave exit and return to
+Route 42
+.
+← Part 9
+Olivine City, Route 40, Route 41
+HeartGold and SoulSilver
+walkthrough
+Mahogany Town, Route 43, Lake of Rage, Rocket Hideout, Mahogany Gym
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

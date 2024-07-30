@@ -1,0 +1,53 @@
+Game: FireRed_and_LeafGreen
+Part: 10
+Keywords: Saffron City, Silph Co., Saffron Gym
+
+### Part 10: Saffron City, Silph Co., Saffron Gym
+
+**Saffron City Overview**
+- Central city in Kanto with Silph Co. headquarters.
+- Key locations: Mr. Psychic's house, Silph Co., Copycat's house, Fighting Dojo, Saffron Gym.
+
+**Key Items**
+- **TM29 (Psychic)**: From Mr. Psychic in his house.
+- **Master Ball**: Received from the Silph Co. president after defeating Giovanni.
+
+**Silph Co. Overview**
+- Enter through an unguarded entrance.
+- Navigate 11 floors using warp tiles.
+  
+**Floor Highlights**:
+- **2F**: Battle Team Rocket Grunts, collect Ultra Ball.
+- **3F**: Fight Grunts, obtain Hyper Potion and meet Move Tutor for Thunder Wave.
+- **5F**: Defeat Grunt and Scientist, find Card Key.
+- **7F**: Collect TM08 (Bulk Up), battle more Grunts.
+- **8F**: Collect Iron, battle Grunts.
+- **10F**: Fight Grunt and scientist, collect Carbos and Rare Candy.
+- **11F**: Face Giovanni; use Ground and Fighting types for effectiveness.
+
+**Rival Battle (Blue) on 7F**:
+- **Team Composition** varies based on starter choice. Use type advantages accordingly.
+
+**Giovanni Battle**:
+- **Pokémon**: Nidorino, Rhyhorn, Nidoqueen, Kangaskhan.
+- Use Ground moves against Nidorino and Nidoqueen, and Fighting moves against Kangaskhan.
+
+**Post-Giovanni**:
+- Receive the **Master Ball**.
+- Head to the Copycat's house; give her a Poké Doll to learn Mimic.
+
+**Fighting Dojo**:
+- Defeat Karate Master for a choice between Hitmonlee and Hitmonchan. Use Psychic or Flying moves for an advantage.
+
+**Saffron Gym**:
+- **Leader**: Sabrina, specializes in Psychic Pokémon.
+- Navigate warp tiles to reach Sabrina. Recommended path: Southeast > Northwest > Southwest > Southwest.
+
+**Sabrina Battle**:
+- **Pokémon**: Kadabra, Mr. Mime, Venomoth, Alakazam.
+- Use Bug, Dark, or Ghost-type moves to counter her Psychic types.
+
+**Next Steps**:
+- After earning the **Marsh Badge** and **TM04 (Calm Mind)**, proceed to Fuchsia City via Cycling Road or the coastal route.
+
+This concise guide retains essential gameplay elements, item locations, and battle strategies while streamlining the walkthrough for easier navigation.

@@ -1,0 +1,3049 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_20
+Keywords: Skyarrow Bridge, Pinwheel Forest, Nacrene City, Route 3, Wellspring Cave, Striaton City, The Dreamyard
+
+Walkthrough Text:
+Contents
+1
+Skyarrow Bridge
+1.1
+The Salesman, The Runner
+2
+Pinwheel Forest
+2.1
+Interior
+2.1.1
+West side
+2.1.2
+East side
+2.2
+Exterior
+3
+Nacrene City
+3.1
+Café Warehouse
+3.2
+Nacrene Museum
+3.3
+Move Tutor
+3.4
+Loblolly's Studio
+3.5
+Get a Pokémon Egg
+4
+Route 3
+4.1
+Wellspring Cave
+4.1.1
+1F
+4.1.2
+B1F
+4.2
+Preschool
+4.3
+Pokémon Day Care
+5
+Striaton City
+5.1
+Trainers' School
+5.2
+Pokémon Center
+5.3
+Striaton Restaurant
+5.3.1
+Battle with the Brothers
+5.3.2
+The Guessing Game
+5.4
+Funfest Mission
+5.5
+Hints of a Legend
+5.6
+The Dreamyard
+Skyarrow Bridge
+Skyarrow Bridge
+The
+Skyarrow Bridge
+is the longest bridge in
+Unova
+, connecting
+Castelia City
+to
+Pinwheel Forest
+. Pedestrians travel across the elevated walkway, while trucks rumble by on the lower level. As you leave the city, the Castelia skyline appears in the background.
+Items
+Item
+Location
+Games
+Fresh Water
+Buy from the man near the bridge's midpoint for
+$
+300
+B2
+W2
+Moomoo Milk
+×12
+Give the thirsty man a Fresh Water at each location, then return here
+B2
+W2
+The Salesman, The Runner
+Midway across the bridge, a man is trying to sell bottles of
+Fresh Water
+for
+$
+300 apiece. He claims that he will be in trouble if he can't sell them — his reasons suspiciously change with each meeting — but if you accept, he thanks you for your generosity. If not, you'll need to decline his offer twice; he's a persistent salesman!
+Farther along, you will encounter a thirsty man running across the bridge. Give him a
+Fresh Water
+to slake his thrist, and he dashes off. Repeat the process at the
+Driftveil Drawbridge
+,
+Tubeline Bridge
+,
+Village Bridge
+,
+Marvelous Bridge
+, and the
+Marine Tube
+in that order, and he will return to the
+Skyarrow Bridge
+. Meet up with him here again to receive a dozen bottles of
+Moomoo Milk
+in gratitude.
+Pinwheel Forest
+Pinwheel Forest
+Pinwheel Forest
+is a lush forest where the trees have grown so densely that little sunlight gets in. The road leads to the southeast, where the brighter edge of the forest connects to
+Nacrene City
+.
+Trainers
+Inside
+Trainer
+Pokémon
+Preschooler
+Jojo
+ショウ
+Shō
+Reward:
+$
+240
+Wooper
+♂
+Lv.
+60
+No item
+Tympole
+♂
+Lv.
+60
+No item
+Nursery Aide
+Ethel
+マイコ
+Maiko
+Reward:
+$
+2440
+Exeggcute
+♀
+Lv.
+61
+No item
+Miltank
+♀
+Lv.
+61
+No item
+Preschooler
+Samantha
+アカリ
+Akari
+Reward:
+$
+236
+Dratini
+♀
+Lv.
+59
+No item
+Gible
+♀
+Lv.
+59
+No item
+Bagon
+♀
+Lv.
+59
+No item
+Preschooler
+José
+エイジ
+Eiji
+Reward:
+$
+236
+Burmy
+♂
+Plant Cloak
+Lv.
+59
+No item
+Scyther
+♂
+Lv.
+59
+No item
+Paras
+♂
+Lv.
+59
+No item
+Twins
+Ally & Amy
+アキとアミ
+Aki and Ami
+Reward:
+$
+960
+Plusle
+♀
+Lv.
+60
+No item
+Minun
+♀
+Lv.
+60
+No item
+At this point,
+Cheren
+joins
+Nursery Aide
+Rosalyn
+チヅル
+Chizuru
+Reward:
+$
+2680
+(with Preschooler Ike)
+Chansey
+♀
+Lv.
+61
+No item
+Leavanny
+♀
+Lv.
+61
+No item
+Preschooler
+Ike
+カイト
+Kaito
+Reward:
+$
+2680
+(with Nursery Aide Rosalyn)
+Pineco
+♂
+Lv.
+60
+No item
+Ferrothorn
+♂
+Lv.
+60
+No item
+Pokémon Ranger
+Hillary
+キョウコ
+Kyōko
+Reward:
+$
+3720
+Sudowoodo
+♀
+Lv.
+62
+No item
+Gloom
+♀
+Lv.
+62
+No item
+Beartic
+♀
+Lv.
+62
+No item
+Pokémon Ranger
+Dwayne
+ケイゴ
+Keigo
+Reward:
+$
+3720
+Weepinbell
+♂
+Lv.
+62
+No item
+Luxray
+♂
+Lv.
+62
+No item
+Ursaring
+♂
+Lv.
+62
+No item
+Youngster
+Keita
+ケイタ
+Keita
+Reward:
+$
+960
+Mankey
+♂
+Lv.
+60
+No item
+Snubbull
+♀
+Lv.
+60
+No item
+Crawdaunt
+♂
+Lv.
+60
+No item
+Pokémon Ranger
+Ralph
+ソウスケ
+Sōsuke
+Reward:
+$
+3720
+Electrike
+♂
+Lv.
+62
+No item
+Rapidash
+♂
+Lv.
+62
+No item
+Farfetch'd
+♂
+Lv.
+62
+No item
+Veteran
+Rosaline
+ローザ
+Rosa
+Reward:
+$
+10240
+(with Veteran Sinan)
+Crobat
+♀
+Lv.
+64
+No item
+Magmortar
+♂
+Lv.
+64
+No item
+Leafeon
+♂
+Lv.
+64
+No item
+Veteran
+Sinan
+ソウジロウ
+Sōjirō
+Reward:
+$
+10240
+(with Veteran Rosaline)
+Ludicolo
+♂
+Lv.
+64
+No item
+Electivire
+♂
+Lv.
+64
+No item
+Forretress
+♂
+Lv.
+64
+No item
+Lass
+Helia
+ヒヨリ
+Hiyori
+Reward:
+$
+1920
+(with Youngster Henley)
+Nidoran♀
+Lv.
+60
+No item
+Nidoran♂
+Lv.
+60
+No item
+Nidoqueen
+♀
+Lv.
+60
+No item
+Youngster
+Henley
+ヘイタ
+Heita
+Reward:
+$
+1920
+(with Lass Helia)
+Cascoon
+♂
+Lv.
+60
+No item
+Silcoon
+♂
+Lv.
+60
+No item
+Scolipede
+♂
+Lv.
+60
+No item
+At this point, Cheren leaves
+Pokémon Ranger
+Melita
+クニミ
+Kunimi
+Reward:
+$
+3720
+Munchlax
+♂
+Lv.
+62
+No item
+Zebstrika
+♀
+Lv.
+62
+No item
+Kricketune
+♀
+Lv.
+62
+No item
+Youngster
+Nicholas
+カツミ
+Katsumi
+Reward:
+$
+960
+Phanpy
+♂
+Lv.
+60
+No item
+Doduo
+♂
+Lv.
+60
+No item
+Fearow
+♂
+Lv.
+60
+No item
+Outside
+Trainer
+Pokémon
+School Kid
+Millie
+ミリー
+Millie
+Reward:
+$
+1200
+Oddish
+♀
+Lv.
+60
+No item
+Tangela
+♀
+Lv.
+60
+No item
+Bellossom
+♀
+Lv.
+60
+No item
+Ace Trainer
+Kelsey
+ユウサク
+Yūsaku
+Reward:
+$
+3780
+Furret
+♂
+Lv.
+63
+No item
+Braviary
+♂
+Lv.
+63
+No item
+Seismitoad
+♂
+Lv.
+63
+No item
+Ace Trainer
+Kathrine
+サエコ
+Saeko
+Reward:
+$
+3780
+Linoone
+♀
+Lv.
+63
+No item
+Mandibuzz
+♀
+Lv.
+63
+No item
+Toxicroak
+♀
+Lv.
+63
+No item
+Black Belt
+Kentaro
+ケンタロウ
+Kentarō
+Reward:
+$
+1952
+Tyrogue
+♂
+Lv.
+61
+No item
+Scrafty
+♂
+Lv.
+61
+No item
+Makuhita
+♂
+Lv.
+61
+No item
+Battle Girl
+Lee
+リ
+Li
+Reward:
+$
+1952
+Tyrogue
+♂
+Lv.
+61
+No item
+Machop
+♂
+Lv.
+61
+No item
+Poliwrath
+♀
+Lv.
+61
+No item
+School Kid
+Keston
+アズマ
+Azuma
+Reward:
+$
+1200
+Venonat
+♂
+Lv.
+60
+No item
+Yanma
+♂
+Lv.
+60
+No item
+Venomoth
+♂
+Lv.
+60
+No item
+Available Pokémon
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+Cottonee
+B2
+W2
+Grass
+54-57
+45%
+Petilil
+B2
+W2
+Grass
+54-57
+45%
+Swadloon
+B2
+W2
+Grass
+54-56
+25%
+Vigoroth
+B2
+W2
+Grass
+55-57
+15%
+Whirlipede
+B2
+W2
+Grass
+55-57
+15%
+Dark grass
+Cottonee
+B2
+W2
+Dark grass
+62-65
+45%
+Petilil
+B2
+W2
+Dark grass
+62-65
+45%
+Swadloon
+B2
+W2
+Dark grass
+62-64
+25%
+Vigoroth
+B2
+W2
+Dark grass
+63-65
+15%
+Whirlipede
+B2
+W2
+Dark grass
+63-65
+15%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+54-64
+55%
+Audino
+B2
+W2
+Rustling grass
+54-57
+55%
+Pansage
+B2
+W2
+Rustling grass
+55
+10%
+Pansear
+B2
+W2
+Rustling grass
+55
+10%
+Panpour
+B2
+W2
+Rustling grass
+55
+10%
+Slaking
+B2
+W2
+Rustling grass
+57
+5%
+Scolipede
+B2
+W2
+Rustling grass
+57
+5%
+Whimsicott
+B2
+W2
+Rustling grass
+57
+5%
+Lilligant
+B2
+W2
+Rustling grass
+57
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+70%
+Basculin
+B2
+W2
+Surfing
+45-60
+70%
+Marill
+B2
+W2
+Surfing
+45-60
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+45-60
+60%
+Basculin
+B2
+W2
+Rippling water
+45-60
+35%
+Basculin
+B2
+W2
+Rippling water
+45-60
+35%
+Azumarill
+B2
+W2
+Rippling water
+50-60
+5%
+Hidden Grotto
+Amoonguss
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Butterfree
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Beedrill
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Breloom
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Murkrow
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Gurdurr
+B2
+W2
+Grass
+54-56
+40%
+Palpitoad
+B2
+W2
+Grass
+54-57
+25%
+Sawk
+B2
+W2
+Grass
+55-57
+15%
+Throh
+B2
+W2
+Grass
+55-57
+15%
+Yanma
+B2
+W2
+Grass
+55
+10%
+Toxicroak
+B2
+W2
+Grass
+55
+10%
+Dark grass
+Gurdurr
+B2
+W2
+Dark grass
+63-64
+40%
+Palpitoad
+B2
+W2
+Dark grass
+64-65
+25%
+Sawk
+B2
+W2
+Dark grass
+63-65
+15%
+Throh
+B2
+W2
+Dark grass
+63-65
+15%
+Yanma
+B2
+W2
+Dark grass
+63
+10%
+Toxicroak
+B2
+W2
+Dark grass
+63
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+54-57
+85%
+Yanmega
+B2
+W2
+Rustling grass
+57
+5%
+Seismitoad
+B2
+W2
+Rustling grass
+57
+5%
+Throh
+B2
+W2
+Rustling grass
+57
+5%
+Sawk
+B2
+W2
+Rustling grass
+57
+5%
+Hidden Grotto
+Hariyama
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Medicham
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Bagon
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Poliwhirl
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+Medicham
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+Hariyama
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+N's Pokémon
+Pidove
+B2
+W2
+Only one
+13
+One
+Timburr
+B2
+W2
+Only one
+13
+One
+Tympole
+B2
+W2
+Only one
+13
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Inside
+Item
+Location
+Games
+Sitrus Berry
+×2
+From Pokémon Ranger Hillary upon her defeat
+From Pokémon Ranger Dwayne upon his defeat
+B2
+W2
+Max Repel
+East of Pokémon Ranger Hillary
+B2
+W2
+Ultra Ball
+×2
+West of Pokémon Ranger Hillary
+West of Youngster Keita (hidden)
+B2
+W2
+Max Revive
+In a tree stump, northwest of Youngster Keita
+B2
+W2
+Lum Berry
+×2
+From Pokémon Ranger Ralph upon his defeat
+From Pokémon Ranger Melita upon her defeat
+B2
+W2
+Net Ball
+In a tree stump, east of Veterans Sinan and Rosaline
+B2
+W2
+BalmMushroom
+Northwest of Lass Helia and Youngster Henley (hidden)
+B2
+W2
+TM86
+(
+Grass Knot
+)
+Next to Pokémon Ranger Melita
+B2
+W2
+Green Shard
+East of the break in the fence (hidden)
+B2
+W2
+Bug Gem
+Southeast of Rumination Field (hidden)
+B2
+W2
+Sun Stone
+Southwest of Rumination Field
+B2
+W2
+TM22
+(
+SolarBeam
+)
+Southeast corner of the forest
+B2
+W2
+Rare Candy
+South edge of the pond (hidden)
+B2
+W2
+PP Max
+West of the pond
+B2
+W2
+After completing the Habitat List
+Nest Ball
+×5
+From the Scientist on the south side
+B2
+W2
+Outside
+Item
+Location
+Games
+Full Heal
+East of School Kid Millie, behind the fence
+B2
+W2
+Protein
+Near the railroad tracks
+B2
+W2
+Nugget
+North of Ace Trainer Kelsey
+B2
+W2
+HP Up
+Southwest of Ace Trainer Kelsey
+B2
+W2
+Max Elixir
+In the large puddle, southeast of Ace Trainer Kelsey (hidden)
+B2
+W2
+PP Max
+Near Battle Girl Lee
+B2
+W2
+Stardust
+(one per day)
+Smash the challenge rock with a Fighting Pokémon
+B2
+W2
+Fighting Gem
+On the ledge, west of the challenge rock (hidden)
+B2
+W2
+Ultra Ball
+East of School Kid Keston, behind the fence (hidden)
+B2
+W2
+Interior
+Cross the double bridges to find a trail leading deep into the forest, with
+Cheren
+standing nearby. He heard that
+Team Plasma
+was seen in the forest, and asks you to help him search.
+West side
+Pokémon Ranger Hillary gives you a
+Sitrus Berry
+when defeated, and there is a
+Max Repel
+sitting nearby. A large
+moss-covered rock
+sits in the tall grass to the north, and an
+Ultra Ball
+can be found in the tall grass to the southwest. Inspect the ground near Youngster Keita to find a second
+Ultra Ball
+, and collect the
+Max Revive
+from the nearby tree stump. Continue north to find Pokémon Ranger Ralph, who gives out a
+Lum Berry
+when defeated. Climb through the fallen logs to face off against Veterans Rosaline and Sinan, then grab the
+Net Ball
+to the northeast. Detour to the south to track down a hidden
+BalmMushroom
+near Youngster Henley and Lass Helia. Head north through the log to meet
+Gorm
+of the
+Seven Sages
+. The former villain reminisces about the past for a moment before wandering off. His investigation complete,
+Cheren
+thanks you with an
+Up-Grade
+. Fight the camouflaged Pokémon Ranger Melita to get another
+Lum Berry
+and pick up
+TM86
+(
+Grass Knot
+) before leaving the clearing.
+East side
+Pass through the break in the fence and head south. Check the bare spot to the west to get a
+Green Shard
+, and continue east. Youngster Nicholas stands near a fork in the road; take the northern path first to get a
+Sun Stone
+and a hidden
+Bug Gem
+. Head southeast to find
+TM22
+(
+SolarBeam
+), then go west to track down a
+Rare Candy
+. Surf across the pond to reach a
+PP Max
+. Return to the road and head south. Talk with the Scientist, who asks to see your Habitat List. If you have seen all the local land-dwelling Pokémon, she rewards you with five
+Nest Balls
+.
+Exterior
+Fight School Kid Millie and follow the fence eastward to get a
+Full Heal
+. Head south to meet a Battle Girl, then east to find a
+Protein
+on the railroad tracks. Keep going south to find a few big puddles. To the west is Ace Trainer Kelsey; to his north is a
+Nugget
+, and to his southeast is an
+HP Up
+. Check the largest puddle to find a hidden
+Max Elixir
+and go east. Climb the stairway to get a
+PP Max
+near Battle Girl Lee, then go north to reach the challenge rock. Have a Fighting Pokémon chip away at it to receive a
+Stardust
+once per day. Go down the northern stairway to find a hidden
+Fighting Gem
+near the ledge. Head back north to the road and turn east to reach
+Nacrene City
+. Step behind the fence to find an
+Ultra Ball
+before exploring the city.
+Nacrene City
+Nacrene City
+B
+W
+Formerly the site of abandoned warehouses,
+Nacrene City
+began to take shape when young people started renovating the century-old buildings to create art studios. Unique locations include the
+Nacrene Museum
+and the home of
+Loblolly
+, the furniture artisan.
+Items
+Item
+Location
+Games
+Soda Pop
+From the Waitress in the Café Warehouse
+We
+B2
+W2
+Lemonade
+From the Waitress in the Café Warehouse
+Sa
+B2
+W2
+Grubby Hanky
+From the customer on the Café's lower level
+Su
+B2
+W2
+Fluffy Tail
+From the customer on the Café's lower level
+Su
+, after returning the Grubby Hanky on Thursday
+B2
+W2
+Cover Fossil
+or
+Plume Fossil
+From Lenora in the Museum
+B2
+W2
+PP Up
+On the west end of the railroad tracks (hidden)
+B2
+W2
+Pokémon Egg
+From a Pokémon Breeder in the east gate
+B2
+W2
+Café Warehouse
+The
+Café Warehouse
+stands just east of
+Pinwheel Forest
+. The café runs two different specials during the week. Speak to the Waitress on Wednesdays to receive a
+Soda Pop
+, and again on Saturdays to get a
+Lemonade
+.
+Visit Café Warehouse on a Sunday and talk to the Waitress on the lower level, and she will entrust you with the
+Grubby Hanky
+. Visit again on Thursday to return it to the customer who lost it. Return on Sunday to tell the Waitress, and she gives you a
+Fluffy Tail
+.
+Nacrene Museum
+Having visited the
+Cave of Being
+on
+Route 20
+, you can encounter
+Uxie
+outside the
+Nacrene Museum
+on the north side of town. Stand in the center of the circular walkway to detect the creature, which appears at level 65.
+Enter the museum and the assistant director,
+Hawes
+, will greet you. As he shows you around,
+Lenora
+, the director and former Gym Leader, hurries over. She asks which Fossil you prefer — the
+Cover Fossil
+or the
+Plume Fossil
+— and hands it over. When restored at the front desk, these turn back into
+Tirtouga
+or
+Archen
+, respectively. Any Fossils obtained in
+Twist Mountain
+can be restored here as well. Exhibits include a meteorite believed to have a connection with
+a space virus
+and a replica of the
+Dark Stone
+B2
+/
+Light Stone
+W2
+.
+Move Tutor
+The local Move Tutor lives in one of the buildings to the south of the Café Warehouse. He is obsessed with
+Green Shards
+, and will teach a variety of moves for the right number of Shards.
+Move
+Type
+Category
+Shards
+Gastro Acid
+6
+Worry Seed
+6
+After You
+8
+Helping Hand
+8
+Magic Room
+8
+Spite
+8
+Wonder Room
+8
+Outrage
+10
+Move
+Type
+Category
+Shards
+Recycle
+10
+Stealth Rock
+10
+Trick
+10
+Endeavor
+12
+Skill Swap
+12
+Sleep Talk
+12
+Snatch
+12
+Loblolly's Studio
+Loblolly's studio is located in the southeast part of the city. She designs the Décor items that can be placed in your home in the
+Dream World
+. Use Game Sync after choosing Décor to have new items added to the Dream Catalogue.
+Get a Pokémon Egg
+Talk to the Pokémon Breeder in the east gate when you have space in your party to receive a Pokémon Egg. This Egg was found at the
+Pokémon Day Care
+on
+Route 3
+, and will eventually hatch into a
+Happiny
+. It cannot be found in the wild, so don't miss it!
+Route 3
+Route 3
+Route 3
+is a long and winding road that connects
+Nacrene City
+to
+Striaton City
+.
+Wellspring Cave
+is located to the northwest, while the
+Pokémon Day Care
+can be found to the northeast.
+Trainers
+Trainer
+Pokémon
+School Kid
+Marsha
+サワコ
+Sawako
+Reward:
+$
+1220
+Rotation Battle
+Skiploom
+♀
+Lv.
+61
+No item
+Jumpluff
+♀
+Lv.
+61
+No item
+Bellossom
+♀
+Lv.
+61
+No item
+Fisherman
+Mack
+コウジロウ
+Kōjirō
+Reward:
+$
+1856
+Magikarp
+♂
+Lv.
+58
+No item
+Magikarp
+♂
+Lv.
+58
+No item
+Magikarp
+♂
+Lv.
+58
+No item
+Magikarp
+♂
+Lv.
+58
+No item
+Magikarp
+♂
+Lv.
+58
+No item
+Magikarp
+♂
+Lv.
+58
+No item
+Fisherman
+Bruce
+トモヒロ
+Tomohiro
+Reward:
+$
+1952
+Slowpoke
+♂
+Lv.
+61
+No item
+Goldeen
+♂
+Lv.
+61
+No item
+Seaking
+♂
+Lv.
+61
+No item
+School Kid
+Edgar
+シュウヘイ
+Shūhei
+Reward:
+$
+1220
+Triple Battle
+Natu
+♂
+Lv.
+61
+No item
+Xatu
+♂
+Lv.
+61
+No item
+Fearow
+♂
+Lv.
+61
+No item
+Backers
+May & Mal
+マミとミホ
+Mami and Miho
+Reward:
+$
+2976
+Emolga
+♀
+Lv.
+62
+No item
+Pachirisu
+♀
+Lv.
+62
+No item
+Lass
+Shannon
+チエ
+Chie
+Reward:
+$
+992
+Vulpix
+♀
+Lv.
+62
+No item
+Flareon
+♂
+Lv.
+62
+No item
+Nursery Aide
+Autumn
+アキホ
+Akiho
+Reward:
+$
+2440
+Jigglypuff
+♀
+Lv.
+61
+No item
+Purugly
+♀
+Lv.
+61
+No item
+Lickitung
+♀
+Lv.
+61
+No item
+Preschooler
+Eva
+カナ
+Kana
+Reward:
+$
+244
+Kirlia
+♀
+Lv.
+61
+No item
+Pikachu
+♀
+Lv.
+61
+No item
+Preschooler
+Tyrone
+リキヤ
+Rikiya
+Reward:
+$
+244
+Beldum
+Lv.
+61
+No item
+Deino
+♂
+Lv.
+61
+No item
+Preschooler
+Buster
+マサヨシ
+Masayoshi
+Reward:
+$
+244
+Riolu
+♂
+Lv.
+61
+No item
+Ledian
+♂
+Lv.
+61
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tranquill
+B2
+W2
+Grass
+55-57
+30%
+Watchog
+B2
+W2
+Grass
+55
+20%
+Zebstrika
+B2
+W2
+Grass
+56-58
+20%
+Yanma
+B2
+W2
+Grass
+56
+10%
+Herdier
+B2
+W2
+Grass
+57
+10%
+Purrloin
+B2
+W2
+Grass
+57
+10%
+Dark grass
+Tranquill
+B2
+W2
+Dark grass
+63-65
+30%
+Watchog
+B2
+W2
+Dark grass
+63
+20%
+Zebstrika
+B2
+W2
+Dark grass
+64-66
+20%
+Yanma
+B2
+W2
+Dark grass
+64
+10%
+Herdier
+B2
+W2
+Dark grass
+65
+10%
+Purrloin
+B2
+W2
+Dark grass
+65
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+55-58
+85%
+Yanmega
+B2
+W2
+Rustling grass
+58
+5%
+Stoutland
+B2
+W2
+Rustling grass
+58-59
+5%
+Unfezant
+B2
+W2
+Rustling grass
+58
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+70%
+Basculin
+B2
+W2
+Surfing
+45-60
+70%
+Corphish
+B2
+W2
+Surfing
+45-60
+30%
+Rippling water
+Corphish
+B2
+W2
+Rippling water
+45-60
+60%
+Basculin
+B2
+W2
+Rippling water
+45-60
+30%
+Basculin
+B2
+W2
+Rippling water
+45-60
+30%
+Crawdaunt
+B2
+W2
+Rippling water
+50-60
+10%
+Swarm
+Volbeat
+B2
+W2
+Grass
+40-55
+40%
+Illumise
+B2
+W2
+Grass
+40-55
+40%
+Hidden Grotto
+Pachirisu
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Manectric
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Zebstrika
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+Hidden Grotto
+Bibarel
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Venonat
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Lombre
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Quick Ball
+Near School Kid Marsha
+B2
+W2
+Zinc
+South of the pond, near Fisherman Bruce
+B2
+W2
+Big Nugget
+East of the pond, near School Kid Edgar
+B2
+W2
+Ultra Ball
+×2
+West of Fisherman Mack (hidden, requires
+Surf
+)
+North of the T-intersection
+B2
+W2
+Calcium
+Northwest of Fisherman Mack (requires
+Surf
+)
+B2
+W2
+Full Restore
+North of Fisherman Mack (requires
+Surf
+)
+B2
+W2
+Nugget
+On the ledge near Lass Shannon (hidden)
+B2
+W2
+Rare Candy
+×2
+Inside the Preschool, northeast corner
+On the playground, in the sandbox (hidden)
+B2
+W2
+After completing the Habitat List
+Dive Ball
+×5
+From the School Kid at the fork in the road
+B2
+W2
+Grab the
+Quick Ball
+near School Kid Marsha and follow the path to the bridge. There is a
+Hidden Grotto
+on the north side of the pond, and a
+Calcium
+, a
+Full Restore
+, and a hidden
+Ultra Ball
+can be found on the west side. The trail on the south side of the pond leads to Fisherman Bruce and a
+Zinc
+. Follow the path eastward to a patch of dark grass; a
+Big Nugget
+and a second
+Hidden Grotto
+can be found here. Further north, the path splits at a T-intersection; the School Kid here will give you five
+Dive Balls
+for completing the local Habitat List. Grab the
+Ultra Ball
+from the tall grass, head west to find a hidden
+Nugget
+on the ledge, and enter
+Wellspring Cave
+.
+Wellspring Cave
+Wellspring Cave
+Wellspring Cave
+is a small cave on the west side of
+Route 3
+. Rainwater that has soaked into the ground wells up to form large pools of water.
+Surf
+is required to reach the lower level, where the low light requires the use of
+Flash
+, as well.
+Trainers
+1F
+Trainer
+Pokémon
+1F
+Hiker
+Zaiem
+タカフミ
+Takafumi
+Reward:
+$
+1952
+Hippowdon
+♂
+Lv.
+61
+No item
+Marowak
+♂
+Lv.
+61
+No item
+Rhydon
+♂
+Lv.
+61
+No item
+Battle Girl
+Maggie
+ミスズ
+Misuzu
+Reward:
+$
+1984
+Medicham
+♀
+Lv.
+62
+No item
+Mienshao
+♀
+Lv.
+62
+No item
+Hitmonlee
+♂
+Lv.
+62
+No item
+B1F
+Trainer
+Pokémon
+Black Belt
+Thomas
+タダシ
+Tadashi
+Reward:
+$
+1984
+Sawk
+♂
+Lv.
+62
+No item
+Conkeldurr
+♂
+Lv.
+62
+No item
+Breloom
+♂
+Lv.
+62
+No item
+Battle Girl
+Xiao
+シャオ
+Xiao
+Reward:
+$
+1984
+Primeape
+♀
+Lv.
+62
+No item
+Scrafty
+♀
+Lv.
+62
+No item
+Hitmonchan
+♂
+Lv.
+62
+No item
+Black Belt
+Edward
+トウシ
+Tōshi
+Reward:
+$
+1984
+Throh
+♂
+Lv.
+62
+No item
+Machamp
+♂
+Lv.
+62
+No item
+Hitmontop
+♂
+Lv.
+62
+No item
+Veteran
+Shaun
+タイガ
+Taiga
+Reward:
+$
+4960
+Gyarados
+♂
+Lv.
+62
+No item
+Snorlax
+♂
+Lv.
+62
+No item
+Crobat
+♂
+Lv.
+62
+No item
+Druddigon
+♂
+Lv.
+62
+No item
+Excadrill
+♂
+Lv.
+62
+No item
+Gigalith
+♂
+Lv.
+62
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+55-58
+50%
+Woobat
+B2
+W2
+Cave
+55-58
+50%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+55-58
+100%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Rippling water
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+N's Pokémon
+Woobat
+B2
+W2
+Only one
+55
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Repel
+On the ledge near the entrance
+B2
+W2
+Escape Rope
+West side, near Battle Girl Maggie (requires
+Surf
+)
+B2
+W2
+B1F
+Max Revive
+×2
+On the ledge southeast of Black Belt Thomas
+East of Veteran Shaun (hidden)
+B2
+W2
+TM47
+(
+Low Sweep
+)
+South of Battle Girl Xiao
+B2
+W2
+Carbos
+Northeast of Black Belt Thomas (hidden)
+B2
+W2
+Protector
+East of Battle Girl Xiao
+B2
+W2
+TM52
+(
+Focus Blast
+)
+North of Veteran Shaun
+B2
+W2
+Ultra Ball
+West of Veteran Shaun (hidden)
+B2
+W2
+1F
+Climb up onto the rock platform to fight Hiker Zaiem and get the
+Max Repel
+from the ledge. Surf to the west side to pick up the
+Escape Rope
+near Battle Girl Maggie. Follow the path southeastward to reach the stairs to the basement.
+B1F
+Head northeast to battle Black Belt Thomas, then cross the nearest pool of water to get a
+Max Revive
+from the ledge to the southeast. Go back north past Battle Girl Xiao to reach an intersection. Go left to collect
+TM47
+(
+Low Sweep
+), then go right. Head south at the next turn to find a hidden
+Carbos
+, then go down the nearby stairway to get a
+Protector
+. Continue north past Black Belt Edward and cross the water to fight Veteran Shaun. Inspect the path to the east to find another
+Max Revive
+, then climb the stairway to get
+TM52
+(
+Focus Blast
+). Check the ground to the west of Veteran Shaun to find a hidden
+Ultra Ball
+.
+Preschool
+Go east from the T-intersection to reach the grounds of a preschool. Step inside and talk to the woman in charge to have her heal your Pokémon. A
+Pansage
+,
+Pansear
+, and
+Panpour
+are playing with the children; according to a little girl, they were a gift from the former
+Striaton
+Gym
+Leaders
+. Pick up the
+Rare Candy
+in the back then head outside to the playground, where another
+Rare Candy
+can be found in the sandbox.
+Pokémon Day Care
+The
+Pokémon Day Care
+is located just east of the preschool. The facility specializes in raising Pokémon for busy Trainers. The level of a Pokémon left here will rise over time, and it may even learn a new move as well. If two Pokémon are left here, sometimes a
+Pokémon Egg
+may be found!
+Striaton City
+Striaton City
+The west side of
+Striaton City
+is made up of a large garden with a fountain, where a school of
+Stunfisk
+gather to dance on summer nights. The Trainers' School and a few apartment buildings stand on the east side, and the former Gym is now the Striaton Restaurant.
+Items
+Item
+Location
+Games
+Big Pearl
+From the Fisherman in the northwest part of the garden (requires
+Surf
+)
+B2
+W2
+Max Elixir
+West of the fountain
+B2
+W2
+Full Restore
+Southwest of the fountain (hidden)
+B2
+W2
+Yellow Shard
+Southeast of the fountain
+B2
+W2
+PP Up
+Northeast part of the garden (hidden, requires
+Surf
+)
+B2
+W2
+Persim Berry
+×3
+In the Trainers' School, after acing the quiz
+B2
+W2
+TM04
+(
+Calm Mind
+)
+Poké Mart;
+$
+80,000
+B2
+W2
+TM08
+(
+Bulk Up
+)
+Poké Mart;
+$
+80,000
+B2
+W2
+Gracidea
+Pokémon Center; bring an event Shaymin to the woman at the desk
+B2
+W2
+Up-Grade
+Top floor of the eastern apartment building
+B2
+W2
+Great Ball
+From a man in the southeast apartment building
+B2
+W2
+Timer Ball
+Behind the fence, southwest of the apartment buildings
+B2
+W2
+Dusk Ball
+From the Roughneck southeast of the restaurant
+B2
+W2
+Big Mushroom
+From the woman in the restaurant, for correctly guessing its location
+B2
+W2
+Trainers' School
+Talk to the School Kid near the west wall to take a short quiz about status conditions. If you answer both of his questions correctly, he will give you a
+Persim Berry
+.
+On the other side of the classroom, an Ace Trainer is trying to figure out how a
+Ground
+attack could hit a Pokémon with the
+Levitate
+Ability. Give him some advice, and he will ask you to battle.
+Trainer
+Pokémon
+Ace Trainer
+Dusty
+Reward:
+$
+3840
+Rotom
+Lv.
+64
+No item
+Weezing
+♂
+Lv.
+64
+No item
+Gengar
+♂
+Lv.
+64
+No item
+Eelektross
+♂
+Lv.
+64
+No item
+Pokémon Center
+Talk to the woman near the front desk to learn about the
+Gracidea flower
+. If you have a
+Shaymin
+in your party but don't yet have the flower, she will give you one on the spot.
+At the Poké Mart counter, the TM Department offers both
+TM04
+(
+Calm Mind
+) and
+TM08
+(
+Bulk Up
+) for
+$
+80,000 apiece.
+Striaton Restaurant
+Battle with the Brothers
+The Gym Leaders
+Cilan
+,
+Chili
+, and
+Cress
+have retired, and recently turned their Gym into a restaurant. Talk to one of the three brothers, and he will team up with you in a Multi Battle against the other two. This can be done once per day.
+Pokémon Trainer
+Cilan
+Striaton City
+Black 2 and White 2
+Reward:
+$
+16080
+*
+Type:
+Grass
+Unknown
+Ability:
+Water Absorb
+Held item:
+Muscle Band
+Maractus
+♂
+Lv.
+65
+Petal Dance
+Grass
+Special
+--
+Cotton Guard
+Grass
+Status
+--
+Sucker Punch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Grass
+Steel
+Ability:
+Iron Barbs
+Held item:
+Leftovers
+Ferrothorn
+♂
+Lv.
+65
+Power Whip
+Grass
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Curse
+Ghost
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Life Orb
+Simisage
+♂
+Lv.
+67
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Work Up
+Normal
+Status
+--
+Pokémon Trainer
+Chili
+Striaton City
+Black 2 and White 2
+Reward:
+$
+16080
+*
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+Leftovers
+Heatmor
+♂
+Lv.
+65
+Fire Blast
+Fire
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Stockpile
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Sheer Force
+Held item:
+Muscle Band
+Darmanitan
+♂
+Lv.
+65
+Flare Blitz
+Fire
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Life Orb
+Simisear
+♂
+Lv.
+67
+Crunch
+Dark
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Work Up
+Normal
+Status
+--
+Grass Knot
+Grass
+Special
+--
+Pokémon Trainer
+Cress
+Striaton City
+Black 2 and White 2
+Reward:
+$
+16080
+*
+Type:
+Water
+Unknown
+Ability:
+Reckless
+Held item:
+Muscle Band
+Basculin
+♂
+Lv.
+65
+Swagger
+Normal
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Aqua Tail
+Water
+Physical
+--
+Double-Edge
+Normal
+Physical
+--
+Types:
+Water
+Psychic
+Ability:
+Own Tempo
+Held item:
+Leftovers
+Slowking
+♂
+Lv.
+65
+Calm Mind
+Psychic
+Status
+--
+Scald
+Water
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Life Orb
+Simipour
+♂
+Lv.
+67
+Scald
+Water
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Crunch
+Dark
+Physical
+--
+Work Up
+Normal
+Status
+--
+The Guessing Game
+Talk to the woman on the stage to participate in the show. If you correctly guess which Pokémon is holding the
+Big Mushroom
+, you win the item! Pansage, Pansear, or Panpour can appear in the show; the one that appears changes each time you play.
+Funfest Mission
+Enter the apartment building south of the Trainers' School, and talk to the girl on the first floor. The
+Funfest Mission
+Rock-Paper-Scissors Competition!
+will be added.
+Hints of a Legend
+Visit the apartment building south of the Pokémon Center to learn that people have recently been feeling a mysterious Pokémon's presence in the
+Dreamyard
+, a small wooded location east of the city.
+The Dreamyard
+The Dreamyard
+The
+Dreamyard
+occupies the grounds of an abandoned factory that eventually collapsed. The area is now used as a playground for children and Pokémon.
+Trainers
+Trainer
+Pokémon
+Basement
+Psychic
+Nandor
+セイヤ
+Seiya
+Reward:
+$
+1984
+Hypno
+♂
+Lv.
+62
+No item
+Dusclops
+♂
+Lv.
+62
+No item
+Scientist
+Athena
+リカコ
+Rikako
+Reward:
+$
+3024
+Gastly
+♀
+Lv.
+63
+No item
+Skuntank
+♀
+Lv.
+63
+No item
+Psychic
+Olesia
+オリエ
+Ollier
+Reward:
+$
+1984
+Chingling
+♀
+Lv.
+62
+No item
+Mr. Mime
+♀
+Lv.
+62
+No item
+Scientist
+Franklin
+ヒデヨ
+Hideyo
+Reward:
+$
+3024
+Klang
+Lv.
+63
+No item
+Porygon
+Lv.
+63
+No item
+Ruins
+School Kid
+William
+アキヒト
+Akihito
+Reward:
+$
+1260
+Shroomish
+♂
+Lv.
+63
+No item
+Tangrowth
+♂
+Lv.
+63
+No item
+Youngster
+Keita
+コウシ
+Kōshi
+Reward:
+$
+1008
+Slakoth
+♂
+Lv.
+63
+No item
+Slaking
+♂
+Lv.
+63
+No item
+School Kid
+Rita
+ミノリ
+Minori
+Reward:
+$
+1260
+Igglybuff
+♀
+Lv.
+63
+No item
+Lickilicky
+♀
+Lv.
+63
+No item
+Available Pokémon
+Ruins
+Pokémon
+Games
+Location
+Levels
+Rate
+Watchog
+B2
+W2
+Grass
+56-59
+25%
+Liepard
+B2
+W2
+Grass
+56-59
+25%
+Munna
+B2
+W2
+Grass
+57-58
+20%
+Raticate
+B2
+W2
+Grass
+57
+10%
+Jigglypuff
+B2
+W2
+Grass
+57
+10%
+Golbat
+B2
+W2
+Grass
+57-58
+10%
+Dark grass
+Watchog
+B2
+W2
+Dark grass
+64-67
+25%
+Liepard
+B2
+W2
+Dark grass
+64-67
+25%
+Munna
+B2
+W2
+Dark grass
+65-66
+20%
+Raticate
+B2
+W2
+Dark grass
+65
+10%
+Jigglypuff
+B2
+W2
+Dark grass
+65
+10%
+Golbat
+B2
+W2
+Dark grass
+65-66
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+75%
+Dunsparce
+B2
+W2
+Rustling grass
+57
+10%
+Wigglytuff
+B2
+W2
+Rustling grass
+58
+5%
+Crobat
+B2
+W2
+Rustling grass
+59
+5%
+Musharna
+B2
+W2
+Rustling grass
+58
+5%
+Swarm
+Hypno
+B2
+W2
+Grass
+40-55
+40%
+Special Pokémon
+Latios
+B2
+W2
+Only one
+68
+One
+Latias
+B2
+W2
+Only one
+68
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Basement
+Pokémon
+Games
+Location
+Levels
+Rate
+Dark grass
+Raticate
+B2
+W2
+Dark grass
+64-67
+25%
+Golbat
+B2
+W2
+Dark grass
+64-67
+25%
+Munna
+B2
+W2
+Dark grass
+65-66
+20%
+Jigglypuff
+B2
+W2
+Dark grass
+65
+10%
+Watchog
+B2
+W2
+Dark grass
+65
+10%
+Liepard
+B2
+W2
+Dark grass
+65-66
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ruins
+Rare Candy
+Northwest of the ruined factory
+B2
+W2
+TM85
+(
+Dream Eater
+)
+South of the stairway
+B2
+W2
+Ultra Ball
+Southwest part of the elevated walkway
+B2
+W2
+Soul Dew
+East end of the walkway, after catching the dragon
+B2
+W2
+Moon Stone
+Beneath the east end of the walkway
+B2
+W2
+PP Up
+In front of the furnace on the south side (hidden)
+B2
+W2
+Reaper Cloth
+West of School Kid Rita
+B2
+W2
+Basement
+HP Up
+East side, near Scientist Athena
+B2
+W2
+Dawn Stone
+Southwest corner, near Scientist Franklin
+B2
+W2
+Iron
+Northwest corner
+B2
+W2
+Psychic Gem
+Northeast patch of grass (hidden)
+B2
+W2
+Upon entering the grounds, the mysterious Pokémon appears!
+Latios
+B2
+/
+Latias
+W2
+growls at you before quickly flying off to the east. Enter the gate to see it zip off to the west. Go back and
+Cut
+down the tree to enter the remains of the old factory, and it buzzes by again. Head west for a
+Rare Candy
+, then grab
+TM85
+(
+Dream Eater
+) at the foot of the stairway. Atop the stairway, it passes by for a fourth time. Go southwest to reach an
+Ultra Ball
+, where the dragon stops to examine you for a moment. Finally, follow the walkway to its easternmost point, where the legendary Pokémon attacks! Use a
+Dark-type
+Pokémon to avoid their only offensive move, but take care not to knock it out with a
+powered-up
+Dark move.
+Psycho Shift
+lets it bounce any status ailment back to its attacker, so be prepared.
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latios
+Lv.
+68
+Psycho Shift
+Psychic
+Status
+--
+Dragon Dance
+Dragon
+Status
+--
+Psychic
+Psychic
+Special
+--
+Heal Pulse
+Psychic
+Status
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latias
+Lv.
+68
+Psycho Shift
+Psychic
+Status
+--
+Charm
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Heal Pulse
+Psychic
+Status
+--
+Once it is captured, be sure to collect the dropped
+Soul Dew
+, which raises either dragon's
+Special
+stats
+by 50%. Go down the stairway and turn east for a
+Moon Stone
+, and head down to the basement.
+Visit the east side to get an
+HP Up
+and continue south. Grab the
+Dawn Stone
+in the southwest corner, then climb the stairs in the southeast.
+To the northwest is School Kid William and a
+PP Up
+, hidden near the furnace. Fight Youngster Keita as you head west, and collect the
+Reaper Cloth
+near School Kid Rita. Move the boulder into place and go down the stairway.
+Go north to get an
+Iron
+, and check the northeast grass patch to find the last item, a
+Psychic Gem
+. Return to
+Striaton
+and head south to
+Route 2
+.
+← Part 19
+N's Castle, Tubeline Bridge, Route 8, Moor of Icirrus, Icirrus City, Dragonspiral Tower, Giant Chasm
+Black 2 and White 2
+walkthrough
+Route 2, Accumula Town, Route 1, Nuvema Town, Route 17, Route 18, P2 Laboratory
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

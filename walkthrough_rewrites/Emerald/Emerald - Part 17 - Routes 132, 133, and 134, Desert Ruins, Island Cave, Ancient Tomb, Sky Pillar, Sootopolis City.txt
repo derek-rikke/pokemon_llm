@@ -1,0 +1,73 @@
+Game: Emerald
+Part: 17
+Keywords: Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+
+### Pokémon Emerald Walkthrough: Part 17
+
+#### Routes 132, 133, and 134 (Optional)
+- **General Info**: Strong ocean currents make navigation tricky. Explore all islands by revisiting the area.
+
+**Route 132**
+- **Trainers**: 
+  - Swimmer Gilbert (Sharpedo, Lv. 34, $272)
+  - Fisherman Ronald (Gyarados, Lv. 21-35, $1400)
+  - Black Belt Kiyo (Hariyama, Lv. 34, $1088)
+  
+**Route 133**
+- **Trainers**:
+  - Swimmer Linda (Horsea and Seadra, Lv. 33, $264)
+  - Bird Keeper Beck (Tropius, Lv. 34, $1088)
+
+**Route 134**
+- **Trainers**:
+  - Swimmer Laurel (Luvdisc, Lv. 33, $264)
+  - Sailor Hudson (Wailmer, Lv. 34, $1088)
+
+**Items**:
+- Route 132: Rare Candy (northwest island), Protein (southwest shallow)
+- Route 133: Star Piece (northwest island), Max Revive (southeast rocks)
+- Route 134: Carbos (largest island), Star Piece (southwest shallows)
+
+#### Sealed Chamber
+- **Entrance**: Dive south of Route 134's shallows.
+- **Puzzle**: Use Rock Smash on the wall after following Braille instructions ("Dig here").
+- **Legendary Pokémon**: Requires Wailord and Relicanth in your party to access.
+
+#### Desert Ruins (Optional)
+- **Location**: Route 111. Follow Braille instruction ("Left, left, down, down").
+- **Legendary Pokémon**: Regirock (Lv. 40).
+
+#### Island Cave (Optional)
+- **Location**: Route 105. Follow Braille instruction ("Stay close to the wall. Run around one lap").
+- **Legendary Pokémon**: Regice (Lv. 40).
+
+#### Ancient Tomb (Optional)
+- **Location**: Route 120. Follow Braille instruction ("Those who inherit our will, shine in the middle").
+- **Legendary Pokémon**: Registeel (Lv. 40).
+
+#### Sky Pillar
+- **Location**: Route 131. Ascend to find Rayquaza.
+- **Encounter**: Follow the stairs to the top, where Rayquaza appears.
+
+#### Sootopolis City (Second Visit)
+- **Event**: Rayquaza stops the battle between Groudon and Kyogre.
+- **Items**:
+  - HM07 (Waterfall) from Wallace after calming the Legendary Pokémon.
+  - TM03 (Water Pulse) from Juan after defeating the Sootopolis Gym.
+
+**Sootopolis Gym**
+- **Leader**: Juan (Water-type).
+- **Strategy**: Use Electric and Grass moves. Avoid Ground and Fire types.
+- **Puzzles**: Navigate icy tiles; specific moves required to reveal stairways.
+- **Rewards**: Rain Badge and TM03.
+
+**Available Pokémon**: Surfing (Magikarp, Tentacool), Fishing (Tentacool, Gyarados).
+
+**Competitive Brothers**: Show a larger Seedot or Lotad to earn Elixirs.
+
+**Daily Berries**: Receive two Berries from Kiri daily after defeating the Gym.
+
+#### Next Steps
+- Head towards the Pokémon League in Ever Grande City, accessible via Routes 128 and south from Mossdeep City.
+
+This concise guide retains essential gameplay elements, item locations, and battle strategies for progressing through Part 17 of Pokémon Emerald.

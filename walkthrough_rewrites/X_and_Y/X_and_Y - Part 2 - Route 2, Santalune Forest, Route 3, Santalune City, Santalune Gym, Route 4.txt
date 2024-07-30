@@ -1,0 +1,43 @@
+Game: X_and_Y
+Part: 2
+Keywords: Route 2, Santalune Forest, Route 3, Santalune City, Santalune Gym, Route 4
+
+**Part 2 Walkthrough Summary**
+
+**Route 2**
+- Connects Aquacorde Town to Santalune Forest. 
+- Wild Pokémon include Bunnelby, Fletchling, and Zigzagoon.
+- Trainers: Youngster Austin (Zigzagoon, Lv. 5).
+- Items: Receive 10 Poké Balls from Serena/Calem after a catching demo.
+
+**Santalune Forest**
+- An area rich in wild Pokémon and Trainers.
+- Trainers: Youngster Joey (Scatterbug), Lass Anna (Pikachu), Lass Lise (Weedle, Bunnelby).
+- Items: Antidote (west entrance), Potions (various locations), Paralyze Heal (found by Shauna).
+
+**Route 3**
+- Short path to Santalune City.
+- Trainers: Preschoolers Oliver (Caterpie, Azurill) and Ella (Pichu), Schoolgirl Bridget (Bidoof).
+- Items: Adventure Rules (gift), Super Potion (southwest of Bridget), Revive (requires Cut).
+
+**Santalune City**
+- Features the Pokémon Center, Trainers' School, and Santalune Gym.
+- Items: Great Balls, X Attacks, and X Defenses from the Trainers' School. Roller Skates from Rinka after defeating her.
+- Trade: Farfetch'd for Bunnelby with Hiker Cliff.
+
+**Santalune Gym**
+- Specializes in Bug-types; effective counters are Fire, Flying, and Rock moves.
+- Recommended Pokémon: Pansear (Incinerate), Fletchling, Dunsparce (Rollout), Litleo.
+- Gym Leader: Viola (Surskit, Vivillon).
+- Reward: Bug Badge and TM83 (Infestation).
+
+**Route 4**
+- No tall grass; Pokémon can be found in flower patches.
+- Trainers: Gardener Wheaton (Corphish), Roller Skaters Roland and Calida.
+- Items: Various hidden items in the hedge maze, including Repel and Great Ball.
+
+**Meeting Sina and Dexio**
+- At the north end of Route 4, they discuss Flabébé and offer to guide you to Professor Sycamore's lab.
+- Dexio gives TM27 (Return).
+
+This concise version retains essential gameplay instructions, item locations, and battle strategies while omitting extraneous details.

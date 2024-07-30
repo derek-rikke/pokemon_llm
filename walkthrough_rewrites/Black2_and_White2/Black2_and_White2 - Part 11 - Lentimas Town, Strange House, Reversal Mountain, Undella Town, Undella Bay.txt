@@ -1,0 +1,52 @@
+Game: Black2_and_White2
+Part: 11
+Keywords: Lentimas Town, Strange House, Reversal Mountain, Undella Town, Undella Bay
+
+**Part 11: Lentimas Town, Strange House, Reversal Mountain, Undella Town, Undella Bay**
+
+**Lentimas Town**
+- **Move Tutor:** Located in the western house; trades moves for Blue Shards. Recommended moves: Icy Wind, Dragon Pulse.
+- **Items:**
+  - Fire Stone: Behind the Pokémon Center.
+  - TM57 (Charge Beam): In the southwest house.
+  - Spell Tag: From the old woman in the Pokémon Center.
+
+**Strange House**
+- **Battle Trainers:** 
+  - Boone: Numel (Lv. 36), Sigilyph (Lv. 36).
+  - Lynette: Drifloon (Lv. 36), Spoink (Lv. 36), Drifblim (Lv. 36).
+- **Items:**
+  - Spell Tag: B2F center.
+  - Full Heal: Lower-west room, Entrance Hall.
+  - Dusk Stone: Southeast part of the library.
+  - Rare Candy: Upper-east room.
+  - Lunar Wing: Upper-middle room.
+
+**Reversal Mountain**
+- **Trainers Encountered:** Cyclists, Hikers, Pokémon Rangers.
+- **Items:**
+  - TM30 (Shadow Ball): Behind the Strange House.
+  - Various shards, healing items, and TMs hidden throughout the mountain.
+- **Main Chamber:** Bianca joins you; head south past trainers, collect items like Nugget and Revive.
+- **Undella Chamber:** Exit to Undella Town.
+
+**Undella Town**
+- **Features:**
+  - Billionaire: In the northwest villa; buys rare items.
+  - Marine Tube: Under construction, connects to Humilau City.
+  - Caitlin's Villa: Visit after defeating the Pokémon League.
+  - Funfest Mission: Available at the Pokémon Center.
+- **Rival Battle:** Hugh challenges you at the gate.
+
+**Undella Bay**
+- **Trainers:** Various swimmers and Ace Trainers with Pokémon ranging from Lv. 38 to 40.
+- **Items:**
+  - Heart Scale: On the beach (hidden).
+  - Draco Plate: North side of the beach.
+  - Special Jellicent appears weekly.
+
+**Key Pokémon Encounters:**
+- **In Reversal Mountain:** Woobat, Boldore, Skorupi, and more.
+- **In Undella Bay:** Frillish, Staryu, and Jellicent (special appearances).
+
+This concise guide covers essential locations, trainers, items, and tips for progressing through Lentimas Town, the Strange House, Reversal Mountain, Undella Town, and Undella Bay.

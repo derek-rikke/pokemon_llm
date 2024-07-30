@@ -1,0 +1,940 @@
+Part: Part 24
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_24
+Keywords: Route 3, Mt. Moon, Route 4
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 3
+2
+Mt. Moon
+2.1
+A Familiar Face
+2.2
+Rival Battle 6
+2.2.1
+If the player chose Chikorita:
+2.2.2
+If the player chose Cyndaquil:
+2.2.3
+If the player chose Totodile:
+2.3
+Mt. Moon Square
+2.3.1
+Shop
+2.3.2
+Clefairy Dance
+3
+Route 4
+Route 3
+Route 3
+Route 3
+is a grassy road that leads east from
+Pewter City
+into the mountains around
+Route 4
+. Many Trainers can be found along the way as they raise their Pokémon for the upcoming cave.
+Trainers
+Trainer
+Pokémon
+Youngster
+Warren
+Reward:
+$
+560
+Fearow
+♂
+Lv.
+35
+No item
+Youngster
+Jimmy
+Reward:
+$
+528
+Raticate
+♂
+Lv.
+33
+No item
+Arbok
+♂
+Lv.
+33
+No item
+Firebreather
+Otis
+Reward:
+$
+1392
+Magmar
+♂
+Lv.
+29
+No item
+Weezing
+♂
+Lv.
+32
+No item
+Magmar
+♂
+Lv.
+29
+No item
+Firebreather
+Burt
+Reward:
+$
+1536
+Koffing
+♂
+Lv.
+32
+No item
+Slugma
+♂
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+5, 10
+35%
+35%
+0%
+Rattata
+G
+S
+C
+Grass
+5, 8, 10
+0%
+0%
+60%
+Rattata
+G
+S
+C
+Grass
+5
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+5, 8
+0%
+0%
+35%
+Spearow
+G
+S
+C
+Grass
+5, 8
+55%
+55%
+0%
+Spearow
+G
+S
+C
+Grass
+5, 8
+35%
+35%
+0%
+Ekans
+G
+S
+C
+Grass
+8
+20%
+Arbok
+G
+S
+C
+Grass
+10
+5%
+Jigglypuff
+G
+S
+C
+Grass
+6
+10%
+Zubat
+G
+S
+C
+Grass
+5
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Mt. Moon
+Mt. Moon
+Mt. Moon
+is a mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as
+Moon Stones
+. Though it
+was once
+a large network of tunnels, the cave has since become unstable. Recent collapses have left most areas impassable except for one large chamber that links the two routes. This chamber also provides access to
+Mt. Moon Square
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandshrew
+G
+S
+C
+Cave
+8
+20%
+Sandslash
+G
+S
+C
+Cave
+10
+5%
+Clefairy
+G
+S
+C
+Cave
+8
+5%
+Zubat
+G
+S
+C
+Cave
+6
+30%
+Zubat
+G
+S
+C
+Cave
+6, 8
+50%
+Paras
+G
+S
+C
+Cave
+12
+10%
+Geodude
+G
+S
+C
+Cave
+8
+30%
+Geodude
+G
+S
+C
+Cave
+8, 10
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+A Familiar Face
+Upon entering
+Mt. Moon
+, you are immediately approached by
+Silver
+. He has been doing some self-reflection to find out what he is lacking with his Pokémon, and believes that he has found an answer.
+Rival Battle 6
+Silver
+'s team is nearly the same as it was in the previous battle, though his
+Haunter
+and
+Kadabra
+have since evolved into
+Gengar
+and
+Alakazam
+, respectively. Use super effective moves to target his Pokémon's weaknesses for best results.
+If the player chose
+Chikorita
+:
+Silver
+Mt. Moon
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4500
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+41
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+42
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+41
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+ThunderShock
+Electric
+--
+Swift
+Normal
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Gengar
+♂
+Lv.
+43
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Alakazam
+♂
+Lv.
+43
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psychic
+Psychic
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Typhlosion
+♂
+Lv.
+45
+Swift
+Normal
+--
+SmokeScreen
+Normal
+--
+Quick Attack
+Normal
+--
+Flame Wheel
+Fire
+--
+If the player chose
+Cyndaquil
+:
+Silver
+Mt. Moon
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4500
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+41
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+42
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+41
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+ThunderShock
+Electric
+--
+Swift
+Normal
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Gengar
+♂
+Lv.
+43
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Alakazam
+♂
+Lv.
+43
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psychic
+Psychic
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Feraligatr
+♂
+Lv.
+45
+Bite
+Dark
+--
+Scary Face
+Normal
+--
+Slash
+Normal
+--
+Water Gun
+Water
+--
+If the player chose
+Totodile
+:
+Silver
+Mt. Moon
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4500
+Types:
+Dark
+Ice
+Held item:
+None
+Sneasel
+♂
+Lv.
+41
+Quick Attack
+Normal
+--
+Screech
+Normal
+--
+Faint Attack
+Dark
+--
+Fury Cutter
+Bug
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Golbat
+♂
+Lv.
+42
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Bite
+Dark
+--
+Leech Life
+Bug
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magneton
+Lv.
+41
+SonicBoom
+Normal
+--
+Thunder Wave
+Electric
+--
+ThunderShock
+Electric
+--
+Swift
+Normal
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Gengar
+♂
+Lv.
+43
+Shadow Ball
+Ghost
+--
+Curse
+???
+--
+Mean Look
+Normal
+--
+Confuse Ray
+Ghost
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Alakazam
+♂
+Lv.
+43
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Psychic
+Psychic
+--
+Type:
+Grass
+Unknown
+Held item:
+None
+Meganium
+♂
+Lv.
+45
+PoisonPowder
+Poison
+--
+Razor Leaf
+Grass
+--
+Body Slam
+Normal
+--
+Light Screen
+Psychic
+--
+After the battle, Silver finally admits defeat. He still intends to be the strongest Pokémon Trainer ever, but has a newfound appreciation for his Pokémon. He promises to finally prove himself one day by defeating you, then leaves.
+Mt. Moon Square
+Mt. Moon Square
+Mt. Moon Square
+is a small clearing located on top of the mountain, where few people ever venture. A small shop is located here.
+Items
+Item
+Location
+Games
+Moon Stone
+In a rock in the western field
+Mo
+Night
+(hidden; requires
+Rock Smash
+)
+G
+S
+Shop
+This shop is open from 10:00 AM to 5:59 PM, and offers a variety of goods tailored to the weary traveler.
+Fresh Water
+$
+200
+Lemonade
+$
+350
+Soda Pop
+$
+300
+Portraitmail
+$
+50
+Repel
+$
+350
+Poké Doll
+$
+1000
+Clefairy Dance
+Between 8:00pm Monday and 4:00am Tuesday, two
+Clefairy
+appear in the western field and begin dancing around a large rock, as some sort of ritual to honor the moon. They get startled when you approach and run away, leaving the rock behind. Use
+Rock Smash
+to clear it away and find a
+Moon Stone
+in the debris. The Clefairy repeat their dance every Monday night.
+Route 4
+Route 4
+Route 4
+is a one-way road leading downhill from the mountains to
+Cerulean City
+.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Hope
+Reward:
+$
+680
+Flaaffy
+♀
+Lv.
+34
+No item
+Bird Keeper
+Hank
+Reward:
+$
+816
+Pidgey
+♂
+Lv.
+12
+No item
+Pidgeot
+♂
+Lv.
+34
+No item
+Picnicker
+Sharon
+Reward:
+$
+660
+Furret
+♀
+Lv.
+31
+No item
+Rapidash
+♀
+Lv.
+33
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+5,10
+35%
+35%
+0%
+Rattata
+G
+S
+C
+Grass
+8,10
+0%
+0%
+30%
+Rattata
+G
+S
+C
+Grass
+5
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+5,8
+0%
+0%
+35%
+Spearow
+G
+S
+C
+Grass
+5,8
+55%
+55%
+0%
+Spearow
+G
+S
+C
+Grass
+5
+0%
+0%
+30%
+Spearow
+G
+S
+C
+Grass
+5,8
+35%
+35%
+0%
+Ekans
+G
+S
+C
+Grass
+8
+20%
+Arbok
+G
+S
+C
+Grass
+10
+5%
+Jigglypuff
+G
+S
+C
+Grass
+6
+10%
+Zubat
+G
+S
+C
+Grass
+5
+0%
+0%
+30%
+Surfing
+Goldeen
+G
+S
+C
+Surfing
+5-14
+90%
+Seaking
+G
+S
+C
+Surfing
+10-14
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+Northwest hill, north of Picnicker Hope (hidden)
+G
+S
+HP Up
+Northeast hill, northeast of Picnicker Sharon
+G
+S
+← Part 23
+Route 11, Diglett's Cave, Route 2, Pewter City
+Gold and Silver
+walkthrough
+Viridian City, Route 1, Pallet Town
+Part 25 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

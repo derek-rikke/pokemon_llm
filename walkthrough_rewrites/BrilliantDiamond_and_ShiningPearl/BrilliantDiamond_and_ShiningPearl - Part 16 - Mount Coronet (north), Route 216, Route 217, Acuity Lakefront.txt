@@ -1,0 +1,33 @@
+Game: BrilliantDiamond_and_ShiningPearl
+Part: 16
+Keywords: Mount Coronet (north), Route 216, Route 217, Acuity Lakefront
+
+**Part 16: Mount Coronet to Acuity Lakefront**
+
+1. **Mount Coronet (North)**
+   - Navigate through the snowy areas. 
+   - Battle trainers and wild Pokémon as you progress.
+   - Collect items: 
+     - Revive
+     - Max Potion
+
+2. **Route 216**
+   - Continue north to Route 217.
+   - Use Rock Climb to access hidden areas.
+   - Items: 
+     - TM 72 (Avalanche)
+
+3. **Route 217**
+   - Face trainers and wild Pokémon.
+   - Keep an eye out for items: 
+     - Full Heal
+     - Ice Heal
+   - Use the berries found along the route to heal and boost your Pokémon.
+
+4. **Acuity Lakefront**
+   - Heal your Pokémon at the Pokémon Center.
+   - Prepare for battles ahead, especially against Team Galactic.
+   - Collect items: 
+     - TM 79 (Dark Pulse)
+
+Make sure to level up your Pokémon and stock up on healing items before moving forward.

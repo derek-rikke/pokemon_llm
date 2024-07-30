@@ -1,0 +1,49 @@
+Game: Emerald
+Part: 8
+Keywords: Route 111 (Desert), Mirage Tower, Petalburg Gym, Route 115, Route 105, Route 107, Route 108
+
+### Part 8 Walkthrough Summary
+
+**Route 111 (Desert, Optional)**
+- **Go-Goggles** required to enter the desert.
+- Trainers to battle for experience and cash:
+  - **Picnicker Heidi:** Sandshrew (Lv. 22), Baltoy (Lv. 22) - $352
+  - **Camper Beau:** Baltoy (Lv. 21), Sandshrew (Lv. 21) - $336
+  - **Ruin Maniac Dusty:** Sandslash (Lv. 23) - $1380
+- **Items:**
+  - Stardust (×2), Protein, Rare Candy, TM37 (Sandstorm) - Hidden across various locations.
+  
+**Mirage Tower (Optional)**
+- Access by using **Mach Bike** and **Rock Smash**.
+- **Fossils:** Choose between Root Fossil (Lileep) or Claw Fossil (Anorith) on 4F.
+- After selecting, you will fall out as the tower collapses.
+
+**Back to Petalburg City**
+- Travel options include routes through Fallarbor, Rustboro, Mauville, and Slateport.
+- At Devon Corporation, revive your Fossils.
+
+**Petalburg City (Second Visit)**
+- **Petalburg Gym:** Defeat Norman to earn the Balance Badge and TM42 (Facade).
+- Use Fighting-type Pokémon for an advantage against his Normal-types.
+
+**Wally's House**
+- Receive **HM03 (Surf)** from Wally's father after defeating Norman.
+
+**Now that you can use Surf (Optional)**
+- Explore new areas and battle trainers across Hoenn using Surf.
+- Notable items:
+  - Max Revive, Ether, Rare Candy in Petalburg and Littleroot Town.
+
+**Route 115 (Optional)**
+- Navigate through trainers and find various items.
+
+**Route 105-109 (Optional)**
+- Battle trainers and capture Pokémon while exploring these water routes.
+- Notable items include Iron, Heart Scale, and Big Pearl across various islands.
+
+### Key Strategies:
+- Use Fighting-types against Norman’s Gym.
+- Take advantage of Surf to access new areas and trainers.
+- Collect items hidden in the environment for boosts in battles. 
+
+This concise walkthrough retains essential gameplay points and strategies while removing extraneous details.

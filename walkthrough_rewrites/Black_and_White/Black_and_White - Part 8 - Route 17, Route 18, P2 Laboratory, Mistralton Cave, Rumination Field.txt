@@ -1,0 +1,72 @@
+Game: Black_and_White
+Part: 8
+Keywords: Route 17, Route 18, P2 Laboratory, Mistralton Cave, Rumination Field
+
+**Part 8 Walkthrough: Key Locations and Strategies**
+
+**1. Outside Twist Mountain**
+- Check puddle for a hidden Ultra Ball.
+- Battle Cheren (Jet Badge required) before entering Twist Mountain. He has a level 33-35 team depending on your starter choice. Defeating him yields $3500 and HM03 (Surf).
+
+---
+
+**2. Surfing (Optional)**
+- Now that you have Surf, backtrack to collect items in previously inaccessible areas.
+
+**Striaton City:**
+- *Zinc:* Right of Route 3 gateway (hidden).
+- *Big Pearl:* Gift from a Fisherman at Route 3 gateway.
+
+**Route 3:**
+- Items (requires Surf):
+  - *Full Heal:* North of the bridge.
+  - *Rare Candy:* Northwest of the bridge (hidden).
+  - *Max Ether, Lum Berry, HP Up:* Various locations.
+
+**Wellspring Cave:**
+- Items (requires Surf):
+  - *PP Up, Elixir, Escape Rope, Max Potion, TM47 (Low Sweep), Mystic Water:* Various locations.
+
+**Driftveil City:**
+- *Water Stone:* Next to the lighthouse (requires Surf).
+
+**Route 1 (southwest):**
+- Surf west to Route 17. Collect *Max Ether* and defeat Trainers for rewards.
+
+---
+
+**3. Route 17**
+- Navigate swift currents carefully. Collect TM06 (Toxic) and DeepSeaTooth from trainers.
+
+---
+
+**4. Route 18**
+- Battle Hiker Jeremiah and visit the healing girl. Receive an Egg from a Ranger. Use Strength to find items and battle trainers here.
+
+---
+
+**5. P2 Laboratory**
+- Collect TM24 (Thunderbolt) and explore the lab for items.
+
+---
+
+**6. Mistralton Cave**
+- Located across the river from Route 6. Bring Strength and Flash. Cobalion resides here. Collect items while navigating the cave.
+
+---
+
+**7. Pinwheel Forest & Rumination Field**
+- In Pinwheel, find TM22 (SolarBeam) and Rare Candy. 
+- In Rumination Field, battle and capture Virizion (Level 42). Use effective moves against its Justified ability.
+
+---
+
+**Important Notes:**
+- Cobalion (Level 42) in Mistralton Cave should be weakened with Normal, Grass, or Ice-type moves. 
+- Virizion (Level 42) should be weakened with Water, Grass, or Ground-type attacks (avoid Flying-type).
+- After capturing, proceed back to Mistralton City, then to Route 7. 
+
+**Next Steps:**
+- Head to Twist Mountain after completing these areas. 
+
+This guide focuses on essential battles, item locations, and key strategies for progressing through Part 8 of the game.

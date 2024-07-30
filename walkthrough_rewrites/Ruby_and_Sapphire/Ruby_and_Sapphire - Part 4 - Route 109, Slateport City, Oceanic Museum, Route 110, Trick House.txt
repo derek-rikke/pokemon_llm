@@ -1,0 +1,36 @@
+Game: Ruby_and_Sapphire
+Part: 4
+Keywords: Route 109, Slateport City, Oceanic Museum, Route 110, Trick House
+
+**Pokémon Ruby and Sapphire Walkthrough: Part 4**
+
+**Route 109**
+- **Overview**: Beach area with Trainers and hidden items.
+- **Trainers**: 
+  - Sailor Huey: Machop (Lv. 14) - $448
+  - Sailor Edmond: Wingull & Machop (Lv. 12) - $384
+  - Tuber Ricky: Zigzagoon (Lv. 14) - $56
+  - Tuber Lola: Azurill (Lv. 13) - $52
+- **Hidden Items**: Revive, Ether, Soft Sand, Heart Scales, Great Ball, Soda Pop (defeat Trainers in Seashore House).
+  
+**Slateport City**
+- **Key Locations**:
+  - **Oceanic Museum**: Pay $50 to enter. Defeat Team Magma/Aqua Grunts and receive TM46 (Thief) from one of them.
+  - **Stern's Shipyard**: Deliver Devon Goods to Captain Stern.
+  - **Pokémon Fan Club**: Get Soothe Bell if your lead Pokémon has high friendship; receive various Scarves based on contest stats.
+  - **Slateport Market**: Buy vitamins and TM43 (Secret Power) after acquiring it.
+  
+**Route 110**
+- **Overview**: Connects Slateport City to Mauville City. Contains Trick House and several Trainers.
+- **Trainers**:
+  - Pokéfan Isabel: Plusle & Minun (Lv. 15) - $1200
+  - Youngster Timmy: Various Pokémon - $224
+- **Trick House**: Complete puzzles to earn rewards like Rare Candy and TM12 (Taunt). 
+- **Rival Battle 2**: Encounter May/Brendan after Trick House. Defeat them to receive the Itemfinder.
+
+**Important Notes**:
+- **Battles**: Level up your Pokémon as you battle Trainers.
+- **Items**: Search thoroughly for hidden items and rewards scattered throughout the routes and cities.
+- **Progression**: Completing the Oceanic Museum and Trick House is crucial for advancing in the game.
+
+This guide focuses on key battles, item locations, and critical progression points to help you navigate through Part 4 of Pokémon Ruby and Sapphire efficiently.

@@ -1,0 +1,2687 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_17
+Keywords: Driftveil City, Clay Tunnel, Underground Ruins, Undella Town, Abyssal Ruins
+
+Walkthrough Text:
+Contents
+1
+Pokémon World Tournament
+2
+Clay Tunnel
+2.1
+Southern Cave
+2.2
+Western Cave
+2.3
+Northern Cave
+2.4
+Southern Cave
+2.5
+Eastern Cave
+2.6
+Northern Cave
+2.7
+Eastern Cave
+2.8
+Northern Cave
+2.9
+Underground Ruins
+3
+Twist Mountain
+3.1
+B1F
+3.2
+1F
+3.3
+2F
+3.4
+3F
+4
+Undella Town
+4.1
+Cynthia, Champion of Sinnoh
+5
+Undella Bay
+5.1
+Abyssal Ruins
+5.1.1
+1F
+5.1.2
+2F
+5.1.3
+3F
+5.1.4
+4F
+6
+Daily Battles against Hugh
+Pokémon World Tournament
+Entering the
+Hall of Fame
+unlocks the
+Unova Leaders Tournament
+, the first of the specialty tournaments. This lets you battle against the local Gym Leaders, both current and former. After winning there, you can challenge the Gym Leaders of
+Kanto
+,
+Johto
+,
+Hoenn
+, and
+Sinnoh
+in their own tournaments. Winning each of these unlocks the
+World Leaders Tournament
+, and after ten victories here, the
+Champions Tournament
+is unlocked.
+Clay Tunnel
+Clay Tunnel
+Clay Tunnel
+was created by
+the local Gym Leader
+'s constant mining. Stretching out beneath the region's western peninsula, it connects
+Driftveil City
+,
+Mistralton Cave
+, and
+Twist Mountain
+. The deepest area houses the mysterious
+Underground Ruins
+, which contains
+Regirock
+and either
+Registeel
+(if playing Black 2) or
+Regice
+(if playing White 2). In order to fully explore Clay Tunnel, you will need to have
+Strength
+and
+Surf
+available, and it may be a good idea to stock up on
+Dusk Balls
+for the Regis in the Underground Ruins.
+Trainers
+Trainer
+Pokémon
+Hiker
+Teppei
+テッペイ
+Teppei
+Reward:
+$
+1952
+Aron
+♂
+Lv.
+61
+No item
+Mawile
+♂
+Lv.
+61
+No item
+Worker
+Morgann
+モーガン
+Morgan
+Reward:
+$
+2440
+Sableye
+♂
+Lv.
+61
+No item
+Dugtrio
+♂
+Lv.
+61
+No item
+Hiker
+Manuel
+ヨシヒコ
+Yoshiko
+Reward:
+$
+1952
+Swoobat
+♂
+Lv.
+61
+No item
+Golem
+♂
+Lv.
+61
+No item
+Worker
+Herman
+ヒロアキ
+Hiroaki
+Reward:
+$
+2440
+Diglett
+♂
+Lv.
+61
+No item
+Machamp
+♂
+Lv.
+61
+No item
+Worker
+Paul
+ポール
+Paul
+Reward:
+$
+2400
+Excadrill
+♂
+Lv.
+60
+No item
+Nidoking
+♂
+Lv.
+60
+No item
+Rhydon
+♂
+Lv.
+60
+No item
+Pokémon Ranger
+Maxwell
+ミキヤ
+Mikiya
+Reward:
+$
+3720
+Forretress
+♂
+Lv.
+62
+No item
+Crustle
+♂
+Lv.
+62
+No item
+Armaldo
+♂
+Lv.
+62
+No item
+Worker
+Brand
+モトキ
+Motoki
+Reward:
+$
+2400
+Graveler
+♂
+Lv.
+60
+No item
+Onix
+♂
+Lv.
+60
+No item
+Golem
+♂
+Lv.
+60
+No item
+Worker
+Leo
+シュウサク
+Shūsaku
+Reward:
+$
+2400
+Graveler
+♂
+Lv.
+60
+No item
+Onix
+♂
+Lv.
+60
+No item
+Steelix
+♂
+Lv.
+60
+No item
+Pokémon Ranger
+Katie
+エツコ
+Etsuko
+Reward:
+$
+3720
+Ferrothorn
+♀
+Lv.
+62
+No item
+Carnivine
+♀
+Lv.
+62
+No item
+Cradily
+♂
+Lv.
+62
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Boldore
+B2
+W2
+Cave
+54-56
+35%
+Durant
+B2
+W2
+Cave
+54
+20%
+Nosepass
+B2
+W2
+Cave
+55-57
+15%
+Lairon
+B2
+W2
+Cave
+55-57
+15%
+Woobat
+B2
+W2
+Cave
+54
+10%
+Onix
+B2
+W2
+Cave
+57
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+54-57
+75%
+Onix
+B2
+W2
+Dust cloud
+54
+20%
+Steelix
+B2
+W2
+Dust cloud
+57
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Rippling water
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Southern Cave
+Blue Shard
+In a rock, northwest of Hiker Teppei (hidden)
+B2
+W2
+Full Heal
+Lower level, near the boulder (hidden)
+B2
+W2
+Rare Bone
+Lower level, northeast of Hiker Teppei (requires
+Strength
+)
+B2
+W2
+Green Shard
+Near the mine cart in the northeast (requires
+Strength
+)
+B2
+W2
+Western Cave
+Red Shard
+East of the pond
+B2
+W2
+HP Up
+Southwest of the pond (requires
+Strength
+)
+B2
+W2
+Nugget
+Southwest of the pond (requires
+Strength
+)
+B2
+W2
+Water Stone
+In a rock, southwest of the pond (hidden)
+B2
+W2
+Steel Gem
+In a rock, on the island in the pond (hidden)
+B2
+W2
+Northern Cave
+Lum Berry
+×2
+From Pokémon Ranger Maxwell upon his defeat
+From Pokémon Ranger Katie upon her defeat
+B2
+W2
+Metal Coat
+Dead-end path in the southwest part of the chamber
+B2
+W2
+Max Revive
+North of the western pond
+B2
+W2
+Iron
+In a rock, northeast of the eastern pond (requires
+Surf
+)
+B2
+W2
+Big Nugget
+In a rock, near the Underground Ruins entrance (hidden)
+B2
+W2
+Southern Cave
+Go north past Hiker Teppei, and check the rock to the left for a
+Blue Shard
+. There is also a
+Full Heal
+hidden on the ground near the Strength boulder. Further north, a group of Workers is trying to clear a path to the next cave; if you have access to
+Rock Smash
+, you can help clear the way. If not, go east from Hiker Teppei and ride the mine cart to the next cave instead.
+Western Cave
+Move the northeast boulder into place, then go south to get a
+Red Shard
+. Head west past Hiker Manuel to reach a second boulder; moving this one into place lets you reach an
+HP Up
+and a
+Nugget
+. Inspect the rock on the southwest side of the pond to find a
+Water Stone
+, then wade out to the island to reach a hidden
+Steel Gem
+. Continue north to reach a fork in the road; the western path leads to
+Mistralton Cave
+, while the northern path leads to the next cave.
+Northern Cave
+Defeat Pokémon Ranger Maxwell to receive a
+Lum Berry
+, then follow the dead-end path to the west to get a
+Metal Coat
+. Head north past Worker Leo, and pick up the
+Max Revive
+on the north side of the pond. Continue north past Worker Brand and defeat Pokémon Ranger Katie for another
+Lum Berry
+. If you head north from here, you can get to Twist Mountain. Instead, go east and then jump into the mine cart.
+Southern Cave
+Head south and move the boulder into place, creating a shortcut to the entrance and allowing you to reach a
+Rare Bone
+to the southeast. Turn around, pick up the
+Green Shard
+, and talk to the Worker to ride the next mine cart.
+Eastern Cave
+Talk to the Worker to continue your ride through the tunnel.
+Northern Cave
+Surf north across the pond, inspect the small rocks to find an
+Iron
+, and step through the doorway.
+Eastern Cave
+Shove the boulder into place, then take the next mine cart.
+Northern Cave
+Go north and check the rock to find a
+Big Nugget
+, then step through the doorway to the east.
+Underground Ruins
+The first chamber of the
+Underground Ruins
+has little more than a circular pattern on the floor. Go through the double-doors to find four statues, and examine the second from the right for a hint. The hint shown depends on the time of day, and differs between the morning and evening hours. Stand on the center of the eye pattern, then take six steps south and ??? steps east. Check the ground to find a hidden switch; once pressed, the north part of the cave becomes the Rock Peak Chamber. Head north to the back of the cave to find
+Regirock
+, one of
+Hoenn
+'s
+legendary giants
+! Wear it down quickly with
+Grass
+- and
+Water-type
+moves, then weaken it further with
+Fire
+- and
+Flying-type
+attacks.
+Type:
+Rock
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regirock
+Lv.
+65
+Iron Defense
+Steel
+Status
+--
+Charge Beam
+Electric
+Special
+--
+Lock-On
+Normal
+Status
+--
+Zap Cannon
+Electric
+Special
+--
+Once it is caught, a special key will be unlocked for the
+Key System
+, either the Iron Key
+B2
+or the Iceberg Key
+W2
+. These keys can also be swapped between versions. By using the Key System to change the Mystery Door setting, you can change which ruins appear in place of the Rock Peak Chamber. The Iron Key unlocks
+Registeel
+'s Iron Chamber, while the Iceberg Key unlocks
+Regice
+'s Iceberg Chamber.
+When battling Registeel, start off with
+Fire
+- or
+Fighting-type
+attacks to wear it down quickly, then follow up with
+Grass
+- or
+Ice-type
+move to weaken it further. When battling Regice, start off with Fire- or Fighting-type move to weaken it fast, then wear it down even more with Ice attacks.
+Type:
+Steel
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Registeel
+Lv.
+65
+Amnesia
+Psychic
+Status
+--
+Charge Beam
+Electric
+Special
+--
+Lock-On
+Normal
+Status
+--
+Zap Cannon
+Electric
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regice
+Lv.
+65
+Amnesia
+Psychic
+Status
+--
+Charge Beam
+Electric
+Special
+--
+Lock-On
+Normal
+Status
+--
+Zap Cannon
+Electric
+Special
+--
+With the giant(s) caught, exit the ruins and head west. Move the boulder into place, then head north to enter the deepest part of
+Twist Mountain
+.
+Twist Mountain
+Twist Mountain inner exterior
+B
+W
+Twist Mountain
+is a mountain rich in valuable minerals, and the multitude of tunnels make it easy for Workers to extract them from the surrounding rock. The area is prone to heavy snow in the winter months, blocking some tunnels and revealing others.
+Trainers
+Inside
+Trainer
+Pokémon
+Worker
+Cairn
+イワオ
+Iwao
+Reward:
+$
+2400
+Roggenrola
+♂
+Lv.
+60
+No item
+Graveler
+♂
+Lv.
+60
+No item
+Excadrill
+♂
+Lv.
+60
+No item
+Veteran
+Julia
+ユリア
+Julia
+Reward:
+$
+5040
+Glaceon
+♂
+Lv.
+63
+No item
+Bastiodon
+♂
+Lv.
+63
+No item
+Rhyperior
+♀
+Lv.
+63
+No item
+Drapion
+♀
+Lv.
+63
+No item
+Worker
+Gus
+ガンスケ
+Gansuke
+Reward:
+$
+2400
+Geodude
+♂
+Lv.
+60
+No item
+Steelix
+♂
+Lv.
+60
+No item
+Boldore
+♂
+Lv.
+60
+No item
+Worker
+Patton
+ノリヒロ
+Norihiro
+Reward:
+$
+2440
+Machoke
+♂
+Lv.
+61
+No item
+Abomasnow
+♂
+Lv.
+61
+No item
+Veteran
+Chloris
+ミドリ
+Midori
+Reward:
+$
+5120
+Rotation Battle
+Gyarados
+♀
+Lv.
+64
+No item
+Kangaskhan
+♀
+Lv.
+64
+No item
+Archeops
+♂
+Lv.
+64
+No item
+Spring, Summer, Autumn only
+Hiker
+Hunter
+ゴウゾウ
+Gōzō
+Reward:
+$
+1952
+Larvitar
+♂
+Lv.
+61
+No item
+Probopass
+♂
+Lv.
+61
+No item
+Worker
+Victor
+カツジ
+Katsuji
+Reward:
+$
+2440
+Glalie
+♂
+Lv.
+61
+No item
+Beartic
+♂
+Lv.
+61
+No item
+Winter only
+Worker
+Ryan
+ライアン
+Ryan
+Reward:
+$
+2400
+Smoochum
+♀
+Lv.
+60
+No item
+Claydol
+Lv.
+60
+No item
+Kadabra
+♂
+Lv.
+60
+No item
+Veteran
+Zach
+モトフミ
+Motofumi
+Reward:
+$
+5040
+Weavile
+♂
+Lv.
+63
+No item
+Rampardos
+♂
+Lv.
+63
+No item
+Toxicroak
+♂
+Lv.
+63
+No item
+Aggron
+♂
+Lv.
+63
+No item
+Outside
+Trainer
+Pokémon
+Veteran
+Carter
+ヨシオ
+Yoshio
+Reward:
+$
+5120
+Triple Battle
+Tauros
+♂
+Lv.
+64
+No item
+Crobat
+♂
+Lv.
+64
+No item
+Carracosta
+♂
+Lv.
+64
+No item
+Hiker
+Wade
+コウイチ
+Kōichi
+Reward:
+$
+1952
+Golett
+Lv.
+61
+No item
+Mamoswine
+♂
+Lv.
+61
+No item
+Nurse
+Carol
+フミコ
+Fumiko
+Reward:
+$
+2480
+Blissey
+♀
+Lv.
+62
+No item
+Worker
+Cliff
+クリフ
+Cliff
+Reward:
+$
+2480
+Sigilyph
+♂
+Lv.
+62
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+1F, 2F, 3F, B1F
+Onix
+B2
+W2
+Cave
+57
+5%
+Boldore
+B2
+W2
+Cave
+54-55
+40%
+-
+40%
+-
+Boldore
+B2
+W2
+Cave
+54
+-
+20%
+-
+-
+Boldore
+B2
+W2
+Cave
+55
+-
+-
+-
+20%
+Woobat
+B2
+W2
+Cave
+54
+10%
+Gurdurr
+B2
+W2
+Cave
+55
+10%
+20%
+10%
+10%
+Beartic
+B2
+W2
+Cave
+56
+10%
+5%
+10%
+-
+Beartic
+B2
+W2
+Cave
+54
+-
+-
+-
+20%
+Cryogonal
+B2
+W2
+Cave
+57
+5%
+5%
+5%
+-
+Cryogonal
+B2
+W2
+Cave
+56-57
+-
+-
+-
+15%
+Heatmor
+B2
+W2
+Cave
+56
+5%
+-
+5%
+5%
+Heatmor
+B2
+W2
+Cave
+55-56
+-
+20%
+-
+-
+Durant
+B2
+W2
+Cave
+56-57
+15%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+54-57
+75%
+Onix
+B2
+W2
+Dust cloud
+54
+20%
+Steelix
+B2
+W2
+Dust cloud
+57
+5%
+Special Pokémon
+Regigigas
+B2
+W2
+Only one
+68
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+B1F
+TM71
+(
+Stone Edge
+)
+East of the Ice Rock
+B2
+W2
+1F
+Full Restore
+In the trash can near the vending machine (hidden)
+Spring
+Summer
+Autumn
+B2
+W2
+Dusk Ball
+Cave north of the Workers' shed, west of Worker Victor
+Spring
+Summer
+Autumn
+B2
+W2
+Rare Bone
+In a rock, southwest of Worker Victor (hidden)
+Spring
+Summer
+Autumn
+B2
+W2
+2F
+TM90
+(
+Substitute
+)
+West of Veteran Chloris
+B2
+W2
+Rare Bone
+Southeast of Veteran Chloris
+B2
+W2
+Ultra Ball
+Southwest corner of the cave with Veteran Chloris (hidden)
+B2
+W2
+TM91
+(
+Flash Cannon
+)
+West of Nurse Carol
+B2
+W2
+Full Restore
+North of Nurse Carol
+B2
+W2
+Yellow Shard
+In a rock, south of Worker Patton (hidden)
+B2
+W2
+3F
+Dusk Stone
+East of Worker Gus
+B2
+W2
+Float Stone
+Southeast side of the highest-level walkway
+B2
+W2
+Red Shard
+Northwest side of the highest-level walkway
+B2
+W2
+Winter only
+Big Nugget
+2F, east of Veteran Zach
+B2
+W2
+Rare Candy
+2F, northeast of Worker Ryan (hidden)
+B2
+W2
+Eject Button
+2F, southwest of Worker Ryan
+B2
+W2
+B1F
+This damp cave houses a large
+ice-covered rock
+, and
+TM71
+(
+Stone Edge
+) to the northeast. Head north through the hole in the wall to reach a chamber that was just recently discovered.
+Three boulders block the way to the north side. First, move the western boulder to the right. Next, move the middle boulder to the south. Third, move the eastern boulder to the left. Go north to find a "statue" of
+Regigigas
+. If the three
+legendary giants
+are in your party, the "statue" awakens and attacks! For the first five turns, its Attack and Speed are halved due to its
+Slow Start
+Ability. Wear down its health with
+Fighting
+moves before throwing
+Dusk Balls
+.
+Type:
+Normal
+Unknown
+Ability:
+Slow Start
+Held item:
+None
+Regigigas
+Lv.
+68
+Revenge
+Fighting
+Physical
+--
+Wide Guard
+Rock
+Status
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Payback
+Dark
+Physical
+--
+Once it is caught, head back through the icy chamber to the tunnel in the southwest. Talk to the Worker to receive one of nine
+Fossils
+, which can be revived into an ancient Pokémon at the far-off
+Nacrene City
+Museum. Continue on west to reach the mountain's open-air interior.
+1F
+Climb up past the two bulldozers and enter the east tunnel.
+Here you meet the
+Heavy Machinery Pro
+. This Worker will ask one of five questions per day, and will reward your fifth correct answer with a
+Medal
+. Exit the tunnel and head west.
+Check the trash can for a
+Full Restore
+, and enter the west tunnel.
+Go north then west to collect the
+Dusk Ball
+and the hidden
+Rare Bone
+. Head east past Worker Victor and climb the stairway.
+2F
+Fight Hiker Hunter and continue south to either doorway.
+Follow the walkway to the west, and fight Worker Cliff before entering the next doorway.
+Go west to battle Veteran Chloris and grab
+TM90
+(
+Substitute
+) lying nearby. Jump the ledge to reach a
+Rare Bone
+, and inspect the southwest corner to find an
+Ultra Ball
+. Exit through the southeast doorway.
+Pick up
+TM91
+(
+Flash Cannon
+) to the north, then follow the walkway eastward. Grab the
+Full Restore
+near Nurse Carol and enter the next doorway.
+Head east, then south from Worker Patton. Check the small rock to find a
+Yellow Shard
+, then go north to the next room.
+3F
+Climb the stairway to fight Worker Gus. Go east to reach a
+Dusk Stone
+, then exit through the western doorway.
+Go south past Hiker Wade to reach the next doorway.
+Battle Veteran Julia and continue south, then turn west. The first doorway leads to a dead-end. Continue west past Worker Cairn to the next doorway.
+Grab the
+Float Stone
+to the east, then follow the walkway to the northwest for a
+Red Shard
+. Enter the southwest doorway.
+Follow the tunnel south to reach the mountain's
+Route 7
+entrance. Outside you meet
+Marshal
+, who invites you to challenge the
+Elite Four
+again before leaving.
+Undella Town
+Upon returning to
+Undella Town
+, you find
+Hugh
+standing near the gate. He thanks you again for rescuing his sister's Pokémon, and gives you
+HM06
+(
+Dive
+) as a token of his gratitude. Then he asks for another battle. After fighting him here, you can battle him once per day at the former
+Team Plasma
+base in
+Driftveil City
+.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+62
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+62
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Surf
+Water
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+62
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Fang
+Flygon
+♂
+Lv.
+62
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+62
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Charcoal
+Emboar
+♂
+Lv.
+64
+Fire Blast
+Fire
+Special
+--
+Head Smash
+Rock
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Scald
+Water
+Special
+--
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+62
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+62
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+62
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Fang
+Flygon
+♂
+Lv.
+62
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+62
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Mystic Water
+Samurott
+♂
+Lv.
+64
+Hydro Pump
+Water
+Special
+--
+Megahorn
+Bug
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+Grass Knot
+Grass
+Special
+--
+Pokémon Trainer
+Hugh
+Undella Town
+Black 2 and White 2
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+62
+Facade
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+62
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+62
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Fang
+Flygon
+♂
+Lv.
+62
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+62
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Miracle Seed
+Serperior
+♂
+Lv.
+64
+Leaf Storm
+Grass
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Coil
+Poison
+Status
+--
+When the battle concludes,
+Zinzolin
+approaches from the south. To atone for his misdeeds, he gives you a few of
+Ghetsis
+'s research documents. He claims they can help decipher the ancient script found in the underwater ruins. The script uses coded language, which uses different rules for encryption on each floor. Talk to Zinzolin every time you reach a new floor to receive clues to help crack the code. Fully exploring the ruins requires the use of
+Flash
+and
+Strength
+.
+Cynthia, Champion of Sinnoh
+Step inside the easternmost villa to meet
+Cynthia
+, Champion of the
+Sinnoh
+region. When you first meet her, she will battle you regardless of the season. After that, you can battle her once per day during the spring. Her Pokémon are very high-leveled, so train against her team while you can. Her Pokémon will aim for your weaknesses, so be sure to do the same to them. Just remember that her
+Spiritomb
+has no weaknesses (
+Normal
+-,
+Fighting
+-, and
+Psychic-type
+attacks have no effect on Spiritomb).
+Pokémon Trainer
+Cynthia
+Undella Town
+Black 2 and White 2
+Reward:
+$
+15600
+Types:
+Ghost
+Dark
+Ability:
+Pressure
+Held item:
+None
+Spiritomb
+♀
+Lv.
+76
+Double Team
+Normal
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Dream Eater
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+76
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Attract
+Normal
+Status
+--
+Rest
+Psychic
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Serene Grace
+Held item:
+None
+Togekiss
+♂
+Lv.
+76
+Aura Sphere
+Fighting
+Special
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Lucario
+♂
+Lv.
+76
+Psychic
+Psychic
+Special
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Flash Cannon
+Steel
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Snow Cloak
+Held item:
+None
+Glaceon
+♀
+Lv.
+76
+Ice Beam
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Barrier
+Psychic
+Status
+--
+Types:
+Dragon
+Ground
+Ability:
+Sand Veil
+Held item:
+None
+Garchomp
+♀
+Lv.
+78
+Earthquake
+Ground
+Physical
+--
+Dragon Rush
+Dragon
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Undella Bay
+Abyssal Ruins
+Abyssal Ruins
+The
+Abyssal Ruins
+are believed to be the remains of an ancient temple, the tomb of an ancient king that sank beneath the waves. No one knows who built it or why, but an explanation may lie with the odd symbols etched into the walls. When you dive down to the ruins, hold down the Control Pad as you descend or the currents will wash you back to the surface.
+Items
+Item
+Location
+Games
+1F
+Dread Plate
+North of the western entrance
+B2
+W2
+Earth Plate
+Southeast quadrant
+B2
+W2
+Fist Plate
+Southwest corner
+B2
+W2
+Flame Plate
+West of the room's center
+B2
+W2
+Icicle Plate
+South of the room's center
+B2
+W2
+Insect Plate
+Near the northeast corner
+B2
+W2
+Iron Plate
+Northwest quadrant
+B2
+W2
+Meadow Plate
+Southwest quadrant
+B2
+W2
+Mind Plate
+North of the room's center
+B2
+W2
+Sky Plate
+North of the eastern entrance
+B2
+W2
+Spooky Plate
+Southeast quadrant
+B2
+W2
+Stone Plate
+Near the northern entrance
+B2
+W2
+Toxic Plate
+Southeast corner
+B2
+W2
+Zap Plate
+South of the western entrance
+B2
+W2
+Relic Gold
+×3
+Near the northwest corner
+Southwest quadrant
+East of the room's center
+B2
+W2
+Relic Silver
+×3
+Northwest quadrant
+Northeast quadrant
+Southeast quadrant
+B2
+W2
+Relic Copper
+×4
+Inside the northern entrance
+Inside the eastern entrance
+Inside the southern entrance
+Southwest of the western entrance
+B2
+W2
+Relic Statue
+Just north of the room's center
+B2
+W2
+Relic Vase
+Southeast quadrant
+B2
+W2
+2F
+Relic Gold
+×3
+Northwest quadrant
+Northeast quadrant
+Along the east wall
+B2
+W2
+Relic Silver
+×2
+Northeast quadrant
+Southwest quadrant
+B2
+W2
+Relic Copper
+×2
+Southwest quadrant
+Near the entrance from 1F
+B2
+W2
+Relic Statue
+Southwest corner
+B2
+W2
+Relic Vase
+Northwest corner
+B2
+W2
+Relic Band
+×2
+Southeast corner
+Northeast quadrant
+B2
+W2
+3F
+Relic Gold
+Southwest corner
+B2
+W2
+Relic Silver
+South side
+B2
+W2
+Relic Statue
+Northwest corner
+B2
+W2
+Relic Vase
+×2
+Northeast corner
+Along the west wall
+B2
+W2
+Relic Band
+×3
+Northeast quadrant
+Southeast quadrant
+In the room's center
+B2
+W2
+4F
+Relic Crown
+In the center of the room
+B2
+W2
+1F
+Each of the four dive points connect to the same large room on the first floor. All items can be reached from any entrance. Upon entering the rubble, the sound of a switch can be heard. You will only be able to travel 500 steps before the currents rush you back to the surface. To reach the second floor, you must reach the center of the room in 190 steps or less. Inspect the purple pillar there and it slides out of the way. Behind it is a spot where you can float up to the second floor.
+2F
+The second floor is a lot smaller than the first. Swim to the south and take the second right. Work your way up to the northeast corner, and swim along the north wall. Head south then west to reach a purple pillar; use
+Flash
+directly beside it and it will move out of the way. Go either north or south to reach the third floor.
+3F
+Behind you to the west is a
+Relic Vase
+. To the north is a
+Relic Statue
+; to the south, a
+Relic Gold
+. A
+Relic Band
+lies in the center of the room, and a
+Relic Silver
+is off to the south. Two more Relic Bands and a Relic Vase lie to the east. To ascend to the final floor, stand at the purple pillar in the center of the east wall and use
+Strength
+.
+4F
+There's almost nothing here, except for a few more purple pillars and a single item in the middle of the room — the
+Relic Crown
+. This is the last of the ruins' treasures, so just wander around a bit until the currents wash you to the surface. All totaled, the relics housed here can be sold to the collector in the western villa for a combined
+$
+1,706,000!
+Daily Battles against Hugh
+Once you've defeated
+Hugh
+at
+Undella Town
+, he will stay at the former
+Team Plasma
+base in
+Driftveil City
+for the rest of the game, where you can challenge him for a rematch once per day. His Pokémon are at their highest levels here.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Driftveil City
+Black 2 and White 2
+Reward:
+$
+6700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Salac Berry
+Simipour
+♂
+Lv.
+65
+Rock Slide
+Rock
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Surf
+Water
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+65
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Gem
+Flygon
+♂
+Lv.
+65
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Draco Meteor
+Dragon
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+65
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Focus Sash
+Emboar
+♂
+Lv.
+67
+Fire Blast
+Fire
+Special
+--
+Head Smash
+Rock
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Scald
+Water
+Special
+--
+Pokémon Trainer
+Hugh
+Driftveil City
+Black 2 and White 2
+Reward:
+$
+6700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Salac Berry
+Simisage
+♂
+Lv.
+65
+Rock Slide
+Rock
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+65
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Gem
+Flygon
+♂
+Lv.
+65
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Draco Meteor
+Dragon
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+65
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Focus Sash
+Samurott
+♂
+Lv.
+67
+Hydro Pump
+Water
+Special
+--
+Megahorn
+Bug
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+Grass Knot
+Grass
+Special
+--
+Pokémon Trainer
+Hugh
+Driftveil City
+Black 2 and White 2
+Reward:
+$
+6700
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+65
+Giga Impact
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Swagger
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Salac Berry
+Simisear
+♂
+Lv.
+65
+Rock Slide
+Rock
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Sap Sipper
+Held item:
+Muscle Band
+Bouffalant
+♂
+Lv.
+65
+Head Charge
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Dragon Gem
+Flygon
+♂
+Lv.
+65
+Earthquake
+Ground
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Draco Meteor
+Dragon
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+Leftovers
+Eelektross
+♂
+Lv.
+65
+Wild Charge
+Electric
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Focus Sash
+Serperior
+♂
+Lv.
+67
+Leaf Storm
+Grass
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Coil
+Poison
+Status
+--
+← Part 16
+Aspertia City, Floccesy Town, Cave of Being, Castelia City, Nimbasa City
+Black 2 and White 2
+walkthrough
+Route 14, Abundant Shrine, Black City/White Forest, Route 15, Marvelous Bridge
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

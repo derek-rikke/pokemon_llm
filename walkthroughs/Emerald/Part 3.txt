@@ -1,0 +1,1492 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_3
+Keywords: Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108, Route 109
+
+Walkthrough Text:
+Contents
+1
+Rustboro City
+1.1
+Devon Corporation
+1.1.1
+PokéNav
+1.2
+Rival Battle 2 (optional)
+1.2.1
+Player chose Treecko
+1.2.2
+Player chose Torchic
+1.2.3
+Player chose Mudkip
+2
+Routes 105 and 106
+2.1
+Checking In
+3
+Dewford Town
+3.1
+Dewford Hall
+3.2
+Hook the Big One!
+3.3
+Dewford Gym
+4
+Route 106
+5
+Granite Cave
+5.1
+1F
+5.2
+B1F
+5.3
+B2F
+5.4
+B1F
+5.5
+1F
+5.6
+1F (Back)
+6
+Dewford Town
+7
+Rustboro City (optional)
+8
+Routes 107 and 108
+9
+Route 109
+9.1
+Seashore House
+Rustboro City
+Items
+Item
+Location
+Games
+After retrieving the Devon Goods
+Great Ball
+Outside the Devon building, from the Devon researcher
+E
+Letter
+Devon Corporation, from Mr. Stone in his office
+E
+PokéNav
+Devon Corporation, from Mr. Stone in his office
+E
+Devon Corporation
+Now that you have reclaimed the
+Devon Goods
+, head back to the Devon Corporation building in
+Rustboro
+'s northwest corner. The grateful Devon researcher is waiting on the city's east side, and hands you a
+Great Ball
+before escorting you inside to meet his boss.
+On the third floor, the company president introduces himself as
+Mr. Stone
+. He thanks you for reclaiming the stolen parts, then asks for another favor. He doesn't expect you to work for free, of course, and rewards you with your very own
+PokéNav
+! In return, he asks that you deliver a
+Letter
+to a man named
+Steven
+in
+Dewford Town
+. To reach Dewford, you will need to cross the sea, so Mr. Stone suggests booking passage with
+Mr. Briney
+, the friendly old sailor from
+Route 104
+.
+As you leave, take note of the Scientists on the second floor. None of them are having much luck with their projects, except one, who has developed a device that can resurrect ancient Pokémon from
+Fossils
+.
+PokéNav
+The
+PokéNav
+is a small, electronic device produced by Devon Corporation under the orders of Mr. Stone, who wanted a way to keep track of a Pokémon's feelings. It has four different functions, though only Map and Condition are available at first.
+The Map page displays a map of
+Hoenn
+, along with the user's current location. It's also possible to zoom in to see a basic layout of towns and cities.
+The Condition page shows a Pokémon's five Contest stats in detail. It can be used to search for party Pokémon, or all owned Pokémon at once.
+The Match Call function records data of up to 85 people, including non-Trainers like
+Mom
+and
+Professor Birch
+, and allows the user to call anyone who has registered their PokéNav with the user. This will also alert the user when any registered Trainer, including Gym Leaders, want a rematch. Only the first four rematches with each Trainer will see their Pokémon rise in level and evolve, though there is no limit on the number of times these Trainers may be rebattled. After entering the
+Hall of Fame
+, each Gym Leader will offer a rematch as a
+Double Battle
+.
+There are several people whom you have already encountered, that you must seek out and speak with in order to register them:
+Littleroot Town
+: Mom, Professor Birch
+Route 102
+: Youngster Calvin
+Route 104
+(south): Lady Cindy
+Petalburg Woods
+: Bug Catcher James
+Route 104 (north): Rich Boy Winston, Lass Haley
+Route 116
+: School Kid Karen, School Kid Jerry
+Rustboro Gym
+: Roxanne (she will do so at some point after you defeat
+Brawly
+, the next Gym)
+The Ribbons page displays all Ribbons the user's Pokémon have acquired. Though hidden initially, this function unlocks when any of the user's Pokémon gains a Ribbon.
+When you leave the building, you are stopped by one of the Devon Scientists. He adds the Match Call function to your new PokéNav, and asks that you call Mr. Stone as a tutorial.
+Rival Battle 2 (optional)
+May/Brendan is waiting for you just outside the Poké Mart. She/He notices the Match Call feature on your new PokéNav, and each Trainer registers the other. Your friend mentions passing
+Mr. Briney
+in
+Petalburg Woods
+, before asking about your Pokédex and challenging you to a battle.
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+Brendan
+Rustboro City
+Emerald
+Reward:
+$
+900
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lotad
+♂
+Lv.
+13
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Torchic
+♂
+Lv.
+15
+Scratch
+Normal
+--
+Growl
+Normal
+--
+Focus Energy
+Normal
+--
+Ember
+Fire
+--
+P
+K
+M
+N
+Trainer
+May
+Rustboro City
+Emerald
+Reward:
+$
+900
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lotad
+♀
+Lv.
+13
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Torchic
+♂
+Lv.
+15
+Scratch
+Normal
+--
+Growl
+Normal
+--
+Focus Energy
+Normal
+--
+Ember
+Fire
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+Brendan
+Rustboro City
+Emerald
+Reward:
+$
+900
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+13
+Yawn
+Normal
+--
+Smog
+Poison
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Mudkip
+♂
+Lv.
+15
+Growl
+Normal
+--
+Mud-Slap
+Ground
+--
+Water Gun
+Water
+--
+Bide
+Normal
+--
+P
+K
+M
+N
+Trainer
+May
+Rustboro City
+Emerald
+Reward:
+$
+900
+Type:
+Fire
+Unknown
+Ability:
+White Smoke
+Held item:
+None
+Torkoal
+♀
+Lv.
+13
+Ember
+Fire
+--
+Smog
+Poison
+--
+Curse
+???
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Mudkip
+♂
+Lv.
+15
+Growl
+Normal
+--
+Mud-Slap
+Ground
+--
+Water Gun
+Water
+--
+Bide
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+Brendan
+Rustboro City
+Emerald
+Reward:
+$
+900
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♂
+Lv.
+13
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Treecko
+♂
+Lv.
+15
+Pound
+Normal
+--
+Leer
+Normal
+--
+Absorb
+Grass
+--
+Quick Attack
+Normal
+--
+P
+K
+M
+N
+Trainer
+May
+Rustboro City
+Emerald
+Reward:
+$
+900
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♀
+Lv.
+13
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Treecko
+♂
+Lv.
+15
+Pound
+Normal
+--
+Leer
+Normal
+--
+Absorb
+Grass
+--
+Quick Attack
+Normal
+--
+Routes 105 and 106
+Route 105
+As the voyage is a quick one, there is no time to fully explore the waters of Routes
+105
+and
+106
+just yet. Return after earning the
+fifth Badge
+in order to
+travel
+at your own speed.
+Checking In
+As you sail with
+Mr. Briney
+through Route 105, you receive a call on your PokéNav. It's
+Dad
+; he heard from
+Mr. Stone
+about you getting the device and just wanted to check in. After the brief conversation, the ship makes landfall in Dewford Town.
+Dewford Town
+Dewford Town
+Dewford Town
+is a tiny island town in the southern ocean. Despite its isolation, many Trainers visit the area to challenge the
+Dewford Gym
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Silk Scarf
+From an Ace Trainer in the house at the pier
+E
+Old Rod
+From the Fisherman east of the Gym
+E
+After defeating the Dewford Gym
+TM08
+(
+Bulk Up
+)
+From Brawly upon his defeat
+E
+Dewford Hall
+Located to the north of the Pokémon Center, Dewford Hall is known as "Everyone's Information Exchange". Though Dewford is a tiny island community, when someone coins a
+trendy phrase
+here, it quickly spreads throughout the region. Speak to the boy outside the building to learn the coolest thing in cool right now; if you disagree, he offers a chance to change the current phrase, which the residents inside will quickly adopt.
+Hook the Big One!
+Speak to the Fisherman outside the Gym, and answer his question to receive the
+Old Rod
+. This low-end fishing rod can hook Pokémon from almost any body of water, so be sure to try it out everywhere!
+Dewford Gym
+Dewford Gym
+Dewford Town Pokémon Gym
+Leader: Brawly
+A big wave in fighting!
+The
+Dewford Gym
+specializes in
+Fighting-type
+Pokémon.
+Flying
+- and
+Psychic-type
+moves are the most useful here, so this is a great opportunity to train a
+Taillow
+,
+Wingull
+, or
+Ralts
+. Keep your
+Normal
+-,
+Rock
+-,
+Steel
+-, and
+Dark-type
+Pokémon out of the fray for now. The Gym is dimly lit when you first enter, but the building lights up bit by bit for each Gym Trainer you defeat. Once the Gym Leader is defeated, the entire Gym lights up completely.
+Even with only three Pokémon,
+Brawly
+can be a tough opponent. Both his
+Machop
+and
+Makuhita
+have the
+Guts
+Ability, which boosts the Pokémon's
+Attack
+by 50% when afflicted by a non-volatile status condition.
+Meditite
+can use
+Reflect
+and
+Light Screen
+to boost his team's
+Defense
+and
+Special Defense
+, respectively, and its
+Focus Punch
+is dangerous if you ever let Meditite go an entire turn without taking a hit.
+Bulk Up
+allows all three to raise their Attack and
+Defense
+.
+Dewford Gym
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Laura
+Reward:
+$
+312
+Meditite
+♀
+Lv.
+13
+No item
+Battle Girl
+Lilith
+Reward:
+$
+312
+Double Battle
+with Brenden
+Meditite
+♀
+Lv.
+13
+No item
+Sailor
+Brenden
+Reward:
+$
+416
+Double Battle
+with Lilith
+Machop
+♂
+Lv.
+13
+No item
+Black Belt
+Takao
+Reward:
+$
+416
+Machop
+♂
+Lv.
+13
+No item
+Black Belt
+Cristian
+Reward:
+$
+416
+Makuhita
+♂
+Lv.
+13
+No item
+Battle Girl
+Jocelyn
+Reward:
+$
+312
+Meditite
+♀
+Lv.
+13
+No item
+Leader
+Brawly
+Dewford Gym
+Emerald
+Reward:
+$
+1900
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machop
+♂
+Lv.
+16
+Karate Chop
+Fighting
+--
+Low Kick
+Fighting
+--
+Seismic Toss
+Fighting
+--
+Bulk Up
+Fighting
+--
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Meditite
+♂
+Lv.
+16
+Focus Punch
+Fighting
+--
+Light Screen
+Psychic
+--
+Reflect
+Psychic
+--
+Bulk Up
+Fighting
+--
+Type:
+Fighting
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Makuhita
+♂
+Lv.
+19
+Arm Thrust
+Fighting
+--
+Vital Throw
+Fighting
+--
+Reversal
+Fighting
+--
+Bulk Up
+Fighting
+--
+After the battle, Brawly awards you the
+Knuckle Badge
+, which ensures obedience of all Pokémon up to level 30 and enables the use of
+Flash
+in the field. He also hands out
+TM08
+(
+Bulk Up
+) as a prize, and registers himself in your PokéNav.
+Route 106
+Route 106
+Until you earn the
+fifth Badge
+, you cannot fully explore the waters of
+Route 106
+. Battle the trainers on the beach for now.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Ned
+Reward:
+$
+440
+Tentacool
+♂
+Lv.
+11
+No item
+Fisherman
+Elliot
+Reward:
+$
+400
+Magikarp
+♂
+Lv.
+10
+No item
+Tentacool
+♂
+Lv.
+7
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Rematch
+Fisherman
+Elliot
+*
+Reward:
+$
+1080
+Tentacool
+♂
+Lv.
+24
+No item
+Gyarados
+♂
+Lv.
+27
+No item
+Gyarados
+♂
+Lv.
+27
+No item
+Fisherman
+Elliot
+*
+Reward:
+$
+1160
+Gyarados
+♂
+Lv.
+29
+No item
+Carvanha
+♂
+Lv.
+26
+No item
+Tentacool
+♂
+Lv.
+26
+No item
+Gyarados
+♂
+Lv.
+29
+No item
+Fisherman
+Elliot
+*
+Reward:
+$
+1240
+Gyarados
+♂
+Lv.
+31
+No item
+Carvanha
+♂
+Lv.
+30
+No item
+Tentacruel
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Fisherman
+Elliot
+*
+Reward:
+$
+1400
+Gyarados
+♂
+Lv.
+33
+No item
+Sharpedo
+♂
+Lv.
+33
+No item
+Gyarados
+♂
+Lv.
+33
+No item
+Tentacruel
+♂
+Lv.
+35
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+Water's edge, southeast of Fisherman Ned (hidden)
+E
+Stardust
+On a rock, northwest of the signpost (hidden)
+E
+Poké Ball
+Water's edge, northwest of Fisherman Elliot (hidden)
+E
+Granite Cave
+Granite Cave, 1F (Entrance)
+Granite Cave, B1F
+Granite Cave, B2F
+Granite Cave, 1F (Back)
+While the ground floor of
+Granite Cave
+is well-lit from the natural light outside, it can be difficult to explore the underground portion without the use of
+Flash
+.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Makuhita
+R
+S
+E
+Cave
+6-10
+50%
+Zubat
+R
+S
+E
+Cave
+7-8
+30%
+Abra
+R
+S
+E
+Cave
+8
+10%
+Geodude
+R
+S
+E
+Cave
+6-9
+10%
+1F (Back)
+Makuhita
+R
+S
+E
+Cave
+6-10
+50%
+Zubat
+R
+S
+E
+Cave
+7-8
+30%
+Abra
+R
+S
+E
+Cave
+8
+10%
+Aron
+R
+S
+E
+Cave
+7-8
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Aron
+R
+S
+E
+Cave
+9-11
+40%
+Zubat
+R
+S
+E
+Cave
+9-10
+30%
+Abra
+R
+S
+E
+Cave
+9
+10%
+Makuhita
+R
+S
+E
+Cave
+10-11
+10%
+Sableye
+R
+S
+E
+Cave
+9-11
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Aron
+R
+S
+E
+Cave
+10-12
+40%
+Zubat
+R
+S
+E
+Cave
+10-11
+30%
+Sableye
+R
+S
+E
+Cave
+10-12
+20%
+Abra
+R
+S
+E
+Cave
+10
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+HM05
+(
+Flash
+)
+From a Hiker near the entrance
+E
+Escape Rope
+West of the entrance
+E
+TM47
+(
+Steel Wing
+)
+From Steven, after delivering the
+Letter
+to him
+E
+B1F
+Poké Ball
+Dead-end tunnel on the south side
+E
+B2F
+Everstone
+South side; in the rock on the upper platform (hidden)
+E
+1F
+Speak to the Hiker near the entrance to receive
+HM05
+(
+Flash
+). Head west to find an
+Escape Rope
+, then climb down the ladder to B1F.
+B1F
+Go northeast until you reach a
+muddy slope
+, then collect the
+Poké Ball
+from the dead-end tunnel to the south. Continue moving to the southeast and take the ladder down to B2F.
+B2F
+Head southwest to a group of
+cracked rocks
+, then climb onto the upper level. Turn northeast and inspect the rock on the center platform for a hidden
+Everstone
+before taking the ladder back up to B1F.
+B1F
+Climb the next ladder back up to the north side of 1F.
+1F
+Follow the tunnel all the way to the west, then turn south to reach an isolated chamber.
+1F (Back)
+In the rear chamber, you find
+Steven
+researching rare stones. Give him the
+Letter
+from
+Mr. Stone
+to complete your mission, and Steven gives you
+the TM
+for his favorite move,
+Steel Wing
+, in return.
+Dewford Town
+Mr. Stone still needs you to deliver the
+Devon Goods
+to
+Captain Stern
+. Talk to
+Mr. Briney
+on the pier to inform him of your successful delivery, and the two of you, along with
+Peeko
+, set sail at once. Sail directly to
+Slateport City
+, or briefly backtrack to receive thanks for delivering the Letter.
+Rustboro City (optional)
+Items
+Item
+Location
+Games
+Exp. Share
+Reward from Mr. Stone after delivering the Letter to
+Steven
+E
+You can now return to
+Rustboro City
+to receive an
+Exp. Share
+from
+Mr. Stone
+at Devon Corporation.
+Routes 107 and 108
+Route 107
+Route 108
+Like with Routes
+105
+and
+106
+, there's no time to fully explore the area at the moment.
+Route 109
+Route 109
+The sprawling beach of
+Route 109
+is packed with Trainers who aren't just here to work on their tans. Scour the sands for hidden items before heading north to
+Slateport City
+.
+Trainers
+Trainer
+Pokémon
+Sailor
+Huey
+Reward:
+$
+384
+Wingull
+♂
+Lv.
+12
+No item
+Machop
+♂
+Lv.
+12
+No item
+Sailor
+Edmond
+Reward:
+$
+416
+Potential
+Double Battle
+with Hailey or Ricky
+Wingull
+♂
+Lv.
+13
+No item
+Tuber
+Hailey
+Reward:
+$
+52
+Potential
+Double Battle
+with Edmond or Ricky
+Marill
+♀
+Lv.
+13
+No item
+Tuber
+Ricky
+Reward:
+$
+52
+Potential
+Double Battle
+with Edmond or Hailey
+Zigzagoon
+♂
+Lv.
+13
+No item
+Tuber
+Lola
+Reward:
+$
+48
+Potential
+Double Battle
+with Chandler
+Azurill
+♀
+Lv.
+12
+No item
+Azurill
+♀
+Lv.
+12
+No item
+Tuber
+Chandler
+Reward:
+$
+48
+Potential
+Double Battle
+with Lola
+Tentacool
+♂
+Lv.
+12
+No item
+Tentacool
+♂
+Lv.
+12
+No item
+Seashore House
+Tuber
+Simon
+Reward:
+$
+48
+Azurill
+♀
+Lv.
+12
+No item
+Marill
+♂
+Lv.
+12
+No item
+Beauty
+Johanna
+Reward:
+$
+1040
+Goldeen
+♀
+Lv.
+13
+No item
+Sailor
+Dwayne
+Reward:
+$
+352
+Wingull
+♂
+Lv.
+11
+No item
+Machop
+♂
+Lv.
+11
+No item
+Tentacool
+♂
+Lv.
+11
+No item
+Rematch
+Tuber
+Ricky
+Reward:
+$
+108
+/
+120
+/
+132
+/
+144
+Linoone
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Tuber
+Lola
+*
+Reward:
+$
+104
+/
+116
+/
+128
+Marill
+♀
+Lv.
+26
+/
+29
+/
+32
+No item
+Marill
+♀
+Lv.
+26
+/
+29
+/
+32
+No item
+Tuber
+Lola
+*
+Reward:
+$
+140
+Azumarill
+♀
+Lv.
+35
+No item
+Azumarill
+♀
+Lv.
+35
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+Water's edge, west-northwest of Mr. Briney's ship (hidden)
+E
+Ether
+Southeast part of the beach (hidden)
+E
+Soft Sand
+From a female Tuber to the northeast of Mr. Briney's ship
+E
+Heart Scale
+×2
+Under the green umbrella to the west (hidden)
+North of the old man and his Zigzagoon (hidden)
+E
+Great Ball
+Under the blue beach towel near the Seashore House (hidden)
+E
+Soda Pop
+×6
+Reward for defeating all three Trainers inside the Seashore House
+E
+Potion
+To the left of the old man with the
+Zigzagoon
+E
+Seashore House
+The hut on the beach's west side is known as the Seashore House, where refreshments are sold to thirsty beachgoers. Defeat all three Trainers inside, then speak to the proprietor. He rewards your effort with a free six-pack of
+Soda Pop
+! From this point on, you can also buy individual bottles at
+$
+300 apiece.
+← Part 2
+Route 104 (south), Petalburg Woods, Route 104 (north), Rustboro City, Route 116, Rusturf Tunnel
+Emerald
+walkthrough
+Slateport City, Route 110, Trick House, Route 103
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

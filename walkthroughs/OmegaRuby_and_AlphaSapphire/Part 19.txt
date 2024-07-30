@@ -1,0 +1,1032 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_19
+Keywords: Route 132, Route 133, Route 134, Sealed Chamber, Island Cave, Desert Ruins, Ancient Tomb
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Routes 132, 133, and 134
+1.1
+Northern path
+1.2
+Central path
+1.3
+Southern path
+1.4
+One Last Treasure
+1.5
+To the Depths
+1.6
+Sealed Chamber
+1.6.1
+Entrance
+1.6.2
+Back Room
+2
+Route 105
+2.1
+Island Cave
+2.1.1
+Entrance
+2.1.2
+Back Room
+3
+Route 111
+3.1
+Desert Ruins
+3.1.1
+Entrance
+3.1.2
+Back Room
+4
+Route 120
+4.1
+Ancient Tomb
+4.1.1
+Entrance
+4.1.2
+Back Room
+5
+Meeting Regigigas
+5.1
+Route 105
+5.1.1
+Island Cave
+Routes 132, 133, and 134
+Route 132
+Route 133
+Route 134
+The waters of Routes
+132
+,
+133
+, and
+134
+hold strong ocean currents that make travel difficult. While moving primarily westbound, these currents can send you sailing in almost any direction. This makes it necessary to revisit the area in order to explore every island.
+Trainers
+Route 132
+Trainer
+Pokémon
+Swimmer ♂
+Gilbert
+Reward:
+$
+592
+Tentacruel
+♂
+Lv.
+37
+No item
+Sharpedo
+♂
+Lv.
+37
+No item
+Black Belt
+Kiyo
+Reward:
+$
+1,280
+Machamp
+♂
+Lv.
+40
+No item
+Fisherman
+Ronald
+Reward:
+$
+1,152
+Gyarados
+♂
+Lv.
+36
+No item
+Gyarados
+♂
+Lv.
+36
+No item
+Gyarados
+♂
+Lv.
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 133
+Trainer
+Pokémon
+Fisherman
+River
+Reward:
+$
+1,248
+Seadra
+♂
+Lv.
+39
+No item
+Bird Keeper
+Beck
+Reward:
+$
+1,560
+Skarmory
+♂
+Lv.
+39
+No item
+Ace Trainer
+Warren
+Reward:
+$
+2,280
+Lairon
+♂
+Lv.
+38
+No item
+Alakazam
+♂
+Lv.
+38
+No item
+Manectric
+♂
+Lv.
+38
+No item
+Backpacker
+Grayson
+Reward:
+$
+936
+Girafarig
+♂
+Lv.
+39
+No item
+Swimmer ♀
+Debra
+Reward:
+$
+624
+Corsola
+♀
+Lv.
+39
+No item
+Swimmer ♂
+Franklin
+Reward:
+$
+576
+Whiscash
+♂
+Lv.
+36
+No item
+Seadra
+♂
+Lv.
+36
+No item
+Swimmer ♀
+Linda
+Reward:
+$
+592
+Pelipper
+♀
+Lv.
+37
+No item
+Seaking
+♀
+Lv.
+37
+No item
+Swimmer ♀
+Sheryl
+Reward:
+$
+608
+Luvdisc
+♀
+Lv.
+36
+No item
+Pelipper
+♀
+Lv.
+38
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 134
+Trainer
+Pokémon
+Swimmer ♂
+Jack
+Reward:
+$
+608
+Staryu
+Lv.
+36
+No item
+Sharpedo
+♂
+Lv.
+38
+No item
+Swimmer ♀
+Laurel
+Reward:
+$
+576
+Luvdisc
+♀
+Lv.
+36
+No item
+Luvdisc
+♀
+Lv.
+36
+No item
+Luvdisc
+♀
+Lv.
+36
+No item
+Bird Keeper
+Alex
+Reward:
+$
+1,480
+Swellow
+♂
+Lv.
+37
+No item
+Altaria
+♂
+Lv.
+37
+No item
+Black Belt
+Hitoshi
+Reward:
+$
+1,248
+Machoke
+♂
+Lv.
+37
+No item
+Heracross
+♂
+Lv.
+39
+No item
+Dragon Tamer
+Aaron
+Reward:
+$
+2,340
+Shelgon
+♂
+Lv.
+39
+No item
+Kingdra
+♂
+Lv.
+39
+No item
+Ace Trainer
+Elaine
+Reward:
+$
+2,400
+Lairon
+♀
+Lv.
+38
+No item
+Tropius
+♀
+Lv.
+40
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Route 132
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Horsea
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Seadra
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 133
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Horsea
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Seadra
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 134
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Horsea
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Seadra
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Route 132
+Rare Candy
+North side of the northwest island
+OR
+AS
+Protein
+Small central island
+OR
+AS
+TM34
+(
+Sludge Wave
+)
+Southwest shallows, between two sandbars
+OR
+AS
+Route 133
+Big Pearl
+Southern of the two shallows in the northeast
+OR
+AS
+Max Revive
+Southeast island, surrounded by rocks
+OR
+AS
+Calcium
+Central cresent-shaped island
+OR
+AS
+Star Piece
+North side of the northwest island
+OR
+AS
+TM77
+(
+Psych Up
+)
+From a Psychic on the north side of the northwest island
+OR
+AS
+Route 134
+Carbos
+West side of the largest island
+OR
+AS
+Star Piece
+Shallows in the southwest
+OR
+AS
+Heart Scale
+×3
+West side of the largest island, just east of the Carbos (hidden)
+Center of the largest island, east of the Carbos (hidden)
+Islet to the southwest of the largest island (hidden)
+OR
+AS
+TM80
+(
+Rock Slide
+)
+Small southern island, surrounded by rocks
+OR
+AS
+Northern path
+From Route 132's route sign, Surf northwest to Swimmer ♂ Gilbert. Sail west from him to reach a
+Rare Candy
+near Fisherman Ronald on the northwest island. From here, take the northern-most current to the northern shallows of Route 133. Once there, Surf westward to reach the north side of the route's northwest island. Collect the
+Star Piece
+here, and talk to the Psychic to receive
+TM77
+(
+Psych Up
+). From here, sail west to the calm waters on Route 134's north side. Take the current south of here to reach the large, thin island. Fight Black Belt Hitoshi, then collect the
+Carbos
+and two hidden
+Heart Scales
+. Surf west to reach the shallows with Dragon Tamer Aaron.
+Central path
+Fly or Soar back to Route 132. Enter the currents on the south side of the rocky island, then go north to reach a small island with a
+Protein
+. Stand on the isle's northern edge and sail west to reach the northwest island with Fisherman Ronald. Sail southward to ride the current to the southern of two shallows on Route 133, and collect the
+Big Pearl
+there. Surf westward to reach the south side of Route 133's northwest island, and battle Swimmer ♀ Sheryl. Sail west again to battle Bird Keeper Alex in the shallows of Route 134's largest island.
+Southern path
+Fly or Soar back to Route 132. Enter the currents on the south side of the rocky island. Go south to fight Black Belt Kiyo on the crescent-shaped island, then sail from the isle's western-most point to reach an islet with
+TM34
+(
+Sludge Wave
+) between two sandbars. Surf west to an island with Route 133's route sign and a
+Max Revive
+. Sail north through the ring of rocks to reach the route's central island, and battle Fisherman River and collect the
+Calcium
+. Surf west from here to arrive on Route 134's route-sign island, and move to its northwest corner. From here, sail west to an islet with a hidden
+Heart Scale
+. Go west again to the southwest shallows to fight Ace Trainer Elaine and pick up a
+Star Piece
+.
+One Last Treasure
+Fly or Soar back to Route 133 this time. Leave from the island's western or southern side to reach the nearest island with Bird Keeper Beck, Ace Trainer Warren, and Backpacker Grayson. Surf westward to reach some abandoned shallows that extend into Route 134. Sail west from the northwest corner to skirt around a deep pit of water, and arrive in a calm patch of ocean. Circle around the rocks to reach an islet with
+TM80
+(
+Rock Slide
+).
+To the Depths
+After exploring the rest of the area, Fly or Soar back to
+Route 133
+. Pass through the western or southern gap in the ring of rocks to return to the shallows with three Trainers. Surf west to reach the abandoned shallows once more. Jump into the currents from the middle part of the west side to reach the deep, dark pit of water.
+Dive
+beneath the waves and follow the underwater path southward to a sunlit spot. The markings on the nearby wall are an ancient form of writing, and translate to
+Go up here
+.
+Surface in the sunlit spot to emerge in an ancient ruin known as the
+Sealed Chamber
+.
+Sealed Chamber, Entrance
+R
+S
+Sealed Chamber, Back Room
+R
+S
+Sealed Chamber
+The
+Sealed Chamber
+is a mysterious ruin located in the depths of
+Route 134
+. The many stone tablets positioned around the chamber feature the same mysterious writing that was found near the underwater entrance. Solving some of
+Hoenn
+'s oldest mysteries hinges on deciphering this age-old system.
+Entrance
+The first chamber holds ten stone tablets that act as a key to decoding this ancient writing system, known as
+Braille
+. These 28 characters correspond to the 26 letters of the alphabet, as well as the comma and period. Inspect the markings on the cavern's north wall to reveal a phrase, which translates to
+Dig here
+. Using
+the field move
+causes the wall to fall away, granting you access to a second cavern.
+Back Room
+The central ruins are encircled by
+six more stone tablets
+which tell of a powerful Pokémon that was sealed away. The message on the north wall reads,
+First comes
+Relicanth
+. Last comes
+Wailord
+.
+Wailord's pre-evolved form,
+Wailmer
+, can be found in many areas with the
+Good Rod
+or
+Super Rod
+, while Relicanth can be found only in a few underwater areas. Position these Pokémon in their respective places in your party and examine the wall again. This causes a mighty earthquake to rock the Sealed Chamber, while the sound of doors opening echoes from somewhere far away. Three separate ruins have now been opened, and each one holds a legendary Pokémon!
+Route 105
+Island Cave
+Island Cave, exterior
+Island Cave, interior
+The
+Island Cave
+sits on a small isle in the northwest part of
+Route 105
+. Snow covers the floor, and another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Stop and wait unmoving as time passes by you twice.
+Close the message box and stand still at the north wall for two full minutes. Once enough time passes, a secret passage appears out of nowhere!
+Back Room
+Follow the snowy passage to the back cavern, where the legendary Pokémon
+Regice
+awaits. If you fail to catch it, Regice will reappear once you enter the
+Hall of Fame
+.
+Type:
+Ice
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regice
+Lv.
+40
+Bulldoze
+Ground
+Physical
+--
+Curse
+Ghost
+Status
+--
+Ancient Power
+Rock
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Route 111
+Desert Ruins
+Desert Ruins, exterior
+Desert Ruins, interior
+The
+Desert Ruins
+lie among the dunes of
+Route 111
+. Sand is scattered across the floor, and another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Right, right, down, down, then use your strength.
+Close the message box and move exactly as instructed, two steps east and two steps south. Have a Pokémon use
+Strength
+from this location, and a secret passage opens in the north wall!
+Back Room
+Follow the sandy passage to the back cavern, where the legendary Pokémon
+Regirock
+awaits. If you fail to catch it, Regirock will reappear once you enter the
+Hall of Fame
+.
+Type:
+Rock
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regirock
+Lv.
+40
+Bulldoze
+Ground
+Physical
+--
+Curse
+Ghost
+Status
+--
+Ancient Power
+Rock
+Special
+--
+Iron Defense
+Steel
+Status
+--
+Route 120
+Ancient Tomb
+Ancient Tomb, exterior
+Ancient Tomb, interior
+The
+Ancient Tomb
+stands on the southwest plateau of
+Route 120
+. A substance like liquid metal covers the floor, and another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Stand center. Aim to the sky with love and hope and time.
+Close the message box and move to the center of the cave. Have a Pokémon use
+Fly
+from this location, and a secret passage appears out of nowhere!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Registeel
+awaits. If you fail to catch it, Registeel will reappear once you enter the
+Hall of Fame
+.
+Type:
+Steel
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Registeel
+Lv.
+40
+Curse
+Ghost
+Status
+--
+Ancient Power
+Rock
+Special
+--
+Iron Defense
+Steel
+Status
+--
+Amnesia
+Psychic
+Status
+--
+Meeting Regigigas
+Start off by visiting
+Pacifidlog Town
+again, and speak to the girl in the northeast house. Now that you've caught the trio, the girl tells you one of four stories she heard from her grandfather, which serve as hints about an elusive legendary Pokémon.
+"Grandpa used to say that this huge Pokémon sometimes visits our region..."
+"But he said you'll need to wait in the middle when it's bright and Hoenn is overflowing with natural energy. I wonder if he meant you can't meet it at night."
+"But you'll need to have three of its friends with you to meet it... I wonder what Pokémon they are. Does it have to do with the six dots?"
+"But you'll need to have something cold to meet it... I wonder what he meant. Ice cream, maybe?"
+"He told me that it comes to visit this iceberg kind of Pokémon. I can only think of one kind of iceberg Pokémon."
+In order to meet the Regigigas, certain conditions must be met.
+The Hoenn region must be enriched by the energy released by the super-ancient Pokémon's
+Primal Reversion
+in the
+Cave of Origin
+.
+All three
+legendary giants
+must all be included in your party.
+Regice must be given a nickname. To do this, visit the
+Name Rater
+in
+Slateport City
+.
+Regice must also be given a cold item to hold. This may be a
+Never-Melt Ice
+, a
+Casteliacone
+, an
+Icy Rock
+, an
+Icicle Plate
+, or a
+Snowball
+.
+It may be necessary to let a day pass first, if all three giants were caught in a row. Wait until the sun rises again before setting out.
+Route 105
+Island Cave
+After meeting all requirements, return to
+Route 105
+and revisit the
+Island Cave
+. Enter the back cavern during the day and move to the center of the room. An earthquake suddenly rocks the island, and the sound of something large approaching can be heard. If you fail to catch it,
+Regigigas
+will reappear once you enter the
+Hall of Fame
+.
+Type:
+Normal
+Unknown
+Ability:
+Slow Start
+Held item:
+None
+Regigigas
+Lv.
+50
+Foresight
+Normal
+Status
+--
+Revenge
+Fighting
+Physical
+--
+Wide Guard
+Rock
+Status
+--
+Zen Headbutt
+Psychic
+Physical
+--
+← Part 18
+Mauville Hills, New Mauville, Routes 129, 130, and 131, Pacifidlog Town
+Omega Ruby and Alpha Sapphire
+walkthrough
+Sea Mauville, Scorched Slab, Mirage Spots
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

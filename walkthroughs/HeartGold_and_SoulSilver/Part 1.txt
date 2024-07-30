@@ -1,0 +1,435 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_1
+Keywords: Introduction, New Bark Town, Routes 29 and 30, Cherrygrove City, Route 31
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Introduction
+2
+New Bark Town
+2.1
+Home
+2.1.1
+2F
+2.1.2
+1F
+2.2
+A Friendly Face
+2.3
+The Spy
+2.4
+Professor Elm's Lab
+2.5
+Meet Up with Lyra/Ethan
+2.6
+Home
+2.7
+One More Thing
+3
+Route 29
+3.1
+An Apricorn a Day
+Introduction
+After a brief cutscene, press the A Button or
+Start
+on the title screen. The player is first presented with three options,
+Control Info
+,
+Adventure Info
+, and
+No Info Needed
+.
+Control Info
+explains that tapping on the Touch Screen can be used to confirm selections and advance conversations. Different actions may be displayed with the A Button icon on the lower screen, depending on the situation. If the dual-screen icon is shown in the message window, then there are active buttons that may be pressed on the Touch Screen. The various buttons and their effects are then displayed.
+Input
+Effect(s)
++Control Pad
+Moves character; moves cursor in a menu
+A Button
+Interact with people and the environment; select menu options
+B Button
+Cancel a selection; exit a menu
+X Button
+Move within menus
+Y Button
+Use a registered Key Item
+Start
+Opens the
+main menu
+Adventure Info
+gives background information about the player's "grand adventure". It is recommended that the player speak to everyone they find and investigate things wherever they may be, as doing so gathers the information needed to overcome challenges, solve mysteries, and discover the way forward. By overcoming the challenges posed by other Trainers and wild Pokémon, the player will grow stronger, but this is not the game's only goal. The more important objective is the hope that the player meets countless people and, through them, achieves personal growth.
+Selecting
+No Info Needed
+causes the famous Pokémon researcher,
+Professor Oak
+, to appear and introduce new Trainers to the Pokémon world. Next, the player is prompted to select a gender for their character, and to enter the character's name, which may be up to seven characters long. With that done, the player is transported into the world of Pokémon to begin their adventure!
+New Bark Town
+New Bark Town
+Player's bedroom
+The journey begins in
+New Bark Town
+, in the southeast part of the
+Johto
+region. It is a rather small, sleepy town with only four buildings. The northeastern house belongs to you and
+Mom
+, while the southeastern one is home to your friend,
+Lyra
+/
+Ethan
+. The large building to the north is Elm's Laboratory, where the resident researcher of the Johto region lives with his family on the second floor. The west side of town leads to the
+tall grasses
+of
+Route 29
+, and the waters to the east open up to
+Route 27
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+First partner Pokémon
+Chikorita
+HG
+SS
+Gift
+5
+One
+Cyndaquil
+HG
+SS
+Gift
+5
+One
+Totodile
+HG
+SS
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+×6
+Elm's Lab; from Elm's aide, after receiving a first partner Pokémon (×5)
+On the spot where Silver was standing (hidden)
+HG
+SS
+Pokégear
+Home; from
+Mom
+, after receiving a first partner Pokémon
+HG
+SS
+Later visit
+Everstone
+Elm's Lab; from Professor Elm, after showing him the
+Mystery Egg
+Togepi
+HG
+SS
+Master Ball
+Elm's Lab; from Professor Elm, after earning the eight
+Johto
+Badges
+HG
+SS
+S.S. Ticket
+Elm's Lab; from Professor Elm, after entering the
+Hall of Fame
+HG
+SS
+Home
+2F
+The journey begins in your bedroom. The
+PC
+can be used to access your Mailbox and view any
+Mail
+that you may have received. There is already one entry stored here, a message from your friend,
+Lyra
+/
+Ethan
+, that proclaims their love of Pokémon.
+1F
+Mom
+is sitting at the table, and approaches you when you walk downstairs. She tells you that
+Lyra
+/
+Ethan
+was just here, playing hide-and-seek with their
+Marill
+. She suddenly remembers that
+Professor Elm
+has been looking for you, as he has a favor to ask, and reminds you that his laboratory is located right next door. She then prepares you to go out by handing you your
+Bag
+and
+Trainer Card
+.
+Buttons for Bag, Trainer Card, Save, and Options now appear on the Touch Screen.
+To leave the house, step on the floor mat along the south wall and press Down on the +Control Pad.
+A Friendly Face
+When you first step outside, a
+Marill
+excitedly runs up to you, mistaking you for its Trainer.
+Lyra
+/
+Ethan
+leaves the second floor of the lab a moment later, and the two return to their home.
+The Spy
+A young, red-haired man
+can be seen peering into Elm's Lab through a side window. If you try to speak to him, he shoves you back before returning to the window.
+Professor Elm's Lab
+Professor Elm
+has been waiting for you. He gives a bit of background info about his research, explaining that before the Poké Ball was invented, Pokémon used to walk alongside their Trainer, just as
+Lyra
+/
+Ethan
+does with
+Marill
+. He continues, saying that although keeping Pokémon in Poké Balls is convenient, there must be advantages to having them walk alongside people, as it may affect their growth or evolution. Elm declares that he is going to give you a Pokémon, and asks that you let it travel outside of its Poké Ball to find out if his research is true. He directs you to a large machine with three Poké Balls to choose from.
+Before you can do so, Elm notices that he has received an email. An acquaintance of his, nicknamed
+Mr. Pokémon
+, studies Pokémon as a hobby and regularly contacts the professor about his findings. Elm suggests that these discoveries are not usually as exciting as they are made out to be, and assumes it to be another
+Pokémon Egg
+. He and his aides are busy with their research, so he asks that you go in his place. To accompany you on the trip, he lets you choose one of his rare Pokémon. Each has its advantages and disadvantages, so simply choose the one that you like the best.
+Chikorita
+Cyndaquil
+Totodile
+Grass
+Fire
+Water
+Bayleef
+Quilava
+Croconaw
+Grass
+Fire
+Water
+Meganium
+Typhlosion
+Feraligatr
+Grass
+Fire
+Water
+The
+Grass-type
+Chikorita
+does well against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon. It also has the most weaknesses of the trio, and fares poorly against
+Fire
+-,
+Flying
+-,
+Bug
+-,
+Poison
+-, and
+Ice-type
+attacks. Chikorita may struggle early on, making it better suited for those looking for a challenge.
+The
+Fire-type
+Cyndaquil
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+-,
+Rock
+-, and
+Ground-type
+moves. Cyndaquil's typing gives it an easier time in the early part of the game, making it a good choice for less experienced Trainers.
+The
+Water-type
+Totodile
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+- and
+Electric-type
+attacks. It is the most well-rounded of the trio.
+After choosing your
+first partner Pokémon
+, you are given the chance to choose a
+nickname
+for it. A nickname may be up to ten characters long. The young Pokémon pops out of its Poké Ball, and Elm tells you that you may use the machine behind him to heal your Pokémon at any time. He informs you that
+Mr. Pokémon
+lives a short distance from
+Cherrygrove City
+, to the west of
+New Bark Town
+.
+As you leave the building, his aide gives you five
+Potions
+.
+Meet Up with Lyra/Ethan
+When you leave the lab with your new Pokémon,
+Lyra
+/
+Ethan
+and
+Marill
+are waiting for you. She/He is excited to see the Pokémon that you chose, and suggests showing it to
+Mom
+.
+Home
+Speak to
+Mom
+, and she compliments your new Pokémon. After learning about Elm's task, she tells you that your
+Pokégear
+is back from the repair shop, and hands it to you.
+The Pokégear button now appears on the Touch Screen.
+She goes on to explain that the Pokégear is a handy device that every Trainer should have. It can even make phone calls by selecting the Phone icon and tapping on the name of a registered contact. The device has one contact listed, as Mom's phone number is already included.
+One More Thing
+As you approach
+Route 29
+,
+Professor Elm
+leaves his lab and catches up to you. He forgot to do this earlier, and gives you his phone number for your
+Pokégear
+.
+Route 29
+Route 29
+Route 29
+is a hilly path that runs west from
+New Bark Town
+to
+Cherrygrove City
+. Westbound travelers must pass through patches of
+tall grass
+, while eastbound travelers can jump over a series of
+ledges
+to avoid these grasses and the wild Pokémon inside. To the north,
+Route 46
+leads down from the mountains.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+2-4
+55%
+55%
+0%
+Rattata
+HG
+SS
+Grass
+4
+5%
+5%
+0%
+Rattata
+HG
+SS
+Grass
+2, 4
+0%
+0%
+15%
+Sentret
+HG
+SS
+Grass
+2-3
+40%
+40%
+0%
+Hoothoot
+HG
+SS
+Grass
+2-4
+0%
+0%
+85%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+East of the northeastern grass patch
+HG
+SS
+Later visit
+Poké Ball
+×5
+From Lyra/Ethan, after demonstrating how to catch a Pokémon
+HG
+SS
+Grn Apricorn
+Northwest hill; on the Apricorn tree (daily; requires
+Apricorn Box
+)
+HG
+SS
+Twisted Spoon
+South side; from
+Tuscany
+Tu
+, after earning the
+Zephyr Badge
+HG
+SS
+Shock Ribbon
+South side; from
+Tuscany
+Tu
+, after meeting all of the Week Siblings
+HG
+SS
+An Apricorn a Day
+The tree on the northwest hill is an
+Apricorn
+Tree. Apricorns are a type of fruit that can be processed into Poké Balls, or blended into drinks that improve a Pokémon's
+athletic performance
+. There are seven variations of the fruit, with this particular tree producing
+Green Apricorns
+. These trees produce one Apricorn per day. However, it is impossible to pick any yet without a container in which to store them.
+HeartGold and SoulSilver
+walkthrough
+Cherrygrove City, Route 30, Mr. Pokémon's house
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

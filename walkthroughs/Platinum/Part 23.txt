@@ -1,0 +1,1048 @@
+Part: Part 23
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_23
+Keywords: Distortion World, Victory Road, Route 224
+
+Walkthrough Text:
+Contents
+1
+Distortion World
+2
+Victory Road
+2.1
+1F
+2.2
+B1F (deep area)
+3
+Route 224
+Distortion World
+Distortion World (new area)
+Items
+Item
+Location
+Games
+Griseous Orb
+Accessible via the
+Turnback Cave
+entrance
+Pt
+This time around, you do not have to worry about getting lost. Follow the path until you find the
+Griseous Orb
+. The Griseous Orb, when held by Giratina, will allow it to maintain its
+Origin Forme
+outside of the Distortion World.
+When finished in the Distortion World, use the portal to return to Turnback Cave. Any doorway from the portal room will take you back to the entrance room.
+Victory Road
+You will need the HMs
+Surf
+,
+Waterfall
+,
+Rock Climb
+,
+Strength
+, and
+Defog
+.
+A good diverse team for this area is recommended as the Trainers use a lot of different
+types
+.
+1F
+Fly
+to the
+Pokémon League
+'s upper half and, after descending the waterfall, enter
+Victory Road
+from there. Use Rock Climb to go down and head for the nearby stairs you saw earlier. Now that you are Champion and have the National Pokédex, the door in the eastern side of this area is no longer blocked off.
+B1F (deep area)
+Available Pokémon (Entrance area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+50
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+49-50
+0%
+0%
+15%
+Graveler
+D
+P
+Pt
+Cave
+47-49
+30%
+30%
+0%
+Graveler
+D
+P
+Pt
+Cave
+47
+0%
+0%
+20%
+Onix
+D
+P
+Pt
+Cave
+48,50
+20%
+Steelix
+D
+P
+Pt
+Cave
+50
+5%
+Floatzel
+D
+P
+Pt
+Cave
+47-49
+35%
+Gabite
+D
+P
+Pt
+Cave
+50
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (Main area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+50
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+47,50
+0%
+0%
+15%
+Graveler
+D
+P
+Pt
+Cave
+47,49
+15%
+15%
+0%
+Graveler
+D
+P
+Pt
+Cave
+49
+0%
+0%
+5%
+Dewgong
+D
+P
+Pt
+Cave
+48,50
+15%
+Azumarill
+D
+P
+Pt
+Cave
+47,49
+30%
+Floatzel
+D
+P
+Pt
+Cave
+48,50
+30%
+Gabite
+D
+P
+Pt
+Cave
+49
+5%
+Surfing
+Dewgong
+D
+P
+Pt
+Surfing
+35-55
+30%
+Lapras
+D
+P
+Pt
+Surfing
+35-55
+10%
+Floatzel
+D
+P
+Pt
+Surfing
+35-55
+60%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+100%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (Exit area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+49
+5%
+5%
+15%
+Graveler
+D
+P
+Pt
+Cave
+47-49
+30%
+30%
+0%
+Graveler
+D
+P
+Pt
+Cave
+47
+0%
+0%
+20%
+Onix
+D
+P
+Pt
+Cave
+48,50
+20%
+Steelix
+D
+P
+Pt
+Cave
+50
+5%
+Floatzel
+D
+P
+Pt
+Cave
+47-49
+35%
+Gabite
+D
+P
+Pt
+Cave
+50
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Micah
+Reward:
+$
+6480
+Metang
+Lv.
+55
+No item
+Ludicolo
+♂
+Lv.
+56
+No item
+Ace Trainer
+Brandi
+Reward:
+$
+6480
+Marowak
+♀
+Lv.
+54
+No item
+Kangaskhan
+♀
+Lv.
+57
+No item
+Psychic
+Desiree
+Reward:
+$
+3520
+Mr. Mime
+♀
+Lv.
+54
+No item
+Mismagius
+♀
+Lv.
+54
+No item
+Psychic
+Landon
+Reward:
+$
+3520
+Shuppet
+♂
+Lv.
+53
+No item
+Alakazam
+♂
+Lv.
+55
+No item
+Black Belt
+Eddie
+Reward:
+$
+5712
+Mankey
+♂
+Lv.
+51
+No item
+Machoke
+♂
+Lv.
+53
+No item
+Infernape
+♂
+Lv.
+55
+No item
+Veteran
+Terrell
+Reward:
+$
+5712
+Parasect
+♂
+Lv.
+53
+No item
+Rhydon
+♂
+Lv.
+54
+No item
+Magmar
+♂
+Lv.
+55
+No item
+Dragon Tamer
+Joe
+Reward:
+$
+3616
+Dratini
+♂
+Lv.
+52
+No item
+Gabite
+♂
+Lv.
+56
+No item
+Bird Keeper
+Autumn
+Reward:
+$
+3616
+Murkrow
+♀
+Lv.
+54
+No item
+Xatu
+♀
+Lv.
+54
+No item
+Psychic
+Deandre
+Reward:
+$
+3552
+Dusknoir
+♂
+Lv.
+56
+No item
+Psychic
+Kendra
+Reward:
+$
+3552
+Chimecho
+♀
+Lv.
+52
+No item
+Haunter
+♀
+Lv.
+52
+No item
+Gengar
+♀
+Lv.
+55
+No item
+Black Belt
+Willie
+Reward:
+$
+5664
+Heracross
+♂
+Lv.
+54
+No item
+Machamp
+♂
+Lv.
+54
+No item
+Veteran
+Brenden
+Reward:
+$
+5664
+Forretress
+♂
+Lv.
+54
+No item
+Gyarados
+♂
+Lv.
+54
+No item
+Hippowdon
+♂
+Lv.
+54
+No item
+Ace Trainer
+Arthur
+Reward:
+$
+6540
+Gastrodon
+♂
+West Sea
+Lv.
+54
+No item
+Beedrill
+♂
+Lv.
+54
+No item
+Electrode
+Lv.
+55
+No item
+Ace Trainer
+Clarice
+Reward:
+$
+6540
+Swalot
+♀
+Lv.
+53
+No item
+Ninetales
+♀
+Lv.
+54
+No item
+Magnezone
+Lv.
+56
+No item
+Items
+Item
+Location
+Games
+Rare Candy
+South of the maze of boulders
+(hidden)
+Pt
+Ultra Ball
+×2
+In a dead end in the maze of boulders, south-west of Psychics Deandre and Kendra
+(hidden)
+In the middle of the patch of land at the north-east corner of the lake in the south-west corner of the room (requires
+Surf
+)
+(hidden)
+Pt
+Dusk Stone
+Northwest corner of the room, behind
+Strength
+boulders (north way)
+Pt
+Full Restore
+Northwest corner of the room, behind
+Strength
+boulders (south way)
+Pt
+Heart Scale
+On a boulder between
+Veteran
+Terrell and Dragon Tamer Joe (requires
+Strength
+)
+(hidden)
+Pt
+HP Up
+West of the door which leads upstairs
+(hidden)
+Pt
+Nugget
+Northeast of the lake northeast of Psychics Deandre and Kendra (requires either
+Surf
+or
+Strength
+)
+Pt
+Leftovers
+Southeast corner of the lake in the south-west corner of the room (requires
+Surf
+)
+Pt
+When you arrive, clear the fog. You'll quickly encounter a girl named
+Marley
+who would like an escort through the tunnel. Just like the other
+Multi Battle partners
+, she'll completely heal your team after each battle.
+Pokémon Trainer
+Marley
+Victory Road (Sinnoh)
+Platinum
+Reward:
+None
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+59
+Fire Fang
+Fire
+Physical
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Agility
+Psychic
+Status
+--
+This area is a maze and as long as Marley is with you, you cannot use Surf as a means of creating a shortcut. From where you first met her, use Strength on the nearby boulder and go north. Continue traveling north, carefully moving boulders out of the way, while defeating Trainers. Getting both items in the northwestern part of the room requires two separate trips due to a boulder puzzle.
+Now, travel east and continue moving boulders. Once you reach the end of the path, travel south and follow the path east. Once you get past two more Trainers, you'll find the exit and Marley will leave you. Before leaving, Surf around to pick up the items that were inaccessible before. Also,
+Ace Trainers
+Arthur and Clarice are located in the southeastern area of the room and can only be accessed after Marley has left. When ready, follow the path to the exit to enter
+Route 224
+.
+Route 224
+Route 224
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+D
+P
+Pt
+Grass
+49
+0%
+0%
+20%
+Gloom
+D
+P
+Pt
+Grass
+51
+5%
+Bellsprout
+D
+P
+Pt
+Grass
+49
+20%
+20%
+0%
+Weepinbell
+D
+P
+Pt
+Grass
+51
+5%
+Beautifly
+D
+P
+Pt
+Grass
+52
+5%
+Dustox
+D
+P
+Pt
+Grass
+52
+5%
+Pelipper
+D
+P
+Pt
+Grass
+51
+10%
+Roselia
+D
+P
+Pt
+Grass
+50
+20%
+Floatzel
+D
+P
+Pt
+Grass
+50
+20%
+Gastrodon
+D
+P
+Pt
+Grass
+49
+10%
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+35-55
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+35-55
+60%
+Gastrodon
+D
+P
+Pt
+Surfing
+35-55
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+60%
+Octillery
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Luvdisc
+D
+P
+Pt
+Fishing
+Super Rod
+20-30
+5%
+Swarm
+Natu
+D
+P
+Pt
+Swarm
+50
+40%
+Special Pokémon
+Shuckle
+D
+P
+Pt
+Dual-slot
+Emerald
+52
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Ruben
+ハルノブ
+Harunobu
+Reward:
+$
+3240
+Nuzleaf
+♂
+Lv.
+56
+No item
+Gyarados
+♂
+Lv.
+57
+No item
+Psychic
+Brittney
+ジョンイ
+Jong-i
+Reward:
+$
+1472
+Drowzee
+♀
+Lv.
+55
+No item
+Alakazam
+♀
+Lv.
+57
+No item
+Psychic
+Maxwell
+ヨウマ
+Yōma
+Reward:
+$
+1728
+Misdreavus
+♂
+Lv.
+58
+No item
+Haunter
+♂
+Lv.
+54
+No item
+Veteran
+Armando
+ゴロウマル
+Gorōmaru
+Reward:
+$
+4320
+Muk
+♂
+Lv.
+53
+No item
+Mightyena
+♂
+Lv.
+53
+No item
+Lickitung
+♂
+Lv.
+56
+No item
+Black Belt
+Carl
+タダシ
+Tadashi
+Reward:
+$
+1334
+Tyrogue
+♂
+Lv.
+55
+No item
+Hitmonlee
+♂
+Lv.
+59
+No item
+Ruin Maniac
+Larry
+シゲオ
+Shigeo
+Reward:
+$
+2736
+Aerodactyl
+♂
+Lv.
+57
+No item
+Ace Trainer
+Jamie
+ヒトミ
+Hitomi
+Reward:
+$
+3360
+Metagross
+Lv.
+60
+No item
+Dragon Tamer
+Hayden
+タツキ
+Tatsuki
+Reward:
+$
+1824
+Altaria
+♂
+Lv.
+56
+No item
+Seadra
+♂
+Lv.
+56
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Zinc
+South-east of the entrance to
+Victory Road
+(hidden)
+Pt
+Up-Grade
+In the large patch of grass north-west of
+Ace Trainer
+Ruben
+Pt
+PP Max
+South-west of the Berry trees (Requires
+Surf
+)
+Pt
+Ultra Ball
+×2
+South of Berry trees
+(hidden)
+On left side of island south-east of white rock (Requires
+Surf
+)
+Pt
+Sitrus Berry
+×2
+Berry patch north of the beach
+Pt
+Bluk Berry
+×3
+Berry patch north of the beach
+Pt
+Nanab Berry
+×3
+Berry patch north of the beach
+Pt
+Wepear Berry
+×3
+Berry patch north of the beach
+Pt
+Rare Candy
+Narrow patch of grass north-west of
+Veteran
+Armando
+(hidden)
+Pt
+Razor Claw
+On the strip of land southeast of the entrance to
+Victory Road
+(Requires
+Surf
+)
+Pt
+Pearl
+×2
+On the beach south-west of
+Black Belt
+Carl
+(hidden)
+North-easternmost rock of the beach
+(hidden)
+Pt
+Heart Scale
+On the beach north of
+Black Belt
+Carl
+(hidden)
+Pt
+Big Pearl
+On the beach just right of the big rock
+(hidden)
+Pt
+Repeat Ball
+On right side of island south-east of white rock (Requires
+Surf
+)
+Pt
+Destiny Knot
+North-east of Dragon Tamer Hayden
+Pt
+If you need to return to the Pokémon League at any time to heal your team, the good news is that you won't need Strength to navigate through Victory Road B1F again, as Surf alone will make it easy to come and go from Route 224.
+The Trainers on this route, much like the ones you just dealt with in Victory Road, have diverse teams and can be tricky to defeat unless you are prepared. There are also some maze-like areas around this route that require a little navigation. You will need Surf to access the
+Berry
+patch on this route and to collect some of the items. Other than that, this should be a straightforward route.
+Once you're finished here, Fly to
+Snowpoint City
+.
+← Part 22
+Trophy Garden, Pal Park, Fullmoon Island, Snowpoint Temple, Spear Pillar, Turnback Cave
+Platinum
+walkthrough
+Fight Area, Route 225, Survival Area, Route 226, Route 227
+Part 24 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,63 @@
+Game: Crystal
+Part: 14
+Keywords: Route 27, Route 26, Victory Road
+
+**Part 14 Walkthrough: Route 27, Route 26, Victory Road**
+
+**New Bark Town**
+- **Elm's Lab**: Receive a Master Ball from Professor Elm; best used for Legendary Pokémon.
+- **Leaving Home**: Surf east from New Bark Town to reach Route 27.
+
+**Route 27**
+- Connects New Bark Town to Route 26. Navigate through Tohjo Falls.
+- **Trainers**: 
+  - **Cooltrainer Megan**: $1536, Bulbasaur family.
+  - **Cooltrainer Blake**: $1488, Magneton, Quagsire, Exeggcute.
+  - **Bird Keeper Jose**: $816, Farfetch'd (requires Surf).
+  - **Cooltrainer Brian**: $1680, Sandslash.
+  - **Psychic Gilbert**: $1088, Starmie, Exeggcute, Girafarig.
+  - **Cooltrainer Reena**: $1488, Starmie, Nidoqueen.
+
+- **Items**: 
+  - Rare Candy: East-southeast of Tohjo Falls (requires Surf).
+  - TM37 (Sandstorm): From an elderly woman outside Tohjo Falls if your lead Pokémon is friendly.
+  - TM22 (SolarBeam): South of the bridge (requires Surf, Whirlpool).
+  - Star Piece: Reward from Bird Keeper Jose.
+
+**Tohjo Falls**
+- Requires HM07 (Waterfall) and Rising Badge to proceed.
+- **Items**: Moon Stone at the dead-end path west of the waterfalls (requires Surf).
+
+**Route 26**
+- Major route leading to Pokémon League Reception Gate.
+- **Trainers**: 
+  - **Fisher Scott**: $1360, Qwilfish.
+  - **Psychic Richard**: $1152, Espeon.
+  - **Cooltrainer Joyce**: $1536, Pikachu, Blastoise.
+  - **Cooltrainer Gaven**: $1536, Victreebel, Kingler, Flareon.
+  - **Cooltrainer Jake**: $1680, Parasect, Golduck.
+  - **Cooltrainer Beth**: $1728, Rapidash.
+
+- **Items**: 
+  - Ice Berry: On a tree halfway through the route (daily).
+  - Max Elixir: Near the Pokémon League gate.
+  - Rest stop: Heal your Pokémon at the house on the eastern road.
+  - Week Siblings give type-enhancing items based on the day.
+
+**Pokémon League Reception Gate**
+- Present all eight Johto Badges to enter Victory Road.
+
+**Victory Road**
+- A challenging cave leading to Indigo Plateau.
+- **Trainers**: None inside, but prepare for a final battle with Silver.
+  
+- **Ambush**: Rival battle against Silver with evolved Pokémon.
+  - **Silver's Team**: Varied levels based on your chosen starter (Chikorita, Cyndaquil, Totodile).
+  
+- **Items**: 
+  - Full Heal x2, Max Revive on 1F.
+  - HP Up, Full Restore, TM26 (Earthquake), Max Potion on 2F and 3F.
+
+- **Strategy**: Prepare for Silver's team with strong counters (Psychic, Bug, Dark types).
+
+After defeating Silver, exit to Indigo Plateau, the site of the Pokémon League.

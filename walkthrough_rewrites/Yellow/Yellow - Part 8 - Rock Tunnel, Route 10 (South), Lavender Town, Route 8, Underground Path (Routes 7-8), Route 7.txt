@@ -1,0 +1,56 @@
+Game: Yellow
+Part: 8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+### Pokémon Yellow Walkthrough: Part 8
+
+#### Rock Tunnel
+- **Overview**: Rock Tunnel is dark. Bring a Pokémon with **Flash** to navigate.
+- **Trainers**:
+  - **1F**: 
+    - PokéManiac (Cubone, Slowpoke)
+    - Hikers (Geodude, Machop, Onix)
+    - Jr. Trainers (Bellsprout, Clefairy, Pidgey, Rattata, Meowth, Oddish)
+  - **B1F**: 
+    - PokéManiac (Slowpoke, Charmander, Cubone)
+    - Hikers (Geodude, Machop, Onix)
+    - Jr. Trainers (Oddish, Jigglypuff, Meowth)
+
+- **Available Pokémon**:
+  - **1F**: Zubat (15-21), Geodude (16-20), Machop (17-21)
+  - **B1F**: Zubat (20-22), Geodude (17, 21), Machop (18, 20), Onix (14-22)
+
+#### Route 10 (South)
+- Shorter than the north path; several Trainers here.
+- **Trainers**:
+  - Jr. Trainer (Pidgey, Pidgeotto)
+  - Hikers (Geodude, Onix)
+  - PokéManiac (Cubone, Slowpoke)
+
+- **Items**: Max Ether (East of Rock Tunnel exit, hidden)
+
+#### Lavender Town
+- **Key Locations**:
+  - **Name Rater**: Change Pokémon nicknames for free.
+  - **Volunteer Pokémon House**: Cares for orphaned Pokémon.
+  - **Pokémon Tower**: Contains Ghost-type Pokémon and a Rival battle.
+
+- **Rival Battle 5** occurs on the second floor of Pokémon Tower. You can delay this battle.
+
+#### Route 8
+- Connects Lavender Town and Saffron City. 
+- **Trainers**:
+  - Various Trainers including Lasses and Super Nerds.
+- **Available Pokémon**: Pidgey, Abra, Rattata, Pidgeotto, Jigglypuff.
+
+#### Underground Path
+- Cannot access Saffron City yet; use the second Underground Path to reach Route 7.
+- **Items**: 
+  - Nugget (35 steps west of Route 8 stairway, hidden)
+  - Elixir (19 steps east of Route 7 stairway, hidden)
+
+#### Route 7
+- Links Saffron City and Celadon City.
+- **Available Pokémon**: Similar to Route 8.
+
+This concludes Part 8 of the walkthrough. Follow the paths, defeat trainers, and collect items as you progress!

@@ -1,0 +1,1250 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_10
+Keywords: Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+
+Walkthrough Text:
+Contents
+1
+Mistralton City
+1.1
+The TM Collector
+1.2
+Meet Professor Juniper and Skyla
+1.3
+Mistralton Cargo Service
+1.4
+The Runway
+2
+Route 7
+2.1
+Trade with a Hiker
+2.2
+Celestial Tower
+2.2.1
+Catch up with Juniper
+2.2.2
+The Nurse
+2.2.3
+Ring the Bell
+2.3
+The Eastern House
+2.4
+Mom Checks In
+2.5
+Twist Mountain
+3
+Mistralton City
+3.1
+Mistralton Gym
+3.1.1
+Easy Mode/Normal Mode
+3.1.2
+Challenge Mode
+3.2
+Juniper returns from Celestial Tower
+3.3
+The Kids' Treasure
+3.4
+Mistralton Cargo Service
+Mistralton City
+Mistralton City
+B
+Half of
+Mistralton City
+is occupied by a large runway, with the
+Mistralton Gym
+at the north end. Vegetables harvested from around this runway are transported all over the world. To the north is
+Route 7
+, which leads to the
+Celestial Tower
+.
+Items
+Item
+Location
+Games
+HP Up
+×6
+From a woman in the southeast house when the number of TMs collected reaches 10, 20, 35, 50, 70, and 95
+B2
+W2
+Iron
+In the southeast house, in the trash can (hidden)
+B2
+W2
+Master Ball
+From Professor Juniper, west of the Pokémon Center
+B2
+W2
+Sharp Beak
+From the female Veteran in the Cargo Service building
+B2
+W2
+Net Ball
+×5
+From the Worker in the Cargo Service building, after talking to him with a
+Flying
+- or
+Psychic-type
+in your party
+B2
+W2
+Flying Gem
+Between the two northernmost planes (hidden)
+B2
+W2
+TM58
+(
+Sky Drop
+)
+On the runway, south of the Cargo Service
+B2
+W2
+Max Repel
+South of the runway, between the greenhouses
+B2
+or fields
+W2
+B2
+W2
+Fresh Water
+From Clyde in the Gym
+B2
+W2
+After defeating Skyla
+TM55
+(
+Acrobatics
+)
+From Skyla for defeating her
+B2
+W2
+TM40
+(
+Aerial Ace
+)
+South end of the runway, after talking to the Youngster in the northern house
+B2
+W2
+The TM Collector
+Visit the house to the east of the Pokémon Center, and talk to the woman inside. She will give you an
+HP Up
+when the number of TMs you have collected reaches 10, 20, 35, 50, and 70, and one more when you collect all 95.
+Meet Professor Juniper and Skyla
+Professor Juniper
+appears when you walk north past the Pokémon Center. She thanks you for accepting the
+Pokédex
+, then evaluates your progress. She rewards you with a
+Master Ball
+, the ultimate Poké Ball which will never fail. It cannot be purchased, but can be won as the top prize in
+Join Avenue
+'s Raffle Shop.
+Mistralton Gym Leader
+Skyla
+approaches as Juniper is talking to you. The professor had asked to be flown somewhere in her plane, but leaves to visit
+Celestial Tower
+first.
+Mistralton Cargo Service
+The Maid in Mistralton Cargo Service gives you a
+Heart Scale
+in exchange for 10
+Sweet Hearts
+. But from February 14 to March 14, you only need to trade five Sweet Hearts to get a Heart Scale.
+Talk to the Worker at the east side of the counter when you have a
+Flying
+- or
+Psychic-type
+Pokémon in your party. He gives you five
+Net Balls
+as thanks for helping him load the cargo onto a plane.
+The Runway
+Talk to the Backpacker on the southwest part of the runway to add a new
+Funfest Mission
+,
+Big Harvest of Berries
+.
+On the southeast part of the runway, a Pokémon Breeder will pay
+$
+1,000 for any of the four types of
+Mulch
+. Mulch can be found in
+Hidden Grottoes
+, or purchased at
+Join Avenue
+'s Flower Shop.
+Route 7
+Route 7
+Route 7
+is thick with patches of tall grass. There are raised walkways everywhere, which can be used to avoid the local wildlife.
+Celestial Tower
+is located directly to the north, while
+Twist Mountain
+stands off to the northeast.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Marcus
+Reward:
+$
+1088
+*
+Ducklett
+♂
+Lv.
+34
+No item
+Tranquill
+♂
+Lv.
+34
+No item
+Youngster
+Cody
+Reward:
+$
+528
+Rotation Battle
+Stoutland
+♂
+Lv.
+33
+No item
+Deerling
+♂
+Spring Form
+Lv.
+33
+No item
+Deerling
+♂
+Spring Form
+Lv.
+33
+No item
+Lass
+Flo
+Reward:
+$
+528
+Triple Battle
+Ducklett
+♀
+Lv.
+33
+No item
+Unfezant
+♀
+Female
+Lv.
+33
+No item
+Ducklett
+♀
+Lv.
+33
+No item
+Nursery Aide
+Hollie
+Reward:
+$
+1360
+Cleffa
+♀
+Lv.
+34
+No item
+Cinccino
+♀
+Lv.
+34
+No item
+Preschooler
+Greg
+Reward:
+$
+136
+Sunflora
+♂
+Lv.
+34
+No item
+Preschooler
+Chrissy
+Reward:
+$
+136
+Darumaka
+♂
+Lv.
+34
+No item
+Twins
+Sola & Ana
+Reward:
+$
+528
+Seviper
+♀
+Lv.
+33
+No item
+Zangoose
+♀
+Lv.
+33
+No item
+Harlequin
+Pat
+Reward:
+$
+1120
+Baltoy
+Lv.
+35
+No item
+Harlequin
+Ian
+Reward:
+$
+1120
+Baltoy
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tranquill
+B2
+W2
+Tall grass
+30-32
+30%
+30%
+30%
+10%
+Cubchoo
+B2
+W2
+Tall grass
+30-33
+-
+-
+-
+25%
+Zebstrika
+B2
+W2
+Tall grass
+31-33
+20%
+Deerling
+B2
+W2
+Tall grass
+30
+20%
+-
+-
+-
+Deerling
+B2
+W2
+Tall grass
+30
+-
+20%
+-
+-
+Deerling
+B2
+W2
+Tall grass
+30
+-
+-
+20%
+-
+Deerling
+B2
+W2
+Tall grass
+30
+-
+-
+-
+20%
+Watchog
+B2
+W2
+Tall grass
+31-33
+15%
+15%
+15%
+10%
+Zangoose
+B2
+W2
+Tall grass
+32
+5%
+Seviper
+B2
+W2
+Tall grass
+32
+5%
+Foongus
+B2
+W2
+Tall grass
+33
+5%
+Dark grass
+Tranquill
+B2
+W2
+Tall grass
+33-35
+30%
+30%
+30%
+10%
+Cubchoo
+B2
+W2
+Tall grass
+33-36
+-
+-
+-
+25%
+Deerling
+B2
+W2
+Tall grass
+33
+20%
+-
+-
+-
+Deerling
+B2
+W2
+Tall grass
+33
+-
+20%
+-
+-
+Deerling
+B2
+W2
+Tall grass
+33
+-
+-
+20%
+-
+Deerling
+B2
+W2
+Tall grass
+33
+-
+-
+-
+20%
+Zebstrika
+B2
+W2
+Tall grass
+34-36
+20%
+Watchog
+B2
+W2
+Tall grass
+34-36
+15%
+15%
+15%
+10%
+Zangoose
+B2
+W2
+Tall grass
+35
+5%
+Seviper
+B2
+W2
+Tall grass
+35
+5%
+Foongus
+B2
+W2
+Tall grass
+36
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+30-33
+85%
+Emolga
+B2
+W2
+Rustling grass
+31
+10%
+Unfezant
+B2
+W2
+Rustling grass
+33
+5%
+Swarm
+Furret
+B2
+W2
+Grass
+40-55
+40%
+Hidden Grotto
+Zangoose
+B2
+W2
+Hidden Grotto
+30-35
+Uncommon
+Seviper
+B2
+W2
+Hidden Grotto
+30-35
+Uncommon
+Watchog
+B2
+W2
+Hidden Grotto
+30-35
+Uncommon
+Cubchoo
+B2
+W2
+Hidden Grotto
+30-35
+Rare
+Special Pokémon
+Gigalith
+B2
+W2
+Trade
+Emolga
+35
+One
+Foongus
+B2
+W2
+Fake item
+36
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zinc
+Near Youngster Cody in the southernmost patch of grass
+B2
+W2
+Leppa Berry
+Held by the Hiker's traded Gigalith
+B2
+W2
+Leaf Stone
+Near Preschooler Greg, in the western grass patch
+B2
+W2
+Elixir
+East of Preschooler Chrissy, near the eastern house
+B2
+W2
+TinyMushroom
+Behind Celestial Tower (hidden,
+regrows
+occasionally)
+B2
+W2
+Revive
+On a rock in front of the eastern house (hidden)
+B2
+W2
+TM81
+(
+X-Scissor
+)
+In the east, near Harlequin Pat
+B2
+W2
+Trade with a Hiker
+In the western house, a Hiker would like to trade. If you have an extra
+Emolga
+, he would gladly trade his
+Gigalith
+for it. Emolga can be found in the rustling grass on Routes
+5
+,
+6
+, and
+7
+. The traded Gigalith arrives holding a
+Leppa Berry
+.
+Celestial Tower
+Celestial Tower, 1F
+Celestial Tower
+is a five-floor tower that was built as a memorial to departed Pokémon. On the rooftop is a large bell whose tones are said to comfort the spirits.
+Trainers
+Trainer
+Pokémon
+2F
+Psychic
+Joyce
+Reward:
+$
+1152
+Musharna
+♀
+Lv.
+36
+No item
+School Kid
+Alberta
+Reward:
+$
+700
+Litwick
+♀
+Lv.
+35
+No item
+Pokéfan
+Jude
+Reward:
+$
+2240
+Clefairy
+♀
+Lv.
+35
+No item
+3F
+Pokéfan
+Georgia
+Reward:
+$
+2240
+Cubchoo
+♀
+Lv.
+35
+No item
+Psychic
+Micki
+Reward:
+$
+1152
+Espeon
+♂
+Lv.
+36
+No item
+Psychic
+Bryce
+Reward:
+$
+1120
+Elgyem
+♂
+Lv.
+35
+No item
+Duosion
+♂
+Lv.
+35
+No item
+Nurse
+Dixie
+Reward:
+$
+1400
+Leavanny
+♀
+Lv.
+35
+No item
+4F
+Socialite
+Grace
+Reward:
+$
+7000
+Roselia
+♂
+Lv.
+35
+No item
+Gentleman
+Daniel
+Reward:
+$
+7000
+Umbreon
+♂
+Lv.
+35
+No item
+Psychic
+Sarah
+Reward:
+$
+1120
+Yamask
+♀
+Lv.
+35
+No item
+Gothorita
+♀
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+2F
+Litwick
+B2
+W2
+2F
+27-30
+100%
+3F
+Litwick
+B2
+W2
+3F
+28-31
+80%
+Elgyem
+B2
+W2
+3F
+30-31
+15%
+Golbat
+B2
+W2
+3F
+31
+5%
+4F
+Litwick
+B2
+W2
+4F
+29-32
+65%
+Elgyem
+B2
+W2
+4F
+30-32
+25%
+Golbat
+B2
+W2
+4F
+32
+10%
+Roof
+Elgyem
+B2
+W2
+Roof
+30-33
+40%
+Litwick
+B2
+W2
+Roof
+30-33
+40%
+Golbat
+B2
+W2
+Roof
+33
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Lucky Egg
+1F; from Professor Juniper
+B2
+W2
+Hyper Potion
+2F; west
+B2
+W2
+TM61
+(
+Will-O-Wisp
+)
+2F; east
+B2
+W2
+Revive
+3F; west
+B2
+W2
+PP Up
+4F; west
+B2
+W2
+TM65
+(
+Shadow Claw
+)
+4F; east
+B2
+W2
+Ghost Gem
+5F; west of the bell platform (hidden)
+B2
+W2
+Catch up with Juniper
+When you catch up to
+Professor Juniper
+on the first floor, she suggests that you try using different items. She hands you a
+Lucky Egg
+, which earns 50% more experience points for its holder than normal.
+The Nurse
+With all the wild
+Litwick
+around, your Pokémon could get
+burned
+by their
+Flame Body
+Ability. Talk to Nurse Dixie on the third floor after defeating her in battle, and she will heal your team to full health.
+Ring the Bell
+Climb up onto the rooftop platform and ring the bell. The pure tone soothes and comforts the departed spirits. Before you leave, check the west side of the roof to find a hidden
+Ghost Gem
+.
+The Eastern House
+A second house stands halfway through
+Route 7
+. The girl in front of the TV will heal your Pokémon to full health, while the old man at the table adds a few entries to your Pokédex. He claims that he has seen
+Tornadus
+,
+Thundurus
+, and
+Landorus
+, but that they looked completely different.
+Mom Checks In
+When you head east from the house,
+Mom
+calls on the
+Xtransceiver
+. During the conversation, she tells you that she used to work in the reception area at several different Pokémon Centers. She ends the call by reminding you to visit one right away if your Pokémon are hurt.
+Twist Mountain
+As you continue northeast through
+Route 7
+, you will soon reach the foot of
+Twist Mountain
+. When you climb the stairway to the entrance, you find
+a burly man
+blocking the way. He claims that part of the mountain has collapsed, and it's not safe to venture inside right now. Instead, return to
+Mistralton City
+to challenge the Gym.
+Mistralton City
+Mistralton Gym
+Mistralton City Pokémon Gym
+Leader: Skyla
+The High-Flying Girl
+The
+Mistralton Gym
+is housed in an aircraft hangar, and specializes in
+Flying-type
+Pokémon. These birds are typically vulnerable to
+Electric
+-,
+Ice
+-, and
+Rock-type
+attacks. There are three massive turbines in the back of the building, and an occasional gust of wind can knock you back to the entrance. Move when the wind stops, and hide behind one of the walls when it kicks up again.
+Skyla
+'s Pokémon are all vulnerable to
+Electric-type
+attacks. Her
+Swoobat
+and
+Swanna
+are also weak against
+Rock-type
+moves, while her
+Skarmory
+fears
+Fire-type
+attacks.
+Mistralton Gym
+Trainers
+Trainer
+Pokémon
+Pilot
+Flynn
+Reward:
+$
+2220
+Swoobat
+♂
+Lv.
+37
+No item
+Pilot
+Winslow
+Reward:
+$
+2220
+Sigilyph
+♂
+Lv.
+37
+No item
+Pilot
+Elron
+Reward:
+$
+2160
+Archen
+♂
+Lv.
+36
+No item
+Unfezant
+♂
+Male
+Lv.
+36
+No item
+Pilot
+Ewing
+Reward:
+$
+2220
+Unfezant
+♂
+Male
+Lv.
+37
+No item
+Pilot
+Chase
+Reward:
+$
+2160
+Ducklett
+♂
+Lv.
+36
+No item
+Swoobat
+♂
+Lv.
+36
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Easy Mode/Normal Mode
+Leader
+Skyla
+Mistralton Gym
+Black 2 and White 2
+Reward:
+$
+4320
+/
+$
+4680
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♀
+Lv.
+34
+/
+37
+Heart Stamp
+Psychic
+Physical
+--
+Attract
+Normal
+Status
+--
+Acrobatics
+Flying
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♀
+Lv.
+34
+/
+37
+Air Cutter
+Flying
+Special
+--
+Agility
+Psychic
+Status
+--
+Steel Wing
+Steel
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Big Pecks
+Held item:
+Sitrus Berry
+Swanna
+♀
+Lv.
+36
+/
+39
+FeatherDance
+Flying
+Status
+--
+Roost
+Flying
+Status
+--
+BubbleBeam
+Water
+Special
+--
+Air Slash
+Flying
+Special
+--
+Challenge Mode
+Leader
+Skyla
+Mistralton Gym
+Black 2 and White 2
+Reward:
+$
+5040
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♀
+Lv.
+40
+Psychic
+Psychic
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Energy Ball
+Grass
+Special
+--
+Attract
+Normal
+Status
+--
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+Sitrus Berry
+Skarmory
+♀
+Lv.
+40
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Agility
+Psychic
+Status
+--
+Types:
+Psychic
+Flying
+Ability:
+Magic Guard
+Held item:
+None
+Sigilyph
+♀
+Lv.
+40
+Psychic
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Types:
+Water
+Flying
+Ability:
+Big Pecks
+Held item:
+Sitrus Berry
+Swanna
+♀
+Lv.
+42
+Roost
+Flying
+Status
+--
+FeatherDance
+Flying
+Status
+--
+Surf
+Water
+Special
+--
+Air Slash
+Flying
+Special
+--
+Defeated,
+Skyla
+awards you the
+Jet Badge
+, which ensures that all Pokémon of level 70 or less will obey you. She also gives you
+TM55
+(
+Acrobatics
+) as a prize.
+Juniper returns from Celestial Tower
+As you emerge victorious from the Gym,
+Professor Juniper
+returns from
+Route 7
+. The professor is headed to Mistralton Cargo Service so
+Skyla
+can fly her somewhere.
+The Kids' Treasure
+Visit the house north of the Pokémon Center, and talk to the Youngster inside. Then visit the south end of the runway to find
+TM40
+(
+Aerial Ace
+), a treasure that the two kids hid for safekeeping.
+Mistralton Cargo Service
+Professor Juniper
+and
+Skyla
+are waiting when you enter the Cargo Service building. Talk to Skyla, and
+Bianca
+comes rushing in to catch a ride just as the group is about to board the plane. The professor's destination is
+Opelucid City
+, but the unstable
+Twist Mountain
+prevents anyone from reaching the city by foot from that direction. Instead, Skyla flies the group to
+Lentimas Town
+, a tiny mountain village in the eastern part of the region.
+← Part 9
+Route 6, Mistralton Cave, Chargestone Cave
+Black 2 and White 2
+walkthrough
+Lentimas Town, Strange House, Reversal Mountain, Undella Town, Undella Bay
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

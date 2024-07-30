@@ -1,0 +1,38 @@
+Game: Emerald
+Part: 1
+Keywords: Introduction, Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City
+
+**Part 1 Walkthrough: Pokémon Emerald**
+
+**Introduction**
+- Choose your character's gender and name after the title screen. You start in Littleroot Town.
+
+**Littleroot Town**
+- Exit the moving truck and meet your mom. Set the clock in your room and watch a TV segment about the Petalburg Gym where your dad is the Gym Leader. Visit Professor Birch's house next door.
+
+**Route 101**
+- Head north to Oldale Town. Encounter Professor Birch being chased by a Zigzagoon. Choose a starter Pokémon (Treecko, Torchic, or Mudkip) to help him.
+
+**Oldale Town**
+- First settlement with a Pokémon Center and Poké Mart. Speak to a woman for a free Potion. 
+
+**Route 103**
+- Meet your rival for a battle. Use Potions if needed. After the battle, your rival will head back to Birch's Lab.
+
+**Littleroot Town (Return)**
+- Visit Birch's Lab to receive the Pokédex and 5 Poké Balls. Your mom gifts you Running Shoes.
+
+**Route 102**
+- Connects Oldale Town and Petalburg City. Encounter new wild Pokémon and trainers. Items include Oran and Pecha Berries from soft soil.
+
+**Petalburg City**
+- Meet your dad at the Petalburg Gym. Help Wally catch a Ralts. Your father advises challenging Gym Leader Roxanne in Rustboro City before moving on to other gyms.
+
+**Key Items & Locations**
+- **Littleroot Town**: Potion (PC), Pokédex, Running Shoes.
+- **Oldale Town**: Free Potion, Pokémon Center, Poké Mart.
+- **Route 102**: Soft Soil for Berries, various trainers.
+- **Petalburg City**: Gym and Wally's Ralts.
+
+**Next Steps**
+- Prepare to challenge Gym Leader Roxanne in Rustboro City.

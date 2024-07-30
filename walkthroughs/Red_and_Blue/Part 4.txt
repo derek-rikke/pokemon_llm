@@ -1,0 +1,664 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_4
+Keywords: Route 3, Mt. Moon, Route 4
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 3
+2
+Route 4 (West)
+2.1
+The Magikarp Salesman
+3
+Mt. Moon
+3.1
+1F
+3.2
+B2F (South)
+3.3
+1F
+3.4
+B2F (Northeast)
+3.5
+1F
+3.6
+B2F (Outer Area)
+4
+Route 4 (East)
+Route 3
+Route 3
+Route 3
+is a grassy road that leads east from
+Pewter City
+into the mountains around
+Route 4
+. Many Trainers can be found along the way as they raise their Pokémon for the upcoming cave.
+Trainers
+Trainer
+Pokémon
+Lass
+Reward:
+$
+135
+Pidgey
+Lv.
+9
+No item
+Pidgey
+Lv.
+9
+No item
+Bug Catcher
+Reward:
+$
+100
+Caterpie
+Lv.
+10
+No item
+Weedle
+Lv.
+10
+No item
+Caterpie
+Lv.
+10
+No item
+Youngster
+Reward:
+$
+165
+Rattata
+Lv.
+11
+No item
+Ekans
+Lv.
+11
+No item
+Bug Catcher
+Reward:
+$
+90
+Weedle
+Lv.
+9
+No item
+Kakuna
+Lv.
+9
+No item
+Caterpie
+Lv.
+9
+No item
+Metapod
+Lv.
+9
+No item
+Youngster
+Reward:
+$
+210
+Spearow
+Lv.
+14
+No item
+Lass
+Reward:
+$
+150
+Rattata
+Lv.
+10
+No item
+Nidoran♂
+Lv.
+10
+No item
+Bug Catcher
+Reward:
+$
+110
+Caterpie
+Lv.
+11
+No item
+Metapod
+Lv.
+11
+No item
+Lass
+Reward:
+$
+210
+Jigglypuff
+Lv.
+14
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+6-8
+45%
+Spearow
+R
+B
+Y
+Grass
+5-8
+45%
+Jigglypuff
+R
+B
+Y
+Grass
+3, 5, 7
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 4 (West)
+The Magikarp Salesman
+A Pokémon Center stands near the entrance to
+Mt. Moon
+. Inside,
+a shady man
+offers to sell you a
+Magikarp
+for
+$
+500. The fish is nearly useless until it evolves into the powerful
+Gyarados
+at level 20. With enough money to spare, you can end up with a strong
+Water-type
+Pokémon sooner than normal, but you can soon hook a Magikarp for free with the right fishing rod.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Magikarp
+R
+B
+Y
+Gift
+5
+Purchase for
+$
+500
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Mt. Moon
+Mt. Moon, 1F
+Mt. Moon, B1F
+Mt. Moon, B2F
+Mt. Moon
+is a mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as
+Moon Stones
+. There are many Trainers exploring the tunnels inside. Many cave-dwelling Pokémon, like
+Zubat
+and
+Paras
+, make their home here.
+Trainers
+1F
+Trainer
+Pokémon
+Lass
+Reward:
+$
+210
+Clefairy
+Lv.
+14
+No item
+Bug Catcher
+Reward:
+$
+110
+Weedle
+Lv.
+11
+No item
+Kakuna
+Lv.
+11
+No item
+Super Nerd
+Reward:
+$
+275
+Magnemite
+Lv.
+11
+No item
+Voltorb
+Lv.
+11
+No item
+Bug Catcher
+Reward:
+$
+100
+Caterpie
+Lv.
+10
+No item
+Metapod
+Lv.
+10
+No item
+Caterpie
+Lv.
+10
+No item
+Lass
+Reward:
+$
+165
+Oddish
+Lv.
+11
+No item
+Bellsprout
+Lv.
+11
+No item
+Youngster
+Reward:
+$
+150
+Rattata
+Lv.
+10
+No item
+Rattata
+Lv.
+10
+No item
+Zubat
+Lv.
+10
+No item
+Hiker
+Reward:
+$
+350
+Geodude
+Lv.
+10
+No item
+Geodude
+Lv.
+10
+No item
+Onix
+Lv.
+10
+No item
+B2F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+330
+Sandshrew
+Lv.
+11
+No item
+Rattata
+Lv.
+11
+No item
+Zubat
+Lv.
+11
+No item
+Rocket
+Reward:
+$
+360
+Zubat
+Lv.
+12
+No item
+Ekans
+Lv.
+12
+No item
+Rocket
+Reward:
+$
+480
+Raticate
+Lv.
+16
+No item
+Rocket
+Reward:
+$
+390
+Rattata
+Lv.
+13
+No item
+Zubat
+Lv.
+13
+No item
+Super Nerd
+Reward:
+$
+300
+Grimer
+Lv.
+12
+No item
+Voltorb
+Lv.
+12
+No item
+Koffing
+Lv.
+12
+No item
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+6-11
+79%
+Geodude
+R
+B
+Y
+Cave
+8, 10
+15%
+Paras
+R
+B
+Y
+Cave
+8
+5%
+Clefairy
+R
+B
+Y
+Cave
+8
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+7-11
+60%
+Geodude
+R
+B
+Y
+Cave
+7-9
+26%
+Paras
+R
+B
+Y
+Cave
+10
+10%
+Clefairy
+R
+B
+Y
+Cave
+9
+4%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+9-12
+49%
+Geodude
+R
+B
+Y
+Cave
+9-10
+30%
+Paras
+R
+B
+Y
+Cave
+10, 12
+15%
+Clefairy
+R
+B
+Y
+Cave
+10, 12
+6%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM12
+(
+Water Gun
+)
+In the chamber to the west of the entrance
+R
+B
+Potion
+×2
+In the chamber to the west of the entrance
+Southeast area, on the opposite side of the wall from the entrance
+R
+B
+Rare Candy
+Southeast corner, east of the Super Nerd
+R
+B
+Escape Rope
+East-southeast area, north of the Rare Candy
+R
+B
+Moon Stone
+Northwest corner
+R
+B
+B2F
+HP Up
+South; accessible via the first ladder found on 1F
+R
+B
+TM01
+(
+Mega Punch
+)
+Northeast; accessible via the second ladder found on 1F
+R
+B
+Ether
+Northeast; accessible via the second ladder found on 1F, on a rock
+(hidden)
+R
+B
+Moon Stone
+Main chamber; southeast of the stairway near the
+fossils
+, on a white wall tile
+(hidden)
+R
+B
+Dome Fossil
+Main chamber; choice between the two Fossils, after defeating the Super Nerd on the northwest platform
+R
+B
+Helix Fossil
+1F
+Collect
+TM12
+(
+Water Gun
+) and the
+Potion
+to the west, then follow the tunnel eastward and climb down the first ladder.
+B2F (South)
+Battle the
+Team Rocket
+Grunt, then grab the
+HP Up
+from the raised platform and take the ladder back to 1F.
+1F
+Go south to battle the next two Trainers. Be sure to collect the
+Potion
+,
+Rare Candy
+, and
+Escape Rope
+. Head north then west and climb down the second ladder.
+B2F (Northeast)
+Fight the second Team Rocket Grunt and pick up
+TM01
+(
+Mega Punch
+) from the platform. Inspect the large rock to find a hidden
+Ether
+before returning to 1F.
+1F
+Continue westward along the tunnel. Grab the
+Moon Stone
+in the northwest corner, then take the third ladder to the lower floor.
+B2F (Outer Area)
+Follow the winding tunnel in a clockwise direction to the northwest, where a Super Nerd claims both the
+Dome Fossil
+and
+Helix Fossil
+lying here as his own. Defeat him, and he lets you choose one of them for yourself. The Dome Fossil was once a
+Kabuto
+, while the Helix Fossil was once an
+Omanyte
+. Climb the final ladder to reach the exit.
+Route 4 (East)
+Route 4
+Route 4
+is a one-way road leading downhill from the mountains to
+Cerulean City
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+R
+B
+Y
+Grass
+8, 10, 12
+40%
+Spearow
+R
+B
+Y
+Grass
+8, 10, 12
+35%
+Ekans
+R
+B
+Y
+Grass
+6, 8, 10, 12
+25%
+Sandshrew
+R
+B
+Y
+Grass
+6, 8, 10, 12
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+On the northwest hill
+(hidden)
+R
+B
+TM04
+(
+Whirlwind
+)
+Second-highest level of the eastern hill
+R
+B
+← Part 3
+Viridian Forest, Route 2, Pewter City, Pewter Gym
+Red and Blue
+walkthrough
+Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

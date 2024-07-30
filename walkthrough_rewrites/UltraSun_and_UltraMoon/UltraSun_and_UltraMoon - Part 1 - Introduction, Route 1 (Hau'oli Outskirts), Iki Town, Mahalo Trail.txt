@@ -1,0 +1,28 @@
+Game: UltraSun_and_UltraMoon
+Part: 1
+Keywords: Introduction, Route 1 (Hau'oli Outskirts), Iki Town, Mahalo Trail
+
+**Part 1: Pokémon Ultra Sun and Ultra Moon Walkthrough**
+
+**Introduction**
+- Choose a language and select a Trainer Passport photo.
+- Customize your character and name (up to 12 characters).
+- Brief cutscene introduces a mysterious girl and her Pokémon.
+
+**Route 1 (Hau'oli Outskirts)**
+- Start your adventure on Route 1 in Hau'oli Outskirts, Melemele Island.
+- After three months, your character and mom are settling in. Meet your mom, retrieve your Bag and hat, then head outside towards Iki Town.
+
+**Choosing a Pokémon**
+- On Route 1, a wild Yungoos will attack. You will be saved by three Pokémon: Rowlet (Grass/Flying), Litten (Fire), and Popplio (Water).
+- Choose your starter:
+  - **Rowlet**: Strong against Water, Rock, Ground; weaknesses to Fire, Poison, Flying, Rock, Ice.
+  - **Litten**: Strong against Grass, Bug, Ice, Steel; weaknesses to Water, Rock, Ground.
+  - **Popplio**: Strong against Fire, Rock, Ground; weaknesses to Grass, Electric.
+
+Each Pokémon has its strengths and evolves into powerful forms that will influence your journey.
+
+**Next Steps**
+- After choosing your Pokémon, continue to Iki Town for the Festival and further adventures. 
+
+**Note:** Ultra Moon has a 12-hour time offset.

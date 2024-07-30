@@ -1,0 +1,1383 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_4
+Keywords: Slateport City, Oceanic Museum, Route 110, Trick House
+
+Walkthrough Text:
+Contents
+1
+Slateport City
+1.1
+Slateport Market
+1.2
+Pokémon Fan Club
+1.2.1
+Move Tutor
+1.3
+Name Rater
+1.4
+Battle Tent
+1.5
+Slateport Harbor
+1.6
+Stern's Shipyard
+1.7
+Oceanic Museum
+2
+Route 110
+2.1
+Meet up with Birch
+2.2
+Trick House
+2.2.1
+Finding the Trick Master
+2.2.2
+Inside the Maze
+2.2.3
+Trick Master's Room
+2.3
+Rival Battle 3
+2.3.1
+Player chose Treecko
+2.3.2
+Player chose Torchic
+2.3.3
+Player chose Mudkip
+3
+Route 103 (optional)
+Slateport City
+Slateport City
+Oceanic Museum
+Situated between Routes
+109
+and
+110
+,
+Slateport City
+is by far the biggest place you've yet reached, and it is filled with sights to see. From the
+Battle Tent
+to the
+Oceanic Museum
+, there's plenty to marvel at in this seaside metropolis.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Effort Ribbon
+From the woman next to the Energy Guru, if the lead Pokémon has 510
+EVs
+E
+Powder Jar
+From a woman in the northeast corner of Slateport Market
+E
+Soothe Bell
+From a woman in the Fan Club, if the lead Pokémon has high
+friendship
+E
+Red Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Coolness
+E
+Blue Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Beauty
+E
+Pink Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Cuteness
+E
+Green Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Cleverness
+E
+Yellow Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Toughness
+E
+TM46
+(
+Thief
+)
+From a Team Aqua Grunt inside the Oceanic Museum
+E
+TM41
+(
+Torment
+)
+From a Sailor in the Battle Tent
+E
+Full Heal
+Reward for winning three consecutive battles in the Battle Tent
+E
+Slateport Market
+The
+open-air market
+hosts numerous vendors peddling rare goods. A man near the southern entrance hints that you'll find even more bargains after obtaining
+TM43
+(
+Secret Power
+). Permanent stat-boosting
+Vitamins
+can be purchased from the Energy Guru. The red-clad clerk standing next to him will give your lead Pokémon an
+Effort Ribbon
+if it has been well-trained. Also after obtaining TM43, another clerk appears from whom additional copies of that and
+TM10
+(
+Hidden Power
+) may be purchased.
+In the northeast stall, a woman hands out a
+Powder Jar
+to each visitor. This jar is used to store
+Berry Powder
+obtained by playing the
+Berry Crush
+minigame in a Pokémon Center's Union Room. Collect enough powder and you can trade it to her in exchange for vitamins and
+herbal medicine
+.
+Pokémon Fan Club
+The
+Pokémon Fan Club
+can be found just north of the Market. If your lead Pokémon is
+friendly
+enough toward you, you can receive a
+Soothe Bell
+from the woman near the back wall. Visit with the club's chairman to have him examine your lead Pokémon's condition. If any of its five Contest stats are high enough, he will reward you with a special item—a
+Red
+,
+Blue
+,
+Pink
+,
+Green
+, or
+Yellow Scarf
+. When held, these items boost their respective stat during the Appeal Round of a Pokémon Contest.
+Move Tutor
+Also inside is a man and his
+Azumarill
+; this
+Move Tutor
+offers to teach the move
+Swagger
+to a Pokémon, one time only.
+Name Rater
+North of the Fan Club building is the home of the
+Name Rater
+. This man has the power to evaluate and change your Pokémon's nicknames as often as you'd like. However, he cannot change a Pokémon's nickname if it first belonged to someone else.
+Battle Tent
+The
+Slateport Battle Tent
+stands in the northwest corner of the city. If you enter to the Battle Tent after getting the Devon Goods in Oceanic Museum, then
+Scott
+will come out of the Battle Tent if you try to go in and urge you to take the challenge. At this location, entrants must select three Pokémon from a random list of six
+rental Pokémon
+, all at level 30. They must then face three opposing Trainers, and after defeating each one, challengers may trade one of their Pokémon for one belonging to their opponent. No details on the opponent's Pokémon are given; challengers must instead rely on their experience battling the opponent's team. The reward for winning three consecutive battles here is a
+Full Heal
+. No experience or prize money is awarded.
+Slateport Harbor
+The Harbor is located in the city's northeast district. Since construction is not yet complete on the new ferry, there is little to do here at the moment.
+Stern's Shipyard
+Inside
+Stern's Shipyard
+, you find
+the captain
+'s assistant,
+Dock
+, looking over plans for the
+new ferry
+that is under construction here. Though Stern is nowhere to be found, Dock asks that you deliver the
+Devon Goods
+to him.
+Oceanic Museum
+At first, it is impossible to enter the
+Oceanic Museum
+because of the
+Team Aqua
+Grunts lined up outside. But by the time you visit the shipyard, the group has made its way into the building. Pay the
+$
+50 entrance fee to follow them inside. Those that can't afford it will be mistaken as part of "the group that came in earlier", and allowed in for free. The Grunts are more interested in the exhibits than you, so you can speak to them in an effort to gauge their intentions. A Grunt near the entrance is shocked to see you; it's the same guy you fought back in
+Rusturf Tunnel
+! He's learned not to mess with you, and begs forgiveness with
+TM46
+(
+Thief
+) before fleeing the scene. Go upstairs to find
+Captain Stern
+, examining a display in the lower-right corner. Before you can hand over the
+Devon Goods
+for his new ferry, you are attacked by two Grunts! Defeat one after the other to save the captain and complete the delivery for
+Mr. Stone
+.
+Trainers
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+300
+Carvanha
+♂
+Lv.
+15
+No item
+Team Aqua Grunt
+Reward:
+$
+280
+Zubat
+♂
+Lv.
+14
+No item
+Carvanha
+♂
+Lv.
+14
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Shocked at their failure, the two begin to plan their next move when a stranger appears. It's their boss,
+Aqua Leader
+Archie
+! He wonders aloud why you would even want to hinder their plans, but forgives you as he thinks you're too young to understand their ideals. As the group departs, he warns you against interfering with their future plans. When you step outside, you are approached again by Scott. He seems to be a talent scout of some sort, and takes the opportunity to register himself in your PokéNav before heading off. Its advisable to buy a piece of
+Harbor Mail
+for
+$
+50 before leaving the city, since you'll need to trade it to girl in
+Mauville City
+to get a new item.
+Route 110
+Route 110
+The lengthy
+Route 110
+connects two of
+Hoenn
+'s largest cities,
+Slateport
+and
+Mauville
+, and also links back to
+Route 103
+. All pedestrians are restricted to the lower path, which features the mysterious
+Trick House
+. After obtaining a Bike, you can speed through the route on
+Seaside Cycling Road
+.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Isabel
+Reward:
+$
+1120
+Potential
+Double Battle
+with Kaleb
+Plusle
+♀
+Lv.
+14
+Oran Berry
+Minun
+♀
+Lv.
+14
+Oran Berry
+Pokéfan
+Kaleb
+Reward:
+$
+1120
+Potential
+Double Battle
+with Isabel
+Minun
+♂
+Lv.
+14
+Oran Berry
+Plusle
+♂
+Lv.
+14
+Oran Berry
+Youngster
+Timmy
+Reward:
+$
+208
+Aron
+♂
+Lv.
+15
+No item
+Electrike
+♂
+Lv.
+13
+No item
+Collector
+Edwin
+Reward:
+$
+840
+Potential
+Double Battle
+with Joseph
+Lombre
+♂
+Lv.
+14
+No item
+Nuzleaf
+♂
+Lv.
+14
+No item
+Guitarist
+Joseph
+Reward:
+$
+448
+Potential
+Double Battle
+with Edwin
+Electrike
+♂
+Lv.
+14
+No item
+Voltorb
+Lv.
+14
+No item
+Psychic
+Edward
+Reward:
+$
+360
+Potential
+Double Battle
+with Alyssa
+Abra
+♂
+Lv.
+15
+No item
+Triathlete
+Alyssa
+Reward:
+$
+600
+Potential
+Double Battle
+with Edward
+Magnemite
+Lv.
+15
+No item
+Fisherman
+Dale
+Reward:
+$
+560
+Tentacool
+♂
+Lv.
+11
+No item
+Wailmer
+♂
+Lv.
+14
+No item
+Tentacool
+♂
+Lv.
+11
+No item
+Wailmer
+♂
+Lv.
+14
+No item
+Rematch
+Pokéfan
+Isabel
+*
+Reward:
+$
+2080
+/
+2320
+/
+2560
+Plusle
+♀
+Lv.
+26
+/
+29
+/
+32
+Oran Berry
+Minun
+♀
+Lv.
+26
+/
+29
+/
+32
+Oran Berry
+Pokéfan
+Isabel
+*
+Reward:
+$
+2800
+Plusle
+♀
+Lv.
+35
+Sitrus Berry
+Minun
+♀
+Lv.
+35
+Sitrus Berry
+Collector
+Edwin
+*
+Reward:
+$
+1560
+/
+1740
+/
+1920
+Lombre
+♂
+Lv.
+26
+/
+29
+/
+32
+No item
+Nuzleaf
+♂
+Lv.
+26
+/
+29
+/
+32
+No item
+Collector
+Edwin
+*
+モトキ
+Motoki
+Reward:
+$
+2100
+Ludicolo
+♂
+Lv.
+35
+No item
+Shiftry
+♂
+Lv.
+35
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Electrike
+R
+S
+E
+Grass
+12-13
+30%
+Poochyena
+R
+S
+E
+Grass
+12
+20%
+Minun
+R
+S
+E
+Grass
+13
+15%
+Gulpin
+R
+S
+E
+Grass
+12-13
+15%
+Oddish
+R
+S
+E
+Grass
+13
+10%
+Wingull
+R
+S
+E
+Grass
+12
+8%
+Plusle
+R
+S
+E
+Grass
+12-13
+2%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dire Hit
+East of the Trick House, near Youngster Timmy
+E
+Full Heal
+Northeast of Youngster Timmy (hidden)
+E
+Itemfinder
+From May/Brendan after defeating her/him
+E
+Great Ball
+North of the site of the rival battle (hidden)
+E
+Revive
+One step north of Collector Edwin and Guitarist Joseph (hidden)
+E
+Elixir
+Near Psychic Edward and Triathlete Alyssa
+E
+Poké Ball
+North of Psychic Edward (hidden)
+E
+Nanab Berry
+×9
+From the Berry Trees near the Mauville City gate
+E
+Meet up with Birch
+If you didn't register
+Professor Birch
+in Littleroot Town, he will appear in this route. Not long after you pass by the southern entrance to Cycling Road, you run into Professor Birch. After a short conversation, he registers himself in your PokéNav so that you can get your Pokédex rated anytime.
+Trick House
+The
+Trick House
+is located farther north, near the
+Route 103
+junction. The building's owner, the
+Trick Master
+, is a fun-loving prankster who has crafted many entertaining tricks for travelers. A new challenge opens each time you earn a
+Badge
+. Don't let his hard work go to waste!
+Puzzle
+Milestone required
+Hiding spot
+Field move required
+Password
+Prize
+Puzzle 1
+None
+Under the table
+Cut
+"
+Trick Master
+is fabulous."
+Rare Candy
+Puzzle 2
+Dynamo Badge
+Inside the right potted tree
+None
+"
+Trick Master
+is smart."
+Timer Ball
+Puzzle 3
+Heat Badge
+Inside the right cabinet
+Rock Smash
+"
+Trick Master
+is coveted."
+Hard Stone
+Puzzle 4
+Balance Badge
+Behind the left window
+Strength
+"
+Trick Master
+is cool."
+Smoke Ball
+Puzzle 5
+Feather Badge
+Inside the right potted tree
+None
+"
+Trick Master
+is a genius."
+TM12
+(
+Taunt
+)
+Puzzle 6
+Mind Badge
+Inside the right cabinet
+None
+"
+Trick Master
+is my life."
+Magnet
+Puzzle 7
+Rain Badge
+Behind the right window
+None
+"
+Trick Master
+is huggable."
+PP Max
+Puzzle 8
+Hall of Fame
+induction
+Under the left cushion
+None
+"
+Trick Master
+I love."
+Red Tent
+or
+Blue Tent
+Finding the Trick Master
+When you step inside, you can't shake the feeling that someone is watching you. The mischievous Trick Master is hiding somewhere! Search the entire room until you find him, when he accepts your challenge and disappears. Certain field moves are required for most of the mazes, so you will need to return later to complete the rest.
+Inside the Maze
+Once he leaves, examine the scroll on the wall to find a secret passage that leads to a devious maze. Navigate the maze and battle Trainers as you search for a rolled-up scroll with a secret code. Reach the back of the maze and examine the hanging scroll. Inscribe the code on the hidden door to open it. There's no going back, so be sure to find everything the maze has to offer before entering the next room!
+Trick Master's Room
+The Trick Master waits here for all challengers. Speak to him to receive your reward, then leave through the exit in the north wall. After the last challenge, you can find a hidden
+Nugget
+where the Trick Master had stood.
+Rival Battle 3
+Go east from the Trick House and pass beneath Cycling Road. Turn north and continue on until you meet
+May
+/
+Brendan
+again. It seems like ages since you last met, so prove to your friend how far you've come as a Trainer! May and Brendan use the same three Pokémon, but May leads with
+Wingull
+if the player chose
+Mudkip
+.
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Emerald
+Reward:
+$
+1200
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♂
+Lv.
+18
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♂
+Lv.
+18
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+20
+Focus Energy
+Normal
+--
+Ember
+Fire
+--
+Double Kick
+Fighting
+--
+Peck
+Flying
+--
+P
+K
+M
+N
+Trainer
+May
+Route 110
+Emerald
+Reward:
+$
+1200
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♀
+Lv.
+18
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♀
+Lv.
+18
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+20
+Focus Energy
+Normal
+--
+Ember
+Fire
+--
+Double Kick
+Fighting
+--
+Peck
+Flying
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Emerald
+Reward:
+$
+1200
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♂
+Lv.
+18
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+18
+Yawn
+Normal
+--
+Smog
+Poison
+--
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+20
+Water Gun
+Water
+--
+Bide
+Normal
+--
+Mud Shot
+Ground
+--
+Foresight
+Normal
+--
+P
+K
+M
+N
+Trainer
+May
+Route 110
+Emerald
+Reward:
+$
+1200
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♀
+Lv.
+18
+Astonish
+Ghost
+--
+Growl
+Normal
+--
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♀
+Lv.
+18
+Yawn
+Normal
+--
+Smog
+Poison
+--
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+20
+Water Gun
+Water
+--
+Bide
+Normal
+--
+Mud Shot
+Ground
+--
+Foresight
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Emerald
+Reward:
+$
+1200
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+18
+Yawn
+Normal
+--
+Smog
+Poison
+--
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♂
+Lv.
+18
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+20
+Absorb
+Grass
+--
+Quick Attack
+Normal
+--
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+P
+K
+M
+N
+Trainer
+May
+Route 110
+Emerald
+Reward:
+$
+1200
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Wingull
+♀
+Lv.
+18
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Supersonic
+Normal
+--
+Wing Attack
+Flying
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♀
+Lv.
+18
+Yawn
+Normal
+--
+Smog
+Poison
+--
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+20
+Absorb
+Grass
+--
+Quick Attack
+Normal
+--
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+After the battle, May/Brendan hands you the
+Itemfinder
+, a special gadget that allows you to search the surrounding area more thoroughly to discover hidden items! Search the underpass for treasure as you continue on to
+Mauville City
+.
+Route 103 (optional)
+Go to the left of the Trick House. Back to
+Route 103
+!. This is the eastern side of the route. It won't take you back to
+Oldale Town
+before you earn more
+Badges
+, but there are a lot of Trainers here. It's a good idea to battle them all— it's excellent training for your upcoming Gym battle.
+Trainers
+Trainer
+Pokémon
+Aroma Lady
+Daisy
+ミドリ
+Midori
+Reward:
+$
+560
+Shroomish
+♀
+Lv.
+14
+No item
+Roselia
+♀
+Lv.
+14
+No item
+Twins
+Amy & Liv
+クミとルミ
+Kumi and Rumi
+Reward:
+$
+360
+Plusle
+♂
+Lv.
+15
+No item
+Minun
+♂
+Lv.
+15
+No item
+Pokéfan
+Miguel
+ミツハル
+Mitsuharu
+Reward:
+$
+1200
+Skitty
+♀
+Lv.
+15
+Oran Berry
+Fisherman
+Andrew
+カツノリ
+Katsunori
+Reward:
+$
+600
+Magikarp
+♂
+Lv.
+5
+No item
+Tentacool
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+15
+No item
+Black Belt
+Rhett
+シゲモリ
+Shigemori
+Reward:
+$
+480
+Makuhita
+♂
+Lv.
+15
+No item
+Guitarist
+Marcos
+エリック
+Erick
+Reward:
+$
+480
+Voltorb
+Lv.
+15
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+In the center of the forest
+E
+Cheri Berry
+×4
+In the soft soil patch in the forest
+E
+Leppa Berry
+×2
+In the soft soil patch in the forest
+E
+Guard Spec.
+In the western extent of the forest
+E
+← Part 3
+Rustboro City, Dewford Town, Route 106, Granite Cave, Route 109
+Emerald
+walkthrough
+Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel, Route 111 (south)
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,56 @@
+Game: Emerald
+Part: 19
+Keywords: The Pokémon League
+
+**Part 19: Pokémon League Walkthrough**
+
+**Pokémon League Overview:**
+- **Location**: Ever Grande City, Pokémon League Lobby (accessible via Fly).
+- **Preparation**: Stock up on Hyper Potions, Full Restores, and Full Heals. Consider purchasing battle items (X Defense, Dire Hits, Guard Specs) from Lilycove Department Store.
+
+**Elite Four Battles:**
+
+1. **Battle 1: Sidney (Dark-type)**
+   - **Strategy**: Use Bug and Fighting-type moves.
+   - **Key Pokémon**:
+     - Mightyena (Lv. 46) - Intimidate Ability.
+     - Shiftry (Lv. 48) - Weak to Fighting.
+     - Crawdaunt (Lv. 48) - Low Special Defense.
+     - Absol (Lv. 49) - High Attack.
+
+2. **Battle 2: Phoebe (Ghost-type)**
+   - **Strategy**: Utilize Ghost and Dark-type moves.
+   - **Key Pokémon**:
+     - Dusclops (Lv. 48) - Use status moves.
+     - Banette (Lv. 49) - Shadow Ball and status effects.
+     - Sableye (Lv. 50) - No weaknesses but low stats.
+
+3. **Battle 3: Glacia (Ice-type)**
+   - **Strategy**: Use Rock and Fighting-type moves.
+   - **Key Pokémon**:
+     - Sealeo (Lv. 50) - Can set up Hail.
+     - Glalie (Lv. 50) - Light Screen and Explosion.
+     - Walrein (Lv. 53) - High bulk; use Fighting-type moves.
+
+4. **Battle 4: Drake (Dragon-type)**
+   - **Strategy**: Employ Ice and Dragon-type moves.
+   - **Key Pokémon**:
+     - Shelgon (Lv. 52) - Physical attacker.
+     - Kingdra (Lv. 53) - Use Dragon moves.
+     - Salamence (Lv. 55) - Intimidate Ability; target its weaknesses.
+
+**Champion Battle: Wallace (Water-type)**
+- **Strategy**: Focus on Grass and Electric-type moves.
+- **Key Pokémon**:
+  - Wailord (Lv. 57) - High HP, vulnerable to Grass.
+  - Tentacruel (Lv. 55) - Use physical moves.
+  - Ludicolo (Lv. 56) - Counter with Bug, Flying, Poison moves.
+  - Gyarados (Lv. 56) - Target with Electric attacks.
+  - Milotic (Lv. 58) - Utilize physical attacks to exploit low Defense.
+
+**Post-Battle: Hall of Fame**
+- After defeating Wallace, you will be recognized as the new Champion. Save your game when prompted.
+
+**Notes:**
+- Ensure your Pokémon team is well-prepared for each battle.
+- Save frequently and use items strategically during fights.

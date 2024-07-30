@@ -1,0 +1,1466 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_13
+Keywords: Whirl Islands, Ruins of Alph
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Blackthorn City
+1.1
+Time for a Trade
+1.2
+Putting in the Effort
+1.3
+Move Deleter
+1.4
+Move Deleter and Move Tutor House
+1.5
+Blackthorn Gym
+1.6
+Dragon's Den
+1.6.1
+Main cavern
+1.6.1.1
+Dragon Shrine
+1.6.1.1.1
+The Trial
+1.6.1.1.2
+The Prize
+1.7
+Elm's Request
+2
+Route 45
+2.1
+Dark Cave
+2.1.1
+Northeast chamber
+2.1.2
+Southwest chamber
+3
+Route 46
+Blackthorn City
+Blackthorn City
+Blackthorn City
+is located in the northeast part of
+Johto
+, between the
+Ice Path
+and
+Route 45
+. It is a mysterious mountain village cut directly into the rock face. Many residents go on to become
+Dragon-type
+specialists, perhaps due to the proximity of the
+Dragon's Den
+, a large cave underneath the city. Only those with the
+Gym Leader
+'s permission may enter this cave, by crossing the lake behind the Gym.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+HG
+SS
+Surfing
+2-20
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Special Pokémon
+Dodrio
+HG
+SS
+Trade
+Dragonair
+♀
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Soft Sand
+From
+Santos
+Sa
+, on a ledge to the southeast of the Gym
+HG
+SS
+Snooze Ribbon
+From
+Santos
+Sa
+, after meeting all of the Week Siblings
+HG
+SS
+Smoke Ball
+Held by Doris, a
+Dodrio
+received through a trade
+HG
+SS
+Effort Ribbon
+From a girl in the easternmost house, if the lead Pokémon has 510
+EVs
+HG
+SS
+Time for a Trade
+Visit the eastern house to find a girl who would like to trade Pokémon. She is willing to part with her
+Dodrio
+in exchange for a female
+Dragonair
+. Dragonair can only be found with a
+high-end fishing rod
+, but its pre-evolved form,
+Dratini
+, can be found in the
+Dragon's Den
+.
+Putting in the Effort
+A second girl in the easternmost house will evaluate how much effort that your lead Pokémon has put toward growing stronger. If it has maxed out its potential and earned a total of 510
+EVs
+, she awards the Pokémon an
+Effort Ribbon
+.
+Move Deleter
+The southern house belongs to a man known as the
+Move Deleter
+. Using his free service allows a Pokémon to forget one of its moves. This is especially useful for removing moves taught by
+HM
+, as they would normally be permanent. This can also be used to prepare a Pokémon introduced in
+Generation I
+to be traded through the
+Time Capsule
+, as any moves introduced in
+Generation II
+would need to be removed first.
+Move Deleter and Move Tutor House
+The southern house belongs to a man known as the
+Move Deleter
+. Using his free service allows a Pokémon to forget one of its moves. This is especially useful for removing moves taught by
+HM
+, as they would normally be permanent.
+The house has three other residents, as well, and each of these
+Move Tutors
+is able to teach a certan set of moves.
+The man standing near the kitchen sink is the
+Pokémon Move Maniac
+. In exchange for one
+Heart Scale
+, he can help a Pokémon relearn any move it had previously forgotten.
+The elderly woman is known as
+Grandma Wilma
+. When shown a
+Dragon-type
+Pokémon that is
+happy
+with its Trainer, she offers to teach it the ultimate Dragon-type attack,
+Draco Meteor
+.
+The elderly man is able evaluate any fully-evolved
+first partner Pokémon
+. If it is
+happy
+with its Trainer, he offers to teach it the ultimate move of its type:
+Frenzy Plant
+,
+Blast Burn
+, or
+Hydro Cannon
+.
+Blackthorn Gym
+Blackthorn Gym
+Blackthorn City Pokémon Gym
+Leader: Clair
+The Blessed User of Dragon Pokémon
+The
+Blackthorn Gym
+specializes in
+Dragon-type
+Pokémon. Dragon-type moves are super effective against Dragon-type Pokémon, while Dragon-type Pokémon are weak to Dragon- and
+Ice-type
+moves.
+Shortly after entering the building, the
+Gym guide
+warns that the building's flooring is unstable and that Pokémon must be kept in their Poké Balls. The Gym features two stationary platforms lined with spikes, and three smaller stone platforms. Each of these has a blue button that rotates the platform, and two arrow buttons that move it in the respective direction. Challengers must use these buttons to direct these stone platforms across the lava and advance to the
+Gym Leader
+.
+Puzzle
+Solution
+Platform 1
+Left Arrow, Center Button, Center Button, Right Arrow
+Platform 2
+Up Arrow, Center Button, Right Arrow, Center Button, Center Button, Right Arrow
+Platform 3
+Left Arrow, Center Button, Center Button, Right Arrow, Center Button, Up Arrow,
+Up Arrow, Up Arrow, Center Button, Right Arrow, Center Button, Up Arrow, Up Arrow
+Clair
+leads with her
+Gyarados
+, a
+Water
+/
+Flying
+Pokémon. Due to this typing, it sustains massive damage when hit by
+Electric-type
+attacks. Her two Dragonair have nearly identical movesets, except for a single attack. Having access to
+Fire Blast
+and
+Aqua Tail
+gives Clair an advantage when facing two of
+Professor Elm
+'s three Pokémon. As a part-
+Water
+Pokémon, her Kingdra takes serious damage only from
+Dragon-type
+attacks. Bring
+Paralysis
+-healing items, and use
+HP
+-restoring items often to keep from being caught off-guard by Kingdra's
+Hyper Beam
+.
+Blackthorn Gym
+Trainers
+Trainer
+Pokémon
+First platform
+Ace Trainer
+Paulo
+Reward:
+$
+2100
+Dratini
+♂
+Lv.
+35
+No item
+Dratini
+♂
+Lv.
+35
+No item
+Seadra
+♂
+Lv.
+35
+No item
+Ace Trainer
+Lola
+Reward:
+$
+2220
+Dratini
+♀
+Lv.
+35
+No item
+Dragonair
+♀
+Lv.
+37
+No item
+Second platform
+Ace Trainer
+Cody
+Reward:
+$
+2220
+Horsea
+♂
+Lv.
+35
+No item
+Seadra
+♂
+Lv.
+37
+No item
+Ace Trainer
+Fran
+Reward:
+$
+2280
+Seadra
+♀
+Lv.
+38
+No item
+Ace Trainer
+Mike
+Reward:
+$
+2280
+Dragonair
+♂
+Lv.
+38
+No item
+Leader
+Clair
+Blackthorn Gym
+HeartGold and SoulSilver
+Reward:
+$
+4920
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♀
+Lv.
+38
+Bite
+Dark
+Physical
+--
+Twister
+Dragon
+Special
+--
+Dragon Rage
+Dragon
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Shed Skin
+Held item:
+None
+Dragonair
+♀
+Lv.
+38
+Thunder Wave
+Electric
+Status
+--
+Slam
+Normal
+Physical
+--
+Aqua Tail
+Water
+Physical
+--
+Dragon Pulse
+Dragon
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Shed Skin
+Held item:
+None
+Dragonair
+♀
+Lv.
+38
+Thunder Wave
+Electric
+Status
+--
+Slam
+Normal
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Types:
+Water
+Dragon
+Ability:
+Sniper
+Held item:
+Sitrus Berry
+Kingdra
+♀
+Lv.
+41
+Hydro Pump
+Water
+Special
+--
+SmokeScreen
+Normal
+Status
+--
+Hyper Beam
+Normal
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+After the battle,
+Clair
+is left in disbelief. She admits that she lost, but claims that you are still not ready for the Pokémon League, and insists that you take the "Dragon-master challenge". She informs you of the
+Dragon's Den
+, a large cave located under the city, and instructs you to visit the shrine found inside. Doing so proves your worth, and only then will she give up the Rising Badge. Bring a Pokémon with
+Surf
+and
+Whirlpool
+, and cross the lake to reach the cave entrance behind the Gym.
+Dragon's Den
+Dragon's Den
+Inside the shrine
+The
+Dragon's Den
+is a large cavern located underneath
+Blackthorn City
+. It is a sacred home of
+Dragon-type
+Pokémon, and where the city's residents train to become Dragon-type specialists. A large shrine is located on a platform to the south.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Kobe
+Reward:
+$
+2220
+Dragonair
+♂
+Lv.
+37
+No item
+Ace Trainer
+Piper
+Reward:
+$
+2100
+Horsea
+♀
+Lv.
+33
+No item
+Horsea
+♀
+Lv.
+33
+No item
+Seadra
+♀
+Lv.
+35
+No item
+Twins
+Clea & Gil
+Reward:
+$
+1120
+Dratini
+♀
+Lv.
+35
+No item
+Dratini
+♀
+Lv.
+35
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+HG
+SS
+Surfing
+5-20
+90%
+Dratini
+HG
+SS
+Surfing
+5-15
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+90%
+Dratini
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+Special Pokémon
+Dratini
+HG
+SS
+Gift
+15
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+West side of the northern area, on a lone rock west of Ace Trainer Kobe (hidden)
+HG
+SS
+Calcium
+East side of the northern area, on the lowest level before the water's surface
+HG
+SS
+Max Potion
+Northwest area, on a lone stalagmite near Ace Trainer Piper (hidden; requires
+Surf
+)
+HG
+SS
+Max Elixir
+×2
+Southeast corner of the shrine's platform (hidden; requires
+Surf
+)
+Western shore, a few steps south of Twins Clea & Gil (requires
+Surf
+)
+HG
+SS
+Dragon Fang
+East-central area, on the upper level (requires
+Surf
+,
+Whirlpool
+)
+HG
+SS
+TM59
+(
+Dragon Pulse
+)
+West side of the northern area, from
+Gym Leader
+Clair
+after clearing the elder's quiz (requires
+Surf
+,
+Whirlpool
+)
+HG
+SS
+Main cavern
+Climb down the ladder to reach the main cavern. Battle Ace Trainer Kobe, then pick up the
+Calcium
+to the southeast.
+Surf
+to the southwest, collect the
+Max Elixir
+on the western shore, then use
+Whirlpool
+to calm the waters. Continue eastward along the cavern's south wall and climb the eastern stairway to pick up a
+Dragon Fang
+. Backtrack and enter the shrine.
+Dragon Shrine
+The Trial
+When you enter the shrine, you are met by the clan's
+elder
+. He realizes that you were sent by
+Clair
+, and explains that you must pass a quiz to determine your perception of Pokémon.
+Question
+Answers
+What are Pokémon to you?
+Ally
+Junior
+Friend
+What helps you to win battles?
+Strategy
+Training
+Cheating
+What kind of Trainer do you wish to battle?
+Weak
+Strong
+Anyone
+What is most important for raising Pokémon?
+Love
+Violence
+Knowledge
+Strong Pokémon. Weak Pokémon. Which is more important?
+Strength
+Both
+Weakness
+Correct answers are marked in
+bold
+.
+The elder reviews your answers, and determines that you care deeply for Pokémon. He stresses the importance of never losing that conviction, as it will assist you at the Pokémon League.
+Clair
+enters a moment later, assuming that you have failed. She is shocked to learn that you passed the elder's test, as even she has not done so. The elder scolds her, telling her to admit defeat and award the
+Rising Badge
+, or else he will inform
+Lance
+of her behavior. She reluctantly complies; this Badge ensures obedience from all Pokémon and enables the use of
+Waterfall
+in the field. Shen then leaves the shrine without a word. The elder then mentions the
+Whirl Islands
+, and how a Pokémon named
+Lugia
+is said to live there.
+Clair
+is waiting for you near the north end of the broken bridge. She apologizes for her behavior, and gives out
+TM59
+(
+Dragon Pulse
+) as a prize. Now that you have earned all eight Badges in the
+Johto
+region, Clair tells you that your next step will be the Pokémon League at
+Indigo Plateau
+. She advises you to
+Surf
+east from
+New Bark Town
+, but mentions how the look on your face says that you have unfinished business. She warns you not to give up, regardless of what challenges lie ahead, or she will feel even worse for having lost to you.
+The Prize
+Having passed the elder's trial, you may return at any point with no more than five Pokémon in your party. Speak to the elder, and he entrusts you with a
+Dratini
+as proof that he has recognized your worth. If every question was answered correctly, the Pokémon will know a special move,
+ExtremeSpeed
+, that it cannot otherwise learn. If not, it will know the move
+Leer
+instead.
+Elm's Request
+Upon leaving the cave,
+Professor Elm
+calls to ask that you visit him at the Lab, as he has something for you.
+Route 45
+Route 45
+Route 45
+is a rugged road leading down from the mountains around
+Blackthorn City
+. The path splits and recombines multiple times, and the uneven terrain makes northbound travel impossible; this also forces travelers to visit multiple times to reach every area. The eastern entrance to
+Dark Cave
+is located on the north end of the route. The path eventually turns west at a small pond, where it connects to
+Route 46
+.
+Trainers
+Trainer
+Pokémon
+Hiker
+Erik
+Reward:
+$
+864
+Machop
+♂
+Lv.
+24
+No item
+Graveler
+♂
+Lv.
+27
+No item
+Machop
+♂
+Lv.
+27
+No item
+Ace Trainer
+Ryan
+Reward:
+$
+1620
+Pidgeot
+♂
+Lv.
+25
+No item
+Electabuzz
+♂
+Lv.
+27
+No item
+Ace Trainer
+Kelly
+Reward:
+$
+1440
+Marill
+♀
+Lv.
+27
+No item
+Wartortle
+♂
+Lv.
+24
+No item
+Wartortle
+♂
+Lv.
+24
+No item
+Hiker
+Parry
+Reward:
+$
+960
+Onix
+♂
+Lv.
+30
+No item
+Black Belt
+Kenji
+Reward:
+$
+672
+Machoke
+♂
+Lv.
+28
+No item
+Hiker
+Timothy
+Reward:
+$
+864
+Diglett
+♂
+Lv.
+27
+No item
+Dugtrio
+♂
+Lv.
+27
+No item
+Hiker
+Michael
+Reward:
+$
+800
+Geodude
+♂
+Lv.
+25
+No item
+Graveler
+♂
+Lv.
+25
+No item
+Golem
+♂
+Lv.
+25
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+HG
+SS
+Grass
+23
+30%
+Graveler
+HG
+SS
+Grass
+23, 25, 27
+40%
+Graveler
+HG
+SS
+Grass
+23-25
+55%
+Gligar
+HG
+SS
+Grass
+24
+20%
+Teddiursa
+HG
+SS
+Grass
+20
+10%
+Skarmory
+HG
+SS
+Grass
+27
+5%
+Phanpy
+HG
+SS
+Grass
+20
+10%
+Surfing
+Magikarp
+HG
+SS
+Surfing
+2-25
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Headbutt
+Group A
+Spearow
+HG
+SS
+Headbutt
+23-24
+50%
+Aipom
+HG
+SS
+Headbutt
+23-24
+20%
+Heracross
+HG
+SS
+Headbutt
+23-24
+15%
+Heracross
+HG
+SS
+Headbutt
+23-25
+15%
+Headbutt
+Group B
+Spearow
+HG
+SS
+Headbutt
+26-27
+80%
+Aipom
+HG
+SS
+Headbutt
+26-27
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+West side, atop the stairway between the second and third bridges from the north
+HG
+SS
+Max Potion
+East side, between two ledges southeast of the third bridge from the north
+HG
+SS
+Full Heal
+West side, in the large grass patch halfway through the route
+HG
+SS
+Nugget
+West side, between two ledges southwest of the fifth bridge
+HG
+SS
+Revive
+West side, in the southernmost grass patch
+HG
+SS
+PP Up
+×2
+West side, narrow dead-end path just west of the middle waterfall (hidden)
+From Black Belt Kenji, after defeating him in a rematch
+Whether Kenji accepts a rematch on a given day is random.
+Player must call between 12:00pm and 12:59pm for the battle to occur.
+HG
+SS
+Grn Apricorn
+Next to the pond in the south, on a tree (daily)
+HG
+SS
+Iron
+West side, from Hiker Parry, after defeating him in a second rematch
+HG
+SS
+Later visit
+PP Max
+On a cliff in the southwest area, accessible via
+Route 46
+(hidden; requires
+Rock Climb
+)
+HG
+SS
+Dark Cave, from Route 45
+Dark Cave, from Route 31
+Dark Cave
+Dark Cave
+is a pitch-black cave network that runs underneath the eastern part of the region. Despite being first accessible from
+Route 31
+, these tunnels are impossible to navigate without the field moves
+Surf
+,
+Strength
+, and
+Rock Smash
+, and difficult to do so without
+Flash
+, as well. Alternate entrances exist on Routes
+45
+and
+46
+.
+Available Pokémon
+Northeast chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+23
+30%
+Golbat
+HG
+SS
+Cave
+23
+5%
+Geodude
+HG
+SS
+Cave
+23
+30%
+Graveler
+HG
+SS
+Cave
+25
+20%
+Wobbuffet
+HG
+SS
+Cave
+20, 25
+15%
+Surfing
+Magikarp
+HG
+SS
+Surfing
+2-20
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Southwest chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+2-4
+39%
+Geodude
+HG
+SS
+Cave
+2-4
+60%
+Dunsparce
+HG
+SS
+Cave
+4
+1%
+Surfing
+Magikarp
+HG
+SS
+Surfing
+2-20
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Rock Smash
+Dunsparce
+HG
+SS
+Rock Smash
+4-8
+80%
+Geodude
+HG
+SS
+Rock Smash
+8-14
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Northeast chamber
+Elixir
+Dead-end path south of the first stairway from the north (hidden)
+HG
+SS
+Revive
+On the southeast ridge (requires
+Surf
+)
+HG
+SS
+TM54
+(
+False Swipe
+)
+On the southwest ledge (requires
+Surf
+)
+HG
+SS
+BlackGlasses
+From a man in the northwest corner (requires
+Surf
+)
+HG
+SS
+Max Revive
+Northwest of the shady man, on the second stalagmite from the left (hidden; requires
+Surf
+)
+HG
+SS
+Hyper Potion
+Southwest area, on a small rock northeast of the cave opening (hidden; requires
+Surf
+)
+HG
+SS
+Southwest chamber
+Potion
+Northeast of the Route 31 entrance
+HG
+SS
+Poké Ball
+Northeast of the Route 31 entrance, on a small rock jutting out from the eastern set of ledges (hidden)
+HG
+SS
+Black Flute
+Dead-end path, east of the Route 31 entrance (requires
+Surf
+)
+HG
+SS
+Hyper Potion
+Northeast area, near the northernmost ledge (requires
+Rock Smash
+)
+HG
+SS
+Max Ether
+East-central area, on the cave wall between two stalagmites (hidden; requires
+Rock Smash
+)
+HG
+SS
+Full Heal
+Southeast area, north of the Route 46 entrance (requires
+Rock Smash
+)
+HG
+SS
+Dire Hit
+Southeast area, west-northwest of the Route 46 entrance (requires
+Rock Smash
+)
+HG
+SS
+Northeast chamber
+Turn west and walk down the two stairways, then use
+Surf
+to continue southward. Pick up the
+Revive
+on the southeast ridge, then go west along the water's edge to find
+TM54
+(
+False Swipe
+) on top of a ledge. Backtrack a bit and swim northward across the water, then walk westward along the ridge. Visit the northwest corner to find a shady man; you surprised him with your presence, and he gives you a pair of
+BlackGlasses
+to forget that you saw him here. Head south from here over several ledges to reach the cave's western chamber.
+Southwest chamber
+To the west, there is a
+Potion
+sitting in the middle ground between two sets of ledges, if you have not collected it by now. Next, use
+Surf
+to cross the small pool to the south for a
+Black Flute
+. Afterward, use either
+Rock Smash
+or
+Surf
+to move eastward, then use
+Strength
+to continue onward. Clear away another rock and loop around the northeast corner to reach a
+Hyper Potion
+. Jump the ledge and continue southward to pick up a
+Full Heal
+, then move southwest for a
+Dire Hit
+. The exit to
+Route 46
+is located to the south.
+Route 46
+Route 46
+Route 46
+connects
+Route 45
+and
+Route 29
+. The rugged mountain road from
+Blackthorn City
+comes to an end here, as the mountains give way to hills. A small grove of Apricorn trees grows in a secluded field, to the west of the
+Dark Cave
+entrance.
+Trainers
+Trainer
+Pokémon
+Camper
+Ted
+Reward:
+$
+272
+Potential
+Double Battle
+with Erin
+Mankey
+♂
+Lv.
+17
+No item
+Picnicker
+Erin
+Reward:
+$
+224
+Potential
+Double Battle
+with Ted
+Ponyta
+♀
+Lv.
+17
+No item
+Oddish
+♀
+Lv.
+14
+No item
+Hiker
+Bailey
+Reward:
+$
+416
+Geodude
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+2, 4
+25%
+25%
+55%
+Spearow
+HG
+SS
+Grass
+2-3
+35%
+35%
+0%
+Geodude
+HG
+SS
+Grass
+2-3
+40%
+40%
+45%
+Headbutt
+Group A
+Spearow
+HG
+SS
+Headbutt
+2-3
+50%
+Heracross
+HG
+SS
+Headbutt
+2-3
+30%
+Aipom
+HG
+SS
+Headbutt
+2-3
+20%
+Headbutt
+Group B
+Spearow
+HG
+SS
+Headbutt
+4-5
+80%
+Aipom
+HG
+SS
+Headbutt
+4-5
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Grn Apricorn
+West of the Dark Cave entrance, on the eastern tree (daily)
+HG
+SS
+Ylw Apricorn
+West of the Dark Cave entrance, on the western tree (daily)
+HG
+SS
+X Speed
+West-central area, near Camper Ted and Picnicker Erin
+HG
+SS
+Calcium
+From Picnicker Erin, after defeating her in a second rematch
+HG
+SS
+← Part 12
+Radio Tower, Goldenrod Underground, Route 44, Ice Path
+HeartGold and SoulSilver
+walkthrough
+Route 27, Route 26, Victory Road
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

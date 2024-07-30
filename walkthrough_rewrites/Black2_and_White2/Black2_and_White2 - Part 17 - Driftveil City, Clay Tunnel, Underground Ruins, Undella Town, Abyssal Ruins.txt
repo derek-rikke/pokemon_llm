@@ -1,0 +1,62 @@
+Game: Black2_and_White2
+Part: 17
+Keywords: Driftveil City, Clay Tunnel, Underground Ruins, Undella Town, Abyssal Ruins
+
+**Part 17 Walkthrough Summary**
+
+**1. Pokémon World Tournament**
+- After entering the Hall of Fame, unlock the Unova Leaders Tournament to battle local Gym Leaders. Win to access Kanto, Johto, Hoenn, and Sinnoh tournaments. Ten victories unlock the Champions Tournament.
+
+**2. Clay Tunnel**
+- Connects Driftveil City, Mistralton Cave, and Twist Mountain. Requires Strength and Surf. Stock up on Dusk Balls for capturing Regis in the Underground Ruins.
+
+**Key Trainers:**
+- Hiker Teppei: Aron (Lv. 61), Mawile (Lv. 61)
+- Worker Morgann: Sableye (Lv. 61), Dugtrio (Lv. 61)
+- Pokémon Ranger Maxwell: Forretress (Lv. 62), Crustle (Lv. 62), Armaldo (Lv. 62)
+
+**Available Pokémon:**
+- Boldore, Durant, Nosepass, Lairon, Woobat, Onix in various caves.
+
+**Items:**
+- Southern Cave: Blue Shard, Full Heal, Rare Bone (requires Strength).
+- Western Cave: Red Shard, HP Up, Nugget (requires Strength).
+- Northern Cave: Lum Berry (defeat Rangers), Metal Coat, Max Revive.
+
+**Exploration Tips:**
+- Move boulders to access items and shortcuts.
+- Defeat Pokémon Rangers for Lum Berries.
+- Use mine carts to navigate between caves.
+
+**3. Underground Ruins**
+- Contains Regirock (Lv. 65) and either Registeel (Black 2) or Regice (White 2). Use Grass and Water-type moves to weaken Regirock, and Fire or Fighting-type moves for the others.
+
+**4. Twist Mountain**
+- Rich in minerals, navigate through tunnels and defeat trainers.
+
+**Key Trainers:**
+- Worker Cairn: Roggenrola (Lv. 60), Excadrill (Lv. 60).
+- Veteran Julia: Glaceon (Lv. 63), Rhyperior (Lv. 63).
+
+**Items:**
+- TMs, Rare Bones, Dusk Balls located in various cave levels.
+
+**5. Undella Town**
+- Meet Hugh who gives you HM06 (Dive). Battle him for rewards.
+
+**Key Trainers:**
+- Hugh (varies by starter choice):
+  - Unfezant (Lv. 62)
+  - Simipour (Lv. 62)
+  - Bouffalant (Lv. 62)
+
+**6. Abyssal Ruins**
+- Dive to explore ancient temple ruins. Collect relics and plates for significant monetary value.
+
+**Items:**
+- Various Plates and Relics throughout the floors.
+
+**7. Daily Battles Against Hugh**
+- After defeating Hugh in Undella Town, challenge him daily at the former Team Plasma base in Driftveil City.
+
+This concise summary retains essential gameplay elements, item locations, and battle strategies for navigating Part 17 of the Pokémon Black 2 and White 2 walkthrough.

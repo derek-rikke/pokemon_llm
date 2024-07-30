@@ -1,0 +1,1135 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_14
+Keywords: Malie City, Malie Garden, Outer Cape
+
+Walkthrough Text:
+Contents
+1
+Malie City
+1.1
+Rival Battle 6
+1.1.1
+Player chose Rowlet:
+1.1.2
+Player chose Litten:
+1.1.3
+Player chose Popplio:
+1.2
+Malie Garden
+1.2.1
+Catch Up with Kukui
+1.3
+The Other Professor
+1.4
+Malasada Shop
+1.5
+Sushi High Roller
+1.5.1
+Time for a Trade
+1.6
+Salon
+1.7
+Apparel Shop
+1.7.1
+Male fashion items
+1.7.2
+Female fashion items
+1.8
+Malie Community Center
+1.9
+Malie Library
+1.9.1
+1F
+1.9.2
+2F
+2
+Outer Cape
+2.1
+Meet Gester
+Malie City
+Ula'ula Island
+Malie City
+The Aether ship delivers its passengers to
+Malie City
+on
+Ula'ula Island
+, the southeastern of the four major islands. Ula'ula is even larger than
+Akala Island
+, with many different places to visit and Pokémon to catch. Malie City's Eastern architecture was inspired by designs from the faraway
+Johto
+region. The city features a sprawling garden, a high-class restaurant, a library, several shops, and even a recycling plant on the cape.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Happiny
+N/A
+S
+M
+Trade
+Pancham
+27
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+$
+10,000
+Apparel shop; from a Collector, after registering
+Togedemaru
+in the Pokédex
+S
+M
+TM76
+(
+Fly
+)
+Malie Library; from a Sightseer on the lower floor
+S
+M
+Love Ball
+Malie Library; from Samson Oak, if player's party includes
+Alolan
+Persian
+S
+M
+Strange Souvenir
+From a Gentleman in the Community Center
+S
+M
+Best Friends Ribbon
+From a girl in the Community Center, if the lead Pokémon has maximum
+Affection
+S
+M
+Icy Rock
+From the Beauty in the weather class, after attempting the quiz
+S
+M
+Smooth Rock
+From the Beauty in the weather class, after attempting the quiz
+S
+M
+Heat Rock
+From the Beauty in the weather class, after attempting the quiz
+S
+M
+Damp Rock
+From the Beauty in the weather class, after attempting the quiz
+S
+M
+Zygarde Cell
+×2
+In front of the two trucks west of the Malie Garden entrance
+Day
+End of the hallway in the Malie Community Center
+Night
+S
+M
+After clearing Nanu's grand trial
+Darkinium Z
+Reward from Nanu at the harbor
+S
+M
+Reaper Cloth
+Pokémon Center; from the female Preschooler with a
+Mimikyu
+S
+M
+Shiny Stone
+Sold for
+$
+3,000 by a boy in the flea market
+S
+Dusk Stone
+Sold for
+$
+3,000 by a boy in the flea market
+M
+TM21
+(
+Frustration
+)
+From an
+Oranguru
+in the malasada restaurant
+Night
+S
+M
+TM27
+(
+Return
+)
+From a Police Officer, after receiving TM21
+Night
+S
+M
+Rival Battle 6
+With the two Trainers on solid ground again,
+Hau
+'s first order of business is to challenge you to another battle! Before the battle begins, Hau heals your Pokémon to full health.
+Player chose
+Rowlet
+:
+Pokémon Trainer
+Hau
+Malie City
+Sun and Moon
+Reward:
+$
+3,480
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+28
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+28
+Fire Fang
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Waterium Z
+Brionne
+♂
+Lv.
+29
+Bubble Beam
+Water
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Litten
+:
+Pokémon Trainer
+Hau
+Malie City
+Sun and Moon
+Reward:
+$
+3,480
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+28
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+28
+Water Pulse
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Flying
+Ability:
+Overgrow
+Held item:
+Grassium Z
+Dartrix
+♂
+Lv.
+29
+Razor Leaf
+Grass
+Physical
+--
+Pluck
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Popplio
+:
+Pokémon Trainer
+Hau
+Malie City
+Sun and Moon
+Reward:
+$
+3,480
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+28
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Leaf Guard
+Held item:
+None
+Leafeon
+♂
+Lv.
+28
+Giga Drain
+Grass
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Firium Z
+Torracat
+♂
+Lv.
+29
+Fire Fang
+Fire
+Physical
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterward, Hau runs off to meet
+Professor Kukui
+in
+Malie Garden
+. Before you can follow, Rotom informs you that a new subsection of Pokédex has been unlocked to accommodate the Pokémon found on
+Ula'ula Island
+. Go west from the Pokémon Center to find the road blocked by
+Lillie
+, who reminds you to visit the garden to the north.
+Malie Garden
+Malie Garden
+A well-manicured garden in the middle of the city,
+Malie Garden
+was designed by immigrants from the
+Johto
+region and features an Eastern style like the rest of the city. A popular tourist spot, a tea shop is located here to serve the many visitors.
+Trainers
+Trainer
+Pokémon
+Sightseer
+Mitch
+ミチタカ
+Michitaka
+Reward:
+$
+1,560
+Persian
+♂
+Lv.
+27
+No item
+Marowak
+♂
+Lv.
+26
+No item
+Preschooler
+Ailey
+ホノカ
+Honoka
+Reward:
+$
+312
+Cleffa
+♀
+Lv.
+26
+No item
+Sightseer
+Akali
+アカリ
+Akari
+Reward:
+$
+1,620
+Raticate
+♀
+Lv.
+26
+No item
+Raichu
+♀
+Lv.
+27
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Meowth
+Alolan Form
+Meowth
+S
+M
+Grass
+24-27
+20%
+Poliwag
+Poliwag
+S
+M
+Grass
+24-27
+20%
+Ledian
+Ledian
+S
+M
+Grass
+24-27
+20%
+-
+Ariados
+Ariados
+S
+M
+Grass
+24-27
+-
+20%
+Araquanid
+Araquanid
+S
+M
+Grass
+24-27
+20%
+-
+Masquerain
+Masquerain
+S
+M
+Grass
+24-27
+-
+20%
+Psyduck
+Psyduck
+S
+M
+Grass
+24-27
+10%
+Cottonee
+Cottonee
+S
+M
+Grass
+24-27
+10%
+Petilil
+Petilil
+S
+M
+Grass
+24-27
+10%
+Special allies in weather
+Any
+In
+rain
+:
+Poliwhirl
+S
+M
+Grass
+24-27
+10%
+Any
+Hail
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+24-27
+11%
+Any
+In
+rain
+:
+Poliwrath
+S
+M
+Grass
+24-27
+1%
+-
+Any
+In
+rain
+:
+Politoed
+S
+M
+Grass
+24-27
+-
+1%
+Fishing
+Goldeen
+Goldeen
+Seaking
+S
+M
+Fishing
+10-27
+60%
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-27
+40%
+Fishing at the bubbling spot
+Goldeen
+Goldeen
+Seaking
+S
+M
+Fishing
+10-27
+50%
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-27
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Grassy Seed
+Northeastern-most point of the garden
+S
+M
+Luxury Ball
+Southwest corner
+S
+M
+Rare Bone
+West side, at the tree north of Preschooler Ailey
+S
+M
+Rage Candy Bar
+Middle of the garden; under an umbrella, west side of the tea shop
+S
+M
+Big Mushroom
+End of the northeast path, at the foot of the tower
+S
+M
+Zygarde Cell
+Northwest corner of the garden
+S
+M
+Catch Up with Kukui
+Hau begins his search for the professor at the bridge north of the entrance, leaving you to explore the edges of the garden. When you reach the tea shop, you find
+Kukui
+sitting outside. Hau excitedly informs him of the events involving the
+Ultra Wormhole
+and
+Ultra Beasts
+. Kukui points to that as a great reason to train even harder on the island challenge, and wonders if one day it will be possible to travel through the wormhole. He then informs the two Trainers that their next trial is located atop
+Mount Hokulani
+, which can be reached from the bus stop on
+Route 10
+to the west. Hau insists on visiting the malasada shop first, so the professor leaves to wait for you on Route 10.
+The Other Professor
+Leave the garden and turn west.
+Lillie
+is headed to the Malie Library, and asks if you would help her to find a certain book. She sets off to the west, leaving you to follow. A moment later, you are greeted by someone that Rotom Dex refers to as "Professor". The man introduces himself as
+Samson Oak
+, a researcher who studies the
+regional variants
+of certain Pokémon species. He is off to the library as well, so you may chat with him there.
+Malasada Shop
+Continue west past the next road to reach the
+malasada
+shop. The left attendant sells both Spicy and Bitter varieties for
+$
+200 each. The right attendant sells
+Big Malasada
+for
+$
+350. Like with other locations, high demand forces the shop to limit the fried food to one per customer each day.
+Sushi High Roller
+Further west of the malasada shop is a high-class restaurant called Sushi High Roller. Z-Kaiseki meals can be purchased here for
+$
+4,000. After each meal, the customer receives four complimentary
+Heart Scales
+.
+Time for a Trade
+A female Sightseer at the table in the southeast corner is looking for a
+Pancham
+, and offers to trade her
+Happiny
+for one.
+Salon
+The salon is located to the north of the restaurant, and offers the usual cut and color services to travelers in need of a fresh haircut.
+Apparel Shop
+The apparel shop stands between the salon and the western wall of Malie Garden. It offers tops, bottoms, shoes, bags, hats, and eyewear, as well as socks for female customers.
+Male fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Sporty Tank
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+6,280
+Bottom
+Cutoff Jeans
+Light Blue
+Blue, Navy Blue
+Black, Faded Black
+$
+15,800
+Bottom
+Camo Cargo Shorts
+Green
+Gray
+Blue
+$
+5,800
+Bottom
+Ribbed Capris
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,250
+Bottom
+Sporty Long Shorts
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+3,980
+Shoes
+Sporty Sneakers
+Multi Red, Multi Yellow, Multi Orange, Multi Pink, Multi Beige
+Multi Green, Multi Blue, Multi Navy Blue, Multi Purple, Multi Gray
+$
+6,550
+Bag
+Sporty Backpack
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+12,000
+Hat
+Street Cap
+Order, Thunderbolt, Scaly
+Long Neck
+Cruel
+$
+5,400
+Hat
+Trilby Hat
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+7,900
+Hat
+Sports Cap
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+3,580
+Eyewear
+Mirrored Sunglasses
+White
+Yellow, Red
+Blue, Green
+$
+15,800
+Female fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Halter Top
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,800
+Top
+Striped Halter Top
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+6,200
+Top
+Flower-Print Top
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+4,500
+Top
+Sporty Tank
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+6,280
+Bottom
+Frayed Denim Shorts
+Light Blue
+Blue, Navy Blue
+Black, Faded Black
+$
+11,000
+Bottom
+Distressed Jeans
+Light Blue
+Blue, Navy Blue
+Black, Faded Black
+$
+15,800
+Bottom
+Plaid Miniskirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+8,100
+Bottom
+Sporty Shorts
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+3,980
+Socks
+Camo Over-the-Knee Socks
+Green
+Pink
+Blue
+$
+1,400
+Shoes
+Sporty Sneakers
+Multi Red, Multi Yellow, Multi Orange, Multi Pink, Multi Beige
+Multi Green, Multi Blue, Multi Navy Blue, Multi Purple, Multi Gray
+$
+6,550
+Bag
+Sporty Bag
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+12,000
+Hat
+Trilby Hat
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+7,900
+Hat
+Street Cap
+Order, Thunderbolt, Scaly
+Long Neck
+Cruel
+$
+5,400
+Hat
+Sports Cap
+Fruit
+Sea Cucumber
+Jellyfish, Woolly Crab
+$
+3,580
+Eyewear
+Mirrored Sunglasses
+White
+Yellow, Red
+Blue, Green
+$
+15,800
+Malie Community Center
+The Community Center is located to the west of Malie Garden. A girl in the sitting area will give your lead Pokémon a
+Best Friends Ribbon
+if it has maximum
+Affection
+. Two rooms down the hallway contain a class on
+weather
+effects and a
+flea market
+.
+Malie Library
+Go north to find Lillie outside the library. A
+Mudsdale
+suddenly runs up to her, with
+Hapu
+close behind. Realizing Lillie is no trial-goer, Hapu asks what she is doing here. Lillie mentions that she is studying the Tapu's ruins, and Hapu offers to lead the way whenever she likes. Hapu and Mudsdale leave, and you follow Lillie inside the building.
+1F
+Lillie tells you that the book she is looking for is very old, and contains information on the myths and legends that she heard about from
+Professor Burnet
+. These tales seem to suggest that
+Alola
+'s Legendary Pokémon came from another world. She heads upstairs, leaving you to explore on your own.
+The woman at the center table is from
+Johto
+, where Trainers teach their Pokémon to
+Fly
+with a
+Hidden Machine
+. That's not necessary in Alola, where the move is relegated to
+TM76
+, an item that she hands over as thanks for teaching her something new.
+Samson Oak
+can be found in the back corner on the first floor. He explains a bit more about regional variants, and mentions that he'd like to see one of the local
+Persians
+. Speak to him with an Alolan Persian in your party to receive a
+Love Ball
+.
+2F
+Upstairs, Lillie is still looking for her book, until a purple-haired girl points out that it is laying open on the table. Lillie reads aloud
+The Light of Alola
+, which references beasts of sun and moon that appeared from a wormhole and battled with the island guardians.
+Acerola
+mentions that the book had belonged to her father, and that her family was once royalty. Lillie stays behind to learn more from her, and wishes you luck on your upcoming
+Electric-type
+trial.
+Outer Cape
+Trainers
+Trainer
+Pokémon
+Janitor
+Melvin
+Reward:
+$
+1,080
+Trubbish
+♂
+Lv.
+26
+No item
+Trubbish
+♂
+Lv.
+27
+No item
+Janitor
+Shawn
+Reward:
+$
+1,080
+Muk
+♂
+Alolan form
+Lv.
+27
+No item
+After defeating Shawn
+Ace Trainer
+Chase
+Reward:
+$
+1,972
+Grimer
+♂
+Alolan form
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Grimer
+Alolan Form
+Grimer
+S
+M
+Grass
+24-27
+30%
+Trubbish
+Trubbish
+Garbodor
+S
+M
+Grass
+24-27
+30%
+Magnemite
+Magnemite
+S
+M
+Grass
+24-27
+20%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+24-27
+20%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+24-27
+-
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Antidote
+North end of the western grass patch
+S
+M
+Twisted Spoon
+From Janitor Shawn, after defeating Ace Trainer Chase
+S
+M
+Friend Ball
+From Samson Oak in the northeast area
+S
+M
+X Speed
+Northeast area; north of the trucks
+S
+M
+Nugget
+South of the southeast grass patch
+S
+M
+Zygarde Cell
+East of the Recycling Plant; south side of the truck
+Day
+S
+M
+North of the library is the city's outer cape. Speak to the Janitors outside the Recycling Plant, and they explain how they collect garbage for
+Grimer
+and
+Muk
+to eat. The boss of the plant, Janitor Shawn, then challenges you to a battle. After defeating him, he asks you to battle his son, Ace Trainer Chase. After that second battle, Shawn is proud of his son for trying, and makes him the head of the plant. He then gives you a
+Twisted Spoon
+as thanks.
+Meet Gester
+There is an old man in front of the building who introduces himself as
+Gester
+. A choreographer, he teaches different battle styles to interested Trainers, and lets them change their style to any they have learned. Battle styles are the name for a Trainer's pose when first sending out a Pokémon at the start of battle. There are
+eight different styles
+in all.
+← Part 13
+Aether Paradise
+Sun and Moon
+walkthrough
+Route 10, Mount Hokulani, Hokulani Observatory
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

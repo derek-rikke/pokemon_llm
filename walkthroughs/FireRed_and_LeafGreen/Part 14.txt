@@ -1,0 +1,2283 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_14
+Keywords: Sevii Islands, Part I:One Island, Two Island, Three Island
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+One Island
+1.1
+One Island (Town)
+1.1.1
+Pokémon Network Center
+1.1.2
+Deliver the Meteorite
+1.2
+Treasure Beach
+1.3
+Kindle Road
+1.3.1
+Ember Spa
+1.3.1.1
+Mind Over Matter
+1.3.2
+Mt. Ember
+1.3.2.1
+Exterior
+1.3.2.2
+Interior
+1.3.2.3
+Exterior
+1.3.2.4
+Summit
+1.3.2.4.1
+VS Moltres
+2
+Two Island
+2.1
+Two Island (Town)
+2.1.1
+Market Stall
+2.1.2
+Move Maniac
+2.1.3
+Joyful Game Corner
+2.2
+Cape Brink
+3
+Three Island
+3.1
+Three Isle Port
+3.1.1
+Trouble in Paradise
+3.1.2
+Three Isle Path
+3.1.2.1
+The Lure of the Ore
+3.2
+Three Island (Town)
+3.2.1
+Network Machine: Online
+3.2.2
+Biker, Begone!
+3.2.3
+Lostelle's house
+3.3
+Bond Bridge
+3.4
+Berry Forest
+3.4.1
+Save Lostelle!
+4
+Two Island
+4.1
+Joyful Game Corner
+4.1.1
+Skip & Chomp!
+5
+One Island
+5.1
+One Island (Town)
+5.1.1
+Pokémon Network Center
+One Island
+One Island
+Ember Spa
+Mt. Ember, Exterior
+Mt. Ember, Summit
+One Island (Town)
+Pokémon Network Center
+Upon reaching
+One Island
+,
+Bill
+leads you into the
+Pokémon Network Center
+and introduces you to his friend
+Celio
+, a programmer who runs the PC network for the
+Sevii Islands
+. The building functions as a traditional Pokémon Center and also houses the Pokémon Network Machine. Celio is currently performing maintenance on the machine, but the islands are too remote and the machine is having trouble connecting to Bill's PC system on the
+Kanto
+mainland. Until maintenance is complete, the normal PC services will be unavailable.
+Deliver the Meteorite
+While he and Celio get to work on the machine, Bill asks you a favor: visit nearby
+Two Island
+and speak to the man who runs the Game Corner there. He has an interest in rare rocks and gems, and Bill has a
+Meteorite
+for you to deliver to him. To help with this task, Celio gives you a
+Tri-Pass
+, a ferry ticket that enables travel between the three northernmost islands in the archipelago. He also gives you a second page for the
+Town Map
+that displays
+One Island
+,
+Two Island
+, and
+Three Island
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Shellder
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Staryu
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Meteorite
+Pokémon Network Center; from Bill
+FR
+LG
+Tri-Pass
+Pokémon Network Center; from Celio, after receiving the Meteorite
+FR
+LG
+Treasure Beach
+South of the port is a small island, with only a single Trainer swimming nearby. This is
+Treasure Beach
+, known for the valuable items that regularly wash up on the shore. The tides usually replace these items by the next day, allowing treasure hunters to easily stockpile these rare items.
+Trainers
+Trainer
+Pokémon
+Swimmer♀
+Amara
+Reward:
+$
+144
+Seel
+♀
+Lv.
+36
+No item
+Seel
+♀
+Lv.
+36
+No item
+Dewgong
+♀
+Lv.
+36
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spearow
+FR
+LG
+Grass
+31-32
+30%
+Tangela
+FR
+LG
+Grass
+33, 35
+30%
+Fearow
+FR
+LG
+Grass
+36, 38, 40
+20%
+Meowth
+FR
+LG
+Grass
+31
+10%
+Persian
+FR
+LG
+Grass
+37, 40
+5%
+Psyduck
+FR
+LG
+Grass
+31
+5%
+Slowpoke
+FR
+LG
+Grass
+31
+5%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+×2
+One step east of the northernmost spot of regular grass
+(hidden
+recurring item
+; always)
+In the southeast corner
+(hidden
+recurring item
+; always)
+FR
+LG
+Pearl
+×2
+On the west side of the southernmost sandy patch
+(hidden
+recurring item
+; group B)
+Two steps east, two steps north of the other Pearl
+(hidden
+recurring item
+; group B)
+FR
+LG
+Big Pearl
+In the middle of the northwestern sandy patch
+(hidden
+recurring item
+; group C)
+FR
+LG
+Stardust
+×2
+Near the middle of the shore
+(hidden
+recurring item
+; group B)
+Southwest corner of the northwestern sandy patch
+(hidden
+recurring item
+; group B)
+FR
+LG
+Star Piece
+Four steps north, one step west of the southeast corner
+(hidden
+recurring item
+; group C)
+FR
+LG
+Kindle Road
+Kindle Road
+, on the island's rocky eastern side, leads northward from the town to
+Mt. Ember
+. The grassy western path is packed with Trainers, and is the only location where wild
+Ponyta
+and
+Rapidash
+can be found. A rocky area on the northern edge of the main island houses the
+Ember Spa
+.
+Trainers
+Trainer
+Pokémon
+Swimmer♀
+Abigail
+Reward:
+$
+148
+Psyduck
+♀
+Lv.
+35
+No item
+Psyduck
+♀
+Lv.
+36
+No item
+Golduck
+♀
+Lv.
+37
+No item
+Picnicker
+Claire
+Reward:
+$
+700
+Meowth
+♀
+Lv.
+35
+No item
+Meowth
+♀
+Lv.
+35
+No item
+Pikachu
+♀
+Lv.
+35
+No item
+Clefairy
+♀
+Lv.
+35
+No item
+Crush Girl
+Tanya
+Reward:
+$
+912
+Hitmonlee
+♂
+Lv.
+38
+No item
+Hitmonchan
+♂
+Lv.
+38
+No item
+Camper
+Bryce
+Reward:
+$
+720
+Nidorino
+♂
+Lv.
+36
+No item
+Raticate
+♂
+Lv.
+36
+No item
+Sandslash
+♂
+Lv.
+36
+No item
+Swimmer♂
+Garrett
+Reward:
+$
+152
+Shellder
+♂
+Lv.
+35
+No item
+Cloyster
+♂
+Lv.
+35
+No item
+Wartortle
+♂
+Lv.
+38
+No item
+Crush Kin
+Mik & Kia
+Reward:
+$
+1872
+Machoke
+♂
+Lv.
+39
+No item
+Primeape
+♂
+Lv.
+39
+No item
+Black Belt
+Hugh
+Reward:
+$
+888
+Machop
+♂
+Lv.
+37
+No item
+Machoke
+♂
+Lv.
+37
+No item
+Black Belt
+Shea
+Reward:
+$
+912
+Machop
+♂
+Lv.
+38
+No item
+Machoke
+♂
+Lv.
+38
+No item
+Crush Girl
+Sharon
+Reward:
+$
+888
+Mankey
+♂
+Lv.
+37
+No item
+Primeape
+♂
+Lv.
+37
+No item
+Swimmer♂
+Finn
+Reward:
+$
+152
+Starmie
+Lv.
+38
+No item
+Swimmer♀
+Maria
+Reward:
+$
+148
+Seadra
+♀
+Lv.
+37
+No item
+Seadra
+♀
+Lv.
+37
+No item
+Fisherman
+Tommy
+Reward:
+$
+1260
+Goldeen
+♂
+Lv.
+33
+No item
+Goldeen
+♂
+Lv.
+33
+No item
+Seaking
+♂
+Lv.
+35
+No item
+Seaking
+♂
+Lv.
+35
+No item
+Seaking
+♂
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+FR
+LG
+Grass
+31, 34
+30%
+Spearow
+FR
+LG
+Grass
+30, 32
+25%
+Fearow
+FR
+LG
+Grass
+36
+10%
+Meowth
+FR
+LG
+Grass
+31
+10%
+Geodude
+FR
+LG
+Grass
+31
+10%
+Persian
+FR
+LG
+Grass
+37, 40
+5%
+Psyduck
+FR
+LG
+Grass
+34
+5%
+Rapidash
+FR
+LG
+Grass
+37, 40
+5%
+Slowpoke
+FR
+LG
+Grass
+34
+5%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+5-30
+95%
+Graveler
+FR
+LG
+Rock Smash
+25-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+East of the rocky ridge, on a sandy patch (requires
+Surf
+)
+FR
+LG
+HM06
+(
+Rock Smash
+)
+Ember Spa; from the old man
+FR
+LG
+Ether
+In the rocky area south of Ember Spa (requires
+Rock Smash
+)
+FR
+LG
+Carbos
+Southern point of the rocky ridge (requires
+Rock Smash
+)
+FR
+LG
+Ember Spa
+Ember Spa is a small hot spring. By standing in the middle of the water, people and Pokémon can relax and restore their health.
+Mind Over Matter
+The old man standing between the two waterfalls claims to have carved the cave out of a gigantic boulder many years ago. As he no longer needs the tool he used, he gives the
+HM06
+(
+Rock Smash
+) to you. This field move allows you to remove
+weak-looking rocks
+to clear a path.
+Certain Pokémon
+like to hide themselves under these rocks, and will attack when their hiding place is removed!
+Mt. Ember
+Mt. Ember
+is a dormant volcano located at the northernmost point of
+One Island
+, across a small channel from Ember Spa.
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Beth
+Reward:
+$
+1368
+Bellsprout
+♀
+Lv.
+38
+No item
+Gloom
+♀
+Lv.
+38
+No item
+Gloom
+♀
+Lv.
+38
+No item
+Crush Girl
+Jocelyn
+Reward:
+$
+912
+Hitmonchan
+♂
+Lv.
+38
+No item
+Hitmonchan
+♂
+Lv.
+38
+No item
+Pokémon Ranger
+Logan
+Reward:
+$
+1440
+Exeggcute
+♂
+Lv.
+37
+No item
+Exeggutor
+♂
+Lv.
+40
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+FR
+LG
+Grass
+30, 33, 36
+35%
+Fearow
+FR
+LG
+Grass
+38, 40
+25%
+Spearow
+FR
+LG
+Grass
+30, 32
+15%
+Spearow
+FR
+LG
+Grass
+32
+10%
+Machop
+FR
+LG
+Grass
+35
+10%
+Geodude
+FR
+LG
+Grass
+33
+10%
+Rapidash
+FR
+LG
+Grass
+39, 42
+5%
+Magmar
+FR
+LG
+Grass
+38, 40
+5%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+5-30
+95%
+Graveler
+FR
+LG
+Rock Smash
+25-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dire Hit
+Lower east side; northeast of the eastern patch of tall grass
+FR
+LG
+Ultra Ball
+×2
+Lower west side; southwest of Pokémon Ranger Logan, end of the dead-end path
+(hidden)
+Upper west side; dead-end path west of the summit entrance
+FR
+LG
+Fire Stone
+×2
+Upper east side; southeast of the summit entrance (requires
+Rock Smash
+,
+Strength
+)
+Upper west side; on a lone rock, southwest of the summit entrance
+(hidden)
+FR
+LG
+Exterior
+To the east, a pair of
+Team Rocket
+Grunts are whispering to themselves about digging and treasure. Near the entrance, a Hiker offers to teach
+Explosion
+to a compatible Pokémon. Go west and use
+Strength
+to move a pair of boulders, then battle Pokémon Ranger Beth. Head north from the second patch of tall grass to battle the jogging Crush Girl Jocelyn, then go east to find a
+Dire Hit
+. Turn around and go west from Jocelyn to fight Pokémon Ranger Logan and venture inside the mountain.
+Interior
+Follow the tunnels eastward through the volcano to re-emerge on the upper east side.
+Exterior
+Climb up the first stairway to find a group of boulders and
+cracked rocks
+to the east. Use
+Rock Smash
+to remove the western rock, then use
+Strength
+to move the southernmost boulder; clear the next rock and boulder to reach a
+Fire Stone
+on the ledge beyond. The stairway to the west leads to another
+Ultra Ball
+.
+Summit
+A second group of boulders litters the area. Use
+Strength
+to clear a way northward to find a large bird Pokémon roosting atop the volcano.
+VS Moltres
+Moltres is the next member of the
+legendary birds
+. Use
+Water
+- and
+Electric-type
+attacks to weaken it quickly, then follow up with
+Grass
+and
+Fighting
+moves to wear its health down further. Like with
+Articuno
+, inflicting status ailments like
+Sleep
+and
+Paralysis
+will help increase the chances of capturing it.
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+None
+Moltres
+Lv.
+50
+Fire Spin
+Fire
+--
+Agility
+Psychic
+--
+Endure
+Normal
+--
+Flamethrower
+Fire
+--
+Now that you have explored
+One Island
+, fly back to the Pokémon Network Center and take the ferry to the next island.
+Two Island
+Two Island
+Two Island
+is a tiny island with little more than a Pokémon Center. The
+Joyful Game Corner
+is located here, and the Market Stall offers different items over time. Unlike in the town of
+One Island
+, the waters around the port are too rough, making it impossible to surf or fish.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+FR
+LG
+Grass
+30, 32
+30%
+Bellsprout
+FR
+LG
+Grass
+30, 32
+30%
+Spearow
+FR
+LG
+Grass
+31
+20%
+Gloom
+FR
+LG
+Grass
+36, 38
+15%
+Weepinbell
+FR
+LG
+Grass
+36, 38
+15%
+Fearow
+FR
+LG
+Grass
+36
+10%
+Meowth
+FR
+LG
+Grass
+31
+10%
+Persian
+FR
+LG
+Grass
+37, 40
+5%
+Psyduck
+FR
+LG
+Grass
+31
+5%
+Golduck
+FR
+LG
+Grass
+37, 40
+5%
+Slowpoke
+FR
+LG
+Grass
+31
+5%
+Slowbro
+FR
+LG
+Grass
+37, 40
+5%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+5-40
+95%
+Slowpoke
+FR
+LG
+Surfing
+5-40
+95%
+Golduck
+FR
+LG
+Surfing
+35-40
+5%
+Slowbro
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Poliwag
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Poliwhirl
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+South of the Game Corner (requires
+Cut
+)
+FR
+LG
+PP Max
+Cape Brink; sandy spot on the lake's east side
+(hidden)
+(requires
+Surf
+,
+Itemfinder
+)
+FR
+LG
+Rare Candy
+Cape Brink; behind the Move Tutor's house
+(hidden)
+FR
+LG
+Later visit
+Moon Stone
+Game Corner; from Lostelle's father, after her safe return
+FR
+LG
+Two Island (Town)
+Market Stall
+The owner of the
+Market Stall
+moved here from
+Celadon City
+to set up shop with his younger brother. Only
+Great Balls
+and
+Fresh Water
+can be purchased initially, but their inventory is updated over time.
+Ultra Ball
+After saving
+Lostelle
+$
+1200
+Great Ball
+Before
+Ruby
+/
+Sapphire
+quest
+$
+600
+Repeat Ball
+After
+Ruby
+/
+Sapphire
+quest
+$
+1000
+Timer Ball
+After
+Ruby
+/
+Sapphire
+quest
+$
+1000
+Lemonade
+After entering
+Hall of Fame
+$
+350
+Soda Pop
+After saving
+Lostelle
+$
+300
+Fresh Water
+$
+200
+Moomoo Milk
+After entering
+Hall of Fame
+$
+500
+Lava Cookie
+After
+Ruby
+/
+Sapphire
+quest
+$
+200
+Move Maniac
+The house to the south of the Market Stall belongs to the
+Move Maniac
+. He claims to know every single move a Pokémon can learn as it grows up, and can re-teach any move that a Pokémon had forgotten. As a mushroom enthusiast, he accepts either two
+TinyMushrooms
+or one
+Big Mushroom
+per transaction as payment.
+Joyful Game Corner
+The
+Joyful Game Corner
+is located on the east side of town. When you enter, you find the owner pacing around the building. It seems that his daughter,
+Lostelle
+, likes to bring lunch for him every day, but he is starting to worry as she is running late. He pleads with you to search
+Three Island
+. A Biker suddenly enters the building, mistaking the area for Three Island. The owner chases him out, and asks again that you save Lostelle.
+Cape Brink
+Cape Brink
+is a short mountain road on the island's north side. The lone house here belongs to a Channeler who has perfected the ultimate
+Grass
+,
+Fire
+, and
+Water
+moves. She offers to teach
+Frenzy Plant
+to
+Venusaur
+,
+Blast Burn
+to
+Charizard
+, and
+Hydro Cannon
+to
+Blastoise
+. Each of these attacks may only be taught once each, and only to your original
+partner Pokémon
+.
+Three Island
+Three Island
+Berry Forest
+Berry Forest, with Berry locations
+Three Island
+consists of two plots of land: a larger island to the east that holds the town of
+Three Island
+, and a smaller wooded islet to the west where the
+Berry Forest
+is located.
+Three Isle Port
+Three Isle Port
+is located on the south side of the island, connecting the port to the town of
+Three Island
+. A small cave leads into the cliffside to the east.
+Trouble in Paradise
+Upon leaving the port, you find several rowdy Bikers harassing the residents. That must mean trouble for the town, as well!
+Three Isle Path
+Three Isle Path
+is a small cave on the southeast side of the larger island. The cliffside here is rumored to hide a large deposit of gold, and one of the residents mines tirelessly for the precious metal.
+Items
+Item
+Location
+Games
+Later visit
+Nugget
+×2
+Southeast of the stairway, on a rock
+(hidden)
+From the man as a gift
+FR
+LG
+The Lure of the Ore
+By the time you receive the
+National Pokédex
+, the man's unrelenting drive has expanded the cave into a tunnel. It seems that he was successful in his treasure hunt, as he shares a spare
+Nugget
+with you. This tunnel opens to an isolated cliff with a single patch of tall grass, inhabited only by
+Dunsparce
+.
+Three Island (Town)
+The town of
+Three Island
+encompasses nearly half of the larger island. The local Pokémon Center and Poké Mart are located on the east side, and the house belonging to
+Lostelle
+and her father can be found to the west.
+Trainers
+Trainer
+Pokémon
+Biker
+Goon
+Reward:
+$
+740
+Koffing
+♂
+Lv.
+37
+No item
+Grimer
+♂
+Lv.
+37
+No item
+Biker
+Goon
+Reward:
+$
+760
+Koffing
+♂
+Lv.
+38
+No item
+Biker
+Goon
+Reward:
+$
+760
+Grimer
+♂
+Lv.
+38
+No item
+Cue Ball
+Paxton
+Reward:
+$
+936
+Weezing
+♂
+Lv.
+39
+No item
+Muk
+♂
+Lv.
+39
+No item
+Items
+Item
+Location
+Games
+Full Restore
+From the southernmost of the two residents, after defeating the group
+FR
+LG
+Zinc
+Dead-end path south of the Poké Mart (requires
+Cut
+)
+FR
+LG
+PP Up
+Behind the fence on the west side, accessed via Bond Bridge
+(hidden)
+(requires
+Cut
+)
+FR
+LG
+Network Machine: Online
+By the time you arrive in town,
+Bill
+and
+Celio
+'s work on the Network Machine has successfully linked the
+Pokémon Network Center
+with Bill's PC system on
+the mainland
+, restoring all normal PC functions in the process.
+Biker, Begone!
+Several more Bikers can be found causing trouble near the Pokémon Center. Approach the gang and one of them asks if you really want to take them on. Defeat the
+Kanto Rider Federation
+in four consecutive battles and they reluctantly leave the island in peace.
+Lostelle's house
+The house with the red roof in the southwest part of town belongs to
+Lostelle
+and her father. She is still nowhere to be found, so she must have gone deeper into the island. With the Bikers gone, one of the residents informs you that she had gone west toward
+Bond Bridge
+.
+Bond Bridge
+Bond Bridge
+connects the main island with the western islet and the
+Berry Forest
+. Several Trainers can be found here, and valuable items sometimes wash up near the bridge.
+Trainers
+Trainer
+Pokémon
+Twins
+Joy & Meg
+Reward:
+$
+888
+Clefairy
+♀
+Lv.
+37
+No item
+Clefairy
+♀
+Lv.
+37
+No item
+Aroma Lady
+Violet
+Reward:
+$
+1008
+Bulbasaur
+♂
+Lv.
+36
+No item
+Ivysaur
+♂
+Lv.
+36
+No item
+Ivysaur
+♂
+Lv.
+36
+No item
+Tuber
+Alexis
+Reward:
+$
+136
+Staryu
+Lv.
+34
+No item
+Staryu
+Lv.
+34
+No item
+Krabby
+♂
+Lv.
+34
+No item
+Krabby
+♂
+Lv.
+34
+No item
+Swimmer♀
+Tisha
+Reward:
+$
+152
+Requires
+Surf
+Kingler
+♀
+Lv.
+38
+No item
+Tuber
+Amira
+Reward:
+$
+136
+Poliwag
+♂
+Lv.
+34
+No item
+Poliwhirl
+♂
+Lv.
+35
+No item
+Poliwag
+♂
+Lv.
+34
+No item
+Aroma Lady
+Nikki
+Reward:
+$
+1036
+Bellsprout
+♀
+Lv.
+37
+No item
+Weepinbell
+♀
+Lv.
+37
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+FR
+LG
+Grass
+29, 32
+30%
+Oddish
+FR
+LG
+Grass
+31
+20%
+Bellsprout
+FR
+LG
+Grass
+31
+20%
+Pidgeotto
+FR
+LG
+Grass
+34, 37, 40
+15%
+Gloom
+FR
+LG
+Grass
+36
+10%
+Meowth
+FR
+LG
+Grass
+31
+10%
+Weepinbell
+FR
+LG
+Grass
+36
+10%
+Venonat
+FR
+LG
+Grass
+34
+5%
+Persian
+FR
+LG
+Grass
+37, 40
+5%
+Psyduck
+FR
+LG
+Grass
+31
+5%
+Slowpoke
+FR
+LG
+Grass
+31
+5%
+Surfing
+Tentacool
+FR
+LG
+Surfing
+5-40
+95%
+Tentacruel
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Krabby
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Horsea
+FR
+LG
+Fishing
+Good Rod
+5-15
+80%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Krabby
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Horsea
+FR
+LG
+Fishing
+Super Rod
+15-25
+80%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Kingler
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Seadra
+FR
+LG
+Fishing
+Super Rod
+25-35
+4%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+25-35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+Northwest of the ledge and Aroma Lady Violet, on a rock
+(hidden)
+FR
+LG
+Pearl
+Southeast of the bridge, near Tuber Alexis
+(hidden
+recurring item
+; group B)
+FR
+LG
+Stardust
+One step west, two steps north of the northwest corner of the bridge
+(hidden
+recurring item
+; group B)
+FR
+LG
+Berry Forest
+Berry Forest
+is a dense, dark forest known for its plentiful supply of
+Berries
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+FR
+LG
+Grass
+37
+20%
+Gloom
+FR
+LG
+Grass
+35
+20%
+Weepinbell
+FR
+LG
+Grass
+35
+20%
+Pidgey
+FR
+LG
+Grass
+32
+10%
+Oddish
+FR
+LG
+Grass
+30
+10%
+Venonat
+FR
+LG
+Grass
+34
+10%
+Bellsprout
+FR
+LG
+Grass
+30
+10%
+Drowzee
+FR
+LG
+Grass
+34
+10%
+Venomoth
+FR
+LG
+Grass
+37, 40
+5%
+Psyduck
+FR
+LG
+Grass
+31
+5%
+Slowpoke
+FR
+LG
+Grass
+31
+5%
+Hypno
+FR
+LG
+Grass
+37, 40
+5%
+Exeggcute
+FR
+LG
+Grass
+35
+5%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+5-40
+95%
+Slowpoke
+FR
+LG
+Surfing
+5-40
+95%
+Golduck
+FR
+LG
+Surfing
+35-40
+5%
+Slowbro
+FR
+LG
+Surfing
+35-40
+5%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Goldeen
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Seaking
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Razz Berry
+Northwest of the first tall grass patch
+(hidden
+recurring item
+; group A)
+FR
+LG
+Oran Berry
+Northeast of the first tall grass patch
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Persim Berry
+Northeast of the
+ledge
+near the entrance
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Pinap Berry
+Southeast of the second ledge
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Chesto Berry
+Northeast corner of the forest
+(hidden
+recurring item
+; group A)
+FR
+LG
+Full Heal
+North side of the northern pond
+(hidden)
+FR
+LG
+Aspear Berry
+Northwest of the northernmost pond
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Rawst Berry
+North-northwest area of the forest
+(hidden
+recurring item
+; group A)
+FR
+LG
+Max Ether
+North-northwest area, west of the
+Rawst Berry
+FR
+LG
+Bluk Berry
+West-southwest of the first pond
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Nanab Berry
+East-northeast of the second pond
+(hidden
+recurring item
+; group A)
+FR
+LG
+Cheri Berry
+North of the second pond
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Wepear Berry
+North of the second pond
+(hidden
+recurring item
+; groups B and C)
+FR
+LG
+Pecha Berry
+North of the southwestern pond
+(hidden
+recurring item
+; group A)
+FR
+LG
+Max Elixir
+Dead-end path southeast of the southernmost pond (requires
+Surf
+,
+Cut
+)
+FR
+LG
+Lum Berry
+Northwest corner of the forest
+(hidden
+recurring item
+; group C)
+FR
+LG
+Iapapa Berry
+Northwest corner of the forest; from
+Lostelle
+, after saving her
+FR
+LG
+Save Lostelle!
+Make your way to the northwest corner of the forest to find
+Lostelle
+. She is terrified by a Pokémon that she saw a short time ago and is too scared to move. Just then, she starts screaming when she sees the Pokémon reappear. Defeat or capture the wild
+Hypno
+!
+Type:
+Psychic
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Hypno
+♂
+/
+♀
+Lv.
+30
+Confusion
+Psychic
+--
+Headbutt
+Normal
+--
+Poison Gas
+Poison
+--
+Meditate
+Psychic
+--
+Afterward, she reveals that she visited the forest to pick Berries to include with her father's lunch. As thanks for saving her, she gives you an
+Iapapa Berry
+. She is still scared to travel alone, so the two of you automatically travel together back to the Game Corner on
+Two Island
+.
+Two Island
+Joyful Game Corner
+Now that
+Lostelle
+is safe and sound, speak to her father to finally deliver
+Bill
+'s
+Meteorite
+. He gives you a
+Moon Stone
+as thanks, and promises to get the Game Corner back up and running right away.
+Skip & Chomp!
+The Joyful Game Corner offers two multiplayer minigames. Both games feature a selection of Berries as possible prizes.
+In
+Pokémon Jump
+, a entrant's Pokémon must jump over a
+Venusaur
+'s
+Vine Whip
+like a jumprope in sync with others to earn points within a time limit. Only small Pokémon capable of jumping are allowed to play.
+In
+Dodrio Berry Picking
+, several
+Dodrio
+line up and try to catch as many falling Berries as possible before the timer runs out. Each entrant must have a Dodrio in their party to participate.
+These games may be played with other Trainers in
+FireRed, LeafGreen
+and
+Emerald
+Versions.
+One Island
+One Island (Town)
+Pokémon Network Center
+Bill
+and
+Celio
+have now finished their work on the Pokémon Network Machine, so Bill is ready to head home. He leads you out of the building and the two of you automatically take the ferry back to
+Cinnabar Island
+.
+← Part 13
+Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym
+FireRed and LeafGreen
+walkthrough
+Route 21, Power Plant, Viridian Gym
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1494 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_10
+Keywords: Relic Castle, Nacrene Museum, Route 8, Moor of Icirrus, Tubeline Bridge, Route 9
+
+Walkthrough Text:
+Contents
+1
+Desert Resort
+1.1
+Relic Castle
+1.1.1
+B1F
+1.1.2
+B2F
+1.1.3
+B3F
+1.1.4
+B4F
+1.1.5
+B5F
+2
+Nacrene City
+3
+Route 8
+3.1
+Moor of Icirrus
+4
+Tubeline Bridge
+5
+Route 9
+Desert Resort
+Relic Castle
+When you visit the
+Relic Castle
+this time, the
+Worker
+on the first floor has cleared out the sand that blocked the way, so you can reach the lower floors by taking the stairs in the southwest.
+Trainers
+Trainer
+Pokémon
+B1F
+Team Plasma Grunt
+Reward:
+$
+1360
+Watchog
+♂
+Lv.
+34
+No item
+Krokorok
+♂
+Lv.
+34
+No item
+Krokorok
+♂
+Lv.
+34
+No item
+B2F
+Team Plasma Grunt
+Reward:
+$
+1400
+Scraggy
+♂
+Lv.
+35
+No item
+Watchog
+♂
+Lv.
+35
+No item
+Team Plasma Grunt
+Reward:
+$
+1440
+Garbodor
+♀
+Lv.
+36
+No item
+B3F
+Team Plasma Grunt
+Reward:
+$
+1440
+Krokorok
+♂
+Lv.
+36
+No item
+Team Plasma Grunt
+Reward:
+$
+1360
+Liepard
+♀
+Lv.
+34
+No item
+Trubbish
+♀
+Lv.
+34
+No item
+Trubbish
+♀
+Lv.
+34
+No item
+B4F
+Team Plasma Grunt
+Reward:
+$
+1400
+Watchog
+♂
+Lv.
+35
+No item
+Scraggy
+♂
+Lv.
+35
+No item
+Team Plasma Grunt
+Reward:
+$
+1400
+Trubbish
+♀
+Lv.
+35
+No item
+Liepard
+♀
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sandile
+B
+W
+1F, B1F
+19-22
+50%
+Yamask
+B
+W
+1F, B1F
+19-22
+50%
+Krokorok
+B
+W
+B2F-B5F
+34-37
+50%
+Cofagrigus
+B
+W
+B2F-B5F
+34-37
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+B2F; in the southeast
+B
+W
+TM30
+(
+Shadow Ball
+)
+B2F; south-central area
+B
+W
+PP Max
+B3F; in the northwest tower, near the stairs
+(hidden)
+(post-game)
+B
+W
+Max Revive
+B3F; by the south wall
+B
+W
+PP Up
+B3F; near the second Plasma grunt
+B
+W
+Sun Stone
+B4F; east side
+B
+W
+Super Potion
+B4F; in the southeast sand pile
+(hidden)
+B
+W
+B1F
+Ryoku of the
+Seven Sages
+tells you that
+Ghetsis
+is testing you. Fight the grunt waiting for you, then drop through to the next floor.
+B2F
+Pick up the
+Max Potion
+, fight the two grunts, grab the
+TM30
+(
+Shadow Ball
+), and drop through the southern patch of quicksand.
+B3F
+Fight the
+Plasma
+grunt, and drop through the quicksand patch to the left to reach B4F. Grab the
+Sun Stone
+and the hidden
+Super Potion
+, take the stairs back to B2F, and drop through the quicksand to the south to return to B3F. Pick up the
+Max Revive
+by the south wall and beat the other grunt. Circle around the quicksand, grab the
+PP Up
+and drop through the southwest patch of quicksand.
+B4F
+Beat the two grunts and drop through the quicksand to the bottom floor.
+B5F
+When you finally reach the bottom floor,
+Cheren
+is right behind you.
+Alder
+and
+Ghetsis
+are here, but Ghetsis tells you that the
+Light Stone
+B
+/
+Dark Stone
+W
+is not. He tells you to find the other legendary dragon so that you can fight
+the king
+, then leaves.
+The three of you re-emerge in the
+Desert Resort
+. While you're talking with
+Alder
+and
+Cheren
+, your
+Xtransceiver
+rings. It's an urgent call from
+Professor Juniper
+, asking you to get to the
+Nacrene City
+museum immediately.
+Nacrene City
+When you reach the museum,
+Professor Juniper
+,
+Cedric Juniper
+,
+Bianca
+, and
+Alder
+are waiting for you. The professor says that you are caught up in something serious.
+Lenora
+leaves the museum and hands you the
+Light Stone
+B
+/
+Dark Stone
+W
+. Alder asks if you are ready to battle
+N
+if anything happens to him, and Lenora remembers that "
+those
+two
+" in
+Opelucid City
+are
+Dragon-type
+specialists.
+Fly
+back to
+Icirrus City
+and go northeast to
+Route 8
+.
+Route 8
+Route 8
+Route 8
+is covered in marshes and water. Constant rain means that the route is always mucky. To the north is the
+Moor of Icirrus
+, where a marsh has formed from water collected on the uneven landscape. Battle the Trainers and collect the items as you make your way to the moor.
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Lewis
+Reward:
+$
+2040
+Cubchoo
+♂
+Lv.
+34
+No item
+Palpitoad
+♂
+Lv.
+34
+No item
+Maractus
+♂
+Lv.
+34
+No item
+Parasol Lady
+Melita
+Reward:
+$
+1088
+Frillish
+♀
+Female
+Lv.
+34
+No item
+Ducklett
+♀
+Lv.
+34
+No item
+Pokémon Ranger
+Annie
+Reward:
+$
+2160
+Cinccino
+♀
+Lv.
+36
+No item
+Fisherman
+Bruce
+Reward:
+$
+1088
+Basculin
+♂
+Red-Striped Form
+Lv.
+34
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+34
+No item
+Parasol Lady
+Lumi
+Reward:
+$
+1120
+Alomomola
+♀
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Palpitoad
+B
+W
+Puddle
+30-33
+40%
+40%
+40%
+--
+Shelmet
+B
+W
+Puddle
+30-33
+40%
+40%
+40%
+--
+Stunfisk
+B
+W
+Puddle
+31-32
+20%
+20%
+20%
+--
+Surfing
+Stunfisk
+B
+W
+Surfing
+15-35
+100%
+Rippling Water
+Stunfisk
+B
+W
+Rippling water
+15-40
+95%
+Seismitoad
+B
+W
+Rippling water
+15-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Elixir
+Near the
+Icirrus City
+entrance (hidden; Spring, Summer, Autumn only)
+B
+W
+Pecha Berry
+×2
+From
+Pokémon Ranger
+Lewis after defeating him
+From
+Pokémon Ranger
+Annie after defeating her
+B
+W
+Poison Barb
+North of
+Pokémon Ranger
+Lewis
+B
+W
+TM36
+(
+Sludge Bomb
+)
+Northeast of
+Pokémon Ranger
+Lewis
+B
+W
+Full Heal
+East of
+Parasol Lady
+Melita
+B
+W
+Full Restore
+Northwest of
+Pokémon Ranger
+Annie (hidden)
+B
+W
+Ultra Ball
+East of Pokémon Ranger Annie
+B
+W
+TM42
+(
+Facade
+)
+From the
+Parasol Lady
+near the Trainer Tips sign
+B
+W
+Damp Rock
+From the
+Parasol Lady
+near the Tubeline Bridge gate (morning)
+B
+W
+Heat Rock
+(once a day)
+From the
+Parasol Lady
+near the Tubeline Bridge gate (afternoon)
+B
+W
+Smooth Rock
+(once a day)
+From the
+Parasol Lady
+near the Tubeline Bridge gate (evening)
+B
+W
+Icy Rock
+(once a day)
+From the
+Parasol Lady
+near the Tubeline Bridge gate (night)
+B
+W
+Full Restore
+From Bianca after defeating her
+B
+W
+The Moor of Icirrus
+Moor of Icirrus
+In the
+Moor of Icirrus
+, Pokémon appear in the marshes and water covering the area. To see everything, you'll need a Pokémon that knows
+Strength
+to move the rock on the west side.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Damon
+Reward:
+$
+1088
+Basculin
+♂
+Blue-Striped Form
+Lv.
+34
+No item
+Stunfisk
+♂
+Lv.
+34
+No item
+Pokémon Ranger
+Chloris
+Reward:
+$
+2040
+Emolga
+♀
+Lv.
+34
+No item
+Maractus
+♀
+Lv.
+34
+No item
+Alomomola
+♀
+Lv.
+34
+No item
+Pokémon Ranger
+Harry
+Reward:
+$
+2100
+Vanillish
+♂
+Lv.
+35
+No item
+Fraxure
+♂
+Lv.
+35
+No item
+Spring, Summer, Autumn only
+Parasol Lady
+Mariah
+Reward:
+$
+1088
+Frillish
+♀
+Male
+Lv.
+34
+No item
+Frillish
+♂
+Male
+Lv.
+34
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Palpitoad
+B
+W
+Puddle
+30-33
+40%
+40%
+40%
+--
+Shelmet
+B
+W
+Puddle
+30-33
+40%
+40%
+40%
+--
+Stunfisk
+B
+W
+Puddle
+31-32
+20%
+20%
+20%
+--
+Surfing
+Stunfisk
+B
+W
+Surfing
+15-35
+100%
+Rippling Water
+Stunfisk
+B
+W
+Rippling water
+15-40
+95%
+Seismitoad
+B
+W
+Rippling water
+15-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+In the patch of flowers north of
+Fisherman
+Damon (hidden)
+B
+W
+Sitrus Berry
+×2
+From
+Pokémon Ranger
+Chloris after defeating her
+From
+Pokémon Ranger
+Harry after defeating him
+B
+W
+Max Potion
+North part of the moor
+B
+W
+Revive
+Northwest of
+Pokémon Ranger
+Harry (hidden)
+B
+W
+Big Mushroom
+On the ledge southeast of
+Pokémon Ranger
+Harry (hidden)
+B
+W
+Max Elixir
+Northeast of
+Pokémon Ranger
+Harry
+B
+W
+Ultra Ball
+On the far side of the western marsh (requires
+Strength
+)
+B
+W
+Carbos
+In the group of tree stumps west of
+Parasol Lady
+Mariah
+B
+W
+Spring, Summer, Autumn only
+Max Revive
+In the clump of trees north of
+Fisherman
+Damon
+B
+W
+Max Ether
+Northwest of
+Parasol Lady
+Mariah (hidden, requires
+Strength
+)
+B
+W
+Once you've gathered all the items, return to
+Route 8
+. Go south through the marsh, and turn east when you reach the Trainer Tips sign. Talk to the first
+Parasol Lady
+to get
+TM42
+(
+Facade
+). The Parasol Lady behind the sign will give you either a
+Damp Rock
+, a
+Heat Rock
+, a
+Smooth Rock
+, or an
+Icy Rock
+, depending on the time of day you speak to her. Visit her again for a few days to get each item.
+When you try to enter the
+Tubeline Bridge
+to continue east,
+Bianca
+appears and starts talking to you. She says that there is a lot that she wants to do, but first she needs to know more about Pokémon, so she challenges you to a battle.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Bianca
+Route 8
+Black and White
+Reward:
+$
+4000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Stoutland
+♀
+Lv.
+38
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Roar
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisear
+♂
+Lv.
+38
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+38
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Samurott
+♂
+Lv.
+40
+Revenge
+Fighting
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Slash
+Normal
+Physical
+--
+Encore
+Normal
+Status
+--
+Pokémon Trainer
+Bianca
+Route 8
+Black and White
+Reward:
+$
+4000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Stoutland
+♀
+Lv.
+38
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Roar
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simipour
+♂
+Lv.
+38
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Scald
+Water
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+38
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Serperior
+♂
+Lv.
+40
+Mega Drain
+Grass
+Special
+--
+Slam
+Normal
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Coil
+Poison
+Status
+--
+Pokémon Trainer
+Bianca
+Route 8
+Black and White
+Reward:
+$
+4000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Stoutland
+♀
+Lv.
+38
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Roar
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Simisage
+♂
+Lv.
+38
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+38
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Emboar
+♂
+Lv.
+40
+Rollout
+Rock
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Heat Crash
+Fire
+Physical
+--
+Assurance
+Dark
+Physical
+--
+When you defeat her, she gives you a
+Full Restore
+as she leaves.
+Tubeline Bridge
+Tubeline Bridge
+The
+Tubeline Bridge
+is a strong bridge made of steel. Subway trains constantly pass by on the bridge's lower level. On Friday nights, a
+Biker
+gang that calls themselves the Black
+Empoleon
+appear and take over the bridge. After beating the leader, Jeremy, he renames the gang after your lead Pokémon.
+Trainers
+Trainer
+Pokémon
+Biker
+Morgann
+Reward:
+$
+1184
+Bouffalant
+♂
+Lv.
+37
+No item
+Biker
+Jeremy
+Reward:
+$
+1120
+Joltik
+♂
+Lv.
+35
+No item
+Scraggy
+♂
+Lv.
+35
+No item
+Krokorok
+♂
+Lv.
+35
+No item
+Talk to the jogging
+Battle Girl
+to get
+TM43
+(
+Flame Charge
+) and continue to the eastern end, where
+Ghetsis
+and the
+Shadow Triad
+are waiting for you. He compliments you on obtaining the
+Light Stone
+B
+/
+Dark Stone
+W
+, then lectures you about his plans. Once he leaves, continue east to
+Route 9
+.
+Route 9
+Route 9
+Route 9
+is a short, paved road that cuts through a heavily wooded area. On the north side is
+Shopping Mall Nine
+, which boasts the greatest variety of goods in
+the region
+. When you leave
+Tubeline Bridge
+, an
+Infielder
+near the gate throws
+TM56
+(
+Fling
+) to you. Check out the department store's wares, then leave east for
+Opelucid City
+.
+Trainers
+Outside
+Trainer
+Pokémon
+Biker
+Phillip
+Reward:
+$
+1152
+Krokorok
+♂
+Lv.
+36
+No item
+Scraggy
+♂
+Lv.
+36
+No item
+Roughneck
+Reese
+Reward:
+$
+864
+Krokorok
+♂
+Lv.
+36
+No item
+Garbodor
+♂
+Lv.
+36
+No item
+Hooligans
+Jim & Cas
+Reward:
+$
+2368
+Scraggy
+♂
+Lv.
+37
+No item
+Scraggy
+♂
+Lv.
+37
+No item
+Biker
+Zeke
+Reward:
+$
+1184
+Pawniard
+♂
+Lv.
+37
+No item
+Roughneck
+Chance
+Reward:
+$
+888
+Scraggy
+♂
+Lv.
+37
+No item
+In the Mall
+Trainer
+Pokémon
+Lower Section
+Waitress
+Flo
+Reward:
+$
+1440
+Minccino
+♀
+Lv.
+36
+No item
+Lilligant
+♀
+Lv.
+36
+No item
+Middle Section
+Rich Boy
+Manuel
+Reward:
+$
+5760
+Liepard
+♂
+Lv.
+36
+No item
+Upper Section
+Waiter
+Bert
+Reward:
+$
+1440
+Minccino
+♂
+Lv.
+36
+No item
+Lampent
+♂
+Lv.
+36
+No item
+Lady
+Isabel
+Reward:
+$
+5760
+Stoutland
+♀
+Lv.
+36
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Gothorita
+B
+W
+Grass
+31-34
+30%
+Duosion
+B
+W
+Grass
+31-34
+30%
+Garbodor
+B
+W
+Grass
+31-33
+20%
+Minccino
+B
+W
+Grass
+32
+20%
+Pawniard
+B
+W
+Grass
+31-34
+20%
+Liepard
+B
+W
+Grass
+33
+10%
+Dark grass
+Gothorita
+B
+W
+Dark grass
+36-39
+30%
+Duosion
+B
+W
+Dark grass
+36-39
+30%
+Garbodor
+B
+W
+Dark grass
+36-38
+20%
+Minccino
+B
+W
+Dark grass
+37
+20%
+Pawniard
+B
+W
+Dark grass
+31-39
+20%
+Liepard
+B
+W
+Dark grass
+38
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+31-34
+80%
+Emolga
+B
+W
+Rustling grass
+32
+10%
+Cinccino
+B
+W
+Rustling grass
+34
+5%
+Gothitelle
+B
+W
+Rustling grass
+34
+5%
+Reuniclus
+B
+W
+Rustling grass
+34
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM56
+(
+Fling
+)
+From the
+Infielder
+upon exiting the
+Tubeline Bridge
+gate
+B
+W
+Lemonade
+On the road in front of
+Shopping Mall Nine
+(hidden)
+B
+W
+HP Up
+South of the fence in the dark grass
+B
+W
+Max Ether
+South of the fence near the
+Tubeline Bridge
+gate (hidden)
+B
+W
+Full Restore
+Far south of the fence, halfway through the route
+B
+W
+← Part 9
+Twist Mountain, Icirrus City, Icirrus Gym, Dragonspiral Tower
+Black and White
+walkthrough
+Opelucid City, Opelucid Gym, Route 10, Victory Road
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

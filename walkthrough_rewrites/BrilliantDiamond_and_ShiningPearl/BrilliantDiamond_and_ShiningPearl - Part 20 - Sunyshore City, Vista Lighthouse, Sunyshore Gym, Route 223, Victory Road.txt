@@ -1,0 +1,31 @@
+Game: BrilliantDiamond_and_ShiningPearl
+Part: 20
+Keywords: Sunyshore City, Vista Lighthouse, Sunyshore Gym, Route 223, Victory Road
+
+**Part 20 Walkthrough: Sunyshore City, Vista Lighthouse, Sunyshore Gym, Route 223, and Victory Road**
+
+1. **Sunyshore City**: 
+   - After arriving, heal at the Pokémon Center.
+   - Explore the city for items; notably, find a few TMs scattered around.
+
+2. **Vista Lighthouse**: 
+   - Head to Vista Lighthouse to progress the story.
+   - Talk to Jasmine at the top to receive HM07 (Waterfall).
+
+3. **Sunyshore Gym**:
+   - The gym specializes in Electric-type Pokémon.
+   - Key strategy: Use Ground-type Pokémon to counter Electric moves.
+   - Defeat Volkner to earn the Beacon Badge and TM57 (Charge Beam).
+
+4. **Route 223**:
+   - Head south from Sunyshore to Route 223.
+   - Navigate through trainers and use Surf to cross water.
+   - Collect items along the route, including healing items and TMs.
+
+5. **Victory Road**:
+   - Enter Victory Road; prepare for tough battles.
+   - Stock up on healing items and revive your Pokémon.
+   - Solve the boulder puzzle to progress through the cave.
+   - Face off against the Elite Four at the end.
+
+Remember to save frequently and manage your Pokémon's levels and moves effectively for upcoming challenges!

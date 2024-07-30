@@ -1,0 +1,50 @@
+Game: HeartGold_and_SoulSilver
+Part: 19
+Keywords: Route 9, Cerulean City, Routes 24 and 25, Cerulean Gym, Route 5
+
+**Part 19 Walkthrough: HeartGold and SoulSilver**
+
+**Route 9**
+- Connects Route 10 and Cerulean City.
+- Trainers:
+  - Picnicker Edna: Nidorina (Lv. 41), Raichu (Lv. 45)
+  - Camper Sid: Dugtrio (Lv. 43), Poliwrath (Lv. 40), Primeape (Lv. 40)
+  - Hiker Eoin: 3 Graveler (Lv. 42)
+- Items:
+  - Full Restore (Southeast near Picnicker Heidi)
+  - TM91 (Flash Cannon, requires Cut)
+  - Max Potion (Southwest near Picnicker Edna)
+
+**Cerulean City**
+- Key Locations: Cerulean Gym, Cerulean Cave.
+- Reclaim the Machine Part: Follow the Team Rocket Grunt from the Gym to Nugget Bridge, then retrieve the Machine Part from inflatable tubes in the Gym.
+- After defeating the Gym Leader, receive TM03 (Water Pulse) from Misty.
+
+**Route 24**
+- Features Nugget Bridge.
+- Trainers available and can yield items like Nuggets.
+
+**Route 25**
+- Defeat multiple trainers and receive a Nugget from Ace Trainer Kevin.
+- Key Pokémon: Various Grass and Water-types.
+
+**Cerulean Gym (Misty)**
+- Specializes in Water-types.
+- Recommended Strategy: Use Grass and Electric moves. 
+- Key Pokémon:
+  - Golduck (Lv. 49)
+  - Quagsire (Lv. 49)
+  - Lapras (Lv. 52)
+  - Starmie (Lv. 54)
+- Defeating Misty awards you the Cascade Badge and TM03 (Water Pulse).
+
+**Route 5**
+- Visit the former Pokémon Day Care for a Cleanse Tag.
+- Continue west to Route 7.
+
+**Key Items:**
+- Machine Part: Cerulean Gym (hidden).
+- Nugget: From Ace Trainer Kevin on Route 25.
+- Cleanse Tag: Former Day Care.
+
+This concise walkthrough covers essential routes, battles, and item locations, focusing on progress points through the game.

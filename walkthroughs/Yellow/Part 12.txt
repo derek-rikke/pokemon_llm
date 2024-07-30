@@ -1,0 +1,2142 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_12
+Keywords: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 12
+1.1
+Roadblock
+1.2
+Fishing Guru 3
+2
+Route 13
+3
+Route 14
+4
+Route 15
+4.1
+Share the Wealth
+5
+Fuchsia City
+5.1
+Prepare to Set Sail
+6
+Route 19
+6.1
+Summer Beach House
+7
+Route 20 (East)
+7.1
+Seafoam Islands
+7.1.1
+1F
+7.1.2
+B1F
+7.1.3
+B2F
+7.1.4
+B1F (Northeast)
+7.1.5
+B2F (Northeast)
+7.1.6
+B3F
+7.1.7
+B4F
+7.1.7.1
+VS Articuno
+7.1.8
+B3F
+8
+Route 20 (West)
+Route 12
+Route 12
+Route 12
+connects
+Lavender Town
+,
+Route 11
+, and
+Route 13
+. Beyond the northern gate, the area is also known as Silence Bridge. It is a favorite spot for Fishermen.
+Trainers
+Trainer
+Pokémon
+North of Snorlax
+Fisherman
+Reward:
+$
+770
+Goldeen
+Lv.
+22
+No item
+Poliwag
+Lv.
+22
+No item
+Goldeen
+Lv.
+22
+No item
+Fisherman
+Reward:
+$
+840
+Tentacool
+Lv.
+24
+No item
+Goldeen
+Lv.
+24
+No item
+Fisherman
+Reward:
+$
+945
+Goldeen
+Lv.
+27
+No item
+Fisherman
+Reward:
+$
+735
+Poliwag
+Lv.
+21
+No item
+Shellder
+Lv.
+21
+No item
+Goldeen
+Lv.
+21
+No item
+Horsea
+Lv.
+21
+No item
+South of Snorlax
+Rocker
+Reward:
+$
+725
+Voltorb
+Lv.
+29
+No item
+Electrode
+Lv.
+29
+No item
+Jr. Trainer♂
+Reward:
+$
+580
+Nidoran♂
+Lv.
+29
+No item
+Nidorino
+Lv.
+29
+No item
+Fisherman
+Reward:
+$
+840
+Magikarp
+Lv.
+24
+No item
+Magikarp
+Lv.
+24
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+B
+Y
+Grass
+25, 27
+35%
+Bellsprout
+R
+B
+Y
+Grass
+25, 27
+25%
+Pidgey
+R
+B
+Y
+Grass
+28
+15%
+Pidgeotto
+R
+B
+Y
+Grass
+28
+10%
+Gloom
+R
+B
+Y
+Grass
+29
+5%
+Weepinbell
+R
+B
+Y
+Grass
+29
+5%
+Farfetch'd
+R
+B
+Y
+Grass
+26, 31
+5%
+Surfing
+Slowpoke
+R
+B
+Y
+Surfing
+15
+95%
+Slowbro
+R
+B
+Y
+Surfing
+15, 20
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Horsea
+R
+B
+Y
+Fishing
+Super Rod
+20, 25
+70%
+Seadra
+R
+B
+Y
+Fishing
+Super Rod
+25, 35
+30%
+Special Pokémon
+Snorlax
+R
+B
+Y
+Only one
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM39
+(
+Swift
+)
+From the girl on the second floor of the Lavender gate
+Y
+TM16
+(
+Pay Day
+)
+Southeast of the Lavender Town gate (requires
+Surf
+)
+Y
+Hyper Potion
+Between the
+Snorlax
+and the Route 11 gate, on the southeast tree
+(hidden)
+Y
+Super Rod
+From the
+Fishing Guru
+'s younger brother
+Y
+Iron
+Southwest of the Fishing Guru's house (requires
+Cut
+)
+Y
+Roadblock
+Halfway through the route, a second
+Snorlax
+has fallen asleep in another inconvenient place. Use the
+Poké Flute
+like before to wake the Pokémon, and it attacks in a grumpy rage!
+Type:
+Normal
+Unknown
+Snorlax
+Lv.
+30
+Headbutt
+Normal
+--
+Amnesia
+Psychic
+--
+Rest
+Psychic
+--
+Struggle
+Normal
+--
+Fishing Guru 3
+The house to the south of the intersection with
+Route 11
+is home to the
+Fishing Guru
+'s younger brother. Speak to him to receive the
+Super Rod
+. This high-end fishing rod is the best model available and can reel in some of the strongest sea creatures, like
+Seaking
+and
+Dratini
+.
+Route 13
+Route 13
+Route 13
+is a difficult, narrow path that leads westward to
+Route 14
+. Many Trainers can be found among the maze of fences.
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♀
+Reward:
+$
+560
+Goldeen
+Lv.
+28
+No item
+Poliwag
+Lv.
+28
+No item
+Horsea
+Lv.
+28
+No item
+Bird Keeper
+Reward:
+$
+725
+Pidgey
+Lv.
+29
+No item
+Pidgeotto
+Lv.
+29
+No item
+Jr. Trainer♀
+Reward:
+$
+480
+Pidgey
+Lv.
+24
+No item
+Meowth
+Lv.
+24
+No item
+Rattata
+Lv.
+24
+No item
+Pidgey
+Lv.
+24
+No item
+Meowth
+Lv.
+24
+No item
+Beauty
+Reward:
+$
+1890
+Rattata
+Lv.
+27
+No item
+Vulpix
+Lv.
+27
+No item
+Rattata
+Lv.
+27
+No item
+Beauty
+Reward:
+$
+2030
+Clefairy
+Lv.
+29
+No item
+Meowth
+Lv.
+29
+No item
+Jr. Trainer♀
+Reward:
+$
+600
+Poliwag
+Lv.
+30
+No item
+Poliwag
+Lv.
+30
+No item
+Jr. Trainer♀
+Reward:
+$
+540
+Pidgey
+Lv.
+27
+No item
+Meowth
+Lv.
+27
+No item
+Pidgey
+Lv.
+27
+No item
+Pidgeotto
+Lv.
+27
+No item
+Bird Keeper
+Reward:
+$
+625
+Spearow
+Lv.
+25
+No item
+Pidgey
+Lv.
+25
+No item
+Pidgey
+Lv.
+25
+No item
+Spearow
+Lv.
+25
+No item
+Spearow
+Lv.
+25
+No item
+Bird Keeper
+Reward:
+$
+650
+Pidgey
+Lv.
+26
+No item
+Pidgeotto
+Lv.
+26
+No item
+Spearow
+Lv.
+26
+No item
+Fearow
+Lv.
+26
+No item
+Biker
+Reward:
+$
+560
+Koffing
+Lv.
+28
+No item
+Koffing
+Lv.
+28
+No item
+Koffing
+Lv.
+28
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+28
+10%
+Pidgeotto
+R
+B
+Y
+Grass
+28
+15%
+Oddish
+R
+B
+Y
+Grass
+25, 27
+35%
+Gloom
+R
+B
+Y
+Grass
+29
+5%
+Bellsprout
+R
+B
+Y
+Grass
+25, 27
+25%
+Weepinbell
+R
+B
+Y
+Grass
+29
+5%
+Farfetch'd
+R
+B
+Y
+Grass
+26, 31
+5%
+Surfing
+Slowpoke
+R
+B
+Y
+Surfing
+15
+95%
+Slowbro
+R
+B
+Y
+Surfing
+15, 20
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Horsea
+R
+B
+Y
+Fishing
+Super Rod
+15, 20
+70%
+Tentacool
+R
+B
+Y
+Fishing
+Super Rod
+10
+20%
+Seadra
+R
+B
+Y
+Fishing
+Super Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Calcium
+In a gap along the fence on the southern edge of the maze
+(hidden)
+Y
+PP Up
+In a gap along the fence on the southern edge of the maze
+(hidden)
+Y
+Route 14
+Route 14
+Route 14
+is a pleasant coastal road where the salty breeze blows in from the sea. The path runs south to
+Route 15
+.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Reward:
+$
+650
+Pidgey
+Lv.
+26
+No item
+Spearow
+Lv.
+26
+No item
+Pidgey
+Lv.
+26
+No item
+Fearow
+Lv.
+26
+No item
+Bird Keeper
+Reward:
+$
+700
+Pidgey
+Lv.
+28
+No item
+Doduo
+Lv.
+28
+No item
+Pidgeotto
+Lv.
+28
+No item
+Bird Keeper
+Reward:
+$
+725
+Pidgeotto
+Lv.
+29
+No item
+Fearow
+Lv.
+29
+No item
+Bird Keeper
+Reward:
+$
+700
+Spearow
+Lv.
+28
+No item
+Doduo
+Lv.
+28
+No item
+Fearow
+Lv.
+28
+No item
+Biker
+Reward:
+$
+580
+Koffing
+Lv.
+29
+No item
+Muk
+Lv.
+29
+No item
+Bird Keeper
+Reward:
+$
+825
+Farfetch'd
+Lv.
+33
+No item
+Biker
+Reward:
+$
+580
+Koffing
+Lv.
+29
+No item
+Grimer
+Lv.
+29
+No item
+Biker
+Reward:
+$
+560
+Grimer
+Lv.
+28
+No item
+Grimer
+Lv.
+28
+No item
+Koffing
+Lv.
+28
+No item
+Biker
+Reward:
+$
+520
+Koffing
+Lv.
+26
+No item
+Koffing
+Lv.
+26
+No item
+Grimer
+Lv.
+26
+No item
+Koffing
+Lv.
+26
+No item
+Bird Keeper
+Reward:
+$
+725
+Spearow
+Lv.
+29
+No item
+Fearow
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+B
+Y
+Grass
+26, 28
+35%
+Bellsprout
+R
+B
+Y
+Grass
+26, 28
+25%
+Venonat
+R
+B
+Y
+Grass
+24, 27
+19%
+Pidgeotto
+R
+B
+Y
+Grass
+30
+10%
+Gloom
+R
+B
+Y
+Grass
+30
+5%
+Weepinbell
+R
+B
+Y
+Grass
+30
+5%
+Venomoth
+R
+B
+Y
+Grass
+30
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 15
+Route 15
+Route 15
+leads west from
+Route 14
+back to
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+Northern path (requires Cut)
+Jr. Trainer♀
+Reward:
+$
+660
+Clefairy
+Lv.
+33
+No item
+Southern path
+Beauty
+Reward:
+$
+2030
+Pidgeotto
+Lv.
+29
+No item
+Wigglytuff
+Lv.
+29
+No item
+Jr. Trainer♀
+Reward:
+$
+580
+Pidgey
+Lv.
+29
+No item
+Pidgeotto
+Lv.
+29
+No item
+Biker
+Reward:
+$
+500
+Koffing
+Lv.
+25
+No item
+Koffing
+Lv.
+25
+No item
+Weezing
+Lv.
+25
+No item
+Koffing
+Lv.
+25
+No item
+Grimer
+Lv.
+25
+No item
+Biker
+Reward:
+$
+560
+Koffing
+Lv.
+28
+No item
+Grimer
+Lv.
+28
+No item
+Weezing
+Lv.
+28
+No item
+Beauty
+Reward:
+$
+2030
+Bulbasaur
+Lv.
+29
+No item
+Ivysaur
+Lv.
+29
+No item
+Jr. Trainer♀
+Reward:
+$
+560
+Gloom
+Lv.
+28
+No item
+Oddish
+Lv.
+28
+No item
+Oddish
+Lv.
+28
+No item
+Bird Keeper
+Reward:
+$
+700
+Dodrio
+Lv.
+28
+No item
+Doduo
+Lv.
+28
+No item
+Doduo
+Lv.
+28
+No item
+Bird Keeper
+Reward:
+$
+650
+Pidgeotto
+Lv.
+26
+No item
+Farfetch'd
+Lv.
+26
+No item
+Doduo
+Lv.
+26
+No item
+Pidgey
+Lv.
+26
+No item
+Jr. Trainer♀
+Reward:
+$
+580
+Bellsprout
+Lv.
+29
+No item
+Oddish
+Lv.
+29
+No item
+Tangela
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+B
+Y
+Grass
+26, 28
+35%
+Bellsprout
+R
+B
+Y
+Grass
+26, 28
+25%
+Venonat
+R
+B
+Y
+Grass
+24, 27
+19%
+Pidgeotto
+R
+B
+Y
+Grass
+32
+10%
+Gloom
+R
+B
+Y
+Grass
+30
+5%
+Weepinbell
+R
+B
+Y
+Grass
+30
+5%
+Venomoth
+R
+B
+Y
+Grass
+30
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM20
+(
+Rage
+)
+Western portion of the northern hill (requires
+Cut
+)
+Y
+Exp. All
+In the gate; from
+Professor Oak
+'s
+aide
+, after capturing 50 different species
+Y
+Share the Wealth
+Enter the gate and speak to another of
+Professor Oak
+'s
+aides
+. If you have caught at least 50 different species, the professor has asked him to give you an
+Exp. All
+. This item distributes
+Experience Points
+to all Pokémon in your party whether they battle or not, but reduces the number of points for those that do.
+Fuchsia City
+Route 19
+Prepare to Set Sail
+Traveling through the southern islands will require the use of
+Surf
+and
+Strength
+, so plan accordingly. Be sure to bring along plenty of Poké Balls, too. Not only are there several new
+Water
+Pokémon to catch, but there is also rumored to be a
+Legendary Pokémon
+nesting somewhere along the way.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Magikarp
+R
+B
+Y
+Fishing
+Super Rod
+5, 10, 15
+90%
+Gyarados
+R
+B
+Y
+Fishing
+Super Rod
+15
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 19
+Route 19
+runs south from the
+Fuchsia City
+beach to
+Route 20
+. It is a popular spot for swimming and sunbathing.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Reward:
+$
+145
+Goldeen
+Lv.
+29
+No item
+Horsea
+Lv.
+29
+No item
+Staryu
+Lv.
+29
+No item
+Swimmer
+Reward:
+$
+150
+Tentacool
+Lv.
+30
+No item
+Shellder
+Lv.
+30
+No item
+Requires Surf
+Swimmer
+Reward:
+$
+150
+Horsea
+Lv.
+30
+No item
+Horsea
+Lv.
+30
+No item
+Swimmer
+Reward:
+$
+150
+Poliwag
+Lv.
+30
+No item
+Poliwhirl
+Lv.
+30
+No item
+Swimmer
+Reward:
+$
+135
+Horsea
+Lv.
+27
+No item
+Tentacool
+Lv.
+27
+No item
+Tentacool
+Lv.
+27
+No item
+Goldeen
+Lv.
+27
+No item
+Swimmer
+Reward:
+$
+145
+Goldeen
+Lv.
+29
+No item
+Shellder
+Lv.
+29
+No item
+Seaking
+Lv.
+29
+No item
+Swimmer
+Reward:
+$
+135
+Tentacool
+Lv.
+27
+No item
+Tentacool
+Lv.
+27
+No item
+Staryu
+Lv.
+27
+No item
+Horsea
+Lv.
+27
+No item
+Tentacruel
+Lv.
+27
+No item
+Beauty
+Reward:
+$
+2100
+Goldeen
+Lv.
+30
+No item
+Seaking
+Lv.
+30
+No item
+Beauty
+Reward:
+$
+1890
+Poliwag
+Lv.
+27
+No item
+Goldeen
+Lv.
+27
+No item
+Seaking
+Lv.
+27
+No item
+Goldeen
+Lv.
+27
+No item
+Poliwag
+Lv.
+27
+No item
+Beauty
+Reward:
+$
+2030
+Staryu
+Lv.
+29
+No item
+Staryu
+Lv.
+29
+No item
+Staryu
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+B
+Y
+Surfing
+5, 10, 15, 20, 30, 35, 40
+100%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Tentacool
+R
+B
+Y
+Fishing
+Super Rod
+15, 30
+60%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+20
+30%
+Tentacruel
+R
+B
+Y
+Fishing
+Super Rod
+30
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Summer Beach House
+Visit the Summer Beach House and speak to the Surfin' Dude. If you have a
+Pikachu that knows Surf
+GB
+or
+your partner Pikachu
+VC
+in your party, you may take part in the
+Pikachu's Beach
+mingame.
+Route 20 (East)
+Route 20
+The waves of
+Route 20
+are a popular spot for swimming. The path is separated in the middle by the
+Seafoam Islands
+. The waters lead westward to
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+East of Seafoam Islands
+Swimmer
+Reward:
+$
+155
+Shellder
+Lv.
+31
+No item
+Cloyster
+Lv.
+31
+No item
+Swimmer
+Reward:
+$
+140
+Horsea
+Lv.
+28
+No item
+Horsea
+Lv.
+28
+No item
+Seadra
+Lv.
+28
+No item
+Horsea
+Lv.
+28
+No item
+Beauty
+Reward:
+$
+2100
+Seadra
+Lv.
+30
+No item
+Horsea
+Lv.
+30
+No item
+Seadra
+Lv.
+30
+No item
+Beauty
+Reward:
+$
+2450
+Seaking
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+B
+Y
+Surfing
+5, 10, 15, 20, 30, 35, 40
+100%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Tentacool
+R
+B
+Y
+Fishing
+Super Rod
+20
+40%
+Tentacruel
+R
+B
+Y
+Fishing
+Super Rod
+20, 40
+40%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F
+B1F
+B2F
+B3F
+B4F
+Seafoam Islands
+The
+Seafoam Islands
+are a pair of islands that are shaped the same, as if they were twins. A shocking cold fills the caverns inside. Several large boulders and fast-moving currents hinder travel at first.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+9, 18, 27, 36
+50%
+Krabby
+R
+B
+Y
+Cave
+25, 27
+30%
+Slowpoke
+R
+B
+Y
+Cave
+28, 30
+15%
+Golbat
+R
+B
+Y
+Cave
+27, 36
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+18, 27, 36
+45%
+Krabby
+R
+B
+Y
+Cave
+26, 28
+25%
+Golbat
+R
+B
+Y
+Cave
+27
+10%
+Slowpoke
+R
+B
+Y
+Cave
+29
+10%
+Seel
+R
+B
+Y
+Cave
+22, 26
+5%
+Kingler
+R
+B
+Y
+Cave
+28
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+27, 36
+40%
+Krabby
+R
+B
+Y
+Cave
+27, 29
+20%
+Golbat
+R
+B
+Y
+Cave
+27, 36
+15%
+Kingler
+R
+B
+Y
+Cave
+28
+10%
+Seel
+R
+B
+Y
+Cave
+24
+10%
+Slowpoke
+R
+B
+Y
+Cave
+31
+4%
+Slowbro
+R
+B
+Y
+Cave
+31
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+B
+Y
+Cave
+27, 36
+25%
+Golbat
+R
+B
+Y
+Cave
+27
+25%
+Krabby
+R
+B
+Y
+Cave
+29, 31
+20%
+Seel
+R
+B
+Y
+Cave
+26, 30
+15%
+Staryu
+R
+B
+Y
+Cave
+29, 31
+15%
+Kingler
+R
+B
+Y
+Cave
+30
+10%
+Dewgong
+R
+B
+Y
+Cave
+28, 32
+5%
+Surfing
+Tentacool
+R
+B
+Y
+Surfing
+20, 25, 30, 35, 40
+70%
+Staryu
+R
+B
+Y
+Surfing
+30
+30%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Krabby
+R
+B
+Y
+Fishing
+Super Rod
+25
+40%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+20, 40
+40%
+Kingler
+R
+B
+Y
+Fishing
+Super Rod
+35
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B4F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+B
+Y
+Cave
+27, 36
+30%
+Zubat
+R
+B
+Y
+Cave
+36, 45
+20%
+Seel
+R
+B
+Y
+Cave
+28, 32
+20%
+Krabby
+R
+B
+Y
+Cave
+30
+15%
+Kingler
+R
+B
+Y
+Cave
+32
+10%
+Dewgong
+R
+B
+Y
+Cave
+30, 34
+5%
+Surfing
+Tentacool
+R
+B
+Y
+Surfing
+20, 25, 30, 35, 40
+70%
+Staryu
+R
+B
+Y
+Surfing
+30
+30%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Krabby
+R
+B
+Y
+Fishing
+Super Rod
+25
+40%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+20, 40
+40%
+Kingler
+R
+B
+Y
+Fishing
+Super Rod
+35
+20%
+Special Pokémon
+Articuno
+R
+B
+Y
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+B2F; on a rock in the southern part of the room
+(hidden)
+Y
+Max Elixer
+B3F; on a rock next to four boulders in the south-west corner of the room
+(hidden)
+Y
+Ultra Ball
+B4F; on a rock in an alcove in the south-east corner of the room
+(hidden)
+Y
+1F
+Head northeast and use
+Strength
+to move the boulder to the hole in the floor so that it falls to the floor below. Climb up onto the rocky ridge and walk past the first ladder. Push the second boulder down the hole in the northeast area, then backtrack and climb down the first ladder.
+B1F
+Go northeast over the rocky ridge and push the boulder down the next break in the floor. Backtrack to the west and climb the northwest ladder.
+B2F
+Walk eastward to find the same boulder and drop it down to the next floor. Once it falls through, return to the first floor and jump down through the hole in the northeast area.
+B1F (Northeast)
+Drop the boulder through the hole and jump down after it.
+B2F (Northeast)
+Push the boulder through the next hole and continue after it.
+B3F
+Moving these two boulders has caused them to fall into the seawater flowing through here, blocking the swift ocean currents and allowing you to
+Surf
+to new places. Climb onto the rocky ridge to the west and head to the southwest to reach a group of boulders. In the alcove, push the boulder on the right to the north wall. Move the boulder on the left one step southward, then one step westward. Next, push the boulder sitting to the south of the ladder all the way to the west. Move the boulder on the right so it is one step north of the eastern gap in the floor, and drop it down. Push the boulder on the left to the western hole and jump down behind it.
+B4F
+With the second set of boulders blocking the currents, you may now reach the small northwest island. Be sure to save your progress before approaching the legendary bird Pokémon, as there is only one chance to catch it.
+VS Articuno
+Articuno
+is likely the first of the
+Legendary birds
+that you will encounter. Use
+Fire
+-,
+Electric
+-, and
+Rock-type
+attacks to weaken it quickly, then follow up with
+Grass
+or
+Bug
+moves to chip away at its health. Legendary Pokémon will not let themselves be captured easily, so it will be useful to cause status ailments like
+Sleep
+or
+Paralysis
+to increase the odds.
+Types:
+Ice
+Flying
+Articuno
+Lv.
+50
+Peck
+Flying
+--
+Ice Beam
+Ice
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+When the battle is over, swim to the rocky ridge and climb up the nearest ladder.
+B3F
+Walk up onto the rocky ridge and go east. Surf to the eastern shore and climb the ladder in the southeast. This takes you through a series of ladders back up to ground level. Take the exit in the southeast part of 1F to re-emerge on
+Route 20
+through the western island.
+Route 20 (West)
+Route 20
+'s western half connects to
+Cinnabar Island
+.
+Trainers
+Trainer
+Pokémon
+Jr. Trainer♀
+Reward:
+$
+600
+Tentacool
+Lv.
+30
+No item
+Horsea
+Lv.
+30
+No item
+Seel
+Lv.
+30
+No item
+Swimmer
+Reward:
+$
+175
+Staryu
+Lv.
+35
+No item
+Bird Keeper
+Reward:
+$
+750
+Fearow
+Lv.
+30
+No item
+Fearow
+Lv.
+30
+No item
+Pidgeotto
+Lv.
+30
+No item
+Beauty
+Reward:
+$
+2100
+Shellder
+Lv.
+30
+No item
+Shellder
+Lv.
+30
+No item
+Cloyster
+Lv.
+30
+No item
+Jr. Trainer♀
+Reward:
+$
+620
+Goldeen
+Lv.
+31
+No item
+Seaking
+Lv.
+31
+No item
+Beauty
+Reward:
+$
+2170
+Poliwag
+Lv.
+31
+No item
+Seaking
+Lv.
+31
+No item
+← Part 11
+Route 16, Route 17, Route 18, Fuchsia City, Safari Zone
+Yellow
+walkthrough
+Cinnabar Island, Cinnabar Gym, Route 21
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

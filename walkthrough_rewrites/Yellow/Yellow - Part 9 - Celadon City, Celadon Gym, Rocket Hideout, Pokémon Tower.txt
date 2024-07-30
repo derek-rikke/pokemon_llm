@@ -1,0 +1,42 @@
+Game: Yellow
+Part: 9
+Keywords: Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+
+**Part 9: Celadon City, Lavender Town, and Pokémon Tower**
+
+**Celadon City**
+- **Locations**: 
+  - **Celadon Department Store**: Purchase various items, including TMs and evolution stones.
+  - **Celadon Mansion**: Obtain Eevee from the top floor; can evolve into Vaporeon, Jolteon, or Flareon using the respective stones from the Department Store.
+  - **Celadon Gym**: Grass-type Gym led by Erika. Use Fire, Ice, Flying, Poison, or Bug-type Pokémon to gain an advantage. After defeating her, receive the Rainbow Badge and TM21 (Mega Drain).
+  
+- **Key Items**:
+  - **TM18 (Counter)**: 3F of the Department Store.
+  - **TM13 (Ice Beam)**, **TM48 (Rock Slide)**, **TM49 (Tri Attack)**: Obtained by giving drinks to a girl on the rooftop.
+  - **Coin Case**: Received from a man in the restaurant.
+
+- **Game Corner**: 
+  - Battle Team Rocket members and find a secret switch behind a poster to access the Rocket Hideout.
+
+**Rocket Hideout**
+- **Location**: Secret base for Team Rocket.
+- **Key Items**:
+  - **Lift Key**: Defeat a Rocket Grunt on B4F to obtain this key for the elevator.
+  - **Silph Scope**: Defeated Giovanni at the end of the hideout.
+  
+- **Strategy**: Use Fire, Psychic, and Water-type moves against Giovanni’s team: Onix, Rhyhorn, and Persian.
+
+**Lavender Town**
+- **Pokémon Tower**: 
+  - Use Psychic-type Pokémon against Ghost-types, which are immune to Normal and Fighting attacks.
+  - **Items**: Collect Escape Rope, Elixirs, Nuggets, and Rare Candies from various floors.
+  
+- **Rival Battle**: Face Blue on 2F. Use super-effective moves against his team, which includes a level 25 Eevee.
+
+- **Marowak Battle**: Use Silph Scope to reveal and defeat the level 30 Marowak spirit on 6F.
+
+- **Final Encounter**: Battle Jessie and James on 7F before speaking to Mr. Fuji. Receive the Poké Flute as a reward to awaken sleeping Pokémon.
+
+**Next Steps**: Use the Poké Flute to wake Snorlax and proceed to explore southern Kanto.
+
+This guide provides essential information to navigate through Celadon City, the Rocket Hideout, and Pokémon Tower efficiently.

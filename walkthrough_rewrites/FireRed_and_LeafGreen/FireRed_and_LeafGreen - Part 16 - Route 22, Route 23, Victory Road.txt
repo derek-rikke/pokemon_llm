@@ -1,0 +1,43 @@
+Game: FireRed_and_LeafGreen
+Part: 16
+Keywords: Route 22, Route 23, Victory Road
+
+### Pokémon FireRed and LeafGreen Walkthrough - Part 16
+
+**Route 22:**
+- Connects Viridian City to the Pokémon League.
+- **Available Pokémon:** Rattata, Mankey, Spearow, Psyduck (surfing), Slowpoke (surfing), Magikarp, Poliwag, Gyarados (fishing), and others via rods.
+
+**Rival Battle 7:**
+- As you head west, Blue challenges you. He has a strong team, so exploit their weaknesses:
+  - **Pidgeot (Lv. 47)**: Weak to Electric and Rock.
+  - **Alakazam (Lv. 47)**: Weak to Bug, Ghost, and Dark.
+  - **Rhyhorn (Lv. 45)**: Weak to Water, Grass, and Ice.
+  - **Gyarados (Lv. 45)**: Weak to Electric and Rock.
+  - **Exeggcute (Lv. 45)**: Weak to Bug, Fire, Flying, Ice, and Poison.
+  - **Charizard (Lv. 53)**: Weak to Rock and Electric.
+
+**Route 23 (South):**
+- **Items:** 
+  - Leppa Berry, Max Ether, Ultra Ball, Full Restore, Sitrus Berry, Lum Berry, Max Elixir (all hidden).
+- Present your Badges to guards to enter Victory Road.
+
+**Victory Road:**
+- Requires **Strength** to move boulders onto pressure switches to progress.
+- **Trainers include:** Cooltrainers, Black Belts, and Jugglers with levels around 41-48.
+- **Available Pokémon (1F, 2F, 3F):** Onix, Machop, Geodude, Zubat, Arbok, Golbat, etc.
+
+**Items in Victory Road:**
+- **1F:** TM02 (Dragon Claw), Rare Candy, Full Restore, Ultra Ball.
+- **2F:** TM37 (Sandstorm), Full Heal, TM07 (Hail), Guard Spec.
+- **3F:** Max Revive, TM50 (Overheat).
+
+**Navigating Victory Road:**
+1. Move the first boulder to unlock the first area.
+2. Collect items and battle trainers as you progress.
+3. Solve boulder puzzles to access higher floors and defeat trainers.
+
+**Route 23 (North):**
+- Follow the path through the stone maze to reach Indigo Plateau.
+
+This concludes Part 16 of the walkthrough. Prepare for the Pokémon League ahead!

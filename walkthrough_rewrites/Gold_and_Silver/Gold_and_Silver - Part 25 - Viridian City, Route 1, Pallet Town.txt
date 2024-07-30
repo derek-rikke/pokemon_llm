@@ -1,0 +1,43 @@
+Game: Gold_and_Silver
+Part: 25
+Keywords: Viridian City, Route 1, Pallet Town
+
+### Pokémon Gold and Silver Walkthrough: Part 25
+
+#### Viridian City
+- **Location:** Between Route 2 (north), Route 1 (south), and Route 22 (west).
+- **Available Pokémon:**
+  - **Surfing:** Poliwag (Lv. 5-14), Poliwhirl (Lv. 10-14)
+  - **Fishing (Old Rod):** Magikarp (Lv. 10), Poliwag (Lv. 10)
+  - **Fishing (Good Rod):** Poliwag (Lv. 20), Magikarp (Lv. 20)
+  - **Fishing (Super Rod):** Poliwag (Lv. 40), Magikarp (Lv. 40)
+- **Items:** TM42 (Dream Eater) from the sleeping man (requires Cut or Surf).
+
+#### Viridian Gym
+- **Note:** Recently reopened with a new Gym Leader from Pallet Town, but he is often absent.
+
+#### Trainer House
+- **Location:** Central Viridian City.
+- **Battle:** Can battle Cal (Lv. 50 Pokémon: Meganium, Typhlosion, Feraligatr). Only one battle per day.
+
+#### Route 1
+- **Trainers:**
+  - **Schoolboy Danny:** Reward $992 (Pokémon: Jynx, Electabuzz, Magmar).
+  - **Cooltrainer Quinn:** Reward $1824 (Pokémon: Ivysaur, Starmie).
+- **Available Pokémon:** Pidgey, Rattata, Sentret, and Hoothoot (various levels).
+- **Item:** Bitter Berry (daily, south of northwestern ledge).
+
+#### Pallet Town
+- **Location:** Between Route 1 and Route 21.
+- **Available Pokémon:**
+  - **Surfing:** Tentacool (Lv. 30-39), Tentacruel (Lv. 35-39).
+  - **Fishing (Old Rod):** Magikarp, Tentacool.
+  - **Fishing (Good Rod):** Chinchou, Shellder.
+  - **Fishing (Super Rod):** Lanturn, Tentacruel.
+- **Locations:**
+  - **Red's House:** Currently absent.
+  - **Blue's House:** Blue is the Gym Leader; Daisy offers grooming for friendship boost (3 PM - 4 PM, once daily).
+  - **Professor Oak's Lab:** Assess your Pokédex progress and return after earning all 8 Kanto Gym Badges for a reward.
+
+### Conclusion
+Continue your journey by ensuring you explore all locations, battle trainers for experience, and collect Pokémon. Be prepared for the next challenges ahead!

@@ -1,0 +1,67 @@
+Game: Ruby_and_Sapphire
+Part: 14
+Keywords: Route 128, Seafloor Cavern
+
+**Part 14: Route 128 & Seafloor Cavern Walkthrough**
+
+**Route 128**
+- Located between Route 127, Route 129, and Ever Grande City.
+- Team Magma (Ruby) or Team Aqua (Sapphire) is present here.
+
+**Key Trainers:**
+1. **Cooltrainer Ruben** (Reward: $1632)
+   - Pokémon: Shiftry (Lv. 34), Graveler (Lv. 34), Loudred (Lv. 34)
+2. **Cooltrainer Alexa** (Reward: $1680)
+   - Pokémon: Gloom (Lv. 35), Azumarill (Lv. 35)
+3. **Fisherman Wayne** (Reward: $1280)
+   - Pokémon: Tentacool (Lv. 30), Wailmer (Lv. 35), Tentacruel (Lv. 32)
+4. **Triathlete Isaiah/Katelyn** (Reward: $1440)
+   - Pokémon: Staryu (Lv. 36)
+
+**Available Pokémon:**
+- **Surfing:** Tentacool, Wingull, Pelipper
+- **Fishing:** Magikarp, Wailmer, Luvdisc, Corsola
+
+**Items:**
+- **Heart Scale (×3):** Hidden in various locations.
+- **Protein:** Hidden in the main area.
+- **Pearl:** Hidden in the eastern area.
+
+---
+
+**Seafloor Cavern**
+- Accessed from an underwater cave in Route 128.
+
+**Key Trainers:**
+1. **Team Magma Grunts (Ruby) / Team Aqua Grunts (Sapphire)**
+   - Various Pokémon around Lv. 36-38.
+
+**Available Pokémon:**
+- **Cave:** Zubat, Golbat
+- **Surfing/Fishing:** Similar to Route 128.
+
+**Items:**
+- **TM26 (Earthquake):** Found in the Deepest Room.
+
+**Room Navigation:**
+1. **Entrance:** Take the north doorway after entering.
+2. **Room 1:** Use Rock Smash and Strength to clear boulders.
+3. **Room 2:** Head southwest due to a cracked rock.
+4. **Room 3:** Continue through the northeast doorway.
+5. **Room 4:** Clear boulders using the methods outlined.
+6. **Room 5 & 6:** Navigate using surf currents.
+7. **Room 7:** Move boulders to confront Courtney (Ruby) or Shelly (Sapphire).
+
+**Boss Battles:**
+- **Courtney (Ruby)**: Uses Fire/Ground types (Camerupt, Mightyena).
+- **Shelly (Sapphire)**: Uses Water/Dark types (Sharpedo, Mightyena).
+  
+**Final Battles:**
+- **Maxie (Ruby)** or **Archie (Sapphire)** in the Deepest Room with their respective teams, including Mightyena, Crobat, and Camerupt/Sharpedo.
+  
+After the battle, watch for the awakening of **Groudon** (Ruby) or **Kyogre** (Sapphire). The weather changes dramatically, affecting battles in the region. Head to **Sootopolis City** for next steps.
+
+**Next Steps:**
+- Investigate the extreme weather with Steven after the events at the cavern. 
+
+This concludes Part 14 of the walkthrough for Pokémon Ruby and Sapphire.

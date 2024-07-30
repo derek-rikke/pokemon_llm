@@ -1,0 +1,34 @@
+Game: Black_and_White
+Part: 3
+Keywords: Route 3, Wellspring Cave, Nacrene City, Nacrene Gym
+
+### Part 3 Walkthrough: Route 3, Wellspring Cave, Nacrene City, Nacrene Gym
+
+**Route 3**
+- **Pokémon Day Care:** Located north of Striaton City. Leave a Pokémon to level up. You can later leave two Pokémon after meeting the husband in Nimbasa City.
+- **Preschool:** Battle young trainers, including Twins Kumi & Amy (2 x Purrloin, Lv. 10).
+- **Available Pokémon:** Pidove, Patrat, Blitzle, Lillipup, Purrloin (Levels 8-13).
+- **Items:** Ultra Ball (sandbox), Super Potion (grass near fork), Oran Berry (from Breeder Adelaide), Repel, Heal Balls (3 from girl after rescuing her), Great Ball (south shore of pond), Awakening (grass patch outside Nacrene City).
+
+**Wellspring Cave**
+- **Battle Team Plasma Grunts:** After a brief encounter with Cheren, defeat the Grunts (Patrat, Lv. 12) in a Double Battle.
+- **Available Pokémon:** Roggenrola, Woobat (Levels 10-13), Drilbur (dust clouds).
+- **Items:** TM46 (Thief) at the entrance, Full Heal (hidden at stairs).
+
+**Nacrene City**
+- **Give your starter Pokémon an item:** Speak to the woman west of the Poké Center to receive an item based on your starter (Miracle Seed, Charcoal, Mystic Water).
+- **Loblolly's Studio:** Unlock décor for the Dream World after visiting once.
+- **Dye's House:** Trade for Petilil or Cottonee.
+- **Café Warehouse:** Get a free Soda Pop on Wednesdays and find an Ultra Ball (hidden).
+  
+**Nacrene Gym**
+- **Leader:** Lenora (Normal-type).
+- **Gym Strategy:** Complete a scavenger hunt based on book hints. Use Fighting-type Pokémon for an advantage (catch Timburr in Pinwheel Forest).
+- **Battles:** Trainers include School Kid Carter (Patrat, Lv. 17) and Scientist Satomi (Herdier, Lv. 17).
+- **Lenora’s Team:** Herdier (Lv. 18) and Watchog (Lv. 20).
+- **Rewards:** Basic Badge and TM67 (Retaliate). Pokémon up to level 30 will obey you after this badge.
+
+**Post-Gym:**
+- Follow Lenora outside the museum to confront Team Plasma, who stole the Dragon Skull. Receive the Dowsing MCHN from Bianca and team up with Burgh to search the forest.
+
+Continue to **Part 4** for the next steps in Pinwheel Forest and beyond.

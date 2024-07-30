@@ -1,0 +1,47 @@
+Game: Platinum
+Part: 1
+Keywords: Introduction, Twinleaf Town, Route 201, Lake Verity, Sandgem Town
+
+**Pokémon Platinum Walkthrough: Part 1**
+
+**Starting the Game:**
+- Begin by selecting your gender, name, and rival's name after the introduction with Professor Rowan.
+
+**Twinleaf Town:**
+- Start in your house, where you watch a show featuring Professor Rowan. Follow your rival downstairs.
+- Your mother advises you to avoid tall grass. Explore the town and head to your rival's house to meet him at Route 201.
+
+**Route 201:**
+- Travel north to meet your rival, who suggests visiting Sandgem Town for Pokémon. 
+- Encounter Professor Rowan, who gives you a choice of your first Pokémon: 
+  - **Turtwig** (Grass), **Chimchar** (Fire), or **Piplup** (Water).
+- After selecting, your rival will challenge you to a battle; winning gives experience and a small reward.
+
+**Lake Verity (First Visit):**
+- After the battle, return home briefly. Your mom gives you Running Shoes.
+- Meet your rival again, who wants to check Lake Verity for a legendary Pokémon.
+- At the lake, you encounter Cyrus from Team Galactic but lack Poké Balls to catch the Pokémon.
+
+**Route 201 (Continued):**
+- Move south and east to Sandgem Town. You can now explore tall grass, but you can't catch Pokémon yet.
+- Speak to the Poké Mart employee for a free Potion.
+
+**Sandgem Town:**
+- Meet Lucas/Dawn at Professor Rowan's lab. After checking your Pokémon, Rowan gives you a Pokédex and TM27 (Return). 
+- Heal at the Pokémon Center and buy Poké Balls before heading west to Twinleaf Town.
+
+**Returning to Twinleaf:**
+- Your mom gives you a Journal to record your adventure. You also receive a Parcel from Barry's mother to deliver to him in Jubilife City.
+
+**Next Steps:**
+- Prepare to travel to Route 202 and onward to Jubilife City.
+
+**Key Items:**
+- **Running Shoes**: From your mother.
+- **Potion**: From Poké Mart employee.
+- **Pokédex**: From Professor Rowan.
+- **TM27 (Return)**: From Professor Rowan after leaving the lab.
+- **Journal**: From your mother after returning from Sandgem.
+- **Parcel**: From Barry's mother in your house.
+
+This concise guide retains essential gameplay elements, item locations, and battle strategies to help you progress in Pokémon Platinum.

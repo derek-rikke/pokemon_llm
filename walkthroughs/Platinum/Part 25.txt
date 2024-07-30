@@ -1,0 +1,1512 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_25
+Keywords: Stark Mountain, Survival Area
+
+Walkthrough Text:
+Contents
+1
+Stark Mountain
+1.1
+Outside
+1.2
+Main Entrance
+1.3
+Large Room
+1.4
+Heatran's Room
+2
+Survival Area
+Stark Mountain
+Outside
+Stark Mountain (outside)
+Available Pokémon (Outside)
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+D
+P
+Pt
+Grass
+51,53
+20%
+20%
+0%
+Fearow
+D
+P
+Pt
+Grass
+53
+0%
+0%
+10%
+Golbat
+D
+P
+Pt
+Grass
+51
+0%
+0%
+10%
+Graveler
+D
+P
+Pt
+Grass
+51,53
+15%
+Weezing
+D
+P
+Pt
+Grass
+52
+10%
+Rhyhorn
+D
+P
+Pt
+Grass
+52
+5%
+Rhydon
+D
+P
+Pt
+Grass
+54
+20%
+Skarmory
+D
+P
+Pt
+Grass
+53
+5%
+Numel
+D
+P
+Pt
+Grass
+51
+5%
+Camerupt
+D
+P
+Pt
+Grass
+53
+20%
+Special Pokémon
+Torkoal
+D
+P
+Pt
+Poké Radar
+51-53
+22%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Dragon Tamer
+Darien
+タケル
+Takeru
+Reward:
+$
+1920
+Dragonite
+♂
+Lv.
+60
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Max Elixir
+In a corner northeast of the grass patch outside
+Pt
+Life Orb
+Southwest corner of the exterior (requires
+Rock Climb
+)
+Pt
+Follow the path (don't forget to use the nearby
+Rock Climb
+ledges to find the
+Life Orb
+) and you will see two
+Galactic Grunts
+. You'll overhear their conversation that
+Charon
+has replaced
+Cyrus
+as
+Team Galactic
+'s leader, though it is doubtful if Charon will be as effective. Go through the entrance to the volcano.
+Main Entrance
+Stark Mountain (Main Entrance)
+Available Pokémon (Main Entrance)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+52
+20%
+Graveler
+D
+P
+Pt
+Cave
+51,53
+15%
+Weezing
+D
+P
+Pt
+Cave
+51,53
+15%
+Rhyhorn
+D
+P
+Pt
+Cave
+52
+5%
+Rhydon
+D
+P
+Pt
+Cave
+54
+20%
+Slugma
+D
+P
+Pt
+Cave
+52
+5%
+Magcargo
+D
+P
+Pt
+Cave
+54
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+South-west corner (requires
+Strength
+)
+Pt
+PP Up
+South-east corner (requires
+Strength
+)
+Pt
+Full Heal
+North-west corner (requires
+Strength
+)
+Pt
+Full Restore
+East of entrance to second room (requires
+Strength
+and
+Rock Smash
+)
+Pt
+Star Piece
+In the wall north of the Full Restore (requires
+Strength
+and
+Rock Smash
+)
+(hidden)
+Pt
+When you enter,
+Mars
+demands to know what happened to Cyrus. Not believing your story about the
+Distortion World
+, she decides to face you.
+Commander
+Mars
+Stark Mountain
+Platinum
+Reward:
+$
+4800
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzong
+Lv.
+58
+Light Screen
+Psychic
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+58
+Poison Fang
+Poison
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Air Cutter
+Flying
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Purugly
+♀
+Lv.
+60
+Shadow Claw
+Ghost
+Physical
+--
+Slash
+Normal
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Mars'
+Bronzor
+has evolved into a
+Bronzong
+. It can use
+Light Screen
+to halve out the damage caused by Special moves. Her
+Golbat
+and
+Purugly
+are about the same so the same tactics you used at Spear Pillar can bring them down.
+Commander
+Jupiter
+Stark Mountain
+Platinum
+Reward:
+$
+4800
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzong
+Lv.
+58
+Reflect
+Psychic
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Gyro Ball
+Steel
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+58
+Giga Drain
+Grass
+Special
+--
+Air Cutter
+Flying
+Special
+--
+Mean Look
+Normal
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Types:
+Poison
+Dark
+Ability:
+Stench
+Held item:
+Sitrus Berry
+Skuntank
+♀
+Lv.
+60
+Night Slash
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+SmokeScreen
+Normal
+Status
+--
+Flamethrower
+Fire
+Special
+--
+Jupiter
+will face you next. Her Bronzong knows
+Reflect
+to halve out the damage caused by physical attacks. Her Golbat and
+Skuntank
+are about the same as well.
+After the battle, the two decide to quit the team as it is not much fun without Cyrus. They decide to journey to find the Distortion World. Charon doesn't care and leaves with the two grunts to find the
+Magma Stone
+. Using
+Strength
+, move the boulders to the right of you carefully and go up the stairs. With the aid of Strength and
+Rock Smash
+, go through the large door to the main room.
+Large Room
+Stark Mountain (Large Room)
+Available Pokémon (Large Room)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+53
+10%
+Graveler
+D
+P
+Pt
+Cave
+52,54
+15%
+Koffing
+D
+P
+Pt
+Cave
+53
+5%
+Weezing
+D
+P
+Pt
+Cave
+52,54
+15%
+Rhydon
+D
+P
+Pt
+Cave
+55
+10%
+Slugma
+D
+P
+Pt
+Cave
+53
+5%
+Magcargo
+D
+P
+Pt
+Cave
+53,55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Abel
+エイイチ
+Eiichi
+Reward:
+$
+3480
+Glalie
+♂
+Lv.
+59
+No item
+Crobat
+♂
+Lv.
+60
+No item
+Ace Trainer
+Monique
+コトミ
+Kotomi
+Reward:
+$
+3480
+Luxray
+♀
+Lv.
+58
+No item
+Gliscor
+♀
+Lv.
+58
+No item
+Ursaring
+♀
+Lv.
+59
+No item
+Ace Trainer
+Keenan
+マコト
+Makoto
+Reward:
+$
+3540
+Primeape
+♂
+Lv.
+58
+No item
+Banette
+♂
+Lv.
+59
+No item
+Electabuzz
+♂
+Lv.
+58
+No item
+Ace Trainer
+Kassandra
+レイコ
+Reiko
+Reward:
+$
+3540
+Jumpluff
+♀
+Lv.
+58
+No item
+Ampharos
+♀
+Lv.
+59
+No item
+Onix
+♀
+Lv.
+58
+No item
+Ace Trainer
+Stefan
+ユウヤ
+Yūya
+Reward:
+$
+3660
+Pupitar
+♂
+Lv.
+58
+No item
+Torterra
+♂
+Lv.
+61
+No item
+Ace Trainer
+Jasmin
+シノブ
+Shinobu
+Reward:
+$
+3660
+Drapion
+♀
+Lv.
+61
+No item
+Bird Keeper
+Krystal
+ソノコ
+Sonoko
+Reward:
+$
+1888
+Staravia
+♀
+Lv.
+55
+No item
+Fearow
+♀
+Lv.
+57
+No item
+Noctowl
+♀
+Lv.
+59
+No item
+Black Belt
+Ray
+リキト
+Rikito
+Reward:
+$
+1392
+Breloom
+♂
+Lv.
+58
+No item
+Toxicroak
+♂
+Lv.
+58
+No item
+Psychic
+Chelsey
+ナナ
+Nana
+Reward:
+$
+1888
+Lunatone
+Lv.
+57
+No item
+Gardevoir
+♀
+Lv.
+59
+No item
+Psychic
+Sterling
+ユウ
+Yū
+Reward:
+$
+1888
+Solrock
+Lv.
+57
+No item
+Gallade
+♂
+Lv.
+59
+No item
+Veteran
+Harlan
+トモゾウ
+Tomozō
+Reward:
+$
+4720
+Raticate
+♂
+Lv.
+57
+No item
+Drifblim
+♂
+Lv.
+58
+No item
+Shiftry
+♂
+Lv.
+59
+No item
+Dragon Tamer
+Kenny
+ユウリ
+Yūri
+Reward:
+$
+1824
+Bagon
+♂
+Lv.
+57
+No item
+Shelgon
+♂
+Lv.
+57
+No item
+Vibrava
+♂
+Lv.
+57
+No item
+Ace Trainer
+Skylar
+ヒデユキ
+Hideyuki
+Reward:
+$
+3480
+Loudred
+♂
+Lv.
+58
+No item
+Rampardos
+♂
+Lv.
+59
+No item
+Pelipper
+♂
+Lv.
+58
+No item
+Ace Trainer
+Natasha
+ミサト
+Misato
+Reward:
+$
+3480
+Wigglytuff
+♀
+Lv.
+58
+No item
+Medicham
+♀
+Lv.
+58
+No item
+Gardevoir
+♀
+Lv.
+59
+No item
+Dragon Tamer
+Drake
+マサフミ
+Masafumi
+Reward:
+$
+1824
+Gible
+♂
+Lv.
+57
+No item
+Gabite
+♂
+Lv.
+57
+No item
+Dragonair
+♂
+Lv.
+57
+No item
+Black Belt
+Jarrett
+タクマ
+Takuma
+Reward:
+$
+1440
+Machamp
+♂
+Lv.
+60
+No item
+Items
+Item
+Location
+Games
+Rare Candy
+At end of pit west of Ace Trainers Keenan and Kassandra
+Pt
+Flame Plate
+On the west side, at the end of a dead-end path, in the wall
+(hidden)
+Pt
+TM50
+(
+Overheat
+)
+South of Ace Trainers Stefan and Jasmin (requires
+Strength
+)
+Pt
+Calcium
+In pit north of Bird Keeper Krystal and Black Belt Ray
+Pt
+Max Revive
+Near the south side, west of the Iron Ball
+(hidden)
+Pt
+Iron Ball
+End of pit west of Psychics Chelsey and Sterling
+Pt
+Stardust
+On the east side, in a single rock northeast of Ace Trainers Abel and Monique
+(hidden)
+Pt
+Iron
+Near the northeast corner, at the end of a raised dead-end path
+(hidden)
+Pt
+Max Revive
+Northwest of Veteran Harlan
+Pt
+Star Piece
+On a small boulder northeast of Bird Keeper Krystal and Black Belt Ray
+(hidden)
+Pt
+Fire Stone
+On a large boulder in the northwest corner of the room (requires
+Rock Smash
+)
+(hidden)
+Pt
+Max Elixir
+South end of pit north-west of Ace Trainers Abel and Monique (requires
+Rock Climb
+)
+Pt
+Nugget
+Far northeast corner of room (requires
+Rock Climb
+)
+Pt
+Ultra Ball
+Atop hill north-west of Bird Keeper Krystal and Black Belt Ray (requires
+Rock Climb
+)
+Pt
+Ultra Ball
+Near the southwest corner, in an area between two rocks west of Ace Trainers Keenan and Kassandra (requires
+Rock Climb
+)
+(hidden)
+Pt
+After you go north for a little bit,
+Buck
+will appear. After recognizing that Team Galactic is here, he will decide to team up with you as a
+tag partner
+. Like Marley and the other tag partners, he will also heal your team after every battle and Wild battles become double battles.
+Pokémon Trainer
+Buck
+Stark Mountain
+Platinum
+Reward:
+None
+Types:
+Ground
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Claydol
+Lv.
+63
+Psychic
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+AncientPower
+Rock
+Special
+--
+This room is so large it is recommended to stock up on
+Max Repels
+to make traveling through it a little less annoying. It is also highly recommended to take down the Trainers in this room as while you have Buck with you, since he can heal your team and the Trainers' Pokémon are between Level 57 and Level 61. Just remember that some items are inaccessible right now since you can't use Rock Climb as long as Buck is with you.
+To make it easier to find the exit, head east past the first set of stairs until you see the path turn north. Keep going straight until you reach a dead end. Go down the nearby stairs and follow the path west, smashing a rock on the way. Continue until you climb some stairs and see two Trainers nearby. Turn left and follow the path to the northwestern part of the room. Go down some nearby stairs and move the Strength boulder. Then, you will be at the exit. Once there, Buck recognizes Team Galactic is inside and heads in.
+Heatran's Room
+Heatran's Room
+Inside, Charon is unhappy that Mars and Jupiter quit and won't help him. He plans to use Heatran to control the volcanic eruption to gain millions. Noticing you and Buck, Charon quickly grabs the Magma Stone and gloats. However, a mysterious Trainer sends out a
+Croagunk
+to get the stone. This trainer is actually
+Looker
+in disguise and, as much as Charon denies it, Looker has him arrested while the two Galactic grunts with Charon run away.
+Taking both you and Buck outside, while Buck goes to return the stone, Looker mentions his investigation into Charon's activities. He also states that now that Charon was arrested, Team Galactic is no longer a threat. After Buck returns,
+Fly
+to the
+Survival Area
+.
+Survival Area
+When you arrive, you will see Buck and Barry right by the house that was locked up earlier. This house is Buck's, and it is also the
+Battleground
+, where you can
+rechallenge
+the Sinnoh Gym Leaders and all five of your previous
+Multi Battle
+partners. There are four Trainers in here each day, and they can only be battled once a day. Talk to Buck and his grandfather, who will tell you the legend about Stark Mountain. This is important— if you don't talk to both,
+Heatran
+will not appear when you go back to Stark Mountain. Besides the Gym Leaders, the Elite Four's teams have also been upgraded as well, providing a harder challenge should you revisit the
+Pokémon League
+. Barry will also remain outside the Battleground building and on weekends, you can rechallenge him to a battle once a day.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Survival Area
+Platinum
+Reward:
+$
+6500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+61
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+59
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+59
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+61
+Megahorn
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+63
+Body Slam
+Normal
+Physical
+--
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Sitrus Berry
+Infernape
+♂
+Lv.
+65
+Flamethrower
+Fire
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+P
+K
+M
+N
+Trainer
+Barry
+Survival Area
+Platinum
+Reward:
+$
+6500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+61
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+59
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+59
+Fire Blast
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+61
+Megahorn
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+63
+Body Slam
+Normal
+Physical
+--
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+Sitrus Berry
+Empoleon
+♂
+Lv.
+65
+Hydro Pump
+Water
+Special
+--
+Drill Peck
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Survival Area
+Platinum
+Reward:
+$
+6500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+61
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+59
+Fire Blast
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+59
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+61
+Megahorn
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+63
+Body Slam
+Normal
+Physical
+--
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+Sitrus Berry
+Torterra
+♂
+Lv.
+65
+Leaf Storm
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Just remember that after 10
+Hall of Fame
+records, Barry's team will go up by 10
+levels
+and then by 20 levels after 20
+Hall of Fame
+records. The amount of
+prize money
+you receive is also increased by
+$
+1000, and finally
+$
+2000 when Barry's team is upgraded!
+← Part 24
+Route 225, Survival Area, Route 226, Route 227
+Platinum
+walkthrough
+Stark Mountain, Route 228, Route 229, Resort Area, Route 230
+Part 26 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

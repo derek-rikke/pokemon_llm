@@ -1,0 +1,1782 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_10
+Keywords: Saffron City, Silph Co., Saffron Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Saffron City
+1.1
+Copycat's house
+1.2
+Pokémon Center
+1.2.1
+Time for a Trade
+1.3
+Mr. Psychic's house
+1.4
+Friendly Fire
+1.5
+Silph Co.
+1.5.1
+1F
+1.5.2
+2F
+1.5.3
+8F
+1.5.4
+3F
+1.5.5
+4F
+1.5.6
+5F
+1.5.7
+6F
+1.5.8
+7F
+1.5.9
+9F
+1.5.10
+10F
+1.5.11
+11F (East)
+1.5.12
+3F
+1.5.13
+7F (Northwest)
+1.5.14
+11F (West)
+1.5.14.1
+VS Giovanni
+1.6
+Fighting Dojo
+1.7
+Saffron Gym
+Saffron City
+Saffron City
+Saffron City
+is a sprawling metropolis located in the heart of the region between
+Cerulean City
+,
+Celadon City
+,
+Lavender Town
+, and
+Vermilion City
+. The
+Silph Co.
+headquarters dominates the city skyline, and two Pokémon Gyms stand in the northeast district. It is the most populous city in all of
+Kanto
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Silph Co.
+Lapras
+P
+E
+Gift
+34
+One
+Fighting Dojo
+Hitmonlee
+P
+E
+Gift
+30
+One
+Hitmonchan
+P
+E
+Gift
+30
+One
+Special Pokémon
+Raichu
+Alolan Form
+P
+E
+Trade
+Raichu
+30
+Unlimited
+Gift Pokémon
+After clearing Silph Co.
+Porygon
+P
+E
+Gift
+34
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM08
+(
+Substitute
+)
+Northwest house; from the
+Copycat
+, after showing her a
+Clefairy
+P
+E
+Moon Stone
+Northwest house; north side of Copycat's bed
+(hidden)
+(daily)
+P
+E
+TM40
+(
+Psychic
+)
+Southeast house; from Mr. Psychic in his home
+P
+E
+TM23
+(
+Thunder Punch
+)
+Fighting Dojo; from Coach Trainer Leona, after defeating her
+P
+E
+Police Set
+From
+Officer Jenny
+near Saffron Gym, after defeating
+Giovanni
+in the
+Silph Co.
+building
+P
+E
+X Sp. Def
+In front of Saffron Gym
+P
+E
+TM33
+(
+Calm Mind
+)
+From Sabrina, after defeating her
+P
+E
+Other items
+Pretty Wing
+Flowerbed near the city's north entrance; infrequently found by some
+walking Pokémon
+P
+E
+Copycat's house
+The northwestern-most house belongs to a girl known as the
+Copycat
+. Show her a
+Clefairy
+, her favorite Pokémon, to receive
+TM08
+(
+Substitute
+).
+Pokémon Center
+Time for a Trade
+Speak to the Ace Trainer standing to the left of the counter. She would like to trade for a
+Raichu
+, and is willing to part with its
+Alolan
+counterpart in exchange. Hers is an
+Electric
+/
+Psychic
+Pokémon, a unique typing not seen outside of its evolutionary family. This trade may be conducted multiple times.
+Mr. Psychic's house
+The southeast house belongs to a man known as Mr. Psychic. Speak to him and he claims to know exactly why you are here, and gives you
+TM40
+(
+Psychic
+).
+Friendly Fire
+The Rocket Grunt posted outside the
+Silph Co.
+building is under orders to allow entry only to authorized members, and refuses to let
+Jessie and James
+inside. Jessie fights with the guard and pushes past him, leaving him dazed before James follows a moment later. This leaves a perfect opportunity to enter the skyscraper undetected.
+Silph Co.
+The
+Silph Company
+is the leading manufacturer of items like Poké Balls, Potions, and TMs. Their products are supplied to every Poké Mart in the region. The company has been a target of
+Team Rocket
+, first for their
+Silph Scope
+prototype, and now for a top-secret development project. The building holds eleven floors, with
+warp tiles
+allowing the workers to quickly move around. This convenience ends up acting as a maze for anyone trying to reach the top floor.
+Trainers
+2F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Raticate
+♂
+Lv.
+33
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Koffing
+♂
+Lv.
+33
+No item
+Koffing
+♀
+Lv.
+33
+No item
+Koffing
+♂
+Lv.
+33
+No item
+Scientist
+Jerry
+Reward:
+$
+2,100
+Electabuzz
+♂
+Lv.
+35
+No item
+Scientist
+Connor
+Reward:
+$
+2,100
+Weezing
+♂
+Lv.
+35
+No item
+3F
+Trainer
+Pokémon
+Scientist
+Jose
+Reward:
+$
+2,100
+Grimer
+♀
+Lv.
+35
+No item
+Magmar
+♂
+Lv.
+35
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Haunter
+♀
+Lv.
+33
+No item
+4F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Koffing
+♂
+Lv.
+33
+No item
+Electrode
+Lv.
+33
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Rattata
+♀
+Lv.
+33
+No item
+Grimer
+♂
+Lv.
+33
+No item
+Scientist
+Rodney
+Reward:
+$
+2,100
+Voltorb
+Lv.
+35
+No item
+Voltorb
+Lv.
+35
+No item
+Electrode
+Lv.
+35
+No item
+5F
+Trainer
+Pokémon
+Juggler
+Dalton
+Reward:
+$
+1,360
+3
+Poké Balls
+Hypno
+♀
+Lv.
+34
+No item
+Haunter
+♂
+Lv.
+34
+No item
+Kadabra
+♂
+Lv.
+34
+No item
+Scientist
+Beau
+Reward:
+$
+2,100
+Muk
+♂
+Lv.
+35
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Ekans
+♂
+Lv.
+33
+No item
+Hypno
+♂
+Lv.
+33
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Zubat
+♂
+Lv.
+33
+No item
+Arbok
+♀
+Lv.
+33
+No item
+6F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Meowth
+♀
+Lv.
+33
+No item
+Raticate
+♂
+Lv.
+33
+No item
+Scientist
+Taylor
+Reward:
+$
+2,100
+Magnemite
+Lv.
+35
+No item
+Magnemite
+Lv.
+35
+No item
+Magmar
+♂
+Lv.
+35
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Raticate
+♀
+Lv.
+33
+No item
+Golbat
+♂
+Lv.
+33
+No item
+7F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Zubat
+♂
+Lv.
+33
+No item
+Golbat
+♂
+Lv.
+33
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Voltorb
+Lv.
+33
+No item
+Voltorb
+Lv.
+33
+No item
+Voltorb
+Lv.
+33
+No item
+Scientist
+Joshua
+Reward:
+$
+2,100
+Koffing
+♂
+Lv.
+35
+No item
+Magneton
+Lv.
+35
+No item
+8F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Grimer
+♂
+Lv.
+33
+No item
+Koffing
+♂
+Lv.
+33
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Gastly
+♂
+Lv.
+33
+No item
+Persian
+♂
+Lv.
+33
+No item
+Scientist
+Parker
+Reward:
+$
+2,100
+Electrode
+Lv.
+35
+No item
+Porygon
+Lv.
+35
+No item
+9F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Persian
+♂
+Lv.
+33
+No item
+Scientist
+Ed
+Reward:
+$
+2,100
+Weezing
+♀
+Lv.
+35
+No item
+Electabuzz
+♂
+Lv.
+35
+No item
+Electrode
+Lv.
+35
+No item
+Team Rocket Grunt
+Reward:
+$
+924
+Koffing
+♂
+Lv.
+33
+No item
+Haunter
+♀
+Lv.
+33
+No item
+10F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Voltorb
+Lv.
+33
+No item
+Raticate
+♂
+Lv.
+33
+No item
+Scientist
+Travis
+Reward:
+$
+2,100
+Grimer
+♂
+Lv.
+35
+No item
+Muk
+♀
+Lv.
+35
+No item
+11F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+924
+Drowzee
+♂
+Lv.
+33
+No item
+Zubat
+♀
+Lv.
+33
+No item
+Golbat
+♂
+Lv.
+33
+No item
+Items
+Item
+Location
+Games
+1F
+X Sp. Atk
+South side of the two fountains
+P
+E
+2F
+Super Potion
+Central room, near the west wall
+P
+E
+Fresh Water
+Central room, on the water fountain near the south wall
+(hidden)
+P
+E
+X Attack
+Southeast room, behind the desk
+P
+E
+TM42
+(
+Self-Destruct
+)
+From the woman in the northwest room
+P
+E
+3F
+X Sp. Def
+Eastern room
+P
+E
+Silver Razz Berry
+×3
+Northwest corner, in one of the three potted plants
+(hidden)
+(daily)
+P
+E
+Max Lure
+Central room, near Scientist Jose (requires Card Key)
+P
+E
+4F
+Dire Hit
+Eastern room
+P
+E
+Full Heal
+Northwest room
+P
+E
+Star Piece
+Southwest room
+P
+E
+Escape Rope
+Northwest room
+P
+E
+Great Ball
+×5
+Southwest room, on the western shelf
+P
+E
+Revive
+Southwest room, on the eastern shelf
+P
+E
+Fresh Water
+Central room, on the water fountain
+(hidden)
+(daily)
+P
+E
+5F
+TM54
+(
+Flash Cannon
+)
+Southwest room
+P
+E
+Poké Ball
+×5
+Southwest room; on the bottom shelf
+P
+E
+Card Key
+North-central area; from Trace, after defeating Archer and Rocket Grunt
+P
+E
+Silver Nanab Berry
+×3
+West of the elevator, in one of the two potted plants on the north wall
+(hidden)
+(daily)
+P
+E
+Max Ether
+Northwest room (requires Card Key)
+P
+E
+Nugget
+Eastern hallway
+P
+E
+Guard Spec.
+Smaller central room (requires Card Key)
+P
+E
+6F
+Fresh Water
+Northwest room, on the water fountain
+(hidden)
+P
+E
+Super Potion
+Western hallway, behind the southern-most potted plant
+P
+E
+Max Repel
+Southwest room
+P
+E
+Hyper Potion
+Southwest room
+P
+E
+X Sp. Atk
+Central room
+P
+E
+Silver Pinap Berry
+×3
+Southeast corner, in the potted plant
+(hidden)
+(daily)
+P
+E
+PP Up
+Eastern hallway
+P
+E
+7F
+TM34
+(
+Dragon Pulse
+)
+East-central room (requires Card Key)
+P
+E
+Smart Candy
+×3
+Southeast corner
+P
+E
+Nanab Berry
+×3
+Central hallway, on the southern-most potted plant
+(hidden)
+P
+E
+PP Up
+Southwest room, beyond Scientist Joshua
+P
+E
+Rare Candy
+Central room
+P
+E
+8F
+Revive
+Northwest room, near Scientist Parker
+P
+E
+Silver Razz Berry
+Southeast corner, in the potted plant
+(hidden)
+(daily)
+P
+E
+X Attack
+Eastern room; northeast corner, behind the potted plant
+P
+E
+9F
+Great Ball
+×3
+Southeastern room, on the western shelves
+P
+E
+Poké Ball
+×3
+Southeastern room, southwest corner
+P
+E
+Ultra Ball
+×3
+Southeastern room, on the eastern shelves
+P
+E
+Revive
+Between the two beds in the southwest corner
+P
+E
+Elixir
+Between the two northern beds
+(hidden)
+(daily)
+P
+E
+10F
+X Accuracy
+Northeast room, on a box
+(hidden)
+(daily)
+P
+E
+Full Heal
+Northwest corner
+P
+E
+TM37
+(
+Flamethrower
+)
+Southwest room
+P
+E
+Rare Candy
+Southwest room
+P
+E
+Max Revive
+Southwest room
+P
+E
+11F
+Max Elixir
+East; south end of the eastern hallway
+P
+E
+Master Ball
+West; from the president in his office, after defeating Giovanni
+P
+E
+1F
+Upon entering the lobby, the receptionist calls out to you, warning you to stay away as it is no place for children with all the dangerous people around.
+Blue
+and
+Trace
+arrive a moment later. Blue goes over their plan: it's up to you to drive
+Team Rocket
+out of
+Silph Co.
+, with Trace accompanying you as backup. In the meantime, Blue intends to travel across
+Kanto
+, defeating any remaining Team Rocket members he can find. Between the three of you, someone is sure to find out where the group's boss is hiding. Before the trio can split up, Blue needs to be sure that you two are up to the task, and challenges you to battle.
+Pokémon Trainer
+Blue
+Silph Co.
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+11,200
+Types:
+Grass
+Psychic
+Mega Stone:
+None
+Exeggutor
+♂
+Lv.
+38
+Power Whip
+Grass
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fire
+Flying
+Mega Stone:
+None
+Charizard
+♂
+Lv.
+40
+Heat Wave
+Fire
+Special
+--
+Air Slash
+Flying
+Special
+--
+Slash
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Be sure to take a moment to heal your team. Pick up the
+X Sp. Atk
+near the two fountains and take the stairs in the northeast corner to 2F.
+2F
+Go south to fight the first Rocket Grunt, then turn west to fight another and collect the
+Super Potion
+near the west wall. It is not possible to open any of the electronic doors yet. Visit the southeast room to battle Scientist Jerry and pick up an
+X Attack
+behind the desk. Step on either
+warp tile
+to teleport to the eighth floor.
+8F
+Battle the Rocket Grunt in the central room, then step on the nearby warp tile; this leads to the adjacent northwest room. Fight Scientist Parker to reach a
+Revive
+, then warp back. Search the eastern room to find an
+X Attack
+, then follow the hallway northward. Battle the female Rocket Grunt, then take the elevator down to 3F.
+3F
+Take the northeast warp tile back to the second floor. Speak to the woman here in the northwest room to receive
+TM42
+(
+Self-Destruct
+), then warp back to 3F.
+Go south and visit the east room to get an
+X Sp. Def
+. Continue southward along the hallway to battle the next Rocket Grunt. Take the warp tile in the southwest to reach 5F; pick up the
+TM54
+(
+Flash Cannon
+) and the set of five
+Poké Balls
+on the shelf in the southwest room before returning to 3F.
+Climb up the stairs to 4F.
+4F
+Visit the eastern room to battle a Rocket Grunt and pick up a
+Dire Hit
+. Follow the hallway southward to battle another Rocket Grunt, then climb to the fifth floor.
+5F
+The large meeting room to the south holds a defeated Rocket Grunt tending to her Pokémon and an office worker looking for a way to smuggle his
+Porygon
+away from
+Team Rocket
+. Fight Juggler Dalton near the stairs and continue westward to find
+Archer
+speaking with a Rocket Grunt.
+Trace
+catches up to you a moment later, and the Rockets draw you both into a
+Multi Battle
+.
+Team Rocket Admin
+and
+Team Rocket
+Archer
+Grunt
+Silph Co.
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+4,652
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Electrode
+Lv.
+37
+Self-Destruct
+Normal
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Swift
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♂
+Lv.
+37
+Air Slash
+Flying
+Special
+--
+Crunch
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+37
+Sludge Bomb
+Poison
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Protect
+Normal
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Muk
+♀
+Lv.
+34
+Toxic
+Poison
+Status
+--
+Screech
+Normal
+Status
+--
+Minimize
+Normal
+Status
+--
+Protect
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Raticate
+♀
+Lv.
+34
+Sucker Punch
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterward, Archer realizes that it was not simply luck that let you defeat him the last time, and promises to be more careful about you and Trace before he and the Rocket Grunt run off. Trace notices that the Rocket Grunt dropped something as they escaped, and you take the
+Card Key
+from him. This key card is used to open the building's electronic doors. Unlock the northwest room to battle Scientist Beau and grab a
+Max Ether
+. Go south to battle another Rocket Grunt and follow the hallway along the east wall to reach a
+Nugget
+. Backtrack to the large meeting room and unlock the smaller room to get a
+Guard Spec.
+. Take the stairs up to 6F.
+6F
+Battle the second of the four Rocket Sisters near the elevator. Turn southward to fight Scientist Taylor and pick up the nearby
+Super Potion
+. Unlock the door to the southwest room to reach a
+Max Repel
+and a
+Hyper Potion
+. Pass through the meeting room to get an
+X Sp. Atk
+. Collect the
+PP Up
+in the eastern hallway and climb the stairs to 7F.
+7F
+Unlock the east-central room to battle the third of the Rocket Sisters and pick up
+TM34
+(
+Dragon Pulse
+). Use the Card Key again to access the southeastern room and collect the set of three
+Smart Candies
+. Turn around and follow the central hallway to the southwest room; battle Scientist Joshua here to reach the
+PP Up
+. Backtrack and unlock the central room to find a couple of office workers and a
+Rare Candy
+. Speak to the man sitting on the red chair in the northeast corner to receive a
+Lapras
+. They had been keeping it in their lab, but he thinks it would be much better off with you. Take the stairs up to 9F.
+9F
+Swipe the Card Key to unlock the east-central room, and again to reach the southeast room. Collect the set of three
+Great Balls
+from the shelves to the west and the set of three
+Poké Balls
+on the floor to the south. Battle Scientist Ed to reach the set of three
+Ultra Balls
+on the shelves to the east.
+Defeat the fourth and final Rocket Sister at the south end of the central hallway, then open the door to the break room. Speak to self-proclaimed spy disguised as
+Nurse Joy
+, and she heals your Pokémon to full health as thanks for your efforts. Pick up the
+Revive
+to the south and climb the stairs to the tenth floor.
+10F
+Battle Scientist Travis, then pick up the
+Full Heal
+to the west. Defeat the Rocket Grunt, then pick up
+TM37
+(
+Flamethrower
+), a
+Rare Candy
+, and a
+Max Revive
+from the southwest room. Climb the stairs to the east side of 11F.
+11F (East)
+Defeat the Rocket Grunt near the stairs, then grab the
+Max Elixir
+at the south end of the hallway. Ride the elevator all the way down to 3F.
+3F
+Use the Card Key to unlock the central room. Take the warp to the seventh floor.
+7F (Northwest)
+When you reach the northwest room on the seventh floor,
+Trace
+is waiting for you. The reunion is short-lived, as
+Archer
+appears after following you through the same teleporter. He is here to stop the two of you from reaching his boss. Realizing that
+Giovanni
+is indeed up ahead, Trace draws Archer into battle to buy time for you to confront the Rocket boss. Take the final warp tile to the west side of 11F.
+11F (West)
+As you proceed along the hallway, you are stopped by
+Jessie and James
+again. They claim that their boss is in a meeting and intend to defeat you so that he will not be disturbed.
+Team Rocket
+and
+Team Rocket
+Jessie
+James
+Silph Co.
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+3,456
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♂
+Lv.
+36
+Poison Jab
+Poison
+Physical
+--
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+36
+Sludge Bomb
+Poison
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Afterward, the trio flees northward. Use the Card Key to open the door and confront
+Giovanni
+. He is here to take the company's
+Master Ball
+prototype, but the president refuses to cooperate. This only angers Giovanni, who resorts to blackmailing the president by wondering aloud what may happen to the company's workers if he does not comply. The two men then notice you, and Giovanni claims to be discussing a vital business proposition. He warns you to stay out of grown-up matters before drawing you into battle.
+VS Giovanni
+Giovanni
+'s
+Persian
+takes super effective damage only from
+Fighting
+attacks.
+Rhyhorn
+fears Fighting moves as well, but also takes serious damage from
+Grass
+and
+Water
+attacks.
+Nidoqueen
+suffers against Water moves, but
+Ice
+and
+Psychic-type
+attacks are also effective.
+Team Rocket Boss
+Giovanni
+Silph Co.
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+6,240
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Persian
+♂
+Lv.
+39
+Slash
+Normal
+Physical
+--
+Feint
+Normal
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Play Rough
+Fairy
+Physical
+--
+Types:
+Ground
+Rock
+Mega Stone:
+None
+Rhyhorn
+♂
+Lv.
+39
+Drill Run
+Ground
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Types:
+Poison
+Ground
+Mega Stone:
+None
+Nidoqueen
+♀
+Lv.
+39
+Crunch
+Dark
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+With
+Giovanni
+defeated,
+Team Rocket
+'s plans for
+Silph Co.
+have been thwarted. He vows that the group will never fall and promises to return. Giovanni and his underlings make their escape, while their co-conspirators also flee the building. Speak to the president, who is so grateful to you for saving Silph that he rewards you with the
+Master Ball
+prototype. This improved kind of Poké Ball has a 100% success rate, so be sure to save it for a hard-to-catch Pokémon.
+Fighting Dojo
+Fighting Dojo
+Saffron City
+is unique as the only city to have two Pokémon Gyms. The
+Fighting Dojo
+is located in the northeast neighborhood, next door to the
+Saffron Gym
+. The two clubs had once competed to determine which would become the city's one official Gym, and the
+Psychic
+Pokémon of Saffron Gym were victorious. There is no Badge to be won here, but defeat the
+Karate Master
+to earn the choice of two rare
+Fighting-type
+Pokémon: the hard-kicking
+Hitmonlee
+or the piston-punching
+Hitmonchan
+. Use Psychic- and
+Flying-type
+attacks here for greatest effect.
+Fighting Dojo
+Trainers
+Trainer
+Pokémon
+Coach Trainer
+Leona
+Reward:
+$
+3,300
+Machoke
+♀
+Lv.
+32
+No item
+Electabuzz
+♀
+Lv.
+33
+No item
+Black Belt
+Hitoshi
+Reward:
+$
+868
+3
+Poké Balls
+Primeape
+♂
+Lv.
+31
+No item
+Black Belt
+Aaron
+Reward:
+$
+868
+3
+Poké Balls
+Graveler
+♂
+Lv.
+31
+No item
+Black Belt
+Hideki
+Reward:
+$
+868
+3
+Poké Balls
+Poliwhirl
+♂
+Lv.
+31
+No item
+Black Belt
+Mike
+Reward:
+$
+868
+3
+Poké Balls
+Machoke
+♂
+Lv.
+31
+No item
+Karate Master
+Koichi
+Fighting Dojo
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+952
+Types:
+Water
+Fighting
+Mega Stone:
+None
+Poliwrath
+♂
+Lv.
+34
+Submission
+Fighting
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Bubble Beam
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Saffron Gym
+Saffron City Pokémon Gym
+Leader: Sabrina
+The Mistress of Psychic Pokémon
+The
+Saffron Gym
+specializes in
+Psychic
+Pokémon. Psychic-type moves are super effective against
+Fighting
+- and
+Poison-type
+Pokémon, while Psychic-type Pokémon are weak to
+Bug
+-,
+Ghost
+-, and
+Dark-type
+moves. All challengers are required to present a Pokémon of at least level 45 to enter. The Gym is designed as a glitzy skyline, with
+a series of warp tiles
+linking the rooftop-like platforms to confuse and disorient any challengers.
+Step on the tile near the entrance to reach the southeast room. To reach the Gym Leader by using as few warps as possible, continue by stepping on either of these two warp tiles to reach the south-southwest room and battle Psychic Johan. Take the northeast warp to the middle room, then the southeast warp to the east-southeast room and battle Ace Trainer Amanda. Step on the southeast tile to reach the northwest platform. The two other warp tiles on this platform lead to diverging paths to the Gym Leader.
+The northeast warp leads to the platform with Channeler Imari, to the southwest of the Gym Leader. Take the northwest warp to reach the northeast platform.
+The southeast warp leads to the platform with Ace Trainer Cameron, to the southeast of the Gym Leader. Take the northeast warp to reach the northeast platform.
+From the northeast platform with Psychic Preston, take the northwest warp tile to reach the northern-most platform, where
+Sabrina
+awaits anyone up to the challenge.
+Saffron Gym
+Trainers
+Trainer
+Pokémon
+Psychic
+Johan
+Reward:
+$
+1,968
+Slowbro
+♀
+Lv.
+41
+No item
+Kadabra
+♂
+Lv.
+41
+No item
+Channeler
+Stacy
+Reward:
+$
+1,600
+Haunter
+♂
+Lv.
+40
+No item
+Haunter
+♀
+Lv.
+40
+No item
+Ace Trainer
+Amanda
+Reward:
+$
+4,200
+Jynx
+♀
+Lv.
+42
+No item
+Channeler
+Imari
+Reward:
+$
+1,600
+Haunter
+♀
+Lv.
+40
+No item
+Haunter
+♂
+Lv.
+40
+No item
+Haunter
+♂
+Lv.
+40
+No item
+Ace Trainer
+Cameron
+Reward:
+$
+4,200
+Kadabra
+♂
+Lv.
+41
+No item
+Kadabra
+♂
+Lv.
+42
+No item
+Psychic
+Preston
+Reward:
+$
+1,968
+Hypno
+♂
+Lv.
+41
+No item
+Gym Leader
+Sabrina
+Saffron Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+7,040
+Types:
+Psychic
+Fairy
+Mega Stone:
+None
+Mr. Mime
+♂
+Lv.
+43
+Psychic
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Double Slap
+Normal
+Physical
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♀
+Lv.
+43
+Psychic
+Psychic
+Special
+--
+Yawn
+Normal
+Status
+--
+Surf
+Water
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Types:
+Ice
+Psychic
+Mega Stone:
+None
+Jynx
+♀
+Lv.
+43
+Psychic
+Psychic
+Special
+--
+Lovely Kiss
+Normal
+Status
+--
+Ice Punch
+Ice
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Psychic
+Unknown
+Mega Stone:
+None
+Alakazam
+♂
+Lv.
+44
+Psychic
+Psychic
+Special
+--
+Night Shade
+Ghost
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Sabrina
+awards you the
+Marsh Badge
+, which ensures obedience from all Pokémon up to level 70. She also gives you
+TM33
+(
+Calm Mind
+) as a prize.
+The next destination is
+Fuchsia City
+to the south. There are two paths that lead there: either take Pokémon Road west of
+Celadon City
+, or follow the coast south of
+Lavender Town
+.
+← Part 9
+Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 16, Route 17, Route 18, Fuchsia City, Safari Zone
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

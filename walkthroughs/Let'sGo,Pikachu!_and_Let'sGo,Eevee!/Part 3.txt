@@ -1,0 +1,551 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 2
+1.1
+Viridian Forest
+2
+Pewter City
+2.1
+Meet Up with Trace
+2.2
+Calling All Challengers
+2.3
+Pewter Museum of Science
+2.4
+Slowpoke Sitting
+2.5
+Pewter Gym
+2.6
+Meet Blue
+2.7
+Heading Out on a Hike
+Route 2
+Viridian Forest
+Viridian Forest
+Viridian Forest
+is a sprawling, wooded area located on
+Route 2
+. A natural maze, it is easy to get lost inside.
+Trainers
+Trainer
+Pokémon
+Lass
+Joana
+Reward:
+$
+40
+3
+Poké Balls
+Rattata
+♂
+Lv.
+4
+No item
+Bug Catcher
+Brian
+Reward:
+$
+36
+3
+Poké Balls
+Weedle
+♂
+Lv.
+3
+No item
+Bug Catcher
+Rick
+Reward:
+$
+36
+3
+Poké Balls
+Caterpie
+♂
+Lv.
+3
+No item
+Lass
+Brittany
+Reward:
+$
+40
+3
+Poké Balls
+Nidoran♀
+Lv.
+4
+No item
+Bug Catcher
+Doug
+Reward:
+$
+36
+3
+Poké Balls
+Kakuna
+♂
+Lv.
+3
+No item
+Lass
+Jocelyn
+Reward:
+$
+40
+3
+Poké Balls
+Pidgey
+♀
+Lv.
+4
+No item
+Bug Catcher
+Sammy
+Reward:
+$
+36
+3
+Poké Balls
+Metapod
+♀
+Lv.
+3
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+P
+E
+Grass
+3-6
+25%
+Weedle
+P
+E
+Grass
+3-6
+25%
+Weedle
+P
+E
+Grass
+3-6
+24%
+Caterpie
+P
+E
+Grass
+3-6
+24%
+Pidgey
+P
+E
+Grass
+3-6
+15%
+Metapod
+P
+E
+Grass
+3-6
+10%
+Kakuna
+P
+E
+Grass
+3-6
+10%
+Oddish
+P
+E
+Grass
+3-6
+10%
+Bellsprout
+P
+E
+Grass
+3-6
+10%
+Pikachu
+P
+E
+Grass
+3-6
+5%
+Butterfree
+P
+E
+Grass
+3-6
+1%
+Beedrill
+P
+E
+Grass
+3-6
+1%
+Rare Spawns
+Bulbasaur
+P
+E
+Grass
+3-6
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+×5
+Southwest corner of the forest, in the tall grass at the base of a tree
+P
+E
+Tiny Mushroom
+Dead-end grassy path northwest of the south entrance
+P
+E
+Antidote
+North of the southern entrance, east of the Trainer Tips sign
+P
+E
+Razz Berry
+×3
+Southeast corner of the forest, in the tall grass at the base of a tree
+P
+E
+Potion
+×2
+Northeast corner of the forest, behind a tree
+In front of Bug Catcher Sammy near the north exit
+(hidden)
+P
+E
+Lure
+Dead-end path southeast of the north exit
+P
+E
+Go westward to battle Lass Joana and pick up the 5
+Poké Balls
+in the tall grass farther west. Follow the trail to the north then west to fight Bug Catcher Brian and find a
+Tiny Mushroom
+in the tall grass. Go east to reach an
+Antidote
+near the Trainer Tips sign. Return to the entrance, and this time head eastward. Battle Bug Catcher Rick on the east side of the forest and collect the 3
+Razz Berries
+in the tall grass, then continue north to reach a fork in the road. Tall grass covers the western path, while Lass Brittany can be fought on the eastern one. These paths combine a short distance to the north before splitting again. Take the eastern path to grab the nearby
+Potion
+sitting behind a tree, then turn west toward the tall grass. Zigzag westward through the trees to reach a signpost. Explore the dead-end path to the southeast to get a
+Lure
+, then continue westward. Defeat one last Bug Catcher to reach the northern edge of the forest. Leave the gate to re-emerge on
+Route 2
+and continue north to
+Pewter City
+.
+Trainer Tips
+Attracting Wild Pokémon with Lures
+A
+Lure
+is used to increase the encounter rate of less common Pokémon, including
+Shiny Pokémon
+, for a certain number of steps. It also causes any wild Pokémon spawned to be one level greater than the upper limit for the area. This is the only way to find several rare species, like
+Bulbasaur
+.
+Pewter City
+Pewter City
+Pewter City
+is a quiet city nestled in the northern mountains between
+Route 2
+and
+Route 3
+. The
+Pewter Museum of Science
+and the
+Pewter Gym
+are located here.
+Items
+Item
+Location
+Games
+Potion
+×5
+From Trace upon entering the city for the first time
+P
+E
+Pewter Crunchies
+Pokémon Center; sold by a man for
+$
+500 (daily)
+P
+E
+X Defense
+Behind the Pokémon Center
+P
+E
+Big Pearl
+From the lady to the west of the museum, after watching over her
+Slowpoke
+(daily)
+P
+E
+TM01
+(
+Headbutt
+)
+From Brock, after defeating him
+P
+E
+Great Ball
+×5
+Outside the Gym; from
+Blue
+, after defeating Brock
+P
+E
+Later visit
+Old Amber
+Pewter Museum; from a Scientist in the employee-only section (requires
+Chop Down
+)
+P
+E
+Pretty Wing
+×10
+Pewter Museum; from a Scientist in the employee-only section, after showing him an
+Aerodactyl
+P
+E
+Other items
+Razz Berry
+Southeast of the museum; in the bush next to the house, sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+Nanab Berry
+Meet Up with Trace
+When you enter
+Pewter City
+, you find
+Trace
+waiting for you. He tells you about the local
+Pokémon Gym
+and the
+Gym Leader
+who runs it, then gives you 5
+Potions
+to help take on the challenge.
+Calling All Challengers
+The local
+Gym Leader
+is looking for challengers, and the boy standing near the city's east exit will escort you to the Gym if you try to leave.
+Pewter Museum of Science
+The
+Pewter Museum of Science
+is located on the north side of the city. It hosts a wide range of artifacts and exhibits, with a focus on
+fossil
+excavation and space exploration. Admission to the main building is
+$
+50 for a child's ticket. The smaller building next door is closed to the public.
+Slowpoke Sitting
+A woman and her
+Slowpoke
+can be found on the northwest hill. She would like to visit the museum, but Slowpoke doesn't feel much like moving. She asks if you would babysit the Pokémon for her; agree, and you will have a relaxing time watching Slowpoke while she is away. She returns a short time later, and gives you a
+Big Pearl
+as thanks. This valuable item can be sold for an impressive
+$
+4,000!
+Pewter Gym
+Pewter City Pokémon Gym
+Leader: Brock
+The Rock-Solid Pokémon Trainer
+The
+Pewter Gym
+specializes in
+Rock-type
+Pokémon. Rock-type moves are super effective against
+Bug
+-,
+Fire
+-,
+Flying
+-, and
+Ice-type
+Pokémon, while Rock-type Pokémon are weak to
+Fighting
+-,
+Grass
+-,
+Ground
+-,
+Water
+-, and
+Steel-type
+moves. All of the Pokémon in the Pewter Gym are partly Ground type, as well, leaving them immune to
+Electric
+attacks.
+When you enter the Gym, you are stopped by the
+Gym guide
+. He explains that the Pewter Gym only allows Trainers who know about type matchups to enter. The rule is that Trainers who have never challenged a Gym before must bring along a Grass or Water Pokémon to have an advantage. Water Pokémon haven't been available yet, so be sure to show him an
+Oddish
+,
+Bellsprout
+, or
+Bulbasaur
+.
+Pikachu
+and
+Eevee
+both learn
+Double Kick
+, a Fighting attack, around level 10. Alongside a Grass Pokémon, they should be able to make short work of the Pewter Gym.
+Pewter Gym
+Trainers
+Trainer
+Pokémon
+Picnicker
+Amara
+Reward:
+$
+140
+Geodude
+♀
+Lv.
+7
+No item
+Camper
+Liam
+Reward:
+$
+140
+Geodude
+♂
+Lv.
+7
+No item
+Gym Leader
+Brock
+Pewter Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+1,920
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Geodude
+♂
+Lv.
+11
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Onix
+♂
+Lv.
+12
+Headbutt
+Normal
+Physical
+--
+Bind
+Normal
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Brock
+awards you the
+Boulder Badge
+. Having one Badge ensures obedience from all Pokémon up to level 20. He also gives you
+TM01
+(
+Headbutt
+) as a prize.
+Meet Blue
+When you leave the Gym, you are approached by a young man who introduces himself as
+Professor Oak
+'s grandson,
+Blue
+. He heard from the professor that two new Trainers had set out from
+Pallet Town
+, like he once did, and came here to offer advice on challenging the first Gym. Since he is too late, he gives you a reward of 5
+Great Balls
+instead.
+Heading Out on a Hike
+With the
+Pewter Gym
+defeated, your next destination is
+Cerulean City
+to the east. Before setting off, be sure to visit the Poké Mart to view its updated inventory.
+Great Balls
+are now available for purchase, as are
+Escape Ropes
+and
+Repels
+, all of which will be helpful in the cave up ahead. Once you are ready, head east to reach
+Route 3
+.
+← Part 2
+Route 1, Viridian City, Oak's Lab, Route 2
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 3, Mt. Moon, Route 4
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

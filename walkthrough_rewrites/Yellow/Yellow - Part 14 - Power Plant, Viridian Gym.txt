@@ -1,0 +1,54 @@
+Game: Yellow
+Part: 14
+Keywords: Power Plant, Viridian Gym
+
+### Pokémon Yellow Walkthrough: Part 14 - Power Plant and Viridian Gym
+
+#### Power Plant
+1. **Location:** Industrial complex with hidden items and Pokémon.
+2. **Key Pokémon:**
+   - **Magnemite:** Levels 30-35 (40%)
+   - **Magneton:** Levels 33-38 (20%)
+   - **Grimer:** Levels 33-37 (15%)
+   - **Muk:** Levels 33-37 (5%)
+   - **Voltorb:** Levels 33-37 (20%)
+   - **Zapdos:** Level 50 (1x encounter).
+
+3. **Important Items:**
+   - **Carbos:** North of entrance.
+   - **TM33 (Reflect):** South-central room.
+   - **TM25 (Thunder):** Southeast room.
+   - **Rare Candy & HP Up:** Northeast room.
+   - **PP Up:** Hidden in rubble northeast of Zapdos.
+   - **Max Elixir:** Hidden in central room.
+
+4. **Strategy for Zapdos:**
+   - Use Rock- and Ice-type moves, then Grass, Flying, and Fighting to weaken it.
+   - Inflict Sleep status to increase catch chances.
+
+#### Viridian City
+1. **Gym Information:**
+   - **Leader:** Giovanni (Ground-type Pokémon).
+   - **Recommended Types:** Grass, Water, Ice, Flying, Psychic.
+   
+2. **Gym Layout:**
+   - Go past three trainers to find a Revive.
+   - Battle trainers and navigate spinner tiles to reach Giovanni.
+   
+3. **Giovanni's Pokémon:**
+   - **Dugtrio (Lv. 50):** Use Water and Grass attacks.
+   - **Persian (Lv. 53):** Normal-type.
+   - **Nidoqueen (Lv. 53):** Poison/Ground-type.
+   - **Nidoking (Lv. 55):** Poison/Ground-type.
+   - **Rhydon (Lv. 55):** Ground/Rock-type.
+
+4. **Post-Battle:**
+   - Defeating Giovanni awards the **Earth Badge** and **TM27 (Fissure)**.
+   - Giovanni officially disbands Team Rocket.
+
+#### Next Steps
+- Head to **Indigo Plateau** to challenge the Elite Four.
+- Prepare for **Victory Road**; ensure your team has **Surf** and **Strength**. Stock up on Potions and Poké Balls. 
+
+### Summary
+Complete the Power Plant for items and capture Zapdos, then defeat Giovanni in Viridian Gym to earn the Earth Badge before heading to the Indigo Plateau.

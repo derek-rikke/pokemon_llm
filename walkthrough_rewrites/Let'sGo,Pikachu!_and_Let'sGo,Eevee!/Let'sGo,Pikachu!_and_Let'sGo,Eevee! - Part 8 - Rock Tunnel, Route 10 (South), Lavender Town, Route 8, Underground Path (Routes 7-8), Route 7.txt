@@ -1,0 +1,100 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+### Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! Walkthrough - Part 8
+
+**Key Locations**:
+- **Rock Tunnel**
+- **Route 10 (South)**
+- **Lavender Town**
+- **Route 8**
+- **Underground Path (Routes 7-8)**
+- **Route 7**
+
+---
+
+#### Rock Tunnel
+- **Lighting**: Use Light Up to navigate the dark cave.
+  
+**1F Trainers**:
+- **Northeast**: Poké Maniac Ashton (Slowpoke, Lv. 23) - Reward: $1,104
+- **West**: Camper Lenny (Growlithe, Lv. 22) - Reward: $440
+- **South**: Picnickers Leah/Dana (Nidorina/Meowth, Lv. 22) - Reward: $440 each
+
+**B1F Trainers**:
+- **Southeast**: Poké Maniac Winston (Kangaskhan, Lv. 23) - Reward: $1,104
+- **Northwest**: Ace Trainer Sofia (Vulpix/Kadabra, Lv. 24-25) - Reward: $2,500
+
+**Items**:
+- **1F**: 
+  - Repel (Northeast)
+  - Escape Rope (West)
+  - Super Potion (Southeast)
+- **B1F**: 
+  - Revive (Southeast)
+  - Great Balls (Northeast)
+  
+---
+
+#### Route 10 (South)
+- Shorter than the northern section. You can avoid trainers by taking the eastern path.
+
+**Trainers**:
+- **Hiker Clark** (Geodude/Graveler, Lv. 25) - Reward: $1,000
+- **Picnicker Carol** (Pikachu/Pidgeotto, Lv. 24) - Reward: $480
+
+**Items**:
+- Great Balls (West of exit)
+- Nanab Berries (East of exit)
+
+---
+
+#### Lavender Town
+- **Cubone's Lament**: Follow Cubone into Pokémon Tower.
+  
+**Key Items**:
+- **Poké Flute**: Get from Mr. Fuji after rescuing him in Pokémon Tower.
+- **Great Balls**: 20 from a man on the west side after rescuing Cubone.
+
+**Pokémon Tower**:
+- Encounter ghost Pokémon like Gastly and Haunter.
+- **Rival Battle 5**: Use Electric and Ground-type moves against Trace's team.
+
+---
+
+#### Route 8
+- Connects Lavender Town and Saffron City.
+
+**Trainers**:
+- **Beauty Aubrey** (Clefairy, Lv. 26) - Reward: $1,560
+- **Gamer Rich** (Seaking, Lv. 35) - Reward: $4,200
+
+**Items**:
+- Fire Stone (Middle of fenced area)
+- X Speed (East of Underground Path entrance)
+
+---
+
+#### Underground Path (Routes 7-8)
+- Not able to reach Saffron City yet; continue west to Route 7.
+
+**Items**:
+- X Accuracy (Middle of path)
+
+---
+
+#### Route 7
+- Short route connecting to Celadon City.
+
+**Trainers**:
+- **Ace Trainer Yvette** (Raichu/Dugtrio, Lv. 28-29) - Reward: $2,800
+- **Coach Trainer Alpesh** (Farfetch'd/Wigglytuff, Lv. 29-30) - Reward: $3,000
+
+**Items**:
+- Elixir (South of Saffron City gate)
+- TM12 (Facade) from Coach Trainer Alpesh
+
+--- 
+
+This concise guide covers essential gameplay elements, trainer encounters, items, and key strategies. For detailed maps and additional information, refer to dedicated resources.

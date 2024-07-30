@@ -1,0 +1,1454 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_17
+Keywords: Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+
+Walkthrough Text:
+Contents
+1
+Routes 132, 133, and 134 (optional)
+1.1
+Northern path
+1.2
+Central path
+1.3
+To the Depths
+1.4
+Sealed Chamber
+1.4.1
+Entrance
+1.4.2
+Back Room
+2
+Desert Ruins (optional)
+2.1
+Entrance
+2.2
+Back Room
+3
+Island Cave (optional)
+3.1
+Entrance
+3.2
+Back Room
+4
+Ancient Tomb (optional)
+4.1
+Entrance
+4.2
+Back Room
+5
+Sky Pillar
+5.1
+Exterior
+5.2
+1F-5F
+5.3
+Apex
+6
+Sootopolis City (second visit)
+6.1
+Rayquaza to the Rescue
+6.2
+Move Tutor
+6.3
+Sootopolis Gym
+6.4
+Competitive brothers
+6.5
+A Berry A Day
+Routes 132, 133, and 134 (optional)
+Route 132
+Route 133
+Route 134
+The waters of Routes
+132
+,
+133
+, and
+134
+hold strong ocean currents that make travel difficult. While moving primarily westbound, these currents can send you sailing in almost any direction. This makes it necessary to revisit the area in order to explore every island.
+Trainers
+Route 132
+Trainer
+Pokémon
+Swimmer
+Gilbert
+Reward:
+$
+272
+Sharpedo
+♂
+Lv.
+34
+No item
+Swimmer
+Dana
+Reward:
+$
+272
+Azumarill
+♀
+Lv.
+34
+No item
+Fisherman
+Ronald
+Reward:
+$
+1400
+Magikarp
+♂
+Lv.
+19
+No item
+Gyarados
+♂
+Lv.
+21
+No item
+Gyarados
+♂
+Lv.
+23
+No item
+Gyarados
+♂
+Lv.
+26
+No item
+Gyarados
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+35
+No item
+Black Belt
+Kiyo
+Reward:
+$
+1088
+Hariyama
+♂
+Lv.
+34
+No item
+Expert
+Paxton
+Reward:
+$
+1320
+Potential
+Double Battle
+with Darcy
+Swellow
+♂
+Lv.
+33
+No item
+Breloom
+♂
+Lv.
+33
+No item
+Cooltrainer
+Darcy
+Reward:
+$
+1584
+Potential
+Double Battle
+with Paxton
+Pelipper
+♀
+Lv.
+33
+No item
+Camerupt
+♀
+Lv.
+33
+No item
+Expert
+Makayla
+Reward:
+$
+1320
+Potential
+Double Battle
+with Jonathan
+Roselia
+♀
+Lv.
+33
+No item
+Medicham
+♀
+Lv.
+33
+No item
+Cooltrainer
+Jonathan
+Reward:
+$
+1584
+Potential
+Double Battle
+with Makayla
+Kecleon
+♂
+Lv.
+33
+No item
+Loudred
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 133
+Trainer
+Pokémon
+Swimmer
+Linda
+Reward:
+$
+264
+Horsea
+♀
+Lv.
+33
+No item
+Seadra
+♀
+Lv.
+33
+No item
+Bird Keeper
+Beck
+Reward:
+$
+1088
+Tropius
+♂
+Lv.
+34
+No item
+Expert
+Conor
+Reward:
+$
+1320
+Potential
+Double Battle
+with Mollie
+Chinchou
+♂
+Lv.
+33
+No item
+Hariyama
+♂
+Lv.
+33
+No item
+Expert
+Mollie
+Reward:
+$
+1320
+Potential
+Double Battle
+with Conor
+Whiscash
+♀
+Lv.
+33
+No item
+Meditite
+♀
+Lv.
+33
+No item
+Cooltrainer
+Warren
+Reward:
+$
+1584
+Graveler
+♂
+Lv.
+33
+No item
+Ludicolo
+♂
+Lv.
+33
+No item
+Swimmer
+Debra
+Reward:
+$
+272
+Potential
+Double Battle
+with Franklin
+Seaking
+♀
+Lv.
+34
+No item
+Swimmer
+Franklin
+Reward:
+$
+272
+Potential
+Double Battle
+with Debra
+Sealeo
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 134
+Trainer
+Pokémon
+Swimmer
+Laurel
+Reward:
+$
+264
+Luvdisc
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Swimmer
+Jack
+Reward:
+$
+272
+Gyarados
+♂
+Lv.
+34
+No item
+Black Belt
+Hitoshi
+Reward:
+$
+1024
+Potential
+Double Battle
+with Reyna
+Machop
+♂
+Lv.
+32
+No item
+Machoke
+♂
+Lv.
+32
+No item
+Battle Girl
+Reyna
+Reward:
+$
+792
+Potential
+Double Battle
+with Hitoshi
+Meditite
+♀
+Lv.
+33
+No item
+Hariyama
+♂
+Lv.
+33
+No item
+Sailor
+Hudson
+Reward:
+$
+1088
+Wailmer
+♂
+Lv.
+34
+No item
+Dragon Tamer
+Aaron
+Reward:
+$
+1632
+Double Battle
+with Marley
+Bagon
+♂
+Lv.
+34
+No item
+Cooltrainer
+Marley
+Reward:
+$
+1632
+Double Battle
+with Aaron
+Manectric
+♀
+Lv.
+34
+No item
+Bird Keeper
+Alex
+Reward:
+$
+1056
+Potential
+Double Battle
+with Kelvin
+Natu
+♂
+Lv.
+33
+No item
+Swellow
+♂
+Lv.
+33
+No item
+Sailor
+Kelvin
+Reward:
+$
+1056
+Potential
+Double Battle
+with Alex
+Machoke
+♂
+Lv.
+33
+No item
+Spheal
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Horsea
+R
+S
+E
+Fishing
+Super Rod
+25-30
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Route 132
+Rare Candy
+North side of the northwest island
+E
+Protein
+On the ring-shaped patch of shallow water in the southwest
+E
+Route 133
+Star Piece
+North side of the northwest island
+E
+Max Revive
+Among the rocks in the large shallow water patch in the southeast
+E
+Big Pearl
+Southern of the two shallows in the northeast
+E
+Route 134
+Carbos
+South side of the sandy part of the largest island
+E
+Star Piece
+Shallows in the southwest
+E
+Northern path
+Ride the central currents to Swimmer Gilbert, then sail westward to reach a
+Rare Candy
+opposite Black Belt Kiyo on the northwest island. From here, Surf westward through the northern shallows of Route 133 to reach the north side of the route's northwest island. Collect the
+Star Piece
+here, then sail west to the calm waters on Route 134's north side. Take the current south of here to reach the large, thin island. Fight Black Belt Hitoshi and Battle Girl Reyna, collect the nearby
+Carbos
+, then Surf west to reach the shallows outside
+Slateport City
+.
+Central path
+Ride the southern currents to the southeast island to fight Fisherman Ronald. Wade into the waters off the north end of the shallows to follow the current to Black Belt Kiyo on the northwest island. Sail westward to ride the current to the southern of two shallows on Route 133, where you'll need to fight Experts Conor and Mollie before collecting the
+Big Pearl
+there. Continue westward to reach the south side of Route 133's northwest island, and battle Bird Keeper Beck. Sail west again to battle Sailor Hudson in the shallows of the large island. Head back into the water to follow the current to Slateport City.
+To the Depths
+Ride the southern currents to fight Fisherman Ronald on the crescent-shaped island, then sail westward to a calm patch of water surrounded by shallows. Grab the
+Protein
+, then follow the currents westward to be funneled through a bottleneck; this leads to calm waters with two Swimmers, Debra and Franklin. Pass through the rocky southern islet, collecting the
+Max Revive
+along the way, to reach a rectangular patch of shallow water situated between Routes 133 and 134. Step into the water from the west-central side to reach a deep, dark pit of water surrounded by a ring of rocks.
+Dive
+beneath the waves and follow the underwater path southward. The markings on the nearby wall are an ancient form of writing, and translate to
+Go up here
+.
+Surface from this point to emerge in an ancient ruin known as the
+Sealed Chamber
+. Once you're done exploring the Sealed Chamber, surface on Route 134 where you left off and continue west and then south to a small maze of rocks. Leave the maze through its westernmost exit to Sailor Hudson's island, then Surf further west to reach the shallows outside Slateport City.
+Sealed Chamber, Entrance
+Sealed Chamber, Back Room
+Sealed Chamber
+The
+Sealed Chamber
+is a mysterious ruin located in the depths of
+Route 134
+. The many stone tablets positioned around the chamber feature the same mysterious writing that was found near the underwater entrance. Solving some of
+Hoenn
+'s oldest mysteries hinges on deciphering this age-old system.
+Entrance
+The first chamber holds ten stone tablets that act as a key to decoding this ancient writing system, known as
+Braille
+. These 28 characters correspond to the 26 letters of the alphabet, as well as the comma and period. Inspect the markings on the cavern's north wall to reveal a phrase, which translates to
+Dig here
+. Using
+the field move
+causes the wall to fall away, granting you access to a second cavern.
+Back Room
+The central ruins are encircled by
+six more stone tablets
+which tell of a powerful Pokémon that was sealed away. The message on the north wall reads,
+First comes
+Wailord
+. Last comes
+Relicanth
+.
+Relicanth can be found only in a few underwater areas, while Wailord's pre-evolved form,
+Wailmer
+, can be found in many areas with the
+Good Rod
+or
+Super Rod
+. Position these Pokémon in their respective places in your party and examine the wall again. This causes a mighty earthquake to rock the Sealed Chamber, while the sound of doors opening echoes from somewhere far away. Three separate ruins have now been opened, and each one holds a legendary Pokémon!
+Desert Ruins (optional)
+Desert Ruins, exterior
+Desert Ruins, interior
+The
+Desert Ruins
+lie among the dunes of
+Route 111
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Left, left, down, down. Then, use Rock Smash.
+Close the message box and move exactly as instructed, two steps west and two steps south. Have a Pokémon use
+Rock Smash
+from this location, and a secret passage opens in the north wall!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Regirock
+awaits.
+Type:
+Rock
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regirock
+Lv.
+40
+Rock Throw
+Rock
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+Island Cave (optional)
+Island Cave, exterior
+Island Cave, interior
+The
+Island Cave
+sits on a small isle in the northwest part of
+Route 105
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Stay close to the wall. Run around one lap.
+Close the message box and make a lap of the chamber, staying near the walls. After doing so, a secret passage appears out of nowhere!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Regice
+awaits.
+Type:
+Ice
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regice
+Lv.
+40
+Icy Wind
+Ice
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+Ancient Tomb (optional)
+Ancient Tomb, exterior
+Ancient Tomb, interior
+The
+Ancient Tomb
+stands on the southwest plateau of
+Route 120
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Those who inherit our will, shine in the middle.
+Close the message box and move to the center of the cave. Have a Pokémon use
+Flash
+from this location, and a secret passage appears out of nowhere!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Registeel
+awaits.
+Type:
+Steel
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Registeel
+Lv.
+40
+Metal Claw
+Steel
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+Sky Pillar
+Sky Pillar, Exterior
+Sky Pillar, 6F
+On the northern side of
+Route 131
+,
+Sky Pillar
+is an ancient, towering altar built for the ascension of Hoenn's ageless protector, the legendary dragon
+Rayquaza
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golbat
+R
+S
+E
+1F
+34-35
+30%
+Sableye
+R
+S
+E
+1F
+33-34
+30%
+Claydol
+R
+S
+E
+1F
+36-38
+25%
+Banette
+R
+S
+E
+1F
+37-38
+15%
+3F
+Golbat
+R
+S
+E
+3F
+34-35
+30%
+Sableye
+R
+S
+E
+3F
+33-34
+30%
+Claydol
+R
+S
+E
+3F
+36-38
+25%
+Banette
+R
+S
+E
+3F
+37-38
+15%
+5F
+Golbat
+R
+S
+E
+5F
+34-35
+30%
+Sableye
+R
+S
+E
+5F
+33-34
+30%
+Claydol
+R
+S
+E
+5F
+36-38
+19%
+Banette
+R
+S
+E
+5F
+37-38
+15%
+Altaria
+R
+S
+E
+5F
+38-39
+6%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Exterior
+After climbing through the tunnel from the sea, you emerge on the island's upper level.
+Wallace
+approaches you from the tower, having just unlocked the door. Sudden earthquakes rock the island as the weather distortions continue to spread from
+Sootopolis
+. He's worried about the city and heads back, leaving you to scale the tower on your own.
+1F-5F
+Enter the tower and climb the stairs to 4F. Step onto the cracked tiles on the north side of the floor; this causes you to fall back down to a previously-inaccessible part of 3F. Climb to 5F and take the stairs in the northeast to reach the apex.
+Apex
+Upon reaching the rooftop, you find the legendary creature beyond one final flight of stairs. Approach the dragon and it awakens, before flying off with a cry loud enough to shake the tower. Follow it back to Sootopolis!
+Sootopolis City (second visit)
+Rayquaza to the Rescue
+Rayquaza quelling the battle.
+When you return to
+Sootopolis
+, you find the two super-ancient Pokémon still locked in battle.
+Rayquaza
+suddenly appears in a beam of green light shining through the storm clouds, and quickly descends to the city. It hovers above the two combatants, and ends the fighting with a single, intimidating roar.
+Groudon
+and
+Kyogre
+flee, Rayquaza flies off back to
+Sky Pillar
+with another loud cry, and the weather returns to normal. With the super-ancient Pokémon gone, you can now find wild Pokémon while surfing in Sootopolis City.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+R
+S
+E
+Surfing
+5-35
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+100%
+Magikarp
+R
+S
+E
+Fishing
+Super Rod
+30-35
+80%
+Gyarados
+R
+S
+E
+Fishing
+Super Rod
+5-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+After calming Groudon and Kyogre and talk to Maxie and Archie
+HM07
+(
+Waterfall
+)
+From Wallace in front of the Gym
+E
+TM31
+(
+Brick Break
+)
+From the Black Belt in the northwestern-most house
+E
+Before awakening Kyogre or after defeating the Sootopolis Gym
+TM03
+(
+Water Pulse
+)
+From Juan upon his defeat
+E
+Wailmer Doll
+From the girl in the house east of the Pokémon Center
+E
+Elixir
+×2
+House northeast of the Pokémon Center, from the Fisherman if shown a large
+Seedot
+House northeast of the Pokémon Center, from the Hiker if shown a large
+Lotad
+E
+Note: If you were to return to the Sky Pillar, Rayquaza would be there, waiting to battle.
+Kiri
+still will not give out Berries after Rayquaza appears here in the city, you should first defeat the Gym Leader of Sootopolis City.
+Maxie
+,
+Archie
+,
+Steven
+, and
+Wallace
+all witness these events from the Gym island.
+Kiri
+still will not give out Berries after Rayquaza appears here in the city, you should first defeat the Gym Leader of Sootopolis City. The team leaders realize and accept their mistakes, then leave for
+Mt. Pyre
+to return the
+Red
+and
+Blue Orbs
+. Wallace thanks you on behalf of the people of
+Hoenn
+, and gives you
+HM07
+(
+Waterfall
+) as a gift. With this, a Pokémon can force its way up a waterfall, but using it requires defeating the Sootopolis Gym first!
+Move Tutor
+Visit the Pokémon Center to prepare for the upcoming Gym. Inside, you find a girl near the bookcase on the left side of the counter. Speak to her, and she offers to teach the move
+Double-Edge
+to a Pokémon, one time only.
+Sootopolis Gym
+Sootopolis Gym, 1F
+Sootopolis Gym, B1F
+Sootopolis City Pokémon Gym
+Leader: Juan
+The Gym Leader with the beauty of pure water!
+The
+Sootopolis Gym
+Specializes in
+Water-type
+Pokémon.
+Grass
+- and
+Electric-type
+moves are best here, while
+Fire
+,
+Ground
+, and
+Rock
+Pokémon may struggle. The Gym features three platforms where each icy tile must be traversed once in order to defrost the next stairway. Walking over an ice tile once cracks it; passing by a second time shatters it, leaving you to fall to the Gym's snowy underbelly where plenty of Trainers await.
+The first puzzle is a 3×3 grid of ice, with two icy rocks as obstacles. Starting on the south-central tile, move ←1, ↑1, →2, ↑1 and ←1. This reveals the first stairway.
+The second puzzle is a 7×3 grid, with two icy rocks as obstacles. From the south-central tile, move ←3, ↑2, →2, ↓1, →2, ↓1, →2, ↑2, and ←3. This reveals the second stairway.
+The final puzzle is an 11×4 grid, with six icy rocks as obstacles. Starting on the south-central tile, move ←5, ↑3, →1, ↓1, →1, ↓1, →1, ↑2, →1, ↓1, →1, ↓1, →2, ↑1, →1, ↓1, →1, ↓1, →1, ↑3, and ←5. This reveals the stairway to the Gym Leader.
+Juan
+leads with his
+Luvdisc
+; not much of a threat, but it may still confuse its target with
+Sweet Kiss
+, and further hinder male targets with
+Attract
+. As a
+Water
+/
+Ground
+Pokémon, his
+Whiscash
+is only vulnerable to Grass moves; its
+Rain Dance
+temporarily strengthens Water moves, while
+Earthquake
+can deter
+Electric-type
+opponents.
+Sealeo
+'s
+Ice
+/
+Water
+typing gives it additional weaknesses to
+Fighting
+and
+Rock
+moves;
+Water Pulse
+and
+Body Slam
+deal damage while
+Encore
+forces the target to repeat its previous move. His
+Crawdaunt
+is not a major threat, as all Water moves are
+Special moves
+and its
+Special Attack
+is lower than its
+Attack
+, but it can still deal damage. Finally, his
+Kingdra
+can inflict serious damage with Water Pulse, and use
+Ice Beam
+to deal with Grass types; use powerful moves to defeat it quickly, before it can regain health with
+Rest
+.
+Sootopolis Gym
+Trainers
+Trainer
+Pokémon
+Beauty
+Connie
+Reward:
+$
+3200
+Goldeen
+♀
+Lv.
+40
+No item
+Lass
+Andrea
+Reward:
+$
+640
+Luvdisc
+♀
+Lv.
+40
+No item
+Lady
+Daphne
+Reward:
+$
+7800
+Potential
+Double Battle
+with Annika
+Luvdisc
+♀
+Lv.
+39
+Nugget
+Luvdisc
+♀
+Lv.
+39
+Nugget
+Pokéfan
+Annika
+Reward:
+$
+3120
+Potential
+Double Battle
+with Daphne
+Feebas
+♀
+Lv.
+39
+Oran Berry
+Feebas
+♀
+Lv.
+39
+Oran Berry
+Beauty
+Tiffany
+Reward:
+$
+3120
+Potential
+Double Battle
+with Crissy
+Carvanha
+♀
+Lv.
+39
+No item
+Sharpedo
+♀
+Lv.
+39
+No item
+Lass
+Crissy
+Reward:
+$
+624
+Potential
+Double Battle
+with Tiffany
+Goldeen
+♀
+Lv.
+39
+No item
+Wailmer
+♀
+Lv.
+39
+No item
+Pokéfan
+Bethany
+Reward:
+$
+3120
+Potential
+Double Battle
+with Olivia
+Azurill
+♀
+Lv.
+35
+Oran Berry
+Marill
+♀
+Lv.
+37
+Oran Berry
+Azumarill
+♀
+Lv.
+39
+Oran Berry
+Beauty
+Olivia
+Reward:
+$
+3120
+Potential
+Double Battle
+with Bethany
+Clamperl
+♀
+Lv.
+35
+No item
+Corphish
+♀
+Lv.
+37
+No item
+Lombre
+♀
+Lv.
+39
+No item
+Lady
+Brianna
+Reward:
+$
+8000
+Potential
+Double Battle
+with Bridget
+Seaking
+♀
+Lv.
+40
+Nugget
+Beauty
+Bridget
+Reward:
+$
+3200
+Potential
+Double Battle
+with Brianna
+Azumarill
+♀
+Lv.
+40
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Leader
+Juan
+Sootopolis Gym
+Emerald
+Reward:
+$
+4600
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Luvdisc
+♀
+Lv.
+41
+Water Pulse
+Water
+--
+Attract
+Normal
+--
+Sweet Kiss
+Normal
+--
+Flail
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♂
+Lv.
+41
+Rain Dance
+Water
+--
+Water Pulse
+Water
+--
+Amnesia
+Psychic
+--
+Earthquake
+Ground
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♂
+Lv.
+43
+Encore
+Normal
+--
+Body Slam
+Normal
+--
+Aurora Beam
+Ice
+--
+Water Pulse
+Water
+--
+Types:
+Water
+Dark
+Ability:
+Hyper Cutter
+Held item:
+None
+Crawdaunt
+♂
+Lv.
+43
+Water Pulse
+Water
+--
+Crabhammer
+Water
+--
+Taunt
+Dark
+--
+Leer
+Normal
+--
+Types:
+Water
+Dragon
+Ability:
+Swift Swim
+Held item:
+Chesto Berry
+Kingdra
+♂
+Lv.
+46
+Water Pulse
+Water
+--
+Double Team
+Normal
+--
+Ice Beam
+Ice
+--
+Rest
+Psychic
+--
+Defeated, Juan awards you the
+Rain Badge
+, which ensures obedience from all Pokémon and enables the use of
+Waterfall
+in the field. He also gives you
+TM03
+(
+Water Pulse
+) as a prize, and registers himself in your PokéNav. With all eight Badges, your next destination is the
+Pokémon League
+in
+Ever Grande City
+to the southeast. To get there, sail southward from
+Mossdeep City
+, then eastward through
+Route 128
+'s narrow channel. However, you may want to pick up a few more items before leaving Sootopolis.
+Competitive brothers
+In the house northeast of the Pokémon Center, there are two brothers who are arguing over two different species of Pokémon. The younger brother is a Fisherman, while the older brother is a Hiker. The younger brother prefers Seedot and the older brother prefers Lotad.
+The brothers are arguing over the sizes of their favorite Pokémon. If a brother is shown a Pokémon of the species he prefers, he will calculate its size and give the player an Elixir if it is larger than any he has seen before. The initial record size is the average height of the species being argued over, which is 0.5 meters.
+A Berry A Day
+Kiri will give you two Berries each day. She gives one Berry from among the
+Pomeg
+,
+Kelpsy
+,
+Qualot
+,
+Hondew
+,
+Grepa
+,
+Tamato
+,
+Cornn
+,
+Magost
+,
+Rabuta
+, or
+Nomel
+Berries; and the other from the
+Figy
+or
+Iapapa
+specimens.
+After defeating the Sootopolis Gym
+Berry 1
+Berry 2
+Pomeg Berry
+Kelpsy Berry
+Figy Berry
+Qualot Berry
+Hondew Berry
+Iapapa Berry
+Grepa Berry
+Tamato Berry
+Cornn Berry
+Magost Berry
+Rabuta Berry
+Nomel Berry
+← Part 16
+Route 126, Sootopolis City, Cave of Origin, Route 129, Route 130, Route 131, Pacifidlog Town
+Emerald
+walkthrough
+Sky Pillar, Ever Grande City, Victory Road
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

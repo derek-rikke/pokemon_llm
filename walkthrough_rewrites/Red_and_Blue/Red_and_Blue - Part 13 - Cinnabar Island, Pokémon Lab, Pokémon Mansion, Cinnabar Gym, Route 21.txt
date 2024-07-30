@@ -1,0 +1,49 @@
+Game: Red_and_Blue
+Part: 13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21
+
+**Part 13: Cinnabar Island Walkthrough**
+
+**Cinnabar Island Overview:**
+- Located southwest of Kanto, between Routes 20 and 21.
+- Key locations: Cinnabar Lab, Pokémon Mansion, Cinnabar Gym.
+
+**Available Pokémon:**
+- **Fishing:** 
+  - Magikarp (Old Rod, Lv. 5)
+  - Poliwag (Good Rod, Lv. 10)
+  - Goldeen (Good Rod, Lv. 10)
+  - Shellder, Horsea, Staryu (Super Rod, Lv. 15)
+- **Gift Pokémon:**
+  - Omanyte (Helix Fossil), Kabuto (Dome Fossil), Aerodactyl (Old Amber, all Lv. 30).
+
+**Key Items:**
+- **Cinnabar Lab:**
+  - TM35 (Metronome): R-and-D Room from a Scientist.
+  - TM38 (Fire Blast): Reward from Blaine after defeating him.
+- **Pokémon Mansion:**
+  - Moon Stone, Escape Rope, Carbos, Calcium, Iron, Max Potion, Max Revive, TM14 (Blizzard), Full Restore, Rare Candies, TM22 (SolarBeam), Secret Key.
+
+**Cinnabar Lab:**
+- Trade options in Meeting Room and Testing Room for Electrode, Tangela, and Seel.
+- Fossils can be revived into Omanyte, Kabuto, or Aerodactyl.
+
+**Pokémon Mansion:**
+- Explore the mansion for hidden switches, items, and journal entries.
+- Key Pokémon to battle: Electrode, Weezing, Growlithe, and various Burglar trainers.
+
+**Cinnabar Gym:**
+- **Leader:** Blaine (Fire-type).
+- Effective against: Water, Rock, Ground-type moves.
+- Gym involves answering quiz questions to unlock doors.
+- After defeating Blaine, receive the Volcano Badge and TM38.
+
+**Route 21:**
+- Leads from Cinnabar Island to Pallet Town.
+- Trainers here primarily use Water-type Pokémon.
+
+**Next Steps:**
+- After completing Cinnabar Gym, surf north to Route 21.
+- Prepare to revisit Pallet Town and head to the Power Plant via Route 10.
+
+**Note:** Ensure to keep Burn Heals handy for the Cinnabar Gym battles.

@@ -1,0 +1,964 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_18
+Keywords: Route 15, Route 16, Ula'ula Meadow, Route 17
+
+Walkthrough Text:
+Contents
+1
+Route 15
+1.1
+VS Plumeria
+1.2
+Aether House
+1.3
+The Kimono-Clad Man
+2
+Route 16
+2.1
+Aether Base
+3
+Ula'ula Meadow
+4
+Route 17
+4.1
+Getting Past Security
+4.2
+The Man in Black
+Route 15
+Route 15
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+30-33
+50%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+30-33
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+30-33
+-
+30%
+Slowpoke
+Slowpoke
+S
+M
+Grass
+30-33
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-33
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-33
+20%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-33
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-33
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-33
+30%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-33
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Requires Sharpedo Jet
+PP Max
+From Trial Guide Katrina, after defeating her
+S
+M
+TM93
+(
+Wild Charge
+)
+Paved area on the large central island (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Dive Ball
+Northeast corner of the northeast beach (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Pearl
+Northwest beach, against the cliff near the Fisherman
+(hidden, regenerates occasionally)
+S
+M
+Normal Gem
+Northwest beach, northwest corner
+(hidden, regenerates occasionally)
+S
+M
+VS Plumeria
+After clearing the
+Ghost-type
+trial, the next task is to continue north through
+Route 15
+. When you reach
+Aether House
+, you and
+Acerola
+find
+Plumeria
+and a couple of
+Team Skull
+Grunts. Plumeria is annoyed that it's taking so long for the Grunts to deal with you kids, and decided to take care of things herself.
+Hau
+and Acerola take on the Grunts, leaving Plumeria to you. She prefers using
+Poison-type
+Pokémon, so
+Psychic
+- and
+Rock-type
+attacks are best against her team.
+Team Skull Admin
+Plumeria
+Route 15
+Sun and Moon
+Reward:
+$
+4,200
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+34
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Poison Fang
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Fire
+Ability:
+Corrosion
+Held item:
+None
+Salazzle
+♀
+Lv.
+35
+Flame Burst
+Fire
+Special
+--
+Double Slap
+Normal
+Physical
+--
+Toxic
+Poison
+Status
+--
+Dragon Rage
+Dragon
+Special
+--
+She taunts you after the battle, saying that if you want them to return the Pokémon they've taken, you will need to come to their base in
+Po Town
+. She and the two Grunts run off, and
+Acerola
+rushes into the building.
+Aether House
+It turns out that
+Team Skull
+has taken the little girl's
+Yungoos
+. Acerola informs you that Po Town has been taken over by Team Skull and that it is essentially their own private playground now. She suggests finding a man wearing a kimono on
+Route 15
+, as he may be able to help you reach the town. The little girl pleads for your help, and gives you a
+Rare Candy
+.
+The Kimono-Clad Man
+Make your way to the beach to find a man in a black-and-white kimono. This is
+Grimsley
+, a former
+Elite Four
+member from the distant
+Unova
+region. He tells you that he is about to flip a coin, and asks you if it will be heads or tails. It makes no different which one is chosen, as he accepts his loss and registers
+Sharpedo Jet
+in your Ride Pager. Sharpedo Jet can be used to cross bodies of water like Lapras Paddle, but can also jet forward to smash through rocks. Use your newfound ability to cross the water and continue north to
+Route 16
+.
+Route 16
+Route 16
+Route 16
+is a short route linking
+Route 15
+to
+Ula'ula Meadow
+. The Pokémon Center is a frequent rest stop for visitors on their way to the meadow. An Aether Base is located to the east.
+Trainers
+Trainer
+Pokémon
+Scientist
+Reid
+Reward:
+$
+1,584
+Charjabug
+♂
+Lv.
+32
+No item
+Muk
+♂
+Alolan form
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+30-33
+50%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+30-33
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+30-33
+-
+30%
+Slowpoke
+Slowpoke
+S
+M
+Grass
+30-33
+20%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+30-33
+100%
+Gift Pokémon
+Before becoming
+Champion
+Zygarde
+10% Forme
+N/A
+S
+M
+Gift
+30
+Assemble
+Zygarde
+50% Forme
+N/A
+S
+M
+Gift
+30
+Assemble
+Gift Pokémon
+After becoming
+Champion
+Zygarde
+10% Forme
+N/A
+S
+M
+Gift
+50
+Assemble
+Zygarde
+50% Forme
+N/A
+S
+M
+Gift
+50
+Assemble
+Exclusively from
+Island Scan
+Duosion
+N/A
+S
+M
+Grass
+33
+One
+Tu
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+$
+20,000
+Pokémon Center; from the Aether Foundation Employee, if
+Mimikyu
+is registered in the Pokédex
+S
+M
+Lemonade
+Pokémon Center; from the woman near the café, after buying enough drinks from
+Pokémon Center Cafés
+S
+M
+Zygarde Cell
+On the west side of the Pokémon Center
+Day
+S
+M
+TM81
+(
+X-Scissor
+)
+Behind the trailer, accessed by the crawlspace underneath
+S
+M
+PP Up
+East end of the route
+S
+M
+Aether Base
+Visit the
+Aether Base
+to the east to find what looks like a rock with red, yellow, and blue markings floating in some type of machine. This is the
+Reassembly Unit
+, which has two functions: assembly and separation. In conjuction with your
+Zygarde Cube
+, this machine can combine
+Zygarde Cells
+and
+Zygarde Cores
+to form a new
+Zygarde
+, or split the Legendary Pokémon into its separate parts. The
+form
+that an assembled Zygarde will take depends on the number of Cells and Cores in the Zygarde Cube.
+Ula'ula Meadow
+Ula'ula Meadow
+Ula'ula Meadow
+is mostly a large field of red flowers and wooden walkways that pass over them. These flowers are the source of the
+Red Nectar
+loved by
+Oricorio
+.
+Route 17
+stretches off to the north while the
+Lake of the Moone
+S
+/
+Lake of the Sunne
+M
+is located to the east.
+Trainers
+Trainer
+Pokémon
+Dancer
+Mireille
+Reward:
+$
+1,360
+Oricorio
+♀
+Baile Style
+Lv.
+34
+No item
+Office Worker
+Michelle
+Reward:
+$
+1,360
+Torkoal
+♀
+Lv.
+33
+No item
+Seaking
+♀
+Lv.
+33
+No item
+Leafeon
+♂
+Lv.
+34
+No item
+Lass
+Rylee
+Reward:
+$
+816
+Sneasel
+♀
+Lv.
+33
+No item
+Komala
+♀
+Lv.
+34
+No item
+After defeating all other Trainers in the area
+Golfer
+Dean
+Reward:
+$
+2,040
+Hariyama
+♂
+Lv.
+34
+Flame Orb
+Alakazam
+♂
+Lv.
+34
+Flame Orb
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Red flowers
+Cottonee
+Cottonee
+S
+M
+Red flowers
+31-34
+30%
+Petilil
+Petilil
+S
+M
+Red flowers
+31-34
+30%
+Ribombee
+Ribombee
+S
+M
+Red flowers
+31-34
+30%
+Oricorio
+Baile Style
+Oricorio
+S
+M
+Red flowers
+31-34
+20%
+Ledian
+Ledian
+S
+M
+Red flowers
+31-34
+20%
+-
+Ariados
+Ariados
+S
+M
+Red flowers
+31-34
+-
+20%
+Long grass
+Cottonee
+Cottonee
+S
+M
+Long grass
+31-34
+30%
+Petilil
+Petilil
+S
+M
+Long grass
+31-34
+30%
+Ribombee
+Ribombee
+S
+M
+Long grass
+31-34
+30%
+Oricorio
+Baile Style
+Oricorio
+S
+M
+Long grass
+31-34
+20%
+Ledian
+Ledian
+S
+M
+Long grass
+31-34
+20%
+-
+Ariados
+Ariados
+S
+M
+Long grass
+31-34
+-
+20%
+Exclusively from
+Island Scan
+Roselia
+N/A
+S
+M
+Long grass
+34
+One
+We
+Roselia
+N/A
+S
+M
+Red flowers
+34
+One
+We
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Flame Orb
+From Golfer Dean, after defeating him
+S
+M
+Red Nectar
+×2
+Sparkling in the flowers where the walkway forms a ring in the middle of the meadow (daily)
+Sparkling in the northwest section of flowers (daily)
+S
+M
+Repeat Ball
+In the middle of the meadow, on the east side of the flowers ringed by the walkway
+S
+M
+Adrenaline Orb
+In the northwest section of flowers, on the west end
+S
+M
+X Sp. Def
+At the end of the dirt path branching west from the north end of the meadow
+S
+M
+Zygarde Cell
+On the walkway where it overlooks the southernmost pond
+S
+M
+Zygarde Cell
+Dirt path in the northeast, on the east side of the grass patch
+S
+M
+Route 17
+Route 17
+Route 17
+is always rainy, and like
+Po Town
+, is fully occupied by
+Team Skull
+. The area holds the Po Town Police Station, where the island's
+kahuna
+,
+Nanu
+, lives with his many
+Meowth
+.
+Trainers
+Trainer
+Pokémon
+Team Skull Grunt
+Reward:
+$
+1,088
+Golbat
+♂
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Mareanie
+♀
+Lv.
+33
+No item
+Fomantis
+♀
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,056
+Salandit
+♂
+Lv.
+33
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Rattata
+♀
+Alolan form
+Lv.
+33
+No item
+Raticate
+♀
+Alolan form
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Double Battle
+with the following Grunt
+Drowzee
+♂
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Double Battle
+with the previous Grunt
+Haunter
+♀
+Lv.
+34
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fearow
+Fearow
+S
+M
+Grass
+31-34
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+31-34
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+31-34
+-
+30%
+Pancham
+Pancham
+Pangoro
+S
+M
+Grass
+31-34
+20%
+Ledian
+Ledian
+S
+M
+Grass
+31-34
+20%
+-
+Ariados
+Ariados
+S
+M
+Grass
+31-34
+-
+20%
+Brown grass on the mountain
+Fearow
+Fearow
+S
+M
+Grass
+31-34
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+31-34
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+31-34
+-
+30%
+Graveler
+Alolan Form
+Graveler
+S
+M
+Grass
+31-34
+20%
+Skarmory
+Skarmory
+S
+M
+Grass
+31-34
+10%
+Pancham
+Pancham
+Pangoro
+S
+M
+Grass
+31-34
+10%
+Special allies in weather
+Any
+In
+rain
+:
+Goomy
+S
+M
+Grass
+31-34
+10%
+Any
+In
+rain
+:
+Castform
+S
+M
+Grass
+31-34
+1%
+Any
+Hail
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+31-34
+11%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+31-34
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zygarde Core
+Po Town Police Station, near the back wall
+S
+M
+Lemonade
+Mountainside, near the top of the second ramp
+S
+M
+Full Heal
+Mountainside, in the northernmost grass patch
+S
+M
+X Attack
+Middle of the mountainside, west of the second ramp
+S
+M
+Zygarde Cell
+Mountainside, on the east branch going down
+S
+M
+TM84
+(
+Poison Jab
+)
+Mountainside, on the cliff with the westernmost grass patch
+S
+M
+Zygarde Cell
+Southern corner of Po Town's wall
+S
+M
+Dire Hit
+Base of the lamppost near the Po Town entrance
+(hidden)
+S
+M
+Getting Past Security
+Approach the entrance to
+Po Town
+and the two Grunts outside initially invite you to join
+Team Skull
+. But once they spot your
+Z-Ring
+, they pull you into a
+Double Battle
+instead. Defeat their two Pokémon and they disappear.
+The Man in Black
+Once the two guards have left, a man dressed in black approaches you. Noticing that you intend to enter the town, he asks if you are ready for this. Entering
+Po Town
+means being ready to live as
+Team Skull
+, or to take on Team Skull. He asks one last time if you are certain, and lets you inside the town.
+← Part 17
+Tapu Village, Route 15, Aether House, Route 14, Thrifty Megamart
+Sun and Moon
+walkthrough
+Po Town, Shady House, Ula'ula Grand Trial
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

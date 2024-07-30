@@ -1,0 +1,52 @@
+Game: Black2_and_White2
+Part: 18
+Keywords: Route 14, Abundant Shrine, Black City & White Forest, Route 15, Marvelous Bridge
+
+**Part 18 Walkthrough: Route 14 to Marvelous Bridge**
+
+**Route 14:**
+- **Key Locations:** Abundant Shrine
+- **Notable Trainers:**
+  - Socialite Marian (Lopunny, Lv. 39)
+  - Gentleman Sheldon (Delcatty, Lv. 39)
+  - Battle Girl Glinda (Gurdurr, Lv. 40)
+- **Available Pokémon:** Golduck, Swablu, Mienfoo, Absol, Drifblim.
+- **Items:**
+  - Big Pearl (east of Marian)
+  - Max Potion (east of Sid)
+  - Heart Scale (requires Surf and Waterfall)
+  - Hidden Nuggets (requires Surf and Waterfall)
+- **Proceed to Abundant Shrine:** Battle trainers and collect items.
+
+**Abundant Shrine:**
+- **Trainers:**
+  - Youngster Wes (Skorupi, Lv. 39)
+  - Twins Rae & Ula (2 Swablu, Lv. 38)
+- **Available Pokémon:** Cottonee, Petilil, Swablu, Bronzor.
+- **Items:**
+  - Calcium (hidden near pond)
+  - Shiny Stone (northeast of Wes)
+  - TM92 (Trick Room, east of Youngster Jaye)
+- **Special Event:** Talk to the old man at the shrine for Reveal Glass if you have Landorus.
+
+**Black City & White Forest:**
+- Black City features the Black Tower; stores unlock as you progress through battles.
+- White Forest features White Treehollow; similar mechanics to Black Tower.
+- **Battle Mechanics:** Defeat trainers to earn rewards, including HP Up, Rare Candies, and more.
+
+**Route 15:**
+- **Notable Trainers:**
+  - Pokéfan Elliot (Growlithe, Lv. 60)
+  - Scientist Marie (Gulpin, Garbodor, Magnezone, all Lv. 60)
+- **Available Pokémon:** Sandslash, Gligar, Sawk, Pupitar.
+- **Items:**
+  - TM26 (Earthquake)
+  - Ultra Ball (hidden, requires Strength)
+  - Max Potion (beneath western bridge)
+- **Poké Transfer Lab:** Transfer Pokémon from Generation IV games.
+
+**Marvelous Bridge:**
+- **Cresselia Encounter:** Use Bug, Ghost, or Dark-type moves to weaken it, then switch to Fighting or Psychic moves.
+- **The Magikarp Salesman:** Sells Magikarp for $500, which evolves into Gyarados.
+
+**Next Steps:** Proceed to Route 16 after Marvelous Bridge.

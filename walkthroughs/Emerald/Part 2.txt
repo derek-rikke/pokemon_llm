@@ -1,0 +1,1467 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_2
+Keywords: Route 104, Petalburg Woods, Rustboro City, Rustboro Gym, Route 116, Rusturf Tunnel
+
+Walkthrough Text:
+Contents
+1
+Route 104 (south)
+2
+Petalburg Woods
+2.1
+The Scuffle
+3
+Route 104 (north)
+3.1
+Pretty Petal Flower Shop
+4
+Rustboro City
+4.1
+Cutter's House
+4.2
+Devon Corporation
+4.3
+Pokémon Trainer's School
+4.3.1
+The Man in Sunglasses
+4.4
+Time for a Trade
+4.5
+Rustboro Gym
+4.6
+Stop, Thief!
+5
+Now that you can use Cut (optional)
+5.1
+Route 104 (north)
+5.2
+Petalburg Woods
+6
+Route 116
+6.1
+Kidnap!
+7
+Rusturf Tunnel
+7.1
+The Take-Down
+Route 104 (south)
+Route 104
+The southern half of
+Route 104
+connects
+Petalburg City
+with
+Petalburg Woods
+to the north and
+Route 105
+to the south. A cottage belonging to
+Mr. Briney
+is located on the south side. This route is a good place to catch a
+Marill
+, which can learn any four of the five
+HM
+moves that will be required to finish this game. It will be very useful if you cannot or do not want to teach those HM moves to the Pokémon that you use in battle.
+Trainers
+Trainer
+Pokémon
+Youngster
+Billy
+ケイタ
+Keita
+Reward:
+$
+112
+Zigzagoon
+♂
+Lv.
+5
+No item
+Seedot
+♂
+Lv.
+7
+No item
+Fisherman
+Darian
+ケンキチ
+Kenkichi
+Reward:
+$
+360
+Magikarp
+♂
+Lv.
+9
+No item
+Lady
+Cindy
+レイカ
+Reika
+Reward:
+$
+1400
+Zigzagoon
+♀
+Lv.
+7
+Nugget
+Rematch
+Lady
+Cindy
+Reward:
+$
+5400
+/
+6000
+/
+6600
+/
+7200
+Linoone
+♀
+Lv.
+27
+/
+30
+/
+33
+/
+36
+Nugget
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+4-5
+40%
+Marill
+R
+S
+E
+Grass
+4-5
+20%
+Wurmple
+R
+S
+E
+Grass
+4
+20%
+Taillow
+R
+S
+E
+Grass
+4-5
+10%
+Wingull
+R
+S
+E
+Grass
+3-5
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+South side
+Antidote
+Water's edge, southwest part of the beach (hidden)
+E
+Heart Scale
+On the beach, southwest of the tall grass (hidden)
+E
+Potion
+Water's edge, just south of the pier (hidden)
+E
+Pecha Berry
+×2
+In the soft soil patch, north of Mr. Briney's cottage
+E
+Oran Berry
+×2
+In the soft soil patch, north of Mr. Briney's cottage
+E
+Poké Ball
+On the east ledge, accessed via Petalburg Woods
+E
+Petalburg Woods
+Petalburg Woods
+The tall trees of
+Petalburg Woods
+block much of the sun's rays, leaving the interior cool and dark. Smaller trees restrict travel to the western side for now.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Lyle
+Reward:
+$
+48
+Wurmple
+♂
+Lv.
+3
+No item
+Wurmple
+♂
+Lv.
+3
+No item
+Wurmple
+♂
+Lv.
+3
+No item
+Wurmple
+♂
+Lv.
+3
+No item
+Team Aqua Grunt
+Reward:
+$
+180
+Poochyena
+♂
+Lv.
+9
+No item
+Bug Catcher
+James
+Reward:
+$
+96
+Nincada
+♂
+Lv.
+6
+No item
+Nincada
+♂
+Lv.
+6
+No item
+Rematch
+Bug Catcher
+James
+*
+Reward:
+$
+432
+Ninjask
+♂
+Lv.
+27
+No item
+Bug Catcher
+James
+*
+Reward:
+$
+464
+Dustox
+♂
+Lv.
+29
+No item
+Ninjask
+♂
+Lv.
+29
+No item
+Bug Catcher
+James
+*
+Reward:
+$
+496
+Surskit
+♂
+Lv.
+31
+No item
+Dustox
+♂
+Lv.
+31
+No item
+Ninjask
+♂
+Lv.
+31
+No item
+Bug Catcher
+James
+*
+Reward:
+$
+528
+Surskit
+♂
+Lv.
+33
+No item
+Ninjask
+♂
+Lv.
+33
+No item
+Dustox
+♂
+Lv.
+33
+No item
+Ninjask
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+5-6
+30%
+Wurmple
+R
+S
+E
+Grass
+5-6
+25%
+Shroomish
+R
+S
+E
+Grass
+5-6
+15%
+Silcoon
+R
+S
+E
+Grass
+5
+10%
+Cascoon
+R
+S
+E
+Grass
+5
+10%
+Taillow
+R
+S
+E
+Grass
+5-6
+5%
+Slakoth
+R
+S
+E
+Grass
+5-6
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+In the middle of the tall grass patch near the southeast exit (hidden)
+E
+Parlyz Heal
+Southwest corner, past Bug Catcher Lyle
+E
+Great Ball
+From the Devon Corporation worker, after defeating the
+Team Aqua
+Grunt
+E
+Poké Ball
+In the corner to the south of the northwest corner (hidden)
+E
+Ether
+Northwest corner
+E
+The Scuffle
+Deep inside the woods, you come across a researcher from
+Devon Corporation
+, a company based in
+Rustboro City
+. After explaining that he is looking for a
+Shroomish
+, he is suddenly confronted by a member of
+Team Aqua
+. The thug had planned to ambush the worker when he left the woods, but grew too impatient for that. Defeat him in battle and he flees the scene, but not before hinting that his friends are up to something in Rustboro. The grateful researcher gives you a
+Great Ball
+as thanks. He then heals your Pokémon, and rushes off to Rustboro after realizing what his attacker wanted.
+Route 104 (north)
+The northern half of
+Route 104
+connects
+Petalburg Woods
+with
+Rustboro City
+. The
+Pretty Petal Flower Shop
+stands near the Petalburg Woods exit. The wild Pokémon here are the same as those on the southern half.
+Trainers
+Trainer
+Pokémon
+Rich Boy
+Winston
+ミツグ
+Mitsugu
+Reward:
+$
+1400
+Zigzagoon
+♂
+Lv.
+7
+Nugget
+Lass
+Haley
+マキ
+Maki
+Reward:
+$
+96
+Lotad
+♀
+Lv.
+6
+No item
+Shroomish
+♀
+Lv.
+6
+No item
+Twins
+Gina & Mia
+ナオとミオ
+Nao and Mio
+Reward:
+$
+144
+Seedot
+♂
+Lv.
+6
+No item
+Lotad
+♂
+Lv.
+6
+No item
+Fisherman
+Ivan
+ヨシタカ
+Yoshitaka
+Reward:
+$
+280
+Magikarp
+♂
+Lv.
+5
+No item
+Magikarp
+♂
+Lv.
+6
+No item
+Magikarp
+♂
+Lv.
+7
+No item
+Rematch
+Rich Boy
+Winston
+Reward:
+$
+5400
+/
+6000
+/
+6600
+/
+7200
+Linoone
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+Nugget
+Lass
+Haley
+*
+Reward:
+$
+416
+Lombre
+♀
+Lv.
+26
+No item
+Shroomish
+♀
+Lv.
+26
+No item
+Lass
+Haley
+*
+Reward:
+$
+464
+/
+512
+Lombre
+♀
+Lv.
+29
+/
+32
+No item
+Breloom
+♀
+Lv.
+29
+/
+32
+No item
+Lass
+Haley
+*
+Reward:
+$
+544
+Swellow
+♀
+Lv.
+34
+No item
+Lombre
+♀
+Lv.
+34
+No item
+Breloom
+♀
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM09
+(
+Bullet Seed
+)
+From a Youngster to the south of the Flower Shop
+E
+Oran Berry
+×2
+In the soft soil patch in front of the Flower Shop
+E
+Cheri Berry
+×4
+In the soft soil patch in front of the Flower Shop (×2)
+In the soft soil patch, northeast of the pond (×2)
+E
+Poké Ball
+In the tall grass behind the Flower Shop (hidden)
+E
+Potion
+In the tall grass behind the Flower Shop
+E
+Super Potion
+In the tall grass behind the Flower Shop (hidden)
+E
+Chesto Berry
+From an old woman on the northeast side of the pond
+E
+Leppa Berry
+×2
+In the soft soil patch, northeast of the pond
+E
+Pretty Petal Flower Shop
+The
+Pretty Petal Flower Shop
+is run by three sisters. Talk to the eldest sister teaches by the door to learn about Berries. After obtaining the
+Dynamo Badge
+, she will sell you plant decorations for your secret base. The middle sister hands out the
+Wailmer Pail
+when you first speak to her. The youngest sister will hand out one random Berry from a group of eight every day.
+Items
+Item
+Location
+Games
+Wailmer Pail
+Inside the Flower Shop, from the owner
+E
+Berry
+Cheri Berry
+Chesto Berry
+Pecha Berry
+Rawst Berry
+Aspear Berry
+Leppa Berry
+Oran Berry
+Persim Berry
+After earning the Dynamo Badge, the sisters will also offer
+decorative plants
+for sale.
+Rustboro City
+Rustboro City
+Rustboro City
+is the third largest city in
+Hoenn
+. Each of the buildings were constructed with stone, giving the city an old-fashioned feeling. The
+Pokémon Trainer's School
+,
+Devon Corporation
+headquarters, and
+Rustboro Gym
+are all located here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Seedot
+R
+S
+E
+Trade
+Ralts
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Defense
+Outside the fence in the southeast, accessed via Route 104
+E
+Premier Ball
+From a boy in the southwest building, 2F
+E
+HM01
+(
+Cut
+)
+From the Cutter in his home west of the Pokémon Center
+E
+Quick Claw
+From the teacher in the Pokémon Trainer's School
+E
+Chesto Berry
+Held by Dots, the traded
+Seedot
+E
+After defeating the Rustboro Gym
+TM39
+(
+Rock Tomb
+)
+From Roxanne upon her defeat
+E
+Cutter's House
+Stop by the Cutter's house next to the Pokémon Center. When the city was expanding, he taught his Pokémon a move to help clear the surrounding land of trees. He no longer needs his
+HM01
+(
+Cut
+), and gives it to you. In the field, Cut may be used to clear away small trees and tall grass.
+Devon Corporation
+Devon Corporation
+is headquartered in a large stone building in the northwest part of town. The company is responsible for manufacturing many of the items Trainers rely on every day, including several variations of Poké Ball and medicine. Only authorized personnel are allowed past the first floor.
+Pokémon Trainer's School
+The
+Pokémon Trainer's School
+stands to the northeast of the Pokémon Center. Talk with the teacher to receive a
+Quick Claw
+, and brush up on the basics by reading the notes on the blackboard.
+Ailment
+Effect(s)
+BURNED
+Attack
+drops to 50%, inflicts damage equal to 1/8 of maximum
+HP
+every turn.
+Fire-type
+Pokémon are immune to this condition.
+FROZEN
+Cannot move until thawed, 20% chance of recovery per turn.
+Ice-type
+Pokémon are immune to this condition.
+PARALYZE
+Speed
+drops to 25%, cannot attack a quarter of the time.
+POISONED
+Inflicts damage equal to 1/8 of maximum
+HP
+every turn.
+Poison
+- and
+Steel-type
+Pokémon are immune to this condition.
+ASLEEP
+Cannot move for one to four turns.
+The Man in Sunglasses
+Just inside the entrance, you find the Man in Sunglasses again, who introduces himself as
+Scott
+. He's been searching everywhere for outstanding Trainers, specifically Pokémon battle experts. He wonders what brings you here to school, and claims that the first thing you should do as a new Trainer is teach
+Cut
+to one of your Pokémon. It's a useful field move, but using it outside of battle requires the badge from the local Gym.
+It is advisable to talk to Scott every time you see him at each location that appears throughout the game as you will get a
+reward
+later.
+Time for a Trade
+The Rustboro Gym beckons, but before you step inside, visit the house to the east. Inside is a boy who is looking to trade his
+Seedot
+for a
+Ralts
+. Seedot is a Grass Pokémon that eventually evolves into a
+Grass
+/
+Dark
+Pokémon,
+Shiftry
+. This one is even holding a
+Chesto Berry
+to sweeten the deal.
+Rustboro Gym
+Rustboro Gym
+Rustboro City Pokémon Gym
+Leader: Roxanne
+The
+Rock
+-loving honor student!
+The
+Rustboro Gym
+specializes in
+Rock-type
+Pokémon. Use
+Grass
+,
+Water
+, and
+Fighting
+moves, such as
+Water Gun
+and
+Bullet Seed
+, to deal serious damage, and avoid battling with
+Fire
+-,
+Bug
+-, or
+Flying-type
+Pokémon. As hers is the first Gym in the
+Hoenn League
+, this graduate of the
+Pokémon Trainer's School
+has opted for a layout that gives novice Trainers a chance to avoid her subordinates and challenge the Gym Leader directly. Use
+Defense
+-lowering moves like
+Leer
+to soften up Roxanne's rock-solid Pokémon, and moves like
+Growl
+to weaken their
+Attack
+. As
+Rock
+/
+Ground
+Pokémon, her two
+Geodude
+are especially vulnerable to Grass and Water moves, sustaining 4× the normal amount of damage.
+Rustboro Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Josh
+Reward:
+$
+160
+Geodude
+♂
+Lv.
+10
+No item
+Youngster
+Tommy
+Reward:
+$
+128
+Potential
+Double Battle
+with Marc
+Geodude
+♂
+Lv.
+8
+No item
+Geodude
+♂
+Lv.
+8
+No item
+Hiker
+Marc
+Reward:
+$
+320
+Potential
+Double Battle
+with Tommy
+Geodude
+♂
+Lv.
+8
+No item
+Geodude
+♂
+Lv.
+8
+No item
+Leader
+Roxanne
+Rustboro Gym
+Emerald
+Reward:
+$
+1500
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Geodude
+♀
+Lv.
+12
+Tackle
+Normal
+--
+Defense Curl
+Normal
+--
+Rock Throw
+Rock
+--
+Rock Tomb
+Rock
+--
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Geodude
+♀
+Lv.
+12
+Tackle
+Normal
+--
+Defense Curl
+Normal
+--
+Rock Throw
+Rock
+--
+Rock Tomb
+Rock
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+Oran Berry
+Nosepass
+♀
+Lv.
+15
+Block
+Normal
+--
+Harden
+Normal
+--
+Tackle
+Normal
+--
+Rock Tomb
+Rock
+--
+After the battle, Roxanne awards you the
+Stone Badge
+, which boosts your Pokémon's
+Attack
+by 10% and enables the use of
+Cut
+in the field. She also gives you
+TM39
+(
+Rock Tomb
+) as a prize.
+Stop, Thief!
+When you leave the Gym, you witness a
+Team Aqua
+Grunt escaping from the Devon Corporation building. That same Devon researcher from earlier is close behind, and chases the thief northward. He loses track of him in the northeast, where the city connects to
+Route 116
+.
+Now that you can use Cut (optional)
+There are a few more items on
+Route 104
+and
+Petalburg Woods
+that you can pick up.
+Route 104 (north)
+Route 104
+Item
+Location
+Games
+X Accuracy
+North side, by the southeast corner of the pond
+E
+Petalburg Woods
+Petalburg Woods
+Item
+Location
+Games
+Tiny Mushroom
+×2
+In a small recess between two trees east of the northern exit and west of the girl who gives a Miracle Seed
+(hidden)
+Down the second ledge on the eastern side of the forest, by the southwest corner of the first patch of tall grass
+(hidden)
+E
+Miracle Seed
+From a girl to the east of the northern exit
+E
+Great Ball
+In the northeastern-most corner
+E
+X Attack
+Down the second ledge on the eastern side of the forest and to the west
+E
+Route 116
+Route 116
+Route 116
+runs east from
+Rustboro City
+. The well-traveled path is used by the workers tasked with construction of
+Rusturf Tunnel
+, a project that is now abandoned.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Jose
+Reward:
+$
+128
+Wurmple
+♂
+Lv.
+8
+No item
+Nincada
+♂
+Lv.
+8
+No item
+Youngster
+Joey
+Reward:
+$
+144
+Machop
+♂
+Lv.
+9
+No item
+School Kid
+Karen
+Reward:
+$
+180
+Shroomish
+♀
+Lv.
+9
+No item
+Hiker
+Clark
+Reward:
+$
+320
+Potential
+Double Battle
+with Johnson
+Geodude
+♂
+Lv.
+8
+No item
+Youngster
+Johnson
+Reward:
+$
+128
+Potential
+Double Battle
+with Clark or Devan
+Shroomish
+♂
+Lv.
+8
+No item
+Lotad
+♂
+Lv.
+8
+No item
+Hiker
+Devan
+Reward:
+$
+320
+Potential
+Double Battle
+with Johnson
+Geodude
+♂
+Lv.
+8
+No item
+Geodude
+♂
+Lv.
+8
+No item
+Requires Cut
+Lady
+Sarah
+Reward:
+$
+1600
+Potential
+Double Battle
+with Dawson
+Lotad
+♀
+Lv.
+8
+No item
+Zigzagoon
+♀
+Lv.
+8
+Nugget
+Rich Boy
+Dawson
+Reward:
+$
+1600
+Potential
+Double Battle
+with Sarah
+Zigzagoon
+♂
+Lv.
+8
+Nugget
+Poochyena
+♂
+Lv.
+8
+No item
+School Kid
+Jerry
+Reward:
+$
+180
+Potential
+Double Battle
+with Janice
+Ralts
+♂
+Lv.
+9
+No item
+Lass
+Janice
+Reward:
+$
+144
+Potential
+Double Battle
+with Jerry
+Marill
+♀
+Lv.
+9
+No item
+Rematch
+School Kid
+Karen
+*
+Reward:
+$
+520
+Shroomish
+♀
+Lv.
+26
+No item
+Whismur
+♀
+Lv.
+26
+No item
+School Kid
+Karen
+*
+Reward:
+$
+580
+Shroomish
+♀
+Lv.
+29
+No item
+Loudred
+♀
+Lv.
+29
+No item
+School Kid
+Karen
+*
+Reward:
+$
+640
+Breloom
+♀
+Lv.
+32
+No item
+Loudred
+♀
+Lv.
+32
+No item
+School Kid
+Karen
+*
+Reward:
+$
+700
+Breloom
+♀
+Lv.
+35
+No item
+Exploud
+♀
+Lv.
+35
+No item
+School Kid
+Jerry
+*
+Reward:
+$
+520
+Ralts
+♂
+Lv.
+26
+No item
+Meditite
+♂
+Lv.
+26
+No item
+School Kid
+Jerry
+*
+Reward:
+$
+580
+Kirlia
+♂
+Lv.
+29
+No item
+Meditite
+♂
+Lv.
+29
+No item
+School Kid
+Jerry
+*
+Reward:
+$
+640
+Kirlia
+♂
+Lv.
+32
+No item
+Medicham
+♂
+Lv.
+32
+No item
+School Kid
+Jerry
+*
+Reward:
+$
+680
+Kirlia
+♂
+Lv.
+34
+No item
+Banette
+♂
+Lv.
+34
+No item
+Medicham
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+6-8
+28%
+Taillow
+R
+S
+E
+Grass
+6-8
+20%
+Nincada
+R
+S
+E
+Grass
+6-7
+20%
+Whismur
+R
+S
+E
+Grass
+6
+20%
+Abra
+R
+S
+E
+Grass
+7
+10%
+Skitty
+R
+S
+E
+Grass
+7-8
+2%
+Swarm
+Skitty
+R
+S
+E
+Swarm
+8
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Repel
+Southwest grass patch, near Bug Catcher Jose
+E
+X Special
+On the mountainside, southeast of the tunnel entrance
+E
+Requires
+Cut
+Potion
+In the trees just west of the Rest House
+E
+Super Potion
+In the trees west of the Rest House, western corner of the south ledge (hidden)
+E
+Ether
+On the ledge, south of the Berry trees
+E
+Chesto Berry
+×4
+Soft soil patch, northwest of the Rest House
+E
+Pinap Berry
+×6
+Soft soil patch, northwest of the Rest House
+E
+Kidnap!
+When you reach the entrance to
+Rusturf Tunnel
+, you find old
+Mr. Briney
+standing there. It seems that the thief has added kidnapping to his list of charges, as he has also made off with Mr. Briney's beloved
+Wingull
+,
+Peeko
+!
+Rusturf Tunnel
+Rusturf Tunnel
+Rusturf Tunnel
+was a construction project by
+Devon Corporation
+that aimed to link
+Rustboro City
+and western
+Hoenn
+to the rest of the region. The tunnel was nearly complete when Devon's president,
+Mr. Stone
+, realized that the work was disturbing the local
+Whismur
+population. The project was canceled, though only a small bit of debris,
+easily cleared
+, remained to hinder travel.
+Trainers
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+220
+Poochyena
+♂
+Lv.
+11
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Whismur
+R
+S
+E
+Cave
+5-8
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+Northwest part of the cave
+E
+Devon Goods
+From the Team Aqua Grunt after defeating him
+E
+The Take-Down
+The tunnel is fairly small, so you will find the thief and his hostage shortly after you step inside. Defeat him, and he gives up the
+Devon Goods
+before fleeing. The old man rushes in to check on his
+Peeko
+, and introduces himself as
+Mr. Briney
+before the pair leaves for his cottage near
+Petalburg Woods
+.
+← Part 1
+Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City
+Emerald
+walkthrough
+Rustboro City, Dewford Town, Route 106, Granite Cave, Route 109, Slateport City
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

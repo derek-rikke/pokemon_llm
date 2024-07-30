@@ -1,0 +1,49 @@
+Game: Yellow
+Part: 4
+Keywords: Route 3, Mt. Moon, Route 4
+
+**Part 4: Route 3, Mt. Moon, Route 4 - Pokémon Yellow Walkthrough**
+
+**Route 3**
+- Proceed east from Pewter City.
+- Battle Trainers for experience and cash:
+  - **Lass**: Pidgey (Lv. 9) x2, Reward: $135
+  - **Bug Catcher**: Caterpie (Lv. 10) x3, Reward: $100
+  - **Youngster**: Rattata (Lv. 11), Ekans (Lv. 11), Reward: $165
+
+**Available Pokémon**: 
+- Spearow (Lv. 8-12), Rattata (Lv. 10, 12), Sandshrew (Lv. 8, 10), Mankey (Lv. 9).
+
+**Route 4 (West)**
+- Visit the Pokémon Center at the entrance to Mt. Moon.
+- **Magikarp Salesman**: Buy a Magikarp for $500.
+
+**Mt. Moon**
+1. **1F**:
+   - Collect **TM12 (Water Gun)**, **Potion** x2, **Rare Candy**, **Escape Rope**, **Moon Stone**.
+   - Trainers: 
+     - **Lass**: Clefairy (Lv. 14), Reward: $210
+     - **Super Nerd**: Magnemite (Lv. 11), Reward: $275
+2. **B2F (South)**:
+   - Battle Team Rocket Grunts, collect **HP Up**.
+3. **B2F (Northeast)**:
+   - Fight Team Rocket for **TM01 (Mega Punch)** and find a hidden **Ether**.
+4. **B2F (Outer Area)**:
+   - Defeat the Super Nerd for a choice of **Dome Fossil** (Kabuto) or **Helix Fossil** (Omanyte).
+   - Battle two Team Rocket Grunts before exiting.
+
+**Available Pokémon**:
+- **1F**: Zubat (Lv. 6-11), Geodude (Lv. 10), Clefairy (Lv. 11).
+- **B1F**: Zubat (Lv. 8-11), Paras (Lv. 9, 11).
+- **B2F**: Zubat (Lv. 10-13), Paras (Lv. 13).
+
+**Items**:
+- **1F**: TM12, Potions, Rare Candy, Escape Rope, Moon Stone.
+- **B2F**: HP Up, TM01, hidden Ether, Moon Stones, Fossils.
+
+**Route 4 (East)**
+- Leads downhill to Cerulean City.
+- **Available Pokémon**: Spearow (Lv. 8-12), Rattata (Lv. 10, 12), Sandshrew (Lv. 8, 10), Mankey (Lv. 9).
+- **Items**: Great Ball (hidden), TM04 (Whirlwind).
+
+**Next Steps**: Progress to Cerulean City and prepare for upcoming challenges.

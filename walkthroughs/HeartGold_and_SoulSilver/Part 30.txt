@@ -1,0 +1,1764 @@
+Part: Part 30
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_30
+Keywords: Oak's Lab, Silph Co., Whirl Islands and Lugia/Bell Tower and Ho-oh, Mr. Pokémon, Route 47, Embedded Tower
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Pallet Town
+1.1
+Oak's Lab
+2
+Saffron City
+2.1
+Silph Co.
+2.1.1
+The Three Stones
+2.1.2
+Follow the Leader
+2.1.3
+Time for a Trade
+3
+Lugia Emerges from the Waterfall Basin
+HG
+3.1
+Whirl Islands
+3.1.1
+Northwest Island
+3.1.2
+Northeast Island
+3.1.2.1
+Lugia
+3.1.3
+Southeast Island
+3.1.4
+Southwest Island
+4
+Ho-Oh Descends to the Bell Tower
+SS
+4.1
+Bell Tower
+4.1.1
+2F
+4.1.2
+3F
+4.1.3
+4F
+4.1.4
+5F
+4.1.5
+6F
+4.1.6
+7F
+4.1.7
+8F
+4.1.8
+9F
+4.1.9
+Rooftop
+4.1.9.1
+Ho-Oh
+5
+Route 30
+6
+Cianwood City
+6.1
+Cliff Edge Gate
+7
+Route 47
+7.1
+Cliff Cave
+7.2
+Embedded Tower
+7.2.1
+Kyogre
+7.2.2
+Groudon
+8
+Pallet Town
+8.1
+Oak's Lab
+9
+Route 47
+9.1
+Embedded Tower
+9.1.1
+Rayquaza
+Pallet Town
+Oak's Lab
+Professor Oak's Lab
+When you return to
+Pallet Town
+,
+Professor Oak
+is so impressed with your accomplishments that he offers you a choice of one of the three
+Kanto
+starter Pokémon as your own. Choose whichever you like, but you will need an empty party slot to accept it.
+Bulbasaur
+Charmander
+Squirtle
+Grass
+Poison
+Fire
+Water
+Ivysaur
+Charmeleon
+Wartortle
+Grass
+Poison
+Fire
+Water
+Venusaur
+Charizard
+Blastoise
+Grass
+Poison
+Fire
+Flying
+Water
+Saffron City
+Silph Co.
+Silph Co., 1F
+The Three Stones
+Make a return trip to
+Saffron City
+and visit the
+Silph Co.
+building. Talk to
+Steven
+near the front desk, and he asks you a question:
+Of a group of stones in front of you, would you choose the green stone, the red stone, or the blue stone?
+The answer you give determines which Pokémon he offers you.
+Treecko
+,
+Torchic
+, and
+Mudkip
+are the starter Pokémon of his native
+Hoenn
+region.
+Treecko
+Torchic
+Mudkip
+Grass
+Fire
+Water
+Grovyle
+Combusken
+Marshtomp
+Grass
+Fire
+Fighting
+Water
+Sceptile
+Blaziken
+Swampert
+Grass
+Fire
+Fighting
+Water
+Ground
+Follow the Leader
+Once Steven leaves, follow him to the
+Pewter Museum
+. Enter the building to find him viewing one of the exhibits while muttering about the stars in the night sky. When he leaves, follow him back to the
+Silph Co.
+building.
+Time for a Trade
+Speak to him and he asks to trade Pokémon. He is looking for a
+Forretress
+, and is willing to part with his
+Beldum
+. Beldum can only be found in the
+Safari Zone
+, while Forretress are unavailable in the wild and must be evolved from a
+Pineco
+. Beldum will eventually evolve into the powerful
+Metagross
+, and Steven has given this one a
+Dawn Stone
+to hold.
+Lugia Emerges from the Waterfall Basin
+HG
+As the player should have received the
+Silver Wing
+in Pewter City, proceed to the
+Whirl Islands
+to capture
+Lugia
+. Lugia will not let itself be caught easily, so be sure to stock up on your favorite type of Poké Ball. Repels, Escape Ropes, and Pokémon with status-inflicting moves, like Spore or Thunder Wave, are also recommended. Fly back to
+Olivine
+or
+Cianwood
+and sail out into the ocean.
+Surf
+and
+Whirlpool
+are required to fully explore the islands' underwater cave network;
+Strength
+and
+Flash
+are helpful, but not necessary.
+Whirl Islands
+There are many items to be found throughout the caves, but if you are only looking for Lugia, start with the northeast island.
+Available Pokémon
+1F, B1F, B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Krabby
+HG
+SS
+Cave
+22-24
+50%
+Zubat
+HG
+SS
+Cave
+23
+30%
+Seel
+HG
+SS
+Cave
+22-24
+15%
+Golbat
+HG
+SS
+Cave
+23
+5%
+Surfing
+Tentacool
+HG
+SS
+Surfing
+15-25
+60%
+Horsea
+HG
+SS
+Surfing
+10-20
+30%
+Tentacruel
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+37%
+Horsea
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Krabby
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Horsea
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Kingler
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Seadra
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+24
+20%
+Absol
+HG
+SS
+Hoenn Sound
+22-23
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+24
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+22-23
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Krabby
+HG
+SS
+Cave
+23-25
+50%
+Zubat
+HG
+SS
+Cave
+24
+30%
+Seel
+HG
+SS
+Cave
+23-25
+15%
+Golbat
+HG
+SS
+Cave
+24
+5%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+25
+20%
+Absol
+HG
+SS
+Hoenn Sound
+23-24
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+25
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+23-24
+20%
+Stationary Pokémon
+Lugia
+HG
+SS
+Only one
+45
+,
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Central chamber
+Pearl
+On a rock, near the northwest ladder (hidden)
+HG
+SS
+Full Restore
+South of the ladder from the northwest island
+HG
+SS
+Nugget
+Between the ladders leading to the northwest and northeast islands
+HG
+SS
+Super Repel
+On a rock, east-northeast of the Nugget (hidden)
+HG
+SS
+Carbos
+South of the ladder from the northwest island
+HG
+SS
+Revive
+On a rock, south of the northeast ladder (hidden)
+HG
+SS
+Full Restore
+On the north wall (hidden)
+HG
+SS
+Max Revive
+West of the northern ladder
+HG
+SS
+Rare Candy
+On the ledge overlooking Lugia's chamber
+HG
+SS
+Calcium
+North of the southeast ladder
+HG
+SS
+Ultra Ball
+On the wall, near the south-central ladder (hidden)
+HG
+SS
+Escape Rope
+South-central area
+HG
+SS
+B2F
+Max Elixir
+Enclosed area, southwest of the ladder
+HG
+SS
+Full Restore
+Enclosed area, northeast of the ladder
+HG
+SS
+Northeast island
+Ultra Ball
+On the platform, near the southern ladder
+HG
+SS
+Southeast island
+Rare Candy
+On a rock, in the northwest corner (hidden)
+HG
+SS
+Southwest island
+Ultra Ball
+Near the eastern ladder
+HG
+SS
+Whirl Islands, northwest interior
+Whirl Islands, northeast interior
+Whirl Islands, southeast interior
+Whirl Islands, southwest interior
+Whirl Islands, B1F
+Whirl Islands, B2F
+Whirl Islands, Waterfall Basin
+Northwest Island
+Step inside the cave, and take the ladder to the floor below.
+Walk down the stairway to reach a hidden
+Pearl
+to the northeast, and a
+Full Restore
+to the south. Jump the ledge and climb the stairway to the east in order to reach a
+Nugget
+and a hidden
+Super Repel
+. Head east and jump the two ledges to reach a ladder; this leads to a dead-end with an
+Ultra Ball
+. Go south, jump another ledge, and backtrack to the first ladder in the northwest corner. Head south along the upper level to reach a
+Carbos
+, and climb down the ladder to the southeast.
+Grab the
+Max Elixir
+and
+Full Restore
+from this dead-end area, then use an Escape Rope to exit the cave.
+Northeast Island
+Walk east, jump the ledge, and take the northern path to reach the next part of the main cavern.
+Follow the rock platform southward, collect the hidden
+Revive
+, and climb down the ladder to B2F.
+Inspect the north wall for a hidden
+Full Restore
+, then grab the
+Max Revive
+to the west. Speak with the monk, and the
+Silver Wing
+suddenly floats up into the air. When he sees the shimmering silver feather, the monk allows you to pass. Step through the archway just south of him to reach a
+Rare Candy
+. Continue the climb down the cliffside to reach another archway, where your lead Pokémon retreats into its Poké Ball.
+Step inside the waterfall chamber and find Lugia waiting in front of the waterfall. Make sure you save before battling if you are trying to capture, in case Lugia faints.
+Lugia
+Start off by using status-inflicting moves, like
+Spore
+or
+Thunder Wave
+, to wear it down. Follow up with
+Rock
+-,
+Ghost
+-,
+Electric
+-,
+Ice
+-, or
+Dark-type
+attacks to inflict double the damage. Then slowly chip away at its remaining health with
+Fighting
+-,
+Grass
+-, or
+Psychic-type
+attacks, as moves of these types inflict only half- or quarter-damage. If you happen to knock it out, it will reappear if you again beat the Elite Four.
+HeartGold
+Types:
+Psychic
+Flying
+Ability:
+Pressure
+Held item:
+None
+Lugia
+Lv.
+70
+Aeroblast
+Flying
+Special
+--
+Punishment
+Dark
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Safeguard
+Normal
+Status
+--
+Southeast Island
+Check the northwest corner for a hidden
+Rare Candy
+, then take the ladder down to the main cavern.
+Head north along the rock ledge to find a
+Calcium
+. Go down the stairway and loop around to the west. Search near the south-central ladder for a hidden
+Ultra Ball
+, then move the nearby boulder northward. Head west to reach an
+Escape Rope
+, then climb the southwest ladder.
+Detour across the pool of water to the east to collect another
+Ultra Ball
+, then take the exit to emerge on the southwest island.
+Southwest Island
+The only items accessible from the southwest island are the Escape Rope and the Calcium, both of which would have been collected already.
+Ho-Oh Descends to the Bell Tower
+SS
+As the player should have received the
+Rainbow Wing
+in Pewter City, proceed to the
+Bell Tower
+in
+Ecruteak City
+to capture
+Ho-Oh
+. Ho-Oh will not let itself be caught easily, so be sure to stock up on your favorite type of Poké Ball. Repels, Escape Ropes, and Pokémon with status-inflicting moves, like Spore or Thunder Wave, are also recommended. Head north from the Dance Theater to reach the Barrier Station. Flash the Fog Badge to reach Bellchime Trail. On the trail, speak to
+Morty
+. He will tell you that Ho-Oh did not choose him and asks if you would help him in his training. Add his phone number if you wish to battle him again. Then proceed to the Bell Tower.
+Bell Tower
+As you approach the back of the first floor, the
+Rainbow Wing
+suddenly floats up into the air. Seeing the shimmering rainbow feather, the monk finally moves from the ladder.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+2F-10F
+Rattata
+HG
+SS
+2F-10F
+20-24
+,
+22-24
+100%
+100%
+20%
+Gastly
+HG
+SS
+2F-10F
+20-22
+0%
+0%
+80%
+Stationary Pokémon
+Ho-Oh
+HG
+SS
+Only one
+45
+,
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+3F
+Full Heal
+Southwest area
+HG
+SS
+4F
+Ultra Ball
+Near the east wall
+HG
+SS
+PP Up
+Near the east wall
+HG
+SS
+Escape Rope
+Near the southwest ladder
+HG
+SS
+5F
+Rare Candy
+Near the pillar
+HG
+SS
+6F
+Max Potion
+Near the pillar
+HG
+SS
+Full Heal
+Northwest area
+HG
+SS
+7F
+Max Revive
+Northwest area
+HG
+SS
+8F
+Nugget
+Southeast area
+HG
+SS
+Max Elixir
+Near the pillar
+HG
+SS
+Full Restore
+Northwest area, accessed via warp
+HG
+SS
+9F
+HP Up
+North side, behind the pillar
+HG
+SS
+2F
+Go south around the column and climb the ladder.
+Bell Tower, 3F
+Bell Tower, 4F
+3F
+Go west to reach a
+Full Heal
+. Move around in an S-shape to reach the northeast stairs.
+4F
+Go south to find an
+Ultra Ball
+, and south again to get a
+PP Up
+. Grab the
+Escape Rope
+in the southwest, then climb the northwest stairs.
+Bell Tower, 5F
+Bell Tower, 6F
+5F
+Work your way to the pillar for a
+Rare Candy
+. The ramps here keep you from advancing, so take the southeast stairs and backtrack through 4F. Stay to the west of the pillar to reach the stairs in the south.
+6F
+6F has a simple layout that serves as a transition between the ramps on the lower floors and what lies above. The next three floors use a series of warp tiles for quick navigation. First grab the
+Max Potion
+, then circle around to the northwest corner to get the
+Full Heal
+. Take the stairs up to 7F.
+Bell Tower, 7F
+Bell Tower, 8F
+7F
+Step on the nearest warp tile to reach the pillar, and take the next to reach the east wall of 9F. There are two warp tiles to the south; the right one leads to the center of 8F and a
+Max Elixir
+, while the left one leads to the south side of 8F and a
+Nugget
+. Backtrack to the first warp on 7F, grab the
+Max Revive
+to the northeast, and go south to take the next warp to the west side of 8F.
+8F
+The next warp takes you to the north side of 9F where you can find an
+HP Up
+, and the next warp tile on 9F brings you back to the east side of 8F. Pick up the
+Full Restore
+to the northwest and take one last warp to the center of 9F.
+Bell Tower, 9F
+Bell Tower, Rooftop
+9F
+Climb the stairs to reach the rooftop.
+Rooftop
+Climb the golden stairway to reach the tower's rooftop, where
+Ho-Oh
+will be waiting for you. Make sure you save before battling if you are trying to capture, in case Ho-Oh faints.
+Ho-Oh
+Start off by using status-inflicting moves, like
+Spore
+or
+Thunder Wave
+, to wear it down. Follow up with
+Water
+- or
+Electric-type
+attacks to inflict double the damage. Use caution with
+Rock-type
+attacks, as Ho-Oh takes four times the normal damage from such moves. Then slowly chip away at its remaining health with
+Fire
+-,
+Grass
+-,
+Fighting
+-,
+Bug
+-, or
+Steel-type
+attacks, as moves of these types only inflict half- or quarter-damage. If you happen to knock it out, it will reappear if you again beat the Elite Four.
+SoulSilver
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+Sacred Ash
+Ho-Oh
+Lv.
+70
+Sacred Fire
+Fire
+Physical
+--
+Punishment
+Dark
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Safeguard
+Normal
+Status
+--
+Route 30
+Items
+Item
+Location
+Games
+Blue Orb
+From Mr. Pokémon, after receiving a starter Pokémon from Professor Oak
+HG
+Red Orb
+From Mr. Pokémon, after receiving a starter Pokémon from Professor Oak
+SS
+Back in
+Johto
+,
+Mr. Pokémon
+is thrilled because
+a friend of his from Hoenn
+recently brought him a gift. He promptly hands over the glittering stone to you, hoping that you can do more with it than he can. This stone is believed to have some connection to the
+Embedded Tower
+, ancient ruins to the west of
+Cianwood City
+.
+Cianwood City
+Cliff Edge Gate
+Cliff Edge Gate
+Cliff Edge Gate
+is a cavern that leads to Routes
+47
+and
+48
+, and the new
+Safari Zone
+beyond that.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Wooper
+HG
+SS
+Surfing
+20-30
+90%
+Quagsire
+HG
+SS
+Surfing
+30-40
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+95%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+5%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+90%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+On a rock, on the pond's northeast side (hidden; requires
+Rock Climb
+,
+Surf
+)
+HG
+SS
+Route 47
+Route 47
+Route 47
+is a rugged path that links
+Cliff Edge Gate
+and
+Route 48
+. Though the route has been accessible
+for some time now
+, the difficult terrain prevented those without
+Waterfall
+and
+Rock Climb
+from fully exploring the area.
+Trainers
+Trainer
+Pokémon
+Hiker
+Devin
+Reward:
+$
+608
+Dunsparce
+♂
+Lv.
+19
+No item
+Dunsparce
+♂
+Lv.
+19
+No item
+Dunsparce
+♂
+Lv.
+19
+No item
+Camper
+Grant
+Reward:
+$
+336
+Skiploom
+♂
+Lv.
+21
+No item
+Marill
+♂
+Lv.
+21
+No item
+Double Team
+Thom & Kae
+Reward:
+$
+6000
+Magmar
+♂
+Lv.
+25
+No item
+Electabuzz
+♂
+Lv.
+25
+No item
+Young Couple
+Duff & Eda
+Reward:
+$
+2816
+Cloyster
+♂
+Lv.
+22
+No item
+Onix
+♂
+Lv.
+22
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ditto
+HG
+SS
+Grass
+31-40
+41%
+Farfetch'd
+HG
+SS
+Grass
+35
+20%
+20%
+0%
+Noctowl
+HG
+SS
+Grass
+35
+0%
+0%
+20%
+Miltank
+HG
+SS
+Grass
+35
+20%
+Raticate
+HG
+SS
+Grass
+31-33
+5%
+Spearow
+HG
+SS
+Grass
+31
+5%
+Gloom
+HG
+SS
+Grass
+32
+5%
+Fearow
+HG
+SS
+Grass
+34
+4%
+Surfing
+Tentacool
+HG
+SS
+Surfing
+15-25
+60%
+Seel
+HG
+SS
+Surfing
+10-20
+30%
+Staryu
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Chinchou
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Shellder
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Lanturn
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Headbutt
+Metapod
+HG
+SS
+Headbutt
+25-28
+50%
+Kakuna
+HG
+SS
+Headbutt
+25-28
+50%
+Hoothoot
+HG
+SS
+Headbutt
+15-18
+50%
+Butterfree
+HG
+SS
+Headbutt
+25-28
+30%
+Beedrill
+HG
+SS
+Headbutt
+25-28
+30%
+Spinarak
+HG
+SS
+Headbutt
+17-18
+30%
+Ledyba
+HG
+SS
+Headbutt
+17-18
+30%
+Pineco
+HG
+SS
+Headbutt
+15-16
+30%
+Exeggcute
+HG
+SS
+Headbutt
+15-18
+20%
+Heracross
+HG
+SS
+Headbutt
+25-30
+20%
+Swarm
+Ditto
+HG
+SS
+Swarm
+35
+40%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+31-32
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+33-34
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+31-32
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+33-34
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+Mid-level, west of the first waterfall
+HG
+SS
+Pearl
+On the beach between the two waterfalls (hidden, requires
+Surf
+)
+HG
+SS
+Stardust
+On a rock, south of the Embedded Tower entrance (hidden; requires
+Surf
+,
+Rock Climb
+)
+HG
+SS
+Wave Incense
+On the beach, southwest of the Embedded Tower entrance (requires
+Surf
+,
+Rock Climb
+)
+HG
+SS
+White Flute
+Northwest of the western waterfall (requires
+Surf
+,
+Waterfall
+)
+HG
+SS
+Lagging Tail
+Upper level, east of the western waterfall
+HG
+SS
+Cliff Cave
+Cliff Cave, 1F
+Cliff Cave
+is a small, three-floor cave on the east side of
+Route 47
+. From the entrance, you can either climb to the route's upper level to reach
+Route 48
+and the
+Safari Zone
+, or descend to sea level in order to reach the
+Embedded Tower
+in the southwest.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+HG
+SS
+Cave
+22
+20%
+20%
+24%
+Geodude
+HG
+SS
+Cave
+19
+20%
+Machop
+HG
+SS
+Cave
+19
+10%
+Onix
+HG
+SS
+Cave
+20
+10%
+Krabby
+HG
+SS
+Cave
+20
+10%
+Kingler
+HG
+SS
+Cave
+22
+10%
+Wooper
+HG
+SS
+Cave
+18
+5%
+5%
+0%
+Zubat
+HG
+SS
+Cave
+18
+0%
+0%
+5%
+Quagsire
+HG
+SS
+Cave
+20
+5%
+5%
+0%
+Misdreavus
+HG
+SS
+Cave
+20
+0%
+0%
+5%
+Machoke
+HG
+SS
+Cave
+22
+4%
+Graveler
+HG
+SS
+Cave
+20
+4%
+4%
+0%
+Steelix
+HG
+SS
+Cave
+23
+2%
+Rock Smash
+Krabby
+HG
+SS
+Rock Smash
+20-26
+90%
+Kingler
+HG
+SS
+Rock Smash
+28-31
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+19-20
+20%
+Absol
+HG
+SS
+Hoenn Sound
+20-22
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+19-20
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+20-22
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+Southeast corner of the top floor (hidden)
+HG
+SS
+Other Items
+Red Shard
+Randomly found by smashing
+breakable rocks
+HG
+Blue Shard
+Randomly found by smashing
+breakable rocks
+SS
+Yellow Shard
+Randomly found by smashing
+breakable rocks
+HG
+Green Shard
+Randomly found by smashing
+breakable rocks
+SS
+Claw Fossil
+Randomly found by smashing
+breakable rocks
+HG
+Root Fossil
+Randomly found by smashing
+breakable rocks
+SS
+Max Ether
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Pearl
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Big Pearl
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Rare Bone
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Embedded Tower
+Embedded Tower, as seen when occupied by Groudon
+Near the entrance to the ruins, a Hiker informs you of their history. Ages ago, the
+Embedded Tower
+was constructed deep into the cliffside, and its peak was said to touch the sky. It is believed that it also ran far below to the ocean floor, as well. In short, the ruins formed a link between
+the land
+,
+the sea
+, and
+the sky
+. Enter the chamber to find the legendary Pokémon
+Kyogre
+HG
+/
+Groudon
+SS
+silently watching as you approach.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Kyogre
+HG
+SS
+Only one
+50
+One
+Groudon
+HG
+SS
+Only one
+50
+One
+Rayquaza
+HG
+SS
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Kyogre
+When the battle begins,
+Kyogre
+'s
+Drizzle
+Ability immediately
+summons a rainstorm
+. This raises the power of all
+Water-type
+moves by 50%, increases
+Thunder
+'s accuracy to 100%, and weakens the power of
+SolarBeam
+and all
+Fire-type
+moves by 50%. Its
+Water Spout
+attack is powerful enough already, but the heavy rain increases its destructive force. Like
+Groudon
+'s
+Eruption
+, the move weakens when the Pokémon's health falls, but it can remedy this problem with
+Aqua Ring
+. Begin with
+Grass
+- and
+Electric-type
+attacks to wear it down quickly, then switch to
+Fire
+,
+Water
+,
+Ice
+, and
+Steel
+moves to weaken it further.
+Ultra Balls
+,
+Dusk Balls
+, and
+Heavy Balls
+are especially useful. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Groudon
+When the battle begins,
+Groudon
+'s
+Drought
+Ability immediately
+intensifies the sun's rays
+. This raises the power of all
+Fire-type
+moves by 50%, allows immediate use of
+SolarBeam
+, and weakens all
+Water-type
+moves by 50%. Its
+Eruption
+attack is powerful enough already, but the harsh sunlight increases its destructive force. Like
+Kyogre
+'s
+Water Spout
+, the move weakens when the Pokémon's health falls, but it can remedy this problem with
+Rest
+. Begin with
+Grass
+-,
+Water
+-, and
+Ice-type
+attacks to wear it down quickly, then switch to
+Rock
+and
+Poison
+moves to weaken it further.
+Ultra Balls
+,
+Dusk Balls
+, and
+Heavy Balls
+are especially useful. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Type:
+Water
+Unknown
+Ability:
+Drizzle
+Held item:
+None
+Kyogre
+Lv.
+50
+Aqua Ring
+Water
+Status
+--
+Ice Beam
+Ice
+Special
+--
+AncientPower
+Rock
+Special
+--
+Water Spout
+Water
+Special
+--
+Type:
+Ground
+Unknown
+Ability:
+Drought
+Held item:
+None
+Groudon
+Lv.
+50
+Rest
+Psychic
+Status
+--
+Earthquake
+Ground
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Eruption
+Fire
+Special
+--
+Once the ancient creature has been caught, the Hiker enters and explains a bit more about the Pokémon. He also reveals that the tower was built by travelers from the distant
+Hoenn
+region.
+Pallet Town
+Items
+Item
+Location
+Games
+Jade Orb
+From Professor Oak, after showing
+both
+Pokémon
+from the
+Embedded Tower
+HG
+SS
+Oak's Lab
+Add the ancient Pokémon to your party and pay a visit to
+Professor Oak
+. He is amazed that you have caught one of these powerful Pokémon, but he always thinks of
+Kyogre
+and
+Groudon
+as a pair; wherever one appears, the other must not be far away. Since you have one already, he wonders if you could bring both to him. However, Groudon only shows itself to those with shining-silver spirits, while Kyogre only appears to those with golden hearts. Find a Trainer that matches this description and trade for the second Pokémon. When you show the pair to the professor, he rewards you with the
+Jade Orb
+, which calls the third member of the Hoenn myth to the
+Embedded Tower
+.
+Route 47
+Embedded Tower
+Embedded Tower, as seen when occupied by Rayquaza
+Rayquaza
+As
+Rayquaza
+is related to the other two super-ancient Pokémon, its Ability is also involves the weather; however,
+Air Lock
+eliminates the effects of all weather conditions. Its
+Outrage
+attack is powerful enough already, but can become even more destructive if
+AncientPower
+is able to raise its stats. Begin with
+Rock
+- and
+Dragon-type
+attacks to wear it down quickly.
+Ice-type
+attacks are extremely effective, as well. After that, switch to
+Grass
+,
+Fire
+,
+Water
+,
+Bug
+, and
+Fighting
+moves to weaken it further.
+Ultra Balls
+,
+Dusk Balls
+, and
+Heavy Balls
+are especially useful. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Types:
+Dragon
+Flying
+Ability:
+Air Lock
+Held item:
+None
+Rayquaza
+Lv.
+50
+Rest
+Psychic
+Status
+--
+Air Slash
+Flying
+Special
+--
+AncientPower
+Rock
+Special
+--
+Outrage
+Dragon
+Physical
+--
+When presented with the third Pokémon from the
+Embedded Tower
+,
+Professor Oak
+expresses his wonder at the fascination Pokémon seem to have for orbs and stones.
+← Part 29
+Mt. Silver
+HeartGold and SoulSilver
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

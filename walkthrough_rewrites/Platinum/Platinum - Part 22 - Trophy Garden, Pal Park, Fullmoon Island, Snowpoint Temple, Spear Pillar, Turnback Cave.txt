@@ -1,0 +1,46 @@
+Game: Platinum
+Part: 22
+Keywords: Trophy Garden, Pal Park, Fullmoon Island, Snowpoint Temple, Spear Pillar, Turnback Cave
+
+**Concise Walkthrough: Part 22**
+
+**Trophy Garden**
+- **Available Pokémon**: Pikachu, Pichu, Roselia, Staravia, Kricketune, Clefairy, Jigglypuff, Chansey, Ditto, Eevee, etc. 
+- **Special Pokémon**: Talk to Mr. Backlot (after getting the National Pokédex) for rare Pokémon daily.
+
+**Pal Park**
+- **Import Pokémon**: Use GBA games to migrate Pokémon from Hoenn and Kanto.
+- **Key Items**: Kitchen Timer app (show Snorlax), Color Changer app (show Kecleon).
+- **Regigigas**: Requires Regirock, Regice, and Registeel to catch.
+
+**Canalave City**
+- **Quest**: Speak to Sailor Eldritch for the Lunar Wing to save his son.
+
+**Fullmoon Island**
+- **Item**: Lunar Wing (after Cresselia flees).
+- **Note**: Cresselia roams the Sinnoh region.
+
+**Snowpoint Temple**
+- **Required Pokémon**: Regirock, Regice, Registeel to access Regigigas.
+- **Items**: Calcium (B1F), Full Restore (B3F), Full Heal (B4F).
+- **Regigigas Battle**: Use False Swipe and Dusk/Nest Balls to catch it after weakening.
+
+**Mt. Coronet (South)**
+- **Items**: Adamant Orb, Lustrous Orb for Dialga and Palkia.
+- **TM02**: Found in the north area.
+
+**Celestic Town**
+- **Contact Cynthia's Grandmother** for Dialga and Palkia battle.
+
+**Spear Pillar**
+- **Dialga and Palkia Battle**: Save before interacting with the rifts. Use paralysis/sleep tactics and appropriate Poké Balls (Net Balls for Palkia).
+
+**Turnback Cave**
+- **Objective**: Catch Giratina.
+- **Preparation**: Bring about 40 Dusk Balls. Use Defog to clear fog.
+- **Pillar Navigation**: Follow the pillar hints to find the portal to the Distortion World and Giratina.
+
+**Giratina Battle**: 
+- **Level**: 47, use the same tactics as with Azelf and Uxie. Save before the encounter.
+
+This concise guide focuses on key locations, important items, and battle strategies for progressing through the game effectively.

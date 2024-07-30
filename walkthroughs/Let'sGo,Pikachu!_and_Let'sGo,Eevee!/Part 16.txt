@@ -1,0 +1,1170 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_16
+Keywords: Indigo Plateau
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Indigo Plateau
+1.1
+Time for a Trade
+1.2
+Madame Memorial
+1.3
+Elite Four
+1.3.1
+Battle 1
+1.3.2
+Battle 2
+1.3.3
+Battle 3
+1.3.4
+Battle 4
+1.4
+Champion
+1.4.1
+Rival Battle 8
+1.4.1.1
+In Let's Go, Pikachu!:
+1.4.1.2
+In Let's Go, Eevee!:
+1.5
+Hall of Fame
+Indigo Plateau
+Indigo Plateau
+The
+Indigo Plateau
+serves as the capital for the
+Pokémon League
+in the
+Kanto
+region. This is where the Trainers who have defeated all eight
+Gym Leaders
+battle against the
+Elite Four
+and the
+Champion
+. The entrance hall houses a Poké Mart to the west and a Pokémon Center to the east, allowing challengers to prepare themselves and their Pokémon for the gauntlet ahead. The Elite Four is a group of talented Pokémon Trainers second only to the Champion in terms of power, and must be fought in succession with no break. These five battles will not be easy, but challengers who bring their strongest Pokémon and a healthy supply of Potions and Revives may finally find themselves in the
+Hall of Fame
+.
+Time for a Trade
+The Super Nerd standing to the west near the Poké Mart counter is looking to trade Pokémon. He is hoping to get an
+Exeggutor
+and is willing to part with his
+Alolan
+Exeggutor in exchange. His is a
+Grass
+/
+Dragon
+Pokémon, a unique typing not seen anywhere else. This trade may be conducted multiple times.
+Madame Memorial
+Speak to the woman near the Pokémon Center to meet a woman who goes by the name
+Madame Memorial
+. In exchange for one
+Heart Scale
+at a time, she can teach a Pokémon any move it can learn in its current form by leveling up. Equip your Pokémon with powerful moves before challenging the Elite Four!
+Elite Four
+Battle 1
+Lorelei's room
+The first member of the Elite Four is
+Lorelei
+, a master
+Ice-type
+Trainer and the same woman who helped you chase of the
+Team Rocket
+Grunts on
+Route 10
+. She welcomes you to the
+Pokémon League
+and reintroduces herself. Ice-type moves are super effective against
+Grass
+-,
+Flying
+-,
+Ground
+-, and
+Dragon-type
+Pokémon, while Ice-type Pokémon are weak to
+Fire
+-,
+Fighting
+-,
+Rock
+-, and
+Steel-type
+moves. Her
+Jynx
+is notably her only Pokémon that is not
+Water
+type. Due to her Pokémon's dual typings,
+Electric
+moves are the most useful against Lorelei's frigid forces.
+Elite Four
+Lorelei
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+10,400
+Types:
+Water
+Ice
+Mega Stone:
+None
+Dewgong
+♂
+Lv.
+51
+Aqua Jet
+Water
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ice
+Psychic
+Mega Stone:
+None
+Jynx
+♀
+Lv.
+51
+Lovely Kiss
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Blizzard
+Ice
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Cloyster
+♀
+Lv.
+51
+Ice Beam
+Ice
+Special
+--
+Spike Cannon
+Normal
+Physical
+--
+Hydro Pump
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+51
+Surf
+Water
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Lapras
+♀
+Lv.
+52
+Blizzard
+Ice
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Defeating Lorelei opens the door to the second room.
+Battle 2
+Bruno's room
+The second member of the Elite Four is
+Bruno
+, a master
+Fighting-type
+Trainer. Fighting-type moves are super effective against
+Normal
+-,
+Rock
+-,
+Ice
+-,
+Dark
+-, and
+Steel-type
+Pokémon, while Fighting-type Pokémon are weak to
+Flying
+-,
+Psychic
+-, and
+Fairy-type
+moves. Bruno leads with his
+Onix
+, which makes
+Grass
+and
+Water
+moves helpful, as well.
+Slowbro
+and
+Starmie
+may be especially useful here, as their
+Water
+/
+Psychic
+typing helps to counter each opposing Pokémon.
+Elite Four
+Bruno
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+10,600
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Onix
+♂
+Lv.
+52
+Stealth Rock
+Rock
+Status
+--
+Iron Tail
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Hitmonchan
+♂
+Lv.
+52
+Fire Punch
+Fire
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Hitmonlee
+♂
+Lv.
+52
+Brick Break
+Fighting
+Physical
+--
+Feint
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Fighting
+Mega Stone:
+None
+Poliwrath
+♂
+Lv.
+52
+Waterfall
+Water
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Machamp
+♂
+Lv.
+53
+Earthquake
+Ground
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Defeating Bruno opens the door to the third room.
+Battle 3
+Agatha's room
+The third member of the Elite Four is
+Agatha
+, a master
+Ghost-type
+Trainer. Ghost-type moves are super effective against Ghost- and
+Psychic-type
+Pokémon, while Ghost-type Pokémon are weak to Ghost- and
+Dark-type
+moves.
+Normal
+- and
+Fighting-type
+moves will have no effect. Despite being a Ghost type specialist, only two of her Pokémon are Ghosts; however, as all of her Pokémon share the
+Poison
+type,
+Ground
+- and
+Psychic-type
+attacks are the best ways to calm Agatha's spirits.
+Elite Four
+Agatha
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+10,800
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♀
+Lv.
+53
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ghost
+Poison
+Mega Stone:
+None
+Gengar
+♀
+Lv.
+53
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♂
+Lv.
+53
+Air Slash
+Flying
+Special
+--
+Crunch
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+53
+Sludge Bomb
+Poison
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ghost
+Poison
+Mega Stone:
+None
+Gengar
+♂
+Lv.
+54
+Shadow Ball
+Ghost
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Curse
+Unknown
+Status
+--
+Defeating Agatha unlocks the door to the fourth room.
+Battle 4
+Lance's room
+The fourth and final member of the Elite Four is
+Lance
+, a master
+Dragon-type
+Trainer and leader of the Elite Four. Dragon-type moves are super effective against Dragon-type Pokémon, while Dragon-type Pokémon are weak to Dragon-,
+Ice
+-, and
+Fairy-type
+moves. They also resist
+Grass
+-,
+Fire
+-,
+Water
+-, and
+Electric-type
+attacks. All of Lance's Pokémon have a draconic appearance, but only one is Dragon type. He leads with his
+Seadra
+, so Grass and Electric moves are best. Due to its secondary
+Flying
+type, his
+Aerodactyl
+also takes serious damage from Ice moves, but Water moves are also effective. His
+Gyarados
+takes massive damage from Electric moves, so use
+Thunderbolt
+to take it down. Use
+Ice Beam
+or
+Outrage
+to take down his
+Dragonite
+. With their Ice and Electric attacks,
+Articuno
+and
+Zapdos
+are some of the best choices to help slay Lance's dragons.
+Elite Four
+Lance
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+11,000
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Seadra
+♀
+Lv.
+54
+Hydro Pump
+Water
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Flying
+Mega Stone:
+None
+Aerodactyl
+♂
+Lv.
+54
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Flying
+Mega Stone:
+None
+Gyarados
+♀
+Lv.
+54
+Waterfall
+Water
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fire
+Flying
+Mega Stone:
+None
+Charizard
+♂
+Lv.
+54
+Air Slash
+Flying
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Mega Stone:
+None
+Dragonite
+♂
+Lv.
+55
+Outrage
+Dragon
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+When
+Lance
+is defeated, he tells you that there is one more Trainer to face. Before he can reveal their identity,
+Professor Oak
+enters and congratulates you on defeating the
+Elite Four
+. Lance continues, telling you that
+Trace
+defeated the Pokémon League before you, and the
+Champion
+title rests with him. Oak explains that in the past, merely defeating the Elite Four earned a Trainer the Champion title. However, this position has recently been established as part of the Pokémon League, so you must defeat the previous one to claim the title. Lance explains that the professor is here to officiate the crowning of the new Champion. It's fitting that it would be one of you, the Trainers who took care of
+Team Rocket
+!
+Once the conversation is over, take a moment to prepare your Pokémon, as you will be drawn into battle soon after entering the next room.
+Champion
+Champion's room
+Trace
+is happy to see that you have made it here as well, and is glad that his first opponent as
+Champion
+is you. The battle for the Champion's title is about to begin!
+Trace leads with his
+Pidgeot
+and immediately triggers its
+Mega Evolution
+; this greatly enhances its
+Special Attack
+and
+Speed
+. It is best to lead with an
+Electric
+or
+Rock
+Pokémon to counter it.
+Vileplume
+'s strongest move is
+Solar Beam
+, although it takes one turn to charge before attacking. It is vulnerable to several different types, and so should be fairly easy to knock out. His
+Marowak
+takes serious damage from
+Grass
+and
+Water
+moves, but Grass Pokémon should be wary of
+Fire Punch
+! Like Marowak,
+Rapidash
+is vulnerable to Water moves, as well as
+Rock
+and
+Ground
+attacks.
+Flare Blitz
+deals a major amount of damage but leaves the user injured, as well. As with Pidgeot, his
+Slowbro
+cannot last very long against Electric moves. Its
+Special Defense
+is lower than its physical
+Defense
+, so use Special attacks before it can use
+Light Screen
+. Finally, his
+Jolteon
+P
+/
+Raichu
+E
+takes super effective damage only from Ground attacks. Send in a Ground Pokémon like
+Dugtrio
+, and his partner Pokémon will resort to using its weaker moves. Raichu's
+Iron Tail
+can deal serious damage to Rock Pokémon, so avoid using
+Rhyhorn
+or
+Onix
+!
+Rival Battle 8
+In
+Let's Go, Pikachu!
+:
+Champion
+Trace
+Pokémon League
+Let's Go, Pikachu!
+Reward:
+$
+13,680
+Types:
+Normal
+Flying
+Mega Stone:
+Pidgeotite
+Pidgeot
+♂
+Lv.
+56
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Heat Wave
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+56
+Solar Beam
+Grass
+Special
+--
+Reflect
+Psychic
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+56
+Fire Punch
+Fire
+Physical
+--
+Bonemerang
+Ground
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♀
+Lv.
+56
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Surf
+Water
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Jolteon
+♂
+Lv.
+57
+Thunder
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Pin Missile
+Bug
+Physical
+--
+Curse
+Unknown
+Status
+--
+In
+Let's Go, Eevee!
+:
+Champion
+Trace
+Pokémon League
+Let's Go, Eevee!
+Reward:
+$
+13,680
+Types:
+Normal
+Flying
+Mega Stone:
+Pidgeotite
+Pidgeot
+♂
+Lv.
+56
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Heat Wave
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+56
+Solar Beam
+Grass
+Special
+--
+Reflect
+Psychic
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+56
+Fire Punch
+Fire
+Physical
+--
+Bonemerang
+Ground
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♀
+Lv.
+56
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Surf
+Water
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Raichu
+♂
+Lv.
+57
+Thunder
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Curse
+Unknown
+Status
+--
+Hall of Fame
+The eight
+Gym Leaders
+are defeated, the
+Elite Four
+have fallen, and the title of
+Champion
+has been snatched away from your rival!
+Professor Oak
+appears and congratulates you on your victory, and both you and
+Trace
+for having a great battle. The professor leads you from the hall, and the game is saved.
+Hall of Fame
+It is here where all victorious Trainers and their dedicated Pokémon will be recorded, as a testament to their power and perseverance. Once the professor enters your team's information, the credits begin to roll...
+But the adventure is not over just yet. When you return to
+Pallet Town
+, you automatically head for home while your
+partner Pokémon
+excitedly gathers a bunch of flowers. The screen goes black and
+The End
+appears before the game saves your progress.
+← Part 15
+Route 22, Route 23, Victory Road
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+A World Expands, Cerulean Cave
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

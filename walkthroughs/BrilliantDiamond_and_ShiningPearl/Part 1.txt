@@ -1,0 +1,366 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Brilliant_Diamond_and_Shining_Pearl_walkthrough/Section_1
+Keywords: Introduction, Twinleaf Town, Verity Lakefront, Lake Verity, Twinleaf Town, Route 201, Sandgem Town, Twinleaf Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Brilliant Diamond and Shining Pearl
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Diamond and Pearl
+. The guide for those games can be found
+here
+.
+Contents
+1
+Introduction
+2
+Twinleaf Town
+3
+Route 201
+4
+Verity Lakefront
+5
+Lake Verity
+6
+Twinleaf Town
+7
+Route 201
+8
+Sandgem Town
+9
+Twinleaf Town
+Introduction
+When you first turn on the game,
+Professor Rowan
+introduces himself, welcoming you to the world of Pokémon. Then, he throws a
+Poké Ball
+to demonstrate what a Pokémon is. A
+Munchlax
+then appears from the Poké Ball and Rowan goes on to speak about human relationships with Pokémon as friends. He then states that his job as a professor is to conduct research on these Pokémon.
+You are then asked to choose your appearance, so choose wisely as you will be unable to change your basic appearance once you have started your adventure. You then must choose a name, which will also stay with you for the remainder of the game. You are than asked what
+your friend's
+name is. He will be your rival. His official name is Barry, so from now on, he is referred as "Barry" in this walkthrough.
+Your adventure has begun, so it's time to jump into the world of Pokémon!
+Twinleaf Town
+Twinleaf Town
+The journey begins at your home in
+Twinleaf Town
+. You are watching the television special report titled "Search for the Red Gyarados!" in which a news broadcast describes a team searching for a
+red Gyarados
+in a far-off lake (which is presumably the
+Lake of Rage
+in
+Johto
+). The broadcast states that the team has not observed the Pokémon in question.
+On your way out of the house, your
+mother
+will tell you that your rival wishes to see you as it is an emergency. She also warns you to stay out the tall grass as
+wild Pokémon
+may attack. Just as you enter his house, Barry bumps into you. He tells you to come with him to
+Lake Verity
+and says that he will fine
+$
+1 million if you aren't there. As he is about to leave, Barry notices that he has forgotten something and runs back inside the house. Head inside and upstairs, where Barry is deciding what to bring. He then notices you, threatens to fine you
+$
+10 million (which is 10 times of the original amount) and rushes out of the house. He will now be waiting for you on
+Route 201
+. Now head north to reach the route.
+Route 201
+Barry sees you and follows you. If you turn east and try to go through the tall grass, your Mom's words will suddenly pop out of nowhere and prevent you from entering tall grass. Head west and go to
+Verity Lakefront
+.
+Verity Lakefront
+Verity Lakefront
+This is a short path that leads you to the lake. Follow the path and head into Lake Verity. Once you can go to Route 201, you can get a hidden Potion here that is accessed from the route.
+Items
+Item
+Location
+Games
+Potion
+On the raised-land section, in of the southernmost flower (accessed from Route 201)
+(hidden)
+BD
+SP
+Lake Verity
+After you reach Route 201, Barry tells you about the news report on TV about the Red Gyarados. He wants to go to the local lake to see if there is a similar Pokémon, and he will now follow you. Walk to
+Lake Verity
+. Upon your arrival, you see
+Professor Rowan
+, and either
+Lucas
+or
+Dawn
+(whoever is the opposite gender of your selected player character). The two are searching the lake for something and discuss Rowan's return to
+Sinnoh
+after four years. They push past you, and Lucas/Dawn apologizes. Barry goes to investigate the briefcase Rowan left behind, but when you enter the long grass you are each attacked by a wild
+Starly
+. You then open the briefcase to find three
+Poké Balls
+, containing
+Turtwig
+,
+Chimchar
+and
+Piplup
+.
+Turtwig
+Chimchar
+Piplup
+Grass
+Fire
+Water
+Grotle
+Monferno
+Prinplup
+Grass
+Fire
+Fighting
+Water
+Torterra
+Infernape
+Empoleon
+Grass
+Ground
+Fire
+Fighting
+Water
+Steel
+When you choose one, that Pokémon will become your
+first partner Pokémon
+, so choose wisely. Barry will automatically select the one with a type advantage over yours.
+Turtwig
+, the Turtle Pokémon, is the physical all-rounder. Turtwig evolves into
+Grotle
+at Level 18, and then
+Torterra
+at level 32. Turtwig is a
+Grass-type
+Pokémon, and Torterra is a Grass/
+Ground
+-type Pokémon. Torterra has great physical Attack and Defense, but low Special Attack and Speed. It gets powerful moves like
+Razor Leaf
+and
+Crunch
+pretty early on, and later
+Earthquake
+. Torterra can also be taught
+Wood Hammer
+from the
+Move Reminder
+. Another good move for Torterra is
+Curse
+, which boosts its Attack and Defense, its two best stats, while decreasing its Speed, which is already very low. It also has access to
+Synthesis
+for self-healing. For TM moves, it has access to
+Bullet Seed
+,
+Giga Impact
+, and a wide range of other moves, including several setup moves. Torterra does have a major weakness to
+Ice-type
+attacks, so be wary of that, but it is otherwise neutral to most other types. Otherwise, Turtwig's type coverage excels at many of the Gyms and is a solid all-around choice.
+Chimchar
+, the Chimp Pokémon, is the glass cannon. It has high speed and attacking stats, at the cost of having quite low defenses (these are usual for
+Fire-type
+Pokémon). It serves as a mixed attacker, and can use both physical and special moves well. It evolves at Level 14 into
+Monferno
+, a Fire/
+Fighting
+-type Pokémon, and gains a ton of power. It learns one of the second strongest Fighting-type moves,
+Close Combat
+, when it evolves into
+Infernape
+. If you make sure that Chimchar evolves before or in the first Gym, you shouldn't have trouble with the
+Rock-type
+Pokémon. Its defenses are low, but due to its speed and offense, it often has the power to take out most Pokémon in the game with one or two hits before they even get a chance to strike. The Chimchar line can learn a variety of great moves, both with level up and TMs. It can learn
+Flamethrower
+at Level 47 if unevolved, but Monferno and Infernape can still learn it via TM35, which can be obtained before the sixth Gym.
+Brick Break
+,
+Focus Blast
+, and
+Fire Blast
+are also some TM moves to consider, although it can learn many, many more, like
+Rock Slide
+,
+Stone Edge
+,
+Earthquake
+and
+Dig
+. Chimchar's offensive coverage and speed makes it an extremely versatile attacker.
+Piplup
+, the Penguin Pokémon, is the special tank. It has high Special Defense and Special Attack, but low Attack and Speed. It evolves into
+Prinplup
+at Level 16. When it evolves further into
+Empoleon
+at Level 36, it gains the Steel type, making it a unique
+Water
+/
+Steel
+-type Pokémon. The addition of the Steel type makes it resistant to a majority of types, making it an excellent defensive wall. Its only weaknesses are
+Electric
+,
+Fighting
+, and
+Ground
+. Unfortunately, this good typing comes at a cost: a movepool that isn't the best. Despite its sub-par Attack stat, Empoleon learns more physical moves than special. Early on, it is better off using Special attacks such as
+BubbleBeam
+, which Prinplup learns at Level 24. If you are fine using TMs on Empoleon,
+TM95
+(
+Surf
+), and
+TM91
+(
+Flash Cannon
+) are both very powerful attacks. It also eventually gets the one of the strongest Water-type attacks,
+Hydro Pump
+, at Level 59, although it has low PP and accuracy. Other viable TM options include
+Ice Beam
+,
+Scald
+, and
+Grass Knot
+. Alternatively, it can learn
+Swords Dance
+from a TM or the
+Move Reminder
+, making its physical options usable. Piplup takes some external training to be used offensively, but it has the potential to be one of the best in both offense and defense.
+All of the first partners are good choices and it is down to your personal preference to make a decision. In any case, it's time to move on.
+Battle the Level 2 Starly, and defeat it to give your new Pokémon experience points. Suddenly, Lucas/Dawn returns and remarks that Rowan would be very angry if he/she forgot the briefcase. When Lucas/Dawn realizes that you have used the Pokémon from the briefcase, he/she takes the briefcase and hurries off. Barry suggests heading back to Twinleaf Town.
+On your way back to Twinleaf Town, you meet Lucas/Dawn and
+Professor Rowan
+, who takes a look at the Pokémon you and Barry had taken and returns to his lab. Rowan's assistant mentions that you should stop by Rowan's lab and then hurries off.
+Twinleaf Town
+After that, you will automatically return to your house in Twinleaf Town. You explain the situation that occurred at the lake, and Mom gives you a pair of
+Running Shoes
+and asks you to visit Professor Rowan in
+Sandgem Town
+.
+Items
+Item
+Location
+Games
+Running Shoes
+Obtained from player's mother at the start of the game
+BD
+SP
+Route 201
+Head north to reach Route 201. This time, head east through the tall grass. Two Pokémon,
+Bidoof
+and
+Starly
+, can be found here, but they cannot be captured yet.
+Head north through another patch until you reach a woman. She works for the
+Poké Mart
+and will give you ten
+Potions
+for free. Continue east until you reach Sandgem Town.
+Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Starly
+BD
+SP
+Grass
+2-3
+50%
+50%
+40%
+Bidoof
+BD
+SP
+Grass
+2-3
+50%
+50%
+60%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+×10
+Obtained from the Poké Mart employee
+BD
+SP
+Sandgem Town
+Professor Rowan's Lab
+Sandgem Town
+Upon reaching Sandgem Town, Professor Rowan's assistant will stop you and have you go with him/her. You are then shown the
+Pokémon Research Lab
+, the largest building in town. As you are about to enter, Barry zooms out and says that Rowan isn't as intimidating as he first seemed, and then departs for
+Jubilife City
+. After entering the lab, Professor Rowan examines the Pokémon you chose at the lake and lets you keep it as a gift. You will then be given the option to give it a
+nickname
+. The professor formally introduces himself, and entrusts you with a
+Pokédex
+to record the data of all the Pokémon that are found throughout the
+Sinnoh
+region. Lucas/Dawn also says that he/she is on a Pokédex quest.
+Upon leaving the lab, Lucas/Dawn will give you a tour and show you the
+Pokémon Center
+and
+Poké Mart
+. He/she then insists that you tell your mom that you are leaving on a journey and leaves to
+Route 202
+, where he/she won't let you pass until you complete your mission in Twinleaf Town.
+Items
+Item
+Location
+Games
+Pokédex
+Obtained from
+Professor Rowan
+in the Pokémon Research Lab
+BD
+SP
+Twinleaf Town
+Backtrack on Route 201 and head to your house. After you get some rest, your mother is happy to hear the news and will give you the
+Guidebook
+, and she tells you to make sure to come back to visit. Barry's mother then stops by and admits that Barry left so fast that he forgot the
+Parcel
+, but your mother suggests that you can delivery this to Barry personally. Barry's mom mentions that Barry should be in
+Jubilife City
+right now.
+Leave Twinleaf and return to Sandgem Town. You can head south to
+Route 219
+to pick up an
+Antidote
+, but you cannot explore the rest of this route until you gain access to
+Surf
+. Head north of Sandgem Town to reach Route 202.
+Items
+Item
+Location
+Games
+Guidebook
+Obtained from player's mother after returning from
+Sandgem Town
+BD
+SP
+Parcel
+Obtained from
+Barry
+'s mother after returning from Sandgem Town
+BD
+SP
+Brilliant Diamond and Shining Pearl
+walkthrough
+Route 202, Jubilife City, Route 204, Ravaged Path, Route 203, Oreburgh Gate
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

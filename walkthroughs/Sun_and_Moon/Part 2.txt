@@ -1,0 +1,951 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_2
+Keywords: Route 1, Iki Town Festival, Professor Kukui's Lab, Trainers' School
+
+Walkthrough Text:
+Contents
+1
+Route 1 (Hau'oli Outskirts)
+1.1
+Home
+2
+Route 1
+3
+Iki Town
+3.1
+Rival Battle 2
+3.1.1
+If the player chose Rowlet:
+3.1.2
+If the player chose Litten:
+3.1.3
+If the player chose Popplio:
+4
+Route 1 (Hau'oli Outskirts)
+4.1
+Pokémon Research Lab
+4.2
+Trainer's School
+Route 1 (Hau'oli Outskirts)
+Home
+The following day, as you and mom are enjoying another Alolan day
+S
+/night
+M
+, the doorbell rings again. Mom asks you to open the door, only for
+Kukui
+to let himself in again. He's here to take you to the festival in
+Iki Town
+, but now that you have your own Pokémon, there is something he would like to show you first. The professor leaves to wait outside for you. Instead of traveling west, head east this time and follow the path northward.
+Route 1
+Route 1
+Kukui is waiting near a patch of
+tall grass
+, where he and his
+Rockruff
+demonstrate how to catch a Pokémon. After the tutorial, he gives you ten
+Poké Balls
+and five
+Potions
+to prepare you for your travels. You are now free to explore the route, and begin catching Pokémon of your own!
+Route 1
+is largely divided into three parts—the area near your house; the northeast cliffs overlooking the bay; and the path near Iki Town. The wild Pokémon species found in these areas vary by location, as do their levels. Before the festival in
+Iki Town
+, wild Pokémon cannot break out of the
+Poké Balls
+thrown at them.
+Trainers
+Trainer
+Pokémon
+Youngster
+Jimmy
+Reward:
+$
+60
+Rattata
+♂
+Alolan form
+Lv.
+3
+No item
+Lass
+Audrey
+Reward:
+$
+72
+Caterpie
+♀
+Lv.
+3
+No item
+Preschooler
+Oliver
+Reward:
+$
+48
+Yungoos
+♂
+Lv.
+4
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+First two fields of grass east of the player's house
+Pikipek
+Pikipek
+S
+M
+Grass
+2-3
+30%
+Yungoos
+Yungoos
+S
+M
+Grass
+2-3
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+2-3
+-
+30%
+Caterpie
+Caterpie
+S
+M
+Grass
+2-3
+20%
+Ledyba
+Ledyba
+S
+M
+Grass
+2-3
+20%
+-
+Spinarak
+Spinarak
+S
+M
+Grass
+2-3
+-
+20%
+Grass patch overlooking the bay
+Pikipek
+Pikipek
+S
+M
+Grass
+2-4
+30%
+Yungoos
+Yungoos
+S
+M
+Grass
+2-4
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+2-4
+-
+30%
+Caterpie
+Caterpie
+S
+M
+Grass
+2-4
+20%
+Ledyba
+Ledyba
+S
+M
+Grass
+2-4
+20%
+-
+Spinarak
+Spinarak
+S
+M
+Grass
+2-4
+-
+20%
+Two fields of grass nearest
+Iki Town
+Yungoos
+Yungoos
+S
+M
+Grass
+3-5
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+3-5
+-
+30%
+Pikipek
+Pikipek
+S
+M
+Grass
+3-5
+20%
+Ledyba
+Ledyba
+S
+M
+Grass
+3-5
+15%
+-
+Spinarak
+Spinarak
+S
+M
+Grass
+3-5
+-
+15%
+Caterpie
+Caterpie
+S
+M
+Grass
+3-5
+10%
+Metapod
+Caterpie
+S
+M
+Grass
+3-5
+10%
+Grubbin
+Grubbin
+S
+M
+Grass
+3-5
+10%
+Pichu
+Pichu
+Pikachu
+Happiny
+S
+M
+Grass
+3-5
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+×11
+From Kukui, after the capture tutorial (×10)
+On the cliffs overlooking the bay, west of Lass Audrey
+S
+M
+Potion
+×7
+From Kukui, after the capture tutorial (×5)
+North of the grass patch to the west of the route sign
+North of the second grass patch on the east side
+S
+M
+Antidote
+On the cliff to the east of the route sign
+S
+M
+Paralyze Heal
+West of the entrance to Iki Town
+S
+M
+Later visit
+Nest Ball
+End of the western path, behind the rocks south of Iki Town (requires
+Tauros Charge
+)
+S
+M
+Nugget
+End of the northeast path, behind the rocks south of Iki Town (requires
+Tauros Charge
+)
+S
+M
+After you've caught the Pokémon you like, make your way through the route. Behind the second patch of grass, you can find a
+Potion
+. Ahead, you can fight
+Youngster
+Jimmy and
+Lass
+Audrey. Behind the patch of grass near Lass Audrey, you can find a
+Poké Ball
+. There's also a fence on a small ledge. Walk around it and you can find an
+Antidote
+. At the intersection, you'll notice there are three paths to take. However, the path north and south are blocked off, so take the path westward. Behind the patch of grass, you can find another Potion. Ahead, you can fight
+Preschooler
+Oliver. Behind the last patch of grass, you can find a
+Paralyze Heal
+.
+When you're finished exploring, head north to
+Iki Town
+.
+Iki Town
+Iki Town
+As you enter
+Iki Town
+,
+Hala
+approaches you. He explains that the
+Alola
+region is made up of four islands, each with its own
+guardian Pokémon
+. The festival held here is meant to express thanks to the guardians for their protection.
+Rival Battle 2
+Hau
+can be found a short distance ahead, while
+Kukui
+and
+Lillie
+arrive a moment later. Kukui explains that during the friendly competition, people battle in the name of
+Melemele Island
+'s guardian,
+Tapu Koko
+. Hau cannot wait to battle, but
+Hala
+takes a moment to heal your Pokémon first. The
+kahuna
+delivers a few remarks before you and Hau step up onto the stage.
+Hau has caught a
+Pichu
+since your last battle with him. Its
+Static
+Ability can
+paralyze
+your Pokémon if they make contact, in which case the
+Paralyze Heal
+from earlier will help. Hit his
+first partner Pokémon
+with supereffective moves to deal extra damage.
+If the player chose
+Rowlet
+:
+Pokemon Trainer
+Hau
+Iki Town
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pichu
+♂
+Lv.
+6
+Thunder Shock
+Electric
+Special
+--
+Charm
+Fairy
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Popplio
+♂
+Lv.
+7
+Pound
+Normal
+Physical
+--
+Water Gun
+Water
+Special
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Litten
+:
+Pokemon Trainer
+Hau
+Iki Town
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pichu
+♂
+Lv.
+6
+Thunder Shock
+Electric
+Special
+--
+Charm
+Fairy
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Flying
+Ability:
+Overgrow
+Held item:
+None
+Rowlet
+♂
+Lv.
+7
+Tackle
+Normal
+Physical
+--
+Leafage
+Grass
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Popplio
+:
+Pokemon Trainer
+Hau
+Iki Town
+Sun and Moon
+Reward:
+$
+140
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pichu
+♂
+Lv.
+6
+Thunder Shock
+Electric
+Special
+--
+Charm
+Fairy
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Litten
+♂
+Lv.
+7
+Scratch
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Tapu Koko
+can be heard in the distance in a cry of approval. Hala then equips you with a
+Z-Ring
+, fashioned from the
+Sparkling Stone
+he borrowed. This bracelet is said to draw out the power that lies deep within a Pokémon, known as its
+Z-Power
+, but requires a
+Z-Crystal
+to function. He believes that Tapu Koko has a mission for you, and the kahuna and the professor encourage to you begin your
+island challenge
+. Kukui says that he will explain more a bit later, so for now he and
+Lillie
+accompany you back to your home.
+Route 1 (Hau'oli Outskirts)
+Trainers
+Trainer
+Pokémon
+Youngster
+Kevin
+Reward:
+$
+120
+Grubbin
+♂
+Lv.
+6
+No item
+Lass
+Madison
+Reward:
+$
+144
+Wingull
+♀
+Lv.
+6
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Wingull
+Wingull
+S
+M
+Grass
+5-7
+50%
+Yungoos
+Yungoos
+S
+M
+Grass
+5-7
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+5-7
+-
+30%
+Slowpoke
+Slowpoke
+S
+M
+Grass
+5-7
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Awakening
+×2
+From Meowth, on the first time sleeping at home, after receiving your hat and Bag
+North of the beach, north side of the tall grass patch
+S
+M
+$
+30,000
+From Mom, when Lillie arrives to take you to the Pokémon Research Lab
+S
+M
+Pearl
+South end of the beach, in front of the Research Lab (
+hidden, regenerates occasionally
+)
+S
+M
+Rotom Pokédex
+Research Lab, from Professor Kukui on your first visit
+S
+M
+Island challenge
+amulet
+Research Lab, from Professor Kukui on your first visit
+S
+M
+Later visit
+Mind Plate
+In front of the player’s garage, after defeating Kahuna
+Nanu
+‘’’hidden’’’
+S
+M
+Earth Plate
+Near the palm tree on the east side of the beach ‘’’hidden’’’
+S
+M
+The next day
+S
+/night
+M
+, the doorbell rings again. It's not the professor this time, but
+Lillie
+. It seems that
+Kukui
+sent her to show you the way to his Pokémon Research Lab. Before you can leave,
+Mom
+walks outside and gives you
+$
+30,000 to see you on your way.
+Head south across the street and down the hill. Here, Lillie informs you that
+Nebby
+is a
+Cosmog
+, a rare Pokémon from far away, and that it once saved her from
+a group of people
+who want it for its power. Since only those she trusts knows about Nebby, she asks that you keep it and the events at Plank Bridge a secret. She goes on ahead, so follow her southward to find the Research Lab on the beach.
+Pokémon Research Lab
+Lillie
+is waiting outside the lab. Inside,
+Kukui
+asks to see your
+Pokédex
+for a moment, and upgrades it with new parts that were just delivered. With this upgrade, the Pokémon
+Rotom
+, which has a body similar to electricity, can inhabit the Pokédex and act as a virtual assistant, resulting in the
+Rotom Pokédex
+.
+Hau
+arrives, and Kukui goes on to explain the
+island challenge
+—Trainers must travel the four islands and clear seven trials before challenging the four kahunas to battle. The professor hands you and island challenge amulet, which you attach to your Bag, and directs you to the Trainers' School to learn the basics of Pokémon training.
+Outside, head back north to the main road and turn west to find Lillie. She leads you inside the
+Pokémon Center
+and explains the services offered. The nurse at the counter will heal a Trainer's Pokémon to full health for free. The
+PC
+on the counter is always available for Trainers to organize their Pokémon.
+Poké Marts
+offer a wide range of items for sale, from
+Potions
+to
+Poké Balls
+. Finally, the
+Pokémon Center Café
+sells various drinks, which come with a free item and some
+Poké Beans
+with your first drink order of the day.
+At this point, several new Menu options are now available: Quick Link, which allows trading and battling over a local Wi-Fi network, and
+Festival Plaza
+, which does the same for players worldwide. The Plaza also enables access to the
+GTS
+, where Trainers can search for or offer specific Pokémon to trade; and
+Wonder Trade
+, where Trainers can send a Pokémon off to a random Trainer somewhere around the world and receive a random Pokémon in return.
+QR Scanner
+and
+Battle Video
+have now been added as well.
+Leave the Pokémon Center and head west to find Lillie. A
+Tauros
+blocks the road farther west, so follow her inside the Trainers' School instead.
+Trainer's School
+Trainers' School
+Trainers
+Trainer
+Pokémon
+Youth Athlete
+Hiromi
+ヒロミ
+Hiromi
+Reward:
+$
+224
+Pikipek
+♀
+Lv.
+8
+No item
+Preschooler
+Mia
+ユウコ
+Yūko
+Reward:
+$
+84
+Bonsly
+♀
+Lv.
+7
+No item
+Youngster
+Joey
+ゴロウ
+Gorō
+Reward:
+$
+140
+Metapod
+♂
+Lv.
+7
+No item
+After defeating the other three student Trainers
+Rising Star
+Joseph
+ジュンヤ
+Junya
+Reward:
+$
+384
+Grimer
+♂
+Alolan form
+Lv.
+8
+No item
+After defeating all four student Trainers
+Teacher
+Emily
+エリコ
+Eriko
+Reward:
+$
+432
+Magnemite
+Lv.
+8
+No item
+Meowth
+♀
+Alolan form
+Lv.
+9
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Magnemite
+Magnemite
+S
+M
+Grass
+6-8
+50%
+Meowth
+Alolan Form
+Meowth
+S
+M
+Grass
+6-8
+30%
+Grimer
+Alolan Form
+Grimer
+S
+M
+Grass
+6-8
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+On the school grounds
+Exp. Share
+From Kukui, outside the building on the player's first visit
+S
+M
+Poké Ball
+North of the rail in the parking lot
+(hidden)
+S
+M
+Potion
+×2
+East of the main entrance, under a palm tree
+Southwest corner of the dirt field
+S
+M
+Great Ball
+In the center of the western battlefield
+(hidden)
+S
+M
+Antidote
+Fenced-off grassy area to the west, west of the southernmost palm tree
+S
+M
+Paralyze Heal
+Southeast part of the fenced-off grassy area
+S
+M
+TM01
+(
+Work Up
+)
+From Rising Star Joseph, after defeating him
+S
+M
+Inside the building
+Quick Claw
+1F; from a Beauty in the area to the left of the stairs
+S
+M
+Potion
+2F; in the farthest classroom, from a boy in the front-right seat
+S
+M
+Great Ball
+×5
+2F; from Teacher Emily, after defeating her
+S
+M
+Later visit
+Flame Plate
+Outside; left side of the furnace, after defeating Kahuna
+Nanu
+S
+M
+King's Rock
+3F; from Principal Asuka, after becoming Champion and defeating her
+S
+M
+Outside the
+Trainers' School
+,
+Kukui
+introduces you to one of their
+Teachers
+. She intends for you to battle four of her students to gain some real-world experience. Kukui gives you the
+Exp. Share
+, a very useful item that will distribute the
+experience points
+earned from every battle among your entire party, even to Pokémon that did not participate. Visit the school to brush up on the basics; the left room on the second floor is particularly full of useful books and blackboard notes.
+Explore the grounds to take on the teacher's challenge. Lillie will heal your Pokémon whenever you speak with her.
+A Lass on the east side of the building, near the incinerator
+A Youngster on the west side of the building, past the gate to the grassy areas
+A Preschooler inside the building, near the stairs on the first floor
+A Rising Star on the courts in front of the school; refuses to battle until the others are defeated
+After defeating Rising Star Joseph, he rewards you with
+TM01
+(
+Work Up
+). Just then, someone calls you over the PA system, making Lillie wonder what you might have done. Head to the school's second floor, where you are met by the teacher. She is impressed that you have defeated her students, and would like to battle you for herself. Upon her defeat, she gives you five
+Great Balls
+as a reward. Kukui and another man, who introduces himself as
+Captain
+Ilima
+, arrive soon after. Ilima welcomes you to
+Alola
+and says that he will be looking forward to you taking on his trial, then leaves. The entire school gathers to see you off, and Lillie decides to show you more of the city. Unfortunately, that wayward
+Tauros
+still acts as a roadblock.
+Hau
+and
+Hala
+are there, and the latter requests you pat Tauros first. The Pokémon is calmed and Hala leads Tauros away, leaving you free to head into
+Hau'oli City
+with Lillie and Hau.
+← Part 1
+Intro, Route 1 (Hau'oli Outskirts), Iki Town, Mahalo Trail
+Sun and Moon
+walkthrough
+Hau'oli City
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

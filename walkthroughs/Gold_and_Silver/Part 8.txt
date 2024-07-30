@@ -1,0 +1,1603 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_8
+Keywords: Ecruteak City, Burned Tower, Ecruteak Gym, Route 38, Route 39
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Ecruteak City
+1.1
+Treasure Hunting
+1.2
+Pokémon Center
+1.2.1
+Time-Traveling Trades
+1.3
+Ecruteak Dance Theater
+1.4
+Burned Tower
+1.4.1
+1F
+1.4.1.1
+Ambush!
+1.4.1.2
+Rival Battle 3
+1.4.1.2.1
+If the player chose Chikorita:
+1.4.1.2.2
+If the player chose Cyndaquil:
+1.4.1.2.3
+If the player chose Totodile:
+1.4.1.3
+Clear a Path
+1.4.2
+B1F
+1.5
+Tin Tower
+1.6
+Ecruteak Gym
+2
+Route 38
+2.1
+Searching for Snubbull
+3
+Route 39
+3.1
+Moomoo Farm
+Ecruteak City
+Ecruteak City
+Ecruteak City
+lies in the woods of northern
+Johto
+, between Routes
+37
+,
+38
+, and
+42
+. The city honors its past by preserving long-held traditions, like the old-fashioned architecture of the local dance theater and the two towers that stand to the north. Several legendary Pokémon have ties to the area, giving Ecruteak an air of mystery.
+Trainers
+Trainer
+Pokémon
+Ecruteak Dance Theater
+Kimono Girl
+Naoko
+Reward:
+$
+1224
+Flareon
+♂
+Lv.
+17
+No item
+Kimono Girl
+Sayo
+Reward:
+$
+1224
+Espeon
+♂
+Lv.
+17
+No item
+Kimono Girl
+Zuki
+Reward:
+$
+1224
+Umbreon
+♂
+Lv.
+17
+No item
+Kimono Girl
+Kuni
+Reward:
+$
+1224
+Vaporeon
+♂
+Lv.
+17
+No item
+Kimono Girl
+Miki
+Reward:
+$
+1224
+Jolteon
+♂
+Lv.
+17
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Poliwag
+G
+S
+C
+Surfing
+15-24
+90%
+Poliwhirl
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Itemfinder
+From the Cooltrainer in the southernmost house
+G
+S
+Hyper Potion
+In the corner of the pond
+(hidden)
+G
+S
+HM03
+(
+Surf
+)
+Dance Theater; from an elderly man in the audience, after defeating the Kimono Girls
+G
+S
+TM30
+(
+Shadow Ball
+)
+From
+Gym Leader
+Morty
+, after defeating him
+G
+S
+Treasure Hunting
+Visit the southwest house and speak to the man inside. He gives you an
+Itemfinder
+, a device that can detect any hidden items nearby.
+Pokémon Center
+Time-Traveling Trades
+Enter the Pokémon Center to meet
+Bill
+, the creator of the
+Pokémon Storage System
+. He has just finished maintenance on the
+Time Capsule
+, a machine located on the second floor of every Pokémon Center that allows Trainers to "trade with
+the past
+". There are certain restrictions, as all Pokémon and moves that were still undiscovered then are prohibited. The Time Capsule will be operational in 24 hours. After a brief explanation, Bill leaves for his home in
+Goldenrod City
+.
+Ecruteak Dance Theater
+The Ecruteak Dance Theater is where the
+Kimono Girls
+practice both their dancing and their Pokémon training. Each of the five sisters specializes in one of
+Eevee
+'s
+evolutions
+. They may be battled in any order. After they have been defeated, speak to the Gentleman in the audience. He has challenged the sisters repeatedly but has failed each time. To reward you for defeating them when he could not, he gives you
+HM03
+(
+Surf
+).
+Burned Tower
+Burned Tower, 1F
+Burned Tower, B1F
+The charred ruins of the
+Burned Tower
+lie in the northwest part of the city. Formerly known as the Brass Tower, it was once as majestic as the
+Tin Tower
+to the east. When it was new, it was said to be the roost of
+an immense, silver-colored Pokémon
+. But centuries later, a heavy storm rolled in and the tower was struck by lightning, igniting a great fire that would rage for three days. The silver Pokémon and
+the glorious, rainbow-colored Pokémon
+that roosted on Tin Tower escaped to the skies unharmed, and the silver Pokémon flew away, never to return. A sudden downpour would finally douse the flames, and the rainbow Pokémon gave new life to
+three nameless Pokémon
+that perished in the blaze before it flew off as well.
+Trainers
+Trainer
+Pokémon
+Requires Rock Smash
+Firebreather
+Ned
+Reward:
+$
+720
+Koffing
+♂
+Lv.
+15
+No item
+Koffing
+♂
+Lv.
+15
+No item
+Growlithe
+♂
+Lv.
+16
+No item
+Firebreather
+Dick
+Reward:
+$
+816
+Charmeleon
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Rattata
+G
+S
+C
+1F
+13,15
+50%
+Raticate
+G
+S
+C
+1F
+15
+5%
+Zubat
+G
+S
+C
+1F
+14
+10%
+Koffing
+G
+S
+C
+1F
+14,16
+35%
+Rock Smash
+Krabby
+G
+S
+C
+Rock Smash
+15
+90%
+Shuckle
+G
+S
+C
+Rock Smash
+15
+10%
+B1F
+Rattata
+G
+S
+C
+B1F
+14,16
+40%
+0%
+40%
+Rattata
+G
+S
+C
+B1F
+14
+0%
+35%
+0%
+Zubat
+G
+S
+C
+B1F
+15
+5%
+Koffing
+G
+S
+C
+B1F
+14,16
+50%
+Magmar
+G
+S
+C
+B1F
+14
+5%
+0%
+5%
+Magmar
+G
+S
+C
+B1F
+16
+0%
+10%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Burn Heal
+Northeast corner, north of the gap in the floor (requires
+Rock Smash
+)
+G
+S
+X Speed
+Fenced-in center area, northwest of the gap in the floor (requires
+Rock Smash
+)
+G
+S
+Ether
+Fenced-in center area, two steps west of the gap in the floor (hidden; requires
+Rock Smash
+)
+G
+S
+B1F
+Burn Heal
+Southeast ledge, between the rocks (hidden)
+G
+S
+Ultra Ball
+Southwest ledge, between the rocks (hidden)
+G
+S
+HP Up
+Northwest ledge
+G
+S
+Nugget
+On the ridge where the legendary beasts stood (hidden)
+G
+S
+Later visit
+TM20
+(
+Endure
+)
+B1F; Northeast ledge, behind a boulder (requires
+Strength
+)
+G
+S
+1F
+Ambush!
+Immediately after entering the tower, you are ambushed again by
+Silver
+. He is looking for the legendary Pokémon that are supposed to be here, and accuses you of trying to get to them first. He aims to stop you, and draws you into battle.
+Rival Battle 3
+Silver
+has added another new Pokémon to his team since the previous battle.
+Magnemite
+takes serious damage from
+Fire
+-,
+Ground
+-, and
+Fighting-type
+attacks. For Trainers who chose
+Cyndaquil
+, or traded for the
+Machop
+in
+Goldenrod City
+, it will likely be little threat. His
+Gastly
+has since evolved into
+Haunter
+, but is still vulnerable to the same
+Ghost
+-,
+Psychic
+-, and
+Dark-type
+moves. Use
+Rock
+- and
+Electric-type
+moves against his
+Zubat
+for greatest effect. The Pokémon that he took from
+Elm
+'s lab has grown a few levels but otherwise has not changed since the previous battle.
+If the player chose
+Chikorita
+:
+Silver
+Burned Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1320
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+20
+Lick
+Ghost
+--
+Spite
+Ghost
+--
+Mean Look
+Normal
+--
+Curse
+???
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Zubat
+♂
+Lv.
+20
+Leech Life
+Bug
+--
+Supersonic
+Normal
+--
+Bite
+Dark
+--
+Confuse Ray
+Ghost
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+18
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Supersonic
+Normal
+--
+SonicBoom
+Normal
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Quilava
+♂
+Lv.
+22
+Ember
+Fire
+--
+Leer
+Normal
+--
+Quick Attack
+Normal
+--
+SmokeScreen
+Normal
+--
+If the player chose
+Cyndaquil
+:
+Silver
+Burned Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1320
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+20
+Lick
+Ghost
+--
+Spite
+Ghost
+--
+Mean Look
+Normal
+--
+Curse
+???
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Zubat
+♂
+Lv.
+20
+Leech Life
+Bug
+--
+Supersonic
+Normal
+--
+Bite
+Dark
+--
+Confuse Ray
+Ghost
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+18
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Supersonic
+Normal
+--
+SonicBoom
+Normal
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Croconaw
+♂
+Lv.
+22
+Water Gun
+Water
+--
+Leer
+Normal
+--
+Bite
+Dark
+--
+Rage
+Normal
+--
+If the player chose
+Totodile
+:
+Silver
+Burned Tower
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+1320
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+20
+Lick
+Ghost
+--
+Spite
+Ghost
+--
+Mean Look
+Normal
+--
+Curse
+???
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Zubat
+♂
+Lv.
+20
+Leech Life
+Bug
+--
+Supersonic
+Normal
+--
+Bite
+Dark
+--
+Confuse Ray
+Ghost
+--
+Types:
+Electric
+Steel
+Held item:
+None
+Magnemite
+Lv.
+18
+Tackle
+Normal
+--
+ThunderShock
+Electric
+--
+Supersonic
+Normal
+--
+SonicBoom
+Normal
+--
+Type:
+Grass
+Unknown
+Held item:
+None
+Bayleef
+♂
+Lv.
+22
+Razor Leaf
+Grass
+--
+Growl
+Normal
+--
+PoisonPowder
+Poison
+--
+Reflect
+Psychic
+--
+Afterward, Silver shrugs off his loss as he moves to leave the tower, declaring that you would never be able to catch a legendary Pokémon anyway.
+Clear a Path
+As the ruined tower is littered with fallen debris,
+Rock Smash
+is required to fully explore the area. Using it on the broken rock to the east clears the way to Firebreather Ned and a
+Burn Heal
+, and jumping down through the hole in the floor leads to an
+HP Up
+. Use the move again to pass through the western side of the tower and reach the center area, then drop down through the hole in the floor.
+B1F
+On the lower level, you find yourself standing before
+three mysterious Pokémon
+. They do not react until approached, when they suddenly dash off in different directions and begin
+racing across the land
+. They can be encountered almost anywhere but flee from humans immediately. After seeing them in battle, the Pokédex tracks their movements.
+Tin Tower
+The
+Tin Tower
+stands tall in the northeast part of the city. It is a sacred place, and is off-limits to all but a few people. Ecruteak's Fog Badge gets you inside, but no higher than the first floor. A
+special item
+is required to reach the rest of the tower.
+Ecruteak Gym
+Ecruteak Gym
+Ecruteak City Pokémon Gym
+Leader: Morty
+The Mystic Seer of the Future
+The
+Ecruteak Gym
+specializes in
+Ghost-type
+Pokémon. Ghost-type moves are super effective against Ghost- and
+Psychic-type
+Pokémon, while Ghost-type Pokémon are weak to Ghost- and
+Dark-type
+moves.
+Normal
+- and
+Fighting-type
+moves will have no effect.
+The Gym features what appears to be a bottomless pit, with an invisible bridge crossing over it. Challengers who step in the wrong place are returned to the entrance. The Gym Trainers are positioned along this hidden walkway, giving the impression that they are floating in the air. The path to the
+Gym Leader
+mostly follows each Gym Trainer's line of sight.
+Morty
+'s Pokémon tend to use indirect attacks to harass their target.
+Spite
+and
+Curse
+drain the target's energy, while
+Lick
+and
+Hypnosis
+can inflict status ailments. Most of his Pokémon can even use
+Mean Look
+to prevent escape.
+Ghost-type
+Pokémon are vulnerable to Ghost- and
+Dark-type
+moves, but
+Psychic
+- and
+Ground-type
+attacks are an equally effective way to target their secondary
+Poison
+typing, instead.
+Ecruteak Gym
+Trainers
+Trainer
+Pokémon
+Sage
+Ping
+Reward:
+$
+512
+Gastly
+♂
+Lv.
+16
+No item
+Gastly
+♂
+Lv.
+16
+No item
+Gastly
+♂
+Lv.
+16
+No item
+Gastly
+♂
+Lv.
+16
+No item
+Gastly
+♂
+Lv.
+16
+No item
+Medium
+Grace
+Reward:
+$
+800
+Haunter
+♀
+Lv.
+20
+No item
+Haunter
+♀
+Lv.
+20
+No item
+Sage
+Jeffrey
+Reward:
+$
+704
+Haunter
+♂
+Lv.
+22
+No item
+Medium
+Martha
+Reward:
+$
+800
+Gastly
+♀
+Lv.
+18
+No item
+Haunter
+♀
+Lv.
+20
+No item
+Gastly
+♀
+Lv.
+20
+No item
+Leader
+Morty
+Ecruteak Gym
+Gold and Silver
+Reward:
+$
+2300
+Types:
+Ghost
+Poison
+Held item:
+None
+Gastly
+♂
+Lv.
+21
+Lick
+Ghost
+--
+Spite
+Ghost
+--
+Mean Look
+Normal
+--
+Curse
+???
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+21
+Hypnosis
+Psychic
+--
+Curse
+???
+--
+Mimic
+Normal
+--
+Night Shade
+Ghost
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Gengar
+♂
+Lv.
+25
+Shadow Ball
+Ghost
+--
+Mean Look
+Normal
+--
+Hypnosis
+Psychic
+--
+Dream Eater
+Psychic
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Haunter
+♂
+Lv.
+23
+Spite
+Ghost
+--
+Mean Look
+Normal
+--
+Mimic
+Normal
+--
+Night Shade
+Ghost
+--
+After the battle,
+Morty
+awards you the
+Fog Badge
+, which ensures obedience of all Pokémon up to level 50 and enables the use of
+Surf
+in the field. He also gives you
+TM30
+(
+Shadow Ball
+) as a prize.
+Route 38
+Route 38
+Route 38
+leads west from
+Ecruteak City
+, weaving through the trees on its way toward
+Route 39
+.
+Trainers
+Trainer
+Pokémon
+Sailor
+Harry
+Reward:
+$
+760
+Wooper
+♂
+Lv.
+19
+No item
+Lass
+Dana
+Reward:
+$
+432
+Flaaffy
+♀
+Lv.
+18
+No item
+Psyduck
+♀
+Lv.
+18
+No item
+Beauty
+Valerie
+Reward:
+$
+1496
+Hoppip
+♀
+Lv.
+17
+No item
+Skiploom
+♀
+Lv.
+17
+No item
+Bird Keeper
+Toby
+Reward:
+$
+408
+Doduo
+♂
+Lv.
+15
+No item
+Doduo
+♂
+Lv.
+16
+No item
+Doduo
+♂
+Lv.
+17
+No item
+Schoolboy
+Chad
+Reward:
+$
+608
+Mr. Mime
+♂
+Lv.
+19
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+16
+30%
+30%
+40%
+Raticate
+G
+S
+C
+Grass
+16
+30%
+Meowth
+G
+S
+C
+Grass
+16
+30%
+30%
+40%
+Magnemite
+G
+S
+C
+Grass
+16
+20%
+Farfetch'd
+G
+S
+C
+Grass
+16
+10%
+10%
+0%
+Tauros
+G
+S
+C
+Grass
+13
+4%
+Snubbull
+G
+S
+C
+Grass
+13
+1%
+Miltank
+G
+S
+C
+Grass
+13
+5%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+During a Snubbull swarm
+Rattata
+G
+S
+C
+Swarm
+16
+0%
+0%
+10%
+Raticate
+G
+S
+C
+Swarm
+16
+30%
+Meowth
+G
+S
+C
+Swarm
+16
+30%
+30%
+40%
+Magnemite
+G
+S
+C
+Swarm
+16
+20%
+Farfetch'd
+G
+S
+C
+Swarm
+16
+10%
+10%
+0%
+Tauros
+G
+S
+C
+Swarm
+13
+5%
+Snubbull
+G
+S
+C
+Swarm
+16
+30%
+Miltank
+G
+S
+C
+Swarm
+13
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Berry
+West of the fenced section on the lower middle path, on the tree (daily)
+G
+S
+Searching for Snubbull
+After defeating Schoolboy Chad, be sure to trade phone numbers with him. He will call occasionally to alert you about a
+swarm
+of a certain Pokémon species.
+Snubbull
+are usually difficult to find, but will be more likely to appear along
+Route 38
+for a short time. The swarm only lasts until midnight, so be quick!
+Route 39
+Route 39
+The peaceful plains of
+Route 39
+lead downhill from
+Route 38
+to
+Olivine City
+. The
+Moomoo Farm
+is located in the northwest.
+Trainers
+Trainer
+Pokémon
+Psychic
+Norman
+Reward:
+$
+640
+Slowpoke
+♂
+Lv.
+17
+No item
+Slowpoke
+♂
+Lv.
+20
+No item
+Pokéfan
+Derek
+Reward:
+$
+1360
+Pikachu
+♂
+Lv.
+17
+Berry
+Pokéfan
+Ruth
+Reward:
+$
+1360
+Pikachu
+♀
+Lv.
+17
+Berry
+Sailor
+Eugene
+Reward:
+$
+760
+Poliwhirl
+♂
+Lv.
+17
+No item
+Krabby
+♂
+Lv.
+19
+No item
+Raticate
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+16
+30%
+30%
+40%
+Raticate
+G
+S
+C
+Grass
+17
+30%
+Meowth
+G
+S
+C
+Grass
+16
+30%
+30%
+40%
+Magnemite
+G
+S
+C
+Grass
+16
+20%
+Farfetch'd
+G
+S
+C
+Grass
+16
+10%
+10%
+0%
+Tauros
+G
+S
+C
+Grass
+15
+5%
+Miltank
+G
+S
+C
+Grass
+15
+5%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mint Berry
+East of the farmhouse, on the tree (daily)
+G
+S
+TM13
+(
+Snore
+)
+In the farmhouse; from the farmer, after healing Miltank
+G
+S
+Moomoo Milk
+May be purchased from the farmer for
+$
+500 per bottle, after healing Miltank
+G
+S
+Nugget
+Between the four Miltank in the pasture (hidden)
+G
+S
+Moomoo Farm
+The
+Moomoo Farm
+depends on its herd of
+Miltank
+to produce its milk, which is popular with people and Pokémon as far away as
+Kanto
+. Speak to the farmer in the farmhouse to learn that one of their Miltank has fallen ill, and will need
+Berries
+to recover. Visit the barn to find the farmer's daughters tending to the sickly Miltank, Moomoo. In order to fully recover, she must be fed a total of seven Berries. Once her condition returns to normal, speak to the farmer again to receive
+TM13
+(
+Snore
+) as a reward. Afterward,
+Moomoo Milk
+can be purchased from the farmer for
+$
+500 per bottle.
+← Part 7
+Route 35, National Park, Route 36, Route 37
+Gold and Silver
+walkthrough
+Olivine City, Route 40, Route 41
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

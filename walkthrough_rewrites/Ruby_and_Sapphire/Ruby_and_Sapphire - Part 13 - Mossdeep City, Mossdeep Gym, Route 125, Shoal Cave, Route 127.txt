@@ -1,0 +1,42 @@
+Game: Ruby_and_Sapphire
+Part: 13
+Keywords: Mossdeep City, Mossdeep Gym, Route 125, Shoal Cave, Route 127
+
+### Pokémon Ruby and Sapphire Walkthrough - Part 13
+
+**Mossdeep City**  
+- **Location:** Hoenn's eastern edge, home to the Mossdeep Space Center and the 7th Gym.  
+- **Steven's House:** Located northwest; receive **HM08 (Dive)** from Steven.  
+- **Items:**  
+  - **Net Ball:** Southeast corner.  
+  - **King's Rock:** From a boy in front of Steven's house.  
+  - **Super Rod:** From the Fisherman by the Gym.  
+  - **Sun Stone:** From a Sailor inside the Space Center.  
+  - **TM04 (Calm Mind):** Reward for defeating Tate and Liza.
+
+**Mossdeep Gym**  
+- **Leaders:** Liza & Tate (Psychic-type).  
+- **Strategy:** Use Bug, Dark, or Ghost moves; avoid Fighting and Poison types.  
+- **Gym Puzzle:** Navigate through arrow tiles and switches to reach the leaders.  
+- **Battle:** Use **Surf** to damage both Lunatone and Solrock simultaneously; focus on one if preferred.  
+- **Reward:** Mind Badge (boosts Special Attack and Special Defense) and TM04 (Calm Mind).
+
+**Route 125**  
+- **Location:** North of Mossdeep City; features Shoal Cave.  
+- **Trainers:** Include Swimmers, Sailors, and Psychics; register them with PokéNav for rematches.  
+
+**Shoal Cave**  
+- **Tide Mechanics:** Explore during high tide (closed areas) and low tide (new areas).  
+- **Key Items:**  
+  - **Shell Bell:** Craft from an old man after collecting 4 Shoal Shells and Shoal Salts.  
+  - **Rare Candy:** Found in Second Cavern (high tide).  
+  - **Focus Band:** From a Black Belt in the Third Cavern.  
+  - **TM07 (Hail):** Located in the Ice Cavern.
+
+**Route 127**  
+- **Connection:** Links Mossdeep City to Route 126 and Route 128.  
+- **Trainers:** Various Bird Keepers, Fishermen, and Triathletes to battle for rewards.  
+- **Items:** Hidden items like **Zinc**, **Carbos**, and **Star Pieces** can be found by diving and exploring.
+
+### Summary
+Complete Mossdeep Gym for the Mind Badge, navigate Route 125 and Shoal Cave based on the tides, and progress through Route 127 while battling trainers and collecting items.

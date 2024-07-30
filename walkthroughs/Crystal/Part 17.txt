@@ -1,0 +1,474 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_17
+Keywords: Route 6, Saffron City, Saffron Gym
+
+Walkthrough Text:
+Contents
+1
+Route 6
+2
+Saffron City
+2.1
+Mr. Psychic
+2.2
+Silph Co.
+2.3
+Magnet Train Station
+2.4
+Fighting Dojo
+2.5
+Saffron Gym
+Route 6
+Route 6
+Route 6
+consists of a road running between
+Vermilion City
+and
+Saffron City
+. The southern end of the
+Underground Path
+is located here, but according to a man standing nearby, is closed until some problem at the
+Kanto Power Plant
+is resolved.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Rex
+Reward:
+$
+2800
+Phanpy
+♂
+Lv.
+35
+Berry
+Pokéfan
+Allan
+Reward:
+$
+2800
+Teddiursa
+♂
+Lv.
+35
+Berry
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+13
+30%
+30%
+0%
+Raticate
+G
+S
+C
+Grass
+15
+10%
+10%
+5%
+Jigglypuff
+G
+S
+C
+Grass
+12
+5%
+Meowth
+G
+S
+C
+Grass
+13
+0%
+0%
+30%
+Psyduck
+G
+S
+C
+Grass
+15
+0%
+0%
+10%
+Magnemite
+G
+S
+C
+Grass
+14
+20%
+Drowzee
+G
+S
+C
+Grass
+13
+0%
+0%
+30%
+Snubbull
+G
+S
+C
+Grass
+13
+30%
+30%
+0%
+Granbull
+G
+S
+C
+Grass
+15
+5%
+5%
+0%
+Surfing
+Psyduck
+G
+S
+C
+Surfing
+5-14
+90%
+Golduck
+G
+S
+C
+Surfing
+10-14
+10%
+Fishing
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Saffron City
+Saffron City
+Saffron City
+is a sprawling metropolis located in the heart of the region between
+Cerulean City
+,
+Celadon City
+,
+Lavender Town
+, and
+Vermilion City
+. The
+Silph Co.
+headquarters dominates the city skyline, two Pokémon Gyms stand in the northeast district, and the
+Magnet Train
+station is located in the northwest. It is the most populous city in all of
+Kanto
+.
+Items
+Item
+Location
+Games
+TM29
+(
+Psychic
+)
+Southeast house; from Mr. Psychic in his home
+C
+Up-Grade
+Silph Co.; from the security guard on 1F
+C
+Focus Band
+Inside the Fighting Dojo
+C
+Later visit
+Pass
+Northwest house; from
+Copycat
+, after returning her
+lost Poké Doll
+C
+Mr. Psychic
+The southeast house belongs to a man known as Mr. Psychic. Speak to him, and after a moment of meditation, he hands out
+TM29
+(
+Psychic
+).
+Silph Co.
+Silph Co.
+is open to the public, but ever since it was attacked by
+Team Rocket
+several years ago
+, visitors are restricted to the first floor. A security guard blocks the stairs but gives out an
+Up-Grade
+, one of the company's newest products that has not yet been released, as a souvenir.
+Magnet Train Station
+The
+Magnet Train
+station is located in the northwest part of the city. The train uses electricity and magnets to attain incredible speed, but is not running at the moment because of some problem at the
+Kanto Power Plant
+.
+Fighting Dojo
+Saffron City
+is unique as the only city to have two Pokémon Gyms. The
+Fighting Dojo
+is located in the northeast neighborhood, next door to the
+Saffron Gym
+. The two clubs had once competed to determine which would become the city's one official Gym, and the
+Psychic
+Pokémon of Saffron Gym were victorious. A Black Belt informs visitors that the dojo's leader,
+the Karate Master
+, is in
+a cave
+in
+Johto
+for training. A
+Focus Band
+can be found near the rear wall.
+Saffron Gym
+Saffron Gym
+Saffron City Pokémon Gym
+Leader: Sabrina
+The Master of Psychic Pokémon
+The
+Saffron Gym
+specializes in
+Psychic-type
+Pokémon. Psychic-type moves are super effective against
+Fighting
+- and
+Poison-type
+Pokémon, while Psychic-type Pokémon are weak to
+Bug
+-,
+Dark
+-, and
+Ghost-type
+moves.
+The Gym uses
+a series of warp tiles
+to confuse and disorient any challengers. Step on the tile near the entrance to reach the southeast room. To reach the Gym Leader by using as few warps as possible, continue by stepping on the northwest, southwest, and southwest tiles in the following rooms. This leads to the center room, where
+Sabrina
+awaits anyone up to the challenge.
+Although
+Sabrina
+has only three Pokémon, they can become difficult to defeat if given the chance. She leads with her
+Espeon
+; its
+Sand-Attack
+move cuts the target's
+Accuracy
+, while
+Mr. Mime
+and
+Alakazam
+can use
+Reflect
+to raise her team's physical
+Defense
+, a common vulnerability for Psychic Pokémon. All three can use the move
+Psychic
+, a strong attack that may also lower the target's
+Special Defense
+, letting it deal even more damage on the next hit. It is especially dangerous when used by Espeon and Alakazam, due to their high
+Special Attack
+ratings.
+Saffron Gym
+Trainers
+Trainer
+Pokémon
+Southeast room
+Medium
+Rebecca
+Reward:
+$
+1400
+Drowzee
+♀
+Lv.
+35
+No item
+Hypno
+♀
+Lv.
+35
+No item
+Northeast room
+Psychic
+Jared
+Reward:
+$
+1120
+Mr. Mime
+♂
+Lv.
+32
+No item
+Exeggcute
+♂
+Lv.
+32
+No item
+Exeggcute
+♂
+Lv.
+35
+No item
+Northwest room
+Medium
+Doris
+Reward:
+$
+1440
+Slowpoke
+♀
+Lv.
+34
+No item
+Slowbro
+♀
+Lv.
+36
+No item
+Southwest room
+Psychic
+Franklin
+Reward:
+$
+1184
+Kadabra
+♂
+Lv.
+37
+No item
+Leader
+Sabrina
+Saffron Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4800
+Type:
+Psychic
+Unknown
+Held item:
+None
+Espeon
+♂
+Lv.
+46
+Sand-Attack
+Ground
+--
+Quick Attack
+Normal
+--
+Swift
+Normal
+--
+Psychic
+Psychic
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Mr. Mime
+♀
+Lv.
+46
+Barrier
+Psychic
+--
+Reflect
+Psychic
+--
+Baton Pass
+Normal
+--
+Psychic
+Psychic
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Alakazam
+♂
+Lv.
+48
+Recover
+Normal
+--
+Future Sight
+Psychic
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+After the battle,
+Sabrina
+awards you the
+Marsh Badge
+. To reach the exit by using as few warps as possible, step on the tile in Sabrina's chamber, then continue by stepping on the northwest, northeast, and southeast tiles in the following rooms.
+← Part 16
+S.S. Aqua, Vermilion City
+Crystal
+walkthrough
+Route 8, Lavender Town, Route 10, Rock Tunnel, Kanto Power Plant
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

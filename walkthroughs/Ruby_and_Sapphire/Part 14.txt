@@ -1,0 +1,876 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_14
+Keywords: Route 128, Seafloor Cavern
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 128
+1.1
+Seafloor Cavern
+1.1.1
+Entrance
+1.1.2
+Room 1
+1.1.3
+Room 2
+1.1.4
+Room 3
+1.1.5
+Room 4
+1.1.5.1
+Via Room 1
+1.1.5.2
+Via Room 3
+1.1.6
+Room 5
+1.1.7
+Room 6
+1.1.8
+Room 7
+1.1.8.1
+VS Courtney
+R
+1.1.8.2
+VS Shelly
+S
+1.1.9
+Room 8
+1.1.10
+Deepest Room
+1.1.10.1
+VS Maxie
+R
+1.1.10.2
+VS Archie
+S
+2
+Route 128
+Route 128
+Route 128
+Route 128, Underwater
+Route 128
+is situated between
+Route 127
+to the north,
+Route 129
+to the south, and
+Ever Grande City
+to the east.
+Captain Stern
+mentioned that he'd found an underwater cave here while exploring in his
+submarine
+.
+Team Magma
+R
+/
+Team Aqua
+S
+has now breached that same cavern with their stolen sub.
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Ruben
+Reward:
+$
+1632
+Shiftry
+♂
+Lv.
+34
+No item
+Graveler
+♂
+Lv.
+34
+No item
+Loudred
+♂
+Lv.
+34
+No item
+Cooltrainer
+Alexa
+Reward:
+$
+1680
+Gloom
+♀
+Lv.
+35
+No item
+Azumarill
+♀
+Lv.
+35
+No item
+Fisherman
+Wayne
+Reward:
+$
+1280
+Tentacool
+♂
+Lv.
+30
+No item
+Tentacool
+♂
+Lv.
+30
+No item
+Wailmer
+♂
+Lv.
+35
+No item
+Tentacruel
+♂
+Lv.
+32
+No item
+Triathlete
+Isaiah
+Reward:
+$
+1440
+Staryu
+Lv.
+36
+No item
+Triathlete
+Katelyn
+Reward:
+$
+1440
+Staryu
+Lv.
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Luvdisc
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Luvdisc
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Corsola
+R
+S
+E
+Fishing
+Super Rod
+30-35
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×3
+In the north-central sandbar, near Cooltrainer Alexa (hidden)
+On the sandbar to the east of the sand ring (hidden)
+On the south side of the southwest sandbar (hidden)
+R
+S
+Underwater
+Protein
+Main area, on a small rock in the middle of the rocky ring (hidden)
+R
+S
+Pearl
+Eastern area, on a small rock (hidden)
+R
+S
+Seafloor Cavern
+The long-forgotten
+Seafloor Cavern
+can only be reached from an underwater cave in the depths of
+Route 128
+.
+Maxie
+R
+/
+Archie
+S
+has gone to great lengths to breach the seal that has protected this place for ages, in the hope of awakening the super-ancient Pokémon rumored to dwell here. He believes this Pokémon has the power to bring about the great future he desires, but the risks seem far too great.
+Trainers
+Ruby
+Trainer
+Pokémon
+Team Magma Grunt
+Reward:
+$
+740
+Poochyena
+♂
+Lv.
+37
+No item
+Numel
+♂
+Lv.
+37
+No item
+Team Magma Grunt
+Reward:
+$
+760
+Numel
+♂
+Lv.
+38
+No item
+Team Magma Grunt
+Reward:
+$
+720
+Poochyena
+♂
+Lv.
+36
+No item
+Zubat
+♂
+Lv.
+36
+No item
+Numel
+♂
+Lv.
+36
+No item
+Sapphire
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+740
+Poochyena
+♂
+Lv.
+37
+No item
+Carvanha
+♂
+Lv.
+37
+No item
+Team Aqua Grunt
+Reward:
+$
+760
+Carvanha
+♂
+Lv.
+38
+No item
+Team Aqua Grunt
+Reward:
+$
+720
+Poochyena
+♂
+Lv.
+36
+No item
+Zubat
+♂
+Lv.
+36
+No item
+Carvanha
+♂
+Lv.
+36
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+S
+E
+Cave
+28-35
+90%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Zubat
+R
+S
+E
+Surfing
+5-35
+35%
+Golbat
+R
+S
+E
+Surfing
+30-35
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+20-45
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM26
+(
+Earthquake
+)
+Deepest Room, east of the doorway
+R
+S
+Entrance
+Seafloor Cavern, Entrance
+When you first enter the cavern, you find
+Captain Stern
+'s sub moored beneath the waves. Rise to the surface and take the north doorway to the next room.
+Room 1
+Seafloor Cavern, Room 1
+This room features two boulders that hinder travel. Go northwest and clear the way with
+Rock Smash
+, then use
+Strength
+to move the first boulder southward. Head east and move the second boulder eastward. At this point, there are two paths forward. The northwest doorway leads directly to the southeast part of Room 4. The southeast doorway leads through Rooms 2 and 3 to the southwest part of Room 4.
+Room 2
+Seafloor Cavern, Room 2
+Head south to a fork in the road. The eastern path has a cracked rock that can't be removed from this direction, so head through the doorway to the southwest instead.
+Room 3
+Seafloor Cavern, Room 3
+The doorway to the south merely leads back to the entrance. Instead, go through the northeast doorway.
+Room 4
+Seafloor Cavern, Room 4
+Via Room 1
+Move the southeast boulder northward, then do the same to the eastern-most boulder. Push the east-central boulder westward and clear the cracked rock. Move the northeast boulder northward and clear the second cracked rock to the west. Push the northwest boulder westward and walk through the northwest doorway to Room 5.
+Via Room 3
+Move the southwest boulder northward and the west-central boulder eastward. Push the northwest boulder northward and clear the cracked rock. Move the northeast boulder eastward and walk through the northeast doorway to Room 6.
+Room 5
+Seafloor Cavern, Room 5
+This room has many strong water currents.
+Surf
+out into the water and ride the currents to a calm spot a short distance to the northeast. Sail east to ride the current to a patch of calm water to the northeast. Go east again to follow the current around the rock outcropping to the west side of the room. Surf westward and take the current to the northwest doorway.
+Room 6
+Seafloor Cavern, Room 6
+This room has many strong water currents. Surf eastward along the south wall to the second current, which leads a short distance northward. Go north from here to reach the west side of the room. Sail north once more to follow the current back and forth on the room's north side. Climb onto shore and go through the northwest doorway.
+Room 7
+Seafloor Cavern, Room 7
+This room has nine boulders that initially block any progress. If entering from the southwest, you'll need to move both southern-most boulders farther apart; if entering from the southeast, you only need to move the southeast boulder eastward. Next, push the middle boulder westward and the north-central boulder northward. After that, move the northeast boulder eastward and head north to run into one of the Admins,
+Courtney
+R
+/
+Shelly
+S
+. She's looking for payback for what happened in the
+Weather Institute
+, and draws you into battle!
+VS Courtney
+R
+Magma Admin
+Courtney
+Seafloor Cavern
+Ruby
+Reward:
+$
+1920
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♀
+Lv.
+38
+Earthquake
+Ground
+--
+Rock Slide
+Rock
+--
+Amnesia
+Psychic
+--
+Take Down
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+38
+Take Down
+Normal
+--
+Scary Face
+Normal
+--
+Roar
+Normal
+--
+Swagger
+Normal
+--
+VS Shelly
+S
+Aqua Admin
+Shelly
+Seafloor Cavern
+Sapphire
+Reward:
+$
+1520
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♀
+Lv.
+38
+Crunch
+Dark
+--
+Screech
+Normal
+--
+Slash
+Normal
+--
+Taunt
+Dark
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+38
+Take Down
+Normal
+--
+Scary Face
+Normal
+--
+Swagger
+Normal
+--
+Roar
+Normal
+--
+Room 8
+Seafloor Cavern, Room 8
+There are a dozen boulders here to block progress. Start off by moving the south-central boulder one step northward and the other two southern-most boulders farther apart. Push the first boulder one step westward, then shove the middle boulder one step northward. Move the boulders on the left and right farther apart, then push both the north-northwest and north-northeast boulders to the north wall. Finally, push the middle boulder to either side to reach the doorway.
+Deepest Room
+Seafloor Cavern, Deepest Room
+R
+Seafloor Cavern, Deepest Room
+S
+Go east to find
+TM26
+(
+Earthquake
+) on the room's highest level before continuing along the downward-sloping corridor. At its end, the villainous team's driven leader,
+Maxie
+R
+/
+Archie
+S
+will run up to you. He has found the resting place of the super-ancient Pokémon, and is ready to awaken the creature with his stolen
+Blue Orb
+R
+/
+Red Orb
+S
+. Being close to success, he drags you into a battle.
+VS Maxie
+R
+Magma Leader
+Maxie
+Seafloor Cavern
+Ruby
+Reward:
+$
+3440
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+41
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+41
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♂
+Lv.
+43
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Rock Slide
+Rock
+--
+Earthquake
+Ground
+--
+VS Archie
+S
+Aqua Leader
+Archie
+Seafloor Cavern
+Sapphire
+Reward:
+$
+3440
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+41
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+41
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+43
+Screech
+Normal
+--
+Slash
+Normal
+--
+Taunt
+Dark
+--
+Swagger
+Normal
+--
+Even upon defeat, Maxie
+R
+/Archie
+S
+still intends to awaken the super-ancient Pokémon. When, he shows the
+Blue Orb
+R
+/
+Red Orb
+S
+however,
+Groudon
+R
+/
+Kyogre
+S
+unexpectedly awakes. It escapes the cavern with a loud cry and emerges at the water's surface. Maxie
+R
+/Archie
+S
+is surprised as he did not do anything. Suddenly, he receives an urgent call from his subordinates outside. The great energy generated by the legendary creature has altered and intensified
+Hoenn
+'s weather as expected, but to dangerous, unforeseen levels. The weather's dramatic shift to harsh sunlight
+R
+/heavy rain
+S
+influences any battles on the region's east side. The intense sunlight boosts all
+Fire
+moves and weakens all
+Water
+moves. The massive downpours boost all Water moves and weaken all Fire moves. Archie
+R
+/Maxie
+S
+and a pair of his Grunts enter a moment later. He condemns the villainous team's actions and tries to reason with its leader, who seems unwilling to believe that his plans are falling apart.
+Route 128
+The group returns to the surface, where they witness the extreme weather firsthand. The power of the super-ancient Pokémon has surpassed expectations, forcing Maxie
+R
+/Archie
+S
+to grudgingly agree to work with his rival to set things right. Once the others leave,
+Steven
+swoops down to assess the situation. He informs you that the oppressive weather seems to originate in
+Sootopolis City
+to the northwest. He's headed there to investigate, and suggests you do the same.
+← Part 13
+Mossdeep City, Route 125, Shoal Cave, Route 127
+Ruby and Sapphire
+walkthrough
+Route 126, Sootopolis City, Cave of Origin
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

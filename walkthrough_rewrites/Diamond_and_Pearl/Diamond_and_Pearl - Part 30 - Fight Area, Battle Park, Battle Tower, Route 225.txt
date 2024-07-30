@@ -1,0 +1,52 @@
+Game: Diamond_and_Pearl
+Part: 30
+Keywords: Fight Area, Battle Park, Battle Tower, Route 225
+
+**Part 30 Walkthrough Summary: Fight Area, Battle Park, Battle Tower, Route 225**
+
+**Fight Area**
+- Arrive via ferry from Snowpoint City. Your rival, Barry, challenges you to become the greatest Trainer. He heads to Stark Mountain for treasure.
+- Obtain the **Scope Lens** from the Poké Mart.
+- Trainers block routes until you have the National Pokédex and explore the Battle Tower.
+
+**Items:**
+- **Super Rod**: From a Fisherman at Route 225 gate.
+- **Scope Lens**: From a lady in the Poké Mart.
+- **Berries**: Pomeg and Hondew Berries in the berry patch west of the Pokémon Center.
+
+**Battle Park**
+- Enter to receive a **Point Card**. For Battle Tower details, ask the attendants.
+- **Exchange Service Corner** allows BP exchanges for TMs, items, and candies.
+
+**Battle Tower Mechanics:**
+- No EXP gained; all Pokémon above Level 50 are reset to Level 50. 
+- Participate in consecutive battles (7 at a time). Win to earn BP; lose resets your streak.
+- No legendary or duplicate Pokémon/items allowed.
+
+**Attendants:**
+- **Left Attendant**: Multi Battles with friends or NPCs.
+- **Center Attendant**: Single (3 Pokémon) or Double (4 Pokémon) battles.
+  - **21st Battle**: Fight **Palmer** (20 BP reward).
+  - **49th Battle**: Fight **Palmer** (20 BP reward).
+- **Right Attendant**: Online battles if connected to Wi-Fi.
+
+**Exchange Service Corner Items:**
+- BP items include vitamins (1 BP each), Rare Candy (48 BP), Choice items (48 BP), and TMs (32-80 BP).
+
+**Route 225**
+- Heal your Pokémon and bring ones with **Cut**, **Surf**, and **Rock Climb**. Use **Amulet Coin** or **Luck Incense** for extra cash after battles.
+
+**Items on Route 225:**
+- **HP Up**: Southwest corner (Rock Climb).
+- **Ultra Balls**: Various hidden locations.
+- **Rare Candies**: Two spots (one requires Cut).
+- **Dawn Stone**: Northern end (Rock Climb).
+
+**Notable Trainers:**
+- Fight trainers like Bird Keeper Audrey, Pokémon Ranger Ashlee, and Ace Trainers for rewards.
+
+**Next Steps:**
+- Explore the northern half of Route 225, navigating bridges. After challenging all trainers and collecting items, exit to reach the **Survival Area**. 
+
+**Follow Up:**
+- Continue to **Part 31** for the Survival Area and routes beyond.

@@ -1,0 +1,1181 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_3
+Keywords: Lumiose City (South), Route 5, Camphrier Town
+
+Walkthrough Text:
+Contents
+1
+Lumiose City
+1.1
+South Boulevard
+1.1.1
+Pokémon Center
+1.1.2
+Sycamore Pokémon Lab
+1.1.3
+PR Video Studio
+1.1.4
+Coiffure Clips
+1.1.5
+Café Soleil
+1.1.6
+Shutterbug Café
+1.1.7
+Office Buildings
+1.1.8
+Café Introversion
+1.1.9
+Restaurant Le Nah
+1.2
+Vernal Avenue
+1.2.1
+Stone Emporium
+1.2.2
+Herboriste
+1.2.3
+Friseur Furfrou
+1.2.4
+Café Woof
+1.2.5
+Café Classe
+1.2.6
+Boutique Couture
+1.3
+Gate to Route 5
+2
+Route 5
+2.1
+Meet Korrina
+2.2
+Tierno and Trevor
+2.3
+Berry Tree
+2.4
+Traffic Cones and a TM
+3
+Camphrier Town
+3.1
+Meet Cassius
+3.2
+Name Rater
+3.3
+Hotel Camphrier
+3.4
+Tasty Treats
+3.5
+Shabboneau Castle
+Lumiose City
+Lumiose City
+Lumiose City
+is a dazzling metropolis of art and artifice, and the most famous city in the region. Massive buildings and winding streets await at every turn, but an odd blackout restricts visitors to the city's south side for now.
+Trainers
+Trainer
+Pokémon
+Restaurant Le Nah
+Chef
+Roger
+Reward:
+$
+640
+Pansage
+♂
+Lv.
+10
+No item
+Pansear
+♂
+Lv.
+10
+No item
+Chef
+Roger
+Reward:
+$
+640
+Panpour
+♂
+Lv.
+10
+No item
+Pansear
+♂
+Lv.
+10
+No item
+Chef
+Roger
+Reward:
+$
+640
+Pansage
+♂
+Lv.
+10
+No item
+Panpour
+♂
+Lv.
+10
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sycamore Lab
+Bulbasaur
+X
+Y
+Gift
+10
+One
+Charmander
+X
+Y
+Gift
+10
+One
+Squirtle
+X
+Y
+Gift
+10
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Lens Case
+PR Video Studio, from the Punk Girl in the back
+X
+Y
+Quick Claw
+Building opposite Shutterbug Café, from a girl in the lobby
+X
+Y
+Timer Ball
+×3
+Building opposite Shutterbug Café, from a man on 2F
+X
+Y
+Quick Ball
+×3
+Building opposite Shutterbug Café, from a man on 2F
+X
+Y
+Tiny Mushroom
+×15
+Restaurant Le Nah
+X
+Y
+Sycamore Lab
+Luxury Ball
+×5
+2F, from a female Scientist
+X
+Y
+Poké Radar
+2F, from a Scientist after becoming the Champion
+X
+Y
+Venusaurite
+3F, from Professor Sycamore if
+Bulbasaur
+is chosen
+X
+Y
+Charizardite X
+3F, from Professor Sycamore if
+Charmander
+is chosen
+X
+Charizardite Y
+3F, from Professor Sycamore if
+Charmander
+is chosen
+Y
+Blastoisinite
+3F, from Professor Sycamore if
+Squirtle
+is chosen
+X
+Y
+TM54
+(
+False Swipe
+)
+3F, from a female Scientist after seeing at least 30 different species
+X
+Y
+Shutterbug Café
+Wide Lens
+From the Backpacker, after taking 1-14 photos
+X
+Y
+Scope Lens
+From the Backpacker, after taking 15-29 photos
+X
+Y
+Zoom Lens
+From the Backpacker after taking 30+ photos
+X
+Y
+South Boulevard
+Before long, Sina and Dexio reappear. She leads the way to
+Professor Sycamore
+'s lab, a smaller building off to the west. Before entering the building, be sure to visit the Pokémon Center across the street for a quick rest.
+Pokémon Center
+Speak to the PokéMilage representative to trade
+Poké Miles
+for items. The number of collected Poké Miles can be viewed on the Trainer Card, and are earned by trading Pokémon, passing by other players via StreetPass, and simply traveling around the region. They can also be redeemed on the
+Pokémon Global Link
+.
+Item
+Worth
+Item
+Worth
+Berry Juice
+10
+Moomoo Milk
+20
+Full Heal
+30
+Max Repel
+35
+Hyper Potion
+60
+Ultra Ball
+60
+Ether
+120
+Max Potion
+125
+Full Restore
+300
+Max Revive
+400
+Rare Candy
+500
+PP Up
+1000
+Sycamore Pokémon Lab
+Inside, Sina reveals that
+Professor Sycamore
+is waiting on the third floor. On the way, speak to a female Scientist on 2F to receive five
+Luxury Balls
+. On 3F, the professor greets you and leads the way to his office, where he evaluates your Pokédex. Shauna and Serena/Calem arrive a moment later, and the professor suggests having a battle—with him! He uses
+three rare Pokémon
+, and while their levels are not very threatening, their diverse types can make coverage a bit more challenging.
+Pokémon Professor
+Sycamore
+Lumiose City
+X and Y
+Reward:
+$
+1400
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Bulbasaur
+♂
+Lv.
+10
+Tackle
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Leech Seed
+Grass
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Charmander
+♂
+Lv.
+10
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Smokescreen
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Squirtle
+♂
+Lv.
+10
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Bubble
+Water
+Special
+--
+Withdraw
+Water
+Status
+--
+Afterwards, he compliments you and asks that you take a second Pokémon from him. Though not necessary, it may be a good idea to choose one of a different type than the Pokémon received in
+Aquacorde
+.
+Bulbasaur
+Charmander
+Squirtle
+Grass
+Poison
+Fire
+Water
+Ivysaur
+Charmeleon
+Wartortle
+Grass
+Poison
+Fire
+Water
+Venusaur
+Charizard
+Blastoise
+Grass
+Poison
+Fire
+Flying
+Water
+After that, Professor Sycamore also hands out the corresponding
+Mega Stone
+;
+Venusaurite
+for
+Bulbasaur
+, either
+Charizardite X
+or
+Charizardite Y
+for
+Charmander
+, and
+Blastoisinite
+for
+Squirtle
+. These mysterious stones cannot be used just yet, but will eventually enable these Pokémon to
+Mega Evolve
+during battle! He gives Shauna and Serena/Calem a chance to choose their Pokémon before Tierno and Trevor arrive. Sycamore gives a quick pep talk about being the best Trainer possible, and asks for help discovering the
+Kalos
+region's biggest mystery: the secret and potential of Mega Evolution. He suggests looking for hints in
+Camphrier Town
+to the southwest. On the way out, talk to the female Scientist on 3F to receive
+TM54
+(
+False Swipe
+), a restrained attack that is useful for catching Pokémon.
+On 1F, Sina is talking to a man with wild red hair, who introduces himself as
+Lysandre
+. He intends to learn about Pokémon in order to build a better future. He talks about the
+Holo Caster
+, and making a more beautiful world. As he leaves, she worriedly wonders what kind of beautiful world he envisions. The others appear from Sycamore's office, and Serena/Calem asks to talk in Café Soleil, off to the west.
+PR Video Studio
+The PR Video Studio is located just west of Sycamore's lab. This facility allows Trainers to film ten-second promotional videos, which can be shared over the
+PSS
+. Speak to the clerk on the left to choose a style—Energetic, Cool, or Fun—before heading to the recording studio. The studio staff will create the first video, but afterwards Trainers may choose to create their own, down to the individual second. There are over 200 options to adjust when filming a video. Becoming more stylish will unlock new background music, poses, special effects, and backgrounds. Other options will also appear after meeting certain conditions, like entering the Hall of Fame or using the PSS frequently. Completed videos can be edited from any PC.
+After filming the first video, speak to the Punk Girl on the set. Impressed with your first video, she hands out a
+Lens Case
+to mark the occasion. The Lens Case holds several pairs of contact lenses, which allows you to change eye color at any fitting room. In the green room, female Trainers can apply a variety of makeup, while male Trainers can opt for facial hair or temporary tattoos.
+Coiffure Clips
+Coiffure Clips is a salon between the Pokémon Center and Café Soleil. Their services allow a Trainer to change hairstyle, hair color, or both. Prices range from
+$
+1500 to
+$
+3000. New hairstyles can be unlocked by becoming more
+stylish
+.
+Café Soleil
+Continue west to find Serena/Calem standing outside Café Soleil. The two head inside, where they find
+Lysandre
+speaking to a costumed woman. Serena/Calem says that Lysandre is the head of
+Lysandre Labs
+, which created the
+Holo Caster
+. Lysandre insists that as a famous movie star,
+Diantha
+should want to stay young and beautiful forever, but she is happy to play many different roles. Given the choice, he would make the world a beautiful, unchanging place. He leaves, and she introduces herself before leaving as well.
+Shutterbug Café
+Shutterbug Café, on the southwest side of town, is the go-to place for aspiring photographers. Having already earned the first badge, it is possible to call Phil the Photo Guy from any of the Photo Spot signs scattered across the region. Phil sets up his camera, then it is up to you to take the perfect shot. Talk to the Backpacker here to earn items based on the number of pictures taken; a
+Wide Lens
+for 1-14 photos, a
+Scope Lens
+for 15-29 photos, and a
+Zoom Lens
+for 30 or more.
+Location (signpost)
+Backdrop
+Location (signpost)
+Backdrop
+Aquacorde Town
+(northeast corner)
+The plaza
+Parfum Palace
+(southeast corner)
+The palace
+Route 7
+(west of
+Battle Chateau
+)
+The river
+Geosenge Town
+(east side)
+Stone formation
+Shalour City
+(on the beach)
+Tower of Mastery
+Azure Bay
+(southernmost sandy island)
+Sea and sky
+Lumiose City
+(Centrico Plaza)
+Prism Tower
+Frost Cavern
+(south of the entrance)
+Cavern entrance
+Anistar City
+(east of the sundial)
+The sundial
+Couriway Town
+(next to Couriway Hotel)
+The smaller waterfalls
+Snowbelle City
+(south of the Gym)
+The city's west side
+Pokémon League
+(east of the Pokémon Center)
+League entrance
+Office Buildings
+The westernmost office building is located to the northwest of Shutterbug Café. Talk to the Roller Skater in the lobby to learn a new trick, the parallel swizzle. Other Roller Skaters in the city have their own tricks to teach, but they cannot be met until later.
+Trick
+Action
+Controls
+Learned in
+Notes
+Spin
+Spin in a circle
+Rotate Circle Pad left or right
+Known from the beginning
+Dash
+Kick off ground to speed up
+Move Circle Pad hard in any direction
+Known from the beginning
+Parallel swizzle
+Swing body left and right
+Press lightly on Circle Pad
+Lumiose City
+Drift-and-dash
+Change direction and double the speed
+Move Circle Pad in opposite direction
+Lumiose City (Vert Plaza)
+Backflip
+Backflip over a ledge
+Jump a ledge while dashing or doing a parallel swizzle
+Lumiose City (North Boulevard)
+Must be learned by speaking to a Roller Skater
+The 360
+Turn in a circle while jumping a ledge
+Jump a ledge while rotating Circle Pad
+Lumiose City (Café Rouleau on Estival Avenue)
+Must be learned by speaking to a Roller Skater
+Cosmic flip
+Spin and flip over a ledge
+Jump a ledge while doing a drift-and-dash
+Lost Hotel
+on
+Route 15
+Requires knowing the Backflip and 360
+A second office building stands across the street from Shutterbug Café. Speak to the girl in the lobby for a
+Quick Claw
+. After that, talk to the two men in the northeast corner of 2F; one hands out three
+Quick Balls
+, while the other hands out three
+Timer Balls
+.
+A third building, the Lumiose Transportation Office, is located near the Route 4 entrance. The woman at the counter details the city's three methods of transportation; the Gogoat Shuttle, an inexpensive and leisurely ride between North and South Boulevards; the Lumi Cab, an expensive but fast ride that leads directly to the destination; and the TMV, a high-speed rail that runs to the far-off
+Kiloude City
+. Unfortunately, all three methods are currently inoperable due to the blackout.
+Café Introversion
+Café Introversion, near the Route 4 entrance, is a quiet place for shy people that still enjoy all kinds of communication features.
+Restaurant Le Nah
+Restaurant Le Nah is a one-star restaurant near the city's Route 4 entrance. Here, patrons can pay
+$
+3000 to engage in
+Double Battles
+against Chef Roger. By defeating him each time in two turns or less, it is possible to win up to 15
+Tiny Mushrooms
+.
+Vernal Avenue
+Vernal Avenue can be explored after meeting Professor Sycamore.
+Stone Emporium
+The Stone Emporium offers several kinds of
+evolution stones
+.
+Fire Stone
+$
+2100
+Leaf Stone
+$
+2100
+Water Stone
+$
+2100
+In addition, an old man near the counter offers to sell the remaining
+Mega Stones
+for the two Pokémon not obtained from
+Professor Sycamore
+. His starting price is
+$
+1,000,000 but this will drop as low as
+$
+10,000 as you become more
+stylish
+.
+Herboriste
+Next door to the Stone Emporium, the Herboriste offers potent herbs as an alternative to traditional medicines like Potions. Although more affordable, their bitter taste can make a Pokémon
+unhappy
+.
+Heal Powder
+$
+450
+EnergyPowder
+$
+500
+Energy Root
+$
+800
+Revival Herb
+$
+2800
+Friseur Furfrou
+Friseur Furfrou is located north of the Herboriste.
+Furfrou
+is a prized Pokémon in
+Kalos
+, and it has become trendy to have them groomed into fantastic styles. Star, Diamond, and Heart styles are available initially, while others are unlocked later. Furfrou can be found on
+Route 5
+. A Furfrou's coat grows back five days later.
+Café Woof
+Café Woof is a favorite hangout spot for
+Furfrou
+admirers.
+Café Classe
+Café Classe is popular with fashion lovers. The girl behind the counter describes the lineups of the specialty boutiques across the region.
+Location
+Clothing
+Santalune City
+Hats, buttons
+Lumiose City
+Upscale shirts, jackets, pants
+Cyllage City
+Sporty, brightly-colored clothes
+Laverre City
+Simple, casual clothes
+Anistar City
+Hottest street fashions
+Snowbelle City
+Basic mix-and-match items, parkas
+Boutique Couture
+Boutique Couture is an upscale shop that only accepts the most
+stylish
+patrons.
+Gate to Route 5
+In the gate to Route 5, you are stopped by a man who introduces himself as
+Mr. Bonding
+. He quickly explains
+O-Powers
+, which can be used via the PSS to cause several useful effects. He enables
+Attack Power
+and
+Defense Power
+, which increase the respective stat for a limited time.
+It is now possible to use the Gogoat Shuttle.
+Route 5
+Route 5
+Route 5
+, or Versant Road, runs southwest of
+Lumiose City
+to
+Camphrier Town
+. The sloping path features a public skate park, and several rails that lead to valuable items.
+Trainers
+Trainer
+Pokémon
+Twins
+Faith & Joy
+Reward:
+$
+352
+Plusle
+♀
+Lv.
+11
+No item
+Minun
+♀
+Lv.
+11
+No item
+Rising Star
+Hamish
+Reward:
+$
+780
+Kadabra
+♂
+Lv.
+13
+No item
+Roller Skater
+Winnie
+Reward:
+$
+352
+Bunnelby
+♀
+Lv.
+9
+No item
+Skiddo
+♀
+Lv.
+11
+No item
+Roller Skater
+Florin
+Reward:
+$
+384
+Doduo
+♂
+Lv.
+12
+No item
+Rising Star
+Tyson
+Reward:
+$
+600
+Bidoof
+♂
+Lv.
+12
+No item
+Oddish
+♂
+Lv.
+10
+No item
+Backpacker
+Heike
+Reward:
+$
+480
+Sentret
+♂
+Lv.
+12
+No item
+Youngster
+Keita
+Reward:
+$
+288
+Pansage
+♂
+Lv.
+12
+No item
+Youngster
+Anthony
+Reward:
+$
+240
+Carvanha
+♂
+Lv.
+10
+No item
+Pancham
+♂
+Lv.
+10
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Abra
+X
+Y
+Grass
+10
+5%
+Doduo
+X
+Y
+Grass
+10
+10%
+Plusle
+X
+Y
+Grass
+9-10
+5%
+Minun
+X
+Y
+Grass
+9-10
+5%
+Gulpin
+X
+Y
+Grass
+10
+10%
+Bunnelby
+X
+Y
+Grass
+8-10
+30%
+Skiddo
+X
+Y
+Grass
+10
+10%
+Pancham
+X
+Y
+Grass
+10
+10%
+Furfrou
+Natural Form
+X
+Y
+Grass
+8-9
+20%
+Purple Flowers
+Abra
+X
+Y
+Purple flowers
+10
+5%
+Doduo
+X
+Y
+Purple flowers
+10
+10%
+Plusle
+X
+Y
+Purple flowers
+9-10
+5%
+Minun
+X
+Y
+Purple flowers
+9-10
+5%
+Gulpin
+X
+Y
+Purple flowers
+10
+10%
+Bunnelby
+X
+Y
+Purple flowers
+10
+10%
+Skiddo
+X
+Y
+Purple flowers
+8-10
+30%
+Pancham
+X
+Y
+Purple flowers
+8-9
+20%
+Furfrou
+Natural Form
+X
+Y
+Purple flowers
+10
+10%
+Horde Encounter
+Plusle
+X
+Y
+Horde Encounter
+6
+5%
+with Minun
+Minun
+X
+Y
+Horde Encounter
+6
+5%
+with Plusle
+Gulpin
+X
+Y
+Horde Encounter
+5
+60%
+Scraggy
+X
+Y
+Horde Encounter
+5
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Paralyze Heal
+In the deepest part of the Skate Park (hidden)
+X
+Y
+Super Potion
+×3
+East of the Skate Park, accessed via grind rail
+On a rock, northwest of Rising Star Hamish (hidden)
+West of the Skate Park, accessed via grind rail
+X
+Y
+Great Ball
+Southeast of Twins Faith & Joy
+X
+Y
+Honey
+×3
+From Trevor, after defeating Tierno
+X
+Y
+Oran Berry
+From the tree on the south side, accessed via grind rail
+X
+Y
+TM01
+(
+Hone Claws
+)
+On a ledge in the northwest, accessed via two grind rails
+X
+Y
+X Attack
+South of Rising Star Tyson
+X
+Y
+Requires
+Cut
+Sharp Beak
+East of Youngster Keita
+X
+Y
+Meet Korrina
+Immediately upon reaching
+Route 5
+, you are approached by a
+Lucario
+. Its Trainer rolls up on her skates a second later with her other Lucario, and suggests that the first may have been drawn in by your aura. She introduces herself as
+Korrina
+, the Gym Leader of
+Shalour City
+, and the three depart.
+Tierno and Trevor
+Tierno
+and
+Trevor
+can be found a short distance to the southwest of the Skate Park. They are having a conversation about Tierno's dancing as you arrive, and Tierno challenges you to a battle.
+Pokémon Trainer
+Tierno
+Route 5
+X and Y
+Reward:
+$
+1200
+Type:
+Water
+Unknown
+Ability:
+Shell Armor
+Held item:
+None
+Corphish
+♂
+Lv.
+12
+Vice Grip
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterwards, Trevor explains
+Horde Encounters
+. These battles occur when five wild Pokémon appear at once. All five are usually of the same species, though sometimes four of one species will be accompanied by an individual of another. These Pokémon appear at a lower level than others in the area, but all five can attack in a single turn. It is impossible to attempt capture until only one remains, but a Pokémon found this way may have its
+Hidden Ability
+. Trevor hands out three jars of
+Honey
+, which can be used to trigger a wild battle, with a decent chance of it being a Horde Encounter.
+Berry Tree
+Climb the hill past Tierno and Trevor, then head south. Ride the rail downhill to reach the first of the region's Berry trees. Four berries are out of reach, but a fifth
+Oran Berry
+can be collected from the ground. Each tree yields one Berry per week.
+Berry Produced
+Tree Location
+Berry Produced
+Tree Location
+Berry Produced
+Tree Location
+Oran Berry
+Route 5
+Aguav Berry
+Route 6
+Persim Berry
+Route 7
+Mago Berry
+Route 8
+Iapapa Berry
+Route 10
+Sitrus Berry
+Route 11
+Aspear Berry
+Route 12
+Roseli Berry
+Route 14
+Leppa Berry
+Route 15
+Lum Berry
+Route 16
+Wacan Berry
+Route 18
+Yache Berry
+Route 19
+Kasib Berry
+Route 20
+Figy Berry
+Route 21
+Tanga Berry
+Route 22
+Traffic Cones and a TM
+On the route's west side, Roller Skaters Winnie and Florin are racing around a pair of traffic cones. Head north past them to reach a grind rail; this one has a notch in it, so build up some speed before going across. A second rail is located just west of the first, and this one leads to an item. This item ball is colored yellow, which indicates a TM or HM; in this case,
+TM01
+(
+Hone Claws
+).
+Camphrier Town
+Camphrier Town
+Few settlements in Kalos are as old as
+Camphrier Town
+. Time has not been kind, and the residents are desperate to win over visitors and bring crowds of tourists back to their cobbled streets and empty manor.
+Items
+Item
+Location
+Games
+Ultra Ball
+From the man outside the Pokémon Center
+X
+Y
+Star Piece
+On the path south of town
+X
+Y
+Ether
+South of town, east of the Star Piece (hidden)
+X
+Y
+Berry Juice
+From the girl to the west of the fountain
+X
+Y
+Antidote
+Northwest of the fountain, in the bush (hidden)
+X
+Y
+TM46
+(
+Thief
+)
+From a Punk Girl in Cassius' house
+X
+Y
+Full Heal
+From a Rising Star in Hotel Camphrier
+X
+Y
+Shock Ribbon
+From a Tourist in Hotel Camphrier
+Tu
+X
+Y
+X Attack
+Southwest corner of town, between two ledges
+X
+Y
+Sweet Heart
+(one per day)
+From a Maid in the northwest house
+X
+Y
+Escape Rope
+Shabboneau Castle, 2F
+X
+Y
+Choice of one daily
+Cheri Berry
+From a man in the northwest house, after showing the desired type of Pokémon
+X
+Y
+Chesto Berry
+From a man in the northwest house, after showing the desired type of Pokémon
+X
+Y
+Pecha Berry
+From a man in the northwest house, after showing the desired type of Pokémon
+X
+Y
+Rawst Berry
+From a man in the northwest house, after showing the desired type of Pokémon
+X
+Y
+Aspear Berry
+From a man in the northwest house, after showing the desired type of Pokémon
+X
+Y
+Meet Cassius
+Visit the northeast cottage to find a powerful machine that is run by a Punk Guy named Cassius. It turns out that he runs the PC Storage System at the request of
+Bill
+, a friend in the distant
+Kanto
+region. After meeting him, the option shown on the PC changes from
+Someone's PC
+to
+Cassius's PC
+. It is even possible to access the PC Boxes by inspecting his server. He is happy to teach visitors all about PC Boxes, and one of the Punk Girls gives out
+TM46
+(
+Thief
+).
+Name Rater
+Speak to the old man inside the Pokémon Center, and he introduces himself as the official
+Name Rater
+. He is happy to critique your Pokémon's nicknames, and also allows you to change them.
+Hotel Camphrier
+Hotel Camphrier stands in the southwest part of town. Speak to the Rising Star in the lobby to receive a
+Full Heal
+. On Tuesdays, speaking to a traveler on the second floor will result in a
+Shock Ribbon
+.
+Mr. Bonding
+can be found on the second floor. This time, he enables the
+Sp. Atk. Power
+, and details the advantages of these powers.
+Tasty Treats
+Visit the northwest cottage and speak to the man inside. He would like to see a certain type of Pokémon, and when he does, he allows your choice of reward. He offers a
+Cheri Berry
+,
+Chesto Berry
+,
+Pecha Berry
+,
+Rawst Berry
+, and
+Aspear Berry
+to choose from. The type of Pokémon he wants to see is random, and changes every day.
+Talk to the Maid in the same building to receive a
+Sweet Heart
+, a piece of chocolate that heals 20 HP. This can be done once per day.
+Shabboneau Castle
+Shabboneau Castle is located on the north side of town. The empty chateau once belonged to a generous noble family, who gave most of their belongings away. Cross the drawbridge and step inside to find Shauna talking with the building's caretaker. Professor Sycamore had hoped that more could be learned about
+Mega Evolution
+here, but the caretaker has never heard of it before. Suddenly, a man enters and calls the caretaker away to a problem on
+Route 7
+, and Shauna suggests going there as well. Before leaving, be sure to collect the
+Escape Rope
+on the second floor.
+← Part 2
+Route 2, Santalune Forest, Route 3, Santalune City, Route 4
+X and Y
+walkthrough
+Route 7 (east), Route 6, Parfum Palace, Route 7 (west), Connecting Cave
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

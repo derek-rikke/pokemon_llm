@@ -1,0 +1,55 @@
+Game: Crystal
+Part: 3
+Keywords: Route 31, Violet City, Sprout Tower, Violet Gym
+
+### Pokémon Gold and Silver Walkthrough - Part 3
+
+#### Route 31
+- **Overview**: Connects Route 30 to Violet City. Dark Cave entrance is here; navigate requires field moves.
+- **Trainers**: 
+  - Bug Catcher Wade: Rewards $32; Pokémon: Caterpie (Lv. 2), Weedle (Lv. 3).
+- **Pokémon**: Available: Caterpie (Lv. 4), Weedle (Lv. 4), Pidgey (Lv. 4-5), Zubat (Lv. 4), Poliwag (Lv. 4), Bellsprout (Lv. 5), Gastly (Lv. 5), Hoothoot (Lv. 5), Ledyba (Lv. 4), Spinarak (Lv. 4), Hoppip (Lv. 5).
+- **Items**: 
+  - Potion: Near Dark Cave sign.
+  - Bitter Berry: On tree southwest of the pond (daily).
+  - Poké Ball: South of pond.
+  - TM50 (Nightmare): From the man near the pond after delivering his Spearow.
+
+#### Violet City
+- **Overview**: Home to the Pokémon Academy, Violet Gym, and Sprout Tower.
+- **Trainers**: Trade for Onix by giving a Bellsprout (found on Routes 31 and 32).
+- **Items**: 
+  - Bitter Berry: Held by traded Onix.
+  - PRZCureBerry: Near southern exit tree (daily).
+  - TM31 (Mud-Slap): Defeat Gym Leader Falkner.
+  - Rare Candy: Beyond eastern lake (requires Surf).
+  - Hyper Potion: Behind Pokémon Center (requires Cut).
+
+#### Sprout Tower 
+- **Overview**: A pagoda with battles against Sages who use Bellsprout.
+- **Items**:
+  - Parlyz Heal (1F), X Accuracy (2F), Potion (3F), Escape Rope (3F), HM05 (Flash) from Sage Li after defeating him.
+- **Trainers**: 
+  - Sage Li: Uses Grass-type Bellsprout and Hoothoot. 
+  - Strategy: Use Fire, Flying, or Rock-type attacks for an advantage.
+
+#### Violet Gym
+- **Leader**: Falkner (Flying-type).
+- **Strategy**: 
+  - Use Rock-type moves against his Pokémon.
+  - Falkner’s Mud-Slap reduces accuracy; be cautious with Fire-type Pokémon like Cyndaquil.
+- **Rewards**: 
+  - Zephyr Badge (allows use of Flash).
+  - TM31 (Mud-Slap).
+
+#### Elm and the Egg
+- After exiting the Gym, receive a call from Professor Elm about the Mystery Egg.
+- Speak to Elm's aide at the Pokémon Center to get the Mystery Egg. Keep it with active Pokémon to hatch.
+
+### Key Progress Points
+1. Defeat trainers in Route 31 and collect items.
+2. Complete Sprout Tower challenges and obtain HM05.
+3. Defeat Falkner at the Violet Gym to earn the Zephyr Badge.
+4. Obtain the Mystery Egg from Elm’s aide.
+
+This walkthrough provides essential instructions and strategies for progressing through Route 31, Violet City, Sprout Tower, and the Violet Gym.

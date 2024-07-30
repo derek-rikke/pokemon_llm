@@ -1,0 +1,1183 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_17
+Keywords: Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 126
+1.1
+Secret Islet
+1.2
+Sootopolis City
+1.2.1
+Rest Up
+1.2.2
+Catch Up with Steven
+1.2.3
+Cave of Origin
+1.2.3.1
+Entrance
+1.2.3.2
+1F
+1.2.3.3
+B1F
+1.2.3.4
+B2F
+1.2.3.5
+B3F
+1.2.3.6
+B4F
+1.2.3.7
+Final Chamber
+1.2.3.7.1
+VS Groudon
+OR
+1.2.3.7.2
+VS Kyogre
+AS
+1.2.4
+Aftermath
+1.2.4.1
+Soaring in the Sky
+1.2.4.2
+Hoenn, Enriched
+1.2.5
+Sootopolis Gym
+Route 126
+Route 126
+Route 126 (underwater)
+The waters of
+Route 126
+surround a massive crater, inside of which lies
+Sootopolis City
+. There's no way to reach the city from the surface, so the entrance must be hidden beneath the waves.
+Trainers
+Trainer
+Pokémon
+Triathlete
+Denzel
+Reward:
+$
+1,560
+Azumarill
+♂
+Lv.
+39
+No item
+Swimmer ♂
+Barry
+Reward:
+$
+624
+Gyarados
+♂
+Lv.
+39
+No item
+Swimmer ♀
+Brenda
+Reward:
+$
+624
+Ludicolo
+♀
+Lv.
+39
+No item
+Ace Trainer
+Leopold
+Reward:
+$
+2,340
+Vibrava
+♂
+Lv.
+39
+No item
+Rhydon
+♂
+Lv.
+39
+No item
+Ace Trainer
+Harriet
+Reward:
+$
+2,460
+Crobat
+♀
+Lv.
+41
+No item
+Swimmer ♂
+Dean
+Reward:
+$
+592
+Wailmer
+♂
+Lv.
+35
+No item
+Staryu
+Lv.
+36
+No item
+Golduck
+♂
+Lv.
+37
+No item
+Requires
+Dive
+Swimmer ♀
+Nikki
+Reward:
+$
+608
+Luvdisc
+♀
+Lv.
+36
+No item
+Tentacruel
+♀
+Lv.
+38
+No item
+Scuba Diver
+Yutaka
+Reward:
+$
+1,560
+Pelipper
+♂
+Lv.
+39
+No item
+Lanturn
+♂
+Lv.
+39
+No item
+Scuba Diver
+Tristan
+Reward:
+$
+1,640
+Wailord
+♂
+Lv.
+41
+No item
+Free Diver
+Jillian
+Reward:
+$
+1,640
+Azumarill
+♀
+Lv.
+41
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Water's surface
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Underwater
+Pokémon
+Games
+Location
+Levels
+Rate
+Chinchou
+OR
+AS
+Seaweed
+25
+50%
+Clamperl
+OR
+AS
+Seaweed
+30
+30%
+Lanturn
+OR
+AS
+Seaweed
+30
+15%
+Relicanth
+OR
+AS
+Seaweed
+30, 35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Green Shard
+Northwest island, accessed via the north side of the Sootopolis trench (requires
+Dive
+)
+OR
+AS
+Underwater
+Heart Scale
+Northern area, bare patch in the seaweed (hidden)
+OR
+AS
+Ultra Ball
+Northern area, southeast of the northwest Dive spot that leads to the northwest island (hidden)
+OR
+AS
+Mind Plate
+Main area, near a group of
+Luvdisc
+in a dead-end to the north then west of the crater (hidden)
+OR
+AS
+Big Pearl
+Main area; Bare spot in the seaweed patch north-northwest of the crater, west of Scuba Diver Tristan (hidden)
+OR
+AS
+Blue Shard
+Main area, north of the western Dive spot that leads to Swimmer ♀ Nikki (hidden)
+OR
+AS
+Pearl
+Main area; Bare spot in the seaweed patch on the crater's southwest side, south of Scuba Diver Yutaka (hidden)
+OR
+AS
+Stardust
+Main area, bare spot in the seaweed just west of the Sootopolis entrance (hidden)
+OR
+AS
+Iron
+Main area, bare spot in the seaweed just east of the Sootopolis entrance (hidden)
+OR
+AS
+Yellow Shard
+Main area, bare spot in the seaweed patch east-southeast of the crater (hidden)
+OR
+AS
+Secret Islet
+Secret Islet
+is a small island with a single tree on the southwest edge of
+Route 126
+. It can only be reached by Diving southwest of the main trench and surfacing on its sandy shore. The island is one of three locations that serious
+Secret Base
+enthusiasts seek out, as a base's layout tends to be better the farther away it is from civilization. There are no Trainers, wild Pokémon, or items here.
+Sootopolis City
+Sootopolis City
+Sootopolis City
+rises from the crater of a great meteoroid crash and can only be reached by sea or sky. The
+final Gym
+in the
+Hoenn League
+is located here, but there are more urgent matters to attend to first. With
+Hoenn
+'s weather becoming increasingly oppressive, you must race to the
+Cave of Origin
+and stop the super-ancient Pokémon from achieving
+Primal Reversion
+and obtaining the vast power that's sure to come with it!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+OR
+AS
+Surfing
+25, 30, 35
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+5, 10, 15
+100%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+100%
+Magikarp
+OR
+AS
+Fishing
+Super Rod
+30, 35
+95%
+Gyarados
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Protein
+Behind the house to the southeast of the Pokémon Center (hidden)
+OR
+AS
+Super Potion
+North of Kiri on the southwest shore (hidden)
+OR
+AS
+TM83
+(
+Infestation
+)
+From a Collector in the Poké Mart after answering his question with "
+Lisia
+"
+OR
+AS
+Magma Suit
+From Maxie before entering the Cave of Origin
+OR
+Aqua Suit
+From Archie before entering the Cave of Origin
+AS
+After clearing the Cave of Origin
+Red Orb
+From Maxie, after capturing or defeating
+Groudon
+OR
+Blue Orb
+From Archie, after capturing or defeating
+Kyogre
+AS
+Eon Flute
+From Steven outside the Cave of Origin
+OR
+AS
+Sablenite
+East of the upper island with the large tree
+OR
+AS
+TM31
+(
+Brick Break
+)
+From the Black Belt in the northwest house
+OR
+AS
+Wailmer Doll
+From the girl in the house east of the Pokémon Center
+OR
+AS
+Max Elixir
+×2
+House northeast of the Pokémon Center;
+From the Fisherman if shown a
+Barboach
+with an
+Affection
+level of at least four (×1)
+From the Hiker if shown a
+Shroomish
+with an
+Affection
+level of at least four (×1)
+OR
+AS
+After defeating the Sootopolis Gym
+HM07
+(
+Waterfall
+)
+From Wallace upon his defeat
+OR
+AS
+Rest Up
+The recent shift in weather has frightened all of the city's residents, and they've all taken shelter inside their homes. Their doors are locked tight, so you can't visit with most of the locals right now. The
+Sootopolis Gym
+, on an island near the crater entrance, is also closed, so instead Surf eastward to reach the Pokémon Center and rest up for the trial ahead.
+Catch Up with Steven
+Surf westward past the Gym to a grassy shore. Climb the north stairway and continue north until you run into
+Steven
+talking with another man. The man introduces himself as
+Wallace
+, Sootopolis Gym Leader and protector of the
+Cave of Origin
+. Seeing your
+Blue Orb
+OR
+/
+Red Orb
+AS
+, he asks that you follow him. He leads you and Steven to the cave entrance, where you find
+Maxie
+,
+Archie
+, and
+Tabitha
+OR
+/
+Shelly
+AS
+. They've been waiting for you, and Tabitha
+OR
+/Shelly
+AS
+gives you the
+Magma Suit
+OR
+/
+Aqua Suit
+AS
+, a suit made by the villainous team to protect the wearer from the elements. Wallace assures the group that the Orb you hold will protect you and your Pokémon, and that together with the suit you just received, it will finally become possible to stand up to the forces of nature. Even
+May
+/
+Brendan
+shows up to wish you luck!
+Cave of Origin
+The
+Cave of Origin
+is said to hold a great source of ancient power. Whatever lies in its uncharted depths, it has drawn the attention of the super-ancient Pokémon. It must be stopped, and only you can save Hoenn from its destructive influence!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+33-36
+69%
+Mawile
+OR
+AS
+Cave
+33-36
+31%
+Sableye
+OR
+AS
+Cave
+33-36
+31%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+18
+100%
+Special Pokémon
+Groudon
+Primal Groudon
+OR
+AS
+Only one
+45
+One
+Kyogre
+Primal Kyogre
+OR
+AS
+Only one
+45
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Attack
+1F, northeast of the south exit (hidden)
+OR
+AS
+Revive
+B1F, near the north stairway (hidden)
+OR
+AS
+Entrance
+There's not a moment to lose! Sprint down the torch-lit entry hall to reach the cave's first floor.
+1F
+Dowse to find a hidden
+X Attack
+near the entrance, then head in a clockwise direction to reach the stairs in the northeast.
+B1F
+Inspect the nearby area to find a
+Revive
+, then continue on to the stairs in the southwest.
+B2F
+Great quakes rock the cave as you descend to its lower floors, and a thick mist begins to swirl around you. Race northward to find the next set of stairs.
+B3F
+Terrible roars echo from below as you near the cave's lowest floor. Hurry southward to reach the final set of stairs.
+B4F
+When you reach the edge of the lava
+OR
+/water
+AS
+, you pull on the protective suit and attach the Blue Orb
+OR
+/Red Orb
+AS
+to it. The super-ancient Pokémon then appears with a cry, and you receive a radio message from Maxie
+OR
+/Archie
+AS
+instructing you to hop on its back and ride it to the cave's deepest level. The sound cuts out, but your course is clear. The suit you wear, combined with the power of the Orb you hold, protect you from harm as you ride the ancient creature along a river of lava
+OR
+/an underwater current
+AS
+to the cave's deepest chamber.
+Final Chamber
+In the final chamber, you pull off your protective suit as Groudon
+OR
+/Kyogre
+AS
+takes its place under a large stalactite. The super-ancient Pokémon begins drawing vast power from the mysterious crystal hanging above in order to undergo
+Primal Reversion
+, leaving you to watch in awe.
+VS Groudon
+OR
+Primal Groudon using Precipice Blades
+Primal Groudon's
+Desolate Land
+Ability summons extremely harsh sunlight for as long as it remains in battle. This strengthens all
+Fire
+moves and evaporates all
+Water
+moves. Unlike other weather-affecting tactics, Desolate Land can't be overridden by most other Abilities or moves. In addition to its new Ability, Primal Groudon also receives a new move—
+Precipice Blades
+, a
+Ground-type
+physical attack. Summoning vast power, Primal Groudon's
+Attack
+,
+Defense
+, and
+Special Attack
+have all increased, making it an incredibly formidable opponent. Its type has changed as well, from
+Ground
+to
+Ground
+/
+Fire
+; this combined with its Ability leaves it vulnerable only to Ground moves, unless you use a
+Psyduck
+or
+Golduck
+with the
+Cloud Nine
+ability. Bring it down before all of
+Hoenn
+goes up in flames!
+Types:
+Ground
+Fire
+Ability:
+Desolate Land
+Held item:
+None
+Groudon
+Lv.
+45
+Lava Plume
+Fire
+Special
+--
+Rest
+Psychic
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Precipice Blades
+Ground
+Physical
+--
+VS Kyogre
+AS
+Primal Kyogre using Origin Pulse
+Primal Kyogre's
+Primordial Sea
+Ability summons heavy rain for as long as it remains in battle. This strengthens all
+Water
+moves and douses all
+Fire
+moves. Unlike other weather-affecting tactics, Primordial Sea can't be overridden by most other Abilities or moves. In addition to its new Ability, Primal Kyogre also receives a new move—
+Origin Pulse
+, a Water-type special attack. Summoning vast power, Primal Kyogre's
+Attack
+,
+Special Attack
+, and
+Special Defense
+have all increased, making it an incredibly formidable opponent. Its type remains the same, leaving it vulnerable to
+Grass
+and
+Electric
+moves. Bring it down before all of
+Hoenn
+falls beneath the waves!
+Type:
+Water
+Unknown
+Ability:
+Primordial Sea
+Held item:
+None
+Kyogre
+Lv.
+45
+Body Slam
+Normal
+Physical
+--
+Aqua Ring
+Water
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Origin Pulse
+Water
+Special
+--
+Aftermath
+With the super-ancient Pokémon's rampage put to an end, the remaining energy released within the Cave of Origin spills out as a beam of green light rising into the atmosphere. The skies quickly clear and the climate returns to normal as you emerge from the cave. Amazed by your success, Maxie
+OR
+/Archie
+AS
+can't help but wish that he'd never bothered the slumbering Pokémon. Seeing how well you handle the Blue Orb
+OR
+/Red Orb
+AS
+, he gives you the other to keep as well. If you managed to catch it, giving the super-ancient Pokémon the same-colored Orb to hold allows it to unleash its
+Primal Reversion
+during battle!
+Team Magma
+and
+Team Aqua
+depart, leaving you,
+Steven
+, and
+May
+/
+Brendan
+to catch up. Proud of all you've accomplished, Steven gives you a great gift: the
+Eon Flute
+. With this, you can summon
+Latios
+OR
+/
+Latias
+AS
+and
+Soar
+through Hoenn's skies. Steven suggests doing just that, as the region has now been enriched by the great energy released from the Cave of Origin. May/Brendan can't believe how far you've come, and is happy to have shared so many adventures with you.
+Soaring in the Sky
+With the Eon Flute, you and Latios
+OR
+/Latias
+AS
+can Soar the skies high above Hoenn.
+Soar
+is a variation of
+Flying
+that only these two Pokémon can use. In this way, you can visit all the same locations as with Fly, but that's not all. As you Soar freely over the region, you may stumble across new locations inaccessible by other means, and find more Pokémon you couldn't find before! As Soar
+functions similarly to Fly
+, you no longer need to keep a Pokémon that knows Fly in your party. It's even possible to Soar when the Eon Pokémon is in the PC. The top screen shows the action as you Soar the skies, while the Touch Screen shows a map of Hoenn with a yellow arrow marking your current location. As you pass over locations, their names will appear on-screen.
+When Soaring, you may find
+flocks of Flying Pokémon
+; make contact to be drawn into battle! In addition, each day a new
+Mirage spot
+will appear somewhere in Hoenn. These locations always appear as sparkling red beacons. There, you may find valuable items and unusual Pokémon, even Legendary Pokémon when certain conditions are fulfilled.
+Hoenn, Enriched
+The great energy released by Groudon/Kyogre's Primal Reversion has blanketed the region, transforming the land into a rich, fertile habitat for Pokémon. This event marks the appearance of new Pokémon all over Hoenn. These Pokémon can be found hiding in the field, so use the DexNav's Detector Mode to find them. In addition, several new
+Mega Stones
+have appeared across the region.
+Mega Stone
+Location
+Mewtwonite X
+Littleroot Town
+Scizorite
+Petalburg Woods
+Charizardite X
+Fiery Path
+Tyranitarite
+Jagged Pass
+Houndoominite
+Lavaridge Town
+Aerodactylite
+Meteor Falls
+Mega Stone
+Location
+Venusaurite
+Route 119
+Abomasite
+Route 123
+(Berry fields)
+Ampharosite
+New Mauville
+Kangaskhanite
+Pacifidlog Town
+Charizardite Y
+Scorched Slab
+Mewtwonite Y
+Pokémon League
+A Stone Seller will also appear on
+Route 114
+, southeast of the Route 114 sign who will sell you five items. Two of these items are important as they are the remaining Mega Stones for the other two Hoenn Starter Pokémon that you did not receive from
+Professor Birch
+earlier that are sold at
+$
+1,500 each (sold as Withered Tree, Fading Fire, or Ebbing Tide).
+Sootopolis Gym
+Sootopolis City Pokémon Gym
+Leader: Wallace
+Artist, and lover of water
+The
+Sootopolis Gym
+specializes in
+Water-type
+Pokémon.
+Grass
+- and
+Electric-type
+moves are best here, while
+Fire
+,
+Ground
+, and
+Rock
+Pokémon may struggle. The Gym features three platforms where each icy tile must be traversed once in order to reveal the next stairway. Walking over an ice tile once cracks it; passing by a second time shatters it, leaving you to fall to the Gym's watery underbelly where plenty of Trainers await.
+The first puzzle is a 5×5 grid of ice. Starting on the south-central tile, move →2, ↑4, ←1, ↓3, ←1, ↑2, ←1, ↓3, ←1, ↑4, and →2. This reveals the first stairway.
+The second puzzle is a 7×7 grid, with a 3×3 platform that can be freely traversed. From the south-central tile, move →3, ↑6, ←1, ↓5, ←3, ↓1, ←2, ↑1, →1, ↑1, ←1, ↑4, →2, ↓1, ←1, ↓2, →2 onto the platform, ↑2, →1, ↑1, and ←1. This reveals the second stairway.
+The final puzzle is a 7×15 grid, with a trio of 3×3 platforms. Starting on the south-central tile, move ←7, ↑6, →6, ↓1, ←5, ↓4, →4, ↑3, →1 onto the middle platform, ↓3, →2, ↓1, →1, ↑4, ←2 onto the middle platform, ↑1, →6, ↓4, ←3, ↓1, →4, ↑6, and ←7. This reveals the stairway to the Gym Leader.
+Wallace
+leads with his
+Luvdisc
+; not much of a threat, but it may still confuse its target with
+Sweet Kiss
+, and further hinder male targets with
+Attract
+. As a
+Water
+/
+Ground
+Pokémon, his
+Whiscash
+is only vulnerable to Grass moves; its
+Mud Sport
+weakens Electric moves for a few turns, while
+Earthquake
+packs a punch.
+Sealeo
+'s
+Water
+/
+Ice
+typing gives it additional weaknesses to
+Fighting
+and
+Rock
+moves;
+Waterfall
+and
+Body Slam
+deal damage while
+Encore
+forces the target to repeat its previous move. His
+Seaking
+is somewhat dangerous, if its target is Level 44 or less, when
+Horn Drill
+may score a
+one-hit knockout
+. Also,
+Rain Dance
+combined with
+Waterfall
+can deal a suprisingly lot of damage. Finally, his
+Milotic
+can deal heavy damage with
+Hydro Pump
+, and use
+Ice Beam
+to deal with Grass types other than the
+Lotad
+family; use powerful moves to defeat it quickly, before it can regain health with
+Recover
+.
+Sootopolis Gym
+Trainers
+Trainer
+Pokémon
+1F
+Poké Fan
+Marissa
+Reward:
+$
+2,752
+Azumarill
+♀
+Lv.
+43
+No item
+Lass
+Crissy
+Reward:
+$
+656
+Luvdisc
+♀
+Lv.
+39
+No item
+Seadra
+♀
+Lv.
+41
+No item
+B1F
+Beauty
+Olivia
+Reward:
+$
+2,408
+Starmie
+Lv.
+43
+No item
+Lady
+Brianna
+Reward:
+$
+4,920
+Clamperl
+♀
+Lv.
+41
+No item
+Corsola
+♀
+Lv.
+41
+No item
+Beauty
+Connie
+Reward:
+$
+2,408
+Huntail
+♀
+Lv.
+43
+No item
+Beauty
+Bridget
+Reward:
+$
+2,408
+Gorebyss
+♀
+Lv.
+43
+No item
+Beauty
+Tiffany
+Reward:
+$
+2,296
+Golduck
+♀
+Lv.
+41
+No item
+Wailord
+♀
+Lv.
+41
+No item
+Lass
+Andrea
+Reward:
+$
+672
+Ludicolo
+♀
+Lv.
+42
+No item
+Leader
+Wallace
+Sootopolis Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+5,520
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Luvdisc
+♀
+Lv.
+44
+Draining Kiss
+Fairy
+Special
+--
+Attract
+Normal
+Status
+--
+Sweet Kiss
+Fairy
+Status
+--
+Water Pulse
+Water
+Special
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♂
+Lv.
+44
+Earthquake
+Ground
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Mud Sport
+Ground
+Status
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♂
+Lv.
+44
+Encore
+Normal
+Status
+--
+Waterfall
+Water
+Physical
+--
+Aurora Beam
+Ice
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Seaking
+♀
+Lv.
+44
+Waterfall
+Water
+Physical
+--
+Rain Dance
+Water
+Status
+--
+Aqua Ring
+Water
+Status
+--
+Horn Drill
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+46
+Hydro Pump
+Water
+Special
+--
+Recover
+Normal
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Defeated, Wallace awards you the
+Rain Badge
+, which ensures obedience from all Pokémon. He also gives you
+HM05
+(
+Waterfall
+) as a prize. With all eight Badges, your next destination is the
+Pokémon League
+in
+Ever Grande City
+to the southeast. But first, consider exploring Hoenn's remaining areas, including
+Route 129
+and beyond. In addition, Wallace suggests visiting
+Birch
+back in
+Littleroot
+, as he's heard a rumor that the professor has created
+a more powerful Pokédex
+.
+← Part 16
+Route 128, Seafloor Cavern
+Omega Ruby and Alpha Sapphire
+walkthrough
+Mauville Hills, New Mauville, Routes 129, 130, and 131, Pacifidlog Town
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

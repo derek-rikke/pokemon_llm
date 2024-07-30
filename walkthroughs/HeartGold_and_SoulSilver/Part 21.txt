@@ -1,0 +1,1004 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_21
+Keywords: Routes 16, 17, and 18, Fuchsia City, Fuchsia Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 16
+1.1
+Vacation House
+2
+Route 17
+3
+Route 18
+4
+Fuchsia City
+4.1
+Pal Park
+4.2
+The Juggler
+4.3
+Fuchsia Gym
+Route 16
+Route 16
+Route 16
+is a quiet road, and the northern end of
+Cycling Road
+. Two uncommon Pokémon species—the
+Fire-type
+Slugma
+and the
+Dark
+/
+Flying
+Murkrow
+—can be found here. Slugma can be found at all hours, while Murkrow only appears at night.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Grimer
+HG
+SS
+Grass
+26-28
+50%
+50%
+80%
+Fearow
+HG
+SS
+Grass
+27-29
+40%
+40%
+0%
+Muk
+HG
+SS
+Grass
+29-30
+5%
+Slugma
+HG
+SS
+Grass
+27
+5%
+Murkrow
+HG
+SS
+Grass
+29
+0%
+0%
+10%
+Headbutt
+Spearow
+HG
+SS
+Headbutt
+26-30
+50%
+Heracross
+HG
+SS
+Headbutt
+26-27
+30%
+Combee
+HG
+SS
+Headbutt
+26-30
+20%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+26-27
+20%
+Minun
+HG
+SS
+Hoenn Sound
+28
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+26-28
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Vacation House
+There is a single house located here, nestled back in the trees. Speak with the old man inside once per day to learn a new
+trendy phrase
+.
+Route 17
+Route 17
+Route 17
+is
+Cycling Road
+itself, stretching between
+Route 16
+in the north and
+Route 18
+in the south. The place is a favorite hangout spot for Bikers, and Pokémon like
+Grimer
+and
+Slugma
+can be found in the tall grass.
+Trainers
+Trainer
+Pokémon
+Biker
+Dale
+Reward:
+$
+752
+Gulpin
+♂
+Lv.
+47
+Black Sludge
+Biker
+Reese
+Reward:
+$
+720
+Weezing
+♂
+Lv.
+45
+No item
+Biker
+Joel
+Reward:
+$
+688
+Magmar
+♂
+Lv.
+43
+No item
+Magmar
+♂
+Lv.
+43
+No item
+Biker
+Jacob
+Reward:
+$
+688
+Magmar
+♂
+Lv.
+43
+No item
+Tentacruel
+♂
+Lv.
+43
+No item
+Biker
+Aiden
+Reward:
+$
+720
+Tentacruel
+♂
+Lv.
+45
+No item
+Biker
+Dan
+Reward:
+$
+592
+Gulpin
+♂
+Lv.
+39
+No item
+Weezing
+♂
+Lv.
+37
+No item
+Weezing
+♂
+Lv.
+37
+No item
+Biker
+Theron
+Reward:
+$
+720
+Croagunk
+♀
+Lv.
+45
+No item
+Biker
+Glenn
+Reward:
+$
+688
+Koffing
+♂
+Lv.
+39
+No item
+Magmar
+♂
+Lv.
+41
+No item
+Weezing
+♂
+Lv.
+43
+No item
+Biker
+Teddy
+Reward:
+$
+736
+Seviper
+♂
+Lv.
+46
+No item
+Biker
+Markey
+Reward:
+$
+752
+Skorupi
+♂
+Lv.
+47
+No item
+Biker
+Ernest
+Reward:
+$
+704
+Teddiursa
+♂
+Lv.
+45
+No item
+Marill
+♂
+Lv.
+44
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Grimer
+HG
+SS
+Grass
+27-29
+50%
+50%
+80%
+Fearow
+HG
+SS
+Grass
+28-30
+40%
+40%
+0%
+Muk
+HG
+SS
+Grass
+30-32
+5%
+5%
+15%
+Slugma
+HG
+SS
+Grass
+27, 29
+5%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+27-28
+20%
+Minun
+HG
+SS
+Hoenn Sound
+29
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+27-29
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+On the bridge's west side (hidden)
+HG
+SS
+Max Elixir
+On the bridge's west side (hidden)
+HG
+SS
+Route 18
+Route 18
+Route 18
+is the southern end of
+Cycling Road
+. Fight a few Trainers and head into
+Fuchsia City
+.
+Trainers
+Trainer
+Pokémon
+West of the gatehouse
+Biker
+Charles
+Reward:
+$
+672
+Koffing
+♂
+Lv.
+41
+No item
+Charmeleon
+♂
+Lv.
+41
+No item
+Weezing
+♂
+Lv.
+42
+No item
+East of the gatehouse
+Bird Keeper
+Bob
+Reward:
+$
+1536
+Noctowl
+♂
+Lv.
+48
+No item
+Bird Keeper
+Boris
+Reward:
+$
+1312
+Doduo
+♂
+Lv.
+39
+No item
+Doduo
+♂
+Lv.
+37
+No item
+Dodrio
+♂
+Lv.
+41
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Grimer
+HG
+SS
+Grass
+26-28
+50%
+50%
+80%
+Fearow
+HG
+SS
+Grass
+27-29
+40%
+40%
+0%
+Muk
+HG
+SS
+Grass
+29-30
+0%
+0%
+15%
+Slugma
+HG
+SS
+Grass
+27
+5%
+Muk
+HG
+SS
+Grass
+30
+5%
+5%
+0%
+Headbutt
+Tangela
+HG
+SS
+Headbutt
+29-30
+15%
+Hoothoot
+HG
+SS
+Headbutt
+26-27
+50%
+Hoothoot
+HG
+SS
+Headbutt
+29-30
+65%
+Wurmple
+HG
+SS
+Headbutt
+26-27, 29-30
+20%
+Spinarak
+HG
+SS
+Headbutt
+26-27
+30%
+Ledyba
+HG
+SS
+Headbutt
+26-27
+30%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+26-27
+20%
+Minun
+HG
+SS
+Hoenn Sound
+28
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+26-28
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Fuchsia City
+Fuchsia City
+The
+Safari Zone
+that once occupied the north side of
+Fuchsia City
+has relocated to Johto, beyond Routes
+47
+and
+48
+.
+Pal Park
+, a preserve where Trainers may gather their Pokémon from past adventures, has opened in its place. Like always, the
+Fuchsia Gym
+stands ready to accept all challengers on the south side of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+HG
+SS
+Surfing
+10-20
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+97%
+Gyarados
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+26-34
+65%
+Hoothoot
+HG
+SS
+Headbutt
+21-23
+50%
+Spinarak
+HG
+SS
+Headbutt
+21-23
+30%
+Ledyba
+HG
+SS
+Headbutt
+21-23
+30%
+Wurmple
+HG
+SS
+Headbutt
+21-23, 26-34
+20%
+Tangela
+HG
+SS
+Headbutt
+26-34
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Red Apricorn
+From the tree, north of the Pokémon Center (requires
+Cut
+)
+HG
+SS
+Nugget
+Near the flower boxes in the northeast (hidden)
+HG
+SS
+Pal Park
+Underground
+From a girl in the lobby, if migrating from
+Pokémon Ruby
+HG
+SS
+Seafloor
+From a girl in the lobby, if migrating from
+Pokémon Sapphire
+HG
+SS
+Sky
+From a girl in the lobby, if migrating from
+Pokémon Emerald
+HG
+SS
+Crown
+From a girl in the lobby, if migrating from
+Pokémon FireRed
+HG
+SS
+Tiara
+From a girl in the lobby, if migrating from
+Pokémon LeafGreen
+HG
+SS
+After defeating the Fuchsia Gym
+TM84
+(
+Poison Jab
+)
+From Janine upon her defeat
+HG
+SS
+Pal Park
+Pal Park
+In
+Pal Park
+, you can gather six Pokémon at a time from
+any
+previous
+adventure
+, and import them to the preserve. The park is divided into five different areas—field, forest, mountain, pond, and sea—and once inside, each migrated Pokémon appears in the area that best resembles its natural habitat.
+In addition to transferring Pokémon from other regions, the preserve also utilizes a rating system to calculate the value of the migrated Pokémon. The final score is reported at the end of the Catching Show by the Park Ranger, who hands out a random Berry depending on your total. Rarer and legendary Pokémon receive higher values, while common Pokémon receive lower values. Timing is also a factor; more points are awarded for completing the challenge quickly. On your first visit, the current record-holder is
+Silver
+with 2,000 points.
+0-3000
+3001-3299
+3300-3499
+3500-4000
+Aspear Berry
+Aguav Berry
+Bluk Berry
+Grepa Berry
+Cheri Berry
+Figy Berry
+Nanab Berry
+Hondew Berry
+Chesto Berry
+Iapapa Berry
+Lum Berry
+Kelpsy Berry
+Leppa Berry
+Mago Berry
+Pinap Berry
+Pomeg Berry
+Oran Berry
+Wiki Berry
+Razz Berry
+Qualot Berry
+Pecha Berry
+Sitrus Berry
+Tamato Berry
+Persim Berry
+Wepear Berry
+Rawst Berry
+The Juggler
+The Juggler on the north side of town likes to collect
+Shards
+, and will trade three different Berries for each one. The Berries obtained correspond to the shard's color.
+Shard
+Set
+Berries
+Red Shard
+E
+Persim
+Razz
+Pomeg
+Blue Shard
+F
+Bluk
+Kelpsy
+Cornn
+Yellow Shard
+G
+Pinap
+Grepa
+Nomel
+Green Shard
+H
+Wepear
+Hondew
+Durin
+Fuchsia Gym
+Fuchsia Gym
+Fuchsia City Pokémon Gym
+Leader: Janine
+The Poisonous Ninja Master
+The
+Poison
+-specialist
+Fuchsia Gym
+is the same ninja training ground that it always has been, complete with invisible walls. However,
+Koga
+'s promotion to the Elite Four left a vacant Gym Leader position, a title now held by his daughter,
+Janine
+. She and her Gym Trainers are adept at disguise, dressing alike to conceal the Gym Leader's true location.
+Psychic-type
+attacks will see the greatest effectiveness, but as many of the Pokémon here are part-
+Grass
+or part-
+Ground
+as well, they are also vulnerable to
+Fire
+and
+Water
+moves, respectively. As Janine is still inexperienced, her Pokémon's levels have only reached the 40s, so almost any attack from your battle-tested team can take them out quickly. In addition, four of her five Pokémon—all but
+Weezing
+—share a weakness to
+Rock-type
+moves. Look out for
+Toxic
+,
+Confuse Ray
+, and
+Explosion
+, and cure status ailments as soon as possible.
+Fuchsia Gym
+Trainers
+Trainer
+Pokémon
+Picnicker
+Cindy
+Reward:
+$
+768
+Nidoqueen
+♀
+Lv.
+48
+No item
+Camper
+Barry
+Reward:
+$
+768
+Nidoking
+♂
+Lv.
+48
+No item
+Lass
+Alice
+Reward:
+$
+656
+Gloom
+♀
+Lv.
+41
+No item
+Arbok
+♀
+Lv.
+45
+No item
+Vileplume
+♀
+Lv.
+41
+No item
+Lass
+Linda
+Reward:
+$
+720
+Bulbasaur
+♂
+Lv.
+41
+No item
+Ivysaur
+♂
+Lv.
+43
+No item
+Venusaur
+♂
+Lv.
+45
+No item
+Leader
+Janine
+Fuchsia Gym
+HeartGold and SoulSilver
+Reward:
+$
+6000
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♀
+Lv.
+47
+Confuse Ray
+Ghost
+Status
+--
+Screech
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Weezing
+♀
+Lv.
+44
+Sludge Bomb
+Poison
+Special
+--
+Toxic
+Poison
+Status
+--
+Explosion
+Normal
+Physical
+--
+Double Hit
+Normal
+Physical
+--
+Types:
+Bug
+Poison
+Ability:
+Insomnia
+Held item:
+None
+Ariados
+♀
+Lv.
+47
+Swagger
+Normal
+Status
+--
+Night Shade
+Ghost
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Pin Missile
+Bug
+Physical
+--
+Types:
+Bug
+Poison
+Ability:
+Insomnia
+Held item:
+None
+Ariados
+♀
+Lv.
+47
+Psychic
+Psychic
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Screech
+Normal
+Status
+--
+Pin Missile
+Bug
+Physical
+--
+Types:
+Bug
+Poison
+Ability:
+Tinted Lens
+Held item:
+Sitrus Berry
+Venomoth
+♀
+Lv.
+50
+Double Team
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Defeated,
+Janine
+awards you the
+Soul Badge
+. She also hands out
+TM84
+(
+Poison Jab
+) as a prize.
+The ocean route leading south from the city is blocked by debris that landed here after the eruption on
+Cinnabar Island
+. The only other way out of Fuchsia is east to
+Route 15
+.
+← Part 20
+Route 7, Celadon City
+HeartGold and SoulSilver
+walkthrough
+Routes 15, 14, 13, and 12
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1132 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_9
+Keywords: Route 214, Maniac Tunnel, Valor Lakefront, Route 213, Pastoria City
+
+Walkthrough Text:
+Contents
+1
+Route 214
+2
+Maniac Tunnel (optional)
+3
+Solaceon Town (optional)
+4
+Valor Lakefront
+5
+Route 213
+6
+Pastoria City
+Route 214
+Route 214
+Trainers
+Trainer
+Pokémon
+Psychic
+Abigail
+Reward:
+$
+864
+Chingling
+♀
+Lv.
+23
+No item
+Drifloon
+♀
+Lv.
+25
+No item
+Kirlia
+♀
+Lv.
+27
+No item
+PI
+Carlos
+Reward:
+$
+3600
+Goldeen
+♂
+Lv.
+30
+No item
+Collector
+Brady
+Reward:
+$
+1344
+Skorupi
+♂
+Lv.
+21
+No item
+Carnivine
+♂
+Lv.
+21
+No item
+Tangela
+♂
+Lv.
+21
+No item
+Tropius
+♂
+Lv.
+21
+No item
+Croagunk
+♂
+Lv.
+21
+No item
+Yanma
+♂
+Lv.
+21
+No item
+Beauty
+Devon
+Reward:
+$
+1344
+Wormadam
+♀
+Plant Cloak
+Lv.
+24
+No item
+Wormadam
+♀
+Trash Cloak
+Lv.
+24
+No item
+Wormadam
+♀
+Sandy Cloak
+Lv.
+24
+No item
+Psychic
+Mitchell
+Reward:
+$
+832
+Duskull
+♂
+Lv.
+26
+No item
+Kadabra
+♂
+Lv.
+26
+No item
+Collector
+Douglas
+Reward:
+$
+1536
+Jolteon
+♂
+Lv.
+24
+No item
+Flareon
+♂
+Lv.
+24
+No item
+Vaporeon
+♂
+Lv.
+24
+No item
+Ruin Maniac
+Ronald
+Reward:
+$
+1296
+Shieldon
+♂
+Lv.
+27
+No item
+Collector
+Jamal
+Reward:
+$
+1728
+Porygon
+Lv.
+27
+No item
+Ruin Maniac
+Bryan
+Reward:
+$
+1248
+Bronzor
+Lv.
+24
+No item
+Cranidos
+♂
+Lv.
+26
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+22
+0%
+0%
+10%
+Geodude
+D
+P
+Pt
+Grass
+21
+20%
+Graveler
+D
+P
+Pt
+Grass
+22-24
+35%
+35%
+0%
+Graveler
+D
+P
+Pt
+Grass
+23-24
+0%
+0%
+25%
+Rhyhorn
+D
+P
+Pt
+Grass
+21-24
+30%
+30%
+0%
+Rhyhorn
+D
+P
+Pt
+Grass
+21,23-24
+0%
+0%
+20%
+Houndour
+D
+P
+Pt
+Grass
+23-24
+15%
+15%
+0%
+Houndour
+D
+P
+Pt
+Grass
+22-24
+0%
+0%
+25%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Cheri Berry
+Berry patch near the Veilstone City entrance
+Pt
+Sitrus Berry
+Berry patch near the Veilstone City entrance
+Pt
+Chesto Berry
+Berry patch near the Veilstone City entrance
+Pt
+Pomeg Berry
+Berry patch near the Veilstone City entrance
+Pt
+Max Repel
+Right next to PI Carlos
+Pt
+Big Mushroom
+In the trees, north-east of Beauty Devon
+(hidden)
+Pt
+Carbos
+Empty tile in the grassy pattern around the fence west of Psychic Mitchell
+(hidden)
+Pt
+Big Root
+Directly north of the honey tree, between tall grass and fence maze
+Pt
+Red Shard
+In the grassy area southwest of the honey tree
+Pt
+Razor Fang
+Bare patch in the southern long grass
+(hidden)
+Pt
+Magmarizer
+North of Ruin Maniac Bryan
+Pt
+Apart from the Trainers,
+Route 214
+is a pretty straightforward route. First head south down the eastern side of the route. At the bottom of the maze of fences, head west a short distance, then back north up the mountainous western side of Route 214 where there are more trainers to battle, and, at the top, the
+Maniac Tunnel
+. On the way, collect the
+Razor Fang
+(necessary for evolving
+Gligar
+into
+Gliscor
+when leveled up at night) hidden in the lower-right corner of the southern patch
+long grass
+near
+Collector
+Jamal, and the
+Magmarizer
+(necessary for evolving
+Magmar
+into
+Magmortar
+when traded) just north of
+Ruin Maniac
+Byran.
+Maniac Tunnel (optional)
+Maniac Tunnel with 0-9 Unown
+Maniac Tunnel with 10-25 Unown
+Maniac Tunnel with 26-28 Unown
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fewer than 10
+Unown
+Geodude
+D
+P
+Pt
+Cave
+21-23
+95%
+Hippopotas
+D
+P
+Pt
+Cave
+22,24
+5%
+10-25
+Unown
+Geodude
+D
+P
+Pt
+Cave
+22-24
+90%
+Hippopotas
+D
+P
+Pt
+Cave
+23-25
+10%
+26 or more
+Unown
+Geodude
+D
+P
+Pt
+Cave
+23-25
+80%
+Hippopotas
+D
+P
+Pt
+Cave
+24-26
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Dig
+)
+Behind rocks next to the entrance
+Pt
+Collect
+TM28
+(
+Dig
+) just north of the Ruin Maniac. When you encounter different forms of
+Unown
+at the
+Solaceon Ruins
+(you do not need to catch them, despite his claims), the Ruin Maniac lengthens the
+Maniac Tunnel
+and also raises the chance of encountering
+Hippopotas
+. By encountering all 26 alphabetical Unown, the tunnel will be complete, and you'll be able to collect the ! and ? Unown in the top floor of the Solaceon Ruins.
+Solaceon Town (optional)
+After encountering all 26 alphabet forms of Unown, you can go through the Maniac Tunnel to reach
+Solaceon Town
+and pick up a Rare Candy.
+Items
+Item
+Location
+Games
+Rare Candy
+On top ledge (can only be accessed from
+Maniac Tunnel
+after capturing the 26
+different kinds
+of
+Unown
+)
+Pt
+Valor Lakefront
+Valor Lakefront
+Hotel Grand Lake, part of Valor Lakefront
+Trainers
+Trainer
+Pokémon
+Artist
+Ismael
+Reward:
+$
+2800
+(w. Beauty Harley)
+Kricketune
+♂
+Lv.
+28
+No item
+Beauty
+Harley
+Reward:
+$
+2800
+(w. Artist Ismael)
+Psyduck
+♀
+Lv.
+26
+No item
+Lass
+Blythe
+Reward:
+$
+2640
+(w. Veteran Emanuel)
+Chingling
+♀
+Lv.
+25
+No item
+Buneary
+♀
+Lv.
+25
+No item
+Veteran
+Emanuel
+Reward:
+$
+2640
+(w. Lass Blythe)
+Machoke
+♂
+Lv.
+28
+No item
+Bronzor
+Lv.
+28
+No item
+Collector
+Eugene
+Reward:
+$
+2688
+(w. Aroma Lady Alison)
+Feebas
+♂
+Lv.
+28
+No item
+Aroma Lady
+Alison
+Reward:
+$
+2688
+(w. Collector Eugene)
+Roselia
+♀
+Lv.
+28
+No item
+School Kid
+Esteban
+Reward:
+$
+2184
+(w. Pokéfan Meredith)
+Quagsire
+♂
+Lv.
+26
+No item
+Pokéfan
+Meredith
+Reward:
+$
+2184
+(w. School Kid Esteban)
+Pichu
+♀
+Lv.
+26
+No item
+Pachirisu
+♀
+Lv.
+26
+Sitrus Berry
+Scientist
+Emilio
+Reward:
+$
+2544
+(w. Pokémon Breeder Kaylee)
+Kadabra
+♂
+Lv.
+27
+No item
+Pokémon Breeder
+Kaylee
+Reward:
+$
+2544
+(w. Scientist Emilio)
+Aipom
+♀
+Lv.
+26
+No item
+Marill
+♀
+Lv.
+26
+No item
+Swablu
+♀
+Lv.
+26
+No item
+PI
+Kendrick
+Reward:
+$
+5176
+(w. Beauty Gabriella)
+Rhyhorn
+♂
+Lv.
+31
+No item
+Beauty
+Gabriella
+Reward:
+$
+5176
+(w. PI Kendrick)
+Finneon
+♀
+Lv.
+26
+No item
+Gentleman
+Leonardo
+Reward:
+$
+10800
+(w. Socialite Rebecca)
+Chatot
+♂
+Lv.
+27
+No item
+Socialite
+Rebecca
+Reward:
+$
+10800
+(w. Gentleman Leonardo)
+Purugly
+♀
+Lv.
+27
+No item
+Cameraman
+Darryl
+Reward:
+$
+1872
+(w. Reporter Valerie)
+Magnemite
+Lv.
+26
+No item
+Mr. Mime
+♂
+Lv.
+26
+No item
+Reporter
+Valerie
+Reward:
+$
+1872
+(w. Cameraman Darryl)
+Kirlia
+♀
+Lv.
+26
+No item
+Rich Boy
+Roman
+Reward:
+$
+8320
+(w. Lady Kylie)
+Lickitung
+♂
+Lv.
+26
+No item
+Lady
+Kylie
+Reward:
+$
+8320
+(w. Rich Boy Roman)
+Cleffa
+♀
+Lv.
+24
+No item
+Clefairy
+♀
+Lv.
+26
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Girafarig
+D
+P
+Pt
+Grass
+26,28
+25%
+Houndour
+D
+P
+Pt
+Grass
+28
+10%
+10%
+0%
+Houndour
+D
+P
+Pt
+Grass
+27-28
+0%
+0%
+20%
+Staravia
+D
+P
+Pt
+Grass
+26-28
+25%
+35%
+0%
+Staravia
+D
+P
+Pt
+Grass
+27-28
+0%
+0%
+15%
+Bibarel
+D
+P
+Pt
+Grass
+25-27
+30%
+Kricketune
+D
+P
+Pt
+Grass
+27
+10%
+0%
+0%
+Kricketune
+D
+P
+Pt
+Grass
+26
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+In the northwest corner of the large patch of grass north of the Lake entrance
+Pt
+Big Mushroom
+In a tree in the northwest corner of the large patch of grass north of the Lake entrance
+(hidden)
+Pt
+White Flute
+Given by woman outside the northernmost bungalow after returning her Suite Key
+Pt
+Valor Lakefront
+includes a large patch of grass and part of
+Hotel Grand Lake
+. You can't access
+Lake Valor
+proper just yet... So why not go to the
+Seven Stars Restaurant
+where you can partake in a number of
+Double Battles
+? You will also find a lady who has lost her
+Suite Key
+, and asks you for your help finding it. Go near the entrance to the hotel and use your Pokétch's
+Dowsing Machine
+to find and return it. The key is difficult to find with the
+Dowsing Machine
+due to its small size. You can find it by facing south and standing one step down from the stairs that are near the southern exit.
+Route 213
+Route 213
+Trainers
+Trainer
+Pokémon
+Tuber
+Chelsea
+Reward:
+$
+112
+Marill
+♀
+Lv.
+28
+No item
+Tuber
+Jared
+Reward:
+$
+104
+Shellos
+♂
+East Sea
+Lv.
+25
+No item
+Shellos
+♂
+East Sea
+Lv.
+25
+No item
+Shellos
+♂
+West Sea
+Lv.
+26
+No item
+Fisherman
+Kenneth
+Reward:
+$
+896
+Remoraid
+♂
+Lv.
+25
+No item
+Remoraid
+♂
+Lv.
+25
+No item
+Gyarados
+♂
+Lv.
+28
+No item
+Beauty
+Cyndy
+Reward:
+$
+1624
+Glameow
+♀
+Lv.
+29
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Wingull
+D
+P
+Pt
+Grass
+24-26
+20%
+Buizel
+D
+P
+Pt
+Grass
+23,25
+25%
+25%
+35%
+Shellos
+D
+P
+Pt
+Grass
+24-26
+35%
+35%
+0%
+Shellos
+D
+P
+Pt
+Grass
+23-26
+0%
+0%
+45%
+Chatot
+D
+P
+Pt
+Grass
+23,25
+20%
+20%
+0%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM92
+(
+Trick Room
+)
+Gift from the
+Clown
+in the bungalow to the northwest of the hotel entrance
+Pt
+Max Revive
+Under the parasol by the pool, south of the Game Director's suite
+(hidden)
+Pt
+PP Up
+Left of Hotel Grand Lake, in the small area south of the pool
+Pt
+Suite Key
+Immediately northwest of northern reception entrance
+(hidden)
+Pt
+Yellow Shard
+West of the entrance to Hotel Grand Lake
+Pt
+Pearl
+×4
+Toward the east end, east of Tuber Chelsea
+(hidden)
+Toward the east end, southwest of Tuber Chealsea
+(hidden)
+Near the center, north of the "fancy" man, at the missing corner of a large rock
+(hidden)
+Near the southwest corner, northeast of Fisherman Kenneth
+(hidden)
+Pt
+Heart Scale
+Toward the east end, east of Tuber Jared
+(hidden)
+Near the southwest corner, west of Fisherman Kenneth
+(hidden)
+Pt
+TM40
+(
+Aerial Ace
+)
+East of Dr.Footstep's house (requires
+Rock Smash
+)
+Pt
+Hyper Potion
+East of the honey tree (requires
+Rock Smash
+)
+(hidden)
+Pt
+Aguav Berry
+Berry patch east of Pastoria City entrance
+Pt
+Rawst Berry
+×2
+Berry patch east of Pastoria City entrance
+Pt
+Iapapa Berry
+Berry patch east of Pastoria City entrance
+Pt
+Route 213
+is a beach that connects Valor Lakefront to Pastoria City and contains the other half of Hotel Grand Lake. In one of the buildings, the hotel receptionist can heal your Pokémon. There are several items to collect along the way, especially the hidden
+Heart Scales
+in the sand that can soon be exchanged for a
+valuable service
+.
+Pastoria City
+Pastoria City
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Turtwig Mask
+Accessory
+; obtained from a
+Parasol Lady
+near the Pokémon Center if the player started with
+Piplup
+Pt
+Chimchar Mask
+Accessory
+; obtained from a Parasol Lady near the Pokémon Center if the player started with
+Turtwig
+Pt
+Piplup Mask
+Accessory
+; obtained from a Parasol Lady near the Pokémon Center if the player started with
+Chimchar
+Pt
+Macho Brace
+From the boy in the house north of the Poké Mart after showing him a
+male and female
+Combee
+Pt
+Persim Berry
+×2
+Berry patch Northeast of Poké Mart
+Pt
+Nanab Berry
+×2
+Berry patch Northeast of Poké Mart
+Pt
+Zinc
+In a large puddle south of the west entrance
+(hidden)
+Pt
+Pastoria City
+is home to the
+Great Marsh
+, where many Pokémon can be found, though it will require multiple visits on separate days to see all of them. One of those Pokémon is
+Tropius
+, which can learn
+Fly
+along with four other
+HM
+moves. It will be very useful if you cannot or do not want to teach those HM moves to the Pokémon that you use in battle.
+Pastoria is also home to the Scarf Guy, who lives in the house nearest to
+Route 213
+. The Scarf Guy checks a Pokémon's
+condition
+to see if it is worthy of a
+Scarf
+. If the Pokémon's condition is at its maximum value in an area, he will give out the corresponding Scarf to that Pokémon. If not, he will tell the player to improve its condition with
+Poffins
+.
+Maxed condition
+Scarf given out
+Cool
+Red Scarf
+Beauty
+Blue Scarf
+Cute
+Pink Scarf
+Smart
+Green Scarf
+Tough
+Yellow Scarf
+The eastern house right next to the water is the home of the
+Move Reminder
+who will teach your Pokémon a move from their level-up moveset in exchange for a
+Heart Scale
+. Heart Scales can be found in various locations in throughout
+Sinnoh
+, including the
+Underground
+, and the
+Pokémon News Press
+in
+Solaceon Town
+.
+Go to the westernmost house to meet a woman who will give you a
+Berry
+once a day. These Berries will notably be the ones that reduce the damage of supereffective attacks on the Pokémon that holds it.
+← Part 8
+Route 215 to Veilstone City
+Platinum
+walkthrough
+Pastoria Gym to Valor Lakefront
+Part 10 →

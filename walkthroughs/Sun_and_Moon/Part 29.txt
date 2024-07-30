@@ -1,0 +1,672 @@
+Part: Part 29
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_29
+Keywords: Tracking the Ultra Beasts:UB-03 Lighting, UB-04 BladeS/ BlasterM, Obtaining the Key Stone
+
+Walkthrough Text:
+Contents
+1
+Akala Island
+1.1
+Route 8
+1.2
+Lush Jungle, Memorial Hill
+2
+Ula'ula Island
+2.1
+Route 13
+2.2
+Malie Garden, Route 17
+S
+/ Haina Desert
+M
+3
+Poni Island
+3.1
+Seafolk Village
+3.2
+Ancient Poni Path
+Akala Island
+Route 8
+When you return to the
+Route 8
+motel, you find
+Looker
+speaking with
+Mina
+, the captain from
+Poni Island
+.
+Anabel
+has already left to protect the nearby populated areas. Mina is their latest informant, and whoever it was who sent her on this errand also suggested that she have a serious battle with you.
+Captain
+Mina
+Route 8
+Sun and Moon
+Reward:
+$
+7,320
+Types:
+Steel
+Fairy
+Ability:
+Prankster
+Held item:
+None
+Klefki
+♀
+Lv.
+61
+Dazzling Gleam
+Fairy
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Fairy
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Granbull
+♂
+Lv.
+61
+Crunch
+Dark
+Physical
+--
+Play Rough
+Fairy
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Grass
+Fairy
+Ability:
+Effect Spore
+Held item:
+None
+Shiinotic
+♀
+Lv.
+61
+Spore
+Grass
+Status
+--
+Moonblast
+Fairy
+Special
+--
+Dream Eater
+Psychic
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Types:
+Normal
+Fairy
+Ability:
+Competitive
+Held item:
+None
+Wigglytuff
+♀
+Lv.
+61
+Dazzling Gleam
+Fairy
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Bug
+Fairy
+Ability:
+Shield Dust
+Held item:
+None
+Ribombee
+♀
+Lv.
+61
+Pollen Puff
+Bug
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+When the battle is over, Mina leaves and Looker gives you ten more
+Beast Balls
+. He informs you that the latest reports describe two specimens appearing in
+Lush Jungle
+and
+Memorial Hill
+.
+Lush Jungle, Memorial Hill
+Aura: +2
+Special Attack
+Type:
+Electric
+Unknown
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+65
+Hypnosis
+Psychic
+Status
+--
+Discharge
+Electric
+Special
+--
+Electric Terrain
+Electric
+Status
+--
+Power Whip
+Grass
+Physical
+--
+After capturing the two creatures, report back to Looker and he calls
+Anabel
+back to the room. She is feeling light-headed again but tries to downplay her condition. Anabel compliments your battle prowess, as it was all she could do to keep the creatures away from town. She reveals that the beasts get incredibly aggressive when they spot her, as if they see her as prey or an enemy.
+Nanu
+enters the room with new intel; it seems that the latest sightings are coming from
+Ula'ula Island
+. Looker and Anabel are about to leave, and ask you to meet them at the motel on
+Route 13
+.
+Ula'ula Island
+Route 13
+Visit the motel to begin the newest mission. Reports again indicate multiple specimens. Visit
+Malie Garden
+and
+Route 17
+to find four individuals codenamed UB-04 Blade
+S
+, or Malie Garden and
+Haina Desert
+to find two individuals codenamed UB-04 Blaster
+M
+.
+Anabel
+is still feeling unwell but leaves to protect the populated areas.
+Looker
+gives you another ten
+Beast Balls
+to help you on your mission.
+Malie Garden, Route 17
+S
+/ Haina Desert
+M
+Aura: +2
+Attack
+Types:
+Grass
+Steel
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+60
+Leaf Blade
+Grass
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Aura: +2
+Defense
+Types:
+Steel
+Flying
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+65
+Autotomize
+Steel
+Status
+--
+Seed Bomb
+Grass
+Physical
+--
+Skull Bash
+Normal
+Physical
+--
+Power Whip
+Grass
+Physical
+--
+Return to the motel to report your findings.
+Anabel
+says that she has received word from HQ that there is only one Ultra Beast left, and leaves to make reservations for their long-delayed feast. While she is away, Looker informs you of an incident from 10 years ago when he visited
+Alola
+as part of another three-person team to eliminate an Ultra Beast.
+Nanu
+enters and continues the story, revealing that Looker's hesitation cost their remaining team member her life. Fallers—humans who have passed through an Ultra Wormhole—are bathed in some type of energy that the Ultra Beasts find familiar, and they seek out this energy in hopes of returning home. The International Police knew this and used the woman as bait. As you have passed through an Ultra Wormhole as well, you may be giving off the same energy. Anabel returns, and Nanu informs her that the last beast has been spotted on
+Poni Island
+. He leaves to wait for you all at the floating restaurant in
+Seafolk Village
+.
+Poni Island
+Seafolk Village
+Visit the restaurant to find
+Nanu
+and
+Looker
+. Looker sent
+Anabel
+to the wrong location so she can regain her health while he continues his story. The two men found Anabel here, unconscious on the
+Poni Island
+shore, after their mission ended 10 years ago. She had lost most of her memories but knew she was from the
+Hoenn
+region, where she was a
+powerful Trainer
+who protected
+some tower
+there. But everyone has their limits, which is why Looker asked for your help distracting the beasts. The final beast is the toughest of the lot, so Nanu asks for a battle to test your skill.
+Island Kahuna
+Nanu
+Seafolk Village
+Sun and Moon
+Reward:
+$
+10,080
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+63
+Power Gem
+Rock
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Toxic
+Poison
+Status
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krookodile
+♂
+Lv.
+63
+Crunch
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Swagger
+Normal
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+None
+Honchkrow
+♂
+Lv.
+63
+Aerial Ace
+Flying
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Snarl
+Dark
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+63
+Psycho Cut
+Psychic
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Fur Coat
+Held item:
+Darkinium Z
+Persian
+♀
+Lv.
+63
+Power Gem
+Rock
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Nanu leaves, and Looker relays his latest intel to you: a single specimen, codenamed UB-05 Glutton, has been sighted near
+Poni Meadow
+, and Nanu should be leading it into the nearby
+Resolution Cave
+. The mission begins, and Looker gives you another ten
+Beast Balls
+. Head to
+Ancient Poni Path
+and go northeast.
+Ancient Poni Path
+When you travel east from
+Hapu
+'s house, you are approached by
+Sina
+and
+Dexio
+. While you were looking into
+Zygarde
+for them, they were looking into the
+Z-Ring
+and its connection to
+Mega Evolution
+, even here in a region so far from
+Kalos
+. But as Trainers, it is easier to show than explain, so Dexio challenges you to a battle. When his
+Alakazam
+appears, the
+Alakazite
+Mega Stone it holds is triggered by his
+Mega Ring
+. This allows Alakazam to Mega Evolve into Mega Alakazam for the duration of the battle.
+Pokémon Trainer
+Dexio
+Ancient Poni Path
+Sun and Moon
+Reward:
+$
+8,540
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Espeon
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Power Swap
+Psychic
+Status
+--
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♀
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Water
+Psychic
+Ability:
+Own Tempo
+Held item:
+None
+Slowking
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Power Gem
+Rock
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+None
+Metagross
+Lv.
+61
+Meteor Mash
+Steel
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Bullet Punch
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+Alakazite
+Alakazam
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Psyshock
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Dexio explains that the Trainer holds the
+Key Stone
+and the Pokémon holds the
+Mega Stone
+; both are required to induce
+Mega Evolution
+. He gives you a Key Stone and an
+Alakazite
+and the pair head off. Continue northward through the ruins to reach
+Poni Grove
+.
+← Part 28
+Post-Game: Tracking the Ultra Beasts
+Sun and Moon
+walkthrough
+Post-Game: Tracking the Ultra Beasts
+Part 30 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

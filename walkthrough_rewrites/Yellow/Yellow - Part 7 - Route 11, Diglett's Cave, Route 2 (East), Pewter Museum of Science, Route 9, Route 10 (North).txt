@@ -1,0 +1,58 @@
+Game: Yellow
+Part: 7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+### Pokémon Yellow Walkthrough: Part 7
+
+#### Route 11
+- **Location:** Between Vermilion City and Route 12. Access Diglett's Cave here, which connects to Route 2.
+  
+- **Trainers:**
+  - **Gambler:** Poliwag (Lv. 18), Horsea (Lv. 18) - Reward: $1260
+  - **Youngster:** Ekans (Lv. 21) - Reward: $315
+  - **Items:** 
+    - Escape Rope (hidden in a tree north of the gate)
+    - Itemfinder (from Professor Oak's aide after catching 30 species)
+
+- **Treasure Hunting:** Speak to the Scientist at the east gate; catch 30 Pokémon for the Itemfinder.
+  
+- **Trade:** The boy near Oak's aide wants a Lickitung for his Dugtrio (found in Diglett's Cave).
+
+#### Diglett's Cave
+- **Available Pokémon:** 
+  - Diglett (Lv. 15-22, 95%)
+  - Dugtrio (Lv. 29-31, 5%)
+
+#### Route 2 (East)
+- **Access:** Requires HM01 (Cut) to reach the eastern side.
+  
+- **Items:**
+  - HM05 (Flash) from Oak's aide after catching 10 species.
+  - HP Up (south of the gate).
+  - Moon Stone (south of the second ledge).
+
+- **Trade:** Man in northeast house trades Mr. Mime for Clefairy.
+
+#### Pewter City
+- **Pewter Museum of Science:** Use Cut to access the employee area and receive Old Amber from the Scientist.
+
+- **Next Steps:** Return to Cerulean City via Mt. Moon or Diglett's Cave.
+
+#### Route 9
+- **Link:** Connects Cerulean City to Route 10.
+  
+- **Trainers:**
+  - **Jr. Trainer♀:** Oddish (Lv. 18) - Reward: $360
+  - **Hiker:** Machop (Lv. 20), Onix (Lv. 20) - Reward: $700
+
+- **Items:** TM30 (Teleport) in the southwest corner; Ether (hidden on a tree).
+
+#### Route 10 (North)
+- **Connects:** Route 9 to Lavender Town; includes Rock Tunnel.
+  
+- **Trainers:**
+  - **Jr. Trainer♀:** Jigglypuff (Lv. 20), Clefairy (Lv. 20) - Reward: $400
+
+- **Items:** Super Potion (hidden, requires Cut, east of Rock Tunnel's north entrance).
+
+This concludes Part 7 of the Pokémon Yellow walkthrough.

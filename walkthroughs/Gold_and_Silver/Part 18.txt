@@ -1,0 +1,982 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_18
+Keywords: Route 8, Lavender Town, Route 10, Rock Tunnel, Route 9, Power Plant
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 8
+2
+Lavender Town
+2.1
+Kanto Radio Tower
+2.2
+Soul House
+2.3
+Lavender Volunteer Pokémon House
+2.4
+Name Rater
+3
+Route 10 (South)
+3.1
+Rock Tunnel
+3.1.1
+1F (South)
+3.1.2
+B1F (Northwest)
+3.1.3
+1F (West)
+3.1.4
+B1F (Southeast)
+3.1.5
+1F (Northeast)
+4
+Route 9
+4.1
+Calling All Trainers!
+5
+Route 10 (North)
+5.1
+Kanto Power Plant
+5.1.1
+Meet with the Manager
+Route 8
+Route 8
+Route 8
+connects
+Saffron City
+to the west and
+Lavender Town
+to the east. The eastern end of the second
+Underground Path
+can be found here, but the door is locked and authorities have closed the tunnel indefinitely due to rowdy behavior.
+Trainers
+Trainer
+Pokémon
+West to East
+Biker
+Dwayne
+Reward:
+$
+960
+Koffing
+♂
+Lv.
+27
+No item
+Koffing
+♂
+Lv.
+28
+No item
+Koffing
+♂
+Lv.
+29
+No item
+Koffing
+♂
+Lv.
+30
+No item
+Biker
+Harris
+Reward:
+$
+1088
+Flareon
+♂
+Lv.
+34
+No item
+Biker
+Zeke
+Reward:
+$
+1024
+Koffing
+♂
+Lv.
+32
+No item
+Koffing
+♂
+Lv.
+32
+No item
+Super Nerd
+Sam
+Reward:
+$
+1088
+Grimer
+♂
+Lv.
+34
+No item
+Muk
+♂
+Lv.
+34
+No item
+Super Nerd
+Tom
+Reward:
+$
+1024
+Magnemite
+Lv.
+32
+No item
+Magnemite
+Lv.
+32
+No item
+Magnemite
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+G
+S
+C
+Grass
+17,19
+65%
+65%
+0%
+Pidgeotto
+G
+S
+C
+Grass
+17,19
+35%
+35%
+0%
+Vulpix
+G
+S
+C
+Grass
+18
+10%
+10%
+5%
+Meowth
+G
+S
+C
+Grass
+17
+30%
+Growlithe
+G
+S
+C
+Grass
+18
+10%
+10%
+5%
+Abra
+G
+S
+C
+Grass
+15
+20%
+Kadabra
+G
+S
+C
+Grass
+15
+5%
+Haunter
+G
+S
+C
+Grass
+20
+0%
+0%
+30%
+Noctowl
+G
+S
+C
+Grass
+17,19
+0%
+0%
+40%
+Noctowl
+G
+S
+C
+Grass
+19
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PRZCureBerry
+Northwest of the exit to Lavender Town, on a tree (daily)
+G
+S
+Lavender Town
+Lavender Town
+Soul House, Interior
+Lavender Town
+is a quiet, somber town. The area
+was once
+known for its common ghost sightings in
+Pokémon Tower
+, where departed Pokémon were laid to rest. In an attempt to modernize, the town converted the building in recent years into the Kanto Radio Tower. The Pokémon interred here were moved to the Soul House in the southeast part of town, where they remain under the watchful eye of
+Mr. Fuji
+.
+Kanto Radio Tower
+The Kanto Radio Tower has been on high alert ever since
+Johto
+'s
+Radio Tower
+was taken over by
+Team Rocket
+, and visitors are now restricted to the first floor. The Pokégear can detect two of the three programs broadcasted from here on its own, but tuning into the third one requires an
+EXPN Card
+.
+Program
+Host(s)
+Channel
+Description
+Places and People
+Lily
+16.5
+A talk show that discusses various locations and Trainers encountered by the player.
+Let's All Sing
+Fern
+18.5
+Broadcasts different music depending on the day of the week.
+The Pokémon March
+Su
+Tu
+Th
+Sa
+doubles the wild encounter rate; the Pokémon Lullaby
+Mo
+We
+Fr
+halves it.
+Poké Flute Channel
+—
+20.0
+Broadcasts
+Poké Flute
+music. Used to awaken the
+Snorlax
+near
+Vermilion City
+.
+Soul House
+The Soul House was built to accommodate the departed Pokémon from the former
+Pokémon Tower
+. There are several graves on the ground floor, and many more located in underground chambers that are off-limits to all but the caretaker,
+Mr. Fuji
+.
+Lavender Volunteer Pokémon House
+The Lavender Volunteer Pokémon House is located in the center of town. Founded by
+Mr. Fuji
+, the organization was established to care for orphaned and abandoned Pokémon. Many members of the group live here in their safe house while looking after these Pokémon.
+Name Rater
+One of the houses on the south side of town belongs to the
+Name Rater
+. This man judges a Trainer's nickname for their Pokémon, and offers the chance to change it. His service is free so nicknames may be changed repeatedly.
+Route 10 (South)
+Route 10
+Route 10
+connects
+Lavender Town
+to
+Route 9
+in the north. Much of the route is occupied by a river and the grounds of the
+Kanto Power Plant
+. Anyone traveling through the area must venture through the dim interior of
+Rock Tunnel
+. A remote Pokémon Center is located near the north end of the cave.
+Trainers
+Trainer
+Pokémon
+Southern segment
+Pokéfan
+Robert
+Reward:
+$
+2640
+Quagsire
+♂
+Lv.
+33
+Berry
+Hiker
+Jim
+Reward:
+$
+1120
+Machamp
+♂
+Lv.
+35
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Rock Tunnel
+Rock Tunnel, 1F
+Rock Tunnel, B1F
+As it has been left in its natural state and undeveloped,
+Rock Tunnel
+is pitch-black inside. Though not required, it is useful to bring a Pokémon that can use
+Flash
+to illuminate the winding tunnels.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+G
+S
+C
+Cave
+8
+10%
+Machop
+G
+S
+C
+Cave
+12
+20%
+Machoke
+G
+S
+C
+Cave
+14
+5%
+Geodude
+G
+S
+C
+Cave
+10
+30%
+Cubone
+G
+S
+C
+Cave
+10-13
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+G
+S
+C
+Cave
+12
+30%
+Cubone
+G
+S
+C
+Cave
+12
+30%
+Onix
+G
+S
+C
+Cave
+16
+20%
+Zubat
+G
+S
+C
+Cave
+10
+10%
+Marowak
+G
+S
+C
+Cave
+14
+5%
+Kangaskhan
+G
+S
+C
+Cave
+14
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM47
+(
+Steel Wing
+)
+South; on a ridge north of the southern exit
+G
+S
+Elixer
+South; dead-end path, northwest of the southern exit
+G
+S
+X Defense
+South; dead-end path, northeast of the southern exit (hidden)
+G
+S
+X Accuracy
+Northeast; behind the row of rocks (hidden)
+G
+S
+B1F
+Max Potion
+Northwest; west-central area, dead-end path surrounded by rocks (hidden)
+G
+S
+PP Up
+Northwest; southwest area
+G
+S
+Revive
+Northwest; north-central area
+G
+S
+Iron
+Southeast; in the southwest corner
+G
+S
+1F (South)
+Go northward to collect
+TM47
+(
+Steel Wing
+) from the rocky ridge. Pick up the
+Elixer
+to the west, then turn eastward and climb down the ladder.
+B1F (Northwest)
+Head eastward through the first row of rocks, then collect the
+PP Up
+to the south. Go northeast to reach a
+Revive
+in the north-central area, then climb up the eastern ladder.
+1F (West)
+Continue to the northwest and climb down the next ladder.
+B1F (Southeast)
+Go southwest to reach the south-central area, where the tunnel branches off in opposite direcetions. Pick up the
+Iron
+to the west, then climb the ladder to the east.
+1F (Northeast)
+Follow the tunnel westward to reach the exit.
+Route 9
+Route 9
+Route 9
+is a rocky, uneven mountain road that links
+Route 10
+to
+Cerulean City
+.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Edna
+Reward:
+$
+680
+Nidorina
+♀
+Lv.
+30
+No item
+Raichu
+♀
+Lv.
+34
+No item
+Camper
+Sid
+Reward:
+$
+580
+Dugtrio
+♂
+Lv.
+32
+No item
+Primeape
+♂
+Lv.
+29
+No item
+Poliwrath
+♂
+Lv.
+29
+No item
+Camper
+Dean
+Reward:
+$
+620
+Golduck
+♂
+Lv.
+33
+No item
+Sandslash
+♂
+Lv.
+31
+No item
+Hiker
+Tim
+Reward:
+$
+992
+Graveler
+♂
+Lv.
+31
+No item
+Graveler
+♂
+Lv.
+31
+No item
+Graveler
+♂
+Lv.
+31
+No item
+Picnicker
+Heidi
+Reward:
+$
+640
+Skiploom
+♀
+Lv.
+32
+No item
+Skiploom
+♀
+Lv.
+32
+No item
+Hiker
+Sidney
+Reward:
+$
+1024
+Dugtrio
+♂
+Lv.
+34
+No item
+Onix
+♂
+Lv.
+32
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+15
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+13,15
+0%
+0%
+40%
+Rattata
+G
+S
+C
+Grass
+13
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+13,15
+0%
+0%
+70%
+Raticate
+G
+S
+C
+Grass
+15
+10%
+10%
+25%
+Raticate
+G
+S
+C
+Grass
+15
+15%
+15%
+30%
+Spearow
+G
+S
+C
+Grass
+13
+20%
+20%
+0%
+Spearow
+G
+S
+C
+Grass
+13,15
+50%
+50%
+0%
+Fearow
+G
+S
+C
+Grass
+15
+5%
+5%
+0%
+Mankey
+G
+S
+C
+Grass
+13
+30%
+Primeape
+G
+S
+C
+Grass
+15
+5%
+Surfing
+Goldeen
+G
+S
+C
+Surfing
+10-19
+90%
+Seaking
+G
+S
+C
+Surfing
+15-19
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Goldeen
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Goldeen
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ether
+Northwest area, in the westernmost of four trees (hidden)
+G
+S
+Calling All Trainers!
+One of the men inside the Pokémon Center mentions how the manager of the
+Power Plant
+is looking for strong Trainers to help retrieve something that was stolen. Go north from the building to reach a river, then use
+Surf
+to follow the water southward to the facility.
+Route 10 (North)
+Power Plant, Interior
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Raticate
+G
+S
+C
+Grass
+16
+20%
+0%
+0%
+Raticate
+G
+S
+C
+Grass
+17
+0%
+20%
+0%
+Raticate
+G
+S
+C
+Grass
+16,18
+0%
+0%
+25%
+Spearow
+G
+S
+C
+Grass
+16
+30%
+30%
+0%
+Fearow
+G
+S
+C
+Grass
+18
+10%
+10%
+0%
+Voltorb
+G
+S
+C
+Grass
+17
+30%
+Electabuzz
+G
+S
+C
+Grass
+15
+5%
+0%
+5%
+Electabuzz
+G
+S
+C
+Grass
+15,17
+0%
+10%
+0%
+Quagsire
+G
+S
+C
+Grass
+16
+5%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+16-17
+0%
+0%
+40%
+Surfing
+Goldeen
+G
+S
+C
+Surfing
+10-19
+90%
+Seaking
+G
+S
+C
+Surfing
+15-19
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Goldeen
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Goldeen
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Later visit
+TM07
+(
+Zap Cannon
+)
+Power Plant; from the manager, after returning the
+Machine Part
+G
+S
+Kanto Power Plant
+The
+Kanto Power Plant
+building
+had previously
+been abandoned, but was recently renovated in order to power the region more efficiently. The electricity generated here powers all sorts of things, including the
+Magnet Train
+.
+Meet with the Manager
+Visit the east side of the building and speak to the man near the generator. The manager reveals that a thief has stolen an essential piece from the new generator, forcing it offline.
+As you approach the exit, the security guard is alerted to a shady character that has been seen loitering around
+Cerulean City
+, and asks that you investigate for them.
+← Part 17
+Route 6, Saffron City, Saffron Gym
+Gold and Silver
+walkthrough
+Cerulean City, Route 24, Route 25, Cerulean Gym, Route 5
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

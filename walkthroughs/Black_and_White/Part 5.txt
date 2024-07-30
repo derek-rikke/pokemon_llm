@@ -1,0 +1,1685 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_5
+Keywords: Route 4, Desert Resort, Relic Castle, Nimbasa City, Nimbasa Gym, Anville Town
+
+Walkthrough Text:
+Contents
+1
+Route 4
+1.1
+Meet up with Cheren
+2
+Desert Resort
+3
+Relic Castle
+3.1
+Get a Pokémon Fossil
+4
+Nimbasa City
+4.1
+Get a Bicycle
+4.2
+Meet up with Bianca
+4.3
+Battle Institute
+4.4
+Get HM04
+4.5
+Return to Route 2
+4.6
+Big Stadium and Small Court
+4.7
+Battle Subway
+4.8
+Musical Theater
+4.8.1
+Bianca's Dad
+4.9
+Amusement Park
+4.9.1
+Nimbasa Gym
+5
+Anville Town
+5.1
+Lost & Found
+5.2
+The turntable
+Route 4
+Route 4
+The arid
+Route 4
+connects
+Castelia City
+in the south to
+Nimbasa City
+in the north. The constant sandstorm has slowed the construction of a road through the desert, leaving Trainers no choice but to trek through the
+deep sand
+. Gather up the items here and head off into the
+Desert Resort
+to the northwest.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Hubert
+Reward:
+$
+576
+Basculin
+♂
+Blue-Striped Form
+Lv.
+18
+No item
+Basculin
+♂
+Red-Striped Form
+Lv.
+18
+No item
+Fisherman
+Andrew
+Reward:
+$
+512
+Basculin
+♂
+Red-Striped Form
+Lv.
+16
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+16
+No item
+Basculin
+♂
+Red-Striped Form
+Lv.
+16
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+16
+No item
+Parasol Lady
+April
+Reward:
+$
+576
+Tympole
+♀
+Lv.
+18
+No item
+Tympole
+♀
+Lv.
+18
+No item
+Worker
+Gus
+Reward:
+$
+680
+Roggenrola
+♂
+Lv.
+17
+No item
+Roggenrola
+♂
+Lv.
+17
+No item
+Timburr
+♂
+Lv.
+17
+No item
+Worker
+Shelby
+Reward:
+$
+760
+Timburr
+♂
+Lv.
+19
+No item
+Backpacker
+Keane
+Reward:
+$
+456
+Darumaka
+♂
+Lv.
+19
+No item
+Backpacker
+Anna
+Reward:
+$
+456
+Cottonee
+♀
+Lv.
+19
+No item
+Backpacker
+Jill
+Reward:
+$
+432
+Petilil
+♀
+Lv.
+18
+No item
+Backpacker
+Waylon
+Reward:
+$
+456
+Blitzle
+♂
+Lv.
+19
+No item
+Worker
+Scott
+Reward:
+$
+720
+Roggenrola
+♂
+Lv.
+18
+No item
+Timburr
+♂
+Lv.
+18
+No item
+Worker
+Zack
+Reward:
+$
+760
+Timburr
+♂
+Lv.
+19
+No item
+Backpacker
+Jerome
+Reward:
+$
+456
+Pidove
+♂
+Lv.
+19
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sandile
+B
+W
+Deep sand
+15-18
+40%
+Darumaka
+B
+W
+Deep sand
+15-18
+40%
+Scraggy
+B
+W
+Deep sand
+16-17
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Accuracy
+Northwest of the Castelia gate
+B
+W
+Pearl
+East of
+Fisherman
+Andrew (hidden)
+B
+W
+Great Ball
+South of the buildings, near
+Parasol Lady
+April
+B
+W
+Hyper Potion
+×2
+Northeast of
+Parasol Lady
+April
+Near the Trainer Tips sign (hidden)
+B
+W
+Ultra Ball
+East of
+Parasol Lady
+April (hidden)
+B
+W
+Burn Heal
+×2
+In the center of the construction site (hidden)
+Next to
+Backpacker
+Keane
+B
+W
+TM41
+(
+Torment
+)
+On the north side of the construction site
+B
+W
+Ether
+×2
+On the narrow ledge just south of
+TM41
+(hidden)
+On the edge of the deep sand to the east
+B
+W
+Super Potion
+Near
+Backpacker
+Waylon
+B
+W
+TM28
+(
+Dig
+)
+From the
+Worker
+in the house next to the vending machine
+B
+W
+Ultra Ball
+×10
+From
+Professor Juniper
+in the Nimbasa gate
+B
+W
+Meet up with Cheren
+Head north from the
+Castelia
+gate to find
+Cheren
+waiting for you. Now that you both have the
+Insect Badge
+, he wants to see which of you is really stronger.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Route 4
+Black and White
+Reward:
+$
+2200
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+20
+Quick Attack
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansage
+♂
+Lv.
+20
+Bite
+Dark
+Physical
+--
+Vine Whip
+Grass
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Sitrus Berry
+Pignite
+♂
+Lv.
+22
+Flame Charge
+Fire
+Physical
+--
+Defense Curl
+Normal
+Status
+--
+Arm Thrust
+Fighting
+Physical
+--
+Smog
+Poison
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+20
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Pokémon Trainer
+Cheren
+Route 4
+Black and White
+Reward:
+$
+2200
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+20
+Quick Attack
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansear
+♂
+Lv.
+20
+Bite
+Dark
+Physical
+--
+Incinerate
+Fire
+Special
+--
+Yawn
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Sitrus Berry
+Dewott
+♂
+Lv.
+22
+Razor Shell
+Water
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Water Sport
+Water
+Status
+--
+Fury Cutter
+Bug
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+20
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Pokémon Trainer
+Cheren
+Route 4
+Black and White
+Reward:
+$
+2200
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+20
+Quick Attack
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Panpour
+♂
+Lv.
+20
+Bite
+Dark
+Physical
+--
+Water Gun
+Water
+Special
+--
+Water Sport
+Water
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Sitrus Berry
+Servine
+♂
+Lv.
+22
+Leaf Tornado
+Grass
+Special
+--
+Wrap
+Normal
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Growth
+Normal
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+20
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Immediately after the battle,
+Professor Juniper
+calls on the
+Xtransceiver
+and tells you to meet her in the
+gate
+to
+Nimbasa City
+. Instead of heading north right away, follow the road to the west. Stock up on
+drinks
+from the vending machine, and talk to a
+Worker
+in the house here to get
+TM28
+(
+Dig
+). Continue along the western road to reach the
+Desert Resort
+.
+Desert Resort
+In the Desert Resort
+The
+Desert Resort
+is a huge desert with an ever-raging
+sandstorm
+. To the north, along the river's edge, are the
+Relic Castle
+and the Relic Castle Tower. A group of ancient Pokémon statues quietly watch over the castle entrance. If you get into trouble, talk to
+Doctor
+Jerry near the desert entrance to heal your Pokémon. Take some time to train here before reaching the
+Nimbasa Gym
+.
+Trainers
+Trainer
+Pokémon
+Doctor
+Jerry
+Reward:
+$
+1380
+Solosis
+♂
+Lv.
+23
+No item
+Backpacker
+Kelsey
+Reward:
+$
+552
+Tranquill
+♂
+Lv.
+23
+No item
+Backpacker
+Liz
+Reward:
+$
+552
+Watchog
+♀
+Lv.
+23
+No item
+Backpacker
+Nate
+Reward:
+$
+552
+Dwebble
+♂
+Lv.
+23
+No item
+Psychic
+Cybil
+Reward:
+$
+768
+Gothita
+♀
+Lv.
+24
+No item
+Backpacker
+Elaine
+Reward:
+$
+552
+Maractus
+♀
+Lv.
+23
+No item
+Psychic
+Low
+Reward:
+$
+704
+Yamask
+♂
+Lv.
+22
+No item
+Munna
+♂
+Lv.
+22
+No item
+Pokémon Ranger
+Mylene
+Reward:
+$
+1440
+Ducklett
+♀
+Lv.
+24
+No item
+Pokémon Ranger
+Jaden
+Reward:
+$
+1380
+Darumaka
+♂
+Lv.
+23
+No item
+Blitzle
+♂
+Lv.
+23
+No item
+Psychic
+Gaven
+Reward:
+$
+736
+Solosis
+♂
+Lv.
+23
+No item
+Woobat
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Entrance
+Sandile
+B
+W
+Desert
+19-22
+40%
+Darumaka
+B
+W
+Desert
+19-20
+30%
+Maractus
+B
+W
+Desert
+20
+10%
+Scraggy
+B
+W
+Desert
+20
+10%
+Dwebble
+B
+W
+Desert
+20-22
+10%
+Desert
+Sandile
+B
+W
+Desert
+19-22
+40%
+Darumaka
+B
+W
+Desert
+19-20
+30%
+Maractus
+B
+W
+Desert
+20
+10%
+Sigilyph
+B
+W
+Desert
+20
+10%
+Dwebble
+B
+W
+Desert
+20-22
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+BlackGlasses
+In a pit to the west of
+Backpacker
+Liz
+B
+W
+Soft Sand
+Received from the man in black
+B
+W
+Hyper Potion
+East of the
+Relic Castle
+(hidden)
+B
+W
+Fresh Water
+North of
+Psychic
+Cybil
+B
+W
+Rare Candy
+South of
+Psychic
+Gaven (hidden)
+B
+W
+Stardust
+×2
+In a pit southeast of
+Psychic
+Low
+Northwest of
+Pokémon Ranger
+Mylene (hidden)
+B
+W
+Super Potion
+Northwest of
+Backpacker
+Elaine
+B
+W
+Ether
+Between the
+Relic Castle
+and the Relic Castle Tower (hidden)
+B
+W
+Heart Scale
+Northwest corner of the desert, near the castle tower
+B
+W
+Rawst Berry
+×2
+From
+Pokémon Ranger
+Mylene after defeating her
+From
+Pokémon Ranger
+Jaden after defeating him
+B
+W
+Fire Stone
+Northwest of
+Psychic
+Gaven
+B
+W
+TM39
+(
+Rock Tomb
+)
+In the southwest corner, behind two rock formations
+B
+W
+Relic Castle
+Deep inside the Relic Castle
+The
+Relic Castle
+is an ancient ruin almost completely buried beneath the sand. Quicksand has eaten away at the unstable floors, and anyone trying to run through it is caught up and dropped to the floor below. At this point in the story, you'll only be able to reach the first two floors, as the rest are still buried under the desert. You'll be able to explore the other floors later on, after the
+Worker
+here clears out the rest of the sand.
+Trainers
+Trainer
+Pokémon
+Psychic
+Perry
+Reward:
+$
+768
+Sigilyph
+♂
+Lv.
+24
+No item
+Psychic
+Dua
+Reward:
+$
+736
+Woobat
+♀
+Lv.
+23
+No item
+Munna
+♀
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sandile
+B
+W
+1F, B1F
+19-22
+50%
+Yamask
+B
+W
+1F, B1F
+19-22
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Cover Fossil
+From the
+Backpacker
+if the first option is chosen
+B
+W
+Plume Fossil
+From the
+Backpacker
+if the second option is chosen
+B
+W
+B1F
+Revive
+In the center of the floor
+B
+W
+Elixir
+On the western mound of sand (hidden)
+B
+W
+Get a Pokémon Fossil
+Speak to the
+Backpacker
+on the west side of first floor. She has been carrying around a pair of
+Fossils
+, and will let you choose one to keep. The
+Cover Fossil
+will become the
+Water
+/
+Rock
+Tirtouga
+, while the
+Plume Fossil
+will become the
+Rock
+/
+Flying
+Archen
+. You can return to the museum in
+Nacrene City
+anytime and talk to the woman near the entrance to resurrect the ancient Pokémon.
+Leave the desert and continue north. When you enter
+Nimbasa
+'s southern
+gate
+, you run into
+Cheren
+and
+Professor Juniper
+, who gives you each 10
+Ultra Balls
+. The professor leaves to find
+Bianca
+, and Cheren heads off to comb the desert for new Pokémon.
+Nimbasa City
+Nimbasa City
+Nimbasa City
+is a bustling city of entertainment, with various facilities such as the
+Battle Subway
+, the
+Pokémon Musical
+, and even an amusement park.
+Items
+Item
+Location
+Games
+Bicycle
+From the Day-Care Man for rescuing him
+B
+W
+HM04
+(
+Strength
+)
+From the blue-haired guy in the house north of the Battle Institute
+B
+W
+Soothe Bell
+From an old woman in the house north of the Battle Institute,
+after showing her a
+friendly
+Pokémon
+B
+W
+Sun Stone
+From a man in the building north of the Poké Center
+B
+W
+Vs. Recorder
+From the woman leaving the Battle Subway
+B
+W
+Prop Case
+From a man in the Musical Theater
+B
+W
+TM49
+(
+Echoed Voice
+)
+From a woman in the Musical Theater
+B
+W
+X Attack
+South of the Rondez-View Ferris Wheel
+B
+W
+Super Repel
+Southeast of the Rondez-View Ferris Wheel (hidden)
+B
+W
+Macho Brace
+From a man in the city's eastern gate
+B
+W
+In the Nimbasa Gym
+Fresh Water
+From
+Clyde
+B
+W
+TM72
+(
+Volt Switch
+)
+From
+Elesa
+after defeating her
+B
+W
+Get a Bicycle
+When you arrive in the city, a pair of
+Plasma Grunts
+are attacking the
+Day-Care Man
+right in front of you. Defeat one of the thugs to scare them off.
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+720
+Watchog
+♂
+Lv.
+18
+No item
+Trubbish
+♂
+Lv.
+18
+No item
+When they leave, the Day-Care Man gives you a
+Bicycle
+as a token of his gratitude. From this point on, you can now leave up to two Pokémon at the Day-Care on
+Route 3
+.
+Meet up with Bianca
+After rescuing the Day-Care Man from
+Team Plasma
+,
+Bianca
+shows up and mentions all the exciting attractions that
+Nimbasa
+has to offer. She heads off to the
+Pokémon Musical
+, where you'll catch up with her a little later.
+Battle Institute
+After completing the main story, you can visit the
+Battle Institute
+to take a Battle Test. The test consists of five consecutive single or Double Battles, and you earn a rank and score for completing all five.
+Get HM04
+Visit the house north of the Battle Institute and talk to the blue-haired guy inside. He hands over
+HM04
+(
+Strength
+), which lets your Pokémon shove large boulders around.
+Return to Route 2
+If you would like, you can return to Route 2 with your new HM to pick up an item just west of the Accumula Town Gate.
+Items
+Item
+Location
+Games
+Rare Candy
+To the southwest (requires
+Strength
+)
+B
+W
+Big Stadium and Small Court
+Big Stadium
+and
+Small Court
+are the major sports venues of the
+Unova
+region. The stadium hosts baseball, soccer, and football, while the court hosts tennis and basketball. The players double as Trainers and can be battled daily, except when a game is in progress. The number of Trainers and the levels of their Pokémon increase as you earn more Badges. Keep yourself fighting fit by visiting every day.
+Battle Subway
+When you try to enter the
+Battle Subway
+, a woman steps out of the building and hands you the
+Vs. Recorder
+. This device lets you record a video of a battle in the Battle Subway, or a Link Battle with a friend.
+In the
+Battle Subway
+, you can get on a real winning streak. For every seven Trainers you defeat, you'll gain
+Battle Points
+, which can be exchanged for useful items. The more Trainers you defeat, the more BP you can collect.
+Musical Theater
+The Musical Theater is where the
+Pokémon Musical
+is held.
+Bianca
+is waiting outside the building for you, located on the north side of the city. The two of you meet the building's owner inside, who gives you each a
+Prop Case
+. After Bianca leaves, speak to the girl in white near the PC to get
+TM49
+(
+Echoed Voice
+).
+Bianca's Dad
+When you leave the Musical Theater, you'll see
+Bianca
+talking with her dad. He has been worrying about her welfare, and has come to take her home.
+Nimbasa
+'s Gym Leader,
+Elesa
+, can't stand the fighting. She intervenes and convinces Bianca's dad that his daughter will be fine.
+Amusement Park
+The
+Nimbasa Gym
+is located in the amusement park on the east side of the city. When you first visit the park, you'll run into
+N
+. He asks if you are looking for
+Team Plasma
+, and suggests that the two of you ride the ferris wheel to find them. It is here that he reveals himself as Team Plasma's king. He has been working with
+Ghetsis
+to liberate Pokémon. When you climb off of the ride, he battles you to buy time for the grunts' retreat.
+Team Plasma
+N
+Nimbasa City
+Black and White
+Reward:
+$
+2200
+Types:
+Ground
+Dark
+Ability:
+Moxie
+Held item:
+None
+Sandile
+♂
+Lv.
+22
+Assurance
+Dark
+Physical
+--
+Embargo
+Dark
+Status
+--
+Sand Tomb
+Ground
+Physical
+--
+Mud-Slap
+Ground
+Special
+--
+Types:
+Dark
+Fighting
+Ability:
+Shed Skin
+Held item:
+None
+Scraggy
+♂
+Lv.
+22
+Swagger
+Normal
+Status
+--
+Brick Break
+Fighting
+Physical
+--
+Headbutt
+Normal
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Hustle
+Held item:
+None
+Darumaka
+♂
+Lv.
+22
+Fire Punch
+Fire
+Physical
+--
+Headbutt
+Normal
+Physical
+--
+Facade
+Normal
+Physical
+--
+Uproar
+Normal
+Special
+--
+Types:
+Psychic
+Flying
+Ability:
+Magic Guard
+Held item:
+None
+Sigilyph
+♂
+Lv.
+22
+Whirlwind
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Tailwind
+Flying
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Nimbasa Gym
+Nimbasa Gym
+Nimbasa City Pokémon Gym
+Leader: Elesa
+The Shining Beauty
+The
+Nimbasa Gym
+specializes in
+Electric-types
+. Fitting with the city's focus on entertainment, the Gym features multiple roller coasters that challengers must ride to reach the Gym Leader, and a series of switches to change the cars' direction.
+Elesa
+'s two
+Emolga
+are vulnerable to
+Ice
+- and
+Rock-type
+moves, and her
+Zebstrika
+is weak against
+Ground-type
+attacks. But be wary of Emolga's ability,
+Static
+, which may paralyze your Pokémon on contact. All three of her Pokémon know the
+Volt Switch
+, which lets her switch her Pokémon after attacking. If you decide to use TM moves,
+TM28
+(
+Dig
+) and
+TM39
+(
+Rock Tomb
+) are good choices.
+Nimbasa Gym
+Trainers
+Trainer
+Pokémon
+Lady
+Magnolia
+Reward:
+$
+3840
+Emolga
+♀
+Lv.
+24
+No item
+Emolga
+♀
+Lv.
+24
+No item
+Rich Boy
+Cody
+Reward:
+$
+4000
+Blitzle
+♂
+Lv.
+25
+No item
+Rich Boy
+Rolan
+Reward:
+$
+3840
+Blitzle
+♂
+Lv.
+24
+No item
+Blitzle
+♂
+Lv.
+24
+No item
+Lady
+Colette
+Reward:
+$
+4000
+Emolga
+♀
+Lv.
+25
+No item
+Leader
+Elesa
+Nimbasa Gym
+Black and White
+Reward:
+$
+3240
+Types:
+Electric
+Flying
+Ability:
+Static
+Held item:
+None
+Emolga
+♂
+Lv.
+25
+Volt Switch
+Electric
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Electric
+Flying
+Ability:
+Static
+Held item:
+None
+Emolga
+♀
+Lv.
+25
+Volt Switch
+Electric
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Lightningrod
+Held item:
+None
+Zebstrika
+♂
+Lv.
+27
+Flame Charge
+Fire
+Physical
+--
+Spark
+Electric
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+After her defeat,
+Elesa
+awards you the
+Bolt Badge
+, which commands obedience from all Pokémon up to level 50. She also gives you
+TM72
+(
+Volt Switch
+) as a prize.
+Anville Town
+Anville Town
+The only way to reach
+Anville Town
+in
+Unova
+'s far northwest is by taking the Brown Line from
+Nimbasa
+'s Gear Station.
+Item
+Location
+Games
+Ultra Ball
+On the rocky outcropping to the north of town (hidden)
+B
+W
+Rare Candy
+From the Depot Agent in the southeast house
+B
+W
+Revive
+From the backpacker in exchange for two
+Escape Ropes
+(weekends only)
+B
+W
+PP Up
+From the businessman in exchange for a
+Star Piece
+(weekends only)
+B
+W
+Full Restore
+From the blue-haired girl in exchange for twenty
+Poké Balls
+(weekends only)
+B
+W
+Lost & Found
+An employee of the
+Battle Subway
+lives in the southeast house, and will give you a lost
+Rare Candy
+the first time you talk to him. After seven consecutive battles on the Battle Subway, he will give out a number of
+vitamins
+,
+Max Revives
+, or
+Max Elixirs
+for each set of seven victories at the Battle Subway that day, capping at ten per day.
+The turntable
+Anville Town
+is known for its connection with locomotives. Every day, a different train engine can be found on the turntable, most of them a part of the Battle Subway. A
+Worker
+on the bridge
+will explain
+a bit about each one.
+Head west from
+Nimbasa City
+to reach
+Route 5
+.
+← Part 4
+Pinwheel Forest, Skyarrow Bridge, Castelia City, Castelia Gym
+Black and White
+walkthrough
+Route 5, Driftveil Drawbridge, Driftveil City, Cold Storage, Driftveil Gym
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

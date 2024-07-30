@@ -1,0 +1,37 @@
+Game: Crystal
+Part: 23
+Keywords: Route 11, Diglett's Cave, Route 2, Pewter City, Pewter Gym
+
+**Part 23 Walkthrough: Route 11 to Pewter City**
+
+**Route 11:**
+- **Trainers:** Battle Psychics Herman, Fidel, and Youngsters Owen, Jason.
+- **Available Pokémon:** Pidgeotto, Rattata, Raticate, Meowth, Magnemite, Drowzee, Hypno, Noctowl, Hoppip.
+- **Items:** Berry (daily, northeast tree), Revive (hidden, northeast).
+
+**Vermilion City:**
+- **Roadblock:** A Snorlax blocks access to Route 11 and Diglett's Cave. Wake it using the Pokégear radio tuned to Channel 20.0 and then approach it to battle. 
+- **Snorlax Battle:** Level 50, Normal-type; rewards $4200.
+
+**Diglett's Cave:**
+- **Location:** Connects Vermilion City to Route 2.
+- **Available Pokémon:** Diglett (Levels 2-32), Dugtrio (Level 16, 24, 32).
+- **Item:** Max Revive (hidden, north end).
+
+**Route 2:**
+- **Trainers:** Battle Bug Catchers Rob, Doug, and Ed.
+- **Available Pokémon:** Caterpie, Butterfree, Beedrill, Pidgey, Pikachu, Hoothoot, Ledyba, Ariados.
+- **Items:** Carbos, Nugget (from a house), Elixir (southeast, requires Cut), various hidden items.
+
+**Pewter City:**
+- **Visit the Pokémon Center** for a trade: Xatu for Haunter.
+- **Pewter Gym:**
+  - **Leader:** Brock (Rock/Ground-type).
+  - **Strategy:** Grass-type moves are highly effective against his Pokémon. Water-type moves work well against Graveler, Rhyhorn, and Onix.
+  - **Brock's Pokémon:** Graveler (Level 41), Rhyhorn (Level 41), Omastar (Level 42), Onix (Level 44), Kabutops (Level 42).
+  - **Reward:** Boulder Badge after defeating Brock.
+
+**The Silver Feather:**
+- Speak to the elderly man on the east side of town for the Silver Wing, which aids in finding a certain legendary Pokémon.
+
+**End of Part 23.**

@@ -1,0 +1,1403 @@
+Part: Part 23
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_23
+Keywords: Final Preparation, VS Elite Four, VS Champion, Hall Of Fame
+
+Walkthrough Text:
+Contents
+1
+Final Preparation
+1.1
+Medicine
+1.1.1
+Health-restoring Items
+1.1.2
+PP-restoring items
+1.1.3
+PP-raising Vitamins
+1.2
+Battle Items
+1.3
+Party Condition
+1.3.1
+Health
+1.3.2
+Levels
+1.3.3
+Moves
+1.4
+Strategy
+2
+VS Elite Four
+2.1
+VS Aaron
+2.2
+VS Bertha
+2.3
+VS Flint
+2.4
+VS Lucian
+3
+VS Champion
+4
+Hall Of Fame
+Final Preparation
+Don't proceed to challenge the
+Elite Four
+yet. You must do some insanely serious preparation. The most serious one ever.
+The Elite Four will be the second hardest challenges in the main storyline. You’ll have to fight them all, four in a row. Not really back-to-back -- you have time to heal between fights, but you
+cannot gain access to a Pokémon Centre
+, so you’ll need a lot of healing items. When you head inside, you can no longer get out until the challenges are over. There is only one way to go: to win and proceed. Experienced players know this fact: a loss to any of them means starting over from the first one. If you think that you can face them, quote the slogan of NBA Playoffs and remind yourself:
+"Win or go home."
+Similar to Gym Leaders, each of the Elite Four specializes in a single type. Therefore, there are at least 4 types of Pokémon for you to face off. Moreover, at least one Pokémon in three of their teams does NOT belong to their specializing types, so bring Pokémon with different types of moves.
+When you beat one, you can face the next Elite Four, and he/she will have a team that is stronger than the team of the previous one. That means the last one will be the strongest out of the 4. The Elite Four have 5 Pokémon in each of their team. Their Pokémon are at
+levels ranging from 53 to 63
+and possess moves that deal lots of damage. When one of their Pokémon is defeated, they'll send in their remaining Pokémon depending on the situation, not according to the order of the list, which you should know. Be careful that you need to bring their Pokémon down without making them survive with less than 30% of their HP, or the Elite Four will use Full Restores. Use your own items if needed because you cannot risk your main Pokémon getting knocked out. From the third Elite Four onwards, the opposing Pokémon can be
+at Lv.60 or above
+. If your Pokémon are not trained enough, your Pokémon will be severely pulverized. Whatever you have planned will be wasted if your Pokémon fainted early on.
+There is also one more challenge after beating the Elite Four. That’s a battle facing the League Champion-- the most difficult challenge before you complete the main storyline. Similar to
+Rival
+Barry
+, the Champ has a full party that doesn’t specialize in a type, so be wary and bring a team with Pokémon in a variety of types. The Champ’s strongest Pokémon is
+above Level 65
+, and ALL of the members in Champion's team are
+at Lv.60 or an even higher level
+, so be extra careful! Champion's party also possesses powerful moves that hits even harder than the Pokemon of Elite Four.
+DO NOT hesitate
+if you need to use your items, or your own "heavy-hitters".
+Let's take a look at this checklist for the final preparation.
+Make sure that you have done the following things before taking on the
+Sinnoh League
+:
+Medicine
+This section is EXTREMELY IMPORTANT! Keep in mind that you are
+not permitted to access any Pokémon Centre
+once you challenge the Sinnoh League-- this point is always stressed before any League challenges.
+Health-restoring Items
+These items are
+CRUCIAL
+. All battles in the League are very intense and will definitely tire out your Pokémon. Whenever your Pokémon is in a pinch, you need to use these without hesitation. You also need to use these between battles as you are once again reminded that no access to Pokémon Centre is allowed between battles. That's why you need a LOT of these.
+Buy at least 40 of each necessary medicine
+.
+Buying 45 to 50 of each is recommended.
+To save money, do not buy
+Super Potions
+, and don't buy very many bottles of
+Potion
+.
+You may still need to buy many bottles of
+Hyper Potion
+,
+Max Potion
+and
+Full Restore
+.
+Buy
+Drinks
+(Fresh Water, Soda Pop, Lemonade, Moomoo Milk) instead of the Potions. You should know where to buy them because you had just bought a lot before going through
+Victory Road
+. But if you are really unsure, the locations to purchase them are as follows:
+Fresh Water, Soda Pop, Lemonade: fifth floor of the Veilstone Department Store, Veilstone City
+Moomoo Milk:
+Café Cabin
+,
+Route 210
+Revives
+are also very important as your main Pokémon can be rendered unable to battle with only a few hits. Unfortunately, Revives are expensive and
+Max Revives
+are not-for-sale. Go to the
+Underground
+and dig for them.
+PP-restoring items
+As you have to fight 5 battles consecutively, the
+PP
+(Power Points) of your Pokemon's moves will be drained rapidly, especially for the moves with low PP. Unfortunately, bottles of
+Ether
+, Max Ether, Elixir and Max Elixir are not-for-sale items. If you did not use any of these items that you've picked up on your journey, you don't need to worry about running out of PP.
+An alternative method is to plant many
+Leppa Berries
+.
+Check that if you have 30 to 40 Leppa Berries before challenging the League.
+If you don't have any of them, you can obtain a Leppa Berry from
+Berry Master
+in a house on
+Route 208
+. He gives out a berry per day.
+Save before approaching him. If he does not give you a Leppa Berry, soft reset and ask him again.
+Plant all of them in tiles of
+soft soil
+. You can find these tiles all over the
+Sinnoh
+region. Check the status of the berries constantly.
+Water the planted berries from time to time!
+If not, the soil will turn dry (becoming orange or even sandy), harming the growth of berries.
+Pick the berries when they are fully grown. You can find up to 5 Leppa Berries per plant if you treated the plants well, watering them before the soil turns dry.
+PP-raising Vitamins
+You may also consider using bottles of
+PP Up
+on moves that have 10 PP or lower. Many "heavy-hitters" like
+Close Combat
+and
+Blizzard
+have only 5 PP, while some strong moves like
+Ice Beam
+and
+Earthquake
+have only 10 PP. You will use up the PP of these attacks rather fast. However, PP Up are rare and again not-for-sale, while
+PP Max
+are not even available for you to collect until you reach the after game storyline. Use your bottles of PP Up wisely and do not use them on moves that will be replaced soon.
+Battle Items
+Some of the
+Battle items
+, especially those started with X, enhances stats of your Pokémon like many
+Status moves
+, putting your Pokémon in an advantage. Sometimes these battle items can turn a battle around, but bear in mind that
+Critical hits
+negate all the effects of stat boosting. The effect of these items also wears off instantly if the Pokémon is switched out or knocked out. When comparing to Status moves, Battle items can neither boost multiple stats at once, nor increase a single stat "sharply" in one turn, but they do not take a slot in Pokémon move sets.
+Buy 20 to 40 of each if you need.
+Available on the second floor of the
+Veilstone Department Store
+,
+Veilstone City
+.
+Party Condition
+This walkthrough will NOT provide any recommended Pokémon because being a Pokémon Trainer, you have the responsibility to train your party, bond with your team and discover the strength of your own Pokémon. Any Pokémon can win with bonding and successful training. Nevertheless, the walkthrough is going to provide the following critical reminders.
+Health
+Heal your Pokémon!
+Your team should be exhausted after confronting Rival Barry, or after intense training.
+Levels
+This is also very important. As members of the Elite Four possess Pokémon at high levels, any Pokemon that are at or below Level 55 does not stand a chance of defeating any opponents in the Sinnoh League, even if you have a great strategy. Only arrogant fools charge in without training their Pokémon.
+Train your Pokémon until they are above Level 55!
+This does not guarantee your Pokemon to be indestructible, but this level should prevent your Pokemon from being overwhelmed by the foes' attacks.
+Having your Pokémon at about Level 60 is recommended.
+If your Pokémon are at or below Level 55, DO NOT even dare to proceed!
+You will need many perfect plans and immense luck to emerge victorious, should you decide to challenge at this state. Otherwise, you will regret not training your Pokémon further.
+Good training places: Victory Road,
+Route 223
+You can also fight some Trainers again using
+Vs. Seeker
+in
+outdoor
+places. It does not work in Victory Road, as it is considered as indoor.
+Moves
+Make sure that your Pokémon have moves that suits your strategies and are capable of dealing considerable amount of damage to your foes. You need to consider the following aspects:
+Power: You need moves that have moderate or high power. Except for multi-hitting moves, any moves with the base power under 50 are not even a scratch to your foes.
+One-hit knockout moves
+are also useless in your initial challenge because of the level differences between your team and your enemies.
+Type
+Effectiveness: Memorize the type match-ups to maximize the damage of your moves. Only a fool will aim for the enemies' immunity. Also, if the type of an offensive move matches any of the user's type, the
+same-type attack bonus
+will boost the power of that specific move.
+Coverage: Do you think your team can possess moves that counter all type combinations? If you face a Pokémon with no weaknesses, what moves will you try?
+PP: How long can you keep using your moves? Pack some strong back-up attacks in case your main "heavy-hitter" runs out of PP.
+Category: Pay attention in order to maximize the potential of your team. If your Pokémon has a higher Attack stat, give it some strong Physical attacks. If your Pokémon has a higher Sp. Atk stat, Special attacks are the way to go. Status moves that enhance your Pokémon's stats will also be useful because these moves increase multiple stats at once or a single stat for 2 stages upon usage (which Battle items cannot do), but it takes up a slot of your Pokémon's move set. The boosts of your Pokemon's stats will also reset once your Pokemon is switched out or knocked out. Critical Hits ignores all stat increases.
+Accuracy: You will definitely need moves that are accurate. If a move always misses, even though the attack is devastatingly powerful, it is meaningless. This is another reason that you are discouraged to use 1-hit KO moves-- the accuracy of these moves are only 30%. Some attacks like
+Aerial Ace
+and
+Shock Wave
+will always hit the target regardless of accuracy and evasiveness-- perfect counterstrike for
+Double Team
+spammers.
+Secondary Effects: Some moves may inflict
+status ailments
+after dealing damage. Some moves may increase the user's stat or reduce the opponent's stat after usage. Do these moves suit your strategy? Some "heavy-hitters" such as
+Close Combat
+,
+Leaf Storm
+and
+Draco Meteor
+reduces YOUR Pokémon's stat after usage, while others like
+Double-Edge
+,
+Volt Tackle
+,
+Flare Blitz
+and
+Wood Hammer
+cause
+recoil
+damage to your Pokémon-- watch out when you need to use these moves. Overpowered attacks such as
+Hyper Beam
+and
+Giga Impact
+force the user to recharge, while
+Explosion
+is basically a suicide bombing. Do you really need these moves that have serious drawbacks?
+Strategy
+Plan your strategies before asking for a challenge. Rushing in without appropriate strategy leads to failure. Think about the following question seriously:
+Are you aiming at the type advantages? Is type advantage enough for you to be the victor?
+Do you go all-out offensive? Or do you need to have some defensive moves to increase the stats? Do you need to cripple your opponents with status ailments?
+Want to start a "blitzkrieg" and end the fights fast? Are there any "sweepers"-- Pokemon that are speedy and hits devastatingly hard, in your party?
+Want to exhaust your foes gradually? Do you have "tanks"-- Pokémon who are defensively strong and have plenty of HP so that they can withstand many hits, in your team?
+The Elite Four and Champion have many tricks up their sleeves. Do you have both "sweepers" and "tanks"?
+What will you do when the Pokemon you are using faints? Continue your assault with another suitable Pokémon, or revive the fainted Pokémon and let the Pokémon you've just sent in take a serious blow?
+Do you always use the most powerful move to start a battle? What if that attack runs out of PP? What if the opposing Pokémon barely survived, and a bottle of Full Restore is used on it?
+VS Elite Four
+When you are ready, proceed to the
+Ace Trainer
+that guards the corridor to the Elite Four. Talk to him, and he’ll check if you have all of the 8
+Sinnoh
+Gym Badges. If you have, he’ll step aside, and let you proceed.
+Remember: Once you head in, NO turning back!
+VS Aaron
+Make sure that you heal your Pokémon before proceeding!
+Proceed through the corridor. The first Elite Four is
+Aaron
+. He specializes in the
+Bug-type
+. The following battle will probably be your easiest Pokémon League fight, especially if you have Rock-type moves, but still, never underestimate his team.
+Elite Four
+Aaron
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+6840
+Types:
+Bug
+Poison
+Ability:
+Shield Dust
+Held item:
+None
+Dustox
+♂
+Lv.
+53
+Bug Buzz
+Bug
+Special
+--
+Toxic
+Poison
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Double Team
+Normal
+Status
+--
+Types:
+Bug
+Flying
+Ability:
+Swarm
+Held item:
+None
+Beautifly
+♂
+Lv.
+53
+Bug Buzz
+Bug
+Special
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+54
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Bug
+Flying
+Ability:
+Pressure
+Held item:
+None
+Vespiquen
+♀
+Lv.
+54
+Attack Order
+Bug
+Physical
+--
+Defend Order
+Bug
+Status
+--
+Heal Order
+Bug
+Status
+--
+Power Gem
+Rock
+Special
+--
+Types:
+Poison
+Dark
+Ability:
+Battle Armor
+Held item:
+Sitrus Berry
+Drapion
+♂
+Lv.
+57
+Cross Poison
+Poison
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+He opens up the fight with
+Dustox
+, a Bug/Poison-type Pokémon (not Flying-type). You should know how to deal with it after all those battles with
+Team Galactic
+. Its only attacking move is
+Bug Buzz
+. If it uses
+Double Team
+to raise its evasiveness too many times, fight back with some moves like
+Aerial Ace
+that never miss. Watch out for
+Toxic
+, which inflicts bad poison if it hits your Pokémon. You know what
+Light Screen
+does, don't you? It can reduce the damage of all Special-based attacks. Better defeat it right away.
+You should also know how to deal with
+Beautifly
+. However, this Bug/Flying-type Pokémon is totally offensive with Special-based moves.
+Rock-type
+moves overwhelm it, but watch out for
+Energy Ball
+, which may also reduce your Sp. Def! It also knows Bug Buzz (like Dustox),
+Psychic
+, and
+Shadow Ball
+. If you chose
+Infernape
+, watch out for Psychic.
+You faced
+Heracross
+before, during the final Rival Battle. This one is also totally offensive, but with Physical-based moves.
+Flying-type
+moves overwhelm it, but be extra careful because Heracross knows
+Stone Edge
+, which has a higher-than-usual critical-hit ratio. It also has
+Night Slash
+, as well as its
+signature move
+Megahorn
+, so don’t even try using Psychic-type Pokémon. It also has
+Close Combat
+, which hits as hard as Megahorn but is more accurate. After using Close Combat, though, Heracross's Defense and Sp. Def will be reduced, so use that chance to hit hard.
+Vespiquen
+is another Bug/Flying-type Pokémon and the evolution of female
+Combee
+. It has all of its three signature moves:
+Attack Order
+,
+Defend Order
+and
+Heal Order
+. From the names, you can deduce that Attack Order deals damage, Defend Order raises its defensive stats and Heal Order heals it. It also has
+Power Gem
+to counter Flying-type Pokémon. Rock-type moves will, again, overwhelm this Pokémon. A good
+Fire-type
+or Flying-type move will also take it out.
+Aaron’s strongest Pokémon is
+Drapion
+, at Lv.57. It is not a Bug-type Pokémon, but it evolves from the Poison/Bug-type
+Skorupi
+. Drapion is a
+Poison
+/Dark-type Pokémon, so its only weaknesses are Ground-type moves. However, if you decide to use Ground-type Pokémon, make sure to watch out for
+Ice Fang
+! It also has
+Cross Poison
+,
+X-Scissor
+and
+Aerial Ace
+, all of which will hit hard, especially Cross Poison. Send in Pokémon with high Defense to shut down its attacks.
+After you beat Aaron, he’ll tell you that three more Trainers are waiting for you and are tougher than him. Get ready for a harder fight.
+VS Bertha
+Make sure that you heal your Pokémon before proceeding!
+Proceed through the corridor. The second Elite Four is
+Bertha
+. Her team specializes in
+Ground-type
+. Don’t think Flying-type Pokémon can avoid all of the attacks from her Pokémon, though. Grass-type moves make this fight easier, but again, you must not underestimate her team.
+Elite Four
+Bertha
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+7080
+Types:
+Water
+Ground
+Ability:
+Damp
+Held item:
+None
+Quagsire
+♀
+Lv.
+55
+Protect
+Normal
+Status
+--
+Sandstorm
+Rock
+Status
+--
+Dig
+Ground
+Physical
+--
+Double Team
+Normal
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Sudowoodo
+♀
+Lv.
+56
+Sucker Punch
+Dark
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♀
+Lv.
+55
+Rock Slide
+Rock
+Physical
+--
+Fissure
+Ground
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Aqua Tail
+Water
+Physical
+--
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Golem
+♀
+Lv.
+56
+Gyro Ball
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Type:
+Ground
+Unknown
+Ability:
+Sand Stream
+Held item:
+Sitrus Berry
+Hippowdon
+♀
+Lv.
+59
+Earthquake
+Ground
+Physical
+--
+Curse
+???
+Status
+--
+Stone Edge
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Her first Pokémon is
+Quagsire
+. It's sturdy and only has one weakness, which is a major one:
+Grass
+. A Grass-type move will deal significant damage to it. It only has one attacking move:
+Dig
+, which is a two-turn attack. Its other moves are
+Sandstorm
+, which summons a sandstorm for 5 turns that damages all but
+Rock-type
+,
+Ground-type
+and
+Steel-type
+Pokémon. Quagsire also has
+Protect
+(you should know what it does). Like Aaron’s Dustox, it also wields Double Team, so knock it out immediately or prepare some certain-hit moves like
+Magical Leaf
+.
+Sudowoodo
+looks like a small tree, but (surprise!) it is not a Grass-type Pokémon. It is also not a Ground-type Pokémon. Instead, it’s a pure Rock-type Pokémon. Similar to Quagsire, it has Sandstorm. Moreover, it also has
+Sucker Punch
+to strike first and catch you off guard if you are attacking. It also has
+Earthquake
+and a Fighting-type move
+Hammer Arm
+.
+Water-type
+, Grass-type, Fighting-type and your own Ground-type moves can finish it off.
+Whiscash
+is another Water/Ground-type Pokémon, and also the evolution of
+Barboach
+. Again, Grass-type moves are its only and major weaknesses. This Pokémon is totally offensive with Physical-based moves. Be extremely careful if your Pokémon has a lower level than Whiscash’s level and are not Flying-type Pokémon! Whiscash has
+Fissure
+, which is a fatal move -- it will instantly kill your Pokémon if it hits! It also has
+Rock Slide
+to hit Flying-type Pokémon. Moreover, it has
+Aqua Tail
+and
+Zen Headbutt
+(most Grass-type Pokémon are also partly Poison-type Pokémon, so be wary).
+Golem
+-- the evolution of
+Graveler
+, as well as the final form of
+Geodude
+, is a Rock/Ground-type Pokémon, so you should know how to deal with it. Water-type and Grass-type moves are its major weaknesses, but Fighting-type and your own Ground-type moves may work too. It has the common Ground-type move Earthquake, the Steel-type
+Gyro Ball
+to hit faster Pokémon for more damage and
+Brick Break
+to counter
+Steel-type
+Pokémon. It also has Sandstorm, similar to Sudowoodo.
+Bertha’s strongest Pokémon is
+Hippowdon
+, the evolution of
+Hippopotas
+, at Lv.59. This Pokémon can be insane if you don't knock it out right away. Its
+Ability
+Sand Stream
+summons a sandstorm that lasts for the whole battle, no matter if any of her Pokémon summoned one. Like Golem and Sudowoodo, it has Earthquake. It also can use Stone Edge to counter Ice-type and Flying-type Pokémon, as well as the Dark-type
+Crunch
+that may reduce the Defense stat of your Pokémon. Don’t let it use
+Curse
+for too many times, or its Attack and Defense will skyrocket, making its three attacking moves (all of them are Physical-based) dreadful. Water-type, Ice-type or Grass-type moves are your best choices.
+After you beat Bertha, she’ll think that you can go as far as you want. Talk to her again, and she’ll tell you that the Trainer in the next room is much more formidable. These 2 fights can be a warm-up exercise for skilful players, but from now on, be even more cautious.
+VS Flint
+Make sure that you heal your Pokémon before proceeding!
+Proceed through the corridor. The third Elite Four is
+Flint
+, which you saw earlier in
+Sunyshore City
+. His team "specializes" in
+Fire-type
+, but due to the lack of Fire-type Pokémon in this Sinnoh Region, he only has two Fire-type Pokémon. Be prepared to face a team with Pokémon in diverse types.
+Elite Four
+Flint
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+7320
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+58
+Sunny Day
+Fire
+Status
+--
+Flare Blitz
+Fire
+Physical
+--
+SolarBeam
+Grass
+Special
+--
+Bounce
+Flying
+Physical
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♂
+Lv.
+58
+Double Team
+Normal
+Status
+--
+Baton Pass
+Normal
+Status
+--
+Ominous Wind
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Types:
+Steel
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Steelix
+♂
+Lv.
+57
+Rock Tomb
+Rock
+Physical
+--
+Sunny Day
+Fire
+Status
+--
+Fire Fang
+Fire
+Physical
+--
+Screech
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Lopunny
+♂
+Lv.
+57
+Charm
+Normal
+Status
+--
+Mirror Coat
+Psychic
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Fire Punch
+Fire
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Sitrus Berry
+Infernape
+♂
+Lv.
+61
+Flare Blitz
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+He starts with
+Rapidash
+-- the evolution of
+Ponyta
+. It is extremely fast. It has
+Flare Blitz
+that hurts a lot but also deals serious recoil damage like
+Double-Edge
+. It also has
+Bounce
+, which is a Flying-type move and a two-turn attack like
+Fly
+. Water-type, Ground-type and Rock-type moves are your best choices, but be careful of its
+SolarBeam
+, which is a Grass-type move! Don’t let it use
+Sunny Day
+. What Sunny Day does is not only boosting power of Fire-type moves. It also lets SolarBeam to fire right away without charging!
+Drifblim
+is a Ghost/Flying-type Pokémon. It has Double Team (like Aaron’s Dustox and Bertha’s Quagsire) and
+Baton Pass
+to switch to another Pokémon while passing all stat changes along. The
+Ghost-type
+move
+Ominous Wind
+is its only attacking move, but it might raise all of its stats at once. Its only Fire-type move is
+Will-O-Wisp
+, which inflicts burn. Hit it back with Dark-type, Electric-type, Ice-type, Rock-type or your own
+Ghost-type
+moves, but beware of its Ability
+Aftermath
+, which damages the Pokémon landing finishing blow!
+Steelix
+is a Steel/Ground-type Pokémon and the evolution of
+Onix
+, which you should know. It has
+Rock Tomb
+that may reduce Speed of your Pokémon and
+Screech
+to make Defense stat of your Pokémon plummet. It also has
+Fire Fang
+that may burn your Pokémon or make it flinch, and Sunny Day, similar to Rapidash. Hit it with Water-type, Ground-type, Fighting-type or your own Fire-type moves.
+Lopunny
+is a pure
+Normal-type
+Pokémon, and the evolution of
+Buneary
+. Only
+Fighting-type
+moves will deal super-effective damage. Be careful that it has
+Cute Charm
+as its Ability. If your Pokémon's gender is Lopunny's opposite one (in this case, if you use a female Pokémon), using moves that make contact may result in infatuation. However, using Special-based moves like
+Focus Blast
+are unsafe because of
+Mirror Coat
+, which reflects any Special-based attacks for double damage. It has
+Charm
+to make Attack stat of your Pokémon plummet, Sunny Day (like Rapidash and Steelix) and
+Fire Punch
+that may burn your Pokémon.
+Flint’s strongest Pokémon is
+Infernape
+-- the evolution of
+Monferno
+, as well as the final form of
+Chimchar
+. It is a Lv.61 Fire/Fighting-type Pokémon. It has high Attack, Sp. Atk and Speed. Forget about outspeeding it if your Pokémon are slower than Rapidash. It has Flare Blitz, similar to Rapidash, and Earthquake, similar to 3 of Bertha’s Pokémon. It also has
+Mach Punch
+to hit fast (like
+Quick Attack
+) and
+ThunderPunch
+to counter Flying-type Pokémon and may inflict paralysis. Water-type, Ground-type, Flying-type (beware of ThunderPunch) and Psychic-type moves are your best choices.
+After beating Flint, he cannot believe he loses, and he’ll tell you to keep going. Only 1 Elite Four left!
+VS Lucian
+Make sure that you heal your Pokémon before proceeding!
+Proceed through the corridor. The fourth and final Elite Four is
+Lucian
+. His team specializes in
+Psychic-type
+. Unlike the previous 3, all of his Pokémon are Psychic-type Pokémon.
+Dark-type
+Pokémon are the most advantageous, but having immunity doesn’t mean everything. 4 of his Pokémon know
+Psychic
+, which may reduce Sp. Def of your Pokémon if it hits.
+Elite Four
+Lucian
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+7560
+Type:
+Psychic
+Unknown
+Ability:
+Soundproof
+Held item:
+None
+Mr. Mime
+♂
+Lv.
+59
+Psychic
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Normal
+Psychic
+Ability:
+Inner Focus
+Held item:
+None
+Girafarig
+♂
+Lv.
+59
+Psychic
+Psychic
+Special
+--
+Double Hit
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Medicham
+♂
+Lv.
+60
+Drain Punch
+Fighting
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+60
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Recover
+Normal
+Status
+--
+Energy Ball
+Grass
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+Sitrus Berry
+Bronzong
+Lv.
+63
+Psychic
+Psychic
+Special
+--
+Gyro Ball
+Steel
+Physical
+--
+Calm Mind
+Psychic
+Status
+--
+Earthquake
+Ground
+Physical
+--
+He starts with
+Mr. Mime
+. It is a pure Psychic-type Pokémon. It may surprise you with the Electric-type
+Thunderbolt
+or set up with
+Reflect
+and Light Screen. Render it unable to battle fast with Dark-type, Bug-type or Ghost-type moves, in order to avoid a long and tiring battle.
+Girafarig
+is a Normal/Psychic-type Pokémon, so Ghost-type moves have no effect. It has
+Double Hit
+to hit your Pokémon twice in a row. It also has
+Shadow Ball
+and
+Crunch
+that may reduce Sp. Def and Defense respectively, as well as countering Ghost-type Pokémon. Deal serious damage on it with Dark-type and Bug-type moves.
+Medicham
+is a Fighting/Psychic-type Pokémon and the evolution of
+Meditite
+. It is the only one of Lucian’s Pokémon that doesn’t have any Psychic-type moves, thus doesn’t have the move Psychic. Actually, its moves are all punches! It possesses
+Drain Punch
+(has the same power and draining effect as
+Giga Drain
+) and three elemental punches -- Fire Punch,
+Ice Punch
+and ThunderPunch. Flying-type (be careful of Ice Punch and ThunderPunch) and Ghost-type moves are your best bet.
+Alakazam
+is a pure Psychic-type Pokémon. It is the evolution of
+Kadabra
+and the final form of
+Abra
+. It has Energy Ball to surprise you and reduce Sp. Def stat of your Pokémon. It also has
+Focus Blast
+, which hits as hard as Close Combat and counters Dark-type Pokémon, so be extra careful. It may also use
+Recover
+to heal up.
+Lucian’s strongest Pokémon is
+Bronzong
+-- the evolution of
+Bronzor
+, at Lv.63. It is a Steel/Psychic-type Pokémon, making it only weak to Fire-type and Ground-type moves, but due to its Ability
+Levitate
+(which makes all Ground-type moves miss), Fire-type moves are your only choice. Be extremely careful: it can use Earthquake! It also has Gyro Ball to counter faster Pokémon, similar to Bertha’s Golem. It has
+Calm Mind
+to raise its Sp. Atk and Sp. Def.
+After beating Lucian, he’ll note that "your power is real" and say:
+"Congratulations. You have beaten the Elite Four. However, that doesn't mean you're done with the Pokémon league. There remains the
+Champion
+. I should warn you—the Champion is far stronger than the Elite Four."
+Great job! You have finally beaten the Elite Four, but your challenge is not over! You still need to face the League Champion. Get ready for the hardest fight ever......
+VS Champion
+Make sure that you heal your Pokémon before proceeding!
+This corridor is longer. Don't go into Champion's room yet because once you go inside, the battle will start! Keep in mind you can’t switch the order of your Pokémon once you head inside.
+Guess who? Remember the one who gave you
+HM01
+(
+Cut
+),
+SecretPotion
+and
+Old Charm
+? That’s
+Cynthia
+. Yep,
+Cynthia is the League Champion!
+She has a full team with Pokémon in different types and at or above Lv.60. This will be your most difficult fight (at least in the main storyline), but try your best to beat her!
+Champion
+Cynthia
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+13200
+Types:
+Ghost
+Dark
+Ability:
+Pressure
+Held item:
+None
+Spiritomb
+♀
+Lv.
+61
+Embargo
+Dark
+Status
+--
+Silver Wind
+Bug
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♀
+Lv.
+60
+Energy Ball
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+63
+Aura Sphere
+Fighting
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Psychic
+Psychic
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Ground
+Ability:
+Sticky Hold
+Held item:
+None
+Gastrodon
+♀
+Lv.
+60
+Muddy Water
+Water
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+63
+Aqua Ring
+Water
+Status
+--
+Mirror Coat
+Psychic
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Surf
+Water
+Special
+--
+Types:
+Dragon
+Ground
+Ability:
+Sand Veil
+Held item:
+Sitrus Berry
+Garchomp
+♀
+Lv.
+66
+Dragon Rush
+Dragon
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Her first Pokémon is
+Spiritomb
+. Due to its Ghost/Dark type, it has no weaknesses normally. Yup,
+no weaknesses
+. You can only bring it down with your strongest attacks that aren’t Normal-type, Fighting-type or Psychic-type moves, or by identifying it with
+Foresight
+,
+Odor Sleuth
+, hence removing two of its immunities and exposing its weakness to Fighting-type moves. It possesses
+Embargo
+to prevent you from using items on your Pokémon, and also Psychic,
+Dark Pulse
+(which may make your Pokémon flinch) and
+Silver Wind
+, a Bug-type move that might raise all of its stats at once. Eliminate it quickly because its Ability
+Pressure
+will drain the PP of your moves at a doubled rate!
+Roserade
+— the evolution of
+Roselia
+and the final form of
+Budew
+, is a Grass/Poison-type Pokémon. It is all out offensive with Special-based moves: Sludge Bomb (like Gastrodon), Energy Ball (like Aaron’s Beautifly and Lucian’s Alakazam), Shadow Ball (like Lucian’s Girafarig) and
+Extrasensory
+. You should know how to deal with it -as you have already defeated it owned by
+Leader
+Gardenia
+before- : Fire-type, Flying-type, Ice-type and Psychic-type (beware of Shadow Ball) attacks are the bane of it.
+Lucario
+is a Fighting/Steel-type Pokémon and the evolution of
+Riolu
+. This Aura Pokémon is also all out offensive with
+Aura Sphere
+(a Fighting-type move that never misses),
+Dragon Pulse
+, Psychic and Earthquake. Like the previous Pokémon, if you have won against the
+3rd Leader
+, you should know how to deal with it! But in case you forgot, hit back with Fire-type moves (beware of Earthquake), Ground-type moves or your own Fighting-type attacks (beware of Psychic).
+Gastrodon
+— the evolution of
+Shellos
+, is a Water/Ground-type Pokémon, so Grass-type moves deal significant damage to it. It's extremely slow that most Pokémon will outspeed it, but it is all out offensive with
+Muddy Water
+(which may reduce Accuracy of your Pokémon),
+Sludge Bomb
+(counters Grass-type Pokémon and may inflict poison), Earthquake and Stone Edge (counters Flying-type Pokémon).
+Milotic
+— the evolution of
+Feebas
+, is a pure Water-type Pokémon. It can attack with
+Surf
+and
+Ice Beam
+(counters Grass-type Pokémon and may freeze your Pokémon). It can heal itself a little every turn with
+Aqua Ring
+. It also possesses Mirror Coat (similar to Flint’s Lopunny). Electric-type and Grass-type (beware of Ice Beam) moves are your best choices, but most of those moves are Special-based, so watch out for Mirror Coat! Special attacks are also less effective than Physical attacks because Milotic has a higher Sp. Def stat than Defense stat. Try Physical moves like
+Spark
+,
+Thunder Fang
+,
+ThunderPunch
+, and
+Wood Hammer
+. Just be careful not to inflict any status ailment on Milotic, or its
+signature Ability
+Marvel Scale
+will kick in and boost its Defense by 50%, making the battle much harder.
+Cynthia's strongest Pokémon is
+Garchomp
+, a Dragon/Ground-type Pokémon at
+Lv.66
+with stats on par with many Legendary Pokémon. Yes, Garchomp is at
+Level 66
+, far stronger than any of the Elite Four's Pokémon! It is the evolution of
+Gabite
+and final form of
+Gible
+. This big, bad beast is all out offensive with Physical-based moves:
+Dragon Rush
+(has only 75% accuracy but hits overwhelmingly hard and may cause to
+flinch
+, combined with the high Attack stat and same-type attack bonus), Brick Break (like Bertha’s Golem, counters Ice-type Pokémon), Earthquake and
+Giga Impact
+(like
+Hyper Beam
+, requires recharging afterwards but is overpowered)! With its extremely high Attack stat, very high Speed stat and insanely high level, all of these moves can deal a ton of damage, or even knock your Pokémon out in a single shot!
+Ice-type
+attacks will be its nightmare, so you can send any Ice-type Pokémon to defeat it. But remember, you'll have to beware of Brick Break. And sometimes, even strong moves like
+Ice Beam
+and
+Blizzard
+may not render it unable to battle. Hitting back with your own
+Dragon-type
+moves will only help a little...... and you are going to take the risk of being overpowered by Dragon Rush!
+If you successfully beat Cynthia, congratulations! You are the new League Champion! Cynthia will let you take the lift and go up. But if you are defeated, don’t feel too bad-- you should know that you and your Pokémon have tried your very best. Cynthia is not called "the League Champ" for nothing. Her win would be no fluke.
+Hall Of Fame
+Cynthia will state the room in front of you is the
+Hall of Fame
+.
+Professor Rowan
+arrives and congratulates you. You three will all enter the room one by one.
+Rowan says that it has been a long time since he entered this room. Cynthia replies that it is if the last time was when she became the Champion. Then, Cynthia and Rowan will officially welcome you to the Hall of Fame and let you register your Pokémon through the machine.
+The information of your Pokémon and the result will be displayed. After that, the game will automatically save. Lastly, the credits will roll. "Fin" (means Finish) appears, and you'll be back to the title screen.
+You are finally done with the main storyline! But the game is far from over. Although the word "Fin" appears, there are many more adventures waiting for you!
+← Part 22
+Sinnoh Victory Road, Pokémon League (Main Building), Final Rival battle
+Diamond and Pearl
+walkthrough
+Back at Home -- Twinleaf Town, Sandgem Town, Pokemon Research Lab-- Upgrading PokéDex to National PokéDex, Pokemon Swarm
+Part 24 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

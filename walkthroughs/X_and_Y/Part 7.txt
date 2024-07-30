@@ -1,0 +1,2132 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_7
+Keywords: Route 12, Azure Bay, Coumarine City, Coumarine Gym, Route 13, Kalos Power Plant
+
+Walkthrough Text:
+Contents
+1
+Route 12
+1.1
+Adopt a Lapras
+1.2
+Baa de Mer Ranch
+2
+Azure Bay
+2.1
+Southern isle
+2.2
+Southwest isle
+3
+Coumarine City
+3.1
+Lower
+3.1.1
+Receive a Holo Clip
+3.1.2
+Incense Vendor and Berry Stand
+3.1.3
+Get the Good Rod
+3.1.4
+Coumarine Hotel
+3.1.5
+TM Quiz
+3.1.6
+Seaside Station
+3.2
+Upper
+3.2.1
+Hillcrest Station
+3.2.2
+Pokémon Center
+3.2.3
+Battle Serena/Calem
+3.2.4
+Coumarine Gym
+3.2.5
+Another Holo Clip
+3.2.6
+Gate to Route 13
+4
+Route 13
+4.1
+Hidden Items
+4.2
+Kalos Power Plant
+4.2.1
+Explore the Plant
+4.3
+The Traveler
+Route 12
+Route 12
+Route 12
+, or Fourrage Road, stretches between
+Shalour City
+and
+Coumarine City
+. The lengthy trail runs past the Baa de Mer Ranch, where frolicking
+Skiddo
+can be ridden beside the breezy sea.
+Azure Bay
+is located to the north.
+Trainers
+Trainer
+Pokémon
+Swimmer ♂
+Alessandro
+Reward:
+$
+432
+Qwilfish
+♂
+Lv.
+29
+No item
+Binacle
+♂
+Lv.
+27
+No item
+Backpacker
+Joren
+Reward:
+$
+1120
+Linoone
+♂
+Lv.
+28
+No item
+Pokémon Breeder
+Amala
+Reward:
+$
+1856
+Seviper
+♀
+Lv.
+27
+No item
+Miltank
+♀
+Lv.
+29
+No item
+Youngster
+Aidan
+Reward:
+$
+648
+Yanma
+♂
+Lv.
+27
+No item
+Mothim
+♂
+Lv.
+27
+No item
+Whirlipede
+♂
+Lv.
+27
+No item
+Pokémon Breeder
+Foster
+Reward:
+$
+1856
+Zangoose
+♂
+Lv.
+27
+No item
+Tauros
+♂
+Lv.
+29
+No item
+Fisherman
+Murray
+Reward:
+$
+1344
+Magikarp
+♂
+Lv.
+24
+No item
+Magikarp
+♂
+Lv.
+24
+No item
+Magikarp
+♂
+Lv.
+24
+No item
+Magikarp
+♂
+Lv.
+24
+No item
+Magikarp
+♂
+Lv.
+24
+No item
+Magikarp
+♂
+Lv.
+24
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Slowpoke
+X
+Y
+Grass
+23-25
+Average
+Chatot
+X
+Y
+Grass
+23-25
+Average
+Exeggcute
+X
+Y
+Grass
+24, 26
+Rare
+Tauros
+X
+Y
+Grass
+25-27
+Rare
+Miltank
+X
+Y
+Grass
+25, 27
+Rare
+Pinsir
+X
+Y
+Grass
+25
+Very Rare
+Heracross
+X
+Y
+Grass
+25
+Very Rare
+Pachirisu
+X
+Y
+Grass
+23-25
+Very Rare
+Yellow Flowers
+Tauros
+X
+Y
+Yellow Flowers
+25-27
+Average
+Miltank
+X
+Y
+Yellow Flowers
+25-27
+Average
+Slowpoke
+X
+Y
+Yellow Flowers
+23-27
+Rare
+Exeggcute
+X
+Y
+Yellow Flowers
+24-26
+Rare
+Chatot
+X
+Y
+Yellow Flowers
+23-27
+Rare
+Pinsir
+X
+Y
+Yellow Flowers
+25
+Very Rare
+Heracross
+X
+Y
+Yellow Flowers
+25
+Very Rare
+Pachirisu
+X
+Y
+Yellow Flowers
+24-25
+Very Rare
+Horde Encounter
+Wingull
+X
+Y
+Horde Encounter
+13
+Common
+Mareep
+X
+Y
+Horde Encounter
+13
+Average
+Tauros
+X
+Y
+Horde Encounter
+14
+Rare
+with Miltank
+Miltank
+X
+Y
+Horde Encounter
+14
+Rare
+with Tauros
+Surfing
+Tentacool
+X
+Y
+Surfing
+25-26
+Common
+Mantyke
+X
+Y
+Surfing
+25-27
+Rare
+Lapras
+X
+Y
+Surfing
+25-27
+Very Rare
+Fishing
+Luvdisc
+X
+Y
+Fishing
+Old Rod
+15
+100%
+Rock Smash
+Dwebble
+X
+Y
+Rock Smash
+Common
+Binacle
+X
+Y
+Rock Smash
+23
+Average
+Gift Pokémon
+Lapras
+X
+Y
+Gift
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Honey
+Northeast corner of the fenced area outside Shalour City (hidden)
+X
+Y
+Aspear Berry
+From the tree, southeast of the Shalour City gate (requires
+Cut
+)
+X
+Y
+Net Ball
+On a rock, south of Backpacker Joren (hidden)
+X
+Y
+TM45
+(
+Attract
+)
+From the girl in the cottage
+X
+Y
+Sachet
+North of the cottage (requires
+Cut
+)
+X
+Y
+Shiny Stone
+Northeast area, near the three ledges (requires riding a
+Skiddo
+)
+X
+Y
+Whipped Dream
+East of the ranch entrance (requires riding a
+Skiddo
+)
+X
+Y
+Leftovers
+Southwest of the ranch entrance (requires
+Cut
+)
+X
+Y
+Ice Heal
+Near Fisherman Murray, on the beach outside Coumarine City (hidden)
+X
+Y
+Water Stone
+Northwest of Fisherman Murray, on a rock in a shallow inlet (hidden, requires
+Surf
+)
+X
+Y
+Adopt a Lapras
+Speak to the Pokémon Breeder near the gate to hear about the
+Lapras
+that saved him from drowning. He would like it to see the world, but cannot afford to travel, so he asks that you take it. An empty party slot is required to accept the rare
+Water
+/
+Ice
+Pokémon.
+Baa de Mer Ranch
+The Baa de Mer Ranch stands across the water to the east. Enter the cottage and speak to the girl inside to receive
+TM45
+(
+Attract
+), which can make opposite-gender targets mostly useless in battle.
+There are several
+Skiddo
+roaming the pen outside. Approach one and hop on its back to ride around. Skiddo can leap up small ledges, which lets you reach the
+Shiny Stone
+to the northeast and
+Whipped Dream
+to the south.
+Azure Bay
+Azure Bay
+The crystal-blue waters of
+Azure Bay
+make it a favorite vacation spot for Swimmers around the region. An empty cave known as the
+Sea Spirit's Den
+stands in the center of the great bay.
+Trainers
+Trainer
+Pokémon
+Swimmer ♂
+Kieran
+Reward:
+$
+432
+Remoraid
+♂
+Lv.
+27
+No item
+Skrelp
+♂
+Lv.
+27
+No item
+Wailmer
+♂
+Lv.
+27
+No item
+Swimmer ♀
+Romy
+Reward:
+$
+480
+Slowpoke
+♀
+Lv.
+30
+No item
+Fisherman
+Ewan
+Reward:
+$
+1624
+Clauncher
+♂
+Lv.
+27
+No item
+Carvanha
+♂
+Lv.
+29
+No item
+Sky Trainer
+Indra
+Reward:
+$
+3100
+Sigilyph
+♂
+Lv.
+31
+No item
+Swimmer ♀
+Isla
+Reward:
+$
+448
+Corsola
+♀
+Lv.
+28
+No item
+Lanturn
+♀
+Lv.
+28
+No item
+Sky Trainer
+Elata
+Reward:
+$
+2900
+Fletchinder
+♀
+Lv.
+28
+No item
+Pelipper
+♀
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Slowpoke
+X
+Y
+Grass
+25-27
+Common
+Chatot
+X
+Y
+Grass
+25-27
+Average
+Exeggcute
+X
+Y
+Grass
+26
+Rare
+Inkay
+X
+Y
+Grass
+25-27
+Rare
+Horde Encounter
+Wingull
+X
+Y
+Horde Encounter
+13
+Common
+Slowpoke
+X
+Y
+Horde Encounter
+13
+Average
+Exeggcute
+X
+Y
+Horde Encounter
+14
+Rare
+Surfing
+Tentacool
+X
+Y
+Surfing
+25-27
+Common
+Mantyke
+X
+Y
+Surfing
+27
+Rare
+Lapras
+X
+Y
+Surfing
+27
+Very Rare
+Fishing
+Luvdisc
+X
+Y
+Fishing
+Old Rod
+15
+100%
+Rock Smash
+Dwebble
+X
+Y
+Rock Smash
+23
+Common
+Binacle
+X
+Y
+Rock Smash
+14
+Average
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ampharosite
+From the man on the southernmost sandy isle, near Fisherman Ewan
+X
+Y
+Big Pearl
+Larger east-central isle
+X
+Y
+Star Piece
+On a rock, on the smaller east-central isle (hidden)
+X
+Y
+Splash Plate
+Northeast side of the Sea Spirit's Den
+X
+Y
+Dive Ball
+Northwestern-most sandy isle
+X
+Y
+Heart Scale
+On a rock, on the west-central sandy isle (hidden)
+X
+Y
+Deep Sea Tooth
+Southwest island, north side
+X
+Y
+Deep Sea Scale
+Southwest island, in the center
+X
+Y
+Hyper Potion
+Southwest island, on a rock (hidden)
+X
+Y
+TM81
+(
+X-Scissor
+)
+Southwest island, south side
+X
+Y
+Southern isle
+Cross the briny waters to reach a small, sandy isle in the south. Talk to the old man here to receive a new Mega Stone, the
+Ampharosite
+.
+Ampharos
+can be obtained by raising a
+Mareep
+found on
+Route 12
+.
+Southwest isle
+Surf west to the darker water's edge, then head south. The rocky island in the southwest holds several items. The
+Deep Sea Tooth
+and
+Deep Sea Scale
+are related to
+Clamperl
+, doubling its Special Attack or Special Defense, respectively, when held. In addition, these items cause the Pokémon to evolve into either
+Huntail
+or
+Gorebyss
+when traded.
+TM81
+(
+X-Scissor
+) is a strong
+Bug-type
+attack. Don't miss the hidden
+Hyper Potion
+!
+Coumarine City
+Coumarine City
+The scenic
+Coumarine City
+links
+Route 12
+to
+Route 13
+. The city uses a monorail to merge bay and bluff. The lower bay area features a marina where expensive boats are docked. The upper mountain area offers impressive views of the nearby landscape, and holds the local Pokémon Center and the
+Coumarine Gym
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Occurs on random days in a random hotel after having spoken to the traders multiple times.
+Magikarp
+X
+Y
+Trade
+Gyarados
+5
+One
+Eevee
+X
+Y
+Trade
+Any Pokémon
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Lower bay area
+Elixir
+On the pier, on the northwest post (hidden)
+X
+Y
+Silk Scarf
+From the Gentleman inside the house
+X
+Y
+Cheri Berry
+May randomly appear on the Berry Stand (daily)
+X
+Y
+Chesto Berry
+May randomly appear on the Berry Stand (daily)
+X
+Y
+Pecha Berry
+May randomly appear on the Berry Stand (daily)
+X
+Y
+Rawst Berry
+May randomly appear on the Berry Stand (daily)
+X
+Y
+Aspear Berry
+May randomly appear on the Berry Stand (daily)
+X
+Y
+Awakening
+Next to the Berry Stand (hidden)
+X
+Y
+Good Rod
+From a Fisherman, east of the Incense Vendor and Berry Stand
+X
+Y
+Lucky Egg
+From a girl on Coumarine Hotel 1F, after showing a
+happy
+Pokémon
+X
+Y
+Smile Ribbon
+Coumarine Hotel 2F
+Su
+X
+Y
+Careless Ribbon
+Coumarine Hotel 2F
+Th
+X
+Y
+TM62
+(
+Acrobatics
+)
+From the girl to the west of the hotel, after clearing her guessing game
+X
+Y
+TM63
+(
+Embargo
+)
+From the girl to the west of the hotel, after clearing her guessing game
+X
+Y
+TM92
+(
+Trick Room
+)
+From the girl to the west of the hotel, after clearing her guessing game
+X
+Y
+TM100
+(
+Confide
+)
+From the girl to the west of the hotel, after clearing her guessing game
+X
+Y
+Upper mountain area
+HM02
+(
+Fly
+)
+From Professor Sycamore in Seaside Station
+X
+Y
+Metronome
+From a man in Hillcrest Station
+X
+Y
+Max Repel
+West of the Pokémon Center, between the house and sign (hidden)
+X
+Y
+Sky Plate
+Cliff's edge, east of the Gym
+X
+Y
+Poké Toy
+Southwest house, after clearing the party Pokémon's cry quiz
+X
+Y
+Black Sludge
+From the Punk Guy in the Route 13 gate
+X
+Y
+After defeating the Coumarine Gym
+TM86
+(
+Grass Knot
+)
+From Ramos upon his defeat
+X
+Y
+Lower
+Receive a Holo Clip
+On the way into the city, Serena/Calem calls you on the Holo Caster. The Trainer is looking for a fight, and challenges you to a battle outside the local Gym.
+Incense Vendor and Berry Stand
+There are two stands on the middle of the pier. The Incense Vendor offers a variety of these items. In addition to their primary effects, each one is necessary to obtain certain baby Pokémon species from the Day Care on
+Route 7
+.
+Incenses
+Sea Incense
+$
+9600
+Odd Incense
+$
+9600
+Lax Incense
+$
+9600
+Luck Incense
+$
+9600
+Rose Incense
+$
+9600
+Full Incense
+$
+9600
+Pure Incense
+$
+9600
+Wave Incense
+$
+9600
+Rock Incense
+$
+9600
+At the Berry Stand, one random Berry will appear every day, free for the taking. Varieties include
+Cheri
+,
+Chesto
+,
+Pecha
+,
+Rawst
+, and
+Aspear
+.
+Get the Good Rod
+Speak to the Fisherman on the east side of the pier to receive the
+Good Rod
+, a mid-level fishing rod that can reel in a greater variety of water-dwelling Pokémon than the
+Old Rod
+.
+Coumarine Hotel
+The Coumarine Hotel stands in the northeast part of town. If your lead Pokémon is very
+friendly
+, a girl on the first floor will hand out a
+Lucky Egg
+, which increases the amount of
+experience
+earned by the holding Pokémon to 150%.
+On Thursdays, a tourist in the middle room upstairs will give your lead Pokémon a
+Careless Ribbon
+; on Sundays, she hands out a
+Smile Ribbon
+.
+Rather than meeting Mr. Bonding in the east room, you find the Game Director instead. Visit him again after filling in more of the Pokédex to earn several
+Diplomas
+.
+TM Quiz
+Head west from the hotel to the lookout to meet an Ace Trainer. Answer her question correctly to receive one of four TMs as a prize! These items include
+TM62
+(
+Acrobatics
+),
+TM63
+(
+Embargo
+),
+TM92
+(
+Trick Room
+), and
+TM100
+(
+Confide
+). Return each day for a new quiz until you earn all four items.
+Seaside Station
+Enter Seaside Station to meet some familiar faces—
+Professor Sycamore
+and
+Diantha
+. The professor rewards you for obtaining everything needed for
+Mega Evolution
+by handing over
+HM02
+(
+Fly
+)! This powerful move will come in handy at the Gym. Diantha hints that she would like to battle on your next meeting.
+Upper
+Hillcrest Station
+Talk to a man inside to receive a
+Metronome
+, which boosts the power of a move used repeatedly.
+Pokémon Center
+Rest up in the Pokémon Center, next door to Hillcrest Station. Speak to Mr. Bonding inside to receive the
+Befriending Power
+O-Power.
+Battle Serena/Calem
+As promised, Serena/Calem is waiting outside the Gym, hoping to see your new-found power of Mega Evolution in battle. The Trainer uses her/his level 31
+Meowstic
+, level 31
+Absol
+, and second-stage starter Pokémon at level 33. Wipe out your opponent in style, then rest up for the Gym.
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Serena
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Braixen
+♂
+Lv.
+33
+Psybeam
+Psychic
+Special
+--
+Fire Spin
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Serena
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Frogadier
+♂
+Lv.
+33
+Quick Attack
+Normal
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Serena
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Quilladin
+♂
+Lv.
+33
+Needle Arm
+Grass
+Physical
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Calem
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Braixen
+♂
+Lv.
+33
+Psybeam
+Psychic
+Special
+--
+Fire Spin
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Calem
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Frogadier
+♂
+Lv.
+33
+Quick Attack
+Normal
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Calem
+Coumarine City
+X and Y
+Reward:
+$
+3,300
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+31
+Psybeam
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+31
+Slash
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Quilladin
+♂
+Lv.
+33
+Needle Arm
+Grass
+Physical
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Coumarine Gym
+Coumarine Gym
+The
+Coumarine Gym
+specializes in
+Grass-type
+Pokémon.
+Fire
+- and
+Flying-type
+attacks are the most effective, as are
+Poison
+,
+Bug
+, and
+Ice
+moves. Avoid using
+Water
+-,
+Ground
+-, and
+Rock-type
+Pokémon. The building contains a large central tree, on which the Gym Leader has constructed an obstacle course.
+Climb the rope near the entrance, then swing right to battle Pokémon Ranger Chaise. Climb the nearby rope, swing left twice and climb up the next. Swing left and climb down the next rope. Go left to fight Pokémon Ranger Brooke, climb the nearby rope and head left. Climb up again and swing right twice to battle Pokémon Ranger Twiggy. Climb the rope to 6F, and swing right twice more to reach the Gym Leader.
+Ramos
+leads with his
+Jumpluff
+, a speedy Pokémon with a double-weakness to Ice attacks. Watch out for its
+Acrobatics
+, which doubles in power with no item to weigh it down.
+Weepinbell
+can be a nuisance due to its
+Poison Powder
+, but shouldn't be too difficult to take down. For Fire types, his
+Gogoat
+is the biggest threat; its
+Bulldoze
+inflicts double-damage and lowers the target's
+Speed
+.
+Coumarine Gym
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Chaise
+Reward:
+$
+2560
+Simisage
+♂
+Lv.
+32
+No item
+Pokémon Ranger
+Brooke
+Reward:
+$
+2400
+Roselia
+♀
+Lv.
+30
+No item
+Wormadam
+♀
+Plant Cloak
+Lv.
+30
+No item
+Pokémon Ranger
+Maurice
+Reward:
+$
+2320
+Ferroseed
+♂
+Lv.
+29
+No item
+Lombre
+♂
+Lv.
+29
+No item
+Carnivine
+♂
+Lv.
+29
+No item
+Pokémon Ranger
+Twiggy
+Reward:
+$
+2480
+Gloom
+♀
+Lv.
+29
+No item
+Exeggutor
+♀
+Lv.
+31
+No item
+Leader
+Ramos
+Coumarine Gym
+X and Y
+Reward:
+$
+5440
+Types:
+Grass
+Flying
+Ability:
+Chlorophyll
+Held item:
+None
+Jumpluff
+♂
+Lv.
+30
+Grass Knot
+Grass
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Chlorophyll
+Held item:
+None
+Weepinbell
+♂
+Lv.
+31
+Grass Knot
+Grass
+Special
+--
+Acid
+Poison
+Special
+--
+Poison Powder
+Poison
+Status
+--
+Gastro Acid
+Poison
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Gogoat
+♂
+Lv.
+34
+Grass Knot
+Grass
+Special
+--
+Bulldoze
+Ground
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+With the battle over, Ramos awards you the
+Plant Badge
+, which ensures obedience from all Pokémon up to level 60 and enables the use of
+Fly
+in the field. He also hands out
+TM86
+(
+Grass Knot
+), which deals more damage to heavier targets, as a prize. Afterwards, the wooden door to the right opens, allowing you to quickly slide down through the tree to the exit.
+Another Holo Clip
+As you approach the south gate, you receive a Holo Clip from
+Lysandre
+. He is thrilled that you've learned to use
+Mega Evolution
+, and hopes that you use this power to help shape a better world.
+Gate to Route 13
+In the south gate, Sycamore's assistants
+Sina
+and
+Dexio
+are waiting for you. The two inform you that a problem at the
+Power Plant
+has closed the gate between
+Route 13
+and
+Lumiose City
+. They then upgrade your Pokédex with the Mountain Kalos listing, which encompasses the remaining eastern part of the region.
+Route 13
+Route 13
+Route 13
+, or Lumiose Badlands, links
+Coumarine City
+to
+Lumiose City
+. No plants can grow in this inhospitable area, making it the perfect location to host the
+Power Plant
+. Many Ground types tunnel beneath the red clay; the more aggressive ones will follow you as you explore. Perhaps their behavior is related to the problems at the Power Plant...
+Trainers
+Trainer
+Pokémon
+Team Flare Grunt
+Reward:
+$
+1320
+Houndoom
+♂
+Lv.
+31
+No item
+Golbat
+♂
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Dugtrio
+X
+Y
+Dirt
+26-28
+Common
+Trapinch
+X
+Y
+Dirt
+26-28
+Common
+Gible
+X
+Y
+Dirt
+26-28
+Average
+Cracked Rock
+Graveler
+X
+Y
+Rock Smash
+26-28
+Common
+Slugma
+X
+Y
+Rock Smash
+26-28
+Average
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Power Plant Pass
+On a boulder in the southwest (hidden)
+X
+Y
+Nest Ball
+Southwest of the Coumarine City gate (hidden)
+X
+Y
+Smooth Rock
+Northeast corner, accessed via grind rail
+X
+Y
+X Accuracy
+On a rock, near the east-central bridge (hidden)
+X
+Y
+Guard Spec.
+Near a worker (hidden)
+X
+Y
+Fire Stone
+Near the east-central building (hidden)
+X
+Y
+Flame Plate
+Beyond the southeast bridge
+X
+Y
+Heat Rock
+On a rock, near two railings on the west side (hidden)
+X
+Y
+Star Piece
+Near the Heat Rock (hidden)
+X
+Y
+Burn Heal
+Southeast of TM57 (requires
+Rock Smash
+)
+X
+Y
+PP Up
+On a rock, accessed via two grind rails in the northwest (hidden)
+X
+Y
+Hyper Potion
+On a rock, down the hill from the PP Up (hidden, requires
+Rock Smash
+)
+X
+Y
+TM57
+(
+Charge Beam
+)
+Northwest area, past the PP Up and Hyper Potion (requires
+Rock Smash
+)
+X
+Y
+Sun Stone
+Southwest area, accessed via S-shaped grind rail
+X
+Y
+Stardust
+Lower level, east of the Lumiose City gate (hidden, requires
+Rock Smash
+)
+X
+Y
+Rare Candy
+Lower level, east of the Lumiose City gate (requires
+Rock Smash
+)
+X
+Y
+Hidden Items
+There are many hidden items scattered around the route, and one of them is a necessity. Using the
+Dowsing Machine
+in the southwest area leads to a large boulder near a metal bridge; inspect the rock to find the
+Power Plant Pass
+. Battle the nearby
+Team Flare Grunt
+, then enter the door beyond to reach the building.
+Kalos Power Plant
+Power Plant
+The
+Power Plant
+supplies clean, efficient energy to
+Lumiose City
+, but a recent series of blackouts means that something has gone awry.
+Trainers
+Trainer
+Pokémon
+Team Flare Grunt
+Reward:
+$
+1280
+Scraggy
+♂
+Lv.
+32
+No item
+Croagunk
+♂
+Lv.
+32
+No item
+Team Flare Grunt
+Reward:
+$
+1320
+Croagunk
+♀
+Lv.
+31
+No item
+Golbat
+♀
+Lv.
+33
+No item
+Team Flare Grunt
+Reward:
+$
+1360
+Mightyena
+♂
+Lv.
+34
+No item
+Team Flare Grunt
+Reward:
+$
+1280
+Scraggy
+♂
+Lv.
+32
+No item
+Golbat
+♂
+Lv.
+32
+No item
+Team Flare Grunt
+Reward:
+$
+1280
+Golbat
+♂
+Lv.
+32
+No item
+Mightyena
+♂
+Lv.
+32
+No item
+Team Flare Grunt
+Reward:
+$
+1360
+Swalot
+♀
+Lv.
+34
+No item
+Team Flare Grunt
+Reward:
+$
+1320
+Liepard
+♀
+Lv.
+31
+No item
+Swalot
+♀
+Lv.
+33
+No item
+Team Flare Grunt
+Reward:
+$
+1240
+Croagunk
+♀
+Lv.
+31
+No item
+Scraggy
+♀
+Lv.
+31
+No item
+Liepard
+♀
+Lv.
+31
+No item
+Team Flare Admin
+Reward:
+$
+2880
+Houndoom
+♂
+Lv.
+36
+No item
+Items
+Item
+Location
+Games
+Zap Plate
+In the room with the plant workers
+X
+Y
+Fresh Water
+Sold by a plant worker,
+$
+300
+/
+$
+100
+each
+X
+Y
+Full Restore
+×2
+From Dexio, after defeating Team Flare
+X
+Y
+TM43
+(
+Flame Charge
+)
+From a plant worker, after defeating Team Flare
+X
+Y
+Magnet
+From a female Scientist, after defeating Team Flare
+X
+Y
+Explore the Plant
+Team Flare
+is clearly up to something here. Defeat the first Grunt to learn that they are stealing power for their own selfish plans. Fight past two others to reach the central chamber. Follow the outer walkway to fight off another several Grunts along the way. Two ranking members are located in the room's center; battle the Admin first, then take on the Scientist,
+Aliana
+.
+Team Flare
+Aliana
+Kalos Power Plant
+X and Y
+Reward:
+$
+5320
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+38
+Roar
+Normal
+Status
+--
+Swagger
+Normal
+Status
+--
+Assurance
+Dark
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Defeating the two brings the Power Plant back online. Suddenly, two masked strangers calling themselves the Defenders of Kalos arrive to investigate, but you beat them to it. Impressed, they fully heal your party and give you a pair of
+Full Restores
+before leaving.
+Outside this room, you will come across another entrance on the right. Speak to the worker and woman inside to obtain
+TM43
+(
+Flame Charge
+) and a
+Magnet
+. On the right side of the room you'll find a
+Zap Plate
+.
+Also, talk to the man in a suit to obtain
+Fresh Water
+; before the plant is restored he will charge $300 for a bottle instead of the usual $200, but afterwards he sells them for a discounted $100 per bottle.
+The Traveler
+Outside the Lumiose gate, you meet a tall, mysterious man. He doesn't say much before heading into the city, but maybe you will meet him again...
+On the right is a small path leading to cracked rock, break it and check the patch of ground off the side for a hidden Stardust. Break the next rock to find a Rare Candy.
+← Part 6
+Route 10, Geosenge Town, Route 11, Reflection Cave, Shalour City, Tower of Mastery
+X and Y
+walkthrough
+Lumiose City (north), Lumiose Gym
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,47 @@
+Game: Crystal
+Part: 24
+Keywords: Route 3, Mt. Moon, Route 4
+
+### Part 24: Route 3, Mt. Moon, Route 4
+
+#### Route 3
+- **Location**: East of Pewter City, grassy area with several trainers.
+- **Trainers**:
+  - Youngster Warren (Lv. 35 Fearow, $560)
+  - Youngster Jimmy (Lv. 33 Raticate, $528; Lv. 33 Arbok)
+  - Firebreather Otis (Lv. 29 Magmar, Lv. 32 Weezing, $1392)
+  - Firebreather Burt (Lv. 32 Koffing, Lv. 32 Slugma, $1536)
+- **Pokémon**: Rattata, Raticate, Spearow, Ekans, Arbok, Sandshrew, Clefairy, Zubat.
+
+#### Mt. Moon
+- **Description**: Caves with unstable tunnels; known for Moon Stones.
+- **Pokémon**: Sandshrew, Clefairy, Zubat, Paras, Geodude.
+  
+##### A Familiar Face
+- **Rival Battle 6 (Silver)**:
+  - **Chikorita**: Faces Sneasel, Golbat, Magneton, Gengar, Alakazam, Typhlosion (all around Lv. 41-45).
+  - **Cyndaquil**: Same Pokémon as above but with Feraligatr.
+  - **Totodile**: Same Pokémon as above but with Meganium.
+  - **Strategy**: Target weaknesses with super effective moves.
+  
+##### Mt. Moon Square
+- **Items**:
+  - **Moon Stone**: Found hidden in a rock (requires Rock Smash).
+  - **Shop** (10 AM - 5:59 PM): Fresh Water ($200), Lemonade ($350), Soda Pop ($300), Repel ($350), Poké Doll ($1000).
+- **Clefairy Dance**: Occurs Monday nights between 8 PM and 4 AM; use Rock Smash for a Moon Stone.
+
+#### Route 4
+- **Description**: One-way road to Cerulean City.
+- **Trainers**:
+  - Picnicker Hope (Lv. 34 Flaaffy, $680)
+  - Bird Keeper Hank (Lv. 34 Pidgeot, $816)
+  - Picnicker Sharon (Lv. 31 Furret, Lv. 33 Rapidash, $660)
+  
+- **Items**:
+  - **Ultra Ball**: Hidden northwest hill.
+  - **HP Up**: Northeast hill.
+
+#### Available Pokémon
+- **Route 4**: Rattata, Raticate, Spearow, Ekans, Arbok, Sandshrew, Clefairy, Zubat, Surfing Goldeen, Seaking.
+
+**Next**: Proceed to Part 25 for further adventures.

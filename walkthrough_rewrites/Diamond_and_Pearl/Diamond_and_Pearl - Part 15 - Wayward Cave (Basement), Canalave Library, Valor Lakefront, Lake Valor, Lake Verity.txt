@@ -1,0 +1,73 @@
+Game: Diamond_and_Pearl
+Part: 15
+Keywords: Wayward Cave (Basement), Canalave Library, Valor Lakefront, Lake Valor, Lake Verity
+
+**Part 15 Walkthrough Overview**
+
+**Key Locations:** Wayward Cave (Basement), Canalave Library, Valor Lakefront, Lake Valor, Lake Verity
+
+---
+
+### Strength and Item Retrieval
+- Ensure you have **HM04 (Strength)**. If not, visit **Route 209** and explore **Lost Tower**.
+
+### Oreburgh Gate (Basement)
+- **Requirements:** Pokémon with **Surf** and **Rock Smash**.
+- **Items:**
+  - **Earth Plate:** Push boulder in the basement.
+  - **TM01 (Focus Punch):** Requires Rock Smash; located at the far left end.
+
+### Route 211 (East)
+- Ignore the boulder; proceed to **Mt. Coronet** for items.
+
+### Mt. Coronet (Northern Area)
+- **Requirements:** Pokémon with **Rock Smash**; **Defog** for Route 216.
+- **Items:**
+  - **Revive:** Near the west entrance (hidden).
+  - **TinyMushroom:** West of Celestic Town entrance (hidden).
+  - **Escape Rope:** South of Celestic Town entrance.
+  - **Elixir:** Requires Strength/Rock Smash (hidden).
+  - **TM69 (Rock Polish):** North entrance from Eterna City (Requires Rock Smash).
+  - **Rare Candy:** Middle of the northern cavern (Requires Rock Smash).
+
+### Wayward Cave (Secret Basement)
+- **Requirements:** Pokémon with **Cut**, **Flash**, and **Strength**; bring Repels.
+- Access the secret entrance under Cycling Road. Push the boulder to access the basement.
+- **Items:**
+  - **Stardust:** South-west corner (hidden).
+  - **Max Ether:** End of southern jump ramps.
+  - **Revive (x2):** Northeast area below jump ramp (hidden).
+  - **Grip Claw:** Between bike bridges.
+  - **TM26 (Earthquake):** Up the stairs at the end of the basement.
+- **Available Pokémon:** Gible (Lv. 15-17).
+
+### Canalave Library
+- Head to **Canalave City** and visit the library. 
+- Professor Rowan discusses Pokémon evolution and instructs you to go to **Lake Valor**.
+
+### Valor Lakefront
+- Fly to **Pastoria City** or **Veilstone City** and head to **Valor Lakefront**. 
+- Heal your Pokémon before entering **Lake Valor**.
+
+### Lake Valor
+- The lake is dried up with flopping **Magikarp**. 
+- Defeat Team Galactic grunts. 
+- **Items:**
+  - **HP Up:** Northwest corner (hidden).
+
+### Valor Cavern
+- Heal before facing **Commander Saturn**.
+- **Battle Strategy:** Use strong Pokémon; Saturn has Kadabra, Toxicroak, and Bronzor.
+
+### Lake Verity
+- Fly to **Twinleaf Town**, heal, and head north to **Lake Verity**.
+- Assist **Lucas/Dawn** against **Commander Mars**. 
+- **Battle Strategy:** Be cautious of Mars' **Purugly**'s **Fake Out**.
+
+### Next Steps
+- After defeating Mars, check the now-risen water level. Items include **TM38 (Fire Blast)** in the southeastern corner (requires Surf).
+- Prepare for a journey to **Lake Acuity** through **Routes 216-217**. 
+
+---
+
+**Preparation Reminder:** Ensure your team is strong and stocked with healing items before proceeding to Lake Acuity.

@@ -1,0 +1,56 @@
+Game: Gold_and_Silver
+Part: 5
+Keywords: Azalea Town, Slowpoke Well, Azalea Gym, Ilex Forest, Route 34
+
+### Pokémon Gold and Silver Walkthrough: Part 5
+
+#### Azalea Town
+- **Kurt's House**: Speak to Kurt in the northwest to learn about Team Rocket in **Slowpoke Well**.
+- **Items**:
+  - Full Heal: North wall of Slowpoke Well (hidden).
+  - White Apricorn: Behind Kurt's house (daily).
+  - Lure Ball: From Kurt after defeating Team Rocket.
+  - TM49 (Fury Cutter): From Bugsy after Gym battle.
+
+#### Slowpoke Well
+- **Location**: East side of Azalea Town.
+- **Objective**: Defeat Team Rocket Grunts to save the Slowpoke.
+- **Trainers**:
+  - Grunts: Use standard strategies; Koffing (Lv. 14) is the last Grunt.
+- **Items**:
+  - Super Potion: Northeast ridge.
+  - TM18 (Rain Dance) and King's Rock: Requires Surf and Strength, found in B2F.
+
+#### Azalea Gym (Bug-type)
+- **Leader**: Bugsy.
+- **Strategy**: 
+  - Use Fire, Flying, or Rock-type Pokémon against Bug-types.
+  - Key Pokémon: Scyther (Lv. 16); prioritize defeating it quickly.
+- **Reward**: Hive Badge and TM49 (Fury Cutter).
+
+#### Rival Battle 2 (Silver)
+- **Location**: West side of Azalea Town.
+- **Strategy**: Use strong counters against his Pokémon:
+  - **Gastly**: Weak to Psychic and Ghost.
+  - **Zubat**: Weak to Rock and Electric.
+  - **Evolution**: His starter has likely evolved; avoid weak matchups.
+
+#### Ilex Forest
+- **Objective**: Find and return Farfetch'd to the Charcoal Kiln.
+- **Items**:
+  - Revive: Southeast area.
+  - HM01 (Cut): Received from the Charcoal owner after returning Farfetch'd.
+  - TM02 (Headbutt): From a man on a ledge.
+
+#### Route 34
+- **Features**: Pokémon Day Care located here.
+- **Trainers**: Various trainers with Pokémon levels ranging from 7 to 28.
+- **Items**:
+  - TM12 (Sweet Scent): From the lady in the Day Care.
+  - Rare Candy and Soft Sand: Special locations requiring Surf.
+
+#### Pokémon Day Care
+- **Function**: Leave up to two Pokémon to gain experience. Eggs can be obtained from compatible pairs.
+
+### Summary
+Progress through Azalea Town to Slowpoke Well, defeat Team Rocket, challenge Bugsy at the Gym, and navigate Ilex Forest to retrieve Farfetch'd. Continue to Route 34 and utilize the Day Care for Pokémon training and breeding.

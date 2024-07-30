@@ -1,0 +1,39 @@
+Game: Red_and_Blue
+Part: 14
+Keywords: Power Plant, Viridian Gym
+
+## Pokémon Red and Blue Walkthrough: Part 14
+
+### Power Plant
+- **Location**: An abandoned industrial complex.
+- **Key Pokémon**: 
+  - **Voltorb** (Lv. 21, 23) - 35%
+  - **Pikachu** (Lv. 20, 24) - 25%
+  - **Magnemite** (Lv. 21, 23) - 25%
+  - **Electabuzz** (Lv. 33, 36) - 5%
+  - **Zapdos** (Lv. 50) - Legendary encounter.
+
+- **Items**:
+  - **Carbos**: North of entrance.
+  - **TM33 (Reflect)**: South-central room.
+  - **TM25 (Thunder)**: Southeast room.
+  - **Rare Candy & HP Up**: Northeast room.
+  - **PP Up**: In rubble northeast of Zapdos (hidden).
+  - **Max Elixir**: Central room in rubble (hidden).
+
+- **Zapdos Strategy**: Use Rock and Ice-type moves, then Grass, Flying, or Fighting. Inflict Sleep to increase catch chances.
+
+### Viridian City
+#### Viridian Gym
+- **Leader**: Giovanni (Ground-type).
+- **Recommended Types**: Grass, Water, Ice (effective against Ground).
+- **Notable Trainers**: 
+  - **Arbok** (Lv. 39), **Machoke** (Lv. 43), **Rhyhorn** (Lv. 43).
+
+- **Battle Strategy**: 
+  - Defeat Giovanni’s Pokémon, notably his **Rhydon** (Lv. 50) which can cause instant knockout.
+  - **Rewards**: Earth Badge (ensures obedience) and TM27 (Fissure).
+
+### Next Steps
+- **Destination**: Indigo Plateau (northwest).
+- **Preparation**: Assemble a strong team with Surf and Strength. Stock up on Potions and Poké Balls before tackling Victory Road, where another Legendary Pokémon awaits.

@@ -1,0 +1,73 @@
+Game: Gold_and_Silver
+Part: 15
+Keywords: Indigo Plateau
+
+### Part 15: Indigo Plateau Walkthrough
+
+**Indigo Plateau Overview**  
+Indigo Plateau is the Pokémon League's hub for the Johto and Kanto regions. After defeating all eight Gym Leaders, trainers challenge the Elite Four and the Champion. A Pokémon Center and Poké Mart are available for preparation. Bring strong Pokémon and plenty of healing items.
+
+**Poké Mart Items**  
+- Ultra Ball: $1200  
+- Max Repel: $700  
+- Hyper Potion: $1200  
+- Max Potion: $2500  
+- Full Restore: $3000  
+- Revive: $1500  
+- Full Heal: $600  
+
+---
+
+**Elite Four Battles**  
+
+1. **Battle 1: Will (Psychic)**  
+   - **Strategy**: Use Bug, Dark, or Ghost attacks.  
+   - **Key Pokémon**:  
+     - Xatu (Lv. 40, Psychic)  
+     - Exeggutor (Lv. 41, Grass)  
+     - Slowbro (Lv. 41, Water)  
+     - Jynx (Lv. 41, Ice)  
+     - Xatu (Lv. 42)  
+
+2. **Battle 2: Koga (Poison)**  
+   - **Strategy**: Use Psychic and Fire moves. Watch out for Toxic.  
+   - **Key Pokémon**:  
+     - Ariados (Lv. 40)  
+     - Venomoth (Lv. 41)  
+     - Forretress (Lv. 43, Steel)  
+     - Muk (Lv. 42)  
+     - Crobat (Lv. 44)  
+
+3. **Battle 3: Bruno (Fighting)**  
+   - **Strategy**: Use Psychic and Flying moves.  
+   - **Key Pokémon**:  
+     - Hitmontop (Lv. 42)  
+     - Hitmonlee (Lv. 42)  
+     - Hitmonchan (Lv. 42)  
+     - Onix (Lv. 43, Rock/Ground)  
+     - Machamp (Lv. 46)  
+
+4. **Battle 4: Karen (Dark)**  
+   - **Strategy**: Use Bug and Fighting moves.  
+   - **Key Pokémon**:  
+     - Umbreon (Lv. 42)  
+     - Vileplume (Lv. 42)  
+     - Murkrow (Lv. 44)  
+     - Gengar (Lv. 45)  
+     - Houndoom (Lv. 47)  
+
+---
+
+**Champion Battle: Lance**  
+- **Strategy**: Use Ice-type and Electric-type moves.  
+- **Key Pokémon**:  
+   - Gyarados (Lv. 44)  
+   - Dragonite (Lv. 47)  
+   - Charizard (Lv. 46)  
+   - Aerodactyl (Lv. 46)  
+   - Dragonite (Lv. 50)  
+
+After defeating Lance, you will be inducted into the Hall of Fame, where your accomplishments are recorded.
+
+**Final Notes**  
+Prepare thoroughly before each battle, and make use of healing items to maximize your chances of victory. Good luck!

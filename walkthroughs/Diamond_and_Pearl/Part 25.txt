@@ -1,0 +1,752 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_25
+Keywords: Poké Radar, Pal Park, Dual-slot, Hearthome City, Pokemon Mansion, Pokemon League
+
+Walkthrough Text:
+Contents
+1
+Poké Radar
+2
+Routes 219-221
+3
+Pal Park
+4
+Dual-slot
+5
+Hearthome City
+6
+Route 212
+7
+Pokemon Mansion
+7.1
+Mr. Backlot's Office
+7.2
+Trophy Garden
+8
+Pokémon League
+Poké Radar
+The
+Poké Radar
+that
+Professor Rowan
+gave you lets you catch some special Pokémon in the grass, which normally won't appear. Some grass will rustle or flash. If you catch or defeat a Pokémon in rustling or flashing grass, other patches of grass will rustle or flash. If you run from the Pokémon or if the grass has rustled/flashed 3 times in a use, the Radar will stop. To activate it again, run around for a while. Similar to
+Vs. Seeker
+, the Poké Radar needs to recharge, but it only requires 50 steps instead of 100.
+Available Pokémon (Poké Radar)
+#
+Icon
+Name
+Area
+Game
+029
+Nidoran♀
+Route 201
+D
+P
+030
+Nidorina
+Route 221
+,
+Valor Lakefront
+D
+P
+032
+Nidoran♂
+Route 201
+D
+P
+033
+Nidorino
+Route 221
+,
+Valor Lakefront
+D
+P
+048
+Venonat
+Route 229
+D
+P
+049
+Venomoth
+Route 229
+D
+P
+056
+Mankey
+Route
+225
+and
+226
+D
+P
+057
+Primeape
+Route
+225
+and
+226
+D
+P
+079
+Slowpoke
+Route 205
+(North)
+D
+P
+088
+Grimer
+Route 212
+D
+P
+128
+Tauros
+Route
+209
+and
+210
+D
+P
+132
+Ditto
+Route 218
+D
+P
+161
+Sentret
+Route 202
+D
+P
+175
+Togepi
+Route 230
+D
+P
+179
+Mareep
+Valley Windworks
+D
+P
+180
+Flaaffy
+Route 222
+D
+P
+187
+Hoppip
+Route 205
+(
+Diamond
+)
+Route 205
+(South),
+Fuego Ironworks
+(
+Pearl
+)
+D
+P
+188
+Skiploom
+Route 205
+(North) (
+Diamond
+)
+Fuego Ironworks
+(
+Pearl
+)
+D
+P
+191
+Sunkern
+Route 204
+(North)
+D
+P
+202
+Wobbuffet
+Lake Verity
+,
+Lake Valor
+,
+Lake Acuity
+D
+P
+229
+Houndoom
+Route 214
+and
+Route 215
+D
+P
+234
+Stantler
+Route 207
+D
+P
+235
+Smeargle
+Route 212
+D
+P
+236
+Tyrogue
+Route 208
+and
+Route 211
+D
+P
+241
+Miltank
+Route 209
+and
+Route 210
+D
+P
+246
+Larvitar
+Route 207
+D
+P
+262
+Mightyena
+Route
+214
+and
+215
+D
+P
+277
+Swellow
+Route 213
+D
+P
+280
+Ralts
+Route
+203
+and
+204
+D
+P
+281
+Kirlia
+Route
+203
+and
+204
+D
+P
+290
+Nincada
+Eterna Forest
+D
+P
+294
+Loudred
+Mt. Coronet
+D
+P
+304
+Aron
+Fuego Ironworks
+D
+P
+324
+Torkoal
+Route 227
+and
+Stark Mountain
+D
+P
+328
+Trapinch
+Route 228
+D
+P
+329
+Vibrava
+Route 228
+D
+P
+333
+Swablu
+Route 211
+D
+P
+343
+Baltoy
+Route 206
+D
+P
+352
+Kecleon
+Route 210
+D
+P
+355
+Duskull
+Route 224
+D
+P
+356
+Dusclops
+Route 224
+D
+P
+361
+Snorunt
+Route
+216
+and
+217
+,
+Acuity Lakefront
+D
+P
+371
+Bagon
+Route 210
+D
+P
+Routes 219-221
+You'll need to bring a Pokémon with
+Surf
+.
+Head south from
+Sandgem Town
+. Go through these routes to head to
+Pal Park
+. If you haven't gone through this route before, fight all Trainers (though you'll probably overwhelm them) and collect all items now. Refer to Section 13 for details.
+Pal Park
+A map of Pal Park with the different areas highlighted
+As soon as you reach Pal Park,
+Professor Oak
+will meet up with you and explain that Pal Park is now open and how you can use it. He will also give you a
+Pokétch
+App Trainer Counter, then leave to
+Eterna City
+.
+If you restart the game, you will notice that there is an extra option in the menu, 'Migrate from [whatever Pokémon game is in the GBA slot]'. This will allow you to transfer Pokémon from either
+Pokémon Ruby, Sapphire
+,
+Emerald
+,
+FireRed, or LeafGreen
+. If you have done so, you may greet the ranger at the counter and enter Pal Park. This will begin an event called a Catching Show. Depending on the Pokémon you transfer over, they will appear in different zones of the park (a water Pokémon will appear in the Lake or the Sea). After you catch all the Pokémon, you can leave the park and meet the ranger again. He will end the Catching Show and give you a score. The score is based on how long it took you to catch all the Pokémon and the rarity of the Pokémon you transfer over.
+From now on, you can fly here without going through Routes 219-221 again.
+Dual-slot
+After first accessing Pal Park, another method of catching Pokémon from previous generations has unlocked. This is the
+Dual-slot mode
+, also known as Dongle Method. Slot in a
+Generation
+III
+game in the Slot 2 (
+Game Boy Advance
+slot) on your
+Nintendo DS
+or
+Nintendo DS Lite
+, and some Pokémon will appear on certain routes. Since this feature is inaccessible with the later DS models, your only choice in that situation is to receive these Pokémon from trades through
+Platinum
+as well as
+HeartGold and SoulSilver
+.
+Available Pokémon (Dual-slot)
+Game in the GBA Slot
+Pokémon
+Location
+Game
+Ruby
+Seedot
+Routes
+203
+,
+204
+and
+210
+(South),
+Eterna Forest
+D
+P
+Nuzleaf
+Routes
+210
+(South) and
+229
+D
+P
+Mawile
+Iron Island
+D
+P
+Zangoose
+Routes
+208
+and
+210
+(North)
+D
+P
+Solrock
+Lake Verity
+,
+Lake Acuity
+,
+Lake Valor
+,
+Mt. Coronet
+,
+Sendoff Spring
+,
+Turnback Cave
+D
+P
+Sapphire
+Lotad
+Routes
+203
+,
+204
+,
+205
+, and
+212
+(South)
+D
+P
+Lombre
+Routes
+212
+(South) and
+229
+D
+P
+Sableye
+Iron Island
+D
+P
+Seviper
+Routes
+208
+and
+210
+(North)
+D
+P
+Lunatone
+Lake Verity
+,
+Lake Acuity
+,
+Lake Valor
+,
+Mt. Coronet
+,
+Sendoff Spring
+,
+Turnback Cave
+D
+P
+Emerald
+Teddiursa
+Routes
+211
+and
+217
+,
+Lake Acuity
+,
+Acuity Lakefront
+D
+P
+Ursaring
+Routes
+216
+and
+217
+,
+Lake Acuity
+D
+P
+Pineco
+Eterna Forest
+,
+Routes
+203
+,
+204
+,
+210
+(South) and
+229
+D
+P
+Gligar
+Stark Mountain
+,
+Routes
+206
+,
+207
+,
+214
+,
+215
+, and
+227
+D
+P
+Shuckle
+Route 224
+D
+P
+FireRed
+Caterpie
+Route 204
+D
+P
+Metapod
+Eterna Forest
+D
+P
+Ekans
+Route 212
+(South)
+D
+P
+Arbok
+Great Marsh
+D
+P
+Growlithe
+Routes
+201
+and
+202
+D
+P
+Elekid
+Route 205
+,
+Valley Windworks
+D
+P
+LeafGreen
+Weedle
+Route 204
+D
+P
+Kakuna
+Eterna Forest
+D
+P
+Sandshrew
+Wayward Cave
+D
+P
+Sandslash
+Route 228
+D
+P
+Vulpix
+Routes
+209
+and
+214
+D
+P
+Magby
+Route 227
+,
+Stark Mountain
+D
+P
+Any Generation III game
+Haunter
+Old Chateau
+D
+P
+Gengar
+Old Chateau
+D
+P
+Hearthome City
+Fly to
+Hearthome City
+. Deposit 1 Pokémon in the PC (if you have a full party), then go inside the house next to Pokémon Centre. Talk to the girl
+Bebe
+and say "Yes" to receive an
+Eevee
+, at Lv.5.
+Head south to
+Route 212
+.
+Route 212
+Keep going until you reach
+the Pokémon Mansion
+.
+Pokemon Mansion
+Go into
+Mr. Backlot
+'s office.
+Mr. Backlot's Office
+Talk to Mr. Backlot and answer "Yes" whenever he asks if you're envious. He'll tell that a Pokémon come up to him in
+Trophy Garden
+in the morning, but his butler points out that the stated Pokémon doesn't exist in the garden. Mr. Backlot whisper to the butler, then butler heads off. Mr. Backlot says that what he says is the truth--
+"Honest truth!"
+Trophy Garden
+The mentioned Pokémon will be found here at a 5% encounter rate. Quite rare to find.
+Available Pokémon (through Mr. Backlot)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Jigglypuff
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Meowth
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Chansey
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Eevee
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Porygon
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Cleffa
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Igglybuff
+D
+P
+Pt
+Backlot
+16, 18,
+5%
+Marill
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Azurill
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Plusle
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Minun
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Castform
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Bonsly
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Mime Jr.
+D
+P
+Pt
+Backlot
+16, 18
+5%
+Happiny
+D
+P
+Pt
+Backlot
+16, 18
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pokémon League
+You'll need to bring Pokémon with
+Surf
+,
+Strength
+,
+Defog
+,
+Waterfall
+and
+Rock Climb
+.
+You'll find that there is a route east of
+Pokémon League
+. That is
+Route 224
+. To access there, you have to go inside Victory Road again from the exit near main building of Pokémon League.
+Now fly to Pokémon League Main Building,
+heal your Pokémon
+, then surf down the waterfall and enter Victory Road again.
+← Part 24
+Back at Home -- Twinleaf Town, Sandgem Town, Pokemon Research Lab-- Upgrading PokéDex to National PokéDex, Pokémon Swarm
+Diamond and Pearl
+walkthrough
+Sinnoh Victory Road, Route 224, Eterna City, Eterna Forest, Old Chateau, Catching Rotom
+Part 26 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

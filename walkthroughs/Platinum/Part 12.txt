@@ -1,0 +1,1506 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_12
+Keywords: Route 221, Route 218, Canalave City, Canalave Gym
+
+Walkthrough Text:
+Contents
+1
+Route 219 (optional)
+2
+Route 220 (optional)
+3
+Route 221 (optional)
+3.1
+Level House
+4
+Route 218
+5
+Canalave City
+Route 219 (optional)
+Route 219
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Lumineon
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Tuber
+Mariel
+チユミ
+Chiyumi
+Reward:
+$
+132
+Marill
+♀
+Lv.
+31
+No item
+Marill
+♀
+Lv.
+33
+No item
+Tuber
+Trenton
+シンタロウ
+Shintarō
+Reward:
+$
+132
+Shellos
+♂
+West Sea
+Lv.
+31
+No item
+Shellos
+♂
+West Sea
+Lv.
+33
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Antidote
+Left side of the main shore
+Pt
+Zinc
+On the island
+(hidden)
+Pt
+Fly
+to
+Sandgem Town
+and use the south exit to reach
+Route 219
+. It is the first of a chain of routes that you can use to reach Sinnoh's
+Pal Park
+. The Pal Park will be inaccessible until you have the National Pokédex, but the training you'll get on the way there is valuable, and the Pal Park can be flown to after you visit it once. You'll want to bring
+Grass
+- and/or
+Electric
+-types for the trip since the Trainers on the upcoming Routes use mostly
+Water-types
+.
+Route 220 (optional)
+Route 220
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Lumineon
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Katelyn
+ヒロミ
+Hiromi
+Reward:
+$
+512
+Buizel
+♀
+Lv.
+32
+No item
+Medicham
+♀
+Lv.
+32
+No item
+Seaking
+♀
+Lv.
+32
+No item
+Swimmer
+Jessica
+ユカリ
+Yukari
+Reward:
+$
+528
+Goldeen
+♀
+Lv.
+30
+No item
+Goldeen
+♀
+Lv.
+30
+No item
+Goldeen
+♀
+Lv.
+31
+No item
+Seaking
+♀
+Lv.
+33
+No item
+Swimmer
+Erica
+シホミ
+Shihomi
+Reward:
+$
+560
+Finneon
+♀
+Lv.
+35
+No item
+Swimmer
+Adrian
+キョウタ
+Kyōta
+Reward:
+$
+544
+Remoraid
+♂
+Lv.
+32
+No item
+Octillery
+♂
+Lv.
+34
+No item
+Tentacool
+♂
+Lv.
+30
+No item
+Swimmer
+Vincent
+ツキオ
+Tsukio
+Reward:
+$
+528
+Pelipper
+♂
+Lv.
+33
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+33
+No item
+Swimmer
+Erik
+モグル
+Moguru
+Reward:
+$
+560
+Tentacruel
+♂
+Lv.
+35
+No item
+Swimmer
+Claire
+フミエ
+Fumie
+Reward:
+$
+560
+Floatzel
+♀
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Max Repel
+Top part of first sandbar
+Pt
+Splash Plate
+Bottom part of first sandbar
+Pt
+Big Pearl
+Near the south side, in the southeast wall of a "rock island" between the first and second sandbars
+(hidden)
+Pt
+Carbos
+On the shallows after the second sandbar
+Pt
+Though not as simple as Route 219,
+Route 220
+is pretty straightforward. Head down the eastern side when the route forks in two, fight the
+Swimmer
+there, then backtrack and head down the western fork. A little further on, the way forward forks in two again, this time around a largish island. Grab the
+Max Repel
+just north of it, then head down the southern fork until you reach the island with the submerged shoreline. Continue east past the
+Carbos
+, making a quick detour into route 221 to fight the female Swimmer, then backtrack and head north where the Carbos is, head west briefly to fight the male Swimmer, then go east to
+Route 221
+.
+Route 221 (optional)
+Route 221
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sudowoodo
+D
+P
+Pt
+Grass
+29-31
+25%
+Girafarig
+D
+P
+Pt
+Grass
+28,30
+25%
+Roselia
+D
+P
+Pt
+Grass
+28-30
+25%
+25%
+0%
+Roselia
+D
+P
+Pt
+Grass
+29-30
+0%
+0%
+15%
+Floatzel
+D
+P
+Pt
+Grass
+29,31
+25%
+25%
+0%
+Floatzel
+D
+P
+Pt
+Grass
+28-29,31
+0%
+0%
+35%
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Lumineon
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Vanessa
+ミナミ
+Minami
+Reward:
+$
+560
+Golduck
+♀
+Lv.
+35
+No item
+Swimmer
+Dillon
+リキオ
+Rikio
+Reward:
+$
+528
+Remoraid
+♂
+Lv.
+33
+No item
+Floatzel
+♂
+Lv.
+33
+No item
+Fisherman
+Cory
+マサヒロ
+Masahiro
+Reward:
+$
+1088
+Finneon
+♂
+Lv.
+30
+No item
+Finneon
+♂
+Lv.
+32
+No item
+Finneon
+♂
+Lv.
+34
+No item
+Ace Trainer
+Shannon
+ホノカ
+Honoka
+Reward:
+$
+2100
+Cherrim
+♀
+Lv.
+34
+No item
+Azumarill
+♀
+Lv.
+34
+No item
+Lopunny
+♀
+Lv.
+35
+No item
+Ace Trainer
+Jake
+アキラ
+Akira
+Reward:
+$
+2160
+Staraptor
+♂
+Lv.
+35
+No item
+Girafarig
+♂
+Lv.
+36
+No item
+Collector
+Ivan
+ヒロム
+Hiromu
+Reward:
+$
+2240
+Togetic
+♂
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Protein
+North-western corner of the land part of the route
+Pt
+Pure Incense
+West of the level item house
+Pt
+Big Mushroom
+On the right side of the level item house
+(hidden)
+Pt
+Black Belt
+Possible reward from the man in the house
+Pt
+Expert Belt
+Possible reward from the man in the house
+Pt
+Focus Sash
+Possible reward from the man in the house
+Pt
+Ultra Ball
+×2
+Beyond the first southern patch of grass
+In the grass below the Berry patch
+(hidden)
+Pt
+Hyper Potion
+Near the southwest corner of the large southern patch of grass
+(hidden)
+Pt
+Max Revive
+Just west of the berry patch
+(hidden)
+Pt
+Leppa Berry
+Berry patch southeast of the honey tree
+Pt
+Pecha Berry
+Berry patch southeast of the honey tree
+Pt
+Mago Berry
+Berry patch southeast of the honey tree
+Pt
+Hondew Berry
+Berry patch southeast of the honey tree
+Pt
+TM81
+(
+X-Scissor
+)
+Between the large southern patch of grass and the southeastern patch of grass
+Pt
+Carbos
+In the southeastern patch of grass (hidden)
+Pt
+Continue east from Route 220. Fight the male Swimmer, and continue east until you reach land. Head east on the northern section Route 221, stopping at the Level House (see below) to pick up the
+Pure Incense
+which allows you to produce a
+Chingling
+Egg when breeding
+Chimecho
+. When you reach the Pal Park (inaccessible until after you defeat the Elite Four), head back along the southern part of the route, collecting all the items you missed when travelling on the northern part. Now that you're finished here, it's time to Fly back to
+Jubilife City
+and head northwest via
+Route 218
+to reach
+Canalave City
+.
+Level House
+The only house located on Route 221 belongs to an old man who will each ask for a Pokémon at a certain random
+level
+from 1 to 100 each day. The items he'll give you are the
+Black Belt
+,
+Expert Belt
+, or
+Focus Sash
+. Only one item is given to you out of that particular order when you complete his request, and after he gives you the Focus Sash, the cycle will start over.
+For days where the requirement is an extremely high-leveled Pokémon, you can try
+soft resetting
+and not much else. On some days you might get lucky and be able to use Pokémon from your regular team. For days where low-level Pokémon are needed, the quickest solution is to simply head to an earlier area with an
+Quick Ball
+or two, catch a Pokémon of the appropriate level, and bring it to him.
+Route 218
+Route 218
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mr. Mime
+D
+P
+Pt
+Grass
+29-31
+25%
+Floatzel
+D
+P
+Pt
+Grass
+29-31
+30%
+30%
+40%
+Gastrodon
+D
+P
+Pt
+Grass
+28,30
+25%
+25%
+35%
+Chatot
+D
+P
+Pt
+Grass
+28,30
+20%
+20%
+0%
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Shellos
+D
+P
+Pt
+Surfing
+20-30
+30%
+Gastrodon
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Miguel
+ユタカ
+Yutaka
+Reward:
+$
+1056
+Gyarados
+♂
+Lv.
+33
+No item
+Gyarados
+♂
+Lv.
+33
+No item
+Fisherman
+Luc
+センジ
+Senji
+Reward:
+$
+992
+Remoraid
+♂
+Lv.
+29
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Remoraid
+♂
+Lv.
+29
+No item
+Remoraid
+♂
+Lv.
+30
+No item
+Remoraid
+♂
+Lv.
+31
+No item
+Sailor
+Skyler
+ケンゴ
+Kengo
+Reward:
+$
+1088
+Mantyke
+♂
+Lv.
+32
+No item
+Machoke
+♂
+Lv.
+34
+No item
+Guitarist
+Tony
+ジョニー
+Johnny
+Reward:
+$
+792
+Kricketune
+♂
+Lv.
+33
+No item
+Magnemite
+Lv.
+33
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+X Accuracy
+At the north end of the pier
+Pt
+Rare Candy
+On a small patch of land in the very northeast corner
+Pt
+Hyper Potion
+Next to the Fisherman after crossing the first pier
+Pt
+Rawst Berry
+Berry patch west of the honey tree
+Pt
+Persim Berry
+Berry patch west of the honey tree
+Pt
+Figy Berry
+Berry patch west of the honey tree
+Pt
+Pinap Berry
+×2
+Berry patch west of the honey tree
+Pt
+Now that you have
+Surf
+, you're able to navigate the rest of Route 218 and reach
+Canalave City
+, your next destination. There isn't much to do on this short route except for fighting the Trainers and catch
+Mr. Mime
+(this is the only location in Sinnoh where they can be found).
+When you enter the
+guard post
+separating Route 218 from Canalave City,
+Professor Rowan
+'s assistant will approach and give you upgrade to your
+Pokédex
+. This will allow you to check the differences in appearance between the same Pokémon in their Pokédex entry, such as
+gender
+or
+form
+differences.
+Canalave City
+Canalave City
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Shellos
+D
+P
+Pt
+Surfing
+20-30
+30%
+Gastrodon
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM48
+(
+Skill Swap
+)
+In the first house upon entering from
+Route 218
+Pt
+Big Pearl
+Southwest of Sailor Eldritch's house
+(hidden)
+Pt
+TM89
+(
+U-turn
+)
+Obtainable by
+surfing
+south in the canal
+Pt
+When you first enter
+Canalave City
+, be sure to visit the Pokémon Center to heal and prepare your team - when you try to cross the bridge your rival
+Barry
+will show up and challenge you to test your skills.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+Pokémon Trainer
+Barry
+Canalave City
+Platinum
+Reward:
+$
+3800
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+36
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Double Team
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+37
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Horn Attack
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+35
+Aqua Jet
+Water
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swift
+Normal
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+35
+Giga Drain
+Grass
+Special
+--
+Toxic Spikes
+Poison
+Status
+--
+Leech Seed
+Grass
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+38
+Brick Break
+Fighting
+Physical
+--
+Flame Wheel
+Fire
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Pokémon Trainer
+Barry
+Canalave City
+Platinum
+Reward:
+$
+3800
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+36
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Double Team
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+37
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Horn Attack
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+35
+Fire Spin
+Fire
+Special
+--
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+35
+Giga Drain
+Grass
+Special
+--
+Toxic Spikes
+Poison
+Status
+--
+Leech Seed
+Grass
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+38
+BubbleBeam
+Water
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Pokémon Trainer
+Barry
+Canalave City
+Platinum
+Reward:
+$
+3800
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+36
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Double Team
+Normal
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+37
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Horn Attack
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+35
+Aqua Jet
+Water
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swift
+Normal
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+35
+Fire Spin
+Fire
+Special
+--
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+38
+Razor Leaf
+Grass
+Physical
+--
+Bite
+Dark
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Barry now has a
+Heracross
+on his team, but a powerful
+Flying-type
+move can easily beat it. Unless you have an especially fast one, avoid using
+Psychic-type
+-types as Heracross's
+Dark-type
+move
+Night Slash
+will counter it. Four members of Barry's team have reached their highest evolutionary form, but they shouldn't be too much of a problem as long as your party is at least at Level 35 and has good type coverage. After the battle, Barry will suggest that the player visit
+Iron Island
+before heading off towards the library.
+The
+Move Deleter
+resides in the house just north of the
+Poké Mart
+. He will be able to remove any unwanted moves in your Pokémon's present moveset including
+HM
+moves. This is the only way for a Pokémon to forget a HM.
+The southernmost house on the west side of town belongs to a
+Sailor
+named
+Eldritch
+, who handles the ferry in town. Nothing important will happen here until the post-game after obtaining the
+National Pokédex
+. Eldritch is waiting near his boat at the dock nearby, and he can take you to Iron Island which will be required to visit. South from the wharf is a hidden area where you can pick up the
+TM89
+(
+U-turn
+).
+← Part 11
+Route 210 to Route 213
+Platinum
+walkthrough
+Iron Island to Lake Valor
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

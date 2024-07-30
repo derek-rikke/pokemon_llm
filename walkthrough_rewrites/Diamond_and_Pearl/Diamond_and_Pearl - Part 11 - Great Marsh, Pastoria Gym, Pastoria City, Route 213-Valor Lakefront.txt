@@ -1,0 +1,50 @@
+Game: Diamond_and_Pearl
+Part: 11
+Keywords: Great Marsh, Pastoria Gym, Pastoria City, Route 213-Valor Lakefront
+
+**Part 11: Great Marsh, Pastoria Gym, and Route 213-Valor Lakefront**
+
+**Great Marsh**
+- Located north of Pastoria City; entrance fee is $500.
+- Use binoculars ($100) to find rare Pokémon: Croagunk, Skorupi, and Carnivine.
+- Areas 1-6 have rotating Pokémon; you can move between them using a small train.
+- Talk to the green-haired person at the entrance to receive HM05 (Defog).
+- In Area 2, use the Dowsing Machine to find a hidden Toxic Plate.
+
+**Available Pokémon (Anytime)**:
+- Psyduck, Azurill, Marill, Wooper, Quagsire, etc.
+
+**Available Pokémon (Rotating)**:
+- Golduck, Roselia, Staravia, Skorupi, Croagunk, Carnivine.
+
+**Items**:
+- Area 1: Potion, Super Repel, Rare Candy.
+- Area 2: Toxic Plate, Great Ball.
+- Area 3: Honey, Ultra Ball.
+- Area 4: Poké Ball, Super Potion, Nugget.
+- Area 5: Antidote, Full Heal.
+- Area 6: HM05 (Defog), Parlyz Heal, Hyper Potion.
+
+**Pastoria Gym**
+- Specializes in Water-type Pokémon; strong Pokémon at Level 30.
+- Bring Electric and Grass-types; avoid Grass against Floatzel due to Ice Fang.
+- Solve the water flow puzzle by hitting switches in the correct order to reach Crasher Wake.
+- Defeating Wake earns you the Fen Badge (allows Pokémon up to Level 50 to obey) and TM55 (Brine).
+
+**3rd Rival Battle**
+- After earning 4 Badges, face Barry near the Great Marsh.
+- He will challenge you with a team that varies based on your starter Pokémon (Levels 25-28).
+
+**Route 213-Valor Lakefront**
+- Heal your Pokémon before proceeding.
+- Chase the Team Galactic grunt. He can be found at various locations:
+  1. Near the ocean
+  2. Hotel Grand Lake
+  3. Entrance to Route 222
+  4. Upper Valor Lakefront (where he will battle you)
+
+**Trainers**: 
+- Galactic Grunt (Level 25 Glameow).
+
+**After defeating the grunt**: 
+- Cynthia will appear and give you the SecretPotion for the Psyduck on Route 210. Explore Route 212 before returning to Route 210.

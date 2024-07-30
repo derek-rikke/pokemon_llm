@@ -1,0 +1,56 @@
+Game: X_and_Y
+Part: 6
+Keywords: Route 10, Geosenge Town, Route 11, Reflection Cave, Shalour City, Shalour Gym, Tower of Mastery
+
+### Part 6 Walkthrough Summary
+
+#### Route 10
+- **Location**: Connects Cyllage City to Geosenge Town.
+- **Trainers**: 
+  - Various Trainers (Psychic, Tourist, Team Flare Grunts) with Pokémon levels ranging from 19 to 24.
+- **Items**: 
+  - **Iapapa Berry** (north of Cyllage), **TM73 (Thunder Wave)**, **Mind Plate**, and various healing items hidden in southern fields.
+- **Team Flare**: Encounter several Grunts for rematches.
+
+#### Geosenge Town
+- **Key Locations**: 
+  - **Hotel Marine Snow** (TM66 Payback, Soft Sand, Timer Ball).
+  - Speak with **Mr. Bonding** for Speed Power.
+- **Battle Korrina**: Level 25 Lucario. Use Fire, Fighting, or Ground-type moves to counter her team.
+- **Reward**: $4,000.
+
+#### Route 11
+- **Trainers**: Including Psychic Emanuel and Battle Girl Gerardine.
+- **Items**: 
+  - **Sitrus Berry**, **Super Potion**, **TM69 (Rock Polish)**, and hidden Thunder Stone.
+- **Holo Clip**: Received from Sycamore indicating Shalour City is ahead.
+
+#### Reflection Cave
+- **1F and B1F**: Contains various wild Pokémon and trainers.
+- **Items**: 
+  - **Nest Ball**, **Moon Stone**, **TM70 (Flash)**, etc.
+- **Trainers**: Include Backpackers and Ace Trainers with Pokémon levels around 24-26.
+
+#### Shalour City
+- **Key Locations**: Tower of Mastery and Shalour Gym (Fighting-type).
+- **Items**: 
+  - **Eviolite**, **Soothe Bell**, **Max Ether**, **HM03 (Surf)**.
+- **Battle Korrina**: 
+  - Her Pokémon include Mienfoo, Machoke, and Hawlucha. Use Flying, Psychic, or Fairy-type moves.
+
+#### Shalour Gym
+- **Battle Strategy**: Use Flying, Psychic, or Fairy-type moves against Korrina's Fighting-types. 
+- **Leader Korrina**: 
+  - Reward: **Rumble Badge** (ensures obedience, enables Surf) and **TM98 (Power-Up Punch)**.
+
+#### Tower of Mastery
+- **Mega Evolution**: Obtain the Mega Ring after defeating Korrina.
+- **Battle**: Use Mega Evolution immediately against her Lucario.
+
+#### Gift
+- **Receive HM03 (Surf)** from Serena/Calem at the east gate.
+
+### Next Steps
+- Prepare for Route 12 after exiting the Tower of Mastery. 
+
+This concise guide includes key locations, battle strategies, and important items to streamline your progress in Pokémon X and Y.

@@ -1,0 +1,1572 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_10
+Keywords: Pastoria Gym, Route 212, Valor Lakefront
+
+Walkthrough Text:
+Contents
+1
+Pastoria Gym
+2
+Route 212 (south, optional)
+3
+Route 212 (north)
+3.1
+Pokémon Mansion
+4
+Route 213 and Valor Lakefront
+Pastoria Gym
+Before you enter the
+Gym
+, you will be challenged to a battle with
+your rival
+.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Platinum
+Reward:
+$
+3600
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+34
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+32
+Aqua Jet
+Water
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+32
+Magical Leaf
+Grass
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Poison Sting
+Poison
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+Lv.
+36
+Mach Punch
+Fighting
+Physical
+--
+Leer
+Normal
+Status
+--
+Flame Wheel
+Fire
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Platinum
+Reward:
+$
+3600
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+34
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+32
+Stomp
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+32
+Magical Leaf
+Grass
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Poison Sting
+Poison
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+Lv.
+36
+Growl
+Normal
+Status
+--
+Peck
+Flying
+Physical
+--
+BubbleBeam
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pastoria City
+Platinum
+Reward:
+$
+3600
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+34
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+32
+Aqua Jet
+Water
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+32
+Stomp
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+Lv.
+36
+Bite
+Dark
+Physical
+--
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Withdraw
+Water
+Status
+--
+Pastoria Gym
+As you will quickly figure out, this Gym specializes in
+Water-types
+.
+Grass
+- and
+Electric
+-types will do well here, but you shouldn't use
+Fire
+-,
+Rock
+-, or
+Ground
+-types. The strongest Pokémon here is level 37, so make sure your team is leveled appropriately before challenging the Gym.
+The puzzle of the Pastoria Gym may appear complicated at first, having to raise and lower the water level by stepping on buttons in the correct order. In reality, there is only ever a single path that you can take at any one time without going back the way you came. To reach
+Crasher Wake
+(the Gym Leader), go down the entrance stairs, turn left and go up those stairs. You will reach a yellow button. Hit it and the water level drops. Turn right, down the stairs, and go through a narrow passage. There is another narrow passage before you reach some stairs. Climb up to the top, and hit the green button. Climb down and follow the path to another set of stairs. Battle the
+Sailor
+there, and hit the blue button. Follow the platform to the first yellow button and head right, past the stairs to the
+Tuber
+. Battle him, and follow the path right to another Tuber. Battle her, and go on forward. You will eventually find a green button. Hit it, go down the nearby stairs, and hit the yellow button. Go up, then down to the lowest level. The rest is simple; follow the path to a set of stairs, climb up, and hit the blue button. The path to Wake is clear.
+Pastoria City Gym
+Trainers
+Trainer
+Pokémon
+Tuber
+Jacky
+クウタ
+Kūta
+Reward:
+$
+128
+Bibarel
+♂
+Lv.
+32
+No item
+Fisherman
+Walter
+コウスケ
+Kōsuke
+Reward:
+$
+1056
+Whiscash
+♂
+Lv.
+33
+No item
+Sailor
+Damian
+ユウゾウ
+Yūzō
+Reward:
+$
+992
+Wingull
+♂
+Lv.
+31
+No item
+Pelipper
+♂
+Lv.
+31
+No item
+Tuber
+Caitlyn
+ウキエ
+Ukie
+Reward:
+$
+124
+Azurill
+♀
+Lv.
+27
+No item
+Azumarill
+♀
+Lv.
+31
+No item
+Marill
+♀
+Lv.
+29
+No item
+Fisherman
+Erick
+ヒサオ
+Hisao
+Reward:
+$
+992
+Goldeen
+♂
+Lv.
+28
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Seaking
+♂
+Lv.
+31
+No item
+Sailor
+Samson
+ノブアキ
+Nobuaki
+Reward:
+$
+992
+Wingull
+♂
+Lv.
+29
+No item
+Shellos
+♂
+West Sea
+Lv.
+30
+No item
+Golduck
+♂
+Lv.
+31
+No item
+Leader
+Wake
+Pastoria Gym
+Platinum
+Reward:
+$
+4440
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+33
+Brine
+Water
+Special
+--
+Waterfall
+Water
+Physical
+--
+Bite
+Dark
+Physical
+--
+Twister
+Dragon
+Special
+--
+Types:
+Water
+Ground
+Ability:
+Damp
+Held item:
+None
+Quagsire
+♂
+Lv.
+34
+Rock Tomb
+Rock
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Mud Shot
+Ground
+Special
+--
+Yawn
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+Sitrus Berry
+Floatzel
+♂
+Lv.
+37
+Brine
+Water
+Special
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Wake leads the fight with
+Gyarados
+, who has
+Intimidate
+, so lead with
+Special
+-based attackers. It knows Wake's signature move,
+Brine
+. Brine does more damage if its target has less than half of its HP left, so be wary and keep your Pokémon healthy.
+Waterfall
+will do the most damage and may cause your Pokémon to
+flinch
+. However, one good
+Electric-type
+attack, such as
+Spark
+or
+Thunder
+, will take it out. Next up is Wake's
+Quagsire
+, whose Ground type makes it immune to Electric-type moves. Grass-type attacks are this Pokémon's nightmare, particularly Special attacks due to its weak
+Special Defense
+. It has
+Rock Tomb
+which can slow you down, but it doesn't know Brine.
+Yawn
+can be annoying, because a Pokémon hit by it will fall asleep on the next turn unless you switch it out.
+Chesto Berries
+as held items can be useful in this situation. Last up is his star Pokémon,
+Floatzel
+. Floatzel is very fast, and can hit pretty hard, but its defenses are quite low. It has
+Ice Fang
+to counter Grass-types, as well as
+Aqua Jet
+, a Water-type version of
+Quick Attack
+. It too is packing Brine, so stay healthy during the fight. A Pokémon with a good Electric move will do well here.
+After defeating Wake, you'll receive the
+Fen Badge
+that lets you use
+Surf
+outside of battle, as well as
+TM55
+(
+Brine
+).
+After earning the Fen Badge, you'll meet up with Barry again. When Wake leaves the Gym, it turns out that Barry's earlier claim that he's Wake's apprentice isn't true - Wake won't take him on as he believes neither of you need any tutoring. After this exchange Barry mentions a Galactic Grunt with a bomb near the Great Marsh's Observatory Gate. When you meet Barry and Wake at the entrance to the Great Marsh you'll find that the Grunt sets off a small bomb in the Great Marsh as a field test, and you'll have to chase after him while Barry keeps people out of the Great Marsh until Wake can be sure it is safe.
+Route 212 (south, optional)
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Taylor
+ヨシノリ
+Yoshinori
+Reward:
+$
+1800
+Carnivine
+♂
+Lv.
+28
+No item
+Luxio
+♂
+Lv.
+30
+No item
+Scientist
+Shaun
+トシアキ
+Toshiaki
+Reward:
+$
+1248
+Magnemite
+Lv.
+30
+No item
+Kadabra
+♂
+Lv.
+26
+No item
+Parasol Lady
+Sabrina
+ワカナ
+Wakana
+Reward:
+$
+896
+Wooper
+♀
+Lv.
+26
+No item
+Quagsire
+♀
+Lv.
+28
+No item
+Parasol Lady
+Alexa
+シズエ
+Shizue
+Reward:
+$
+864
+Goldeen
+♀
+Lv.
+27
+No item
+Bibarel
+♀
+Lv.
+27
+No item
+Fisherman
+Juan
+テルヒコ
+Teruhiko
+Reward:
+$
+928
+Gyarados
+♂
+Lv.
+29
+No item
+Fisherman
+Josh
+ノリカズ
+Norikazu
+Reward:
+$
+864
+Goldeen
+♂
+Lv.
+27
+No item
+Goldeen
+♂
+Lv.
+27
+No item
+Fisherman
+Travis
+トモユキ
+Tomoyuki
+Reward:
+$
+800
+Barboach
+♂
+Lv.
+24
+No item
+Barboach
+♂
+Lv.
+25
+No item
+Barboach
+♂
+Lv.
+25
+No item
+Gyarados
+♂
+Lv.
+26
+No item
+Collector
+Dean
+クリオ
+Kurio
+Reward:
+$
+1728
+Umbreon
+♂
+Lv.
+27
+No item
+Espeon
+♂
+Lv.
+27
+No item
+Policeman
+Danny
+マサヨシ
+Masayoshi
+Reward:
+$
+1120
+Hoothoot
+♂
+Lv.
+26
+No item
+Machop
+♂
+Lv.
+28
+No item
+Scientist
+Stefano
+ツトム
+Tsutomu
+Reward:
+$
+1440
+Kadabra
+♂
+Lv.
+30
+No item
+Pokémon Ranger
+Jeffery
+エイジ
+Eiji
+Reward:
+$
+1860
+Monferno
+♂
+Lv.
+31
+No item
+Pokémon Ranger
+Allison
+スズネ
+Suzune
+Reward:
+$
+1740
+Leafeon
+♂
+Lv.
+29
+No item
+Marill
+♀
+Lv.
+29
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Quagsire
+D
+P
+Pt
+Grass
+24,26
+30%
+Buizel
+D
+P
+Pt
+Grass
+23,25
+15%
+Shellos
+D
+P
+Pt
+Grass
+23-26
+45%
+Croagunk
+D
+P
+Pt
+Grass
+24-25
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+Near the northeast corner, a few steps northeast of the entrance to the muddy area, in the mud
+(hidden)
+Pt
+Ultra Ball
+Near the northeast corner, a few steps north of the above Hyper Potion
+(hidden)
+Pt
+Dawn Stone
+Near the northeast corner, in the northwest part of the mud
+(hidden)
+Pt
+Pecha Berry
+Berry Patch near Pastoria City
+Pt
+Pinap Berry
+×3
+Berry Patch near Pastoria City
+Pt
+Revive
+Next to the northern hill connected by the easternmost log
+Pt
+TM06
+(
+Toxic
+)
+Southeast corner of the larger swamp
+Pt
+Hyper Potion
+Near Scientist Shaun (requires
+Cut
+)
+Pt
+Zinc
+Northeast of the shard collector's house (requires
+Cut
+)
+Pt
+Max Repel
+Near the northwest corner of the mud, in the mud
+(hidden)
+Pt
+Elixir
+Near honey tree
+Pt
+Full Heal
+South of the honey tree, in the mud
+(hidden)
+Pt
+Rare Candy
+Further south of the honey tree, in the mud
+(hidden)
+Pt
+Big Mushroom
+On the smallest hill inside the bicycle bridges complex (requires
+Cut
+)
+(hidden)
+Pt
+TM62
+(
+Silver Wind
+)
+Alone on a small island, near the three fishermen
+Pt
+Full Heal
+Southernmost west corner of the route
+Pt
+Blue Shard
+On the south westernmost corner of the map
+Pt
+Go down the stairs and around the path past the
+Scientist
+and the two
+Rangers
+. Head up another set of stairs to grab
+TM62
+(
+Silver Wind
+) across the narrow bridge. Go north on the wide bridge,
+Cut
+your way through some bushes, and collect all the items hidden on the four hills connected by the three narrow log bridges. East of the wide bridge is the house of one of the three
+Move Tutors
+who offers to tutor moves in exchange for
+shards
+.
+Route 212
+Move
+Type
+Cat.
+Shards
+Air Cutter
+Flying
+Special
+2
+2
+4
+0
+Dive
+Water
+Physical
+2
+0
+4
+2
+Fire Punch
+Fire
+Physical
+2
+0
+6
+0
+Fury Cutter
+Bug
+Physical
+0
+0
+8
+0
+Ice Punch
+Ice
+Physical
+2
+0
+6
+0
+Icy Wind
+Ice
+Special
+0
+2
+6
+0
+Knock Off
+Dark
+Physical
+4
+0
+4
+0
+Ominous Wind
+Ghost
+Special
+0
+2
+6
+0
+Sucker Punch
+Dark
+Physical
+0
+0
+6
+2
+ThunderPunch
+Electric
+Physical
+2
+0
+6
+0
+Trick
+Psychic
+Status
+0
+0
+4
+4
+Vacuum Wave
+Fighting
+Special
+2
+2
+4
+0
+Zen Headbutt
+Psychic
+Physical
+0
+0
+4
+4
+Trek through the three large sections of mud, using your
+Dowsing Machine
+to find a number of items hidden in the mud along the way. Make a detour to the north underneath the first narrow wooden bridge to collect the item at the end of this dead end path,
+then cut your way through the small trees you just passed and use your bicycle to cross the bridge. Battle your way past the two trainers and find a
+Zinc
+where the path ends in a ledge. Make another detour into the muddy area north of the signpost to find a
+Dawn Stone
+hidden in the mud, then continue west.
+Route 212 (north)
+Route 212
+Trainers
+Trainer
+Pokémon
+Socialite
+Reina
+ヨシノ
+Yoshino
+Reward:
+$
+5400
+Roselia
+♀
+Lv.
+27
+No item
+Gentleman
+Jeremy
+サダミツ
+Sadamitsu
+Reward:
+$
+5400
+Chatot
+♂
+Lv.
+27
+No item
+Policeman
+Dylan
+ケースケ
+Keisuke
+Reward:
+$
+960
+Hoothoot
+♂
+Lv.
+26
+No item
+Machop
+♂
+Lv.
+24
+No item
+Policeman
+Alex
+シュウヘイ
+Shūhei
+Reward:
+$
+1000
+Hoothoot
+♂
+Lv.
+25
+No item
+Machop
+♂
+Lv.
+25
+No item
+Policeman
+Bobby
+モリツグ
+Moritsugu
+Reward:
+$
+1040
+Hoothoot
+♂
+Lv.
+24
+No item
+Machop
+♂
+Lv.
+26
+No item
+Policeman
+Caleb
+エイタロウ
+Eitarō
+Reward:
+$
+1080
+Hoothoot
+♂
+Lv.
+23
+No item
+Machop
+♂
+Lv.
+27
+No item
+Lady
+Melissa
+ユリカ
+Yurika
+Reward:
+$
+4320
+Cherubi
+♀
+Lv.
+27
+No item
+Rich Boy
+Jason
+ユウスケ
+Yūsuke
+Reward:
+$
+4320
+Prinplup
+♂
+Lv.
+27
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Marill
+D
+P
+Pt
+Grass
+21,23
+25%
+25%
+0%
+Marill
+D
+P
+Pt
+Grass
+21-23
+0%
+0%
+45%
+Ralts
+D
+P
+Pt
+Grass
+22
+0%
+10%
+0%
+Kirlia
+D
+P
+Pt
+Grass
+22,24
+20%
+0%
+0%
+Kirlia
+D
+P
+Pt
+Grass
+24
+0%
+10%
+10%
+Roselia
+D
+P
+Pt
+Grass
+22-24
+35%
+Staravia
+D
+P
+Pt
+Grass
+21,23
+20%
+20%
+0%
+Staravia
+D
+P
+Pt
+Grass
+21
+0%
+0%
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+Behind the Trainer Tips sign south-west of the Mansion
+Pt
+Ultra Ball
+In one of the bushes in front of the right wall of the entrance to the Mansion grounds
+(hidden)
+Pt
+Pearl
+In the bushes to the left of the entrance to the mansion.
+(hidden)
+Pt
+Green Shard
+Just right of the Pokémon Mansion
+Pt
+Aspear Berry
+Berry patch next to the Pokémon Mansion
+Pt
+Sitrus Berry
+Berry patch next to the Pokémon Mansion
+Pt
+TM11
+(
+Sunny Day
+)
+West of the Pokémon Mansion (requires
+Cut
+or
+Surf
+)
+Pt
+Unless another player can trade you a
+Manaphy
+, you need to visit
+Route 212
+in order to obtain the National
+Pokédex
+. After leaving
+Hearthome City
+, head south to the entrance of the
+Pokémon Mansion
+. Once you're done visiting the mansion, cut your way through to find a path leading to
+TM11
+(
+Sunny Day
+). Follow the shoreline of the pond next to the grass to reach the other half of this route.
+Pokémon Mansion
+The Pokémon Mansion
+Trainers
+Trainer
+Pokémon
+Maid
+Belinda
+ハンナ
+Hannah
+Reward:
+$
+1000
+Clefairy
+♀
+Lv.
+25
+No item
+Maid
+Sophie
+ソフィ
+Sophie
+Reward:
+$
+1080
+Clefairy
+♀
+Lv.
+27
+No item
+Maid
+Emily
+エミリ
+Emily
+Reward:
+$
+1160
+Clefairy
+♀
+Lv.
+29
+No item
+Maid
+Elena
+ヘレン
+Helen
+Reward:
+$
+1240
+Clefairy
+♀
+Lv.
+31
+No item
+Maid
+Clare
+クレア
+Claire
+Reward:
+$
+1320
+Clefairy
+♀
+Lv.
+33
+No item
+Depending on the amount of moves used, the
+player
+will battle either one of these trainers
+Rich Boy
+Liam
+Reward:
+$
+5600
+Blissey
+♀
+Lv.
+35
+Rare Candy
+Lady
+Celeste
+Reward:
+$
+5600
+Blissey
+♀
+Lv.
+35
+Rare Candy
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM87
+(
+Swagger
+)
+Found in Backlot's office
+Pt
+Luxury Ball
+Found in the third room left of the entrance
+Pt
+Soothe Bell
+Given by a Maid in the second room from the left of the entrance
+Pt
+Protein
+Found in trash can in the first room left from the entrance
+Pt
+The interior of the mansion
+The
+Pokémon Mansion
+is owned by
+Mr. Backlot
+. It is also the home of the famous
+Trophy Garden
+, which is located at its rear. It has four rooms, the most important of them being Mr. Backlot's office, which is where a Pokémon statue guarded by a policeman is located. The guard is on break from 2 A.M. until 6 A.M., leaving you free to touch the statue and get your fingerprints all over it.
+Manaphy
+'s data can be recorded (as a seen Pokémon) from the book lying on Mr. Backlot's desk, and it must be done in order to get the
+National Pokédex
+. Other rooms in the mansion have beds, which you can use to rest yourself along with your Pokémon. In the west wing, you may fight the maids in the 5-Maid Knockout Exact-Turn Attack Challenge, in which five maids must be beaten in a certain number of total turns (no more, no less). The prize for beating the challenge is a duel with either
+Lady
+Celeste or
+Rich Boy
+Liam, depending on how many turns you were told to beat the maids in.
+The western and eastern exits of the mansion are blocked by the maids. Neither of these doorways are functional however, and for your purposes serve only as decoration.
+Route 213 and Valor Lakefront
+Valor Lakefront
+Hotel Grand Lake, part of Valor Lakefront
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1240
+Croagunk
+♂
+Lv.
+31
+No item
+After speaking to Crasher Wake at the entrance to the Great Marsh, the grunt will try to run away. Head to
+Route 213
+(you'll encounter
+Looker
+there), chasing the Grunt east towards Valor Lakefront. After talking to the man in the hotel lobby and healing up, chase the Grunt all the way to the
+Valor Lakefront
+, where he'll finally give up and you can challenge him to a battle near the entrance of
+Lake Valor
+. After defeating the Grunt, you will meet
+Cynthia
+and
+your rival
+again. He briefly interrupts her to report that the damage to the Great Marsh is not as serious as expected, and Cynthia states that she is worried about the group of
+Psyduck
+on
+Route 210
+. She gives you
+SecretPotion
+to cure them of their headaches, and will then tell you the legend about a
+mirage Pokémon
+that lives inside the lake.
+← Part 9
+Route 214 to Pastoria City
+Platinum
+walkthrough
+Route 210 to Route 220
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,58 @@
+Game: HeartGold_and_SoulSilver
+Part: 22
+Keywords: Routes 12, 13, 14, and 15
+
+**Walkthrough: Part 22 - Routes 12, 13, 14, and 15**
+
+**Route 15**
+- **Key Items:** 
+  - PP Up (East side, cut tree)
+  - Rose Incense (Southern path)
+  
+- **Trainers:**
+  - School Kid Kipp: Voltorb (Lv. 36, 40), Magneton (Lv. 40) - $800
+  - School Kid Tommy: Xatu (Lv. 41), Alakazam (Lv. 43) - $860
+  - Teacher Hillary: Sunkern (Lv. 41), Aipom (Lv. 31) - $1488
+  - Pokéfan Boone: Spinda (Lv. 43), Volbeat (Lv. 41) - $2624
+  - Trainer Colette: Clefairy (Lv. 45) - $2160
+
+- **Available Pokémon:**
+  - Nidorina, Nidorino (Lv. 23), Pidgeotto (Lv. 25), Chansey (Lv. 25, rare)
+
+**Route 14**
+- **Key Trainers:**
+  - Bird Keeper Josh: Fearow (Lv. 37) - $1184
+  - Pokéfan Trevor: Psyduck (Lv. 42) - $2688
+  - Teacher Clarice: Zigzagoon (Lv. 41), Roselia (Lv. 43) - $2064
+
+- **Available Pokémon:**
+  - Nidorina, Nidorino (Lv. 23), Hoppip (Lv. 24), Chansey (Lv. 25, rare)
+
+- **Item:** Lucky Punch (From woman in tall grass with Chansey)
+
+**Route 13**
+- **Key Trainers:**
+  - Bird Keeper Bret: Taillow (Lv. 41) - $1312
+  - Young Couple Tim & Sue: Kadabra (Lv. 41), Psyduck (Lv. 46) - $5888
+
+- **Available Pokémon:**
+  - Nidorina, Nidorino (Lv. 23), Tentacool (Surfing), Magikarp (Fishing)
+
+- **Items:** Calcium (Hidden East of Trainer Tips sign)
+
+**Route 12**
+- **Key Trainers:**
+  - Fisherman Kyle: Goldeen (Lv. 39), Qwilfish (Lv. 35) - $1248
+  - Bird Keeper Justin: Xatu (Lv. 44) - $1248
+
+- **Available Pokémon:**
+  - Tentacruel (Surfing), Quagsire (Fishing)
+
+- **Items:**
+  - Yellow Flute (Southwest field, requires Surf/Cut)
+  - Super Rod (From Fishing Guru's brother)
+
+**Final Sighting**  
+- Encounter Suicune again while heading north. After this, you'll be able to challenge it at Cerulean Cape.
+
+Make sure to battle trainers for experience and gather items as you progress through these routes!

@@ -1,0 +1,49 @@
+Game: Yellow
+Part: 13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21
+
+**Pokémon Yellow Walkthrough: Part 13 - Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21**
+
+**Cinnabar Island Overview:**
+- Located between Routes 20 and 21.
+- Key locations: Cinnabar Lab (revives ancient Pokémon), Pokémon Mansion (items and trainers), and Cinnabar Gym (locked initially).
+
+**Available Pokémon:**
+- **Fishing:**
+  - Magikarp (Old Rod)
+  - Poliwag, Goldeen (Good Rod)
+  - Staryu, Tentacool (Super Rod)
+
+- **Gift Pokémon:**
+  - Omanyte (Helix Fossil), Kabuto (Dome Fossil), Aerodactyl (Old Amber)
+
+**Items:**
+- TM35 (Metronome) in Cinnabar Lab (R&D Room)
+- TM38 (Fire Blast) from Blaine after Cinnabar Gym battle
+
+**Cinnabar Lab:**
+- **Meeting Room:** Trade Rhydon for Golduck, Dewgong for Growlithe.
+- **R&D Room:** Get TM35 from the scientist.
+- **Testing Room:** Trade Muk for Kangaskhan.
+- **Fossil Regeneration:** Give fossils to the scientist to receive ancient Pokémon (Omanyte, Kabuto, Aerodactyl).
+
+**Pokémon Mansion:**
+- Search for hidden switches to unlock doors.
+- Collect items: Moon Stone, Escape Rope, Carbos, Calcium, Iron, Max Potion, Max Revive, TM14 (Blizzard), Full Restore, Rare Candies, TM22 (SolarBeam), and Secret Key.
+- Be cautious of trainers: Scientists and Burglars with various Pokémon.
+
+**Cinnabar Gym:**
+- Leader: Blaine (Fire-type).
+- Use Water, Rock, or Ground-type Pokémon for an advantage.
+- Answer quiz questions correctly to access Blaine; defeating gym trainers is optional.
+- After defeating Blaine, receive the Volcano Badge and TM38 (Fire Blast).
+
+**Route 21:**
+- Leads from Cinnabar Island to Pallet Town.
+- Trainers include various fishermen and swimmers with Pokémon like Magikarp, Seaking, and Starmie.
+
+**Next Steps:**
+- After Cinnabar Gym, surf north to reach Route 21.
+- Consider flying to Cerulean City to prepare for your next adventure at the Power Plant via Route 10.
+
+This concise guide retains the essential gameplay elements, item locations, and battle strategies for progressing through Cinnabar Island and its surrounding routes.

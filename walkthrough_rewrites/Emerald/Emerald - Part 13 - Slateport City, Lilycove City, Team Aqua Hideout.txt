@@ -1,0 +1,37 @@
+Game: Emerald
+Part: 13
+Keywords: Slateport City, Lilycove City, Team Aqua Hideout
+
+### Part 13: Slateport City, Lilycove City, Team Aqua Hideout
+
+#### Slateport City
+- **Arrival:** Head northeast to Slateport Harbor. Speak with Captain Stern, who mentions a discovery on Route 128. Archie and a Team Aqua Grunt steal the submarine.
+
+#### Lilycove City
+- **Attractions:** Key locations include the Lilycove Department Store (shopping), Pokémon Contest Hall, Cove Lily Motel, and the Lilycove Museum.
+- **Rival Battle 5 (optional):** Encounter May/Brendan outside the Department Store. Battle them to test your Pokémon training.
+
+**Department Store Items:**
+- **1F:** Service Counter, Lottery Corner (daily prize draws).
+- **2F:** Battle items.
+- **3F:** Stat-enhancing items.
+- **4F:** TMs for sale (offensive and defensive moves).
+- **5F:** Secret Base decorations.
+- **Rooftop:** Occasionally holds a clearance sale; offers unique decorations.
+
+- **Lilycove Museum:** Complete Master Rank Contests to obtain artwork for the museum. Rewards include a Glass Ornament for your Secret Base.
+
+- **Move Deleter:** Located near the Department Store, allows Pokémon to forget moves for free.
+
+- **Berry Location:** Speak to the Gentleman east of Move Deleter's house for a daily random Berry.
+
+#### Aqua Hideout
+- **Entry:** Located northeast of Lilycove's beach. Prepare for battles; Team Aqua uses Water and Dark-type Pokémon.
+- **Key Items:**
+  - **B1F:** Max Elixir (east-central room), Nugget and Master Ball (Archie's office), Nest Ball (submarine room).
+  
+**Battle Strategy:** 
+- Defeat Aqua Grunts on multiple floors. Use moves strong against Water and Dark types.
+- Face Aqua Admin Matt at the end. After winning, Archie escapes. You must pursue him to the Seafloor Cavern.
+
+Once done, head back to Lilycove City to continue your journey.

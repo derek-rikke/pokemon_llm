@@ -1,0 +1,45 @@
+Game: Yellow
+Part: 5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+**Part 5 Walkthrough - Pokémon Yellow**
+
+**Cerulean City:**
+- **Pokémon**: Bulbasaur (gift if Pikachu's friendship is high).
+- **Items**: 
+  - Rare Candy (northwest house, hidden).
+  - TM11 (BubbleBeam, from Misty after defeating her).
+  - TM28 (Dig, from Team Rocket Grunt).
+  - Bicycle (requires Bike Voucher from the Bike Shop).
+  
+**Cerulean Gym:**
+- **Leader**: Misty (Water-type).
+- **Strategy**: Use Pikachu’s ThunderShock or Grass moves against her Pokémon.
+  - Staryu (Level 18) → Starmie (Level 21).
+- **Reward**: Cascade Badge (obedience up to level 30, Cut ability) and TM11 (BubbleBeam).
+
+**Rival Battle 3 (Route 24)**:
+- **Opponent**: Blue.
+- **Strategy**: Use Electric and Rock moves against Spearow and Sandshrew. Take out Rattata quickly to avoid Hyper Fang damage.
+
+**Route 24**:
+- **Key Feature**: Nugget Bridge with five trainers.
+- **Items**: Nugget (defeat all trainers), TM45 (Thunder Wave, northwest hill).
+- **Gift Pokémon**: Charmander (from a boy on northwest hill).
+
+**Route 25**:
+- **Key Location**: Bill’s Sea Cottage.
+- **Objective**: Help Bill with his experiment to receive the S.S. Ticket.
+- **Items**: Elixir (hidden), TM19 (Seismic Toss, northeast of maze), Ether (hidden).
+
+**Cerulean City (Post-Bill)**:
+- **Task**: Enter the previously blocked house to confront a Team Rocket Grunt.
+- **Reward**: TM28 (Dig) after defeating him.
+
+**Route 5**:
+- **Pokémon Day Care**: Raise one Pokémon at a time for 100 coins plus 100 per level.
+- **Underground Path**: Leads to Route 6; contains Full Restore and X Special (both hidden).
+
+**Trading**: A girl at the north gate will trade her Machoke for a Cubone.
+
+**Next Steps**: Proceed to Route 6 and Vermilion City.

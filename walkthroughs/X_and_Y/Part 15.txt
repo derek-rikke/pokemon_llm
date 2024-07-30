@@ -1,0 +1,1097 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_15
+Keywords: The Pokémon League
+
+Walkthrough Text:
+Contents
+1
+Pokémon League
+1.1
+Great Hall
+1.1.1
+Blazing Chamber
+1.1.2
+Flood Chamber
+1.1.3
+Ironworks Chamber
+1.1.4
+Dragonmark Chamber
+1.1.5
+Radiant Chamber
+1.1.5.1
+Hall of Fame
+2
+Lumiose City
+Pokémon League
+Pokémon League
+This is it, the
+Pokémon League
+! Inside this castle, you will meet some of the strongest Trainers in
+Kalos
+: the
+Elite Four
+, and the
+Champion
+who reigns over them. Make sure that your team is ready for anything, as once you begin, there's no turning back!
+In addition to using TMs, consider revisiting the
+Move Tutors
+in
+Snowbelle City
+and
+Route 21
+to learn powerful attacks that will exploit your opponents' weaknesses. Each Elite Four member has two
+Full Restores
+to use, and the Champion has three, making it vital to have moves that will knock out their Pokémon before they can heal them. Outfit your party members with useful items, like a
+Quick Claw
+for a slower Pokémon, or a
+Wide Lens
+for one with inaccurate moves. Stock up on medicine, especially Full Restores and
+Revives
+.
+Great Hall
+Enter the castle and proceed down either hallway to the great hall. Here you meet
+Malva
+, one of the Elite Four and the group's
+Fire-type
+specialist. She suggests that you do your best, as you won't reach the Champion if you cannot survive against the others first. She mocks you as she returns to her chamber, saying that it should be a walk in the park for you, the "hero"/"heroine" who destroyed big, bad
+Team Flare
+.
+Challengers are allowed to choose the order in which they battle the Elite Four, so take on the easiest opponents first. By doing this, your Pokémon will become slightly stronger before facing the more difficult opponents.
+Blazing Chamber
+Blazing Chamber
+The northeast doorway leads to the
+Blazing Chamber
+. A ring of fire encircles the battlefield, which features a large pipe on either side. When you enter, each pipe spits out two small flames, then two large pillars of fire erupt and rise to the ceiling. The
+Fire-type
+specialist is resting on her throne, forcing you to come to her.
+All of
+Malva
+'s Pokémon are vulnerable to
+Water
+and
+Rock
+attacks, while three are also vulnerable to
+Ground
+moves. She opens with her
+Pyroar
+, a female with the
+Rivalry
+Ability.
+Wild Charge
+serves as a way to deal with
+Water
+Pokémon, and its signature move,
+Noble Roar
+, scares the target into lowering both its Attack and Special Attack stats. Her
+Torkoal
+has decent Attack and great Defense; using
+Curse
+raises these stats while sacrificing its already-low Speed.
+Flame Wheel
+receives a same-type attack bonus, while
+Earthquake
+and
+Stone Edge
+provide coverage.
+Chandelure
+has a great Special Attack rating, and puts it to use with
+Flamethrower
+and
+Shadow Ball
+; it can also cause problems with
+Confuse Ray
+. Her
+Talonflame
+has great Speed, which pairs well with its powerful
+Brave Bird
+and
+Flare Blitz
+moves. Don't let it linger on, as
+Flail
+grows stronger when its health wears thin. Both Chandelure and Talonflame have the
+Flame Body
+Ability, so opt for special moves to avoid the chance of getting
+Burned
+.
+Elite Four
+Malva
+Blazing Chamber
+X and Y
+Reward:
+$
+13000
+Types:
+Fire
+Normal
+Ability:
+Rivalry
+Held item:
+None
+Pyroar
+♀
+Lv.
+63
+Hyper Voice
+Normal
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Wild Charge
+Electric
+Physical
+--
+Noble Roar
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+White Smoke
+Held item:
+None
+Torkoal
+♀
+Lv.
+63
+Curse
+Ghost
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Flame Wheel
+Fire
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+None
+Chandelure
+♀
+Lv.
+63
+Flamethrower
+Fire
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Confide
+Normal
+Status
+--
+Types:
+Fire
+Flying
+Ability:
+Flame Body
+Held item:
+None
+Talonflame
+♀
+Lv.
+65
+Brave Bird
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Flail
+Normal
+Physical
+--
+Flood Chamber
+Flood Chamber
+The southeast doorway leads to the
+Flood Chamber
+. Each side of the battlefield features a hollow, screw-shaped pillar with a chain that reaches up to the ceiling. As you enter, the pillars briefly spin upwards, and the chains are pulled down through them. A large volume of water then spouts from these pillars, while water also begins cascading down the walls. This temporarily floods the room before you can approach this opponent.
+Siebold
+is the Elite Four's
+Water-type
+specialist. Each one of his Pokémon is vulnerable to
+Electric-type
+attacks, and most are afraid of
+Grass
+moves, as well. He opens with his
+Clawitzer
+, which uses several pulse moves to take advantage of its
+Mega Launcher
+Ability.
+Gyarados
+can deal serious damage due to its high Attack coupled with strong physical moves. To make things worse,
+Dragon Dance
+can raise its already-high Attack and Speed, while
+Earthquake
+is used to deal with Electric-type opponents. His
+Starmie
+knows
+Surf
+and
+Psychic
+, two strong moves that both receive a same-type attack bonus. It can also raise his team's Special Defense for five turns with
+Light Screen
+. Each of
+Barbaracle
+'s moves fall under the physical category, so each receives a power boost due to its
+Tough Claws
+Ability.
+Cross Chop
+and
+Stone Edge
+have high critical-hit rates, and
+Razor Shell
+attack may lower the target's Defense, making it an even bigger threat.
+Elite Four
+Siebold
+Flood Chamber
+X and Y
+Reward:
+$
+13000
+Type:
+Water
+Unknown
+Ability:
+Mega Launcher
+Held item:
+None
+Clawitzer
+♂
+Lv.
+63
+Water Pulse
+Water
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Aura Sphere
+Fighting
+Special
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+63
+Waterfall
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Types:
+Water
+Psychic
+Ability:
+Illuminate
+Held item:
+None
+Starmie
+Lv.
+63
+Dazzling Gleam
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Surf
+Water
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Rock
+Water
+Ability:
+Tough Claws
+Held item:
+None
+Barbaracle
+♂
+Lv.
+65
+Cross Chop
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Razor Shell
+Water
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Ironworks Chamber
+Ironworks Chamber
+The northwest doorway leads to the
+Ironworks Chamber
+. As you enter, two giant blades descend from the ceiling into two slots on the floor. They turn 90 degrees, causing a flash of green light to climb the wall before it sinks into the floor. The blades turn another 90 degrees and a circular fence rises around the arena, after which the iron-clad Trainer leaves his throne to meet you.
+Wikstrom
+is the Elite Four's
+Steel-type
+specialist. Three of his Pokémon are vulnerable to
+Fire
+attacks, while the fourth is especially vulnerable to
+Fighting
+and
+Ground
+moves. He leads with his
+Klefki
+, whose damaging moves include
+Dazzling Gleam
+and
+Flash Cannon
+, which both receive a
+same-type attack bonus
+. His
+Probopass
+has great defenses, and its
+Sturdy
+Ability prevents a one-hit knockout. While Fire-type Pokémon can attack most of his team with impunity, Probopass puts a stop to this with its
+Earth Power
+and
+Power Gem
+attacks. A high attack rating and strong moves make
+Scizor
+a major threat already, but its priority move,
+Bullet Punch
+, receives a power boost from its
+Technician
+Ability. His Aegislash enters the battle in Shield Forme, which boasts
+superior defenses
+but low offenses. When attacking, its
+signature Ability
+shifts it to Blade Forme, and becomes an
+offensive threat
+. It reverts to Shield Forme by using its signature move,
+King's Shield
+; this move protects it from most damaging moves and lowers the Attack of any attacker that makes direct contact.
+Elite Four
+Wikstrom
+Ironworks Chamber
+X and Y
+Reward:
+$
+13000
+Types:
+Steel
+Fairy
+Ability:
+Prankster
+Held item:
+None
+Klefki
+♂
+Lv.
+63
+Dazzling Gleam
+Fairy
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Torment
+Dark
+Status
+--
+Spikes
+Ground
+Status
+--
+Types:
+Rock
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Probopass
+♂
+Lv.
+63
+Earth Power
+Ground
+Special
+--
+Power Gem
+Rock
+Special
+--
+Discharge
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Types:
+Bug
+Steel
+Ability:
+Technician
+Held item:
+None
+Scizor
+♂
+Lv.
+63
+Bullet Punch
+Steel
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Steel
+Ghost
+Ability:
+Stance Change
+Held item:
+None
+Aegislash
+♂
+Lv.
+65
+King's Shield
+Steel
+Status
+--
+Sacred Sword
+Fighting
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Dragonmark Chamber
+Dragonmark Chamber
+The southwest doorway leads to the
+Dragonmark Chamber
+. When you enter, the room is filled with a blue-purple mist which quickly clears. Two large structures shaped like a dragon's wings open wide, revealing a cover shaped like a dragon's head. This cover then lifts up, revealing your opponent. Small blue flames flicker briefly atop each of the two pipes before incense begins wafting into the room.
+Drasna
+is the Elite Four's
+Dragon-type
+specialist. All four of her Pokémon are vulnerable to
+Ice
+attacks. They are all vulnerable to Dragon attacks as well, but avoid using Dragon Pokémon against her. She leads with
+Dragalge
+, a
+Poison
+/
+Dragon
+Pokémon with strong coverage moves in the form of
+Surf
+and
+Thunderbolt
+. As a Poison type, it is the only one of her team not susceptible to
+Fairy
+attacks. Her
+Druddigon
+is all about payback;
+Revenge
+doubles in power if the user was injured in the same turn, and
+Retaliate
+'s power is doubled if a teammate fainted in the previous turn.
+Altaria
+battles more defensively, as
+Cotton Guard
+drastically raises its Defense, and
+Sing
+can lull the target to
+sleep
+. Its
+Moonblast
+attack helps to deal with opposing dragons. The biggest threat is her
+Noivern
+, a speedy
+Flying
+/
+Dragon
+Pokémon.
+Air Slash
+may cause the target to
+flinch
+,
+Super Fang
+cuts the target's remaining health in half, and
+Flamethrower
+lets it account for a
+Steel-type
+opponent that would resist its other moves.
+Elite Four
+Drasna
+Dragonmark Chamber
+X and Y
+Reward:
+$
+13000
+Types:
+Poison
+Dragon
+Ability:
+Poison Point
+Held item:
+None
+Dragalge
+♀
+Lv.
+63
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rough Skin
+Held item:
+None
+Druddigon
+♀
+Lv.
+63
+Dragon Tail
+Dragon
+Physical
+--
+Revenge
+Fighting
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Chip Away
+Normal
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+63
+Moonblast
+Fairy
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Cotton Guard
+Grass
+Status
+--
+Sing
+Normal
+Status
+--
+Types:
+Flying
+Dragon
+Ability:
+Frisk
+Held item:
+None
+Noivern
+♀
+Lv.
+65
+Air Slash
+Flying
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Super Fang
+Normal
+Physical
+--
+Radiant Chamber
+Radiant Chamber
+Upon defeating the final member of the Elite Four, the large door in the great hall opens. The hallway beyond shines with white marble and gold trim, and a ray of shimmering sunlight falls on the platform. Ride the elevator to the final chamber, a massive, sunlit room with long, transparent curtains fluttering in the breeze. The floor is covered by colorful, abstract designs that represent the many Pokémon types. It is here that the Champion,
+Diantha
+, waits to greet you.
+Diantha uses a diverse team, though many of her Pokémon share a weakness to
+Ice
+,
+Steel
+, and
+Fairy
+moves. She leads with her
+Hawlucha
+, a speedy
+Fighting
+/
+Flying
+-type Pokémon. Its signature move,
+Flying Press
+, is considered both a Fighting- and Flying-type attack,
+X-Scissor
+is used to deal with
+Psychic-type
+opponents, and
+Poison Jab
+accounts for Fairy-type targets.
+Tyrantrum
+has high Attack and Defense ratings, and is Diantha's best physical attacker. Its
+Head Smash
+can cause massive damage, but deals serious recoil damage to the user as well.
+Earthquake
+provides coverage and
+Crunch
+'s power is boosted due to its
+Strong Jaw
+Ability. Her
+Aurorus
+is more specially-inclined; it plays its part by using
+Reflect
+and
+Light Screen
+to boost its team's defenses. When it does attack, its high-powered
+Blizzard
+and
+Thunder
+moves help compensate for its mediocre Special Attack.
+Gourgeist
+'s signature move,
+Trick-or-Treat
+, adds a second (or third) type onto its target, the
+Ghost
+type. It can then use the priority move
+Shadow Sneak
+or the two-turn
+Phantom Force
+to deal super-effective damage. Her
+Goodra
+boasts great Special Defense, and
+Sap Sipper
+leaves it immune to
+Grass
+moves like
+Leech Seed
+. In addition, the types of moves it uses are varied enough to provide excellent coverage. Diantha's final Pokémon is
+Gardevoir
+, a powerful special attacker. She quickly induces Mega Evolution, allowing it to become the even more powerful Mega Gardevoir. Its moves are strong and accurate, and combined achieve great coverage.
+Steel-type
+Pokémon are probably best to oppose it, as they resist
+Moonblast
+and
+Psychic
+, and neither
+Shadow Ball
+or
+Thunderbolt
+are much of a threat to them.
+Champion
+Diantha
+Radiant Chamber
+X and Y
+Reward:
+$
+16320
+Types:
+Fighting
+Flying
+Ability:
+Limber
+Held item:
+None
+Hawlucha
+♀
+Lv.
+64
+Swords Dance
+Normal
+Status
+--
+Flying Press
+Fighting
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Rock
+Dragon
+Ability:
+Strong Jaw
+Held item:
+None
+Tyrantrum
+♂
+Lv.
+65
+Head Smash
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Rock
+Ice
+Ability:
+Refrigerate
+Held item:
+None
+Aurorus
+♂
+Lv.
+65
+Thunder
+Electric
+Special
+--
+Blizzard
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Ghost
+Grass
+Ability:
+Pickup
+Held item:
+None
+Gourgeist
+♀
+Lv.
+65
+Trick-or-Treat
+Ghost
+Status
+--
+Phantom Force
+Ghost
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Shadow Sneak
+Ghost
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sap Sipper
+Held item:
+None
+Goodra
+♀
+Lv.
+66
+Dragon Pulse
+Dragon
+Special
+--
+Muddy Water
+Water
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Psychic
+Fairy
+Ability:
+Trace
+Held item:
+Gardevoirite
+Gardevoir
+♀
+Lv.
+68
+Moonblast
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Hall of Fame
+After seeing your strength in battle,
+Diantha
+realizes why
+Professor Sycamore
+was concerned about preparing
+Lumiose City
+for the new
+Champion
+. The two of you take the elevator up to the final room, where you and your Pokémon are recorded in
+Kalos
+'
+Hall of Fame
+for all eternity.
+Lumiose City
+A few days later, large crowds gather in
+Lumiose City
+to cheer for
+the
+five
+defenders
+of
+Kalos
+and its new Champion. The five friends proceed to the stage where Professor Sycamore and
+his
+assistants
+are waiting. Sycamore presents you with the
+Honor of Kalos
+, a medal shaped like its namesake region, as thanks for defeating
+Team Flare
+. The festivities are interrupted soon after, when
+AZ
+appears and asks you to battle him. He wants to know what a Trainer is, and it's up to you to enlighten him.
+Pokémon Trainer
+AZ
+Lumiose City
+X and Y
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+White Smoke
+Held item:
+None
+Torkoal
+♂
+Lv.
+60
+Lava Plume
+Fire
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Return
+Normal
+Physical
+--
+Types:
+Ground
+Ghost
+Ability:
+No Guard
+Held item:
+None
+Golurk
+Lv.
+60
+Phantom Force
+Ghost
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Mega Punch
+Normal
+Physical
+--
+Return
+Normal
+Physical
+--
+Types:
+Psychic
+Flying
+Ability:
+Magic Guard
+Held item:
+None
+Sigilyph
+♂
+Lv.
+60
+Psychic
+Psychic
+Special
+--
+Air Slash
+Flying
+Special
+--
+Cosmic Power
+Psychic
+Status
+--
+Return
+Normal
+Physical
+--
+He thanks you for the battle and expresses his new-found sense of freedom—free from sorrow, and the part of him that built the ultimate weapon. Just then, he notices something in the sky. It's his long-lost
+Floette
+, floating down to reunite with its Trainer. As the gentle giant falls to his knees, Sycamore says that Floette was waiting all this time for AZ to return to the man it once knew. A
+Fletchling
+happily chirps overhead, and the credits begin to roll...
+← Part 14
+Route 21, Route 22, Victory Road
+X and Y
+walkthrough
+Post-Game
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,42 @@
+Game: Red_and_Blue
+Part: 4
+Keywords: Route 3, Mt. Moon, Route 4
+
+**Pokémon Red and Blue Walkthrough: Part 4**
+
+**Route 3**
+- Route 3 connects Pewter City to Route 4. Battle several Trainers to prepare for Mt. Moon.
+- Key Trainers and their Pokémon:
+  - Lass: 2x Pidgey (Lv. 9) - Reward: $135
+  - Bug Catcher: Caterpie (Lv. 10), Weedle (Lv. 10) - Reward: $100
+  - Youngster: Rattata (Lv. 11), Ekans (Lv. 11) - Reward: $165
+  - Additional Trainers with varying Pokémon levels.
+
+**Route 4 (West)**
+- Near Mt. Moon, a Magikarp Salesman sells a Magikarp for $500. It evolves into Gyarados at Lv. 20.
+
+**Mt. Moon**
+- Mt. Moon has several floors (1F, B1F, B2F) with Trainers and Pokémon like Zubat, Paras, and Clefairy.
+- Key Trainers:
+  - 1F: Lass (Clefairy Lv. 14) - Reward: $210, Super Nerd (Magnemite, Voltorb Lv. 11) - Reward: $275
+  - B2F: Multiple Team Rocket Grunts with Pokémon like Ekans and Raticate.
+  
+- **Items**:
+  - 1F: TM12 (Water Gun), 2x Potions, Rare Candy, Escape Rope, Moon Stone.
+  - B2F: HP Up, TM01 (Mega Punch), hidden Ether, Dome and Helix Fossils.
+
+**Navigating Mt. Moon**:
+1. Collect TM12 and Potions on 1F, then head east and go down the first ladder to B2F.
+2. Defeat Team Rocket Grunts and collect items like HP Up and TM01.
+3. Choose between Dome Fossil (Kabuto) and Helix Fossil (Omanyte).
+
+**Route 4 (East)**
+- Route 4 leads downhill to Cerulean City.
+- Available Pokémon include Rattata, Spearow, Ekans, and Sandshrew.
+- **Items**:
+  - Great Ball (hidden on northwest hill)
+  - TM04 (Whirlwind) on the eastern hill.
+
+Continue your journey to Cerulean City and prepare for upcoming challenges!
+
+For more details on previous sections, refer to Part 3.

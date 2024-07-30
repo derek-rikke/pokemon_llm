@@ -1,0 +1,29 @@
+Game: LegendsArceus
+Part: 16
+Keywords: Forces of Nature
+
+**Part 16: Forces of Nature Walkthrough**
+
+1. **Location**: Head to the Alabaster Icelands and reach the Snowpoint Temple.
+2. **Objective**: Capture the Forces of Nature trio: Tornadus, Thundurus, and Landorus.
+3. **Preparation**: Ensure you have plenty of Ultra Balls and status-inducing moves (like Sleep or Paralysis).
+4. **Tornadus**: 
+   - Found in the East of the Alabaster Icelands.
+   - Use Flying-type Pokémon to counter its moves.
+   - Lower its HP and apply a status condition before capturing.
+5. **Thundurus**:
+   - Located in the South of the Alabaster Icelands.
+   - Focus on Electric-type resistance; Ground-type moves are effective.
+   - Follow the same capture strategy as Tornadus.
+6. **Landorus**:
+   - Found near the center of the Alabaster Icelands.
+   - Use Pokémon with high Defense to withstand its attacks.
+   - Repeat the HP reduction and status effect strategy.
+7. **Post-Capture**: After capturing all three, return to the Temple to trigger a cutscene and receive rewards.
+
+**Key Tips**:
+- Stock up on items before heading out.
+- Use terrain and weather conditions to your advantage in battles.
+- Save your game before each encounter to avoid losing progress.
+
+This concludes the walkthrough for capturing the Forces of Nature. Proceed to the next section for further adventures.

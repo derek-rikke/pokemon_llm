@@ -1,0 +1,49 @@
+Game: Crystal
+Part: 18
+Keywords: Route 8, Lavender Town, Route 10, Rock Tunnel, Route 9, Power Plant
+
+**Part 18 Walkthrough Summary**
+
+**1. Route 8**
+- Connects Saffron City and Lavender Town.
+- Trainers to battle:
+  - Biker Dwayne: Koffing (Lv. 27-30)
+  - Biker Harris: Flareon (Lv. 34)
+  - Super Nerd Sam: Grimer, Muk (Lv. 34)
+  - Super Nerd Tom: Magnemite (Lv. 32)
+- Available Pokémon: Pidgeotto, Jigglypuff, Meowth, Growlithe, Abra, Snubbull.
+- Item: PRZCureBerry on a tree northwest of Lavender Town (daily).
+
+**2. Lavender Town**
+- Key locations:
+  - **Kanto Radio Tower**: Tune in for programs; obtain EXPN Card for access.
+  - **Soul House**: Home for departed Pokémon, managed by Mr. Fuji.
+  - **Lavender Volunteer Pokémon House**: Cares for orphaned Pokémon.
+  - **Name Rater**: Change Pokémon nicknames for free.
+
+**3. Route 10 (South)**
+- Connects Lavender Town to Route 9.
+- Trainers to battle:
+  - Pokéfan Robert: Quagsire (Lv. 33)
+  - Hiker Jim: Machamp (Lv. 35)
+- **Rock Tunnel**: Dark cave; consider using Flash for navigation.
+- Available Pokémon: Zubat, Machop, Geodude, Cubone, Marowak. 
+- Items: TM47 (Steel Wing), Elixir, hidden X items, Max Potion, PP Up, Revive, Iron.
+
+**4. Route 9**
+- Connects Route 10 to Cerulean City.
+- Trainers to battle:
+  - Picnicker Edna: Nidorina (Lv. 30), Raichu (Lv. 34)
+  - Hiker Tim: Three Graveler (Lv. 31)
+- Available Pokémon: Rattata, Raticate, Spearow, Fearow, Venonat, Marowak, and fishing options.
+
+**5. Route 10 (North) - Kanto Power Plant**
+- Speak to the manager about retrieving a stolen item.
+- Available Pokémon: Raticate, Spearow, Fearow, Electabuzz.
+- Items: Metal Coat (from traded Magneton), TM07 (Zap Cannon) after returning the stolen Machine Part.
+
+**Key Gameplay Points**
+- Engage trainers for experience and items.
+- Explore locations for Pokémon and items.
+- Use Surf to reach the Power Plant after hearing about the theft.
+- Prepare for battles by leveling up and healing your Pokémon.

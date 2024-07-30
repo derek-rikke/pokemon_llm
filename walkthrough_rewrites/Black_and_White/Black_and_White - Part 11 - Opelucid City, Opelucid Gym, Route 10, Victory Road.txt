@@ -1,0 +1,46 @@
+Game: Black_and_White
+Part: 11
+Keywords: Opelucid City, Opelucid Gym, Route 10, Victory Road
+
+### Part 11: Opelucid City, Route 10, Victory Road
+
+#### Opelucid City
+- **Ghetsis Speech**: Upon entering, listen to Ghetsis's speech about N and the legendary dragon, which causes unrest among the townspeople.
+- **Items**: 
+  - Max Repel: South of Pokémon Center (hidden)
+  - Ultra Ball: Behind Drayden's house (hidden)
+  - Destiny Knot: From a girl between the Gym and Battle House
+  - Other items include Float Stone and Ring Target from Drayden's house and various TMs.
+  
+- **Battle House**: Located east of the Gym; Ace Trainers can be rebattled daily. Use Ice-type moves against their Dragon-types.
+
+- **Opelucid Gym**:
+  - **Leader**: Drayden (Black) / Iris (White).
+  - **Strategy**: Use Ice and Dragon attacks. Beware of Dragon Dance.
+  - **Trainers**: Battle through multiple trainers using dragon statues to navigate.
+  
+- **Rewards**: After defeating the Gym Leader, receive the Legend Badge and TM82 (Dragon Tail). Meet Professor Juniper who gifts you a Master Ball.
+
+#### Route 10
+- **Overview**: Route leads to Badge Check Gates and Victory Road. Numerous trainers are present for battles.
+- **Items**: Collect various items including Max Potion, Dawn Stone, and TM05 (Roar).
+- **Cheren Battle**: Battle him after crossing the bridge; he will heal your Pokémon post-battle.
+
+#### Badge Check Gates
+- Show your Badges to enter Victory Road.
+
+#### Victory Road
+- **Overview**: Navigate through a challenging network of caves; strong trainers are present.
+- **Items**: Collect Max Revives, Ultra Balls, and TMs throughout the floors.
+- **Pokémon**: Use Surf and Strength to access certain areas and catch legendary Pokémon like Terrakion in the Trial Chamber.
+
+- **Key Trainers**: 
+  - Ace Trainer Shanta: Whimsicott, Zebstrika (Lv. 45).
+  - Black Belt Tyrone: Scrafty, Mienfoo (Lv. 43).
+
+- **Trial Chamber**: Battle and catch Terrakion (Lv. 42).
+
+- **Mountaintop**: Collect TM93 (Wild Charge) and Nugget. Access hidden items using Surf.
+
+### Summary
+Prepare for intense battles in Opelucid City and navigate through Route 10 to reach Victory Road. Utilize Ice-type moves against Dragon-types, and ensure your party is well-stocked with items for the final challenges before the Pokémon League.

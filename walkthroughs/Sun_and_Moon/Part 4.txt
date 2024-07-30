@@ -1,0 +1,1046 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_4
+Keywords: Route 2, Hau'oli Cemetery, Berry Fields, Trial 1: Verdant Cavern
+
+Walkthrough Text:
+Contents
+1
+Route 2
+1.1
+Hau'oli Cemetery
+1.2
+Motel
+1.3
+Guzma's House
+1.4
+Berry Fields
+1.4.1
+VS Team Skull
+1.5
+Pokémon Center
+1.5.1
+Time for a Trade
+1.6
+Verdant Cavern
+1.6.1
+Captain Ilima's Trial
+1.6.1.1
+VS Totem Gumshoos
+S
+/ Raticate
+M
+Route 2
+Route 2
+Route 2
+encompasses the northwest part of
+Melemele Island
+, leading from
+Hau'oli City
+in the south to
+Route 3
+in the northeast.
+Hau'oli Cemetery
+, a Motel, the
+Berry fields
+, and
+Verdant Cavern
+can all be found here.
+Trainers
+Trainer
+Pokémon
+Beauty
+Krystal
+Reward:
+$
+288
+Gastly
+♀
+Lv.
+9
+No item
+Preschooler
+Kaleb
+Reward:
+$
+96
+Spearow
+♂
+Lv.
+8
+No item
+After defeating Team Skull at the Berry fields
+Backpacker
+Ashley
+Reward:
+$
+240
+Cottonee
+♀
+Lv.
+10
+No item
+Pokémon Breeder
+Jay
+Reward:
+$
+400
+Butterfree
+♂
+Lv.
+10
+No item
+Lass
+Isabella
+Reward:
+$
+216
+Misdreavus
+♀
+Lv.
+9
+No item
+Preschooler
+Malia
+Reward:
+$
+108
+Cutiefly
+♀
+Lv.
+9
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Four southernmost fields of grass
+Meowth
+Alolan Form
+Meowth
+S
+M
+Grass
+7-10
+30%
+Abra
+Abra
+S
+M
+Grass
+7-10
+20%
+Drowzee
+Drowzee
+S
+M
+Grass
+7-10
+20%
+Smeargle
+Smeargle
+S
+M
+Grass
+7-10
+20%
+Yungoos
+Yungoos
+S
+M
+Grass
+7-10
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+7-10
+-
+10%
+Three northernmost fields of grass
+Spearow
+Spearow
+S
+M
+Grass
+7-10
+40%
+Growlithe
+Growlithe
+S
+M
+Grass
+7-10
+20%
+Cutiefly
+Cutiefly
+S
+M
+Grass
+7-10
+20%
+Smeargle
+Smeargle
+S
+M
+Grass
+7-10
+10%
+Yungoos
+Yungoos
+S
+M
+Grass
+7-10
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+7-10
+-
+10%
+Ambush encounters
+Yungoos
+Yungoos
+S
+M
+Rustling grass
+9-10
+70%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Rustling grass
+9-10
+-
+70%
+Makuhita
+Makuhita
+S
+M
+Rustling grass
+9-10
+30%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+7-10
+100%
+Special Pokémon
+Machop
+N/A
+S
+M
+Trade
+Spearow
+9
+One
+Exclusively from
+Island Scan
+Chikorita
+N/A
+S
+M
+Grass
+10
+One
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heal Ball
+On the ledge overlooking the Hau'oli Cemetery entrance
+S
+M
+Super Potion
+×2
+Northwest corner of the motel parking lot
+South of the Pokémon Center, northeast of the tall grass patch
+S
+M
+Repel
+Southwest corner of the motel parking lot, behind the lamppost
+(hidden)
+S
+M
+Nest Ball
+×2
+From a Collector inside the motel
+S
+M
+Stardust
+Berry fields; behind the house, next to the palm tree
+(hidden)
+S
+M
+Revive
+×4
+On the ledge west of the Pokémon Center
+Inside the Pokémon Center, from Hau (×3)
+S
+M
+X Attack
+Held by Macho, the traded
+Machop
+S
+M
+Later visit
+Star Piece
+Behind the rocks near the motel (requires
+Tauros Charge
+)
+S
+M
+TM87
+(
+Swagger
+)
+Guzma's house; from his mother, after defeating Team Skull
+S
+M
+$
+3,000
+Pokémon Center; from a female Sightseer, if
+Cutiefly
+is registered in the Pokédex
+S
+M
+Hau'oli Cemetery
+Hau'oli Cemetery
+Hau'oli Cemetery
+is located in the southeastern part of the route. The graveyard acts as the final resting place for people and Pokémon alike. With such a strong connection to the spirit world, several species of
+Ghost
+Pokémon have made their home here.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Ikue
+Reward:
+$
+360
+Pikachu
+♀
+Lv.
+9
+No item
+Gentleman
+Stanley
+Reward:
+$
+1,800
+Makuhita
+♂
+Lv.
+9
+No item
+Office Worker
+Jeremy
+Reward:
+$
+360
+Diglett
+♂
+Alolan form
+Lv.
+9
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Gastly
+Gastly
+S
+M
+Grass
+7-10
+50%
+Drifloon
+Drifloon
+S
+M
+Grass
+7-10
+30%
+-
+Misdreavus
+Misdreavus
+S
+M
+Grass
+7-10
+-
+30%
+Zubat
+Zubat
+S
+M
+Grass
+7-10
+20%
+Exclusively from
+Island Scan
+Litwick
+N/A
+S
+M
+Grass
+10
+One
+Sa
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+In front of the lamppost near the entrance
+(hidden)
+S
+M
+Ether
+Southernmost intersection
+(hidden)
+S
+M
+TM100
+(
+Confide
+)
+East side of the cemetery
+S
+M
+Paralyze Heal
+North of the gravestone nearest the entrance
+S
+M
+Big Mushroom
+Northeast corner, behind a darker-colored gravestone
+S
+M
+Super Potion
+Northwest corner, in front of a lighter-colored gravestone
+S
+M
+Later visit
+TM56
+(
+Fling
+)
+From a woman and her
+Machamp
+, after obtaining the
+Ride Pager
+Night
+S
+M
+Spooky Plate
+In front of the dark-colored gravestone near the middle of the cemetery, after defeating Kahuna
+Nanu
+S
+M
+Motel
+There is not much happening at the motel right now, but you can speak to a Collector inside to receive two
+Nest Balls
+.
+Guzma's House
+A small house stands across the street from the motel. The man inside says that he tried to stop his son from running away, but failed. The bedroom in the back has several trophies on display, each with a thin layer of dust.
+Berry Fields
+Berry fields
+The
+Berry fields
+lay farther north. Despite the name, Berries cannot actually be grown here. The current owners moved here from the far-off
+Kalos
+region to promote the use of
+Mulch
+when growing Berries. However, due to
+Alola
+'s tropical climate, Berries are able to grow very well on their own and so the fields have fallen out of use.
+Trainers
+Trainer
+Pokémon
+Team Skull Grunt
+Reward:
+$
+320
+Drowzee
+♂
+Lv.
+10
+No item
+Items
+Item
+Location
+Games
+Oran Berry
+From the caretaker, as thanks for defeating Team Skull
+S
+M
+Sitrus Berry
+From the caretaker, if the player has a
+Persim Berry
+S
+M
+Silver Powder
+Behind the caretaker's house in the northeast corner
+S
+M
+Revive
+Caretaker's house; from the
+Delibird
+near the couch
+S
+M
+Paralyze Heal
+In a pot to the west of the fields
+(hidden)
+S
+M
+Big Mushroom
+Southwest corner of the fields
+S
+M
+Repel
+East side, in the pot next to the fertilizer box
+(hidden)
+S
+M
+VS Team Skull
+There is a
+Delibird
+standing in the road, looking helplessly toward the fields. When it notices you, it grabs onto your Bag and will not let go. Follow it into the fields to find a pair of
+Team Skull
+Grunts harassing the area's caretaker, in an attempt to steal the Berries stored here. The caretaker is unconcerned and tells you not to worry, but the pair attacks you before you can leave. Defeat the first Grunt's single Pokémon and the pair run off to harass
+Ilima
+in
+Verdant Cavern
+. The man then gives you an
+Oran Berry
+as thanks for your help.
+Pokémon Center
+Hau
+is waiting outside the Pokémon Center for you. He informs you that
+Verdant Cavern
+is considered a sacred place to
+Tapu Koko
+, and is off-limits except to those on an island challenge. He gives you three
+Revives
+before stopping by the café.
+A female Sightseer near the café is looking for a
+Cutiefly
+. Catch one on
+Route 3
+and speak with her again to receive a
+$
+3,000 reward.
+Time for a Trade
+There is a Lass near the Poké Mart who is looking to get a
+Spearow
+. If you have one to spare, she will happily trade her
+Machop
+for it. As
+Ilima
+'s upcoming trial makes use of
+Normal
+Pokémon, the
+Fighting-type
+Machop will be especially helpful. Spearow are commonly found in Routes
+2
+and
+3
+.
+Verdant Cavern
+Verdant Cavern
+Verdant Cavern
+lies on the northeast part of the route.
+Ilima
+can be found standing outside the cave. He warns of the fierce Pokémon inside and suggests bringing extra Potions. Until the trial is complete, challengers are unable to leave the cave and wild Pokémon may not be caught.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+8-11
+70%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+8-11
+30%
+Ambush encounters
+Yungoos
+Yungoos
+S
+M
+Dirt cloud
+11
+100%
+Rattata
+Alolan Form
+Rattata
+S
+M
+Dirt cloud
+11
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+×2
+Southeast corner, near the entrance
+Northeast corner, through the tunnel
+S
+M
+Revive
+In front of the second den, south of the mossy rock
+(hidden)
+S
+M
+TM31
+(
+Brick Break
+)
+On the ledge northwest of the entrance
+S
+M
+X Defense
+West side, south of the western den
+S
+M
+Totem’s Den
+Normalium Z
+Reward from Ilima, after clearing his trial
+S
+M
+Great Ball
+×10
+Reward from Ilima, after clearing his trial
+S
+M
+Energy Root
+On the land jutting over the edge
+(hidden, requires Tauros Charge)
+S
+M
+TM56
+(
+Fling
+)
+On the hill overlooking the clearing (requires Tauros Charge)
+S
+M
+Captain Ilima's Trial
+Inside the entrance, Captain Ilima welcomes you to Verdant Cavern and explains the basics of his trial. The goal is to defeat three of the Pokémon that lurk inside their dens, then reach the pedestal in the next part of the cave and collect the
+Z-Crystal
+there. A loud noise from deep in the cave prompts Ilima to warn you of the
+Totem Pokémon
+, a creature stronger than all others here.
+To begin, inspect the nearby den to battle the first Pokémon. Next, head east to find a
+Super Potion
+, then go north and inspect the mossy rock in the path to find a hidden
+Revive
+. A second den is located just north of the rock, and the second Pokémon runs out to attack you. Fight it off, then climb westward up the hill to a fork in the path. Go south first to find
+TM31
+(
+Brick Break
+) atop a few ledges that lead back to the entrance, then head north. Cross eastward over the wooden bridge to spot another Pokémon running into the third den. Climb the hill in the northeast and inspect the crawlspace to reach the other side. Pick up the
+Super Potion
+and inspect the den to find... nothing?! The Pokémon suddenly pops out from another den behind this one, on the upper level. Inspect that upper den, and the Pokémon appears from another den to the west. Grab the
+X Defense
+and check the western den to see the Pokémon back at the first den of the three. Cross back over the wooden bridge to encounter the two
+Team Skull
+Grunts from the Berry fields, here to disrupt your trial challenge. Defeat the first Grunt and his
+Drowzee
+. Then, as payback for their defeat, they block off two of the dens in an attempt to steal the Pokémon. Now that they have unwittingly helped you corner the remaining creature, check the third den to battle the final Pokémon.
+Pokémon Sun
+Type:
+Normal
+Unknown
+Ability:
+Strong Jaw
+Held item:
+None
+Yungoos
+♂
+/
+♀
+Lv.
+11
+Sand Attack
+Ground
+Status
+--
+Tackle
+Normal
+Physical
+--
+Hyper Fang
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Strong Jaw
+Held item:
+None
+Yungoos
+♂
+/
+♀
+Lv.
+11
+Sand Attack
+Ground
+Status
+--
+Tackle
+Normal
+Physical
+--
+Super Fang
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Adaptability
+Held item:
+None
+Gumshoos
+♂
+/
+♀
+Lv.
+11
+Sand Attack
+Ground
+Status
+--
+Bite
+Dark
+Physical
+--
+Super Fang
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Pokémon Moon
+Types:
+Dark
+Normal
+Ability:
+Gluttony
+Held item:
+None
+Rattata
+♂
+/
+♀
+Lv.
+11
+Quick Attack
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Hyper Fang
+Normal
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Types:
+Dark
+Normal
+Ability:
+Gluttony
+Held item:
+None
+Rattata
+♂
+/
+♀
+Lv.
+11
+Quick Attack
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Super Fang
+Normal
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Types:
+Dark
+Normal
+Ability:
+Gluttony
+Held item:
+None
+Raticate
+♂
+/
+♀
+Lv.
+11
+Focus Energy
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Super Fang
+Normal
+Physical
+--
+Tackle
+Normal
+Physical
+--
+VS Totem Gumshoos
+S
+/ Raticate
+M
+Climb the hill and speak to the trial guide to enter the Totem's Den. The pedestal with the glittering
+Z-Crystal
+stands straight ahead. As you move to collect the treasure, you feel a piercing gaze. Pick up the crystal and the Totem Pokémon attacks! The creature is surrounded by an aura that raises its
+Defense
+by one stage. It calls its ally on the first turn; once the ally is defeated, it cannot be called again. Use
+Fighting-type
+attacks for best results.
+Pokémon Sun
+Totem Gumshoos
+Ally Yungoos
+Aura: +1
+Defense
+Type:
+Normal
+Unknown
+Ability:
+Adaptability
+Held item:
+Pecha Berry
+Gumshoos
+♂
+Lv.
+12
+Super Fang
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Leer
+Normal
+Status
+--
+Scary Face
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Stakeout
+Held item:
+None
+Yungoos
+♂
+/
+♀
+Lv.
+10
+Leer
+Normal
+Status
+--
+Tackle
+Normal
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Bide
+Normal
+Physical
+--
+Pokémon Moon
+Totem Raticate
+Ally Rattata
+Aura: +1
+Defense
+Types:
+Dark
+Normal
+Ability:
+Gluttony
+Held item:
+Pecha Berry
+Raticate
+♂
+Lv.
+12
+Bite
+Dark
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Scary Face
+Normal
+Status
+--
+Tackle
+Normal
+Physical
+--
+Types:
+Dark
+Normal
+Ability:
+Hustle
+Held item:
+None
+Rattata
+♂
+/
+♀
+Lv.
+10
+Tackle
+Normal
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+After the Totem Pokémon and its ally are defeated, Ilima arrives and congratulates you on completing his trial. He rewards you with the
+Normalium Z
+and teaches you the pose for
+Breakneck Blitz
+, then gives you ten
+Great Balls
+before healing your Pokémon to full health. He claims to have something interesting to show you and asks that you meet him on
+Route 3
+.
+With the first trial cleared, wild Pokémon may now attempt to call an ally for help, turning a
+Single Battle
+into an
+SOS Battle
+.
+Leave the cave to find Ilima waiting outside. Having defeated his trial, he opens the nearby barricade so that you can proceed to the northeast. He explains that since he is the only captain on
+Melemele Island
+, your next step is to inform
+Kahuna
+Hala
+of your victory.
+Professor Kukui
+arrives, and having spotted your new Z-Crystal, gives a quick tutorial on
+Z-Moves
+. When held by a Pokémon, a Z-Crystal upgrades any move of the corresponding type.
+Normalium Z
+affects
+Normal-type
+moves; damaging moves become
+Breakneck Blitz
+, while most Status moves will result in stat boosts. Z-Power can only be used once per battle.
+Kukui suddenly remembers that he had lost
+Lillie
+somewhere on
+Route 3
+, and asks for your help in finding her.
+← Part 3
+Hau'oli City
+Sun and Moon
+walkthrough
+Route 3, Melemele Meadow, Seaward Cave, Kala'e Bay
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,40 @@
+Game: Black2_and_White2
+Part: 13
+Keywords: Opelucid City, Route 9, Opelucid Gym, Marine Tube, Humilau City, Humilau Gym, Route 22
+
+**Part 13 Walkthrough: Opelucid City, Humilau City, and Route 22**
+
+**Opelucid City**
+- **Reunite with Iris**: Upon entering, Iris directs you to the Gym and suggests training on Route 9.
+- **Props from the Old Man**: Talk to the Musical fan in the westernmost building for props (Big Bag, Fluffy Beard, Gift Box, Scarlet Hat) once daily.
+- **Tympole Choir**: Visit the house north of the Pokémon Center with a Tympole in your party to hear the Tympole sing.
+
+**Route 9**
+- **Trainers**: Defeat various trainers like Roughneck Chance and Hooligans Jim & Cas for rewards.
+- **Shopping Mall Nine**: Offers unique items and discounts. Complete a request for a Hyper Potion to earn Energy Root or Energy Powder.
+- **Items**: Elixir, Nugget, Iron, Dark Gem, and Quick Ball hidden in various locations.
+
+**Opelucid Gym**
+- **Gym Leader Drayden**: Specializes in Dragon-types. Use Ice and Dragon moves; avoid Grass, Fire, Water, and Electric attacks.
+- **Battle Strategy**: Defeat trainers to reach Drayden. Notable Pokémon include Druddigon, Flygon, and Haxorus.
+- **Rewards**: Defeating Drayden gives you the Legend Badge and TM82 (Dragon Tail).
+
+**Marine Tube**
+- **Tunnel Access**: Offers views of ocean Pokémon. Wailord appears daily from 3 PM to 4 PM.
+
+**Humilau City**
+- **Meet Hugh**: Find him near the Marine Tube exit. He directs you to find Gym Leader Marlon.
+- **Move Tutor**: Located in the southeast house, teaches moves for Yellow Shards.
+- **Fun Activities**: Complete daily tasks with Mienfoo for rewards like Pearls and Heart Scales.
+
+**Humilau Gym**
+- **Marlon's Gym**: Focuses on Water-types. Use Grass and Electric moves to gain an advantage.
+- **Battle Strategy**: Navigate lily pads to reach Marlon. His Pokémon include Carracosta, Wailord, and Jellicent. Watch for Scald attacks.
+- **Rewards**: Defeating Marlon earns the Wave Badge and TM55 (Scald).
+
+**Route 22**
+- **Terrain**: Navigate uneven paths connecting Humilau City and the Giant Chasm.
+- **Terrakion Encounter**: Located in the center. Use Grass, Water, or Ground attacks to weaken it, avoiding Dark-type moves that trigger its Justified ability.
+- **Items**: Find various hidden items like Carbos and Rare Candy.
+
+**Next Steps**: After defeating Marlon, prepare to explore the Giant Chasm and head to Seaside Cave on Route 21.

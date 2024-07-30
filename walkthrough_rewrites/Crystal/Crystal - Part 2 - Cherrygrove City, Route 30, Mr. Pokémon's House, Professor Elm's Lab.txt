@@ -1,0 +1,54 @@
+Game: Crystal
+Part: 2
+Keywords: Cherrygrove City, Route 30, Mr. Pokémon's House, Professor Elm's Lab
+
+### Part 2 Walkthrough
+
+#### Cherrygrove City
+- **Location**: Between Route 29 and Route 30.
+- **Key Locations**:
+  - **Pokémon Center**: Heals Pokémon and offers PC access for storage.
+  - **Poké Mart**: Buy Poké Balls, Potions, and other supplies.
+  
+- **Items**:
+  - **Map Card**: From Guide Gent after city tour.
+  - **Mystic Water**: From the man on the island (requires Surf).
+
+#### Route 30
+- **Path**: North from Cherrygrove. East leads to Mr. Pokémon's house; west leads to Route 31 (blocked by trainers initially).
+  
+- **Trainers**:
+  - **Youngster Joey**: Rattata (Lv. 4).
+  - **Youngster Mikey**: Pidgey (Lv. 2) and Rattata (Lv. 4).
+  - **Bug Catcher Don**: Caterpie (Lv. 3).
+
+- **Wild Pokémon**: Caterpie, Weedle, Pidgey, Zubat, Poliwag, Hoothoot, Ledyba, Spinarak, Hoppip (various levels).
+
+- **Items**:
+  - Berry ×2 (tree next to the southern house).
+  - Antidote (behind the southern house).
+  - Potion (hidden in flower bed southwest of Mr. Pokémon's house).
+  - PSNCureBerry (tree near Mr. Pokémon's house).
+  
+- **Mr. Pokémon's House**: Receive **Mystery Egg** from Mr. Pokémon, and **Pokédex** from Professor Oak.
+
+#### Returning to Cherrygrove City
+- **Rival Battle**: After leaving Mr. Pokémon's house, you will be ambushed by a rival.
+  - **Rival Pokémon**: 
+    - Cyndaquil (Lv. 5) if you chose Chikorita.
+    - Totodile (Lv. 5) if you chose Cyndaquil.
+    - Chikorita (Lv. 5) if you chose Totodile.
+  - **Reward**: $300 and experience points.
+
+#### New Bark Town
+- **Professor Elm's Lab**: Report back to Elm and deliver the Mystery Egg. He will mention a stolen Pokémon and suggest heading to Violet City’s Gym.
+  
+- **Items**: Receive 5 Poké Balls from Elm's aide.
+
+#### Home
+- **Mom's Offer**: She can safeguard your money (25% of prize money from battles). You can withdraw or deposit money at any time.
+
+#### Next Steps
+- After delivering the Mystery Egg, proceed north from Cherrygrove City to Route 31.
+
+This concludes Part 2 of the walkthrough.

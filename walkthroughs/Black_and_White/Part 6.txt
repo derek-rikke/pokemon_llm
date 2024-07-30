@@ -1,0 +1,1876 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_6
+Keywords: Route 5, Driftveil Drawbridge, Driftveil City, Cold Storage, Driftveil Gym
+
+Walkthrough Text:
+Contents
+1
+Route 5
+1.1
+Battle with Cheren
+1.2
+Meet Alder, Champion of Unova
+1.3
+The hungry maid
+2
+Driftveil Drawbridge
+3
+Driftveil City
+3.1
+Meet Clay, Driftveil Gym Leader
+3.2
+Driftveil Move Tutor
+3.3
+Get a Shell Bell
+3.4
+A Heart Scale a Day
+3.5
+Learn a New Battle Style
+3.6
+Driftveil Market
+3.7
+Cold Storage
+3.8
+Driftveil Gym
+3.9
+Battle with Bianca
+Route 5
+Route 5
+Route 5
+is a short road that connects
+Nimbasa City
+to
+Driftveil Drawbridge
+. The road is a favorite hangout spot among street performers, and has a livelier atmosphere for such a small area.
+Trainers
+Trainer
+Pokémon
+Preschooler
+Sarah
+Reward:
+$
+208
+Herdier
+♀
+Lv.
+26
+Sitrus Berry
+Preschooler
+Billy
+Reward:
+$
+208
+Herdier
+♂
+Lv.
+26
+Sitrus Berry
+Backpacker
+Lois
+Reward:
+$
+552
+Munna
+♀
+Lv.
+23
+No item
+Baker
+Jenn
+Reward:
+$
+840
+Pansear
+♂
+Lv.
+21
+No item
+Panpour
+♂
+Lv.
+21
+No item
+Pansage
+♂
+Lv.
+21
+No item
+Harlequin
+Paul
+Reward:
+$
+704
+Whirlipede
+♂
+Lv.
+22
+No item
+Whirlipede
+♂
+Lv.
+22
+No item
+Musician
+Preston
+Reward:
+$
+704
+Blitzle
+♂
+Lv.
+22
+No item
+Blitzle
+♂
+Lv.
+22
+No item
+Dancer
+Brian
+Reward:
+$
+704
+Darumaka
+♂
+Lv.
+22
+No item
+Darumaka
+♂
+Lv.
+22
+No item
+Artist
+Horton
+Reward:
+$
+1104
+Sigilyph
+♂
+Lv.
+23
+No item
+Backpacker
+Michael
+Reward:
+$
+552
+Palpitoad
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Minccino
+B
+W
+Grass
+19-22
+30%
+Gothita
+B
+W
+Grass
+19-22
+30%
+Solosis
+B
+W
+Grass
+19-22
+30%
+Liepard
+B
+W
+Grass
+20-22
+20%
+Trubbish
+B
+W
+Grass
+19-21
+20%
+Dark grass
+Minccino
+B
+W
+Dark grass
+22-25
+30%
+Gothita
+B
+W
+Dark grass
+22-25
+30%
+Solosis
+B
+W
+Dark grass
+22-25
+30%
+Liepard
+B
+W
+Dark grass
+23-25
+20%
+Trubbish
+B
+W
+Dark grass
+22-24
+20%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+19-22
+85%
+Emolga
+B
+W
+Rustling grass
+20
+10%
+Cinccino
+B
+W
+Rustling grass
+22
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+South of the fence
+B
+W
+Great Ball
+To the northeast, behind
+Backpacker
+Lois
+B
+W
+Electric Guitar
+Prop; from
+Musician
+Preston after defeating him
+B
+W
+Revive
+On the ledge near
+Backpacker
+Michael
+B
+W
+Zinc
+In the patch of dark grass to the northwest
+B
+W
+Battle with Cheren
+Cheren
+catches up with you soon after you leave
+Nimbasa
+. He, at some point earned his
+Bolt Badge
+as well, and is eager to challenge you again.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Route 5
+Black and White
+Reward:
+$
+2600
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+24
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Pansage
+♂
+Lv.
+24
+Bite
+Dark
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+24
+Quick Attack
+Normal
+Physical
+--
+Detect
+Fighting
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Sitrus Berry
+Pignite
+♂
+Lv.
+26
+Flame Charge
+Fire
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Arm Thrust
+Fighting
+Physical
+--
+Smog
+Poison
+Special
+--
+Pokémon Trainer
+Cheren
+Route 5
+Black and White
+Reward:
+$
+2600
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+24
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Pansear
+♂
+Lv.
+24
+Bite
+Dark
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Yawn
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+24
+Quick Attack
+Normal
+Physical
+--
+Detect
+Fighting
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Sitrus Berry
+Dewott
+♂
+Lv.
+26
+Water Pulse
+Water
+Special
+--
+Fury Cutter
+Bug
+Physical
+--
+Razor Shell
+Water
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Pokémon Trainer
+Cheren
+Route 5
+Black and White
+Reward:
+$
+2600
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Liepard
+♂
+Lv.
+24
+Pursuit
+Dark
+Physical
+--
+Torment
+Dark
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Panpour
+♂
+Lv.
+24
+Bite
+Dark
+Physical
+--
+Scald
+Water
+Special
+--
+Water Sport
+Water
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Tranquill
+♂
+Lv.
+24
+Quick Attack
+Normal
+Physical
+--
+Detect
+Fighting
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Sitrus Berry
+Servine
+♂
+Lv.
+26
+Mega Drain
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Leaf Tornado
+Grass
+Special
+--
+Growth
+Normal
+Status
+--
+Meet Alder, Champion of Unova
+Elesa
+shows up after your battle with
+Cheren
+, and leads the two of you towards the drawbridge. On the way, the three meet a man with wild red hair, who Elesa introduces as
+Alder
+, the Champion of
+Unova
+. Cheren tells Alder his goal of becoming Champion, but can't answer why. Alder asks the two of you to battle a pair of
+Preschoolers
+, and teaches Cheren that some people are happy just being with Pokémon.
+Continuing to the west,
+Elesa
+contacts
+someone in Driftveil City
+in order to lower the drawbridge. Follow
+Cheren
+across the bridge.
+The hungry maid
+The maid inside the camper is trying to cook a meal, but is looking for more ingredients. If you give her
+any edible item
+, she will pay you for your generosity. She pays more for each item than any Poké Mart does, ranging anywhere from
+$
+20 to
+$
+30,000.
+Driftveil Drawbridge
+Driftveil Drawbridge
+Thanks to
+Elesa
+and
+Clay
+, Trainers are now free to come and go across the
+Driftveil Drawbridge
+. The bridge is managed by Clay, the Driftveil Gym Leader, and is raised and lowered to accommodate
+Driftveil
+'s shipping schedule. Bird Pokémon frequently pass over the bridge, and may drop a few
+feathers
+. Most of the time these contain a
+random item
+where most of them can be used to raise the Pokémon's
+Effort values
+for their stats. Since most of these items can be sold for
+$
+1500 at a
+Poké Mart
+, this location can also be useful to help make some quick cash to help with purchasing expensive items such as the
+TMs
+which the Poké Mart sells in various areas.
+Ducklett
+likes to rest on the bridge, and may be battled occasionally.
+Driftveil City
+Driftveil City
+Driftveil City
+is a major port city, and various goods come and go here. The city features the fifth Gym and a market, and one resident will offer to teach your starter Pokémon a special move.
+Items
+Item
+Location
+Games
+Shell Bell
+From an old man in the house southeast of the Poké Center,
+if the player has seen 50 Pokémon or more
+B
+W
+Expert Belt
+From the man in black at the market,
+if the player has a party Pokémon of level 30 or higher
+B
+W
+Big Pearl
+Inside the market, accessible from the west entrance
+B
+W
+Heart Scale
+Near the blond saleswoman in the market (hidden)
+B
+W
+Heart Scale
+(one per day)
+From a woman in the house north of the market,
+for showing her a Pokémon with a specific move
+B
+W
+Repeat Ball
+×3
+From a girl on the Poké Center's second floor
+B
+W
+Ultra Ball
+In the trees near Route 6
+B
+W
+Fresh Water
+From Clyde in the Gym
+B
+W
+After defeating the Driftveil Gym
+HM02
+(
+Fly
+)
+From
+Bianca
+near Route 6 after defeating her
+B
+W
+After getting
+HM03
+(
+Surf
+)
+Water Stone
+On the rocky island with the lighthouse
+B
+W
+Meet Clay, Driftveil Gym Leader
+When you enter the city, you meet up with
+Cheren
+and
+Clay
+, the Gym Leader. Clay is upset because when he lowered the drawbridge for the two of you to cross, a group of
+Team Plasma
+grunts that he had in custody escaped. Clay asks the two of you to find the escapees.
+Driftveil Move Tutor
+If you have a strong bond with your starter Pokémon, the man in the house east of the market will offer to teach it a special move. The three possible moves are
+Grass Pledge
+,
+Fire Pledge
+, and
+Water Pledge
+. These attacks are decent on their own, but if used simultaneously in a
+Double
+or
+Triple Battle
+, their power increases and they create special effects.
+Get a Shell Bell
+Stop in the house to the southeast of the Pokémon Center and speak to the elderly man to get a
+Shell Bell
+. When the Pokémon holding it inflicts damage to an opponent, it restores HP equal to 1/8 of the damage dealt.
+The kid in the same house is looking to trade. If you can part with a
+Minccino
+, he'll trade you a
+Basculin
+.
+A Heart Scale a Day
+The woman in the house north of the market wants to see a Pokémon that knows a specific move. If you show her any Pokémon with that move, she will thank you by giving you a
+Heart Scale
+. Heart Scales can be used later to help a Pokémon relearn a move it had forgotten. She will ask to see another move every day.
+Learn a New Battle Style
+Charles is a
+Motorcyclist
+on the west side of the Driftveil Market. Speak to him to learn about
+Rotation Battles
+B
+/
+Triple Battles
+W
+, then battle him to try out the new format.
+Motorcyclist
+Charles
+Driftveil City
+Black and White
+Reward:
+$
+864
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+None
+Zebstrika
+♂
+Lv.
+27
+Shock Wave
+Electric
+Special
+--
+Flame Charge
+Fire
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Spark
+Electric
+Physical
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krokorok
+♂
+Lv.
+27
+Assurance
+Dark
+Physical
+--
+Mud-Slap
+Ground
+Special
+--
+Embargo
+Dark
+Status
+--
+Swagger
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Adaptability
+Held item:
+None
+Basculin
+♂
+Lv.
+27
+Aqua Jet
+Water
+Physical
+--
+Chip Away
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Driftveil Market
+Driftveil
+is a major shipping hub, and imported items are up for sale here that can't be found anywhere else.
+Moomoo Milk shop
+Moomoo Milk
+$
+500
+Moomoo Milk
+*
+$
+6000
+Herb Shop
+Energy Root
+$
+800
+EnergyPowder
+$
+500
+Revival Herb
+$
+2800
+Heal Powder
+$
+450
+Cold Storage
+The
+Cold Storage
+is an important stop for the region's imports and exports, and many goods are stored and processed here.
+Clay
+asked you to track down
+Team Plasma
+, and though most of the thugs escaped over
+the bridge
+, it seems that a few grunts have fled into the refrigerated building on the south side of the island.
+Trainers
+Trainer
+Pokémon
+Outside
+Youngster
+Kenneth
+Reward:
+$
+384
+Whirlipede
+♂
+Lv.
+24
+No item
+Karrablast
+♂
+Lv.
+24
+No item
+Youngster
+Albert
+Reward:
+$
+384
+Joltik
+♂
+Lv.
+24
+No item
+Dwebble
+♂
+Lv.
+24
+No item
+Worker
+Eddie
+Reward:
+$
+960
+Pansage
+♂
+Lv.
+24
+No item
+Timburr
+♂
+Lv.
+24
+No item
+Inside
+Worker
+Victor
+Reward:
+$
+960
+Pansear
+♂
+Lv.
+24
+No item
+Timburr
+♂
+Lv.
+24
+No item
+Worker
+Glenn
+Reward:
+$
+960
+Panpour
+♂
+Lv.
+24
+No item
+Timburr
+♂
+Lv.
+24
+No item
+Worker
+Filipe
+Reward:
+$
+1000
+Gurdurr
+♂
+Lv.
+25
+No item
+Worker
+Patton
+Reward:
+$
+960
+Vanillite
+♂
+Lv.
+24
+No item
+Timburr
+♂
+Lv.
+24
+No item
+Worker
+Ryan
+Reward:
+$
+920
+Timburr
+♂
+Lv.
+23
+No item
+Timburr
+♂
+Lv.
+23
+No item
+Vanillite
+♂
+Lv.
+23
+No item
+Team Plasma Grunt
+Reward:
+$
+920
+Watchog
+♂
+Lv.
+23
+No item
+Scraggy
+♂
+Lv.
+23
+No item
+Team Plasma Grunt
+Reward:
+$
+960
+Liepard
+♀
+Lv.
+24
+No item
+Team Plasma Grunt
+Reward:
+$
+960
+Trubbish
+♀
+Lv.
+24
+No item
+Team Plasma Grunt
+Reward:
+$
+920
+Sandile
+♂
+Lv.
+23
+No item
+Watchog
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Herdier
+B
+W
+Grass
+21-23
+35%
+Vanillite
+B
+W
+Grass
+20-23
+30%
+Timburr
+B
+W
+Grass
+21,22
+20%
+Minccino
+B
+W
+Grass
+20
+15%
+Dark Grass
+Herdier
+B
+W
+Dark grass
+25-27
+35%
+Vanillite
+B
+W
+Dark grass
+24-27
+30%
+Minccino
+B
+W
+Dark grass
+24
+20%
+Timburr
+B
+W
+Dark grass
+25-26
+15%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+20-23
+90%
+Cinccino
+B
+W
+Rustling grass
+23
+5%
+Stoutland
+B
+W
+Rustling grass
+23
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Outside
+Hyper Potion
+Near the crane to the east (hidden)
+B
+W
+Rocky Helmet
+From a
+Worker
+in the alleyway
+B
+W
+PP Up
+In a trash can near the vending machine (hidden)
+B
+W
+Ether
+In the tall grass behind the shipping containers
+B
+W
+Protein
+In the dark grass to the southeast
+B
+W
+Dive Ball
+Near the dark grass in the southeast (hidden)
+B
+W
+Heart Scale
+Behind the Cold Storage
+B
+W
+Inside
+Net Ball
+On a crate near the entrance
+B
+W
+TM55
+(
+Scald
+)
+Near the first patch of ice
+B
+W
+Ice Heal
+By the south wall, near
+Worker
+Patton
+B
+W
+Hyper Potion
+Next to
+Worker
+Ryan by the rear wall
+B
+W
+NeverMeltIce
+In the container where
+Team Plasma
+was hiding
+B
+W
+Cheren
+shows up to help, but it's up to you to track down
+Team Plasma
+. Head straight ahead from the freezer's entrance to reach the first patch of ice. Slide up along the left-hand side, then go right to reach
+TM55
+(
+Scald
+). Battle with
+Worker
+Victor, and continue to the right across the second ice patch. Climb up the ladder near Worker Glenn, and slide around in a counter-clockwise loop to continue south. Climb up the next ladder and walk across the wooden containers to reach the building's southeast corner. Battle Worker Patton and grab the
+Ice Heal
+, then go north across the ice. Grab the
+Hyper Potion
+near Worker Ryan, and go to the left to reach an open container by the rear wall. Inside is Zinzolin, one of the
+Seven Sages
+, who has been keeping warm by huddling in the middle of a group of
+Team Plasma Grunts
+. When he sees you and Cheren enter, he orders them to defend him. Once you each defeat four of the eight grunts,
+Clay
+arrives with a group of
+Workers
+to take the thugs back into custody. He invites you to challenge his Gym, then he and Cheren leave. Pick up the
+NeverMeltIce
+and head back to the city.
+Driftveil Gym
+When you arrive at the Gym, you see that
+Ghetsis
+has shown up with a gang of
+Plasma
+grunts to persuade
+Clay
+to release the others. Clay reluctantly releases Zinzolin and the others, and the criminals disappear.
+Driftveil Gym
+Driftveil City Pokémon Gym
+Leader: Clay
+The Underground Boss
+The
+Driftveil Gym
+specializes in the
+Ground-type
+. Keeping with his title "Miner King", the Gym incorporates a large mine shaft with
+Clay
+waiting at the bottom. Since the Pokémon here are vulnerable to
+Grass
+- and
+Water-type
+attacks,
+TM86
+(
+Grass Knot
+) and
+TM55
+(
+Scald
+) can help exploit those weaknesses. For dealing with
+Excadrill
+, it would be wise to finish it off quickly before he devastates your team with his power due to its high physical stats and its move
+Hone Claws
+which can raise its physical attack and accuracy by one level each. Avoid using a Grass-type move since it takes regular damage due to being part-
+Steel-type
+. Instead a
+Fire
+, Water, Ground, or
+Fighting-type
+attack should be capable of taking Excadrill down quickly enough.
+Ride the first lift down from the entrance room and battle
+Worker
+Felix. Take the next lift down to the second level and go north; you can take this lift back up to battle Worker Sterling. Take the walkway along the rear and west walls to reach Worker Don, and take the next lift down to the third level. There are two other lifts on the third level; you can take the one to the right to battle
+Clerk ♂
+Isaac, then backtrack and ride the other up to the first level. Step out on the walkway to battle
+Clerk ♀
+Katie, then take the last lift down to the deepest part of the mine.
+Driftveil Gym
+Trainers
+Trainer
+Pokémon
+Worker
+Felix
+Reward:
+$
+1120
+Palpitoad
+♂
+Lv.
+28
+No item
+Drilbur
+♂
+Lv.
+28
+No item
+Worker
+Sterling
+Reward:
+$
+1120
+Sandile
+♂
+Lv.
+28
+No item
+Drilbur
+♂
+Lv.
+28
+No item
+Worker
+Don
+Reward:
+$
+1160
+Krokorok
+♂
+Lv.
+29
+No item
+Clerk ♂
+Isaac
+Reward:
+$
+1080
+Sandile
+♂
+Lv.
+27
+No item
+Palpitoad
+♂
+Lv.
+27
+No item
+Sandile
+♂
+Lv.
+27
+No item
+Clerk ♀
+Katie
+Reward:
+$
+1160
+Drilbur
+♀
+Lv.
+29
+No item
+Leader
+Clay
+Driftveil Gym
+Black and White
+Reward:
+$
+3720
+Types:
+Ground
+Dark
+Ability:
+Moxie
+Held item:
+None
+Krokorok
+♂
+Lv.
+29
+Swagger
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Torment
+Dark
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Swift Swim
+Held item:
+None
+Palpitoad
+♂
+Lv.
+29
+Aqua Ring
+Water
+Status
+--
+Bulldoze
+Ground
+Physical
+--
+Muddy Water
+Water
+Special
+--
+BubbleBeam
+Water
+Special
+--
+Types:
+Ground
+Steel
+Ability:
+Sand Rush
+Held item:
+None
+Excadrill
+♂
+Lv.
+31
+Hone Claws
+Dark
+Status
+--
+Slash
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+For defeating him,
+Clay
+awards you the
+Quake Badge
+. As your fifth Badge, the Quake Badge guarantees that all Pokémon up to level 60 will obey you. Unlike the other Gym Leaders, Clay won't give you a
+TM
+just yet. He will tell you to meet him at the end of
+Route 6
+.
+Battle with Bianca
+When you try to leave for
+Route 6
+,
+Bianca
+stops you. She's impressed that you just earned your fifth Badge, and after regaining her focus, challenges you to a battle.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Bianca
+Driftveil City
+Black and White
+Reward:
+$
+2800
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+26
+Helping Hand
+Normal
+Status
+--
+Take Down
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Dewott
+♂
+Lv.
+28
+Razor Shell
+Water
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Water Pulse
+Water
+Special
+--
+Revenge
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansear
+♂
+Lv.
+26
+Yawn
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+26
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Pokémon Trainer
+Bianca
+Driftveil City
+Black and White
+Reward:
+$
+2800
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+26
+Helping Hand
+Normal
+Status
+--
+Take Down
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Servine
+♂
+Lv.
+28
+Leaf Tornado
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Mega Drain
+Grass
+Special
+--
+Slam
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Panpour
+♂
+Lv.
+26
+Water Sport
+Water
+Status
+--
+Bite
+Dark
+Physical
+--
+Scald
+Water
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+26
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Pokémon Trainer
+Bianca
+Driftveil City
+Black and White
+Reward:
+$
+2800
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+26
+Helping Hand
+Normal
+Status
+--
+Take Down
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Pignite
+♂
+Lv.
+28
+Arm Thrust
+Fighting
+Physical
+--
+Smog
+Poison
+Special
+--
+Rollout
+Rock
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansage
+♂
+Lv.
+26
+Leech Seed
+Grass
+Status
+--
+Bite
+Dark
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Torment
+Dark
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Musharna
+♀
+Lv.
+26
+Defense Curl
+Normal
+Status
+--
+Lucky Chant
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Bianca
+is so impressed with your progress, she hands you a gift:
+HM02
+(
+Fly
+)! This handy move lets you return to any city or town that you've already visited in a fraction of the time.
+Rest up at the Poké Center, then set off for
+Route 6
+to the west.
+← Part 5
+Route 4, Desert Resort, Relic Castle, Nimbasa City, Nimbasa Gym, Anville Town
+Black and White
+walkthrough
+Route 6, Chargestone Cave, Mistralton City, Celestial Tower, Mistralton Gym
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

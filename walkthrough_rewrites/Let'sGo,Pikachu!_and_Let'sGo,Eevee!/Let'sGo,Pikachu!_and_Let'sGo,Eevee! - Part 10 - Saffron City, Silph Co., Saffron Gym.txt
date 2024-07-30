@@ -1,0 +1,50 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 10
+Keywords: Saffron City, Silph Co., Saffron Gym
+
+### Part 10: Saffron City, Silph Co., and Saffron Gym
+
+#### Saffron City Overview
+- Saffron City is central in Kanto, featuring Silph Co. and two Pokémon Gyms: the Fighting Dojo and Saffron Gym.
+
+#### Key Locations
+1. **Copycat's House**: Show her a Clefairy to receive **TM08 (Substitute)**.
+2. **Mr. Psychic's House**: Receive **TM40 (Psychic)** from Mr. Psychic.
+3. **Silph Co.**: A multi-floor building with Team Rocket to defeat. Use warp tiles to navigate.
+
+#### Silph Co. Items
+- **1F**: X Sp. Atk
+- **2F**: Super Potion
+- **3F**: TM42 (Self-Destruct)
+- **5F**: TM54 (Flash Cannon)
+- **10F**: TM37 (Flamethrower), Full Heal, Rare Candy
+- **11F**: Master Ball (after defeating Giovanni)
+
+#### Silph Co. Battles
+- Defeat Team Rocket Grunts and Scientists on various floors. Notable battles are against:
+  - **Blue**: Level 38 Exeggutor, 40 Charizard
+  - **Archer and Grunt**: Multi-battle with Electrode, Golbat, Weezing, Muk.
+  - **Giovanni**: Uses Persian, Rhyhorn, Nidoqueen. Use Fighting, Water, and Psychic moves.
+
+#### Fighting Dojo
+- **Location**: Northeast of Saffron City.
+- **Battle the Karate Master** to choose between Hitmonlee or Hitmonchan.
+- Effective types: Psychic and Flying.
+
+#### Saffron Gym
+- **Leader**: Sabrina (Psychic-type).
+- Requires Pokémon level 45+ to enter.
+- Use Bug, Ghost, or Dark-type moves against Psychic Pokémon.
+- Navigate via warp tiles to reach Sabrina.
+
+#### Saffron Gym Trainers
+- Defeat trainers like Psychic Johan and Ace Trainer Amanda to reach Sabrina.
+- **Sabrina's Pokémon**: Alakazam, Jynx, Slowbro, Mr. Mime.
+
+#### Rewards
+- Defeating Sabrina grants the **Marsh Badge** and **TM33 (Calm Mind)**.
+
+#### Next Destination
+- Head to **Fuchsia City** via Pokémon Road or the coastal route.
+
+This concise guide retains essential gameplay elements, item locations, and battle strategies for progressing through Saffron City and Silph Co.

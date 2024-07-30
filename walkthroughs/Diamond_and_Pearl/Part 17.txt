@@ -1,0 +1,1261 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_17
+Keywords: Snowpoint Gym, Lake Acuity, Veilstone City, Galactic HQ, Galactic Warehouse, Raiding Galactic HQ (Part 1)
+
+Walkthrough Text:
+Contents
+1
+Snowpoint Gym
+2
+Back to Acuity Lakefront
+3
+Lake Acuity
+4
+Now that you can use Rock Climb...
+4.1
+Mt. Coronet (Southern area)
+4.2
+Route 208
+4.3
+Hotel Grand Lake
+4.4
+Route 213
+4.5
+Route 210 (Foggy area)
+4.6
+Route 211 (East)
+4.7
+Route 216
+5
+Veilstone City
+6
+Galactic HQ
+7
+Galactic Warehouse
+8
+Raiding Galactic HQ (Part 1)
+Snowpoint Gym
+Layout of the Snowpoint Gym.
+Make sure that you heal your Pokémon before entering the Gym.
+It is also recommended that you train your Pokémon until they are at about Level 40 before challenging the Gym.
+This Gym specializes in
+Ice-type
+. The Gym Leader is
+Candice
+. Her strongest Pokémon is at level 42. Be sure to bring Pokémon with
+Fire-type
+and
+Fighting-type
+moves. Pokémon with
+Rock-type
+or
+Steel-type
+moves will also help a lot. As the Trainers and Leader Candice have diverse teams consisting other Pokémon (especially
+Water-type
+Pokémon) and even some unexpected ones (such as
+Medicham
+and
+Steelix
+), bringing Pokémon with
+Electric-type
+,
+Grass-type
+and
+Flying-type
+or
+Ghost-type
+moves are also recommended. Grass-type and Flying-type Pokémon are weak to Ice-type moves, which you should know. Rock-type Pokémon are not, but the Grass/Ice-type Pokémon
+Snover
+are very common in this Gym, and those Snover can have some Grass-type moves to attack.
+If
+Chimchar
+was your starter Pokémon, its evolved form
+Monferno
+or final form
+Infernape
+will help you beat the Gym easily. The only other Fire-type Pokémon found in the wild in
+Sinnoh
+are
+Ponyta
+and its evolution
+Rapidash
+.
+Empoleon
+is pretty helpful, too. With its types, it has a double resistance to Ice-type moves, and if it knows some Steel-type moves, it will not only get same-type attack bonus, but it will be super effective as well.
+The Snowpoint Gym puzzle consists of a four-level ice rink with ramps connecting the various floors. Step on a tile of ice, and you'll slide all the way until you hit a wall, an obstacle (a snowball as well if you don't have enough speed), a Trainer, or a snow tile. There are several snowballs that are blocking the stairs to the Gym Leader. You must destroy them by sliding down the ramps at them from a level high enough. You'll gain more power and speed if you slide from a higher level.
+After destroying the snowballs and fighting all Trainers, go back to the exit (but don't go out, or the puzzle will reset) and head directly north, going through all stairs along the way. You will end up in front of Candice. Talk to her when you are ready to start the battle.
+Snowpoint Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Anton
+ヨシオ
+Yoshio
+Reward:
+$
+2340
+Snover
+♂
+Lv.
+39
+No item
+Ace Trainer
+Alicia
+レイミ
+Reimi
+Reward:
+$
+2220
+Sneasel
+♀
+Lv.
+37
+No item
+Tentacruel
+♀
+Lv.
+37
+No item
+Ace Trainer
+Savannah
+トキコ
+Tokiko
+Reward:
+$
+2220
+Pelipper
+♀
+Lv.
+35
+No item
+Golduck
+♀
+Lv.
+36
+No item
+Steelix
+♀
+Lv.
+37
+No item
+Ace Trainer
+Sergio
+ヒョウ
+Hyō
+Reward:
+$
+2220
+Floatzel
+♂
+Lv.
+37
+No item
+Sneasel
+♂
+Lv.
+37
+No item
+Ace Trainer
+Brenna
+ミズホ
+Mizuho
+Reward:
+$
+2340
+Snover
+♀
+Lv.
+39
+No item
+Ace Trainer
+Isaiah
+ヒデキ
+Hideki
+Reward:
+$
+2340
+Quagsire
+♂
+Lv.
+39
+No item
+Leader
+Candice
+Snowpoint Gym
+Diamond and Pearl
+Reward:
+$
+5040
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+None
+Snover
+♀
+Lv.
+38
+Razor Leaf
+Grass
+Physical
+--
+Ingrain
+Grass
+Status
+--
+Ice Shard
+Ice
+Physical
+--
+Leer
+Normal
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♀
+Lv.
+38
+Taunt
+Dark
+Status
+--
+Faint Attack
+Dark
+Physical
+--
+Avalanche
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Medicham
+♀
+Lv.
+40
+Bulk Up
+Fighting
+Status
+--
+Detect
+Fighting
+Status
+--
+Ice Punch
+Ice
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+Sitrus Berry
+Abomasnow
+♀
+Lv.
+42
+Swagger
+Normal
+Status
+--
+Avalanche
+Ice
+Physical
+--
+Wood Hammer
+Grass
+Physical
+--
+GrassWhistle
+Grass
+Status
+--
+All of Candice's Pokémon are weak to Fire-type moves except for her
+Medicham
+. Ice-type Pokémon are also weak to Fighting-type, Steel-type and Rock-type moves. Candice sends out her
+Snover
+first. Its
+Ability
+Snow Warning
+will make it begin to
+hail
+, damaging every Pokémon that isn't at least partly Ice-type. Try not to let this bother you and quickly defeat it. Its major weakness is Fire-types move like
+Flame Wheel
+.
+Sneasel
+shouldn't be too much of a threat, but it is very fast, and will probably outspeed your Pokémon even if you are using speedy Pokémon like Infernape. It also has high Attack stat, but its defensive stats clearly aren't the best. Its typing (
+Dark
+/Ice) also gives it a major weakness: Fighting-type moves. Even one hit of
+Mach Punch
+or
+Rock Smash
+can deal serious damage on it, and a stronger Fighting-type move like
+Brick Break
+will render it unable to battle. If you don't have Pokémon with Fighting-type moves, land two or three hits on Sneasel from a Rock-type move like
+Rock Throw
+or a Steel-type move like
+Metal Claw
+, and it's gone. Candice has a Pokémon you probably didn't expect: Medicham. It is a Fighting/
+Psychic
+-type Pokémon. It is weak to Flying-type moves (like
+Fly
+) and Ghost-type moves (like
+Shadow Ball
+). Avoid sending in a Flying-type Pokémon if you can because Medicham has
+Ice Punch
+. Candice's strongest Pokémon is her
+Abomasnow
+, which is the evolution of Snover and can confuse your Pokémon with
+Swagger
+or put them to sleep with
+GrassWhistle
+, which fortunately has low accuracy. It also knows
+Wood Hammer
+, a Grass-type move that has 120 base power (so don't use Rock-type Pokémon against it). However, Wood Hammer deals recoil damage. Abomasnow's Speed stat isn't the best, so hit it with a strong Fire-type move (like
+Flamethrower
+or
+Fire Blast
+) before it can hurt you.
+After being defeated, Candice will give you the Icicle Badge, which will allow you to use
+HM08
+(
+Rock Climb
+) (which was located northeast of the Hiker's house on
+Route 217
+) outside of battle. Candice will also give you
+TM72
+(
+Avalanche
+), an Ice-type move whose base power doubles if the Pokémon that uses it has been hurt by the opponent in the same turn, but forces the user to go last.
+Now you should stop by the Pokémon Center, then head back to
+Acuity Lakefront
+.
+Back to Acuity Lakefront
+The
+Galactic Grunts
+are still there, but they won't be blocking the entrance to the lake. Head inside
+Lake Acuity
+.
+Lake Acuity
+You'll see Rival
+Barry
+battling Commander
+Jupiter
+. It seems that Barry has lost and failed to protect
+Uxie
+. Jupiter talks to you about where Uxie and the other 2
+Lake guardians
+are: the
+Galactic HQ
+in
+Veilstone City
+. She then leaves without battling you. Barry says that he must get stronger "not just because of winning or losing", then disappears.
+Surf around and collect
+TM14
+(
+Blizzard
+). There is still nothing inside
+Acuity Cavern
+.
+Items
+Item
+Location
+Games
+TM14
+(
+Blizzard
+)
+At northwest corner of tall grass in the northeast part of the lake (requires
+Surf
+)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+34-36
+30%
+30%
+20%
+Noctowl
+D
+P
+Pt
+Grass
+34,36
+0%
+0%
+20%
+Sneasel
+D
+P
+Pt
+Grass
+35-36
+25%
+Bibarel
+D
+P
+Pt
+Grass
+34-35
+35%
+35%
+25%
+Chingling
+D
+P
+Pt
+Grass
+34-36
+10%
+Fishing and Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+20-40
+90%
+Golduck
+D
+P
+Pt
+Surfing
+38-40
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Afterwards, you'll need to fly to Veilstone City. But you can check out other places before proceeding.
+Now that you can use Rock Climb...
+Using
+Rock Climb
+there are some new places for you to access, where you can find more items and Trainers. You'll find it useful in these places to have your
+Pokétch
+'s
+Dowsing Machine
+ready. Take the time to explore!
+Mt. Coronet
+(Southern area)
+You'll need to bring Pokémon with
+Surf
+and
+Strength
+.
+Items (Southern Cavern)
+Item
+Location
+Games
+Max Potion
+On ledge north of stairs from first floor
+D
+P
+Ether
+Hidden on small rock west (and slightly north) of Max Potion
+D
+P
+Escape Rope
+In corner south-east of exit to Route 207
+D
+P
+TM80
+(
+Rock Slide
+)
+North-east of exit to Route 207
+D
+P
+Revive
+South-west of exit to small northern cavern
+D
+P
+Available Pokémon (Southern Cavern)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+37
+10%
+Medicham
+D
+P
+Pt
+Cave
+37
+10%
+Graveler
+D
+P
+Pt
+Cave
+36
+20%
+Chingling
+D
+P
+Pt
+Cave
+37-38
+10%
+Clefairy
+D
+P
+Pt
+Cave
+36-38
+15%
+Bronzong
+D
+P
+Pt
+Cave
+38
+20%
+Machoke
+D
+P
+Pt
+Cave
+37
+10%
+Bronzor
+D
+P
+Pt
+Cave
+36
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Surf across the northern pond, then head to where you can use Rock Climb. Climb up and go up the stairs.
+There are several items for you to collect on this floor.
+The tunnel to further areas is blocked by a cave painting identical to the one in the
+Celestic Ruins
+. The exit in the southwestern corner leads to a small, dead-end ledge on
+Route 207
+, where you can pick up an
+Iron
+.
+Items
+Item
+Location
+Games
+Iron
+Ledge on the southeastern end of the route, after taking the higher exit from Mount Coronet (requires
+Surf
+and
+Rock Climb
+)
+D
+P
+Route 208
+You'll need to bring a Pokémon with
+Rock Smash
+.
+Items
+Item
+Location
+Games
+Iron
+On the western side of the route (requires
+Rock Smash
+and
+Rock Climb
+)
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Hiker
+Alexander
+クマオ
+Kumao
+Reward:
+$
+1120
+Golbat
+♂
+Lv.
+35
+No item
+Graveler
+♂
+Lv.
+35
+No item
+Onix
+♂
+Lv.
+35
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Go down the stairs southwest of
+Black Belt
+Kyle. Then use Rock Climb and climb the wall on the west. Immediately after climbing up,
+Hiker
+Alexander will challenge you. There is also a hidden
+Iron
+.
+Hotel Grand Lake
+Items
+Item
+Location
+Games
+TM85
+(
+Dream Eater
+)
+To the left of the house of the woman who lost her key
+D
+P
+Max Revive
+Inside a trash can in the bungalow to the northeast of the hotel entrance
+(hidden)
+D
+P
+Rare Candy
+At the top of the climbable ledges in the east
+(hidden)
+D
+P
+Coin Toss
+App
+From a man inside a bungalow to the northeast of the hotel entrance
+D
+P
+This hotel between
+Valor Lakefront
+and
+Route 213
+has several ledges that can only be accessed with Rock Climb. Use it wherever you can and collect all items. There is also an isolated house that you need Rock Climb to access. A man inside will give you the
+Pokétch App Coin Toss
+, which simulates flipping a coin. It isn't strictly necessary for playing the game, but it may be useful.
+Route 213
+Items
+Item
+Location
+Games
+Protein
+East of the Hotel Grand Lake southern entrance (requires
+Rock Climb
+)
+D
+P
+TM05
+(
+Roar
+)
+Up in the highest mountain looking at the beach (Requires
+Rock Climb
+)
+D
+P
+Max Revive
+North of TM05
+(hidden)
+D
+P
+Remember the man saying that there must be something up the hill? Climb up and collect all of the items.
+Route 210
+(Foggy area)
+You'll need to bring a Pokémon with
+Defog
+.
+Item
+Item
+Location
+Games
+Nugget
+South of the pit between the climbable rocks (requires
+Rock Climb
+)
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Dragon Tamer
+Patrick
+リュウヘイ
+Ryūhei
+Reward:
+$
+1248
+Gible
+♂
+Lv.
+39
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Climb down the hill east of
+Ace Trainer
+Ernest. Then, climb up to the east from the pit. You'll be challenged by
+Dragon Tamer
+Patrick. There is a hidden
+Nugget
+for you to find.
+Also, there is house at the northeast edge of this route, belonging to
+Grandma Wilma
+. Inside, she teaches
+Dragon-type
+Pokémon the strongest Dragon-type move,
+Draco Meteor
+, but only if the Pokémon has maximum
+happiness
+.
+Route 211
+(East)
+You'll need to bring a Pokémon with
+Rock Smash
+.
+Items
+Item
+Location
+Games
+TM29
+(
+Psychic
+)
+At the highest hill of the eastern part of the route
+D
+P
+Zinc
+On the same hill as
+TM29
+(
+Psychic
+)
+(hidden)
+D
+P
+Smash the rocks behind
+Bird Keeper
+Alexandra. Then, climb up the hill and collect the two items.
+Route 216
+Items
+Item
+Location
+Games
+TM13
+(
+Ice Beam
+)
+Far right-hand side of the snowy ledge, past Skier Andrea
+D
+P
+Mental Herb
+In the center of the snowy ledge
+D
+P
+HP Up
+To the right of the Mental Herb
+D
+P
+Trainers
+Trainer
+Pokémon
+Black Belt
+Philip
+ダンジ
+Danji
+Reward:
+$
+960
+Machoke
+♂
+Lv.
+40
+No item
+Skier
+Bradley
+フジヤ
+Fujiya
+Reward:
+$
+1120
+Geodude
+♂
+Lv.
+35
+No item
+Graveler
+♂
+Lv.
+35
+No item
+Snover
+♂
+Lv.
+35
+No item
+Skier
+Kaitlyn
+ナツキ
+Natsuki
+Reward:
+$
+1152
+Roselia
+♀
+Lv.
+36
+No item
+Snover
+♀
+Lv.
+36
+No item
+Skier
+Andrea
+アイミ
+Aimi
+Reward:
+$
+1216
+Staravia
+♀
+Lv.
+38
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+East of the Snowbound Lodge, you can climb up the cliff. There are a few Trainers for you to fight and a few items for you to get, especially
+TM13
+(
+Ice Beam
+), which contains a powerful
+Ice-type
+move.
+Veilstone City
+With the ability to use Rock Climb in the field, there is also an item for you to get before you proceed. There is a
+Full Incense
+for you to grab southeast of the Gym.
+Now head to the northeast part of the city. Go up the stairs, and you are at the highest point of the city, where the Galactic HQ is. A Galactic Grunt tells you that you need a key to access. Then he accidentally drops an item when he runs away. Pick it up and you'll find that it is the
+Storage Key
+. You may wonder if you can use it to access the HQ, so head inside. Use the door in the middle or on the left. The right one is a one-way exit.
+Items
+Item
+Location
+Games
+Full Incense
+Southeast of the Gym (requires
+Rock Climb
+)
+D
+P
+Storage Key
+Outside Galactic HQ, dropped by a Galactic Grunt
+D
+P
+Galactic HQ
+Check the door near the reception. It seems that the Storage Key does not work on this door. Now what?
+Remember where you fought the grunts with
+Professor Rowan
+'s aide
+Dawn
+/
+Lucas
+to get back her/his Pokédex? Remember where you got
+HM02
+(
+Fly
+)? That's the place to go: the
+Galactic Warehouse
+, at the northwest part of the city!
+Galactic Warehouse
+The basement of the Galactic Warehouse.
+Heal your Pokémon before proceeding.
+Go inside the warehouse. Use the Storage Key on the door. The key is stuck into the door and gone afterwards, but it doesn't matter— you won't need it anymore. Grab the
+Dusk Stone
+, and go down the stairs.
+Item (Entrance, after opening the door)
+Item
+Location
+Games
+Dusk Stone
+Behind the locked door that required the
+Storage Key
+D
+P
+After getting down the stairs, you will find two corridors, one to the north and another to the east. If you take the way heading north, you can talk to a Scientist (who won't fight you), but you can do nothing else until you find the key. Head east and fight the grunts along the way. Then go up the stairs, and you will be in isolated parts of Galactic HQ. Yep, this is a tunnel linking the warehouse and HQ.
+Now you have to fight all grunts and even
+Scientists
+along the way. If you remember those evil Scientists who worked for
+Team Rocket
+in previous games, you'll realize the same scenario happens right here. You will also encounter some yellow
+warp panels
+, which teleport you to different rooms when you step on them. Go through all stairs and warp panels to collect all items and fight all Trainers. After going up the stairs in the tunnel you will be in a room with a grunt and more stairs. Go up the stairs and you will find yourself in a room with a grunt and two warp panels behind the grunt, one on the left and one directly behind the grunt. Taking the one directly behind the grunt will send you to a dead end. Taking the left one will send you to a room with a laptop on the left and another warp panel to the right. This will send you to a room with some more stairs. These stairs will take you to a room with a warp panel to the left, stairs on the right and a grunt in the middle. Take the warp panel. you will be sent to a room that is empty except for some stairs on the right, taking those will result in you being sent to another room that is almost empty, except for the stairs on the right and a scientist next to them. Taking the stairs will send you back to tunnel connecting the
+Galactic Warehouse
+to the
+Galactic HQ
+. There will be a grunt and two items here, one is the Galactic Key.
+Items (Tunnel and isolated area of Galactic HQ)
+Item
+Location
+Games
+TM21
+(
+Frustration
+)
+Behind the locked door in the generator room
+D
+P
+TM36
+(
+Sludge Bomb
+)
+Southeast of the Galactic Key
+D
+P
+TM49
+(
+Snatch
+)
+At the first pair of warp panels, take the right
+D
+P
+Galactic Key
+Downstairs near the entrance, behind the locked door
+D
+P
+Zinc
+Downstairs near the entrance, down a fork in the hallway
+D
+P
+Elixir
+In a black machine at the northwest corner of the generator room
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+2960
+Golbat
+♂
+Lv.
+37
+No item
+Galactic Grunt
+Reward:
+$
+1400
+Dustox
+♂
+Lv.
+35
+No item
+Bronzor
+Lv.
+35
+No item
+At
+Team Galactic HQ
+Galactic Grunt
+Reward:
+$
+1480
+Glameow
+♀
+Lv.
+37
+No item
+Galactic Grunt
+Reward:
+$
+1440
+Wurmple
+♂
+Lv.
+32
+No item
+Cascoon
+♂
+Lv.
+34
+No item
+Dustox
+♂
+Lv.
+36
+No item
+Scientist
+Fredrick
+Reward:
+$
+1680
+Kadabra
+♂
+Lv.
+35
+No item
+Kadabra
+♂
+Lv.
+35
+No item
+Galactic Grunt
+Reward:
+$
+1480
+Stunky
+♂
+Lv.
+37
+No item
+Galactic Grunt
+Reward:
+$
+1440
+Bronzor
+Lv.
+36
+No item
+Stunky
+♂
+Lv.
+36
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Now that you have the Galactic Key, you can get inside Galactic HQ.
+Raiding Galactic HQ (Part 1)
+Heal your Pokémon before proceeding.
+Items
+Item
+Location
+Games
+PP Up
+In a plant to the right of the reception desk
+(hidden)
+D
+P
+Max Revive
+From the first pair of Galactic Grunts, go east and take the bottom warp pad
+D
+P
+Elixir
+In a room where three warp pads are located near each other, the middle pad leads to the room with the Elixir
+D
+P
+Full Heal
+In a black machine immediately west of the stairs leading up from the lobby
+(hidden)
+D
+P
+Ultra Ball
+In the black machine northeast of
+Scientist
+Fredrick
+D
+P
+/Darrius
+Pt
+(hidden)
+D
+P
+Full Restore
+In a black machine east of the second Double Battle Grunts
+(hidden)
+D
+P
+Rare Candy
+Among boxes which can only be warped from the three warps on 3F
+(hidden)
+D
+P
+Nugget
+In
+Cyrus
+'s office, in the northwest corner
+(hidden)
+D
+P
+Master Ball
+Received from
+Cyrus
+after defeating him
+D
+P
+Galactic HQ's exterior.
+Galactic HQ 1F
+Galactic HQ 2F
+Galactic HQ 3F
+Galactic HQ 4F— location of the boss battle!
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1440
+Golbat
+♂
+Lv.
+36
+No item
+Golbat
+♂
+Lv.
+36
+No item
+Galactic Grunt
+Reward:
+$
+1360
+Golbat
+♀
+Lv.
+36
+No item
+Silcoon
+♀
+Lv.
+34
+No item
+Scientist
+Darrius
+Reward:
+$
+1776
+Kadabra
+♂
+Lv.
+37
+No item
+Galactic Grunt
+Reward:
+$
+1440
+Stunky
+♂
+Lv.
+36
+No item
+Croagunk
+♂
+Lv.
+36
+No item
+Galactic Grunt
+Reward:
+$
+1400
+Croagunk
+♀
+Lv.
+35
+No item
+Stunky
+♀
+Lv.
+35
+No item
+Glameow
+♀
+Lv.
+35
+No item
+It is time to raid the base of
+Team Galactic
+! Get back to
+Galactic HQ
+and go inside from the middle or left door. Check the door near the reception again. Use
+Galactic Key
+you got earlier to open it, then go up the stairs.
+There is a hidden item near the stairs. Grab it, then proceed. Fight the Trainers along the way. You'll see "Team Galactic TV Room" after fighting the grunts, but don't go inside for now. Go through the warp panel in the southeast corner and follow the warp path to collect an item. The northeast warp is a dead end. After that, go inside the TV Room. Fight the
+Scientist
+, then go through the warp panel.
+You'll end up in the entrance of "Team Galactic Nap Room". (Can you believe that the boss of
+Team Galactic
+cares about the grunts so much? Even a sleeping place for them is provided!) Just like the Snowbound Lodge on
+Route 216
+, you can sleep on a bed (but be sure to check if it is occupied before sleeping on it). Get onto the bed, press down on Control Pad, press A, then answer "Yes". Your Pokémon will be fully healed. Make good use of this Nap Room!
+After taking a nap, go up the stairs. There will be a double battle. Then you'll see three warp panels. The warp on the right is a dead end. The middle warp brings you to a room with an Elixer. The offset left warp lets you proceed. Finally, another flight of stairs takes you to a door that can be opened with the Galactic Key. Open the door, but don't step forward......
+one more step and you'll be in a boss battle!
+← Part 16
+Mt. Coronet (Northern Area Part 2), Routes 216-217, Acuity Lakefront, Snowpoint City
+Diamond and Pearl
+walkthrough
+Raiding Galactic HQ (Part 2), Mt. Coronet (Southern Area Part 2, Mountainside and Upper Caverns), Spear Pillar
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

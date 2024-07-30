@@ -1,0 +1,826 @@
+Part: Part 23
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_23
+Keywords: Route 11, Diglett's Cave, Route 2, Pewter City, Pewter Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 11
+2
+Vermilion City
+2.1
+Roadblock
+2.2
+Diglett's Cave
+3
+Route 2
+3.1
+A Friendly Face
+4
+Pewter City
+4.1
+Time for a Trade
+4.2
+Pewter Gym
+4.3
+The Silver Feather
+Route 11
+Route 11
+Route 11
+is a grassy path between
+Route 12
+and
+Vermilion City
+to the west.
+Trainers
+Trainer
+Pokémon
+Psychic
+Herman
+Reward:
+$
+960
+Exeggcute
+♂
+Lv.
+30
+No item
+Exeggcute
+♂
+Lv.
+30
+No item
+Exeggutor
+♂
+Lv.
+30
+No item
+Youngster
+Owen
+Reward:
+$
+560
+Growlithe
+♂
+Lv.
+35
+No item
+Youngster
+Jason
+Reward:
+$
+528
+Sandslash
+♂
+Lv.
+33
+No item
+Crobat
+♂
+Lv.
+33
+No item
+Psychic
+Fidel
+Reward:
+$
+1088
+Xatu
+♂
+Lv.
+34
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+G
+S
+C
+Grass
+16
+10%
+10%
+0%
+Rattata
+G
+S
+C
+Grass
+16
+5%
+5%
+0%
+Raticate
+G
+S
+C
+Grass
+13
+30%
+30%
+0%
+Raticate
+G
+S
+C
+Grass
+16
+0%
+0%
+5%
+Meowth
+G
+S
+C
+Grass
+13
+0%
+0%
+30%
+Magnemite
+G
+S
+C
+Grass
+15
+20%
+Drowzee
+G
+S
+C
+Grass
+14
+0%
+0%
+30%
+Hypno
+G
+S
+C
+Grass
+16
+0%
+0%
+5%
+Noctowl
+G
+S
+C
+Grass
+16
+0%
+0%
+10%
+Hoppip
+G
+S
+C
+Grass
+14, 16
+35%
+35%
+0%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Berry
+Northeast corner, on a tree (daily)
+C
+Revive
+Northeast corner, in a lone tree south of the Berry tree (hidden)
+C
+Vermilion City
+Diglett's Cave
+Roadblock
+The wild
+Snorlax
+is still sleeping on the east side of
+Vermilion City
+, blocking travel to and from
+Route 11
+. It also happens to be blocking the western entrance to
+Diglett's Cave
+. To wake it up, tune the
+Pokégear
+'s radio to Channel 20.0, then examine the creature to place the device next to it. The
+Poké Flute
+music rouses the Pokémon from its nap, and it attacks in a grumpy rage!
+Type:
+Normal
+Unknown
+Held item:
+Leftovers
+Snorlax
+♂
+/
+♀
+Lv.
+50
+Snore
+Normal
+--
+Rest
+Psychic
+--
+Body Slam
+Normal
+--
+Rollout
+Rock
+--
+Diglett's Cave
+Diglett's Cave
+is a long tunnel that spans nearly the whole region, linking
+Vermilion City
+to the east side of
+Route 2
+. Like the name implies, the only Pokémon that can be found here are
+Diglett
+and its evolved form,
+Dugtrio
+. With the
+Fuchsia City
+beach blocked off, it is currently the only way to reach western
+Kanto
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+G
+S
+C
+Cave
+3, 6, 12, 24
+90%
+0%
+0%
+Diglett
+G
+S
+C
+Cave
+2, 4, 8, 16
+0%
+90%
+0%
+Diglett
+G
+S
+C
+Cave
+4, 8, 16, 32
+0%
+0%
+90%
+Dugtrio
+G
+S
+C
+Cave
+24
+10%
+0%
+0%
+Dugtrio
+G
+S
+C
+Cave
+16
+0%
+10%
+0%
+Dugtrio
+G
+S
+C
+Cave
+32
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+On a lone rock near the tunnel's north end (hidden)
+C
+Route 2
+Route 2
+Route 2
+runs between
+Viridian City
+and
+Pewter City
+. Much of the route's west side is occupied by a maze of trees.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Rob
+Reward:
+$
+512
+Beedrill
+♂
+Lv.
+32
+No item
+Butterfree
+♂
+Lv.
+32
+No item
+Bug Catcher
+Doug
+Reward:
+$
+544
+Ariados
+♂
+Lv.
+34
+No item
+Bug Catcher
+Ed
+Reward:
+$
+480
+Beedrill
+♂
+Lv.
+30
+No item
+Beedrill
+♂
+Lv.
+30
+No item
+Beedrill
+♂
+Lv.
+30
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+G
+S
+C
+Grass
+3
+30%
+30%
+0%
+Butterfree
+G
+S
+C
+Grass
+7
+10%
+10%
+0%
+Beedrill
+G
+S
+C
+Grass
+7
+10%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+5
+20%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+3,5
+0%
+50%
+0%
+Pidgeotto
+G
+S
+C
+Grass
+7
+0%
+5%
+0%
+Pikachu
+G
+S
+C
+Grass
+4
+5%
+5%
+0%
+Hoothoot
+G
+S
+C
+Grass
+3, 5
+0%
+0%
+50%
+Noctowl
+G
+S
+C
+Grass
+4, 7
+0%
+0%
+15%
+Ledyba
+G
+S
+C
+Grass
+3
+30%
+0%
+0%
+Ledian
+G
+S
+C
+Grass
+7
+5%
+0%
+0%
+Spinarak
+G
+S
+C
+Grass
+3
+0%
+0%
+30%
+Ariados
+G
+S
+C
+Grass
+7
+0%
+0%
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+East side
+Carbos
+Northeast of the Diglett's Cave entrance
+C
+Nugget
+From the man in the house
+C
+Elixer
+Southeast corner (requires
+Cut
+)
+C
+West side (Requires Cut)
+Dire Hit
+Southwest corner of the grove
+C
+Full Restore
+Isolated group of four trees near the south entrance, in the northwest tree (hidden)
+C
+Revive
+Southeast corner of the grove, in a tree (hidden)
+C
+PSNCureBerry
+Northeast corner of the grove, on a tree (daily)
+C
+Max Ether
+Southwest of the Berry tree, in a tree in the first dead-end path (hidden)
+C
+Full Heal
+West of the Berry tree, in the second dead-end path (hidden)
+C
+Max Potion
+West-central part of the grove, in the final dead-end path
+C
+A Friendly Face
+Visit the house near
+Diglett's Cave
+and speak to the man inside. Living out in the wilderness, it has been some time since he has had a visitor. He is happy for the company, and gives out a
+Nugget
+to show his appreciation.
+Pewter City
+Pewter City
+Pewter City
+is a quiet city nestled in the northern mountains between
+Route 2
+and
+Route 3
+. The
+Pewter Museum of Science
+is currently closed for renovations, but the
+Pewter Gym
+is still accepting challengers.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Xatu
+G
+S
+C
+Trade
+Haunter
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+MysteryBerry
+Held by Paul, a
+Xatu
+received through a trade
+C
+Mint Berry
+Northeast hill, on the western of the two trees (daily)
+C
+Ice Berry
+Northeast hill, on the eastern of the two trees (daily)
+C
+Silver Wing
+From an old man near the east exit to Route 3
+C
+Time for a Trade
+Visit the Pokémon Center to find a man who would like to trade Pokémon. He is willing to part with his
+Xatu
+in exchange for a
+Haunter
+. Haunter can be found on
+Route 8
+and in
+Rock Tunnel
+.
+Pewter Gym
+Pewter Gym
+Pewter City Pokémon Gym
+Leader: Brock
+The Rock Solid Pokémon Trainer
+The
+Pewter Gym
+specializes in
+Rock-type
+Pokémon. Rock-type moves are super effective against
+Bug
+-,
+Fire
+-,
+Flying
+-, and
+Ice-type
+Pokémon, while Rock-type Pokémon are weak to
+Fighting
+-,
+Grass
+-,
+Ground
+-,
+Steel
+-, and
+Water-type
+moves.
+The Gym features a rock garden, and has only one optional Gym Trainer battle before reaching the
+Gym Leader
+.
+Because of their dual typings, each of
+Brock
+'s five Pokémon take massive damage from
+Grass-type
+attacks. Aside from that,
+Water
+moves are effective against his
+Graveler
+,
+Rhyhorn
+, and
+Onix
+. Brock likes to dig for fossils in
+Mt. Moon
+in his spare time, and has acquired two prehistoric Pokémon in
+Omastar
+and
+Kabutops
+. Both are vulnerable to
+Electric
+attacks, but Electric Pokémon should be wary of being hit with
+Earthquake
+.
+Pewter Gym
+Trainers
+Trainer
+Pokémon
+Camper
+Jerry
+Reward:
+$
+740
+Sandslash
+♂
+Lv.
+37
+No item
+Leader
+Brock
+Pewter Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4200
+Types:
+Rock
+Ground
+Held item:
+None
+Graveler
+♂
+Lv.
+41
+Defense Curl
+Normal
+--
+Rock Slide
+Rock
+--
+Rollout
+Rock
+--
+Earthquake
+Ground
+--
+Types:
+Ground
+Rock
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+41
+Fury Attack
+Normal
+--
+Scary Face
+Normal
+--
+Earthquake
+Ground
+--
+Horn Drill
+Normal
+--
+Types:
+Rock
+Water
+Held item:
+None
+Omastar
+♂
+Lv.
+42
+Bite
+Dark
+--
+Surf
+Water
+--
+Protect
+Normal
+--
+Spike Cannon
+Normal
+--
+Types:
+Rock
+Ground
+Held item:
+None
+Onix
+♂
+Lv.
+44
+Bind
+Normal
+--
+Rock Slide
+Rock
+--
+Bide
+Normal
+--
+Sandstorm
+Rock
+--
+Types:
+Rock
+Water
+Held item:
+None
+Kabutops
+♂
+Lv.
+42
+Slash
+Normal
+--
+Surf
+Water
+--
+Endure
+Normal
+--
+Giga Drain
+Grass
+--
+After the battle,
+Brock
+awards you the
+Boulder Badge
+.
+The Silver Feather
+There is an elderly man strolling around the east side of town. Speak to him, and he reminisces about training in
+Johto
+as a young man. Something about you reminds him of his younger self, and he is happy to give you a treasure that he found there all those years ago: the
+Silver Wing
+. This shimmering feather lets you track down
+the immense, silver-colored Pokémon
+that roosted atop the
+Burned Tower
+before it was destroyed.
+← Part 22
+Routes 15, Route 14, Route 13, Route 12
+Crystal
+walkthrough
+Route 3, Mt. Moon, Route 4
+Part 24 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

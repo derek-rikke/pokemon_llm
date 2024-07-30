@@ -1,0 +1,1969 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_21
+Keywords: Route 2, Accumula Town, Route 1, Routes 17 & 18, P2 Laboratory, Nuvema Town
+
+Walkthrough Text:
+Contents
+1
+Route 2
+2
+Accumula Town
+2.1
+The Northwest Building
+2.2
+The Northern Building
+2.3
+The House on the Hill
+2.4
+The Southwest Building
+3
+Route 1
+4
+Route 17 (south)
+5
+Route 18
+6
+Route 17 (north)
+6.1
+P2 Laboratory, Plasma Frigate
+7
+Nuvema Town
+7.1
+The Hero's House
+7.2
+Cheren and Bianca's Homes
+7.3
+Juniper Pokémon Lab
+Route 2
+Route 2
+Route 2
+is a short tree-lined road that connects
+Striaton City
+and
+Accumula Town
+.
+The
+three
+brothers
+of Striaton Restaurant often visit the route to help train Pokémon Trainers.
+Trainers
+Trainer
+Pokémon
+Youngster
+Mikey
+アキラ
+Akira
+Reward:
+$
+976
+Beedrill
+♂
+Lv.
+61
+No item
+Dustox
+♂
+Lv.
+61
+No item
+Volbeat
+♂
+Lv.
+61
+No item
+Mothim
+♂
+Lv.
+61
+No item
+Scolipede
+♂
+Lv.
+61
+No item
+Lass
+Henrietta
+ヒサコ
+Hisako
+Reward:
+$
+976
+Butterfree
+♀
+Lv.
+61
+No item
+Beautifly
+♀
+Lv.
+61
+No item
+Illumise
+♀
+Lv.
+61
+No item
+Wormadam
+♀
+Plant Cloak
+Lv.
+61
+No item
+Leavanny
+♀
+Lv.
+61
+No item
+Youngster
+Jimmy
+ケンタ
+Kenta
+Reward:
+$
+976
+Rattata
+♂
+Lv.
+61
+No item
+Sentret
+♂
+Lv.
+61
+No item
+Zigzagoon
+♂
+Lv.
+61
+No item
+Bidoof
+♂
+Lv.
+61
+No item
+Watchog
+♂
+Lv.
+61
+No item
+Veteran
+Rayne
+シグレ
+Shigure
+Reward:
+$
+5280
+Masquerain
+♂
+Lv.
+66
+No item
+Magnezone
+Lv.
+66
+No item
+Dragonair
+♂
+Lv.
+66
+No item
+Slowbro
+♂
+Lv.
+66
+No item
+Lass
+Mali
+マリ
+Mari
+Reward:
+$
+976
+Pidgey
+♀
+Lv.
+61
+No item
+Hoothoot
+♀
+Lv.
+61
+No item
+Taillow
+♀
+Lv.
+61
+No item
+Starly
+♀
+Lv.
+61
+No item
+Unfezant
+♀
+Male
+Lv.
+61
+No item
+Veteran
+Oriana
+アサヒ
+Asahi
+Reward:
+$
+5280
+Wormadam
+♀
+Sandy Cloak
+Lv.
+66
+No item
+Exploud
+♀
+Lv.
+66
+No item
+Magcargo
+♀
+Lv.
+66
+No item
+Jumpluff
+♀
+Lv.
+66
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Watchog
+B2
+W2
+Grass
+56-59
+30%
+Herdier
+B2
+W2
+Grass
+56-59
+30%
+Liepard
+B2
+W2
+Grass
+57-58
+20%
+Jigglypuff
+B2
+W2
+Grass
+57
+10%
+Lickitung
+B2
+W2
+Grass
+58
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+75%
+Dunsparce
+B2
+W2
+Rustling grass
+57
+10%
+Wigglytuff
+B2
+W2
+Rustling grass
+59
+5%
+Lickilicky
+B2
+W2
+Rustling grass
+59
+5%
+Stoutland
+B2
+W2
+Grass
+59
+5%
+Hidden Grotto
+Watchog
+B2
+W2
+Hidden Grotto
+55-60
+Common
+Nidoran♀
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Nidoran♂
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Granbull
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+N's Pokémon
+Purrloin
+B2
+W2
+Only one
+7
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dawn Stone
+From the Lady on the hill
+B2
+W2
+Repeat Ball
+On the hill to the east
+B2
+W2
+Full Heal
+On the hill to the east
+B2
+W2
+Carbos
+South of Lass Henrietta (requires
+Cut
+)
+B2
+W2
+PP Max
+West of Lass Henrietta (hidden, requires
+Cut
+)
+B2
+W2
+Ultra Ball
+In the tall grass near Youngster Jimmy
+B2
+W2
+Max Revive
+×2
+On the road between the two ledges (hidden)
+In the tall grass near Veteran Oriana
+B2
+W2
+Calcium
+West of Accumula Town (requires
+Strength
+)
+B2
+W2
+The Lady on the hill wants to see a Pokémon with the
+Solid Rock
+Ability; fulfill her request to get a
+Dawn Stone
+. A
+Repeat Ball
+and a
+Full Heal
+can also be obtained on the hill. To the west, a
+Carbos
+and a hidden
+PP Max
+can be found in the small clearing behind the
+cuttable
+tree. To the south, a hidden
+Max Revive
+can be found between the two ledges, and an
+Ultra Ball
+sits in the tall grass near the two Youngsters. Go west to discover a
+Hidden Grotto
+near Lass Mali, and grab the second
+Max Revive
+near Veteran Oriana. A
+Calcium
+can be found behind the boulder.
+Accumula Town
+Accumula Town
+B
+W
+Accumula
+is a small town between
+Route 2
+and
+Route 1
+. Because of its many hills, the town offers some great views.
+Trainers
+Trainer
+Pokémon
+Lass
+Diana
+Reward:
+$
+Varies
+After trading Excadrill
+Excadrill
+♂
+/
+♀
+Lv.
+Varies
+No item
+Lass
+Diana
+Reward:
+$
+Varies
+After trading Hippowdon
+Hippowdon
+♂
+/
+♀
+Lv.
+Varies
+No item
+Stoutland
+♀
+Lv.
+63
+No item
+Sandslash
+♀
+Lv.
+63
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ambipom
+B2
+W2
+Trade
+Excadrill
+40
+One
+Alakazam
+B2
+W2
+Trade
+Hippowdon
+40
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+×10
+From a man in the northwest building
+B2
+W2
+Grass Gem
+From a girl in the northwest building, after acing the quiz about Snivy
+B2
+W2
+Fire Gem
+From a girl in the northwest building, after acing the quiz about Tepig
+B2
+W2
+Water Gem
+From a girl in the northwest building, after acing the quiz about Oshawott
+B2
+W2
+BalmMushroom
+From a man in the northern building
+B2
+W2
+Fluffy Tail
+(once per day)
+From the Lass on the town's upper level, after showing her a very tall Pokémon
+B2
+W2
+Metronome
+From the Lady in the northeast building, after showing her a Kricketot and a Whismur
+B2
+W2
+Max Repel
+In the trash can in the center of town (hidden)
+B2
+W2
+Poké Doll
+(once per day)
+From the Youngster on the town's lower level, after showing him a very short Pokémon
+B2
+W2
+Sitrus Berry
+Held by traded Ambipom
+B2
+W2
+Lum Berry
+Held by traded Alakazam
+B2
+W2
+The Northwest Building
+Visit the northwest building and climb to the second floor. Talk to the man near the stairs to receive 10
+Poké Balls
+. The little girl wants someone to play a game of rock-paper-scissors using the
+Grass
+,
+Fire
+, and
+Water
+types. The dark-haired girl quizzes you about your
+first partner Pokémon
+'s height and weight; answer correctly to get either a
+Grass Gem
+,
+Fire Gem
+, or
+Water Gem
+, depending on your first partner's type.
+The Northern Building
+Stop by the building next door, and climb to the second floor. Talk to the young man to get a
+BalmMushroom
+.
+The House on the Hill
+The Lass at the top of the stairway wants to see a Pokémon that is 17' (5 m) or taller. Show her a towering Pokémon like
+Onix
+or
+Gyarados
+to receive a
+Fluffy Tail
+. This can be done once per day.
+The Lady inside is stuck in a slump. She hopes that a Pokémon with a cry like an instrument could cheer her up. Show her a
+Kricketot
+and her mood improves somewhat. After that, show her a
+Whismur
+to finally knock her out of her slump. She thanks you with a
+Metronome
+.
+The Southwest Building
+The Youngster at the bottom of the stairway wants to see a Pokémon that is 8" (20 cm) or shorter. Show him a tiny Pokémon like
+Joltik
+or
+Foongus
+to receive a
+Poké Doll
+. This can be done once per day.
+The Lass on the first floor would like to trade her
+Ambipom
+for your
+Excadrill
+. After doing so, she asks you to battle in order to show how it has grown. After that she asks for another trade, this time, your
+Hippowdon
+for her
+Alakazam
+. She then asks for another battle against her old Pokémon.
+Route 1
+Route 1
+Route 1
+stretches between
+Accumula Town
+and
+Nuvema Town
+. The change in seasons is quite evident here, as flower petals ride the spring breeze and dead leaves flutter in the autumn wind.
+Trainers
+Trainer
+Pokémon
+Backpacker
+Jill
+アユミ
+Ayumi
+Reward:
+$
+1488
+Omanyte
+♂
+Lv.
+62
+No item
+Anorith
+♂
+Lv.
+62
+No item
+Shieldon
+♂
+Lv.
+62
+No item
+Archeops
+♂
+Lv.
+62
+No item
+Backpacker
+Shane
+トシノブ
+Toshinobu
+Reward:
+$
+1488
+Kabuto
+♂
+Lv.
+62
+No item
+Lileep
+♂
+Lv.
+62
+No item
+Cranidos
+♂
+Lv.
+62
+No item
+Carracosta
+♂
+Lv.
+62
+No item
+Requires Surf
+Ace Trainer
+Sean
+シュンスケ
+Shunsuke
+Reward:
+$
+3960
+Durant
+♂
+Lv.
+66
+No item
+Espeon
+♂
+Lv.
+66
+No item
+Honchkrow
+♂
+Lv.
+66
+No item
+Ace Trainer
+Cheyenne
+アサミ
+Asami
+Reward:
+$
+3960
+Heatmor
+♀
+Lv.
+66
+No item
+Umbreon
+♂
+Lv.
+66
+No item
+Mismagius
+♀
+Lv.
+66
+No item
+Pokémon Ranger
+Audra
+キリ
+Kiri
+Reward:
+$
+3840
+Wigglytuff
+♀
+Lv.
+64
+No item
+Girafarig
+♀
+Lv.
+64
+No item
+Vileplume
+♀
+Lv.
+64
+No item
+Pokémon Ranger
+Rick
+リック
+Rick
+Reward:
+$
+3840
+Vigoroth
+♂
+Lv.
+64
+No item
+Stantler
+♂
+Lv.
+64
+No item
+Victreebel
+♂
+Lv.
+64
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Herdier
+B2
+W2
+Grass
+56-59
+50%
+Watchog
+B2
+W2
+Grass
+56-59
+40%
+Jigglypuff
+B2
+W2
+Grass
+57
+10%
+Dark grass
+Watchog
+B2
+W2
+Dark grass
+64-67
+40%
+Herdier
+B2
+W2
+Dark grass
+64-67
+39%
+Scrafty
+B2
+W2
+Dark grass
+66-67
+11%
+Jigglypuff
+B2
+W2
+Dark grass
+65
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+80%
+Dunsparce
+B2
+W2
+Rustling grass
+57
+10%
+Wigglytuff
+B2
+W2
+Rustling grass
+59
+5%
+Stoutland
+B2
+W2
+Rustling grass
+59
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Rippling water
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+Swarm
+Farfetch'd
+B2
+W2
+Grass
+40-55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+From the dark-haired girl in the middle grass patch
+B2
+W2
+Ultra Ball
+In the grass patch with the Potion girl (hidden)
+B2
+W2
+Requires Surf
+Full Restore
+Northwest of Ace Trainer Sean
+B2
+W2
+Protein
+In the grass patch near Ace Trainer Cheyenne (hidden)
+B2
+W2
+Lum Berry
+×2
+From Pokémon Ranger Audra upon her defeat
+From Pokémon Ranger Rick upon his defeat
+B2
+W2
+Prism Scale
+Southeast of Pokémon Ranger Rick
+B2
+W2
+South of the two Backpackers is a dark-haired girl in the middle grass patch; talk to her to get a
+Potion
+, then check the grass for an
+Ultra Ball
+. Surf west across the water to reach a
+Full Restore
+, then turn south. Ace Trainer Cheyenne is running laps around a grass patch; in the center lies a hidden
+Protein
+. Defeat the Pokémon Rangers to get a
+Lum Berry
+from each, then grab the
+Prism Scale
+from the south side. Enter the gate to arrive on
+Route 17
+.
+Route 17 (south)
+Route 17
+B
+W
+Route 17
+leads westward across the sea from
+Route 1
+. The swift ocean currents can make travel difficult, so proceed carefully.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Lydon
+タツヒコ
+Tatsuhiko
+Reward:
+$
+2048
+Feebas
+♂
+Lv.
+64
+No item
+Finneon
+♂
+Lv.
+64
+No item
+Lumineon
+♂
+Lv.
+64
+No item
+Swimmer
+Jeffery
+ヨシマサ
+Yoshimasa
+Reward:
+$
+1040
+Tentacool
+♂
+Lv.
+65
+No item
+Huntail
+♂
+Lv.
+65
+No item
+Swimmer
+Ruth
+トモコ
+Tomoko
+Reward:
+$
+1040
+Clamperl
+♀
+Lv.
+65
+No item
+Shellder
+♀
+Lv.
+65
+No item
+Fisherman
+Bucky
+ソウタロウ
+Sōtarō
+Reward:
+$
+2048
+Krabby
+♂
+Lv.
+64
+No item
+Qwilfish
+♂
+Lv.
+64
+No item
+Kingler
+♂
+Lv.
+64
+No item
+Swimmer
+Wright
+エイタロウ
+Eitarō
+Reward:
+$
+1040
+Carvanha
+♂
+Lv.
+65
+No item
+Sharpedo
+♂
+Lv.
+65
+No item
+Swimmer
+Dara
+ユウカ
+Yūka
+Reward:
+$
+1040
+Chinchou
+♀
+Lv.
+65
+No item
+Gorebyss
+♀
+Lv.
+65
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Frillish
+B2
+W2
+Surfing
+45-60
+100%
+Rippling Water
+Alomomola
+B2
+W2
+Rippling water
+45-60
+95%
+Jellicent
+B2
+W2
+Rippling water
+50-60
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Blue Shard
+×2
+In the shallow water with Fisherman Lydon (hidden)
+In the shallow water northwest of Fisherman Lydon
+B2
+W2
+Dive Ball
+In the shallow water with Fisherman Bucky
+B2
+W2
+Shoal Salt
+West of the P2 Lab (
+reappears
+occasionally)
+B2
+W2
+Shoal Shell
+Southwest of the P2 Lab (hidden,
+reappears
+occasionally)
+B2
+W2
+Pearl String
+Southwest of the P2 Lab
+B2
+W2
+Surf to the first spot of shallow water to find a hidden
+Blue Shard
+, then go north to reach another. Ride the northern westbound current to reach the
+Dive Ball
+near Fisherman Bucky, then sail west to
+Route 18
+.
+Route 18
+Route 18
+Route 18
+consists almost entirely of a single large island at the end of
+Route 17
+. The crescent-shaped island forces travelers from
+Route 1
+into a large U-turn, directing them towards the
+P2 Laboratory
+in the northeast.
+Trainers
+Trainer
+Pokémon
+Veteran
+Gina
+ミズホ
+Mizuho
+Reward:
+$
+5440
+Triple Battle
+Kingdra
+♀
+Lv.
+68
+No item
+Skarmory
+♀
+Lv.
+68
+No item
+Donphan
+♀
+Lv.
+68
+No item
+Black Belt
+Zachary
+レツジ
+Retsuji
+Reward:
+$
+2080
+Hariyama
+♂
+Lv.
+65
+No item
+Throh
+♂
+Lv.
+65
+No item
+Hitmontop
+♂
+Lv.
+65
+No item
+Hiker
+Stephen
+アキヒコ
+Akihiko
+Reward:
+$
+2048
+Hippopotas
+♂
+Lv.
+64
+No item
+Crustle
+♂
+Lv.
+64
+No item
+Hippowdon
+♂
+Lv.
+64
+No item
+Veteran
+Vincent
+ジュンイチ
+Junichi
+Reward:
+$
+5600
+Tyranitar
+♂
+Lv.
+70
+No item
+Veteran
+Maya
+マヤ
+Maya
+Reward:
+$
+5600
+Salamence
+♀
+Lv.
+70
+No item
+Veteran
+Chester
+チェスター
+Chester
+Reward:
+$
+5440
+Rotation Battle
+Staraptor
+♂
+Lv.
+68
+No item
+Relicanth
+♂
+Lv.
+68
+No item
+Krookodile
+♂
+Lv.
+68
+No item
+Battle Girl
+Wendy
+マツリ
+Matsuri
+Reward:
+$
+2080
+Poliwrath
+♀
+Lv.
+65
+No item
+Sawk
+♂
+Lv.
+65
+No item
+Medicham
+♀
+Lv.
+65
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Scrafty
+B2
+W2
+Grass
+57-58
+30%
+Sawk
+B2
+W2
+Grass
+57-59
+20%
+Throh
+B2
+W2
+Grass
+57-59
+20%
+Crustle
+B2
+W2
+Grass
+57
+20%
+Tropius
+B2
+W2
+Grass
+58
+10%
+Carnivine
+B2
+W2
+Grass
+58
+10%
+Watchog
+B2
+W2
+Grass
+56
+10%
+Dark grass
+Scrafty
+B2
+W2
+Dark grass
+65-66
+30%
+Sawk
+B2
+W2
+Dark grass
+65-67
+20%
+Throh
+B2
+W2
+Dark grass
+65-67
+20%
+Crustle
+B2
+W2
+Dark grass
+65
+20%
+Tropius
+B2
+W2
+Dark grass
+66
+10%
+Carnivine
+B2
+W2
+Dark grass
+66
+10%
+Watchog
+B2
+W2
+Dark grass
+64
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+85%
+Dunsparce
+B2
+W2
+Rustling grass
+57
+10%
+Throh
+B2
+W2
+Rustling grass
+59
+5%
+Sawk
+B2
+W2
+Rustling grass
+59
+5%
+Surfing
+Frillish
+B2
+W2
+Surfing
+45-60
+100%
+Rippling Water
+Alomomola
+B2
+W2
+Rippling water
+45-60
+95%
+Jellicent
+B2
+W2
+Rippling water
+50-60
+5%
+Swarm
+Hoppip
+B2
+W2
+Grass
+40-55
+40%
+Hidden Grotto
+Kingler
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Corsola
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Chatot
+B2
+W2
+Hidden Grotto
+55-60
+Uncommon
+Dragonite
+B2
+W2
+Hidden Grotto
+55-60
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zinc
+In the tall grass southwest of Black Belt Zachary (requires
+Strength
+)
+B2
+W2
+Rare Candy
+Southeast of Black Belt Zachary (hidden, requires
+Strength
+)
+B2
+W2
+Pearl String
+In a rock on the southwest shoreline (hidden)
+B2
+W2
+Star Piece
+In the valley, near Veteran Vincent (requires
+Strength
+)
+B2
+W2
+TM19
+(
+Telekinesis
+)
+West side of the island, near Veteran Maya
+B2
+W2
+Magma Stone
+On the northeast cliff, east of Veteran Chester
+B2
+W2
+Heart Scale
+On the northeast shoreline (hidden)
+B2
+W2
+Accessed via Route 17
+PP Max
+×2
+Southwest part of the bay
+Northwest of Battle Girl Wendy (hidden)
+B2
+W2
+Prism Scale
+Southwest part of the bay (hidden,
+reappears
+occasionally)
+B2
+W2
+Pearl
+On the eastern shoreline (hidden,
+reappears
+occasionally)
+B2
+W2
+Iron
+North of Battle Girl Wendy
+B2
+W2
+Climb up the stairway and head north past Veteran Gina to reach the prefab house. The female Ace Trainer inside will restore your team's health, while the man in sunglasses will buy any
+Rare Bones
+you have for
+$
+10,000 apiece. Cross the bridge to the south and move the boulder into place to reach a
+Zinc
+and a hidden
+Rare Candy
+. Double-back and go down the stairway, then move the second boulder to enter the valley, where you can find Veteran Vincent and a
+Star Piece
+. Head west to fight Hiker Stephen, then go south past Veteran Maya to get
+TM19
+(
+Telekinesis
+). Climb the stairway to the northeast to meet
+Crasher Wake
+. The Gym Leader from
+Sinnoh
+stares out to sea, singing to himself, before rushing off to participate in the
+Pokémon World Tournament
+. Cross the next bridge to collect the
+Magma Stone
+, which causes
+Heatran
+to appear in the deeper part of
+Reversal Mountain
+that
+Bianca
+was investigating. Go down the stairway and surf east to the
+P2 Laboratory
+.
+Route 17 (north)
+P2 Laboratory, Plasma Frigate
+The P2 Laboratory island
+The
+P2 Laboratory
+was built on a quiet island as a secret base for
+Team Plasma
+to conduct certain research experiments. With
+Ghetsis
+defeated, the
+Plasma Frigate
+is anchored here from now on.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Watchog
+B2
+W2
+Grass
+56
+20%
+Herdier
+B2
+W2
+Grass
+56
+20%
+Magneton
+B2
+W2
+Grass
+57-59
+15%
+Weezing
+B2
+W2
+Grass
+57-58
+15%
+Scrafty
+B2
+W2
+Grass
+57-58
+15%
+Klang
+B2
+W2
+Grass
+57-59
+15%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+56-59
+85%
+Magnezone
+B2
+W2
+Rustling grass
+59
+5%
+Stoutland
+B2
+W2
+Rustling grass
+59
+5%
+Klinklang
+B2
+W2
+Rustling grass
+59
+5%
+Surfing
+Frillish
+B2
+W2
+Surfing
+45-60
+100%
+Rippling water
+Alomomola
+B2
+W2
+Rippling water
+45-60
+95%
+Jellicent
+B2
+W2
+Rippling water
+50-60
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dubious Disc
+Inside the lab
+B2
+W2
+Master Ball
+From Colress upon his defeat
+B2
+W2
+A handful of Plasma Grunts can still be found on the ship.
+Colress
+apparently allowed them to stay as long as they bring out their Pokémon's potential by treating them well. Enter the back of the ship and take the warp panel to the room where
+Kyurem
+was imprisoned. Take the warp to the east to reach the Control Room, where you meet Colress again. He has continued with his research after
+Team Plasma
+'s defeat, and wishes to measure your Pokémon's strength in battle. His
+Magneton
+,
+Magnezone
+,
+Metagross
+, and
+Klinklang
+are all vulnerable to
+Fire
+- and
+Ground-type
+attacks,
+Rotom
+is immune to Ground-type attacks due to
+Levitate
+, but it can't stand
+Grass-type
+moves, and
+Beheeyem
+fears
+Ghost
+- and
+Dark-type
+attacks. Aim for their weaknesses to score massive damage!
+Pokémon Trainer
+Colress
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+14800
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+Eviolite
+Magneton
+Lv.
+72
+Thunder Wave
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Tri Attack
+Normal
+Special
+--
+Types:
+Electric
+Water
+Ability:
+Levitate
+Held item:
+Life Orb
+Rotom
+Lv.
+72
+Hydro Pump
+Water
+Special
+--
+Discharge
+Electric
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Substitute
+Normal
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Muscle Band
+Metagross
+Lv.
+72
+Agility
+Psychic
+Status
+--
+Meteor Mash
+Steel
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+Leftovers
+Beheeyem
+♂
+Lv.
+72
+Calm Mind
+Psychic
+Status
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Recover
+Normal
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+Wise Glasses
+Magnezone
+Lv.
+72
+Thunderbolt
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Hyper Beam
+Normal
+Special
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+Held item:
+Air Balloon
+Klinklang
+Lv.
+74
+Shift Gear
+Steel
+Status
+--
+Gear Grind
+Steel
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+If you win the battle, he rewards you with a
+Master Ball
+, the best Poké Ball variety that is guaranteed to catch any creature! After this battle, you can challenge Colress once per day.
+Leave the ship and the island behind, and surf southwest past Swimmer♀ Dara to reach the bay on
+Route 18
+. A
+PP Max
+and a hidden
+Prism Scale
+can be found to the south, while an
+Iron
+and a hidden
+PP Max
+are located in the tall grass north of Battle Girl Wendy. After collecting the items, return to
+Route 1
+and continue south to
+Nuvema Town
+.
+Nuvema Town
+Nuvema Town
+The easternmost town in
+Unova
+,
+Nuvema
+is home to the Juniper Pokémon Lab, where
+Professor Juniper
+researches Pokémon origins.
+Cheren
+and
+Bianca
+are originally from Nuvema Town.
+Items
+Item
+Location
+Games
+Zinc
+South of the Juniper Lab (hidden)
+B2
+W2
+King's Rock
+In the hero's bedroom
+B2
+W2
+Berry Juice
+From Cheren's father in the southeast house
+B2
+W2
+Super Rod
+From Cedric Juniper in the lab
+B2
+W2
+From Professor Juniper
+Permit
+Reward for seeing 297 Pokémon of the Unova Pokédex
+B2
+W2
+Oval Charm
+Reward for catching 297 Pokémon of the Unova Pokédex
+B2
+W2
+Shiny Charm
+Reward for catching 636 Pokémon of the National Pokédex
+B2
+W2
+The Hero's House
+The middle house is the home of the hero from two years ago. Inside you can meet their mother, who mistakes you for her child, who is off looking for a friend named
+N
+. Visit her anytime to get your Pokémon healed up. Before you leave, venture upstairs to the hero's bedroom to find an old
+King's Rock
+.
+Cheren and Bianca's Homes
+Bianca
+'s house stands to the southwest, while
+Cheren
+'s house stands to the southeast. Talk to their parents to hear stories about the two. Cheren's father gives you a
+Berry Juice
+, a thank-you gift for being his son's first Gym challenger.
+Juniper Pokémon Lab
+Cedric Juniper
+can be found in the lab. Talk to him to receive the
+Super Rod
+, which he meant to give you back in
+Aspertia
+. Use this high-tech fishing rod to hunt for Pokémon that live beneath the water's surface!
+Professor Juniper
+is here as well, hard at work. Visit her often to have her evaluate the progress of your
+Pokédex
+. After making substantial progress on the Pokédex, you can receive a few special items.
+Encounter the 297 Pokémon in the
+Unova Pokédex
+(excluding
+Victini
+,
+Keldeo
+,
+Meloetta
+, and
+Genesect
+) to earn the
+Permit
+, which lets you fly from
+Mistralton City
+to the far-off
+Nature Preserve
+.
+Catch the 297 Pokémon in the Unova Pokédex to receive the
+Oval Charm
+, which increases the chance of finding Eggs at the Day Care.
+Catch the 636 Pokémon of the
+National Pokédex
+to get the
+Shiny Charm
+, which increases the likelihood of encountering a
+Shiny Pokémon
+! The list excludes
+Mew
+,
+Celebi
+,
+Jirachi
+,
+Deoxys
+,
+Phione
+,
+Manaphy
+,
+Darkrai
+,
+Shaymin
+,
+Arceus
+,
+Victini
+,
+Keldeo
+,
+Meloetta
+, and
+Genesect
+.
+Be aware that there are four Pokémon that cannot be seen during your adventure. These include either
+Rufflet
+B2
+or
+Vullaby
+W2
+, either
+Skitty
+B2
+or
+Buneary
+W2
+and both the first and final forms of the first partner Pokémon that was not chosen by either you or
+Hugh
+(the second form is used by
+Rosa
+or
+Nate
+in
+Nimbasa
+against Ingo and Emmet).
+← Part 20
+Skyarrow Bridge, Pinwheel Forest, Nacrene City, Route 3, Striaton City, The Dreamyard
+Black 2 and White 2
+walkthrough
+Reversal Mountain, Nature Preserve, Pokémon League: Round 2
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

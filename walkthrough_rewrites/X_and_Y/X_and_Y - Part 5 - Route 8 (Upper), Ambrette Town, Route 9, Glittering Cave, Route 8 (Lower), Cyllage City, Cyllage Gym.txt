@@ -1,0 +1,44 @@
+Game: X_and_Y
+Part: 5
+Keywords: Route 8 (Upper), Ambrette Town, Route 9, Glittering Cave, Route 8 (Lower), Cyllage City, Cyllage Gym
+
+**Part 5 - Walkthrough Summary**
+
+**Route 8 (Upper)**
+- **Sina and Dexio**: After Connecting Cave, they upgrade your Pokédex.
+- **Stepping Stones**: Cross the muddy pit to reach Ambrette Town and find a Leaf Stone to the east.
+- **Sky Battle**: Challenge Howe, a Sky Trainer, by landing on the eastern stones.
+
+**Ambrette Town**
+- **Meet Serena/Calem**: At the stairway, they suggest visiting the Fossil Lab.
+- **Fossil Lab**: Learn about Mega Stones and meet the assistant who will later give you a fossil.
+- **Trading**: Trade a Poké Ball for a Dive Ball with the Punk Guy outside the Fossil Lab.
+- **Items**: TM94 (Rock Smash) from a girl near the Pokémon Center. Other items include Health Wing and Aerodactylite.
+
+**Route 9**
+- **Ride with Rhyhorn**: Use Rhyhorn to cross dangerous terrain to Glittering Cave.
+
+**Glittering Cave**
+- **Team Flare**: Battle multiple Team Flare Grunts. Look for items like Hard Stone and TM65 (Shadow Claw).
+- **Fossil Discovery**: Find the assistant at the end for a Jaw or Sail Fossil.
+- **Escape**: Use the Escape Rope to return to Ambrette Town.
+
+**Ambrette Town (Post-Cave)**
+- **Restore Fossils**: At the Fossil Lab, restore your fossils to receive Tyrunt or Amaura.
+- **Aquarium**: Get an Old Rod for fishing.
+
+**Route 8 (Lower)**
+- **Treasure Hunting**: Break rocks for items like Rare Candy and Heart Scale. Receive a Dowsing Machine from a Swimmer.
+
+**Cyllage City**
+- **Trading**: Trade a Luvdisc for a Steelix with Farris in the Pokémon Center.
+- **Cycle Shop**: Acquire a Bicycle.
+- **Cyllage Gym**: Prepare for a Rock-type Gym battle. Use Fighting, Ground, and Steel moves against Grant's Pokémon, Amaura and Tyrunt.
+- **Rewards**: Defeating Grant earns Cliff Badge and TM39 (Rock Tomb).
+
+**Tips for Cyllage Gym**:
+- Focus on Fighting, Ground, and Steel types.
+- Avoid Fire, Flying, and Bug types.
+- Use weak Fighting moves against Amaura for effective damage.
+
+This concise guide covers essential gameplay points, item locations, and battle strategies for progressing through Part 5.

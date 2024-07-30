@@ -1,0 +1,86 @@
+Game: Diamond_and_Pearl
+Part: 13
+Keywords: Fuego Ironworks, Floaroma Meadow (North), Sandgem Beach and Routes 219-221
+
+**Part 13 Walkthrough Summary: Surfing Locations and Key Items**
+
+**Introduction:**
+With the ability to use Surf, access new areas including Routes 218-221 and Fuego Ironworks.
+
+---
+
+**Locations Overview:**
+
+1. **Twinleaf Town**
+   - **Items:** Odd Keystone (in a tree by the pond, requires Surf)
+
+2. **Oreburgh Gate**
+   - **Trainers:** Veteran Grant (Lv. 33 Riolu, Lv. 34 Staraptor, Lv. 35 Graveler)
+   - Requires Rock Smash and Strength to access items.
+
+3. **Route 204 (South)**
+   - **Items:** HP Up (northeast pond), Sea Incense (southwest pond)
+
+4. **Ravaged Path**
+   - **Items:** Luck Incense (north end), TM03 (Water Pulse, northeast end)
+   - Requires Rock Smash.
+
+5. **Valley Windworks**
+   - **Items:** Max Elixir (hidden north of the fence), TM24 (Thunderbolt, behind the building)
+   - Surf north and east from the coast.
+
+6. **Eterna City**
+   - **Items:** PP Up (hidden in northeast corner near Route 211 exit)
+
+7. **Mt. Coronet (Southern Area)**
+   - **Items:** Protein (northern edge of large hill), Dawn Stone (southeast corner)
+   - Surf and explore various ponds.
+
+8. **Route 208**
+   - **Trainers:** Fisherman Cody (Gyarados, Barboach)
+
+9. **Route 209**
+   - **Items:** TM19 (Giga Drain, south of Hallowed Tower)
+
+10. **Route 214**
+    - **Items:** Rare Candy (northeast pond)
+
+11. **Route 213**
+    - **Items:** Big Pearl (southeast corner), Water Stone (eastern shallow water)
+    - Multiple trainers to battle.
+
+12. **Pastoria City**
+    - **Items:** Mystic Water (north of the boats)
+
+13. **Route 212**
+    - **Items:** Rose Incense (west of Pokémon Mansion), various hidden items in southern area.
+
+14. **Fuego Ironworks**
+    - **Items:** Fire Stone (given by Mr. Fuego), TM35 (Flamethrower, next to the boiler).
+    - Navigate spinners and battle trainers inside.
+
+15. **Floaroma Meadow (North)**
+    - **Items:** Miracle Seed (northwest), Leaf Stone (south of entrance), various hidden items.
+
+16. **Sandgem Beach**
+    - **Items:** Antidote (left side of shore).
+
+17. **Route 219**
+    - **Items:** Super Potion (on the island), battle against Tubers.
+
+18. **Route 220**
+    - **Items:** Ether (top part of first sandbar), Splash Plate (bottom part).
+
+19. **Route 221**
+    - Access to Pal Park (currently closed).
+    - Items include Protein and various berries.
+
+---
+
+**Notes:**
+- Use Surf to collect items and battle trainers.
+- Some areas require specific HMs (Rock Smash, Strength) to access all items.
+- Many hidden items can be found with the Dowsing Machine.
+
+**Next Steps:**
+- Return to the main storyline by flying to Jubilife City and prepare for the next part of your adventure.

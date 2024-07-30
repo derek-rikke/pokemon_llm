@@ -1,0 +1,660 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_11
+Keywords: Slateport Harbor, Lilycove City
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Slateport City
+1.1
+Slateport Harbor
+2
+Lilycove City
+2.1
+Pokémon Trainer Fan Club
+2.2
+Cove Lily Motel
+2.3
+Pokéblock Master's House
+2.4
+Rival Battle 4
+2.4.1
+Player chose Treecko
+2.4.2
+Player chose Torchic
+2.4.3
+Player chose Mudkip
+2.5
+Lilycove Department Store
+2.5.1
+1F: Service Counter, Lottery Corner
+2.5.2
+2F: Trainers' Zone
+2.5.3
+3F: Battle Collection
+2.5.4
+4F: TM Corner
+2.5.5
+5F: Decoration Floor
+2.5.6
+Rooftop Plaza
+2.6
+Lilycove Museum
+2.7
+Move Deleter's House
+2.8
+A Berry A Day
+Slateport City
+When you arrive in
+Slateport
+, head straight for the northeast part of town. Outside Slateport Harbor, you find
+Captain Stern
+wrapping up a TV interview in front of a small crowd. Afterwards, you catch up with him for a little chat where he informs you of his newest discovery. He's found an underwater cavern on
+Route 128
+, and believes it to be the den of a super-ancient Pokémon long though to have been extinct. Just then, you hear a voice booming out from a megaphone. It's
+Maxie
+R
+/
+Archie
+S
+, who mocks the captain and thanks him for the
+submarine
+.
+Slateport Harbor
+After rushing inside the building, you find
+Maxie
+R
+/
+Archie
+S
+and a Grunt standing near the sub, ready to depart. He accepts that you won't simply leave him to his plans, and wonders if you will visit their hideout in
+Lilycove City
+. But he's come too far to be stopped now, and he and the Grunt quickly escape in the sub.
+Lilycove City
+Lilycove City
+A port city,
+Lilycove
+mirrors
+Slateport
+with its impressive size, its scenic lighthouse, and its spacious harbor. The main attraction is the
+Lilycove Department Store
+, while the Master Rank
+Contest Hall
+,
+Lilycove Museum
+, and
+Cove Lily Motel
+are also located here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+On the peninsula in the southeast
+R
+S
+TM44
+(
+Rest
+)
+From a man in the easternmost house
+R
+S
+Poké Ball
+On a rock, in the shallow water (hidden)
+R
+S
+Heart Scale
+On a rock, on the southwest part of the beach (hidden)
+R
+S
+PP Up
+On a rock west of the Team Magma
+R
+/Aqua
+S
+Hideout (hidden)
+R
+S
+Pokémon Trainer Fan Club
+Members of the
+Pokémon Trainer Fan Club
+discuss popular Pokémon Trainers and Gym Leaders. After entering the
+Hall of Fame
+, several members announce themselves as your fans, as well.
+Cove Lily Motel
+The villainous team's hideout on the edge of town has kept most tourists away, bringing the
+Cove Lily Motel
+'s business to a halt. As a result, there's nothing of interest here at the moment. After resolving the conflict with the villainous team and entering the
+Hall of Fame
+, the Game Freak staff will visit the motel during their trip to Hoenn. The Game Designer will give Trainers the Poké
+Diploma
+after completing the
+Hoenn Pokédex
+.
+Pokéblock Master's House
+The Pokéblock Master's house stands to the north of the harbor. Talk to her and her family to learn tips on crafting potent
+Pokéblocks
+.
+Rival Battle 4
+When you approach the Department Store, you find
+May
+/
+Brendan
+waiting outside. She/He offers to battle you to determine which Trainer has been doing a better job of raising their Pokémon.
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+Brendan
+Lilycove City
+Ruby and Sapphire
+Reward:
+$
+2040
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+31
+Quick Attack
+Normal
+--
+Wing Attack
+Flying
+--
+Endeavor
+Normal
+--
+Double Team
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+32
+Mist
+Ice
+--
+Astonish
+Ghost
+--
+Water Pulse
+Water
+--
+Whirlpool
+Water
+--
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+32
+Headbutt
+Normal
+--
+PoisonPowder
+Poison
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+34
+Double Kick
+Fighting
+--
+Bulk Up
+Fighting
+--
+Sand-Attack
+Ground
+--
+Peck
+Flying
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+Brendan
+Lilycove City
+Ruby and Sapphire
+Reward:
+$
+2040
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+31
+Quick Attack
+Normal
+--
+Wing Attack
+Flying
+--
+Endeavor
+Normal
+--
+Double Team
+Normal
+--
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+32
+Headbutt
+Normal
+--
+PoisonPowder
+Poison
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+32
+Amnesia
+Psychic
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+34
+Mud Shot
+Ground
+--
+Mud Sport
+Ground
+--
+Foresight
+Normal
+--
+Take Down
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+Brendan
+Lilycove City
+Ruby and Sapphire
+Reward:
+$
+2040
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♂
+Lv.
+31
+Quick Attack
+Normal
+--
+Wing Attack
+Flying
+--
+Endeavor
+Normal
+--
+Double Team
+Normal
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+32
+Amnesia
+Psychic
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+32
+Mist
+Ice
+--
+Astonish
+Ghost
+--
+Water Pulse
+Water
+--
+Whirlpool
+Water
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+34
+Leaf Blade
+Grass
+--
+Screech
+Normal
+--
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+Once the battle ends, your friend heads back to
+Littleroot Town
+to continue working on her/his Pokédex.
+Lilycove Department Store
+Welcome to the
+Lilycove Department Store
+! This massive shopping center offers a wide array of merchandise, so Trainers can find almost any item for sale here.
+1F: Service Counter, Lottery Corner
+The
+first floor
+is a welcome center. The receptionist on the left greets visitors, while the one on the right runs the
+Pokémon Lottery Corner
+. Talk to her to draw a random Pokémon Loto Ticket. If the ticket's number matches up with any of your Pokémon's
+ID numbers
+, you win a prize! You can draw one Loto Ticket per day.
+Matching Digits
+Prize
+2 digits
+PP Up
+3 digits
+Exp. Share
+4 digits
+Max Revive
+5 digits
+Master Ball
+2F: Trainers' Zone
+The
+second floor
+offers items that are useful during battle. The left clerk sells Poké Balls and items to cure status ailments, while the right clerk sells Potions, Repels, and other items.
+3F: Battle Collection
+The
+third floor
+sells stat-enhancing items. The left clerk offers
+Vitamins
+that permanently boost their respective stat, like
+Protein
+. The right clerk offers
+Battle item
+that give a temporary boost in battle, like
+X Attack
+.
+4F: TM Corner
+The
+fourth floor
+offers eight different
+TMs
+for sale. Speak to the left clerk to buy TMs containing offensive moves, and the right clerk for TMs containing defensive moves.
+5F: Decoration Floor
+The
+fifth floor
+is dedicated to
+Secret Base
+fanatics. Here you'll find a wide selection of
+Decorations
+to deck out your Base, including dolls, mats, posters, and cushions.
+Rooftop Plaza
+After entering the
+Hall of Fame
+, the store occasionally holds a
+major clearance sale
+. A special selection of Secret Base Decorations are offered, with items listed anywhere from
+$
+200 to
+$
+10,000. Though this sale rarely occurs, many of the items available for purchase cannot be obtained anywhere else.
+Lilycove Museum
+The
+Lilycove Museum
+stands in the northwest part of town. The museum's curator initially blocks the stairs to the second floor because the upper level is empty. He is still searching for modern and vibrant artwork to display there, and asks you to search for such artwork. If you happen to win a Master Rank
+Pokémon Contest
+with at least 800 points, an artist will approach you saying that he's done a painting that might even look good in a museum, at which point you direct him to the Lilycove Museum. If you collect one painting for each of the five Contest categories, the curator will reward you with a
+Glass Ornament
+for your
+Secret Base
+.
+Move Deleter's House
+The first house to the east of the Department Store is home to the
+Move Deleter
+, an absent-minded man with the power to make a Pokémon forget any move. This is the only way for a Pokémon to forget an
+HM
+move. Unlike the
+Move Reminder
+in
+Fallarbor Town
+, the Move Deleter's services are free of charge.
+A Berry A Day
+Speak to the Gentleman to the east of the Move Deleter's house to get one random Berry. This kind old man will give you either a
+Cheri
+,
+Chesto
+,
+Pecha
+,
+Rawst
+,
+Aspear
+,
+Leppa
+,
+Oran
+,
+Persim
+,
+Lum
+, or
+Sitrus Berry
+every day.
+← Part 10
+Routes 120 and 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+Ruby and Sapphire
+walkthrough
+Team Magma/Aqua Hideout, Route 124
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

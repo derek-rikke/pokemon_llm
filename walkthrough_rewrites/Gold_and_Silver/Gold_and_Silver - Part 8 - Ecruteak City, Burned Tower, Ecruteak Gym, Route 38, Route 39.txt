@@ -1,0 +1,39 @@
+Game: Gold_and_Silver
+Part: 8
+Keywords: Ecruteak City, Burned Tower, Ecruteak Gym, Route 38, Route 39
+
+### Part 8 Walkthrough for Pokémon Gold and Silver
+
+#### Ecruteak City
+- **Explore:** Ecruteak honors traditions with its architecture and ties to legendary Pokémon.
+- **Visit Pokémon Center:** Meet Bill for Time Capsule trades (operational in 24 hours).
+- **Ecruteak Dance Theater:** Battle the Kimono Girls (Eevee evolutions) in any order. After defeating them, receive **HM03 (Surf)** from a Gentleman.
+
+#### Burned Tower
+- **Location:** Northwest of Ecruteak. Ambushed by Silver upon entry.
+- **Rival Battle 3:** Silver's team includes Magnemite, Haunter, and Zubat. Use Fire, Ground, Fighting, Psychic, or Dark-type moves.
+- **Clear a Path:** Use **Rock Smash** to access items and trainers. Look for **Burn Heal** and **HP Up**.
+- **Legendary Pokémon:** After battling, encounter three mysterious Pokémon that flee.
+
+#### Tin Tower
+- **Access:** Requires Fog Badge to enter. A special item is needed to explore further.
+
+#### Ecruteak Gym
+- **Leader:** Morty (Ghost-type). Use Dark or Ghost-type moves to counter his Pokémon.
+- **Battle Strategy:** Beware of moves like Spite, Curse, Hypnosis. Defeat Morty to earn the **Fog Badge** and **TM30 (Shadow Ball)**.
+
+#### Route 38
+- **Trainers:** Challenge trainers like Sailor Harry and Beauty Valerie.
+- **Available Pokémon:** Look for Snubbull, Miltank, and others in grass.
+
+#### Route 39
+- **Moomoo Farm:** Speak to the farmer about the sick Miltank. Feed it 7 Berries to heal it and receive **TM13 (Snore)**. Moomoo Milk available for purchase afterward.
+
+### Key Items
+- **Burn Heal:** Found in Burned Tower.
+- **HM03 (Surf):** Obtain from the Ecruteak Dance Theater.
+- **TM30 (Shadow Ball):** Reward for defeating Morty.
+- **TM13 (Snore):** Reward for healing the Miltank.
+
+### Summary
+Progress through Ecruteak City, challenge the gym, and assist at Moomoo Farm to continue your journey in Johto.

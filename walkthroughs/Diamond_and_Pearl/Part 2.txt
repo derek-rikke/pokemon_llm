@@ -1,0 +1,1451 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_2
+Keywords: Route 202, Jubilife City, Route 204, Ravaged Path, Route 203, Oreburgh Gate, Oreburgh City
+
+Walkthrough Text:
+Contents
+1
+Route 202
+2
+Jubilife City
+2.1
+Trainers' School
+2.2
+Pokétch Company
+2.3
+Later...
+2.3.1
+Global Trade Station
+2.3.2
+Jubilife TV
+2.4
+Additional Items
+3
+Route 204
+4
+Ravaged Path
+5
+1st Rival Battle
+6
+Route 203
+7
+Oreburgh Gate
+8
+Oreburgh City
+8.1
+Oreburgh Mining Museum
+8.2
+Oreburgh Pokémon Center
+Route 202
+Route 202
+When you first reach
+Route 202
+,
+Professor Rowan
+'s assistant (
+Lucas
+/
+Dawn
+) will give a demonstration on how to catch Pokémon by catching a wild
+Bidoof
+. The assistant then gives you five
+Poké Balls
+. The Pokémon that Lucas/Dawn has is the
+first partner Pokémon
+that neither you nor
+Barry
+choose earlier. Before departing, Lucas/Dawn will mention that it is easier to capture a
+wild Pokémon
+if you lower the Pokémon's
+Hit Points
+more, and even easier if you inflict a
+status condition
+. Now that you can capture Pokémon, you can also
+trade
+between games through the
+Union Room
+.
+If the
+player
+chose
+Turtwig
+Tutorial:
+If the
+player
+chose
+Chimchar
+Tutorial:
+If the
+player
+chose
+Piplup
+Tutorial:
+Pokémon Trainer
+and
+Pokémon Trainer
+Lucas
+Dawn
+Route 202
+Diamond and Pearl
+Reward:
+None
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+and
+Pokémon Trainer
+Lucas
+Dawn
+Route 202
+Diamond and Pearl
+Reward:
+None
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+and
+Pokémon Trainer
+Lucas
+Dawn
+Route 202
+Diamond and Pearl
+Reward:
+None
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Now that you can now use Poké Balls, it is recommended that you start catching a few Pokémon, such as
+Starly
+or
+Shinx
+. You will be facing
+Barry
+soon and his first partner Pokémon will be at the point where it will have a move of its own type in its arsenal, so your first partner Pokémon may need the extra backup.
+Then you are off, having some of your first battles in the game. This is the first route where you can
+battle
+Trainers
+. There are three Trainers here, none of which have a Pokémon stronger than
+level
+5.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+2-4
+30%
+Shinx
+D
+P
+Pt
+Grass
+3-4
+30%
+Starly
+D
+P
+Pt
+Grass
+2-4
+30%
+40%
+20%
+Kricketot
+D
+P
+Pt
+Grass
+3-4
+10%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Youngster
+Tristan
+ユウタ
+Yūta
+Reward:
+$
+80
+Starly
+♂
+Lv.
+5
+No item
+Lass
+Natalie
+ルミ
+Rumi
+Reward:
+$
+48
+Bidoof
+♀
+Lv.
+3
+No item
+Bidoof
+♀
+Lv.
+3
+No item
+Youngster
+Logan
+カツミ
+Katsumi
+Reward:
+$
+80
+Shinx
+♂
+Lv.
+5
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Poké Ball
+×5
+Obtained from
+Dawn
+/
+Lucas
+after a demonstration on catching Pokémon
+D
+P
+Potion
+Patch of grass just west of northern terminus
+D
+P
+Catching
+Bidoof
+and
+evolving
+it into a
+Bibarel
+(a
+Normal
+/
+Water
+-type Pokémon) is probably the best
+HM mule
+in the game because it can learn most of the
+HMs
+in the game.
+Shinx
+is a good pickup as a solid choice that evolves into
+Luxio
+and then
+Luxray
+. Shinx helps against
+Water-type
+and
+Flying-type
+Pokémon if you picked
+Turtwig
+or
+Chimchar
+, and helps
+Piplup
+out as well, but Shinx's evolutionary line focuses on
+Attack
+instead of
+Special Attack
+, so
+Special-based moves
+such as
+Discharge
+that it learns quite late and
+Thunderbolt
+will not deal much damage. Shinx and its evolutions can learn some
+Physical-based
+Electric-type
+moves such as
+Spark
+and
+Thunder Fang
+, as well as two
+Dark-type
+moves,
+Bite
+and
+Crunch
+. These moves don't come early, though.
+Kricketot
+is hard to use even when it evolves into
+Kricketune
+.
+Starly
+is one of the best
+Flying-type
+Pokémon in the game, especially when it evolves into
+Staravia
+and then
+Staraptor
+, getting
+Close Combat
+and
+Brave Bird
+, plus being able to learn
+Fly
+and having very high
+Attack
+.
+Jubilife City
+Jubilife City
+The Digital Watch app.
+Continue on to
+Jubilife City
+, where
+Lucas
+/
+Dawn
+is waiting to tell you that your rival
+Barry
+is at the
+Trainers' School
+. Until you complete your missions here you cannot go east to
+Route 203
+. However, you can go north to
+Route 204
+to face more wild Pokémon and catch a
+Budew
+, which can help a little with your first
+Gym
+match, especially if you chose
+Chimchar
+.
+Trainers' School
+The building west of the
+Pokémon Center
+is the
+Trainers' School
+. Here, you meet Barry and give him the
+Parcel
+, which contains two
+Town Maps
+. Barry gives you one of them then leaves for
+Oreburgh City
+. There are two
+Pokémon Trainers
+that can be fought here, in the northeast corner of the school. After you beat them, you will receive a
+TM10
+(
+Hidden Power
+).
+Trainers
+Trainer
+Pokémon
+School Kid
+Harrison
+Reward:
+$
+120
+Abra
+♂
+Lv.
+6
+No item
+School Kid
+Christine
+Reward:
+$
+120
+Abra
+♂
+Lv.
+6
+No item
+Pokétch Company
+The
+Pokétch Company
+makes a new appliance called the Pokémon Watch, or
+Pokétch
+for short. After you receive the
+Town Map
+, the owner of the company, who is in the center of town, will approach you. He tells you to bring him three
+Coupons
+from the
+clowns
+around the city, and he will give you a Pokétch. The clowns ask simple yes/no-questions about Pokémon (and the answer is always "Yes"). When you get the question correct, you receive the Coupon. After you get all three Coupons, return to the man to receive the Pokétch. You can get the three Coupons in any order because you can talk to the clowns in any order you like.
+The Pokétch building is the northwest corner of the city. If you return after you receive an odd-numbered Badge (i.e., the
+Coal Badge
+,
+Cobble Badge
+,
+Relic Badge
+, and
+Icicle Badge
+), you can talk to the owner inside the building to receive a new
+application (Apps)
+for your Pokétch. Out of those you can receive from him, the
+Marking Map
+is one of the most useful apps because it can be used to track
+Roaming Pokémon
+.
+Later...
+Global Trade Station
+The building in the south western area is the
+Global Trade Station
+, where you can connect with other players worldwide. However, to enter the building,
+Coal Badge
+is required.
+Jubilife TV
+The building that is west of the northern exit to
+Route 204
+is the
+Jubilife TV
+station. For now, a
+Clown
+of the
+Pokétch Company
+Campaign blocks the entrance. You may enter after receiving the Coal Badge and the
+Fashion Case
+. Refer to
+Section 3
+for more information.
+Additional Items
+Inside the building west of Jubilife City that leads to
+Route 218
+, you can receive the
+Old Rod
+from a
+Fisherman
+, who also offers to teach you
+how to fish
+. You can't do anything on Route 218 but fish until you get
+Surf
+, but you can catch a
+Magikarp
+here with your Old Rod. This is a useful Pokémon if you have enough patience, because while Magikarp is the weakest Pokémon ever, it evolves into the brutally powerful
+Gyarados
+, which is a great addition to a team and can learn
+Surf
+,
+Waterfall
+,
+Strength
+, and
+Rock Smash
+.
+Back in Jubilife City, the apartment east of the TV station has a blond-haired girl on the first floor that will give you a
+Quick Claw
+.
+The following items are available in Jubilife City:
+Items
+Item
+Location
+Games
+Quick Claw
+Obtained from girl on ground floor of Jubilife Condominiums
+D
+P
+TM10
+(
+Hidden Power
+)
+Obtained after defeating
+School Kids
+in
+Trainers' School
+D
+P
+Parlyz Heal
+Just outside the southern entrance of the town within the small indent to the left of the stairs (
+Hidden
+)
+D
+P
+Town Map
+Obtained from rival after delivering Parcel to him, in the Trainers' School
+D
+P
+Old Rod
+Obtained from fisherman in gate
+D
+P
+Coupon
+1. Obtained from
+Clown
+located between
+Poké Mart
+and
+Pokémon Center
+2. Obtained from Clown located in front of the
+Pokétch Company
+headquarters
+3. Obtained from Clown located in front of the
+Jubilife TV
+Station
+D
+P
+Pokétch
+Obtained from inventor of the Pokétch after handing him all three coupons
+D
+P
+Once you have the
+Town Map
+and
+Pokétch
+, you can head east to
+Route 203
+, though you may want to head north to
+Route 204
+and catch some more Pokémon first.
+Route 204
+Route 204
+Here, you can catch some Pokémon and battle some Trainers, but you can't continue through the
+Ravaged Path
+until you get
+Rock Smash
+and the Coal Badge. (See
+Section 3 of this walkthrough
+.)
+Budew
+is a
+Grass
+/
+Poison
+-type Pokémon and the newly added pre-evolution of Roselia. It evolves into
+Roselia
+if leveled up during the day when its
+friendship
+is high, and will evolve again into the new final form
+Roserade
+when a
+Shiny Stone
+is used. Roselia evolutionary line has very high
+Special Attack
+and can learn the whole line of
+Absorb
+. Budew starts of with Absorb, picks up
+Mega Drain
+and eventually
+Giga Drain
+if evolved. Be sure to evolve it because Budew doesn't learn any good moves after picking up Mega Drain, unless it evolves. Try to let Budew evolve at or before Level 19 because that's when Roselia learns
+Magical Leaf
+. Afterwards, Roselia can learn
+Petal Dance
+. When Roselia evolves into Roserade, it doesn't learn any more moves, but its Special Attack will skyrocket. Roselia's evolutionary line can also learn
+SolarBeam
+and
+Sludge Bomb
+(a
+Poison-type
+move that has high base power and may poison the opponent), through
+TMs
+, making use of their high Sp. Atk.
+You can encounter Zubat at night, or if you head into Ravaged Path.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+4-6
+25%
+Shinx
+D
+P
+Pt
+Grass
+4-5
+15%
+Starly
+D
+P
+Pt
+Grass
+4-6
+25%
+35%
+25%
+Kricketot
+D
+P
+Pt
+Grass
+4
+10%
+0%
+10%
+Budew
+D
+P
+Pt
+Grass
+3-6
+25%
+25%
+15%
+Zubat
+D
+P
+Pt
+Grass
+4
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Lass
+Sarah
+ナオ
+Nao
+Reward:
+$
+112
+Bidoof
+♀
+Lv.
+7
+No item
+Youngster
+Tyler
+テルキ
+Teruki
+Reward:
+$
+80
+Magikarp
+♂
+Lv.
+5
+No item
+Starly
+♂
+Lv.
+5
+No item
+Lass
+Samantha
+メイ
+May
+Reward:
+$
+112
+Budew
+♀
+Lv.
+7
+No item
+Items
+Item
+Location
+Games
+Parlyz Heal
+Above the pond in the southeast
+D
+P
+Ravaged Path
+You cannot proceed any further because of the rugged rocks. There are more Pokémon for you to catch: Zubat and Geodude. You should be familiar with them.
+Zubat
+is a
+Poison
+/
+Flying
+-type Pokémon. Zubat will evolve into
+Golbat
+starting at Level 22, then into
+Crobat
+when Golbat has high friendship. Zubat starts off with only
+Leech Life
+and is stuck with just that until it gets
+Bite
+and
+Wing Attack
+. Golbat will pick up
+Mean Look
+and
+Poison Fang
+(a Poison-type move that may inflict bad poison). Crobat has the same moveset as Golbat, except that it can relearn
+Cross Poison
+(a Poison-type move that has a high critical hit ratio) and learn
+Fly
+through the
+HM
+. Zubat will struggle a lot early on, but it will be more useful when it evolves into Golbat. You should know that Zubat evolutionary line has high Speed. When Golbat evolves again into Crobat, it be able to will outspeed most of the Pokémon you'll fight.
+Geodude
+is a
+Rock
+/
+Ground
+-type Pokémon. Geodude will evolve into
+Graveler
+starting at Level 25, then into
+Golem
+when traded. Geodude evolutionary line has high Attack and very high Defense, but low Special Attack and Special Defense. It is also very slow unless
+Rock Polish
+is used to boost its Speed. It can learn good Rock-type and Ground-type moves, such as
+Stone Edge
+and
+Earthquake
+by leveling up, as well as
+Rock Slide
+through
+TM80
+. It can also launch suicide attacks with
+Selfdestruct
+and
+Explosion
+. However, it has two major weaknesses: Water-type and Grass-type attacks are its nightmares.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+3-6
+78%
+Psyduck
+D
+P
+Pt
+Cave
+5
+2%
+Geodude
+D
+P
+Pt
+Cave
+5
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1st Rival Battle
+Make sure that you heal your Pokémon before proceeding, because you will have a tough fight very soon.
+It is also recommended that you do not proceed unless your Pokémon are trained to Level 7 or above.
+Now head east towards
+Route 203
+, where
+your rival
+will meet you and challenge you to a battle.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+Pokémon Trainer
+Barry
+Route 203
+Diamond and Pearl
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+Lv.
+9
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Barry
+Route 203
+Diamond and Pearl
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+Lv.
+9
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Barry
+Route 203
+Diamond and Pearl
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+Lv.
+9
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+return to the Pokémon Center to heal your Pokémon
+, then continue on.
+Route 203
+Route 203
+Go along the path, battling the Trainers along it. Head east to reach the
+Oreburgh Gate
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+4-6
+15%
+Shinx
+D
+P
+Pt
+Grass
+4-5
+25%
+Abra
+D
+P
+Pt
+Grass
+4-5
+15%
+Starly
+D
+P
+Pt
+Grass
+4-6
+35%
+45%
+25%
+Kricketot
+D
+P
+Pt
+Grass
+4
+10%
+0%
+10%
+Zubat
+D
+P
+Pt
+Grass
+5
+0%
+0%
+10%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Youngster
+Michael
+トモキ
+Tomoki
+Reward:
+$
+80
+Bidoof
+♂
+Lv.
+5
+No item
+Zubat
+♂
+Lv.
+5
+No item
+Youngster
+Dallas
+マサル
+Masaru
+Reward:
+$
+112
+Kricketot
+♂
+Lv.
+7
+No item
+Lass
+Kaitlin
+サユリ
+Sayuri
+Reward:
+$
+64
+Bidoof
+♀
+Lv.
+4
+No item
+Starly
+♀
+Lv.
+4
+No item
+Budew
+♀
+Lv.
+4
+No item
+Youngster
+Sebastian
+ミツオ
+Mitsuo
+Reward:
+$
+112
+Machop
+♂
+Lv.
+7
+No item
+Lass
+Madeline
+チカ
+Chika
+Reward:
+$
+80
+Starly
+♀
+Lv.
+5
+No item
+Bidoof
+♀
+Lv.
+5
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Poké Ball
+Middle of the first small ledge from the west
+D
+P
+Repel
+North bank of pond
+D
+P
+The only new find is
+Abra
+, which is a
+Psychic-type
+Pokémon. Abra will struggle a lot at first (even more troublesome than Zubat) due to knowing only
+Teleport
+. It is not even an attacking move— this move is used for escaping from battle. However, Abra will be powerful if you evolve it into
+Kadabra
+starting from Level 16, or even into
+Alakazam
+by
+trading it
+. Kadabra and Alakazam are able to pick up
+Psychic
+,
+Future Sight
+by leveling up and
+Dream Eater
+through TM. Abra evolutionary line has high Special Atk and Speed, but low Defense. Abra is difficult to catch because it will always use
+Teleport
+unless you use
+Taunt
+, which
+Chimchar
+will learn at level 9 (be careful that Abra will
+Struggle
+then). If you are unable or too impatient to catch Abra, a woman in
+Oreburgh City
+will trade you one for a
+Machop
+.
+To avoid wild Pokémon, you can use the
+Repel
+found on the north bank of the pond. In the future, you will be able to buy Repels from
+Poké Marts
+.
+Oreburgh Gate
+Oreburgh Gate
+Enter the cave on the east and you will find yourself in
+Oreburgh Gate
+. The
+Hiker
+at the entrance stops you and gives you
+HM06
+(
+Rock Smash
+), but you can't use it outside battle until you get the
+Coal Badge
+. Then fight the two Trainers inside the cave. There is nothing to do here until except fight the two Trainers and catch a
+Geodude
+or
+Zubat
+until you have your first Badge. Head east to
+Oreburgh City
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Zubat
+D
+P
+Pt
+Cave
+5-8
+20%
+Geodude
+D
+P
+Pt
+Cave
+4-8
+80%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Camper
+Curtis
+Reward:
+$
+112
+Shinx
+♂
+Lv.
+7
+No item
+Picnicker
+Diana
+Reward:
+$
+80
+Budew
+♀
+Lv.
+5
+No item
+Psyduck
+♀
+Lv.
+5
+No item
+Items
+Item
+Location
+Games
+HM06
+(
+Rock Smash
+)
+Obtained by hiker from the entrance
+D
+P
+Oreburgh City
+Oreburgh City
+When you enter the city, a
+Youngster
+shows you to the
+Oreburgh Gym
+. You meet your rival
+Barry
+, but he tells you that you are too late to battle the
+Gym Leader
+,
+Roark
+. He mentions that Roark has left for the
+Oreburgh Mine
+.
+If you explore around town, you can find a woman in a condominium west of the
+Poké Mart
+who will trade you an
+Abra
+for a
+Machop
+. If you wanted an Abra but were unable to catch one on
+Route 203
+, you can find a Machop on
+Route 207
+(directly north of Oreburgh City) to trade. You can also find different types of
+Poké Balls
+from different people around town. One of these, a
+Heal Ball
+, can be obtained in the same building as the woman who wants a Machop by showing the man on the second floor a
+Zubat
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Abra
+D
+P
+Pt
+Trade
+Machop
+Same as the traded Pokémon
+Only one
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dusk Ball
+Building closest to the
+Oreburgh Gate
+entrance, from the girl on the second floor
+D
+P
+Heal Ball
+Building west of the
+Poké Mart
+, from the man on the second floor after being shown a
+Zubat
+D
+P
+Great Ball
+Building south of the
+Oreburgh Mining Museum
+, from the boy on the second floor
+D
+P
+Super Potion
+From the worker in southeast corner near the
+Oreburgh Mine
+entrance
+D
+P
+Stardust
+At the left corner of the slag heap in the mining section
+(hidden)
+D
+P
+Pal Pad
+Obtained from
+Teala
+in the basement of the
+Pokémon Center
+D
+P
+Oreburgh Mining Museum
+The only important building in Oreburgh City is the
+Oreburgh Mining Museum
+. When you retrieve a
+Fossil
+from the
+Underground
+later on, you can talk to the man at the counter in the building to revive the Fossil and retrieve whichever Pokémon is associated with that Fossil. Each version determines what kind of Fossil is commonly found, aside from the
+Old Amber
+.
+Oreburgh Pokémon Center
+Though all
+Pokémon Centers
+have a
+Wi-Fi Club
+in their basements, Oreburgh's is the first one you can access. An attendant named
+Teala
+will give you a
+Pal Pad
+and explain how it works the first time you enter. You can now battle and
+trade
+with other players using their
+Friend Code
+. Additionally, a
+Psychic
+on the ground floor will ask you which kind of Trainer you want to be, presenting you with four options to choose from. This becomes your
+Trainer class
+while you are in a
+Union Room
+, and is otherwise assigned randomly.
+Now head north to
+Route 207
+to catch a
+Machop
+, or just continue south to the
+Oreburgh Mine
+.
+← Part 1
+In the Beginning, Twinleaf Town, Verity Lakefront, Lake Verity, Route 201, Sandgem Town, Back to Twinleaf Town
+Diamond and Pearl
+walkthrough
+Route 207, Oreburgh Mine, Oreburgh Gym, Oreburgh Gate (Basement), Jubilife City, Route 204 (South, North), Ravaged Path
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

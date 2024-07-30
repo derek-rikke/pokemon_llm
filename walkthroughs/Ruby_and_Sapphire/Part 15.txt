@@ -1,0 +1,951 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_15
+Keywords: Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 126
+1.1
+Sootopolis City
+1.1.1
+Rest Up
+1.1.2
+Catch Up with Steven
+1.1.3
+Cave of Origin
+1.1.3.1
+Entrance
+1.1.3.2
+1F
+1.1.3.3
+B1F
+1.1.3.4
+B2F
+1.1.3.5
+B3F
+1.1.3.6
+B4F
+1.1.3.6.1
+VS Groudon
+R
+1.1.3.6.2
+VS Kyogre
+S
+1.1.4
+Aftermath
+1.1.5
+Sootopolis Gym
+Route 126
+Route 126
+Route 126 (underwater)
+The waters of
+Route 126
+surround a massive crater, inside of which lies
+Sootopolis City
+. There's no way to reach the city from the surface, so the entrance must be hidden beneath the waves.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Barry
+Reward:
+$
+280
+Gyarados
+♂
+Lv.
+35
+No item
+Swimmer
+Dean
+Reward:
+$
+264
+Carvanha
+♂
+Lv.
+33
+No item
+Wingull
+♂
+Lv.
+33
+No item
+Carvanha
+♂
+Lv.
+33
+No item
+Swimmer
+Brenda
+Reward:
+$
+280
+Goldeen
+♀
+Lv.
+35
+No item
+Requires
+Dive
+Swimmer
+Nikki
+Reward:
+$
+256
+Marill
+♀
+Lv.
+32
+No item
+Wailmer
+♀
+Lv.
+32
+No item
+Spheal
+♀
+Lv.
+32
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Water's surface
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Underwater
+Pokémon
+Games
+Location
+Levels
+Rate
+Clamperl
+R
+S
+E
+Seaweed
+20-35
+65%
+Chinchou
+R
+S
+E
+Seaweed
+20-30
+30%
+Relicanth
+R
+S
+E
+Seaweed
+30-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Green Shard
+Northwest corner of the route, accessible through an underwater passage from Route 124 (requires
+Dive
+)
+R
+S
+Underwater
+Stardust
+Northeast dark spot (hidden)
+R
+S
+Ultra Ball
+North-central dark spot (hidden)
+R
+S
+Heart Scale
+Northwest dark spot (hidden)
+R
+S
+Yellow Shard
+Far western area, in a clearing in a patch of seaweed (hidden)
+R
+S
+Pearl
+Far western area, in a clearing in a patch of seaweed (hidden)
+R
+S
+Iron
+Far western area, in a clearing in a patch of seaweed (hidden)
+R
+S
+Blue Shard
+Southwest area, in a patch of seaweed (hidden)
+R
+S
+Big Pearl
+Among the seaweed on the crater's southeast side (hidden)
+R
+S
+Sootopolis City
+Sootopolis City
+Sootopolis City
+rises from the crater of an inactive volcano and can only be reached by sea or sky. The
+final Gym
+in the
+Hoenn League
+is located here, but there are more urgent matters to attend to first. With
+Hoenn
+'s weather becoming increasingly oppressive, you must race to the
+Cave of Origin
+and stop the super-ancient Pokémon from destroying the entire region!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+R
+S
+E
+Surfing
+5-35
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+100%
+Magikarp
+R
+S
+E
+Fishing
+Super Rod
+30-35
+80%
+Gyarados
+R
+S
+E
+Fishing
+Super Rod
+5-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+After clearing the Cave of Origin
+Ether
+House northeast of the Pokémon Center, from the Fisherman if shown a large
+Barboach
+R
+S
+Elixir
+House northeast of the Pokémon Center, from the Hiker if shown a large
+Shroomish
+R
+S
+Wailmer Doll
+From the girl in the house east of the Pokémon Center
+R
+S
+TM31
+(
+Brick Break
+)
+From the Black Belt in the northwestern-most house
+R
+S
+After defeating the Sootopolis Gym
+TM03
+(
+Water Pulse
+)
+From Wallace upon his defeat
+R
+S
+Rest Up
+The recent shift in weather has frightened all of the city's residents, and they've all taken shelter inside their homes. Their doors are locked tight, so you can't visit with most of the locals right now. The
+Sootopolis Gym
+, on an island near the crater entrance, is also closed, so instead Surf eastward to reach the Pokémon Center and rest up for the trial ahead.
+Catch Up with Steven
+Surf westward past the Gym to a grassy shore. Climb the north stairway and visit the Poké Mart to stock up on
+Ultra Balls
+for the cave ahead. Continue north until you run into
+Steven
+talking with another man. The man introduces himself as
+Wallace
+, Sootopolis Gym Leader and protector of the
+Cave of Origin
+. Seeing your
+Red Orb
+R
+/
+Blue Orb
+S
+, he asks that you follow him. He leads you and Steven to the cave entrance, where the two of them assure you that with the Orb you hold and your Pokémon by your side, it will finally become possible to stand up to the forces of nature!
+Cave of Origin
+Cave of Origin, 1F
+Cave of Origin, B1F
+Cave of Origin, B2F
+Cave of Origin, B3F
+Cave of Origin, B4F
+R
+Cave of Origin, B4F
+S
+The
+Cave of Origin
+is said to hold a great source of ancient power. Whatever lies in its uncharted depths, it has drawn the attention of the super-ancient Pokémon. It must be stopped, and only you can save Hoenn from its destructive influence!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrance
+Zubat
+R
+S
+E
+Cave
+28-35
+90%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+1F-B3F
+Zubat
+R
+S
+E
+Cave
+30-34
+60%
+Mawile
+R
+S
+E
+Cave
+30, 32, 34
+30%
+Sableye
+R
+S
+E
+Cave
+30, 32, 34
+30%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+Special Pokémon
+Groudon
+R
+S
+E
+Only one
+45
+One
+Kyogre
+R
+S
+E
+Only one
+45
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM07
+(
+Waterfall
+)
+B3F, northwest corner
+R
+S
+Entrance
+There's not a moment to lose! Sprint down the entry hall to reach the cave's interior. While
+Flash
+is recommended, the path to the final chamber is straightforward enough that it isn't necessary.
+1F
+Head in a clockwise direction to reach the ladder in the northeast.
+B1F
+Follow the tunnel to the ladder on the west side.
+B2F
+Great quakes continue to rock the cave as you descend to its lower floors, and a thick mist begins to swirl around you. Race to the south side to find the next ladder.
+B3F
+Hurry northward to find
+HM07
+(
+Waterfall
+) in the northwest corner, and climb down the ladder in the northeast.
+B4F
+When you reach the pool's edge in front of the super-ancient Pokémon, the Red Orb
+R
+/Blue Orb
+S
+suddenly begins to glow. Its power dispels the mist, and causes the ancient creature to attack!
+VS Groudon
+R
+Groudon
+'s
+Drought
+Ability summons
+harsh sunlight
+until it is replaced. This strengthens all
+Fire
+moves by 50%, and weakens all
+Water
+moves by the same amount. This behemoth specializes in physical
+Attack
+and
+Defense
+, and is able to boost these stats further with
+Bulk Up
+, making it an incredibly formidable opponent. Begin with
+Grass
+- and
+Ice-type
+moves to deal serious damage, then follow up with
+Rock
+and
+Poison
+attacks to wear it down further. Bring it down before all of
+Hoenn
+goes up in flames!
+Type:
+Ground
+Unknown
+Ability:
+Drought
+Held item:
+None
+Groudon
+Lv.
+45
+Slash
+Normal
+--
+Bulk Up
+Fighting
+--
+Earthquake
+Ground
+--
+Fire Blast
+Fire
+--
+VS Kyogre
+S
+Kyogre
+'s
+Drizzle
+Ability summons
+a rainstorm
+until it is replaced. This strengthens all
+Water
+moves by 50%, and weakens all
+Fire
+moves by the same amount. This leviathan excels in
+Special Attack
+and
+Special Defense
+, and is able to boost these stats further with
+Calm Mind
+, making it an incredibly formidable opponent. Start off with
+Grass
+- and
+Electric-type
+moves to deal serious damage, then follow up with Fire and
+Ice
+attacks to wear it down further. Bring it down before all of
+Hoenn
+falls beneath the waves!
+Type:
+Water
+Unknown
+Ability:
+Drizzle
+Held item:
+None
+Kyogre
+Lv.
+45
+Body Slam
+Normal
+--
+Calm Mind
+Psychic
+--
+Ice Beam
+Ice
+--
+Hydro Pump
+Water
+--
+Aftermath
+With the super-ancient Pokémon's rampage put to an end, the skies quickly clear and the climate returns to normal. Steven can be found waiting for you in front of the Gym, where he thanks you for all you've done. He also thanks you on behalf of Wallace, who has returned to his Gym. Steven encourages you to challenge the final Gym Leader before flying off on his Pokémon's back.
+Sootopolis Gym
+Sootopolis Gym, 1F
+Sootopolis Gym, B1F
+Sootopolis City Pokémon Gym
+Leader: Wallace
+Artist, and lover of water
+The
+Sootopolis Gym
+Specializes in
+Water-type
+Pokémon.
+Grass
+- and
+Electric-type
+moves are best here, while
+Fire
+,
+Ground
+, and
+Rock
+Pokémon may struggle. The Gym features three platforms where each icy tile must be traversed once in order to defrost the next stairway. Walking over an ice tile once cracks it; passing by a second time shatters it, leaving you to fall to the Gym's snowy underbelly where plenty of Trainers await.
+The first puzzle is a 3×3 grid of ice, with two icy rocks as obstacles. Starting on the south-central tile, move →1, ↑1, ←2, ↑1 and →1. This reveals the first stairway.
+The second puzzle is a 7×3 grid, with two icy rocks as obstacles. From the south-central tile, move ←3, ↑2, →2, ↓1, →3, ↓1, →1, ↑2, and ←3. This reveals the second stairway.
+The final puzzle is an 11×4 grid, with four icy rocks as obstacles. Starting on the south-central tile, move →2, ↑1, →2, ↓1, →1, ↑3, ←2, ↓1, ←1, ↑1, ←1, ↓2, ←2, ↓1, ←1, ↑1, ←1, ↓1, ←1, ↑1, ←1, ↑2, →1, ↓1, →1, ↑1, →1, ↓1, →1, ↑1, and →1. This reveals the stairway to the Gym Leader.
+Wallace
+leads with his
+Luvdisc
+; not much of a threat, but it may still confuse its target with
+Sweet Kiss
+, and further hinder male targets with
+Attract
+. As a
+Water
+/
+Ground
+Pokémon, his
+Whiscash
+is only vulnerable to Grass moves; its
+Rain Dance
+temporarily strengthens Water moves, while
+Earthquake
+can deter
+Electric-type
+opponents.
+Sealeo
+'s
+Ice
+/
+Water
+typing gives it additional weaknesses to
+Fighting
+and
+Rock
+moves;
+Water Pulse
+and
+Body Slam
+deal damage while
+Encore
+forces the target to repeat its previous move. His
+Seaking
+is little threat unless its target is of a lower level than itself, when
+Horn Drill
+may score a
+one-hit knockout
+. Finally, his
+Milotic
+can deal heavy damage with Water Pulse, and use
+Ice Beam
+to deal with Grass types; use powerful moves to defeat it quickly, before it can regain health with
+Recover
+.
+Sootopolis Gym
+Trainers
+Trainer
+Pokémon
+Beauty
+Olivia
+Reward:
+$
+3280
+Lombre
+♀
+Lv.
+41
+No item
+Lass
+Crissy
+Reward:
+$
+640
+Wailmer
+♀
+Lv.
+40
+No item
+Wailmer
+♀
+Lv.
+40
+No item
+Beauty
+Tiffany
+Reward:
+$
+3120
+Carvanha
+♀
+Lv.
+39
+No item
+Wailmer
+♀
+Lv.
+39
+No item
+Sharpedo
+♀
+Lv.
+39
+No item
+Pokéfan
+Marissa
+Reward:
+$
+3200
+Azurill
+♀
+Lv.
+36
+Oran Berry
+Marill
+♀
+Lv.
+38
+Oran Berry
+Azumarill
+♀
+Lv.
+40
+Oran Berry
+Beauty
+Bridget
+Reward:
+$
+3280
+Azumarill
+♀
+Lv.
+41
+No item
+Lady
+Brianna
+Reward:
+$
+8200
+Seaking
+♀
+Lv.
+41
+Nugget
+Beauty
+Connie
+Reward:
+$
+3200
+Goldeen
+♀
+Lv.
+40
+No item
+Wailmer
+♀
+Lv.
+40
+No item
+Lass
+Andrea
+Reward:
+$
+656
+Luvdisc
+Lv.
+41
+No item
+Leader
+Wallace
+Sootopolis Gym
+Ruby and Sapphire
+Reward:
+$
+4300
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Luvdisc
+♀
+Lv.
+40
+Water Pulse
+Water
+--
+Attract
+Normal
+--
+Sweet Kiss
+Normal
+--
+Flail
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♂
+Lv.
+42
+Rain Dance
+Water
+--
+Water Pulse
+Water
+--
+Earthquake
+Ground
+--
+Amnesia
+Psychic
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♂
+Lv.
+40
+Encore
+Normal
+--
+Body Slam
+Normal
+--
+Aurora Beam
+Ice
+--
+Water Pulse
+Water
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Seaking
+♂
+Lv.
+42
+Water Pulse
+Water
+--
+Rain Dance
+Water
+--
+Fury Attack
+Normal
+--
+Horn Drill
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♂
+Lv.
+43
+Water Pulse
+Water
+--
+Twister
+Dragon
+--
+Recover
+Normal
+--
+Ice Beam
+Ice
+--
+Defeated, Wallace awards you the
+Rain Badge
+, which ensures obedience from all Pokémon and enables the use of
+Waterfall
+in the field. He also gives you
+TM03
+(
+Water Pulse
+) as a prize. With all eight Badges, your next destination is the
+Pokémon League
+in
+Ever Grande City
+to the southeast. But first, consider exploring Hoenn's remaining areas, including
+Route 129
+and beyond.
+← Part 14
+Route 128, Seafloor Cavern
+Ruby and Sapphire
+walkthrough
+Abandoned Ship, Routes 129, 130, and 131, Pacifidlog Town
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

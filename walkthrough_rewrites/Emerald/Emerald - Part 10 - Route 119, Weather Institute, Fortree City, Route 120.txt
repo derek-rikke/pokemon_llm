@@ -1,0 +1,40 @@
+Game: Emerald
+Part: 10
+Keywords: Route 119, Weather Institute, Fortree City, Route 120
+
+**Part 10 Walkthrough: Route 119 to Fortree City**
+
+**Route 119:**
+- **Overview:** Route 119 is a tropical area leading to Fortree City. Use the Acro Bike for item collection.
+- **Pokémon:** Wild Pokémon include Tropius (can learn Fly) and Feebas (found only in specific fishing tiles).
+- **Trainers:** Battle various Trainers for cash rewards. Notable trainers include Bug Catchers and Pokémon Rangers.
+
+**Items:**
+- Super Repel: Southernmost grass patch (E).
+- Full Heal: Hidden in southernmost grass patch (E).
+- Hyper Potion: Near Weather Institute (E).
+- Zinc: Requires Surf, found near Fisherman Eugene (E).
+- Elixir: East of Ninja Boy Takashi (E).
+
+**Mimic Circle:** 
+- Trainers mimic movements; navigate to corner them for battles.
+
+**Weather Institute:**
+- **Location:** At the north end of Route 119.
+- **Healing:** Rest in the back room before battling.
+- **Shelly Battle:** Defeat Aqua Admin Shelly (Lv. 28 Carvanha and Mightyena) to progress. Reward: Castform.
+
+**Rival Battle 4:**
+- After exiting the Weather Institute, battle May/Brendan on the bridge. They will use a team with Pokémon around Lv. 29-31.
+- Defeating them rewards you HM02 (Fly).
+
+**Fortree City:**
+- **Overview:** This city features tree homes and the Fortree Gym, which is currently obstructed.
+- **Secret Base Shop:** Found southeast; offers decorations.
+- **Items:** TM10 (Hidden Power) from the old woman in the north-northwest house after a guessing game.
+
+**Tasks:**
+- Speak to the Pokémon Breeder to see if his Wingull returns.
+- Trade a Volbeat for a Plusle with the boy in the northwest house.
+
+Continue your journey towards Route 120 and the Fortree Gym after completing tasks in Fortree City.

@@ -1,0 +1,2106 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_9
+Keywords: Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Celadon City
+1.1
+Celadon Mansion
+1.1.1
+The Amazing Eevee
+1.2
+Celadon Department Store
+1.2.1
+2F
+1.2.2
+3F
+1.2.3
+4F
+1.2.4
+5F
+1.2.5
+Rooftop Square
+1.3
+Celadon Gym
+1.4
+Fickle Fortune
+1.5
+Shady Dealings
+1.6
+Game Corner
+1.6.1
+A Secret Switch?
+1.7
+Prize Corner
+1.8
+Rocket Hideout
+1.8.1
+B1F (North)
+1.8.2
+B2F
+1.8.3
+B1F (West)
+1.8.4
+B2F
+1.8.5
+B3F
+1.8.6
+B4F (Northwest)
+1.8.7
+B4F (Southeast)
+1.8.7.1
+VS Giovanni
+1.9
+Over/Under
+2
+Lavender Town
+2.1
+Pokémon Tower
+2.1.1
+2F
+2.1.1.1
+Rival Battle 5
+2.1.1.1.1
+If the player chose Bulbasaur:
+2.1.1.1.2
+If the player chose Charmander:
+2.1.1.1.3
+If the player chose Squirtle:
+2.1.2
+3F
+2.1.3
+4F
+2.1.4
+5F
+2.1.5
+6F
+2.1.6
+7F
+2.2
+Mr. Fuji's house
+Celadon City
+Celadon City
+Celadon City
+is located between
+Route 7
+to the east and
+Route 16
+to the west. The
+Celadon Department Store
+in the northwest offers all kinds of items for sale. The
+Celadon Mansion
+is a hotel, with a group known as
+Game Freak
+as its current occupants. Visitors can try their luck at the
+Game Corner
+in the heart of the city and redeem their winnings at the Prize Corner next door. The
+Celadon Gym
+stands on a hill in the southwest part of town.
+Trainers
+Trainer
+Pokémon
+Game Corner
+Rocket
+Reward:
+$
+600
+Raticate
+Lv.
+20
+No item
+Zubat
+Lv.
+20
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Gift Pokémon
+Eevee
+R
+B
+Y
+Gift
+25
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM18
+(
+Counter
+)
+Department Store; from a clerk on 3F
+R
+B
+TM13
+(
+Ice Beam
+)
+Department Store; from a girl on the roof, after giving her a Fresh Water
+R
+B
+TM48
+(
+Rock Slide
+)
+Department Store; from a girl on the roof, after giving her a Soda Pop
+R
+B
+TM49
+(
+Tri Attack
+)
+Department Store; from a girl on the roof, after giving her a Lemonade
+R
+B
+Coin Case
+South side, from a man in the restaurant
+R
+B
+PP Up
+East side, northeast of the
+small tree
+(hidden)
+R
+B
+TM21
+(
+Mega Drain
+)
+From Erika, after defeating her
+R
+B
+Later visit
+TM41
+(
+Softboiled
+)
+From the man across the pond (requires
+Surf
+)
+R
+B
+Celadon Mansion
+The tall building in the north part of town is
+Celadon Mansion
+. On the third floor,
+Game Freak
+'s game designer promises a
+reward
+for showing him your completed
+Pokédex
+.
+The Amazing Eevee
+To further this goal of completing the Pokédex, leave an empty slot in your party and follow the path behind the Pokémon Center to find a break in the trees. Enter the mansion through the back door and climb to the top floor to obtain an
+Eevee
+. This Pokémon's unique genetic makeup allows it to evolve into one of several different forms. Exposure to a
+Water Stone
+,
+ThunderStone
+, or
+Fire Stone
+will cause it to evolve into
+Vaporeon
+,
+Jolteon
+, or
+Flareon
+, respectively. Any one will make a useful addition to your team, as they can cover your
+first partner Pokémon
+'s weakness. These
+stones
+can only be purchased in the nearby Department Store.
+Celadon Department Store
+The
+Celadon Department Store
+is the largest shop in
+Kanto
+. Nearly any item a Trainer could want can be found here.
+2F
+The Trainer's Market is found on the second floor. Everyday items like
+Great Balls
+and
+Super Potions
+are offered here.
+Left Cashier
+Great Ball
+$
+600
+Super Potion
+$
+700
+Revive
+$
+1500
+Antidote
+$
+100
+Burn Heal
+$
+250
+Ice Heal
+$
+250
+Awakening
+$
+200
+Parlyz Heal
+$
+200
+Super Repel
+$
+500
+Right Cashier
+TM32
+(
+Double Team
+)
+$
+1000
+TM33
+(
+Reflect
+)
+$
+1000
+TM02
+(
+Razor Wind
+)
+$
+2000
+TM07
+(
+Horn Drill
+)
+$
+2000
+TM37
+(
+Egg Bomb
+)
+$
+2000
+TM01
+(
+Mega Punch
+)
+$
+3000
+TM05
+(
+Mega Kick
+)
+$
+3000
+TM09
+(
+Take Down
+)
+$
+3000
+TM17
+(
+Submission
+)
+$
+3000
+3F
+The third floor holds the TV Game Shop, with various video games on display. There are no items for sale, but the clerk behind the counter gives out
+TM18
+(
+Counter
+).
+4F
+Wiseman Gifts is located on the fourth floor. The
+stones
+that cause certain Pokémon to evolve can be purchased here. Be sure to pick up a
+Poké Doll
+or two, as they are useful for running from wild Pokémon.
+Poké Doll
+$
+1000
+Fire Stone
+$
+2100
+ThunderStone
+$
+2100
+Water Stone
+$
+2100
+Leaf Stone
+$
+2100
+5F
+The Drug Store can be found on the fifth floor.
+Battle items
+and
+vitamins
+are offered here.
+Left Cashier
+HP Up
+$
+9800
+Protein
+$
+9800
+Iron
+$
+9800
+Calcium
+$
+9800
+Carbos
+$
+9800
+Right Cashier
+X Attack
+$
+500
+X Defend
+$
+550
+X Speed
+$
+350
+X Special
+$
+350
+X Accuracy
+$
+950
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+Rooftop Square
+The Rooftop Square houses a picnic area and several
+vending machines
+. Each machine offers
+Fresh Water
+,
+Soda Pop
+, and
+Lemonade
+. If you purchase one of each
+drink
+for the little girl nearby, she rewards you with
+TM13
+(
+Ice Beam
+),
+TM48
+(
+Rock Slide
+), and
+TM49
+(
+Tri Attack
+), respectively.
+Be sure to pick up an extra drink for the
+Saffron City
+gatekeepers, as well.
+Vending machine
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+Celadon Gym
+Celadon Gym
+CELADON CITY POKéMON GYM
+LEADER: ERIKA
+The Nature Loving Princess!
+The
+Celadon Gym
+specializes in
+Grass-type
+Pokémon. This type is generally vulnerable against
+Fire
+-,
+Ice
+-,
+Flying
+-,
+Poison
+-, and
+Bug-type
+attacks. Most Pokémon inside are also part-Poison, which leaves them exposed to
+Psychic
+moves, as well.
+Water
+,
+Rock
+, and
+Ground
+Pokémon are best kept on the sidelines. Grass Pokémon tend to harass their target with status ailments, so it is a good idea to bring healing items like
+Antidote
+,
+Parlyz Heal
+, and
+Awakening
+. Once the first few Gym Trainers have been defeated, have a Pokémon use
+Cut
+on one of the small trees to reach the clearing with the Gym Leader.
+Celadon Gym
+Trainers
+Trainer
+Pokémon
+Lass
+Reward:
+$
+345
+Bellsprout
+Lv.
+23
+No item
+Weepinbell
+Lv.
+23
+No item
+Beauty
+Reward:
+$
+1470
+Oddish
+Lv.
+21
+No item
+Bellsprout
+Lv.
+21
+No item
+Oddish
+Lv.
+21
+No item
+Bellsprout
+Lv.
+21
+No item
+Beauty
+Reward:
+$
+1680
+Bellsprout
+Lv.
+24
+No item
+Bellsprout
+Lv.
+24
+No item
+Jr. Trainer♀
+Reward:
+$
+480
+Bulbasaur
+Lv.
+24
+No item
+Ivysaur
+Lv.
+24
+No item
+Requires
+Cut
+Beauty
+Reward:
+$
+1820
+Exeggcute
+Lv.
+26
+No item
+Cooltrainer
+Reward:
+$
+840
+Weepinbell
+Lv.
+24
+No item
+Gloom
+Lv.
+24
+No item
+Ivysaur
+Lv.
+24
+No item
+Lass
+Reward:
+$
+345
+Oddish
+Lv.
+23
+No item
+Gloom
+Lv.
+23
+No item
+Erika
+Celadon Gym
+Red, Green
+, and
+Blue
+Reward:
+$
+2871
+Types:
+Grass
+Poison
+Victreebel
+Lv.
+29
+Razor Leaf
+Grass
+--
+Wrap
+Normal
+--
+PoisonPowder
+Poison
+--
+Sleep Powder
+Grass
+--
+Type:
+Grass
+Unknown
+Tangela
+Lv.
+24
+Constrict
+Normal
+--
+Bind
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Poison
+Vileplume
+Lv.
+29
+Petal Dance
+Grass
+--
+PoisonPowder
+Poison
+--
+Mega Drain
+Grass
+--
+Sleep Powder
+Grass
+--
+After the battle,
+Erika
+awards you the
+Rainbow Badge
+, which ensures obedience from all Pokémon up to level 50 and enables the use of
+Strength
+in the field. She also gives you
+TM21
+(
+Mega Drain
+) as a prize.
+Fickle Fortune
+Stop by the restaurant on the city's south side and talk to the man near the back wall. A string of bad luck at the slot machines has cost him all of his money, so he has no more use for his
+Coin Case
+and gives it to you.
+Shady Dealings
+Several
+Team Rocket
+Grunts can be seen loitering around the city. Next door to the restaurant, there are workers organizing the transport of 2,000 Pokémon every month to the Game Corner to be used as prizes. Numbers like that mean money, and are sure to draw Team Rocket's attention. Whatever the group may be involved in, as one of the workers points out, it surely has nothing to do with a hidden switch in the Game Corner.
+Game Corner
+Locations of hidden coins
+Confronting the Rocket
+The prizes offered next door are expensive, so it will require a large number of coins to receive all of them. Coins may be purchased at the counter in sets of 50 for
+$
+1,000 each. Others can be obtained by speaking with other patrons, and even more can be found dropped on the ground.
+Items
+Item
+Location
+Games
+10
+Coins
+From the
+Fisherman
+R
+B
+20
+Coins
+From the
+Gentleman
+R
+B
+20
+Coins
+From the
+Scientist
+R
+B
+100
+Coins
+One tile to the north and two tiles to the east of the right-hand side of the top of the third cluster of slot machines from the west
+(hidden)
+R
+B
+10
+Coins
+One tile to the east of the second slot machine from the bottom of the first cluster of slot machines from the west
+(hidden)
+R
+B
+20
+Coins
+Two tiles to the north of the top slot machine on the left side of the second cluster of slot machines from the east
+(hidden)
+R
+B
+10
+Coins
+One tile south and one tile east of the
+Gym guide
+in the center aisle of slot machines
+(hidden)
+R
+B
+10
+Coins
+Two tiles south and two tiles east from the Gym guide
+(hidden)
+R
+B
+10
+Coins
+One tile west and one tile south of the Gentleman in the east-most aisle
+(hidden)
+R
+B
+20
+Coins
+One tile south and one tile east of the woman in the center aisle
+(hidden)
+R
+B
+10
+Coins
+One tile south and one tile east of the woman in the west-most aisle
+(hidden)
+R
+B
+20
+Coins
+Two tiles west of the Fisherman
+(hidden)
+R
+B
+10
+Coins
+One tile south and one tile west of the Fisherman
+(hidden)
+R
+B
+10
+Coins
+Between the counter and the west-most cluster of slot machines
+(hidden)
+R
+B
+A Secret Switch?
+Nothing seems out of the ordinary at first, but there is something off about the
+man in black
+who is fixated on a poster on the back wall. When you try to speak to him, he picks a fight with you. Defeat his two Pokémon and he retreats, leaving the poster unguarded. Inspect it to find a secret switch hidden underneath; press this switch and a hidden door opens to the right, revealing a secret stairway leading underground.
+Prize Corner
+Left Window
+R
+Abra
+(
+Lv.
+9)
+180
+Coins
+Clefairy
+(
+Lv.
+8)
+500
+Coins
+Nidorina
+(
+Lv.
+17)
+1200
+Coins
+Left Window
+B
+Abra
+(
+Lv.
+6)
+120
+Coins
+Clefairy
+(
+Lv.
+12)
+750
+Coins
+Nidorino
+(
+Lv.
+17)
+1200
+Coins
+Middle Window
+R
+Dratini
+(
+Lv.
+18)
+2800
+Coins
+Scyther
+(
+Lv.
+25)
+5500
+Coins
+Porygon
+(
+Lv.
+26)
+9999
+Coins
+Middle Window
+B
+Pinsir
+(
+Lv.
+20)
+2500
+Coins
+Dratini
+(
+Lv.
+24)
+4600
+Coins
+Porygon
+(
+Lv.
+18)
+6500
+Coins
+Right Window
+TM23
+(
+Dragon Rage
+)
+3300
+Coins
+TM15
+(
+Hyper Beam
+)
+5500
+Coins
+TM50
+(
+Substitute
+)
+7700
+Coins
+Rocket Hideout
+Rocket Hideout, B1F
+Rocket Hideout, B2F
+Rocket Hideout, B3F
+Rocket Hideout, B4F
+The
+Team Rocket Hideout
+is a secret underground complex used by the group as their base of operations. Rumors point to a
+certain item
+being located somewhere in
+Celadon
+that can identify the ghosts of
+Pokémon Tower
+. It would not be surprising for
+Team Rocket
+to have acquired an item as valuable as this, so be sure to take it back if you can find it!
+Trainers
+B1F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+630
+Drowzee
+Lv.
+21
+No item
+Machop
+Lv.
+21
+No item
+Rocket
+Reward:
+$
+630
+Raticate
+Lv.
+21
+No item
+Raticate
+Lv.
+21
+No item
+South, via stairs from B2F
+Rocket
+Reward:
+$
+570
+Rattata
+Lv.
+19
+No item
+Raticate
+Lv.
+19
+No item
+Raticate
+Lv.
+19
+No item
+Rattata
+Lv.
+19
+No item
+Rocket
+Reward:
+$
+600
+Grimer
+Lv.
+20
+No item
+Koffing
+Lv.
+20
+No item
+Koffing
+Lv.
+20
+No item
+Southeast, requires Lift Key
+Rocket
+Reward:
+$
+660
+Grimer
+Lv.
+22
+No item
+Koffing
+Lv.
+22
+No item
+B2F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+510
+Zubat
+Lv.
+17
+No item
+Koffing
+Lv.
+17
+No item
+Grimer
+Lv.
+17
+No item
+Zubat
+Lv.
+17
+No item
+Raticate
+Lv.
+17
+No item
+B3F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+630
+Machop
+Lv.
+21
+No item
+Machop
+Lv.
+21
+No item
+Rocket
+Reward:
+$
+600
+Rattata
+Lv.
+20
+No item
+Raticate
+Lv.
+20
+No item
+Drowzee
+Lv.
+20
+No item
+B4F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+630
+Koffing
+Lv.
+21
+No item
+Zubat
+Lv.
+21
+No item
+Southeast, requires Lift Key
+Rocket
+Reward:
+$
+690
+Sandshrew
+Lv.
+23
+No item
+Ekans
+Lv.
+23
+No item
+Sandslash
+Lv.
+23
+No item
+Rocket
+Reward:
+$
+690
+Ekans
+Lv.
+23
+No item
+Sandshrew
+Lv.
+23
+No item
+Arbok
+Lv.
+23
+No item
+Items
+B1F
+Item
+Location
+Games
+PP Up
+North; in the southeastern-most planter
+(hidden)
+R
+B
+Escape Rope
+North; in the western room
+R
+B
+Hyper Potion
+East; in the room reached via B2F
+R
+B
+B2F
+Item
+Location
+Games
+Nugget
+Spinner maze, northeast corner
+R
+B
+Moon Stone
+Spinner maze, near the west wall
+R
+B
+TM07
+(
+Horn Drill
+)
+Spinner maze, near the middle
+R
+B
+Super Potion
+Spinner maze, southwest area
+R
+B
+B3F
+Item
+Location
+Games
+TM10
+(
+Double-Edge
+)
+East-central room
+R
+B
+Nugget
+East-central room
+(hidden)
+R
+B
+Rare Candy
+Spinner maze, east side
+R
+B
+B4F
+Item
+Location
+Games
+HP Up
+Northwest; on a table in the west-central room
+R
+B
+TM02
+(
+Razor Wind
+)
+Northwest; in the northwest room
+R
+B
+Lift Key
+Northwest; dropped by the Rocket Grunt, after defeating him and speaking to him
+R
+B
+Iron
+Southeast; on a table to the west of the elevator
+R
+B
+Silph Scope
+Southeast; dropped by Giovanni after his defeat and disappearance
+R
+B
+Super Potion
+Southeast; on the machine behind Giovanni
+(hidden)
+R
+B
+B1F (North)
+Visit the western room to get an
+Escape Rope
+, then take the stairs down to B2F.
+B2F
+Go west to fight the next Team Rocket Grunt. Further west is a maze of
+spinner tiles
+meant to thwart any intruders; step on one of these arrow tiles to be sent spinning until you reach a stopper tile.
+Enter the maze and follow the spinner tiles to the stopper tile in the northwest. Backtrack carefully to reach a
+Nugget
+in the northeast corner. Collect the
+Moon Stone
+,
+TM07
+(
+Horn Drill
+), and
+Super Potion
+on the way southward. Step on the southernmost spinner tile to reach the maze exit and climb the stairs to the east.
+B1F (West)
+Battle the two Rocket Grunts here and pick up the
+Hyper Potion
+.
+B2F
+Backtrack through the east side of the maze and head down the stairs to the northeast.
+B3F
+Go south past the lone Rocket Grunt to reach
+TM10
+(
+Double-Edge
+), then head west to enter the second maze of spinner tiles. Collect the
+Rare Candy
+on the way southward, then battle another Rocket Grunt and go downstairs.
+B4F (Northwest)
+On this first visit to B4F, it is only possible to reach the two rooms on the west side. Pick up the
+HP Up
+on a table to the south, then visit the northwest room. Pick up
+TM02
+(
+Razor Wind
+) and battle the nearby Rocket Grunt. Talk to him afterward and he drops the
+Lift Key
+, which operates the elevator in the southeast part of the complex.
+Climb back up to B2F and make your way through the larger maze again to reach the elevator. Take it down to B4F.
+B4F (Southeast)
+Exit the elevator and go west to reach an
+Iron
+. Defeat the last two Rocket Grunts and the electronic door that they are guarding opens. Step inside to confront the Rocket boss.
+VS Giovanni
+Both
+Giovanni
+'s
+Onix
+and
+Rhyhorn
+take massive damage from
+Grass
+and
+Water
+attacks. His
+Kangaskhan
+takes serious damage only from
+Fighting
+moves. Avoid using attacking moves if Onix or Kangaskhan use
+Rage
+, as it boosts their
+Attack
+every time they take damage.
+Giovanni
+Rocket Hideout
+Red, Green
+, and
+Blue
+Reward:
+$
+2871
+Types:
+Rock
+Ground
+Onix
+Lv.
+25
+Screech
+Normal
+--
+Bind
+Normal
+--
+Rock Throw
+Rock
+--
+Rage
+Normal
+--
+Types:
+Ground
+Rock
+Rhyhorn
+Lv.
+24
+Horn Attack
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Kangaskhan
+Lv.
+29
+Comet Punch
+Normal
+--
+Rage
+Normal
+--
+Bite
+Normal
+--
+Struggle
+Normal
+--
+Giovanni
+cannot believe that he lost, but acknowledges that you raise your Pokémon with great care. He says that a child like you could never understand his goals, then he and most of the other Rockets disappear. Be sure to pick up the
+Silph Scope
+that he leaves behind. Ride the elevator to B1F and battle one last Rocket Grunt on the way out.
+Over/Under
+If you still have an extra
+drink
+on hand, you can pass through
+Saffron City
+on the way back to
+Pokémon Tower
+. Enter Saffron's west gate and the guard sees that you have a beverage. If you give it to him, he shares it with the other three guards which now allows you to reach the city from any direction. Travel eastward through the city to return to
+Route 8
+and
+Lavender Town
+.
+If not, take the
+Underground Path
+back to
+Route 8
+and continue eastward.
+Lavender Town
+Pokémon Tower
+Pokémon Tower, 2F
+Pokémon Tower, 3F
+Pokémon Tower, 4F
+Pokémon Tower, 5F
+Pokémon Tower, 6F
+Pokémon Tower, 7F
+The
+Ghost
+Pokémon of
+Pokémon Tower
+are immune to
+Normal
+- and
+Fighting-type
+attacks, but as they are also
+Poison
+type, they are vulnerable to
+Psychic
+attacks. The spirits can be relentless, so it may be useful to bring a supply of Repels and Poké Dolls along to avoid them as much as possible. There are still many possessed Channelers here as well, so be sure to bring some Super Potions along.
+Trainers
+3F
+Trainer
+Pokémon
+Channeler
+Reward:
+$
+690
+Gastly
+Lv.
+23
+No item
+Channeler
+Reward:
+$
+660
+Gastly
+Lv.
+22
+No item
+Channeler
+Reward:
+$
+720
+Gastly
+Lv.
+24
+No item
+4F
+Trainer
+Pokémon
+Channeler
+Reward:
+$
+690
+Gastly
+Lv.
+23
+No item
+Gastly
+Lv.
+23
+No item
+Channeler
+Reward:
+$
+660
+Gastly
+Lv.
+22
+No item
+Channeler
+Reward:
+$
+720
+Gastly
+Lv.
+24
+No item
+5F
+Trainer
+Pokémon
+Channeler
+Reward:
+$
+660
+Gastly
+Lv.
+22
+No item
+Channeler
+Reward:
+$
+690
+Haunter
+Lv.
+23
+No item
+Channeler
+Reward:
+$
+720
+Gastly
+Lv.
+24
+No item
+Channeler
+Reward:
+$
+660
+Haunter
+Lv.
+22
+No item
+6F
+Trainer
+Pokémon
+Channeler
+Reward:
+$
+660
+Gastly
+Lv.
+22
+No item
+Gastly
+Lv.
+22
+No item
+Gastly
+Lv.
+22
+No item
+Channeler
+Reward:
+$
+720
+Gastly
+Lv.
+24
+No item
+Channeler
+Reward:
+$
+720
+Gastly
+Lv.
+24
+No item
+7F
+Trainer
+Pokémon
+Rocket
+Reward:
+$
+750
+Zubat
+Lv.
+25
+No item
+Zubat
+Lv.
+25
+No item
+Golbat
+Lv.
+25
+No item
+Rocket
+Reward:
+$
+780
+Koffing
+Lv.
+26
+No item
+Drowzee
+Lv.
+26
+No item
+Rocket
+Reward:
+$
+690
+Zubat
+Lv.
+23
+No item
+Rattata
+Lv.
+23
+No item
+Raticate
+Lv.
+23
+No item
+Zubat
+Lv.
+23
+No item
+Available Pokémon
+3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+R
+B
+Y
+3F
+18-24
+90%
+Cubone
+R
+B
+Y
+3F
+20, 22
+9%
+Haunter
+R
+B
+Y
+3F
+25
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+4F
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+R
+B
+Y
+4F
+18-24
+86%
+Cubone
+R
+B
+Y
+4F
+20, 22
+9%
+Haunter
+R
+B
+Y
+4F
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+5F
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+R
+B
+Y
+5F
+18-24
+86%
+Cubone
+R
+B
+Y
+5F
+20, 22
+9%
+Haunter
+R
+B
+Y
+5F
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+6F
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+R
+B
+Y
+6F
+19-24
+85%
+Cubone
+R
+B
+Y
+6F
+22, 24
+9%
+Haunter
+R
+B
+Y
+6F
+26, 28
+6%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+7F
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+R
+B
+Y
+7F
+20-24
+75%
+Haunter
+R
+B
+Y
+7F
+28, 30
+15%
+Cubone
+R
+B
+Y
+7F
+22, 24
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+3F
+Escape Rope
+Near the north wall
+R
+B
+4F
+Elixer
+West of the stairway from 3F
+R
+B
+Awakening
+In the center of the room
+R
+B
+HP Up
+Near the south wall
+R
+B
+5F
+Elixer
+Near the western stairway, on the southwest wall
+(hidden)
+R
+B
+Nugget
+Near the south wall
+R
+B
+6F
+X Accuracy
+Southwest of the stairway from 5F
+R
+B
+Rare Candy
+West-central part of the room
+R
+B
+2F
+Rival Battle 5
+By this point,
+Blue
+has assembled a team that includes
+Grass
+,
+Fire
+, and
+Water
+Pokémon to cover his weaknesses. His
+first partner Pokémon
+takes the place of either
+Exeggcute
+,
+Growlithe
+, or
+Gyarados
+, whichever matches its type. His
+Pidgeotto
+still poses little threat, as it has no
+Flying-type
+moves and those it has are fairly weak. Exeggcute can induce
+Sleep
+with
+Hypnosis
+, so use
+Awakenings
+as necessary. Growlithe's
+Ember
+can deal a decent amount of damage and may cause a
+Burn
+. His Gyarados has the biggest offensive presence with
+Hydro Pump
+, so be sure to take it down quickly.
+Kadabra
+takes super effective damage only from
+Bug
+moves, but physical moves will wear it down as well. Blue's first Pokémon has grown to level 25 and learned some new moves, but it should not be too much to handle. Use super effective moves to send your rival packing and continue up the tower.
+If the player chose
+Bulbasaur
+:
+Blue
+Pokémon Tower
+Red, Green
+, and
+Blue
+Reward:
+$
+1625
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+25
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Types:
+Grass
+Psychic
+Exeggcute
+Lv.
+23
+Barrage
+Normal
+--
+Hypnosis
+Psychic
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Water
+Flying
+Gyarados
+Lv.
+22
+Leer
+Normal
+--
+Dragon Rage
+Dragon
+--
+Bite
+Normal
+--
+Hydro Pump
+Water
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+20
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Fire
+Unknown
+Charmeleon
+Lv.
+25
+Growl
+Normal
+--
+Ember
+Fire
+--
+Leer
+Normal
+--
+Rage
+Normal
+--
+If the player chose
+Charmander
+:
+Blue
+Pokémon Tower
+Red, Green
+, and
+Blue
+Reward:
+$
+1625
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+25
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Type:
+Fire
+Unknown
+Growlithe
+Lv.
+23
+Bite
+Normal
+--
+Roar
+Normal
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Psychic
+Exeggcute
+Lv.
+22
+Barrage
+Normal
+--
+Hypnosis
+Psychic
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+20
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Wartortle
+Lv.
+25
+Tail Whip
+Normal
+--
+Bubble
+Water
+--
+Water Gun
+Water
+--
+Bite
+Normal
+--
+If the player chose
+Squirtle
+:
+Blue
+Pokémon Tower
+Red, Green
+, and
+Blue
+Reward:
+$
+1625
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+25
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Types:
+Water
+Flying
+Gyarados
+Lv.
+23
+Leer
+Normal
+--
+Dragon Rage
+Dragon
+--
+Bite
+Normal
+--
+Hydro Pump
+Water
+--
+Type:
+Fire
+Unknown
+Growlithe
+Lv.
+22
+Bite
+Normal
+--
+Roar
+Normal
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+20
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Poison
+Ivysaur
+Lv.
+25
+Growl
+Normal
+--
+Leech Seed
+Grass
+--
+Vine Whip
+Grass
+--
+PoisonPowder
+Poison
+--
+3F
+Grab the
+Escape Rope
+by the north wall and climb the stairs to 4F.
+4F
+Pick up the
+Elixer
+and
+Awakening
+in the center of the room, and the
+HP Up
+near the south wall. Climb the western stairs.
+5F
+A Channeler in the middle of the fifth floor has not been possessed and maintains a healing area with her white magic. When a Trainer enters this protected zone, all of their Pokémon will be fully healed. Battle another Channeler or two and grab the
+Nugget
+before taking the eastern stairs.
+6F
+Collect the
+X Accuracy
+to the south, then northward past three more Channelers. Grab the
+Rare Candy
+in your path and proceed to the south stairway. As you approach, the
+ghost
+attacks and the
+Silph Scope
+activates, revealing a level 30
+Marowak
+. Unfortunately, this spirit cannot be caught and must be defeated.
+Type:
+Ground
+Unknown
+Marowak
+Lv.
+30
+Bone Club
+Ground
+--
+Growl
+Normal
+--
+Leer
+Normal
+--
+Focus Energy
+Normal
+--
+When the battle is over, the mother Marowak's spirit is calmed. Finally able to rest, she departs to the afterlife.
+Climb the final stairway to the seventh floor.
+7F
+Defeat the three Rocket Grunts and speak to
+Mr. Fuji
+. He thanks you for calming Marowak's spirit and asks that you accompany him to his home, the Volunteer Pokémon House, at the foot of the tower.
+Mr. Fuji's house
+Speak to
+Mr. Fuji
+to receive the
+Poké Flute
+as thanks. This instrument awakens any
+sleeping
+Pokémon who may hear its music. With this, you can finally wake the two
+Snorlax
+who have been blocking the way to southern
+Kanto
+. But first, head west to return to
+Saffron City
+and take on the next Gym.
+← Part 8
+Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Route 7
+Red and Blue
+walkthrough
+Saffron City, Silph Co., Saffron Gym
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

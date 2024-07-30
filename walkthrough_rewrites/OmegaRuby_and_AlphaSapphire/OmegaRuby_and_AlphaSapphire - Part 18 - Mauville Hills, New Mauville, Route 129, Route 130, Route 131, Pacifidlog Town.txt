@@ -1,0 +1,50 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 18
+Keywords: Mauville Hills, New Mauville, Route 129, Route 130, Route 131, Pacifidlog Town
+
+**Part 18: Mauville Hills to Pacifidlog Town**  
+*Pokémon Omega Ruby and Alpha Sapphire Walkthrough*
+
+**Mauville City**  
+- **Wattson**: Speak to him near the Square Tower. He'll ask you to investigate New Mauville.  
+- **Mauville Hills**: Access via elevators on the north side.  
+  - **Items**:  
+    - **Elixir**: Apt. 1 (after defeating Circie)  
+    - **Best Friends Ribbon**: Apt. 2 (if lead Pokémon is affectionate)  
+    - **TM89 (U-turn)**: Apt. 11 (on balcony)  
+    - **Lopunnite**: Apt. 12 (from loan shark)  
+    - **TM24 (Thunderbolt)**: Apt. 13 (after New Mauville investigation)  
+
+**Route 110 - New Mauville**  
+- Investigate the facility.  
+- **Items**:  
+  - **Escape Rope**, **Paralyze Heal**, **Thunder Stone** (in front room)  
+  - **Full Heal**, **Ultra Ball**, **Ampharosite**, **Metal Coat** (in generator room)  
+- **Security Check**: Use the computer to complete your task and return to Wattson for **TM24 (Thunderbolt)**.
+
+**Route 129**  
+- Optional route with Trainers and treasures.  
+- **Trainers**: Fishermen and Ace Trainers offer various rewards.  
+- **Items**: Hidden treasures like **Big Pearl** and **Heart Scale** (requires Dive).
+
+**Route 130**  
+- Short route connecting 129 and 131.  
+- **Trainers**: Swimmers and Triathletes.  
+- **Items**: Various hidden items (requires Dive).
+
+**Route 131**  
+- Connects Route 130 to Pacifidlog Town.  
+- **Trainers**: Swimmers with Pokémon around level 39.
+
+**Pacifidlog Town**  
+- **Pokémon Center**: Central hub for rest.  
+- **Items**:  
+  - **TM03 (Psyshock)**: From a man in the southeast house.  
+  - **Kangaskhanite**: At Pokémon Center platform (requires Surf).  
+  - **Heart Scales**: Hidden items near southeast house.  
+- **Quests**:  
+  - **An Old Legend**: Talk to the girl in the northeast house for lore.  
+  - **Friendship is Everything**: Get **TM27 (Return)** or **TM21 (Frustration)** based on Pokémon friendship.  
+  - **Time for a Trade**: Trade **Corsola** (holding Heart Scale) for **Bellossom**.  
+
+Continue on to explore Routes 132, 133, and 134.

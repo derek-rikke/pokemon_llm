@@ -1,0 +1,54 @@
+Game: Sun_and_Moon
+Part: 19
+Keywords: Po Town, Shady House, Ula'ula Grand Trial
+
+**Part 19: Po Town, Shady House, Ula'ula Grand Trial**
+
+**Po Town Overview**
+- Located in northwestern Ula'ula Island, Po Town is overrun by Team Skull.
+- The Pokémon Center is operated by Team Skull; healing costs $10.
+
+**Key Battles in Po Town**
+- Defeat Team Skull Grunts to progress:
+  - Grunt 1: Spinarak (Lv. 34)
+  - Grunt 2: Alolan Grimer (Lv. 34)
+  - Double Battle: Alolan Raticate (Lv. 35) & Golbat (Lv. 35)
+
+**Items in Po Town**
+- Max Repel: Southeast corner
+- Rare Candy: East-central yard
+- Smoke Ball: Northeast yard (through hedge)
+- Ice Stone: Near swimming pool (after entering Shady House)
+- Zygarde Cells: Near red and yellow trucks outside Shady House (night and day)
+
+**Shady House**
+- Team Skull's headquarters, filled with trainers and items.
+- Key items:
+  - Max Revive: 1F west-central room
+  - TM36 (Sludge Bomb): 2F northwest room
+  - Buginium Z: After defeating Guzma
+
+**Guzma Battle**
+- Guzma uses Bug Pokémon; effective types: Fire, Flying, Rock.
+- Guzma's team:
+  - Golisopod (Lv. 37)
+  - Ariados (Lv. 36)
+- Reward: $4,320
+
+**The Man in Black**
+- After leaving Shady House, you meet Nanu, who heals your Pokémon.
+
+**Route 15: Aether House**
+- Enter Aether House; battle Gladion (Pokémon: Golbat, Sneasel, Type: Null).
+- Gladion's team is weak to Psychic, Rock, and Fighting moves.
+- Reward: $3,040
+
+**Malie City: Ula'ula Grand Trial**
+- Battle Nanu (Dark-type specialist):
+  - Sableye (Lv. 38, weak to Fairy)
+  - Krokorok (Lv. 38, weak to Water, Grass, Ice)
+  - Persian (Lv. 39, weak to Fighting and Bug)
+- Reward: Darkinium Z, Black Hole Eclipse pose, Ula'ula Trial Completion stamp.
+
+**Next Steps**
+- After defeating Nanu, follow Gladion to Aether Paradise to search for Lillie.

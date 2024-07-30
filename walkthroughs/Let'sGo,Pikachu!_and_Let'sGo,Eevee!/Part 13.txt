@@ -1,0 +1,1383 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Cinnabar Island
+1.1
+Pokémon Center
+1.1.1
+Time for a Trade
+1.2
+Cinnabar Lab
+1.2.1
+Reception Room
+1.2.2
+Research Room
+1.2.3
+Testing Room
+1.2.3.1
+Fossil Regeneration
+1.3
+Pokémon Mansion
+1.3.1
+1F
+1.3.2
+2F
+1.3.3
+3F (Southwest)
+1.3.4
+2F
+1.3.5
+3F
+1.3.6
+2F (East)
+1.3.7
+3F
+1.3.8
+1F (South)
+1.3.9
+B1F
+1.4
+Cinnabar Gym
+2
+Route 21
+3
+Pallet Town
+4
+Route 10 (North)
+Cinnabar Island
+Cinnabar Island
+Cinnabar
+is a large island to the southwest of mainland
+Kanto
+, between Routes
+20
+and
+21
+. The
+Cinnabar Lab
+, where researchers have developed a way to revive ancient Pokémon, stands to the west. A broken-down building known as
+Pokémon Mansion
+is located on the island's northwest side. The
+Cinnabar Gym
+can be found to the northeast, but is currently locked up tight.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Omanyte
+P
+E
+Revive
+Helix Fossil
+44
+Fossil
+Kabuto
+P
+E
+Revive
+Dome Fossil
+44
+Fossil
+Aerodactyl
+P
+E
+Revive
+Old Amber
+44
+Fossil
+Special Pokémon
+Meowth
+Alolan Form
+P
+E
+Trade
+Meowth
+44
+Unlimited
+Grimer
+Alolan Form
+P
+E
+Trade
+Grimer
+44
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM02
+(
+Taunt
+)
+Cinnabar Lab; from a Scientist seated at a desk in the Research Room
+P
+E
+Antidote
+West of the Pokémon Mansion entrance
+P
+E
+TM46
+(
+Fire Blast
+)
+Cinnabar Gym; from Blaine, after defeating him
+P
+E
+Pokémon Center
+Time for a Trade
+A Punk Guy to the right of the counter is looking to trade Pokémon. He wants to get a
+Grimer
+P
+/
+Meowth
+E
+and is willing to part with its
+Alolan
+counterpart in exchange. Alolan Grimer is a
+Poison
+/
+Dark
+Pokémon, while Alolan Meowth is a
+Dark-type
+Pokémon. Dark types are few and far between in the Kanto region, so either one can make a useful addition to your team. This trade may be conducted multiple times.
+Cinnabar Lab
+Reception Room
+In the Reception Room, Scientists meet visitors to the lab and unwind when they are not working.
+Research Room
+In the Research Room, speak to the Scientist seated at the desk to receive
+TM02
+(
+Taunt
+). When used, Taunt lures the target into using only damaging moves.
+Testing Room
+Fossil Regeneration
+The Scientist near the back wall runs the
+fossil
+regeneration procedure. Speak to him to hand over the
+Helix Fossil
+,
+Dome Fossil
+, or
+Old Amber
+. The procedure only takes a moment to complete, and you soon receive the ancient Pokémon. The Helix Fossil and Dome Fossil become
+Omanyte
+and
+Kabuto
+, respectively; both are
+Rock
+/
+Water
+Pokémon that swam the primordial seas. The Old Amber becomes the
+Rock
+/
+Flying
+Aerodactyl
+, a terror of the prehistoric skies.
+Fossil Pokémon
+→
+→
+→
+Helix Fossil
+→
+Omanyte
+Dome Fossil
+→
+Kabuto
+Old Amber
+→
+Aerodactyl
+Pokémon Mansion
+The
+Pokémon Mansion
+is the decrepit, burned-out former home of a famous Pokémon researcher. The building uses several hidden switches to lock and unlock doors, and Burglars prowl the ruins for valuable items. A series of
+journal entries
+can be found scattered around the mansion that describe the birth and escape of
+a genetically-engineered Pokémon
+.
+Trainers
+Trainer
+Pokémon
+Burglar
+Arnie
+Reward:
+$
+3,520
+3
+Poké Balls
+Rapidash
+♀
+Lv.
+44
+No item
+Coach Trainer
+Rita
+Reward:
+$
+4,700
+Graveler
+♂
+Lv.
+46
+No item
+Dugtrio
+♂
+Lv.
+46
+No item
+Poliwrath
+♀
+Lv.
+47
+No item
+Burglar
+Simon
+Reward:
+$
+3,520
+3
+Poké Balls
+Magmar
+♂
+Lv.
+44
+No item
+Muk
+♂
+Lv.
+44
+No item
+Scientist
+Braydon
+Reward:
+$
+2,700
+Weezing
+♂
+Lv.
+45
+No item
+Magneton
+Lv.
+45
+No item
+Magmar
+♀
+Lv.
+45
+No item
+Ace Trainer
+Louis
+Reward:
+$
+4,600
+5
+Ultra Balls
+Kingler
+♂
+Lv.
+45
+No item
+Primeape
+♂
+Lv.
+46
+No item
+Scientist
+Ted
+Reward:
+$
+2,700
+Electrode
+Lv.
+45
+No item
+Muk
+♂
+Lv.
+45
+No item
+Burglar
+Lewis
+Reward:
+$
+3,520
+3
+Poké Balls
+Koffing
+♂
+Lv.
+44
+No item
+Koffing
+♂
+Lv.
+44
+No item
+Koffing
+♂
+Lv.
+44
+No item
+Weezing
+♂
+Lv.
+44
+No item
+Scientist
+Ivan
+Reward:
+$
+2,700
+Electabuzz
+♂
+Lv.
+45
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F-3F
+Grimer
+P
+E
+1F-3F
+39-44
+40%
+Koffing
+P
+E
+1F-3F
+39-44
+40%
+Rattata
+P
+E
+1F-3F
+39-44
+20%
+Raticate
+P
+E
+1F-3F
+39-44
+20%
+Magmar
+P
+E
+1F-3F
+39-44
+14%
+Muk
+P
+E
+1F-3F
+39-44
+5%
+Weezing
+P
+E
+1F-3F
+39-44
+5%
+Ditto
+P
+E
+1F-3F
+39-44
+1%
+B1F
+Grimer
+P
+E
+B1F
+39-44
+30%
+Koffing
+P
+E
+B1F
+39-44
+30%
+Rattata
+P
+E
+B1F
+39-44
+20%
+Raticate
+P
+E
+B1F
+39-44
+20%
+Muk
+P
+E
+B1F
+39-44
+10%
+Weezing
+P
+E
+B1F
+39-44
+10%
+Magmar
+P
+E
+B1F
+39-44
+10%
+Ditto
+P
+E
+B1F
+39-44
+10%
+Rare Spawns
+Chansey
+P
+E
+B1F-3F
+39-44
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Repel
+Northwest room, southwest corner
+P
+E
+Max Elixir
+Central room, south of the four columns
+P
+E
+Max Lure
+Northeast room, under the table on the blue rug
+P
+E
+Silver Razz Berry
+×5
+South; accessed via ladder from 3F
+P
+E
+Fire Stone
+South; accessed via ladder from 3F
+P
+E
+2F
+PP Up
+Southwest room
+P
+E
+Ultra Ball
+×3
+On the balcony, near the middle of 2F
+P
+E
+Max Ether
+West-central room, near Burglar Arnie
+P
+E
+Max Revive
+Northeast room
+P
+E
+Escape Rope
+Interior north-central room
+P
+E
+TM22
+(
+Rock Slide
+)
+Northwest room; from Coach Trainer Rita, after defeating her
+P
+E
+Hyper Potion
+East-central room, accessible via 3F
+P
+E
+3F
+Full Heal
+North-central part of 3F, behind the statue
+P
+E
+TM21
+(
+Foul Play
+)
+Northeast room
+P
+E
+X Accuracy
+At the end of the east-central hallway
+P
+E
+Rare Candy
+Southwest; near Burglar Simon
+P
+E
+B1F
+TM52
+(
+Sludge Bomb
+)
+In the southern room, next to the statue
+P
+E
+Max Potion
+Southwest corner
+P
+E
+Rare Candy
+North-central room
+P
+E
+Max Elixir
+Northwest room
+P
+E
+Secret Key
+West-central room
+P
+E
+Other items
+Health Candy
+1F; near the third pillar north from the entrance, on the east side of the hall
+(hidden)
+(daily) (item determined randomly)
+2F; near the ladder in the southeast area of the floor,
+accessible from the southernmost stairs on 3F
+(hidden)
+(daily) (item determined randomly)
+3F; on the fallen bookshelf in the southwest area of the floor
+(hidden)
+(daily) (item determined randomly)
+B1F; between two rest beds,
+on the eastern dresser with a lamp
+(hidden)
+(daily) (item determined randomly)
+B1F; southwest of the rest beds,
+on the eastern dresser with a lamp
+(hidden)
+(daily) (item determined randomly)
+B1F; in the northern room containing bookshelves,
+on a pile of books near the western wall
+(hidden)
+(daily) (item determined randomly)
+B1F; in the west area of the floor,
+next to the southwestern tank
+(hidden)
+(daily) (item determined randomly)
+B1F; southwestern corner of the floor,
+in the middle of the eastern bookshelf
+(hidden)
+(daily) (item determined randomly)
+P
+E
+Mighty Candy
+Tough Candy
+Smart Candy
+Courage Candy
+Quick Candy
+1F
+Go to the northwest room to find a
+Max Repel
+, then inspect the stone statue with pulsing red eyes to flip a hidden switch. Head east, then turn south at the four pillars; pass through the newly-opened door to reach a
+Max Elixir
+in the central room. Continue to the east side of 1F to find a
+Max Lure
+sitting under a table. Return to the entrance and climb the stairs at the end of the entryway.
+2F
+Follow the hallway to the southwest room to find the first journal entry and a
+PP Up
+. Return to the stairs and inspect the nearest statue to flip the switch. Follow the hallway to the southeast balcony this time to reach a set of three
+Ultra Balls
+. Visit the west-central room to battle Burglar Arnie and grab a
+Max Ether
+. Climb up the nearest stairs to reach an isolated part of 3F.
+3F (Southwest)
+A second journal entry can be found here. Defeat Burglar Simon and pick up the
+Rare Candy
+before returning to 2F.
+2F
+Go northeast to find a third journal entry, and a
+Max Revive
+in the northeast room beyond that. Turn around and go south from the room with the journal to reach an
+Escape Rope
+. Visit the northwest room to fight Coach Trainer Rita, who gives out
+TM22
+(
+Rock Slide
+) when defeated. Climb up the nearby stairs to 3F.
+3F
+Head east to find a
+Full Heal
+behind the statue, and pick up
+TM21
+(
+Foul Play
+) in the northeast room. Go back to inspect the statue and flip the switch; this closes the north door and opens the southern one. Battle Scientist Braydon and grab the
+X Accuracy
+at the end of the east-central hallway. Take the stairs to the south to an isolated part of 2F.
+2F (East)
+Battle Ace Trainer Louis, then pick up the
+Hyper Potion
+to the north. Take the stairs back to 3F.
+3F
+Climb down the ladder to the southwest of Scientist Braydon. This leads to an isolated part of 1F.
+1F (South)
+Pick up the set of five
+Silver Razz Berries
+near the ladder. Battle Scientist Ted, then continue south past the row of potted plants to get a
+Fire Stone
+. If you need to leave the mansion early, there is a
+warp tile
+in the room to the east that leads just outside of the entrance. Otherwise, take the stairs down to the basement.
+B1F
+Fight Burglar Lewis and visit the southern room to collect
+TM52
+(
+Sludge Bomb
+). The final journal entry can be found on the table here. Go west to grab the
+Max Potion
+. Inspect the statue and flip the switch. Follow the hallway to the northeast room; if your Pokémon need medical attention, you can rest on the three beds here. Inspect the nearby statue to flip the switch and continue along the hallway to battle Scientist Ivan. Collect the
+Rare Candy
+in the north-central room, and the
+Max Elixir
+near the large glass container in the northwest room. The
+Secret Key
+is located in the final room to the south.
+Cinnabar Gym
+Cinnabar Gym
+Cinnabar Island Pokémon Gym
+Leader: Blaine
+The Hot-Headed Quiz Master
+The
+Cinnabar Gym
+specializes in
+Fire-type
+Pokémon. Fire-type moves are super effective against
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, while Fire-type Pokémon are weak to
+Water
+-,
+Rock
+-, and
+Ground-type
+moves. When playing with fire there is always the chance of getting
+Burned
+, so be sure to bring some
+Burn Heals
+.
+Upon entering the building, you are greeted by the
+Gym guide
+. He is about to explain the Gym but is interrupted by an old man, who excitedly tries to quiz you right off the bat. The guide reminds him that it's not yet his turn, and
+Blaine
+takes his place farther ahead. There is no requirement to challenge the
+Cinnabar Gym
+, as the guide says that finding the
+Secret Key
+was difficult enough.
+The
+Gym Leader
+is always thinking up ways to keep the families of the Scientists who work on the island from getting bored.
+Blaine
+enjoys riddles and has designed his Gym as a quiz show, complete with stage and TV cameras. Speak to him at the end of the red carpet to begin his Pokémon Quiz. Challengers are asked five questions, with each correct response earning them a Blaine doll that appears on the stage. Incorrect answers mean a battle with one of his students, who also give out a doll when defeated. Collect five Blaine dolls to challenge the Gym Leader!
+Question
+Answers
+1. Which of these is the Spitfire Pokémon?
+Magmar
+Growlithe
+2. How many Gym
+Badges
+certified by the
+Pokémon League
+are there?
+Seven
+Eight
+3. A
+Steel-type
+move used on a
+Fire-type
+Pokémon will be...?
+Super effective
+Not very effective
+4. True or false!
+TM28
+contains the move Tombstony.
+True
+False
+What's that?!
+5. Challenger <player>, tell me... who are you about to battle?!
+Any of the six options
+Correct answers are marked in
+bold
+.
+Cinnabar Gym
+Trainers
+Trainer
+Pokémon
+First question
+Super Nerd
+Erik
+Reward:
+$
+1,800
+Charmeleon
+♂
+Lv.
+45
+No item
+Second question
+Burglar
+Quinn
+Reward:
+$
+3,520
+Ninetales
+♂
+Lv.
+44
+No item
+Third question
+Super Nerd
+Derek
+Reward:
+$
+1,800
+Magmar
+♂
+Lv.
+45
+No item
+Fourth question
+Burglar
+Dusty
+Reward:
+$
+3,520
+Growlithe
+♀
+Lv.
+44
+No item
+Rapidash
+♂
+Lv.
+44
+No item
+Gym Leader
+Blaine
+Cinnabar Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+7,680
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Magmar
+♂
+Lv.
+47
+Flamethrower
+Fire
+Special
+--
+Low Kick
+Fighting
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♂
+Lv.
+47
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Ninetales
+♀
+Lv.
+47
+Fire Blast
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Arcanine
+♂
+Lv.
+48
+Flare Blitz
+Fire
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Blaine
+awards you the
+Volcano Badge
+, which ensures obedience of all Pokémon up to level 80. He also gives you
+TM46
+(
+Fire Blast
+) as a prize.
+When you leave the Gym,
+Trace
+is standing near the sign. He congratulates you on your victory, and reminds you that you need eight to reach the
+Pokémon League
+. Only one more to go! Even though it was locked up the last time you visited, he suggests checking out the
+Gym
+back in
+Viridian City
+.
+With the Cinnabar Gym defeated, surf north from the pier to reach
+Route 21
+.
+Route 21
+Route 21
+Route 21
+is an ocean route that leads from
+Cinnabar Island
+back to
+Pallet Town
+. A single patch of tall grass grows just outside of town.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Jerome
+Reward:
+$
+840
+3
+Poké Balls
+Slowbro
+♂
+Lv.
+42
+No item
+Swimmer
+Roland
+Reward:
+$
+840
+3
+Poké Balls
+Starmie
+Lv.
+42
+No item
+Kingler
+♀
+Lv.
+42
+No item
+Sailor
+Claude
+Reward:
+$
+2,520
+3
+Poké Balls
+Primeape
+♂
+Lv.
+42
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Fisherman
+Nolan
+Reward:
+$
+1,680
+3
+Poké Balls
+Tentacruel
+♂
+Lv.
+42
+No item
+Starmie
+Lv.
+42
+No item
+Swimmer
+Jack
+Reward:
+$
+840
+3
+Poké Balls
+Tentacool
+♂
+Lv.
+42
+No item
+Golduck
+♂
+Lv.
+42
+No item
+Tentacruel
+♀
+Lv.
+42
+No item
+Swimmer
+Spencer
+Reward:
+$
+840
+3
+Poké Balls
+Seel
+♀
+Lv.
+42
+No item
+Seadra
+♂
+Lv.
+42
+No item
+Roughneck
+Martin
+Reward:
+$
+1,176
+3
+Poké Balls
+Raticate
+♂
+Lv.
+42
+No item
+Onix
+♀
+Lv.
+42
+No item
+Coach Trainer
+Pam
+Reward:
+$
+4,500
+Machoke
+♂
+Lv.
+44
+No item
+Jynx
+♀
+Lv.
+44
+No item
+Kangaskhan
+♀
+Lv.
+45
+No item
+Fisherman
+Ronald
+Reward:
+$
+1,680
+3
+Poké Balls
+Seadra
+♀
+Lv.
+42
+No item
+Gyarados
+♀
+Lv.
+42
+No item
+Fisherman
+Wade
+Reward:
+$
+1,680
+3
+Poké Balls
+Magikarp
+♂
+Lv.
+42
+No item
+Magikarp
+♂
+Lv.
+42
+No item
+Magikarp
+♂
+Lv.
+42
+No item
+Magikarp
+♂
+Lv.
+42
+No item
+Magikarp
+♀
+Lv.
+42
+No item
+Magikarp
+♂
+Lv.
+42
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+P
+E
+Grass
+37-42
+20%
+Raticate
+P
+E
+Grass
+37-42
+20%
+Tangela
+P
+E
+Grass
+37-42
+15%
+Gloom
+P
+E
+Grass
+37-42
+14%
+Weepinbell
+P
+E
+Grass
+37-42
+14%
+Pidgey
+P
+E
+Grass
+37-42
+10%
+Rattata
+P
+E
+Grass
+37-42
+10%
+Oddish
+P
+E
+Grass
+37-42
+10%
+Bellsprout
+P
+E
+Grass
+37-42
+10%
+Vileplume
+P
+E
+Grass
+37-42
+1%
+Victreebel
+P
+E
+Grass
+37-42
+1%
+Rare Spawns
+Chansey
+P
+E
+Grass
+37-42
+-
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+37-42
+30%
+Tentacruel
+P
+E
+Sea Skim
+37-42
+9%
+Staryu
+P
+E
+Sea Skim
+37-42
+30%
+Starmie
+P
+E
+Sea Skim
+37-42
+1%
+Magikarp
+P
+E
+Sea Skim
+37-42
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+On the southern islet, nearest to
+Cinnabar Island
+P
+E
+Stardust
+×3
+On the second islet from Cinnabar Island
+(hidden)
+(daily)
+P
+E
+Water Stone
+West-central area, on the islet with Fisherman Nolan
+P
+E
+Revive
+Southwest of Coach Trainer Pam, on a lone rock in the water
+(hidden)
+(daily)
+P
+E
+TM35
+(
+Ice Punch
+)
+Northwest islet; from Coach Trainer Pam, after defeating her
+P
+E
+Hyper Potion
+On the northeast islet, nearest
+Pallet Town
+P
+E
+Pallet Town
+Having now explored nearly all of the
+Kanto
+region, it is a good time to tie up any loose ends, the most important of which is the
+Power Plant
+. To get there, use
+Sky Dash
+to fly off to the Pokémon Center on the north side of
+Route 10
+.
+Route 10 (North)
+To reach the
+Power Plant
+, use
+Sea Skim
+to follow the river southward past the
+Rock Tunnel
+entrance. It is only a short distance away, with a single Poké Maniac outside the building.
+Trainers
+Trainer
+Pokémon
+Northern segment
+Poké Maniac
+Mark
+Reward:
+$
+2,016
+3
+Poké Balls
+Requires
+Sea Skim
+Rhyhorn
+♂
+Lv.
+42
+No item
+Lickitung
+♂
+Lv.
+42
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sea Skim
+Tentacool
+P
+E
+Sea Skim
+18-23
+45%
+Magikarp
+P
+E
+Sea Skim
+18-23
+45%
+Tentacruel
+P
+E
+Sea Skim
+18-23
+5%
+Dratini
+P
+E
+Sea Skim
+18-23
+4%
+Dragonair
+P
+E
+Sea Skim
+18-23
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Thunder Stone
+East of the Power Plant (requires
+Sea Skim
+)
+P
+E
+← Part 12
+Routes 12, 13, 14 and 15, Fuchsia City, Route 19, Route 20, Seafoam Islands
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Power Plant, Viridian Gym
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

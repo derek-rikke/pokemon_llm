@@ -1,0 +1,1477 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_19
+Keywords: Sunyshore Gym, Route 223, Pokémon League (south), Victory Road
+
+Walkthrough Text:
+Contents
+1
+Sunyshore Gym
+2
+Now that you can use Waterfall (optional)
+2.1
+Route 208
+2.2
+Route 210
+2.3
+Mt. Coronet
+3
+Route 223
+4
+Pokémon League (south)
+5
+Victory Road
+5.1
+1F
+5.2
+2F
+5.3
+1F
+5.4
+B1F
+5.5
+1F
+Sunyshore Gym
+First Room
+Third Room
+Second Room
+At the front of the Gym, you will see Flint, who notes that Volkner seems to be excited to battle you and reminds you to help reignite Volkner's passion for battling before departing for the Pokémon League.
+Before challenging, make sure that your team is healed. The highest-leveled Pokémon you'll be facing is Level 50. Volkner specializes in
+Electric-types
+, which are weak only to
+Ground-type
+moves. Ground-types are also immune to Electric attacks, so use that to your advantage!
+Grass
+- and
+Dragon
+-types resist Electric attacks, but it's not a good idea to use
+Water
+- or
+Flying
+-types here.
+Being the final Gym in Sinnoh, this one has is the most complex puzzle. This one involves hitting switches on the gear-like platforms to rotate them and make the correct path through. In the first room, hit the green switch on the platform on the right once. Then head for the switch on the left and hit it once to reach the next room.
+In the second room, go for the nearby blue switch to the left and hit it three times. You can then cross the drawbridge near the stairs and get to the blue switch in the upper left hand corner. Hit that switch then the nearby green switch to get the drawbridge around the right wall ready so now you can go to the third room.
+For the third and final room, hit the nearby red switch once and then the one that is nearby to the left to be able to pass the drawbridge on the left wall. Then follow the path to the green switch and hit it twice then hit the blue switch once and follow the path to use the drawbridge on the right wall and return to the first part of this room. Touch the first red switch you used again and backtrack past the right drawbridge again and you'll find the red switch moved the revolving platforms to where you now can reach Volkner.
+Sunyshore City Gym
+Trainers
+Trainer
+Pokémon
+School Kid
+Tiera
+ユリエ
+Yurie
+Reward:
+$
+940
+Pachirisu
+♀
+Lv.
+47
+No item
+School Kid
+Forrest
+トヨフミ
+Toyofumi
+Reward:
+$
+940
+Magneton
+Lv.
+47
+No item
+Guitarist
+Jerry
+ミック
+Mick
+Reward:
+$
+1056
+Magnemite
+Lv.
+44
+No item
+Luxio
+♂
+Lv.
+44
+No item
+Luxio
+♂
+Lv.
+44
+No item
+Poké Kid
+Meghan
+チマリ
+Chimari
+Reward:
+$
+336
+Pikachu
+♀
+Lv.
+42
+No item
+Pikachu
+♀
+Lv.
+42
+No item
+Pikachu
+♀
+Lv.
+42
+No item
+Pikachu
+♀
+Lv.
+42
+No item
+Guitarist
+Lonnie
+マイク
+Mike
+Reward:
+$
+1128
+Raichu
+♂
+Lv.
+47
+No item
+Ace Trainer
+Destiny
+ナズナ
+Nazuna
+Reward:
+$
+2880
+Electabuzz
+♂
+Lv.
+47
+No item
+Raichu
+♀
+Lv.
+48
+No item
+Guitarist
+Preston
+ゲイリー
+Gary
+Reward:
+$
+1080
+Luxio
+♂
+Lv.
+45
+No item
+Luxio
+♂
+Lv.
+45
+No item
+Ace Trainer
+Zachery
+ショウマ
+Shōma
+Reward:
+$
+2880
+Electabuzz
+♂
+Lv.
+47
+No item
+Magneton
+Lv.
+48
+No item
+Leader
+Volkner
+Sunyshore Gym
+Platinum
+Reward:
+$
+6000
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+46
+Charge Beam
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Iron Tail
+Steel
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Raichu
+♂
+Lv.
+46
+Charge Beam
+Electric
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Rivalry
+Held item:
+None
+Luxray
+♂
+Lv.
+48
+Thunder Fang
+Electric
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+Sitrus Berry
+Electivire
+♂
+Lv.
+50
+ThunderPunch
+Electric
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+While all of Volkner's Pokémon are weak to
+Ground
+, some are equipped with moves to cover their weaknesses. Most Ground Pokémon will have no problem with
+Jolteon
+, but
+Raichu
+'s
+Focus Blast
+and
+Signal Beam
+might be threatening. Unless you can take out Luxray quickly, do not use anything that suffers a dual weakness to
+Ice
+, such as
+Torterra
+, when facing Luxray. Volkner's star Pokémon
+Electivire
+has
+Fire Punch
+to cover
+Grass
+,
+Ice
+,
+Bug
+, and
+Steel
+. It may defeat one of your Pokémon with
+Giga Impact
+, but that prevents Electivire from moving the next turn.
+Once you beat Volkner, he will be so glad that he was able to have fun that he gives you the
+Beacon Badge
+, which allows you to use
+Waterfall
+outside of battle. Now that you have all eight Badges, all of your Pokémon will
+obey you
+, regardless of level. He'll also give you
+TM57
+(
+Charge Beam
+), a damaging electric type move that has a 70% chance of raising the users Sp. Attack by one stage. Now head to Jasmine again and
+your rival
+will appear and tell you that he wants to get stronger. Jasmine, who is touched by this conversation, will give you
+HM07
+(
+Waterfall
+). With this new HM, you can now head north to the
+Pokémon League
+.
+Now that you can use Waterfall (optional)
+You can pick up several items that were not accessible before.
+Route 208
+Items
+Item
+Location
+Games
+Carbos
+Small shoal on the northern shore of the river (requires
+Surf
+and
+Waterfall
+)
+Pt
+Route 210
+Items
+Northern (foggy) section
+Item
+Location
+Games
+Meadow Plate
+Atop the easternmost
+waterfall
+(requires
+Surf
+and
+Waterfall
+)
+(hidden)
+Pt
+Wave Incense
+Under the third bridge (requires
+Surf
+and
+Waterfall
+)
+Pt
+Mt. Coronet
+Items (4F 2)
+Item
+Location
+Games
+Stone Plate
+Atop the
+waterfall
+, on a rock inside a small section of cave (requires
+Surf
+and
+Waterfall
+)
+(hidden)
+Pt
+Adamant Orb
+Atop the waterfall, inside a small section of cave (requires
+Surf
+and
+Waterfall
+)
+Pt
+Lustrous Orb
+Atop the waterfall, inside a small section of cave (requires
+Surf
+and
+Waterfall
+)
+Pt
+Route 223
+Route 223
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+30-50
+60%
+Pelipper
+D
+P
+Pt
+Surfing
+30-50
+30%
+Mantyke
+D
+P
+Pt
+Surfing
+30-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+15-25
+30%
+Octillery
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Miranda
+リリカ
+Ririka
+Reward:
+$
+720
+Lumineon
+♀
+Lv.
+45
+No item
+Swimmer
+Aubree
+ケイコ
+Keiko
+Reward:
+$
+688
+Bibarel
+♀
+Lv.
+43
+No item
+Azumarill
+♀
+Lv.
+43
+No item
+Swimmer
+Oscar
+ヒデノリ
+Hidenori
+Reward:
+$
+688
+Mantyke
+♂
+Lv.
+41
+No item
+Remoraid
+♂
+Lv.
+42
+No item
+Mantine
+♂
+Lv.
+43
+No item
+Swimmer
+Colton
+レンサク
+Rensaku
+Reward:
+$
+696
+Wingull
+♂
+Lv.
+40
+No item
+Octillery
+♂
+Lv.
+44
+No item
+Pelipper
+♂
+Lv.
+44
+No item
+Swimmer
+Paige
+キミカ
+Kimika
+Reward:
+$
+696
+Marill
+♀
+Lv.
+39
+No item
+Golduck
+♀
+Lv.
+41
+No item
+Wingull
+♀
+Lv.
+40
+No item
+Swimmer
+Ricardo
+アキヒト
+Akihito
+Reward:
+$
+720
+Tentacruel
+♂
+Lv.
+45
+No item
+Swimmer
+Wesley
+ミナト
+Minato
+Reward:
+$
+688
+Floatzel
+♂
+Lv.
+43
+No item
+Tentacruel
+♂
+Lv.
+43
+No item
+Swimmer
+Crystal
+マリエ
+Marie
+Reward:
+$
+1686
+Wingull
+♀
+Lv.
+42
+No item
+Seaking
+♀
+Lv.
+44
+No item
+Sailor
+Zachariah
+タツヒコ
+Tatsuhiko
+Reward:
+$
+1408
+Pelipper
+♂
+Lv.
+40
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+44
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Swimmer
+Gabrielle
+タマキ
+Tamaki
+Reward:
+$
+720
+Golduck
+♀
+Lv.
+45
+No item
+Swimmer
+Cassandra
+コヨミ
+Koyomi
+Reward:
+$
+672
+Lumineon
+♀
+Lv.
+44
+No item
+Pelipper
+♀
+Lv.
+42
+No item
+Swimmer
+Francisco
+テルユキ
+Teruyuki
+Reward:
+$
+720
+Tentacool
+♂
+Lv.
+41
+No item
+Golduck
+♂
+Lv.
+45
+No item
+Swimmer
+Troy
+スイヘイ
+Suihei
+Reward:
+$
+720
+Gyarados
+♂
+Lv.
+45
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Heart Scale
+On the first island
+(hidden)
+Pt
+TM18
+(
+Rain Dance
+)
+Among a jumble of rocks on the west side
+Pt
+Ultra Ball
+Above Sailor Zachariah, to the right
+Pt
+Heart Scale
+Next to Sailor Zachariah, to the left
+(hidden)
+Pt
+Dive Ball
+North of Swimmer Gabrielle
+Pt
+Rare Candy
+Northeast side on an island southeast of Swimmer Troy
+Pt
+Route 223
+should be a straightforward water route since all you need are
+Surf
+,
+Waterfall
+, and maybe an Electric- and/or Grass-type Pokémon. You can catch a
+Mantyke
+here, but remember that you need a
+Remoraid
+in your party for it to evolve into
+Mantine
+. At the northern end is the
+Pokémon League
+.
+Pokémon League (south)
+Entrance to Victory Road
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+30-50
+5%
+Wingull
+D
+P
+Pt
+Surfing
+30-40
+60%
+Pelipper
+D
+P
+Pt
+Surfing
+30-50
+35%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Climb the waterfall to the
+Pokémon League
+and enter the Pokémon Center. Prepare for a long journey; this is the last stop before
+Victory Road
+, a long and difficult challenge.
+Victory Road
+Trainers
+Trainer
+Pokémon
+Psychic
+Bryce
+Reward:
+$
+1472
+Haunter
+♂
+Lv.
+43
+No item
+Gengar
+♂
+Lv.
+46
+No item
+Gardevoir
+♂
+Lv.
+46
+No item
+Bird Keeper
+Hana
+Reward:
+$
+1504
+Noctowl
+♀
+Lv.
+45
+No item
+Togetic
+♂
+Lv.
+47
+No item
+Ace Trainer
+Mariah
+Reward:
+$
+2880
+Blissey
+♀
+Lv.
+45
+No item
+Glalie
+♀
+Lv.
+46
+No item
+Magnezone
+Lv.
+48
+No item
+Ace Trainer
+Omar
+Reward:
+$
+2880
+Mamoswine
+♂
+Lv.
+45
+No item
+Mothim
+♂
+Lv.
+46
+No item
+Rampardos
+♂
+Lv.
+48
+No item
+Ace Trainer
+Sydney
+Reward:
+$
+2880
+Clefable
+♀
+Lv.
+47
+No item
+Torterra
+♂
+Lv.
+48
+No item
+Veteran
+Clayton
+Reward:
+$
+3760
+Staraptor
+♂
+Lv.
+47
+No item
+Lickilicky
+♂
+Lv.
+47
+No item
+Double Team
+Al & Kay
+Reward:
+$
+12000
+Staraptor
+♂
+Lv.
+50
+No item
+Ambipom
+♂
+Lv.
+50
+No item
+Black Belt
+Miles
+Reward:
+$
+1152
+Machamp
+♂
+Lv.
+48
+No item
+Psychic
+Valencia
+Reward:
+$
+2944
+Chimecho
+♀
+Lv.
+44
+No item
+Absol
+♀
+Lv.
+45
+No item
+Dusknoir
+♀
+Lv.
+46
+No item
+Double Team
+Pat & Jo
+Reward:
+$
+12000
+Lumineon
+♂
+Lv.
+50
+No item
+Rapidash
+♂
+Lv.
+50
+No item
+Ace Trainer
+Henry
+Reward:
+$
+2880
+Rhydon
+♂
+Lv.
+47
+No item
+Carnivine
+♂
+Lv.
+48
+No item
+Dragon Tamer
+Ondrej
+Reward:
+$
+1504
+Altaria
+♂
+Lv.
+45
+No item
+Gabite
+♂
+Lv.
+47
+No item
+Veteran
+Edgar
+Reward:
+$
+3680
+Porygon-Z
+Lv.
+46
+No item
+Tangrowth
+♂
+Lv.
+46
+No item
+Empoleon
+♂
+Lv.
+46
+No item
+Dragon Tamer
+Clinton
+Reward:
+$
+1504
+Gible
+♂
+Lv.
+43
+No item
+Swablu
+♂
+Lv.
+45
+No item
+Gabite
+♂
+Lv.
+47
+No item
+To get ready for
+Victory Road
+, make sure you include Pokémon that have the HM moves
+Surf
+,
+Strength
+,
+Rock Smash
+,
+Waterfall
+, and
+Rock Climb
+, since you will need them to help with navigating through this area. Don't forget to challenge every trainer you see since a few of their Pokémon, such as
+Dusknoir
+or
+Tangrowth
+, cannot be seen anywhere else.
+1F
+Available Pokémon (1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+43
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+42-43
+0%
+0%
+15%
+Graveler
+D
+P
+Pt
+Cave
+40,42
+30%
+30%
+0%
+Graveler
+D
+P
+Pt
+Cave
+40
+0%
+0%
+20%
+Onix
+D
+P
+Pt
+Cave
+41-42
+20%
+Rhyhorn
+D
+P
+Pt
+Cave
+41
+20%
+Rhydon
+D
+P
+Pt
+Cave
+41,43
+15%
+Steelix
+D
+P
+Pt
+Cave
+42
+5%
+Gabite
+D
+P
+Pt
+Cave
+41
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (1F)
+Item
+Location
+Games
+TM41
+(
+Torment
+)
+North of
+Psychic
+Bryce
+Pt
+Max Repel
+North of
+Bird Keeper
+Hana
+Pt
+Nugget
+On a rock north of
+Ace Trainer
+Mariah
+(hidden)
+Pt
+Ultra Ball
+East of
+Black Belt
+Miles
+(hidden)
+Pt
+Rare Candy
+In an isolated area only reachable via the stairs in the south-west corner of B1F
+Pt
+Zinc
+South of the entrance to the blocked area
+Pt
+Razor Claw
+South-west of
+Veteran
+Edgar
+Pt
+Max Revive
+On top of cliff south-west from
+Veteran
+Edgar
+(hidden)
+Pt
+Use the first Rock Climb ledge to reach
+TM41
+(
+Torment
+), then climb back up and travel further down to find another Rock Climb ledge. Use it and follow the path until you reach the western wall of the chamber. Before you go upstairs, follow the path straight ahead. Examine the rock to find a hidden nugget. Use the stairs to reach 2F.
+2F
+Available Pokémon (2F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+44
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+41,44
+0%
+0%
+15%
+Graveler
+D
+P
+Pt
+Cave
+41,43
+15%
+15%
+0%
+Graveler
+D
+P
+Pt
+Cave
+43
+0%
+0%
+5%
+Magneton
+D
+P
+Pt
+Cave
+41,43
+30%
+Onix
+D
+P
+Pt
+Cave
+42
+5%
+Steelix
+D
+P
+Pt
+Cave
+42,44
+40%
+Gabite
+D
+P
+Pt
+Cave
+43
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (2F)
+Item
+Location
+Games
+Max Elixir
+North-west corner of 2F, end of first set of ramps
+Pt
+Rare Candy
+Northeast of
+Ace Trainer
+Omar
+(hidden)
+Pt
+Full Restore
+Southeast corner, east of the three moveable boulders and one
+breakable rock
+(hidden)
+Pt
+Full Restore
+East side, end of second set of bike ramps
+Pt
+TM71
+(
+Stone Edge
+)
+East side, end of third set of bike ramps
+Pt
+TM79
+(
+Dark Pulse
+)
+In an isolated room only reachable via the stairs in the north-west corner of 1F
+Pt
+Using Strength and Rock Smash, carefully move the boulder and maneuver your bike carefully in fourth gear (faster speed) to jump over the bike ledge. Then switch to third gear (slower speed) and jump over the bike ledge to find a Max Elixir. Now travel to the southern part of the room while smashing rocks and moving boulders (make sure to move those boulders very carefully to be able to progress successfully).
+Use the nearby stairs to return to 1F, then quickly head back to 2F. You can now move the nearby boulder in a new direction that will allow you to access a hidden area. By going through the smashing rocks/movable boulders/bike ledges in this area you can find some more items including
+TM71
+(
+Stone Edge
+). Now return to those stairs you just used to get back to 1F.
+1F
+Use the nearby Rock Climb ledge and carefully follow the path to reach the stairs for B1F.
+B1F
+Available Pokémon (B1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+44
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+41,44
+0%
+0%
+15%
+Graveler
+D
+P
+Pt
+Cave
+41,43
+15%
+15%
+0%
+Graveler
+D
+P
+Pt
+Cave
+43
+0%
+0%
+5%
+Onix
+D
+P
+Pt
+Cave
+42
+10%
+Azumarill
+D
+P
+Pt
+Cave
+41,43
+30%
+Steelix
+D
+P
+Pt
+Cave
+44
+5%
+Floatzel
+D
+P
+Pt
+Cave
+42,44
+30%
+Gabite
+D
+P
+Pt
+Cave
+43
+5%
+Surfing
+Golbat
+D
+P
+Pt
+Surfing
+30-50
+10%
+Floatzel
+D
+P
+Pt
+Surfing
+30-50
+90%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (B1F)
+Item
+Location
+Games
+Heart Scale
+On rock north-west of Double Team Jo & Pat
+(hidden)
+Pt
+Calcium
+North-east of Double Team Jo & Pat
+Pt
+Ultra Ball
+East of
+Ace Trainer
+Henry
+Pt
+TM59
+(
+Dragon Pulse
+)
+North-west of Psychic Valencia, accessible by the waterfall
+Pt
+Max Elixir
+South-west of Dragon Tamer Ondrej east of the stairs leading up
+(hidden)
+Pt
+Using Surf head to the nearby trainer and then from the pool on the right, follow the path in the southern area to briefly return to 1F to find a Rare Candy. Now head for the north area and use Waterfall to climb the waterfall. Then head for the next waterfall and descend down it find
+TM59
+(
+Dragon Pulse
+) before climbing back up.
+Once back up follow the path to the west to find some stairs to return to 1F.
+1F
+From the stairs follow the path until you see the path leading down and head in that direction. Now head left to another Rock Climb ledge and from there you can briefly return to 2F to find
+TM79
+(
+Dark Pulse
+). If you go up the stairs near the old man, the path leads to a blocked-off doorway that is inaccessible until after you've defeated the Elite Four.
+Near the stairs to the left is a path that leads to the Razor Claw which evolves
+Sneasel
+into
+Weavile
+. The Rock Climb ledge that is on the right hand cliff near the one you used earlier will lead you out of Victory Road and into the Pokémon League.
+← Part 18
+Sendoff Spring to Sunyshore City
+Platinum
+walkthrough
+Pokémon League (north)
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

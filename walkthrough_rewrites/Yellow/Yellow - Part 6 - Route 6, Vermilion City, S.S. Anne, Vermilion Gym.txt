@@ -1,0 +1,45 @@
+Game: Yellow
+Part: 6
+Keywords: Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+
+### Pokémon Yellow Walkthrough - Part 6
+
+**Route 6**  
+- Travel south from Saffron City to reach Vermilion City.  
+- **Trainers**:  
+  - Bug Catcher: Weedle (Lv. 16), Caterpie (Lv. 16) - $160  
+  - Jr. Trainer♂: Weepinbell (Lv. 16) - $320  
+  - Jr. Trainer♀: Cubone (Lv. 20) - $400  
+  - Additional trainers with various Pokémon (up to Lv. 21).
+
+**Vermilion City**  
+- **Fishing Guru**: Get the Old Rod from the northwest house to fish for Magikarp.  
+- **Pokémon Fan Club**: Speak to the Chairman for a Bike Voucher.  
+- **Items**:  
+  - Old Rod (Fishing Guru, northwest house)  
+  - Bike Voucher (Pokémon Fan Club)  
+  - After S.S. Anne: TM24 (Thunderbolt) from Lt. Surge (requires Cut).  
+  - Max Ether (hidden, east of Fan Club).  
+
+**S.S. Anne**  
+- **Location**: Board the S.S. Anne docked at Vermilion Harbor.  
+- **Trainers**: Battle various trainers across multiple floors (1F, B1F, 2F).
+- **Items**:  
+  - TM08 (Body Slam) - 1F, 2nd cabin left.  
+  - Max Ether - 2F, 2nd cabin left.  
+  - Rare Candy - 2F, 4th cabin left.  
+  - HM01 (Cut) - Captain's quarters after helping him.  
+
+**Rival Battle 4**  
+- **Blue**: Use effective counter strategies against his team (mostly unchanged from previous encounters).
+
+**Vermilion Gym**  
+- **Leader**: Lt. Surge (Electric-type).  
+- **Strategy**: Use Ground-type Pokémon to counter Electric moves.  
+- **Puzzle**: Find two switches hidden in trash cans to access Lt. Surge.  
+- **Battle**: Defeat Raichu (Lv. 28).  
+- **Reward**: Thunder Badge and TM24 (Thunderbolt).
+
+**A Rare Addition**  
+- Speak to the officer near the Poké Mart to receive Squirtle after defeating Lt. Surge.  
+- Next destination: Route 11 to the east.

@@ -1,0 +1,35 @@
+Game: Crystal
+Part: 27
+Keywords: Viridian Gym, Professor Oak's Lab, Route 22, Route 28
+
+**Part 27: Viridian City to Mt. Silver**
+
+**Viridian City: Viridian Gym**
+- **Leader:** Blue (No type specialty)
+- **Strategy:** Use Electric moves against Pidgeot and Gyarados; Rock moves against Arcanine. Bug, Ghost, and Dark moves work well on Alakazam and Exeggutor. Water attacks are effective against Rhydon and Arcanine.
+- **Rewards:** Earth Badge, $5800
+
+**Pallet Town: Oak's Lab**
+- After earning all Kanto Badges, visit Professor Oak to gain access to Mt. Silver.
+
+**Route 22**
+- Connects Viridian City to the Pokémon League Reception Gate.
+- Available Pokémon: Rattata, Spearow, Fearow, Poliwag, Ponyta, Doduo (varied levels and locations).
+
+**Pokémon League Reception Gate**
+- Access to Mt. Silver is now open.
+
+**Route 28**
+- Leads west from the Pokémon League Reception Gate into Johto.
+- Available Pokémon: Ponyta, Tangela, Rapidash, Arbok, Doduo, Poliwhirl (varied levels and locations).
+- **Items:** TM47 (Steel Wing) from a woman in a house (requires Cut); Rare Candy hidden to the east (requires Cut).
+
+**Mt. Silver: Exterior**
+- Last chance to prepare before climbing.
+- **Requirements:** Surf and Waterfall for full exploration; Flash recommended for navigating the dark caves.
+- Available Pokémon: Arbok, Golbat, Poliwhirl, Doduo, Ponyta, Rapidash, Tangela (varied levels and locations).
+
+**Items in Mt. Silver:**
+- Full Restore hidden on the southwest hill (requires Surf).
+
+This concludes the walkthrough for Part 27.

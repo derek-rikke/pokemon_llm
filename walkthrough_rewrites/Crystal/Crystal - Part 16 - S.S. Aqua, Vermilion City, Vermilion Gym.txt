@@ -1,0 +1,40 @@
+Game: Crystal
+Part: 16
+Keywords: S.S. Aqua, Vermilion City, Vermilion Gym
+
+**Part 16 Walkthrough: S.S. Aqua, Vermilion City, Vermilion Gym**
+
+**New Bark Town**
+- After the credits, visit Professor Elm to receive the **S.S. Ticket** for the **S.S. Aqua**.
+
+**Olivine City**
+- Go to the south building to board the **S.S. Aqua**.
+
+**S.S. Aqua**
+- **1F**: Speak to the Gentleman about his missing granddaughter. Check your cabin for a PC and bed.
+- **B1F**: Talk to Sailor Stanly and defeat him to progress.
+- **1F (Captain's Cabin)**: Find the girl and return her to her grandfather for a **Metal Coat**. The ship arrives in Vermilion City.
+
+**Vermilion City**
+- Explore between **Route 6** and **Route 11**. The **Pokémon Fan Club** is on the west side, and the **Vermilion Gym** is southwest. The eastern exit is blocked by a Snorlax.
+
+**Items in Vermilion City:**
+- **Iron**: Northeast of S.S. Aqua (hidden, requires Surf)
+- **Full Heal**: In bush next to Vermilion Gym (hidden)
+- **Rare Candy**: From Pokémon Fan Club Chairman
+- **HP Up**: Near east exit after earning all badges
+
+**Pokémon Fan Club**
+- Speak to members for insights and receive a **Rare Candy** from the Chairman.
+
+**Vermilion Gym**
+- **Leader**: Lt. Surge (Electric-type)
+- **Strategy**: Use Ground-type Pokémon to avoid Electric attacks. Consider Grass-types for resistance.
+- **Trainers**: Defeat Juggler Horton, Guitarist Vincent, and Gentleman Gregory to reach Surge.
+
+**Battle Strategy against Lt. Surge:**
+- **Electrode x2** (Lv. 40): Watch for Explosion.
+- **Magneton** (Lv. 40): Use Ground-type moves.
+- **Raichu** (Lv. 44): Beware of Thunder and Thunderbolt.
+
+After defeating Surge, you will receive the **Thunder Badge**.

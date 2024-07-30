@@ -1,0 +1,44 @@
+Game: Crystal
+Part: 17
+Keywords: Route 6, Saffron City, Saffron Gym
+
+**Part 17: Route 6 and Saffron City**
+
+**Route 6:**
+- Connects Vermilion City to Saffron City.
+- The Underground Path is closed due to an issue at Kanto Power Plant.
+- Trainers: 
+  - Pokéfan Rex (Phanpy, Lv. 35) - Reward: $2800
+  - Pokéfan Allan (Teddiursa, Lv. 35) - Reward: $2800
+- Available Pokémon:
+  - Rattata (Lv. 13), Raticate (Lv. 15), Jigglypuff (Lv. 12), Meowth (Lv. 13), Psyduck (Lv. 15), Magnemite (Lv. 14), Drowzee (Lv. 13), Snubbull (Lv. 13), Granbull (Lv. 15).
+
+**Saffron City:**
+- Central city with Silph Co., two Gyms, and Magnet Train Station.
+- Items:
+  - TM29 (Psychic) from Mr. Psychic in the southeast house.
+  - Up-Grade from a security guard in Silph Co. (1F).
+  - Focus Band inside Fighting Dojo.
+  
+**Key Locations:**
+1. **Mr. Psychic:** 
+   - Obtain TM29 (Psychic) by speaking with him.
+
+2. **Silph Co.:** 
+   - Currently only the first floor is accessible due to past Team Rocket activity. Receive an Up-Grade from the guard.
+
+3. **Magnet Train Station:** 
+   - Not operational due to Kanto Power Plant issues.
+
+4. **Fighting Dojo:** 
+   - Leader is training elsewhere; find a Focus Band here.
+
+5. **Saffron Gym (Leader: Sabrina):** 
+   - Specializes in Psychic Pokémon. Use Bug, Dark, or Ghost-type moves against them.
+   - Navigate the warp tiles: Start at the entrance, go southeast, northwest, southwest, southwest to reach Sabrina.
+   - Sabrina's Pokémon:
+     - Espeon (Lv. 46), Mr. Mime (Lv. 46), Alakazam (Lv. 48) - All use strong Psychic moves.
+   - Reward: Marsh Badge after defeating Sabrina.
+
+**Exit Strategy:** 
+- To exit the Gym efficiently, utilize the warp tiles in Sabrina's chamber, then northwest, northeast, and southeast through the next rooms.

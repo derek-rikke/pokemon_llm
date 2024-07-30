@@ -1,0 +1,1908 @@
+Part: Part 33
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_33
+Keywords: Route 229, Resort Area, Route 230, Back in Fight Area, Rival rematch
+
+Walkthrough Text:
+This article is incomplete.
+Please feel free to edit this article to add missing information and complete it.
+Contents
+1
+Route 229
+2
+Resort Area
+3
+Back to Route 229
+4
+Route 230
+5
+Back in Fight Area
+6
+Rival Rematch
+6.1
+Initial rematch
+6.2
+The hardest challenge!
+7
+Afterwards......
+Route 229
+Items
+Item
+Location
+Games
+Reaper Cloth
+Behind
+cuttable
+tree in the middle of the route
+D
+P
+Full Restore
+Northeast corner of the route
+D
+P
+Nugget
+From the man in the south
+D
+P
+Protein
+Northeast of the lake (requires
+Cut
+)
+D
+P
+Big Mushroom
+By the southwest end of the pond (requires
+Cut
+and
+Surf
+)
+(hidden)
+D
+P
+Qualot Berry
+×2
+West end of the pond or south of the man who gives Nuggets
+D
+P
+Grepa Berry
+×2
+West end of the pond or south of the man who gives Nuggets
+D
+P
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Dana
+ダイアン
+Diane
+Reward:
+$
+3300
+Mightyena
+♀
+Lv.
+55
+No item
+Kirlia
+♀
+Lv.
+55
+No item
+Ace Trainer
+Felix
+バトラー
+Butler
+Reward:
+$
+3300
+Dusclops
+♂
+Lv.
+55
+No item
+Salamence
+♂
+Lv.
+55
+No item
+Ace Trainer
+Sandra
+チトセ
+Chitose
+Reward:
+$
+3420
+Granbull
+♀
+Lv.
+57
+No item
+Pokémon Ranger
+Deshawn
+ケンジ
+Kenji
+Reward:
+$
+3300
+Spinda
+♂
+Lv.
+55
+No item
+Kecleon
+♂
+Lv.
+55
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+D
+P
+Pt
+Grass
+20-22
+5%
+Gloom
+D
+P
+Pt
+Grass
+51-52
+20%
+30%
+20%
+Bellsprout
+D
+P
+Pt
+Grass
+20-22
+5%
+Weepinbell
+D
+P
+Pt
+Grass
+51-52
+20%
+30%
+20%
+Scyther
+D
+P
+Pt
+Grass
+52
+5%
+Pinsir
+D
+P
+Pt
+Grass
+51-52
+5%
+Volbeat
+D
+P
+Pt
+Grass
+50
+5%
+Volbeat
+D
+P
+Pt
+Grass
+50
+10%
+Illumise
+D
+P
+Pt
+Grass
+50
+10%
+Illumise
+D
+P
+Pt
+Grass
+50
+5%
+Roselia
+D
+P
+Pt
+Grass
+50
+10%
+Purugly
+D
+P
+Pt
+Grass
+50
+10%
+Ledian
+D
+P
+Pt
+Grass
+51-52
+20%
+0%
+0%
+Ariados
+D
+P
+Pt
+Grass
+51-52
+0%
+0%
+20%
+Surfing and Fishing
+Wingull
+D
+P
+Pt
+Surfing
+40-55
+70%
+Pelipper
+D
+P
+Pt
+Surfing
+45-55
+30%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+100%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+100%
+Special Pokémon
+Pidgey
+D
+P
+Pt
+Swarm
+51
+40%
+Venonat
+D
+P
+Pt
+Poké Radar
+22
+2%
+Venomoth
+D
+P
+Pt
+Poké Radar
+47-50
+20%
+Nuzleaf
+D
+P
+Pt
+Dual-slot
+Ruby
+20
+8%
+Lombre
+D
+P
+Pt
+Dual-slot
+Sapphire
+20
+8%
+Pineco
+D
+P
+Pt
+Dual-slot
+Emerald
+20
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Head south to reach the
+Resort Area
+, fighting the trainers along the way. Or turn east and explore the
+long grass
+to find all trainers and items.
+Resort Area
+Items
+Item
+Location
+Games
+Nugget
+×2
+Above the pond in the south-east corner of the map
+On the southeast corner of the tree in the pond
+(hidden)
+D
+P
+Leppa Berry
+In the western patch of
+soft soil
+D
+P
+Qualot Berry
+×2
+In the western part of soft soil
+D
+P
+Grepa Berry
+×2
+In the eastern patch of soft soil
+D
+P
+Lum Berry
+In the eastern patch of soft soil
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing and Surfing
+Golduck
+D
+P
+Pt
+Surfing
+40-55
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Seaking
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+The
+Resort Area
+is a good place to heal before continuing. This town lacks a
+Poké Mart
+, unfortunately for some players. The large building with the purple roof is the
+Ribbon Syndicate
+, a place you can only enter for the first time if the number of different kinds of
+Ribbons
+owned by your party is ten or more. (For example, six Sinnoh Champ Ribbons only count as one kind of Ribbon.) On the first floor, you can buy extremely expensive (and rather useless) Ribbons, one of which can make you bankrupt-- it costs
+$
+999,999! The second floor is where you can get spa treatments to raise the
+friendship
+level of one of your Pokémon (including eggs) once per day. Other than that, there isn't much of interest. Pick the Berries from the trees in the south of the town. When you're ready, return to
+Route 229
+.
+Back to Route 229
+Heal your Pokémon before proceeding. You'll need to bring Pokémon with
+Surf
+and
+Rock Smash
+.
+Explore the area with long grass if you didn't do so. Otherwise, continue west to
+Route 230
+.
+Route 230
+Route 230
+Items
+Item
+Location
+Games
+Kelpsy Berry
+×4
+On the northwestern side near the Fight Area
+D
+P
+Grepa Berry
+×2
+On the northwestern side near the Fight Area
+D
+P
+Rare Candy
+On the east side of the island. Accessible only with
+Rock Smash
+D
+P
+Carbos
+Hidden On the north side of the island. Accessible only with
+Rock Smash
+D
+P
+HP Up
+Hidden In the wall near the middle of the island, behind a
+Rock Smash
+-able rock
+D
+P
+Trainers
+Trainer
+Pokémon
+Swimmer
+Kurt
+タイゾウ
+Taizō
+Reward:
+$
+848
+Crawdaunt
+♂
+Lv.
+53
+No item
+Swimmer
+Joanna
+チカコ
+Chikako
+Reward:
+$
+864
+Luvdisc
+♀
+Lv.
+50
+No item
+Lapras
+♀
+Lv.
+54
+No item
+Swimmer
+Mallory
+ナツコ
+Natsuko
+Reward:
+$
+864
+Seel
+♀
+Lv.
+50
+No item
+Dewgong
+♀
+Lv.
+54
+No item
+Swimmer
+Glenn
+ミナオ
+Minao
+Reward:
+$
+816
+Seel
+♂
+Lv.
+51
+No item
+Starmie
+Lv.
+51
+No item
+Swimmer
+Sophia
+トモコ
+Tomoko
+Reward:
+$
+832
+Mantyke
+♀
+Lv.
+50
+No item
+Mantine
+♀
+Lv.
+52
+No item
+Swimmer
+Sam
+サンペイ
+Sanpei
+Reward:
+$
+816
+Chinchou
+♂
+Lv.
+51
+No item
+Lanturn
+♂
+Lv.
+51
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+D
+P
+Pt
+Grass
+18, 23
+11%
+Gloom
+D
+P
+Pt
+Grass
+50
+20%
+Golduck
+D
+P
+Pt
+Grass
+52
+10%
+Bellsprout
+D
+P
+Pt
+Grass
+18, 23
+11%
+Weepinbell
+D
+P
+Pt
+Grass
+50
+20%
+Beautifly
+D
+P
+Pt
+Grass
+51
+10%
+Dustox
+D
+P
+Pt
+Grass
+51
+10%
+Floatzel
+D
+P
+Pt
+Grass
+50-52
+13%
+Gastrodon
+D
+P
+Pt
+Grass
+51
+5%
+Surfing and Fishing
+Tentacruel
+D
+P
+Pt
+Surfing
+40-55
+5%
+Seel
+D
+P
+Pt
+Surfing
+35-45
+30%
+Dewgong
+D
+P
+Pt
+Surfing
+40-55
+5%
+Pelipper
+D
+P
+Pt
+Surfing
+40-55
+60%
+Spheal
+D
+P
+Pt
+Surfing
+35-45
+30%
+Sealeo
+D
+P
+Pt
+Surfing
+40-55
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+60%
+Octillery
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+5%
+Wailmer
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+30%
+Wailord
+D
+P
+Pt
+Fishing
+Super Rod
+35-55
+5%
+Special Pokémon
+Togepi
+D
+P
+Pt
+Poké Radar
+18-23
+22%
+Corsola
+D
+P
+Pt
+Swarm
+50
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Keep surfing west to the island. Going through the
+tall grass
+may be a pain to find the items. Use a
+Repel
+if you like. It's worth noting that
+Togepi
+can be caught here with the
+Poké Radar
+! When you're done exploring, continue Surfing west. You'll eventually end up back in the
+Fight Area
+.
+Back in Fight Area
+Returning to the
+Fight Area
+means that you've explored the entire
+Battle Zone
+!
+Rival Rematch
+Make sure that you heal your Pokémon and have them at or above Lv.60 before proceeding!
+Every weekend (Saturday and Sunday),
+Rival
+Barry
+will stop his training in
+Stark Mountain
+and wait for you in front of the gate to the
+Battle Park
+. Talk to him when you're prepared, and he'll ask for a rematch. Get ready for a fierce battle!
+Initial rematch
+His team is now far stronger than the fight in Pokémon League Main Building. With his Pokémon around Lv.60 and his
+first partner Pokémon
+at Lv.64, this rematch can be as tough as the battle with
+Champion
+Cynthia
+!
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+58
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+60
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+60
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+59
+Poison Jab
+Poison
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+59
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+64
+Flamethrower
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+58
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+60
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+60
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+59
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+59
+Poison Jab
+Poison
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+64
+Hydro Pump
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Drill Peck
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+6400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+58
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+60
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+60
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+59
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+59
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+64
+Leaf Storm
+Grass
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+The hardest challenge!
+If you defeat the
+Elite Four
+and Champion 20 times, Barry's Pokémon will each increase in
+level
+by 10, and his
+prize money
+upon being defeated will increase to
+$
+7,400. Moreover, his Pokémon will also learn many new powerful moves! This will be the most difficult fight in the whole game, even harder than the Champion battle.
+Don't you dare to fight him unless you have your Pokémon at around Lv.70!!
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+7400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+68
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+70
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+70
+Brick Break
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+69
+Sludge Bomb
+Poison
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+69
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+74
+Flare Blitz
+Fire
+Physical
+--
+Focus Blast
+Fighting
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+7400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+68
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+70
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+70
+Brick Break
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+69
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Megahorn
+Bug
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+69
+Sludge Bomb
+Poison
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+74
+Hydro Pump
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Drill Peck
+Flying
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+P
+K
+M
+N
+Trainer
+Barry
+Fight Area
+Diamond and Pearl
+Reward:
+$
+7400
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+68
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+70
+Megahorn
+Bug
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+70
+Brick Break
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+69
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+69
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Megahorn
+Bug
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+74
+Leaf Storm
+Grass
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Afterwards......
+Congratulations! You have completed the after game storyline!
+There are still some things for you to do, though. Look at your
+Trainer Card
+. You can actually get more
+Trainer stars
+! You can aim for defeating Trainers in
+Battle Tower
+100 times in a row, winning a Master Rank in a
+Super Contest
+and try to get a
+platinum flag in the Underground
+. But don't forget about the biggest aim— catching all Pokémon and completing the Pokédex! Finishing these four jobs will give you the four remaining stars.
+Players! It's time to get all 5 trainer stars and complete your game! These are difficult jobs for sure, but with determination, you'll ultimately succeed!
+← Part 32
+Back in Survival Area, Back to Mt. Stark, Catching Heatran, Route 228
+Diamond and Pearl
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

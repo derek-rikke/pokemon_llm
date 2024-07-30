@@ -1,0 +1,1025 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_20
+Keywords: Sea Mauville, Scorched Slab, Mirage spots
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Sea Mauville
+1.1
+Exterior
+1.2
+Interior (Left)
+1.3
+Underwater Hallway
+1.4
+Control Room
+1.5
+Underwater Hallway
+1.6
+Interior (Right)
+1.6.1
+An Uneasy Feeling
+1.7
+Interior (Left)
+1.8
+Interior (Right)
+1.9
+Exterior (Right)
+1.10
+Interior (Right)
+1.11
+Storage Hold
+1.12
+Hunting a Legend
+1.12.1
+VS Ho-Oh
+OR
+1.12.2
+VS Lugia
+AS
+2
+Route 120
+2.1
+Scorched Slab
+2.1.1
+1F
+2.1.2
+B1F
+2.1.3
+B2F
+2.1.4
+B3F
+3
+Mirage Spots
+Sea Mauville
+Sea Mauville, exterior
+Sea Mauville, interior
+Sea Mauville, storage hold
+Sea Mauville, underwater hallway
+Sea Mauville, underwater control room
+Located to the north of
+Route 108
+,
+Sea Mauville
+was once a high-tech base where scientists and engineers dredged for natural resources beneath the water's surface. The facility was abandoned once it became evident that it was slowly falling over into the waves. Once slated for demolition, the half-sunken structure now exists as a refuge for water-dwelling Pokémon, and a popular tourist attraction.
+Trainers
+Trainer
+Pokémon
+Outside
+Sailor
+Duncan
+Reward:
+$
+1,120
+Wailmer
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+28
+No item
+Tuber
+Charlie
+Reward:
+$
+112
+Corphish
+♂
+Lv.
+28
+No item
+Inside
+Young Couple
+Lois & Hal
+Reward:
+$
+1,856
+Illumise
+♀
+Lv.
+29
+No item
+Volbeat
+♂
+Lv.
+29
+No item
+Mysterious Sisters
+Scall & Ion
+Reward:
+$
+1,232
+Chingling
+♀
+Lv.
+29
+No item
+Kirlia
+♀
+Lv.
+28
+No item
+Rematch
+Young Couple
+Lois & Hal
+*
+Reward:
+$
+2,176
+Illumise
+♀
+Lv.
+34
+No item
+Volbeat
+♂
+Lv.
+34
+No item
+Young Couple
+Lois & Hal
+*
+Reward:
+$
+2,624
+Illumise
+♀
+Lv.
+41
+No item
+Volbeat
+♂
+Lv.
+41
+No item
+Young Couple
+Lois & Hal
+*
+Reward:
+$
+2,880
+Illumise
+♀
+Lv.
+45
+No item
+Volbeat
+♂
+Lv.
+45
+No item
+Young Couple
+Lois & Hal
+*
+Reward:
+$
+3,264
+Illumise
+♀
+Lv.
+51
+No item
+Volbeat
+♂
+Lv.
+51
+No item
+Mysterious Sisters
+Scall & Ion
+*
+Reward:
+$
+1,760
+Chimecho
+♀
+Lv.
+41
+No item
+Gardevoir
+♀
+Lv.
+40
+No item
+Mysterious Sisters
+Scall & Ion
+*
+Reward:
+$
+1,936
+Chimecho
+♀
+Lv.
+45
+No item
+Gardevoir
+♀
+Lv.
+45
+No item
+Mysterious Sisters
+Scall & Ion
+*
+Reward:
+$
+2,200
+Chimecho
+♀
+Lv.
+51
+No item
+Gardevoir
+♀
+Lv.
+50
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+15, 20
+65%
+Wingull
+OR
+AS
+Surfing
+15, 20
+34%
+Pelipper
+OR
+AS
+Surfing
+25
+1%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+Special Pokémon
+Ho-Oh
+OR
+AS
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+15, 20, 25
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+Special Pokémon
+Spiritomb
+OR
+AS
+Only one
+50
+One
+Lugia
+OR
+AS
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Deck (requires
+Surf
+)
+Escape Rope
+South (left) of the Scientist
+OR
+AS
+TM18
+(
+Rain Dance
+)
+Stairway northeast (lower-right) of the Scientist
+OR
+AS
+Inside (requires
+Surf
+)
+Max Repel
+Southern (left) hallway, near the water's edge
+OR
+AS
+Key to Room 1
+North (right) hallway, from the female Tuber (requires
+Dive
+)
+OR
+AS
+White Herb
+North (right) side of the boxes near the entrance (requires
+Dive
+)
+OR
+AS
+Dive Ball
+Room 1; south (left) hallway, upper-left room (requires
+Key to Room 1
+)
+OR
+AS
+Key to Room 2
+Room 1; south (left) hallway, upper-left room; inside a filing cabinet
+OR
+AS
+Revive
+Room 2; south (left) hallway, lower-left room; near the Teammates
+OR
+AS
+Key to Room 6
+Room 2; south (left) hallway, lower-left room, from the Teammates
+OR
+AS
+Storage Key
+North (right) hallway, upper-left room (requires
+Dive
+)
+OR
+AS
+Destiny Knot
+Occasionally received after defeating Young Couple Lois & Hal in a rematch
+OR
+AS
+Dawn Stone
+Occasionally received after defeating Mysterious Sisters Scall & Ion in a rematch
+OR
+AS
+Outside (requires
+Surf
+,
+Dive
+)
+Key to Room 4
+Northern exterior, from a Fisherman
+OR
+AS
+Cargo hold (requires
+Surf
+,
+Dive
+)
+TM13
+(
+Ice Beam
+)
+Upper-left corner of the room
+OR
+AS
+Nugget
+×4
+Southeast (lower-left) from the door
+On the east (lower) side of the northern-most (upper-most) rectangular box
+East (down) from the south (left) side of the rectangular box opposite the door
+Along the south (left) wall, first item east (down) from TM13
+OR
+AS
+Big Nugget
+×8
+East (down) from the door, near the water
+North (right) of the TM
+On the west (upper) side of the northern-most (right-most) rectangular box
+In a cluster along the south (left) wall (×3)
+The two eastern-most (lowest) items in the eastern (lower) item cluster
+OR
+AS
+Luxury Ball
+Western (upper) item in the eastern (lowest) cluster of items
+OR
+AS
+Beedrillite
+Southeast (lower-left) corner of the room (requires
+Surf
+)
+OR
+AS
+Control room (requires
+Surf
+,
+Dive
+)
+Scanner
+At the bottom and to the right of the lower-right stairway
+OR
+AS
+Exterior
+Surf up to the facility and climb out of the water onto the sloped walkway. Upon doing so, the camera angle rotates 90° counter-clockwise to face westward. A guide stands at the corner to tell visitors about the facility. The Scientist here works for
+Captain Stern
+, and is looking for a certain item at the captain's request. He's searched all but the submerged parts of the facility and hasn't yet found it. Collect the nearby
+Escape Rope
+, and
+TM18
+(
+Rain Dance
+) on the farthest stairway. Enter the interior through the doorway near the Scientist.
+Interior (Left)
+Boxes and debris prevent you from reaching the north (right) hallway from here, so take the south (left) hallway instead. The two doors to the left are locked, and the room to the right only has two Trainers, Young Couple Lois & Hal. Walk to the water's edge to grab a
+Max Repel
+, then sail out across the water and dive beneath the surface.
+Underwater Hallway
+Go east (down) to reach a stairway leading to the control room.
+Control Room
+Inspect the area near the bottom of the lower-right stairway to find something glimmering faintly in the water. Pick it up to reveal the
+Scanner
+.
+Underwater Hallway
+Take the northwest (upper-right) hallway and return to the surface to reach the far side of the facility.
+Interior (Right)
+Climb out of the water and follow the hallway around the corner to collect a
+White Herb
+near the entrance. Talk to the female Tuber nearby to receive the
+Key to Room 1
+; which opens the upper-left door in the south (left) hallway.
+An Uneasy Feeling
+Visit the lower-left room on the way back to the submerged section. There seems to be nothing here, but you feel as if you're being watched. Save the game, then search the bookshelf in the room's top-left corner to find an old report about the facility's history. After reading this, you get the same feeling again. Check your party or open your Bag so that the top screen is covered by a menu. Close the menu to find that an
+Odd Keystone
+has suddenly appeared behind you!
+Types:
+Ghost
+Dark
+Ability:
+Pressure
+Held item:
+None
+Spiritomb
+Lv.
+50
+Sucker Punch
+Dark
+Physical
+--
+Nasty Plot
+Dark
+Status
+--
+Memento
+Dark
+Status
+--
+Dark Pulse
+Dark
+Special
+--
+Interior (Left)
+Room 1 contains Mysterious Sisters Scall & Ion, as well as a
+Dive Ball
+. Examine the filing cabinet on the left side of the room to obtain the
+Key to Room 2
+, which opens the lower-left door in this same hallway.
+Room 2 contains a
+Revive
+and two Teammates. Speak to the girl on the right to receive the
+Key to Room 6
+, which opens the upper-right door in the north (right) hallway.
+Interior (Right)
+Room 6 holds nothing of interest aside from an exterior door on the far side of the room.
+Exterior (Right)
+Surf to the isle to the north (right) of the facility. Ask the Fisherman here if he's caught anything, and he gives you the
+Key to Room 4
+. This opens the upper-left room in the north (right) hallway.
+Interior (Right)
+Return to the interior of the facility and open the door to Room 4. Inside, you find the
+Storage Key
+, which opens an exterior door.
+Storage Hold
+After passing through Room 6 again, Surf west (up) from the Fisherman to reach a door marked,
+Storage
+. The room holds a dozen items scattered across the floor. A Street Thug enters just after you, and intends to make off with these treasures. Suddenly, an old man, who the Street Thug calls Uncle Raikoh, enters. It seems at first that both men are after the goods, but the old man is only interested in a
+Skitty
+doll that he calls
+Takao
+. Once the two men leave, you are free to collect the
+Luxury Ball
+, four
+Nuggets
+, eight
+Big Nuggets
+, and
+TM13
+(
+Ice Beam
+). A sparkling spot in the lower-left corner denotes a Mega Stone; Surf around the boxes to reach the
+Beedrillite
+.
+Hunting a Legend
+Talk to the Scientist again, and he asks that you deliver the Scanner to Captain Stern back in
+Slateport
+. Hand it off to Stern in the harbor, and he rewards you with the
+Clear Bell
+OR
+/
+Tidal Bell
+AS
+, which features in some old legends in the far-off
+Johto
+region. Stern says he would sometimes see it glow when visiting Sea Mauville.
+VS Ho-Oh
+OR
+Climb the slanted deck of the facility and the Clear Bell in your Bag begins to glow. Head up the incline to the platform's edge, then walk along one of the metal beams protruding over the water. A mysterious ring floats at the beam's end. Save the game, then examine this ring to reveal the legendary
+Ho-Oh
+! If you fail to catch it, Ho-Oh will reappear once you enter the
+Hall of Fame
+.
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+None
+Ho-Oh
+Lv.
+50
+Sunny Day
+Fire
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Sacred Fire
+Fire
+Physical
+--
+Punishment
+Dark
+Physical
+--
+VS Lugia
+AS
+Enter the facility and dive down to the underwater control room, and the Tidal Bell in your Bag begins to glow. Go around the stairway to find a mysterious ring floating in the water near the back wall. Save the game, then examine this ring to reveal the legendary
+Lugia
+! If you fail to catch it, Lugia will reappear once you enter the
+Hall of Fame
+.
+Types:
+Psychic
+Flying
+Ability:
+Pressure
+Held item:
+None
+Lugia
+Lv.
+50
+Rain Dance
+Water
+Status
+--
+Hydro Pump
+Water
+Special
+--
+Aeroblast
+Flying
+Special
+--
+Punishment
+Dark
+Physical
+--
+Route 120
+Scorched Slab
+Scorched Slab, exterior
+R
+S
+Scorched Slab, 1F
+R
+S
+Return to
+Fortree City
+and Surf out into
+Route 120
+'s northern lake to reach the
+Scorched Slab
+. A rare
+Fire-type
+Pokémon is believed to hide in the depths of these dark, stifling ruins.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+26-29
+100%
+Surfing
+Zubat
+OR
+AS
+Surfing
+20
+50%
+Golbat
+OR
+AS
+Surfing
+25, 30
+50%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Barboach
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Barboach
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+26-29
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+14
+100%
+Surfing
+Zubat
+OR
+AS
+Surfing
+20
+50%
+Golbat
+OR
+AS
+Surfing
+25, 30
+50%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Barboach
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Barboach
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+26-29
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+14
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+26-29
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+14
+100%
+Special Pokémon
+Heatran
+OR
+AS
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM11
+(
+Sunny Day
+)
+North side of the cave
+OR
+AS
+B1F
+Full Heal
+North of the stairs from 1F
+OR
+AS
+Escape Rope
+Near the northeast corner of the northern pond (hidden)
+OR
+AS
+B2F
+Super Potion
+West side of the upper level (hidden)
+OR
+AS
+Nugget
+East side of the lower level (hidden)
+OR
+AS
+Charizardite Y
+Near the southwest corner
+OR
+AS
+1F
+Climb out of the water to reach
+TM11
+(
+Sunny Day
+), and take the northeast stairs to the basement.
+B1F
+The second floor is darker than the first. Go north to get a
+Full Heal
+, then east between the two ponds. In the southeast, you run into
+Flannery
+, who is also looking for the rare Pokémon. She's not quite up to the task, and heads back to
+Lavaridge
+to better prepare herself. Take the nearby stairs down to the next level.
+B2F
+B2F is shaped like two large rings, with an upper level and lower level. Collect the hidden
+Nugget
+on the lower level's east side, and the hidden
+Super Potion
+on the upper level's west side. Go down the southern of the two western stairways, then head south to find a
+Charizardite Y
+. Climb up the northern of the two western stairways, then down the northwest stairway. Push the boulder into place to create a shortcut, then go down the stairs to the north.
+B3F
+The oppressive heat of the final floor means simply breathing is difficult. Save the game and examine the mysterious ring floating near the north wall to reveal the legendary
+Heatran
+! If you fail to catch it, Heatran will reappear once you enter the
+Hall of Fame
+.
+Types:
+Fire
+Steel
+Ability:
+Flash Fire
+Held item:
+None
+Heatran
+Lv.
+50
+Metal Sound
+Steel
+Status
+--
+Crunch
+Dark
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Lava Plume
+Fire
+Special
+--
+Mirage Spots
+There are
+conditional Mirage spots
+to collect the Legendaries from
+Johto
+,
+Sinnoh
+, and
+Unova
+that cannot be found elsewhere. These locations will only appear after meeting certain conditions. Like with other Legendary Pokémon, if you fail to catch these creatures, they will not reappear until after you enter the Hall of Fame. See the
+Soaring Legendaries guide
+for battle coverage for these specific Mirage Spots.
+← Part 19
+Routes 132, 133, and 134, Sealed Chamber, Island Cave, Desert Ruins, Ancient Tomb
+Omega Ruby and Alpha Sapphire
+walkthrough
+Ever Grande City, Victory Road
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

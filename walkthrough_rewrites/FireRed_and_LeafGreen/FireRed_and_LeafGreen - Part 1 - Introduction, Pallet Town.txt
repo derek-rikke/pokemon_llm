@@ -1,0 +1,36 @@
+Game: FireRed_and_LeafGreen
+Part: 1
+Keywords: Introduction, Pallet Town
+
+**Pokémon FireRed and LeafGreen Walkthrough: Part 1 - Pallet Town**
+
+**Introduction**
+- Begin by selecting your character's gender and name after a brief cutscene. You’ll also name your rival, who can be selected from preset names (Green, Gary, Kaz, Toru).
+
+**Pallet Town**
+- Start in your home. Retrieve the **Potion** from your PC. 
+- Head downstairs to speak with your mom, who mentions Professor Oak is looking for you.
+
+**Meeting Professor Oak**
+- Go to the north part of town where Professor Oak appears. He will guide you to his lab.
+- Inside, choose your first Pokémon:
+  - **Bulbasaur** (Grass/Poison) - Strong against Water, Rock, Ground; weak to Fire, Flying, Psychic, Ice.
+  - **Charmander** (Fire) - Strong against Grass, Bug, Ice, Steel; weak to Water, Rock, Ground.
+  - **Squirtle** (Water) - Strong against Fire, Rock, Ground; weak to Grass, Electric. 
+- Name your Pokémon and prepare for your first battle against your rival.
+
+**Rival Battle 1**
+- Your rival will choose the Pokémon with a type advantage against yours. Each Pokémon is at Level 5.
+- Use your **Potion** if your Pokémon's HP is low during the battle.
+- Defeat your rival to earn **$80** and gain enough Experience Points to reach Level 6.
+
+**Next Steps**
+- After the battle, exit the lab and head north to Route 1 to continue your adventure.
+
+**Items and Pokémon Locations**
+- **Potion**: Found in your home PC.
+- **Pokédex**: Receive from Professor Oak after he gets his parcel.
+- **Poké Balls**: 5 are obtained from Professor Oak after receiving the Pokédex.
+- **Town Map**: Get from Daisy in Blue's house after getting the Pokédex.
+
+This concise guide provides essential instructions for progressing through Pallet Town and into your Pokémon journey.

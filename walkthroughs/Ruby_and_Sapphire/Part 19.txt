@@ -1,0 +1,1078 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_19
+Keywords: The Pokémon League
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Pokémon League
+1.1
+Elite Four
+1.1.1
+Battle 1: Sidney
+1.1.2
+Battle 2: Phoebe
+1.1.3
+Battle 3: Glacia
+1.1.4
+Battle 4: Drake
+1.2
+Champion
+1.3
+Hall of Fame
+Pokémon League
+Pokémon League Lobby
+The
+Pokémon League
+building holds the traditional amenities. The Pokémon Center and PC are located to the left, while the Poké Mart is off to the right. It's a good idea to stock up on
+Hyper Potions
+,
+Full Restores
+, and
+Full Heals
+for the gauntlet ahead.
+To increase your chances of victory, you may want to revisit the
+Lilycove Department Store
+and purchase some
+battle items
+. These items temporarily raise one of a Pokémon's stats during battle. Using a single
+X Defense
+or
+X Sp. Def
+will boost the respective stat by 50%. Using two is equal to a 100% boost, so the Pokémon sustains half the normal amount of damage.
+Dire Hits
+can be useful as well, as using three or more drastically raises the odds of getting a
+critical hit
+. In addition, using a
+Guard Spec.
+protects your Pokémon from stat reduction for five turns.
+With your preparations complete, talk to the two Ace Trainers guarding the doorway in the room's center. They verify that you've earned all eight
+Hoenn League
+Badges before stepping aside, allowing you to enter the depths of the Pokémon League. Challengers must face the
+Elite Four
+and
+Champion
+in quick succession, with no outside help. Step through the door to reach the first chamber.
+Elite Four
+Battle 1: Sidney
+Sidney's room
+The first member of the Elite Four is
+Sidney
+, a master
+Dark-type
+Trainer. His Pokémon are all vulnerable to
+Bug
+- and
+Fighting-type
+attacks, and immune to
+Psychic
+moves.
+He leads with his
+Mightyena
+, which lowers the opponent's Attack with its
+Intimidate
+Ability.
+Crunch
+and
+Take Down
+are strong moves, while
+Sand-Attack
+lowers the target's accuracy. Use super-effective moves, or a special attacker to bypass Intimidate, to knock it out.
+Cacturne
+is a
+Grass
+/
+Dark
+type, doubly vulnerable to Bug moves.
+Leech Seed
+lets it slowly sap the target's health to restore its own, and
+Cotton Spore
+cuts the target's
+Speed
+. Target one of its many weaknesses to knock it out quickly.
+Shiftry
+, like Cacturne, has several weaknesses, but may be easier to take down. It can retaliate against Fighting Pokémon with
+Extrasensory
+, and may use
+Swagger
+to confuse the target while raising its
+Attack
+, in the hopes that it will wear itself down. Use a
+Persim Berry
+to cure confusion, and take it out by exploiting one of its many weaknesses. His
+Sharpedo
+can be dangerous due to its high Attack and Speed, but its low defenses mean you can make quick work of it.
+Surf
+and Crunch are its strongest attacks, but it can also score a critical hit with
+Slash
+. Its
+Rough Skin
+Ability damages any opponent that makes contact. Last up is his
+Absol
+; its high Attack means that any of its moves can pack a punch. Slash has an increased critical-hit ratio, while the sure-hit
+Aerial Ace
+can be used to deter Fighting Pokémon. Its defenses are mediocre, so use your strongest moves to keep up the pressure and take it down.
+Elite Four
+Sidney
+Ever Grande City
+Ruby and Sapphire
+Reward:
+$
+4900
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+46
+Crunch
+Dark
+--
+Take Down
+Normal
+--
+Sand-Attack
+Ground
+--
+Roar
+Normal
+--
+Types:
+Grass
+Dark
+Ability:
+Sand Veil
+Held item:
+None
+Cacturne
+♂
+Lv.
+46
+Faint Attack
+Dark
+--
+Needle Arm
+Grass
+--
+Cotton Spore
+Grass
+--
+Leech Seed
+Grass
+--
+Types:
+Grass
+Dark
+Ability:
+Chlorophyll
+Held item:
+None
+Shiftry
+♂
+Lv.
+48
+Fake Out
+Normal
+--
+Extrasensory
+Psychic
+--
+Double Team
+Normal
+--
+Swagger
+Normal
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+48
+Surf
+Water
+--
+Crunch
+Dark
+--
+Slash
+Normal
+--
+Swagger
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Absol
+♂
+Lv.
+49
+Swords Dance
+Normal
+--
+Slash
+Normal
+--
+Aerial Ace
+Flying
+--
+Snatch
+Dark
+--
+Battle 2: Phoebe
+Phoebe's room
+The second member of the Elite Four is
+Phoebe
+, a master
+Ghost-type
+Trainer. Her Pokémon are all vulnerable to
+Ghost
+- and
+Dark-type
+moves, and immune to
+Normal
+and
+Fighting
+moves.
+She leads with her first of two
+Dusclops
+, a defensive Ghost Pokémon that is more interested in status ailments than direct attacks.
+Confuse Ray
+triggers confusion, which may force the target to attack itself.
+Curse
+forces it to sacrifice half of its health to lay a curse on the target, which wears away 25% of its maximum health every turn; however, switching your Pokémon out lifts the curse. Use Ghost and Dark attacks to take it down. Phoebe has two
+Banette
+on her team. The first can burn the target and cut its Attack in half with
+Will-O-Wisp
+, while
+Spite
+gradually wears away the opponent's Power Points. The second can wear the target's health away with
+Toxic
+, while
+Skill Swap
+switches its
+Insomnia
+Ability with that of the foe. Both can use
+Shadow Ball
+, and can cause minor additional damage with
+Faint Attack
+and
+Psychic
+, respectively. Due to its unique
+Dark
+/
+Ghost
+typing,
+Sableye
+has no weaknesses under normal conditions; however, using
+Foresight
+exposes its Dark-type vulnerability to
+Fighting
+moves. Faint Attack, Psychic, and Shadow Ball deal damage, while
+Attract
+distracts male targets. Lastly, her second
+Dusclops
+has access to Shadow Ball,
+Ice Beam
+, and
+Earthquake
+; not only do these allow it to deal super-effective damage against a wide variety of Pokémon, the target may end up Frozen. Its final move, Confuse Ray, allows it to further harass its opponent. Take it down with strong Ghost- or Dark-type attacks to win the battle.
+Elite Four
+Phoebe
+Ever Grande City
+Ruby and Sapphire
+Reward:
+$
+5100
+Type:
+Ghost
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Dusclops
+♀
+Lv.
+48
+Curse
+???
+--
+Confuse Ray
+Ghost
+--
+Future Sight
+Psychic
+--
+Shadow Punch
+Ghost
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♀
+Lv.
+49
+Spite
+Ghost
+--
+Will-O-Wisp
+Fire
+--
+Shadow Ball
+Ghost
+--
+Faint Attack
+Dark
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♀
+Lv.
+49
+Toxic
+Poison
+--
+Skill Swap
+Psychic
+--
+Shadow Ball
+Ghost
+--
+Psychic
+Psychic
+--
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+50
+Faint Attack
+Dark
+--
+Shadow Ball
+Ghost
+--
+Psychic
+Psychic
+--
+Attract
+Normal
+--
+Type:
+Ghost
+Unknown
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Dusclops
+♀
+Lv.
+51
+Confuse Ray
+Ghost
+--
+Shadow Ball
+Ghost
+--
+Ice Beam
+Ice
+--
+Earthquake
+Ground
+--
+Battle 3: Glacia
+Glacia's room
+The third member of the Elite Four is
+Glacia
+, a master
+Ice-type
+Trainer. Her Pokémon are vulnerable to
+Rock
+-,
+Fire
+-, and
+Fighting-type
+attacks.
+She leads with her first
+Glalie
+, which tends to start things off with
+Hail
+. With Hail in effect,
+Blizzard
+'s accuracy rises to 100% and all non-Ice types take residual damage for five turns. Glalie's
+Light Screen
+temporarily reduces the damage taken from Special moves, so moves like
+Flamethrower
+are less effective. Its other moves aren't much of a problem, so this may be a good opportunity for set-up moves like
+Swords Dance
+. Her second Glalie is much the same; as with the first, take it out at your leisure. Glacia also commands two nearly-identical
+Sealeo
+. Both carry Hail in addition to damaging
+Water
+and
+Ice
+attacks, while the second can distract male opponents with
+Attract
+. Glacia's biggest threat is
+Walrein
+, an Ice/Water Pokémon. Its high HP, Defense, and Special Defense means that not even super-effective moves will take it down easily. Decent offensive stats allow it to deal respectable damage with
+Surf
+, Blizzard, and
+Body Slam
+.
+Sheer Cold
+instantly knocks out the target if it hits, but only works on a target of a lower level than the user. Use
+Grass
+or
+Electric
+moves to take it down quickly.
+Elite Four
+Glacia
+Ever Grande City
+Ruby and Sapphire
+Reward:
+$
+5300
+Type:
+Ice
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Glalie
+♀
+Lv.
+50
+Hail
+Ice
+--
+Light Screen
+Psychic
+--
+Ice Beam
+Ice
+--
+Crunch
+Dark
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♀
+Lv.
+50
+Surf
+Water
+--
+Ice Ball
+Ice
+--
+Hail
+Ice
+--
+Body Slam
+Normal
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♀
+Lv.
+52
+Hail
+Ice
+--
+Blizzard
+Ice
+--
+Dive
+Water
+--
+Attract
+Normal
+--
+Type:
+Ice
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Glalie
+♀
+Lv.
+52
+Hail
+Ice
+--
+Ice Beam
+Ice
+--
+Shadow Ball
+Ghost
+--
+Crunch
+Dark
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Walrein
+♀
+Lv.
+53
+Blizzard
+Ice
+--
+Surf
+Water
+--
+Body Slam
+Normal
+--
+Sheer Cold
+Ice
+--
+Battle 4: Drake
+Drake's room
+The fourth and final member of the Elite Four is
+Drake
+, a master
+Dragon-type
+Trainer. His Pokémon are all vulnerable to Dragon- and
+Ice-type
+attacks.
+Drake leads with his
+Shelgon
+, a physically-oriented Pokémon.
+Dragon Claw
+is its strongest move, while
+Rock Tomb
+helps the slow Pokémon even the playing field by lowering the target's
+Speed
+. As a Rock move, it also allows it to fight back against Ice Pokémon. Next up is his
+Altaria
+, a defensively-oriented Pokémon.
+Dragon Dance
+raises both its
+Attack
+and Speed by one stage each, which works well alongside
+Take Down
+. Avoid relying on status ailments for an advantage, as Altaria can rid itself of such problems with
+Refresh
+. As a
+Dragon
+/
+Flying
+Pokémon, it takes massive damage from moves like
+Ice Beam
+. Drake's team features two
+Flygon
+; the first uses special moves, while the second relies on physical moves. Both Pokémon are extremely vulnerable to Ice attacks. Drake's final Pokémon is
+Salamence
+, a Dragon/Flying type. It has high Attack, better-than-average Speed, and respectable defenses. Its
+Intimidate
+Ability weakens physical attackers, so special attackers, especially those with Ice moves, will have the advantage here.
+Elite Four
+Drake
+Ever Grande City
+Ruby and Sapphire
+Reward:
+$
+5500
+Type:
+Dragon
+Unknown
+Ability:
+Rock Head
+Held item:
+None
+Shelgon
+♂
+Lv.
+52
+Dragon Claw
+Dragon
+--
+Rock Tomb
+Rock
+--
+Protect
+Normal
+--
+Crunch
+Dark
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+54
+Take Down
+Normal
+--
+DragonBreath
+Dragon
+--
+Dragon Dance
+Dragon
+--
+Refresh
+Normal
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+53
+Flamethrower
+Fire
+--
+Crunch
+Dark
+--
+DragonBreath
+Dragon
+--
+Sand-Attack
+Ground
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+53
+Fly
+Flying
+--
+Dig
+Ground
+--
+DragonBreath
+Dragon
+--
+Sandstorm
+Rock
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Sitrus Berry
+Salamence
+♂
+Lv.
+55
+Flamethrower
+Fire
+--
+Dragon Claw
+Dragon
+--
+Crunch
+Dark
+--
+Fly
+Flying
+--
+Defeating the Elite Four has earned you the right to challenge Hoenn's reigning Champion. It is important to note that you will be drawn into battle immediately upon entering the final room, so take a moment to tend to your Pokémon and save your progress before moving on.
+Champion
+Champion's room
+Inside the Champion's hall, you find your mentor
+Steven
+waiting for you. It seems that you've been sharing adventures with Hoenn's Champion all along! Steven is curious to know how much you've learned in your travels, and asks that you battle him with all your might. He promises to do the same with his Pokémon, as well. The stage is set for a legendary showdown! As Champion, Steven is well aware of the benefits of a diverse Pokémon team. His Pokémon are of many different types, and don't share nearly as many weaknesses as the Elite Four's teams. However, he still prefers his beloved
+Steel
+types, and most of his Pokémon are either part-
+Rock
+or part-
+Ground
+types—no surprise from this well-known stone collector. With such a varied team, you'll need to switch out your Pokémon as needed to capitalize on the weaknesses of Steven's Pokémon.
+Steven leads with
+Skarmory
+, a
+Steel
+/
+Flying
+Pokémon with very high Defense; this makes physical attacks very ineffective. Skarmory likes to set up with
+Spikes
+, which damages any opposing grounded Pokémon switching in. By setting three layers, the opponent loses 25% of their maximum HP on the switch.
+Toxic
+can be very disruptive as well, as it
+badly poisons
+the target. Its other moves,
+Aerial Ace
+and
+Steel Wing
+, aren't very threatening. Strike with special-based
+Fire
+and
+Electric
+attacks to inflict serious damage.
+Next up is his
+Claydol
+, a
+Ground
+/
+Psychic
+Pokémon. Claydol plays a defensive role, using
+Reflect
+and
+Light Screen
+to lessen the amount of damage sustained from physical and special attacks, respectively. This can make any progress very difficult to achieve while these effects are active.
+TM12
+(
+Taunt
+) can prevent these status moves for a few turns, while
+TM31
+(
+Brick Break
+) lifts their effects before dealing damage.
+Earthquake
+and
+AncientPower
+are strong attacks, but it can't make good use of them due to its mediocre offenses. Target it with
+Water
+-,
+Grass
+-, or
+Dark-type
+moves to keep up the pressure.
+His
+Aggron
+, a
+Steel
+/
+Rock
+Pokémon, has an incredibly high Defense, and its
+Sturdy
+Ability causes
+one-hit knockout moves
+to always fail. Steven also has three
+Full Restores
+at his disposal, and will likely use one to heal a weakened Aggron. Its Attack is very high, allowing
+Earthquake
+to deal serious damage.
+Dragon Claw
+,
+Thunder
+, and
+SolarBeam
+aren't as intimidating as they could be due to its lower
+Special Attack
+, but can still pose a threat. Aggron is extremely vulnerable to
+Fighting
+- and
+Ground-type
+moves.
+Next is his
+Cradily
+, a very defensive
+Rock
+/
+Grass
+Pokémon. Though it may not deal serious damage, it can still harass the opponent with
+Confuse Ray
+and
+Giga Drain
+, which steals the target's health for itself.
+AncientPower
+may raise each of its stats by one stage, and
+Sludge Bomb
+may poison the target. Be quick to counter its status conditions, and strike back with
+Bug
+,
+Fighting
+,
+Ice
+, or
+Steel
+attacks.
+His
+Armaldo
+is an unusual
+Rock
+/
+Bug
+Pokémon. The biggest threat in its arsenal is AncientPower, as it receives a
+same-type attack bonus
+and may also raises its stats.
+Slash
+has an increased
+critical-hit
+ratio, while
+Aerial Ace
+is guaranteed to land a hit. Use items like
+X Defense
+or moves like
+Reflect
+to boost your Defense. Its seldom-seen typing leaves it vulnerable to moves of only a few different types. Use
+Water
+-, Rock-, and
+Steel-type
+attacks to exploit its weaknesses and knock it out.
+Finally, Steven sends out his heaviest hitter:
+Metagross
+, a high-level
+Steel
+/
+Psychic
+Pokémon.
+Meteor Mash
+strikes hard, thanks to a same-type attack bonus, and may raise the Pokémon's even higher.
+Psychic
+is another STAB-boosted move, while
+Hyper Beam
+deals heavy damage but forces it to recharge for a turn. It may be a good idea to inflict a
+Burn
+, both for its lingering damage and its Attack penalty. Otherwise, hammer away with your strongest special-based
+Fire
+,
+Ground
+,
+Ghost
+, and
+Dark
+attacks to claim the knockout and the battle.
+Champion
+Steven
+Ever Grande City
+Ruby and Sapphire
+Reward:
+$
+11600
+Types:
+Steel
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Skarmory
+♂
+Lv.
+57
+Steel Wing
+Steel
+--
+Toxic
+Poison
+--
+Aerial Ace
+Flying
+--
+Spikes
+Ground
+--
+Types:
+Ground
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Claydol
+Lv.
+55
+Earthquake
+Ground
+--
+AncientPower
+Rock
+--
+Light Screen
+Psychic
+--
+Reflect
+Psychic
+--
+Types:
+Steel
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Aggron
+♂
+Lv.
+56
+Earthquake
+Ground
+--
+Dragon Claw
+Dragon
+--
+Thunder
+Electric
+--
+SolarBeam
+Grass
+--
+Types:
+Rock
+Grass
+Ability:
+Suction Cups
+Held item:
+None
+Cradily
+♂
+Lv.
+56
+AncientPower
+Rock
+--
+Confuse Ray
+Ghost
+--
+Sludge Bomb
+Poison
+--
+Giga Drain
+Grass
+--
+Types:
+Rock
+Bug
+Ability:
+Battle Armor
+Held item:
+None
+Armaldo
+♂
+Lv.
+56
+AncientPower
+Rock
+--
+Slash
+Normal
+--
+Aerial Ace
+Flying
+--
+Water Pulse
+Water
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Sitrus Berry
+Metagross
+Lv.
+58
+Meteor Mash
+Steel
+--
+Earthquake
+Ground
+--
+Psychic
+Psychic
+--
+Hyper Beam
+Normal
+--
+With the battle concluded, Steven congratulates you on your impressive victory. Just as he is about to crown you the new Hoenn League Champion, May/Brendan rushes in with some advice for challenging the Champion, only to find that you've already done so.
+Professor Birch
+arrives not long after, and rates your Pokédex before congratulating you as well.
+Hall of Fame
+Steven then leads you into the
+Hall of Fame
+, where all Champions are honored. He asks that you set your Poké Balls in the machine here, so that your name and those of your Pokémon can be recorded for posterity. During the process, a shot of each fighter appears briefly on-screen. The screen fades to black, and the game is saved.
+← Part 18
+Ever Grande City, Victory Road
+Ruby and Sapphire
+walkthrough
+Post-Game: Eon Pokémon, S.S. Tidal, Battle Tower, Sky Pillar
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

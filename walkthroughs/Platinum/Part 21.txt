@@ -1,0 +1,779 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_21
+Keywords: Twinleaf Town, Sandgem Town, Eterna City, Great Marsh
+
+Walkthrough Text:
+Contents
+1
+Twinleaf Town
+2
+Sandgem Town
+2.1
+Pokémon Swarms
+3
+Dongle method
+4
+Eterna City
+5
+Great Marsh
+Twinleaf Town
+Now that the main game is over, the post-game begins. You'll find yourself in the place where the game originally began: your bedroom in
+Twinleaf Town
+. When you go downstairs,
+your mother
+will mention that
+Barry
+was just over and mentioned something about catching a ship at
+Snowpoint City
+.
+By now, you should have all 210 Pokémon in your
+Sinnoh Pokédex
+sighted and in
+Sandgem Town
+you can receive the
+National Pokédex
+. If not, you may have missed some. Here is a list of regional Pokémon not owned by a Trainer in Sinnoh.
+Rotom
+: Found in the TV at the
+Old Chateau
+, but only at
+night
+.
+Unown
+: Found in the
+Solaceon Ruins
+.
+Manaphy
+: Picture found in a book on a desk in Mr. Backlot's office in his mansion on
+Route 212
+.
+Mesprit, Azelf, and Uxie
+: Found in their caverns at their respective lakes after the Giratina battle in the Distortion World.
+Dialga and Palkia
+: Counted as seen during the story event at Spear Pillar.
+If you are ready, head to Sandgem Town.
+Sandgem Town
+Once
+Professor Rowan
+confirms that you have seen all the Pokémon in the Sinnoh Pokédex,
+Professor Oak
+will appear. Having heard of your exploits, he will reveal he is bringing components for the National Pokédex and your Pokédex is automatically upgraded. Before he leaves, he'll mention that
+Pal Park
+on
+Route 221
+is open. Now you can import Pokémon from the GBA games.
+Professor Rowan will then give you the
+Poké Radar
+, which will allow you to find non-regional Pokémon in
+tall grass
+. For it to work, you need to be standing in tall grass without being mounted on your
+bicycle
+. After one use, it takes 50 steps to recharge.
+Pokémon Swarms
+Once you have the National Pokédex, a swarm of Pokémon from a different region will appear on a different Route each day. The house south of Professor Rowan's lab belongs to
+Lucas
+/
+Dawn
+. Their little sister can tell you which of the swarm Pokémon is currently present.
+Swarm Pokémon
+Pokémon
+Location
+Levels
+Games
+Farfetch'd
+Route 221
+28-29
+D
+P
+Pt
+Doduo
+Route 201
+2
+D
+P
+Pt
+Drowzee
+Route 215
+19-20
+D
+P
+Pt
+Krabby
+Route 226
+48-49
+D
+P
+Pt
+Voltorb
+Route 218
+28-29
+D
+P
+Pt
+Cubone
+Route 203
+4
+D
+P
+Pt
+Pinsir
+Route 229
+48-49
+D
+P
+Pt
+Natu
+Route 224
+50
+D
+P
+Pt
+Dunsparce
+Route 208
+18
+D
+P
+Pt
+Snubbull
+Route 209
+18-19
+D
+P
+Pt
+Corsola
+Route 230
+48
+D
+P
+Pt
+Delibird
+Route 217
+32-33
+D
+P
+Pt
+Phanpy
+Route 207
+5, 7
+D
+P
+Pt
+Larvitar
+Route 206
+16
+D
+P
+Pt
+Zigzagoon
+Route 202
+3
+D
+P
+Pt
+Slakoth
+Eterna Forest
+10-11
+D
+P
+Pt
+Makuhita
+Route 225
+48-49
+D
+P
+Pt
+Skitty
+Route 222
+39-40
+D
+P
+Pt
+Electrike
+Valley Windworks
+9-10
+D
+P
+Pt
+Spoink
+Route 214
+21, 23
+D
+P
+Pt
+Spinda
+Route 227
+53-54
+D
+P
+Pt
+Beldum
+Route 228
+51-52
+D
+P
+Pt
+Dongle method
+Main article:
+Dual-slot mode
+By playing your Platinum game with a
+Generation III
+cartridge inserted in your Nintendo DS or DS Lite's GBA slot, you can make certain Pokémon appear on certain routes and areas throughout Sinnoh. Most of the Pokémon that appear depend on which GBA game is inserted, but
+Haunter
+and
+Gengar
+will appear in the
+Old Chateau
+if you insert any Generation III game.
+Eterna City
+Professor Oak is in the house next to the Gym in the southern part of town. Talk to him and he will give you an
+Up-Grade
+and mention that Kanto's
+Legendary birds
+Zapdos
+,
+Articuno
+, and
+Moltres
+are now
+roaming
+around Sinnoh.
+Great Marsh
+The Great Marsh
+Available Pokémon
+Area 1 and 2
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+D
+P
+Pt
+Grass
+30-31
+5%
+Noctowl
+D
+P
+Pt
+Grass
+28,30
+0%
+0%
+20%
+Yanma
+D
+P
+Pt
+Grass
+30-31
+5%
+Wooper
+D
+P
+Pt
+Grass
+28-30
+40%
+Quagsire
+D
+P
+Pt
+Grass
+30
+10%
+Tropius
+D
+P
+Pt
+Grass
+28,30
+20%
+20%
+0%
+Bibarel
+D
+P
+Pt
+Grass
+28
+20%
+Special Pokémon
+Arbok
+D
+P
+Pt
+Dual-slot
+FireRed
+30
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 3 and 4
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+D
+P
+Pt
+Grass
+27-30
+25%
+25%
+0%
+Tangela
+D
+P
+Pt
+Grass
+28-30
+0%
+0%
+15%
+Hoothoot
+D
+P
+Pt
+Grass
+27
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+28
+0%
+0%
+10%
+Yanma
+D
+P
+Pt
+Grass
+29-30
+5%
+Wooper
+D
+P
+Pt
+Grass
+27-29
+30%
+Quagsire
+D
+P
+Pt
+Grass
+29
+10%
+Bibarel
+D
+P
+Pt
+Grass
+27-28
+30%
+30%
+0%
+Bibarel
+D
+P
+Pt
+Grass
+27
+0%
+0%
+20%
+Special Pokémon
+Arbok
+D
+P
+Pt
+Dual-slot
+FireRed
+29
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 5 and 6
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+D
+P
+Pt
+Grass
+28-29
+5%
+Hoothoot
+D
+P
+Pt
+Grass
+26-27
+0%
+0%
+20%
+Yanma
+D
+P
+Pt
+Grass
+26-29
+25%
+25%
+0%
+Yanma
+D
+P
+Pt
+Grass
+27-29
+0%
+0%
+15%
+Wooper
+D
+P
+Pt
+Grass
+26-28
+30%
+Quagsire
+D
+P
+Pt
+Grass
+28
+10%
+Bibarel
+D
+P
+Pt
+Grass
+26-27
+30%
+30%
+0%
+Bibarel
+D
+P
+Pt
+Grass
+26
+0%
+0%
+20%
+Special Pokémon
+Arbok
+D
+P
+Pt
+Dual-slot
+FireRed
+28
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+All Areas
+Surfing and Fishing
+Wooper
+D
+P
+Pt
+Surfing
+20-30
+90%
+Quagsire
+D
+P
+Pt
+Surfing
+20-40
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+60%
+Carvanha
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+5%
+Pre-National Pokédex
+Levels 28,30 for Areas 1 and 2, Levels 28-29 for Areas 3 and 4, Levels 27-28 for Areas 5 and 6
+There is a 15/32 (47%) chance per area that there is no change in Pokémon encountered.
+Tangela
+D
+P
+Pt
+Grass
+27-30
++10%, 1/32 (3%)
+Yanma
+D
+P
+Pt
+Grass
+27-30
++10%, 1/32 (3%)
+Quagsire
+D
+P
+Pt
+Grass
+27-30
++10%, 2/32 (6%)
+Tropius
+D
+P
+Pt
+Grass
+27-30
++10%, 1/32 (3%)
+Skorupi
+D
+P
+Pt
+Grass
+27-30
+10%, 5/32 (16%)
+Croagunk
+D
+P
+Pt
+Grass
+27-30
+10%, 4/32 (12.5%)
+Carnivine
+D
+P
+Pt
+Grass
+27-30
+10%, 3/32 (9%)
+Post-National Pokédex
+Paras
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Exeggcute
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Kangaskhan
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Shroomish
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Gulpin
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Kecleon
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Drapion
+D
+P
+Pt
+Grass
+27-30
+10%, 2/32 (6%)
+Toxicroak
+D
+P
+Pt
+Grass
+27-30
+10%, 1/32 (3%)
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Entrance
+Item
+Location
+Games
+Matchup Checker
+Reward for capturing five Pokémon in a single Safari game.
+Pt
+Area 1
+Item
+Location
+Games
+Poké Ball
+Northwest of man wearing hat
+Pt
+Rare Candy
+In the most northwestern corner, in the mud
+(hidden)
+Pt
+Yellow Shard
+East of Rare Candy
+Pt
+Area 2
+Item
+Location
+Games
+Blue Shard
+North of the ledge
+Pt
+Toxic Plate
+In the northeastern corner, 3 tiles north from the southern fallen tree
+(hidden)
+Pt
+Area 3
+Item
+Location
+Games
+Great Ball
+South of man who describes bait and mud
+Pt
+Leaf Stone
+Near the center, in the middle of the large area of mud
+(hidden)
+Pt
+Area 4
+Item
+Location
+Games
+Poké Ball
+South of Bug Catcher
+Pt
+Green Shard
+Northwest of Bug Catcher
+Pt
+Hyper Potion
+Northwest of Green Shard, at the end of a "dead-end" path of bog
+(hidden)
+Pt
+Area 5
+Item
+Location
+Games
+Great Ball
+West of train stop
+Pt
+Big Mushroom
+On the south side, on the ground in the small corner without mud
+(hidden)
+Pt
+Area 6
+Item
+Location
+Games
+Red Shard
+Given at random from the boy with green hair when entering the marsh a different day
+Pt
+Green Shard
+Given at random from the boy with green hair when entering the marsh a different day
+Pt
+Blue Shard
+Given at random from the boy with green hair when entering the marsh a different day
+Pt
+Yellow Shard
+Given at random from the boy with green hair when entering the marsh a different day
+Pt
+Red Shard
+Near the southeast corner of the pond
+Pt
+Max Repel
+A couple of steps below the Red Shard, in the middle of the mud
+(hidden)
+Pt
+If you want to catch a lot of rare Pokémon, you should visit the
+Great Marsh
+at the north end of
+Pastoria City
+. For
+$
+500 you can explore the Marsh until you throw 30
+Safari Balls
+or walk 500 steps, whichever comes first. You won't use your Pokémon to battle here - if a wild Pokémon appears, you can throw Mud, Bait, or a
+Safari Ball
+. Bait lowers the chance of the Pokémon escaping, has a 90% chance of lowering its
+catch rate
+. The mud does just the opposite, making the Pokémon easier to catch, has a 90% probability of causing its chances of fleeing to rise.
+For
+$
+100, you can look through the binoculars in the upstairs room of the entrance building before a Safari Game. They show wild Pokémon in the Marsh area where they can be found. This is useful for spotting the rare Pokémon that are randomly selected each day.
+← Part 20
+Pokémon League (north)
+Platinum
+walkthrough
+Trophy Garden, Pal Park, Fullmoon Island, Snowpoint Temple, Spear Pillar, Turnback Cave
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

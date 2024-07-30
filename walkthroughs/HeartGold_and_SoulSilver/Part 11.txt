@@ -1,0 +1,1644 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_11
+Keywords: Route 45, Dark Cave, Route 46, Dragon's Den
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mahogany Town
+1.1
+The Pushy Salesman
+1.2
+The Shady Sightseer
+2
+Route 43
+2.1
+The Greedy Guards
+3
+Lake of Rage
+3.1
+Peace Disturbed
+3.1.1
+VS Gyarados
+4
+Mahogany Town
+4.1
+Just a Souvenir Shop
+4.2
+Team Rocket HQ
+4.2.1
+B1F
+4.2.2
+B2F (South)
+4.2.3
+B3F (Southeast)
+4.2.4
+B2F (North)
+4.2.5
+B3F (Northwest)
+4.2.6
+B2F (West)
+4.2.7
+B3F (Northwest)
+4.2.7.1
+VS Petrel
+4.2.8
+B2F (South)
+4.3
+Mahogany Gym
+4.4
+Desperate Times
+Mahogany Town
+Mahogany Town
+Mahogany Town
+is a quiet mountain town located at the intersection of Routes
+42
+,
+43
+, and
+44
+. The area once concealed an underground complex that served as a ninja hideout. There is no official Poké Mart here, but a souvenir shop offers an assortment of items for sale. The
+seventh Gym
+can be found here.
+Items
+Item
+Location
+Games
+RageCandyBar
+From the man near the east exit; may be purchased for
+$
+300 each
+HG
+SS
+Later visit
+TM07
+(
+Hail
+)
+From
+Gym Leader
+Pryce
+, after defeating him
+HG
+SS
+The Pushy Salesman
+There is a man on the east side of town that stops anyone from reaching
+Route 44
+. He states that as you are new in town, you should definitely try a
+RageCandyBar
+for the low price of
+$
+300. The item is a local specialty, named for the nearby
+Lake of Rage
+.
+The Shady Sightseer
+A second man blocks the entrance to the
+Mahogany Gym
+as well. He asks if you have seen
+a man with a black cape
+who has been investigating strange radio waves near
+Mahogany Town
+and the
+Lake of Rage
+, and wonders aloud who he may be. The lake is located to the north, beyond
+Route 43
+.
+Route 43
+Route 43
+Route 43
+connects
+Mahogany Town
+to the
+Lake of Rage
+. The main road passes through a gate, while a grassy trail winds its way through the trees.
+Trainers
+Trainer
+Pokémon
+Camper
+Spencer
+Reward:
+$
+320
+Sandshrew
+♂
+Lv.
+18
+No item
+Sandslash
+♂
+Lv.
+18
+No item
+Zubat
+♂
+Lv.
+20
+No item
+Picnicker
+Tiffany
+Reward:
+$
+336
+Clefairy
+♀
+Lv.
+21
+No item
+Poké Maniac
+Brent
+Reward:
+$
+1536
+Nidorina
+♀
+Lv.
+20
+No item
+Nidorino
+♂
+Lv.
+24
+No item
+Poké Maniac
+Beckett
+Reward:
+$
+1280
+Slowbro
+♂
+Lv.
+20
+No item
+Poké Maniac
+Ron
+Reward:
+$
+1280
+Nidoking
+♂
+Lv.
+20
+No item
+Fisherman
+Marvin
+Reward:
+$
+480
+Magikarp
+♂
+Lv.
+10
+No item
+Gyarados
+♂
+Lv.
+20
+No item
+Magikarp
+♂
+Lv.
+15
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+HG
+SS
+Grass
+17
+25%
+20%
+0%
+Venonat
+HG
+SS
+Grass
+16
+5%
+0%
+0%
+Venonat
+HG
+SS
+Grass
+15, 17
+0%
+0%
+15%
+Noctowl
+HG
+SS
+Grass
+17
+0%
+0%
+20%
+Mareep
+HG
+SS
+Grass
+15
+10%
+10%
+0%
+Mareep
+HG
+SS
+Grass
+16
+0%
+0%
+5%
+Flaaffy
+HG
+SS
+Grass
+15
+30%
+0%
+30%
+Flaaffy
+HG
+SS
+Grass
+15-17
+0%
+40%
+0%
+Girafarig
+HG
+SS
+Grass
+15
+30%
+Surfing
+Magikarp
+HG
+SS
+Surfing
+5-25, 50
+100%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+15-16
+50%
+Pineco
+HG
+SS
+Headbutt
+15-16
+30%
+Exeggcute
+HG
+SS
+Headbutt
+15-16
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+17-18
+65%
+Exeggcute
+HG
+SS
+Headbutt
+17-18
+20%
+Venonat
+HG
+SS
+Headbutt
+17-18
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Blk Apricorn
+West of the larger pond, on the tree (daily; requires
+Surf
+,
+Cut
+)
+HG
+SS
+Max Ether
+West of the gate, on the ledge
+HG
+SS
+Poké Doll
+Sometimes given out by Picnicker Tiffany, after registering her phone number
+HG
+SS
+Later visit
+TM36
+(
+Sludge Bomb
+)
+In the gate; from the guard, after Team Rocket is defeated in
+Mahogany Town
+HG
+SS
+The Greedy Guards
+Travelers who wish to take the easier path to the lake and stay on the main road are forced to pass through the gate.
+Team Rocket
+knows this, and has dispatched two Grunts here. Anyone who enters the gate is immediately confronted by the pair, and forced to pay
+$
+1,000 as a toll.
+Lake of Rage
+Lake of Rage
+The
+Lake of Rage
+, also known as
+Gyarados
+Lake, is the largest lake in
+Johto
+. According to a local Fishing Guru, the lake was created when rampaging Gyarados altered the landscape and the resulting crater eventually filled with rainwater. The lake has not been the same since
+the men dressed in black
+appeared, and there have even been sightings of a
+strangely-colored Gyarados
+. The area experiences frequent
+rainfall
+, which often leaves the western woods submerged.
+Trainers
+Trainer
+Pokémon
+After battling the Red Gyarados
+Fisherman
+Andre
+Mo
+Tu
+Th
+Fr
+Sa
+Su
+Reward:
+$
+864
+Gyarados
+♂
+Lv.
+27
+No item
+Fisherman
+Raymond
+Mo
+Tu
+Th
+Fr
+Sa
+Su
+Reward:
+$
+704
+Magikarp
+♂
+Lv.
+22
+No item
+Magikarp
+♂
+Lv.
+22
+No item
+Magikarp
+♂
+Lv.
+22
+No item
+Magikarp
+♂
+Lv.
+22
+No item
+Ace Trainer
+Lois
+Reward:
+$
+1500
+Mareep
+♀
+Lv.
+25
+No item
+Ninetales
+♀
+Lv.
+25
+No item
+After clearing Team Rocket HQ
+Ace Trainer
+Alton
+We
+Reward:
+$
+1440
+Ivysaur
+♂
+Lv.
+24
+No item
+Charmeleon
+♂
+Lv.
+24
+No item
+Wartortle
+♂
+Lv.
+24
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Magikarp
+HG
+SS
+Surfing
+5-20
+90%
+Gyarados
+HG
+SS
+Surfing
+10-20
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+90%
+Gyarados
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+Headbutt
+Group A
+Hoothoot
+HG
+SS
+Headbutt
+14-16
+50%
+Pineco
+HG
+SS
+Headbutt
+14-16
+30%
+Exeggcute
+HG
+SS
+Headbutt
+14-16
+20%
+Headbutt
+Group B
+Hoothoot
+HG
+SS
+Headbutt
+17-19
+65%
+Exeggcute
+HG
+SS
+Headbutt
+17-19
+20%
+Venonat
+HG
+SS
+Headbutt
+17-19
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Eastern lake
+Red Scale
+Automatically obtained after battling the
+Red Gyarados
+(requires
+Surf
+)
+HG
+SS
+Rare Candy
+Northeast of the Fishing Guru's house, in the gap between trees, next to the cliff (hidden)
+HG
+SS
+Ether
+Southeast house; from the Fishing Guru, after showing him a record-breaking
+Magikarp
+HG
+SS
+Choice Specs
+North edge of the flooded lake, on the eastern patch of land (requires
+Surf
+)
+HG
+SS
+Max Potion
+North edge of the flooded lake, on the eastern patch of land (hidden; requires
+Surf
+)
+HG
+SS
+Full Heal
+South edge of the lake, on a small patch of land (requires
+Surf
+)
+We
+HG
+SS
+Western woods
+Full Restore
+Southwest of the lake, between the two eastern ledges (hidden)
+HG
+SS
+Red Flute
+West of the flooded lake, on a small patch of land (requires
+Surf
+)
+HG
+SS
+Max Revive
+Dead-end path, south of the secluded house (requires
+Cut
+)
+We
+HG
+SS
+Black Belt
+Dead-end path, west of the secluded house; from
+Wesley
+We
+HG
+SS
+Downcast Ribbon
+Dead-end path, west of the secluded house; from
+Wesley
+We
+, after meeting all of the Week Siblings
+HG
+SS
+TM10
+(
+Hidden Power
+)
+From the man in the secluded house (requires
+Surf
+)
+HG
+SS
+TM43
+(
+Secret Power
+)
+North edge of the flooded lake, on the western patch of land (requires
+Surf
+)
+HG
+SS
+Full Restore
+Dead-end path, north of the lake's northeast corner (requires
+Cut
+)
+We
+HG
+SS
+Peace Disturbed
+Something has been disturbing the Pokémon living in the lake, and now the
+Gyarados
+are angry. One of them can be seen just offshore. Unlike others of its species, this individual seems to have evolved under mysterious circumstances that resulted in its
+unusual coloring
+. It will not calm itself, so it must be caught or defeated.
+VS Gyarados
+As a
+Water
+/
+Flying
+-type Pokémon,
+Gyarados
+is vulnerable to
+Electric
+- and
+Rock-type
+attacks. Using these moves first will wear it down quickly. Follow up with
+Fire
+-, Water-,
+Fighting
+-,
+Bug
+-, or
+Steel-type
+moves to further chip away at its health.
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+/
+♀
+Lv.
+30
+Bite
+Dark
+Physical
+--
+Dragon Rage
+Dragon
+Special
+--
+Leer
+Normal
+Status
+--
+Twister
+Dragon
+Special
+--
+When the battle ends, you find a
+Red Scale
+floating on the water. Climb back onto shore and speak to the man reading the sign. He has been investigating rumors that all of the
+Magikarp
+in the lake are being forced to evolve prematurely. He introduces himself as
+Lance
+, and asks for your help. He believes that a mysterious radio signal originating in
+Mahogany Town
+is the cause, and flies off on his
+Dragonite
+to find the source.
+Mahogany Town
+Just a Souvenir Shop
+Upon entering the shady shop, you see
+Lance
+'s
+Dragonite
+using
+Hyper Beam
+to attack one of the workers. Lance confirms that the strange radio signal is coming from this location, and pushes past the shopkeeper to reveal a hidden stairway leading underground.
+Team Rocket's Hideout, B1F
+Team Rocket's Hideout, B2F
+Team Rocket's Hideout, B3F
+Team Rocket HQ
+The
+Team Rocket HQ
+is a large complex hidden beneath
+Mahogany Town
+. Formerly the base of operations for a ninja clan,
+Team Rocket
+has put the old traps to use to thwart anyone attempting to interfere with their plans.
+Trainers
+B1F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+640
+Rattata
+♂
+Lv.
+16
+No item
+Rattata
+♂
+Lv.
+16
+No item
+Rattata
+♂
+Lv.
+16
+No item
+Rattata
+♂
+Lv.
+16
+No item
+Scientist
+Gregg
+Reward:
+$
+640
+Magnemite
+Lv.
+20
+No item
+Magnemite
+Lv.
+20
+No item
+Magnemite
+Lv.
+20
+No item
+B2F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+720
+Venonat
+♂
+Lv.
+18
+No item
+Venonat
+♂
+Lv.
+18
+No item
+Team Rocket Grunt
+Reward:
+$
+720
+Golbat
+♂
+Lv.
+18
+No item
+Team Rocket Grunt
+Reward:
+$
+680
+Rattata
+♂
+Lv.
+17
+No item
+Rattata
+♂
+Lv.
+17
+No item
+Zubat
+♂
+Lv.
+17
+No item
+B3F
+Trainer
+Pokémon
+Scientist
+Ross
+Reward:
+$
+704
+Koffing
+♂
+Lv.
+22
+No item
+Koffing
+♂
+Lv.
+22
+No item
+Team Rocket Grunt
+Reward:
+$
+720
+Ekans
+♀
+Lv.
+18
+No item
+Gloom
+♀
+Lv.
+18
+No item
+Scientist
+Mitch
+Reward:
+$
+768
+Ditto
+Lv.
+24
+No item
+Team Rocket Grunt
+Reward:
+$
+760
+Raticate
+♂
+Lv.
+19
+No item
+Items
+Item
+Location
+Games
+B1F
+Guard Spec.
+Interior room; east of Scientist Gregg
+HG
+SS
+Hyper Potion
+Interior northern hallway, east of the statue
+HG
+SS
+Revive
+East-central room; northeast corner (hidden)
+HG
+SS
+Nugget
+Southern hallway
+HG
+SS
+B2F
+Full Heal
+South; southern exterior hallway, in the middle of three boxes to the west (hidden)
+HG
+SS
+X Sp. Def
+North; on one of the machines to the right of the computer (hidden)
+HG
+SS
+TM46
+(
+Thief
+)
+West; accessed via B3F (Northwest)
+HG
+SS
+HM05
+(
+Whirlpool
+)
+South; from Lance, after disabling the machine
+HG
+SS
+B3F
+Full Heal
+Eastern hallway
+HG
+SS
+X Special
+Southwest room, east side of the potted plants
+HG
+SS
+Protein
+Southwest room, west side of the potted plants
+HG
+SS
+TM49
+(
+Snatch
+)
+North end of the central hallway
+HG
+SS
+Ultra Ball
+Northwest; east of the door to Petrel's room
+HG
+SS
+B1F
+When you step in front of the first
+Persian
+statue, you are forced to battle two Grunts in quick succession. It turns out that each Persian statue on this floor is equipped with a hidden security camera, and passing in front of one causes the same two Grunts to confront you.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+760
+Drowzee
+♂
+Lv.
+17
+No item
+Zubat
+♂
+Lv.
+19
+No item
+Team Rocket Grunt
+Reward:
+$
+720
+Zubat
+♂
+Lv.
+16
+No item
+Grimer
+♂
+Lv.
+17
+No item
+Rattata
+♂
+Lv.
+18
+No item
+Continue west and take the first doorway to head south. Defeat Scientist Gregg in the interior room, then grab the
+Guard Spec.
+and examine the computer to disable the security cameras. Leave the room and head east to reach a
+Hyper Potion
+. Go south and follow the hallway westward to get a
+Nugget
+, then take the stairs in the southwest.
+B2F (South)
+Lance
+is waiting for you here, and heals your Pokémon before continuing on. The nearby door to the Radio Transmitter features a voice-recognition system so that only approved people may enter. Continue eastward to fight another two Rocket Grunts. Take the stairs down to the lowest floor.
+B3F (Southeast)
+Lance
+informs you that reaching the boss requires the voice of a certain person, and identifies this person as
+Petrel
+, a Rocket Executive. It seems that the man is hiding out in their leader's office, which is protected with two passwords. Pick up the
+Full Heal
+near the east wall, then battle Scientist Ross and the female Rocket Grunt in the eastern room. Defeated, she gives up the first password: "
+SlowpokeTail
+". Move on to the southwest room to fight Scientist Mitch, then defeat another Rocket Grunt to learn the second password: "
+RaticateTail
+." Collect the
+X Special
+and
+Protein
+near the potted plants, then head north. Pick up
+TM49
+(
+Snatch
+) near the north wall, then climb the northeast stairs.
+B2F (North)
+Head all the way to the west, where you are challenged by another Rocket Grunt. Go down the stairs to reach the boss's room.
+B3F (Northwest)
+When you approach the Executive's room,
+Silver
+appears. He insists that he will be the one to eliminate
+Team Rocket
+, then runs off. Before opening the door, climb the southern stairs to a separate area of B2F.
+B2F (West)
+Pick up the item,
+TM46
+(
+Thief
+), then go back downstairs.
+B3F (Northwest)
+Collect the
+Ultra Ball
+to the east, then examine the door to enter the two passwords, and the door opens. The man inside identifies himself as
+Giovanni
+, the leader of
+Team Rocket
+. He soon abandons his disguise after realizing that he does not sound the same, and reveals himself as
+Petrel
+, one of the group's Executives. Petrel assumes that you are headed to the Radio Transmitter, and reveals the password: "Hail Giovanni". It does little good however, as the door will not open unless the password is spoken with his voice.
+VS Petrel
+Executive
+Petrel
+Team Rocket HQ
+HeartGold and SoulSilver
+Reward:
+$
+880
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+22
+Astonish
+Ghost
+Physical
+--
+Bite
+Dark
+Physical
+--
+Wing Attack
+Flying
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♂
+Lv.
+22
+Smog
+Poison
+Special
+--
+SmokeScreen
+Normal
+Status
+--
+Assurance
+Dark
+Physical
+--
+Selfdestruct
+Normal
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Guts
+Held item:
+None
+Raticate
+♂
+Lv.
+24
+Hyper Fang
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Petrel
+explains that
+Giovanni
+disappeared after disbanding
+Team Rocket
+three years ago
+, but that the group has continued on since then, planning for his eventual return. He hurries off, and the
+Murkrow
+that was standing in the corner approaches you and recites the password, mimicking Petrel's voice. It soon wanders off, so hurry after it as it leads you back to the southern part of B2F.
+B2F (South)
+When you approach the door to the Radio Transmitter,
+Murkrow
+screams the password as it mimicks
+Petrel
+'s voice. The voice-recognition system is fooled, the door opens, and Murkrow wanders away. When you step inside, another Rocket Executive,
+Ariana
+, and a Rocket Grunt ambush you in an attempt to force a 2-on-1 battle, but their plan is short-lived.
+Lance
+and his
+Dragonite
+show up just in time, turning the fight into a 2-on-2 battle, instead.
+Executive
+and
+Team Rocket
+Ariana
+Grunt
+Team Rocket HQ
+HeartGold and SoulSilver
+Reward:
+$
+2960
+Type:
+Poison
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arbok
+♀
+Lv.
+25
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Wrap
+Normal
+Physical
+--
+Poison Sting
+Poison
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Chlorophyll
+Held item:
+None
+Gloom
+♀
+Lv.
+25
+Sweet Scent
+Normal
+Status
+--
+Mega Drain
+Grass
+Special
+--
+Acid
+Poison
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Murkrow
+♀
+Lv.
+27
+Night Shade
+Ghost
+Special
+--
+Wing Attack
+Flying
+Physical
+--
+Astonish
+Ghost
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Drowzee
+♂
+Lv.
+18
+Disable
+Normal
+Status
+--
+Confusion
+Psychic
+Special
+--
+Headbutt
+Normal
+Physical
+--
+Poison Gas
+Poison
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Grimer
+♂
+Lv.
+20
+Mud-Slap
+Ground
+Special
+--
+Disable
+Normal
+Status
+--
+Minimize
+Normal
+Status
+--
+Sludge
+Poison
+Special
+--
+Afterward,
+Ariana
+claims that their broadcasting experiment is a success, despite their defeat here. They are unconcerned what happens to their hideout, as they apparently have bigger plans.
+Team Rocket
+flees the building, and
+Lance
+inspects the generator. He cannot find a power switch, and determines that to shut it down, the six
+Electrode
+that power it must be removed. The two of you split the task, so catch or defeat the three on the left side to put an end to Team Rocket's plan.
+Type:
+Electric
+Unknown
+Ability:
+Soundproof
+or
+Static
+Held item:
+None
+Electrode
+Lv.
+23
+Spark
+Electric
+Physical
+--
+Rollout
+Rock
+Physical
+--
+Screech
+Normal
+Status
+--
+Light Screen
+Psychic
+Status
+--
+With the machine disabled, the radio signal has finally stopped. The
+Lake of Rage
+can now return to normal, and
+Lance
+thanks you with an item that he found here:
+HM05
+(
+Whirlpool
+). Follow him back upstairs, then step on the nearby
+warp tile
+for a shortcut to the entrance.
+Mahogany Gym
+Mahogany Gym
+Mahogany Town Pokémon Gym
+Leader: Pryce
+The Teacher of Winter's Harshness
+The
+Mahogany Gym
+specializes in
+Ice-type
+Pokémon. Ice-type moves are super effective against
+Dragon
+-,
+Flying
+-,
+Grass
+-, and
+Ground-type
+Pokémon, while Ice-type Pokémon are weak to
+Fighting
+-,
+Fire
+-,
+Rock
+-, and
+Steel-type
+moves.
+The Gym is filled with slippery, ice-like tiles. When stepped on, the challenger is sent sliding until they reach a patch of normal flooring or some other obstacle. In the first room, slide northward to the ice block, then move west, north, east, and north again. In the second room, stand near Skier Diana and slide eastward to the ice block, then loop around from the same direction to continue northward. In the third room, battle Boarder Deandre, then slide eastward to the nearest ice block. Slide north and battle Skier Jill, then move east, south, and west. This leads to the large stalagmite in the southwest corner. slide north, east, north, east, and north again to battle Boarder Gerardo. Finally, move west then north to reach the
+Gym Leader
+.
+Pryce
+'s
+Seel
+is vulnerable to
+Grass
+- and
+Electric-type
+moves. Despite being a
+Water-type
+Pokémon, it can still fight back against unsuspecting Grass Pokémon with
+Ice
+attacks. His
+Dewgong
+is much the same, but also takes serious damage from
+Rock
+- and
+Fighting-type
+moves. His
+Piloswine
+can use
+Blizzard
+, the strongest
+Ice-type
+attack, but its
+Ice
+/
+Ground
+typing leaves it with the most weaknesses of Pryce's team, with five: Fighting-,
+Steel
+-,
+Fire
+-,
+Water
+-, and Grass-type moves.
+Mahogany Gym
+Trainers
+Trainer
+Pokémon
+Second room
+Skier
+Diana
+Reward:
+$
+928
+Jynx
+♀
+Lv.
+29
+No item
+Boarder
+Patton
+Reward:
+$
+864
+Swinub
+♂
+Lv.
+27
+No item
+Swinub
+♂
+Lv.
+27
+No item
+Third room
+Boarder
+Deandre
+Reward:
+$
+800
+Seel
+♂
+Lv.
+25
+No item
+Dewgong
+♂
+Lv.
+26
+No item
+Seel
+♂
+Lv.
+25
+No item
+Skier
+Jill
+Reward:
+$
+928
+Dewgong
+♀
+Lv.
+29
+No item
+Boarder
+Gerardo
+Reward:
+$
+800
+Shellder
+♂
+Lv.
+25
+No item
+Cloyster
+♂
+Lv.
+26
+No item
+Seel
+♂
+Lv.
+25
+No item
+Leader
+Pryce
+Mahogany Gym
+HeartGold and SoulSilver
+Reward:
+$
+4080
+Type:
+Water
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Seel
+♂
+Lv.
+30
+Icy Wind
+Ice
+Special
+--
+Rest
+Psychic
+Status
+--
+Snore
+Normal
+Special
+--
+Hail
+Ice
+Status
+--
+Types:
+Water
+Ice
+Ability:
+Thick Fat
+Held item:
+None
+Dewgong
+♂
+Lv.
+32
+Aurora Beam
+Ice
+Special
+--
+Rest
+Psychic
+Status
+--
+Sleep Talk
+Normal
+Status
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ice
+Ground
+Ability:
+Snow Cloak
+Held item:
+Sitrus Berry
+Piloswine
+♂
+Lv.
+34
+Blizzard
+Ice
+Special
+--
+Ice Fang
+Ice
+Physical
+--
+Mud Bomb
+Ground
+Special
+--
+Hail
+Ice
+Status
+--
+After the battle,
+Pryce
+awards you the
+Glacier Badge
+, which enables the use of
+Whirlpool
+in the field. He also gives you
+TM07
+(
+Hail
+) as a prize.
+Desperate Times
+Upon leaving the Gym, you receive a call from
+Professor Elm
+. He informs you of strange radio broadcasts that mention
+Team Rocket
+. It seems that the group has one more card to play, so hurry back to
+Goldenrod City
+'s
+Radio Tower
+to finally put a stop to their plans.
+← Part 10
+Cianwood City, Olivine Gym, Route 42, Mt. Mortar
+HeartGold and SoulSilver
+walkthrough
+Radio Tower, Goldenrod Underground, Route 44, Ice Path
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,58 @@
+Game: Black_and_White
+Part: 2
+Keywords: Route 2, Striaton City, The Dreamyard, Striaton Gym
+
+### Walkthrough: Part 2
+**Route 2:**
+- **Trainers:** 
+  - Youngster Jimmy: Patrat (Lv. 7)
+  - Lass Mali: Purrloin (Lv. 7)
+  - Youngster Roland: Lillipup (Lv. 7)
+- **Available Pokémon:** Patrat (Lv. 4-7), Lillipup (Lv. 4-7), Purrloin (Lv. 4-5).
+- **Items:**
+  - Running Shoes (from Mom)
+  - 2 Potions (western grass patch & hill east)
+  - Poké Ball (hill east)
+
+**Striaton City:**
+- **Key Locations:** Striaton Gym, Trainer's School, Fennel's Lab.
+- **Items:**
+  - X Speed (south of Route 2 fence)
+  - Great Balls (south of Fennel's Lab)
+  - Fresh Water (Clyde at Gym entrance)
+  - TM83 (Work Up) from Gym Leader after defeating him, HM01 (Cut) from Fennel after Gym.
+
+**The Dreamyard:**
+- **Trainers:** 
+  - Lass Eri: 2 Purrloins (Lv. 8)
+  - Youngster Joey: Patrat (Lv. 7) and Lillipup (Lv. 7).
+- **Special Pokémon:** 
+  - Pansage (if Tepig chosen), Pansear (if Oshawott chosen), Panpour (if Snivy chosen).
+- **Items:** 
+  - X Defend (north of the gate).
+
+**Trainer's School:**
+- Battle Cheren (Lv. 8 Pokémon based on your starter).
+- Receive Oran Berries after the battle.
+
+**Striaton Gym:**
+- **Gym Leaders:** Cilan, Chili, Cress (based on starter).
+- **Gym Strategy:** Use the monkey received from the Dreamyard to gain an advantage.
+- **Trainers:** 
+  - Waiter Maxwell: Lillipup (Lv. 11)
+  - Waitress Tia: Patrat (Lv. 10) & Purrloin (Lv. 10).
+- **Leader Battle:**
+  - Defeat the chosen leader to earn the Trio Badge and TM83 (Work Up).
+
+**Fennel's Lab:**
+- After defeating the Gym, Fennel gives you HM01 (Cut) and requests Dream Mist from a Munna in the Dreamyard.
+
+**Back to Route 2 (Optional):**
+- Collect items (Great Ball, Super Potion) using Cut.
+
+**Back to the Dreamyard:**
+- Battle Team Plasma Grunts to save Munna. Collect items and new Pokémon.
+- Return to Fennel’s Lab for the C-Gear and Pal Pad.
+
+**Next Steps:**
+- Head north to Route 3 after completing tasks in Striaton City and the Dreamyard.

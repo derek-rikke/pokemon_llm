@@ -1,0 +1,989 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_9
+Keywords: Olivine City, Route 40, Route 41
+
+Walkthrough Text:
+Contents
+1
+Olivine City
+1.1
+Beacon's Plight
+1.2
+Fishing Guru 2
+1.3
+Time for a Trade
+1.4
+Olivine Café
+1.5
+Olivine Lighthouse
+1.5.1
+1F-4F
+1.5.2
+5F (Outer)
+1.5.3
+4F (Outer)
+1.5.4
+3F (Inner)
+1.5.5
+4F (Inner)
+1.5.6
+5F (Inner)
+1.5.7
+6F
+2
+Route 40
+2.1
+Battle Tower
+3
+Route 41
+3.1
+Whirl Islands
+Olivine City
+Olivine City
+Olivine City
+is a major port city located in northwest
+Johto
+, between
+Route 39
+to the north and
+Route 40
+to the west. The
+Olivine Gym
+stands in the north part of town, and the
+Olivine Lighthouse
+helps to guide ships like the
+S.S. Aqua
+into the harbor.
+Available Pokémon
+City
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+15-24
+90%
+Tentacruel
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Krabby
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Krabby
+G
+S
+C
+Fishing
+Good Rod
+20
+55%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Corsola
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+10%
+0%
+Staryu
+G
+S
+C
+Fishing
+Good Rod
+20
+0%
+0%
+10%
+Special Pokémon
+Voltorb
+G
+S
+C
+Trade
+Krabby
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Harbor
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+15-24
+90%
+Tentacruel
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Good Rod
+From the Fishing Guru in the house south of the Gym
+C
+PRZCureBerry
+Held by Volty, a
+Voltorb
+received through a trade
+C
+HM04
+(
+Strength
+)
+Olivine Café; from the Sailor
+C
+Later visit
+TM23
+(
+Iron Tail
+)
+From
+Gym Leader
+Jasmine
+, after saving
+Amphy
+and defeating her
+C
+Protein
+Olivine Harbor; southwest of the S.S. Aqua (hidden; requires
+S.S. Ticket
+)
+C
+Beacon's Plight
+When you approach the Gym,
+Silver
+is just leaving. He informs you that the Gym Leader is away at the lighthouse, taking care of a Pokémon that has fallen ill. He walks away, wondering aloud why she would do such a thing, as he firmly believes that any Pokémon unable to battle is worthless.
+Fishing Guru 2
+Visit the first house to the south of the Gym and speak to the Fisherman inside to receive a
+Good Rod
+. This mid-level fishing rod can reel in a greater variety of water-dwelling Pokémon than the
+Old Rod
+.
+Time for a Trade
+There are two houses standing side-by-side in the northeast part of town. Visit the western house to find a man who would like to trade Pokémon. He is willing to part with his
+Voltorb
+in exchange for a
+Krabby
+. Krabby can be found in
+Olivine City
+and on
+Route 40
+to the west, and is an easy catch with a
+Good Rod
+.
+Olivine Café
+The Olivine Café is located to the west of the Pokémon Center. Speak to the Sailor sitting at the table to receive
+HM04
+(
+Strength
+). This field move lets a compatible Pokémon move large boulders with ease.
+Olivine Lighthouse
+Olivine Lighthouse, Beacon Room
+The
+Olivine Lighthouse
+is located in the southeast part of the city.
+A certain Pokémon
+usually serves as the lighthouse beacon to safely guide ships into the harbor, but has recently fallen ill.
+Trainers
+Trainer
+Pokémon
+2F
+Gentleman
+Alfred
+Reward:
+$
+1440
+Noctowl
+♂
+Lv.
+20
+No item
+Sailor
+Huey
+Reward:
+$
+720
+Poliwag
+♂
+Lv.
+18
+No item
+Poliwhirl
+♂
+Lv.
+18
+No item
+3F
+Bird Keeper
+Theo
+Reward:
+$
+360
+Pidgey
+♂
+Lv.
+17
+No item
+Pidgey
+♂
+Lv.
+19
+No item
+Pidgey
+♂
+Lv.
+15
+No item
+Pidgey
+♂
+Lv.
+15
+No item
+Pidgey
+♂
+Lv.
+15
+No item
+Gentleman
+Preston
+Reward:
+$
+1296
+Growlithe
+♂
+Lv.
+18
+No item
+Growlithe
+♂
+Lv.
+18
+No item
+Sailor
+Terrell
+Reward:
+$
+800
+Poliwhirl
+♂
+Lv.
+20
+No item
+4F
+Lass
+Connie
+Reward:
+$
+504
+Marill
+♀
+Lv.
+21
+No item
+Sailor
+Kent
+Reward:
+$
+800
+Krabby
+♂
+Lv.
+18
+No item
+Krabby
+♂
+Lv.
+20
+No item
+5F
+Bird Keeper
+Denis
+Reward:
+$
+432
+Spearow
+♂
+Lv.
+18
+No item
+Spearow
+♂
+Lv.
+18
+No item
+Fearow
+♂
+Lv.
+20
+No item
+Sailor
+Ernest
+Reward:
+$
+720
+Machop
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Poliwhirl
+♂
+Lv.
+18
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Protein
+2F; from Sailor Huey, after defeating him in a third rematch
+C
+Ether
+3F (Inner); next to Sailor Terrell, accessed via 4F
+C
+TM34
+(
+Swagger
+)
+5F (Outer); west side
+C
+Hyper Potion
+5F (Outer); west side, next to TM34 (hidden)
+C
+Rare Candy
+5F (Outer); east side
+C
+Super Repel
+5F (Inner); southwest of Sailor Ernest
+C
+Super Potion
+6F (Beacon Room); west side, north end
+C
+1F-4F
+Battle other Trainers on the way to the fifth floor.
+5F (Outer)
+Go south to find
+TM34
+(
+Swagger
+), then battle Bird Keeper Denis on the north side of the building. Pick up the
+Rare Candy
+on the east side and jump down through the gap in the floor.
+4F (Outer)
+Head northwest to battle Lass Connie, then jump down through the nearby gap.
+3F (Inner)
+Battle Sailor Terrell, then pick up the
+Ether
+and climb up the stairs to 4F.
+4F (Inner)
+Climb the stairs to a separate part of the fifth floor.
+5F (Inner)
+Battle Sailor Ernest, then collect the
+Super Repel
+and climb up the stairs.
+6F
+On the top floor, you find the local Gym Leader,
+Jasmine
+, keeping the ill
+Ampharos
+company.
+Amphy
+would normally use its tail to illuminate the harbor, but does not have the strength for it at the moment. Jasmine informs you of
+a pharmacy
+across the sea in
+Cianwood City
+, and as she cannot leave the Pokémon unattended, asks if you would bring their
+medicine
+back for Amphy.
+Route 40
+Route 40
+Battle Tower
+Route 40
+includes a small beach outside
+Olivine City
+and a stretch of open ocean leading south to
+Route 41
+. The gate to the
+Battle Tower
+is located here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Simon
+Reward:
+$
+160
+Tentacool
+♂
+Lv.
+20
+No item
+Tentacool
+♂
+Lv.
+20
+No item
+Swimmer
+Randall
+Reward:
+$
+144
+Shellder
+♂
+Lv.
+18
+No item
+Shellder
+♂
+Lv.
+18
+No item
+Wartortle
+♂
+Lv.
+20
+No item
+Swimmer
+Paula
+Reward:
+$
+380
+Staryu
+Lv.
+19
+No item
+Shellder
+♀
+Lv.
+19
+No item
+Swimmer
+Elaine
+Reward:
+$
+420
+Staryu
+Lv.
+21
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Krabby
+G
+S
+C
+Rock Smash
+15
+90%
+Shuckle
+G
+S
+C
+Rock Smash
+15
+10%
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+15-24
+90%
+Tentacruel
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Krabby
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Krabby
+G
+S
+C
+Fishing
+Good Rod
+20
+55%
+Magikarp
+G
+S
+C
+20
+1
+35%
+Corsola
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+10%
+0%
+Staryu
+G
+S
+C
+Fishing
+Good Rod
+20
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+Under a rock (hidden; requires
+Rock Smash
+)
+C
+Sharp Beak
+From Monica
+Mo
+C
+Battle Tower
+The
+Battle Tower
+is a facility that allows Trainers to challenge themselves by battling under certain
+restrictions
+. Challengers must speak to the attendant to register their team of three Pokémon, and will be unable to proceed if their party does not match this quantity. After saving the game, Trainers are asked the level of the challenge that they wish to enter. Initially, Levels 10, 20, 30, and 40 are available; each party Pokémon's level must be no higher than the desired challenge level. The attendant then leads the way to one of the Battle Rooms, where challengers must defeat seven opponents in a row. Challengers may not use healing items during battle, but are asked by the attendant after each battle if they require medical attention.
+Held items
+are allowed, but teams may not have more than one of the same item. After each group of seven opponents is defeated, challengers are awarded five bottles of a certain
+Vitamin
+.
+Possible Prizes
+HP Up
+×5
+Protein
+×5
+Iron
+×5
+Calcium
+×5
+Carbos
+×5
+After entering the
+Hall of Fame
+, participants may then challenge Levels 60, 70, 80, 90, and 100.
+Route 41
+Route 41
+Route 41
+is a water route that connects
+Route 40
+to the north and
+Cianwood City
+to the west. It is a rough spot in the sea where whirlpools can block the way.
+Trainers
+Trainer
+Pokémon
+Swimmer
+George
+Reward:
+$
+152
+Tentacool
+♂
+Lv.
+16
+No item
+Tentacool
+♂
+Lv.
+16
+No item
+Tentacool
+♂
+Lv.
+17
+No item
+Tentacool
+♂
+Lv.
+17
+No item
+Remoraid
+♂
+Lv.
+19
+No item
+Staryu
+Lv.
+19
+No item
+Swimmer
+Kara
+Reward:
+$
+400
+Staryu
+Lv.
+20
+No item
+Starmie
+Lv.
+20
+No item
+Swimmer
+Mathew
+Reward:
+$
+184
+Krabby
+♂
+Lv.
+23
+No item
+Swimmer
+Denise
+Reward:
+$
+440
+Seel
+♀
+Lv.
+22
+No item
+Swimmer
+Kirk
+Reward:
+$
+180
+Gyarados
+♂
+Lv.
+20
+No item
+Gyarados
+♂
+Lv.
+20
+No item
+Swimmer
+Berke
+Reward:
+$
+184
+Qwilfish
+♂
+Lv.
+23
+No item
+Swimmer
+Charlie
+Reward:
+$
+152
+Shellder
+♂
+Lv.
+21
+No item
+Tentacool
+♂
+Lv.
+19
+No item
+Tentacruel
+♂
+Lv.
+19
+No item
+Swimmer
+Susie
+Reward:
+$
+440
+Psyduck
+♀
+Lv.
+20
+No item
+Goldeen
+♀
+Lv.
+22
+No item
+Swimmer
+Kaylee
+Reward:
+$
+400
+Goldeen
+♀
+Lv.
+18
+No item
+Goldeen
+♀
+Lv.
+20
+No item
+Seaking
+♀
+Lv.
+20
+No item
+Swimmer
+Wendy
+Reward:
+$
+420
+Horsea
+♀
+Lv.
+21
+No item
+Horsea
+♀
+Lv.
+21
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+20-24
+60%
+Tentacruel
+G
+S
+C
+Surfing
+20-24
+30%
+Mantine
+G
+S
+C
+Surfing
+20-24
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Later visit
+Max Ether
+On the beach of the southwest island (hidden; requires
+Whirlpool
+)
+C
+Whirl Islands
+The
+Whirl Islands
+form an archipelago between the
+Johto
+mainland and
+Cianwood City
+. These islands are connected underwater by a sprawling network of dark caves, where seawater and boulders restrict movement in some areas. The rough seas make it impossible to reach them without
+a certain field move
+.
+← Part 8
+Ecruteak City, Route 38, Route 39
+Crystal
+walkthrough
+Cianwood City, Olivine Gym, Route 42
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

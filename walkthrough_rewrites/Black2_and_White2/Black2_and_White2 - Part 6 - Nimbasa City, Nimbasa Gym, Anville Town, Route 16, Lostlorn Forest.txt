@@ -1,0 +1,53 @@
+Game: Black2_and_White2
+Part: 6
+Keywords: Nimbasa City, Nimbasa Gym, Anville Town, Route 16, Lostlorn Forest
+
+## Part 6 Walkthrough Summary
+
+### Nimbasa City
+- **Key Locations**: Gear Station, Nimbasa Gym, Big Stadium, Small Court, Musical Theater, Amusement Park.
+- **Key Items**:
+  - **Red Shard** ×10: Pokémon Center.
+  - **Soothe Bell**: Socialite in the building north of Battle Institute.
+  - **Sun Stone**: Male Ace Trainer north of Pokémon Center.
+  - **Thunderstone**: Hidden between Pokémon Center and Battle Institute.
+  - **TM49 (Echoed Voice)**: From a girl in Musical Theater.
+  - **TM72 (Volt Switch)**: Given by Elesa after defeating her.
+
+#### Subway Bosses
+- **Battle Ingo and Emmet**: Team up at Gear Station. Rewards include money and a Vs. Recorder.
+
+#### Nimbasa Gym
+- **Leader**: Elesa (Electric-type).
+- **Strategy**: Use Ground-type Pokémon against Flaaffy and Zebstrika, Rock-type against Emolga. 
+- **Rewards**: Bolt Badge and TM72 (Volt Switch).
+
+#### Hugh and Team Plasma
+- Encounter Hugh outside Big Stadium, who battles Team Plasma Grunts. 
+
+### Anville Town
+- **Access**: Take the Brown Line from Gear Station.
+- **Key Items**:
+  - **BrightPowder**: From the girl on the platform after finding her Pansage.
+  - **Rare Candy**: From the Depot Agent.
+  
+### Route 16
+- **Key Trainers**: 
+  - **Depot Agent Hank**: Drilbur (Lv. 25).
+- **Key Items**: 
+  - **Macho Brace**: From Infielder at east gate.
+  - **Heal Ball**: Northwest grove (requires Cut).
+
+### Lostlorn Forest
+- **Key Trainers**: 
+  - **Pokémon Breeder Galen**: Tranquill and Liepard (Lv. 24).
+  - **Pokémon Rangers**: Reward with Berries after defeat.
+- **Key Items**:
+  - **TM95 (Snarl)**: From Backpacker in northwest.
+  - **Ultra Ball**: Near the bridge.
+
+### Notes
+- Battle trainers daily in Big Stadium and Small Court for leveling and rewards.
+- Participate in the Pokémon Musical for fun and obtain the Prop Case.
+
+This summary provides essential information for navigating Nimbasa City, Anville Town, Route 16, and Lostlorn Forest, including key battles, item locations, and strategies.

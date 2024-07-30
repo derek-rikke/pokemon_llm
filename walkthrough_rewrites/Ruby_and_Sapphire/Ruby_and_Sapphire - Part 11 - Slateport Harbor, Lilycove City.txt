@@ -1,0 +1,52 @@
+Game: Ruby_and_Sapphire
+Part: 11
+Keywords: Slateport Harbor, Lilycove City
+
+**Walkthrough: Part 11 - Slateport Harbor to Lilycove City**
+
+**Slateport City**
+- Head northeast to Slateport Harbor. Meet Captain Stern and learn about a discovery on Route 128.
+- Team Magma/Aqua will interrupt, and Captain Stern will leave as they escape in a submarine.
+
+**Slateport Harbor**
+- You will confront Maxie/Archie and a Grunt. After a brief encounter, they escape.
+
+**Lilycove City**
+- Explore Lilycove, known for its Department Store, Contest Hall, and Museum.
+
+**Pokémon Locations**
+- **Surfing**: Tentacool (Lv 5-35), Wingull (Lv 10-30), Pelipper (Lv 25-30).
+- **Fishing**: Use Old Rod for Magikarp (Lv 5-10) and Tentacool (Lv 5-10); Good Rod for Magikarp (Lv 10-30), Tentacool (Lv 10-30), Wailmer (Lv 10-30).
+
+**Items**
+- Max Repel: Southeast peninsula.
+- TM44 (Rest): From a man in the easternmost house.
+- Hidden Poké Ball: On a rock in shallow water.
+- Heart Scale: On a rock on the southwest beach.
+
+**Key Locations**
+- **Pokémon Trainer Fan Club**: Discuss trainers and receive fan recognition after entering the Hall of Fame.
+- **Cove Lily Motel**: Currently uninteresting until you resolve the villain team conflict.
+- **Pokéblock Master's House**: Learn about crafting Pokéblocks.
+  
+**Rival Battle 4**
+- Battle May/Brendan outside the Department Store. They will challenge you based on your chosen starter (levels 31-34). Reward: $2040.
+
+**Lilycove Department Store**
+1. **1F**: Service Counter, Lottery Corner.
+2. **2F**: Trainers' Zone (battle items).
+3. **3F**: Battle Collection (stat enhancers).
+4. **4F**: TM Corner (various TMs).
+5. **5F**: Decoration Floor (Secret Base items).
+6. **Rooftop Plaza**: Special clearance sales after entering the Hall of Fame.
+
+**Lilycove Museum**
+- Curator will block access to the second floor initially. Collect artwork from Master Rank Pokémon Contests to unlock it and receive a Glass Ornament.
+
+**Move Deleter's House**
+- Located east of the Department Store. Freely erase HM moves.
+
+**Daily Berry**
+- Speak to the Gentleman next to the Move Deleter for a random Berry daily.
+
+Continue your journey to Routes 120 and 121, Safari Zone, and beyond.

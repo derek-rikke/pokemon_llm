@@ -1,0 +1,48 @@
+Game: Gold_and_Silver
+Part: 17
+Keywords: Route 6, Saffron City, Saffron Gym
+
+**Part 17: Route 6 and Saffron City**
+
+**Route 6:**
+- Connects Vermilion City to Saffron City.
+- The Underground Path is closed due to issues at the Kanto Power Plant.
+
+**Available Pokémon:**
+- **Grass:** Pidgey (Lv. 13-14), Oddish (Lv. 13-14), Meowth (Lv. 14), Abra (Lv. 12, 14), Bellsprout (Lv. 13), Magnemite (Lv. 15).
+- **Surfing:** Psyduck (Lv. 5-14), Golduck (Lv. 10-14).
+- **Fishing (Old Rod):** Magikarp (Lv. 10), Poliwag (Lv. 10).
+- **Fishing (Good Rod):** Magikarp (Lv. 20), Poliwag (Lv. 20).
+
+**Saffron City Overview:**
+- Home to Silph Co., two Pokémon Gyms, and the Magnet Train Station.
+
+**Key Locations:**
+- **Mr. Psychic:** Southeast house; gives TM29 (Psychic).
+- **Silph Co.:** Open to the first floor; receive an Up-Grade from a security guard.
+- **Magnet Train Station:** Located in the northwest; currently not operational.
+- **Fighting Dojo:** Northeast; contains a Focus Band.
+
+**Saffron Gym:**
+- **Leader:** Sabrina (Psychic-type).
+- **Strategy:** Use Bug, Dark, or Ghost-type moves against her Pokémon. 
+- **Warp Tile Puzzle:** 
+  1. Start at the entrance, go southeast.
+  2. Next, northwest, southwest, southwest to reach Sabrina.
+
+**Gym Trainers:**
+1. **Rebecca (Southeast Room):** Drowzee (Lv. 35), Hypno (Lv. 35) - Reward: $1400
+2. **Jared (Northeast Room):** Mr. Mime (Lv. 32), Exeggcute (Lv. 32, 35) - Reward: $1120
+3. **Doris (Northwest Room):** Slowpoke (Lv. 34), Slowbro (Lv. 36) - Reward: $1440
+4. **Franklin (Southwest Room):** Kadabra (Lv. 37) - Reward: $1184
+
+**Sabrina's Pokémon:**
+- **Espeon (Lv. 46):** Use Sand-Attack, Quick Attack, Swift, Psychic.
+- **Mr. Mime (Lv. 46):** Use Barrier, Reflect, Baton Pass, Psychic.
+- **Alakazam (Lv. 48):** Use Recover, Future Sight, Psychic, Reflect.
+
+**Post-Battle:**
+- Receive the Marsh Badge from Sabrina.
+- Exit by stepping on the tile in her chamber, then northwest, northeast, and southeast to exit.
+
+This concise guide retains essential gameplay elements, item locations, and battle strategies for progressing through Route 6 and Saffron City, including the Saffron Gym challenge.

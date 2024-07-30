@@ -1,0 +1,894 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_7
+Keywords: Fallarbor Town, Route 114, Meteor Falls, Route 115
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Fallarbor Town
+1.1
+Meet Lanette
+1.2
+Move Maniac
+2
+Route 114
+2.1
+Fossil Maniac
+2.2
+Lanette's House
+2.3
+A Berry A Day
+3
+Meteor Falls
+3.1
+1F
+4
+Route 115
+4.1
+Treasure-Hunting
+Fallarbor Town
+Fallarbor Town
+The small town of
+Fallarbor
+is located between Routes
+113
+and
+114
+, and features rich soil perfect for gardening. A third
+Contest
+Hall, which accepts registration for Super Rank Contests, is located here. The town is also home to a
+Move Maniac
+and
+Professor Cozmo
+.
+Items
+Item
+Location
+Games
+Nugget
+In the crater near Professor Cozmo's Lab (hidden)
+R
+S
+Return trip
+TM27
+(
+Return
+)
+From Professor Cozmo in his home, in exchange for the
+Meteorite
+R
+S
+Meet Lanette
+Inside the Pokémon Center, you find the PC in use by a woman named
+Lanette
+. She upgraded the previous version of the
+Pokémon Storage System
+, adding a user-friendly graphical interface, the ability to store over 400 Pokémon, and the ability to change the
+wallpaper
+of each Box. As she leaves, she invites you to visit her home on
+Route 114
+.
+Move Maniac
+The
+Move Maniac
+lives in the northwest house. This helpful guy knows every move a Pokémon can learn as it grows, and is able to teach forgotten moves to any Pokémon, for a price. He charges a single
+Heart Scale
+for each move relearned. While a few can be found on the beach as invisible items right now, you will need to wait until you encounter wild
+Luvdisc
+later on to be able to collect a more steady supply.
+Route 114
+Route 114
+Pockmarked by fallen Meteorites, the lengthy
+Route 114
+leads up the mountainside to
+Meteor Falls
+. The
+Fossil Maniac
+lives up north, while
+Lanette
+'s home stands on the water's edge.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Nolan
+Reward:
+$
+800
+Barboach
+♂
+Lv.
+20
+No item
+Fisherman
+Claude
+Reward:
+$
+640
+Goldeen
+♂
+Lv.
+16
+No item
+Goldeen
+♂
+Lv.
+16
+No item
+Goldeen
+♂
+Lv.
+16
+No item
+Barboach
+♂
+Lv.
+18
+No item
+Picnicker
+Nancy
+Reward:
+$
+304
+Marill
+♀
+Lv.
+19
+No item
+Lombre
+♀
+Lv.
+19
+No item
+Sr. and Jr.
+Tyra & Ivy
+Reward:
+$
+672
+Roselia
+♀
+Lv.
+19
+No item
+Graveler
+♀
+Lv.
+21
+No item
+Camper
+Shane
+Reward:
+$
+304
+Sandshrew
+♂
+Lv.
+19
+No item
+Nuzleaf
+♂
+Lv.
+19
+No item
+PokéManiac
+Steve
+Reward:
+$
+1200
+Aron
+♂
+Lv.
+20
+No item
+Kindler
+Bernie
+Reward:
+$
+608
+Slugma
+♂
+Lv.
+19
+No item
+Wingull
+♂
+Lv.
+19
+No item
+Hiker
+Lucas
+Reward:
+$
+720
+Geodude
+♂
+Lv.
+18
+No item
+Geodude
+♂
+Lv.
+18
+No item
+Geodude
+♂
+Lv.
+18
+No item
+Hiker
+Lenny
+Reward:
+$
+760
+Machop
+♂
+Lv.
+19
+No item
+Machop
+♂
+Lv.
+19
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Swablu
+R
+S
+E
+Grass
+15-17
+40%
+Seedot
+R
+S
+E
+Grass
+15-16
+30%
+Lotad
+R
+S
+E
+Grass
+15-16
+30%
+Zangoose
+R
+S
+E
+Grass
+15-17
+19%
+Seviper
+R
+S
+E
+Grass
+15-17
+19%
+Nuzleaf
+R
+S
+E
+Grass
+16, 18
+10%
+Lombre
+R
+S
+E
+Grass
+16, 18
+10%
+Surskit
+R
+S
+E
+Grass
+15
+1%
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+5-20
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Swarm
+Lotad
+R
+S
+E
+Swarm
+13
+%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Dig
+)
+Fossil Maniac's house, from his little brother
+R
+S
+TM05
+(
+Roar
+)
+From the old man and his
+Poochyena
+R
+S
+Revive
+Southwest edge of the lake (hidden)
+R
+S
+Persim Berry
+×6
+From the Berry Trees southeast of Lanette's house
+R
+S
+Seedot Doll
+From Lanette, after speaking to her in Fallarbor Town
+R
+Lotad Doll
+From Lanette, after speaking to her in Fallarbor Town
+S
+Carbos
+On a rock, south of the southern grass patch (hidden)
+R
+S
+Protein
+On the mountain's first level, northwest of PokéManiac Steve (requires
+Rock Smash
+)
+R
+S
+Return trip
+Rare Candy
+Atop the waterfall, on the west side (requires
+Surf
+,
+Waterfall
+)
+R
+S
+Fossil Maniac
+The
+Fossil Maniac
+'s house stands on the outskirts of
+Fallarbor Town
+. Head inside and talk to his little brother, who kindly gives you
+TM28
+(
+Dig
+). When used in the field, Dig can be used while in a cave to return to the entrance. If you visit the cave at the back of the house, you will find the Fossil Maniac hard at work. He won't give up any Fossils, but hints that others may be uncovered by
+Route 111
+'s raging sandstorm.
+Lanette's House
+Go south across the bridge to reach
+Lanette
+'s house. Inside, you find the woman struggling to organize her clutter. She is happy that you stopped by, but embarrassed by the state of her home. If you promise to keep her messiness a secret, she will give you a
+Seedot Doll
+R
+/
+Lotad Doll
+S
+in return.
+A Berry A Day
+Speak to the boy outside Lanette's house and he will give out one random Berry every day. Visit him every day to receive either a
+Razz Berry
+,
+Bluk Berry
+,
+Nanab Berry
+,
+Wepear Berry
+, or
+Pinap Berry
+.
+Meteor Falls
+Meteor Falls, 1F (front)
+Nestled in the mountains between Routes
+114
+and
+115
+,
+Meteor Falls
+is said to have been the site of a meteor shower in the distant past. The cavern's rushing rapids prevent novice Trainers from fully exploring the area, as doing so requires certain
+field
+moves
+.
+Trainers
+Trainer
+Pokémon
+Requires Surf and Waterfall
+Old Couple
+John and Jay
+ゲンとハツ
+Gen and Hatsu
+Reward:
+$
+3200
+Medicham
+♂
+Lv.
+40
+No item
+Hariyama
+♂
+Lv.
+40
+No item
+Dragon Tamer
+Nicolas
+タケル
+Takeru
+Reward:
+$
+1824
+Altaria
+♂
+Lv.
+38
+No item
+Altaria
+♂
+Lv.
+38
+No item
+Rematch
+Old Couple
+John and Jay
+ゲンとハツ
+Gen and Hatsu
+Reward:
+$
+3440
+/
+3680
+/
+3920
+/
+4160
+Medicham
+♂
+Lv.
+43
+/
+46
+/
+49
+/
+52
+No item
+Hariyama
+♂
+Lv.
+43
+/
+46
+/
+49
+/
+52
+No item
+Dragon Tamer
+Nicolas
+*
+タケル
+Takeru
+Reward:
+$
+1968
+/
+2112
+Altaria
+♂
+Lv.
+41
+/
+44
+No item
+Altaria
+♂
+Lv.
+41
+/
+44
+No item
+Dragon Tamer
+Nicolas
+*
+タケル
+Takeru
+Reward:
+$
+2208
+Bagon
+♂
+Lv.
+46
+No item
+Altaria
+♂
+Lv.
+46
+No item
+Altaria
+♂
+Lv.
+46
+No item
+Dragon Tamer
+Nicolas
+*
+タケル
+Takeru
+Reward:
+$
+2352
+Altaria
+♂
+Lv.
+49
+No item
+Altaria
+♂
+Lv.
+49
+No item
+Shelgon
+♂
+Lv.
+49
+Dragon Fang
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F (front)
+Zubat
+R
+S
+E
+Cave
+14-20
+80%
+Solrock
+R
+S
+E
+Cave
+14, 16, 18
+20%
+Lunatone
+R
+S
+E
+Cave
+14, 16, 18
+20%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Full Heal
+North of the Route 114 entrance
+R
+S
+Moon Stone
+On a hill, northwest of the bridge
+R
+S
+Return trip
+TM23
+(
+Iron Tail
+)
+1F: Northwestern-most hill, accessed via B1F (requires
+Surf
+,
+Waterfall
+)
+R
+S
+PP Up
+1F: Southeastern hill, accessed via B1F (requires
+Surf
+,
+Waterfall
+)
+R
+S
+TM02
+(
+Dragon Claw
+)
+B1F: In the dead-end back chamber (requires
+Surf
+,
+Waterfall
+)
+R
+S
+1F
+Head west over the bridge to find two
+Team Magma
+R
+/
+Team Aqua
+S
+Grunts who have just stolen a Meteorite from
+Professor Cozmo
+. Soon after they notice you, the leader of the opposing Team Aqua
+R
+/Team Magma
+S
+enters, flanked by two of his subordinates. The thieves don't seem to care, and flee with the Meteorite to
+Mt. Chimney
+. The team leader introduces himself as
+Archie
+R
+/
+Maxie
+S
+, and tells you that his group intends to thwart the villainous team's plans at any cost, as they have committed many destructive acts in their bid to enlarge the landmass
+R
+/sea
+S
+. The three then leave to pursue the thieves to Mt. Chimney.
+Route 115
+Route 115
+Meteor Falls
+' western exit opens to
+Route 115
+, a seaside locale that links back to
+Rustboro City
+. The harsh terrain hinders overland travel, making
+Surf
+a necessity to fully explore the area.
+Trainers
+Trainer
+Pokémon
+Black Belt
+Nob
+Reward:
+$
+640
+Machop
+♂
+Lv.
+20
+No item
+Collector
+Hector
+R
+Reward:
+$
+1200
+Seviper
+♂
+Lv.
+20
+No item
+Collector
+Hector
+S
+Reward:
+$
+1200
+Zangoose
+♂
+Lv.
+20
+No item
+Battle Girl
+Cyndy
+Reward:
+$
+470
+Meditite
+♀
+Lv.
+19
+No item
+Makuhita
+♀
+Lv.
+19
+No item
+Requires Surf
+Expert
+Timothy
+Reward:
+$
+1120
+Hariyama
+♂
+Lv.
+28
+No item
+Black Belt
+Koichi
+Reward:
+$
+832
+Machop
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+South of Meteor Falls, on a ledge to the east (requires
+Rock Smash
+)
+R
+S
+Bluk Berry
+×6
+South of Meteor Falls, from the Berry Trees (requires
+Rock Smash
+)
+R
+S
+Heart Scale
+On the beach, west of the stairway near Battle Girl Cyndy (hidden)
+R
+S
+Super Potion
+On the south end of the beach, near Rustboro City
+R
+S
+Return trip
+Kelpsy Berry
+×6
+From the Berry Trees on the route's north end (requires
+Surf
+)
+R
+S
+TM01
+(
+Focus Punch
+)
+West of the muddy slope (requires
+Surf
+)
+R
+S
+Iron
+South of the muddy slope (requires
+Surf
+,
+Mach Bike
+)
+R
+S
+Treasure-Hunting
+Though it was possible to visit Route 115 when you first reached
+Rustboro City
+, by traveling to the area through Meteor Falls, you can now explore the route more thoroughly than before. Fight a few Trainers as you comb the hills for a
+Great Ball
+and a few Berries. You can also use the
+Itemfinder
+to uncover a
+Heart Scale
+on the beach. But where are the Pokémon? With no tall grass on the route's south side, the only species to be found are those that can be hooked with the
+Old Rod
+. Return once you can
+Surf
+outside of battle to reach the north side, where more Pokémon and items await!
+← Part 6
+Route 111 (south), Route 112 (south), Fiery Path, Route 112 (north), Route 111 (north), Route 113
+Ruby and Sapphire
+walkthrough
+Route 112 (south), Mt. Chimney, Jagged Pass, Lavaridge Town
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

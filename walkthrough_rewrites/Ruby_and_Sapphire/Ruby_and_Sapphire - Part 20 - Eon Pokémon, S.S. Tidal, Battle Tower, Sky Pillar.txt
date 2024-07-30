@@ -1,0 +1,33 @@
+Game: Ruby_and_Sapphire
+Part: 20
+Keywords: Eon Pokémon, S.S. Tidal, Battle Tower, Sky Pillar
+
+**Pokémon Ruby and Sapphire Walkthrough - Part 20**
+
+**Key Locations:**
+- **Littleroot Town**: Start here after the credits. Receive the **S.S. Ticket** from Norman. You can now travel to the **Battle Tower** via the ferry from **Slateport** or **Lilycove**.
+
+- **Eon Pokémon**: After watching a news bulletin, encounter **Latios** (Ruby) or **Latias** (Sapphire). Use Repels and fast Pokémon with trapping moves to catch it. 
+
+**Travel to the S.S. Tidal:**
+1. Fly to **Slateport** or **Lilycove**.
+2. Go to the harbor and present your **S.S. Ticket**. You will travel to the **Battle Tower**.
+
+**S.S. Tidal Highlights:**
+- **Trainers**: Battle various trainers on the ship and earn rewards.
+- **Items**: 
+  - **TM49 (Snatch)**: Found in the top-right cabin.
+  - **Leftovers**: In the northwest trash can in the basement.
+
+**Battle Tower Overview:**
+- Challenges consist of 7 consecutive battles with level restrictions (50 or 100).
+- No duplicate items allowed on Pokémon.
+- **Prizes**: Earn Vitamins for early wins and random in-battle items for longer streaks. At 50 and 100 wins, receive **Silver** and **Gold Shields**, respectively.
+
+**Route 131 and Sky Pillar:**
+- **Sky Pillar**: Use the **Mach Bike** to navigate unstable floors.
+- **Rayquaza**: Found at the apex (level 70). Recommended to use a **Master Ball** or high-level Pokémon with Ice-type moves. Beware of its **Outrage** attack.
+
+**Final Goal**: Complete the Pokédex with 386 Pokémon species.
+
+This walkthrough is a concise guide to essential gameplay elements and strategies for progressing through this part of Pokémon Ruby and Sapphire.

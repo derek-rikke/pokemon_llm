@@ -1,0 +1,1549 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_19
+Keywords: Route 9, Cerulean City, Routes 24 and 25, Cerulean Gym, Route 5
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 9
+2
+Cerulean City
+2.1
+Reclaim the Machine Part
+2.2
+Power Restored!
+2.2.1
+Power Plant
+2.2.2
+The Lost Item
+2.2.3
+Radio Tower
+2.2.4
+A Foreign Legendary
+3
+Route 24
+4
+Route 25
+4.1
+Cerulean Cape
+4.1.1
+Bill's Cottage
+4.1.2
+The Third Beast
+5
+Cerulean City
+5.1
+Cerulean Gym
+6
+Route 5
+Route 9
+Route 9
+Route 9
+connects the north side of
+Route 10
+and
+Cerulean City
+to the west.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Edna
+Reward:
+$
+720
+Nidorina
+♀
+Lv.
+41
+No item
+Raichu
+♀
+Lv.
+45
+No item
+Camper
+Sid
+Reward:
+$
+640
+Dugtrio
+♂
+Lv.
+43
+No item
+Poliwrath
+♂
+Lv.
+40
+No item
+Primeape
+♂
+Lv.
+40
+No item
+Camper
+Dean
+Reward:
+$
+672
+Golduck
+♂
+Lv.
+44
+No item
+Sandslash
+♂
+Lv.
+42
+No item
+Hiker
+Eoin
+Reward:
+$
+1344
+Graveler
+♂
+Lv.
+42
+No item
+Graveler
+♂
+Lv.
+42
+No item
+Graveler
+♂
+Lv.
+42
+No item
+Picnicker
+Heidi
+Reward:
+$
+688
+Skiploom
+♀
+Lv.
+43
+No item
+Skiploom
+♀
+Lv.
+43
+No item
+Hiker
+Clarke
+Reward:
+$
+1440
+Onix
+♂
+Lv.
+43
+No item
+Dugtrio
+♂
+Lv.
+45
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mankey
+HG
+SS
+Grass
+13
+30%
+Primeape
+HG
+SS
+Grass
+15
+5%
+Rattata
+HG
+SS
+Grass
+15
+30%
+30%
+40%
+Rattata
+HG
+SS
+Grass
+13
+,
+13-15
+30%
+30%
+70%
+Spearow
+HG
+SS
+Grass
+13
+20%
+20%
+0%
+Spearow
+HG
+SS
+Grass
+13-15
+50%
+50%
+0%
+Raticate
+HG
+SS
+Grass
+15
+,
+13-15
+10%
+10%
+25%
+Raticate
+HG
+SS
+Grass
+15
+,
+13-15
+15%
+15%
+30%
+Fearow
+HG
+SS
+Grass
+15
+5%
+5%
+0%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+10-15
+90%
+Seaking
+HG
+SS
+Surfing
+15
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Swarm
+Sableye
+HG
+SS
+Swarm
+13-15
+40%
+Mawile
+HG
+SS
+Swarm
+13-15
+40%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+13
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+13-15
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+13
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+13-15
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Restore
+Southeast corner, near Picnicker Heidi
+HG
+SS
+TM91
+(
+Flash Cannon
+)
+Northeast corner, near Hiker Eoin (requires
+Cut
+)
+HG
+SS
+Light Clay
+North-central area (requires
+Cut
+)
+HG
+SS
+Max Potion
+Southwest corner, near Picnicker Edna
+HG
+SS
+Ether
+Northwest of the easternmost patch of tall grass (hidden)
+HG
+SS
+Cerulean City
+Cerulean City
+Cerulean City
+is a peaceful seaside city located in the north-central part of Kanto. As the
+Bike Shop
+has moved to
+Goldenrod City
+, the remaining landmarks include the
+Cerulean Gym
+and
+a mysterious cave
+on the edge of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Goldeen
+HG
+SS
+Surfing
+5-10
+90%
+Seaking
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+11-16
+50%
+Pineco
+HG
+SS
+Headbutt
+11-13
+30%
+Combee
+HG
+SS
+Headbutt
+11-16
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Machine Part
+In Cerulean Gym, in a pile of inflatable tubes (hidden)
+HG
+SS
+Nugget
+Southeast of the Cerulean Cave entrance (hidden, requires
+Surf
+)
+HG
+SS
+After defeating the Cerulean Gym
+TM03
+(
+Water Pulse
+)
+From Misty upon her defeat
+HG
+SS
+Reclaim the Machine Part
+Upon entering the Gym, you are nearly run over by a man in a
+dark uniform
+. He babbles aimlessly for a minute before running off. Follow him northward to confront him on Nugget Bridge.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+1560
+Golbat
+♂
+Lv.
+39
+No item
+Defeated, he gives up the location of the
+Machine Part
+. He claims that he hid it inside the Cerulean Gym. Search the pile of inflatable tubes near the back of the building to recover the stolen part.
+Power Restored!
+Items
+Item
+Location
+Games
+TM57
+(
+Charge Beam
+)
+Reward from the Kanto Power Plant manager
+HG
+SS
+Lost Item
+From the man in Vermilion's Fan Club
+HG
+SS
+Pass
+Reward from the Copycat in Saffron, after returning her lost Poké Doll
+HG
+SS
+EXPN Card
+Reward from the Radio Tower manager in Lavender Town
+HG
+SS
+Power Plant
+As thanks for recovering the machinery, the manager rewards you with
+TM57
+(
+Charge Beam
+), a damaging move that may raise the user's Special Attack. With the region's power now running smoothly, it is possible to tie up some loose ends.
+The Lost Item
+Visit the
+Copycat
+'s house in
+Saffron City
+, northwest of the
+Silph Co.
+building. She asks that you find her
+Poké Doll
+that she believes is lost in
+Vermilion City
+. Stop by the Fan Club and talk to the man with the "
+Clefairy
+" to retrieve the
+Lost Item
+. Return it to the girl to receive the
+Pass
+, the ticket needed to board the
+Magnet Train
+.
+Radio Tower
+Stop by the
+Kanto Radio Tower
+in
+Lavender Town
+and speak to the Director at the north wall on the ground floor. As the power was turned back on, he never lost his job. He gives you the
+EXPN Card
+for your Pokégear as thanks.
+A Foreign Legendary
+After collecting the
+Lost Item
+and exiting the Pokémon Fan Club, you are greeted by
+Steven Stone
+, Champion of the far-off
+Hoenn
+region. He asks if you have ever run across a Pokémon by the name of
+Latias
+HG
+/
+Latios
+SS
+. As it is a Pokémon more at home in Hoenn, he is trying to determine why it recently decided to visit
+Kanto
+. After hearing about it from Steven, you can use the Pokégear to track the
+roaming Pokémon
+.
+HeartGold
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latias
+Lv.
+35
+Water Sport
+Water
+Status
+--
+Refresh
+Normal
+Status
+--
+Mist Ball
+Psychic
+Special
+--
+Zen Headbutt
+Psychic
+Physical
+--
+SoulSilver
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latios
+Lv.
+35
+Protect
+Normal
+Status
+--
+Refresh
+Normal
+Status
+--
+Luster Purge
+Psychic
+Special
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Route 24
+Route 24
+Route 24
+consists of little more than Nugget Bridge.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bellsprout
+HG
+SS
+Grass
+8-10
+,
+8
+60%
+35%
+5%
+Abra
+HG
+SS
+Grass
+9
+,
+10
+20%
+Weepinbell
+HG
+SS
+Grass
+12-14
+,
+12
+15%
+15%
+10%
+Venonat
+HG
+SS
+Grass
+8
+5%
+0%
+30%
+Sunkern
+HG
+SS
+Grass
+10
+0%
+30%
+0%
+Oddish
+HG
+SS
+Grass
+10
+0%
+0%
+30%
+Venomoth
+HG
+SS
+Grass
+14
+0%
+0%
+5%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+5-10
+90%
+Seaking
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Special Pokémon
+Linoone
+HG
+SS
+Hoenn Sound
+9
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+8-10
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+9
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+8-10
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 25
+Route 25
+Conversely,
+Route 25
+has a multitude of Trainers to fight. When the others are defeated, talk to Ace Trainer Kevin to receive a Nugget, before he battles you as well.
+Trainers
+Trainer
+Pokémon
+School Kid
+Dudley
+Reward:
+$
+900
+Oddish
+♂
+Lv.
+45
+Sitrus Berry
+Lass
+Ellen
+Reward:
+$
+704
+Wigglytuff
+♀
+Lv.
+40
+No item
+Granbull
+♀
+Lv.
+44
+No item
+School Kid
+Joe
+Reward:
+$
+840
+Tangela
+♂
+Lv.
+44
+Sitrus Berry
+Vaporeon
+♂
+Lv.
+42
+No item
+Camper
+Lloyd
+Reward:
+$
+736
+Nidoking
+♂
+Lv.
+46
+No item
+Lass
+Laura
+Reward:
+$
+1328
+(w/ Lass Shannon)
+Gloom
+♀
+Lv.
+38
+Sitrus Berry
+Bellossom
+♀
+Lv.
+41
+No item
+Pidgeotto
+♀
+Lv.
+41
+No item
+Lass
+Shannon
+Reward:
+$
+1328
+(w/ Lass Laura)
+Paras
+♀
+Lv.
+38
+No item
+Paras
+♀
+Lv.
+38
+No item
+Parasect
+♀
+Lv.
+42
+No item
+Super Nerd
+Pat
+Reward:
+$
+2256
+Porygon
+Lv.
+47
+No item
+Ace Trainer
+Kevin
+Reward:
+$
+2760
+Rhyhorn
+♂
+Lv.
+48
+No item
+Charmeleon
+♂
+Lv.
+46
+No item
+Wartortle
+♂
+Lv.
+46
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Venonat
+HG
+SS
+Grass
+10
+,
+8
+20%
+20%
+30%
+Bellsprout
+HG
+SS
+Grass
+10
+,
+14
+30%
+30%
+5%
+Pidgey
+HG
+SS
+Grass
+8
+30%
+30%
+0%
+Oddish
+HG
+SS
+Grass
+10
+0%
+0%
+30%
+Venomoth
+HG
+SS
+Grass
+8
+0%
+0%
+20%
+Abra
+HG
+SS
+Grass
+9
+10%
+Pidgeotto
+HG
+SS
+Grass
+10
+5%
+5%
+0%
+Weepinbell
+HG
+SS
+Grass
+14
+,
+10
+5%
+Surfing
+Goldeen
+HG
+SS
+Surfing
+5-10
+90%
+Seaking
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+10-14
+50%
+Pineco
+HG
+SS
+Headbutt
+10-11
+30%
+Combee
+HG
+SS
+Headbutt
+10-14
+20%
+Headbutt (Special Tree)
+The four trees are located on the northwest hill.
+Slakoth
+HG
+SS
+Headbutt
+10-18
+35%
+Combee
+HG
+SS
+Headbutt
+10-14
+65%
+Swarm
+Buneary
+HG
+SS
+Swarm
+8-10
+40%
+Special Pokémon
+Suicune
+HG
+SS
+Only one
+40
+One
+Linoone
+HG
+SS
+Hoenn Sound
+8
+20%
+Whismur
+HG
+SS
+Hoenn Sound
+8-10
+20%
+Bidoof
+HG
+SS
+Sinnoh Sound
+8
+20%
+Buizel
+HG
+SS
+Sinnoh Sound
+8-10
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+On the northwest hill (hidden)
+HG
+SS
+Nugget
+From Ace Trainer Kevin, after defeating the seven other Trainers
+HG
+SS
+Protein
+In the tree maze (requires
+Cut
+)
+HG
+SS
+Cerulean Cape
+Upon reaching the cape, you find
+Misty
+with a date on the nearby hill. The guy gets scared off, and Misty starts to yell... until she spots your Johto League Badges. She tells you to visit the Gym, then heads back to town.
+Bill's Cottage
+Bill
+'s grandfather is housesitting while he is away, and really wants to see several species of Pokémon. Show him the correct Pokémon to be rewarded with one of the hard-to-find
+evolution stones
+.
+Pokémon
+Reward
+Jigglypuff
+HG
+Everstone
+Lickitung
+SS
+Growlithe
+HG
+Fire Stone
+Vulpix
+SS
+Pokémon
+Reward
+Oddish
+Leaf Stone
+Pichu
+Thunderstone
+Marill
+HG
+Water Stone
+Staryu
+SS
+The Third Beast
+After spotting it near
+Cianwood City
+,
+Mt. Mortar
+,
+Vermilion City
+,
+Route 14
+, and defeating Misty.
+Suicune
+will appear on the hill to the east of Bill's Cottage to await your challenge. Begin with
+Grass
+- and
+Electric-type
+moves to wear its health down quickly, then switch to
+Fire
+-,
+Water
+-,
+Ice
+-, and
+Steel-type
+moves to whittle its energy down further. If you fail to catch it, defeat the Pokémon League once more to find it in the basement of the
+Burned Tower
+.
+Type:
+Water
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Suicune
+Lv.
+40
+Rain Dance
+Water
+Status
+--
+Gust
+Flying
+Special
+--
+Aurora Beam
+Ice
+Special
+--
+Mist
+Ice
+Status
+--
+Cerulean City
+Cerulean Gym
+Cerulean Gym
+Cerulean City Pokémon Gym
+Leader: Misty
+The Tomboyish Mermaid
+With her time off ruined,
+Misty
+has no choice but to return to the
+Cerulean Gym
+, which specializes in
+Water-type
+Pokémon.
+Grass
+- and
+Electric-type
+attacks will inflict heavy damage to these aquatic opponents, but avoid using
+Fire
+-,
+Ground
+-, and
+Rock-type
+Pokémon.
+A wicked
+Thunderbolt
+can take out Misty's
+Golduck
+and
+Starmie
+, but be wary of Starmie's
+Recover
+. Her
+Lapras
+has additional weaknesses, including
+Fighting
+- and
+Rock-type
+moves. Her
+Quagsire
+is immune to electricity, but suffers massive damage when hit by Grass-type attacks. If
+Rain Dance
+takes effect, Water moves receive a 50% power boost while
+Thunder
+'s accuracy rises to 100%.
+Cerulean Gym
+Trainers
+Trainer
+Pokémon
+Sailor
+Parker
+Reward:
+$
+1376
+Horsea
+♂
+Lv.
+43
+No item
+Seadra
+♂
+Lv.
+43
+No item
+Sailor
+Eddie
+Reward:
+$
+1536
+Azumarill
+♂
+Lv.
+48
+No item
+Swimmer♀
+Diana
+Reward:
+$
+768
+Golduck
+♀
+Lv.
+48
+No item
+Swimmer♀
+Joy
+Reward:
+$
+768
+Cloyster
+♀
+Lv.
+48
+No item
+Swimmer♀
+Briana
+Reward:
+$
+736
+Seaking
+♀
+Lv.
+46
+No item
+Seaking
+♀
+Lv.
+46
+No item
+Leader
+Misty
+Cerulean Gym
+HeartGold and SoulSilver
+Reward:
+$
+6480
+Type:
+Water
+Unknown
+Ability:
+Damp
+Held item:
+None
+Golduck
+♀
+Lv.
+49
+Water Pulse
+Water
+Special
+--
+Disable
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Psych Up
+Normal
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Water Absorb
+Held item:
+None
+Quagsire
+♀
+Lv.
+49
+Water Pulse
+Water
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Rain Dance
+Water
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Ice
+Ability:
+Shell Armor
+Held item:
+None
+Lapras
+♀
+Lv.
+52
+Ice Beam
+Ice
+Special
+--
+Sing
+Normal
+Status
+--
+Water Pulse
+Water
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Types:
+Water
+Psychic
+Ability:
+Natural Cure
+Held item:
+Sitrus Berry
+Starmie
+Lv.
+54
+Water Pulse
+Water
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Recover
+Normal
+Status
+--
+Defeated, Misty awards you the
+Cascade Badge
+to mark your victory. She also hands out
+TM03
+(
+Water Pulse
+) as a prize.
+Route 5
+Route 5
+The rolling hills of
+Route 5
+make it easy to reach the former
+Pokémon Day Care
+building. The old woman inside gives out a
+Cleanse Tag
+, which decreases the chance of encountering wild Pokémon when held by your lead party member.
+Pass through
+Saffron City
+and go west to
+Route 7
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+13-15
+60%
+60%
+0%
+Pidgey
+HG
+SS
+Grass
+13-15
+40%
+40%
+0%
+Bellsprout
+HG
+SS
+Grass
+13
+,
+14
+30%
+30%
+20%
+Meowth
+HG
+SS
+Grass
+14
+,
+13
+20%
+20%
+30%
+Oddish
+HG
+SS
+Grass
+13
+0%
+0%
+60%
+Oddish
+HG
+SS
+Grass
+13
+0%
+0%
+30%
+Abra
+HG
+SS
+Grass
+12-14
+10%
+Gloom
+HG
+SS
+Grass
+15
+0%
+0%
+10%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+11-16
+50%
+Pineco
+HG
+SS
+Headbutt
+11-13
+30%
+Combee
+HG
+SS
+Headbutt
+11-16
+20%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+13
+20%
+Minun
+HG
+SS
+Hoenn Sound
+14
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+13-14
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Cleanse Tag
+From the old woman in the former Day Care building
+HG
+SS
+TM64
+(
+Explosion
+)
+From a man in the
+Underground Path
+, in exchange for the
+RageCandyBar
+HG
+SS
+← Part 18
+Lavender Town, Route 10, Rock Tunnel, Kanto Power Plant
+HeartGold and SoulSilver
+walkthrough
+Route 7, Celadon City, Celadon Gym
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

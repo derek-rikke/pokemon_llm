@@ -1,0 +1,712 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_15
+Keywords: Wayward Cave (Basement), Canalave Library, Valor Lakefront, Lake Valor, Lake Verity
+
+Walkthrough Text:
+Contents
+1
+Now that you can use Strength......
+1.1
+Oreburgh Gate (Basement)
+1.2
+Route 211 (East)
+1.3
+Mt. Coronet (Northern area)
+2
+Wayward Cave (Secret Basement)
+3
+Canalave Library
+4
+Valor Lakefront
+5
+Lake Valor
+5.1
+Valor Cavern
+6
+Lake Verity
+Now that you can use
+Strength
+......
+There are many places you can access with Strength, such as the secret part of
+Wayward Cave
+(this will be further introduced). You can also get some items you previously couldn't get.
+If you haven't got
+HM04
+(
+Strength
+), go back to
+Route 209
+. Explore
+Lost Tower
+. Refer to Section 8 for details.
+Oreburgh Gate
+(Basement)
+You need to bring Pokémon with
+Surf
+and
+Rock Smash
+.
+Go to the basement. Surf to where you fought Veteran Grant. Go down the stairs and use Strength to push the boulder. Collect the
+Earth Plate
+. Then go north and use Rock Smash first. After that, push the boulder to the west. You can get the
+TM01
+(
+Focus Punch
+).
+Items
+Item
+Location
+Games
+TM01
+(
+Focus Punch
+)
+At the far left end of the basement floor (Requires
+Surf
+and
+Rock Smash
+)
+D
+P
+Earth Plate
+At the far left end of the basement floor (Requires
+Surf
+)
+D
+P
+Route 211
+(East)
+There is a boulder for you to push. But you'll get totally nothing. You can simply ignore it. Go into Mt. Coronet for items.
+Mt. Coronet
+(Northern area)
+You need to bring a Pokémon with
+Rock Smash
+.
+You can get some items here. You can also get to Routes 216-217, Lake Acuity and Snowpoint City, but this is not recommended. There is a blizzard on Route 217, so it is very hard to get through. If you are determined to get through this route now,
+be prepared for the worst situation
+, as the
+Town Map
+mentioned. To get to Route 216,
+Pokémon with
+Defog
+is also required.
+Items
+Item
+Location
+Games
+Revive
+Near the west entrance on a boulder in the open
+(hidden)
+D
+P
+BD
+SP
+TinyMushroom
+On a boulder west of the entrance from Celestic Town
+(hidden)
+D
+P
+Escape Rope
+South of the entrance from Celestic Town
+D
+P
+Elixir
+On a rock in the middle of the cavern (Requires either
+Strength
+or
+Rock Smash
+)
+(hidden)
+D
+P
+TM69
+(
+Rock Polish
+)
+North of the entrance from Eterna City (Requires
+Rock Smash
+)
+D
+P
+Rare Candy
+Middle of the northern cavern (Requires
+Rock Smash
+)
+D
+P
+TinyMushroom
+On a boulder near the stairs at the northern end
+(hidden)
+D
+P
+Wayward Cave (Secret Basement)
+Wayward Cave's secret area
+Make sure that you have Pokémon with the moves
+Cut
+,
+Flash
+and
+Strength
+.
+Also,
+bring a lot of Repels, Super Repels or Max Repels
+.
+Go to
+Route 206
+again.
+Cut
+down the trees and access the route under the Cycling Road. There is a hidden entrance of
+Wayward Cave
+under the Cycling Road west of the main entrance of the cave. Enter it and use
+Flash
+. You will find 5 boulders blocking your way. These 5 boulders form a cross. Use
+Strength
+to push the boulder in the middle to the north, then go through the stairs to the basement.
+There are a lot of ramps and slopes. You need your
+Bicycle
+to get through. You will also need to switch gears at the right time to get the items. Use
+Repels
+,
+Super Repels
+or
+Max Repels
+to repel the wild Pokémon, so that you can get the items successfully. Max Repels will help the most.
+This basement is the only place to find wild
+Gible
+. Gible is a
+Dragon
+/
+Ground
+-type Pokémon. It evolves into
+Gabite
+at Level 24 and
+Garchomp
+at Level 48. Gible's evolutionary line has a high Attack stat and learns a lot of good Dragon-type and Ground-type moves (such as
+Dragon Claw
+and
+Dig
+). It also learns some
+Dark-type
+moves like
+Crunch
+. However, you will find Gible at Level 15 to 17, which is a distance from your Pokémon's level -- your Pokémon's level should be around Lv.40 by now. Using it or not, it's up to you.
+There is another set of stairs in the southeast corner of the basement. This leads to the an isolated area in the main cave, which contains
+TM26
+(
+Earthquake
+).
+Items
+Item
+Location
+Games
+Stardust
+South-west corner of the basement
+(hidden)
+D
+P
+Max Ether
+At the end of the southernmost set of jump ramps
+D
+P
+Revive
+×2
+Northeast area of the basement, below a jump ramp
+Northwest area, dead-end
+(hidden)
+D
+P
+Grip Claw
+Between the two bike bridges
+D
+P
+TM26
+(
+Earthquake
+)
+Up the stairs at the end of the basement
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+15-17
+35%
+Geodude
+D
+P
+Pt
+Cave
+16
+10%
+Bronzor
+D
+P
+Pt
+Cave
+15-17
+40%
+Gible
+D
+P
+Pt
+Cave
+15-17
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Canalave Library
+Return to
+Canalave City
+. Go to
+Canalave Library
+. Head to the top floor, and
+Rival
+Barry
+will lead you to the desk, which
+Professor Rowan
+and his aide
+Lucas
+or
+Dawn
+are waiting there.
+Professor Rowan then talks about some results of his research about Pokémon
+evolution
+, and mentions the
+Lake guardians
+--
+Mesprit
+,
+Uxie
+and
+Azelf
+. He instructs his aide to go to
+Lake Verity
+, you to
+Lake Valor
+and Barry to
+Lake Acuity
+, saying that he needs a tough Trainer to go there. Barry says that he doesn't have a PokéDex, while Professor replies:
+"... And who was it that bolted from the lab before I had a chance to give you a PokéDex?"
+Then Professor says that witnessing a Pokémon with eyes are also important.
+When Professor finishes talking, an "earthquake" suddenly occurred!
+After the "earthquake", Professor Rowan, his aide and Barry immediately head outside. Professor tells you to be careful of the aftershock. When you regain control, you may talk to the other people in the library, and you'll find that everyone talks something different. Especially the librarian, she was obviously scared, but she claims that she is 'not the one who screamed, "Giyaaaah!" Or yelled out, "Heeeelp meeee!"'
+Go out immediately. You will find everyone (Professor, his aide, Barry). A sailor comes and talks to all of you. He says that an explosion has occurred at Lake Valor, and the sound was very loud, like:
+"Ka-Boom!"
+So the "earthquake" was an explosion, after all! Professor Rowan tells you to go to Lake Valor immediately. He is very worried about what happened there. Professor Rowan and his aide will also head off to Lake Verity. Barry will head off to Lake Acuity, too.
+Fly to either
+Pastoria City
+or
+Veilstone City
+, then head to
+Valor Lakefront
+. If you fly to Pastoria City, head east to
+Route 213
+and go through
+Hotel Grand Lake
+. If you fly to Veilstone City, go south to
+Route 214
+.
+Valor Lakefront
+Heal up your Pokémon before proceeding.
+Go all the way south from Route 214 (if you flew to Veilstone City). Or go east through Route 213, then turn north to go through Hotel Grand Lake. No matter which way you choose, you will arrive in Valor Lakefront again. Yes, where you arrive in is where you chased the Galactic Grunt all the way to and where
+Cynthia
+gave you the Secret Potion.
+This time, no one is blocking the lake entrance. Go inside. You will be in Lake Valor.
+Lake Valor
+You will find the lake was dried up after the explosion. Many
+Magikarp
+are flopping around. It was terrible. What a mess! Who did this to the lake? You're probably furious about this, aren't you?
+The dried-up Lake Valor. Note the numerous
+Magikarp
+flailing.
+Head west, and go down the stairs. You will find a grunt saying that they used a Galactic Bomb. It was none other
+Team Galactic
+! (Remember after the Pastoria Gym battle, a grunt outside the
+Great Marsh
+delivered a Galactic Bomb to Lake Valor, and you tailed him?) This should have infuriated everyone.
+Head to the northwest corner, where a lot of Magikarp are flopping, and use your Dowsing Machine to help you collect a hidden
+HP Up
+. Then fight all of the grunts.
+Items
+Item
+Location
+Games
+HP Up
+In the northwest while the lake is dry
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1320
+Glameow
+♀
+Lv.
+33
+No item
+Croagunk
+♀
+Lv.
+33
+No item
+Galactic Grunt
+Reward:
+$
+1440
+Golbat
+♂
+Lv.
+32
+No item
+Croagunk
+♂
+Lv.
+36
+No item
+Galactic Grunt
+Reward:
+$
+1240
+Croagunk
+♂
+Lv.
+34
+No item
+Dustox
+♂
+Lv.
+31
+No item
+Beautifly
+♂
+Lv.
+31
+No item
+After fighting all of the grunts, go to the middle of the lake. Head inside the cave and you will be in the Valor Cavern.
+Valor Cavern
+Heal up your Pokémon before proceeding.
+There is almost nothing here, other than the final Team Galactic
+Commander
+you encounter in the game—
+Saturn
+. Talk to him. He says that he has caught Azelf. He then recognizes you and challenges you to a battle.
+Commander
+Saturn
+Valor Cavern
+Diamond and Pearl
+Reward:
+$
+2960
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+35
+Shock Wave
+Electric
+Special
+--
+Embargo
+Dark
+Status
+--
+Recover
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Poison
+Fighting
+Ability:
+Anticipation
+Held item:
+Sitrus Berry
+Toxicroak
+♀
+Lv.
+37
+Revenge
+Fighting
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Mud Bomb
+Ground
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+35
+Iron Defense
+Steel
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Rock Tomb
+Rock
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+This battle shouldn't be a big problem because you beat Canalave Gym Leader
+Byron
+.
+After beating you defeat Saturn, he tells you that Commander
+Mars
+should have caught Mesprit in Lake Verity by this time. Fly home to
+Twinleaf Town
+because this is the closest place to
+Lake Verity
+.
+Lake Verity
+As you need to fly to Twinleaf Town, you may stop by your home (which is where you land) and talk to your in-game
+Mom
+to heal your Pokémon.
+Make sure that you heal your Pokémon before proceeding.
+Now head north to
+Route 201
+, head west and go through
+Verity Lakefront
+, just like how you go to Lake Verity at the start of your game. But you have to go faster this time.
+Go inside. You will find Professor Rowan arguing with a grunt. He notices you and yells out that his aide Lucas/Dawn needs your help! Fight all grunts and proceed.
+Trainers
+Trainer
+Pokémon
+Galactic
+Grunt
+Reward:
+$
+2600
+(w. Galactic Grunt)
+Glameow
+♀
+Lv.
+33
+No item
+Galactic
+Grunt
+Reward:
+$
+2600
+(w. Galactic Grunt)
+Silcoon
+♀
+Lv.
+32
+No item
+Golbat
+♀
+Lv.
+32
+No item
+Glameow
+♀
+Lv.
+32
+No item
+Galactic
+Grunt
+Reward:
+$
+1280
+Stunky
+♂
+Lv.
+32
+No item
+Glameow
+♀
+Lv.
+32
+No item
+Galactic
+Grunt
+Reward:
+$
+1320
+Beautifly
+♀
+Lv.
+31
+No item
+Glameow
+♀
+Lv.
+33
+No item
+You will see Lucas/Dawn having difficulty fighting against Mars. Talk to Lucas/Dawn, and he/she will request you to help him/her. Talk to Mars. She recognizes you, too (you beat her in
+Valley Windworks
+). She guesses that you have forgotten who she was and re-introduces herself. Then she will battle you again.
+Commander
+Mars
+Lake Verity
+Diamond and Pearl
+Reward:
+$
+3120
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+37
+Air Cutter
+Flying
+Special
+--
+Supersonic
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Toxic
+Poison
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+37
+Iron Defense
+Steel
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Purugly
+♀
+Lv.
+39
+Fake Out
+Normal
+Physical
+--
+Slash
+Normal
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+This battle wouldn't be too difficult for you, either. Be careful that Mars'
+Purugly
+might start off with
+Fake Out
+that will surely make your Pokémon flinch and force your Pokémon to skip a turn.
+After beating her once again, Professor Rowan will tell you that he is worried about Barry.
+The water level of the lake has risen, so surf around. Luckily, there is no damage and there is an item for you to get. Nothing is found inside
+Verity Cavern
+, though.
+Items
+Item
+Location
+Games
+TM38
+(
+Fire Blast
+)
+In the southeast corner of the western patch of grass (requires
+Surf
+)
+D
+P
+What to do next, then? If you have gone all the way to
+Snowpoint City
+after beating Canalave Gym, fly to Snowpoint City now and head to Lake Acuity. But you probably have not. So, get ready for a long and tough journey. Head to either
+Eterna City
+or
+Celestic Town
+whenever you are ready because you will head to Routes 216 to 217 through
+Mt. Coronet
+and get to Lake Acuity. However,
+do not set off yet
+! Do some serious preparation first.
+← Part 14
+Jubilife City, Route 218, Canalave City, Iron Island, Canalave Gym
+Diamond and Pearl
+walkthrough
+Mt. Coronet (Northern Area Part 2), Routes 216-217, Acuity Lakefront, Snowpoint City
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,483 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_14
+Keywords: Power Plant, Viridian Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Power Plant
+1.1
+In Search of Power
+1.1.1
+VS Zapdos
+2
+Viridian City
+2.1
+Viridian Gym
+2.2
+The Path to the Summit
+Power Plant
+Power Plant
+The
+Power Plant
+is an industrial complex that was abandoned years ago, though some of the machinery still works. Many forgotten items can be found lying around, but beware: some are actually
+Voltorb
+and
+Electrode
+that only look like items.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+R
+B
+Y
+Walking
+30, 35
+40%
+Magneton
+R
+B
+Y
+Walking
+33, 38
+20%
+Grimer
+R
+B
+Y
+Walking
+33, 37
+15%
+Muk
+R
+B
+Y
+Walking
+33, 37
+5%
+Voltorb
+R
+B
+Y
+Walking
+33, 37
+20%
+Special Pokémon
+Voltorb
+R
+B
+Y
+Fake item
+40
+Six
+Electrode
+R
+B
+Y
+Fake item
+43
+Two
+Zapdos
+R
+B
+Y
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Carbos
+North of the entrance room
+Y
+TM33
+(
+Reflect
+)
+In the south-central room
+Y
+TM25
+(
+Thunder
+)
+In the southeast room
+Y
+Rare Candy
+In the northeast room
+Y
+HP Up
+In the northeast room
+Y
+PP Up
+In the room northeast of Zapdos, in the rubble
+(hidden)
+Y
+Max Elixer
+Central room, in the rubble
+(hidden)
+Y
+Fake items
+Voltorb
+×6
+Northeast of the
+Carbos
+In the long horizontal area near the center of the facility
+In the area east of the south entrance, southeast of
+TM33
+(
+Reflect
+)
+In the area south of the long horizontal area near the center of the facility (×2)
+Far east of
+TM25
+(
+Thunder
+), in the southeast area of the facility
+Y
+Electrode
+×2
+In the long horizontal area near the center of the facility
+In the small area north of the long horizontal area near the center of the facility
+Y
+In Search of Power
+Pass through the entrance room to get a
+Carbos
+. Continue in a clockwise direction to find a second "item", a
+Voltorb
+. The large, central room is a dead-end with both a Voltorb and
+Electrode
+waiting to surprise an unsuspecting visitor. Travel south to the exterior wall and pick up
+TM33
+(
+Reflect
+) in the south-central room. Collect
+TM25
+(
+Thunder
+) in the southeast room, then follow the narrow hallway northward. Grab the
+Rare Candy
+and
+HP Up
+from the northeast room. Continue westward to reach the west-central room.
+VS Zapdos
+Zapdos
+is likely the second of the
+Legendary birds
+that you will encounter. Use
+Rock
+- and
+Ice-type
+attacks to weaken it quickly, then follow up with
+Grass
+,
+Flying
+, and
+Fighting
+moves to wear its health down further. Like with
+Articuno
+, it will be useful to cause status ailments like
+Sleep
+to increase the odds of catching it.
+Types:
+Electric
+Flying
+Zapdos
+Lv.
+50
+Drill Peck
+Flying
+--
+ThunderShock
+Electric
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+When the battle is over, take the side exit and fly back to
+Viridian City
+.
+Viridian City
+Viridian Gym
+Viridian Gym
+VIRIDIAN CITY POKéMON GYM
+...
+In the time it took to collect the seven other Badges, the Gym Leader of
+Viridian Gym
+has finally returned.
+Giovanni
+resumed his position as Gym Leader shortly after his defeat in
+Saffron City
+. The
+Viridian Gym
+specializes in
+Ground-type
+Pokémon.
+Grass
+-,
+Water
+-, and
+Ice-type
+attacks will be the most useful.
+Flying-type
+Pokémon are immune to Ground attacks and Flying moves will deal serious damage to the several
+Fighting
+Pokémon inside.
+Psychic
+moves will work wonders against
+Poison-type
+Pokémon.
+Go north past the three Gym Trainers to reach a
+Revive
+. Continue on and battle the next two Trainers, so that the second walks away from the north wall. Return to the entrance and follow the spinner tiles north and west to reach the Gym Leader. Take down his
+Dugtrio
+and
+Rhydon
+quickly, as
+Fissure
+and
+Horn Drill
+cause an
+instant knockout
+if they hit!
+Viridian Gym
+Trainers
+Trainer
+Pokémon
+Tamer
+Reward:
+$
+1560
+Arbok
+Lv.
+39
+No item
+Tauros
+Lv.
+39
+No item
+Blackbelt
+Reward:
+$
+1075
+Machoke
+Lv.
+43
+No item
+Cooltrainer
+Reward:
+$
+1365
+Nidorino
+Lv.
+39
+No item
+Nidoking
+Lv.
+39
+No item
+Tamer
+Reward:
+$
+1720
+Rhyhorn
+Lv.
+43
+No item
+Blackbelt
+Reward:
+$
+1000
+Machop
+Lv.
+40
+No item
+Machoke
+Lv.
+40
+No item
+Cooltrainer
+Reward:
+$
+1365
+Sandslash
+Lv.
+39
+No item
+Dugtrio
+Lv.
+39
+No item
+Cooltrainer
+Reward:
+$
+1505
+Rhyhorn
+Lv.
+43
+No item
+Blackbelt
+Reward:
+$
+950
+Machoke
+Lv.
+38
+No item
+Machop
+Lv.
+38
+No item
+Machoke
+Lv.
+38
+No item
+Giovanni
+Viridian Gym
+Yellow
+Reward:
+$
+5445
+Type:
+Ground
+Unknown
+Dugtrio
+Lv.
+50
+Sand-Attack
+Normal
+--
+Dig
+Ground
+--
+Fissure
+Ground
+--
+Earthquake
+Ground
+--
+Type:
+Normal
+Unknown
+Persian
+Lv.
+53
+Screech
+Normal
+--
+Slash
+Normal
+--
+Fury Swipes
+Normal
+--
+Double Team
+Normal
+--
+Types:
+Poison
+Ground
+Nidoqueen
+Lv.
+53
+Tail Whip
+Normal
+--
+Earthquake
+Ground
+--
+Double Kick
+Fighting
+--
+Thunder
+Electric
+--
+Types:
+Poison
+Ground
+Nidoking
+Lv.
+55
+Thunder
+Electric
+--
+Leer
+Normal
+--
+Earthquake
+Ground
+--
+Double Kick
+Fighting
+--
+Types:
+Ground
+Rock
+Rhydon
+Lv.
+55
+Rock Slide
+Rock
+--
+Fury Attack
+Normal
+--
+Earthquake
+Ground
+--
+Horn Drill
+Normal
+--
+After the battle,
+Giovanni
+awards you the
+Earth Badge
+, which ensures obedience from all Pokémon, regardless of level. As a prize, he also gives you
+TM27
+(
+Fissure
+), a TM he claims to have made when he first acted as Gym Leader. He seems remorseful of his actions, and officially disbands
+Team Rocket
+before disappearing.
+The Path to the Summit
+Having won all eight Gym Badges, the next destination is the
+Indigo Plateau
+, far to the northwest. The elite Trainers there are tough, but before you can challenge them, you must first survive a grueling cave known as
+Victory Road
+. Gather your strongest Pokémon team with access to
+Surf
+and
+Strength
+, and visit a Poké Mart to replenish your supply of Potions and Poké Balls. A third Legendary Pokémon can be found deep inside.
+← Part 13
+Cinnabar Island, Cinnabar Gym, Route 21
+Yellow
+walkthrough
+Route 22, Route 23, Victory Road
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

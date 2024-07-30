@@ -1,0 +1,39 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 4
+Keywords: Route 109, Slateport City, Oceanic Museum, Contest Spectacular Hall, Route 110, Trick House
+
+**Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 4**
+
+**Route 109**
+- **Trainers**: Battle several trainers for cash rewards.
+- **Items**: 
+  - Revive: Under southwestern red umbrella (hidden)
+  - Soft Sand: Near northeast Tuber
+  - Ether: Southeast beach (hidden)
+  - Great Ball: In front of Seashore House (hidden)
+  - Soda Pop: Defeat all trainers in Seashore House for 6x
+- **Seashore House**: Defeat all trainers inside to receive Soda Pop.
+
+**Slateport City**
+- **Oceanic Museum**: Pay $50 to enter. Defeat Team Magma/Aqua Grunts and deliver Devon Parts to Captain Stern.
+- **Slateport Market**: Buy items, including TMs and vitamins. Obtain Effort Ribbon if your Pokémon has max EVs.
+- **Contest Spectacular Hall**: After delivering Devon Parts, receive Contest Pass and Pokéblock Kit from Lisia. Participate in Normal Rank Contests to unlock higher ranks.
+
+**Route 110**
+- **Trainers**: Battle trainers en route to Mauville City.
+- **Items**: 
+  - Dire Hit: East of Trick House
+  - Full Heal: North of Youngster Timmy (hidden)
+  - Great Ball: North of rival battle site (hidden)
+- **Trick House**: Complete puzzles for various prizes. Use field moves like Cut, Rock Smash, and Flash to access all areas.
+  
+**Rival Battle 2**: Battle May/Brendan; they will heal your Pokémon post-fight. Receive the Dowsing Machine for locating hidden items.
+
+**Route 103 (East)**: Optional battles for extra experience before heading to Mauville City.
+
+**Key Points**: 
+- Focus on defeating trainers for money and items.
+- Deliver Devon Parts and participate in contests after visiting the Oceanic Museum.
+- Use the Dowsing Machine to find hidden treasures along your journey. 
+
+**Next Steps**: Proceed to Mauville City after exploring Route 103.

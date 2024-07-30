@@ -1,0 +1,44 @@
+Game: Crystal
+Part: 13
+Keywords: Blackthorn City, Blackthorn Gym, Dragon's Den, Route 45, Dark Cave, Route 46
+
+**Part 13: Blackthorn City and Surroundings**
+
+**Blackthorn City Overview:**
+- Located northeast of Johto, near the Ice Path and Route 45.
+- Home to the Dragon's Den; access requires Gym Leader Clair's permission.
+
+**Key Locations:**
+- **Trade Pokémon:** In the eastern house, trade a female Dragonair for a Dodrio.
+- **Move Deleter:** Located in the southern house; removes HM moves.
+
+**Blackthorn Gym:**
+- Leader: Clair (Dragon-type).
+- Recommended: Use Ice-type moves against her team of three Dragonair and one Kingdra.
+- Gym Strategy: Navigate the gym by moving boulders using Strength. Defeat trainers to progress.
+- After defeating Clair, complete the Dragon user challenge at the Dragon's Den to earn the Rising Badge.
+
+**Dragon's Den:**
+- Enter via the lake behind the Gym (requires Surf and Whirlpool).
+- Inside, face Cooltrainer Darin, collect items (Calcium, Max Elixir, Dragon Fang), and complete the elder’s quiz to receive TM24 (Dragon Breath) and a Dratini.
+
+**Route 45:**
+- Connects to Dark Cave and Route 46.
+- Trainers: Hiker Erik, Cooltrainer Ryan, etc. Defeat them for cash and experience.
+- Items include Elixir, Max Potion, and Nugget scattered throughout the area.
+
+**Dark Cave:**
+- Access from Route 45 and 46; requires Surf, Strength, and Rock Smash.
+- Navigate through chambers to find various Pokémon (Zubat, Geodude, etc.) and items (Revive, TM13).
+
+**Route 46:**
+- Connects to Route 45 and 29; features Berry trees.
+- Trainers: Camper Ted, Picnicker Erin, Hiker Bailey.
+- Items: PRZCureBerry, Calcium, and X Speed can be found here.
+
+**Important Notes:**
+- Defeat Hiker Parry for Marill swarm alerts.
+- Complete quests and battles to prepare for the Pokémon League. 
+
+**Next Steps:**
+- After earning all eight Johto Badges, head to the Pokémon League at Indigo Plateau.

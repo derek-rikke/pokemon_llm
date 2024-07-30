@@ -1,0 +1,750 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_17
+Keywords: Sea Spirit's Den, Unknown Dungeon, Terminus Cave
+
+Walkthrough Text:
+Having defeated the Pokémon League, you may now track down the remaining legendary Pokémon.
+Contents
+1
+Azure Bay
+1.1
+Sea Spirit's Den
+2
+Pokémon Village
+2.1
+Unknown Dungeon
+3
+Route 18
+3.1
+Terminus Cave
+3.1.1
+1F
+3.1.2
+B1F
+3.1.3
+B2F
+3.1.4
+B1F (east)
+3.1.5
+1F (east)
+Azure Bay
+Sea Spirit's Den
+Sea Spirit's Den
+The first wild Pokémon you encounter after meeting Professor Sycamore in Lumoise Station (after becoming the new Champion) will be one of three legendary bird Pokémon from the far-off
+Kanto
+region. Only one has been spotted in
+Kalos
+, and the one that appears depends on your starter Pokémon. However, the bird will flee immediately after the battle begins, and begin roaming the region. After the first encounter, the Pokédex is able to track its location. After encountering the Pokémon eleven different times, it will travel to the
+Sea Spirit's Den
+in
+Azure Bay
+, where you finally have a chance to capture it. Consider stocking up on
+Ultra Balls
+,
+Dusk Balls
+,
+Quick Balls
+, or
+Timer Balls
+for this battle.
+Starter
+Legendary
+Chespin
+Articuno
+Fennekin
+Zapdos
+Froakie
+Moltres
+Articuno
+is the most defensive-oriented of the trio. Start off with
+Fire
+-,
+Electric
+-,
+Rock
+-, or
+Steel-type
+attacks to wear its health down quickly, then follow up with
+Grass
+- or
+Bug-type
+moves to whittle it down further.
+Zapdos
+is the fastest of the three. Begin with super-effective
+Rock
+- or
+Ice-type
+moves, before wearing it down gradually with
+Bug
+-,
+Grass
+-,
+Flying
+-,
+Fighting
+-, or
+Steel-type
+attacks.
+Moltres
+is the most offensive-oriented of the group. Open with
+Water
+-,
+Electric
+-, or
+Rock-type
+attacks, then follow up with
+Grass
+-,
+Fire
+-,
+Bug
+-,
+Fighting
+-,
+Steel
+-, or
+Fairy-type
+moves to wear it down slowly.
+Types:
+Ice
+Flying
+Ability:
+Pressure
+Held item:
+None
+Articuno
+Lv.
+70
+Ice Beam
+Ice
+Special
+--
+Reflect
+Psychic
+Status
+--
+Hail
+Ice
+Status
+--
+Tailwind
+Flying
+Status
+--
+Types:
+Electric
+Flying
+Ability:
+Pressure
+Held item:
+None
+Zapdos
+Lv.
+70
+Agility
+Psychic
+Status
+--
+Discharge
+Electric
+Special
+--
+Rain Dance
+Water
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+None
+Moltres
+Lv.
+70
+Safeguard
+Normal
+Status
+--
+Air Slash
+Flying
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Heat Wave
+Fire
+Special
+--
+Pokémon Village
+Unknown Dungeon
+Fly to
+Snowbelle City
+and make your way through the Winding Woods of
+Route 20
+again. When you reach
+Pokémon Village
+, surf upriver to find that the man that had blocked the cave entrance is gone, so you can finally investigate his claims of powerful Pokémon inside. Unlike
+another cave of the same name
+, this one features only a single small chamber. The legendary Pokémon,
+Mewtwo
+, can be found in the center of this chamber, standing with its back to the entrance.
+Items
+Item
+Location
+Games
+Oval Stone
+On a rock on the cave's west side (hidden, reappears occasionally)
+X
+Y
+Mewtwonite X
+Found after capturing Mewtwo
+X
+Mewtwonite Y
+Found after capturing Mewtwo
+Y
+Mewtwo excels in Special Attack and Speed. Start off with
+Bug
+-,
+Ghost
+-, or
+Dark-type
+moves to weaken it quickly before following up with
+Fighting
+and
+Psychic
+attacks. Since it can restore its health with
+Recover
+, consider using status-inflicting moves like
+Spore
+or
+Thunder Wave
+to restrict its use. Alternatively, you could simply use the
+Master Ball
+you received in the
+Poké Ball Factory
+.
+Type:
+Psychic
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Mewtwo
+Lv.
+70
+Recover
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Barrier
+Psychic
+Status
+--
+Aura Sphere
+Fighting
+Special
+--
+Route 18
+Terminus Cave, Entrance
+Terminus Cave, B1F
+Terminus Cave, B2F
+Terminus Cave, B1F (east)
+Terminus Cave, 1F (east)
+Terminus Cave
+Terminus Cave
+is a former coal mine that was closed due to rumors of a monster living deep inside. A chill wind blows through this forbidding cave, which houses plenty of treasure for the boldest adventurers. Though the cave was accessible when you first reached
+Route 18
+, it was impossible to reach the final chamber until now.
+Trainers
+Trainer
+Pokémon
+B1F
+Worker
+Narek
+Reward:
+$
+3,072
+Graveler
+♂
+Lv.
+46
+No item
+Graveler
+♂
+Lv.
+47
+No item
+Golem
+♂
+Lv.
+48
+No item
+Hiker
+Aaron
+Reward:
+$
+2,800
+Rhydon
+♂
+Lv.
+50
+No item
+Hiker
+Bergin
+Reward:
+$
+2,688
+Boldore
+♂
+Lv.
+48
+No item
+Steelix
+♂
+Lv.
+48
+No item
+Worker
+Dimitri
+Reward:
+$
+3,200
+Octillery
+♂
+Lv.
+50
+No item
+Worker
+Yusif
+Reward:
+$
+3,200
+Probopass
+♂
+Lv.
+50
+No item
+B2F
+Battle Girl
+Andrea
+Reward:
+$
+2,400
+Throh
+♂
+Lv.
+49
+No item
+Conkeldurr
+♂
+Lv.
+50
+No item
+Black Belt
+Gunnar
+Reward:
+$
+2,400
+Toxicroak
+♂
+Lv.
+49
+No item
+Sawk
+♂
+Lv.
+50
+No item
+Battle Girl
+Hailey
+Reward:
+$
+2,448
+Medicham
+♀
+Lv.
+48
+No item
+Hawlucha
+♀
+Lv.
+51
+No item
+Black Belt
+Ricardo
+Reward:
+$
+2,496
+Hariyama
+♂
+Lv.
+52
+No item
+Rangers
+Fern & Lee
+Reward:
+$
+8,160
+Nidoqueen
+♀
+Lv.
+51
+No item
+Nidoking
+♂
+Lv.
+51
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Durant
+X
+Y
+Cave
+44-46
+Common
+Sandslash
+X
+Y
+Cave
+45-46
+Average
+Graveler
+X
+Y
+Cave
+44-46
+Average
+Lairon
+X
+Y
+Cave
+45-46
+Average
+Pupitar
+X
+Y
+Cave
+45-46
+Average
+Horde Encounter
+Durant
+X
+Y
+Horde Encounter
+23
+Common
+Geodude
+X
+Y
+Horde Encounter
+23
+Average
+Aron
+X
+Y
+Horde Encounter
+23
+Rare
+Larvitar
+X
+Y
+Horde Encounter
+23
+Rare
+Rock Smash
+Graveler
+X
+Y
+Rock Smash
+44-46
+Common
+Shuckle
+X
+Y
+Rock Smash
+44-46
+Very Rare
+Drops from the ceiling
+Ariados
+X
+Y
+Ceiling
+44-45
+Common
+Noibat
+X
+Y
+Ceiling
+44-45
+Very Rare
+Special Pokémon
+Zygarde
+X
+Y
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Small Chamber 1
+Dragon Scale
+On the sunken part of the floor (requires
+Rock Smash
+)
+X
+Y
+Normal Gem
+On a stalagmite near the rear wall (hidden, requires
+Rock Smash
+)
+X
+Y
+Small Chamber 2
+TM31
+(
+Brick Break
+)
+On the sunken part of the floor
+X
+Y
+B1F
+Star Piece
+East of the eastern bridge (requires
+Rock Smash
+)
+X
+Y
+Dusk Ball
+On a rock, southwest of the two western ledges (hidden)
+X
+Y
+Hyper Potion
+On a rock, northwest of the western bridge (hidden)
+X
+Y
+Heat Rock
+Southwest corner (requires
+Rock Smash
+)
+X
+Y
+Escape Rope
+On a hill, northwest of Hiker Bergin
+X
+Y
+Moon Stone
+In the wall, north of Worker Dimitri (hidden, requires
+Rock Smash
+)
+X
+Y
+Max Repel
+On a stalagmite, northeast of Worker Yusif (hidden)
+X
+Y
+Reaper Cloth
+East of Worker Yusif, between two ledges
+X
+Y
+B2F
+Iron
+On a stalagmite near the southwest corner (hidden)
+X
+Y
+Dusk Stone
+Southwest corner
+X
+Y
+X Attack
+Northwest corner
+X
+Y
+Elixir
+North-central area, past Battle Girl Hailey (requires
+Rock Smash
+)
+X
+Y
+Full Heal
+East-central area
+X
+Y
+TM30
+(
+Shadow Ball
+)
+Near the mine cart in the center (requires
+Rock Smash
+)
+X
+Y
+Max Potion
+Southeast of the mine cart (hidden, requires
+Rock Smash
+)
+X
+Y
+Dire Hit
+On the stalagmite behind Rangers Fern & Lee (hidden)
+X
+Y
+Iron Plate
+South-central area
+X
+Y
+Zygarde's Chamber
+Adamant Orb
+Southwest path
+X
+Y
+Lustrous Orb
+Southeast path
+X
+Y
+Griseous Orb
+Northwest path
+X
+Y
+Big Nugget
+Northeast path, in the sunlit spot (hidden)
+X
+Y
+1F
+Pass by the old mine cart and go down the northeast stairs to the basement.
+B1F
+Turn south and go down a small slope to reach a fork in the road. Take the eastern path first; clear the way with
+Rock Smash
+and cross the bridge to get a
+Star Piece
+. Go back and head southwest to jump two ledges. Inspect the small rock here for a hidden
+Dusk Ball
+. Follow the path uphill and check the stalagmite near the bridge for a
+Hyper Potion
+. Cross the bridge to battle Worker Narek. Take the southern path to reach another breakable rock and a
+Heat Rock
+beyond it, then return to Worker Narek and head east. Battle Hiker Aaron and cross the bridge. Go down the slope, head south, then jump the few ledges to reach an
+Escape Rope
+and Hiker Bergin. Follow the path back to Hiker Aaron, cross the bridge, and go down the slope again. This time, head north past Worker Dimitri. Use
+Rock Smash
+to find a
+Moon Stone
+in the north wall, then go down the stairs.
+B2F
+Go north past Battle Girl Andrea. Use
+Rock Smash
+to follow the narrow tunnel westward; check the stalagmite at the end for a hidden
+Iron
+. Go west to get a
+Dusk Stone
+, then head northeast toward Black Belt Gunnar. The path leading north takes you to an
+X Attack
+; collect the item before heading east. Climb onto the hill to fight Battle Girl Hailey, then go north to reach an
+Elixir
+, and southeast for a
+Full Heal
+. Backtrack a bit to head south from Black Belt Ricardo. At the intersection, go northwest to find
+TM30
+(
+Shadow Ball
+) near the mine cart, and a hidden
+Max Potion
+in the corner. Head east to battle Rangers Fern & Lee, and inspect the stalagmite behind them for a
+Dire Hit
+. Continue past them to another intersection; go west to collect an
+Iron Plate
+, then climb the stairs to the east.
+B1F (east)
+Head north to fight Worker Yusif. Skirt around the side of the hill and check the stalagmite for a
+Max Repel
+. Jump the ledge to collect the
+Reaper Cloth
+, then climb back up the hill and take the stairs in the northwest.
+1F (east)
+The layout of the final chamber is shaped similarly to a windmill. Each of the four tunnels leads to a rare item. The southwest tunnel leads to an
+Adamant Orb
+, the southeast tunnel, a
+Lustrous Orb
+. The northwest tunnel holds a
+Griseous Orb
+, and the northeast tunnel leads to a hidden
+Big Nugget
+. At the point where these tunnels meet, the legendary Pokémon watches you from atop a small hill.
+Zygarde
+, the Order Pokémon, is a
+Dragon
+/
+Ground
+type. Open with
+Ice
+-,
+Dragon
+-, and
+Fairy-type
+attacks to wear its health down quickly. After that, switch to
+Fire
+-,
+Poison
+-, and
+Rock-type
+moves to weaken it further. Just remember, if it uses
+Camouflage
+, it becomes a pure-Rock type Pokémon.
+Types:
+Dragon
+Ground
+Ability:
+Aura Break
+Held item:
+None
+Zygarde
+Lv.
+70
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Camouflage
+Normal
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Having tied up all the loose ends, your final mission is to complete the Pokédex. The discovery of Kalos-native Pokémon has brought the total number of species to 721, so there is still plenty to keep you busy!
+← Part 16
+Post-Game
+X and Y
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

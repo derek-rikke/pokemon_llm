@@ -1,0 +1,1130 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_9
+Keywords: Route 112 (South, Revisted), Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mauville City
+1.1
+Rydel's Cycles
+2
+Route 112 (south)
+3
+Mt. Chimney
+3.1
+Steer Clear of the Grunts
+3.2
+Spotted!
+3.3
+Detour for a TM
+3.4
+Challenge Accepted!
+3.4.1
+VS Tabitha
+3.4.2
+VS Shelly
+3.5
+Battle with the Boss
+3.5.1
+VS Maxie
+3.5.2
+VS Archie
+4
+Jagged Pass
+4.1
+With the Acro Bike
+4.2
+With the Mach Bike
+5
+Lavaridge Town
+5.1
+Communicating Through Dance
+5.2
+Pokémon Center and Hot Springs
+5.3
+Herb Shop
+5.4
+Lavaridge Gym
+Mauville City
+Rydel's Cycles
+Whether you returned to
+Mauville
+with
+May
+/
+Brendan
+or took the long way through
+Route 115
+and
+Rusturf Tunnel
+, it is a good idea to visit
+Rydel's Cycles
+to swap your
+Mach Bike
+for the
+Acro Bike
+. The upcoming terrain is harsh, and while the Mach Bike can reach some areas, the Acro Bike allows you to fully explore the rough landscape without making multiple visits.
+Route 112 (south)
+Team Magma
+OR
+/
+Team Aqua
+AS
+has taken
+Professor Cozmo
+'s Meteorite to
+Mt. Chimney
+, and the only way to follow is by Cable Car. When you arrive, you find that the guards are no longer guarding the building. Collect the
+Guard Spec.
+to the east, then enter the station and take the Cable Car up to the summit.
+Mt. Chimney
+Mt. Chimney
+Located in the heart of
+Hoenn
+,
+Mt. Chimney
+is a monstrous volcano that seethes with incredible power. Although their intentions are not yet clear,
+Team Magma
+OR
+/
+Team Aqua
+AS
+is determined to use
+Professor Cozmo
+'s Meteorite here in the next stage of their campaign.
+Trainers
+Trainer
+Pokémon
+Team Magma Grunt
+OR
+Reward:
+$
+880
+Poochyena
+♂
+Lv.
+22
+No item
+Koffing
+♂
+Lv.
+22
+No item
+Team Aqua Grunt
+AS
+Reward:
+$
+880
+Poochyena
+♂
+Lv.
+22
+No item
+Grimer
+♂
+Lv.
+22
+No item
+Items
+Item
+Location
+Games
+Zinc
+Dead-end path behind the Cable Car station (hidden)
+OR
+AS
+TM59
+(
+Incinerate
+)
+Dead-end path in the northwest, underneath the glass bridge
+OR
+AS
+After defeating Maxie/Archie
+Meteorite
+From Maxie
+OR
+/Archie
+AS
+upon his defeat
+OR
+AS
+Protein
+East side of the crater (hidden)
+OR
+AS
+Steer Clear of the Grunts
+Normally, visitors to the mountaintop would be able to head south through
+Jagged Pass
+to reach
+Lavaridge Town
+. But Team Magma and Team Aqua are locked in battle all over the summit, including the entrance to the mountain pass. Let their Pokémon fight it out while you climb up north to the crater.
+West of the stairway, you find
+Aqua Leader
+Archie
+OR
+/
+Magma Leader
+Maxie
+AS
+in a skirmish against a group of opposing Grunts. You're only here for
+Cozmo
+'s Meteorite, though, so slip past the battle and work your way to the northwest.
+Spotted!
+There is a single Grunt ahead standing guard, and you are quickly drawn into battle. But you're more than a match for one lowly Grunt, so finish him off quickly and continue northward.
+Detour for a TM
+Farther ahead is a glass bridge that extends over the mouth of the volcano. Ignore it for a moment and follow the narrow stairway instead. Loop around under the bridge to find
+TM59
+(
+Incinerate
+).
+Challenge Accepted!
+Make your way to the glass bridge and you'll be stopped by
+Tabitha
+OR
+/
+Shelly
+AS
+, who isn't about to let you pass by so easily!
+VS Tabitha
+Magma Admin
+Tabitha
+Mt. Chimney
+Omega Ruby
+Reward:
+$
+2,400
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♂
+Lv.
+24
+Assurance
+Dark
+Physical
+--
+Clear Smog
+Poison
+Special
+--
+Sludge
+Poison
+Special
+--
+Self-Destruct
+Normal
+Physical
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+24
+Magnitude
+Ground
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Lava Plume
+Fire
+Special
+--
+VS Shelly
+Aqua Admin
+Shelly
+Mt. Chimney
+Alpha Sapphire
+Reward:
+$
+2,400
+Type:
+Poison
+Unknown
+Ability:
+Sticky Hold
+Held item:
+None
+Grimer
+♀
+Lv.
+24
+Disable
+Normal
+Status
+--
+Sludge
+Poison
+Special
+--
+Mud Bomb
+Ground
+Special
+--
+Minimize
+Normal
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Carvanha
+♀
+Lv.
+24
+Aqua Jet
+Water
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Screech
+Normal
+Status
+--
+Swagger
+Normal
+Status
+--
+Battle with the Boss
+Tabitha
+OR
+/Shelly
+AS
+is defeated, but the real threat still lurks ahead. Continue along the bridge to find the leader of Team Magma
+OR
+/Team Aqua
+AS
+standing near some sort of high-tech device. After revealing a bit more about his organization's plans, he draws you into battle!
+VS Maxie
+Magma Leader
+Maxie
+Mt. Chimney
+Omega Ruby
+Reward:
+$
+4,320
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+25
+Roar
+Normal
+Status
+--
+Snarl
+Dark
+Special
+--
+Swagger
+Normal
+Status
+--
+Assurance
+Dark
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+25
+Wing Attack
+Flying
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Swift
+Normal
+Special
+--
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+None
+Camerupt
+♂
+Lv.
+27
+Flame Burst
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Lava Plume
+Fire
+Special
+--
+Earth Power
+Ground
+Special
+--
+VS Archie
+Aqua Leader
+Archie
+Mt. Chimney
+Alpha Sapphire
+Reward:
+$
+4,320
+Type:
+Dark
+Unknown
+Ability:
+Quick Feet
+Held item:
+None
+Mightyena
+♂
+Lv.
+25
+Roar
+Normal
+Status
+--
+Snarl
+Dark
+Special
+--
+Swagger
+Normal
+Status
+--
+Assurance
+Dark
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+25
+Wing Attack
+Flying
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Swift
+Normal
+Special
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+27
+Assurance
+Dark
+Physical
+--
+Screech
+Normal
+Status
+--
+Swagger
+Normal
+Status
+--
+Ice Fang
+Ice
+Physical
+--
+With his defeat, Maxie
+OR
+/Archie
+AS
+threatens to
+Mega Evolve
+his Pokémon. But before he is able to draw you into another battle, he suddenly receives a call. After muttering something about
+Mt. Pyre
+, he unexpectedly gives up the
+Meteorite
+and leaves.
+As you turn to leave, you are stopped by Archie
+OR
+/Maxie
+AS
+. He is shocked that his rival would hand over the Meteorite so easily, and seems fearful that the opposing team may have discovered where some important-sounding "orbs" are hidden. He then sets off to plan his team's next move.
+Jagged Pass
+Jagged Pass
+Jagged Pass
+was formed as the result of an ancient volcanic eruption. When the lava cooled, it proved to be suitable for an alternate route to the summit. Many parts are too rough or slippery to traverse without a Bicycle.
+Trainers
+Trainer
+Pokémon
+Expert
+Shelby
+Reward:
+$
+2080
+Meditite
+♀
+Lv.
+24
+No item
+Hariyama
+♂
+Lv.
+26
+No item
+Hiker
+Eric
+Reward:
+$
+800
+Graveler
+♂
+Lv.
+25
+No item
+Camper
+Ethan
+Reward:
+$
+384
+Gulpin
+♂
+Lv.
+24
+No item
+Fairy Tale Girl
+Nellie
+Reward:
+$
+368
+Skitty
+♀
+Lv.
+21
+No item
+Jigglypuff
+♀
+Lv.
+23
+No item
+Picnicker
+Diana
+Reward:
+$
+352
+Gloom
+♀
+Lv.
+22
+No item
+Swablu
+♀
+Lv.
+22
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Machop
+OR
+AS
+Grass
+18-21
+40%
+Numel
+OR
+AS
+Grass
+18-21
+40%
+Spoink
+OR
+AS
+Grass
+18-21
+20%
+Horde Encounter
+Machop
+OR
+AS
+Horde Encounter
+10
+65%
+Spoink
+OR
+AS
+Horde Encounter
+10
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM43
+(
+Flame Charge
+)
+Northeast corner (requires
+Acro Bike
+)
+OR
+AS
+Super Repel
+Northwest corner (requires
+Acro Bike
+)
+OR
+AS
+TM69
+(
+Rock Polish
+)
+Northwest hill, near a
+Secret Spot
+(requires
+Acro Bike
+or
+Mach Bike
+)
+OR
+AS
+Full Heal
+×2
+On a small rock, between Expert Shelby and Hiker Eric (hidden)
+South of Hiker Eric, on the middle slope
+OR
+AS
+Great Ball
+East of Camper Ethan (hidden)
+OR
+AS
+Max Ether
+South of Camper Ethan
+OR
+AS
+X Defense
+Southwest corner (requires
+Acro Bike
+)
+OR
+AS
+Tiny Mushroom
+Occasionally received from Camper Ethan after a rematch
+OR
+AS
+Return trip
+Tyranitarite
+Near the southernmost grass patch, after capturing or defeating
+Groudon
+OR
+/
+Kyogre
+AS
+OR
+AS
+With the Acro Bike
+Jump the first two ledges and go west. Use the
+Acro Bike
+to
+bunny-hop
+down the circular stones to reach a
+Super Repel
+. Backtrack and head east from the entrance. Execute the same trick in the northeast corner to reach
+TM43
+(
+Flame Charge
+). Go south, then turn west before reaching Expert Shelby. A hill on the west side features circular stones and a muddy slope;
+TM69
+(
+Rock Polish
+) and a
+Secret Spot
+can be found at the top. Go south past Hiker Eric and slide down the middle slope for a
+Full Heal
+. Head east, then hop back up the hill to Camper Ethan; collect the hidden
+Great Ball
+and the
+Max Ether
+before continuing southward. Pass by Picnicker Diana and hop down the hill to reach an
+X Defense
+.
+With the Mach Bike
+Jump the first two ledges and go down the stairway. Slide down either of the two
+muddy slopes
+and jump another two ledges before turning west. Scale the small slope on the west side to find
+TM69
+(
+Rock Polish
+) near a
+Secret Spot
+. Head back east to Expert Shelby, inspect the small rock to the west for a hidden
+Full Heal
+, then turn south. Search near Camper Ethan for a hidden
+Great Ball
+, then jump another ledge for a
+Max Ether
+. Go southwest to Fairy Tale Girl Nellie, then scale the middle slope to the north to get another Full Heal.
+Lavaridge Town
+Lavaridge Town
+Nestled at the foot of
+Mt. Chimney
+,
+Lavaridge Town
+is a welcome sight for travelers and tourists alike. It is well-known throughout
+Hoenn
+for its soothing hot springs, said to cure any ailment, and also features a specialty shop that sells bitter but beneficial
+herbs
+for Pokémon. The
+Lavaridge Gym
+, fourth in the
+Hoenn League
+, stands in the southwest part of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Wynaut
+OR
+AS
+Egg
+1
+One
+Return trip
+Togepi
+OR
+AS
+Egg
+1
+One
+Kecleon
+OR
+AS
+Only one
+40
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM75
+(
+Swords Dance
+)
+From a Black Belt outside the Poké Mart
+OR
+AS
+Ice Heal
+In the female side of the hot spring (hidden)
+OR
+AS
+Charcoal
+From an old man in the Herb Shop
+OR
+AS
+After defeating the Lavaridge Gym
+TM50
+(
+Overheat
+)
+From Flannery upon her defeat
+OR
+AS
+Go-Goggles
+From May/Brendan outside the Gym
+OR
+AS
+Return trip
+Houndoominite
+Near the sand baths, after capturing or defeating
+Groudon
+OR
+/
+Kyogre
+AS
+OR
+AS
+Communicating Through Dance
+As you enter the town, you find a Black Belt standing outside the Poké Mart. He has a passion for dancing and karate, but his communication skills leave something to be desired. Disagree when he asks if you understand his words, and he will give you
+TM75
+(
+Swords Dance
+) in the hopes that the "Suh-words Dance" move will help you comprehend.
+Pokémon Center and Hot Springs
+A Pokémon Breeder standing next to the counter is selling bottles of
+Moomoo Milk
+for
+$
+500 each. Bottles can be purchased individually, or by the dozen for
+$
+6,000. This nutritious milk restores 100 HP and is cheaper than a Super Potion, which only restores 50 points.
+The building's two back doors lead to the steamy hot springs. Take a dip if you wish, and use the Dowsing Machine to find a hidden
+Ice Heal
+behind the door on the right. Afterward, use the PC to organize your party so that you are carrying no more than five Pokémon. Step outside and talk to the old woman near the sand baths, and she offers you a Pokémon Egg to take with you on your travels!
+Herb Shop
+At the
+Herb Shop
+, a woman sells
+herbal medicines
+for Pokémon. These natural remedies are just as effective as their traditional counterparts and less expensive, but their bitter taste make them difficult for Pokémon to take, leaving them less
+friendly
+toward you. As
+Max Revives
+cannot be purchased anywhere, it may be useful to buy a few
+Revival Herbs
+to have in case of an emergency.
+Heal Powder
+$
+450
+Energy Powder
+$
+500
+Energy Root
+$
+800
+Revival Herb
+$
+2,800
+Be sure to talk to the old man near the counter, as well. Doing so gets you a
+Charcoal
+, which boosts the power of
+Fire-type
+moves by 20% when held.
+Lavaridge Gym
+Lavaridge Gym, 1F
+Lavaridge Town Pokémon Gym
+Leader: Flannery
+One with a fiery passion that burns!
+Like the name suggests, the
+Lavaridge Gym
+specializes in
+Fire-type
+Pokémon.
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon are most vulnerable to their scorching attacks, while
+Water
+,
+Ground
+, and
+Rock
+moves will give you the upper hand.
+Wingull
+and
+Pelipper
+are great Pokémon to bring to this Gym; not only are they Water types, but as
+Flying
+types they also have an advantage against Battle Girl Sadie's
+Meditite
+. The
+Psychic-type
+Ralts
+can also help wear down the occasional
+Koffing
+found here. The humid Gym features two floors; stepping on a wooden panel will cause you to fall to the basement, and doing the same there will send you back to the first floor atop a geyser.
+Step on the first trapdoor to fall through, then step on the panel to the right to return to 1F. Fight Kindler Cole and drop through the next trapdoor. Go west to battle Ninja Boy Hiromichi and take the far-left geyser. Head north past Kindler Axle and Battle Girl Sadie and drop through the northern-most trapdoor to B1F. Pass by the concealed Ninja Boy Shoji and ride the far-right geyser. Drop through the trapdoor south of Ace Trainer Zane. Battle Kindler Andy, then take the last geyser up to meet the Gym Leader.
+Flannery
+has only recently begun serving as Gym Leader, and is intent on proving her worth. Given the chance, her Pokémon can unleash powerful moves that can reduce a challenger's party to cinders.
+Sunny Day
+gives a 50% power boost to all Fire attacks, which makes her Pokémon's strongest move,
+Overheat
+, even more devastating. Its only drawback is that it harshly lowers the user's
+Special Attack
+after each use, but once is usually enough! In addition, the harsh sunlight temporarily cuts the power of Water attacks in half.
+Lavaridge Gym
+Trainers
+Trainer
+Pokémon
+Kindler
+Cole
+Reward:
+$
+736
+Numel
+♂
+Lv.
+23
+No item
+Slugma
+♂
+Lv.
+23
+No item
+Ninja Boy
+Hiromichi
+Reward:
+$
+384
+Koffing
+♂
+Lv.
+24
+No item
+Kindler
+Axle
+Reward:
+$
+800
+Slugma
+♂
+Lv.
+25
+No item
+Battle Girl
+Sadie
+Reward:
+$
+832
+Meditite
+♀
+Lv.
+26
+No item
+Ninja Boy
+Shoji
+Reward:
+$
+384
+Koffing
+♂
+Lv.
+24
+No item
+Ace Trainer
+Zane
+Reward:
+$
+1,560
+Slugma
+♂
+Lv.
+24
+No item
+Kecleon
+♂
+Lv.
+26
+No item
+Kindler
+Andy
+Reward:
+$
+800
+Numel
+♂
+Lv.
+25
+No item
+Leader
+Flannery
+Lavaridge Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+3360
+Type:
+Fire
+Unknown
+Ability:
+Flame Body
+Held item:
+None
+Slugma
+♀
+Lv.
+26
+Overheat
+Fire
+Special
+--
+Rock Throw
+Rock
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Types:
+Fire
+Ground
+Ability:
+Simple
+Held item:
+None
+Numel
+♀
+Lv.
+26
+Earth Power
+Ground
+Special
+--
+Lava Plume
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+White Smoke
+Held item:
+None
+Torkoal
+♀
+Lv.
+28
+Overheat
+Fire
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Curse
+Ghost
+Status
+--
+Sunny Day
+Fire
+Status
+--
+After the battle, Flannery awards you the
+Heat Badge
+, which ensures obedience of all Pokémon up to level 50 and enables the use of
+Strength
+in the field. She also hands out
+TM50
+(
+Overheat
+) as a prize. Hop down the ledges in front of Flannery to quickly return to the entrance. Outside, May/Brendan is shocked that you managed to defeat Team Magma
+OR
+/Team Aqua
+AS
+on your own at
+Mt. Chimney
+. She/He hands you the
+Go-Goggles
+, which allow you to explore the desert of
+Route 111
+in spite of the raging sandstorm. Seeing your shiny new Badge, your friend concludes that your next stop is the Gym in
+Petalburg City
+. She/He happens to be headed to the same place, and invites you to travel with her/him. If you decline, you will have a chance to do some optional things before continuing on, and your friend will wait here patiently for a while if you change your mind.
+← Part 8
+Fallarbor Town, Route 114, Meteor Falls, Route 115
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 111 (desert), Petalburg Gym, Route 118, Southern Island, Route 119, Weather Institute
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,404 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_1
+Keywords: Introduction, Vaniville Town, Route 1, Aquacorde Town, Vaniville Town (Revisited)
+
+Walkthrough Text:
+Contents
+1
+Intro
+2
+Vaniville Town
+2.1
+Home
+3
+Route 1
+4
+Aquacorde Town
+4.1
+The Meeting Place
+5
+Vaniville Town
+5.1
+Home
+6
+Aquacorde Town
+Intro
+The player is immediately given a choice of several languages—English, Spanish, French, German, Italian, Japanese, and Korean—in which to play. After the title screen, the resident researcher of the
+Kalos
+region,
+Professor Augustine Sycamore
+, appears and introduces new Trainers to the Pokémon world. He asks the player to select a gender, then personalize the character further with one of three skin tones and hair color pairings. Gender and skin tone cannot be changed, but clothing, eye color, and hair length and color can be customized later on. Next, Sycamore asks for the character's name, which can now be up to twelve characters long. With that done, Sycamore sends the player off to begin their journey!
+A
+Fletchling
+belonging to
+Calem
+/
+Serena
+'s family flies upstairs to find him/her still in bed, fast asleep. It dive-bombs the unsuspecting Trainer, who wakes up in an instant.
+Vaniville Town
+Vaniville Town
+The journey begins in
+Vaniville Town
+, a small, quiet community nestled in the lush southern hills. Calem/Serena has just recently moved here, and could not ask for a nicer place to live!
+Items
+Item
+Location
+Games
+Running Shoes
+Obtained automatically at the start
+X
+Y
+Holo Caster
+Obtained automatically at the start
+X
+Y
+Home
+After rolling out of bed, examine the mirror on the wall to swap Calem/Serena's pajamas for street clothes. Head downstairs and talk to
+Mom
+, who suggests going outside and saying hello to the neighbors. It does not take long to find them; Serena/Calem and
+Shauna
+are waiting right outside! They claim that
+Professor Sycamore
+has heard of you, even having just recently moved to
+Vaniville
+. After that, they invite you to join them in the neighboring town of
+Aquacorde
+, where Shauna excitedly claims that everyone will get a Pokémon!
+Route 1
+Route 1
+, or Vaniville Pathway, is one of the smallest routes around. This straight pathway simply connects
+Vaniville Town
+and
+Aquacorde Town
+to the north. Though short, it makes for a pleasant stroll. It has no items or wild Pokémon.
+Aquacorde Town
+Aquacorde Town
+There is even more to see and do in
+Aquacorde Town
+than there is in
+Vaniville
+. Local businesses sell items that are crucial for beginning Pokémon Trainers. If only you had a Pokémon of your own...
+Items
+Item
+Location
+Games
+Pokédex
+From
+Trevor
+, after choosing a Pokémon
+X
+Y
+Prof's Letter
+From
+Tierno
+, after receiving the Pokédex
+X
+Y
+Potion
+From the shopkeeper near the fountain
+X
+Y
+The Meeting Place
+Your new friends call out to you upon entering the town. The four of them are sitting at an outdoor table in the southwest, excitedly talking to each other.
+Shauna
+and Serena/Calem introduce the others as
+Tierno
+, a dancer, and
+Trevor
+, an aspiring researcher. The others insist on giving you a nickname, but are kind enough to let you choose one. Then Shauna asks Tierno to show them their new Pokémon!
+Chespin
+Fennekin
+Froakie
+Grass
+Fire
+Water
+Quilladin
+Braixen
+Frogadier
+Grass
+Fire
+Water
+Chesnaught
+Delphox
+Greninja
+Grass
+Fighting
+Fire
+Psychic
+Water
+Dark
+The
+Grass-type
+Chespin
+has the most weaknesses of the trio, with five:
+Fire
+-,
+Bug
+-,
+Poison
+-,
+Flying
+-, and
+Ice-type
+attacks. It and its evolutions specialize in
+Defense
+,
+Attack
+, and
+HP
+. Its Grass moves are strong against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon. Its final form,
+Chesnaught
+, gains a secondary
+Fighting
+type.
+The
+Fire-type
+Fennekin
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+,
+Rock
+-, and
+Ground-type
+moves. It and its evolved forms focus on
+Special Attack
+,
+Speed
+, and
+Special Defense
+. Its final form,
+Delphox
+, gains a secondary
+Psychic
+type. Delphox is the only final starter form to resist moves from the new
+Fairy
+type, as
+Chesnaught
+and
+Greninja
+both take double-damage from such moves.
+The
+Water-type
+Froakie
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+- and
+Electric-type
+attacks. It and its evolutions are
+Speed
+-,
+Special Attack
+-, and
+Attack
+-oriented. Its final form,
+Greninja
+, gains a secondary
+Dark
+type, which gives it an immunity to
+Psychic-type
+moves.
+Super Training
+and
+Pokémon-Amie
+are now available on the Touch Screen.
+After choosing a Pokémon, Shauna gives you a chance to nickname it. After that, she chooses the Pokémon with a weakness to yours, and Serena/Calem takes the third. Trevor then gives you a
+Pokédex
+, a gift from the professor. Finally, Tierno hands over another item, the
+Prof's Letter
+, which is addressed to
+Mom
+, before he and Trevor run off. As you try leaving for home, Shauna challenges you to a battle!
+Player chose
+Chespin
+Player chose
+Fennekin
+Player chose
+Froakie
+Pokémon Trainer
+Shauna
+Aquacorde Town
+X and Y
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Froakie
+♀
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Bubble
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Shauna
+Aquacorde Town
+X and Y
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Chespin
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Shauna
+Aquacorde Town
+X and Y
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Fennekin
+♀
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Afterwards, Shauna heals both Pokémon to full health before returning to the table with Serena/Calem.
+Vaniville Town
+Home
+Return home to
+Vaniville
+and deliver the
+Prof's Letter
+to
+Mom
+. She wonders if it is a love letter, comments on the fancy handwriting, and then accepts
+Sycamore
+'s request to allow her child on an adventure. She gives you a
+Town Map
+, a
+Potion
+, and even a change of clothes to start the new Trainer off on the right foot.
+Items
+Item
+Location
+Games
+After delivering Prof's Letter
+Town Map
+From
+Mom
+X
+Y
+Potion
+From
+Mom
+X
+Y
+Outside, Mom's
+Rhyhorn
+walks over to say goodbye. Mom says that Rhyhorn has known you since birth, and it is going to miss its friend.
+Aquacorde Town
+Aquacorde
+has two different shops, a
+Potion
+shop in the east and a
+Poké Ball
+shop in the west. Purchasing ten Poké Balls at once, at any location, earns you a bonus
+Premier Ball
+. While not an official
+Pokémon Center
+, Pokémon can be restored to full health at the building with the red awning. Stock up on supplies and speak to the shopkeeper near the fountain for a free Potion. Head north across the bridge to reach
+Route 2
+.
+Potion shop
+Potion
+$
+300
+Poké shop
+Poké Ball
+$
+200
+X and Y
+walkthrough
+Route 2, Santalune Forest, Route 3, Santalune City, Route 4
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

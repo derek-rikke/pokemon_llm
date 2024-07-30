@@ -1,0 +1,67 @@
+Game: Gold_and_Silver
+Part: 7
+Keywords: Route 35, National Park, Route 36, Route 37
+
+### Pokémon Gold and Silver Walkthrough - Part 7: Route 35, National Park, Route 36, Route 37
+
+#### Route 35
+- **Location**: North of Goldenrod City, leading to National Park.
+- **Trainers**: 
+  - **Picnicker Kim**: Vulpix (Lv. 15) - Reward: $300
+  - **Camper Elliot**: Sandshrew (Lv. 13), Marill (Lv. 15) - Reward: $300
+  - **Juggler Irwin**: Multiple Voltorb (Lv. 2, 6, 10, 14) - Reward: $560
+  - **Firebreather Walt**: Magmar (Lv. 11, 13) - Reward: $624
+  - **Bug Catcher Arnie**: Venonat (Lv. 15) - Reward: $240
+
+- **Pokémon Available**: 
+  - Grass encounters include Pidgey, Nidorans, Abra, Drowzee, and more.
+  - Fishing: Magikarp (Old Rod).
+  - Headbutt trees: Caterpie, Weedle, Pineco, etc.
+
+- **Items**: 
+  - **Flower Mail**: From Kenya (Spearow) at the southern gate.
+  - **TM04 (Rollout)**: In the grove of trees.
+  - **HP Up**: After delivering Kenya to Route 31.
+  
+- **Mail Delivery Quest**: Deliver Kenya to the man near the pond on Route 31 for TM50 (Nightmare) and return for HP Up.
+
+#### National Park
+- **Features**: Hosts a Bug-Catching Contest on Tuesdays, Thursdays, and Saturdays.
+- **Trainers**:
+  - **Pokéfan Beverly**: Snubbull (Lv. 14) - Reward: $1120
+  - **Schoolboy Jack**: Oddish (Lv. 12), Voltorb (Lv. 15) - Reward: $480
+  
+- **Pokémon Available**: Caterpie, Metapod, Weedle, Pidgey, Hoothoot, etc.
+
+- **Bug-Catching Contest**: Use 20 Park Balls to catch the best Bug-type Pokémon. Prizes include:
+  - 1st: Sun Stone
+  - 2nd: Everstone
+  - 3rd: Gold Berry
+
+- **Items**:
+  - **Quick Claw**: From a woman with a Persian.
+  - **TM28 (Dig)**: At the end of the tree-lined path.
+
+#### Route 36
+- **Connection**: Links National Park to the Ruins of Alph and Violet City.
+- **Trainers**:
+  - **Psychic Mark**: Multiple Abra (Lv. 13) and Kadabra (Lv. 15) - Reward: $544
+  - **Schoolboy Alan**: Tangela (Lv. 16) - Reward: $512
+
+- **Pokémon Available**: Pidgey, Nidorans, Vulpix, Growlithe, etc.
+
+- **Key Event**: Defeat Sudowoodo (Lv. 20) blocking the path using a Squirt Bottle. Afterward, receive TM08 (Rock Smash) from the nearby man.
+
+#### Route 37
+- **Location**: Leads north to Ecruteak City.
+- **Trainers**:
+  - **Twins Ann & Anne**: Clefairy (Lv. 16), Jigglypuff (Lv. 16) - Reward: $320
+  - **Psychic Greg**: Drowzee (Lv. 17) - Reward: $544
+
+- **Pokémon Available**: Pidgey, Vulpix, Growlithe, Hoothoot, etc.
+
+- **Items**:
+  - Apricorns: Red, Blue, and Black Apricorns (daily).
+  - **Ether**: Hidden northwest of the sign outside Ecruteak City.
+
+This concludes Part 7 of the walkthrough.

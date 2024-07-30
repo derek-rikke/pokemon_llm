@@ -1,0 +1,36 @@
+Game: Diamond_and_Pearl
+Part: 28
+Keywords: Route 214, Spring Path, Sendoff Spring, Turnback Cave, Catching Giratina, Hotel Grand Lake — Collecting Diploma
+
+**Part 28: Route 214, Spring Path, Sendoff Spring, Turnback Cave, Catching Giratina, Hotel Grand Lake - Collecting Diploma**
+
+**Route 214**
+- Bring at least 40 Dusk Balls and Pokémon with Defog, Rock Smash, and Rock Climb.
+- Head south from Veilstone City to Route 214. Follow the tree line to find a new path leading south.
+- Be prepared for wild Pokémon above Level 60 and a Level 70 legendary Pokémon.
+
+**Spring Path**
+- Proceed to Spring Path. Continue east to enter Sendoff Spring.
+
+**Sendoff Spring**
+- This is the fourth secret lake of Sinnoh.
+- Pokémon available include Golduck, Noctowl, Chimecho, and Bibarel (levels 52-54). Surf and fish for additional Pokémon.
+
+**Turnback Cave**
+- Enter the cave where Giratina resides. Rooms are randomized; you must pass through three pillars and not exceed 30 rooms.
+- Use Defog for visibility and Rock Smash to navigate more quickly.
+
+**Catching Giratina**
+- **Giratina (Level 70, Ghost/Dragon)**
+  - Moves: Shadow Force, Heal Block, Earth Power, Slash.
+- Inflict a status ailment (except burn/poison), then lower its HP with super-effective moves (Ghost, Dragon, Ice, Dark).
+- When HP is low, use Dusk Balls until captured (may take several attempts).
+- If you fail to catch it, soft reset to encounter Giratina again.
+
+**Route 214 - Valor Lakefront**
+- After catching Giratina, return to Route 214 and head south to Valor Lakefront.
+
+**Hotel Grand Lake - Collecting the Diploma**
+- Visit the house northwest of Seven Stars Restaurant. Speak to the Game Freak developer for a diploma for completing the Sinnoh PokéDex. A second diploma is available for completing the National PokéDex.
+
+This guide covers essential steps for navigating the areas, capturing Giratina, and obtaining the diploma.

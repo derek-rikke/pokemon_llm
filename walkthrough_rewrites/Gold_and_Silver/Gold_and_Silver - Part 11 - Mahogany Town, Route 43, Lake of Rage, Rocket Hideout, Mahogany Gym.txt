@@ -1,0 +1,49 @@
+Game: Gold_and_Silver
+Part: 11
+Keywords: Mahogany Town, Route 43, Lake of Rage, Rocket Hideout, Mahogany Gym
+
+### Part 11: Mahogany Town, Route 43, Lake of Rage, Rocket Hideout, Mahogany Gym
+
+**Mahogany Town**
+- **Items**: 
+  - RageCandyBar: $300 (man near east exit)
+  - TM16 (Icy Wind): Defeat Gym Leader Pryce.
+- **Key Locations**:
+  - Souvenir shop (no official Poké Mart)
+  - Mahogany Gym (Ice-type)
+
+**Route 43**
+- **Trainers**: 
+  - Camper Spencer (Sandshrew, Sandslash, Zubat)
+  - Picnicker Tiffany (Clefairy)
+  - Fisher Marvin (Magikarp, Gyarados)
+  - PokéManiacs (Nidoking, Lickitung, Slowbro)
+- **Items**: 
+  - Bitter Berry (requires Surf, Cut)
+  - Max Ether (upper ledge)
+  - TM36 (Sludge Bomb): From guard after defeating Team Rocket.
+
+**Lake of Rage**
+- **Key Event**: Battle the Red Gyarados (Lv. 30), which gives a Red Scale.
+- **Tips for Battle**: Use Electric or Rock-type moves for quick defeat.
+- **Items**: 
+  - Max Potion (hidden)
+  - Ether (from Fishing Guru after showing a record-breaking Magikarp)
+  - Rare Candy (requires Cut)
+
+**Rocket Hideout**
+- **Access**: Enter through the Souvenir Shop after talking to Lance.
+- **Floor Breakdown**:
+  - **B1F**: Battle Grunts and Scientist Jed.
+  - **B2F**: Obtain passwords ("SlowpokeTail", "RaticateTail") from defeated Grunts and Scientists.
+  - **B3F**: Battle Rocket Executive, discover plans, and disable the generator by defeating Electrode.
+
+**Mahogany Gym**
+- **Leader**: Pryce (Ice-type)
+- **Strategy**: Use Fire, Fighting, Rock, or Steel-type moves against his Pokémon:
+  - Seel (Lv. 27)
+  - Dewgong (Lv. 29)
+  - Piloswine (Lv. 31)
+- **Reward**: Glacier Badge (increases Special Attack/Defense, allows Whirlpool use) and TM16 (Icy Wind).
+
+**Next Steps**: After leaving the Gym, Professor Elm contacts you about suspicious radio broadcasts regarding Team Rocket. Head to Goldenrod City’s Radio Tower to continue your quest.

@@ -1,0 +1,63 @@
+Game: Black_and_White
+Part: 12
+Keywords: Elite Four, N's Castle
+
+### Part 12: Pokémon League & N's Castle
+
+#### The Elite Four
+- **Preparation**: Visit the Pokémon Center in the west plaza. Recommended Pokémon level: mid-50s. Stock up on healing items.
+- **Battle Order**: You can challenge the Elite Four in any order. Defeating each will warp you back to the plaza.
+
+1. **Shauntal (Ghost-type)**
+   - **Location**: Lower-left room.
+   - **Strategy**: Use Dark, Ghost, Grass, or Water-type moves.
+   - **Pokémon**: Cofagrigus, Jellicent, Golurk, Chandelure.
+
+2. **Grimsley (Dark-type)**
+   - **Location**: Upper-left room.
+   - **Strategy**: Use Fighting-type moves; secondary weaknesses include Water and Flying.
+   - **Pokémon**: Scrafty, Krookodile, Liepard, Bisharp.
+
+3. **Caitlin (Psychic-type)**
+   - **Location**: Upper-right room.
+   - **Strategy**: Use Ghost, Bug, or Dark-type moves; be wary of Focus Blast.
+   - **Pokémon**: Reuniclus, Sigilyph, Musharna, Gothitelle.
+
+4. **Marshal (Fighting-type)**
+   - **Location**: Lower-right room.
+   - **Strategy**: Use Flying or Psychic-type moves; avoid using pure Flying-types due to Rock attacks.
+   - **Pokémon**: Throh, Sawk, Conkeldurr, Mienshao.
+
+- **Champion's Temple**: After defeating all four, check the statue to enter the Champion's chamber.
+
+#### N's Castle
+- **Entry**: Confront the Seven Sages immediately upon entering.
+- **Items**:
+  - Max Potion (2F, east room)
+  - Max Revive (3F, center room)
+  - Ultra Ball (3F, west room)
+  - Rare Candy (4F, N's room)
+  - Full Restore (4F, center room)
+
+**Floor Breakdown**:
+- **2F**: Meet Shadow Triad; heal at Anthea.
+- **3F**: Laboratory; talk to a Plasma Grunt for items.
+- **4F**: N's room; grab Full Restore.
+- **5F**: Enter the throne room and prepare to battle N.
+
+#### Battle with N
+- **Legendary Encounter**: N summons Zekrom (B) / Reshiram (W). Use Ground and Dragon-type moves to weaken it. Capture using Quick Balls or Ultra Balls.
+- **N's Pokémon**: 
+  - Use their weaknesses: Fire against Vanilluxe, Fighting against Zoroark and Carracosta, Electric against Archeops.
+
+#### Ghetsis Battle
+- **Strategy**: 
+  - Use Grass against Seismitoad.
+  - Focus on Fighting moves against Bisharp and Zoroark.
+  - Avoid Ice-types against Hydreigon due to Fire Blast.
+  
+#### Conclusion
+- After defeating Ghetsis, a cutscene reveals N's farewell as he departs with his dragon. You'll return home to Nuvema Town post-credits. 
+
+### Summary
+Prepare with high-level Pokémon and a diverse movepool. Defeat the Elite Four, then navigate N's Castle to confront N and Ghetsis. Utilize type advantages for success in battles.

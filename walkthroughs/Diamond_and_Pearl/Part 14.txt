@@ -1,0 +1,1790 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_14
+Keywords: Jubilife City, Route 218, Canalave City, Iron Island, Canalave Gym
+
+Walkthrough Text:
+Contents
+1
+Jubilife City
+2
+Route 218
+3
+Canalave City (East)
+4
+4th Rival Battle
+5
+Canalave City (West)
+6
+Iron Island
+6.1
+1F
+6.2
+B1F
+6.3
+B2F
+6.4
+Exit
+7
+Canalave Gym
+8
+Afterwards......
+Jubilife City
+Go to
+Jubilife City
+. Head west from
+Jubilife TV
+and the Pokétch Company (if you haven't got the new Pokétch Apps after getting your first, third and fifth Gym Badge, you can stop by to get those Apps), get through the gate, and you are on
+Route 218
+. If you have not taken the
+Old Rod
+, talk to the fisherman in the gate and answer "Yes" to get it.
+Route 218
+Route 218
+You need to bring Pokémon with
+Surf
+.
+You can visit this route near the start of the game, but you cannot go far. The route follows a short path over land before reaching a body of water with a small island in the middle. A pair of bridges take travellers partway across the water, but do not go all the way to the other side. With the ability to use
+Surf
+on the field, you can surf on the water and go on.
+Travelling north from the central island yields a short journey to the far side of the stream where long grass grows. From here, a gateway leads to Canalave City. Surfing south will take you to the same landmass as the northern route, but a row of tall trees prevents further passage.
+Honey
+and two fishermen can be found here.
+Items
+Item
+Location
+Games
+Honey
+On the strip of land directly west of the first pier
+D
+P
+Rare Candy
+On a small patch of land in the very northeast corner
+D
+P
+Rawst Berry
+Soft soil above the grassy area
+D
+P
+Persim Berry
+Soft soil above the grassy area
+D
+P
+Figy Berry
+Soft soil above the grassy area
+D
+P
+Pinap Berry
+Soft soil above the grassy area
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Floatzel
+D
+P
+Pt
+Grass
+28-31
+35%
+Shellos
+D
+P
+Pt
+Grass
+28
+20%
+Gastrodon
+D
+P
+Pt
+Grass
+28-30
+20%
+Wingull
+D
+P
+Pt
+Grass
+29
+10%
+Mr. Mime
+D
+P
+Pt
+Grass
+29-31
+15%
+Glameow
+D
+P
+Pt
+Grass
+29-30
+15%
+Surfing and Fishing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+4-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Miguel
+ユタカ
+Yutaka
+Reward:
+$
+928
+Gyarados
+♂
+Lv.
+29
+No item
+Gyarados
+♂
+Lv.
+29
+No item
+Fisherman
+Luc
+センジ
+Senji
+Reward:
+$
+832
+Magikarp
+♂
+Lv.
+26
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Magikarp
+♂
+Lv.
+26
+No item
+Magikarp
+♂
+Lv.
+26
+No item
+Magikarp
+♂
+Lv.
+26
+No item
+Sailor
+Skyler
+ケンゴ
+Kengo
+Reward:
+$
+992
+Mantyke
+♂
+Lv.
+27
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Guitarist
+Tony
+ジョニー
+Johnny
+Reward:
+$
+744
+Luxio
+♂
+Lv.
+31
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Enter the gate on the west. Dawn's/Lucas' father, who is one of
+Professor Rowan
+'s assistants, will upgrade your Pokédex. He will then go back to the Lab. Check your Pokédex. You will find that you can check the gender differences or form differences of every seen Pokémon. Afterwards, go through the gate.
+Canalave City (East)
+Canalave City.
+You will find yourself in
+Canalave City
+after getting through the gate.
+Here, you will find the
+Move Deleter
+in one of the house.
+The house at the northeast of Pokémon Center, the
+Harbor Inn
+, is locked, and the sign is too faded to read. Just ignore that house.
+Make sure that you heal your Pokémon before stepping on the bridge!
+A tough battle will be waiting for you.
+Items
+Item
+Location
+Games
+TM48
+(
+Skill Swap
+)
+In the first house upon entering from
+Route 218
+D
+P
+TM89
+(
+U-turn
+)
+Obtainable by
+surfing
+south in the canal (requires
+Surf
+)
+D
+P
+Pearl
+South of Sailor Eldritch's house
+(hidden)
+D
+P
+4th Rival Battle
+Again, make sure that you heal your Pokémon before crossing the bridge.
+Someone will bump into you again, and challenges you to a battle. That's none other than Rival
+Barry
+!
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Canalave City
+Diamond and Pearl
+Reward:
+$
+3500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+31
+Aerial Ace
+Flying
+Physical
+--
+Double Team
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+30
+Horn Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+32
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Leech Seed
+Grass
+Status
+--
+Toxic Spikes
+Poison
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+32
+Swift
+Normal
+Special
+--
+Aqua Jet
+Water
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+Lv.
+35
+Flame Wheel
+Fire
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Canalave City
+Diamond and Pearl
+Reward:
+$
+3500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+31
+Aerial Ace
+Flying
+Physical
+--
+Double Team
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+30
+Horn Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+32
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Fire Spin
+Fire
+Special
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+32
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Leech Seed
+Grass
+Status
+--
+Toxic Spikes
+Poison
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+Lv.
+35
+Fury Attack
+Normal
+Physical
+--
+BubbleBeam
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Canalave City
+Diamond and Pearl
+Reward:
+$
+3500
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+31
+Aerial Ace
+Flying
+Physical
+--
+Double Team
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+30
+Horn Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+32
+Swift
+Normal
+Special
+--
+Aqua Jet
+Water
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+32
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Fire Spin
+Fire
+Special
+--
+Tail Whip
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+Lv.
+35
+Razor Leaf
+Grass
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Bite
+Dark
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+After the battle, heal your Pokémon, then cross the bridge.
+Canalave City (West)
+You will see the
+Canalave Library
+, Canalave Gym and Canalave Dock.
+Canalave Library is a small library. There are many shelves of different books. There is a sign that informs people that eating and drinking are prohibited. People can be seen here reading about Pokémon and other books. The upper floors of the library have the same layout as the lower floors, except that most of the books on the bookshelves can be read. These books are very philosophical and go in-depth into the history and existence of the Pokémon world as known. These books are considered Sinnoh myths, that many people believe and study by. These books include, the Sinnoh Myth, which refers to Mesprit, the Sinnoh Region's Mythology, which explains why wild Pokémon appear in grass, the Sinnoh's Myth, which explains the existence of the lake guardians, the Veilstone's Myth, which tells a story about a young swordsman encountering Giratina, The Original Story, which explains the origin of the Pokémon world, A Horrific Myth, which tells a horrible tale about the lake guardians, and several other Sinnoh Folk Tales.
+A local Sailor called Eldritch lives in a small house near Canalave Dock with his wife and young son. At Canalave Dock, Sailor Eldritch will take you to
+Iron Island
+.
+You can challenge the Gym right now, but it is not recommended. Instead, go to Canalave Dock and board the ship to Iron Island. You can train your Pokémon there.
+Make sure that you heal your Pokémon and buy enough items before boarding the ship to Iron Island.
+It is also recommended that you bring five Pokémon or fewer, as you will see at the end of the mission.
+Iron Island
+Iron Island
+Iron Island is an island off the northwestern coast of
+Sinnoh
+. It was once a prosperous ore mine, but was shut down after the ore reserves dried up. Since then, it was kept open as a training area and habitat for wild Pokémon.
+There is no Pokémon Center on this island. However, you will be teaming up with someone quite soon.
+Items (Outside)
+Item
+Location
+Games
+Max Ether
+Outside the cave on the small rock in front of the house
+(hidden)
+D
+P
+Metal Coat
+In the house, from
+Byron
+after obtaining the
+National Pokédex
+D
+P
+Available Pokémon (Outside)
+Pokémon
+Games
+Location
+Levels
+Rate
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Go up the stairs. There is a house— right now, no one is inside. There is a Max Ether hidden on a small rock outside the house, though. Use your Dowsing Machine Pokétch App to find and collect it, then go up the stairs and enter the cave.
+1F
+Iron Island 1F
+Inside, there are two sets of stairs. Go down the one on the left first.
+Available Pokémon (1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+30
+10%
+Golbat
+D
+P
+Pt
+Cave
+31
+10%
+Geodude
+D
+P
+Pt
+Cave
+29-31
+35%
+Graveler
+D
+P
+Pt
+Cave
+31-33
+35%
+Onix
+D
+P
+Pt
+Cave
+32-33
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Iron Island B1F Right
+Iron Island B1F Left
+There is one Trainer in this room, and you can get an
+Iron Ball
+.
+Items (B1F Left)
+Item
+Location
+Games
+Iron Ball
+Raised part of left section of B1F
+D
+P
+Available Pokémon (B1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+30-31
+20%
+Geodude
+D
+P
+Pt
+Cave
+31
+1%
+Graveler
+D
+P
+Pt
+Cave
+29-33
+69%
+Onix
+D
+P
+Pt
+Cave
+32-33
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (B1F Left)
+Trainer
+Pokémon
+Camper
+Lawrence
+Reward:
+$
+496
+Luxio
+♂
+Lv.
+31
+No item
+Stunky
+♂
+Lv.
+31
+No item
+Now, return to the entrance. This time, go down the stairs on the right.
+Items (B1F Right)
+Item
+Location
+Games
+Escape Rope
+Northwest of the lift
+D
+P
+Super Repel
+In front of stone northeast of Picnicker Summer
+D
+P
+TinyMushroom
+On the pile of beams next to Picnicker Summer
+(hidden)
+D
+P
+Trainers (B1F Right)
+Trainer
+Pokémon
+Picnicker
+Summer
+Reward:
+$
+496
+Staravia
+♀
+Lv.
+31
+No item
+Cherrim
+♀
+Lv.
+31
+No item
+Go through this room, fight the Trainer, and get the items. Then use the elevator to go down.
+B2F
+Iron Island B2F Right
+Iron Island B2F Left
+There are two sets of stairs again. Go down the one on the right first.
+Items (B2F Right)
+Item
+Location
+Games
+Max Ether
+East of Worker Willy
+D
+P
+TM23
+(
+Iron Tail
+)
+In western half of pit south-east of Worker Braden
+D
+P
+Iron
+In eastern half of pit south-east of Worker Braden
+(hidden)
+D
+P
+Available Pokémon (B2F Right)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+31
+10%
+Geodude
+D
+P
+Pt
+Cave
+31
+1%
+Graveler
+D
+P
+Pt
+Cave
+29-33
+49%
+Onix
+D
+P
+Pt
+Cave
+32-33
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (B2F Right)
+Trainer
+Pokémon
+Worker
+Willy
+Reward:
+$
+1240
+Onix
+♂
+Lv.
+31
+No item
+Graveler
+♂
+Lv.
+31
+No item
+Worker
+Braden
+Reward:
+$
+1320
+Graveler
+♂
+Lv.
+33
+No item
+Fight the Trainers and get the items, and then go back. Now, head to the stairs on the left.
+When you go down the stairs, a Trainer named
+Riley
+will be waiting for you. He will team up with you and help you to go through this room. He has a Level 34
+Lucario
+. Like
+Cheryl
+and
+Mira
+, he will fully heal all of your Pokémon, as well as his Lucario, after each battle. Wild Pokémon battles will become
+Double Battles
+. This place provides a good training opportunity due to the fact that you get healed after every battle.
+Pokémon Trainer
+Riley
+Iron Island
+Diamond and Pearl
+Reward:
+None
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+34
+Metal Claw
+Steel
+Physical
+--
+Bone Rush
+Ground
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Go through this room. Collect the items and fight all Trainers along the way. It is recommended that you fight them in
+Multi Battle
+mode (meaning you don't talk to them to battle, therefore getting spotted by two Trainers simultaneously).
+Items (B2F Left)
+Item
+Location
+Games
+Full Restore
+On barrel south of Hiker Maurice, past a raised section of rock
+(hidden)
+D
+P
+Magnet
+Northeast of Black Belt Kendal and Battle Girl Tyler
+D
+P
+Ultra Ball
+Northwest corner beside two steel drums
+D
+P
+Max Potion
+Southwest of Ultra Ball near two small rocks
+D
+P
+Iron Plate
+In pit in southeast corner
+(hidden)
+D
+P
+Revive
+On barrel next to Ace Trainer Jonah
+(hidden)
+D
+P
+HP Up
+Just north of the two Galactic Grunts
+D
+P
+Available Pokémon (B2F Left)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+31-32
+20%
+Geodude
+D
+P
+Pt
+Cave
+32
+1%
+Graveler
+D
+P
+Pt
+Cave
+30-34
+39%
+Onix
+D
+P
+Pt
+Cave
+32-33
+30%
+Steelix
+D
+P
+Pt
+Cave
+33-34
+10%
+Special Pokémon
+Riolu
+D
+P
+Pt
+Egg
+1
+Only One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (B2F Left)
+Note: Trainers listed below can be battled either in
+Single Battle
+or in
+Multi Battle
+mode with
+Riley
+as partner.
+Trainer
+Pokémon
+Hiker
+Damon
+Reward:
+$
+992
+Zubat
+♂
+Lv.
+28
+No item
+Onix
+♂
+Lv.
+31
+No item
+Golbat
+♂
+Lv.
+31
+No item
+Hiker
+Maurice
+Reward:
+$
+1024
+Graveler
+♂
+Lv.
+30
+No item
+Machoke
+♂
+Lv.
+32
+No item
+Black Belt
+Kendal
+Reward:
+$
+840
+Croagunk
+♂
+Lv.
+35
+No item
+Battle Girl
+Tyler
+Reward:
+$
+544
+Medicham
+♀
+Lv.
+34
+No item
+Worker
+Brendon
+Reward:
+$
+1320
+Onix
+♂
+Lv.
+29
+No item
+Steelix
+♂
+Lv.
+33
+No item
+Worker
+Quentin
+Reward:
+$
+1240
+Geodude
+♂
+Lv.
+27
+No item
+Graveler
+♂
+Lv.
+31
+No item
+Onix
+♂
+Lv.
+31
+No item
+Ace Trainer
+Jonah
+Reward:
+$
+2040
+Ponyta
+♂
+Lv.
+31
+No item
+Haunter
+♂
+Lv.
+31
+No item
+Floatzel
+♂
+Lv.
+34
+No item
+Ace Trainer
+Brenda
+Reward:
+$
+1980
+Pelipper
+♀
+Lv.
+33
+No item
+Sudowoodo
+♀
+Lv.
+33
+No item
+At the end, you will encounter two Galactic Grunts. Riley says that he needs to protect the island. Judging from his quote, "I don't want
+you
+bringing any trouble into my mine," he is probably the owner of Iron Island. He tells you that "this is a battle that we can't lose" and then challenges the grunts with you as his partner.
+Trainers (Galactic Grunts)
+You will battle the grunts in
+Multi Battle
+mode with
+Riley
+as your partner.
+Trainer
+Pokémon
+Galactic
+Grunt
+Reward:
+$
+2640
+(w. Galactic Grunt)
+Zubat
+♂
+Lv.
+31
+No item
+Zubat
+♂
+Lv.
+31
+No item
+Golbat
+♂
+Lv.
+34
+No item
+Galactic
+Grunt
+Reward:
+$
+2640
+(w. Galactic Grunt)
+Glameow
+♀
+Lv.
+32
+No item
+Croagunk
+♂
+Lv.
+32
+No item
+Stunky
+♂
+Lv.
+32
+No item
+After defeating them, those grunts will leave. Riley than thanks you and asks you if you want to receive an egg as a token of friendship. If you say "No", he will ask you again. Say "Yes", and if you have a space in your party, he will give the egg to you. If you have a full party, then he will notice this after you say yes and say that he will wait for your return. Return with five Pokémon or fewer in your party later if you have a full party. The egg will hatch into Lucario's pre-evolution--
+Riolu
+, a
+Fighting-type
+Pokémon. It evolves into Lucario when leveled up in the
+daytime
+with maximum
+happiness
+.
+Afterwards, use the elevator to go down, and then head into the next room.
+Exit
+Iron Island Exit Room
+You are in the final room. Use the elevator to go up.
+Items (Exit)
+Item
+Location
+Games
+Shiny Stone
+In the final room
+D
+P
+Available Pokémon (Exit)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+31-32
+20%
+Geodude
+D
+P
+Pt
+Cave
+32
+1%
+Graveler
+D
+P
+Pt
+Cave
+30-34
+39%
+Onix
+D
+P
+Pt
+Cave
+32-33
+30%
+Steelix
+D
+P
+Pt
+Cave
+33-34
+10%
+Special Pokémon
+Riolu
+D
+P
+Pt
+Egg
+1
+Only One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Get the only item, which is a
+Shiny Stone
+, and then go through the exit, and you will be outside again. Jump down the ledges and go to the pier. Talk to Sailor Eldritch and say "Yes" to go back to Canalave City. After healing your Pokémon, it is time to challenge
+Canalave Gym
+.
+Canalave Gym
+Make sure that you heal your Pokémon before entering the Gym.
+1F
+2F
+3F
+4F
+Leader Byron in the Canalave Gym
+The Canalave Gym is a four-story building made of fixed steel platforms, lifts, and moving metal platforms. You must ride the lifts and moving platforms in a certain order while battling other Trainers in the Gym to reach the top floor, on which Gym Leader
+Byron
+waits. There are two kinds of lifts: yellow lifts and red lifts. Yellow lifts operate between 2 floors. Red lifts can shoot from the bottom floor to the very top floor, and vice versa. Some platforms travel on wires between fixed floor areas.
+This Gym specializes in
+Steel-type
+Pokémon, so bring
+Fire-type
+,
+Fighting-type
+, and
+Ground-type
+Pokémon along. Or you can bring Pokémon with moves of those three types. The Gym Trainers uses mostly
+Onix
+and its
+evolved
+form
+Steelix
+. Onix's evolutionary line is partially Ground-type. You can even find Trainers using
+Skorupi
+and
+Azumarill
+, which are unexpected. Therefore, bringing
+Water-type
+Pokémon and
+Electric-type
+,
+Grass-type
+or
+Flying-type
+Pokémon may help a bit.
+Canalave Gym
+Trainers
+Trainer
+Pokémon
+Black Belt
+Ricky
+タイト
+Taito
+Reward:
+$
+792
+Steelix
+♂
+Lv.
+33
+No item
+Worker
+Gary
+カネオ
+Kaneo
+Reward:
+$
+1240
+Onix
+♂
+Lv.
+31
+No item
+Worker
+Jackson
+テツオミ
+Tetsuomi
+Reward:
+$
+1120
+Onix
+♂
+Lv.
+28
+No item
+Onix
+♂
+Lv.
+28
+No item
+Onix
+♂
+Lv.
+28
+No item
+Ace Trainer
+Cesar
+タクミ
+Takumi
+Reward:
+$
+1920
+Skorupi
+♂
+Lv.
+30
+No item
+Steelix
+♂
+Lv.
+32
+No item
+Worker
+Gerardo
+キンジ
+Kinji
+Reward:
+$
+1160
+Onix
+♂
+Lv.
+29
+No item
+Onix
+♂
+Lv.
+29
+No item
+Black Belt
+David
+ケンスケ
+Kensuke
+Reward:
+$
+768
+Onix
+♂
+Lv.
+30
+No item
+Steelix
+♂
+Lv.
+32
+No item
+Ace Trainer
+Breanna
+マユコ
+Mayuko
+Reward:
+$
+1980
+Azumarill
+♀
+Lv.
+33
+No item
+Leader
+Byron
+Canalave Gym
+Diamond and Pearl
+Reward:
+$
+4680
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+36
+Flash Cannon
+Steel
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Steel
+Ground
+Ability:
+Sturdy
+Held item:
+None
+Steelix
+♂
+Lv.
+36
+Gyro Ball
+Steel
+Physical
+--
+DragonBreath
+Dragon
+Special
+--
+Sandstorm
+Rock
+Status
+--
+Ice Fang
+Ice
+Physical
+--
+Types:
+Rock
+Steel
+Ability:
+Sturdy
+Held item:
+Chesto Berry
+Bastiodon
+♂
+Lv.
+39
+Flash Cannon
+Steel
+Special
+--
+AncientPower
+Rock
+Special
+--
+Iron Defense
+Steel
+Status
+--
+Rest
+Psychic
+Status
+--
+Leader Byron uses three Pokémon. Due to the having Ability
+Levitate
+and being a
+Psychic-type
+Pokémon,
+Bronzor
+is not affected by Ground-type moves and only takes normal damage from Fighting-type moves, so Fire-type moves are your only choice.
+Steelix
+has
+Ice Fang
+, so avoid using Ground-type Pokémon on it. Its
+DragonBreath
+may surprise you and paralyze your Pokémon. Byron's strongest Pokémon is
+Bastiodon
+. It is very good defensively, but its Rock/Steel typing gives it two major weaknesses: 4× damage from both Fighting-type and Ground-type moves. Avoid using Fire-type Pokémon against Bastiodon. Hit Bastiodon hard with Fighting-type or Ground-type moves fast before it uses
+Iron Defense
+to boost its Defense stat.
+After beating Byron, he will give you the Mine Badge and
+TM91
+(
+Flash Cannon
+). You can also use Strength on the field.
+You don't need to go all the way back, though— there is a shortcut. Head to the moving platform east of Byron. Use all three of them (which almost form a square), and you will be at the west side of the top floor. Get to the lift, and you will be brought back to the bottom floor.
+Afterwards......
+When you leave the Gym, Rival Barry will tell you to go to Canalave Library. Now that you can use
+Strength
+, you have three choices:
+Go to Canalave Library as Rival Barry says
+Go to places that you can use Strength to collect items you couldn't get
+Get through northern part of Mt. Coronet, Route 216-217, Lake Acuity, Snowpoint City and challenge Snowpoint Gym
+If you want to follow the storyline, choose the first choice. If you want to get the 7th Badge now, choose the third choice. You will actually need to access
+Lake Acuity
+quite soon, so the third choice is not bad. Remember that there is a blizzard on
+Route 217
+, and be prepared for the worst situation. This walkthrough will cover the second choice first, then first choice, and finally the third choice.
+However, if you don't have
+HM04
+(
+Strength
+), you must return to
+Lost Tower
+on
+Route 209
+(south of
+Solaceon Town
+) and get it first! Otherwise, you will not be able to proceed!
+← Part 13
+Fuego Ironworks, Floaroma Meadow (North), Sandgem Beach and Routes 219-221
+Diamond and Pearl
+walkthrough
+Wayward Cave (Basement), Canalave Library, Valor Lakefront, Lake Valor, Lake Verity
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

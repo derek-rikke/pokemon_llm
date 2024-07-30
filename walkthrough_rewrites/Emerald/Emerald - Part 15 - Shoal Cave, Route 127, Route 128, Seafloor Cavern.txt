@@ -1,0 +1,84 @@
+Game: Emerald
+Part: 15
+Keywords: Shoal Cave, Route 127, Route 128, Seafloor Cavern
+
+### Pokemon Emerald Walkthrough - Part 15: Shoal Cave, Routes 127 & 128, Seafloor Cavern
+
+#### Shoal Cave (Optional)
+**Tides:** Shoal Cave changes with high and low tides every six hours (3:00 and 9:00).
+
+- **High Tide:** Collect **Shoal Shells** and **Big Pearl**. The old man makes a **Shell Bell** if you bring him 4 of each.
+- **Low Tide:** Collect **Shoal Salts**, **Ice Heal**, **Focus Band**, and **NeverMeltIce**. Key items found include **TM07 (Hail)**.
+
+**Key Items Locations:**
+- **Shell Bell:** From old man after collecting items.
+- **Rare Candy:** Second Cavern.
+- **Focus Band:** Given by Black Belt in Third Cavern.
+- **NeverMeltIce & TM07 (Hail):** Ice Cavern.
+
+**Available Pokémon:**
+- **Main Cave:** Spheal, Zubat, Golbat.
+- **Icy Cavern:** Spheal, Snorunt.
+
+---
+
+#### Now That You Can Use Dive (Optional)
+**Underwater Locations:**
+- **Route 124:** Collect underwater items like **Carbos** and **Heart Scales**.
+- **Abandoned Ship:** Navigate using **Surf** and **Dive** to find keys and hidden items.
+
+**Key Items Locations:**
+- **Scanner:** Room 2 on the Abandoned Ship; trade for **DeepSeaTooth** or **DeepSeaScale** in Slateport.
+
+**Available Pokémon:**
+- **Underwater:** Clamperl, Chinchou, Relicanth.
+
+---
+
+#### Route 127
+**Trainers and Pokémon:**
+- **Bird Keeper Aidan:** Swellow, Skarmory.
+- **Cooltrainer Athena:** Manectric, Linoone.
+- **Fisherman Jonah:** Wailmer, Tentacool.
+
+**Available Pokémon:**
+- Surfing: Tentacool, Wingull.
+- Fishing: Magikarp, Wailmer.
+
+**Items:**
+- **Zinc:** North-western shallow water.
+- **Rare Candy:** Northwest island.
+
+---
+
+#### Route 128
+**Team Aqua Breach:** Access the Seafloor Cavern.
+
+**Trainers and Pokémon:**
+- **Cooltrainer Ruben:** Shiftry, Nosepass.
+- **Fisherman Wayne:** Tentacool, Wailmer.
+
+**Available Pokémon:**
+- Surfing: Tentacool, Wingull.
+- Fishing: Magikarp, Wailmer.
+
+---
+
+#### Seafloor Cavern
+**Access:** Via underwater cave in Route 128.
+
+**Key Rooms:**
+1. **Entrance:** Access Captain Stern's sub.
+2. **Room 1:** Use **Rock Smash** and **Strength** to navigate.
+3. **Room 7 (VS Shelly):** Battle Aqua Admin Shelly. Use strong Water and Dark-type Pokémon to counter her team.
+4. **Deepest Room (VS Archie):** Battle Team Aqua's leader. Be prepared for a tough fight against Mightyena, Crobat, and Sharpedo.
+
+**Key Items Locations:**
+- **TM26 (Earthquake):** Deepest Room.
+
+**Important Notes:**
+- After defeating Archie, he attempts to awaken Kyogre, leading to extreme weather conditions affecting the region.
+
+---
+
+**Next Steps:** Investigate the source of the abnormal weather in Sootopolis City, as suggested by Steven.

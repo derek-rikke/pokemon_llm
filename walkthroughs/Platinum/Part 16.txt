@@ -1,0 +1,1347 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_16
+Keywords: Mt. Coronet (south)
+
+Walkthrough Text:
+Contents
+1
+Mt. Coronet (south)
+1.1
+1F
+1.2
+2F
+1.3
+3F
+1.4
+Lower summit
+1.5
+4F
+1.6
+Upper summit
+1.7
+Tunnel
+1.8
+Summit
+1.9
+5F
+1.10
+6F
+1.11
+7F
+Mt. Coronet (south)
+Make sure you brought Pokémon with the HMs
+Surf
+,
+Strength
+,
+Rock Smash
+, and
+Rock Climb
+.
+1F
+Mt. Coronet South Area 1F
+Items
+Item
+Location
+Games
+Dawn Stone
+Southeast corner (requires
+Surf
+)
+Pt
+Protein
+On the northern edge of the large hill in the center (requires
+Surf
+)
+Pt
+Enter this area of
+Mt. Coronet
+using the entrance from either
+Route 207
+or
+Route 208
+. Pick up a few items that were not accessible before. Surf across the northernmost pool of water to the northeastern corner of the room. Climb up the rocks, and ascend the stairs.
+2F
+Mt. Coronet 2F
+Available Pokémon (2F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+36,38
+10%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (2F)
+Item
+Location
+Games
+Max Repel
+On ledge north of stairs from first floor
+Pt
+Red Shard
+On small rock west (and slightly north) of Max Repel
+(hidden)
+Pt
+Escape Rope
+In corner south-east of exit to Route 207 (requires
+Strength
+)
+Pt
+TM80
+(
+Rock Slide
+)
+North-east of exit to Route 207 (requires
+Strength
+)
+Pt
+Max Revive
+South-west of exit to small northern cavern (requires
+Strength
+)
+Pt
+Black Flute
+Given by
+Looker
+while trying to enter small northern cavern
+Pt
+Star Piece
+On a rock at end of small cavern across from the stairs leading from 3F to 2F
+(hidden)
+Pt
+From here on out, Mt. Coronet is an enormous maze. You may want to use
+Super Repels
+in some areas, but the wild Pokémon are high-leveled enough to be good for training against. It would be a good idea to keep the
+Dowsing Machine
+app on the
+Pokétch
+screen, as there will be a lot of hidden items.
+Anyway, the exit in the southwestern corner of the room leads to a dead-end ledge on
+Route 207
+, where you can pick up a previously-unreachable
+Iron
+and
+Timer Ball
+.
+Items
+Item
+Location
+Games
+Timer Ball
+South of the higher exit from Mount Coronet (requires
+Surf
+,
+Strength
+, and
+Rock Climb
+)
+Pt
+Iron
+Ledge on the southeastern end of the route, after taking the higher exit from Mount Coronet (requires
+Surf
+,
+Strength
+, and
+Rock Climb
+)
+Pt
+Back inside the mountain, don't forget to pick up
+TM80
+(
+Rock Slide
+), as the move it contains is very useful.
+Once you reach the northern exit,
+Looker
+will show up. Knowing that both
+Cyrus
+and the Galactic
+Commanders
+are out of his league to fight, he'll let you go on ahead since you're the only one powerful enough to take them on. He will give you the
+Black Flute
+before you go. After that, go through the exit and you'll be in 3F.
+3F
+Mt. Coronet 3F
+Available Pokémon (3F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+4%
+4%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+14%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37-39
+21%
+21%
+0%
+Medicham
+D
+P
+Pt
+Cave
+38-39
+0%
+0%
+11%
+Chingling
+D
+P
+Pt
+Cave
+36,38
+10%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (3F)
+Item
+Location
+Games
+Max Repel
+Near the rock in north-west corner
+(hidden)
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1720
+Stunky
+♀
+Lv.
+43
+No item
+Galactic Grunt
+Reward:
+$
+1720
+Murkrow
+♂
+Lv.
+43
+No item
+When you arrive head to the set of stairs on the right to briefly return to 2F to find a hidden
+Star Piece
+. You'll also deal with your first two
+Galactic Grunts
+, who shouldn't be that much of a challenge if you use the right Pokémon. Afterwards, take the exit to the outdoors, and you'll find yourself in the summit area of Mt. Coronet!
+Lower summit
+Mt. Coronet summit
+Available Pokémon (summit)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Grass
+38
+0%
+0%
+10%
+Machoke
+D
+P
+Pt
+Grass
+40
+10%
+Noctowl
+D
+P
+Pt
+Grass
+39
+0%
+0%
+10%
+Nosepass
+D
+P
+Pt
+Grass
+38
+5%
+Medicham
+D
+P
+Pt
+Grass
+38,40
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Grass
+40
+0%
+0%
+10%
+Absol
+D
+P
+Pt
+Grass
+38,40
+5%
+Chingling
+D
+P
+Pt
+Grass
+37,39
+10%
+Snover
+D
+P
+Pt
+Grass
+36
+20%
+Abomasnow
+D
+P
+Pt
+Grass
+38-39
+30%
+30%
+0%
+Abomasnow
+D
+P
+Pt
+Grass
+38
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (summit)
+Item
+Location
+Games
+Max Potion
+In the empty spot in middle of grass east of exit from 3F
+(hidden)
+Pt
+Energy Root
+In an empty spot in the grass on the ledge above the eastern entrance to 4F (reached via
+Rock Climb
+)
+(hidden)
+Pt
+Star Piece
+On boulder on ledge above eastern entrance to 4F (reached via
+Rock Climb
+)
+(hidden)
+Pt
+Blue Shard
+On boulder behind breakable rock due south of western entrance to 4F (requires
+Rock Smash
+)
+(hidden)
+Pt
+Revival Herb
+In the patch of grass south of the western entrance to 4F
+(hidden)
+Pt
+Star Piece
+On west side of breakable rock due south of northern exit from 4F (requires
+Rock Smash
+)
+(hidden)
+Pt
+Moon Stone
+On a boulder north of the entrance to the tunnel to the northern cavern
+(hidden)
+Pt
+Revival Herb
+In the horizontal row of grass patches, northwest of the movable boulder
+(hidden)
+Pt
+Full Restore
+On the narrow "empty" horizontal ledge, toward the left
+(hidden)
+Pt
+Stardust
+On a boulder at the east end of the far northernmost ledge
+(hidden)
+Pt
+Energy Root
+In the empty space in the corner of the grass patch east of entrance to 5F
+(hidden)
+Pt
+You are now in the southern area of the summit. As it is constantly
+hailing
+here, non-
+Ice-types
+will receive damage in battle, though you can easily use Super Repels to prevent battles. Also, this area is full of hidden items. From where you are, head east and then north to the Rock Climb-able wall. Near the large patch of grass is the western entrance to 4F, and near another scalable wall is the eastern entrance. Climb that wall and you'll find a grassy area with some hidden items. The eastern 4F entrance serves little purpose at this point, although there are a couple of hidden items worth picking up.
+Back outside in the summit, make your way to the northwestern entrance to 4F, in the large grass patch.
+4F
+Mt. Coronet 4F
+Available Pokémon (4F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+36,38
+10%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+Surfing
+Zubat
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golbat
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (4F)
+Item
+Location
+Games
+Yellow Shard
+On a boulder directly west of eastern entrance, surrounded by breakable rocks (requires
+Rock Smash
+)
+(hidden)
+Pt
+Heal Powder
+Behind the breakable rock north-west of eastern entrance, near the water (requires
+Rock Smash
+)
+(hidden)
+Pt
+Stardust
+On a boulder on the ledge north of eastern entrance
+(hidden)
+Pt
+Sun Stone
+On a boulder in the north-west corner of room, behind a breakable rock (requires
+Rock Smash
+)
+(hidden)
+Pt
+Full Heal
+In the area above the entrance to the cave above the waterfall
+(hidden)
+Pt
+Max Revive
+On the ledge east of the water area above the waterfall
+(hidden)
+Pt
+Ultra Ball
+On the ledge north of exit to snowy summit
+(hidden)
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1600
+Houndour
+♂
+Lv.
+40
+No item
+Golbat
+♂
+Lv.
+40
+No item
+Houndour
+♂
+Lv.
+40
+No item
+Galactic Grunt
+Reward:
+$
+1600
+Stunky
+♂
+Lv.
+42
+No item
+Golbat
+♂
+Lv.
+40
+No item
+Once inside from the west entrance, use Rock Climb to ascend to the upper area of 4F and head for the exit to the east, defeating two more Galactic grunts standing in your way.
+Upper summit
+Once through the exit from 4F, follow the path and take the stairs down and you will find a narrow chasm with two more Rock Climb walls and another cave entrance that will take you to a special tunnel.
+Tunnel
+Tunnel
+Available Pokémon (Tunnel)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+37-38
+40%
+0%
+40%
+Graveler
+D
+P
+Pt
+Cave
+36-38
+0%
+50%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+36,38
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (Tunnel)
+Item
+Location
+Games
+Green Shard
+On a boulder on the southernmost ledge
+(hidden)
+Pt
+Rare Candy
+In the middle of the highest and easternmost ledge (just south of the grunt)
+(hidden)
+Pt
+Green Shard
+On a wall behind the breakable rock on the highest ledge west of the exit to northern cavern (requires
+Rock Smash
+)
+(hidden)
+Pt
+Max Potion
+Several steps south of the exit to the northern caverns
+(hidden)
+Pt
+Stardust
+On the corner boulder behind the breakable rocks directly southeast of the exit to the northern caverns (requires
+Rock Smash
+)
+(hidden)
+Pt
+Heal Powder
+On the corner boulder next to a larger boulder behind a breakable rock southwest of the Stardust (requires
+Rock Smash
+)
+(hidden)
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1720
+Golbat
+♂
+Lv.
+43
+No item
+Galactic Grunt
+Reward:
+$
+1560
+Murkrow
+♀
+Lv.
+39
+No item
+Glameow
+♀
+Lv.
+42
+No item
+Murkrow
+♀
+Lv.
+39
+No item
+Galactic Grunt
+Reward:
+$
+1680
+Croagunk
+♂
+Lv.
+38
+No item
+Croagunk
+♂
+Lv.
+42
+No item
+Stunky
+♂
+Lv.
+40
+No item
+You don't have to explore this part of the cave yet if you don't want to. You can battle three Galactic Grunts and find some hidden items in here. Also, a fourth grunt is guarding the entrance to a secret passage that leads to Mt. Coronet North Side's 1F. You can't go through here until you've stopped Team Galactic for good.
+Summit
+This time, ascend using the Rock Climb wall facing west and follow that path west. This will lead you to the entrance to 5F. Once again, there are some hidden items along the way.
+5F
+Mt. Coronet 5F
+Available Pokémon (5F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chimecho
+D
+P
+Pt
+Cave
+39
+1%
+Chingling
+D
+P
+Pt
+Cave
+36,38
+9%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (5F)
+Item
+Location
+Games
+Max Elixir
+3 steps west and one step south of the easternmost boulder
+(hidden)
+Pt
+There isn't much here and the path is pretty straightforward, with only one hidden item. Take the nearby stairs to 6F.
+6F
+Mt. Coronet 6F
+Available Pokémon (6F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chimecho
+D
+P
+Pt
+Cave
+39-40
+5%
+Chingling
+D
+P
+Pt
+Cave
+36
+5%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (6F)
+Item
+Location
+Games
+Full Restore
+In the empty space behind the first Galactic Grunt
+(hidden)
+Pt
+Rare Candy
+Northwest of the southeastern corner boulder
+(hidden)
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1680
+Houndour
+♀
+Lv.
+40
+No item
+Glameow
+♀
+Lv.
+42
+No item
+Galactic Grunt
+Reward:
+$
+1640
+Glameow
+♀
+Lv.
+41
+No item
+Golbat
+♂
+Lv.
+41
+No item
+You can find two more hidden items here as well as two more Galactic Grunts. Take the stairs to 7F.
+7F
+Mt. Coronet 7F
+Available Pokémon (7F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+36
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+37-38
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+39
+10%
+Graveler
+D
+P
+Pt
+Cave
+38
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+36,38
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+37
+5%
+Medicham
+D
+P
+Pt
+Cave
+37,39
+20%
+20%
+0%
+Medicham
+D
+P
+Pt
+Cave
+39
+0%
+0%
+10%
+Chimecho
+D
+P
+Pt
+Cave
+39-41
+10%
+Bronzong
+D
+P
+Pt
+Cave
+37
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1640
+Golbat
+♀
+Lv.
+39
+No item
+Croagunk
+♀
+Lv.
+40
+No item
+Murkrow
+♀
+Lv.
+41
+No item
+All you need to do is defeat one last grunt and head for the exit where, at last, you have reached
+Spear Pillar
+! It's time to put an end to Cyrus's plans for the last time.
+← Part 15
+Acuity Lakefront to Veilstone City
+Platinum
+walkthrough
+Spear Pillar to Distortion World
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

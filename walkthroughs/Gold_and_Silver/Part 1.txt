@@ -1,0 +1,418 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_1
+Keywords: Introduction, New Bark Town, Route 29
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Introduction
+2
+New Bark Town
+2.1
+Home
+2.1.1
+2F
+2.1.2
+1F
+2.2
+The Spy
+2.3
+Professor Elm's Lab
+3
+Route 29
+3.1
+A Berry a Day
+Introduction
+Name Selection
+After a brief cutscene, press the A Button or
+Start
+on the title screen to reach the main menu.
+Option
+may be used to change settings like Text Speed. Select
+New Game
+and press the A Button. Players are then prompted to enter the current
+time
+. This influences certain events based on the time of day and day of the week. The famous Pokémon researcher,
+Professor Oak
+, appears and introduces new Trainers to the Pokémon world. Next, the player is prompted to select their character's name from a list of preset options, which differs between versions.
+Default Names
+Pokémon Gold
+Gold, Hiro, Taylor, Karl
+Pokémon Silver
+Silver, Kamon, Oscar, Max
+To use a different name, move the cursor to
+New Name
+and press the A Button. On this screen, pressing the A Button will select a letter while pressing the B Button or selecting
+Del
+will delete the previous one. A custom name may be up to seven characters long. When ready, press
+Start
+or select
+End
+in the bottom-right corner. With that done, the player is transported into the world of Pokémon to begin their adventure!
+New Bark Town
+New Bark Town
+Player's bedroom
+The journey begins in
+New Bark Town
+, in the southeast part of the
+Johto
+region. It is a rather small, sleepy town with only four buildings. The northeastern house belongs to you and
+Mom
+, while the southern one is home to the resident researcher of the Johto region,
+Professor Elm
+. The large building to the north is Elm's Laboratory. The west side of town leads to the
+tall grasses
+of
+Route 29
+, and the waters to the east open up to
+Route 27
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+First partner Pokémon
+Chikorita
+G
+S
+C
+Gift
+5
+One
+Cyndaquil
+G
+S
+C
+Gift
+5
+One
+Totodile
+G
+S
+C
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pokégear
+Home; from
+Mom
+G
+S
+Berry
+Elm's Lab; held by the player's
+first partner Pokémon
+G
+S
+Potion
+Elm's Lab; from Elm's aide, after receiving a first partner Pokémon
+G
+S
+Later visit
+Poké Ball
+×5
+Elm's Lab; from Elm's aide, after defeating
+Silver
+in
+Cherrygrove City
+G
+S
+Everstone
+Elm's Lab; from Professor Elm, after showing him the
+Mystery Egg
+Togepi
+G
+S
+Master Ball
+Elm's Lab; from Professor Elm, after earning the eight
+Johto
+Badges
+G
+S
+S.S. Ticket
+Elm's Lab; from Professor Elm, after entering the
+Hall of Fame
+G
+S
+Home
+2F
+The journey begins in your bedroom. Now that you can control your character, the various buttons and their effects are as follows:
+Input
+Effect(s)
+GB
+3DS
++Control Pad
++Control Pad, Circle Pad
+Moves character; moves cursor in a menu
+A Button
+A Button
+Interact with people and the environment; select menu options
+B Button
+B Button
+Cancel a selection; exit a menu
+Start
+Start
+, X Button
+Opens the
+main menu
+The
+PC
+in the corner acts as your
+item storage
+. Since each pocket on your
+Pack
+can only hold 20 different
+items
+, it would be necessary to use or discard some before obtaining anything new. The PC can hold up to 50 different items.
+Deposit Item
+and
+Withdraw Item
+allow for moving items between inventory and storage, while
+Toss Item
+discards an item permanently. There is also a
+Mailbox
+function to store pieces of
+Mail
+, as well as a
+Decoration
+option.
+To save the game, press
+Start
+to open the main menu, select
+Save
+, and then
+Yes
+. When the menu disappears, your progress is saved and it is safe to exit the game.
+To go downstairs, step on the stairs in the northeast corner of the room.
+1F
+Mom
+is sitting at the table, and tells you that
+Professor Elm
+has been looking for you. Before you can leave, she tells you that your
+Pokégear
+is back from the repair shop. This device initially acts as a clock, but can perform other functions with the necessary expansion cards. Mom helps you finish setting up the Clock function by asking about the day of the week and
+Daylight Saving Time
+.
+To leave the house, step on the floor mat along the south wall and press Down on the +Control Pad.
+The Spy
+A young, red-haired man
+can be seen peering into Elm's Lab through a side window. If you try to speak to him, he shoves you back before returning to the window.
+Professor Elm's Lab
+Professor Elm
+has a favor to ask of you. A friend of his, nicknamed
+Mr. Pokémon
+, studies Pokémon as a hobby and regularly contacts the professor about his findings. Elm suggests that these discoveries are not usually as exciting as his friend makes them out to be, but believes that this time is different. However, he and his aides are busy with their research, so he asks that you go in his place. To accompany you on the trip, he lets you choose one of his rare Pokémon. Each has its advantages and disadvantages, so simply choose the one that you like the best.
+Chikorita
+Cyndaquil
+Totodile
+Grass
+Fire
+Water
+Bayleef
+Quilava
+Croconaw
+Grass
+Fire
+Water
+Meganium
+Typhlosion
+Feraligatr
+Grass
+Fire
+Water
+The
+Grass-type
+Chikorita
+does well against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon. It also has the most weaknesses of the trio, and fares poorly against
+Fire
+-,
+Flying
+-,
+Bug
+-,
+Poison
+-, and
+Ice-type
+attacks. Chikorita may struggle early on, making it better suited for those looking for a challenge.
+The
+Fire-type
+Cyndaquil
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+-,
+Rock
+-, and
+Ground-type
+moves. Cyndaquil's typing gives it an easier time in the early part of the game, making it a good choice for less experienced Trainers.
+The
+Water-type
+Totodile
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+- and
+Electric-type
+attacks. It is the most well-rounded of the trio.
+After choosing your
+first partner Pokémon
+,
+Professor Elm
+asks if you would like to give it a
+nickname
+, which may be up to ten characters long. Elm informs you that
+Mr. Pokémon
+lives a short distance from
+Cherrygrove City
+, to the west of
+New Bark Town
+. He invites you to return at any time and use his PC to heal your Pokémon, and gives you his phone number to register in your
+Pokégear
+. As you leave the building, his aide gives you a
+Potion
+.
+Route 29
+Route 29
+Route 29
+is a hilly path that runs west from
+New Bark Town
+to
+Cherrygrove City
+. Westbound travelers must pass through patches of
+tall grass
+, while eastbound travelers can jump over a series of
+ledges
+to avoid these grasses and the wild Pokémon inside. To the north,
+Route 46
+leads down from the mountains.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+G
+S
+C
+Grass
+2-4
+55%
+55%
+0%
+Rattata
+G
+S
+C
+Grass
+4
+5%
+5%
+0%
+Rattata
+G
+S
+C
+Grass
+2,4
+0%
+0%
+15%
+Sentret
+G
+S
+C
+Grass
+2-3
+40%
+40%
+0%
+Hoothoot
+G
+S
+C
+Grass
+2-4
+0%
+0%
+85%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+East of the northeastern grass patch
+G
+S
+Berry
+Northwest hill; on the Berry tree (daily)
+G
+S
+Later visit
+Pink Bow
+South side; from
+Tuscany
+Tu
+, after earning the
+Zephyr Badge
+G
+S
+A Berry a Day
+Examine the tree on the northwest hill to pick a
+Berry
+from it. There are several
+different types of Berry
+, each with its own restorative effect. This particular variety restores a Pokémon's
+HP
+by 10 points. Berries may be used by a Trainer, or consumed by a Pokémon during battle. Giving a natural item like this to a Pokémon to
+hold
+will let it use the item when it sees fit. Pokémon are unfamiliar with artificial items like
+Potions
+and cannot use them on their own. Berries grow back over time, so revisit the same tree the next day to find another one.
+Gold and Silver
+walkthrough
+Cherrygrove City, Route 30, Mr. Pokémon's house
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

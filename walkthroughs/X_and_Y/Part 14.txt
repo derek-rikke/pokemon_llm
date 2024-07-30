@@ -1,0 +1,2534 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_14
+Keywords: Route 21, Route 22, Victory Road
+
+Walkthrough Text:
+Contents
+1
+Route 21
+1.1
+Move Tutor
+1.2
+Strength puzzle
+2
+Route 22
+2.1
+Strength puzzle
+2.2
+Chamber of Emptiness
+3
+Victory Road
+3.1
+Gate
+3.2
+Grove 1
+3.3
+Cave 1
+3.4
+Grove 2
+3.5
+Cave 2
+3.6
+Grove 2
+3.7
+Cave 2
+3.8
+Grove 3
+3.8.1
+Rival Battle
+3.9
+Cave 3
+3.10
+Grove 4
+3.11
+Cave 4
+Route 21
+Route 21
+Route 21
+, or Dernière Way, runs northwest from
+Snowbelle City
+to
+Victory Road
+. Though the main path is short and easy to traverse, there are several worthwhile items to be found here, so it pays to explore.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Mireille
+Reward:
+$
+5600
+Sableye
+♀
+Lv.
+55
+No item
+Crustle
+♀
+Lv.
+56
+No item
+Ace Duo
+Elina & Sean
+Reward:
+$
+11400
+Wailord
+♂
+Lv.
+57
+No item
+Vileplume
+♂
+Lv.
+57
+No item
+Ace Trainer
+Evan
+Reward:
+$
+5800
+Chandelure
+♂
+Lv.
+58
+No item
+Veteran
+Trisha
+Reward:
+$
+8260
+Tyrantrum
+♂
+Lv.
+59
+No item
+Veteran
+Louis
+Reward:
+$
+7980
+Hippowdon
+♂
+Lv.
+55
+No item
+Aurorus
+♂
+Lv.
+57
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Purple Flowers
+Floatzel
+X
+Y
+Purple Flowers
+50-52
+Common
+Spinda
+X
+Y
+Purple Flowers
+50-52
+Average
+Altaria
+X
+Y
+Purple Flowers
+50-51
+Average
+Scyther
+X
+Y
+Purple Flowers
+50-52
+Rare
+Ursaring
+X
+Y
+Purple Flowers
+50-52
+Rare
+Red Flowers
+Ursaring
+X
+Y
+Red Flowers
+50-52
+Common
+Spinda
+X
+Y
+Red Flowers
+50-52
+Average
+Altaria
+X
+Y
+Red Flowers
+50-51
+Average
+Scyther
+X
+Y
+Red Flowers
+50-52
+Rare
+Floatzel
+X
+Y
+Red Flowers
+50-52
+Rare
+Horde Encounter
+Spinda
+X
+Y
+Horde Encounter
+26
+Common
+Swablu
+X
+Y
+Horde Encounter
+26
+Average
+Scyther
+X
+Y
+Horde Encounter
+27
+Rare
+Surfing
+Lombre
+X
+Y
+Surfing
+50-52
+Common
+Floatzel
+X
+Y
+Surfing
+50-52
+Average
+Fishing
+Poliwag
+X
+Y
+Fishing
+Old Rod
+30
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+40
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+40
+Average
+Dratini
+X
+Y
+Fishing
+Good Rod
+40
+Very Rare
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+50
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+50
+Average
+Dragonair
+X
+Y
+Fishing
+Super Rod
+50
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Insect Plate
+North of the Snowbelle gate (requires
+Surf
+)
+X
+Y
+Guard Spec.
+On a rock, east of Ace Duo Elina & Sean
+X
+Y
+Pearl String
+In the purple flower patch, west of the Move Tutor's house (hidden, requires
+Strength
+)
+X
+Y
+Repeat Ball
+West of the Move Tutor's house (requires
+Strength
+,
+Surf
+)
+X
+Y
+Figy Berry
+From the Berry tree, west of the Move Tutor's house (requires
+Strength
+,
+Surf
+,
+Cut
+)
+X
+Y
+PP Up
+On a rock, southwest of Ace Trainer Evan (hidden)
+X
+Y
+Elixir
+×2
+On the cliffside, northwest of the Berry tree (hidden, requires
+Strength
+,
+Surf
+,
+Cut
+)
+Next to Veteran Trisha (requires
+Cut
+)
+X
+Y
+Rare Candy
+On the river's south bank (requires
+Cut
+,
+Strength
+,
+Surf
+)
+X
+Y
+TM22
+(
+Solar Beam
+)
+Southeast of Ace Trainer Evan (requires
+Cut
+,
+Strength
+,
+Surf
+)
+X
+Y
+Move Tutor
+Go north and use
+Strength
+to move the boulder into place in order to reach the
+Move Tutor
+'s house. This Black Belt offers to teach your
+Dragon-type
+Pokémon the ultimate attack of its type,
+Draco Meteor
+.
+Strength puzzle
+The southwest part of the route is occupied by several large boulders scattered around. Solve the puzzle to reach an
+Elixir
+,
+Rare Candy
+, and
+TM22
+(
+Solar Beam
+).
+Step
+Notes
+1.
+Cross the northern flower patch,
+Cut
+down the middle tree
+2.
+Push
+the left-most boulder all the way to the west
+3.
+Move the second boulder southwest to the hole
+4.
+Circle around and push the first boulder back east to the hole
+5.
+Move the southwest boulder to the south
+6.
+Cross the northwest flower patch,
+Cut
+down the western tree
+7.
+Fight Veteran Trisha, grab the
+Elixir
+, move the boulder eastward to the river
+8.
+Surf
+east for a
+Rare Candy
+on the south bank,
+Cut
+down the third tree on the north bank
+9.
+Return to southwest path, move the boulder east to the hole
+10.
+Move the last boulder northeast to the hole to reach
+TM22
+(
+Solar Beam
+)
+Route 22
+Route 22
+Chamber of Emptiness
+Route 22
+, or Détourner Way, links
+Victory Road
+back to
+Santalune City
+. Though the route was accessible when you first reached the city, it could not be fully explored until now.
+Trainers
+Trainer
+Pokémon
+Rising Star
+Louise
+Reward:
+$
+420
+Psyduck
+♀
+Lv.
+6
+No item
+Litleo
+♀
+Lv.
+7
+No item
+Lass
+Elin
+Reward:
+$
+144
+Goldeen
+♀
+Lv.
+6
+No item
+Marill
+♀
+Lv.
+6
+No item
+Rising Star
+Loïc
+Reward:
+$
+540
+Riolu
+♂
+Lv.
+9
+No item
+Schoolboy
+Rabbie
+Reward:
+$
+160
+Pidgey
+♂
+Lv.
+7
+No item
+Metapod
+♂
+Lv.
+5
+No item
+Schoolgirl
+Mackenzie
+Reward:
+$
+256
+Bunnelby
+♀
+Lv.
+8
+No item
+Lass
+Elsa
+Reward:
+$
+192
+Flabébé
+♀
+Red Flower
+Lv.
+8
+No item
+Requires
+Surf
+,
+Waterfall
+Ace Trainer
+Adelbert
+Reward:
+$
+3100
+Lucario
+♂
+Lv.
+31
+No item
+Ace Trainer
+Hilde
+Reward:
+$
+3000
+Sharpedo
+♀
+Lv.
+29
+No item
+Gardevoir
+♀
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Azurill
+X
+Y
+Grass
+6-7
+Average
+Bunnelby
+X
+Y
+Grass
+5-6
+Average
+Litleo
+X
+Y
+Grass
+5-6
+Average
+Psyduck
+X
+Y
+Grass
+6
+Rare
+Farfetch'd
+X
+Y
+Grass
+7
+Rare
+Bidoof
+X
+Y
+Grass
+6
+Rare
+Dunsparce
+X
+Y
+Grass
+7
+Very Rare
+Riolu
+X
+Y
+Grass
+6-7
+Very Rare
+Yellow Flowers
+Psyduck
+X
+Y
+Yellow Flowers
+25-27
+Average
+Azumarill
+X
+Y
+Yellow Flowers
+25-26
+Average
+Bibarel
+X
+Y
+Yellow Flowers
+26-27
+Average
+Farfetch'd
+X
+Y
+Yellow Flowers
+25-26
+Rare
+Diggersby
+X
+Y
+Yellow Flowers
+27
+Rare
+Litleo
+X
+Y
+Yellow Flowers
+25
+Rare
+Dunsparce
+X
+Y
+Yellow Flowers
+26
+Very Rare
+Riolu
+X
+Y
+Yellow Flowers
+25-26
+Very Rare
+Surfing
+Psyduck
+X
+Y
+Surfing
+25-27
+Common
+Azumarill
+X
+Y
+Surfing
+26-27
+Very Rare
+Fishing
+Magikarp
+X
+Y
+Fishing
+Old Rod
+15
+100%
+Goldeen
+X
+Y
+Fishing
+Good Rod
+25
+Common
+Carvanha
+X
+Y
+Fishing
+Good Rod
+25
+Average
+Gyarados
+X
+Y
+Fishing
+Super Rod
+35
+Common
+Seaking
+X
+Y
+Fishing
+Super Rod
+35
+Average
+Sharpedo
+X
+Y
+Fishing
+Super Rod
+35
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Potion
+West of Lass Elsa, between two ledges
+X
+Y
+Elixir
+Northwest of Rising Star Louise (requires
+Cut
+)
+X
+Y
+Draco Plate
+East of the Chamber of Emptiness (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Full Restore
+On a rock, northwest of Ace Trainer Hilde (hidden; requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Tanga Berry
+From the Berry tree, east of Ace Trainer Hilde (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Max Elixir
+In a bush, near the eastern boulder (hidden; requires
+Surf
+,
+Waterfall
+,
+Strength
+)
+X
+Y
+TM26
+(
+Earthquake
+)
+Southeast of the Chamber of Emptiness (requires
+Surf
+,
+Waterfall
+,
+Strength
+)
+X
+Y
+Chamber of Emptiness
+Spooky Plate
+In the center of the cave (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Strength puzzle
+The south side of the route's lower area has a few boulders strewn around. Visit the Berry tree in the southeast for a
+Tanga Berry
+, then solve the puzzle to get
+TM26
+(
+Earthquake
+).
+Step
+Notes
+1.
+Push
+the eastern boulder westward in a U-shaped path to the southern hole
+2.
+Move the south boulder westward, then north and east to the western hole
+3.
+Push the third boulder east then north to the northern hole
+Chamber of Emptiness
+The
+Chamber of Emptiness
+is a tiny cave located between the two waterfalls. There are no Trainers or wild Pokémon inside, only a
+single item
+.
+Victory Road
+Victory Road, Cave 1
+Victory Road, Grove 2
+Victory Road, Cave 2
+Victory Road, Grove 3
+Victory Road, Cave 3
+Victory Road, Grove 4
+Victory Road, Cave 4
+The entrance to
+Victory Road
+links Routes
+21
+and
+22
+. The long, treacherous path is the ultimate proving ground for Trainers. Only those with all eight Gym Badges are allowed entry. Survive the many challenges here to finally arrive at the
+Pokémon League
+!
+Trainers
+Trainer
+Pokémon
+Gate
+Ace Trainer
+Robbie
+Reward:
+$
+5,700
+Carbink
+Lv.
+56
+No item
+Raichu
+♂
+Lv.
+56
+No item
+Kingdra
+♂
+Lv.
+57
+No item
+Cave 1
+Ace Trainer
+Alanza
+Reward:
+$
+6,000
+Weavile
+♀
+Lv.
+60
+No item
+Ace Trainer
+Bence
+Reward:
+$
+5,700
+Steelix
+♂
+Lv.
+56
+No item
+Electrode
+Lv.
+56
+No item
+Kangaskhan
+♀
+Lv.
+57
+No item
+Black Belt
+Markus
+Reward:
+$
+2,880
+Machamp
+♂
+Lv.
+60
+No item
+Battle Girl
+Veronique
+Reward:
+$
+2,784
+Hawlucha
+♀
+Lv.
+57
+No item
+Mienshao
+♀
+Lv.
+58
+No item
+Grove 2
+Backpacker
+Farid
+Reward:
+$
+2,320
+Haxorus
+♂
+Lv.
+58
+No item
+Cave 2
+Battle Girl
+Sigrid
+Reward:
+$
+2,880
+Medicham
+♀
+Lv.
+60
+No item
+Psychic
+William
+Reward:
+$
+3,248
+Espeon
+♂
+Lv.
+58
+No item
+Black Belt
+Ander
+Reward:
+$
+2,784
+Pangoro
+♂
+Lv.
+57
+No item
+Heracross
+♂
+Lv.
+58
+No item
+Brains & Brawn
+Arman & Hugo
+Reward:
+$
+6,240
+Medicham
+♂
+Lv.
+58
+No item
+Gallade
+♂
+Lv.
+60
+No item
+Grove 3
+Fairy Tale Girl
+Corinne
+Reward:
+$
+1,792
+Azumarill
+♀
+Lv.
+56
+No item
+Florges
+♀
+Red Flower
+Lv.
+56
+No item
+Hex Maniac
+Raziah
+Reward:
+$
+1,856
+Gourgeist
+♀
+Lv.
+58
+No item
+Cave 3
+Pokémon Ranger
+Petra
+Reward:
+$
+4,560
+Slowbro
+♀
+Lv.
+57
+No item
+Altaria
+♀
+Lv.
+57
+No item
+Veteran
+Inga
+サユリ
+Sayuri
+Reward:
+$
+8,540
+Talonflame
+♀
+Lv.
+61
+No item
+Pokémon Ranger
+Ralf
+エミール
+Emil
+Reward:
+$
+4,720
+Crobat
+♂
+Lv.
+59
+No item
+Veteran
+Gerard
+ジェラール
+Gerard
+Reward:
+$
+8,260
+Banette
+♂
+Lv.
+57
+No item
+Leafeon
+♂
+Lv.
+59
+No item
+Grove 4
+Artist
+Vincent
+モトフミ
+Motofumi
+Reward:
+$
+3,248
+Smeargle
+♂
+Lv.
+58
+No item
+Ace Trainer
+Michele
+メグミ
+Megumi
+Reward:
+$
+5,800
+Magcargo
+♀
+Lv.
+57
+No item
+Scizor
+♀
+Lv.
+58
+No item
+Requires Surf and Waterfall
+Hiker
+Corwin
+ケンサク
+Kensaku
+Reward:
+$
+3,136
+Torkoal
+♂
+Lv.
+56
+No item
+Golem
+♂
+Lv.
+56
+No item
+Cave 4
+Veteran
+Timeo
+ヒロカズ
+Hirokazu
+Reward:
+$
+8,260
+Trevenant
+♂
+Lv.
+57
+No item
+Gigalith
+♂
+Lv.
+59
+No item
+Veteran
+Catrina
+カトリーヌ
+Catherine
+Reward:
+$
+8,260
+Glaceon
+♂
+Lv.
+57
+No item
+Snorlax
+♂
+Lv.
+59
+No item
+Veteran
+Gilles
+ウンショウ
+Unshō
+Reward:
+$
+7,980
+Skarmory
+♂
+Lv.
+55
+No item
+Umbreon
+♂
+Lv.
+55
+No item
+Alakazam
+♂
+Lv.
+57
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Graveler
+X
+Y
+Cave
+57-58
+Average
+Gurdurr
+X
+Y
+Cave
+57-59
+Average
+Haunter
+X
+Y
+Cave
+58
+Rare
+Lickitung
+X
+Y
+Cave
+58-59
+Rare
+Druddigon
+X
+Y
+Cave
+58-59
+Rare
+Zweilous
+X
+Y
+Cave
+59
+Very Rare
+Horde Encounter (Caves 1, 4)
+Geodude
+X
+Y
+Horde Encounter
+28
+Common
+Floatzel
+X
+Y
+Horde Encounter
+29
+Average
+Lickitung
+X
+Y
+Horde Encounter
+30
+Rare
+Horde Encounter (Caves 2, 3)
+Geodude
+X
+Y
+Horde Encounter
+28
+Common
+Graveler
+X
+Y
+Horde Encounter
+29
+Average
+Lickitung
+X
+Y
+Horde Encounter
+30
+Rare
+Rock Smash
+Graveler
+X
+Y
+Rock Smash
+58
+Common
+Shuckle
+X
+Y
+Rock Smash
+58
+Very Rare
+Drops from the ceiling
+Graveler
+X
+Y
+Ceiling
+57
+Common
+Ariados
+X
+Y
+Ceiling
+58-59
+Common
+Noibat
+X
+Y
+Ceiling
+59
+Average
+Swoops down from above
+Fearow
+X
+Y
+Sky
+57-59
+Common
+Skarmory
+X
+Y
+Sky
+57-59
+Rare
+Hydreigon
+X
+Y
+Sky
+59
+Very Rare
+Surfing (Groves)
+Lombre
+X
+Y
+Surfing
+57-58
+Common
+Floatzel
+X
+Y
+Surfing
+57-59
+Average
+Surfing (Caves)
+Poliwhirl
+X
+Y
+Surfing
+57-58
+Common
+Floatzel
+X
+Y
+Surfing
+57-59
+Average
+Fishing (Groves, Caves 1-3)
+Poliwag
+X
+Y
+Fishing
+Old Rod
+35
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+45
+Common
+Basculin
+X
+Y
+Fishing
+Good Rod
+45
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+45
+Average
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+55
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+55
+Average
+Basculin
+X
+Y
+Fishing
+Super Rod
+55
+Average
+Fishing (Cave 4)
+Poliwag
+X
+Y
+Fishing
+Old Rod
+35
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+45
+Common
+Basculin
+X
+Y
+Fishing
+Good Rod
+45
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+45
+Average
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+55
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+55
+Average
+Basculin
+X
+Y
+Fishing
+Super Rod
+55
+Average
+Poliwrath
+X
+Y
+Fishing
+Super Rod
+60
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Cave 1
+X Attack
+On a stalagmite, west of the first lake (hidden, requires
+Surf
+)
+X
+Y
+Dusk Ball
+Southwest corner, near Battle Girl Veronique (requires
+Surf
+)
+X
+Y
+TM03
+(
+Psyshock
+)
+In the cave behind the waterfall, accessed via Grove 2 (requires
+Rock Smash
+)
+X
+Y
+Grove 2
+Hyper Potion
+On a rock, north of Backpacker Farid (hidden)
+X
+Y
+Full Heal
+In a bush, west of the second cave entrance (hidden)
+X
+Y
+Rare Candy
+On the tiny northwest cliff, accessed via Cave 2 (requires
+Strength
+)
+X
+Y
+Cave 2
+Ultra Ball
+On a rock, north of the stepping stones (hidden, requires
+Rock Smash
+)
+X
+Y
+Carbos
+North of Black Belt Ander (requires
+Strength
+)
+X
+Y
+Smooth Rock
+On the rock wall, north of Black Belt Ander (hidden, requires
+Strength
+)
+X
+Y
+Grove 3
+Revive
+On a rock, south of Fairy Tale Girl Corinne (hidden, requires
+Strength
+)
+X
+Y
+PP Up
+Next to the tower in the northwest (requires
+Rock Smash
+)
+X
+Y
+Quick Ball
+East of Hex Maniac Raziah, in the stone ruins
+X
+Y
+Max Revive
+×2
+From Serena/Calem upon her/his defeat
+X
+Y
+Zinc
+In the small center area, southwest of the stone ruins (requires
+Rock Smash
+)
+X
+Y
+Pretty Wing
+On a rock on the upper eastern level, accessed via Cave 3 (hidden)
+X
+Y
+Max Elixir
+On the upper eastern level, accessed via Cave 3
+X
+Y
+Cave 3
+Escape Rope
+In the ledge maze, southeast of Pokémon Ranger Petra (hidden)
+X
+Y
+Full Restore
+Southeast of the ledge maze, near Pokémon Ranger Ralf
+X
+Y
+Max Repel
+On a rock, south of Veteran Inga (hidden)
+X
+Y
+Dragon Fang
+East side of the ledge maze
+X
+Y
+Grove 4
+X Defense
+On a rock, south of Artist Vincent (hidden)
+X
+Y
+TM02
+(
+Dragon Claw
+)
+Northeast of Hiker Corwin (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Max Ether
+South-southeast of TM02, on the darker grass (hidden; requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Cave 4
+Star Piece
+In the large chamber past the three Ace Trainer (hidden, requires
+Surf
+)
+X
+Y
+Gate
+Ace Trainer Robbie stands watch over Victory Road, and allows only those with all eight Gym Badges to pass through. Show him your Badge collection, and he tests your skills in battle. Defeat him, and you earn the right to enter Victory Road itself.
+Grove 1
+Follow the uphill path to the cave's main entrance.
+Cave 1
+Battle Ace Trainer Alanza before surfing northwest. Check the nearest rock for a hidden
+X Attack
+, then pass by Ace Trainer Bence. Go south from Black Belt Markus to find Battle Girl Veronique and a
+Dusk Ball
+, then go west from him to re-emerge outside.
+Grove 2
+Head northward and fight Backpacker Farid on your way across the bridge. Inspect a rock on the cliff's edge for a hidden
+Hyper Potion
+, and a bush near the next cave entrance for a hidden
+Full Heal
+.
+Cave 2
+Fight Battle Girl Sigrid to reach a group of stepping stones. Hop to the northwest, then walk around to the east. Use
+Rock Smash
+and walk down the slope. Collect the hidden
+Ultra Ball
+, then move southeastward through the field of stones. Climb the stairway and hop across two more stones to reach the southeast exit.
+Grove 2
+Follow the narrow path southward to a small cave behind the waterfall. Pick up
+TM03
+(
+Psyshock
+) here, then backtrack to the previous cave.
+Cave 2
+Hop back across the two stones and jump the ledge. Head northwest across the field of stones, then go east and climb the stairway to reach Psychic William. Use
+Strength
+to move the boulder westward. Detour to the north past Black Belt Ander to obtain a
+Carbos
+and a hidden
+Smooth Rock
+. Move the boulder into place and climb the stairway beyond. Battle Brains & Brawn Arman & Hugo, then take a detour to the northwest to re-emerge outside.
+Grab the
+Rare Candy
+from the tiny cliffside and re-enter the cave.
+Cross the bridge and head northeast to exit the cave.
+Grove 3
+Go east past Fairy Tale Girl Corinne, push the boulder into place, and inspect the small rocks here for a hidden
+Revive
+. There is another cave entrance in the southwest; by moving a single boulder inside into place, this tunnel creates a shortcut back to the main entrance. Head north and
+tear down
+the wall near Hex Maniac Raziah to reach a
+PP Up
+. Continue northeast to meet a female Pokémon Ranger; this friendly woman will restore your Pokémon to full health. Collect the
+Quick Ball
+from the stone ruins before heading south. It isn't long before Serena/Calem catches up to you.
+Rival Battle
+Serena/Calem has been doing some soul-searching since the events in
+Geosenge Town
+. She/He
+challenges
+you
+here not aiming to simply win, but to witness how you and your Pokémon think and feel. She/He uses a level 57
+Meowstic
+, level 59
+Absol
+, level 58
+Altaria
+,
+an
+Eevee
+evolution
+at level 57, and her/his third-stage starter Pokémon at level 61. After the battle, she/he rewards you with two
+Max Revives
+.
+Go southwest and
+smash
+the cracked wall to reach a
+Zinc
+, then go east to enter the next cave.
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Serena
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+57
+Discharge
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Serena
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+57
+Bite
+Dark
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+61
+Dark Pulse
+Dark
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Water Shuriken
+Water
+Physical
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Serena
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+57
+Muddy Water
+Water
+Special
+--
+Aurora Beam
+Ice
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+61
+Brick Break
+Fighting
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Chespin
+:
+Pokémon Trainer
+Calem
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+57
+Discharge
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Fennekin
+:
+Pokémon Trainer
+Calem
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+57
+Bite
+Dark
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+61
+Dark Pulse
+Dark
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Water Shuriken
+Water
+Physical
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Froakie
+:
+Pokémon Trainer
+Calem
+Victory Road
+X and Y
+Reward:
+$
+6,100
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+57
+Muddy Water
+Water
+Special
+--
+Aurora Beam
+Ice
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+58
+Dragon Pulse
+Dragon
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Confide
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+59
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+61
+Brick Break
+Fighting
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Cave 3
+Head east and climb the stairway to fight Pokémon Ranger Petra. Jump the ledge to the east, then head south to jump three more. Follow the path to the west-central exit.
+Check the nearby rocks for a hidden
+Pretty Wing
+. Grab the
+Max Elixir
+to the north, slide down the slope, and head back inside.
+Jump the same ledge again and head south. Jump the ledge to the east and continue south to find a hidden
+Escape Rope
+. Climb the stairway to the east, grab the
+Full Restore
+to the south near Pokémon Ranger Ralf, then head north for a hidden
+Max Repel
+. Battle Veteran Inga, then slide down the nearest slope to reach a
+Dragon Fang
+. Climb the two stairways to fight Veteran Gerard, then move the boulder into place. Follow the path to the southwest exit, and move the boulder outside into place to complete the shortcut to the main entrance. Return to Veteran Gerard and take the east exit.
+Grove 4
+Inspect the small rocks near Artist Vincent for a hidden
+X Defense
+. Cross the bridge and follow the path to a pier. Detour up the waterfall to reach Hiker Corwin, a hidden
+Max Ether
+, and
+TM02
+(
+Dragon Claw
+). Ride back down the waterfall and sail into the final cave.
+Cave 4
+Cross the pool of water and follow the uphill tunnel past a trio of Veterans. Inspect the large chamber beyond for a hidden
+Star Piece
+and climb the final stairway. Welcome to the
+Pokémon League
+!
+← Part 13
+Snowbelle City, Route 20, Pokémon Village
+X and Y
+walkthrough
+Pokémon League
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

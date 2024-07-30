@@ -1,0 +1,842 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_17
+Keywords: Tapu Village, Aether House, Route 14, Trial 6: Abandoned Megamart
+
+Walkthrough Text:
+Contents
+1
+Tapu Village
+1.1
+Meet Up with Hau
+2
+Route 15
+2.1
+Aether House
+2.1.1
+Security!
+2.2
+Team Skull Trouble
+3
+Route 14
+3.1
+Catch Up with the Captain
+3.2
+Thrifty Megamart
+3.2.1
+Captain Acerola's Trial
+3.2.1.1
+Sales Floor
+3.2.1.2
+Back Room
+3.2.1.2.1
+VS Totem Mimikyu
+Tapu Village
+Tapu Village
+Tapu Village
+connects
+Route 13
+with
+Route 14
+to the south and
+Route 15
+to the north. The area is the site of a former settlement on the south side of
+Ula'ula Island
+. It mostly consists of ruined buildings that were destroyed by
+Tapu Bulu
+, as retribution for the construction of the
+Thrifty Megamart
+on its sacred grounds. As a result, the only functional structure in the village is the
+Pokémon Center
+. To the north, a stairway leads up to
+Mount Lanakila
+.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+28-31
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+28-31
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+28-31
+-
+30%
+Snorunt
+Snorunt
+S
+M
+Grass
+28-31
+20%
+Vulpix
+Alolan Form
+Vulpix
+S
+M
+Grass
+28-31
+10%
+Sandshrew
+Alolan Form
+Sandshrew
+S
+M
+Grass
+28-31
+10%
+Absol
+Absol
+S
+M
+Grass
+28-31
+10%
+Special allies in weather
+Any
+Rain
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+28-31
+11%
+Any
+In
+hail
+:
+Vanillite
+S
+M
+Grass
+28-31
+10%
+Any
+In
+hail
+:
+Castform
+S
+M
+Grass
+28-31
+1%
+Special Pokémon
+Graveler
+Alolan Form
+N/A
+S
+M
+Trade
+Haunter
+32
+One
+Exclusively from
+Island Scan
+Swinub
+N/A
+S
+M
+Grass
+31
+One
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zygarde Cell
+South of the Pokémon Center, in front of the fence
+S
+M
+Meet Up with Hau
+When you reach the branching path near the Pokémon Center, you find
+Hau
+waiting for you. He reminds you that you both are almost to the
+Aether House
+, where the next captain is supposed to be. He then notices some construction workers and is excited that there really is a Pokémon League being built atop the mountain. Hau informs you that other regions have a group of powerful Trainers called the
+Elite Four
+, and wonders if they or the
+Island kahunas
+would be stronger.
+Route 15
+Route 15
+Route 15
+encompasses the waters off the southwest side of
+Ula'ula Island
+. The
+Aether House
+stands just outside
+Tapu Village
+, and a sandy beach on the route's north end leads to
+Route 16
+. Although it is possible to skim the waves with
+Lapras Paddle
+, there are several large boulders near the surface that will hinder travel without
+another Ride Pokémon
+.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Yuki
+Reward:
+$
+2,244
+Sandshrew
+♂
+Alolan form
+Lv.
+32
+No item
+Marowak
+♂
+Alolan form
+Lv.
+33
+No item
+After exiting Aether House
+Team Skull Grunt
+Reward:
+$
+1,056
+Drowzee
+♂
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+30-33
+50%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+30-33
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+30-33
+-
+30%
+Slowpoke
+Slowpoke
+S
+M
+Grass
+30-33
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-33
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-33
+20%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-33
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-33
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-33
+30%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-33
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+West of Aether House, north side of the nearest grass patch
+S
+M
+Zygarde Cell
+Against the southern cliff wall on the southeast beach
+S
+M
+Luxury Ball
+×5
+From Lillie, after exiting Aether House and defeating the Team Skull Grunt
+S
+M
+Requires Sharpedo Jet
+PP Max
+From Trial Guide Katrina, after defeating her
+S
+M
+TM93
+(
+Wild Charge
+)
+On the large central island (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Dive Ball
+Northeast corner of the northeast beach (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Pearl
+Northwest beach, against the cliff near the Fisherman
+(hidden, regenerates occasionally)
+S
+M
+Normal Gem
+Northwest beach, northwest corner
+(hidden, regenerates occasionally)
+S
+M
+Aether House
+Aether House
+Aether House
+is the
+Aether Foundation
+'s largest base on
+Alola
+'s main islands. The building serves as an orphanage for human children and Pokémon.
+Acerola
+is among the children who live here.
+Trainers
+Trainer
+Pokémon
+Preschooler
+Hunter
+Reward:
+$
+360
+Elekid
+♂
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+After becoming
+Champion
+Porygon
+N/A
+S
+M
+Gift
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zygarde Cell
+By the TV in the playroom
+Day
+S
+M
+Later visit
+Rare Candy
+From the female Preschooler, after defeating
+Plumeria
+S
+M
+Up-Grade
+From the female Aether Foundation Employee in the bedroom, after becoming Champion
+S
+M
+Security!
+Step inside
+Aether House
+and
+Hau
+enters right behind you. The two of you are separately pulled into battle by a couple of Preschoolers trying to protect the place while
+Acerola
+is away. When the battles end, Acerola is just arriving. Hau asks where
+Lillie
+is, and she responds by saying that Lillie and
+Hapu
+should be along shortly. Acerola suggests getting the trial done first, and reveals herself as the trial captain. Speak to her again to learn that her trial takes place at the abandoned site where
+the supermarket
+used to be.
+Team Skull Trouble
+Exit the building to find
+Lillie
+standing up to a
+Team Skull
+Grunt, who seems to think she has a rare Pokémon in her bag. Defeat his single Pokémon and he runs off. Afterward, Lillie explains that she wanted to take a walk on her own to feel what it is like traveling as a Trainer, so she and
+Hapu
+split up.
+Nebby
+tried to get out of her bag and was spotted by Team Skull. While shopping, she was looking for something to help you on your journey and gives you five
+Luxury Balls
+. Acerola leaves the building and asks you to follow her back to
+Tapu Village
+, while Lillie goes inside to rest. Retrace your steps and head south from the village to
+Route 14
+.
+Route 14
+Route 14
+Route 14
+is mainly comprised of a black sand beach. The area is considered sacred to
+Tapu Bulu
+, who was angered by the construction work. This led it to destroy both the lighthouse and the
+Thrifty Megamart
+in a rage. Another supermarket was eventually built on
+Royal Avenue
+. The ruined building is now a favorite spot for
+Ghost-type
+Pokémon.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Hisato
+Reward:
+$
+992
+Feebas
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Collector
+Kawika
+Reward:
+$
+992
+Togedemaru
+♂
+Lv.
+30
+No item
+Gabite
+♂
+Lv.
+31
+No item
+Requires Lapras Paddle or Sharpedo Jet
+Swimmer
+Keoni
+Reward:
+$
+744
+Pyukumuku
+♂
+Lv.
+31
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+28-31
+40%
+Finneon
+Finneon
+S
+M
+Surfing
+28-31
+40%
+Pelipper
+Pelipper
+S
+M
+Surfing
+28-31
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-31
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-31
+20%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-31
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-31
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-31
+30%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-31
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pearl
+West of the Tapu Village entrance
+(hidden, regenerates occasionally)
+S
+M
+Max Potion
+On the broken road
+S
+M
+TM30
+(
+Shadow Ball
+)
+In the lighthouse ruins to the west (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Big Pearl
+South end of the beach, among the rubble near the ramp
+(hidden, regenerates occasionally)
+S
+M
+Ghostium Z
+From Acerola, after completing her trial
+S
+M
+Dusk Ball
+×10
+From Acerola, after completing her trial
+S
+M
+Catch Up with the Captain
+Follow the beach to the trial gate to find
+Acerola
+. She explains that since the old building is full of
+Ghost
+Pokémon, the goal of her trial is to find the
+Totem Pokémon
+and snap a photo of it with the
+Poké Finder
+. It likes to play hide-and-seek, but taking photos of the other Ghost Pokémon inside should lead it into revealing itself to get in on the fun. The trial begins as soon as you enter the building. There are no wild Pokémon to be found until the trial is complete.
+Thrifty Megamart
+Thrifty Megamart
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+After completing Acerola's trial
+Golbat
+Golbat
+S
+M
+Walking
+29-32
+40%
+Haunter
+Haunter
+Gengar
+S
+M
+Walking
+29-32
+40%
+Klefki
+Klefki
+S
+M
+Walking
+29-32
+15%
+Mimikyu
+Mimikyu
+S
+M
+Walking
+29-32
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Captain Acerola's Trial
+Sales Floor
+Debris scattered throughout the building forces visitors into a linear path. When you reach the second checkout land, the conveyor belt starts moving all by itself! Inspect it to launch the
+Poké Finder
+and reveal a hidden
+Gastly
+. Snapping a photo attracts its attention, and the Pokémon pulls you into battle. Afterward, the conveyor belt stops moving and you spot a
+Pikachu
+running westward. Approach the westernmost checkout lane and suddenly a nearby shopping cart starts moving on its own! Go investigate to find a
+Haunter
+this time. Take a pic and defeat it in battle, just like before. When the battle ends, you notice another Pikachu leading you farther back into the building. Follow the path to the northeast corner, where you see a couple of dolls suddenly start levitating! Pull up the Poké Finder to reveal a
+Gengar
+. When you reach the back door, you hear the lock suddenly click open!
+Back Room
+When you reach the back room, you feel a pair of eyes sizing you up, then the Poké Finder launches on its own. Spin around to find a
+Mimikyu
+standing right behind you!
+VS Totem Mimikyu
+When the battle begins, the Totem
+Mimikyu
+is surrounded by an aura that raises every stat by one stage. As in other trials, it is recommended to focus on the Totem Pokémon first and any allies afterward. The
+Ghost
+/
+Fairy
+Pokémon has the
+Disguise
+Ability—the first time it's hit with a damaging move, its disguise is busted and it takes no damage. Use
+Steel
+- and
+Ghost-type
+attacks, like
+Decidueye
+'s
+Spirit Shackle
+, for best results. The ally
+Haunter
+and
+Gengar
+that it may call are also vulnerable to
+Dark
+and
+Psychic
+attacks.
+Totem Mimikyu
+Ally Haunter
+Ally Gengar
+Aura:
+Atk
+,
+Def
+,
+Sp. Atk
+,
+Sp. Def
+,
+Spd
++1
+Types:
+Ghost
+Fairy
+Ability:
+Disguise
+Held item:
+Lum Berry
+Mimikyu
+♀
+Lv.
+33
+Play Rough
+Fairy
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Astonish
+Ghost
+Physical
+--
+Mimic
+Normal
+Status
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Haunter
+♂
+/
+♀
+Lv.
+27
+Hypnosis
+Psychic
+Status
+--
+Sucker Punch
+Dark
+Physical
+--
+Night Shade
+Ghost
+Special
+--
+Lick
+Ghost
+Physical
+--
+Types:
+Ghost
+Poison
+Ability:
+Cursed Body
+Held item:
+None
+Gengar
+♂
+/
+♀
+Lv.
+27
+Shadow Ball
+Ghost
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Night Shade
+Ghost
+Special
+--
+Shadow Punch
+Ghost
+Physical
+--
+After the Totem Pokémon and its allies are defeated, you find yourself outside the building with
+Acerola
+. She inspects your photos and compliments you on your accomplishment, saying that it's very difficult to get a shot of
+Mimikyu
+. She rewards you with the
+Ghostium Z
+and teaches you the pose for
+Never-Ending Nightmare
+. With the trial complete, the captain gives you permission to catch the wild Pokémon in the old building, and also gives you ten
+Dusk Balls
+. She chuckles at your recounting of the trial, saying that there is no back room to the building. She gets an uneasy feeling and wanders off, while a pair of Pikachu ears can be seen moving beyond the fence behind you...
+← Part 16
+Route 11, Route 12, Blush Mountain, Secluded Shore, Route 13
+Sun and Moon
+walkthrough
+Route 15, Route 16, Ula'ula Meadow, Route 17, Po Town
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

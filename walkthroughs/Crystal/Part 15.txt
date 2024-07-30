@@ -1,0 +1,916 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_15
+Keywords: Indigo Plateau
+
+Walkthrough Text:
+Contents
+1
+Indigo Plateau
+1.1
+Elite Four
+1.1.1
+Battle 1
+1.1.2
+Battle 2
+1.1.3
+Battle 3
+1.1.4
+Battle 4
+1.2
+Champion
+1.3
+Hall of Fame
+Indigo Plateau
+Indigo Plateau
+The
+Indigo Plateau
+serves as the capital for the
+Pokémon League
+in the
+Johto
+and
+Kanto
+regions. This is where the Trainers who have defeated all eight
+Gym Leaders
+in either region battle against the
+Elite Four
+and the
+Champion
+. The entrance hall houses a Pokémon Center and a Poké Mart, allowing challengers to prepare themselves and their Pokémon for the gauntlet ahead. The Elite Four is a group of talented Pokémon Trainers second only to the Champion in terms of power, and must be fought in succession with no break. These five battles will not be easy, but challengers who bring their strongest Pokémon and a healthy supply of Potions and Revives may finally find themselves in the
+Hall of Fame
+. Anyone who decides to continue their training before challenging the league may speak to the elderly man, and his
+Abra
+will teleport them away to
+New Bark Town
+.
+Poké Mart
+Ultra Ball
+$
+1200
+Max Repel
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Full Restore
+$
+3000
+Revive
+$
+1500
+Full Heal
+$
+600
+Elite Four
+Battle 1
+Will's room
+The first member of the Elite Four is
+Will
+, a master of
+Psychic-type
+Pokémon. Psychic-type moves are super effective against
+Fighting
+- and
+Poison-type
+Pokémon, while Psychic-type Pokémon are weak to
+Bug
+-,
+Dark
+-, and
+Ghost-type
+moves.
+Both of Will's
+Xatu
+can use
+Future Sight
+, which launches an attack that strikes two turns later. In addition to Ghost- and Dark-type moves, they both sustain serious damage from
+Electric-type
+attacks, as does his
+Slowbro
+. Its
+Amnesia
+move raises its
+Special Defense
+, so use Bug- and Ghost-type moves to target its physical Defense, instead. Bug and Fire attacks work well against both
+Exeggutor
+and
+Jynx
+.
+Elite Four
+Will
+Indigo Plateau
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4200
+Types:
+Psychic
+Flying
+Held item:
+None
+Xatu
+♂
+Lv.
+40
+Quick Attack
+Normal
+--
+Future Sight
+Psychic
+--
+Psychic
+Psychic
+--
+Confuse Ray
+Ghost
+--
+Types:
+Grass
+Psychic
+Held item:
+None
+Exeggutor
+♂
+Lv.
+41
+Reflect
+Psychic
+--
+Egg Bomb
+Normal
+--
+Psychic
+Psychic
+--
+Leech Seed
+Grass
+--
+Types:
+Water
+Psychic
+Held item:
+None
+Slowbro
+♂
+Lv.
+41
+Curse
+???
+--
+Amnesia
+Psychic
+--
+Body Slam
+Normal
+--
+Psychic
+Psychic
+--
+Types:
+Ice
+Psychic
+Held item:
+None
+Jynx
+♀
+Lv.
+41
+Ice Punch
+Ice
+--
+DoubleSlap
+Normal
+--
+Psychic
+Psychic
+--
+Lovely Kiss
+Normal
+--
+Types:
+Psychic
+Flying
+Held item:
+None
+Xatu
+♂
+Lv.
+42
+Quick Attack
+Normal
+--
+Future Sight
+Psychic
+--
+Psychic
+Psychic
+--
+Confuse Ray
+Ghost
+--
+Defeating Will opens the door to the second room.
+Battle 2
+Koga's room
+The second member of the Elite Four is
+Koga
+, a master of
+Poison-type
+Pokémon, and former
+Gym Leader
+from
+Kanto
+'s
+Fuchsia City
+. Poison-type moves are super effective against
+Grass-type
+Pokémon, while Poison-type Pokémon are weak to
+Ground
+- and
+Psychic-type
+moves.
+As
+Koga
+is a master ninja, his team makes use of poisoning and confusion to wear down their target.
+Psychic-type
+attacks will be the most useful, as they deal serious damage to four of his five Pokémon.
+Rock
+moves are useful against his
+Ariados
+,
+Venomoth
+, and
+Crobat
+, and all three of his
+Bug
+Pokémon are also vulnerable to
+Fire
+attacks. Watch out for
+Forretress
+'
+Explosion
+, and be sure to bring healing items to cure any Pokémon that gets poisoned with
+Toxic
+.
+Elite Four
+Koga
+Indigo Plateau
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4400
+Types:
+Bug
+Poison
+Held item:
+None
+Ariados
+♂
+Lv.
+40
+Spider Web
+Bug
+--
+Double Team
+Normal
+--
+Baton Pass
+Normal
+--
+Giga Drain
+Grass
+--
+Types:
+Bug
+Poison
+Held item:
+None
+Venomoth
+♂
+Lv.
+41
+Psychic
+Psychic
+--
+Gust
+Flying
+--
+Supersonic
+Normal
+--
+Toxic
+Poison
+--
+Types:
+Bug
+Steel
+Held item:
+None
+Forretress
+♂
+Lv.
+43
+Protect
+Normal
+--
+Spikes
+Ground
+--
+Swift
+Normal
+--
+Explosion
+Normal
+--
+Type:
+Poison
+Unknown
+Held item:
+None
+Muk
+♂
+Lv.
+42
+Sludge Bomb
+Poison
+--
+Acid Armor
+Poison
+--
+Minimize
+Normal
+--
+Toxic
+Poison
+--
+Types:
+Poison
+Flying
+Held item:
+None
+Crobat
+♂
+Lv.
+44
+Double Team
+Normal
+--
+Wing Attack
+Flying
+--
+Quick Attack
+Normal
+--
+Toxic
+Poison
+--
+Defeating Koga opens the door to the third room.
+Battle 3
+Bruno's room
+The third member of the Elite Four is
+Bruno
+, a master of
+Fighting-type
+Pokémon. Fighting-type moves are super effective against
+Dark
+-,
+Ice
+-,
+Normal
+-,
+Rock
+-, and
+Steel-type
+Pokémon, while Fighting-type Pokémon are weak to
+Flying
+- and
+Psychic-type
+moves.
+Psychic-type
+attacks will do well against four of
+Bruno
+'s five Pokémon, but Psychic Pokémon should avoid
+Hitmontop
+'s
+Pursuit
+, a
+Dark-type
+move.
+Flying-type
+attacks are equally useful, but
+Machamp
+can fight back against Flying Pokémon with
+Rock Slide
+.
+Fire Punch
+,
+Ice Punch
+, and
+ThunderPunch
+may seem intimidating, but
+Hitmonchan
+'s
+Special Attack
+is too low to make effective use of them. As a
+Rock
+/
+Ground
+Pokémon, not only is
+Onix
+the only one of Bruno's team that is not
+Fighting
+type, but it is also the only one to sustain massive damage from both
+Water
+- and
+Grass-type
+attacks.
+Elite Four
+Bruno
+Indigo Plateau
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4600
+Type:
+Fighting
+Unknown
+Held item:
+None
+Hitmontop
+♂
+Lv.
+42
+Quick Attack
+Normal
+--
+Dig
+Ground
+--
+Detect
+Fighting
+--
+Pursuit
+Dark
+--
+Type:
+Fighting
+Unknown
+Held item:
+None
+Hitmonlee
+♂
+Lv.
+42
+Double Kick
+Fighting
+--
+Foresight
+Normal
+--
+Hi Jump Kick
+Fighting
+--
+Swagger
+Normal
+--
+Type:
+Fighting
+Unknown
+Held item:
+None
+Hitmonchan
+♂
+Lv.
+42
+Ice Punch
+Ice
+--
+Fire Punch
+Fire
+--
+ThunderPunch
+Electric
+--
+Mach Punch
+Fighting
+--
+Types:
+Rock
+Ground
+Held item:
+None
+Onix
+♂
+Lv.
+43
+Rock Slide
+Rock
+--
+Sandstorm
+Rock
+--
+Earthquake
+Ground
+--
+Bind
+Normal
+--
+Type:
+Fighting
+Unknown
+Held item:
+None
+Machamp
+♂
+Lv.
+46
+Rock Slide
+Rock
+--
+Foresight
+Normal
+--
+Cross Chop
+Fighting
+--
+Vital Throw
+Fighting
+--
+Defeating Bruno opens the door to the fourth room.
+Battle 4
+Karen's room
+The fourth member of the Elite Four is
+Karen
+, a master of
+Dark-type
+Pokémon. Dark-type moves are super effective against
+Ghost
+- and
+Psychic-type
+Pokémon, while Dark-type Pokémon are weak to
+Bug
+- and
+Fighting-type
+moves.
+With its high defenses and
+status moves
+to hinder its target,
+Umbreon
+can be difficult to take down.
+Mean Look
+prevents
+escape
+, which can lock the opponent into an unfavorable matchup; leading with a
+Bug
+or
+Fighting
+Pokémon, like
+Heracross
+, can turn this into an advantage.
+Ice-type
+moves are effective against
+Vileplume
+and
+Murkrow
+, while Murkrow and
+Houndoom
+also take serious damage from
+Rock
+attacks. Use
+Ghost
+- and
+Dark-type
+moves against
+Gengar
+before it can use
+Curse
+.
+Elite Four
+Karen
+Indigo Plateau
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4700
+Type:
+Dark
+Unknown
+Held item:
+None
+Umbreon
+♂
+Lv.
+42
+Faint Attack
+Dark
+--
+Confuse Ray
+Ghost
+--
+Mean Look
+Normal
+--
+Sand-Attack
+Ground
+--
+Types:
+Grass
+Poison
+Held item:
+None
+Vileplume
+♀
+Lv.
+42
+Stun Spore
+Grass
+--
+Acid
+Poison
+--
+Petal Dance
+Grass
+--
+Moonlight
+Normal
+--
+Types:
+Dark
+Flying
+Held item:
+None
+Murkrow
+♀
+Lv.
+44
+Faint Attack
+Dark
+--
+Whirlwind
+Normal
+--
+Pursuit
+Dark
+--
+Quick Attack
+Normal
+--
+Types:
+Ghost
+Poison
+Held item:
+None
+Gengar
+♀
+Lv.
+45
+Lick
+Ghost
+--
+Spite
+Ghost
+--
+Curse
+???
+--
+Destiny Bond
+Ghost
+--
+Types:
+Dark
+Fire
+Held item:
+None
+Houndoom
+♀
+Lv.
+47
+Crunch
+Dark
+--
+Flamethrower
+Fire
+--
+Roar
+Normal
+--
+Pursuit
+Dark
+--
+With the Elite Four defeated, the door to the Champion's room is unlocked. Take a moment to prepare your Pokémon now, as you will be drawn into battle immediately upon entering the next room. Only one person stands between you and the title of Champion!
+Champion
+Lance's room
+Hall of Fame room
+The final opponent turns out to be
+Lance
+, the same
+Dragon
+Pokémon master who helped defeat
+Team Rocket
+. Dragon-type moves are super effective against Dragon-type Pokémon, while Dragon-type Pokémon are weak to Dragon- and
+Ice-type
+moves.
+Lance
+begins with his
+Gyarados
+, which takes massive damage from
+Electric-type
+attacks.
+Charizard
+has the same problem with
+Rock
+moves, while both it and
+Aerodactyl
+take serious damage from
+Water
+attacks. His three
+Dragonite
+each have a powerful move—
+Blizzard
+,
+Thunder
+, and
+Fire Blast
+—to help cover the team's vulnerabilities. However, as
+Dragon
+/
+Flying
+Pokémon, they fare poorly in the cold and sustain massive damage from
+Ice-type
+attacks. All of his Pokémon can use
+Hyper Beam
+, so be sure to bring plenty of
+HP
+-restoring items!
+Champion
+Lance
+Indigo Plateau
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+5000
+Types:
+Water
+Flying
+Held item:
+None
+Gyarados
+♂
+Lv.
+44
+Rain Dance
+Water
+--
+Surf
+Water
+--
+Flail
+Normal
+--
+Hyper Beam
+Normal
+--
+Types:
+Dragon
+Flying
+Held item:
+None
+Dragonite
+♂
+Lv.
+47
+Twister
+Dragon
+--
+Thunder Wave
+Electric
+--
+Blizzard
+Ice
+--
+Hyper Beam
+Normal
+--
+Types:
+Fire
+Flying
+Held item:
+None
+Charizard
+♂
+Lv.
+46
+Flamethrower
+Fire
+--
+Wing Attack
+Flying
+--
+Slash
+Normal
+--
+Hyper Beam
+Normal
+--
+Types:
+Rock
+Flying
+Held item:
+None
+Aerodactyl
+♂
+Lv.
+46
+Rock Slide
+Rock
+--
+AncientPower
+Rock
+--
+Wing Attack
+Flying
+--
+Hyper Beam
+Normal
+--
+Types:
+Dragon
+Flying
+Held item:
+None
+Dragonite
+♂
+Lv.
+47
+Twister
+Dragon
+--
+Thunder Wave
+Electric
+--
+Thunder
+Electric
+--
+Hyper Beam
+Normal
+--
+Types:
+Dragon
+Flying
+Held item:
+None
+Dragonite
+♂
+Lv.
+50
+Safeguard
+Normal
+--
+Outrage
+Dragon
+--
+Fire Blast
+Fire
+--
+Hyper Beam
+Normal
+--
+Lance
+congratulates you for defeating the Pokémon League, and compliments you on growing so much with your Pokémon. He is soon interrupted by
+DJ Mary
+, who rushes in for an interview. She would have been here sooner, but
+Professor Oak
+is not as quick as he was in his younger days. He applauds your victory, saying that your Pokémon won because they believed in you as a Trainer. Mary tries again for an interview, but Lance steps in and leads you to the next room.
+Hall of Fame
+The
+Hall of Fame
+is where all victorious Trainers and their dedicated Pokémon will be recorded, as a testament to their power and perseverance.
+Lance
+remarks that it has been a long time sine he was last here, and goes on to explain the large machine. He then activates it, officially recording both you and your Pokémon as the latest inductees into the Hall of Fame.
+The game is saved, a slideshow of your victorious Pokémon plays, and the credits roll.
+← Part 14
+Route 27, Route 26, Victory Road
+Crystal
+walkthrough
+S.S. Aqua, Vermilion City
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

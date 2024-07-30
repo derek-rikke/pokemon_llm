@@ -1,0 +1,53 @@
+Game: LegendsArceus
+Part: 1
+Keywords: In an Unfamiliar Land, Prelude Beach, Jubilife Village, Obsidian Fieldlands
+
+**Pokémon Legends: Arceus Walkthrough – Part 1**
+
+**In an Unfamiliar Land**
+- You wake up in a strange realm and meet Arceus, who tasks you with seeking out all Pokémon.
+
+**Prelude Beach**
+- After waking, you meet Professor Laventon, who asks for your help in catching three runaway Pokémon: Cyndaquil (east), Oshawott (west), and Rowlet (north).
+- Controls: Use ZR to throw Poké Balls; hold ZL to lock onto Pokémon.
+
+**Items Obtained:**
+- Arc Phone (initial mission tool)
+- Poké Balls (x50 from Professor)
+
+**Jubilife Village**
+- Follow Laventon to Jubilife Village, where you'll meet Beni and a fellow character (Rei/Akari).
+- After dinner, Cyllene, the Survey Corps captain, requires you to pass a trial to stay in the village.
+
+**Trial Preparation:**
+- Rest at your new room and meet Rei/Akari in the morning.
+- Head to Galaxy Hall to receive your trial: catch a Bidoof, Starly, and Shinx.
+- Choose your starter Pokémon from Cyndaquil, Rowlet, or Oshawott.
+
+**Items Obtained:**
+- Satchel (for carrying items)
+- Poké Balls (x20 for the trial)
+- Potions (x5 from Volo after battling)
+
+**Obsidian Fieldlands**
+- Begin your trial at Aspiration Hill, where all trial Pokémon can be found.
+- **Catch Bidoof** first, then **Starly** by sneaking through tall grass.
+- For **Shinx**, battle it to lower its health before capturing.
+
+**Battle Tips:**
+- Lock onto Pokémon with ZL for easier aiming.
+- Use items and Pokémon strategically during battles.
+
+**Trial Completion:**
+- After catching all three Pokémon, return to Laventon for congratulations and a photo.
+- Report back to Cyllene to confirm your success.
+
+**Available Pokémon:**
+- Bidoof (Levels 2-4)
+- Starly (Levels 2-4)
+- Shinx (Levels 2-6)
+
+**Next Steps:**
+- Continue your journey and focus on completing the Pokédex in the upcoming sections. 
+
+**[Next Part: Part 2]**

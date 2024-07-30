@@ -1,0 +1,1575 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_14
+Keywords: Lake Verity, Route 211, Mt. Coronet (north), Route 216, Route 217
+
+Walkthrough Text:
+Contents
+1
+Lake Verity
+2
+Route 211
+3
+Mt. Coronet (north)
+3.1
+1F
+3.2
+B1F
+3.3
+216 entrance
+4
+Route 216
+5
+Route 217
+Lake Verity
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Starly
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+40%
+Bidoof
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+60%
+Surfing and Fishing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Seaking
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM38
+(
+Fire Blast
+)
+In the south-east corner of the western patch of grass (requires
+Surf
+)
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1460
+Glameow
+♀
+Lv.
+33
+No item
+Golbat
+♀
+Lv.
+33
+No item
+Murkrow
+♀
+Lv.
+36
+No item
+Galactic Grunt
+Reward:
+$
+1460
+Croagunk
+♂
+Lv.
+37
+No item
+Galactic Grunt
+Reward:
+$
+1400
+Stunky
+♂
+Lv.
+35
+No item
+Houndour
+♂
+Lv.
+35
+No item
+Galactic Grunt
+Reward:
+$
+1440
+Houndour
+♀
+Lv.
+34
+No item
+Glameow
+♀
+Lv.
+36
+No item
+When you arrive at
+Lake Verity
+, you'll find Rowan holding off one of the grunts while Lucas/Dawn is up ahead facing Mars and needs your help. After going through two
+Double Battles
+you will face off against Mars who wishes to get back at you for screwing up her previous mission at the
+Valley Windworks
+.
+Commander
+Mars
+Lake Verity
+Platinum
+Reward:
+$
+3120
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+38
+Air Cutter
+Flying
+Special
+--
+Supersonic
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Toxic
+Poison
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+38
+Iron Defense
+Steel
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Purugly
+♀
+Lv.
+40
+Fake Out
+Normal
+Physical
+--
+Slash
+Normal
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Her team is about the same as Saturn's team, but with the difference of
+Purugly
+instead of Toxicroak. Since your Fighting-type diversity has greatly improved since last time it shouldn't have been hard to have found a Fighting-type to use against her to defeat Purugly. Be careful since it is fast and can put you asleep with
+Hypnosis
+. After the battle, despite fretting about losing again, Mars is satisfied with having captured
+Mesprit
+. She also deduces that Saturn's operation of catching Azelf it made it easier to catch Mesprit due to it sensing that Azelf is in danger and made the cave appear to head out. Mars then leaves with the warning of the power they are about to possess.
+After Professor Rowan is up to speed on what happened at Lake Valor, he decides to send you to Lake Acuity in the far north where Barry is, believing that Barry may be in danger due to Team Galactic going there. It is time to head to
+Route 211
+which is east of
+Eterna City
+or west of Celestic Town.
+Route 211
+Route 211
+Route 211
+contains the entrance to Mt. Coronet's north area. If you wish, you can visit the west side of this route earlier in the game when you first get to
+Eterna City
+. Travel through
+Celestic Town
+if you want to go to the east side.
+Available Pokémon (West Side)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+14
+0%
+0%
+10%
+Machop
+D
+P
+Pt
+Grass
+14-15
+15%
+Hoothoot
+D
+P
+Pt
+Grass
+15
+0%
+0%
+10%
+Meditite
+D
+P
+Pt
+Grass
+13-15
+40%
+40%
+0%
+Meditite
+D
+P
+Pt
+Grass
+13
+0%
+0%
+20%
+Bidoof
+D
+P
+Pt
+Grass
+14
+20%
+Chingling
+D
+P
+Pt
+Grass
+14,16
+15%
+Bronzor
+D
+P
+Pt
+Grass
+14,16
+10%
+Special Pokémon
+Teddiursa
+D
+P
+Pt
+Dual-slot
+Emerald
+15-16
+8%
+Tyrogue
+D
+P
+Pt
+Poké Radar
+14-16
+22%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (West Side)
+Trainer
+Pokémon
+Ninja Boy
+Zach
+コタロウ
+Kotarō
+Reward:
+$
+112
+Zubat
+♂
+Lv.
+14
+No item
+Zubat
+♂
+Lv.
+14
+No item
+Zubat
+♂
+Lv.
+14
+No item
+Hiker
+Louis
+ノボル
+Noboru
+Reward:
+$
+576
+Geodude
+♂
+Lv.
+14
+No item
+Onix
+♂
+Lv.
+18
+No item
+Bird Keeper
+Alexandra
+フウコ
+Fūko
+Reward:
+$
+544
+Starly
+♀
+Lv.
+17
+No item
+Hoothoot
+♀
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items (West Side)
+Item
+Location
+Games
+Great Ball
+Hidden in the northern most bare patch of tall grass
+Pt
+TM12
+(
+Taunt
+)
+Under the large bridge (requires
+Rock Smash
+)
+Pt
+Available Pokémon (East Side)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+28
+0%
+0%
+10%
+Machoke
+D
+P
+Pt
+Grass
+29-30
+15%
+Graveler
+D
+P
+Pt
+Grass
+28
+20%
+Noctowl
+D
+P
+Pt
+Grass
+29
+0%
+0%
+10%
+Meditite
+D
+P
+Pt
+Grass
+27-29
+40%
+40%
+0%
+Meditite
+D
+P
+Pt
+Grass
+27
+0%
+0%
+20%
+Chingling
+D
+P
+Pt
+Grass
+28,30
+15%
+Bronzor
+D
+P
+Pt
+Grass
+29
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (East Side)
+Trainer
+Pokémon
+Black Belt
+Sean
+ユウサク
+Yūsaku
+Reward:
+$
+744
+Croagunk
+♂
+Lv.
+31
+No item
+Meditite
+♂
+Lv.
+31
+No item
+Machoke
+♂
+Lv.
+31
+No item
+Bird Keeper
+Katherine
+ミヤビ
+Miyabi
+Reward:
+$
+1088
+Noctowl
+♀
+Lv.
+34
+No item
+Ruin Maniac
+Harry
+トキオ
+Tokio
+Reward:
+$
+1536
+Bronzor
+Lv.
+28
+No item
+Bronzor
+Lv.
+30
+No item
+Bronzor
+Lv.
+32
+No item
+Ninja Boy
+Nick
+カツノリ
+Katsunori
+Reward:
+$
+240
+Skorupi
+♂
+Lv.
+32
+No item
+Croagunk
+♂
+Lv.
+30
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items (East Side)
+Item
+Location
+Games
+Pecha Berry
+Berry patch near the entrance to Celestic Town
+Pt
+Aspear Berry
+Berry patch near the entrance to Celestic Town
+Pt
+Iapapa Berry
+Berry patch near the entrance to Celestic Town
+Pt
+Grepa Berry
+Berry patch near the entrance to Celestic Town
+Pt
+Carbos
+In the grass
+Pt
+TM77
+(
+Psych Up
+)
+Talk to the person near the Ruin Maniac
+Pt
+Mt. Coronet (north)
+1F
+Mt. Coronet North Area 1F
+Available Pokémon (1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+15
+5%
+5%
+0%
+Zubat
+D
+P
+Pt
+Cave
+14-15
+0%
+0%
+15%
+Machop
+D
+P
+Pt
+Cave
+16
+10%
+Geodude
+D
+P
+Pt
+Cave
+15
+20%
+0%
+20%
+Geodude
+D
+P
+Pt
+Cave
+13,15
+0%
+30%
+0%
+Cleffa
+D
+P
+Pt
+Cave
+13
+10%
+0%
+10%
+Nosepass
+D
+P
+Pt
+Cave
+14
+5%
+Meditite
+D
+P
+Pt
+Cave
+14,16
+20%
+20%
+0%
+Meditite
+D
+P
+Pt
+Cave
+16
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+13,15
+10%
+Bronzor
+D
+P
+Pt
+Cave
+14
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (1F)
+Item
+Location
+Games
+EnergyPowder
+Near the west entrance on a boulder in the open
+(hidden)
+Pt
+Ice Heal
+In the middle of the cavern near the Eterna city entrance (requires
+Rock Smash
+)
+Pt
+Stardust
+On a rock in the middle of the cavern (requires either
+Strength
+or
+Rock Smash
+)
+(hidden)
+Pt
+Star Piece
+On a boulder west of the entrance from Celestic Town
+(hidden)
+Pt
+Escape Rope
+South of the entrance from Celestic Town
+Pt
+TM69
+(
+Rock Polish
+)
+North of the entrance from Eterna City (requires
+Strength
+and
+Rock Smash
+)
+Pt
+Rare Candy
+Middle of the northern cavern (requires
+Strength
+and
+Rock Smash
+)
+Pt
+Red Shard
+On a boulder near the stairs at the northern end
+(hidden)
+Pt
+Previously you could only go a limited distance into
+Mt. Coronet
+regardless of which entrance you entered on
+Route 211
+. Now with
+Strength
+, you can fully explore this side of Mt. Coronet. Besides Strength, you'll also need
+Rock Smash
+(and possibly want
+Defog
+or
+Surf
+) for traveling through. Since you won't be able to change your team until you reach
+Snowpoint City
+, make sure that your team is well prepared to handle the trainers on
+Route 216
+and
+Route 217
+. From the entrance that leads to Route 211's east side, head north using Strength to move the boulder, and don't forget to smash the rocks to find a
+Rare Candy
+. Also don't forget to use your Dowsing Machine on your
+Pokétch
+to find some hidden items while exploring this side of Mt. Coronet. Anyway, if you follow the path downwards you'll be in B1F.
+B1F
+Mt. Coronet North Area B1F
+Available Pokémon (B1F and Route 216 exit)
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+32
+10%
+0%
+10%
+Golbat
+D
+P
+Pt
+Cave
+34
+5%
+5%
+0%
+Golbat
+D
+P
+Pt
+Cave
+33-34
+0%
+0%
+15%
+Machoke
+D
+P
+Pt
+Cave
+35
+10%
+Graveler
+D
+P
+Pt
+Cave
+34
+20%
+0%
+20%
+Graveler
+D
+P
+Pt
+Cave
+32,34
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+33
+5%
+Meditite
+D
+P
+Pt
+Cave
+33,35
+20%
+20%
+0%
+Meditite
+D
+P
+Pt
+Cave
+35
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+32,34
+10%
+Bronzor
+D
+P
+Pt
+Cave
+33
+20%
+Surfing
+Zubat
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golbat
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Four Random Squares
+Feebas
+D
+P
+Pt
+Fishing
+Old Rod
+10-20
+50%
+Feebas
+D
+P
+Pt
+Fishing
+Good Rod
+10-20
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (B1F)
+Item
+Location
+Games
+Ultra Ball
+South-west corner of the room (requires
+Rock Smash
+)
+Pt
+Green Shard
+On the boulder south of the Ultra Ball (requires
+Rock Smash
+)
+(hidden)
+Pt
+Soft Sand
+Near the north-west corner of the foggy lake (requires
+Strength
+and
+Rock Smash
+)
+Pt
+Blue Shard
+Behind a breakable rock left of the foggy lake (requires
+Rock Smash
+)
+(hidden)
+Pt
+Light Clay
+On an island in the middle of the foggy lake (requires
+Surf
+)
+Pt
+Max Elixir
+North-east corner of the foggy lake (requires either
+Surf
+or
+Rock Smash
+)
+Pt
+Star Piece
+Between two boulders north of the foggy lake
+(hidden)
+Pt
+Revive
+North of the foggy lake, north-east of the Soft Sand (requires
+Strength
+)
+Pt
+Full Restore
+Next to the eastern edge of the foggy lake (requires
+Rock Smash
+)
+Pt
+Rare Candy
+Three steps left of the stairs in the far north-west corner of the room
+(hidden)
+Pt
+In B1F, you will need to use Defog to remove the fog and make it easier to fight wild Pokémon in here. You will find a very large pool of water. If you fish in four random squares you will find a
+Feebas
+here. Any rod will do, and Feebas is very easy to catch if you use a
+Net Ball
+or a
+Dusk Ball
+. It would also be a good idea to fish 2-3 times in each spot before moving again since it is not guaranteed you'll find one right away even if it is the right spot. Feebas' location is also changed around daily. You can also find some items here with the help of both Strength and Rock Smash. Anyway follow the western area north to find the exit to the other part of the 1F that leads to Route 216.
+216 entrance
+Mt. Coronet Route 216 entrance
+Items (Final Area)
+Item
+Location
+Games
+Yellow Shard
+Left boulder outside Iceberg Ruins entrance
+(hidden)
+Pt
+NeverMeltIce
+Inside
+Regice
+'s cave near Route 216 entrance
+Pt
+Nugget
+Inside
+Regice
+'s cave near Route 216 entrance, northwest of the NeverMeltIce
+Pt
+One new change here in Platinum is the entrance to the
+Iceberg Ruins
+. With a
+event
+Regigigas
+in your party it will become a shrine to
+Regice
+. If not, it is a regular chamber that holds the NeverMeltIce. Once you have gotten the National Pokédex and have the event Regigigas with you, then you can
+challenge Regice
+to battle and have a chance to catch it. Anyway when ready head out through the west exit to reach Route 216.
+Route 216
+Route 216
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+32
+0%
+0%
+10%
+Graveler
+D
+P
+Pt
+Grass
+35
+5%
+Sneasel
+D
+P
+Pt
+Grass
+33-35
+35%
+Meditite
+D
+P
+Pt
+Grass
+32-33
+20%
+20%
+0%
+Meditite
+D
+P
+Pt
+Grass
+33
+0%
+0%
+10%
+Snorunt
+D
+P
+Pt
+Grass
+33
+0%
+0%
+10%
+Snover
+D
+P
+Pt
+Grass
+32-35
+40%
+40%
+0%
+Snover
+D
+P
+Pt
+Grass
+32,34-35
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Blake
+ユウマ
+Yūma
+Reward:
+$
+2400
+Ambipom
+♂
+Lv.
+39
+No item
+Porygon2
+Lv.
+40
+No item
+Ace Trainer
+Maria
+マドカ
+Madoka
+Reward:
+$
+2280
+Golduck
+♀
+Lv.
+38
+No item
+Sudowoodo
+♀
+Lv.
+38
+No item
+Rapidash
+♀
+Lv.
+39
+No item
+Skier
+Edward
+タカヒコ
+Takahiko
+Reward:
+$
+1248
+Sneasel
+♂
+Lv.
+39
+No item
+Ace Trainer
+Laura
+ナオコ
+Naoko
+Reward:
+$
+2520
+Tropius
+♀
+Lv.
+42
+No item
+Ace Trainer
+Garrett
+ヒロユキ
+Hiroyuki
+Reward:
+$
+2340
+Mr. Mime
+♂
+Lv.
+37
+No item
+Dusclops
+♂
+Lv.
+39
+No item
+Scyther
+♂
+Lv.
+39
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+PP Up
+On the upper ledge south-west of the first bridge
+(hidden)
+Pt
+Full Heal
+At the western end of the middle ledge, west of the middle bridge
+Pt
+Revive
+South of the west bridge, west of Ace Trainer Maria
+Pt
+Route 216
+is the first area of the game where you can catch your own
+Ice-type
+Pokémon. While
+Diamond and Pearl
+only had two you could find in the wild, Platinum has four in the regional
+Pokédex
+, though you won't find
+Swinub
+until the next route. Just remember like walking through the mud, you can't use your bike (and sometimes not your Running Shoes) in the snow. Also the areas where you walk will determine how fast you can move.
+Hail
+will be in effect in all snow areas and will damage all non-Ice type Pokémon, though
+Magic Guard
+, which
+Clefairy
+can use, is one of the few options to avoid weather damage. The lone cabin in this route will have a bed for you to rest so it can serve as a place to fully heal your Pokémon team.
+Route 217
+Route 217
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sneasel
+D
+P
+Pt
+Grass
+33-35
+25%
+25%
+0%
+Sneasel
+D
+P
+Pt
+Grass
+34-35
+0%
+0%
+15%
+Swinub
+D
+P
+Pt
+Grass
+32-34
+35%
+Snorunt
+D
+P
+Pt
+Grass
+33
+0%
+0%
+20%
+Snover
+D
+P
+Pt
+Grass
+32-35
+40%
+40%
+0%
+Snover
+D
+P
+Pt
+Grass
+32,34-35
+0%
+0%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Dalton
+ミキト
+Mikito
+Reward:
+$
+2400
+Electabuzz
+♂
+Lv.
+40
+No item
+Magmar
+♂
+Lv.
+40
+No item
+Skier
+Shawn
+センタロウ
+Sentarō
+Reward:
+$
+1184
+Snover
+♂
+Lv.
+35
+No item
+Snover
+♂
+Lv.
+36
+No item
+Snover
+♂
+Lv.
+37
+No item
+Ninja Boy
+Matthew
+ツバサ
+Tsubasa
+Reward:
+$
+312
+Golbat
+♂
+Lv.
+39
+No item
+Skier
+Madison
+ヒヅキ
+Hizuki
+Reward:
+$
+1216
+Snorunt
+♀
+Lv.
+39
+No item
+Ninja Boy
+Ethan
+カズヒト
+Kazuhito
+Reward:
+$
+296
+Skorupi
+♂
+Lv.
+37
+No item
+Golbat
+♂
+Lv.
+37
+No item
+Skier
+Bjorn
+ノブオ
+Nobuo
+Reward:
+$
+1216
+Swinub
+♂
+Lv.
+36
+No item
+Sneasel
+♂
+Lv.
+38
+No item
+Skier
+Lexie
+ユウコ
+Yūko
+Reward:
+$
+1184
+Piloswine
+♀
+Lv.
+37
+No item
+Glaceon
+♂
+Lv.
+37
+No item
+Black Belt
+Luke
+トウシ
+Tōshi
+Reward:
+$
+888
+Croagunk
+♂
+Lv.
+37
+No item
+Machoke
+♂
+Lv.
+37
+No item
+Riolu
+♂
+Lv.
+37
+No item
+Ace Trainer
+Olivia
+シズル
+Shizuru
+Reward:
+$
+2280
+Kirlia
+♀
+Lv.
+38
+No item
+Buneary
+♀
+Lv.
+38
+No item
+Seaking
+♀
+Lv.
+39
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Revival Herb
+A few steps north of Ace Trainer Dalton
+(hidden)
+Pt
+Blue Shard
+South of Skier Madison
+Pt
+Nugget
+Northwest of Skier Madison
+(hidden)
+Pt
+Ultra Ball
+Next to Ninja Boy Matthew
+Pt
+Full Heal
+Near
+Skier
+Shawn
+(hidden)
+Pt
+Ultra Ball
+Above the southernmost pair of trees
+(hidden)
+Pt
+Iron
+West of the southernmost pair of trees
+Pt
+Iron
+South of Ninja Boy Ethan
+(hidden)
+Pt
+Protein
+3 steps southwest of
+TM07
+(
+Hail
+)
+(hidden)
+Pt
+TM07
+(
+Hail
+)
+In the snow just southeast of the Hiker's house
+Pt
+Max Repel
+East of the Hiker's house
+(hidden)
+Pt
+HM08
+(
+Rock Climb
+)
+Northeast of the Hiker's house
+Pt
+Icicle Plate
+Talk to the Hiker in the house after picking up HM08
+Pt
+Rare Candy
+South of Skier Bjorn
+Pt
+Max Potion
+Near skier Bjorn
+(hidden)
+Pt
+Max Revive
+Just north of skier Bjorn
+(hidden)
+Pt
+Spell Tag
+Given by woman in north house
+Pt
+Ultra Ball
+South of skier Lexie
+(hidden)
+Pt
+Route 217
+will be difficult to navigate due to both the slow movement and heavy blizzard besides having to deal with Hail conditions in battle. Also there are ninja themed trainers hiding in the snow so look for mounds in the snow to find and face them. Use your Dowsing Machine to find hidden items while you are at it. When you arrive you'll encounter the Gym Leader
+Maylene
+who is traveling to
+Snowpoint City
+not properly dressed as a form of exercise. Out of all the items you can find as you are exploring the route make sure to go to the first house in the middle of the route to find
+HM08
+(
+Rock Climb
+). You will still need the next Badge to use it outside of battle.
+If you enter the house after collecting the HM, the person inside who owned the HM lets you keep it and also gives you the
+Icicle Plate
+. Right by the house in the northeastern section of the Route is the
+Icy Rock
+where if you level up
+Eevee
+around it, it will evolve into a
+Glaceon
+.
+← Part 13
+Iron Island to Lake Valor
+Platinum
+walkthrough
+Acuity Lakefront to Veilstone City
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

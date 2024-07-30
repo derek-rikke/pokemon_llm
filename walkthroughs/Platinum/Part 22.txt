@@ -1,0 +1,1041 @@
+Part: Part 22
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_22
+Keywords: Trophy Garden, Pal Park, Fullmoon Island, Snowpoint Temple, Spear Pillar, Turnback Cave
+
+Walkthrough Text:
+Contents
+1
+Trophy Garden
+2
+Pal Park
+3
+Canalave City
+4
+Fullmoon Island
+5
+Snowpoint Temple
+5.1
+1F
+5.2
+B1F
+5.3
+B2F
+5.4
+B3F
+5.5
+B4F
+5.6
+BF5
+6
+Mt. Coronet (south)
+7
+Celestic Town
+8
+Spear Pillar
+9
+Turnback Cave
+9.1
+Available Pokémon
+9.1.1
+Before encountering a pillar
+9.1.2
+Between first and second pillars
+9.1.3
+Between second and third pillars
+9.1.4
+After the third pillar
+Trophy Garden
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pikachu
+D
+P
+Pt
+Grass
+22,24
+10%
+Pichu
+D
+P
+Pt
+Grass
+21-22
+30%
+Roselia
+D
+P
+Pt
+Grass
+22-23
+30%
+Staravia
+D
+P
+Pt
+Grass
+22,24
+20%
+0%
+0%
+Staravia
+D
+P
+Pt
+Grass
+22-24
+0%
+30%
+0%
+Staravia
+D
+P
+Pt
+Grass
+24
+0%
+0%
+10%
+Kricketune
+D
+P
+Pt
+Grass
+23
+10%
+0%
+0%
+Kricketune
+D
+P
+Pt
+Grass
+22-23
+0%
+0%
+20%
+Special Pokémon
+Clefairy
+D
+P
+Pt
+Backlot
+22
+5%
+Jigglypuff
+D
+P
+Pt
+Backlot
+22
+5%
+Meowth
+D
+P
+Pt
+Backlot
+22
+5%
+Chansey
+D
+P
+Pt
+Backlot
+22
+5%
+Ditto
+D
+P
+Pt
+Backlot
+22
+5%
+Eevee
+D
+P
+Pt
+Backlot
+22
+5%
+Cleffa
+D
+P
+Pt
+Backlot
+22
+5%
+Igglybuff
+D
+P
+Pt
+Backlot
+22
+5%
+Marill
+D
+P
+Pt
+Backlot
+22
+5%
+Azurill
+D
+P
+Pt
+Backlot
+22
+5%
+Plusle
+D
+P
+Pt
+Backlot
+22
+5%
+Minun
+D
+P
+Pt
+Backlot
+22
+5%
+Castform
+D
+P
+Pt
+Backlot
+22
+5%
+Bonsly
+D
+P
+Pt
+Backlot
+22
+5%
+Mime Jr.
+D
+P
+Pt
+Backlot
+22
+5%
+Happiny
+D
+P
+Pt
+Backlot
+22
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+There are many Pokémon that can be found here without any interaction with the
+Trophy Garden
+'s owner,
+Mr. Backlot
+. All of these Pokémon are in the
+Sinnoh Pokédex
+, and many can be found in other areas. After you have gotten the
+National Pokédex
+upgrade, however, you can talk to
+Mr. Backlot
+and he will mention a particular rare Pokémon in his garden. That Pokémon will be placed in the Trophy Garden by Backlot's butler to cover up for his fibs. The butler can place a different one there daily. The last two Pokémon placed in the garden at any given time will remain available until more Pokémon are placed in the garden.
+Pal Park
+Fly to Pal Park. Now you're free to go inside! You'll meet Professor Oak who will explain that Pal Park can be used to import Pokémon from
+Hoenn
+and
+Kanto
+. He gives you the
+Trainer Counter
+app for your Pokétch and then leaves for
+Eterna City
+. You can import Pokémon from Pokémon
+Ruby, Sapphire
+,
+Emerald
+,
+FireRed, and LeafGreen Versions
+, by inserting the GBA cartridge into the front slot of your
+Nintendo DS
+or
+DS Lite
+and selecting "Migrate" from the opening menu.
+You can get the
+Kitchen Timer
+app from a girl in
+Pal Park
+'s lobby after showing a
+Snorlax
+to her and the
+Color Changer
+app after receiving the Kitchen Timer and showing a
+Kecleon
+to her.
+You will need to import
+Regirock
+,
+Regice
+, and
+Registeel
+in order to catch
+Regigigas
+in the
+Snowpoint Temple
+, unless you have an
+event Regigigas
+.
+Canalave City
+Your next destination is
+Canalave City
+. Enter Sailor
+Eldritch
+'s house in the southwestern area of town. You'll see that his son is trapped in a nightmare. Talk to his mother and you'll learn that you need to find an item called the
+Lunar Wing
+on
+Fullmoon Island
+to save him. Talk to Sailor Eldritch and he will take you to Fullmoon Island.
+Fullmoon Island
+Fullmoon Island
+Cresselia
+Items
+Item
+Location
+Games
+Lunar Wing
+In clearing, once Cresselia has fled
+Pt
+Follow the path and head into the forest clearing where
+Cresselia
+is. When you interact with her, she will flee, but she leaves the Lunar Wing behind. Return to Eldritch and have him take you back to Canalave City, then return to the house and use the Lunar Wing to heal his son. As for Cresselia, she's similar to
+Mesprit
+,
+Zapdos
+,
+Articuno
+, and
+Moltres
+— she is
+roaming
+around the Sinnoh region so you need to use the Marking Map to track her.
+Snowpoint Temple
+Outside the Snowpoint Temple
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golbat
+D
+P
+Pt
+Cave
+47-50
+80%
+Sneasel
+D
+P
+Pt
+Cave
+49
+10%
+Smoochum
+D
+P
+Pt
+Cave
+47,49
+10%
+B1F
+Golbat
+D
+P
+Pt
+Cave
+47-50
+80%
+Jynx
+D
+P
+Pt
+Cave
+47,49
+10%
+Sneasel
+D
+P
+Pt
+Cave
+49
+10%
+B2F-B3F
+Golbat
+D
+P
+Pt
+Cave
+47-50
+80%
+Jynx
+D
+P
+Pt
+Cave
+48,50
+10%
+Sneasel
+D
+P
+Pt
+Cave
+50
+10%
+B4F-B5F
+Golbat
+D
+P
+Pt
+Cave
+47-50
+80%
+Jynx
+D
+P
+Pt
+Cave
+49,51
+10%
+Sneasel
+D
+P
+Pt
+Cave
+51
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Calcium
+B1F
+Pt
+Full Restore
+B3F, in second stone from top of ice
+(hidden)
+Pt
+Full Heal
+B4F, (Requires
+Strength
+)
+Pt
+You will need
+Regirock
+,
+Regice
+, and
+Registeel
+in your party for this mission if you want to battle and catch
+Regigigas
+. Your only option is to migrate them from
+Ruby, Sapphire
+, and
+Emerald
+through
+Pal Park
+or, with the aid of a Regigigas received from a special
+event
+,
+catch them
+before returning here. If you're planning to catch Regigigas, you will want a Pokémon with
+False Swipe
+and plenty of
+Nest Balls
+.
+When you approach the temple, the guard states that you are not qualified to enter, but
+Candice
+appears and says that you are.
+1F
+Snowpoint Temple 1F
+Travel down the stairs to B1F.
+B1F
+Snowpoint Temple B1F
+Carefully slide down the ice and reach the stairs to B2F.
+B2F
+Snowpoint Temple B2F
+Rock Smash
+can help here, although you do not actually need it to get through. After following the path, take the stairs to B3F.
+B3F
+Snowpoint Temple B3F
+Sliding on the ice is a bit tricky. First, slide until you got to the part where there is no ice. Next slide ←, ↑, →, then ↑ to reach the stairs. You can now go to B4F.
+B4F
+Snowpoint Temple B4F
+While there is nothing to worry about you can use
+Strength
+and move the boulder ↑, →, → to be able to reach the item. When ready use the stairs to descend to BF5, the final floor.
+BF5
+Snowpoint Temple B5F
+While this new sliding puzzle looks difficult, it can be easy with the right steps. From the tile next to the first rock nearest your entry point travel ↓ to reach the unfrozen tile southwest of Regigigas. Now very carefully slide in this order: ↓, →, ↑, ←, ↓, →, ↑ to reach Regigigas. If you have the three Regis in your party, Regigigas will awaken and face you when you interact with it.
+Save the game
+before interacting with it.
+Type:
+Normal
+Unknown
+Ability:
+Slow Start
+Held item:
+None
+Regigigas
+Lv.
+1
+Dizzy Punch
+Normal
+Physical
+--
+Knock Off
+Dark
+Physical
+--
+Confuse Ray
+Ghost
+Status
+--
+Foresight
+Normal
+Status
+--
+It may come as a bit of a shock that Regigigas is only Level 1! Use False Swipe to reduce its HP bar to the red zone and then throw
+Dusk Balls
+or
+Nest Balls
+until you catch it. Hopefully, it won't be too much trouble.
+Once it's captured, exit the temple and
+Fly
+to
+Celestic Town
+.
+Mt. Coronet (south)
+Tunnel
+Before heading out, make sure that you have Pokémon with the HMs
+Surf
+,
+Waterfall
+,
+Strength
+,
+Rock Smash
+, and
+Rock Climb
+.
+Backtrack your way to the area where you were first outside in the summit earlier.
+(See
+this section
+for a refresher on how to get there.)
+Then, use the eastern entrance to the part of Mt. Coronet 4F below the waterfall. Climb the waterfall and go inside the cave to find the
+Adamant Orb
+and the
+Lustrous Orb
+(as well as the hidden
+Stone Plate
+). You will need both Orbs to catch
+Dialga
+and
+Palkia
+.
+If you return to the tunnel, since
+Team Galactic
+is gone now, you can go through the door that was previously inaccessible. That will take you to Mt. Coronet's north area, where you can find
+TM02
+(
+Dragon Claw
+) (as well as the hidden
+Nugget
+on the rock just north of it).
+Celestic Town
+In order to battle
+Dialga
+and
+Palkia
+, you must first talk to
+Cynthia's grandmother
+. If you got the
+Adamant Orb
+or
+Lustrous Orb
+at
+Mt. Coronet
+earlier after beating the
+Sunyshore Gym
+, Cynthia's grandmother will explain their connection to
+Dialga
+and
+Palkia
+. Now, they will appear when you return to
+Spear Pillar
+.
+Fly to
+Oreburgh City
+and go north from there to Mt. Coronet's entrance. You'll need the HMs
+Surf
+,
+Strength
+,
+Rock Smash
+, and
+Rock Climb
+, as well as several
+Timer Balls
+,
+Net Balls
+, or
+Dusk Balls
+. It's time to head back to Spear Pillar!
+(See
+this section
+if you need a refresher on how to get there.)
+Spear Pillar
+Here, you'll see a blue dimensional rift which is another dimension where Dialga is.
+Save your game
+, then interact with it to challenge Dialga. After that, step back inside Mt. Coronet and quickly return. This time, a purple-colored rift will appear: Palkia.
+Types:
+Steel
+Dragon
+Ability:
+Pressure
+Held item:
+None
+Dialga
+Lv.
+70
+Roar of Time
+Dragon
+Special
+--
+Heal Block
+Psychic
+Status
+--
+Earth Power
+Ground
+Special
+--
+Slash
+Normal
+Physical
+--
+Types:
+Water
+Dragon
+Ability:
+Pressure
+Held item:
+None
+Palkia
+Lv.
+70
+Spacial Rend
+Dragon
+Special
+--
+Heal Block
+Psychic
+Status
+--
+Earth Power
+Ground
+Special
+--
+Slash
+Normal
+Physical
+--
+When you face them, be careful as they are at Lv. 70. Make sure your team is at least Lv. 65 or higher. Weaken them with
+normally-effective
+moves and inflict either
+paralysis
+or
+sleep
+. They have
+Earth Power
+to counter
+Steel-types
+that could withstand their other moves, but certain Steel-types like
+Skarmory
+or
+Bronzong
+still work for the resistance tactic as their additional types (or
+ability
+) prevent supereffective damage. Additionally,
+Shedinja
+is immune to all their moves.
+Net Balls will make it easier to catch Palkia, as it is part Water-type. When playing at
+night
+,
+Dusk Balls
+will work great on both Legendaries.
+Turnback Cave
+Turnback Cave Entrance
+Pillar Room
+It's time to return to
+Turnback Cave
+and the
+Distortion World
+to catch
+Giratina
+if you didn't already. If you didn't catch Giratina yet, you'll want to take about 40
+Dusk Balls
+with you. Either way, there is an important item to pick up. Return to
+Route 214
+and head through
+Spring Path
+, which will take you back to Sendoff Spring. Enter
+Turnback Cave
+at the north side of the lake.
+Use
+Defog
+to remove the
+fog
+. Read the pillar that says
+"...Past three pillars...to the sleeping... ...before 30 is surpassed..."
+. It means that to access the room with a portal to the
+Distortion World
+, you must find 3 rooms with a pillar before going through 30 rooms. This cave is highly unusual in that the layout of rooms is randomized each time you visit. Inside the maze, for a hint on which doorway to take, study the
+breakable rocks
+and go through the doorway that the odd pattern points to. The further you go, the stronger the wild Pokémon will be.
+Available Pokémon
+Before encountering a pillar
+Random rooms before encountering a pillar
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+17-18
+25%
+Gastly
+D
+P
+Pt
+Cave
+15-17
+40%
+40%
+0%
+Gastly
+D
+P
+Pt
+Cave
+15,17
+0%
+0%
+30%
+Duskull
+D
+P
+Pt
+Cave
+18
+5%
+Dusclops
+D
+P
+Pt
+Cave
+16
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+16,18
+10%
+Bronzor
+D
+P
+Pt
+Cave
+15
+20%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+18
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+18
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Between first and second pillars
+Random rooms between first and second pillars
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+27-28
+25%
+Haunter
+D
+P
+Pt
+Cave
+25-27
+40%
+40%
+0%
+Haunter
+D
+P
+Pt
+Cave
+25,27
+0%
+0%
+30%
+Duskull
+D
+P
+Pt
+Cave
+28
+4%
+Dusclops
+D
+P
+Pt
+Cave
+28
+1%
+1%
+0%
+Dusclops
+D
+P
+Pt
+Cave
+26,28
+0%
+0%
+11%
+Chimecho
+D
+P
+Pt
+Cave
+28
+1%
+Chingling
+D
+P
+Pt
+Cave
+26,28
+9%
+Bronzor
+D
+P
+Pt
+Cave
+25
+20%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+28
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+28
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Between second and third pillars
+Random rooms between second and third pillars
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+37-38
+25%
+Haunter
+D
+P
+Pt
+Cave
+35-37
+40%
+40%
+0%
+Haunter
+D
+P
+Pt
+Cave
+35,37
+0%
+0%
+30%
+Dusclops
+D
+P
+Pt
+Cave
+38
+5%
+5%
+0%
+Dusclops
+D
+P
+Pt
+Cave
+36,38
+0%
+0%
+15%
+Chimecho
+D
+P
+Pt
+Cave
+36,38
+10%
+Bronzong
+D
+P
+Pt
+Cave
+35
+20%
+Special Pokémon
+Lunatone
+D
+P
+Pt
+Dual-slot
+Sapphire
+38
+8%
+Solrock
+D
+P
+Pt
+Dual-slot
+Ruby
+38
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+There is a room between the second and third pillars where the rocks partly block off the left and right doors in which no Pokémon will be encountered.
+After the third pillar
+Final room with Giratina and the Distortion World portal
+Items
+Item
+Location
+Games
+Reaper Cloth
+Every time the player reaches the last room by passing through only 3 rooms.
+Pt
+Rare Bone
+Every time the player reaches the last room by passing through 4-15 rooms.
+Pt
+Stardust
+Every time the player reaches the last room by passing through 16-30 rooms.
+Pt
+Another chance at catching Giratina
+Once you've gotten past the three pillars and got whichever item was waiting for you, you'll find the room with the portal to the Distortion World. If you failed to catch
+Giratina
+last time, you'll find it guarding the portal. This time, it's in
+Altered Forme
+.
+Types:
+Ghost
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Giratina
+Lv.
+47
+Ominous Wind
+Ghost
+Special
+--
+AncientPower
+Rock
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Shadow Force
+Ghost
+Physical
+--
+One slight advantage if you decided to KO Giratina in the Distortion World earlier is that in Altered Forme, it prioritizes defenses over offense, so its attacks are not as strong. Its moveset is still the same, though.
+Save before facing it
+; otherwise you'll have to defeat the Elite Four again to get another chance to catch it. If it does come to that, rechallenge the Elite Four before completing the mission at
+Stark Mountain
+. Otherwise, their teams' levels are increased, making it harder to defeat them.
+In this battle, use the same tactics as you did when facing
+Azelf
+and
+Uxie
+and you'll be fine.
+When ready, use the portal to return to the Distortion World.
+← Part 21
+Twinleaf Town, Sandgem Town, Eterna City, Great Marsh
+Platinum
+walkthrough
+Distortion World, Victory Road, Route 224
+Part 23 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

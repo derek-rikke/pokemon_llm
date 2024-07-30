@@ -1,0 +1,42 @@
+Game: Red_and_Blue
+Part: 5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+**Pokémon Red and Blue Walkthrough: Part 5**
+
+**Cerulean City Overview**
+- **Location:** Between Route 4, Route 24, Route 9, and Route 5.
+- **Trade:** Old man near Pokémon Center trades his Jynx for your Poliwhirl.
+
+**Key Items:**
+- **Rare Candy:** Hidden in northwest house backyard.
+- **TM11 (BubbleBeam):** Defeat Misty in Cerulean Gym.
+- **TM28 (Dig):** Defeat Team Rocket Grunt near the gym.
+- **Bicycle:** Available for 1,000,000 coins (not feasible to buy).
+
+**Cerulean Gym:**
+- **Leader:** Misty (Water-type).
+- **Strategy:** Use Electric (Pikachu) or Grass-type moves (Oddish/Bellsprout). 
+- **Misty’s Pokémon:**
+  - Staryu (Lv. 18)
+  - Starmie (Lv. 21)
+- **Reward:** Cascade Badge (ensures obedience up to level 30) and TM11 (BubbleBeam).
+
+**Rival Battle 3:**
+- **Location:** Route 24.
+- **Strategy:** Use Electric or Rock-type moves against Blue’s Pidgeotto. Take advantage of Abra's weak moves for experience.
+
+**Route 24:**
+- **Nugget Bridge:** Defeat five trainers to receive a Nugget from a Team Rocket Grunt who will challenge you afterward.
+
+**Route 25:**
+- **Bill's House:** Help Bill restore his DNA (interact with his PC) to receive the S.S. Ticket.
+
+**Return to Cerulean City:**
+- **Investigate Burglary:** Police officer now allows entry into the burglarized house. Confront the Rocket Grunt to retrieve TM28 (Dig).
+
+**Route 5:**
+- **Pokémon Day Care:** Raises one Pokémon at a time (costs $100 plus $100 per level).
+- **Underground Path:** Leads to Route 6; contains hidden items (Full Restore, X Special) and trade opportunities for Nidoran♀ and Nidoran♂.
+
+**Next Steps:** Proceed to Route 6, Vermilion City, and S.S. Anne.

@@ -1,0 +1,83 @@
+Game: Gold_and_Silver
+Part: 18
+Keywords: Route 8, Lavender Town, Route 10, Rock Tunnel, Route 9, Power Plant
+
+**Pokémon Gold and Silver Walkthrough - Part 18**
+
+**Route 8**  
+Connects Saffron City (west) and Lavender Town (east). The Underground Path is closed.
+
+**Trainers Encountered:**  
+- **Biker Dwayne:** 4 Koffing (Lv. 27-30, $960)  
+- **Biker Harris:** Flareon (Lv. 34, $1088)  
+- **Biker Zeke:** 2 Koffing (Lv. 32, $1024)  
+- **Super Nerd Sam:** Grimer (Lv. 34), Muk (Lv. 34 ($1088)  
+- **Super Nerd Tom:** 3 Magnemite (Lv. 32, $1024)  
+
+**Available Pokémon:**  
+- Grass encounters include Pidgeotto, Vulpix, Meowth, Growlithe, Abra, and Kadabra.
+
+**Items:**  
+- **PRZCureBerry:** Northwest of Lavender Town exit (daily).
+
+---
+
+**Lavender Town**  
+Known for Pokémon Tower and the Kanto Radio Tower. Key locations:
+
+- **Kanto Radio Tower:** Restricted to the first floor. Programs available with an EXPN Card.
+- **Soul House:** Caretaker Mr. Fuji looks after departed Pokémon.
+- **Lavender Volunteer Pokémon House:** Founded by Mr. Fuji for orphaned Pokémon.
+- **Name Rater:** Change Pokémon nicknames for free.
+
+---
+
+**Route 10 (South)**  
+Connects Lavender Town to Route 9. Pass through Rock Tunnel.
+
+**Trainers Encountered:**  
+- **Pokéfan Robert:** Quagsire (Lv. 33, $2640)  
+- **Hiker Jim:** Machamp (Lv. 35, $1120)  
+
+**Rock Tunnel:**  
+- Use **Flash** to navigate (recommended). 
+
+**Available Pokémon:**  
+- 1F: Zubat, Machop, Geodude, Cubone.  
+- B1F: Geodude, Cubone, Onix.
+
+**Items in Rock Tunnel:**  
+- **TM47 (Steel Wing):** South, on ridge.  
+- **Elixir:** Dead-end path, southwest.  
+- **Max Potion:** Northwest dead-end.  
+
+---
+
+**Route 9**  
+Links Route 10 to Cerulean City.
+
+**Trainers Encountered:**  
+- **Picnicker Edna:** Nidorina (Lv. 30), Raichu (Lv. 34, $680)  
+- **Hiker Tim:** 3 Graveler (Lv. 31, $992)  
+
+**Available Pokémon:**  
+- Grass encounters include Rattata, Raticate, Spearow, Mankey.
+
+**Items:**  
+- **Ether:** Northwest, hidden in trees.
+
+---
+
+**Route 10 (North)**  
+Visit the Kanto Power Plant.
+
+**Available Pokémon:**  
+- Raticate, Electabuzz, Voltorb.
+
+**Kanto Power Plant:**  
+- Speak to the manager to learn about a stolen Machine Part.
+
+**Next Steps:**  
+- Investigate Cerulean City for the thief.
+
+This concise walkthrough covers key routes, trainers, Pokémon encounters, and items essential for progressing through the game.

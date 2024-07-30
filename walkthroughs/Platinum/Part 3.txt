@@ -1,0 +1,1135 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_3
+Keywords: Oreburgh Gym, Jubilife City, Route 204 (south), Ravaged Path, Route 204 (north), Floaroma Town, Floaroma Meadow
+
+Walkthrough Text:
+Contents
+1
+Oreburgh Gym
+2
+Oreburgh Gate (optional)
+3
+Jubilife City
+3.1
+Jubilife TV
+3.2
+Global Trade Station
+4
+Route 204 (south)
+5
+Ravaged Path
+6
+Route 204 (north)
+7
+Floaroma Town
+8
+Floaroma Meadow
+Oreburgh Gym
+Interior of Oreburgh Gym.
+This Gym, as you have probably figured out, specializes in
+Rock-type
+Pokémon. The toughest Pokémon you'll face is Level 14, so be prepared. Rock-type moves are
+supereffective
+against
+Bug
+-,
+Flying
+-,
+Ice
+-, and
+Fire
+-types, so obviously you don't want to use Pokémon of those types in this battle. Also, you will want Pokémon with
+Water
+-,
+Grass
+-,
+Fighting
+-, and/or
+Ground
+-type attacks. You should bring a few
+Potions
+to this battle, just in case.
+After retrieving
+Roark
+from the mine, you may enter the Gym and battle the two Trainers, or you can take the first set of stairs, go across the bridge and walk up the second set of stairs to avoid battling. Then, you may challenge Gym Leader Roark.
+Oreburgh Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Jonathon
+Reward:
+$
+176
+Geodude
+♂
+Lv.
+11
+No item
+Youngster
+Darius
+Reward:
+$
+144
+Geodude
+♂
+Lv.
+9
+No item
+Onix
+♂
+Lv.
+9
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Leader
+Roark
+Oreburgh Gym
+Platinum
+Reward:
+$
+1680
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Geodude
+♂
+Lv.
+12
+Rock Throw
+Rock
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Onix
+♂
+Lv.
+12
+Rock Throw
+Rock
+Physical
+--
+Screech
+Normal
+Status
+--
+Stealth Rock
+Rock
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Rock
+Unknown
+Ability:
+Mold Breaker
+Held item:
+None
+Cranidos
+♂
+Lv.
+14
+Headbutt
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Roark's first two Pokémon shouldn't be too much trouble. The
+Geodude
+knows
+Rock Throw
+and
+Stealth Rock
+, and its best stat is
+Defense
+. Stealth Rock will damage any Pokémon you switch into battle (Most Pokémon will lose 1/8 of their
+HP
+if hit. It will damage more if the Pokémon is weak to Rock-type moves, and less if it is resistant.). Rock Throw is just an attack, which is thankfully somewhat inaccurate. A good Grass- or Water-type attack will likely take Geodude out in one hit. Roark's
+Onix
+may be a bit more challenging, mostly because it has more Defense and
+Speed
+, and can use
+Screech
+to lower your Pokémon's Defense in addition to Rock Throw and Stealth Rock. If you get hit with Screech, you may want to switch before Roark sends out
+Cranidos
+. Cranidos is rather fast for this point of the game, and has a scary amount of
+Attack
+that will do massive damage with
+Headbutt
+or
+Pursuit
+, particularly if Onix used Screech or if Cranidos previously used
+Leer
+against you. Try switching in a Pokémon with
+Intimidate
+like
+Shinx
+to lower Cranidos's threat, but beware of Stealth Rock. It doesn't have the best defenses though, so one Water, Grass, or Fighting-type attack should send it out for the count.
+After being defeated, Roark will give you the
+Coal Badge
+and
+TM76
+(
+Stealth Rock
+). The Badge will give you the ability to use
+Rock Smash
+outside of battle.
+Your business in Oreburgh is done for now. Next, you'll be returning to
+Jubilife City
+so you can travel north to
+Floaroma Town
+.
+Oreburgh Gate (optional)
+Now that you can use
+Rock Smash
+, you can pick up some items in
+Oreburgh Gate
+that were inaccessible before.
+Items
+Item
+Location
+Games
+Big Pearl
+B1F; atop a ledge north of the ramp closest to the entrance (requires
+Rock Smash
+)
+Pt
+TM70
+(
+Flash
+)
+B1F; on the right side of the floor (requires
+Rock Smash
+)
+Pt
+Jubilife City
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+(w. Galactic Grunt)
+Reward:
+$
+880
+Stunky
+♂
+Lv.
+11
+No item
+Galactic Grunt
+(w. Galactic Grunt)
+Reward:
+$
+880
+Glameow
+♀
+Lv.
+11
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Fashion Case
+Obtained from a Jubilife TV employee after defeating two
+Galactic Grunts
+Pt
+Memo Pad
+Obtained from the
+Pokétch Company
+president after obtaining the
+Coal Badge
+Pt
+Marking Map
+Obtained from the
+Pokétch Company
+president after obtaining the
+Cobble Badge
+Pt
+Link Searcher
+Obtained from the
+Pokétch Company
+president after obtaining the
+Relic Badge
+Pt
+Move Tester
+Obtained from the
+Pokétch Company
+president after obtaining the
+Icicle Badge
+Pt
+After you enter
+Jubilife City
+and encounter
+Looker
+, who talks about the
+Pal Pad
+, head to the North exit and you'll see
+Professor Rowan
+and
+Lucas
+/
+Dawn
+being confronted by two male
+Galactic Grunts
+who are demanding to know something from his research. After threatening to get violent you'll team up with Lucas/Dawn in a tag battle to deal with these grunts.
+If the
+player
+chose
+Turtwig
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+13
+Bubble
+Water
+Special
+--
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+13
+Bubble
+Water
+Special
+--
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Chimchar
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+13
+Absorb
+Grass
+Special
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+13
+Absorb
+Grass
+Special
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+13
+Ember
+Fire
+Special
+--
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Jubilife City
+Platinum
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+13
+Ember
+Fire
+Special
+--
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterwards, you'll learn it has to do with the Professor's study on Pokémon evolution and the energy the Pokémon releases when it evolves. Although the Professor believes it's something beyond their control, Team Galactic seems interested in trying to harness its power. After they leave, a person from Jubilife TV will come and give you the
+Fashion Case
+as a reward for this amazing performance and tells you that the TV station is now open to visitors. Additionally, the Global Trade Station will also be open.
+Jubilife TV
+The
+Pokémon Lottery Corner
+is located on the ground floor of the
+Jubilife TV
+building, where it is conducted by a receptionist named
+Felicity
+. The winning ID number changes daily, and the game looks for matches by examining the IDs of all Pokémon in the player's party and in all PC boxes (but not Pokémon in the
+Day Care
+). You may check for matches multiple times in one day; however, after winning a prize, you may not participate again for the rest of the day.
+Item
+Location
+Games
+Ultra Ball
+Trainer ID matched last digit
+Pt
+PP Up
+Trainer ID matched last two digits
+Pt
+Exp. Share
+Trainer ID matched last three digits
+Pt
+Max Revive
+Trainer ID matched last four digits
+Pt
+Master Ball
+Trainer ID matched perfectly
+Pt
+On the second floor, Trainers can dress up their Pokémon using their
+Accessories
+. The saved photo of a dressed-up Pokémon is displayed in the gallery just outside the Fitting Room, along with up to ten photos from Trainers that the player has
+mixed records
+with. After dressing up a Pokémon and taking a photo, an
+Interviewer
+will appear outside of the entrance to the gallery to ask the player about the photo. In the main area, a man will give the player the mask of their
+first partner Pokémon
+.
+Item
+Location
+Games
+Turtwig Mask
+Accessory
+; if the player started with
+Turtwig
+Pt
+Chimchar Mask
+Accessory
+; if the player started with
+Chimchar
+Pt
+Piplup Mask
+Accessory
+; if the player started with
+Piplup
+Pt
+On the third floor there are two rooms off-shooting from the main room: the Group Ranking Room and the Global Ranking Room, which detail rankings from players in the player's
+group
+and all players, respectively. There are three machines in each room, each detailing different concepts to be ranked in. A man in the yellow-carpeted area is a TV producer who asks the player for their opinion on TV. By answering EVERYONE HAPPY for the first question and Wi-Fi CONNECTION for the second question, the player can unlock
+Mystery Gift
+. Additionally, certain phrases that vary based on game version, language, and
+Trainer ID number
+can be told to the TV producer to unlock eight special wallpapers. The passwords can be retrieved from the Daisuki Club website or
+Pokéwiki.de's secret phrase generator
+.
+Several people are on the fourth floor, but there is nothing of interest here.
+Global Trade Station
+The Global Trade Station (GTS for short) is the worldwide network over which you can trade Pokémon via the Nintendo Wi-Fi Connection. Now that you have Coal Badge, the GTS is also open. There is a large globe called the Geonet, which you can indicate their location, and on which small dots representing players you have traded with will appear. When you first logs on to Geonet, you will be asked where you live in. Talk to the woman at the counter. She will direct you into a room in which you can either put up a Pokémon to be traded or trade a Pokémon you own for one that has been put up.
+Pokémon searches, after being confined to one species that has been seen by the player, can be further narrowed down to level, gender and the country where the person is trading it from is. By level, players can search for and request Pokémon Lv.9 or below, Lv.10 or above, Lv.20 or above and so on until Lv.100, or they can search for Pokémon of any level. Gender is similar, with the player being able to search for male, female or either gender of the selected Pokémon; searching for genderless species automatically sets the gender to 'either'.
+Pokémon offerings are similarly governed, as the requested Pokémon in return cannot be any Pokémon that the player has not seen. Pokémon that are offered cannot be bargained, as the player has to choose one Pokémon he or she wants for it, instead of having a more flexible list. Like normal trades, a Pokémon can also hold an item when being offered or traded. Pokémon that evolve after a trade will do so in the same manner they would after a normal trade. The GTS also allows individuals to trade between two different games without having two Nintendo DS systems. It is recommended to check up on a deposited Pokémon every so often, as the Pokémon may flee if it is kept in the GTS for an extended period of time.
+Afterwards you can travel to the
+Pokétch Company
+and get an upgrade for your Pokétch from the company president. You can get three more upgrades later in the game when you get three, five, and seven Badges. Anyway, head through the north exit to
+Route 204
+. You may want to heal up at the Pokémon Center first, as there are a lot of Trainers.
+Route 204 (south)
+Route 204
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+3
+0%
+0%
+10%
+Wurmple
+D
+P
+Pt
+Grass
+4
+10%
+10%
+0%
+Starly
+D
+P
+Pt
+Grass
+4-6
+25%
+Bidoof
+D
+P
+Pt
+Grass
+4-6
+25%
+Kricketot
+D
+P
+Pt
+Grass
+3
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+4
+0%
+0%
+10%
+Shinx
+D
+P
+Pt
+Grass
+4-5
+15%
+Budew
+D
+P
+Pt
+Grass
+3-5
+0%
+25%
+0%
+Budew
+D
+P
+Pt
+Grass
+4-5
+15%
+0%
+15%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Parlyz Heal
+To the right of the fence on the right
+Pt
+Trainers
+Trainer
+Pokémon
+Lass
+Sarah
+ナオ
+Nao
+Reward:
+$
+112
+Shinx
+♀
+Lv.
+7
+No item
+Youngster
+Tyler
+テルキ
+Teruki
+Reward:
+$
+80
+Magikarp
+♂
+Lv.
+8
+No item
+Lass
+Samantha
+メイ
+May
+Reward:
+$
+112
+Budew
+♀
+Lv.
+7
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+From the entrance of
+Route 204
+, walk north, battling the Youngster and the two Lasses, until you reach a small cave, the
+Ravaged Path
+.
+Ravaged Path
+Ravaged Path
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Cave
+3-6
+65%
+Psyduck
+D
+P
+Pt
+Cave
+4-6
+35%
+Fishing and Surfing
+Zubat
+D
+P
+Pt
+Surfing
+20-30
+30%
+Golbat
+D
+P
+Pt
+Surfing
+20-40
+5%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+To the right of the top of the stairs
+Pt
+TM39
+(
+Rock Tomb
+)
+Amongst the rocks left of the stairs (requires
+Rock Smash
+)
+Pt
+Enter the
+Ravaged Path
+.
+TM39
+(
+Rock Tomb
+) is a short distance behind the
+breakable rock
+to your north. The exit of this cave is just on the other side of the rocks to the right of the stairs. Once out, you arrive on the upper part of the Route 204.
+Route 204 (north)
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+8
+0%
+0%
+10%
+Wurmple
+D
+P
+Pt
+Grass
+9
+10%
+10%
+0%
+Starly
+D
+P
+Pt
+Grass
+9-11
+25%
+Bidoof
+D
+P
+Pt
+Grass
+9-11
+25%
+Kricketot
+D
+P
+Pt
+Grass
+8
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+9
+0%
+0%
+10%
+Shinx
+D
+P
+Pt
+Grass
+9-10
+15%
+Budew
+D
+P
+Pt
+Grass
+8-10
+15%
+25%
+15%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Awakening
+Just above Ravaged Path's exit
+Pt
+TM09
+(
+Bullet Seed
+)
+Left of the entrance to Floaroma Town
+Pt
+Trainers
+Trainer
+Pokémon
+Aroma Lady
+Taylor
+カオリ
+Kaori
+Reward:
+$
+352
+Budew
+♀
+Lv.
+9
+No item
+Cherubi
+♀
+Lv.
+11
+No item
+Bug Catcher
+Brandon
+ダイスケ
+Daisuke
+Reward:
+$
+176
+Wurmple
+♂
+Lv.
+10
+No item
+Kricketot
+♂
+Lv.
+11
+No item
+Twins
+Liv & Liz
+サラとサリ
+Sara and Sari
+Reward:
+$
+352
+Pachirisu
+♀
+Lv.
+11
+No item
+Pachirisu
+♀
+Lv.
+11
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Upon entering the short, flower-filled route, turn left and take the flight of stairs. As you walk along the route, pick up an
+Awakening
+and
+TM09
+(
+Bullet Seed
+). Walk through the grass patch and battle the Bug Catcher and the Twins. To battle the Twins, you must have two usable Pokémon. At the end of the route, you'll arrive in
+Floaroma Town
+.
+Floaroma Town
+Floaroma Town
+Items
+Item
+Location
+Games
+Oran Berry
+Outside the flower shop
+Pt
+Cheri Berry
+Outside the flower shop
+Pt
+TM88
+(
+Pluck
+)
+From a girl in the north-western house
+Pt
+Berry
+From a woman inside the flower shop (Gives a random
+Berry
+daily)
+Pt
+Sprayduck
+From a woman inside the flower shop
+Pt
+Once you arrive in
+Floaroma Town
+, you may want to visit the
+Pick a Peck of Colors Flower Shop
+. In the flower shop, a woman will give you the
+Sprayduck
+watering can, and you can receive a
+Berry
+for free
+every day
+. If you have the
+Event Pokémon
+Shaymin
+in your party, you can show it to the young woman near the entrance to receive the
+Gracidea
+flower. Since this is the first area in which you can encounter wild Berries, you can collect and then replant some. The Sprayduck can help you collect more Berries if you water the plants correctly within their growth cycle. Tell the girl in the north-western house that you like berries and she'll hand over
+TM88
+(
+Pluck
+).
+After this, exit Floaroma Town to the east and continue walking to
+Route 205
+. Near the bridge, a young girl comes up to you and asks you to rescue her papa from the
+Valley Windworks
+. In order to get inside the Windworks, you need to pick up the key from Floaroma Meadow and defeat the grunt guarding the door. You can do these two tasks in either order after talking to the girl.
+Floaroma Meadow
+As you enter
+Floaroma Meadow
+, you notice that two Galactic Grunts appear to be fighting with an old man.
+Items
+Item
+Location
+Games
+Honey
+×10
+From the Honey Man
+Pt
+Works Key
+From the Honey Man
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+520
+Stunky
+♂
+Lv.
+13
+No item
+Galactic Grunt
+Reward:
+$
+440
+Zubat
+♂
+Lv.
+11
+No item
+Zubat
+♂
+Lv.
+11
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+The two grunts will disappear, leaving behind their
+Valley Windworks key
+. The man they were trying to rob thanks you, then gives you ten units of
+Honey
+as a gift. Now that you have the Works Key, return to the Windworks and open the door.
+← Part 2
+Route 202 to Oreburgh Mine
+Platinum
+walkthrough
+Valley Windworks to Eterna Gym
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,894 @@
+Part: Part 22
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_22
+Keywords: Route 15, Route 14, Route 13, Route 12
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 15
+2
+Route 14
+2.1
+Time for a Trade
+3
+Route 13
+4
+Route 12
+4.1
+Fishing Guru 3
+Route 15
+Route 15
+Route 15
+is a hilly path that leads east from
+Fuchsia City
+to
+Route 14
+.
+Trainers
+Trainer
+Pokémon
+Southern path
+Schoolboy
+Kipp
+Reward:
+$
+992
+Voltorb
+Lv.
+27
+No item
+Magnemite
+Lv.
+27
+No item
+Voltorb
+Lv.
+31
+No item
+Magneton
+Lv.
+31
+No item
+Schoolboy
+Tommy
+Reward:
+$
+1088
+Xatu
+♂
+Lv.
+32
+No item
+Alakazam
+♂
+Lv.
+34
+No item
+Teacher
+Hillary
+Reward:
+$
+2592
+Aipom
+♀
+Lv.
+32
+No item
+Cubone
+♀
+Lv.
+36
+No item
+Schoolboy
+Billy
+Reward:
+$
+1120
+Paras
+♂
+Lv.
+27
+No item
+Paras
+♂
+Lv.
+27
+No item
+Poliwhirl
+♂
+Lv.
+27
+No item
+Ditto
+Lv.
+35
+No item
+Teacher
+Colette
+Reward:
+$
+2592
+Clefairy
+♀
+Lv.
+36
+No item
+Schoolboy
+Johnny
+Reward:
+$
+1056
+Bellsprout
+♂
+Lv.
+29
+No item
+Weepinbell
+♂
+Lv.
+31
+No item
+Victreebel
+♂
+Lv.
+33
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+G
+S
+C
+Grass
+25
+20%
+20%
+0%
+Nidorina
+G
+S
+C
+Grass
+23
+30%
+Nidorino
+G
+S
+C
+Grass
+23
+30%
+Chansey
+G
+S
+C
+Grass
+25
+1%
+Noctowl
+G
+S
+C
+Grass
+25
+0%
+0%
+20%
+Hoppip
+G
+S
+C
+Grass
+22, 24
+15%
+19%
+0%
+Quagsire
+G
+S
+C
+Grass
+22
+4%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+22, 24
+0%
+0%
+19%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+West side of the hill (requires
+Cut
+)
+G
+S
+Route 14
+Route 14
+Route 14
+is a pleasant coastal road where the salty breeze blows in from the sea. The path runs north to
+Route 13
+.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Roy
+Reward:
+$
+840
+Fearow
+♂
+Lv.
+29
+No item
+Fearow
+♂
+Lv.
+35
+No item
+Pokéfan
+Carter
+Reward:
+$
+2320
+Bulbasaur
+♂
+Lv.
+29
+Berry
+Charmander
+♂
+Lv.
+29
+Berry
+Squirtle
+♂
+Lv.
+29
+Berry
+Pokéfan
+Trevor
+Reward:
+$
+2640
+Psyduck
+♂
+Lv.
+33
+Berry
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+G
+S
+C
+Grass
+25
+20%
+20%
+0%
+Nidorina
+G
+S
+C
+Grass
+23
+30%
+Nidorino
+G
+S
+C
+Grass
+23
+30%
+Chansey
+G
+S
+C
+Grass
+25
+1%
+Noctowl
+G
+S
+C
+Grass
+25
+0%
+0%
+20%
+Hoppip
+G
+S
+C
+Grass
+24
+10%
+10%
+0%
+Skiploom
+G
+S
+C
+Grass
+26
+5%
+9%
+0%
+Quagsire
+G
+S
+C
+Grass
+22
+4%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+22, 24
+0%
+0%
+19%
+Special Pokémon
+Aerodactyl
+G
+S
+C
+Trade
+Chansey
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Gold Berry
+Held by Aeroy, an
+Aerodactyl
+received through a trade (requires
+Cut
+)
+G
+S
+Time for a Trade
+Use
+Cut
+to reach the tall grass patch and find a girl who would like to trade Pokémon. She is willing to part with her
+Aerodactyl
+in exchange for a
+Chansey
+. Chansey can be found on Routes
+13
+,
+14
+, and
+15
+.
+Route 13
+Route 13
+Route 13
+is a difficult, narrow path that leads eastward toward
+Route 12
+. Many Trainers can be found among the maze of fences.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Bret
+Reward:
+$
+768
+Pidgeotto
+♂
+Lv.
+32
+No item
+Fearow
+♂
+Lv.
+32
+No item
+Bird Keeper
+Perry
+Reward:
+$
+816
+Farfetch'd
+♂
+Lv.
+34
+No item
+Pokéfan
+Joshua
+Reward:
+$
+1840
+Pikachu
+♂
+Lv.
+23
+Berry
+Pikachu
+♂
+Lv.
+23
+Berry
+Pikachu
+♂
+Lv.
+23
+Berry
+Pikachu
+♂
+Lv.
+23
+Berry
+Pikachu
+♂
+Lv.
+23
+Berry
+Pikachu
+♂
+Lv.
+23
+Berry
+Pokéfan
+Alex
+Reward:
+$
+2320
+Nidoking
+♂
+Lv.
+29
+Berry
+Slowking
+♂
+Lv.
+29
+Berry
+Seaking
+♂
+Lv.
+29
+Berry
+Hiker
+Kenny
+Reward:
+$
+1056
+Sandslash
+♂
+Lv.
+27
+No item
+Graveler
+♂
+Lv.
+29
+No item
+Golem
+♂
+Lv.
+31
+No item
+Graveler
+♂
+Lv.
+29
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgeotto
+G
+S
+C
+Grass
+25
+20%
+20%
+0%
+Nidorina
+G
+S
+C
+Grass
+23
+30%
+Nidorino
+G
+S
+C
+Grass
+23
+30%
+Chansey
+G
+S
+C
+Grass
+25
+1%
+Noctowl
+G
+S
+C
+Grass
+25
+0%
+0%
+20%
+Hoppip
+G
+S
+C
+Grass
+22,24
+15%
+19%
+0%
+Quagsire
+G
+S
+C
+Grass
+22
+4%
+0%
+0%
+Quagsire
+G
+S
+C
+Grass
+22, 24
+0%
+0%
+19%
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+25-29
+60%
+Quagsire
+G
+S
+C
+Surfing
+25-29
+30%
+Tentacruel
+G
+S
+C
+Surfing
+25-29
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Calcium
+One step east of the Trainer Tips sign, on the fence (hidden)
+G
+S
+Route 12
+Route 12
+Route 12
+connects
+Route 13
+,
+Route 11
+, and
+Lavender Town
+. Also known as Silence Bridge, it is a favorite spot for Fishermen.
+Trainers
+Trainer
+Pokémon
+Fisher
+Barney
+Reward:
+$
+1200
+Gyarados
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+30
+No item
+Fisher
+Stephen
+Reward:
+$
+1240
+Magikarp
+♂
+Lv.
+25
+No item
+Magikarp
+♂
+Lv.
+25
+No item
+Qwilfish
+♂
+Lv.
+31
+No item
+Tentacruel
+♂
+Lv.
+31
+No item
+Fisher
+Martin
+Reward:
+$
+1280
+Remoraid
+♂
+Lv.
+32
+No item
+Remoraid
+♂
+Lv.
+32
+No item
+Fisher
+Kyle
+Reward:
+$
+1240
+Seaking
+♂
+Lv.
+28
+No item
+Poliwhirl
+♂
+Lv.
+31
+No item
+Seaking
+♂
+Lv.
+31
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+25-29
+60%
+Quagsire
+G
+S
+C
+Surfing
+25-29
+30%
+Tentacruel
+G
+S
+C
+Surfing
+25-29
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Tentacool
+G
+S
+C
+Fishing
+Super Rod
+40
+70%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Qwilfish
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+In the southernmost field (requires
+Surf
+,
+Cut
+)
+G
+S
+Calcium
+In the northern of the two fields (requires
+Cut
+)
+G
+S
+Super Rod
+Fishing Guru's house; from his younger brother
+G
+S
+Elixer
+Southwest corner of the isolated northeast platform (hidden; requires
+Surf
+)
+G
+S
+Fishing Guru 3
+The house to the south of the intersection with
+Route 11
+is home to the
+Fishing Guru
+'s younger brother. Speak to him to receive the
+Super Rod
+. This high-end fishing rod is the best model available and can reel in some of the strongest sea creatures, like
+Seaking
+and
+Dragonair
+.
+← Part 21
+Route 16, Route 17, Route 18, Fuchsia City
+Gold and Silver
+walkthrough
+Route 11, Diglett's Cave, Route 2, Pewter City
+Part 23 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

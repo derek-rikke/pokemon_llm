@@ -1,0 +1,56 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 12
+Keywords: Route 120, Route 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+
+## Pokémon Omega Ruby and Alpha Sapphire Walkthrough: Part 12
+
+### Route 120
+- **Overview**: Connects Fortree City to Route 121 with long grass and two ruins: Scorched Slab and Ancient Tomb.
+- **Trainers**: Face various trainers, including Parasol Lady Clarissa and Bird Keeper Robert.
+- **Available Pokémon**: Gloom, Linoone, Tropius, Kecleon (among others).
+- **Items**:
+  - Rare Candy (hidden, requires Cut, north of Parasol Lady).
+  - TM11 (Sunny Day) in Scorched Slab.
+- **Key Locations**:
+  - **Scorched Slab**: Explore for items; revisit later for more treasures.
+  - **Ancient Tomb**: Entrance sealed for later investigation.
+  - **Daily Berry**: Speak to Aroma Lady for a rare berry based on Trainer ID.
+
+### Route 121
+- **Overview**: Smaller route leading to Lilycove City with the Safari Zone to the north.
+- **Trainers**: Includes Hex Maniac Tammy and Beauty Jessica.
+- **Key Event**: Spot Team Magma/Aqua heading south to Mt. Pyre.
+
+### Safari Zone
+- **Overview**: Free entry with varied terrain. Use Acro Bike and Mach Bike to explore fully.
+- **Available Pokémon**: Includes Gloom, Doduo, Pikachu, Psyduck.
+
+### Route 122
+- **Overview**: Short ocean route with Mt. Pyre in the center.
+- **Available Pokémon**: Tentacool, Wingull, and fishing options.
+
+### Mt. Pyre
+- **Overview**: Sacred resting place for Pokémon. Battle trainers inside and outside the mountain.
+- **Trainers**: Includes Poké Maniac Mark and various Team Magma/Aqua Grunts.
+- **Key Battles**: 
+  - **VS Courtney (Omega Ruby)**: Defeats lead to acquiring the Red Orb.
+  - **VS Matt (Alpha Sapphire)**: Defeats lead to acquiring the Blue Orb.
+- **Items**: Collect various items including TM30 (Shadow Ball), Medichamite, and Incense.
+
+### Route 123
+- **Overview**: Leads back to Route 118. Home to the Berry Master’s house.
+- **Trainers**: Encounter Aroma Lady Violet and others.
+- **Key Locations**:
+  - **Berry Master’s House**: Daily berry gift and trivia for rare berries.
+  - **123 Go Fish**: Obtain Gyaradosite and Eviolite from NPCs.
+
+### Items Summary
+- **Route 120**: Rare Candy, TM11, various berries.
+- **Route 121**: TM99 (Dazzling Gleam).
+- **Mt. Pyre**: Cleanse Tag, various Incenses, and orbs.
+- **Route 123**: Gyaradosite, Eviolite, and berries.
+
+### Progression
+- After defeating the Admin at Mt. Pyre, return to Slateport City using Fly or head south through Route 123.
+
+This concise guide focuses on essential locations, trainers, items, and key battles to aid in your journey through this segment of the Pokémon Omega Ruby and Alpha Sapphire games.

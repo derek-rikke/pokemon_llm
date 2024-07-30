@@ -1,0 +1,47 @@
+Game: Gold_and_Silver
+Part: 13
+Keywords: Blackthorn City, Blackthorn Gym, Dragon's Den, Route 45, Dark Cave, Route 46
+
+**Part 13 Walkthrough: Blackthorn City, Blackthorn Gym, Dragon's Den, Route 45, Dark Cave, Route 46**
+
+**Blackthorn City Overview:**
+- Located northeast in Johto, near Ice Path and Route 45.
+- Home to Dragon-type specialists; access Dragon's Den behind the Gym with permission.
+
+**Key Locations:**
+- **Move Deleter:** Southern house; removes unwanted moves, especially HM moves.
+- **Trade:** In the eastern house, trade a female Dragonair (available in Dragon's Den or Route 45) for Rhydon.
+
+**Blackthorn Gym:**
+- **Leader:** Clair (Dragon-type Pokémon).
+- Gym Strategy: Use Ice or Dragon-type moves against her team of three Dragonair and one Kingdra. Bring paralysis healing items and HP restoratives.
+- **Clair's Pokémon:**
+  - Dragonair (x3, level 37)
+  - Kingdra (level 40)
+- After defeating Clair, she instructs you to retrieve the Dragon Fang from Dragon's Den to earn the Rising Badge.
+
+**Dragon's Den:**
+- Access via Surf and Whirlpool behind the Gym.
+- **Available Pokémon:** Dratini (10-14), Magikarp (10-19).
+- **Items:** Dragon Fang (east side), TM24 (DragonBreath) from Clair after proving yourself.
+- Navigate to the shrine and retrieve the Dragon Fang to return to Clair.
+
+**Route 45:**
+- Rugged terrain leading to Route 46; access Dark Cave in the northern area.
+- **Trainers:** Hiker Erik, Cooltrainer Ryan, Kelly, etc.
+- **Items:** Elixir, Max Potion, Revive, PP Up.
+
+**Dark Cave:**
+- Dark cave network; requires Surf, Strength, Rock Smash, and optionally Flash for navigation.
+- **Available Pokémon:** Zubat, Golbat, Geodude, Wobbuffet.
+- **Items:** Revive, TM13 (Snore), BlackGlasses.
+
+**Route 46:**
+- Connects Route 45 to Route 29; features Berry trees.
+- **Trainers:** Camper Ted, Picnicker Erin, Hiker Bailey.
+- **Available Pokémon:** Rattata, Spearow, Geodude.
+- **Items:** PRZCureBerry, Berry, Dire Hit.
+
+**Next Steps:**
+- After completing these locations, visit Professor Elm at the Lab for a special task. 
+- Prepare for your journey to the Pokémon League at Indigo Plateau after earning all eight Johto Badges.

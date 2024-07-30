@@ -1,0 +1,736 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_5
+Keywords: Mauville City, Mauville Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mauville City
+1.1
+1F
+1.1.1
+A Familiar Face
+1.1.2
+Courtyard
+1.1.3
+Northeast District
+1.1.3.1
+TV Mauville
+1.1.3.2
+Battle Institute Hoenn
+1.1.3.3
+Inverse Battle Stop
+1.1.3.4
+Rydel's Cycles
+1.1.4
+Southeast District
+1.1.4.1
+Ultimate Move Studio
+1.1.4.2
+Pledge Move Dojo
+1.1.4.3
+Song and Sword Move Academy
+1.1.4.4
+Mauville Food Court
+1.1.4.4.1
+Village Sub Combo
+1.1.4.4.2
+Magnemite Croquettes
+1.1.4.4.3
+Mauville Ramen Bowl
+1.1.5
+Southwest District
+1.1.5.1
+Crooner's Café
+1.1.5.2
+Game Corner
+1.1.6
+Northwest District
+1.1.6.1
+Narcissus Mirror Shop
+1.1.6.2
+Ritzy Ribbon Retail
+1.1.6.3
+PokéMilage Center
+1.1.6.4
+Pokémon Reflexology Services
+1.1.6.5
+Wally's Challenge
+1.1.6.6
+Mauville Gym
+1.2
+3F
+Mauville City
+Mauville City, 1F
+Mauville City, Courtyard
+Mauville City, 3F
+Mauville City
+is located in central
+Hoenn
+, situated between Routes
+110
+,
+111
+,
+117
+, and
+118
+. The site has recently undergone a large-scale renovation led by city founder and local
+Gym Leader
+Wattson
+, so that it would more closely mimic its sister city,
+Lumiose
+, in the
+Kalos
+region. The mostly-indoor city now features many specialty shops and a courtyard on the first floor, the upscale Mauville Hills apartments—open only to residents—on the second, and a recreational rooftop area.
+Items
+1F
+Item
+Location
+Games
+X Speed
+South side, behind the city map
+OR
+AS
+Globe
+Courtyard, from a Backpacker
+OR
+AS
+X Defense
+Courtyard, behind Square Tower (hidden)
+OR
+AS
+TM58
+(
+Sky Drop
+)
+Courtyard, from a Delinquent inside the Poké Mart
+OR
+AS
+Acro Bike
+or
+Mach Bike
+From Rydel; can switch at any time by speaking to him again
+OR
+AS
+Vs. Recorder
+From a man inside the Battle Institute
+OR
+AS
+TM48
+(
+Round
+)
+From the girl behind the counter in Crooner's Café
+OR
+AS
+Treecko Doll
+From the owner of the shut-down Game Corner
+OR
+AS
+Torchic Doll
+From the owner of the shut-down Game Corner
+OR
+AS
+Mudkip Doll
+From the owner of the shut-down Game Corner
+OR
+AS
+Reveal Glass
+From the mirror store owner, after being shown one of the
+Forces of Nature
+OR
+AS
+HM06
+(
+Rock Smash
+)
+Outside the Gym, from
+Wally
+'s uncle after defeating Wally
+OR
+AS
+TM72
+(
+Volt Switch
+)
+From Wattson upon his defeat
+OR
+AS
+3F
+Item
+Location
+Games
+Nugget
+From an old man on the south side
+OR
+AS
+Luxury Ball
+Under the western tower (hidden)
+OR
+AS
+Max Repel
+Under the eastern tower (hidden)
+OR
+AS
+Metronome
+Buy from a suited man on the north side for
+$
+1,000
+OR
+AS
+Poké Toy
+From a Delinquent on the north side
+OR
+AS
+1F
+A Familiar Face
+When you enter the city, you spot a familiar face.
+Wally
+is visiting the city with his uncle, but he's not interested in shopping. Instead, he rushes off to challenge the
+Mauville Gym
+!
+Courtyard
+Continue north to reach the central courtyard. The Pokémon Center and Poké Mart are located here. Grab the hidden
+X Defense
+behind Square Tower, and talk to the Backpacker for a
+Globe
+decoration.
+Stop by the Pokémon Center and talk to the bald man. His name is
+Giddy
+, and he has a scintillating story to tell. After this, he teaches you the
+Speed O-Power
+. Strike up another conversation and endure his second story to learn the
+Critical O-Power
+. He leaves at this point, sparing you from further musings. These powers can be activated through the
+PSS
+in the
+PlayNav
+app. After Giddy leaves, four other men will appear here, one after the other:
+the Hipster
+,
+the Bard
+,
+the Trader
+, and
+the Storyteller
+. After meeting them all, the five return to their apartment upstairs; visit them there once you gain access to Mauville Hills to get the final O-Power.
+The Poké Mart features two clerks; the first offers the usual necessities, while the second offers a selection of
+TMs
+. If you can afford the
+$
+10,000 price tag,
+TM78
+(
+Bulldoze
+) will be a big help at the local Gym! Before leaving, speak to the girl to receive
+TM58
+(
+Sky Drop
+).
+Northeast District
+TV Mauville
+TV Mauville
+produces every program that airs on the
+BuzzNav
+app. Inside, you can tour the studio, browse the gift shop, even sit behind the news desk and read the latest bulletin before it airs.
+Battle Institute Hoenn
+The
+Battle Institute
+is a place where powerful Trainers test their worth in a series of challenging battles. Only
+Pokémon Champions
+can participate, so you'll need to return later. It's worth stopping by though, as a man inside hands you a
+Vs. Recorder
+. This device lets you document and share certain battles over the
+PSS
+feature of the
+PlayNav
+app.
+Inverse Battle Stop
+At the
+Inverse Battle Stop
+, you can challenge Proprietor
+Inver
+to an
+Inverse Battle
+once per day. Like the name implies, all type match-ups in this kind of battle are reversed. A Pokémon's weaknesses are treated as resistances, and all resistances and immunities are treated as weaknesses.
+Inver's three Pokémon
+are all level 20, until you become the Champion. Defeat him to receive
+your reward
+, which changes depending on your performance. He will even triple your reward if none of your Pokémon's
+HP
+falls into the red.
+Rydel's Cycles
+Rydel's Cycles
+is located near the city's east exit. Spotting your dirty
+Running Shoes
+, the shop owner,
+Rydel
+, realizes that you've done a lot of traveling. He offers you a free bicycle, and gives you the choice between two models. The
+Mach Bike
+is faster and is able to ride up
+muddy slopes
+, which is useful for exploring places like
+Granite Cave
+. The
+Acro Bike
+is slower which allows for more precise control and the ability to perform
+tricks
+. After choosing a bike, you can speak to Rydel at any time to swap it for the other model.
+Southeast District
+Ultimate Move Studio
+The
+Ultimate Move Studio
+stands to the southwest of Rydel's Cycles. The man at the counter can teach an ultimate move to any fully-evolved starter Pokémon. However, it must share a strong bond with its Trainer.
+Sceptile
+and the quiet
+Grass
+Pokémon can learn
+Frenzy Plant
+, while
+Blaziken
+and the blazing
+Fire
+Pokémon can learn
+Blast Burn
+, and
+Swampert
+and the restless
+Water
+Pokémon can learn
+Hydro Cannon
+.
+Pledge Move Dojo
+South of the Move Studio is the
+Pledge Move Dojo
+. This Move Tutor teaches a special move to any starter Pokémon or its relatives.
+Grass-type
+Pokémon like the
+Treecko
+family can learn
+Grass Pledge
+,
+Fire-type
+Pokémon like the
+Torchic
+family can learn
+Fire Pledge
+, and
+Water-type
+Pokémon like the
+Mudkip
+family can learn
+Water Pledge
+. Using these moves in the same turn in a
+Double
+or
+Triple Battle
+will raise their power from 80 to 150, and activate additional effects.
+Types Involved
+Description
+Creates a sea of fire where all non-
+Fire
+Pokémon lose 1/8 of their max
+HP
+every turn for four turns
+Creates a rainbow that doubles the likelihood of a move's additional effect(s) for four turns
+Creates a vast swamp that reduces the opponent's
+Speed
+by 50% for four turns
+Song and Sword Move Academy
+The third shop on the left is the
+Song and Sword Move Academy
+, but it's vacant. The owner is at the Crooner's Café in the southwest part of town.
+Mauville Food Court
+The
+Mauville Food Court
+can be found near the city's south exit.
+Hungry Trainers
+won't hesitate to battle you in order to sit down and eat their meal from one of the three restaurants. Two of the eateries are so popular that people line up for hours, so you can only order from the Village Sub Combo for now. By finishing a course at just the right time, you are
+rewarded
+with a valuable item; by doing this while defeating all opposing Trainers, you win an additional prize.
+Village Sub Combo
+One order costs
+$
+1,000 and takes five turns to make. As you sit down to wait, other hungry Trainers will challenge you to
+Single Battles
+for your chair! Finish up one of the battles at just the right time to win a free
+Nugget
+. Defeat all opponents in exactly five turns to win a random Berry—
+Figy
+,
+Aguav
+,
+Mago
+,
+Wiki
+, or
+Iapapa
+—as well.
+Magnemite Croquettes
+Return after collecting all eight Gym Badges and the line for Magnemite Croquettes will have finally cleared out. An order costs
+$
+5,000 and takes six turns to make. Once again, you're given a buzzer and told to wait, and hungry Trainers again challenge you for your seat, but this time you must fight them off in
+Double Battles
+! Finish the course to earn a
+Pearl String
+; defeating all Trainers in time earns you a
+Metal Powder
+as well.
+Mauville Ramen Bowl
+Mauville Ramen Bowl is so popular that the crowd won't thin out until after you complete the post-game
+Delta Episode
+. A meal costs
+$
+10,000 and takes eight turns to make. This time, you'll need to defend your seat in a series of
+Triple Battles
+. Rumor has it that there is a certain Trainer hanging around here that really does not want to lose to you for some reason. Finishing your meal at the right time earns you a
+Big Nugget
+, while defeating all opposing Trainers also wins you a
+Deep Sea Tooth
+OR
+or
+Deep Sea Scale
+AS
+.
+After clearing the first seven battles within seven turns, you will be challenged by the strongest Trainer in the restaurant:
+Fare Prince
+Trencherman.
+Southwest District
+Crooner's Café
+Speak to the barista to receive
+TM48
+(
+Round
+). The balding owner of the Song and Sword Move Academy also lounges here, hoping to teach a new move to a
+Keldeo
+or
+Meloetta
+. These Pokémon are not native to the
+Hoenn
+region, but he would be happy to teach
+Secret Sword
+and
+Relic Song
+, respectively, if you happen to obtain them.
+Game Corner
+The Game Corner has recently gone out of business, and the former owner can be found outside. He isn't too upset, but does have some leftover prizes to hand out. Agree to take them off his hands to receive a
+Treecko Doll
+,
+Torchic Doll
+, and
+Mudkip Doll
+.
+Northwest District
+Narcissus Mirror Shop
+Many mirrors are on display at this fancy shop. According to the owner, her mirrors were all collected by her husband and she is reluctant to sell any of them. However, she mentions
+one of them
+having a connection to the legendary
+Tornadus
+,
+Thundurus
+, and
+Landorus
+...
+Ritzy Ribbon Retail
+Ritzy Ribbon Retail
+offers a selection of expensive Ribbons designed especially for "Pokémon That Aim for a Higher Rank". Any Ribbons purchased here will be given to your lead Pokémon.
+PokéMilage Center
+In the
+PokéMileage Center
+, a Gentleman will exchange your
+Poké Miles
+for items. His prices range from 10 to 1,000.
+Pokémon Reflexology Services
+The woman at
+Pokémon Reflexology Services
+offers to massage your lead Pokémon once per day, free of charge.
+Wally's Challenge
+When you approach the Gym, you find
+Wally
+and his uncle talking outside the building. He desperately wants to challenge the Gym, but his uncle has reservations. He challenges you to a quick battle to test his skills.
+Pokémon Trainer
+Wally
+Mauville City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+680
+Types:
+Psychic
+Fairy
+Ability:
+Synchronize
+Held item:
+None
+Ralts
+♂
+Lv.
+17
+Teleport
+Psychic
+Status
+--
+Disarming Voice
+Fairy
+Special
+--
+Lucky Chant
+Normal
+Status
+--
+Magical Leaf
+Grass
+Special
+--
+After being defeated, he decides to return to
+Verdanturf Town
+. Before following, his uncle hands you
+HM06
+(
+Rock Smash
+), a
+Fighting
+move that may lower the foe's
+Defense
+.
+Mauville Gym
+Mauville Gym
+Mauville City Pokémon Gym
+Leader: Wattson
+The cheerfully electrifying man!
+The
+Mauville Gym
+specializes in
+Electric-type
+Pokémon. While Pokémon of this type are only vulnerable to
+Ground-type
+attacks, the secondary types of the Pokémon inside make
+Fire
+and
+Fighting
+moves useful as well. Keep your
+Flying
+- and
+Water
+-Pokémon (except
+Marshtomp
+, due to its secondary
+Ground
+typing) on the sidelines for now. The Gym, split into two rooms, features several electrical barriers, with color-coded switches on the floor. Stepping on a switch alters the direction of all similarly-colored barriers, from vertical to horizontal and vice-versa.
+Wattson
+leads with his
+Magnemite
+, an
+Electric
+/
+Steel
+Pokémon. Though it is especially vulnerable to
+Ground
+moves, its
+Sturdy
+Ability prevents a one-hit knockout. It likes using
+Thunder Wave
+to paralyze the target, cutting its
+Speed
+and restricting its movement. Though his
+Voltorb
+'s
+Attack
+is low, if left unchecked its
+Rollout
+move—a
+Rock
+attack—increases in power and can pose a danger to
+Fire
+Pokémon like
+Combusken
+. His third Pokémon,
+Magneton
+, likes to start with
+Supersonic
+to confuse its foe. All of his Pokémon know
+Volt Switch
+, a strong move that deals damage before the user switches out.
+Mauville Gym
+Trainers
+Trainer
+Pokémon
+Front room
+Guitarist
+Kirk
+Reward:
+$
+448
+Magnemite
+Lv.
+16
+No item
+Electrike
+♂
+Lv.
+16
+No item
+Back room
+Youngster
+Ben
+Reward:
+$
+272
+Electrike
+♂
+Lv.
+17
+No item
+Battle Girl
+Vivian
+Reward:
+$
+608
+Meditite
+♀
+Lv.
+19
+No item
+Guitarist
+Shawn
+Reward:
+$
+476
+Voltorb
+Lv.
+15
+No item
+Voltorb
+Lv.
+17
+No item
+Leader
+Wattson
+Mauville Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+2,520
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnemite
+Lv.
+19
+Thunder Wave
+Electric
+Status
+--
+Tackle
+Normal
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Soundproof
+Held item:
+None
+Voltorb
+Lv.
+19
+Rollout
+Rock
+Physical
+--
+Charge
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+21
+Supersonic
+Normal
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Volt Switch
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+After the battle, Wattson awards you the
+Dynamo Badge
+, which ensures obedience of all Pokémon up to level 40 and enables the use of
+Rock Smash
+in the field. He also hands out
+TM72
+(
+Volt Switch
+) as a prize.
+3F
+Mauville's elevators lead to the second floor, but that floor is restricted to the tenants of Mauville Hills. However, the four staircases all lead to the rooftop, where everyone is free to enjoy the fresh air. A suited man will sell you a
+Metronome
+, and a young girl will give you a
+Poké Toy
+after assuring her that you love Pokémon. Keep running around the rooftop, and a man will eventually appear on the south side and hand you a
+Nugget
+.
+Take the northeast stairs to the second floor to meet a Street Thug who is waiting for
+Genesect
+. It's not native to Hoenn, so he could be waiting here for a long time. If you happen to obtain one, he would surely be happy to see it.
+← Part 4
+Route 109, Slateport City, Route 110
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 117, Verdanturf Town, Routes 111 (south) and 112 (south)
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

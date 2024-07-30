@@ -1,0 +1,72 @@
+Game: Gold_and_Silver
+Part: 26
+Keywords: Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Route 19
+
+**Pokémon Gold and Silver Walkthrough: Part 26**
+
+**Route 21**
+- Route 21 connects Pallet Town to Cinnabar Island. 
+- Key Trainers:
+  - **Swimmer Nikki**: 3 Seel (Lv. 28), Dewgong (Lv. 28) - Reward: $560
+  - **Swimmer Seth**: Quagsire (Lv. 29, 32), Octillery (Lv. 29) - Reward: $256
+  - **Fisher Arnold**: Tentacruel (Lv. 34) - Reward: $1360
+
+**Available Pokémon**: 
+- Surfing: Tentacool (30-39), Tentacruel (35-39)
+- Fishing: Magikarp (Old Rod), Tentacool (Old/Good Rod), Chinchou (Good/Super Rod)
+
+---
+
+**Cinnabar Island**
+- Cinnabar Island is south of Route 21. 
+- **Items**: Rare Candy (hidden on the north side).
+- The island's Pokémon Center is rebuilt; the gym has relocated to Seafoam Islands.
+
+**Nature's Madness**: 
+- The island was devastated by a volcanic eruption. 
+
+**Final Gym Leader**: 
+- Speak to **Blue** at the Pokémon Center; he will challenge you at Viridian Gym.
+
+---
+
+**Route 20**
+- Connects to the Seafoam Islands and leads to Route 19.
+- Key Trainers:
+  - **Swimmer Cameron**: Marill (Lv. 34) - Reward: $272
+  - **Swimmer Lori**: 2 Starmie (Lv. 32) - Reward: $640
+
+**Available Pokémon**:
+- Surfing: Tentacool (30-39), Tentacruel (35-39)
+- Fishing: Similar to Route 21.
+
+---
+
+**Seafoam Islands**
+- The gym is relocated here due to volcanic damage.
+
+**Cinnabar Gym**
+- **Leader**: Blaine (Fire-type specialist)
+- No trainers in the gym; challenge Blaine directly.
+- **Blaine's Pokémon**:
+  - **Magcargo** (Lv. 45): Use special moves, effective Water-type attacks.
+  - **Magmar** (Lv. 45): Be cautious of ThunderPunch.
+  - **Rapidash** (Lv. 50): Bring Burn Heals for Fire Blast.
+- **Reward**: Volcano Badge ($5000).
+
+---
+
+**Route 19**
+- Runs north to Fuchsia City.
+- Key Trainers:
+  - **Swimmer Harold**: Remoraid (Lv. 32), Seadra (Lv. 30) - Reward: $240
+  - **Swimmer Tucker**: Cloyster (Lv. 34) - Reward: $272
+
+**Available Pokémon**:
+- Surfing: Tentacool (30-39), Tentacruel (35-39)
+- Fishing: Krabby, Magikarp, Corsola (various rods).
+
+**Cleanup Complete**: 
+- Volcanic debris cleared, allowing free movement between Fuchsia City and Route 19. 
+
+**Next Steps**: Prepare for challenges at Viridian City.

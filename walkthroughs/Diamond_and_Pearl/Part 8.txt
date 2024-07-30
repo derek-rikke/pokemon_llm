@@ -1,0 +1,1165 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_8
+Keywords: Lost Tower, Solaceon Town, Solaceon Ruins, Route 210 (South)
+
+Walkthrough Text:
+Contents
+1
+Lost Tower
+1.1
+1F
+1.2
+2F
+1.3
+3F
+1.4
+4F
+1.5
+5F
+2
+Solaceon Town
+2.1
+Pokémon Day Care
+2.2
+Pokémon News Press
+2.3
+Seal House
+3
+Solaceon Ruins
+3.1
+Later...
+4
+Route 210 (South)
+4.1
+Café Cabin
+Lost Tower
+The Lost Tower's exterior
+This is Sinnoh's graveyard for Pokémon, serving the same purpose as Kanto's
+Pokémon Tower
+and Hoenn's
+Mt. Pyre
+.
+1F
+There's not much to do on this floor, other than having to deal with wild Pokémon. Anyplace in this tower is good for leveling up a female
+Burmy
+that you wish to evolve into the Trash Cloak
+Wormadam
+. Take the nearby stairs to reach 2F.
+Available Pokémon (1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+16-18
+50%
+50%
+40%
+Zubat
+D
+P
+Pt
+Walking
+16-18
+50%
+50%
+40%
+Murkrow
+D
+P
+Pt
+Walking
+17
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Walking
+17
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Only one Trainer is found here, and the item right by him is an
+Oval Stone
+which can be held by
+Happiny
+to evolve it into
+Chansey
+when it levels up during the daytime. This is the only chance to obtain a free Oval Stone without having to take one from a wild Chansey. You can also your
+Dowsing Machine
+to find a hidden
+Stardust
+around the lower-right corner. The wild Pokémon encounter rate is no different from the one on 1F.
+Available Pokémon (2F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+17-19
+50%
+50%
+40%
+Zubat
+D
+P
+Pt
+Walking
+17-19
+50%
+50%
+40%
+Murkrow
+D
+P
+Pt
+Walking
+18
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Walking
+18
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (2F)
+Trainer
+Pokémon
+Youngster
+Oliver
+Reward:
+$
+256
+Stunky
+♂
+Lv.
+16
+No item
+Shellos
+♂
+West Sea
+Lv.
+16
+No item
+Kricketune
+♂
+Lv.
+16
+No item
+Items (2F)
+Item
+Location
+Games
+Oval Stone
+In front of Youngster Oliver
+D
+P
+Stardust
+South from the entrance, in the southeast corner of the room
+(hidden)
+D
+P
+When ready, cut past the Trainer to head to the left side of the screen to reach the stairs that lead to 3F.
+3F
+Other than facing two Trainers here, this is also the first chance in the game at catching
+Zubat
+'s evolved form--
+Golbat
+, but it is very rare to find here. If Golbat levels up with maximum happiness, it evolves into
+Crobat
+, a Pokémon that is extremely fast. You can also find a Revive lying around the bottom-left corner. Head to the stairs on the left side again to reach 4F.
+Available Pokémon (3F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+18-20
+50%
+50%
+40%
+Zubat
+D
+P
+Pt
+Walking
+18-20
+49%
+49%
+39%
+Golbat
+D
+P
+Pt
+Walking
+19
+1%
+Murkrow
+D
+P
+Pt
+Walking
+19
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Walking
+19
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (3F)
+Trainer
+Pokémon
+Roughneck
+Kirby
+Reward:
+$
+456
+Cleffa
+♀
+Lv.
+19
+No item
+Pokéfan
+Leonard
+Reward:
+$
+1152
+Pichu
+♂
+Lv.
+15
+No item
+Pichu
+♂
+Lv.
+15
+No item
+Pikachu
+♂
+Lv.
+18
+No item
+Items (3F)
+Item
+Location
+Games
+Revive
+Next to Roughneck Kirby
+D
+P
+4F
+There are only a few rate encounter changes, including the fact that
+Misdreavus
+cannot be found on this floor. It is also the last floor that you will face Trainers on. Pick up the item, which is
+TM27
+(
+Return
+). You can also find a hidden
+Great Ball
+with your Dowsing Machine. When ready head to the final floor, 5F.
+Available Pokémon (4F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+19-21
+50%
+50%
+40%
+Zubat
+D
+P
+Pt
+Walking
+19-21
+45%
+45%
+35%
+Golbat
+D
+P
+Pt
+Walking
+20-21
+5%
+Murkrow
+D
+P
+Pt
+Walking
+20
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Walking
+20
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (4F)
+Trainer
+Pokémon
+Pokéfan
+Rebekah
+Reward:
+$
+1216
+Bonsly
+♀
+Lv.
+19
+No item
+Belle & Pa
+Beth & Bob
+Reward:
+$
+2128
+Ponyta
+♂
+Lv.
+19
+No item
+Buizel
+♂
+Lv.
+19
+No item
+Young Couple
+Mike & Nat
+Reward:
+$
+2432
+Murkrow
+♂
+Lv.
+19
+No item
+Misdreavus
+♂
+Lv.
+19
+No item
+Items (4F)
+Item
+Location
+Games
+TM27
+(
+Return
+)
+North of the middle southernmost gravestone
+D
+P
+Great Ball
+One tile right from the center
+(hidden)
+D
+P
+5F
+Here on the top floor are two elderly women. The one on the left gives you
+HM04
+(
+Strength
+). Once you've earned your sixth badge-- the
+Mine Badge
+from the
+Canalave Gym
+, you can move boulders outside of battle. The old lady on the right gives you a
+Cleanse Tag
+which will decrease the wild Pokémon encounter rate on the field if the first Pokémon in the party holds it. You can also find wild Pokémon on this floor. Once you are done here, leave the tower and head to
+Solaceon Town
+.
+Available Pokémon (5F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+20-22
+50%
+50%
+40%
+Zubat
+D
+P
+Pt
+Walking
+20-21
+40%
+40%
+30%
+Golbat
+D
+P
+Pt
+Walking
+21-23
+10%
+Murkrow
+D
+P
+Pt
+Walking
+21
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Walking
+21
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items (5F)
+Item
+Location
+Games
+Cleanse Tag
+Obtained from the old woman on the right
+D
+P
+HM04
+(
+Strength
+)
+Obtained from the old woman on the left
+D
+P
+Solaceon Town
+Soleceon Town
+While Solaceon Town is small, it does have ruins on its eastern side where you can find
+Unown
+. The Daycare is here as well, and there are a few items and
+Pokétch
+upgrades.
+Items
+Item
+Location
+Games
+Persim Berry
+Next to the Poké Mart
+D
+P
+Nanab Berry
+×2
+Next to the Poké Mart
+D
+P
+Figy Berry
+Next to the Poké Mart
+D
+P
+Day Care Checker
+Man in the
+Pokémon Day Care
+D
+P
+Pokémon History
+Resident in the center of the town
+D
+P
+Seal Case
+Woman in the far eastern house
+D
+P
+Alphabet Seals
+Small boy in the far eastern house for showing the respective
+Unown
+D
+P
+Honey
+On a tree in the far north east of the town (
+hidden
+)
+D
+P
+Talk to the
+Ruin Maniac
+to receive
+Pokémon History
+, a Pokétch upgrade that shows your history with Pokémon by displaying the last twelve Pokémon that you've recently obtained.
+Pokémon Day Care
+The upper-left building is where the
+Pokémon Day Care
+is, where you can breed Pokémon if you want and raise them without much effort. If you leave a Pokémon with the Day-Care lady, then exit the house and come back, a man will be there. Talk to him and you can obtain the
+Day Care Checker
+, a Pokétch upgrade that lets you see if there are any changes in the level of your Pokémon, or if a
+Pokémon Egg
+has been produced.
+Pokémon News Press
+Located next to the
+Pokémon Center
+. If you talk to the guy at the table and bring the Pokémon he requests within that day, then he will give you three random Poké Balls of almost any variety (this does not include the
+Master Ball
+or
+Cherish Ball
+).
+Seal House
+A woman in this house will give you a
+Seal Case
+that you can use to customize your Poké Balls to create a special effect when the Pokémon are sent out. Once this is accomplished you can modify your party Pokémons' Poké Balls from your PC.
+The house is located around the trees with the ledges and requires more skill to find the right ledges to jump over correctly. Once you find her son and bring back Unown from the
+Solaceon Ruins
+and have them in your party, the boy will give you 10 seals that are "letter" of the specific Unown you showed him. This can also be done more than once. The boy can give you a maximum of 99 seals per letter.
+Once you are ready, head into the Solaceon Ruins for some more exploring!
+Solaceon Ruins
+This ruin is the only place where you can find Unown and since no Trainer has one in the party, you must come here and see one at least if you want to receive the
+National Pokédex
+. Also by catching the Unown, it will cause the
+Ruin Maniac
+on
+Route 214
+'s
+Ruin Maniac Cave
+to expand the tunnel, that eventually will allow you to reach the upper part of the ruins that you can't reach yet once you've collect all the Unown throughout the ruins.
+For dealing with the Unown, make sure not to use any powerful attacks that might cause a Unown to faint. To catch one, a Quick Ball will usually work if thrown on the first turn of the battle.
+False Swipe
+and Dusk Balls are also recommended. As for the Unown locations, one particular Unown form is located in each hallway, while the rest randomly attack you in the dead end chamber.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Second big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Third big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Fourth big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Fifth big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Sixth big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Seventh big room
+Unown
+D
+P
+Pt
+Cave
+14-30
+100%
+Dead-end rooms
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Unown
+D
+P
+Pt
+Cave
+14-30
+5%
+Room through
+Maniac Tunnel
+Unown
+D
+P
+Pt
+Cave
+14-30
+50%
+Unown
+D
+P
+Pt
+Cave
+14-30
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+In some of the dead-end rooms, hidden items are located in the rocks. There is a special chamber that has important items at the very bottom of the ruins. First take the upper-right stairs and talk to a boy who is the son of the lady that gave you the Seal Case, who will return home.
+Trainers
+Trainer
+Pokémon
+Ruin Maniac
+Karl
+フユキ
+Fuyuki
+Reward:
+$
+864
+Geodude
+♂
+Lv.
+16
+No item
+Geodude
+♂
+Lv.
+17
+No item
+Bronzor
+Lv.
+18
+No item
+Take the lower-left staircase next and face the only Trainer in the ruins. Then use the staircases in the following order: Upper-right, Upper-left twice, and Lower-left to reach the special chamber. Here you can find the
+Mind Plate
+, which enhances
+Psychic-type
+moves and the
+Odd Incense
+, which also enhances Psychic-type moves and allows a
+Mime Jr.
+egg to be produced when a female Mr. Mime holds the item.
+Items
+Item
+Location
+Games
+Repel
+On the rock in the dead-end down the first top left stairwell
+(hidden)
+D
+P
+Escape Rope
+On the rock in the dead-end down the top right, bottom left, and then bottom left stairwells
+(hidden)
+D
+P
+Big Mushroom
+On the rock in the dead-end down the top right, bottom left, top right, top left, and then bottom right stairwells
+(hidden)
+D
+P
+Nugget
+In the final room
+D
+P
+Mind Plate
+In the final room
+D
+P
+Odd Incense
+In the final room
+D
+P
+Rare Candy
+In the final room
+D
+P
+Once you are done, leave the ruins and head north to
+Route 210
+. You can always come back for the Unown if you find this side-quest tedious or unnecessary.
+Later...
+After you've collected all the Unown here, enter the Ruin Maniac Cave on
+Route 214
+(which would be renamed as Maniac Tunnel) to head to the upper part of the ruins to find the
+?
+and
+!
+Unown which will complete your collection.
+Route 210 (South)
+When you reach this route you will notice tall grass, which you cannot ride your
+bicycle
+through. To your right you will find a berry patch. When ready set your bike to Gear Four and use the speed to climb up the dirt mound. Before heading straight follow the stairs on the right to a girl who will give you
+TM51
+(
+Roost
+). Then head back down the dirt mound and walk through the tall grass to the open field spot and use the Bike again to climb the dirt mound there, and battle your way to find a
+Great Ball
+.
+You'll notice at this point the herd of
+Psyduck
+in the middle of the road, blocking off the northern part. There is nothing you can do about it right now. Right next to the herd of Psyduck is the only building on this Route— the
+Café Cabin
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+D
+P
+Pt
+Grass
+19
+30%
+30%
+10%
+Chansey
+D
+P
+Pt
+Grass
+18-20
+5%
+Ponyta
+D
+P
+Pt
+Grass
+18-20
+30%
+50%
+30%
+Kricketune
+D
+P
+Pt
+Grass
+18-19
+10%
+10%
+30%
+Bonsly
+D
+P
+Pt
+Grass
+18-20
+25%
+5%
+25%
+Mime Jr.
+D
+P
+Pt
+Grass
+18-20
+25%
+5%
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Jogger
+Wyatt
+Reward:
+$
+672
+Ponyta
+♂
+Lv.
+21
+No item
+Rancher
+Marco
+Reward:
+$
+680
+Aipom
+♂
+Lv.
+18
+No item
+Girafarig
+♂
+Lv.
+17
+No item
+Psyduck
+♂
+Lv.
+19
+No item
+Belle & Pa
+Ava & Matt
+Double Battle
+Reward:
+$
+2352
+Stunky
+♂
+Lv.
+21
+No item
+Glameow
+♀
+Lv.
+21
+No item
+Twins
+Teri & Tia
+Double Battle
+Reward:
+$
+672
+Pikachu
+♀
+Lv.
+21
+No item
+Clefairy
+♀
+Lv.
+21
+No item
+Pokémon Breeder
+Kahlil
+Reward:
+$
+816
+Pichu
+♂
+Lv.
+18
+No item
+Pikachu
+♂
+Lv.
+19
+No item
+Happiny
+♀
+Lv.
+17
+No item
+Pokémon Breeder
+Amber
+Reward:
+$
+864
+Cleffa
+♀
+Lv.
+19
+No item
+Clefairy
+♀
+Lv.
+17
+No item
+Happiny
+♀
+Lv.
+18
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Aspear Berry
+×2
+At the Berry patch near the
+Solaceon Town
+entrance
+D
+P
+Razz Berry
+At the Berry patch near the
+Solaceon Town
+entrance
+D
+P
+Pinap Berry
+At the Berry patch near the
+Solaceon Town
+entrance
+D
+P
+Great Ball
+North of Pokémon Breeder Kahlil
+In the center of the grassy patch left of the Honey Tree below the Café Cabin
+(hidden)
+D
+P
+TM51
+(
+Roost
+)
+Given by the girl on the hill in the southern area
+D
+P
+Café Cabin
+Café Cabin
+Freshly Squeezed Milk
+In this building, you'll find that
+Moomoo Milk
+is sold for
+$
+500 per bottle if you talk to the girl at the counter. You can also battle three Trainers here. Once ready, leave the building and head east to reach
+Route 215
+.
+Trainers (Café Cabin)
+Trainer
+Pokémon
+Waitress
+Kati
+アンナ
+Anna
+Reward:
+$
+704
+Clefairy
+♀
+Lv.
+22
+No item
+Collector
+Fernando
+アキオ
+Akio
+Reward:
+$
+1280
+Mr. Mime
+♂
+Lv.
+17
+No item
+Mr. Mime
+♂
+Lv.
+20
+No item
+Mr. Mime
+♂
+Lv.
+20
+No item
+Collector
+Edwin
+ミキオ
+Mikio
+Reward:
+$
+1216
+Sudowoodo
+♂
+Lv.
+19
+No item
+Sudowoodo
+♂
+Lv.
+19
+No item
+Sudowoodo
+♂
+Lv.
+19
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+← Part 7
+Hearthome City, Amity Square, Route 209
+Diamond and Pearl
+walkthrough
+Route 215, Veilstone City, Veilstone Gym, Getting back Lucas'/Dawn's PokéDex
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1859 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_11
+Keywords: Opelucid City, Opelucid Gym, Route 10, Victory Road
+
+Walkthrough Text:
+Contents
+1
+Opelucid City
+1.1
+Ghetsis gives another speech
+1.2
+Get Props from the old man
+1.3
+The Battle House
+1.4
+Legend of the Twin Dragons
+1.5
+Opelucid Gym
+1.6
+Meet up with Professor Juniper
+2
+Route 10
+2.1
+Badge Check Gates
+3
+Victory Road
+3.1
+1F
+3.2
+2F
+3.3
+1F (east)
+3.4
+2F (east)
+3.5
+3F (east, center)
+3.6
+4F (center)
+3.7
+3F (west)
+3.8
+4F (west)
+3.9
+5F
+3.10
+6F
+3.11
+4F (east)
+3.12
+7F
+3.13
+6F
+3.13.1
+Trial Chamber
+3.14
+Mountaintop
+Opelucid City
+Opelucid City
+W
+Depending on your version,
+Opelucid City
+is either a futuristic city with no trace of the past
+B
+or an ancient-looking city that values its history
+W
+. The city is the location of the region's final Gym, and the Battle House on the north side lets you train yourself in the new battle rules.
+Items
+Item
+Location
+Games
+Max Repel
+South of the Pokémom Center (hidden)
+B
+W
+Ultra Ball
+On the road behind
+Drayden
+'s house (hidden)
+B
+W
+Destiny Knot
+From a girl in the building between the Gym and the Battle House
+B
+W
+Prop
+(once daily)
+From the Musical fan in the westernmost building (Gift Box, Fluffy Beard, Big Bag, Scarlet Hat)
+B
+W
+Float Stone
+From the
+Linebacker
+on the second floor of
+Drayden
+'s house
+B
+W
+Ring Target
+From the girl on the second floor of
+Drayden
+'s house
+B
+W
+Cell Battery
+From a man in the building behind the Pokémon Center,
+after showing him a Pokémon with
+Charge
+from the
+opposite version
+B
+W
+Fresh Water
+From Clyde in the Gym
+B
+W
+After defeating the Opelucid Gym
+TM82
+(
+Dragon Tail
+)
+From
+Drayden
+B
+or
+Iris
+W
+for defeating the Gym
+B
+W
+Master Ball
+Gift from
+Professor Juniper
+for defeating the Gym Leader
+B
+W
+Ghetsis gives another speech
+When you first enter the city,
+Alder
+beckons you to a crowd gathered by the Trainer Tips sign.
+Ghetsis
+tells the people that
+N
+has joined forces with the legendary dragon, and is going to create a new world. He tries to persuade them to release their Pokémon, then he and his entourage leave. His speech puts the city's residents into turmoil.
+After
+Team Plasma
+leaves, two of the residents are still upset by Ghetsis' speech. Alder introduces them as
+Drayden
+and
+Iris
+, the two
+Dragon-type
+specialists that hold a clue regarding the legendary dragon. The two invite you to Drayden's house to talk things over.
+Get Props from the old man
+In the westernmost house is an old man who is a big fan of
+Nimbasa City
+'s Pokémon Musical. Talk to him to get a new Prop once per day. Visit him on four different days to get each Prop.
+The Battle House
+The Battle House is located two doors east of the Gym. Inside, the two
+Ace Trainers
+will battle you according to the new format. The man near the entrance will teach you the detailed rules. Unlike most Trainers, these Ace Trainers can be rebattled every day.
+Trainer
+Pokémon
+Black Version, Rotation Battle
+Ace Trainer
+Eileen
+Reward:
+$
+2340
+Simisage
+♂
+Lv.
+39
+No item
+Simisear
+♂
+Lv.
+39
+No item
+Simipour
+♂
+Lv.
+39
+No item
+Ace Trainer
+Lou
+Reward:
+$
+2340
+Mienfoo
+♂
+Lv.
+39
+No item
+Elgyem
+♂
+Lv.
+39
+No item
+Pawniard
+♂
+Lv.
+39
+No item
+Trainer
+Pokémon
+White Version, Triple Battle
+Ace Trainer
+Lou
+Reward:
+$
+2340
+Simisage
+♂
+Lv.
+39
+No item
+Simisear
+♂
+Lv.
+39
+No item
+Simipour
+♂
+Lv.
+39
+No item
+Ace Trainer
+Eileen
+Reward:
+$
+2340
+Mienfoo
+♂
+Lv.
+39
+No item
+Elgyem
+♂
+Lv.
+39
+No item
+Pawniard
+♂
+Lv.
+39
+No item
+Legend of the Twin Dragons
+Inside
+Drayden
+'s house, he and
+Iris
+tell the story of the legendary dragons. According to them,
+Reshiram
+and
+Zekrom
+were once the same Pokémon. That single dragon, along with twin heroes, brought the
+Unova
+region into being. Things were peaceful, for a time. One day, the older brother who sought truth, and the younger brother who sought ideals, began to argue about who was right. The dragon split its body into two, one siding with each brother. The white dragon pursued truth, while the black dragon sought ideals. Their battle raged endlessly, and because they were once the same entity, their powers were matched. Neither emerged as a clear winner, they simply exhausted themselves. The brothers realized that neither side was right and stopped fighting. But their sons started the feud again, and an instant later, Reshiram and Zekrom destroyed Unova with fire and lightning.
+Unfortunately, neither Drayden or Iris know how to awaken the second dragon from the stone. But since you're in town, Drayden
+B
+/ Iris
+W
+returns to the Gym to await your challenge.
+Opelucid Gym
+Opelucid Gym
+Opelucid City Pokémon Gym
+Leader: Drayden
+The Spartan Mayor
+Opelucid City Pokémon Gym
+Leader: Iris
+The Girl Who Knows the Hearts of Dragons
+As
+Drayden
+and
+Iris
+are both
+Dragon-type
+specialists, you can expect the same from the eight Gym Trainers. The
+Opelucid Gym
+is designed around three dragon statues. Each statue moves its head and neck when the appropriate switch is stepped on. Challengers will need to make multiple passes around the Gym in order to reach the Gym Leader. The dragons here are all vulnerable to
+Ice
+- and
+Dragon-type
+attacks; if you are lacking these moves, use a TM to teach
+Frost Breath
+or
+Blizzard
+. Look out for
+Dragon Dance
+— it raises the user's
+Attack
+and
+Speed
+, so defeat the opponent quickly to avoid taking major damage!
+Fight
+Ace Trainer
+Webster and climb onto the eastern statue. Jump the ramp, battle Ace Trainer Olwen, and drop down onto the statue's right hand; the switch here raises the arm, and moves the dragon's head to the left. Go north over the dragon's face, fight Ace Trainer Jose, and step the statue's left hand; this raises its head, letting you reach the level above. Take the walkway southwest to reach the center statue, drop down onto the switch (which turns its head north, creating a dead-end), and go south to fight
+Veteran
+Hugo. Circle around to hit next switch, which raises the dragon's head to the east. Follow the walkway down the staircase and fight Ace Trainer Tom. Head southwest to reach the third statue, and circle around clockwise to undo the dead-end. Climb up its neck and battle Ace Trainer Dara by the west wall, and drop on the final switch. Climb up the dragon to reach the south wall, and head east. Go northwest from Veteran Kim to climb the middle dragon's back to
+Drayden
+B
+/
+Iris
+W
+.
+Opelucid Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Webster
+ユジ
+Yuji
+Reward:
+$
+2460
+Fraxure
+♂
+Lv.
+41
+No item
+Ace Trainer
+Olwen
+マドカ
+Madoka
+Reward:
+$
+2460
+Deino
+♀
+Lv.
+41
+No item
+Ace Trainer
+Jose
+エイジ
+Eiji
+Reward:
+$
+2400
+Fraxure
+♂
+Lv.
+40
+No item
+Fraxure
+♂
+Lv.
+40
+No item
+Ace Trainer
+Clara
+クレア
+Claire
+Reward:
+$
+2460
+Fraxure
+♀
+Lv.
+41
+No item
+Veteran
+Hugo
+ユーゴ
+Jugo
+Reward:
+$
+3360
+Druddigon
+♂
+Lv.
+42
+No item
+Ace Trainer
+Tom
+ケント
+Kent
+Reward:
+$
+2340
+Deino
+♂
+Lv.
+39
+No item
+Fraxure
+♂
+Lv.
+39
+No item
+Druddigon
+♂
+Lv.
+39
+No item
+Ace Trainer
+Dara
+ユーカ
+Yuuka
+Reward:
+$
+2400
+Deino
+♀
+Lv.
+40
+No item
+Druddigon
+♀
+Lv.
+40
+No item
+Veteran
+Kim
+キム
+Kim
+Reward:
+$
+3280
+Fraxure
+♀
+Lv.
+40
+No item
+Fraxure
+♀
+Lv.
+41
+No item
+Leader
+Drayden
+Opelucid Gym
+Black
+Reward:
+$
+5160
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+Held item:
+None
+Fraxure
+♂
+Lv.
+41
+Dragon Tail
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Assurance
+Dark
+Physical
+--
+Dragon Rage
+Dragon
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Rough Skin
+Held item:
+None
+Druddigon
+♂
+Lv.
+41
+Night Slash
+Dark
+Physical
+--
+Revenge
+Fighting
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Chip Away
+Normal
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+None
+Haxorus
+♂
+Lv.
+43
+Dragon Tail
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Slash
+Normal
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Leader
+Iris
+Opelucid Gym
+White
+Reward:
+$
+5160
+Type:
+Dragon
+Unknown
+Ability:
+Rivalry
+Held item:
+None
+Fraxure
+♀
+Lv.
+41
+Dragon Tail
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Assurance
+Dark
+Physical
+--
+Dragon Rage
+Dragon
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Druddigon
+♀
+Lv.
+41
+Night Slash
+Dark
+Physical
+--
+Revenge
+Fighting
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Chip Away
+Normal
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+None
+Haxorus
+♀
+Lv.
+43
+Dragon Tail
+Dragon
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Slash
+Normal
+Physical
+--
+Assurance
+Dark
+Physical
+--
+When you emerge victorious from your final Gym battle, Drayden / Iris awards you your final Badge! The
+Legend Badge
+makes all Pokémon obey you, regardless of their level. The Gym Leader also rewards your victory with
+TM82
+(
+Dragon Tail
+).
+Meet up with Professor Juniper
+When you leave the Gym,
+Professor Juniper
+is waiting for you. Seeing your eighth Badge, she leads you to the city's north gate, which leads to
+Route 10
+. She is so impressed with your progress, and thankful for your help, she gives you a
+Master Ball
+as a gift.
+When you enter the gate, the guide tells you about a large storm on Route 7. When you pass by the house in the route's center, the old woman lets you inside. Listen to her story, then leave. When you do, the trouble-making Pokémon shows itself in the midst of the downpour. It quickly flies off, taking the storm with it. From this point on,
+Tornadus
+B
+or
+Thundurus
+W
+will roam the region, appearing at level 40. It roams the region's southern routes in the mornings, and the northern routes in the evenings; check the various bulletin boards in every gate to track its location.
+Head north from
+Opelucid City
+.
+Route 10
+Route 10
+Route 10
+is surrounded by tall trees and a winding river. Many strong Trainers here are looking to battle, eager to prepare themselves for the trials ahead. The east end of the route leads to the Badge Check Gates, and
+Victory Road
+.
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Amy
+Reward:
+$
+1248
+Scrafty
+♀
+Lv.
+39
+No item
+Mienfoo
+♀
+Lv.
+39
+No item
+Ace Trainer
+Johan
+Reward:
+$
+2340
+Fraxure
+♂
+Lv.
+39
+No item
+Eelektrik
+♂
+Lv.
+39
+No item
+Accelgor
+♂
+Lv.
+39
+No item
+Veteran
+Karla
+Reward:
+$
+3200
+Maractus
+♀
+Lv.
+39
+No item
+Cryogonal
+Lv.
+40
+No item
+Alomomola
+Lv.
+39
+No item
+Black Belt
+Corey
+Reward:
+$
+1280
+Sawk
+♂
+Lv.
+40
+No item
+Hiker
+Bret
+Reward:
+$
+1216
+Gurdurr
+♂
+Lv.
+38
+No item
+Boldore
+♂
+Lv.
+38
+No item
+Ace Trainer
+Cheyenne
+Reward:
+$
+2400
+Sawsbuck
+♀
+Spring Form
+Lv.
+40
+No item
+Jellicent
+♀
+Female
+Lv.
+40
+No item
+Veteran
+Chester
+Reward:
+$
+3200
+Beartic
+♂
+Lv.
+39
+No item
+Seismitoad
+♂
+Lv.
+39
+No item
+Escavalier
+♂
+Lv.
+40
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Herdier
+B
+W
+Grass
+33-34
+30%
+Rufflet
+B
+W
+Grass
+34-36
+30%
+Vullaby
+B
+W
+Grass
+34-36
+30%
+Bouffalant
+B
+W
+Grass
+34-35
+20%
+Throh
+B
+W
+Grass
+33-36
+10%
+Sawk
+B
+W
+Grass
+33-36
+10%
+Foongus
+B
+W
+Grass
+34-35
+10%
+Dark grass
+Herdier
+B
+W
+Dark grass
+38-39
+30%
+Rufflet
+B
+W
+Dark grass
+39-41
+30%
+Vullaby
+B
+W
+Dark grass
+39-41
+30%
+Bouffalant
+B
+W
+Dark grass
+38-40
+20%
+Throh
+B
+W
+Dark grass
+38-41
+10%
+Sawk
+B
+W
+Dark grass
+38-41
+10%
+Amoonguss
+B
+W
+Dark grass
+39-40
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+33-36
+80%
+Emolga
+B
+W
+Rustling grass
+34
+10%
+Stoutland
+B
+W
+Rustling grass
+36
+5%
+Throh
+B
+W
+Rustling grass
+36
+5%
+Sawk
+B
+W
+Rustling grass
+36
+5%
+Special Pokémon
+Foongus
+B
+W
+Fake item
+30
+Two
+Amoonguss
+B
+W
+Fake item
+40
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Heal
+North of
+Battle Girl
+Amy
+B
+W
+Max Potion
+On the cliff above
+Battle Girl
+Amy (hidden)
+B
+W
+Max Revive
+×3
+From
+Bianca
+after defeating
+Cheren
+B
+W
+Hyper Potion
+In the dark grass near
+Black Belt
+Corey
+B
+W
+Dawn Stone
+In the dark grass near
+Black Belt
+Corey
+B
+W
+Dusk Stone
+From the man near the western bridge
+B
+W
+TM05
+(
+Roar
+)
+On the ledge
+B
+W
+Full Restore
+East of the first bridge
+B
+W
+Climb up the staircase and go east. When you cross the bridge,
+Cheren
+and
+Bianca
+catch up to you. Cheren asks if you are headed to the Pokémon League. He wants to see if you're strong enough to help
+Alder
+, and challenges you again.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Route 10
+Black and White
+Reward:
+$
+4500
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+43
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+43
+Lick
+Ghost
+Physical
+--
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+43
+Assurance
+Dark
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Taunt
+Dark
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Leftovers
+Emboar
+♂
+Lv.
+45
+Heat Crash
+Fire
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Pokémon Trainer
+Cheren
+Route 10
+Black and White
+Reward:
+$
+4500
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+43
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+43
+Lick
+Ghost
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+43
+Assurance
+Dark
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Taunt
+Dark
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Leftovers
+Samurott
+♂
+Lv.
+45
+Aqua Tail
+Water
+Physical
+--
+Slash
+Normal
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Encore
+Normal
+Status
+--
+Pokémon Trainer
+Cheren
+Route 10
+Black and White
+Reward:
+$
+4500
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+43
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Air Slash
+Flying
+Special
+--
+Taunt
+Dark
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+43
+Lick
+Ghost
+Physical
+--
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+Sitrus Berry
+Liepard
+♂
+Lv.
+43
+Assurance
+Dark
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Taunt
+Dark
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Leftovers
+Serperior
+♂
+Lv.
+45
+Giga Drain
+Grass
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Coil
+Poison
+Status
+--
+Slam
+Normal
+Physical
+--
+Once the battle is over,
+Cheren
+heals your Pokémon and
+Bianca
+gives you three
+Max Revives
+to help with the battles ahead. Cheren runs off to train some more, and Bianca leaves you with a few words of encouragement. Go north through the dark grass to pick up a
+Hyper Potion
+and a
+Dawn Stone
+, go south over the bridge, and talk to the man by the trees to get a
+Dusk Stone
+. Get
+TM05
+(
+Roar
+) from the ledge, and go east over the bridge.
+Badge Check Gates
+The Badge Check Gates are the final man-made obstacle standing between you and the Pokémon League. Each Badge opens a different gate, and the rooms between are designed in a style reminiscent of each Gym. Show your Badges to the eight guards, and Victory Road stands tall before you.
+Victory Road
+Victory Road
+Victory Road
+is the final trial before the Pokémon League. Carved into a steep cliffside dotted with caves, you'll need to go back and forth through this network of tunnels to collect all the items. Some of the strongest Trainers in
+Unova
+are doing some last-minute training, so don't expect an easy climb. Stock up on Ultra Balls before you begin, as another legendary Pokémon makes its home near the top floor. Pokémon in your party with the moves Surf and Strength will be convenient.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Shanta
+Reward:
+$
+2700
+Whimsicott
+♀
+Lv.
+45
+No item
+Zebstrika
+♀
+Lv.
+45
+No item
+Ace Trainer
+Dwayne
+Reward:
+$
+2700
+Stoutland
+♂
+Lv.
+45
+No item
+Scolipede
+♂
+Lv.
+45
+No item
+Veteran
+Tiffany
+Reward:
+$
+3600
+Beheeyem
+♀
+Lv.
+44
+No item
+Heatmor
+♀
+Lv.
+44
+No item
+Lilligant
+♀
+Lv.
+45
+No item
+Black Belt
+Tyrone
+Reward:
+$
+1376
+Scrafty
+♂
+Lv.
+43
+No item
+Mienfoo
+♂
+Lv.
+43
+No item
+Conkeldurr
+♂
+Lv.
+43
+No item
+Ace Trainer
+Cathy
+Reward:
+$
+2640
+Simisage
+♂
+Lv.
+44
+No item
+Simisear
+♂
+Lv.
+44
+No item
+Simipour
+♂
+Lv.
+44
+No item
+Doctor
+Logan
+Reward:
+$
+2580
+Gothorita
+♀
+Lv.
+43
+No item
+Leavanny
+♂
+Lv.
+43
+No item
+Ace Trainer
+David
+Reward:
+$
+2640
+Klang
+Lv.
+44
+No item
+Seismitoad
+♂
+Lv.
+44
+No item
+Darmanitan
+♂
+Lv.
+44
+No item
+Veteran
+Martell
+Reward:
+$
+3680
+Gigalith
+♂
+Lv.
+45
+No item
+Eelektross
+♂
+Lv.
+46
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Outside
+Heatmor
+B
+W
+Rough
+37-40
+45%
+Vullaby
+B
+W
+Rough
+38-40
+35%
+Rufflet
+B
+W
+Rough
+38-40
+35%
+Fraxure
+B
+W
+Rough
+40
+10%
+Mienfoo
+B
+W
+Rough
+38-40
+10%
+1F
+Durant
+B
+W
+Cave
+37-42
+40%
+Deino
+B
+W
+Cave
+38-40
+20%
+Boldore
+B
+W
+Cave
+37-41
+20%
+Woobat
+B
+W
+Cave
+37-41
+10%
+Mienfoo
+B
+W
+Cave
+39-41
+10%
+2F, 3F, 4F, 5F, 6F, 7F, Trial Chamber
+Durant
+B
+W
+Cave
+37-42
+40%
+Boldore
+B
+W
+Cave
+37-41
+30%
+Woobat
+B
+W
+Cave
+37-41
+20%
+Mienfoo
+B
+W
+Cave
+39-41
+10%
+Dust Clouds
+Excadrill
+B
+W
+Dust cloud
+36-41
+100%
+Trial Chamber
+Terrakion
+B
+W
+Cave
+42
+One
+Surfing
+Basculin
+B
+W
+Surfing
+20-45
+100%
+Basculin
+B
+W
+Surfing
+20-45
+100%
+Rippling Water
+Basculin
+B
+W
+Surfing
+20-50
+100%
+Basculin
+B
+W
+Surfing
+20-50
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Revive
+Center entrance; north of the entrance (requires
+Surf
+)
+West entrance; on a rock on the narrow walkway (hidden)
+B
+W
+Rare Candy
+East entrance, by the rear wall (requires
+Surf
+)
+B
+W
+Max Potion
+On a rock on the narrow walkway (hidden)
+B
+W
+2F
+Ultra Ball
+Eastern room, upper level (hidden)
+B
+W
+3F
+Hyper Potion
+On a rock southeast of
+Veteran
+Tiffany (hidden)
+B
+W
+TM02
+(
+Dragon Claw
+)
+On a ledge north of
+Black Belt
+Tyrone
+B
+W
+4F
+Revive
+On a rock west of
+Doctor
+Logan (hidden)
+Calcium
+On the ledge southeast of
+Doctor
+Logan
+B
+W
+Full Heal
+On the wall east of
+Veteran
+Martell (hidden)
+B
+W
+Carbos
+Near the stairs north of
+Veteran
+Martell (hidden)
+B
+W
+Outside
+TM12
+(
+Taunt
+)
+2F; far east
+B
+W
+Full Restore
+4F; east side, south of
+Ace Trainer
+Cathy
+B
+W
+Ultra Ball
+1F; far west side
+B
+W
+Full Heal
+6F; outside the western doorway
+B
+W
+TM93
+(
+Wild Charge
+)
+5F; accessible from the mountaintop
+B
+W
+Nugget
+1F; in the large fenced-in area to the west
+B
+W
+1F
+As you enter the cave you have the option to
+Surf
+north west from the entrance to find a
+Max Revive
+. You may also climb the stairs to the second floor on the east wall of the cave.
+2F
+Fight Ace Trainer Shanta before re-emerging on the cliffside. Two people are discussing sliding down the cliff. Slide down and follow him through the broken fence to find yourself on the eastern side of ground level.
+1F (east)
+Make sure to stay to the right and not to jump all the way back to the beginning cave! Walk all the way east until you find the very next cave entrance. Here you will find a pool of water, convenient to surf over, or walk around it to reach the stairs. You may Surf across the northern patch of water to reach a
+Rare Candy
+. Either way climb the stairs.
+2F (east)
+Look for the hidden
+Ultra Ball
+on the upper level, and climb the stairs to the north.
+3F (east, center)
+Beat up Ace Trainer Dwayne, then walk outside and go west. Sliding down here will make you start over a level.
+If you'd like to get to the Elite Four quickly, skipping two trainers and a couple items, including
+TM12
+(
+Taunt
+), go through the last entrance to the far left. Jump ahead to section 3F (west) of the walkthrough.
+Otherwise, take the middle entrance. Look for a hidden
+Hyper Potion
+before battling Veteran Tiffany. There are two stairways to the east; go down the southern one and
+shove
+the boulder into place to create a shortcut back here.
+After making the shortcut, head back up to the second floor and exit back onto the ledge. Head all the way right, and slide down to pick up
+TM12
+(
+Taunt
+).
+Next, take advantage of the shortcut you just opened by sliding down and returning to the starting door of floor 1. Take the stairs to the second floor, and use the shortcut to return to 3F (Center).
+Again, you could head outside and take the left entrance for a quicker trip to the Elite Four (jump to 3F (west)), or take the stairs up to the fourth floor.
+4F (center)
+Fight Ace Trainer Cathy, grab the
+Full Restore
+from the outer ledge, and go downstairs and outside. Proceed through the left-most cave entrance.
+3F (west)
+Battle Black Belt Tyrone, and climb the stairs.
+4F (west)
+Defeat Doctor Logan to have him heal your Pokémon. Walk around the upper level to the north, drop the boulder for another shortcut, grab the hidden
+Revive
+from the rock, and climb upstairs to 5F.
+5F
+You may go back out onto the cliffside. Drop through either break in the fence, grab the
+Calcium
+inside near Doctor Logan, then go back outside and head west. Cross the bridge and drop down the two levels to the first floor to get an
+Ultra Ball
+. Use the two shortcuts to make your way back up the mountain to the sixth floor.
+Or skip the Calcium and head straight up the stairs.
+6F
+Battle Ace Trainer David by the stairs, and take the western exit to get a
+Full Heal
+. Go back inside and take the other exit, then drop through the eastern break in the fence.
+4F (east)
+Go north and battle Veteran Martell. Look for a
+Full Heal
+hidden on the wall, and go north to find a
+Carbos
+hidden across from the stairs. Climb up to 7F.
+7F
+Head west and go back downstairs to the sixth floor.
+6F
+Move the boulder into place, then go west. This part of the cave is known as the Trial Chamber.
+Trial Chamber
+Inside is
+Terrakion
+if you've completed Mistralton Cave, the third member of the
+Swords of Justice
+. Like the others, its
+Justified
+ability boosts its
+Attack
+when hit by a
+Dark-type
+attack, making its
+Sacred Sword
+move much more powerful. Wear it down with
+Normal
+-,
+Fire
+-, or
+Bug-type
+moves before trying to catch it.
+Types:
+Rock
+Fighting
+Ability:
+Justified
+Held item:
+None
+Terrakion
+Lv.
+42
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Sacred Sword
+Fighting
+Physical
+--
+Go east and climb back up to 7F, then exit to the south. You've reached the end of
+Victory Road
+, though there are still a few items to track down. You may want to go north to visit the Pokémon League first, so you can simply
+fly
+there later.
+Mountaintop
+Stand on the west side of the Pokémon Ranger, drop down two levels, and cross the bridge to find
+TM93
+(
+Wild Charge
+). Fly to the top of the mountain and stand on the Ranger's right side. Slide down the cliff-face to the ground floor to get a
+Nugget
+, and enter the west side of 1F. Climb midway up the cave and go east to find a hidden
+Max Potion
+and a hidden
+Max Revive
+. Take the stairs to 3F, where you'll find
+TM02
+(
+Dragon Claw
+). Jump the ledge, exit to the south, and fly up to the Pokémon League.
+← Part 10
+Relic Castle, Nacrene Museum, Route 8, Moor of Icirrus, Tubeline Bridge, Route 9
+Black and White
+walkthrough
+The Pokémon League, N's Castle
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

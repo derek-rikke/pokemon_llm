@@ -1,0 +1,61 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 22
+Keywords: The Pokémon League
+
+### Part 22: Pokémon League Walkthrough
+
+**Pokémon League Lobby**  
+- Stock up on **Hyper Potions**, **Full Restores**, and **Full Heals**. Consider purchasing battle items from **Lilycove Department Store** (e.g., **X Defense**, **Dire Hits**, **Guard Spec.**).  
+- Talk to the Ace Trainers to enter the League.
+
+---
+
+### **Elite Four Battles**
+
+#### **Battle 1: Sidney (Dark-type)**
+- **Mightyena**: Use Bug, Fighting, or Fairy moves. Watch out for **Swagger**.  
+- **Shiftry**: Weak to Bug; use strong Bug moves.  
+- **Sharpedo**: Fast but fragile; exploit its weaknesses.  
+- **Cacturne**: Use its weaknesses against it.  
+- **Absol**: High Attack; target it with strong moves.
+
+#### **Battle 2: Phoebe (Ghost-type)**
+- **Dusclops**: Use Ghost or Dark moves; avoid physical attackers.  
+- **Sableye**: Use Fairy moves, or hit it after using **Foresight**.  
+- **Banette (male)**: Can use **Toxic**; knock it out before it can curse you.  
+- **Banette (female)**: Watch for **Will-O-Wisp**; use strong attacks.  
+- **Dusknoir**: Use Ghost or Dark moves; avoid physical attacks.
+
+#### **Battle 3: Glacia (Ice-type)**
+- **Glalie**: Use Fire, Fighting, or Rock moves.  
+- **Froslass**: Attack with super-effective moves; watch for status effects.  
+- **Walrein**: High defenses; focus on Grass or Electric moves to defeat it.
+
+#### **Battle 4: Drake (Dragon-type)**
+- **Altaria**: Use special attacks; exploit its weaknesses with Ice moves.  
+- **Kingdra**: Use Dragon, Fairy, or Freeze-Dry.  
+- **Flygon**: Both use strong moves; target with Ice attacks.  
+- **Salamence**: Use special attacks, particularly Ice-type moves.
+
+---
+
+### **Champion: Steven**
+- **Skarmory**: Use Fire or Electric moves; avoid physical attacks.  
+- **Claydol**: Use Water, Grass, or Dark moves; disrupt with **Taunt**.  
+- **Aggron**: Target with Fighting or Ground moves; be cautious of its high Defense.  
+- **Cradily**: Use Bug, Fighting, Ice, or Steel attacks.  
+- **Armaldo**: Use Water, Rock, or Steel moves to exploit weaknesses.  
+- **Metagross**: Use Fire, Ground, Ghost, or Dark moves; beware of its Mega Evolution.
+
+---
+
+### **Hall of Fame**
+- After defeating Steven, you'll enter the Hall of Fame to register your team.
+
+### **Route 103 - Rival Battle 5**
+- Battle your rival (May/Brendan) for a nostalgic final match. Their team is similar to your last battle, with an additional Raichu.
+
+---
+
+### **Ending**
+- After the battle, enjoy the credits and a short cutscene before the game saves and concludes.

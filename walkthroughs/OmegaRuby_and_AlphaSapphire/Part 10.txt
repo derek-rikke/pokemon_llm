@@ -1,0 +1,1448 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_10
+Keywords: Route 111 (Desert), Petalburg Gym, Route 118, Southern Island
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 111 (desert)
+1.1
+Relic Recovery!
+1.2
+Desert Ruins
+2
+Back to Petalburg City
+3
+Petalburg City
+3.1
+Petalburg Gym
+4
+Route 118
+4.1
+Surf's Up!
+4.2
+Get Good with a Good Rod
+4.3
+Gabby and Ty
+4.4
+Meet up with Steven
+5
+Southern Island
+5.1
+Exterior
+5.2
+Interior
+5.2.1
+VS Team Magma
+5.2.2
+VS Team Aqua
+5.2.3
+Mega Evolution
+Route 111 (desert)
+Route 111 (desert)
+With the
+Go-Goggles
+, you can finally venture into the windswept desert on
+Route 111
+. The powerful sandstorm deters most would-be explorers, so no one has yet claimed the valuable treasures lying among the dunes.
+Trainers
+Trainer
+Pokémon
+Camper
+Cliff
+Reward:
+$
+416
+Sandslash
+♂
+Lv.
+26
+No item
+Picnicker
+Heidi
+Reward:
+$
+416
+Sandslash
+♀
+Lv.
+26
+No item
+Camper
+Drew
+Reward:
+$
+416
+Graveler
+♂
+Lv.
+26
+No item
+Picnicker
+Becky
+Reward:
+$
+416
+Cacnea
+♀
+Lv.
+26
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+728
+Baltoy
+Lv.
+24
+No item
+Sandslash
+♂
+Lv.
+26
+No item
+Black Belt
+Daisuke
+Reward:
+$
+896
+Requires the
+Mach Bike
+Machoke
+♂
+Lv.
+28
+No item
+Rematch
+Ruin Maniac
+Dusty
+Reward:
+$
+756
+After earning the
+Balance Badge
+Baltoy
+Lv.
+27
+No item
+Sandslash
+♂
+Lv.
+27
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+896
+After earning the
+Feather Badge
+Baltoy
+Lv.
+32
+No item
+Sandslash
+♂
+Lv.
+32
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+1,092
+After earning the
+Mind Badge
+Sandslash
+♂
+Lv.
+39
+No item
+Claydol
+Lv.
+39
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+1,288
+After entering the
+Hall of Fame
+Sandslash
+♂
+Lv.
+46
+No item
+Tyrantrum
+♂
+Lv.
+46
+No item
+Aurorus
+♂
+Lv.
+46
+No item
+Claydol
+Lv.
+46
+No item
+Aerodactyl
+♂
+Lv.
+46
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandshrew
+OR
+AS
+Deep sand
+20-23
+40%
+Trapinch
+OR
+AS
+Deep sand
+20, 22
+20%
+Cacnea
+OR
+AS
+Deep sand
+21, 23
+20%
+Baltoy
+OR
+AS
+Deep sand
+21, 23
+20%
+Horde Encounter
+Sandshrew
+OR
+AS
+Horde Encounter
+11
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+×2
+Northeast of the southern entrance
+In a large sand pit, east of Picnicker Becky (hidden)
+OR
+AS
+Root Fossil
+or
+Claw Fossil
+Northeast corner
+OR
+AS
+Revive
+On a rock, south of the two Fossils (hidden)
+OR
+AS
+PP Up
+On a dune, south of Camper Drew (hidden)
+OR
+AS
+Protein
+On a rock, southwest of Camper Drew (hidden)
+OR
+AS
+Rare Candy
+East-central side, in the northern of two small sand pits (hidden)
+OR
+AS
+Safety Goggles
+From the Bug Maniac in the southeast
+OR
+AS
+TM37
+(
+Sandstorm
+)
+Southernmost point, south of the Desert Ruins
+OR
+AS
+Relic Recovery!
+The unending sandstorm seems to have uncovered two treasures from the ancient past in the desert's northeast corner. The
+Root Fossil
+and
+Claw Fossil
+belong to two species that once lived in the primordial ocean. The researchers at
+Devon Corporation
+back in
+Rustboro
+are able to revive any Fossil they receive into a long-lost Pokémon. The Root Fossil becomes the
+Rock
+/
+Grass
+Lileep
+, while the Claw Fossil turns into the
+Rock
+/
+Bug
+Anorith
+. Removing either one from their resting place causes the other to sink into the sand, so choose carefully!
+Desert Ruins
+The unusual arrangement of stones to the south is known as the
+Desert Ruins
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Back to Petalburg City
+Now that you've claimed your fourth Badge and combed the desert for treasure, your next stop is
+Petalburg City
+. The city is far to the southwest, but there are several ways by which to return there.
+Backtrack through
+Mt. Chimney
+and
+Jagged Pass
+to
+Lavaridge
+. Speak to May/Brendan outside the Gym to quickly travel with your friend on her/his way back to Petalburg.
+Head northwest around the volcano to
+Fallarbor Town
+, then south through
+Meteor Falls
+to return to Rustboro.
+Go south from the desert to
+Mauville City
+, then west to
+Verdanturf Town
+. Cut through
+Rusturf Tunnel
+to return to Rustboro.
+If you decide not to accompany your friend to the city, be sure to stop by
+Devon Corporation
+on the way to have the researchers there revive your Fossil Pokémon.
+Petalburg City
+Petalburg Gym
+Petalburg Gym
+R
+S
+Petalburg City Pokémon Gym
+Leader: Norman
+A man in pursuit of power!
+The
+Petalburg Gym
+, which specializes in
+Normal-type
+Pokémon, is styled as a traditional dojo with multiple rooms. Each room has a single Trainer who uses special items to gain the upper hand in battle. The sign on each door gives a clue to the strategy of the Trainer in the room behind it. The first two rooms beyond the lobby are labeled "Speed" and "Accuracy". The three rooms farther on are named "Zero Reduction", "Defense", and "Recovery". The final two rooms before the Gym Leader are labeled "Strength" and "One-Hit KO". A minimum of three Gym Trainers must be defeated to reach the Gym Leader.
+Fighting
+types like
+Machop
+and
+Makuhita
+will give you the upper hand here.
+Room
+Opponent
+Item Used
+Notes
+Front rooms
+Speed Room
+Ace Trainer Randall
+X Speed
+Paralyze
+his
+Delcatty
+to counter its
+Speed
+boost, or just knock it out quickly.
+Accuracy Room
+Ace Trainer Mary
+X Accuracy
+Her Delcatty's
+Sing
+can become problematic, with accuracy rising from 55% to 73%.
+Middle rooms
+Zero Reduction Room
+Ace Trainer Parker
+Guard Spec.
+Prevents stat reduction. Avoid stat-lowering moves and simply attack.
+Defense Room
+Ace Trainer Lori
+X Defense
+Use
+Special
+attacks to ignore her
+Linoone
+'s Defense boost.
+Recovery Room
+Ace Trainer George
+Super Potion
+Use super-effective moves to defeat his
+Linoone
+before it can be healed.
+Back rooms
+Strength Room
+Ace Trainer Jody
+X Attack
+Counter with Attack-lowering Abilities, like
+Intimidate
+, or moves, like
+Growl
+and
+Charm
+.
+One-Hit KO Room
+Ace Trainer Berke
+Dire Hit
+Sharply raises
+Zangoose
+'s
+critical hit
+ratio. Knock it out quickly with super-effective moves.
+In the final room, your father has been waiting for you. Now that you have earned four other Badges, he is now ready to accept your challenge.
+Norman
+leads with the first of his two
+Slaking
+. Slaking usually leads with
+Yawn
+; if you switch out your Pokémon to keep it from falling
+asleep
+, your next Pokémon will be safe from attack. This is due to Slaking's Ability,
+Truant
+, which prevents it from attacking every other turn. However, his
+Vigoroth
+has no such problem. When it appears in battle, use
+Protect
+or
+Detect
+to avoid serious damage from its
+Retaliate
+move, which doubles in power if its ally was defeated a turn earlier. His third Pokémon's
+Chip Away
+move ignores the target's stat changes, like
+Defense
+boosts from moves like
+Bulk Up
+or
+Iron Defense
+. While
+Ghost
+Pokémon are usually unaffected by Normal-type attacks, and vice-versa, Norman's entire team can use
+Feint Attack
+to deal serious damage to such Pokémon. However, if you have any Pokemon that know the move
+Protect
+, Norman's two
+Slaking
+can be easily defeated due to their
+Truant
+ability.
+Petalburg Gym
+Trainers
+Trainer
+Pokémon
+Speed Room
+Ace Trainer
+Randall
+Reward:
+$
+1,680
+Delcatty
+♀
+Lv.
+28
+No item
+Accuracy Room
+Ace Trainer
+Mary
+Reward:
+$
+1,680
+Delcatty
+♀
+Lv.
+28
+No item
+Zero Reduction Room
+Ace Trainer
+Parker
+Reward:
+$
+1,680
+Linoone
+♂
+Lv.
+28
+No item
+Defense Room
+Ace Trainer
+Lori
+Reward:
+$
+1,680
+Linoone
+♀
+Lv.
+28
+No item
+Recovery Room
+Ace Trainer
+George
+Reward:
+$
+1,680
+Linoone
+♂
+Lv.
+28
+No item
+Strength Room
+Ace Trainer
+Jody
+Reward:
+$
+1,680
+Zangoose
+♀
+Lv.
+28
+No item
+One-Hit KO Room
+Ace Trainer
+Berke
+Reward:
+$
+1,680
+Zangoose
+♂
+Lv.
+28
+No item
+Leader
+Norman
+Petalburg Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+3,600
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+None
+Slaking
+♂
+Lv.
+28
+Retaliate
+Normal
+Physical
+--
+Yawn
+Normal
+Status
+--
+Feint Attack
+Dark
+Physical
+--
+Encore
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Vigoroth
+♂
+Lv.
+28
+Encore
+Normal
+Status
+--
+Feint Attack
+Dark
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+None
+Slaking
+♂
+Lv.
+30
+Retaliate
+Normal
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Swagger
+Normal
+Status
+--
+Chip Away
+Normal
+Physical
+--
+Afterwards, your father awards you the
+Balance Badge
+, which ensures the obedience of all Pokémon up to level 60 and enables the use of
+Surf
+in the field. He also hands you
+TM67
+(
+Retaliate
+) as a gift. Norman then leads you outside, where the two of you run into
+Wally
+and his father as they are visiting the city. After a short discussion about Wally and his improving health, his father gives you
+HM03
+(
+Surf
+) as thanks for helping the young Trainer. In battle,
+Surf
+is a strong
+Water-type
+attack that hits all adjacent Pokemon; in the field, it allows you to cross bodies of water. Norman says that you should now be able to handle the stronger opponents on
+Hoenn
+'s east coast, beyond
+Route 118
+. The two Trainers set off for
+Mauville City
+to prepare, and the two fathers have another short discussion.
+Route 118
+Route 118
+The seaside
+Route 118
+links the west and east sides of the region together. Several new species of Pokémon can be found here, including
+Electric
+types that will be of great value in the upcoming Gym.
+Trainers
+Trainer
+Pokémon
+West side
+Aroma Lady
+Rose
+Reward:
+$
+512
+Oddish
+♀
+Lv.
+16
+No item
+Roselia
+♀
+Lv.
+16
+No item
+Fisherman
+Wade
+Reward:
+$
+544
+Carvanha
+♂
+Lv.
+17
+No item
+Guitarist
+Dalton
+Reward:
+$
+448
+Magnemite
+Lv.
+16
+No item
+Whismur
+♂
+Lv.
+16
+No item
+East side
+Fisherman
+Barny
+Reward:
+$
+832
+Carvanha
+♂
+Lv.
+26
+No item
+Gyarados
+♂
+Lv.
+26
+No item
+Bird Keeper
+Perry
+Reward:
+$
+1,160
+Pelipper
+♂
+Lv.
+29
+No item
+Bird Keeper
+Chester
+Reward:
+$
+1,120
+Swablu
+♂
+Lv.
+26
+No item
+Swellow
+♂
+Lv.
+28
+No item
+Delinquent
+Miley
+Reward:
+$
+896
+Cacnea
+♀
+Lv.
+26
+No item
+Mightyena
+♀
+Lv.
+28
+No item
+Rematch
+Aroma Lady
+Rose
+Reward:
+$
+800
+After earning the
+Heat Badge
+Gloom
+♀
+Lv.
+25
+No item
+Roselia
+♀
+Lv.
+25
+No item
+Aroma Lady
+Rose
+Reward:
+$
+1,024
+After earning the
+Feather Badge
+Gloom
+♀
+Lv.
+32
+No item
+Roselia
+♀
+Lv.
+32
+No item
+Aroma Lady
+Rose
+Reward:
+$
+1,344
+After earning the
+Rain Badge
+Sunkern
+♀
+Lv.
+42
+No item
+Roselia
+♀
+Lv.
+42
+No item
+Bellossom
+♀
+Lv.
+42
+No item
+Aroma Lady
+Rose
+Reward:
+$
+1,536
+After entering the
+Hall of Fame
+Bellossom
+♀
+Lv.
+48
+No item
+Sunflora
+♀
+Lv.
+48
+No item
+Roserade
+♀
+Lv.
+48
+No item
+Guitarist
+Dalton
+Reward:
+$
+700
+After earning the
+Heat Badge
+Magnemite
+Lv.
+25
+No item
+Loudred
+♂
+Lv.
+25
+No item
+Guitarist
+Dalton
+Reward:
+$
+896
+After earning the
+Feather Badge
+Magneton
+Lv.
+32
+No item
+Loudred
+♂
+Lv.
+32
+No item
+Guitarist
+Dalton
+Reward:
+$
+1,204
+After earning the
+Rain Badge
+Magneton
+Lv.
+43
+No item
+Exploud
+♂
+Lv.
+43
+No item
+Guitarist
+Dalton
+Reward:
+$
+1,344
+After entering the
+Hall of Fame
+Chatot
+♂
+Lv.
+48
+No item
+Exploud
+♂
+Lv.
+48
+No item
+Magnezone
+Lv.
+48
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Linoone
+OR
+AS
+Grass
+21-24
+40%
+Electrike
+OR
+AS
+Grass
+21-24
+40%
+Wingull
+OR
+AS
+Grass
+22, 24
+15%
+Kecleon
+OR
+AS
+Grass
+24
+5%
+Long grass
+Linoone
+OR
+AS
+Long grass
+21-23
+40%
+Electrike
+OR
+AS
+Long grass
+21, 22, 24
+40%
+Pelipper
+OR
+AS
+Long grass
+22, 24
+15%
+Kecleon
+OR
+AS
+Long grass
+24
+5%
+Horde Encounter
+Electrike
+OR
+AS
+Grass
+12
+60%
+Wingull
+OR
+AS
+Grass
+12
+35%
+Kecleon
+OR
+AS
+Grass
+12
+5%
+Electrike
+OR
+AS
+Long grass
+12
+60%
+Wingull
+OR
+AS
+Long grass
+12
+35%
+Kecleon
+OR
+AS
+Long grass
+12
+5%
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Carvanha
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+West side
+Heart Scale
+On the beach, on a rock near Fisherman Wade (hidden)
+OR
+AS
+Stardust
+North end of the beach
+OR
+AS
+Leaf Stone
+Occasionally received from Aroma Lady Rose after defeating her in a rematch
+OR
+AS
+East side
+Good Rod
+From the Fisherman on the north end of the beach
+OR
+AS
+Iron
+On the beach, on a rock to the northwest of Fisherman Barny (hidden)
+OR
+AS
+Sitrus Berry
+×6
+From the soft soil patch, west of the exit to Route 119
+OR
+AS
+Hyper Potion
+East of Bird Keeper Perry
+OR
+AS
+Surf's Up!
+When you're ready to cross the river, approach the beach and use
+Surf
+. Hop on your seafaring Pokémon's back to glide across the water. While Surfing, it is impossible to use the field moves
+Cut
+,
+Strength
+, or
+Rock Smash
+; however,
+several
+other
+moves
+are allowed. The
+Dowsing Machine
+can't be used while crossing the waves, but you can use an
+Escape Rope
+or a fishing rod while doing so. Most Pokémon will let you travel twice as fast as on foot, the same speed as the
+Acro Bike
+. Set sail with a
+Sharpedo
+and you will be able to move at triple the speed, on par with that of the
+Mach Bike
+; however, the high speed makes it too difficult to use a fishing rod.
+Get Good with a Good Rod
+The Fisherman on the river's eastern bank believes that Good Rods are really good. Agree with his statement to receive your very own
+Good Rod
+, a mid-level fishing rod that can catch even more kinds of Pokémon than the
+Old Rod
+.
+Gabby and Ty
+After being interviewed by
+Gabby and Ty
+on the south side of
+Route 111
+, the intrepid news team can be found searching for their next story on the eastern bank of
+Route 118
+'s river. Accept their challenge to another
+Double Battle
+and be sure to give them a great interview when the dust settles!
+Meet up with Steven
+As you leave the beach, you are noticed by
+Steven
+. He hasn't seen you since your first meeting in
+Granite Cave
+, and is pleased to see how much you have grown as a Trainer. He wonders if you will raise Pokémon of all types, or only your favorite one. He turns to leave, but the two of you suddenly heard a Pokémon cry out. As the two of you scan the horizon for the source, you see the legendary Pokémon
+Latias
+OR
+/
+Latios
+AS
+headed your way! There seems to be trouble brewing, and Steven asks that you come along to help. The two Trainers climb onto the Pokémon's back and soar off to the south.
+Southern Island
+Southern Island, exterior
+Southern Island
+is a tiny, remote island in the southern ocean. Widely considered a mirage, the island is surrounded by a mysterious veil that makes approach impossible for mere humans. This same anomaly also prevents anyone from
+Flying
+or
+Teleporting
+from the island.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Latias
+OR
+AS
+Gift
+30
+One
+Latios
+OR
+AS
+Gift
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mega Bracelet
+From Steven, after defeating
+Team Magma
+OR
+/
+Team Aqua
+AS
+OR
+AS
+Latiosite
+Held by Latios
+OR
+Latiasite
+Held by Latias
+AS
+Exterior
+Steven gets an odd feeling about the place immediately upon arrival, like he's walking through an illusion. He recounts an old tale about the two Pokémon that live on the island, which are believed to guard some secret about
+Mega Evolution
+. He wonders if something dangerous could be here because of that. As you approach the forest up ahead, a strange voice calls out to you with a telepathic message:
+(Those whose memories fade seek to carve them in their hearts…)
+.
+Interior
+Continue on to find the other Pokémon,
+Latios
+OR
+/
+Latias
+AS
+, in hiding. A short time later,
+Team Magma
+OR
+/
+Team Aqua
+AS
+arrives. They're aiming to catch rare Pokémon and steal
+Mega Stones
+, and they can't be allowed to succeed! Join forces with
+Steven
+and his
+Metang
+as you take them on in a
+Multi Battle
+.
+VS Team Magma
+Magma Admin
+and
+Team Magma
+Courtney
+Grunt
+Southern Island
+Omega Ruby
+Reward:
+$
+4,260
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+None
+Camerupt
+♀
+Lv.
+31
+Lava Plume
+Fire
+Special
+--
+Earth Power
+Ground
+Special
+--
+Curse
+Ghost
+Status
+--
+Take Down
+Normal
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♂
+Lv.
+29
+Sludge
+Poison
+Special
+--
+Self-Destruct
+Normal
+Physical
+--
+Haze
+Ice
+Status
+--
+Gyro Ball
+Steel
+Physical
+--
+VS Team Aqua
+Aqua Admin
+and
+Team Aqua
+Matt
+Grunt
+Southern Island
+Alpha Sapphire
+Reward:
+$
+4,260
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+31
+Swagger
+Normal
+Status
+--
+Scary Face
+Normal
+Status
+--
+Ice Fang
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Grimer
+♀
+Lv.
+29
+Mud Bomb
+Ground
+Special
+--
+Minimize
+Normal
+Status
+--
+Fling
+Dark
+Physical
+--
+Sludge Bomb
+Poison
+Special
+--
+Mega Evolution
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+Latiosite
+Latios
+Lv.
+30
+Psycho Shift
+Psychic
+Status
+--
+Dragon Breath
+Dragon
+Special
+--
+Luster Purge
+Psychic
+Special
+--
+Heal Pulse
+Psychic
+Status
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+Latiasite
+Latias
+Lv.
+30
+Psycho Shift
+Psychic
+Status
+--
+Dragon Breath
+Dragon
+Special
+--
+Mist Ball
+Psychic
+Special
+--
+Heal Pulse
+Psychic
+Status
+--
+Shocked by their loss, the villainous pair will flee the island. Once they are gone, Steven will restore your team to full health. Since Latios
+OR
+/Latias
+AS
+is grateful for your aid, it will join your party. You may need to send a party Pokémon to the PC to make room for the
+Dragon
+/
+Psychic
+type. The legendary Pokémon even brings its own
+Mega Stone
+, the
+Latiosite
+OR
+/
+Latiasite
+AS
+, along with it! Steven gives you the
+Mega Bracelet
+Key Item. The
+Key Stone
+embedded in it will allow you to temporarily
+Mega Evolve
+Pokémon equipped with the proper Mega Stone during battle. Mega Evolution may change a Pokémon's stats, Ability, or even type, often making them much more formidable for the rest of the battle. Now that you've chased off Team Magma
+OR
+/Team Aqua
+AS
+, you accompany Steven back to
+Route 118
+, where he leaves you to continue your journey.
+Also, if you have an
+Eon Ticket
+, a key item that can be obtained through
+StreetPass
+, you can make a
+return trip
+to catch the other Eon Pokémon.
+← Part 9
+Route 112 (south), Mt. Chimney, Jagged Pass, Lavaridge Town
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 119, Weather Institute, Fortree City, Fortree Gym
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

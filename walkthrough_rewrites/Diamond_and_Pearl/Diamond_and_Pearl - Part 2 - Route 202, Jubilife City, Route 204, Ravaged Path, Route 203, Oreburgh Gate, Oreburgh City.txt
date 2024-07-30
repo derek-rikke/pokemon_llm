@@ -1,0 +1,58 @@
+Game: Diamond_and_Pearl
+Part: 2
+Keywords: Route 202, Jubilife City, Route 204, Ravaged Path, Route 203, Oreburgh Gate, Oreburgh City
+
+### Pokémon Diamond and Pearl Walkthrough: Part 2
+
+#### Route 202
+- **Catch Pokémon**: Start catching wild Pokémon like Bidoof, Shinx, or Starly. Use Poké Balls given by Lucas/Dawn after their demonstration.
+- **Trainers**: Face three trainers here (Levels 3-5) to gain experience.
+- **Key Pokémon**:
+  - **Bidoof** (30% chance, Levels 2-4)
+  - **Shinx** (30% chance, Levels 3-4)
+  - **Starly** (40% chance, Levels 2-4)
+  
+#### Jubilife City
+- **Trainers' School**: Deliver the Parcel to Barry, then battle students for TM10 (Hidden Power).
+- **Pokétch Company**: Collect three Coupons from clowns to receive the Pokétch.
+- **Global Trade Station**: Requires Coal Badge for entry.
+- **Items**: 
+  - **Quick Claw** - from a girl in the Jubilife Condominiums.
+  - **Old Rod** - from a fisherman near Route 218.
+  
+#### Route 204
+- **Catch Pokémon**: Encounter Pokémon like Budew and Zubat. Budew can evolve into Roselia and then Roserade.
+- **Trainers**: Battle trainers for experience (Levels 5-7).
+  
+#### Ravaged Path
+- **Catch Pokémon**: Look for Zubat and Geodude in the cave.
+- **Note**: You need Rock Smash to progress further.
+
+#### 1st Rival Battle (Route 203)
+- **Prepare**: Heal and level up Pokémon to Level 7.
+- **Battle Barry**: He uses:
+  - **Starly** (Level 7)
+  - Your Pokémon's type matters for effective counters.
+  
+#### Route 203
+- **Capture Pokémon**: Find Bidoof, Shinx, Abra, and Kricketot.
+- **Items**: 
+  - **Poké Ball** - on the first ledge.
+  - **Repel** - north bank of the pond.
+
+#### Oreburgh Gate
+- **Get HM06 (Rock Smash)** from the Hiker. You can't use it until you earn the Coal Badge. 
+- **Trainers**: Battle two trainers inside.
+
+#### Oreburgh City
+- **Oreburgh Gym**: Barry mentions Roark is in Oreburgh Mine.
+- **Pokémon Trades**: Trade Machop for Abra.
+- **Items**: Find Dusk Ball, Heal Ball, Great Ball, and Super Potion in various buildings.
+
+#### Oreburgh Mining Museum
+- Revive Fossils here later in the game.
+
+#### Next Steps
+- Head north to Route 207 for a Machop or south to Oreburgh Mine to continue your journey.
+
+This concise guide focuses on key instructions, item locations, and essential strategies to progress in Pokémon Diamond and Pearl.

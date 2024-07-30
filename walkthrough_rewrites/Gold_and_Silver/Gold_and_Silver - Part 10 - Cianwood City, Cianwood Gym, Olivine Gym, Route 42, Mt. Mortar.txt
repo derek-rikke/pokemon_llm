@@ -1,0 +1,40 @@
+Game: Gold_and_Silver
+Part: 10
+Keywords: Cianwood City, Cianwood Gym, Olivine Gym, Route 42, Mt. Mortar
+
+### Part 10 Walkthrough Summary
+
+**Cianwood City**
+- **Pharmacy**: Speak to the shopkeeper to receive the **SecretPotion** after informing her about Olivine Lighthouse.
+- **Items**:
+  - Revive: Hidden under rocks on the beach (requires Rock Smash).
+  - Max Ether: Near the northern building, under a rock (requires Rock Smash).
+  - Gift Shuckle: Received from a PokéManiac in town.
+  
+- **Cianwood Gym**:
+  - **Leader**: Chuck (Fighting-type).
+  - **Strategy**: Use Psychic, Flying, or Grass-type moves against his Poliwrath and Primeape. Defeat Gym Trainers first and use Strength to clear boulders.
+  - **Reward**: Storm Badge and TM01 (DynamicPunch).
+
+**Olivine City**
+- **Olivine Lighthouse**: Deliver the SecretPotion to Jasmine to restore Amphy's health. She will return to the Gym.
+  
+- **Olivine Gym**:
+  - **Leader**: Jasmine (Steel-type).
+  - **Strategy**: Use Fire, Fighting, or Ground-type Pokémon against her Steelix and Magnemite.
+  - **Reward**: Mineral Badge and TM23 (Iron Tail).
+
+**Route 42**
+- Connects Ecruteak City to Mahogany Town. Use Surf to cross lakes or navigate through Mt. Mortar.
+- **Available Pokémon**: Spearow, Zubat, Mankey, Mareep, and more.
+- **Items**:
+  - Ultra Ball: Near Mt. Mortar's west entrance.
+  - Apricorns: Found south of Mt. Mortar's middle entrance (requires Surf and Cut).
+
+**Mt. Mortar**
+- An optional cave with valuable items and Pokémon. Requires Surf, Strength, Flash, and Waterfall.
+- **Entrance Pokémon**: Zubat, Machop, Rattata, Goldeen.
+- **Items in the Cave**: Ether, Hyper Potions, Guard Spec.
+- **Navigation**: Use Strength on boulders and explore upper and lower cave levels for items.
+
+**Next Steps**: Fly back to Ecruteak City and proceed east to Route 42.

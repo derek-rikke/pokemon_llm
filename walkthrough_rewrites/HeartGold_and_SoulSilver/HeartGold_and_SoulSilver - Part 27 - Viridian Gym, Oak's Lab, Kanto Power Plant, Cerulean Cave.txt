@@ -1,0 +1,51 @@
+Game: HeartGold_and_SoulSilver
+Part: 27
+Keywords: Viridian Gym, Oak's Lab, Kanto Power Plant, Cerulean Cave
+
+**Pokémon HeartGold and SoulSilver Walkthrough - Part 27**
+
+**Viridian City**
+- **Viridian Gym**
+  - **Leader**: Blue (Level 55-60)
+  - **Strategy**: 
+    - Use Bug-type moves against Exeggutor.
+    - Special moves against Arcanine to bypass Intimidate.
+    - Water, Grass, or Ground moves to take down Rhydon.
+    - Psychic moves for Machamp.
+    - Electric, Rock, or Ice moves for Pidgeot.
+  - **Reward**: Earth Badge, TM92 (Trick Room).
+
+**Pallet Town**
+- **Oak's Lab**
+  - Receive HM08 (Rock Climb) after earning all Kanto Badges.
+  - Access to Mt. Silver.
+
+**Optional Areas with Rock Climb**
+- **Cherrygrove City**: Nugget (requires Surf and Rock Climb).
+- **National Park**: Shiny Stone (requires Rock Climb).
+- **Route 38**: Lax Incense, HP Up (requires Rock Climb).
+- **Olivine City**: Rare Candy (requires Rock Climb).
+- **Route 42**: Dubious Disc (requires Rock Climb).
+- **Mt. Mortar**: Various items (requires Rock Climb).
+- **Route 45**: PP Max (requires Rock Climb).
+- **Rock Tunnel**: Iron, HP Up, Oval Stone (requires Rock Climb).
+- **Diglett's Cave**: Calcium, PP Max, Rock Incense (requires Rock Climb).
+- **Cinnabar Island**: Rare Candy, Iron, Star Piece, Magmarizer (requires Rock Climb).
+
+**Route 10 - Kanto Power Plant**
+- **Zapdos (Level 50)**: Use Rock and Ice-type moves to weaken, then switch to Grass, Bug, Flying, Fighting, or Steel-type attacks.
+
+**Cerulean City - Cerulean Cave**
+- **Preparation**: Use Flash, Surf, Rock Smash, and Rock Climb.
+- **Mewtwo (Level 70)**: Use Bug, Ghost, and Dark-type moves to weaken. Inflict status ailments to improve capture chances. 
+
+**Item Locations in Cerulean Cave**:
+- **1F**: Nugget, Hyper Potion, Full Restore, Revive, Max Elixir, Sea Incense, Rare Candy.
+- **2F**: TM24 (Thunderbolt), PP Up, Zinc, Full Heal, Ultra Balls, Odd Incense, Protein.
+- **B1F**: Ultra Balls, Dusk Stone, Max Revive, Electirizer, Nuggets, Black Sludge.
+
+**Final Tips**:
+- Stock up on Ultra Balls and Dusk Balls for legendary captures.
+- Consider revisiting areas with Rock Climb for valuable items after obtaining HM08.
+
+**Next Steps**: Prepare for your journey to Mt. Silver after completing the Kanto region challenges.

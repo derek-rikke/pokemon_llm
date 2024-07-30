@@ -1,0 +1,591 @@
+Part: Part 27
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_27
+Keywords: Guardians of Alola:Ruins of Conflict, Ruins of Life, Haina Desert & Ruins of Abundance, Ruins of Hope
+
+Walkthrough Text:
+Contents
+1
+Melemele Island
+1.1
+Iki Town
+1.2
+Ruins of Conflict
+1.2.1
+Interior
+1.2.1.1
+VS Tapu Koko
+2
+Akala Island
+2.1
+Ruins of Life
+2.1.1
+VS Tapu Lele
+3
+Ula'ula Island
+3.1
+Haina Desert
+3.1.1
+Area 1
+3.1.2
+Area 2
+3.1.3
+Area 4 (South)
+3.1.4
+Area 3
+3.1.5
+Area 5
+3.1.6
+Area 6
+3.1.7
+Area 7
+3.1.8
+Area 4 (North)
+3.1.9
+Ruins of Abundance
+3.1.9.1
+VS Tapu Bulu
+4
+Poni Island
+4.1
+Ruins of Hope
+4.1.1
+VS Tapu Fini
+Melemele Island
+Iki Town
+Family, friend, captain, and kahuna alike have traveled to
+Iki Town
+to mark the crowning of
+Alola
+'s first
+Champion
+.
+Hala
+presents you to the crowd and the celebration gets underway. A while later,
+Lillie
+asks if the two of you could sneak away to visit the
+Ruins of Conflict
+, now the bridge on
+Mahalo Trail
+has been fixed. She believes that, as your island challenge is now complete,
+Tapu Koko
+is likely waiting for you.
+Ruins of Conflict
+The Ruins of Conflict
+Location on Melemele Island
+The
+Ruins of Conflict
+are located to the north of
+Mahalo Trail
+. The shrine to
+Tapu Koko
+can be found in the inner chamber.
+Items
+Item
+Location
+Games
+Zygarde Cell
+Right side of the entrance
+S
+M
+Tapunium Z
+Automatically obtained after battling Tapu Koko
+S
+M
+Interior
+Inside the ruins,
+Lillie
+expresses her thanks to
+Tapu Koko
+for helping to save
+Cosmog
+so that it could become the Legendary Pokémon. Next, she asks you to show your appreciation as only
+Alola
+'s
+Champion
+could, and heals your team to full health. When you touch the statue, you hear a voice in your head as though it's coming from your
+Z-Ring
+, and
+Melemele
+'s
+guardian
+appears!
+VS Tapu Koko
+Tapu Koko
+'s
+Electric Surge
+Ability immediately triggers
+Electric Terrain
+conditions for five turns.
+Agility
+boosts its already-high
+Speed
+; when followed by
+Electro Ball
+, the damage dealt can rise to dangerous levels.
+Nature's Madness
+, the signature move of the four guardians, cuts the target's health in half. Use
+Ground
+- and
+Poison-type
+attacks to deal serious damage first, then follow up with
+Dark
+-,
+Fighting
+-, and
+Flying-type
+moves to wear its health down further.
+If defeated or run from, Tapu Koko reappears after you
+defend your title
+.
+Types:
+Electric
+Fairy
+Ability:
+Electric Surge
+Held item:
+None
+Tapu Koko
+Lv.
+60
+Nature's Madness
+Fairy
+Special
+--
+Discharge
+Electric
+Special
+--
+Agility
+Psychic
+Status
+--
+Electro Ball
+Electric
+Special
+--
+Afterward, you and Lillie return to the festival. When the fireworks end, the credits begin to roll.
+Akala Island
+Ruins of Life
+The Ruins of Life
+Location on Akala Island
+The
+Ruins of Life
+are found on the southwest part of
+Akala Island
+, to the north of
+Akala Outskirts
+.
+VS Tapu Lele
+Tapu Lele
+'s
+Psychic Surge
+Ability immediately triggers
+Psychic Terrain
+conditions for five turns.
+Extrasensory
+and
+Moonblast
+build on its high
+Special Attack
+and a
+same-type attack bonus
+to boost damage output to dangerous levels.
+Nature's Madness
+, the signature move of the four guardians, cuts the target's health in half. Use
+Ghost
+-,
+Steel
+-, and
+Poison-type
+attacks to deal serious damage first, then follow up with
+Fighting
+-, and
+Psychic-type
+moves to wear its health down further.
+If defeated or run from, Tapu Lele reappears after you
+defend your title
+.
+Types:
+Psychic
+Fairy
+Ability:
+Psychic Surge
+Held item:
+None
+Tapu Lele
+Lv.
+60
+Nature's Madness
+Fairy
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Flatter
+Dark
+Status
+--
+Moonblast
+Fairy
+Special
+--
+Ula'ula Island
+Haina Desert
+Haina Desert
+The Ruins of Abundance
+Location on Ula'ula Island
+Haina Desert
+is located to the north of
+Route 13
+on
+Ula'ula Island
+. During daylight hours, the
+harsh sunlight
+turns the desert into a broiling labyrinth; at night, a
+sandstorm
+rages instead. The shifting sands make it easy to become disoriented, as traveling one way or another does not always lead where one might expect. Visitors must first brave the unforgiving terrain in order to reach the
+Ruins of Abundance
+.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Sandile
+Sandile
+S
+M
+Deep sand
+28-31
+70%
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Deep sand
+28-31
+30%
+Ambush encounters
+Sandile
+Sandile
+S
+M
+Sand cloud
+28-31
+70%
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Sand cloud
+28-31
+20%
+Trapinch
+Trapinch
+S
+M
+Sand cloud
+28-31
+10%
+Special allies in weather
+Any
+Rain
+or
+hail
+:
+Castform
+S
+M
+Deep sand
+28-31
+11%
+Any
+Sandstorm
+:
+Gabite
+S
+M
+Deep sand
+28-31
+10%
+Any
+Sandstorm
+:
+Castform
+S
+M
+Deep sand
+28-31
+1%
+Any
+Rain
+or
+hail
+:
+Castform
+S
+M
+Sand cloud
+28-31
+11%
+Any
+Sandstorm
+:
+Gabite
+S
+M
+Sand cloud
+28-31
+10%
+Any
+Sandstorm
+:
+Castform
+S
+M
+Sand cloud
+28-31
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Elixir
+Area 1 (West); accessed via Area 1's east exit
+S
+M
+Safety Goggles
+Area 4 (South); from the Hiker
+Night
+S
+M
+Zygarde Cell
+Area 3; near the plant in the middle
+S
+M
+Sun Stone
+Area 3; from the man, after showing him a
+Solrock
+S
+Moon Stone
+Area 3; from the man, after showing him a
+Lunatone
+M
+Psychium Z
+Area 6; on the pedestal in the east
+S
+M
+Comet Shard
+Area 7; surrounded by rocky terrain (requires
+Mudsdale Gallop
+)
+S
+M
+TM85
+(
+Dream Eater
+)
+Area 4 (North); accessed via Area 7's south exit
+S
+M
+Area 1
+Go northeast and take the east exit. This leads to a dead-end on the west side of the same area, and a
+Max Elixir
+. Backtrack and continue northward.
+Area 2
+It is not necessary to take the west exit, as it only leads to the east side. Go north to reach the next area.
+Area 4 (South)
+This part of the desert is a narrow valley with large rocks blocking the way. Speak to the Hiker here at night, and after telling him that your Pokémon's eyes are "looking pretty bleary", he gives you a pair of
+Safety Goggles
+. Backtrack to Area 2, then go east.
+Area 3
+This area leads east, then north, with a
+Zygarde Cell
+near the plant growing in the middle. There is a man, apparently suffering from amnesia, standing near this plant. If shown a
+Solrock
+S
+/
+Lunatone
+M
+, he regains his memories and rewards you with a
+Sun Stone
+S
+/
+Moon Stone
+M
+. Turn northward and continue to Area 5.
+Area 5
+A large ring of rocks covers most of the area. The north exit only leads back to the Hiker from Area 4, and the west exit leads to the east side. Take the east exit instead.
+Area 6
+This dead-end path holds a pedestal with a Z-Crystal. Collect the
+Psychium Z
+and go back through the west exit; this leads to a new area than the previous one.
+Area 7
+Use
+Mudsdale Gallop
+to reach the
+Comet Shard
+in the rocky terrain, then take the south exit.
+Area 4 (North)
+Pick up
+TM85
+(
+Dream Eater
+) and return to Area 7. Once there, take the north exit to reach the sacred ruins.
+Ruins of Abundance
+The
+Ruins of Abundance
+are found deep within
+Haina Desert
+.
+Items
+Item
+Location
+Games
+Zygarde Cell
+Next to the shrine's entrance
+S
+M
+VS Tapu Bulu
+Tapu Bulu
+'s
+Grassy Surge
+Ability immediately triggers
+Grassy Terrain
+conditions for five turns.
+Megahorn
+and
+Skull Bash
+are powerful moves that build on its already high physical
+Attack
+, while the latter also gives it a
+Defense
+boost.
+Nature's Madness
+, the signature move of the four guardians, cuts the target's health in half. Use
+Poison
+-,
+Fire
+-, and
+Ice-type
+attacks for example to deal serious damage first, then follow up with less effective
+Dark
+-,
+Ground
+-, and
+Water-type
+moves to wear its health down further.
+If defeated or run from, Tapu Koko reappears after you
+defend your title
+.
+Types:
+Grass
+Fairy
+Ability:
+Grassy Surge
+Held item:
+None
+Tapu Bulu
+Lv.
+60
+Nature's Madness
+Fairy
+Special
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Skull Bash
+Normal
+Physical
+--
+Poni Island
+Ruins of Hope
+The Ruins of Hope
+Location on Poni Island
+The
+Ruins of Hope
+are found on the southeast side of
+Poni Island
+, to the east of
+Poni Breaker Coast
+.
+VS Tapu Fini
+Tapu Fini
+'s
+Misty Surge
+Ability immediately triggers
+Misty Terrain
+conditions for five turns. While the other guardians focus more on speed or offense, Tapu Fini uses its high defenses and its
+HP
+-restoring
+Aqua Ring
+move to sustain itself.
+Nature's Madness
+, the signature move of the four guardians, cuts the target's health in half. Use
+Grass
+-,
+Electric
+-, and
+Poison-type
+attacks to deal serious damage first, then follow up with
+Dark
+-,
+Fire
+-, and
+Ice-type
+moves to wear its health down further.
+If defeated or run from, Tapu Koko reappears after you
+defend your title
+.
+Types:
+Water
+Fairy
+Ability:
+Misty Surge
+Held item:
+None
+Tapu Fini
+Lv.
+60
+Nature's Madness
+Fairy
+Special
+--
+Muddy Water
+Water
+Special
+--
+Aqua Ring
+Water
+Status
+--
+Hydro Pump
+Water
+Special
+--
+← Part 26
+The Pokémon League
+Sun and Moon
+walkthrough
+Post-Game: Tracking The Ultra Beasts
+Part 28 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

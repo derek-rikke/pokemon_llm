@@ -1,0 +1,54 @@
+Game: Crystal
+Part: 19
+Keywords: Cerulean City, Route 24, Route 25, Cerulean Gym, Route 5
+
+**Part 19 Walkthrough: Cerulean City and Surroundings**
+
+**Cerulean City**
+- **Cerulean Gym**: Challenge the gym to earn the Cascade Badge. The gym specializes in Water-type Pokémon. Use Electric or Grass-type moves for an advantage.
+- **Hidden Items**: 
+  - Machine Part (in the water, northwest area of the gym; requires Surf)
+  - Berserk Gene (in river via Route 24; hidden)
+
+**Route 24**
+- **Key Encounter**: Battle the Team Rocket Grunt on Nugget Bridge. After defeating him, he reveals the Machine Part is hidden in Cerulean Gym.
+- **Available Pokémon**: 
+  - Abra (Level 12)
+  - Bellsprout (Level 10)
+  - Goldeen (Level 5-14; Surfing)
+
+**Route 25**
+- **Challenge**: Defeat six trainers for a Nugget from Cooltrainer Kevin. 
+- **Misty Encounter**: Meet Misty on Cerulean Cape; she invites you to her gym.
+
+**Kanto Power Plant**
+- After retrieving the Machine Part, return to the Power Plant to restore power and receive TM07 (Zap Cannon).
+
+**Saffron City**
+- Visit Copycat's house; she lost her Poké Doll, which is in Vermilion City.
+- Retrieve the Poké Doll from the Pokémon Fan Club in Vermilion City and return it to Copycat for a Magnet Train Pass.
+
+**Lavender Town**
+- Speak to the Radio Tower manager to receive the EXPN Card after restoring power.
+
+**Bill's Cottage** (Cerulean Cape)
+- Show specific Pokémon to Bill's grandfather to receive Evolution Stones:
+  - Lickitung → Everstone
+  - Oddish → Leaf Stone
+  - Staryu → Water Stone
+  - Growlithe → Fire Stone
+  - Pichu → Thunderstone
+
+**Route 5**
+- Scenic route to Saffron City; features the Underground Path.
+- **Available Pokémon**: 
+  - Pidgey (Level 13)
+  - Jigglypuff (Level 14)
+  - Snubbull (Level 13)
+
+**Items**:
+- Cleanse Tag (from the old woman in former Pokémon Day Care)
+- Full Restore (hidden, Route 5)
+- X Special (hidden, Route 5)
+
+This concise guide focuses on key locations, battles, and items necessary for progression.

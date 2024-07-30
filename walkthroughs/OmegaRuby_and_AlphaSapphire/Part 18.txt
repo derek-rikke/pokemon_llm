@@ -1,0 +1,1189 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_18
+Keywords: Mauville Hills, New Mauville, Route 129, Route 130, Route 131, Pacifidlog Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mauville City
+1.1
+Mauville Hills
+1.1.1
+North Hall
+1.1.2
+East Hall
+1.1.3
+South Hall
+2
+Route 110
+2.1
+New Mauville
+2.1.1
+Security Check
+3
+Route 129
+3.1
+Secret Shore
+4
+Route 130
+4.1
+Secret Meadow
+5
+Route 131
+6
+Pacifidlog Town
+6.1
+An Old Legend
+6.2
+Friendship is Everything
+6.3
+Time for a Trade
+Mauville City
+When you return to
+Mauville
+, you find
+Wattson
+standing near the Square Tower in the central courtyard. He explains that the tower acts as an alert system for
+New Mauville
+, an abandoned underground facility on
+Route 110
+. The illuminated tower indicates that there may be a disturbance in New Mauville, and Wattson asks you to his
+Mauville Hills
+apartment to discuss the matter further.
+Mauville Hills
+Mauville Hills
+is a high-end apartment complex located on the city's second floor. These plush accommodations are leased only to Mauville's most elite residents, but as
+Wattson
+has updated your security clearance, you are free to come and go. The second floor can be reached by taking either elevator on the city's north side.
+Items
+Item
+Location
+Games
+Elixir
+Apt. 1, from the girl after defeating Circie
+OR
+AS
+Smile Ribbon
+Apt. 2, from the Ribbon Belle
+Su
+OR
+AS
+Alert Ribbon
+Apt. 2, from the Ribbon Belle
+Mo
+OR
+AS
+Shock Ribbon
+Apt. 2, from the Ribbon Belle
+Tu
+OR
+AS
+Downcast Ribbon
+Apt. 2, from the Ribbon Belle
+We
+OR
+AS
+Careless Ribbon
+Apt. 2, from the Ribbon Belle
+Th
+OR
+AS
+Relax Ribbon
+Apt. 2, from the Ribbon Belle
+Fr
+OR
+AS
+Snooze Ribbon
+Apt. 2, from the Ribbon Belle
+Sa
+OR
+AS
+Best Friends Ribbon
+Apt. 2, from a woman if the player's lead Pokémon is fully
+affectionate
+OR
+AS
+TM89
+(
+U-turn
+)
+Apt. 11, on the balcony
+OR
+AS
+Lopunnite
+East Hall, from a loan shark outside Apt. 12
+OR
+AS
+TM24
+(
+Thunderbolt
+)
+Apt. 13, from Wattson after investigating New Mauville
+OR
+AS
+Casteliacone
+Apt. 14; from a Fairy Tale Girl for
+$
+200, if the player has
+Regice
+in their party
+OR
+AS
+North Hall
+Apartment 1
+, in the northwest, belongs to the Rotation Frump. This old woman, named Circie, used to be a great
+Rotation Battler
+years ago. She offers to battle you once per day with this unique format; defeat her, and her granddaughter will give you an
+Elixir
+each time.
+Apartment 2
+, in the northeast, is the home of the Ribbon Belle. Speak to her to receive enough copies of a certain Ribbon for your entire party; the type received depends on the day of the week. By speaking to the other girl, you can receive the Best Friends Ribbon, as long as your lead Pokémon is affectionate enough toward you.
+East Hall
+Apartment 3
+, in the northeast, belongs to the
+old guys
+found in the city's Pokémon Center. After giving you each of their two
+O-Powers
+, they return here. Speak to the Storyteller after visiting the powerless man in Apt. 11, and he asks that you fetch the man. Speak to the powerless man to bring him to Apt. 3, where the old guys transfer their powers to their successor one by one. Once all five old guys have left, the powerless man becomes
+Mr. Bonding
+, who gives you the Hatching Power before leaving.
+Apartment 11
+, in the northwest, belongs to a businessman depressed with his lack of power. This home includes balcony access, where
+TM89
+(
+U-turn
+) can be found.
+Apartment 12
+, in the southwest, is home to a frightened man. This Collector is late on his rent payment, and is being harassed by a loan shark for his money. The two then enter the locked apartment for a brief conversation. Return a short time later to find the loan shark standing outside, where he hands you a
+Lopunnite
+he took as payment.
+South Hall
+Apartment 13
+, Wattson's home, is located in the northeast. He asks you to investigate New Mauville, and press a button on the computer there to reset the security system. He then takes a photo of your eyes to submit to the facility's eye recognition software, clearing you as authorized personnel. You're all set to investigate, and Wattson advises you to Surf around
+Route 110
+to reach the building's entrance.
+Apartment 14
+, in the northwest, belongs to a little girl who is a big fan of ice cream. This Fairy Tale Girl offers to sell a
+Casteliacone
+for
+$
+200, but only to Trainers with a
+Regice
+in their party.
+Route 110
+New Mauville
+New Mauville
+New Mauville
+was intended to be an underground city extending dozens of floors below the surface. However, the project died in development when it was discovered to be a habitat for wild Pokémon. The area emits a strong magnetic field that may cause
+certain
+Pokémon
+to evolve.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+OR
+AS
+Cave
+22-25
+50%
+Voltorb
+OR
+AS
+Cave
+22-25
+50%
+Horde Encounter
+Voltorb
+OR
+AS
+Horde Encounter
+12
+65%
+Magnemite
+OR
+AS
+Horde Encounter
+12
+35%
+Special Pokémon
+Voltorb
+OR
+AS
+Fake item
+25
+Four
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Escape Rope
+Front room, in the northeast, eastern item ball in the southern row
+OR
+AS
+Paralyze Heal
+Front room, in the northeast, central item ball in the northern row
+OR
+AS
+Thunder Stone
+Front room, in the northeast, western item ball in the northern row
+OR
+AS
+Max Repel
+Front room, in the southwest corner, on a darker floor tile (hidden)
+OR
+AS
+Full Heal
+Generator room, in the northwest, west of the generator
+OR
+AS
+Ultra Ball
+Generator room, in the northeast corner
+OR
+AS
+Ampharosite
+Generator room, in the southeast
+OR
+AS
+Metal Coat
+Generator room, in the southeast
+OR
+AS
+Fake Items
+Voltorb
+×4
+Front room, in the northeast, central item ball in the southern row
+Front room, in the northeast, western item ball in the southern row
+Front room, in the northwest, in the middle of the sand
+Generator room, in the northeast, east of the generator
+OR
+AS
+Security Check
+Once you explore the area, check the computer terminal in the back room to perform a security scan. This verifies that there are no unusual threats present in the facility. With your task complete, return to
+Wattson
+'s apartment in Mauville Hills. Inform him that everything is all right in New Mauville, and the grateful Gym Leader rewards you with
+TM24
+(
+Thunderbolt
+).
+Route 129
+Route 129
+Route 129
+lies to the south of
+Route 128
+. Though an optional route, the many Trainers and treasures found here make it a worthwhile place to explore.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Fisk
+Reward:
+$
+1,248
+Lanturn
+♂
+Lv.
+39
+No item
+Fisherman
+Sheaffer
+Reward:
+$
+1,184
+Sharpedo
+♂
+Lv.
+37
+No item
+Whiscash
+♂
+Lv.
+37
+No item
+Ace Trainer
+Honor
+Reward:
+$
+2,340
+Torkoal
+♀
+Lv.
+39
+No item
+Medicham
+♀
+Lv.
+39
+No item
+Triathlete
+Chase
+Reward:
+$
+1,560
+Seadra
+♂
+Lv.
+39
+No item
+Swimmer ♀
+Tisha
+Reward:
+$
+576
+Luvdisc
+♀
+Lv.
+36
+No item
+Azumarill
+♀
+Lv.
+36
+No item
+Corsola
+♀
+Lv.
+36
+No item
+Swimmer ♂
+Reed
+Reward:
+$
+592
+Pelipper
+♂
+Lv.
+37
+No item
+Seadra
+♂
+Lv.
+37
+No item
+Requires
+Dive
+Scuba Diver
+Jason
+Reward:
+$
+1,640
+Lanturn
+♂
+Lv.
+41
+No item
+Scuba Diver
+Colten
+Reward:
+$
+1,600
+Golduck
+♂
+Lv.
+38
+No item
+Gyarados
+♂
+Lv.
+40
+No item
+Free Diver
+Coral
+Reward:
+$
+1,600
+Clamperl
+♀
+Lv.
+38
+No item
+Tentacruel
+♀
+Lv.
+40
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+Underwater
+Chinchou
+OR
+AS
+Seaweed
+25
+50%
+Clamperl
+OR
+AS
+Seaweed
+30
+30%
+Lanturn
+OR
+AS
+Seaweed
+30
+15%
+Relicanth
+OR
+AS
+Seaweed
+30, 35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+South sandbar in the enclosed area (hidden, requires
+Dive
+)
+OR
+AS
+Heart Scale
+South sandbar in the enclosed area (hidden, requires
+Dive
+)
+OR
+AS
+Underwater
+Lustrous Orb
+Northeast seaweed patch, in the northeast bare spot (hidden)
+OR
+AS
+Blue Shard
+Bare spot in the east-central seaweed patch (hidden)
+OR
+AS
+Splash Plate
+Second bare spot in the seaweed patch to the southeast of Scuba Diver Jason (hidden)
+OR
+AS
+Zap Plate
+Central bare spot in the central seaweed patch, east of Free Diver Coral (hidden)
+OR
+AS
+Toxic Plate
+Southwest bare spot in the southwest seaweed patch (hidden)
+OR
+AS
+Secret Shore
+Secret Shore
+is a small beach on the southeast edge of
+Route 129
+. It can only be reached by Diving beneath the waves and surfacing on the route's east side. The beach is one of three locations that serious
+Secret Base
+enthusiasts seek out, as a base's layout tends to be better the farther away it is from civilization. There are no Trainers, wild Pokémon, or items here.
+Route 130
+Route 130
+Route 130
+is a short, straightforward route that links Routes
+129
+and
+131
+.
+Trainers
+Trainer
+Pokémon
+Swimmer ♀
+Katie
+Reward:
+$
+576
+Golduck
+♀
+Lv.
+38
+No item
+Seaking
+♀
+Lv.
+36
+No item
+Triathlete
+Karsen
+Reward:
+$
+1,480
+Golduck
+♂
+Lv.
+37
+No item
+Tentacruel
+♂
+Lv.
+37
+No item
+Swimmer ♂
+Rodney
+Reward:
+$
+624
+Crawdaunt
+♂
+Lv.
+39
+No item
+Requires
+Dive
+Scuba Diver
+Silas
+Reward:
+$
+1,560
+Sealeo
+♂
+Lv.
+39
+No item
+Whiscash
+♂
+Lv.
+39
+No item
+Free Diver
+Cordura
+Reward:
+$
+1,640
+Corsola
+♀
+Lv.
+41
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Horsea
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Seadra
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+Underwater
+Chinchou
+OR
+AS
+Seaweed
+25
+50%
+Clamperl
+OR
+AS
+Seaweed
+30
+30%
+Lanturn
+OR
+AS
+Seaweed
+30
+15%
+Relicanth
+OR
+AS
+Seaweed
+30, 35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Underwater
+Green Shard
+Northwest bare spot in the northeast seaweed patch (hidden)
+OR
+AS
+Fist Plate
+Just south of Scuba Diver Silas (hidden)
+OR
+AS
+Icicle Plate
+Bare spot in the southern seaweed patch (hidden)
+OR
+AS
+Earth Plate
+In the main area, in the northwest, in the center of the passageway south of Free Diver Cordura (hidden)
+OR
+AS
+Meadow Plate
+Bare spot at the dead-end to the east of Free Diver Cordura (hidden)
+OR
+AS
+Griseous Orb
+Small northeast trench, northwest of the sunlit spot (hidden)
+OR
+AS
+Secret Meadow
+Secret Meadow
+is a small meadow surrounded by cliffs on the northern edge of
+Route 130
+. It can only be reached by Diving beneath the waves and surfacing in the route's northwest corner. The meadow is one of three locations that serious
+Secret Base
+enthusiasts seek out, as a base's layout tends to be better the farther away it is from civilization. There are no Trainers, wild Pokémon, or items here.
+Route 131
+Route 131
+Route 131
+lies between
+Route 130
+to the east and
+Pacifidlog Town
+to the west. There are no underwater trenches in this stretch of ocean, but several Trainers on the surface are looking to battle. On the route's north side is a large island, currently off-limits, that is home to the towering
+Sky Pillar
+.
+Trainers
+Trainer
+Pokémon
+Swimmer ♀
+Kara
+Reward:
+$
+624
+Clamperl
+♀
+Lv.
+39
+No item
+Swimmer ♂
+Richard
+Reward:
+$
+624
+Wailmer
+♂
+Lv.
+39
+No item
+Swimmer ♂
+Herman
+Reward:
+$
+592
+Seadra
+♂
+Lv.
+37
+No item
+Gyarados
+♂
+Lv.
+37
+No item
+Swimmer ♀
+Susie
+Reward:
+$
+624
+Starmie
+Lv.
+39
+No item
+Sis & Bro
+Rell & Ian
+Reward:
+$
+760
+Azumarill
+♂
+Lv.
+39
+No item
+Sealeo
+♂
+Lv.
+38
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Surfing (exclusively as
+hidden Pokémon
+)
+Finneon
+OR
+AS
+Surfing
+30
+??%
+Frillish
+OR
+AS
+Surfing
+30
+??%
+Alomomola
+OR
+AS
+Surfing
+30
+??%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Horsea
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Seadra
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pacifidlog Town
+Pacifidlog Town
+Pacifidlog Town
+is a humble community resting on the calm waters of eastern
+Hoenn
+. These floating homes surround a central Pokémon Center, where weary Trainers can catch a break from the waves.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+Special Pokémon
+Corsola
+OR
+AS
+Trade
+Bellossom
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM03
+(
+Psyshock
+)
+From a man in the southeast house
+OR
+AS
+Heart Scale
+×2
+East of the door to the southeast house (hidden)
+South-central house; held by Coroso, the traded
+Corsola
+OR
+AS
+Kangaskhanite
+West side of the Pokémon Center platform (requires
+Surf
+)
+OR
+AS
+Big Pearl
+West side of the Pokémon Center platform (hidden, requires
+Surf
+)
+OR
+AS
+TM21
+(
+Frustration
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's
+friendship
+is low
+OR
+AS
+TM27
+(
+Return
+)
+Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is high
+OR
+AS
+TM56
+(
+Fling
+)
+From a man in the northwest house
+OR
+AS
+An Old Legend
+Visit the northeast house and talk to the girl inside. She tells you a mysterious bit of wisdom passed down from her grandfather:
+Six dots open three doors
+. Her father also remembers hearing tales of three Pokémon representing the powers of
+Rock
+,
+Ice
+, and
+Steel
+. It seems that Hoenn still has some secrets to discover!
+Friendship is Everything
+Stop by the southwest house to meet the brother of the Pokémon Fan Club chairman. Have him evaluate your relationship with your lead Pokémon, and he'll reward your friendship with
+TM27
+(
+Return
+). If your Pokémon is unfriendly toward you, he'll give you
+TM21
+(
+Frustration
+) instead.
+Time for a Trade
+The woman in the south-central house is having trouble catching different Pokémon around town. She wishes to trade her
+Corsola
+, which is holding a
+Heart Scale
+, for a
+Bellossom
+. Corsola can be found on
+Route 128
+, but almost never appear. Bellossom evolves from
+Gloom
+, which can be found easily in several areas, including the
+Safari Zone
+.
+← Part 17
+Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+Omega Ruby and Alpha Sapphire
+walkthrough
+Routes 132, 133, and 134, Sealed Chamber, Island Ruins, Desert Ruins, Ancient Tomb
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

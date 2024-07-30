@@ -1,0 +1,741 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_6
+Keywords: Melemele Grand Trial, Ten Carat Hill, Hau'oli City (Shopping Mall)
+
+Walkthrough Text:
+Contents
+1
+Iki Town
+1.1
+Melemele Grand Trial
+2
+Route 1 (Hau'oli Outskirts)
+2.1
+Home
+2.2
+Ten Carat Hill
+2.2.1
+Cave
+2.2.2
+Farthest Hollow
+3
+Hau'oli City
+3.1
+Shopping District
+3.1.1
+Shopping Mall
+3.1.1.1
+Gracidea
+3.1.1.1.1
+Male fashion items
+3.1.1.1.2
+Female fashion items
+3.1.1.2
+Antiquities of the Ages
+3.1.1.3
+Move Tutor Booth
+3.1.1.4
+Battle Buffet
+3.1.2
+Ilima's House
+3.2
+Marina
+Iki Town
+Iki Town
+Professor Kukui
+and
+Lillie
+are waiting for you back in
+Iki Town
+. The professor points out that
+island kahuna
+Hala
+uses
+Fighting-type
+Pokémon, and advises using
+Flying
+- or
+Psychic-type
+moves. Avoid using
+Normal
+Pokémon against him, as they will take increased damage from Fighting attacks. Once he and Lillie leave, you spot Hala farther ahead near the stairway. Speak to him and he congratulates you on clearing the trial in
+Verdant Cavern
+. The kahuna asks if you are ready; say yes, and the two combatants walk up onto the stage.
+Melemele Grand Trial
+As a
+Fighting-type
+Pokémon specialist,
+Hala
+'s team takes serious damage from
+Flying
+,
+Psychic
+, and
+Fairy
+moves. Flying Pokémon like
+Rowlet
+and
+Pikipek
+can hold a
+Sharp Beak
+to enhance their Flying attacks. Though not much help in battle initially,
+Abra
+learns the Psychic-type move
+Confusion
+upon its evolution into
+Kadabra
+.
+Butterfree
+resists Fighting moves and has access to both Flying- and Psychic-type attacks.
+Cutiefly
+can deal super-effective damage with its Fairy attacks, while its
+Bug
+/
+Fairy
+typing means that it takes only 25% damage from Fighting moves.
+Hala
+starts off with his
+Mankey
+, which tends to use
+Focus Energy
+to boost the high
+critical hit
+rate of
+Karate Chop
+even further. Though vulnerable to
+Psychic
+moves,
+Pursuit
+lets Mankey retaliate against Psychic Pokémon that would usually have a type advantage. Challengers should avoid landing critical hits of their own, as its
+Anger Point
+Ability maximizes Mankey's physical attack when hit by one.
+Makuhita
+'s
+Fake Out
+causes the target to
+flinch
+, but may only be used on its first turn in battle. Despite
+Arm Thrust
+having a low base power, damage from the
+multistrike move
+can quickly add up. Trainers who chose
+Litten
+as their first Pokémon should be mindful that Makuhita's
+Thick Fat
+Ability lessens the damage taken from
+Fire
+- and
+Ice-type
+moves by 50%.
+Crabrawler
+'s
+Iron Fist
+Ability raises its
+punching
+power by 20%. A boosted
+Power-Up Punch
+then deals extra damage and raises its
+Attack
+, further increasing its damage output.
+Leer
+lowers the target's physical
+Defense
+, so it sustains even more damage than normal. Like Mankey, Crabrawler can also take on Psychic Pokémon with
+Pursuit
+. With the
+Z-Crystal
+it holds, at any time Crabrawler can upgrade its Power-Up Punch move, turning it into the Fighting-type Z-Move,
+All-Out Pummeling
+. While powerful, this can fortunately be done only once.
+Island Kahuna
+Hala
+Iki Town
+Sun and Moon
+Reward:
+$
+2,400
+Type:
+Fighting
+Unknown
+Ability:
+Anger Point
+Held item:
+None
+Mankey
+♂
+Lv.
+14
+Karate Chop
+Fighting
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Makuhita
+♂
+Lv.
+14
+Fake Out
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Arm Thrust
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Iron Fist
+Held item:
+Fightinium Z
+Crabrawler
+♂
+Lv.
+15
+Power-Up Punch
+Fighting
+Physical
+--
+Pursuit
+Dark
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, Hala tells you that he is not surprised by the outcome.
+Tapu Koko
+cries out in the distance, and Hala says that it may be hoping for a day when you are strong enough to battle it as well. The kahuna rewards you with the
+Fightinium Z
+and teaches you the pose for
+All-Out Pummeling
+. He then stamps your
+Trainer Passport
+with the
+Melemele Trial Completion
+stamp. This stamp ensures that all Pokémon up to Level 35, even those received in a trade, will obey without question.
+The group begins to leave the stage area when Hala's
+Tauros
+returns. He registers the Pokémon in a
+Ride Pager
+, a device that lets you summon one of several Pokémon as a means of travel, and hands it to you. The device can be accessed by pressing the Y Button. Tauros Charge increases your travel speed on land, and lets you smash through large boulders by pressing the B Button. Be sure to revisit previous areas with your new-found ability before moving on from Melemele Island!
+Ilima
+appears and tells you that he worked on developing the Ride Pager with a friend, and hopes you find it useful. He invites you to a battle the next time you meet, and wishes you luck on the rest of your journey.
+Kukui
+has a gift for you as well:
+TM54
+(
+False Swipe
+). False Swipe is a restrained attack that always leaves the target with 1
+HP
+, which makes catching Pokémon much easier. He tells you to let
+Mom
+know of your plans before heading to the Marina in
+Hau'oli City
+.
+After the others leave,
+Lillie
+asks for a favor.
+Nebby
+is far from home and she wants to help it return, but as she is not a Pokémon Trainer there is little she can do. Tell her you will help, and she resolves to set out for the next island as well.
+Route 1 (Hau'oli Outskirts)
+Home
+Mom congratulates you on clearing the grand trial, and wishes you luck on the next island. She suggests visiting
+Ten Carat Hill
+before you go, as there are rare Pokémon inside.
+Ten Carat Hill
+Ten Carat Hill, Farthest Hollow
+Located southwest of Kukui's Research Center,
+Ten Carat Hill
+was formed by an underwater volcano. It is famous for the open-air hollow in its center.
+Cave
+Pick up the
+X Attack
+to the right of the entrance, then head southwest. Use Tauros Charge to crash through the boulders blocking the way, then dismount to fit through the narrow path to the upper ledge. Collect the
+Super Potion
+to the north and
+Ultra Ball
+to the south, then jump down to the lower level. Break through a few more large rocks until you reach a big, heavy-looking boulder; only a
+powerful Pokémon
+would be able to move it. Instead, turn northward to reach the Farthest Hollow.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+10-13
+30%
+Roggenrola
+Roggenrola
+S
+M
+Cave
+10-13
+30%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+10-13
+20%
+Carbink
+Carbink
+Sableye
+S
+M
+Cave
+10-13
+20%
+Exclusively from
+Island Scan
+Deino
+N/A
+S
+M
+Cave
+13
+One
+Tu
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Attack
+North of the entrance
+S
+M
+Super Potion
+North side of the upper ledge (requires
+Tauros Charge
+)
+S
+M
+Ultra Ball
+South side of the upper ledge (requires Tauros Charge)
+S
+M
+Ether
+West side of the cave, on a rock near the first entrance to the hollow
+(hidden)
+(requires Tauros Charge)
+S
+M
+Farthest Hollow
+A
+Hard Stone
+can be found a short distance away on the left of the main path. There is a
+Nugget
+farther north, and a
+Burn Heal
+in the northeast path. Grab the
+Great Ball
+from the southwest path, and
+TM62
+(
+Acrobatics
+) on the southeast hill. This is the only place where wild
+Rockruff
+can be found, so be sure to catch one—it will add to your Pokédex, and earn you a cash reward from the Sightseer on
+Route 3
+!
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Machop
+Machop
+S
+M
+Grass
+10-13
+30%
+Roggenrola
+Roggenrola
+S
+M
+Grass
+10-13
+20%
+Carbink
+Carbink
+S
+M
+Grass
+10-13
+20%
+Rockruff
+Rockruff
+S
+M
+Grass
+10-13
+20%
+Spinda
+Spinda
+S
+M
+Grass
+10-13
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hard Stone
+West side of the hollow
+S
+M
+Great Ball
+Southwest side of the southwest grass patch
+S
+M
+Nugget
+North-central side of the hollow
+S
+M
+Star Piece
+North side of the northwest grass patch
+(hidden)
+S
+M
+Burn Heal
+Northeast corner of the hollow
+S
+M
+TM62
+(
+Acrobatics
+)
+On the slope in the southeast
+S
+M
+Hau'oli City
+By the time you return to
+Hau'oli City
+, the Shopping Mall has finally reopened. Take a moment to see everything it offers, then continue to the ferry terminal in the southwest part of the city.
+Items
+Item
+Location
+Games
+Gracidea
+Shopping Mall; from a woman inside the Gracidea boutique
+S
+M
+Great Ball
+×5
+Shopping Mall; from an Ace Trainer after watching the Alola Ride Show
+Day
+S
+M
+TM48
+(
+Round
+)
+Shopping Mall; from the Janitor, after cleaning up all of the trash
+Night
+S
+M
+Everstone
+Ilima's house; from Ilima, after defeating him at the Trainers' School
+S
+M
+Shell Bell
+Hau'oli City Hall; from a
+Delibird
+, after speaking to the woman at the front desk
+S
+M
+After defeating Kahuna
+Nanu
+Insect Plate
+In the front-left part of the salon
+S
+M
+Toxic Plate
+Northwest corner of the Pokémon Center, in front of the palm tree
+S
+M
+Meadow Plate
+In front of City Hall, middle of the western grass patch
+S
+M
+Draco Plate
+In front of the police car
+S
+M
+Shopping District
+Shopping Mall
+Gracidea
+Gracidea
+is named after the
+Gracidea
+flower, which a clerk will gift to the player. It is a high-end boutique that sells only the most expensive
+fashion items
+. The store offers a selection of tops, shoes, bags, and eyewear. Female Trainers can also purchase hats and hair accessories.
+Male fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Collared Shirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+49,500
+Top
+Pinstripe Collared Shirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+49,500
+Shoes
+Loafers
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+55,800
+Bag
+Leather Backpack
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+378,000
+Eyewear
+Aviator Shades
+Gray
+Brown, Pink
+Blue, Purple
+$
+39,800
+Female fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Designer Top
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+49,500
+Shoes
+Strappy Sandals
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+55,800
+Bag
+Satchel Bag
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+378,000
+Hat
+Beach Hat
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+158,000
+Eyewear
+Oversized Sunglasses
+Gray
+Brown, Pink
+Blue, Purple
+$
+39,800
+Hair accessory
+Gem Barrette
+White
+Pink
+Blue
+$
+110,000
+Antiquities of the Ages
+In the northeast corner of the upper level,
+Antiquities of the Ages
+offers several
+legendary artifacts
+for sale. By the time
+the third Island Kahuna
+has been defeated, the second clerk will begin selling various
+Plates
+, as well. Each item may only be purchased once.
+Left clerk
+Adamant Orb
+$
+10,000
+Lustrous Orb
+$
+10,000
+Griseous Orb
+$
+10,000
+Red Orb
+$
+10,000
+Blue Orb
+$
+10,000
+Right clerk
+Sky Plate
+$
+10,000
+Zap Plate
+$
+10,000
+Stone Plate
+$
+10,000
+Iron Plate
+$
+10,000
+Fist Plate
+$
+10,000
+Dread Plate
+$
+10,000
+Splash Plate
+$
+10,000
+Pixie Plate
+$
+10,000
+Move Tutor Booth
+To the left of the legendary artifact shop is a booth with a pair of
+Move Tutors
+. The man on the left can teach a powerful attack to any fully-evolved
+first partner Pokémon
+. The man on the right can teach a combination move to any evolutionary form of first partner Pokémon. The only requirement is that the Pokémon's
+friendship
+must be as high as possible.
+Left Tutor
+Right Tutor
+Move
+Type
+Category
+Move
+Type
+Category
+Frenzy Plant
+Grass
+Special
+Grass Pledge
+Grass
+Special
+Blast Burn
+Fire
+Special
+Fire Pledge
+Fire
+Special
+Hydro Cannon
+Water
+Special
+Water Pledge
+Water
+Special
+Battle Buffet
+The
+Battle Buffet
+is located in the center of the mall's upper level. To dine, Trainers must pay a fee of
+$
+1,200. Each customer is given 10 turns of battle to get as many dishes possible, battling for each one. At the end, the waitress will assess the player's satisfaction and give them an item depending on that assessment. The player can only dine at the Battle Buffet once a day.
+Ilima's House
+Visit
+Ilima
+in his home in the southwest part of the city and he will bring you to the
+Trainers' School
+on
+Route 1
+for a battle. Afterward, he will bring you back to his home and reward you with an
+Everstone
+.
+Marina
+Head to the Marina to find Kukui, Hau, and Lillie admiring the professor's "classic" and "well-seasoned" sailboat. Kukui asks if you are ready to go, and the four of you set off eastward at high speed to
+Akala Island
+!
+← Part 5
+Route 3, Melemele Meadow, Seaward Cave, Kala'e Bay
+Sun and Moon
+walkthrough
+Heahea City, Route 4, Paniola Town, Paniola Ranch
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,58 @@
+Game: Ruby_and_Sapphire
+Part: 10
+Keywords: Fortree City, Fortree Gym, Route 120, Route 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+
+**Pokémon Ruby and Sapphire Walkthrough: Part 10**
+
+### Fortree City
+- **Location**: An old-growth forest with tree homes.
+- **Items**:
+  - **Glitter Mail**: Northwest house; held by traded Skitty.
+  - **TM10 (Hidden Power)**: From an old woman in the north-northwest house after a quiz.
+  - **TM40 (Aerial Ace)**: From Winona after defeating her.
+  - **Mental Herb**: From the boy in the northeast house after finding his Wingull in Mossdeep City.
+- **Secret Base Shop**: East across the rope bridge from the Poké Mart.
+- **Trade**: Get Skitty for Pikachu from the girl in the northwest house.
+
+### Fortree Gym
+- **Leader**: Winona (Flying-type).
+- **Strategy**: Use Electric, Rock, and Ice moves against her Pokémon:
+  - **Swellow**: Use strong attacks quickly to counter Double Team.
+  - **Pelipper**: Weak to Electric moves.
+  - **Skarmory**: Be cautious of Steel Wing; hit it with Rock moves.
+  - **Altaria**: Use Ice moves and beware of Earthquake.
+
+**Defeating Winona gives you the Feather Badge and TM40 (Aerial Ace).**
+
+### Route 120
+- **Encounter**: Steven on the northern bridge. Defeat Kecleon after using the Devon Scope.
+- **Notable Trainers**: Gabby and Ty (interview), various trainers with different Pokémon.
+- **Items**: 
+  - **Rare Candy**: Hidden; requires Cut.
+  - **Devon Scope**: From Steven after defeating Kecleon.
+
+### Route 121
+- **Notable Areas**: Safari Zone.
+- **Trainers**: Hex Maniac Tammy, Beauty Jessica, and others.
+- **Items**: 
+  - Various berries and hidden items.
+
+### Safari Zone
+- **Admission**: $500; 30 Safari Balls provided.
+- **Strategy**: Use Pokéblocks and unconventional tactics to catch Pokémon.
+
+### Route 122
+- **Overview**: Short route; Mt. Pyre at the center.
+- **Items**: Fishing and Surfing Pokémon available.
+
+### Mt. Pyre
+- **Interior**: Trainers and Ghost-type Pokémon.
+- **Important Items**: Cleanse Tag, various TMs, and Incenses.
+- **Summit**: Confront Team Magma/Aqua, obtain the Red/Blue Orb after the event.
+
+### Route 123
+- **Overview**: Connects to Route 118 and features the Berry Master's house.
+- **Berry Master**: Daily Berry gifts; specific phrases yield rarer types.
+- **Trainers**: Various trainers with high-level Pokémon.
+
+**Next Steps**: After completing these areas, proceed to the next part of your journey in Pokémon Ruby and Sapphire.

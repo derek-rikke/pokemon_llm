@@ -1,0 +1,1876 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_6
+Keywords: Route 111 (South), Route 112 (South), Fiery Path, Route 112 (North), Route 111 (North), Route 113, Fallarbor Town, Route 114
+
+Walkthrough Text:
+Contents
+1
+Route 111 (south)
+1.1
+Winstrate House
+1.2
+Gabby and Ty
+2
+Route 112 (south)
+2.1
+Access Denied
+3
+Fiery Path
+4
+Route 112 (north)
+5
+Route 111 (north)
+5.1
+A Secret Power
+6
+Route 113
+6.1
+Glass Workshop
+7
+Fallarbor Town
+7.1
+Meet Lanette
+7.2
+Move Tutor
+7.3
+Battle Tent
+7.4
+Move Maniac
+8
+Route 114
+8.1
+Fossil Maniac
+8.2
+Lanette's House
+8.3
+A Berry A Day
+Route 111 (south)
+Route 111
+Leading north from
+Mauville City
+, the lengthy
+Route 111
+is a unique path split into three parts by the large desert in its center. A powerful sandstorm rages on, forcing travelers to detour around it on their way past. A house belonging to the
+Winstrate family
+stands at the water's edge.
+Trainers
+Trainer
+Pokémon
+Southern end
+Camper
+Tyron
+Reward:
+$
+304
+Potential
+Double Battle
+with Celina
+Sandshrew
+♂
+Lv.
+19
+No item
+Aroma Lady
+Celina
+Reward:
+$
+720
+Potential
+Double Battle
+with Tyron
+Roselia
+♀
+Lv.
+18
+No item
+Picnicker
+Bianca
+Reward:
+$
+288
+Potential
+Double Battle
+with Hayden
+Shroomish
+♀
+Lv.
+18
+No item
+Kindler
+Hayden
+Reward:
+$
+576
+Potential
+Double Battle
+with Bianca
+Numel
+♂
+Lv.
+18
+No item
+Requires Rock Smash
+Interviewer
+Gabby and Ty
+Reward:
+$
+1632
+Magnemite
+Lv.
+17
+No item
+Whismur
+♂
+Lv.
+17
+No item
+Picnicker
+Irene
+Reward:
+$
+272
+Shroomish
+♀
+Lv.
+17
+No item
+Marill
+♀
+Lv.
+17
+No item
+Camper
+Travis
+Reward:
+$
+288
+Sandshrew
+♂
+Lv.
+18
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+5-20
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+Southeast of the Winstrate home
+E
+Macho Brace
+Reward for defeating the
+Winstrate family
+E
+Winstrate House
+The upstanding
+Winstrate family
+loves challenging visitors to battle. Speak to the man at the front door, and he asks if you would like to take his family on in four back-to-back battles, with no break to heal your team. Defeat each one in turn, and afterward, enter the house and talk to Victoria to receive a
+Macho Brace
+as a reward.
+Winstrate
+Victor
+Route 111
+Emerald
+Reward:
+$
+320
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+Oran Berry
+Taillow
+♂
+Lv.
+16
+Growl
+Normal
+--
+Focus Energy
+Normal
+--
+Quick Attack
+Normal
+--
+Wing Attack
+Flying
+--
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+Oran Berry
+Zigzagoon
+♂
+Lv.
+16
+Growl
+Normal
+--
+Tail Whip
+Normal
+--
+Headbutt
+Normal
+--
+Sand-Attack
+Ground
+--
+Winstrate
+Victoria
+Route 111
+Emerald
+Reward:
+$
+340
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+Oran Berry
+Roselia
+♀
+Lv.
+17
+Growth
+Normal
+--
+Poison Sting
+Poison
+--
+Stun Spore
+Grass
+--
+Mega Drain
+Grass
+--
+Winstrate
+Vivi
+Route 111
+Emerald
+Reward:
+$
+300
+Type:
+Water
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Marill
+♀
+Lv.
+15
+Defense Curl
+Normal
+--
+Tail Whip
+Normal
+--
+Water Gun
+Water
+--
+Rollout
+Rock
+--
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♀
+Lv.
+15
+Absorb
+Grass
+--
+Tackle
+Normal
+--
+Stun Spore
+Grass
+--
+Leech Seed
+Grass
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♀
+Lv.
+15
+Growl
+Normal
+--
+Tackle
+Normal
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Winstrate
+Vicky
+Route 111
+Emerald
+Reward:
+$
+360
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Meditite
+♀
+Lv.
+18
+Hi Jump Kick
+Fighting
+--
+Meditate
+Psychic
+--
+Confusion
+Psychic
+--
+Detect
+Fighting
+--
+Gabby and Ty
+Gabby and Ty
+, the reporter-cameraman team you met back in
+Slateport
+, can be found standing along the road. Accept their challenge to demonstrate your battle prowess, and they will beg for an interview afterwards. Find a
+TV
+afterwards for a chance to hear about yourself on the news!
+Route 112 (south)
+Route 112
+Fiery Path
+Route 112
+lies at the foot of
+Mt. Chimney
+, and a cable car service allows visitors to reach the summit.
+A tunnel
+cuts through the mountainside to reach the northern part of the route, while
+Lavaridge Town
+and
+Jagged Pass
+lie off to the west.
+Trainers
+Trainer
+Pokémon
+Camper
+Larry
+Reward:
+$
+288
+Nuzleaf
+♂
+Lv.
+18
+No item
+Picnicker
+Carol
+Reward:
+$
+272
+Taillow
+♀
+Lv.
+17
+No item
+Lombre
+♀
+Lv.
+17
+No item
+Hiker
+Trent
+Reward:
+$
+640
+Geodude
+♂
+Lv.
+16
+No item
+Geodude
+♂
+Lv.
+17
+No item
+Geodude
+♂
+Lv.
+16
+No item
+Hiker
+Brice
+Reward:
+$
+680
+Numel
+♂
+Lv.
+17
+No item
+Machop
+♂
+Lv.
+17
+No item
+Rematch
+Hiker
+Trent
+*
+Reward:
+$
+960
+Geodude
+♂
+Lv.
+24
+No item
+Geodude
+♂
+Lv.
+24
+No item
+Geodude
+♂
+Lv.
+24
+No item
+Graveler
+♂
+Lv.
+24
+No item
+Hiker
+Trent
+*
+Reward:
+$
+1080
+Geodude
+♂
+Lv.
+27
+No item
+Geodude
+♂
+Lv.
+27
+No item
+Graveler
+♂
+Lv.
+27
+No item
+Graveler
+♂
+Lv.
+27
+No item
+Hiker
+Trent
+*
+Reward:
+$
+1200
+Geodude
+♂
+Lv.
+30
+No item
+Graveler
+♂
+Lv.
+30
+No item
+Graveler
+♂
+Lv.
+30
+No item
+Graveler
+♂
+Lv.
+30
+No item
+Hiker
+Trent
+*
+Reward:
+$
+1320
+Graveler
+♂
+Lv.
+33
+No item
+Graveler
+♂
+Lv.
+33
+No item
+Graveler
+♂
+Lv.
+33
+No item
+Golem
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Numel
+R
+S
+E
+Grass
+14-16
+75%
+Marill
+R
+S
+E
+Grass
+14-16
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Access Denied
+A pair of
+Team Magma
+Grunts are guarding the cable car station, so no one can reach the summit of Mt. Chimney right now. In addition, the elevated terrain makes westward travel impossible, so the only other way forward is a steamy tunnel through the mountainside.
+Fiery Path
+The sweltering
+Fiery Path
+, a passage that leads through the base of
+Mt. Chimney
+, is filled with Pokémon that thrive in the heat. The main passage leads to the north side of
+Route 112
+, while a pair of
+boulders
+prevent anyone from exploring the oppressive side tunnels for now.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Numel
+R
+S
+E
+Cave
+15-16
+30%
+Koffing
+R
+S
+E
+Cave
+15-16
+25%
+Torkoal
+R
+S
+E
+Cave
+14-16
+18%
+Machop
+R
+S
+E
+Cave
+15-16
+15%
+Slugma
+R
+S
+E
+Cave
+15
+10%
+Grimer
+R
+S
+E
+Cave
+14
+2%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 112 (north)
+After passing through
+Fiery Path
+, you re-emerge on
+Route 112
+'s north hill. Be sure to harvest some Berries from the nearby trees on your way eastward. The wild Pokémon here are the same as those on the southern half.
+Trainers
+Trainer
+Pokémon
+Kindler
+Bryant
+アツオ
+Atsuo
+Reward:
+$
+576
+Potential
+Double Battle
+with Shayla
+Numel
+♂
+Lv.
+18
+No item
+Slugma
+♂
+Lv.
+18
+No item
+Aroma Lady
+Shayla
+タエコ
+Taeko
+Reward:
+$
+720
+Potential
+Double Battle
+with Bryant
+Shroomish
+♀
+Lv.
+18
+No item
+Roselia
+♀
+Lv.
+18
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Pecha Berry
+×4
+From the Berry Trees near Fiery Path's north exit
+E
+Rawst Berry
+×4
+From the Berry Trees near Fiery Path's north exit
+E
+Route 111 (north)
+Taking the long way through
+Route 112
+and the
+Fiery Path
+has allowed you to avoid the sandstorm raging just south of here. An old lady resides in a house at the foot of the section and can fully heal your party. You may wish to have the
+Mach Bike
+with you to fight every Trainer in this section. Continue to
+Route 113
+.
+Trainers
+Trainer
+Pokémon
+Northern end
+Cooltrainer
+Wilton
+Reward:
+$
+816
+Electrike
+♂
+Lv.
+17
+No item
+Wailmer
+♂
+Lv.
+17
+No item
+Makuhita
+♂
+Lv.
+17
+No item
+Cooltrainer
+Brooke
+Reward:
+$
+816
+Wingull
+♀
+Lv.
+17
+No item
+Numel
+♀
+Lv.
+17
+No item
+Roselia
+♀
+Lv.
+17
+No item
+Black Belt
+Daisuke
+Reward:
+$
+608
+Requires
+Mach Bike
+Machop
+♂
+Lv.
+19
+No item
+Rematch
+Cooltrainer
+Wilton
+*
+Reward:
+$
+1248
+Electrike
+♂
+Lv.
+26
+No item
+Wailmer
+♂
+Lv.
+26
+No item
+Makuhita
+♂
+Lv.
+26
+No item
+Cooltrainer
+Wilton
+*
+Reward:
+$
+1392
+/
+1536
+Manectric
+♂
+Lv.
+29
+/
+32
+No item
+Wailmer
+♂
+Lv.
+29
+/
+32
+No item
+Makuhita
+♂
+Lv.
+29
+/
+32
+No item
+Cooltrainer
+Wilton
+*
+Reward:
+$
+1680
+Manectric
+♂
+Lv.
+35
+No item
+Wailmer
+♂
+Lv.
+35
+No item
+Hariyama
+♂
+Lv.
+35
+No item
+Cooltrainer
+Brooke
+*
+Reward:
+$
+1248
+Wingull
+♀
+Lv.
+26
+No item
+Numel
+♀
+Lv.
+26
+No item
+Roselia
+♀
+Lv.
+26
+No item
+Cooltrainer
+Brooke
+*
+Reward:
+$
+1392
+/
+1536
+Pelipper
+♀
+Lv.
+29
+/
+32
+No item
+Numel
+♀
+Lv.
+29
+/
+32
+No item
+Roselia
+♀
+Lv.
+29
+/
+32
+No item
+Cooltrainer
+Brooke
+*
+Reward:
+$
+1632
+Pelipper
+♀
+Lv.
+34
+No item
+Camerupt
+♀
+Lv.
+34
+No item
+Roselia
+♀
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM43
+(
+Secret Power
+)
+From the boy near the
+Secret Base
+tree
+E
+Razz Berry
+From the girl near the Berry patch (one per day)
+E
+Oran Berry
+×4
+From the Berry Trees, north of the Rest Stop
+E
+Razz Berry
+×6
+From the Berry Trees, north of the Rest Stop
+E
+A Secret Power
+As you proceed northward, you find a boy staring at a large tree. Speak to him, and he explains that he is considering using a certain move to create a room for himself inside the tree. He gives you
+TM43
+(
+Secret Power
+) so that you can establish your own
+Secret Base
+in any of the suspicious-looking
+trees, wall markings, and clumps of grass
+scattered across the region. Now you can access the TM shop in
+Slateport City
+. A Trainer can decorate their Secret Base as they wish, and can display up to 16
+decorations
+.
+Route 113
+Route 113
+Situated between
+Route 111
+'s north end and
+Fallarbor Town
+,
+Route 113
+is constantly covered in
+Mt. Chimney
+'s
+volcanic ash
+by the same wind patterns that keep
+Verdanturf Town
+'s air clear and fresh. The
+Glass Workshop
+stands on the north ridge, where a gifted artist crafts useful items from pure ash.
+Trainers
+Trainer
+Pokémon
+Youngster
+Jaylen
+Reward:
+$
+304
+Trapinch
+♂
+Lv.
+19
+No item
+Camper
+Lawrence
+Reward:
+$
+288
+Double Battle
+with Lung
+Baltoy
+Lv.
+18
+No item
+Sandshrew
+♂
+Lv.
+18
+No item
+Ninja Boy
+Lung
+Reward:
+$
+216
+Double Battle
+with Lawrence
+Koffing
+♂
+Lv.
+18
+No item
+Ninjask
+♂
+Lv.
+18
+No item
+PokéManiac
+Wyatt
+Reward:
+$
+1080
+Aron
+♂
+Lv.
+18
+No item
+Aron
+♂
+Lv.
+18
+No item
+Parasol Lady
+Madeline
+Reward:
+$
+760
+Numel
+♀
+Lv.
+19
+No item
+Twins
+Tori & Tia
+Reward:
+$
+456
+Spinda
+♂
+Lv.
+19
+No item
+Spinda
+♂
+Lv.
+19
+No item
+Ninja Boy
+Lao
+Reward:
+$
+204
+Koffing
+♂
+Lv.
+17
+No item
+Koffing
+♂
+Lv.
+17
+No item
+Koffing
+♂
+Lv.
+17
+No item
+Youngster
+Dillon
+Reward:
+$
+304
+Aron
+♂
+Lv.
+19
+No item
+Picnicker
+Sophie
+Reward:
+$
+304
+Potential
+Double Battle
+with Coby
+Marill
+♀
+Lv.
+17
+No item
+Lombre
+♀
+Lv.
+19
+No item
+Bird Keeper
+Coby
+Reward:
+$
+608
+Potential
+Double Battle
+with Sophie
+Skarmory
+♂
+Lv.
+17
+No item
+Swellow
+♂
+Lv.
+19
+No item
+Rematch
+Parasol Lady
+Madeline
+*
+Reward:
+$
+1160
+/
+1280
+Numel
+♀
+Lv.
+29
+/
+32
+No item
+Parasol Lady
+Madeline
+*
+Reward:
+$
+1360
+Roselia
+♀
+Lv.
+34
+No item
+Numel
+♀
+Lv.
+34
+No item
+Parasol Lady
+Madeline
+*
+Reward:
+$
+1480
+Roselia
+♀
+Lv.
+37
+No item
+Camerupt
+♀
+Lv.
+37
+No item
+Ninja Boy
+Lao
+*
+Reward:
+$
+312
+/
+348
+/
+384
+Koffing
+♂
+Lv.
+24
+/
+27
+/
+30
+No item
+Koffing
+♂
+Lv.
+24
+/
+27
+/
+30
+No item
+Koffing
+♂
+Lv.
+24
+/
+27
+/
+30
+No item
+Koffing
+♂
+Lv.
+26
+/
+29
+/
+32
+No item
+Ninja Boy
+Lao
+*
+Reward:
+$
+420
+Koffing
+♂
+Lv.
+33
+No item
+Koffing
+♂
+Lv.
+33
+No item
+Koffing
+♂
+Lv.
+33
+No item
+Weezing
+♂
+Lv.
+35
+Smoke Ball
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Spinda
+R
+S
+E
+Grass
+14-16
+70%
+Slugma
+R
+S
+E
+Grass
+14-16
+25%
+Skarmory
+R
+S
+E
+Grass
+16
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ether
+In a soot pile on the second eastern-most ledge (hidden)
+E
+Nugget
+In a soot pile on the eastern-most ledge (hidden)
+E
+Super Repel
+Eastern-most ledge
+E
+Max Ether
+Third ledge from the east, north of Parasol Lady Madeline
+E
+Soot Sack
+In the Glass Workshop, from the owner
+E
+TM32
+(
+Double Team
+)
+In a soot pile, west of the Glass Workshop and beyond the ledge (hidden)
+E
+Hyper Potion
+West end of the sooty ground, in the trees to the south
+E
+Glass Workshop
+The
+Glass Workshop
+stands near the route's west end. Step inside and talk to the owner to receive a free
+Soot Sack
+, which can be used to collect ash by running through
+ash
+-covered tall grass (and
+Jagged Pass
+later on). The amount of ash collected is determined by the number of steps you've walked through ash-covered grass. The constantly-falling ash replenishes these piles whenever you return to the area.
+Speak with the workshop owner to learn how much ash you've collected. By providing him with the correct amounts, he is able to create valuable glass items.
+Item
+Ash required
+Effect
+Blue Flute
+250 steps
+Wakes up
+sleeping
+Pokémon
+Yellow Flute
+500 steps
+Snaps Pokémon out of
+confusion
+Red Flute
+500 steps
+Snaps Pokémon out of
+infatuation
+White Flute
+1,000 steps
+Increases wild Pokémon encounter rate
+Black Flute
+1,000 steps
+Decreases wild Pokémon encounter rate
+Pretty Chair
+6,000 steps
+A Secret Base Decoration
+Pretty Desk
+8,000 steps
+A Secret Base Decoration
+Fallarbor Town
+Fallarbor Town
+The small town of
+Fallarbor
+is located between Routes
+113
+and
+114
+, and features rich soil perfect for gardening. A third
+Battle Tent
+is located here. The town is also home to a
+Move Maniac
+and
+Professor Cozmo
+.
+Items
+Item
+Location
+Games
+Nugget
+In the crater near Professor Cozmo's Lab (hidden)
+E
+Hyper Potion
+Reward for winning three consecutive battles in the Battle Tent
+E
+Return trip
+TM27
+(
+Return
+)
+From Professor Cozmo in his home, in exchange for the
+Meteorite
+E
+Meet Lanette
+Inside the Pokémon Center, you find the PC in use by a woman named
+Lanette
+. She upgraded the previous version of the
+Pokémon Storage System
+, adding a user-friendly graphical interface, the ability to store over 400 Pokémon, and the ability to change the
+wallpaper
+of each Box. As she leaves, she invites you to visit her home on
+Route 114
+.
+Move Tutor
+There is a girl inside the Poké Mart, examining the merchandise displayed on the rear wall. Speak to her, and she offers to teach the move
+Metronome
+to a Pokémon, one time only.
+Battle Tent
+The
+Fallarbor Battle Tent
+stands on the north side of town, and is the third of three scattered throughout
+Hoenn
+. At this location, challengers select three of their Pokémon to battle three opposing Trainers. These Trainers' Pokémon will either be level 30, or match the highest-leveled Pokémon in your party, whichever is higher. Each separate Pokémon face-off has a three-turn limit. If neither Pokémon has been knocked out in that time, the judge makes a ruling that depends on three factors: Mind, the amount of offensive moves; Skill, the accuracy of moves; and Body, the remaining HP. Possible scores for each category include Circle (a win, 2 points), Triangle (a tie, 1 point), and X (a loss, 0 points). The Pokémon that earns the most points wins. The reward for winning three consecutive battles here is a
+Hyper Potion
+.
+Scott
+can be found inside the entry hall. He is impressed that you've stopped by, as most people around here are easygoing and laid-back, and urges you to make a challenge.
+Move Maniac
+The
+Move Maniac
+lives in the northwest house. This helpful guy knows every move a Pokémon can learn as it grows, and is able to teach forgotten moves to any Pokémon, for a price. He charges a single
+Heart Scale
+for each move relearned. While a few can be found on the beach as invisible items right now, you will need to wait until you encounter wild
+Luvdisc
+later on to be able to collect a more steady supply.
+Route 114
+Route 114
+Pockmarked by fallen Meteorites, the lengthy
+Route 114
+leads up the mountainside to
+Meteor Falls
+. The
+Fossil Maniac
+lives up north, while
+Lanette
+'s home stands on the water's edge.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Nolan
+Reward:
+$
+760
+Barboach
+♂
+Lv.
+19
+No item
+Picnicker
+Charlotte
+Reward:
+$
+304
+Potential
+Double Battle
+with Kai
+Nuzleaf
+♀
+Lv.
+19
+No item
+Fisherman
+Kai
+Reward:
+$
+760
+Potential
+Double Battle
+with Charlotte
+Barboach
+♂
+Lv.
+19
+No item
+Fisherman
+Claude
+Reward:
+$
+720
+Magikarp
+♂
+Lv.
+16
+No item
+Goldeen
+♂
+Lv.
+17
+No item
+Barboach
+♂
+Lv.
+18
+No item
+Picnicker
+Nancy
+Reward:
+$
+288
+Marill
+♀
+Lv.
+18
+No item
+Lombre
+♀
+Lv.
+18
+No item
+Sr. and Jr.
+Tyra & Ivy
+Reward:
+$
+640
+Roselia
+♂
+Lv.
+18
+No item
+Graveler
+♂
+Lv.
+20
+No item
+Camper
+Shane
+Reward:
+$
+288
+Sandshrew
+♂
+Lv.
+18
+No item
+Nuzleaf
+♂
+Lv.
+18
+No item
+PokéManiac
+Steve
+Reward:
+$
+1140
+Aron
+♂
+Lv.
+19
+No item
+Kindler
+Bernie
+Reward:
+$
+576
+Slugma
+♂
+Lv.
+18
+No item
+Wingull
+♂
+Lv.
+18
+No item
+Hiker
+Lucas
+Reward:
+$
+720
+Potential
+Double Battle
+with Angelina
+Geodude
+♂
+Lv.
+18
+No item
+Numel
+♂
+Lv.
+18
+No item
+Picnicker
+Angelina
+Reward:
+$
+288
+Potential
+Double Battle
+with Lucas
+Lombre
+♀
+Lv.
+18
+No item
+Marill
+♀
+Lv.
+18
+No item
+Hiker
+Lenny
+Reward:
+$
+720
+Geodude
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Rematch
+PokéManiac
+Steve
+*
+Reward:
+$
+1620
+Lairon
+♂
+Lv.
+27
+No item
+PokéManiac
+Steve
+*
+Reward:
+$
+1740
+/
+1920
+Lairon
+♂
+Lv.
+29
+/
+32
+No item
+Rhyhorn
+♂
+Lv.
+29
+/
+32
+No item
+PokéManiac
+Steve
+*
+Reward:
+$
+2100
+Aggron
+♂
+Lv.
+35
+No item
+Rhydon
+♂
+Lv.
+35
+No item
+Kindler
+Bernie
+*
+Reward:
+$
+832
+Slugma
+♂
+Lv.
+26
+No item
+Wingull
+♂
+Lv.
+26
+No item
+Kindler
+Bernie
+*
+Reward:
+$
+928
+/
+1024
+Slugma
+♂
+Lv.
+29
+/
+32
+No item
+Pelipper
+♂
+Lv.
+29
+/
+32
+No item
+Kindler
+Bernie
+*
+Reward:
+$
+1120
+Magcargo
+♂
+Lv.
+35
+No item
+Pelipper
+♂
+Lv.
+35
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Swablu
+R
+S
+E
+Grass
+15-17
+40%
+Lotad
+R
+S
+E
+Grass
+15-16
+30%
+Lombre
+R
+S
+E
+Grass
+16, 18
+20%
+Seviper
+R
+S
+E
+Grass
+15, 17
+9%
+Nuzleaf
+R
+S
+E
+Grass
+15
+1%
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+5-20
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Dig
+)
+Fossil Maniac's house, from his little brother
+E
+TM05
+(
+Roar
+)
+From the old man and his
+Poochyena
+E
+EnergyPowder
+In the trees to the northeast of the bridge
+E
+Revive
+Southwest edge of the lake (hidden)
+E
+Persim Berry
+×6
+In the
+soft soil
+patch past Lanette's house
+E
+Lotad Doll
+From Lanette, after speaking to her in Fallarbor Town
+E
+Carbos
+On a rock, south of the southern grass patch (hidden)
+E
+Protein
+On the mountain's first level, northwest of PokéManiac Steve (requires
+Rock Smash
+)
+E
+Fossil Maniac
+The
+Fossil Maniac
+'s house stands on the outskirts of
+Fallarbor Town
+. Head inside and talk to his little brother, who kindly gives you
+TM28
+(
+Dig
+). When used in the field, Dig can be used while in a cave to return to the entrance. If you visit the cave at the back of the house, you will find the Fossil Maniac hard at work. He won't give up any Fossils, but hints that others may be uncovered by
+Route 111
+'s raging sandstorm.
+Lanette's House
+Go south across the bridge to reach
+Lanette
+'s house. Inside, you find the woman struggling to organize her clutter. She is happy that you stopped by, but embarrassed by the state of her home. If you promise to keep her messiness a secret, she will give you a
+Lotad Doll
+in return.
+A Berry A Day
+Speak to the boy outside Lanette's house and he will give out one random Berry from a group of five every day.
+Berry
+Razz Berry
+Bluk Berry
+Nanab Berry
+Wepear Berry
+Pinap Berry
+← Part 5
+Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel, Route 118
+Emerald
+walkthrough
+Meteor Falls, Mt. Chimney, Jagged Pass, Lavaridge Town
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

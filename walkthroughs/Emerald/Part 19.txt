@@ -1,0 +1,1076 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_19
+Keywords: The Pokémon League
+
+Walkthrough Text:
+Contents
+1
+Pokémon League
+1.1
+Elite Four
+1.1.1
+Battle 1: Sidney
+1.1.2
+Battle 2: Phoebe
+1.1.3
+Battle 3: Glacia
+1.1.4
+Battle 4: Drake
+1.2
+Champion
+1.3
+Hall of Fame
+Pokémon League
+Pokémon League Lobby
+The
+Pokémon League
+building holds the traditional amenities. The Pokémon Center and PC are located to the left, while the Poké Mart is off to the right. It's a good idea to stock up on
+Hyper Potions
+,
+Full Restores
+, and
+Full Heals
+for the gauntlet ahead.
+Now that you've entered the Pokémon League lobby, you can come back to it any time using
+Fly
+, since now the Ever Grande City has two localitations to visit when flying around Hoenn region: Pokémon Center (south) and Pokémon League (north).
+To increase your chances of victory, you may want to revisit the
+Lilycove Department Store
+and purchase some
+battle items
+. These items temporarily raise one of a Pokémon's stats during battle. Using a single
+X Defense
+or
+X Sp. Def
+will boost the respective stat by 50%. Using two is equal to a 100% boost, so the Pokémon sustains half the normal amount of damage.
+Dire Hits
+can be useful as well, as using three or more drastically raises the odds of getting a
+critical hit
+. In addition, using a
+Guard Spec.
+protects your Pokémon from stat reduction for five turns.
+With your preparations complete, talk to the two Ace Trainers guarding the doorway in the room's center. They verify that you've earned all eight
+Hoenn League
+Badges before stepping aside, allowing you to enter the depths of the Pokémon League. Challengers must face the
+Elite Four
+and
+Champion
+in quick succession, with no outside help. Step through the door to reach the first chamber.
+Elite Four
+Battle 1: Sidney
+Sidney's room
+The first member of the Elite Four is
+Sidney
+, a master
+Dark-type
+Trainer. His Pokémon are all vulnerable to
+Bug
+- and
+Fighting-type
+attacks, and immune to
+Psychic
+attacks.
+He leads with his
+Mightyena
+, which lowers the opponent's Attack with its
+Intimidate
+Ability. Use Fighting-type moves, or bypass Intimidate by using special attacks or recalling a Pokémon. His
+Shiftry
+is a
+Grass
+/
+Dark
+type. Its only attack,
+Extrasensory
+, is relatively weak but can threaten Fighting-types. Other than that, its moves are all status moves, so status-healing items could be useful.
+Cacturne
+, like Shiftry, is another Grass/Dark Pokémon.
+Leech Seed
+lets it slowly sap the target's health to restore its own, and
+Cotton Spore
+cuts the target's
+Speed
+. Both Pokémon are relatively frail and pack common weaknesses, so barring status annoyance, they should fall easily. His
+Crawdaunt
+'s low
+Special Defense
+means you can make quick work of it, through its
+Swords Dance
+can be an issue. Last up is his
+Absol
+; its high Attack means that any of its moves can pack a punch. Slash has an increased critical-hit ratio, while
+Aerial Ace
+can be used to deter Fighting Pokémon. Its defenses are mediocre, s use your strongest moves to keep up the pressure and take it down.
+Elite Four
+Sidney
+Ever Grande City
+Emerald
+Reward:
+$
+4900
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+46
+Roar
+Normal
+--
+Double-Edge
+Normal
+--
+Sand-Attack
+Ground
+--
+Crunch
+Dark
+--
+Types:
+Grass
+Dark
+Ability:
+Chlorophyll
+Held item:
+None
+Shiftry
+♂
+Lv.
+48
+Torment
+Dark
+--
+Double Team
+Normal
+--
+Swagger
+Normal
+--
+Extrasensory
+Psychic
+--
+Types:
+Grass
+Dark
+Ability:
+Sand Veil
+Held item:
+None
+Cacturne
+♂
+Lv.
+46
+Leech Seed
+Grass
+--
+Faint Attack
+Dark
+--
+Needle Arm
+Grass
+--
+Cotton Spore
+Grass
+--
+Types:
+Water
+Dark
+Ability:
+Hyper Cutter
+Held item:
+None
+Crawdaunt
+♂
+Lv.
+48
+Surf
+Water
+--
+Swords Dance
+Normal
+--
+Strength
+Normal
+--
+Facade
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Absol
+♂
+Lv.
+49
+Aerial Ace
+Flying
+--
+Rock Slide
+Rock
+--
+Swords Dance
+Normal
+--
+Slash
+Normal
+--
+Battle 2: Phoebe
+Phoebe's room
+The second member of the Elite Four is
+Phoebe
+, a master
+Ghost-type
+Trainer. Most of her Pokémon are vulnerable to
+Ghost
+- and
+Dark-type
+moves, and immune to
+Normal
+and
+Fighting
+moves.
+She leads with her first of two
+Dusclops
+, a defensive Ghost Pokémon that is more interested in status ailments than direct attacks.
+Pressure
+can waste your PP, especially when combined with
+Protect
+.
+Confuse Ray
+triggers the ever-irritating confusion, while
+Curse
+deals indirect damage. Phoebe has two
+Banette
+on her team, which can both use
+Shadow Ball
+. The first can burn the target with
+Will-O-Wisp
+and hit
+Normal
+Pokémon with
+Faint Attack
+, while the second may use
+Thunderbolt
+and
+Psychic
+for coverage. Due to its unique
+Dark
+/
+Ghost
+typing,
+Sableye
+has no weaknesses under normal conditions; however, its low stats make it easy to overpower with neutral attacks. Faint Attack and Shadow Ball receive a
+same-type attack bonus
+, and
+Night Shade
+deals exactly 50 damage each time it hits. Lastly, her second
+Dusclops
+has access to Shadow Ball,
+Ice Beam
+,
+Rock Slide
+, and
+Earthquake
+; despite its relatively low offenses, these allow it to deal super-effective damage against a wide variety of Pokémon. Take down her Pokémon with strong Ghost- or Dark-type attacks.
+Elite Four
+Phoebe
+Ever Grande City
+Emerald
+Reward:
+$
+5100
+Type:
+Ghost
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Dusclops
+♀
+Lv.
+48
+Shadow Punch
+Ghost
+--
+Confuse Ray
+Ghost
+--
+Curse
+???
+--
+Protect
+Normal
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♀
+Lv.
+49
+Shadow Ball
+Ghost
+--
+Grudge
+Ghost
+--
+Will-O-Wisp
+Fire
+--
+Faint Attack
+Dark
+--
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+50
+Shadow Ball
+Ghost
+--
+Double Team
+Normal
+--
+Night Shade
+Ghost
+--
+Faint Attack
+Dark
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♀
+Lv.
+49
+Shadow Ball
+Ghost
+--
+Psychic
+Psychic
+--
+Thunderbolt
+Electric
+--
+Facade
+Normal
+--
+Type:
+Ghost
+Unknown
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Dusclops
+♀
+Lv.
+51
+Shadow Ball
+Ghost
+--
+Ice Beam
+Ice
+--
+Rock Slide
+Rock
+--
+Earthquake
+Ground
+--
+Battle 3: Glacia
+Glacia's room
+The third member of the Elite Four is
+Glacia
+, a master
+Ice-type
+Trainer. Her Pokémon are vulnerable to
+Rock
+- and
+Fighting-type
+attacks.
+She leads with her first
+Sealeo
+is an
+Ice
+/
+Water
+Pokémon which tends to start things off with
+Hail
+. Both
+Glalie
+know
+Ice Beam
+and one or two coverage moves and are weak to
+Fire
+and
+Steel
+. Her first Glalie's
+Light Screen
+temporarily reduces the damage taken from Special moves, so moves like
+Flamethrower
+are less effective. Her second Glalie can deal serious damage with
+Explosion
+. Both of her nearly-identical Sealeo carry Hail in addition to damaging
+Normal
+and
+Ice
+attacks, while the second can distract male opponents with
+Attract
+. Use
+Grass
+- and
+Electric-type
+moves to deal super-effective damage. Glacia's biggest threat is
+Walrein
+, another Ice/Water Pokémon. Its high HP, Defense, and Special Defense means that not even super-effective moves will take it down easily. Decent offensive stats allow it to deal respectable damage with
+Surf
+,
+Ice Beam
+, and
+Body Slam
+.
+Sheer Cold
+instantly knocks out the target if it hits, but has low accuracy and only works on a target of a lower level than the user. Use
+Fighting
+or
+Electric
+moves to take it down quickly.
+Elite Four
+Glacia
+Ever Grande City
+Emerald
+Reward:
+$
+5300
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♀
+Lv.
+50
+Encore
+Normal
+--
+Body Slam
+Normal
+--
+Hail
+Ice
+--
+Ice Ball
+Ice
+--
+Type:
+Ice
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Glalie
+♀
+Lv.
+50
+Light Screen
+Psychic
+--
+Crunch
+Dark
+--
+Icy Wind
+Ice
+--
+Ice Beam
+Ice
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Sealeo
+♀
+Lv.
+52
+Attract
+Normal
+--
+Double-Edge
+Normal
+--
+Hail
+Ice
+--
+Blizzard
+Ice
+--
+Type:
+Ice
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Glalie
+♀
+Lv.
+52
+Shadow Ball
+Ghost
+--
+Explosion
+Normal
+--
+Hail
+Ice
+--
+Ice Beam
+Ice
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Walrein
+♀
+Lv.
+53
+Surf
+Water
+--
+Body Slam
+Normal
+--
+Ice Beam
+Ice
+--
+Sheer Cold
+Ice
+--
+Battle 4: Drake
+Drake's room
+The fourth and final member of the Elite Four is
+Drake
+, a master
+Dragon-type
+Trainer. His Pokémon are all vulnerable to Dragon-type attacks, and four are weak to
+Ice-type
+attacks as well.
+Drake leads with his
+Shelgon
+, a physically-oriented Pokémon.
+Double-Edge
+is its strongest move, while
+Rock Tomb
+helps the slow Pokémon even the playing field by lowering the target's
+Speed
+. Next up is his
+Altaria
+, a defensively-oriented Pokémon.
+Dragon Dance
+raises both its
+Attack
+and Speed by one stage each, which works well alongside
+Double-Edge
+. As a
+Dragon
+/
+Flying
+Pokémon, it takes massive damage from Ice attacks. Like Altaria, his
+Kingdra
+can make itself more threatening with Dragon Dance, which increases the damage it deals with
+Body Slam
+.
+Surf
+receives a
+same-type attack bonus
+and
+SmokeScreen
+lowers the target's accuracy. Due to its
+Water
+/
+Dragon
+typing, its sustains super-effective damage only from Dragon-type moves.
+Flygon
+enjoys high Attack and Speed, which lets it harass its foes with
+Earthquake
+. Though its other three moves are dependent on its lower
+Special Attack
+, they can still threaten Pokémon that resist Earthquake. Drake's final Pokémon is
+Salamence
+, a Dragon/Flying type. It has high Attack, better-than-average Speed, and respectable defenses. Its
+Intimidate
+Ability weakens physical attackers, so special attackers, especially those with Ice moves, will have the advantage here.
+Elite Four
+Drake
+Ever Grande City
+Emerald
+Reward:
+$
+5500
+Type:
+Dragon
+Unknown
+Ability:
+Rock Head
+Held item:
+None
+Shelgon
+♂
+Lv.
+52
+Rock Tomb
+Rock
+--
+Dragon Claw
+Dragon
+--
+Protect
+Normal
+--
+Double-Edge
+Normal
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+54
+Double-Edge
+Normal
+--
+DragonBreath
+Dragon
+--
+Dragon Dance
+Dragon
+--
+Aerial Ace
+Flying
+--
+Types:
+Water
+Dragon
+Ability:
+Swift Swim
+Held item:
+None
+Kingdra
+♂
+Lv.
+53
+SmokeScreen
+Normal
+--
+Dragon Dance
+Dragon
+--
+Surf
+Water
+--
+Body Slam
+Normal
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+53
+Flamethrower
+Fire
+--
+Crunch
+Dark
+--
+DragonBreath
+Dragon
+--
+Earthquake
+Ground
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Sitrus Berry
+Salamence
+♂
+Lv.
+55
+Flamethrower
+Fire
+--
+Dragon Claw
+Dragon
+--
+Rock Slide
+Rock
+--
+Crunch
+Dark
+--
+Defeating the Elite Four has earned you the right to challenge Hoenn's reigning Champion. It is important to note that you will be drawn into battle immediately upon entering the final room, so take a moment to tend to your Pokémon and save your progress before moving on.
+Champion
+Champion's room
+Inside the Champion's hall, you find your
+Wallace
+waiting for you. He commends you and your Pokémon for putting an end to the crisis in
+Sootopolis
+. He goes on to say that Trainers raise their Pokémon by teaching them new battle techniques, but that Trainers learn just as much from their Pokémon. He challenges you to put your achievements to the test against what others like you have achieved. The stage is set for a legendary showdown! While most Champions prefer the benefits of a diverse Pokémon team, Wallace still uses his beloved
+Water
+Pokémon from his time as Sootopolis Gym Leader.
+Wallace leads with his
+Wailord
+, a Water Pokémon with great
+HP
+but low defenses. Initially, its strongest move is
+Water Spout
+, which deals the most damage when its HP is full. This move receives
+STAB
+, and can be boosted further by rain, thus making it a potent threat. Hit it hard with
+Grass
+and
+Electric
+attacks to take it down.
+Tentacruel
+is designed to counter
+Grass
+types that might threaten its teammates with both
+Sludge Bomb
+and
+Ice Beam
+. Its
+Toxic
+leaves all but
+Poison
+and
+Steel
+Pokémon
+badly poisoned
+, where an ever-growing amount of HP is lost every turn. Ice Beam and
+Hydro Pump
+allow it to fight back against any
+Ground
+types that may try to exploit its Poison typing. As a
+Water
+/
+Poison
+Pokémon, Tentacruel is especially vulnerable to
+Electric
+, Ground, and
+Psychic
+attacks. Its
+Special Defense
+is nearly twice as high as its
+Defense
+, so prioritize physical moves over special ones.
+A
+Water
+/
+Grass
+type, his
+Ludicolo
+can actively steal the target's health with
+Giga Drain
+and swamp the opposition with
+Surf
+.
+Leech Seed
+allows it to passively sap even more health from the target over several turns, and
+Double Team
+makes it harder to hit by boosting its evasion. Like Tentacruel, its highest stat is its
+Special Defense
+, so physical moves are best. Fortunately, each type from which it sustains super-effective damage—
+Bug
+,
+Flying
+, and
+Poison
+—are all classified as
+Physical moves
+.
+His
+Whiscash
+has a fairly unique
+Water
+/
+Ground
+typing, leaving it susceptible only to
+Grass
+moves.
+Surf
+and
+Earthquake
+both receive
+STAB
+, and Earthquake allows it to counter
+Electric
+Pokémon which would be problematic for its teammates.
+Hyper Beam
+is a powerful attack but the user is forced to rest on the next turn.
+Amnesia
+lets it quickly bolster its
+Special Defense
+—its lowest stat after
+Speed
+. All Grass moves are classified as
+Special moves
+, so hammer away at its health before it can harden its defenses.
+Gyarados
+gets straight to business as soon as it hits the field, with its
+Intimidate
+Ability cutting the foe's
+Attack
+.
+Dragon Dance
+raises its
+Speed
+and its already-high
+Attack
+to sky-high levels, increasing the damage dealt by both
+Hyper Beam
+and
+Earthquake
+. Its final move,
+Surf
+, lets it deal reliable Water-type damage. As a
+Water
+/
+Flying
+Pokémon, it takes massive damage from
+Electric
+attacks, but Electric Pokémon must watch out for Earthquake. Barring that, its secondary Flying type leaves it susceptible to
+Rock
+moves, as well.
+Finally, Wallace sends out his ace:
+Milotic
+, a Water Pokémon. Milotic is very bulky with its high
+Special Defense
+, allowing it to shrug off the
+Grass
+and
+Electric
+attacks it is weak to, and can perform stalls with
+Toxic
+and
+Recover
+.
+Surf
+and
+Ice Beam
+allow it to handle a variety of threats, including Grass Pokémon. Toxic also pressures the the target to end the match quickly. As said previously, it is weak to Grass and Electric moves, but it may be easier to target its lower physical Defense with neutrally effective physical moves.
+Champion
+Wallace
+Ever Grande City
+Emerald
+Reward:
+$
+11600
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailord
+♂
+Lv.
+57
+Rain Dance
+Water
+--
+Water Spout
+Water
+--
+Double-Edge
+Normal
+--
+Blizzard
+Ice
+--
+Types:
+Water
+Poison
+Ability:
+Clear Body
+Held item:
+None
+Tentacruel
+♂
+Lv.
+55
+Toxic
+Poison
+--
+Hydro Pump
+Water
+--
+Sludge Bomb
+Poison
+--
+Ice Beam
+Ice
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Ludicolo
+♂
+Lv.
+56
+Giga Drain
+Grass
+--
+Surf
+Water
+--
+Leech Seed
+Grass
+--
+Double Team
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♂
+Lv.
+56
+Earthquake
+Ground
+--
+Surf
+Water
+--
+Amnesia
+Psychic
+--
+Hyper Beam
+Normal
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+56
+Dragon Dance
+Dragon
+--
+Earthquake
+Ground
+--
+Hyper Beam
+Normal
+--
+Surf
+Water
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+Sitrus Berry
+Milotic
+♂
+Lv.
+58
+Recover
+Normal
+--
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Toxic
+Poison
+--
+With the battle concluded, Wallace congratulates you on your impressive victory. Just as he is about to crown you the new Hoenn League Champion, May/Brendan rushes in with some advice for challenging the Champion, only to find that you've already done so.
+Professor Birch
+arrives not long after, and rates your Pokédex before congratulating you as well.
+Hall of Fame
+Wallace then leads you into the
+Hall of Fame
+, where all Champions are honored. He asks that you set your Poké Balls in the machine here, so that your name and those of your Pokémon can be recorded for posterity. During the process, a shot of each fighter appears briefly on-screen. The screen fades to black, and the game is saved.
+← Part 18
+Sky Pillar, Ever Grande City, Victory Road
+Emerald
+walkthrough
+Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

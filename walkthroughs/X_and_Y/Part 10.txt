@@ -1,0 +1,1913 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:X_and_Y_walkthrough/Section_10
+Keywords: Dendemille Town, Frost Cavern, Route 17, Anistar City, Anistar Gym
+
+Walkthrough Text:
+Contents
+1
+Dendemille Town
+1.1
+Sycamore Appears
+1.2
+Pokémon Center
+1.3
+Madam Reminder and Move Deleter
+1.4
+Mountain Pokédex rating
+1.5
+Gigantic Gourgeist
+2
+Frost Cavern
+2.1
+Exterior
+2.2
+Interior
+2.2.1
+1F
+2.2.2
+2F
+2.2.3
+1F
+2.2.4
+2F
+2.2.5
+3F
+2.2.6
+2F
+2.2.7
+3F
+3
+Route 17
+3.1
+Hitch a Ride
+3.2
+Holo Clip
+4
+Anistar City
+4.1
+A Gift
+4.2
+Memory Girl
+4.3
+Pokémon Center
+4.4
+Hidden Power Checker
+4.5
+Learn the Story of the Legendary
+4.5.1
+Xerneas
+4.5.2
+Yveltal
+4.6
+Lend a Pokémon
+4.7
+Rival battle
+4.8
+Anistar Gym
+4.9
+Holo Clip
+Dendemille Town
+Dendemille Town
+A light snow fills the brisk air of the quiet mountain town of
+Dendemille
+. Situated between
+Route 15
+and
+Route 17
+, the town is home to both Madam Reminder and the Move Deleter. A cave known as
+Frost Cavern
+is located to the north.
+Items
+Item
+Location
+Games
+Sitrus Berry
+From a woman inside the Pokémon Center
+X
+Y
+Moomoo Milk
+From the Hex Maniac outside the Pokémon Center,
+$
+500 per serving
+X
+Y
+Heal Ball
+In a bush, southwest of the Pokémon Center (hidden)
+X
+Y
+Big Root
+South side of the crop field
+X
+Y
+Nugget
+Southwest part of the crop field (hidden)
+X
+Y
+Shell Bell
+From a Monsieur in the northeast house, after seeing 70+ Pokémon in the Mountain Pokédex
+X
+Y
+Big Nugget
+From the Preschooler in the northwest house, after showing him a
+Super Size
+Gourgeist
+X
+Y
+X Speed
+Northwest of the windmill, in the corner (hidden)
+X
+Y
+TM42
+(
+Facade
+)
+From a Youngster in the southwest house
+X
+Y
+Leppa Berry
+(daily)
+From a female Ace Trainer in the southwest house, after showing the desired TM
+X
+Y
+Sycamore Appears
+Sycamore
+and his assistant
+Dexio
+appear as you enter the town. The professor imparts a few details about the legendary Pokémon,
+Xerneas
+X
+/
+Yveltal
+Y
+. According to his research, those that saw it were so overwhelmed by its power, they were only able to describe it as resembling a certain letter. Dexio asks where a Pokémon like that could be, and the professor claims that when it loses all of its vitality, the legendary Pokémon goes to sleep in a secret place. As his research materials are 1,000 years old, not even he knows where it might be located.
+Pokémon Center
+Mr. Bonding
+can be found inside the local Pokémon Center. Speak to him to be awarded the
+Accuracy Power
+O-Power. Before leaving, talk to the woman near the Poké Mart to receive a
+Sitrus Berry
+.
+Madam Reminder and Move Deleter
+The southeast house belongs to
+Madam Reminder
+and the
+Move Deleter
+. In exchange for one
+Heart Scale
+, this old woman will help a Pokémon recall a move that it had forgotten. The old man's mind isn't what it used to be, but he can still help a Pokémon forget any move for free.
+Mountain Pokédex rating
+Continue up the street to the northeast house. The Monsieur inside would like to see how many Pokémon you've recorded in the Mountain Pokédex listing. If you have seen 70 or more, he will reward you with a
+Shell Bell
+.
+Gigantic Gourgeist
+No one will believe the Preschooler in the northwest house when he claims that he saw a huge
+Gourgeist
+. If you caught a rare
+Super Size
+Pumpkaboo
+on
+Route 16
+and evolved it to Gourgeist, the kid will reward you with a
+Big Nugget
+.
+Frost Cavern
+Frost Cavern, exterior
+Frost Cavern, 1F
+Frost Cavern, 2F
+Frost Cavern, 3F
+The drifting snow and impenetrable fog make
+Frost Cavern
+a place full of fantastical illusions. Something is amiss in this frigid cavern, and only a thorough exploration into its icy depths will reveal the clues you need.
+Trainers
+Exterior
+Trainer
+Pokémon
+Hiker
+Ross
+Reward:
+$
+2,464
+Vibrava
+♂
+Lv.
+44
+No item
+Sky Trainer
+Celso
+Reward:
+$
+4,400
+Carnivine
+♂
+Lv.
+41
+No item
+Swanna
+♂
+Lv.
+44
+No item
+Sky Trainer
+Era
+Reward:
+$
+4,500
+Cryogonal
+Lv.
+45
+No item
+Artist
+Salvador
+Reward:
+$
+2,464
+Smeargle
+♂
+Lv.
+44
+No item
+Interior
+Trainer
+Pokémon
+1F
+Ace Trainer
+Cordelia
+Reward:
+$
+4,600
+Doublade
+♀
+Lv.
+46
+No item
+Ace Trainer
+Neil
+Reward:
+$
+4,300
+Raichu
+♂
+Lv.
+42
+No item
+Golduck
+♂
+Lv.
+42
+No item
+Marowak
+♂
+Lv.
+43
+No item
+Hiker
+Alain
+Reward:
+$
+2,352
+Graveler
+♂
+Lv.
+40
+No item
+Graveler
+♂
+Lv.
+41
+No item
+Carbink
+Lv.
+42
+No item
+2F
+Hiker
+Delmon
+Reward:
+$
+2,352
+Relicanth
+♂
+Lv.
+42
+No item
+Rhydon
+♂
+Lv.
+42
+No item
+Brains & Brawn
+Eoin & Wolf
+Reward:
+$
+4,784
+Grumpig
+♂
+Lv.
+44
+No item
+Hariyama
+♂
+Lv.
+46
+No item
+Black Belt
+Alonzo
+Reward:
+$
+2,112
+Scrafty
+♂
+Lv.
+43
+No item
+Throh
+♂
+Lv.
+44
+No item
+Battle Girl
+Kinsey
+Reward:
+$
+2,112
+Sawk
+♂
+Lv.
+43
+No item
+Mienshao
+♀
+Lv.
+44
+No item
+3F
+Black Belt
+Kenji
+Reward:
+$
+2,208
+Gurdurr
+♂
+Lv.
+46
+No item
+Hiker
+Brent
+Reward:
+$
+2,464
+Probopass
+♂
+Lv.
+44
+No item
+Battle Girl
+Gabrielle
+Reward:
+$
+2,208
+Medicham
+♀
+Lv.
+46
+No item
+Team Flare Grunt
+Reward:
+$
+1,680
+Golbat
+♀
+Lv.
+42
+No item
+Manectric
+♀
+Lv.
+42
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F, 3F
+Jynx
+X
+Y
+Cave
+39-40
+Average
+Piloswine
+X
+Y
+Cave
+38-39
+Average
+Beartic
+X
+Y
+Cave
+39-40
+Average
+Bergmite
+X
+Y
+Cave
+39-40
+Average
+Haunter
+X
+Y
+Cave
+38-40
+Rare
+Cryogonal
+X
+Y
+Cave
+40
+Very Rare
+2F
+Haunter
+X
+Y
+Cave
+38-40
+Rare
+Haunter
+X
+Y
+Cave
+38-40
+Average
+Jynx
+X
+Y
+Cave
+39-40
+Average
+Piloswine
+X
+Y
+Cave
+38-39
+Average
+Beartic
+X
+Y
+Cave
+39-40
+Average
+Bergmite
+X
+Y
+Cave
+39-40
+Average
+Cryogonal
+X
+Y
+Cave
+40
+Very Rare
+Horde Encounter
+Vanillite
+X
+Y
+Horde Encounter
+20
+Common
+Cubchoo
+X
+Y
+Horde Encounter
+20
+Average
+Smoochum
+X
+Y
+Horde Encounter
+21
+Rare
+Surfing
+Poliwhirl
+X
+Y
+Surfing
+38-40
+Common
+Floatzel
+X
+Y
+Surfing
+38
+Average
+Fishing
+Poliwag
+X
+Y
+Fishing
+Old Rod
+20
+100%
+Basculin
+X
+Y
+Fishing
+Good Rod
+30
+Common
+Basculin
+X
+Y
+Fishing
+Good Rod
+30
+Common
+Poliwhirl
+X
+Y
+Fishing
+Good Rod
+30
+Average
+Poliwhirl
+X
+Y
+Fishing
+Super Rod
+40
+Common
+Basculin
+X
+Y
+Fishing
+Super Rod
+40
+Average
+Basculin
+X
+Y
+Fishing
+Super Rod
+40
+Average
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Exterior
+Item
+Location
+Games
+X Sp. Def
+North of Artist Salvador (hidden)
+X
+Y
+Escape Rope
+West of the cave entrance (hidden)
+X
+Y
+Requires
+Waterfall
+Heart Scale
+Northwest of the bridge, on the lower level (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+TM71
+(
+Stone Edge
+)
+East end of the river (requires
+Surf
+,
+Waterfall
+)
+X
+Y
+Interior
+Item
+Location
+Games
+1F
+Ice Heal
+On the stalagmite west of the entrance (hidden)
+X
+Y
+Dusk Ball
+Behind Ace Trainer Neil (hidden)
+X
+Y
+Icy Rock
+In the
+Ice Rock
+room, accessed via 2F (requires
+Surf
+)
+X
+Y
+Hyper Potion
+South of the Ace Trainer on the hill
+X
+Y
+2F
+Ice Heal
+×2
+On a stalagmite, northeast of Hiker Delmon (hidden)
+North of Hiker Delmon
+X
+Y
+Dire Hit
+Small eastern room, accessed via 1F
+X
+Y
+Pearl
+Southwest of Battle Girl Kinsey (hidden)
+X
+Y
+Max Repel
+South of Battle Girl Kinsey
+X
+Y
+Never-Melt Ice
+South edge of the river, accessed via the southwest ice patch (requires
+Surf
+)
+X
+Y
+Super Potion
+On a stalagmite, in the tunnel linking 1F and 3F (hidden)
+X
+Y
+TM79
+(
+Frost Breath
+)
+In the southeast chamber, accessed via 3F
+X
+Y
+3F
+Ether
+West of Black Belt Kenji
+X
+Y
+Elixir
+On the stalagmite next to Battle Girl Gabrielle (hidden)
+X
+Y
+Zinc
+Southeast of Battle Girl Gabrielle
+X
+Y
+Abomasite
+From the Abomasnow, after rescuing it from Team Flare
+X
+Y
+PP Up
+Southeast of Abomasnow (hidden)
+X
+Y
+Exterior
+Cross the bridge to meet a
+Mamoswine
+and its Trainer. This Pokémon is usually happy to give rides through the deep snow on
+Route 17
+, but is upset over something in the Frost Cavern and won't budge from this spot. Follow the path northward to enter the cavern and investigate.
+Interior
+1F
+Head northeast to cross the first patch of ice. The path splits up ahead; turn east to fight Ace Trainer Neil and climb the stairs beyond.
+2F
+Slide north over the ice to reach a hidden
+Ice Heal
+. Slide south, east, south, west, then north to the northeast edge. Go west and pass by Hiker Delmon. The path splits again; go northwest to Black Belt Alonzo, then slide south to Battle Girl Kinsey. From here, you can surf west to a stairway that leads to the floor below; this chamber houses both the
+Ice Rock
+and an
+Icy Rock
+. Work your way southeast over the ice from Kinsey; grab the
+Max Repel
+to the east, then surf south for a
+Never-Melt Ice
+before taking the southern stairs.
+1F
+The Ace Trainer nearby will restore your Pokémon's health. A
+Hyper Potion
+lies to the south, atop a one-way shortcut to the entrance. Go north past Hiker Alain and climb the stairs.
+2F
+Check the stalagmite for a hidden
+Super Potion
+and climb upstairs.
+3F
+Work your way to the northwest for an
+Ether
+, then slide east to fight Black Belt Kenji. Stand opposite the stalagmite to the east; slide south, east, south, west, and south again to reach Battle Girl Gabrielle. Check the stalagmite for a hidden
+Elixir
+, and continue southeastward. Grab the
+Zinc
+from the second dead-end passage and go down the stairs.
+2F
+Slide to the southeast corner. From here, slide northwest then south to reach
+TM79
+(
+Frost Breath
+).
+3F
+Backtrack to Black Belt Kenji and head north. A group of
+Team Flare
+members are harassing an
+Abomasnow
+, and its anger seems to be causing the blizzard outside. Take out the two Grunts with Trevor's help, then defeat
+Mable
+to rescue the agitated Pokémon.
+Team Flare
+Mable
+Frost Cavern
+X and Y
+Reward:
+$
+6,720
+Types:
+Dark
+Fire
+Ability:
+Flash Fire
+Held item:
+None
+Houndoom
+♀
+Lv.
+48
+Embargo
+Dark
+Status
+--
+Foul Play
+Dark
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+The three troublemakers disappear, and Trevor leaves as well. Check on the Abomasnow to receive an
+Abomasite
+as a thank-you gift.
+Route 17
+Route 17
+Route 17
+, or Mamoswine Road, is a treacherous route that connects
+Dendemille Town
+and
+Anistar City
+. Due to frequent snowstorms and heavy snowfall, it is impossible for humans to travel the area on foot.
+Trainers
+Trainer
+Pokémon
+Sky Trainer
+Anila
+Reward:
+$
+4400
+Rotom
+Lv.
+42
+No item
+Butterfree
+♀
+Lv.
+44
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Delibird
+X
+Y
+Snow
+38-40
+Common
+Sneasel
+X
+Y
+Snow
+38-40
+Average
+Snover
+X
+Y
+Snow
+38-39
+Average
+Abomasnow
+X
+Y
+Snow
+40
+Very Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Timer Ball
+North of the first two sets of boulders (hidden)
+X
+Y
+Icicle Plate
+Northern path, east of the Timer Ball
+X
+Y
+Calcium
+Southwest path
+X
+Y
+Paralyze Heal
+Next to the Anistar gate (hidden)
+X
+Y
+Rare Candy
+North of the Anistar gate
+X
+Y
+Hitch a Ride
+Mamoswine
+was too worried about its friend
+Abomasnow
+before, but with the situation in
+Frost Cavern
+resolved, it is happy to help you navigate through the deep snow. Like the
+Rhyhorn
+on
+Route 9
+, this Pokémon can easily clear out any wayward boulders.
+Holo Clip
+As you near the Anistar gate, you receive another Holo Clip. It's Serena/Calem, challenging you to a battle in front of the Anistar Gym.
+Anistar City
+Anistar City
+Located between
+Route 17
+and
+Route 18
+,
+Anistar City
+is famous throughout the region for its massive sundial, a mysterious device some believe originated in outer space. The seventh Gym is located here, and one of the residents is rumored to be knowledgeable about the lore of the legendary Pokémon.
+Items
+Item
+Location
+Games
+Repeat Ball
+×10
+From Sina upon entering the city
+X
+Y
+TM35
+(
+Flamethrower
+)
+From a Hex Maniac in the Pokémon Center, 11:00 AM-5:59 PM
+X
+Y
+TM77
+(
+Psych Up
+)
+From a Hex Maniac in the Pokémon Center, 6:00 PM-7:59 PM
+X
+Y
+TM90
+(
+Substitute
+)
+From a Hex Maniac in the Pokémon Center, 8:00 PM-3:59 AM
+X
+Y
+TM32
+(
+Double Team
+)
+From a Hex Maniac in the Pokémon Center, 4:00 AM-10:59 AM
+X
+Y
+Super Repel
+To the right of the boutique (hidden)
+X
+Y
+TM10
+(
+Hidden Power
+)
+From a Psychic in the house next to the boutique
+X
+Y
+Sun Stone
+In a bush to the right of the sundial (hidden)
+X
+Y
+Pretty Wing
+In a bush, southwest of the café (hidden)
+X
+Y
+Escape Rope
+East of the Gym (hidden)
+X
+Y
+Comet Shard
+In the home of the lonely old man, after he passes away
+X
+Y
+After defeating the Anistar Gym
+TM04
+(
+Calm Mind
+)
+From Olympia upon her defeat
+X
+Y
+A Gift
+Sycamore
+'s assistant
+Sina
+is waiting for you just inside the city. She tells you that one of the residents knows about the legendary Pokémon, and gives you ten
+Repeat Balls
+to help you on your journey.
+Memory Girl
+The girl outside the Pokémon Center is known as the Memory Girl. Her unique insight allows her to recount a Pokémon's memories. Show her any Pokémon you've obtained to learn its most important memories.
+Pokémon Center
+Stop by the Pokémon Center to find
+Mr. Bonding
+again. This time, he grants you the
+Exp. Point Power
+, which gives your Pokémon an experience boost after battle.
+Also inside is a friendly Hex Maniac. Speaking to her will earn you up to four different TMs, but there's a catch—you can only get one per day, and it changes based on the time.
+Time
+Item
+4:00am - 10:59am
+TM32
+(
+Double Team
+)
+11:00am - 5:59pm
+TM35
+(
+Flamethrower
+)
+6:00pm - 7:59pm
+TM77
+(
+Psych Up
+)
+8:00pm - 3:59am
+TM90
+(
+Substitute
+)
+Hidden Power Checker
+Visit the house next to the boutique and talk to the Psychic inside. He gives you
+TM10
+(
+Hidden Power
+), a move that changes type depending on the Pokémon using it. Speak to him again to learn the type it will become when used by one of your Pokémon.
+Learn the Story of the Legendary
+Enter the house north of the boutique and speak to the Monsieur inside. This knowledgeable man recounts the story of the region's legendary Pokémon,
+Xerneas
+X
+/
+Yveltal
+Y
+.
+Xerneas
+"It happened around 800 years ago. The Pokémon known as Xerneas used its shining horns to illuminate the lands of Kalos. At that very moment, people and Pokémon throughout the land felt great energy and vitality surge through their bodies. At the same time, a vast forest sprang up, with Xerneas at its center. Legend has it that, when it nears the end of its thousand-year life span, Xerneas releases all of its remaining energy, sharing it with all living things nearby. There's another story I know that talks of the appearance of just such a fortuitous Pokémon. Back 3,000 years ago, the Kalos region was engulfed in a terrible war. So the tale goes, a Pokémon came to the rescue of all the wounded Pokémon that had been caught up in the conflict. Some people suspect the Pokémon that appeared was Xerneas, but there's no way to know. Maybe they just wished a Legendary Pokémon had come to the rescue to brighten a tale of woe. Supposedly, after Xerneas had released its remaining energy, it transformed into a dried-up tree. It remains in hiding deep within the forest. According to old tales, as I say. Stories and tales."
+Yveltal
+"It happened around 800 years ago. The Pokémon known as Yveltal spread its ominous wings, engulfing the lands of Kalos in darkness. At that moment, people and Pokémon throughout the land began to fall one by one. Yveltal let out a piercing cry and took to the sky, vanishing to an unknown location. Stories say that when it nears the end of its thousand-year life span, Yveltal absorbs the life force of the living things around it in order to charge its own energy. Another tale talks of the appearance of just such a terrifying Pokémon. Back 3,000 years ago, the Kalos region was engulfed in a terrible war. According to the stories, a Pokémon appeared and stole the life force of countless living beings. Some people suspect the Pokémon that appeared was Yveltal, but there's no way to know. Maybe they're just using a Legendary Pokémon as a metaphor for war and pestilence. In the tales, after Yveltal finished storing the energy it had absorbed, it transformed into a kind of cocoon, remaining in hiding deep in the mountains. According to old tales, as I say. Tales and stories."
+Lend a Pokémon
+Visit the next house to the north to meet a lonely old man. Lend him a Pokémon of level 5 or less for some company to cheer him up. You can retrieve the Pokémon at any time.
+Rival battle
+Make your way to the Gym and Serena/Calem catches up to you, looking for another battle. Her/His team now consists of a level 44
+Meowstic
+, a level 44
+Absol
+, third-stage starter Pokémon at level 46, and a level 44
+Jolteon
+,
+Flareon
+, or
+Vaporeon
+depending on which Eeveelution has the same type as the player’s starter (treat Jolteon as a Grass type for this purpose).
+If the player chose
+Chespin
+:
+Pokémon Trainer
+Serena
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+44
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+44
+Discharge
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+46
+Psychic
+Psychic
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Fennekin
+:
+Pokémon Trainer
+Serena
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+44
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+44
+Quick Attack
+Normal
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+46
+Water Shuriken
+Water
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Froakie
+:
+Pokémon Trainer
+Serena
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♀
+Lv.
+44
+Psychic
+Psychic
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+44
+Muddy Water
+Water
+Special
+--
+Aurora Beam
+Ice
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+46
+Seed Bomb
+Grass
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Chespin
+:
+Pokémon Trainer
+Calem
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+44
+Fake Out
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+44
+Discharge
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fire
+Psychic
+Ability:
+Blaze
+Held item:
+None
+Delphox
+♂
+Lv.
+46
+Psychic
+Psychic
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Fennekin
+:
+Pokémon Trainer
+Calem
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+44
+Fake Out
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+44
+Quick Attack
+Normal
+Physical
+--
+Lava Plume
+Fire
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Torrent
+Held item:
+None
+Greninja
+♂
+Lv.
+46
+Water Shuriken
+Water
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the player chose
+Froakie
+:
+Pokémon Trainer
+Calem
+Anistar City
+X and Y
+Reward:
+$
+4,600
+Type:
+Psychic
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Meowstic
+♂
+Lv.
+44
+Fake Out
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Disarming Voice
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+44
+Swords Dance
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+44
+Aurora Beam
+Ice
+Special
+--
+Muddy Water
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Fighting
+Ability:
+Overgrow
+Held item:
+None
+Chesnaught
+♂
+Lv.
+46
+Seed Bomb
+Grass
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Anistar Gym
+Anistar Gym
+The
+Anistar Gym
+specializes in
+Psychic
+Pokémon. Use
+Bug
+,
+Ghost
+and
+Dark
+attacks to deal heavy damage, and avoid sending in
+Fighting
+or
+Poison
+Pokémon. Stand in the room's center to reveal the Gym's interior, a colorful, spherical maze that seems to float in outer space. Use the yellow warp panels to progress through the maze, from blue to green to pink paths, until you reach the Gym Leader on the bottom floor.
+Olympia
+leads with her
+Sigilyph
+, which tends to raise her party's defenses with
+Light Screen
+and
+Reflect
+. Her
+Slowking
+'s
+Yawn
+can force its opponent to switch. Both of these Pokémon share a weakness to
+Electric
+moves.
+Meowstic
+can cause problems for Ghosts with
+Shadow Ball
+, but still shouldn't be too hard to defeat.
+Anistar Gym
+Trainers
+Trainer
+Pokémon
+Psychic
+Paschal
+Reward:
+$
+2576
+Exeggutor
+♂
+Lv.
+46
+No item
+Psychic
+Harry
+Reward:
+$
+2576
+Medicham
+♂
+Lv.
+46
+No item
+Psychic
+Arthur
+Reward:
+$
+2576
+Reuniclus
+♂
+Lv.
+46
+No item
+Hex Maniac
+Melanie
+Reward:
+$
+1472
+Gardevoir
+♀
+Lv.
+46
+No item
+Hex Maniac
+Arachna
+Reward:
+$
+1472
+Jynx
+♀
+Lv.
+46
+No item
+Leader
+Olympia
+Anistar Gym
+X and Y
+Reward:
+$
+7680
+Types:
+Psychic
+Flying
+Ability:
+Magic Guard
+Held item:
+None
+Sigilyph
+♀
+Lv.
+44
+Psychic
+Psychic
+Special
+--
+Air Slash
+Flying
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Water
+Psychic
+Ability:
+Oblivious
+Held item:
+None
+Slowking
+♀
+Lv.
+45
+Psychic
+Psychic
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Power Gem
+Rock
+Special
+--
+Yawn
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Infiltrator
+Held item:
+None
+Meowstic
+♀
+Lv.
+48
+Psychic
+Psychic
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Fake Out
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Defeated, Olympia awards you the
+Psychic Badge
+, which ensures obedience from all Pokémon up to level 90. She also gives you
+TM04
+(
+Calm Mind
+) as a prize.
+Holo Clip
+Outside, Serena/Calem returns for a rematch, but is interrupted by a Holo Clip from Lysandre. In a sickening revelation, you learn that he is Team Flare's leader, and he intends to use an "ultimate weapon" to eliminate everyone who isn't part of the group. Serena/Calem advises you to search for the team's headquarters; maybe Lysandre is where you first met him, in
+Lumiose City
+...
+← Part 9
+Route 14, Laverre City, Poké Ball Factory, Routes 15 and 16
+X and Y
+walkthrough
+Lysandre Labs, Geosenge Town, Team Flare HQ, Geosenge Town
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

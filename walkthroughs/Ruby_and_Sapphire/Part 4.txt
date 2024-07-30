@@ -1,0 +1,1644 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_4
+Keywords: Route 109, Slateport City, Oceanic Museum, Route 110, Trick House
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 109
+1.1
+Seashore House
+2
+Slateport City
+2.1
+Slateport Market
+2.2
+Pokémon Fan Club
+2.3
+Name Rater
+2.4
+Pokémon Contest Hall
+2.5
+Slateport Harbor
+2.6
+Stern's Shipyard
+2.7
+Oceanic Museum
+3
+Route 110
+3.1
+Trick House
+3.1.1
+Finding the Trick Master
+3.1.2
+Inside the Maze
+3.1.3
+Trick Master's Room
+3.2
+Rival Battle 2
+3.2.1
+Player chose Treecko
+3.2.2
+Player chose Torchic
+3.2.3
+Player chose Mudkip
+4
+Route 103 (optional)
+Route 109
+Route 109
+The sprawling beach of
+Route 109
+is packed with Trainers who aren't just here to work on their tans. Scour the sands for hidden items before heading north to
+Slateport City
+.
+Trainers
+Trainer
+Pokémon
+Sailor
+Huey
+Reward:
+$
+448
+Machop
+♂
+Lv.
+14
+No item
+Sailor
+Edmond
+Reward:
+$
+384
+Wingull
+♂
+Lv.
+12
+No item
+Machop
+♂
+Lv.
+12
+No item
+Wingull
+♂
+Lv.
+12
+No item
+Tuber
+Ricky
+Reward:
+$
+56
+Zigzagoon
+♂
+Lv.
+14
+No item
+Tuber
+Lola
+Reward:
+$
+52
+Azurill
+♀
+Lv.
+13
+No item
+Azurill
+♀
+Lv.
+13
+No item
+Seashore House
+Tuber
+Simon
+Reward:
+$
+48
+Azurill
+♀
+Lv.
+12
+No item
+Marill
+♂
+Lv.
+12
+No item
+Beauty
+Johanna
+Reward:
+$
+1040
+Goldeen
+♀
+Lv.
+13
+No item
+Sailor
+Dwayne
+Reward:
+$
+352
+Wingull
+♂
+Lv.
+11
+No item
+Machop
+♂
+Lv.
+11
+No item
+Tentacool
+♂
+Lv.
+11
+No item
+Requires
+Surf
+Tuber
+Gwen
+Reward:
+$
+108
+Marill
+♀
+Lv.
+27
+No item
+Tuber
+Carmen
+Reward:
+$
+104
+Marill
+♀
+Lv.
+27
+No item
+Swimmer♀
+Alice
+Reward:
+$
+192
+Goldeen
+♂
+Lv.
+25
+No item
+Wingull
+♀
+Lv.
+25
+No item
+Goldeen
+♂
+Lv.
+25
+No item
+Swimmer♂
+David
+Reward:
+$
+208
+Wingull
+♂
+Lv.
+26
+No item
+Carvanha
+♂
+Lv.
+26
+No item
+Young Couple
+Mel & Paul
+Reward:
+$
+1728
+Beautifly
+♂
+Lv.
+27
+No item
+Dustox
+♂
+Lv.
+27
+No item
+Fisherman
+Carter
+Reward:
+$
+900
+Tentacool
+♂
+Lv.
+23
+No item
+Tentacool
+♂
+Lv.
+24
+No item
+Wailmer
+♂
+Lv.
+24
+No item
+Tentacool
+♂
+Lv.
+25
+No item
+Rematch
+Tuber
+Ricky
+Reward:
+$
+108
+/
+120
+/
+132
+/
+144
+Linoone
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Tuber
+Lola
+*
+Reward:
+$
+104
+/
+116
+/
+128
+Marill
+♀
+Lv.
+26
+/
+29
+/
+32
+No item
+Marill
+♀
+Lv.
+26
+/
+29
+/
+32
+No item
+Tuber
+Lola
+*
+Reward:
+$
+140
+Azumarill
+♀
+Lv.
+35
+No item
+Azumarill
+♀
+Lv.
+35
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Revive
+Water's edge, west-northwest of Mr. Briney's ship (hidden)
+R
+S
+Ether
+Southeast part of the beach (hidden)
+R
+S
+Soft Sand
+From a female Tuber to the northeast of Mr. Briney's ship
+R
+S
+Heart Scale
+×2
+Under the green umbrella to the west (hidden)
+North of the old man and his Zigzagoon (hidden)
+R
+S
+Great Ball
+Under the blue beach towel near the Seashore House (hidden)
+R
+S
+Soda Pop
+×6
+Reward for defeating all three Trainers inside the Seashore House
+R
+S
+Requires
+Surf
+Heart Scale
+On the island with Young Couple Mel & Paul (hidden)
+R
+S
+PP Up
+Unoccupied islet to the southeast
+R
+S
+Seashore House
+The hut on the beach's west side is known as the Seashore House, where refreshments are sold to thirsty beachgoers. Defeat all three Trainers inside, then speak to the proprietor. He rewards your effort with a free six-pack of
+Soda Pop
+! From this point on, you can also buy individual bottles at
+$
+300 apiece.
+Slateport City
+Slateport City
+Oceanic Museum
+Situated between Routes
+109
+and
+110
+,
+Slateport City
+is by far the biggest place you've yet reached, and it is filled with sights to see. From the
+Pokémon Contest
+Hall
+to the
+Oceanic Museum
+, there's plenty to marvel at in this seaside metropolis.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Soothe Bell
+From a woman in the Fan Club, if the lead Pokémon has high
+friendship
+R
+S
+Red Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Coolness
+R
+S
+Blue Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Beauty
+R
+S
+Pink Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Cuteness
+R
+S
+Green Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Cleverness
+R
+S
+Yellow Scarf
+From the Fan Club chairman, if the lead Pokémon has max
+Toughness
+R
+S
+TM46
+(
+Thief
+)
+From a Team Magma
+R
+/Aqua
+S
+Grunt inside the Oceanic Museum
+R
+S
+Effort Ribbon
+From the woman next to the Energy Guru, if the lead Pokémon has max
+EVs
+R
+S
+TM41
+(
+Torment
+)
+From a Sailor in the Contest Hall
+R
+S
+Pokéblock Case
+From a little girl in the Contest Hall
+R
+S
+Return trip
+DeepSeaTooth
+or
+DeepSeaScale
+From Captain Stern, in exchange for the
+Scanner
+R
+S
+Slateport Market
+The
+open-air market
+hosts numerous vendors peddling rare goods. A man near the southern entrance hints that you'll find even more bargains after obtaining
+TM43
+(
+Secret Power
+). Permanent stat-boosting
+Vitamins
+can be purchased from the Energy Guru. The red-clad clerk standing next to him will give your lead Pokémon an
+Effort Ribbon
+if it has been well-trained. Also after obtaining TM43, another clerk appears from whom additional copies of that and
+TM10
+(
+Hidden Power
+) may be purchased.
+Pokémon Fan Club
+The
+Pokémon Fan Club
+can be found just north of the Market. If your lead Pokémon is
+friendly
+enough toward you, you can receive a
+Soothe Bell
+from the woman near the back wall. Visit with the club's chairman to have him examine your lead Pokémon's condition. If any of its five Contest stats are high enough, he will reward you with a special item—a
+Red
+,
+Blue
+,
+Pink
+,
+Green
+, or
+Yellow Scarf
+. When held, these items boost their respective stat during the Appeal Round of a Pokémon Contest.
+Name Rater
+North of the Fan Club building is the home of the
+Name Rater
+. This man has the power to evaluate and change your Pokémon's nicknames as often as you'd like. However, he cannot change a Pokémon's nickname if it first belonged to someone else.
+Pokémon Contest Hall
+The local
+Pokémon Contest
+Hall stands in the northwest corner of the city. This building hosts only
+Hyper Rank
+Contests. In order to participate, you'll need to first clear a Super Rank Contest in the
+Fallarbor
+Contest Hall, and a Normal Rank Contest in the
+Verdanturf
+Contest Hall before that. But even though you can't take part in a Contest just yet, there are still items to collect inside. Speak to the little girl near the entrance to receive a
+Pokéblock Case
+, which holds up to 40
+candies
+that can be fed to a Pokémon to increase its
+condition
+for Contests. In addition, you can visit the back room and talk to the Sailor here to receive
+TM41
+(
+Torment
+).
+Slateport Harbor
+The Harbor is located in the city's northeast district. Since construction is not yet complete on the new ferry, there is little to do here at the moment.
+Stern's Shipyard
+Inside
+Stern's Shipyard
+, you find
+the captain
+'s assistant,
+Dock
+, looking over plans for the
+new ferry
+that is under construction here. Though Stern is nowhere to be found, Dock asks that you deliver the
+Devon Goods
+to him.
+Oceanic Museum
+At first, it is impossible to enter the
+Oceanic Museum
+because of the
+Team Magma
+R
+/
+Team Aqua
+S
+Grunts lined up outside. But by the time you visit the shipyard, the group has made its way into the building. Pay the
+$
+50 entrance fee to follow them inside. Those that can't afford it will be mistaken as part of "the group that came in earlier", and allowed in for free.
+The Grunts are more interested in the exhibits than battling with you, so speak to them in an effort to gauge their intentions. A Grunt near the entrance is shocked to see you; it's the same guy you fought back in
+Rusturf Tunnel
+! He's learned not to mess with you, and begs forgiveness with
+TM46
+(
+Thief
+) before fleeing the scene.
+Go upstairs to find
+Captain Stern
+, examining a display in the lower-right corner. Before you can hand over the
+Devon Goods
+for his new ferry, you are attacked by two Grunts! Defeat one after the other to save the captain and complete the delivery for
+Mr. Stone
+. Shocked at their failure, the two begin to plan their next move when a stranger appears. It's their boss,
+Magma Leader
+Maxie
+R
+/
+Aqua Leader
+Archie
+S
+! He wonders aloud why you would want to hinder their plans, but forgives you as being too young to understand their ideals. As the group departs, he warns against interfering with their future plans.
+Route 110
+Route 110
+The lengthy
+Route 110
+connects two of
+Hoenn
+'s largest cities,
+Slateport
+and
+Mauville
+, and also links back to
+Route 103
+. All pedestrians are restricted to the lower path, which features the mysterious
+Trick House
+. After obtaining a Bike, you can speed through the route on
+Seaside Cycling Road
+.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Isabel
+Reward:
+$
+1200
+Plusle
+♀
+Lv.
+15
+Oran Berry
+Minun
+♀
+Lv.
+15
+Oran Berry
+Youngster
+Timmy
+Reward:
+$
+224
+Poochyena
+♂
+Lv.
+12
+No item
+Aron
+♂
+Lv.
+16
+No item
+Electrike
+♂
+Lv.
+14
+No item
+Collector
+Edwin
+Reward:
+$
+840
+Lombre
+♂
+Lv.
+14
+No item
+Nuzleaf
+♂
+Lv.
+14
+No item
+Psychic
+Edward
+Reward:
+$
+384
+Abra
+♂
+Lv.
+16
+No item
+Fisherman
+Dale
+Reward:
+$
+480
+Tentacool
+♂
+Lv.
+12
+No item
+Wailmer
+♂
+Lv.
+15
+No item
+Tentacool
+♂
+Lv.
+9
+No item
+Tentacool
+♂
+Lv.
+12
+No item
+Seaside Cycling Road (requires a Bicycle)
+Psychic
+Jaclyn
+Reward:
+$
+384
+Abra
+♂
+Lv.
+16
+No item
+Triathlete
+Abigail
+Reward:
+$
+680
+Magnemite
+Lv.
+17
+No item
+Triathlete
+Anthony
+Reward:
+$
+640
+Magnemite
+Lv.
+16
+No item
+Magnemite
+Lv.
+16
+No item
+Triathlete
+Benjamin
+Reward:
+$
+680
+Magnemite
+Lv.
+17
+No item
+Triathlete
+Jasmine
+Reward:
+$
+280
+Magnemite
+Lv.
+15
+No item
+Magnemite
+Lv.
+15
+No item
+Voltorb
+Lv.
+7
+No item
+Triathlete
+Jacob
+Reward:
+$
+600
+Voltorb
+Lv.
+7
+No item
+Voltorb
+Lv.
+7
+No item
+Magnemite
+Lv.
+15
+No item
+Rematch
+Pokéfan
+Isabel
+*
+Reward:
+$
+2080
+/
+2320
+/
+2560
+Plusle
+♀
+Lv.
+26
+/
+29
+/
+32
+Oran Berry
+Minun
+♀
+Lv.
+26
+/
+29
+/
+32
+Oran Berry
+Pokéfan
+Isabel
+*
+Reward:
+$
+2800
+Plusle
+♀
+Lv.
+35
+Sitrus Berry
+Minun
+♀
+Lv.
+35
+Sitrus Berry
+Collector
+Edwin
+*
+Reward:
+$
+1560
+/
+1740
+/
+1920
+Lombre
+♂
+Lv.
+26
+/
+29
+/
+32
+No item
+Nuzleaf
+♂
+Lv.
+26
+/
+29
+/
+32
+No item
+Collector
+Edwin
+*
+Reward:
+$
+2100
+Ludicolo
+♂
+Lv.
+35
+No item
+Shiftry
+♂
+Lv.
+35
+No item
+Triathlete
+Abigail
+*
+Reward:
+$
+1120
+/
+1240
+Magnemite
+Lv.
+28
+/
+31
+No item
+Triathlete
+Abigail
+*
+Reward:
+$
+1360
+/
+1480
+Magneton
+Lv.
+34
+/
+37
+No item
+Triathlete
+Benjamin
+*
+Reward:
+$
+1120
+/
+1240
+Magnemite
+Lv.
+28
+/
+31
+No item
+Triathlete
+Benjamin
+*
+Reward:
+$
+1360
+/
+1480
+Magneton
+Lv.
+34
+/
+37
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Electrike
+R
+S
+E
+Grass
+12-13
+30%
+Zigzagoon
+R
+S
+E
+Grass
+12
+20%
+Minun
+R
+S
+E
+Grass
+13
+15%
+Plusle
+R
+S
+E
+Grass
+13
+15%
+Gulpin
+R
+S
+E
+Grass
+12-13
+15%
+Oddish
+R
+S
+E
+Grass
+13
+10%
+Wingull
+R
+S
+E
+Grass
+12
+8%
+Plusle
+R
+S
+E
+Grass
+12-13
+2%
+Minun
+R
+S
+E
+Grass
+12-13
+2%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dire Hit
+East of the Trick House, near Youngster Timmy
+R
+S
+Full Heal
+North of Youngster Timmy (hidden)
+R
+S
+Itemfinder
+From May/Brendan after defeating her/him
+R
+S
+Great Ball
+North of the site of the rival battle (hidden)
+R
+S
+Revive
+Two steps east of Collector Edwin (hidden)
+R
+S
+Poké Ball
+North of Psychic Edward (hidden)
+R
+S
+Nanab Berry
+×9
+From the Berry Trees near the Mauville City gate
+R
+S
+Requires
+Surf
+Rare Candy
+Small island, northeast of the Trick House
+R
+S
+Trick House
+The
+Trick House
+is located farther north, near the
+Route 103
+junction. The building's owner, the
+Trick Master
+, is a fun-loving prankster who has crafted many entertaining tricks for travelers. Don't let his hard work go to waste!
+Puzzle
+Milestone required
+Hiding spot
+Field move required
+Password
+Prize
+Puzzle 1
+None
+Under the table
+Cut
+"
+Trick Master
+is fabulous."
+Rare Candy
+Puzzle 2
+Dynamo Badge
+Inside the right potted tree
+None
+"
+Trick Master
+is smart."
+Timer Ball
+Puzzle 3
+Heat Badge
+Inside the right cabinet
+Rock Smash
+"
+Trick Master
+is coveted."
+Hard Stone
+Puzzle 4
+Balance Badge
+Behind the left window
+Strength
+"
+Trick Master
+is cool."
+Smoke Ball
+Puzzle 5
+Feather Badge
+Inside the right potted tree
+None
+"
+Trick Master
+is a genius."
+TM12
+(
+Taunt
+)
+Puzzle 6
+Mind Badge
+Inside the right cabinet
+None
+"
+Trick Master
+is my life."
+Magnet
+Puzzle 7
+Rain Badge
+Behind the right window
+None
+"
+Trick Master
+is huggable."
+PP Max
+Puzzle 8
+Hall of Fame
+induction
+Under the left cushion
+None
+"
+Trick Master
+I love."
+Red Tent
+R
+Blue Tent
+S
+Finding the Trick Master
+When you step inside, you can't shake the feeling that someone is watching you. The mischievous Trick Master is hiding somewhere! Search the entire room until you find him, when he accepts your challenge and disappears. Certain field moves are required for most of the mazes, so you will need to return later to complete the rest.
+Inside the Maze
+Once he leaves, examine the scroll on the wall to find a secret passage that leads to a devious maze. Navigate the maze and battle Trainers as you search for a rolled-up scroll with a secret code. Reach the back of the maze and examine the hanging scroll. Inscribe the code on the hidden door to open it. There's no going back, so be sure to find everything the maze has to offer before entering the next room!
+Trick Master's Room
+The Trick Master waits here for all challengers. Speak to him to receive your reward, then leave through the exit in the north wall. After the last challenge, you can find a hidden
+Nugget
+where the Trick Master had stood.
+Rival Battle 2
+Go east from the Trick House and pass beneath Cycling Road. Turn north and continue on until you meet
+May
+/
+Brendan
+again. It seems like ages since you last met, so prove to your friend how far you've come as a Trainer!
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Ruby and Sapphire
+Reward:
+$
+1200
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+18
+Splash
+Normal
+--
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Rollout
+Rock
+--
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+18
+Tackle
+Normal
+--
+Stun Spore
+Grass
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+20
+Focus Energy
+Normal
+--
+Ember
+Fire
+--
+Double Kick
+Fighting
+--
+Peck
+Flying
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Ruby and Sapphire
+Reward:
+$
+1200
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+18
+Tackle
+Normal
+--
+Stun Spore
+Grass
+--
+Leech Seed
+Grass
+--
+Mega Drain
+Grass
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+18
+Growl
+Normal
+--
+Tackle
+Normal
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+20
+Water Gun
+Water
+--
+Bide
+Normal
+--
+Mud Shot
+Ground
+--
+Foresight
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+Brendan
+Route 110
+Ruby and Sapphire
+Reward:
+$
+1200
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+18
+Growl
+Normal
+--
+Tackle
+Normal
+--
+Ember
+Fire
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+18
+Splash
+Normal
+--
+Growl
+Normal
+--
+Water Gun
+Water
+--
+Rollout
+Rock
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+20
+Absorb
+Grass
+--
+Quick Attack
+Normal
+--
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+After the battle, May/Brendan hands you the
+Itemfinder
+, a special gadget that allows you to search the surrounding area more thoroughly to discover hidden items! Search the underpass for treasure as you continue on to
+Mauville City
+.
+Route 103 (optional)
+Go to the left of the Trick House. Back to
+Route 103
+!. This is the eastern side of the route. It won't take you back to
+Oldale Town
+before you earn more
+Badges
+, but there are a lot of Trainers here. It's a good idea to battle them all— it's excellent training for your upcoming Gym battle.
+Trainers
+Trainer
+Pokémon
+Aroma Lady
+Daisy
+ミドリ
+Midori
+Reward:
+$
+640
+Roselia
+♀
+Lv.
+16
+No item
+Twins
+Amy & Liv
+クミとルミ
+Kumi and Rumi
+Reward:
+$
+384
+Plusle
+♂
+Lv.
+16
+No item
+Minun
+♂
+Lv.
+16
+No item
+Pokéfan
+Miguel
+ミツハル
+Mitsuharu
+Reward:
+$
+1280
+Skitty
+♀
+Lv.
+16
+Oran Berry
+Fisherman
+Andrew
+カツノリ
+Katsunori
+Reward:
+$
+600
+Magikarp
+♂
+Lv.
+5
+No item
+Tentacool
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+15
+No item
+Rematch
+Twins
+Amy & Liv
+クミとルミ
+Kumi and Rumi
+Reward:
+$
+648
+/
+720
+/
+792
+/
+864
+Plusle
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Minun
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Pokéfan
+Miguel
+*
+ミツハル
+Mitsuharu
+Reward:
+$
+2160
+/
+2400
+Skitty
+♀
+Lv.
+27
+/
+30
+Oran Berry
+Pokéfan
+Miguel
+*
+ミツハル
+Mitsuharu
+Reward:
+$
+2640
+Delcatty
+♀
+Lv.
+33
+Oran Berry
+Pokéfan
+Miguel
+*
+ミツハル
+Mitsuharu
+Reward:
+$
+2880
+Delcatty
+♀
+Lv.
+36
+Sitrus Berry
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+5-10
+70%
+100%
+Tentacool
+R
+S
+E
+5-10
+30%
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Guard Spec.
+In the center of the forest on the eastern side of the route (requires
+Cut
+)
+R
+S
+Cheri Berry
+×4
+In the
+soft soil
+bed in the forest on the eastern side of the route (requires
+Cut
+)
+R
+S
+Leppa Berry
+×2
+In the
+soft soil
+bed in the forest on the eastern side of the route (requires
+Cut
+)
+R
+S
+← Part 3
+Route 105, Route 106, Dewford Town, Granite Cave, Route 107, Route 108
+Ruby and Sapphire
+walkthrough
+Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel, Route 111, Route 112
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

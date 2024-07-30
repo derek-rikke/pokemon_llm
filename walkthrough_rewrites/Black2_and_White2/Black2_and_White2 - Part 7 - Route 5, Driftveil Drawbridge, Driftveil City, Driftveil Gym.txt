@@ -1,0 +1,45 @@
+Game: Black2_and_White2
+Part: 7
+Keywords: Route 5, Driftveil Drawbridge, Driftveil City, Driftveil Gym
+
+### Part 7: Route 5 to Driftveil City Walkthrough
+
+#### Route 5
+- **Bianca's HM**: Obtain HM02 (Fly) from Bianca outside Nimbasa City.
+- **Hidden Grottoes**: Look for large shadows under trees to find Hidden Grottoes. The first one has a Minccino with its Hidden Ability.
+- **Berry Seller**: Buy a bunch of five Berries daily for $200.
+- **The Hungry Maid**: Give her any edible item (like Berry Juice) for rewards.
+- **Battle Musicians and Trainers**: Defeat various trainers for cash and items, including Musician Preston for an Electric Guitar.
+- **Roadblock**: Battle Motorcyclist Charles (Rotation Battle in B2, Triple Battle in W2) to clear the path.
+
+#### Driftveil Drawbridge
+- **Bird Pokémon**: Collect feathers for Effort Values and cash.
+- **Funfest Mission**: Speak to the man at the east end to start a mission.
+- **Youngster's Wish**: Show a Charizard to the Youngster for a Heal Powder.
+
+#### Driftveil City
+- **Key Locations**:
+  - **Grand Hotel**: Get a Shell Bell after seeing 70 Pokémon. Visit Axew on 19F for a Haban Berry.
+  - **Luxury Suites**: Get a Heart Scale from a Lady and an Everstone from a Waiter on 23F.
+  - **Continental Hotel**: Receive a Big Root from a Veteran on 25F.
+  - **Chateau Hotel**: Find a Move Tutor for Red Shards and an Air Balloon from a Gentleman.
+  
+- **Team Plasma Encounter**: Meet a former Team Plasma member who discusses their past. You receive a Zorua from Rood after a battle.
+
+#### Driftveil Gym
+- **Leader**: Clay (Ground-type).
+- **Strategy**:
+  - Use Water-type moves against Clay’s Pokémon.
+  - Grass-type moves are effective against Krokorok and Sandslash; Fighting-type moves against Krokorok, Onix, and Excadrill.
+  - Equip Quick Claw to sometimes attack first.
+  
+- **Gym Trainers**: Defeat workers for money before facing Clay.
+  
+- **Clay's Pokémon**:
+  - **Krokorok** (Lv. 28/31): Dark/Ground
+  - **Sandslash** (Lv. 28/31): Ground
+  - **Excadrill** (Lv. 30/33): Ground/Steel
+
+- **Reward**: Quake Badge and TM78 (Bulldoze) after victory.
+
+After the battle, follow Hugh to the Pokémon World Tournament area south of Driftveil City.

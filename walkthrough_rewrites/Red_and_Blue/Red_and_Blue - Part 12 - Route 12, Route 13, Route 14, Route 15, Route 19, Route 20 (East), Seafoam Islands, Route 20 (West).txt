@@ -1,0 +1,60 @@
+Game: Red_and_Blue
+Part: 12
+Keywords: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+
+**Part 12 Walkthrough: Pokémon Red and Blue**
+
+**Route 12**
+- Connects Lavender Town and Route 13.
+- **Trainers:**
+  - **Fisherman (North of Snorlax)**: Rewards: $770 (Goldeen Lv. 22), $840 (Tentacool Lv. 24).
+  - **Rocker (South of Snorlax)**: Rewards: $725 (Voltorb Lv. 29), $580 (Nidoran♂ Lv. 29).
+- **Items**:
+  - TM39 (Swift): Lavender Gate, 2nd floor.
+  - Super Rod: Speak to Fishing Guru's brother.
+  - Hyper Potion: Hidden by Snorlax.
+
+**Roadblock**: Use Poké Flute to wake Snorlax (Lv. 30).
+
+**Route 13**
+- Narrow path leading to Route 14.
+- **Trainers**: Various Pokémon levels 24-30.
+- **Items**: Hidden Calcium and PP Up along the southern fence.
+
+**Route 14**
+- Coastal road south to Route 15.
+- **Trainers**: Various Bird Keepers, levels 26-33.
+
+**Route 15**
+- Connects to Fuchsia City.
+- **Trainers**: Includes Jr. Trainer♀ (Clefairy Lv. 33) and several bikers.
+
+**Fuchsia City**
+- Prepare to sail; bring Surf and Strength.
+- **Items**: Exp. All from Professor Oak's aide if you’ve caught 50 Pokémon.
+
+**Route 19**
+- Runs south from Fuchsia City.
+- **Trainers**: Swimmers with Pokémon levels 27-30.
+- **Fishing**: Magikarp, Poliwag, and others available.
+
+**Route 20 (East)**
+- Leads to Seafoam Islands and Cinnabar Island.
+- **Trainers**: Swimmers with Pokémon levels 28-35.
+- **Fishing**: Similar Pokémon as Route 19.
+
+**Seafoam Islands**
+- Navigate with boulders to reach Articuno.
+- **Available Pokémon**: Seel, Horsea, and more.
+- **VS Articuno (Lv. 50)**: Use Fire/Electric/Rock moves followed by Grass/Bug to lower health; status ailments help capture.
+
+**Route 20 (West)**
+- Connects to Cinnabar Island.
+- **Trainers**: Various trainers with Pokémon levels 30-35.
+
+**Key Tips**:
+- Use **Poké Flute** for Snorlax.
+- Collect items and train Pokémon effectively.
+- Save before battling Articuno for a chance to capture it.
+
+For further details, refer to the respective route sections in-game.

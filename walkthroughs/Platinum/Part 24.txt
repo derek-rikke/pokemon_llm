@@ -1,0 +1,1432 @@
+Part: Part 24
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_24
+Keywords: Fight Area, Route 225, Survival Area, Route 226, Route 227
+
+Walkthrough Text:
+Contents
+1
+Snowpoint City
+2
+Fight Area
+3
+Route 225
+4
+Survival Area
+4.1
+Move Tutor
+5
+Route 226
+6
+Route 227
+Snowpoint City
+Once in Snowpoint City, talk to the
+Sailor
+to board the ship to the
+Battle Zone
+. Before you go,
+Cynthia
+will appear and give you a pep talk about how people must work together to help change the world so no one ends up like
+Cyrus
+. She wants you to go the Battle Zone to learn and grow. After you speak with her, the ship will depart for the
+Fight Area
+.
+Fight Area
+Fight Area
+Items
+Item
+Location
+Games
+Super Rod
+From a Fisherman
+Pt
+Scope Lens
+From the old lady in the Poké Mart
+Pt
+Pomeg Berry
+×2
+Berry patch to the left of the Pokémon Center
+Pt
+Hondew Berry
+×2
+Berry patch to the left of the Pokémon Center
+Pt
+When you arrive,
+Barry
+will be there and drag you to the front of the
+Battle Frontier
+. It turns out that
+Flint
+and
+Volkner
+are preventing him from entering, believing he may not be strong enough. Once you accept Barry's offer for a
+Multi Battle
+, the two of you will automatically engage the Trainers in a double battle. You can still reject the offer if you need to prepare your team.
+Elite Four
+and
+Leader
+Flint
+Volkner
+Fight Area
+Platinum
+Reward:
+$
+13920
+Types:
+Dark
+Fire
+Ability:
+Flash Fire
+Held item:
+None
+Houndoom
+♂
+Lv.
+56
+Flamethrower
+Fire
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+56
+Overheat
+Fire
+Special
+--
+Giga Impact
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flame Body
+Held item:
+Sitrus Berry
+Magmortar
+♂
+Lv.
+58
+Flamethrower
+Fire
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+SolarBeam
+Grass
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Rivalry
+Held item:
+None
+Luxray
+♂
+Lv.
+56
+Ice Fang
+Ice
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+56
+Pin Missile
+Bug
+Physical
+--
+Charge Beam
+Electric
+Special
+--
+Double Kick
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Ability:
+Motor Drive
+Held item:
+Sitrus Berry
+Electivire
+♂
+Lv.
+58
+ThunderPunch
+Electric
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Do not underestimate Flint and Volkner's team as they can be deadly if you get careless. They have
+Houndoom
+,
+Luxray
+, the
+Eeveelutions
+Flareon
+and
+Jolteon
+, and their star Pokémon
+Magmortar
+and
+Electivire
+. A
+Rock
+/
+Ground
+combo like
+Golem
+can help, but their Magmortar has
+SolarBeam
+to dispose of it. As long as you plan ahead and work together with Barry, you'll be fine if your team is at the right levels.
+After the two leave, you'll meet Barry's father
+Palmer
+, one of the
+Frontier Brains
+. He'll explain how each facility has its own rules before he leaves. Barry explains that his father is the reason he decided to become a Trainer. You'll then meet a boy named
+Buck
+who was impressed with your recent battle. He that mentions he usually trains at the
+Survival Area
+or
+Stark Mountain
+.
+Go near the Fight Area's north exit to talk to a
+Fisherman
+who will give you the
+Super Rod
+, the best fishing rod in the game, which will help you obtain some non-regional Water-type Pokémon. After that, go north to
+Route 225
+.
+(You will need the HMs
+Cut
+, Surf, and Rock Climb.)
+At this point, thanks to your trip to the Battle Zone and Fullmoon Island, you can now explore any area of the
+Underground
+. Additionally, you can now mine the
+Fossils
+from
+Generation I
+and
+Generation III
+. Like the Generation IV Fossils, they need to be taken to the
+Oreburgh Museum
+to be revived.
+Route 225
+Route 225
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+D
+P
+Pt
+Grass
+47
+5%
+Raticate
+D
+P
+Pt
+Grass
+49-50
+15%
+Spearow
+D
+P
+Pt
+Grass
+47
+5%
+Fearow
+D
+P
+Pt
+Grass
+48-50
+30%
+30%
+0%
+Fearow
+D
+P
+Pt
+Grass
+49
+0%
+0%
+10%
+Machoke
+D
+P
+Pt
+Grass
+48,50
+25%
+Graveler
+D
+P
+Pt
+Grass
+49
+20%
+Banette
+D
+P
+Pt
+Grass
+48,50
+0%
+0%
+20%
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+35-45
+10%
+Golduck
+D
+P
+Pt
+Surfing
+35-55
+90%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Swarm
+Makuhita
+D
+P
+Pt
+Swarm
+48-49
+40%
+Special Pokémon
+Mankey
+D
+P
+Pt
+Poké Radar
+47
+2%
+Primeape
+D
+P
+Pt
+Poké Radar
+49-50
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Audrey
+マイナ
+Maina
+Reward:
+$
+1760
+Taillow
+Lv.
+51
+No item
+Farfetch'd
+Lv.
+53
+No item
+Pidgeot
+Lv.
+55
+No item
+Pokémon Ranger
+Ashlee
+アリナ
+Arina
+Reward:
+$
+3300
+Linoone
+Lv.
+55
+No item
+Arbok
+Lv.
+55
+No item
+Psychic
+Daisy
+フウカ
+Fūka
+Reward:
+$
+1792
+Slowpoke
+Lv.
+52
+No item
+Slowbro
+Lv.
+56
+No item
+Pokémon Ranger
+Dwayne
+ユキト
+Yukito
+Reward:
+$
+3240
+Donphan
+Lv.
+54
+No item
+Skarmory
+Lv.
+54
+No item
+Golduck
+Lv.
+54
+No item
+Ace Trainer
+Rodolfo
+ショウイチ
+Shōichi
+Reward:
+$
+3360
+Starmie
+Lv.
+55
+No item
+Vibrava
+Lv.
+56
+No item
+Ace Trainer
+Quinn
+ミツハル
+Mitsuharu
+Reward:
+$
+3360
+Pinsir
+Lv.
+55
+No item
+Lanturn
+Lv.
+56
+No item
+Ace Trainer
+Deanna
+ショウコ
+Shōko
+Reward:
+$
+3360
+Flaaffy
+Lv.
+55
+No item
+Tropius
+Lv.
+56
+No item
+Dragon Tamer
+Geoffrey
+レツ
+Retsu
+Reward:
+$
+1760
+Gabite
+Lv.
+53
+No item
+Altaria
+Lv.
+55
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Razor Fang
+Near the entrance from the Fight Area (Requires
+Rock Climb
+)
+Pt
+Rare Candy
+East of Bird Keeper Audrey, Pokémon Ranger Ashlee, and Psychic Daisy (Requires
+Cut
+)
+Pt
+HP Up
+In the southwest hill connected by a bridge to the northwest hill
+Pt
+Rare Candy
+In the middle of the yellow path, southeast of the house
+(hidden)
+Pt
+Big Mushroom
+On northeast hill connected by bridges on southern part of route
+(hidden)
+Pt
+Revive
+North-west of Ace Trainer Quinn
+Pt
+Leaf Stone
+Southwest of the house, in the corner of the grass patches
+(hidden)
+Pt
+Fresh Water
+Talk to the man in the house
+Pt
+Lax Incense
+West of the house (Requires
+Cut
+)
+Pt
+Dubious Disc
+On the other side of the lake north of the house (Requires
+Surf
+)
+Pt
+Green Shard
+Northeast patch of grass, right from the berry patch
+Pt
+Tamato Berry
+×2
+Berry patch northwest of lake (Requires
+Cut
+)
+Pt
+Kelpsy Berry
+×2
+Berry patch northwest of lake (Requires
+Cut
+)
+Pt
+Ultra Ball
+In the northernmost patch of grass
+(hidden)
+Pt
+Dawn Stone
+Atop a ledge at the northern end of the route (Requires
+Rock Climb
+)
+Pt
+For this Route it should be pretty straightforward. For getting to the Berry patch and some of the items you will need
+Cut
+,
+Surf
+, and
+Rock Climb
+. Fortunately none of the HM moves are necessary for progressing through this route to reach the
+Survival Area
+. Notably around the only house in this area is the
+Lax Incense
+, the only Incense that cannot be collected during the main game which you will need Cut to get to. Other items on this route include evolution items, though pretty much all you them have been found earlier in the game and all you can do is get extra copies of them.
+Survival Area
+Survival Area
+Items
+Item
+Location
+Games
+Rare Candy
+Behind the Poké Mart
+Pt
+PP Up
+To the left of the southern house, next to a tree
+(hidden)
+Pt
+TM42
+(
+Facade
+)
+From a man in the southernmost house
+Pt
+Red Shard
+To the left of the house belonging to the Move Tutor (Requires
+Rock Climb
+)
+Pt
+The house on the west side of the
+Survival Area
+is the
+Battleground
+, a special facility which you can't access until you complete your upcoming mission to
+Stark Mountain
+. If you use the ledges near the west side or the small path on the east, you'll reach the house located in the south of town. Inside is a man that will give you
+TM42
+(
+Facade
+).
+Move Tutor
+The house on the cliff has the final Move Tutor in the game. To access it go east to
+Route 226
+and use the first Rock Climb ledge you see to go up there. Like the previous Tutors you will need colored shards to be able to teach your Pokémon moves they are compatible with.
+Survival Area
+Move
+Type
+Cat.
+Shards
+AncientPower
+Rock
+Special
+6
+2
+0
+0
+Aqua Tail
+Water
+Physical
+6
+2
+0
+0
+Bounce
+Flying
+Physical
+4
+2
+0
+2
+Earth Power
+Ground
+Special
+6
+2
+0
+0
+Endeavor
+Normal
+Physical
+4
+0
+0
+4
+Gastro Acid
+Poison
+Status
+4
+2
+0
+2
+Gunk Shot
+Poison
+Physical
+4
+2
+2
+0
+Heat Wave
+Fire
+Special
+4
+2
+2
+0
+Iron Defense
+Steel
+Status
+4
+0
+2
+2
+Iron Head
+Steel
+Physical
+6
+0
+0
+2
+Mud-Slap
+Ground
+Special
+4
+0
+4
+0
+Outrage
+Dragon
+Physical
+6
+0
+0
+2
+Rollout
+Rock
+Physical
+4
+2
+2
+0
+Seed Bomb
+Grass
+Physical
+4
+4
+0
+0
+Signal Beam
+Bug
+Special
+2
+2
+2
+2
+Superpower
+Fighting
+Physical
+8
+0
+0
+0
+Twister
+Dragon
+Special
+6
+2
+0
+0
+Route 226
+Route 226
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+D
+P
+Pt
+Grass
+47
+5%
+Raticate
+D
+P
+Pt
+Grass
+49-50
+15%
+Fearow
+D
+P
+Pt
+Grass
+48,50
+20%
+20%
+0%
+Machoke
+D
+P
+Pt
+Grass
+48,50
+25%
+Graveler
+D
+P
+Pt
+Grass
+49
+20%
+Wingull
+D
+P
+Pt
+Grass
+47,49
+15%
+Banette
+D
+P
+Pt
+Grass
+48,50
+0%
+0%
+20%
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+35-55
+10%
+Wingull
+D
+P
+Pt
+Surfing
+35-45
+60%
+Pelipper
+D
+P
+Pt
+Surfing
+35-55
+30%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Horsea
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Seadra
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+60%
+Relicanth
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+5%
+Swarm
+Krabby
+D
+P
+Pt
+Swarm
+48-49
+40%
+Special Pokémon
+Mankey
+D
+P
+Pt
+Poké Radar
+47
+2%
+Primeape
+D
+P
+Pt
+Poké Radar
+49-50
+20%
+Magikarp
+D
+P
+Pt
+Trade
+Finneon
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Graham
+マナブ
+Manabu
+Reward:
+$
+3540
+Tyrogue
+♂
+Lv.
+55
+No item
+Hitmonchan
+♂
+Lv.
+59
+No item
+Bird Keeper
+Geneva
+チサコ
+Chisako
+Reward:
+$
+1824
+Fearow
+♀
+Lv.
+55
+No item
+Xatu
+♀
+Lv.
+57
+No item
+Dragon Tamer
+Stanley
+ケイスケ
+Keisuke
+Reward:
+$
+1824
+Dratini
+♂
+Lv.
+55
+No item
+Altaria
+♂
+Lv.
+57
+No item
+Swimmer
+Lydia
+ミキ
+Miki
+Reward:
+$
+864
+Wailmer
+♀
+Lv.
+54
+No item
+Marill
+♀
+Lv.
+54
+No item
+Spheal
+♀
+Lv.
+54
+No item
+Swimmer
+Wade
+セイイチ
+Seiichi
+Reward:
+$
+896
+Carvanha
+♂
+Lv.
+53
+No item
+Carvanha
+♂
+Lv.
+53
+No item
+Sharpedo
+♂
+Lv.
+56
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Qualot Berry
+×2
+Berry patch in the northwest area (Requires
+Rock Climb
+)
+Pt
+Pomeg Berry
+×2
+Berry patch in the northwest area (Requires
+Rock Climb
+)
+Pt
+Carbos
+To the far left of the area reached by
+Rock Climbing
+downwards twice
+Pt
+Lagging Tail
+On the ledge reached by using Rock Climb to move upwards twice from the location of the Carbos
+Pt
+TM53
+(
+Energy Ball
+)
+On the ledge west of Meister's House that is only accessible by Rock Climbing down to it
+Pt
+TinyMushroom
+In the grass above the Rock Climb point near the female Swimmer
+(hidden)
+Pt
+Big Mushroom
+In the grass above the Rock Climb point near the female Swimmer
+(hidden)
+Pt
+PP Max
+In the grass above the Rock Climb point near the female Swimmer
+(hidden)
+Pt
+Heart Scale
+On the isolated beach southwest of Swimmer Lydia
+(hidden)
+Pt
+Rare Candy
+In a gap in the trees behind the Meister's house
+(hidden)
+Pt
+Lum Berry
+Held by
+Foppa
+Pt
+For this route you will need Rock Climb and Surf. For the first part go to the Rock Climb ledge to the far right climb up it. The trick to getting to the berry patch and the items is by carefully observing which Rock Climb ledge goes to where. To make it easy go to the ledge to the right that leads down. Then go to the nearby ledge that leads up. Now go to the ledge near the two trainers that leads down (though go the ledge after facing those trainers to find
+TM53
+(
+Energy Ball
+), a useful move). Now you can get to the second part where Surf is needed.
+In the second area you will find a house belonging to a man called the Meister who is German in origin. He will perform an upgrade that will store Pokédex entries from Pokémon games from other countries. He will also trade you a
+Magikarp
+from Germany in exchange for
+Finneon
+. To the east of his house is a grassland area that leads to
+Route 227
+and
+Route 228
+. Head for the north exit that leads to Route 227 first.
+Route 227
+Route 227
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+D
+P
+Pt
+Grass
+51,53
+20%
+20%
+0%
+Fearow
+D
+P
+Pt
+Grass
+53
+0%
+0%
+10%
+Golbat
+D
+P
+Pt
+Grass
+51
+0%
+0%
+10%
+Graveler
+D
+P
+Pt
+Grass
+51,53
+15%
+Weezing
+D
+P
+Pt
+Grass
+52
+10%
+Rhyhorn
+D
+P
+Pt
+Grass
+52
+5%
+Rhydon
+D
+P
+Pt
+Grass
+54
+20%
+Skarmory
+D
+P
+Pt
+Grass
+53
+5%
+Numel
+D
+P
+Pt
+Grass
+51
+5%
+Camerupt
+D
+P
+Pt
+Grass
+53
+20%
+Surfing
+Poliwag
+D
+P
+Pt
+Surfing
+35-45
+30%
+Poliwhirl
+D
+P
+Pt
+Surfing
+35-55
+70%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Swarm
+Spinda
+D
+P
+Pt
+Swarm
+53-54
+40%
+Special Pokémon
+Torkoal
+D
+P
+Pt
+Poké Radar
+51-53
+22%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Saul
+クニオ
+Kunio
+Reward:
+$
+3660
+Tauros
+♂
+Lv.
+61
+No item
+Pokémon Ranger
+Felicia
+アキヨ
+Akiyo
+Reward:
+$
+3540
+Skiploom
+♀
+Lv.
+59
+No item
+Lopunny
+♀
+Lv.
+59
+No item
+Ace Trainer
+Mikayla
+ミワコ
+Miwako
+Reward:
+$
+3360
+Seviper
+♀
+Lv.
+56
+No item
+Persian
+♀
+Lv.
+56
+No item
+Absol
+♀
+Lv.
+56
+No item
+Black Belt
+Griffin
+ケイタ
+Keita
+Reward:
+$
+1392
+Breloom
+♂
+Lv.
+58
+No item
+Medicham
+♂
+Lv.
+58
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Yellow Shard
+Grassy patch northwest of Buck
+Pt
+Max Repel
+A couple steps northeast of the left pond (requires
+Rock Climb
+)
+(hidden)
+Pt
+Charcoal
+East of right pond (requires
+Rock Climb
+)
+Pt
+Zinc
+West of Ace Trainer Mikayla
+Pt
+Star Piece
+In a rock left of the big grassy patch
+(hidden)
+Pt
+As you notice when you arrive here is volcanic ash in the air, as you are close to
+Stark Mountain
+, which is an active volcano. Carefully jump over the two bike ledges with the bike and after the second ledge jump over the regular ledge once, but careful not to jump over the second one to a avoid backtracking. After that you will see
+Barry
+and
+Wake
+, and after Wake acknowledges your growing strength, Barry annoys Wake again by calling him master despite not being made Wake's apprentice and Barry pleads that he needs him to enter the Battlefield club. Wake will point out how prepared your team must be for dealing with Stark Mountain before he leaves with Barry right behind him.
+The lady in the nearby house will let your team rest when you talk to her. Follow the path and you'll encounter
+Buck
+again. He asks you to go up to Stark Mountain to patrol it and guard the Magma Stone which keeps a
+certain
+Pokémon asleep and that a group of vandals that dress like
+spacemen
+have been plaguing the area lately. Buck mentions he can't go as his Pokémon are low on HP. Continue following the path and you will reach Stark Mountain.
+← Part 23
+Distortion World, Victory Road, Route 224
+Platinum
+walkthrough
+Stark Mountain, Survival Area
+Part 25 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

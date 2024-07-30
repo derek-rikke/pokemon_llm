@@ -1,0 +1,1456 @@
+Part: Part 27
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_27
+Keywords: Viridian Gym, Oak's Lab, Kanto Power Plant, Cerulean Cave
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Viridian City
+1.1
+Viridian Gym
+2
+Pallet Town
+2.1
+Oak's Pokémon Lab
+3
+Now that you have Rock Climb (optional)
+3.1
+Cherrygrove City
+3.2
+National Park
+3.3
+Route 38
+3.4
+Olivine City
+3.5
+Route 42
+3.6
+Mt. Mortar
+3.7
+Route 45
+3.8
+Rock Tunnel
+3.9
+Diglett's Cave
+3.10
+Cinnabar Island
+4
+Route 10 (north)
+4.1
+Kanto Power Plant
+5
+Cerulean City
+5.1
+Cerulean Cave
+5.1.1
+1F
+5.1.2
+2F
+5.1.3
+1F
+5.1.4
+2F
+5.1.5
+1F
+5.1.6
+2F
+5.1.7
+1F
+5.1.8
+2F
+5.1.9
+1F
+5.1.10
+B1F
+5.1.10.1
+Mewtwo
+Viridian City
+Viridian Gym
+Viridian Gym
+Welcome to
+Viridian Gym
+, the last of the Kanto League. The Gym Leader,
+Blue
+, is the only one around that does not specialize in any single type, and instead uses the team from his time as Champion
+three years ago
+. He has installed a maze of spinner tiles to thwart any would-be challengers. Similar to the
+Blackthorn Gym
+, the unstable floor causes your lead Pokémon to retreat to its Poké Ball. To reach the Gym Leader, step only on red tiles, beginning with the one in the southeast. Go west from the first stopper tile, then north, northeast, and east twice to reach the end.
+With a diverse team and great movesets, Blue is the most challenging opponent you have faced at this point. He leads with his
+Exeggutor
+, and its
+Trick Room
+will likely allow it,
+Machamp
+, and
+Rhydon
+to outspeed the competition temporarily; it can also cause status problems with
+Hypnosis
+. Hit it with
+Bug-type
+moves for massive damage. His
+Arcanine
+knows the powerful
+Flare Blitz
+, as well as
+Dragon Pulse
+and
+ExtremeSpeed
+for coverage; use
+Special moves
+to bypass its
+Intimidate
+Ability.
+Rhydon
+can deal serious damage with
+Earthquake
+and
+Stone Edge
+. Use
+Water
+-,
+Grass
+-, or
+Ground-type
+moves to take it down, but Water and Grass Pokémon should be wary of its
+Thunder Fang
+and
+Megahorn
+, respectively. The combination of
+Gyarados
+'
+Dragon Dance
+,
+Waterfall
+, and
+Ice Fang
+can prove lethal, so knock it out quickly with
+Electric-type
+attacks. His Machamp's
+No Guard
+Ability ensures that
+DynamicPunch
+connects with the target, causing
+Confusion
+every time; take it out with a
+Psychic-type
+blast, as Stone Edge and
+ThunderPunch
+can deter
+Flying-type
+opponents. Finally, his
+Pidgeot
+relies on
+Return
+and
+Air Slash
+, and can mimic your previous attack with
+Mirror Move
+. Hit it with Electric-,
+Rock
+-, or
+Ice-type
+moves to bring the battle to an end.
+Viridian Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Arabella
+Reward:
+$
+3120
+Stantler
+♂
+Lv.
+53
+No item
+Tauros
+♂
+Lv.
+52
+No item
+Ace Trainer
+Salma
+Reward:
+$
+3180
+Slowking
+♀
+Lv.
+50
+Oran Berry
+Lickilicky
+♀
+Lv.
+53
+No item
+Ace Trainer
+Bonita
+Reward:
+$
+3120
+Spinda
+♂
+Lv.
+50
+No item
+Sudowoodo
+♂
+Lv.
+52
+No item
+Double Team
+Elan & Ida
+Reward:
+$
+12000
+Porygon2
+Lv.
+52
+No item
+Azumarill
+♂
+Lv.
+50
+No item
+Leader
+Blue
+Viridian Gym
+HeartGold and SoulSilver
+Reward:
+$
+9600
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggutor
+♂
+Lv.
+55
+Psychic
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Leaf Storm
+Grass
+Special
+--
+Trick Room
+Psychic
+Status
+--
+Types:
+Ground
+Rock
+Ability:
+Rock Head
+Held item:
+None
+Rhydon
+♂
+Lv.
+58
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+No Guard
+Held item:
+None
+Machamp
+♂
+Lv.
+56
+ThunderPunch
+Electric
+Physical
+--
+DynamicPunch
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+52
+Waterfall
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Return
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+58
+ExtremeSpeed
+Normal
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Dragon Pulse
+Dragon
+Special
+--
+Roar
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Tangled Feet
+Held item:
+Sitrus Berry
+Pidgeot
+♂
+Lv.
+60
+Whirlwind
+Normal
+Status
+--
+Mirror Move
+Flying
+Status
+--
+Return
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+When the smoke clears, Blue awards you the
+Earth Badge
+, the sixteenth and final Badge which enables the use of
+Rock Climb
+in the field. He also hands out
+TM92
+(
+Trick Room
+) as a prize.
+Exit the Gym to receive a call from
+Professor Oak
+. He congratulates you on earning all eight Kanto Gym Badges, and asks that you visit the Lab.
+Pallet Town
+Oak's Pokémon Lab
+In recognition of your victories over the eight Gyms of Kanto, Oak rewards you with
+HM08
+(
+Rock Climb
+). Now that you have earned all sixteen Badges, he grants you access to
+Mt. Silver
+, off to the northwest. The hallowed mountain is strictly off-limits to the average Trainer, but you have now proven yourself more than that. But before rushing off to that rugged, forbidding mountain, there are a few loose ends to resolve.
+Now that you have Rock Climb (optional)
+With the final HM
+Rock Climb
+in your possession, there are a multitude of helpful items you can obtain in both regions. If you plan on breeding, there are some helpful incenses to pick up. These incenses are the only way to obtain certain baby Pokémon like
+Bonsly
+,
+Mantyke
+, and
+Munchlax
+. There are also some valuable items such as the
+Magmarizer
+,
+Dubious Disc
+, and
+Oval Stone
+that can used to evolve Pokémon such as
+Magmar
+,
+Porygon2
+, and
+Happiny
+.
+Cherrygrove City
+Items
+Item
+Location
+Games
+Nugget
+On the cliff north of the off-shore island (requires
+Surf
+and
+Rock Climb
+)
+(hidden)
+HG
+SS
+National Park
+Items
+Item
+Location
+Games
+Shiny Stone
+Behind the fence, on a cliff in the northeast (requires
+Rock Climb
+)
+HG
+SS
+Route 38
+Items
+Item
+Location
+Games
+Lax Incense
+Behind the fence (requires
+Rock Climb
+)
+HG
+SS
+HP Up
+In white flowers behind the fence (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Olivine City
+Items
+Item
+Location
+Games
+Rare Candy
+On the rock on the small cliff northeast of the lighthouse (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Route 42
+Items
+Item
+Location
+Games
+Dubious Disc
+On the patch of land north of the eastern pond, accessed via the upper exit from
+Mt. Mortar
+(requires
+Rock Climb
+)
+HG
+SS
+Mt. Mortar
+Items
+Item
+Location
+Games
+1F (entrance)
+Revive
+East side, north of the upper exit to Route 42 (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+1F (back)
+Ultra Ball
+On a rock on the raised path in the west (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Protector
+North of the western entrance (requires
+Rock Climb
+)
+HG
+SS
+Rare Candy
+North of the western entrance, west of the Protector (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Full Incense
+North of the southeastern ladder to 2F (requires
+Rock Climb
+)
+HG
+SS
+Nugget
+West of the southeastern ladder to 2F, at the southern end of the path (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Route 45
+Items
+Item
+Location
+Games
+PP Max
+On a ledge at the southern end of the route (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Rock Tunnel
+Items
+Item
+Location
+Games
+Iron
+B1F, far-right Rock Climb chamber (requires
+Rock Climb
+)
+HG
+SS
+HP Up
+B1F, second-to-the-left Rock Climb chamber (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Oval Stone
+B1F, far-left Rock Climb chamber (requires
+Rock Climb
+)
+HG
+SS
+Diglett's Cave
+Items
+Item
+Location
+Games
+Calcium
+On the northwest raised ledge (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+PP Max
+On the middle raised ledge (requires
+Rock Climb
+)
+HG
+SS
+Rock Incense
+On the southernmost raised ledge (requires
+Rock Climb
+)
+HG
+SS
+Cinnabar Island
+Items
+Item
+Location
+Games
+Rare Candy
+On a rock at the northwest corner of the island (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Iron
+On a rock in the southeastern corner of the island (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Star Piece
+On a rock on the erupted volcano (requires
+Rock Climb
+)
+(hidden)
+HG
+SS
+Magmarizer
+On the erupted volcano (requires
+Rock Climb
+)
+HG
+SS
+Route 10 (north)
+Kanto Power Plant
+In the time it took to obtain the final Badge, the second of Kanto's
+legendary birds
+has appeared just outside the
+Kanto Power Plant
+. Use
+Rock
+- and
+Ice-type
+moves to cut
+Zapdos
+' health, then switch to
+Grass
+-,
+Bug
+-,
+Flying
+-,
+Fighting
+-, or
+Steel-type
+attacks to limit the damage it sustains. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Types:
+Electric
+Flying
+Ability:
+Pressure
+Held item:
+None
+Zapdos
+Lv.
+50
+AncientPower
+Rock
+Special
+--
+Charge
+Electric
+Status
+--
+Agility
+Psychic
+Status
+--
+Discharge
+Electric
+Special
+--
+Cerulean City
+Cerulean Cave, 1F
+Cerulean Cave, 2F
+Cerulean Cave, B1F
+Cerulean Cave
+Cerulean Cave
+is a large network of maze-like tunnels that extend deep into the mountains on the outskirts of
+Cerulean City
+. The undeveloped cave is pitch-black inside, so using
+Flash
+is recommended.
+Surf
+,
+Rock Smash
+, and
+Rock Climb
+are also required to fully navigate the area. Bring a healthy supply of
+Ultra Balls
+or
+Dusk Balls
+, as a violent legendary Pokémon resides on the lowest floor.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Machoke
+HG
+SS
+Cave
+39-40
+24%
+24%
+6%
+Parasect
+HG
+SS
+Cave
+38
+20%
+20%
+10%
+Primeape
+HG
+SS
+Cave
+38-39
+,
+39
+14%
+14%
+4%
+Persian
+HG
+SS
+Cave
+38-39
+,
+39
+14%
+14%
+4%
+Magneton
+HG
+SS
+Cave
+40
+11%
+11%
+10%
+Ditto
+HG
+SS
+Cave
+39-40
+11%
+11%
+10%
+Golbat
+HG
+SS
+Cave
+38
+,
+38-39
+10%
+10%
+50%
+Electrode
+HG
+SS
+Cave
+40
+5%
+Wobbuffet
+HG
+SS
+Cave
+37
+5%
+Surfing
+Psyduck
+HG
+SS
+Surfing
+35-40
+90%
+Golduck
+HG
+SS
+Surfing
+40
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+62%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+33%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+5%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Poliwhirl
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Gyarados
+HG
+SS
+Fishing
+Super Rod
+40
+10%
+Rock Smash
+Geodude
+HG
+SS
+Rock Smash
+23
+90%
+Graveler
+HG
+SS
+Rock Smash
+26-30
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+39-40
+20%
+Absol
+HG
+SS
+Hoenn Sound
+38
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+39-40
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+38
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Parasect
+HG
+SS
+Cave
+40
+20%
+Kadabra
+HG
+SS
+Cave
+42
+20%
+Magneton
+HG
+SS
+Cave
+41
+10%
+Ditto
+HG
+SS
+Cave
+42
+10%
+Electrode
+HG
+SS
+Cave
+41
+5%
+Wobbuffet
+HG
+SS
+Cave
+42
+5%
+Machoke
+HG
+SS
+Cave
+39-42
+,
+39
+20%
+20%
+10%
+Golbat
+HG
+SS
+Cave
+41
+,
+41-42
+10%
+10%
+20%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+41-42
+20%
+Absol
+HG
+SS
+Hoenn Sound
+39-41
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+41-42
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+39-41
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Parasect
+HG
+SS
+Cave
+45-47
+25%
+Kadabra
+HG
+SS
+Cave
+46
+20%
+Magneton
+HG
+SS
+Cave
+45-47
+15%
+Golbat
+HG
+SS
+Cave
+47
+10%
+Machoke
+HG
+SS
+Cave
+45
+10%
+Ditto
+HG
+SS
+Cave
+45
+10%
+Electrode
+HG
+SS
+Cave
+46
+5%
+Wobbuffet
+HG
+SS
+Cave
+49
+5%
+Surfing
+Psyduck
+HG
+SS
+Surfing
+35-40
+90%
+Golduck
+HG
+SS
+Surfing
+40
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+100%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+62%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+33%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+5%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Poliwhirl
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Gyarados
+HG
+SS
+Fishing
+Super Rod
+40
+10%
+Rock Smash
+Geodude
+HG
+SS
+Rock Smash
+22
+90%
+Graveler
+HG
+SS
+Rock Smash
+26
+10%
+Special Pokémon
+Mewtwo
+HG
+SS
+Only one
+70
+One
+Makuhita
+HG
+SS
+Hoenn Sound
+45
+20%
+Absol
+HG
+SS
+Hoenn Sound
+45-47
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+45
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+45-47
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Nugget
+Near the northwest corner
+HG
+SS
+Hyper Potion
+Southwest corner, on the wall behind the cracked rocks (hidden, requires
+Rock Smash
+)
+HG
+SS
+Full Restore
+South-southwest area, near two crystals
+HG
+SS
+Revive
+On a small crystal, southwest of the bridge (hidden)
+HG
+SS
+Max Elixir
+Upper level, east of the bridge
+HG
+SS
+Sea Incense
+Upper level, northwest of the bridge
+HG
+SS
+Rare Candy
+Upper level, on a small crystal in the southeast corner (hidden)
+HG
+SS
+2F
+TM24
+(
+Thunderbolt
+)
+Northeast corner (requires
+Rock Smash
+)
+HG
+SS
+PP Up
+×2
+West-northwest area (requires
+Rock Smash
+)
+Southeast area, on a small crystal to the south (hidden)
+HG
+SS
+Zinc
+Large southeast area (hidden)
+HG
+SS
+Full Heal
+Large southeast area (hidden)
+HG
+SS
+Big Pearl
+Large southeast area (hidden)
+HG
+SS
+Ultra Ball
+×2
+West-central area
+Large southeast area (hidden)
+HG
+SS
+Odd Incense
+South-southeast area (requires
+Rock Smash
+)
+HG
+SS
+Protein
+Near the northwest corner (hidden)
+HG
+SS
+B1F
+Ultra Ball
+×2
+Near the southwest corner (requires
+Surf
+or
+Rock Climb
+)
+West of the central group of cracked rocks (hidden; requires
+Surf
+,
+Rock Smash
+)
+HG
+SS
+Dusk Stone
+West-central area (requires
+Rock Climb
+)
+HG
+SS
+Max Revive
+×2
+Behind two cracked rocks in the northwest area (hidden, requires
+Rock Smash
+)
+North-central area
+HG
+SS
+Electirizer
+Northeast corner (requires
+Rock Climb
+)
+HG
+SS
+Nugget
+North-northeast area, on a small crystal (hidden, requires
+Rock Smash
+)
+HG
+SS
+Black Sludge
+Southeast corner (requires
+Surf
+)
+HG
+SS
+Other Items
+Red Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Blue Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Yellow Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Green Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Revive
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Max Ether
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Star Piece
+Randomly found by smashing
+breakable rocks
+HG
+SS
+1F
+Walk to the water's edge and surf northward. Climb the ladder in the northeast corner.
+2F
+Circle around and clear away the two cracked rocks. Collect
+TM24
+(
+Thunderbolt
+) and backtrack to 1F.
+1F
+Surf westward, then climb out of the water on the northwest side. Pick up the
+Nugget
+and climb up the southernmost ladder on the west side.
+2F
+Clear away the cracked rock and follow the path to the end. Grab the
+PP Up
+and backtrack to 1F.
+1F
+Head south and clear out the cracked rocks in the southwest corner for a hidden
+Hyper Potion
+. Turn east and pick up the
+Full Restore
+near the two crystals. Turn north and climb up the nearest ladder.
+2F
+This wide-open area of 2F holds several hidden items. Collect the
+Ultra Ball
+,
+Big Pearl
+,
+PP Up
+,
+Zinc
+, and
+Full Heal
+before returning to 1F.
+1F
+Cross under the bridge, then turn south. Inspect the smaller crystals for a hidden
+Revive
+, then climb the stairway to the bridge. Head northeast for a
+Max Elixir
+, and northwest to reach a
+Sea Incense
+situated on the north wall. The narrow ledge that runs along the north and east walls serves as a quick escape route. Follow this path to the southeast corner and examine the small crystals for a hidden
+Rare Candy
+. Circle around and climb the ladder at the south end of the bridge.
+2F
+Got west, south and east to collect the
+Odd Incense
+to the east, track back to the second-to-last junction and go west to reach the
+Ultra Ball
+and hidden
+Protein
+to the west. Go back to the first junction after the ladder and take the northeast path to the north wall, then turn west to reach the northwest ladder.
+1F
+Climb down the next ladder to reach the basement floor.
+B1F
+Follow the west wall southward and use
+Rock Climb
+twice to reach an
+Ultra Ball
+. Turn east and scale down the wall, then follow the dead-end path for a
+Dusk Stone
+. Climb the northern rock wall to reach a group of cracked rocks; break the two in the corner to reach a hidden
+Max Revive
+. Circle around to the north wall, and take the first right for another
+Max Revive
+. Follow the trail southward to the water, and swim to the northeast.
+Break the two cracked rocks to find a hidden
+Ultra Ball
+to the west. Go north onto the upper level, and use Rock Climb to reach an
+Electirizer
+in the northeast corner. Jump the ledge, scale down the wall and break the nearby rock to find a
+Nugget
+. Go south and surf to the southeast corner for a
+Black Sludge
+. Circle around and climb onto the east-central platform to meet the Genetic Pokémon.
+Mewtwo
+Having traversed the entire cave, you finally come face-to-face with
+Mewtwo
+. Use
+Bug
+-,
+Ghost
+-, and
+Dark-type
+attacks to drain its health quickly, then follow up with
+Fighting
+and
+Poison
+moves to wear it down further. Inflict status ailments like
+Sleep
+or
+Paralysis
+to increase your odds of capture, and launch a barrage of
+Ultra Balls
+or
+Dusk Balls
+. It has only one damaging move,
+Psycho Cut
+, so Dark-type opponents are immune to its assault. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Type:
+Psychic
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Mewtwo
+Lv.
+70
+Psycho Cut
+Psychic
+Physical
+--
+Amnesia
+Psychic
+Status
+--
+Power Swap
+Psychic
+Status
+--
+Guard Swap
+Psychic
+Status
+--
+← Part 26
+Route 21, Cinnabar Island, Route 20, Seafoam Gym, Seafoam Islands, Route 19
+HeartGold and SoulSilver
+walkthrough
+Routes 22 and 28
+Part 28 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

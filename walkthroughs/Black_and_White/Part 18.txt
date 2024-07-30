@@ -1,0 +1,1355 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_18
+Keywords: Black City and White Forest, Route 15, Poké Transfer Lab, Marvelous Bridge, Route 16, Lostlorn Forest
+
+Walkthrough Text:
+Contents
+1
+The Southeast
+1.1
+Black City
+1.1.1
+Market
+1.2
+White Forest
+1.2.1
+Mayor's House
+2
+Route 15
+2.1
+Poké Transfer Lab
+3
+Marvelous Bridge
+3.1
+New Style of Battle
+3.2
+The Vanishing Girl
+3.3
+The Famous Patrat Show
+3.4
+The Shadows Reappear
+3.5
+The Magikarp Salesman
+4
+Route 16
+4.1
+Lostlorn Forest
+4.1.1
+The Mysterious Woman
+The Southeast
+Black City and White Forest
+The southeast locale on
+Unova
+'s main landmass differs between versions, either
+Black City
+or
+White Forest
+, respectively.
+Black City
+Black City is a sprawling metropolis of perpetual development. The number of people living here, and the progress of development, depends on the number of days it took you to get here after first starting the game. The number of buildings depends on the number of residents, which can be anywhere from zero to ten. As the city develops, you can battle many different Trainers.
+If you don't talk to the people here for too long, they will disappear. Once that happens, you'll need to use the
+Entralink
+to visit another player's White Forest to bring people over to replace the residents that left. You can't invite people if you already have ten in the city, or if there is another person here with the same name.
+Market
+The market is the large building west of the Pokémon Center. The building has five counters, and the number of shopkeepers increases along with the city's development. The items are all expensive, but sometimes valuable evolution-related items are offered. The items in the market change depending on the residents in the city.
+Talk to the boss after defeating ten of the residents outside. He will reward you with
+$
+10,000! He will pay you for each group of ten Trainers you defeat, though there is a limit to the number of people. A full list of Trainers can be found
+here
+.
+Two of the people inside are Trainers, and will challenge you to Rotation battles.
+Trainer
+Pokémon
+Roughneck
+Johnny
+Reward:
+$
+2080
+Galvantula
+♂
+Lv.
+65
+No item
+Gothitelle
+♀
+Lv.
+65
+No item
+Krookodile
+♂
+Lv.
+65
+No item
+Backpacker
+Kiyo
+Reward:
+$
+1560
+Heatmor
+♂
+Lv.
+65
+No item
+Beartic
+♂
+Lv.
+65
+No item
+Excadrill
+♂
+Lv.
+65
+No item
+Items
+Items sold
+Fresh Water
+$
+1000
+Berry Juice
+$
+1500
+Yellow Shard
+$
+3000
+Green Shard
+$
+3000
+Blue Shard
+$
+3000
+Red Shard
+$
+3000
+TinyMushroom
+$
+3000
+Max Repel
+$
+5000
+Pearl
+$
+6000
+Dawn Stone
+$
+10000
+Sun Stone
+$
+10000
+Shiny Stone
+$
+10000
+Leaf Stone
+$
+10000
+Water Stone
+$
+10000
+Fire Stone
+$
+10000
+Oval Stone
+$
+10000
+Thunderstone
+$
+10000
+Dusk Stone
+$
+10000
+Moon Stone
+$
+10000
+Poké Ball
+$
+10000
+Stardust
+$
+10000
+Heart Scale
+$
+10000
+Fluffy Tail
+$
+15000
+Poké Doll
+$
+18000
+Big Mushroom
+$
+20000
+Rare Bone
+$
+30000
+Big Pearl
+$
+38000
+Star Piece
+$
+48000
+Nugget
+$
+50000
+Luxury Ball
+$
+50000
+When you are done in the city, go west to
+Route 15
+.
+White Forest
+White Forest
+is a healthy woodland. As more residents visit the area, the forest grows. When people leave, the trees wither and the ponds dry up. Like Black City, the growth of the forest depends on the number of days it took you to get here after first starting the game. If you don't talk to the people here for too long, they will disappear. Once that happens, you'll need to use the
+Entralink
+to visit another player's
+Black City
+to bring people over to replace the residents that left. You can't invite people if you already have ten in the forest, or if there is another person here with the same name.
+Where Black City attracts people, the forest attracts Pokémon. None of them are native species, and they are all found at level 5. The Pokémon that appear depend on which residents are living here. All species are common, and can't be avoided by using a
+Repel
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Pidgey
+B
+W
+Grass
+5
+Leo
+Nidoran♀
+B
+W
+Grass
+5
+Jacques
+Nidoran♂
+B
+W
+Grass
+5
+Ken
+Oddish
+B
+W
+Grass
+5
+Lynette
+Abra
+B
+W
+Grass
+5
+Collin
+Machop
+B
+W
+Grass
+5
+Ryder
+Bellsprout
+B
+W
+Grass
+5
+Piper
+Magnemite
+B
+W
+Grass
+5
+Marie
+Gastly
+B
+W
+Grass
+5
+Dave
+Rhyhorn
+B
+W
+Grass
+5
+Shane
+Porygon
+B
+W
+Grass
+5
+Herman
+Togepi
+B
+W
+Grass
+5
+Miki
+Mareep
+B
+W
+Grass
+5
+Pierce
+Hoppip
+B
+W
+Grass
+5
+Britney
+Elekid
+B
+W
+Grass
+5
+Robbie
+Magby
+B
+W
+Grass
+5
+Vincent
+Wurmple
+B
+W
+Grass
+5
+Silvia
+Lotad
+B
+W
+Grass
+5
+Ralph
+Seedot
+B
+W
+Grass
+5
+Miho
+Ralts
+B
+W
+Grass
+5
+Lena
+Slakoth
+B
+W
+Grass
+5
+Karenna
+Whismur
+B
+W
+Grass
+5
+Rosa
+Azurill
+B
+W
+Grass
+5
+Molly
+Aron
+B
+W
+Grass
+5
+Gene
+Trapinch
+B
+W
+Grass
+5
+Eliza
+Bagon
+B
+W
+Grass
+5
+Grace
+Starly
+B
+W
+Grass
+5
+Carlos
+Shinx
+B
+W
+Grass
+5
+Doug
+Budew
+B
+W
+Grass
+5
+Frederic
+Happiny
+B
+W
+Grass
+5
+Emi
+Surfing
+Wooper
+B
+W
+Surfing
+5
+Lena, Frederic, Herman, Grace
+Lotad
+B
+W
+Surfing
+5
+Ryder, Karenna, Doug, Marie, Molly, Eliza, Collin, Jacques, Rosa
+Surskit
+B
+W
+Surfing
+5
+Leo, Silvia, Dave, Britney, Robbie, Miki, Lynette, Pierce, Gene, Piper, Miho, Shane, Ralph
+Corphish
+B
+W
+Surfing
+5
+Vincent, Carlos, Ken, Emi
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Mayor's House
+Stop by the mayor's house and show him the Pokémon that he wants to see. To thank you, he will give you a
+Pecha Berry
+,
+Bluk Berry
+,
+Lum Berry
+,
+Chesto Berry
+, or
+Leppa Berry
+. The Pokémon he wants to see changes every day, so you can visit every day to get a new berry.
+Two of the people inside are Trainers, and will challenge you to a Triple battle.
+Trainer
+Pokémon
+School Kid
+Shayne
+Reward:
+$
+1300
+Scrafty
+♂
+Lv.
+65
+No item
+Cofagrigus
+♂
+Lv.
+65
+No item
+Reuniclus
+♂
+Lv.
+65
+No item
+Nursery Aide
+Briana
+Reward:
+$
+2600
+Chandelure
+♀
+Lv.
+65
+No item
+Cinccino
+♀
+Lv.
+65
+No item
+Vanilluxe
+♀
+Lv.
+65
+No item
+When you are done in the forest, go west to
+Route 15
+.
+Route 15
+Route 15
+Route 15
+has stairways cut into the cliffside, and bridges across the gaps. Atop the cliff is the
+Poké Transfer Lab
+, a facility where you can force Pokémon to migrate from other regions.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Elliot
+Reward:
+$
+3968
+Gulpin
+♂
+Lv.
+62
+No item
+Drifloon
+♂
+Lv.
+62
+No item
+Spheal
+♂
+Lv.
+62
+No item
+Swablu
+♂
+Lv.
+62
+No item
+Pokémon Ranger
+Shelly
+Reward:
+$
+3900
+Altaria
+♀
+Lv.
+65
+No item
+Abomasnow
+♀
+Lv.
+65
+No item
+Battle Girl
+Susie
+Reward:
+$
+2048
+Meditite
+♀
+Lv.
+64
+No item
+Hitmontop
+♂
+Lv.
+64
+No item
+Medicham
+♀
+Lv.
+64
+No item
+Pokémon Ranger
+Keith
+Reward:
+$
+3900
+Marowak
+♂
+Lv.
+65
+No item
+Exeggutor
+♂
+Lv.
+65
+No item
+Hiker
+Kit
+Reward:
+$
+2016
+Hippowdon
+♂
+Lv.
+63
+No item
+Gligar
+♂
+Lv.
+63
+No item
+Onix
+♂
+Lv.
+63
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Fearow
+B
+W
+Grass
+48-50
+30%
+Marowak
+B
+W
+Grass
+47
+20%
+Gligar
+B
+W
+Grass
+47-49
+15%
+Throh
+B
+W
+Grass
+48-49
+15%
+Sawk
+B
+W
+Grass
+48-49
+15%
+Kangaskhan
+B
+W
+Grass
+49
+10%
+Pupitar
+B
+W
+Grass
+48-50
+10%
+Dark Grass
+Fearow
+B
+W
+Dark grass
+58-60
+30%
+Marowak
+B
+W
+Dark grass
+57
+20%
+Throh
+B
+W
+Dark grass
+58-59
+15%
+Sawk
+B
+W
+Dark grass
+58-59
+15%
+Kangaskhan
+B
+W
+Dark grass
+59
+10%
+Gligar
+B
+W
+Dark grass
+57-59
+10%
+Pupitar
+B
+W
+Dark grass
+58-60
+10%
+Watchog
+B
+W
+Dark grass
+60
+5%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+47-50
+75%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Tyranitar
+B
+W
+Rustling grass
+50
+5%
+Gliscor
+B
+W
+Rustling grass
+50
+5%
+Throh
+B
+W
+Rustling grass
+50
+5%
+Sawk
+B
+W
+Rustling grass
+50
+5%
+Special Pokémon
+Mankey
+B
+W
+???
+Swarm
+15-55
+40%
+Rotom
+B
+W
+Trade
+Ditto
+60
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Up-Grade
+Southeast of Pokémon Ranger Keith (requires
+HM04
+(
+Strength
+))
+B
+W
+TM09
+(
+Venoshock
+)
+Under the eastern bridge (requires
+HM04
+(
+Strength
+))
+B
+W
+Sitrus Berry
+×2
+From Pokémon Ranger Keith after defeating him
+From Pokémon Ranger Shelly after defeating her
+B
+W
+Ultra Ball
+East of Pokémon Ranger Shelly (hidden)
+B
+W
+Max Revive
+Under the western bridge (hidden)
+B
+W
+Go south from the gate and move the boulder at the foot of the stairs to get an
+Up-Grade
+. Move the other boulder into place and climb the stairs to find
+TM09
+(
+Venoshock
+). Work your way to the west side of the cliff to find a trailer parked here; the woman inside is offering to trade her
+Rotom
+for a
+Ditto
+. Take Rotom to
+Shopping Mall Nine
+'s warehouse to change its forms. Check out the Transfer Lab before reaching
+Marvelous Bridge
+.
+The Poké Transfer Lab
+Poké Transfer Lab
+The
+Poké Transfer Lab
+is the building that houses the
+Poké Transfer
+itself, the machinery that can transfer Pokémon from a
+Generation IV
+game. When you first enter, a Scientist leads you to Professor Andrew Park, who is very excited to see that you have all eight badges. After his rambling speech, you can participate at any time. The minigame itself involves two DS systems, or a DS and a 3DS system, a Poké Ball-flinging crossbow, and a few clouds of pink sleeping gas. Pokémon that are transferred from Sinnoh or Johto cannot be returned. They also are not allowed to have any items, or know any HM moves.
+Marvelous Bridge
+Marvelous Bridge
+Marvelous Bridge
+is a beautiful futuristic bridge that stretches over the ocean between
+Route 15
+and
+Route 16
+. Like
+Driftveil Drawbridge
+, flying Pokémon sometimes drop their
+feathers
+on the bridge. Continue west to reach Route 16.
+New Style of Battle
+In the eastern gate of the bridge, there is an Ace Trainer that will challenge you daily. She will challenge you to either a
+Triple Battle
+B
+or
+Rotation Battle
+W
+; this is the only Trainer in the entire game that will challenge you to that kind of battle.
+Trainer
+Pokémon
+Ace Trainer
+Glinda
+ナオ
+Nao
+Reward:
+$
+3900
+Alomomola
+♀
+Lv.
+65
+No item
+Klinklang
+Lv.
+65
+No item
+Beheeyem
+♀
+Lv.
+65
+No item
+The Vanishing Girl
+Sometimes a girl is standing next to the man on the bridge's east end. When you approach, she disappears. The old woman at the foot of the elevator tells you that there used to be a girl who lived around here who always played with
+Abra
+, before the bridge was built...
+The Famous Patrat Show
+Having spoken to the woman on
+Village Bridge
+, you can now watch the famous
+Patrat
+Show here. She gives one of the rodents a
+Big Mushroom
+, and if you can guess which one has it, she lets you keep it. She puts on the show every day.
+The Shadows Reappear
+As you near the west end of the bridge, the
+Shadow Triad
+suddenly appears. After they saved him from capture at
+N's Castle
+,
+Ghetsis
+went off somewhere alone. He had apparently saved their lives once, and they had sworn loyalty to him. Complying with his wishes, they refuse to search for him. He had one last request for them, and the three give you the
+Adamant
+,
+Lustrous
+, and
+Griseous Orbs
+. They don't know how or why he had these items, but they say he wanted you to have them. Their task complete, the trio disappears one last time.
+The Magikarp Salesman
+On the bridge's west end is
+a man
+who will sell you a
+Magikarp
+for
+$
+500. Unlike previous Pokémon games, the fish is foreign to the region, so you won't find it normally. After enough training it grows into the formidable
+Gyarados
+. If you decide to take him up on his offer, return here with an empty slot in your party.
+Route 16
+Route 16
+Route 16
+is a short road that links
+Marvelous Bridge
+to
+Nimbasa City
+. A break in the trees on the north side leads to
+Lostlorn Forest
+. People seem to always get lost there, even though the forest is fairly small.
+Trainers
+Trainer
+Pokémon
+Policeman
+Daniel
+Reward:
+$
+960
+Herdier
+♂
+Lv.
+24
+No item
+Cyclist
+Krissa
+Reward:
+$
+704
+Ducklett
+♀
+Lv.
+22
+No item
+Liepard
+♀
+Lv.
+22
+No item
+Backpacker
+Stephen
+Reward:
+$
+552
+Drilbur
+♂
+Lv.
+23
+No item
+Backpacker
+Peter
+Reward:
+$
+552
+Scraggy
+♂
+Lv.
+23
+No item
+Cyclist
+Hector
+Reward:
+$
+704
+Whirlipede
+♂
+Lv.
+22
+No item
+Whirlipede
+♂
+Lv.
+22
+No item
+Backpacker
+Lora
+Reward:
+$
+552
+Swadloon
+♀
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Minccino
+B
+W
+Grass
+19-22
+30%
+Gothita
+B
+W
+Grass
+19-22
+30%
+Solosis
+B
+W
+Grass
+19-22
+30%
+Liepard
+B
+W
+Grass
+20-22
+20%
+Trubbish
+B
+W
+Grass
+19-21
+20%
+Dark grass
+Minccino
+B
+W
+Dark grass
+22-25
+30%
+Gothita
+B
+W
+Dark grass
+22-25
+30%
+Solosis
+B
+W
+Dark grass
+22-25
+30%
+Liepard
+B
+W
+Dark grass
+23-25
+20%
+Trubbish
+B
+W
+Dark grass
+22-24
+20%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+19-22
+85%
+Emolga
+B
+W
+Rustling grass
+20
+10%
+Cinccino
+B
+W
+Rustling grass
+22
+5%
+Special Pokémon
+Pineco
+B
+W
+???
+Swarm
+15-55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rare Candy
+To the northwest (requires
+Cut
+)
+B
+W
+TM66
+(
+Payback
+)
+To the northeast (requires
+Strength
+)
+B
+W
+Charcoal
+Northeast, behind the fence (requires
+Strength
+)
+B
+W
+Go west and use
+Strength
+to clear the boulder away. To the north is
+TM66
+(
+Payback
+), and a
+Charcoal
+lies to the east, behind the fence.
+Cut
+down the small tree to the west for a
+Rare Candy
+and enter the forest.
+Lostlorn Forest
+Lostlorn Forest
+Lostlorn Forest
+is a tiny wooded area, with little more than a river to it. Directly north of the entrance is a
+Big Mushroom
+sitting in a tree stump. If you climb the waterfall to the east, you can pick up a
+Rare Candy
+on the river's east bank.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Swadloon
+B
+W
+Grass
+19-22
+35%
+Cottonee
+B
+W
+Grass
+19-22
+35%
+Petilil
+B
+W
+Grass
+19-22
+35%
+Tranquill
+B
+W
+Grass
+21-22
+15%
+Venipede
+B
+W
+Grass
+20-21
+15%
+Dark Grass
+Swadloon
+B
+W
+Dark grass
+22-25
+35%
+Cottonee
+B
+W
+Dark grass
+22-25
+35%
+Petilil
+B
+W
+Dark grass
+22-25
+35%
+Tranquill
+B
+W
+Dark grass
+24-25
+15%
+Venipede
+B
+W
+Dark grass
+23-24
+15%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+19-21
+45%
+Pansage
+B
+W
+Rustling grass
+20
+10%
+Pansear
+B
+W
+Rustling grass
+20
+10%
+Panpour
+B
+W
+Rustling grass
+20
+10%
+Emolga
+B
+W
+Rustling grass
+20
+10%
+Unfezant
+B
+W
+Rustling grass
+22
+5%
+Leavanny
+B
+W
+Rustling grass
+22
+5%
+Whimsicott
+B
+W
+Rustling grass
+22
+5%
+Lilligant
+B
+W
+Rustling grass
+22
+5%
+Surfing
+Basculin
+B
+W
+Surfing
+5-20
+100%
+Basculin
+B
+W
+Surfing
+5-20
+100%
+Rippling Water
+Basculin
+B
+W
+Rippling water
+5-20
+100%
+Basculin
+B
+W
+Rippling water
+5-20
+100%
+Fishing
+Goldeen
+B
+W
+Fishing
+35-55
+70%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling Water
+Goldeen
+B
+W
+Rippling water
+35-60
+60%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Seaking
+B
+W
+Rippling water
+45-70
+10%
+Special Pokémon
+Zoroark
+B
+W
+Only one
+25
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Mushroom
+In a tree stump near the entrance
+B
+W
+Rare Candy
+East of the river (requires
+Surf
+,
+Waterfall
+)
+B
+W
+Protein
+North of the river (hidden; requires
+Surf
+,
+Waterfall
+)
+B
+W
+The Mysterious Woman
+On the north side of the forest, a Backpacker talks to you about the
+odd woman
+inside the trailer. He enjoys traveling the world, but in stark contrast, the woman seems to think that living quietly by herself is important. Even if you speak to her, the woman won't say a word. Maybe she would
+respond
+to a
+certain Pokémon
+in your party...
+Having finally traveled everywhere in
+Unova
+, it's time to get cracking on that Pokédex.
+Black and White
+introduced 156 new Pokémon, bringing the grand total to a whopping 649, so you've got your work cut out for you!
+← Part 17
+Undella Town, Undella Bay, Abyssal Ruins, Route 14, Abundant Shrine
+Black and White
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1185 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_10
+Keywords: Route 214, Valor Lakefront, Hotel Grand Lake, Route 213, Pastoria City
+
+Walkthrough Text:
+Contents
+1
+Route 214
+1.1
+Ruin Maniac Cave / Maniac Tunnel
+2
+Valor Lakefront
+3
+Hotel Grand Lake
+3.1
+Seven Stars Restaurant
+4
+Route 213
+5
+Pastoria City
+5.1
+Move Reminder
+Route 214
+Route 214
+Once you reach Route 214, other than a Berry patch you'll find two separate paths, one to the east end and one of the west. The one on the west follows a mountain path where you won't have to face as many Trainers when compared to the east path. At the start of the western path you'll notice the door that leads you to
+Maniac Tunnel
+, which you can travel in if you want. Also if you have
+Rock Smash
+you can use it to clear away the rocks to avoid going through the tall grass on this end. Eventually it will to a patch of grass where you can find a
+Max Potion
+and a Honey Tree and then you can head south.
+For the eastern path of this route, while you have to face more Trainers, no HM moves are needed for this section. Once you defeat Psychic Mitchell, head to the grass pattern west of him and touch the non-grass area of the grass pattern to find a hidden
+Heart Scale
+. If you continue heading down the eastern path you'll notice two trees missing from the pattern. They actually lead to the
+Sendoff Spring
+, which you can't get to until you defeat the Elite Four. Before leaving this route head slightly north above the Honey Tree and the Trainer Collector Douglas to find the
+Big Root
+, which enhances the amount of HP received from absorption-related techniques.
+The wild Pokémon encountered here are at above Level 20, and with the Trainers scattered on this route, this is a decent training place if you couldn't beat the Veilstone Gym.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+D
+P
+Pt
+Grass
+22
+20%
+Graveler
+D
+P
+Pt
+Grass
+23-24
+15%
+15%
+5%
+Ponyta
+D
+P
+Pt
+Grass
+23-24
+35%
+35%
+25%
+Sudowoodo
+D
+P
+Pt
+Grass
+23-24
+15%
+Girafarig
+D
+P
+Pt
+Grass
+24
+10%
+Kricketune
+D
+P
+Pt
+Grass
+23-24
+5%
+5%
+25%
+Stunky
+D
+P
+Pt
+Grass
+23-24
+15%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Collector
+Douglas
+Reward:
+$
+1536
+Roselia
+♂
+Lv.
+20
+No item
+Roselia
+♂
+Lv.
+22
+No item
+Roselia
+♂
+Lv.
+24
+No item
+Ruin Maniac
+Hunter
+Reward:
+$
+1248
+Shieldon
+♂
+Lv.
+26
+No item
+Collector
+Jamal
+Reward:
+$
+1536
+Buizel
+♂
+Lv.
+21
+No item
+Buizel
+♂
+Lv.
+21
+No item
+Buizel
+♂
+Lv.
+24
+No item
+Ruin Maniac
+Bryan
+Reward:
+$
+1104
+Cranidos
+♂
+Lv.
+24
+No item
+Geodude
+♂
+Lv.
+22
+No item
+Bronzor
+Lv.
+23
+No item
+Psychic
+Mitchell
+Reward:
+$
+736
+Haunter
+♂
+Lv.
+23
+No item
+Kadabra
+♂
+Lv.
+23
+No item
+Beauty
+Devon
+Reward:
+$
+1400
+Wormadam
+♀
+Plant Cloak
+Lv.
+25
+No item
+Collector
+Brady
+Reward:
+$
+1536
+Ponyta
+♂
+Lv.
+22
+No item
+Ponyta
+♂
+Lv.
+20
+No item
+Ponyta
+♂
+Lv.
+24
+No item
+PI
+Carlos
+Reward:
+$
+2760
+Goldeen
+♂
+Lv.
+23
+No item
+Goldeen
+♂
+Lv.
+23
+No item
+Goldeen
+♂
+Lv.
+23
+No item
+Psychic
+Abigail
+Reward:
+$
+1216
+Gastly
+♀
+Lv.
+22
+No item
+Misdreavus
+♀
+Lv.
+23
+No item
+Kadabra
+♂
+Lv.
+24
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Cheri Berry
+On the berry patch near the Veilstone City entrance
+D
+P
+Sitrus Berry
+On the berry patch near the Veilstone City entrance
+D
+P
+Chesto Berry
+On the berry patch near the Veilstone City entrance
+D
+P
+Pomeg Berry
+On the berry patch near the Veilstone City entrance
+D
+P
+Max Potion
+In the grassy area, south to the area with Ruin Maniac Trainers
+D
+P
+Big Root
+In the north-eastern area next to the Trainer in the area with fences
+D
+P
+Heart Scale
+In grassy area pattern around the fence west of Trainer Mitchell at the non-grass section within the pattern
+(hidden)
+D
+P
+X Sp. Def
+On the other side of the fence east of PI Carlos
+D
+P
+TinyMushroom
+In the bare patch in the southern long grass
+(hidden)
+D
+P
+Honey
+In the trees northeast Beauty Devon
+(hidden)
+D
+P
+Ruin Maniac Cave / Maniac Tunnel
+Maniac Tunnel with 0-9 Unown
+Maniac Tunnel with 26-28 Unown
+The
+Maniac Tunnel
+connects with the top floor of the
+Solaceon Ruins
+. While initially starting out small and called as Ruin Maniac Cave, the
+Ruin Maniac
+will expand the tunnel when you collect different types of
+Unown
+at the Solaceon Ruins.
+Once all 26 have been caught, then the tunnel will be completed, the cave will be renamed as Maniac Tunnel and you can collect the
+?
+and
+!
+Unown to complete your collection.
+The only item in this cave
+TM28
+(
+Dig
+) is located by the entrance. Additionally expanding the tunnel will help affect the encounter rate, particularly for finding
+Hippopotas
+at an easier ratio, as this is the only location to find one.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fewer than 10
+Unown
+Geodude
+D
+P
+Pt
+Cave
+22-23
+95%
+Hippopotas
+D
+P
+Pt
+Cave
+22-23
+5%
+10-25
+Unown
+Geodude
+D
+P
+Pt
+Cave
+23
+90%
+Hippopotas
+D
+P
+Pt
+Cave
+22-24
+10%
+26 or more
+Unown
+Geodude
+D
+P
+Pt
+Cave
+24
+80%
+Hippopotas
+D
+P
+Pt
+Cave
+22-25
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Dig
+)
+Behind the rocks next to the entrance
+D
+P
+Valor Lakefront
+Valor Lakefront
+Once you enter this area you can find a
+Parlyz Heal
+as you pass through the grass. This area is just outside of
+Lake Valor
+. You'll notice 2 guys blocking the entrance to Lake Valor. This won't become an issue until much later in the game.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+D
+P
+Pt
+Grass
+20
+20%
+Girafarig
+D
+P
+Pt
+Grass
+21-22
+30%
+Bibarel
+D
+P
+Pt
+Grass
+21-22
+15%
+Graveler
+D
+P
+Pt
+Grass
+21-22
+15%
+15%
+5%
+Staravia
+D
+P
+Pt
+Grass
+21-22
+15%
+15%
+5%
+Kricketune
+D
+P
+Pt
+Grass
+21-22
+5%
+5%
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+In the northwest corner of the grassy area next to the exit for Route 214 (
+hidden
+)
+D
+P
+Parlyz Heal
+On the road near the entrance to
+Route 214
+D
+P
+Lava Cookie
+Given by woman outside the northernmost bungalow after returning her Suite Key
+D
+P
+Secret Medicine
+From
+Cynthia
+near
+Lake Valor
+after defeating the
+Team Galactic Grunt
+from
+Pastoria City
+D
+P
+Hotel Grand Lake
+Traveling south you'll reach
+Hotel Grand Lake
+which cuts between the Valor Lakefront and
+Route 213
+. The way to
+Route 222
+is blocked off by a man, making this Route impassable. This route leads to
+Sunyshore City
+and there is a blackout apparently. This place also has a house belonging to a game creator who will give the
+Diploma
+. Near the southern exit to the rest of Route 213 is the
+Suite Key
+, which is almost impossible to find with the
+Dowsing Machine
+due to its small size. You can find it by facing south and standing one step down from the stairs that are near the southern exit. If you take it to the northern corner and give it to the woman who is locked out of her house, she'll unlock the building and give you a
+Lava Cookie
+for your reward.
+The building in the south is the reception area which leads to Route 213, and though the receptionist can't let you book a room due to the Hotel Grand Lake being full, he will heal your Pokémon. The House left of the reception building has a clown that will give you
+TM92
+(
+Trick Room
+).
+Items
+Item
+Location
+Games
+TM92
+(
+Trick Room
+)
+Gift from the
+Clown
+in the bungalow to the northwest of the hotel entrance
+D
+P
+Seven Stars Restaurant
+Seven Stars Restaurant
+More Flavor Than You Can Wish For
+After you climb the first two sets of stairs when arriving from the entrance of the Valor Lakefront then heading west you will arrive at a restaurant filled with Trainers who will challenge you to a
+Double Battle
+. The trainers will randomly change each day from 9 a.m. to 11p.m.
+Trainers
+Trainer
+Pokémon
+Artist
+Ismael
+Reward:
+$
+2392
+(w. Beauty Harley)
+Mr. Mime
+♂
+Lv.
+23
+No item
+Beauty
+Harley
+Reward:
+$
+2392
+(w. Artist Ismael)
+Psyduck
+♀
+Lv.
+23
+No item
+Lass
+Blythe
+Reward:
+$
+2640
+(w. Veteran Emanuel)
+Bidoof
+♀
+Lv.
+21
+No item
+Bidoof
+♀
+Lv.
+21
+No item
+Veteran
+Emanuel
+Reward:
+$
+2640
+(w. Lass Blythe)
+Machop
+♂
+Lv.
+23
+No item
+Bronzor
+Lv.
+23
+No item
+Collector
+Eugene
+Reward:
+$
+2016
+(w. Aroma Lady Alison)
+Clefairy
+♀
+Lv.
+20
+No item
+Clefairy
+♀
+Lv.
+20
+No item
+Clefairy
+♀
+Lv.
+20
+No item
+Aroma Lady
+Alison
+Reward:
+$
+2016
+(w. Collector Eugene)
+Roselia
+♀
+Lv.
+23
+No item
+School Kid
+Esteban
+Reward:
+$
+2184
+(w. Pokéfan Meredith)
+Wooper
+♂
+Lv.
+23
+No item
+Pokéfan
+Meredith
+Reward:
+$
+2184
+(w. School Kid Esteban)
+Marill
+♀
+Lv.
+21
+No item
+Aipom
+♀
+Lv.
+21
+No item
+Scientist
+Emilio
+Reward:
+$
+2112
+(w. Pokémon Breeder Kaylee)
+Kadabra
+♂
+Lv.
+23
+No item
+Pokémon Breeder
+Kaylee
+Reward:
+$
+2112
+(w. Scientist Emilio)
+Stunky
+♀
+Lv.
+21
+No item
+Buizel
+♀
+Lv.
+21
+No item
+PI
+Kendrick
+Reward:
+$
+5176
+(w. Beauty Gabriella)
+Goldeen
+♂
+Lv.
+22
+No item
+Goldeen
+♂
+Lv.
+22
+No item
+Beauty
+Gabriella
+Reward:
+$
+5176
+(w. PI Kendrick)
+Finneon
+♀
+Lv.
+23
+No item
+Gentleman
+Leonardo
+Reward:
+$
+10800
+(w. Socialite Rebecca)
+Starly
+♂
+Lv.
+21
+No item
+Hoothoot
+♂
+Lv.
+21
+No item
+Socialite
+Rebecca
+Reward:
+$
+10800
+(w. Gentleman Leonardo)
+Lopunny
+♀
+Lv.
+22
+No item
+Glameow
+♂
+Lv.
+20
+No item
+Cameraman
+Darryl
+Reward:
+$
+1592
+(w. Reporter Valerie)
+Luxio
+♂
+Lv.
+21
+No item
+Pikachu
+♂
+Lv.
+21
+No item
+Reporter
+Valerie
+Reward:
+$
+1592
+(w. Cameraman Darryl)
+Murkrow
+♀
+Lv.
+23
+No item
+Rich Boy
+Roman
+Reward:
+$
+8320
+(w. Lady Kylie)
+Sudowoodo
+♂
+Lv.
+23
+No item
+Lady
+Kylie
+Reward:
+$
+8320
+(w. Rich Boy Roman)
+Bonsly
+♀
+Lv.
+21
+No item
+Pichu
+♀
+Lv.
+21
+No item
+Route 213
+Route 213
+Once leaving the Hotel Grand Lake, it is a simple path that will take you to
+Pastoria City
+. Make sure to use the Dowsing Machine to find items hidden in the Sand. You can also use Rock Smash to get to the Honey Tree and also find
+TM40
+(
+Aerial Ace
+). The only house of this route belongs to
+Dr. Footstep
+who analyzes the Pokémon at the front of your team by their Happiness level with you and will give that Pokémon a
+Footprint Ribbon
+if the Happiness level is very high. Right around the west exit to Pastoria is another Berry patch.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Wingull
+D
+P
+Pt
+Grass
+20
+20%
+20%
+10%
+Buizel
+D
+P
+Pt
+Grass
+20-21
+30%
+Floatzel
+D
+P
+Pt
+Grass
+22
+10%
+Shellos
+D
+P
+Pt
+Grass
+20-22
+40%
+40%
+50%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Tuber
+Chelsea
+Reward:
+$
+92
+Bibarel
+Lv.
+23
+No item
+Tuber
+Jared
+Reward:
+$
+80
+Shellos
+♂
+West Sea
+Lv.
+19
+No item
+Shellos
+♂
+West Sea
+Lv.
+21
+No item
+Shellos
+♂
+West Sea
+Lv.
+20
+No item
+Fisherman
+Kenneth
+Reward:
+$
+704
+Magikarp
+♂
+Lv.
+19
+No item
+Remoraid
+♂
+Lv.
+19
+No item
+Gyarados
+♂
+Lv.
+22
+No item
+Beauty
+Cyndy
+Reward:
+$
+1288
+Glameow
+♀
+Lv.
+23
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Awakening
+Near the Honey Tree (requires
+Rock Smash
+)
+(hidden)
+D
+P
+PP Up
+Left of Hotel Grand Lake
+D
+P
+Super Potion
+On the beach in front of the hotel
+(hidden)
+D
+P
+Great Ball
+On the beach in front of the hotel
+(hidden)
+D
+P
+Calcium
+On the beach in front of the hotel
+(hidden)
+D
+P
+Red Shard
+West of the entrance to Hotel Grand Lake
+D
+P
+Suite Key
+Immediately northwest of northern reception entrance
+(hidden)
+D
+P
+Pearl
+Near Fisherman Kenneth
+(hidden)
+D
+P
+TM40
+(
+Aerial Ace
+)
+East of Dr. Footstep's house (requires
+Rock Smash
+)
+D
+P
+Hyper Potion
+Under the parasol by the pool, south of the Game Director's suite
+(hidden)
+D
+P
+Footprint Ribbon
+From
+Dr. Footstep
+if the player shows him a Pokémon with max friendship
+D
+P
+Aguav Berry
+In the Berry patch east of Pastoria City entrance
+D
+P
+Rawst Berry
+×2
+In the Berry patch east of Pastoria City entrance
+D
+P
+Iapapa Berry
+In the Berry patch east of Pastoria City entrance
+D
+P
+Pastoria City
+Pastoria City
+Now that you are in Pastoria City you can challenge the Gym for your fourth Badge. There is also the
+Great Marsh
+, which acts the same as the Safari Zone. Also around the west exit to
+Route 212
+is a small area beyond a gate. If you use the Dowsing Machine while in this small area you can find a hidden
+Full Heal
+.
+Also the house north of the
+Poké Mart
+has a kid that will give you a
+Macho Brace
+if you all three forms of
+Burmy
+in your party. Just remember that Burmy will change form if it fights in an area accustomed to that cloak. If you need to know where to fight to obtain one, the Plant cloak is the standard cloak for fighting on the grass, while the Caves or
+Solaceon Ruins
+are the best place for one to transform into the Sandy cloak, and the
+Lost Tower
+is the only place to obtain the Trash cloak.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+4-6
+60%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-7
+30%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+5-10
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+60%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+5%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Heal
+In a large puddle south of the west entrance
+(hidden)
+D
+P
+Turtwig Mask
+Obtained from a
+Parasol Lady
+near the Pokémon Center if the player started with
+Piplup
+D
+P
+Chimchar Mask
+Obtained from a Parasol Lady near the Pokémon Center if the player started with
+Turtwig
+D
+P
+Piplup Mask
+Obtained from a Parasol Lady near the Pokémon Center if the player started with
+Chimchar
+D
+P
+Macho Brace
+After showing boy in house north of the Poké Mart all three forms of
+Burmy
+D
+P
+Persim Berry
+×2
+Berry patch Northeast of Poké Mart
+D
+P
+Nanab Berry
+×2
+Berry patch Northeast of Poké Mart
+D
+P
+Move Reminder
+To the right of the house of the kid that gives you the Macho Brace is the house that belongs to the
+Move Reminder
+who will teach a Pokémon a move from their level up moveset, which can help for relearning a forgotten move or one that is only available to that Pokémons' evolved form, like
+Floatzel
+and
+Ice Fang
+. The
+Underground
+is the best place to find the
+Heart Scales
+needed to pay the Move Reminder off for his services.
+← Part 9
+Route 215, Veilstone City, Veilstone Gym, Getting back Lucas'/Dawn's PokéDex
+Diamond and Pearl
+walkthrough
+Great Marsh, Pastoria Gym, Pastoria City, Route 213-Valor Lakefront
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

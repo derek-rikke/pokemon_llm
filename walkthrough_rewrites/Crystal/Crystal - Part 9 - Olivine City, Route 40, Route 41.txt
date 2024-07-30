@@ -1,0 +1,44 @@
+Game: Crystal
+Part: 9
+Keywords: Olivine City, Route 40, Route 41
+
+**Part 9: Olivine City, Route 40, Route 41**
+
+**Olivine City Overview:**
+- Major port city in northwest Johto.
+- **Olivine Gym** is located in the north; **Olivine Lighthouse** is in the southeast.
+
+**Key Items & Pokémon:**
+- **Good Rod**: Obtain from the Fishing Guru in the house south of the Gym.
+- **HM04 (Strength)**: Get from a Sailor in Olivine Café, west of the Pokémon Center.
+- **TM23 (Iron Tail)**: Defeat Jasmine in the Gym after saving Amphy.
+- **Fishing**: 
+  - Old Rod: Magikarp (Lv. 10), Krabby (Lv. 10).
+  - Good Rod: Tentacool (Lv. 20), Corsola (Lv. 20), Chinchou (Lv. 20).
+
+**Olivine Lighthouse:**
+- Head to the lighthouse; battle trainers on each floor.
+- Collect items: 
+  - Protein (2F, after defeating Sailor Huey).
+  - Ether (3F, next to Sailor Terrell).
+  - TM34 (Swagger) and Rare Candy (5F).
+- On 6F, meet Jasmine and learn of Amphy's illness. She requests medicine from Cianwood City.
+
+**Route 40:**
+- Features a small beach and leads to Route 41.
+- Battle Trainers, including Swimmers with Water-type Pokémon.
+- **Items**: Hidden Hyper Potion under a rock; Sharp Beak from Monica.
+
+**Battle Tower:**
+- Located on Route 40; register a team of three Pokémon.
+- Compete in levels 10, 20, 30, and 40. No healing items allowed.
+- Rewards: Vitamins after defeating groups of seven opponents.
+
+**Route 41:**
+- Connects Route 40 to Cianwood City; navigate whirlpools.
+- Battle various Swimmers and catch Water-type Pokémon like Tentacool and Starmie.
+
+**Whirl Islands:**
+- Accessible with Whirlpool; contains network of caves.
+
+This concise guide highlights essential locations, items, Pokémon, and strategies for progressing through Olivine City and the surrounding areas.

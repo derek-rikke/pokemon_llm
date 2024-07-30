@@ -1,0 +1,717 @@
+Part: Part 27
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_27
+Keywords: Viridian Gym, Professor Oak's Lab, Route 22, Route 28
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Viridian City
+1.1
+Viridian Gym
+2
+Pallet Town
+2.1
+Oak's Lab
+3
+Route 22
+3.1
+Pokémon League Reception Gate
+4
+Route 28
+4.1
+The Recluse
+5
+Mt. Silver
+Viridian City
+Viridian Gym
+Viridian Gym
+Viridian City Pokémon Gym
+Leader: ...
+The
+Viridian Gym
+has no type specialty, as
+Blue
+prefers to use the same Pokémon from his time as Champion.
+The Gym features no puzzles, and there are no Gym Trainers to battle here.
+As
+Blue
+'s team is more diverse than those of other
+Gym Leaders
+, defeating him will not be as easy.
+Electric
+attacks fare well against his
+Pidgeot
+and
+Gyarados
+, while they—and
+Arcanine
+—are also vulnerable to
+Rock
+moves.
+Bug
+-,
+Ghost
+-, and
+Dark-type
+moves are effective against his
+Alakazam
+and
+Exeggutor
+.
+Water-type
+attacks are best against both his
+Rhydon
+and Arcanine. Blue's team has access to powerful attacks, so use healing items often and switch Pokémon out as necessary to keep up the pressure.
+Viridian Gym
+Trainers
+None.
+Leader
+Blue
+Viridian Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+5800
+Types:
+Normal
+Flying
+Held item:
+None
+Pidgeot
+♂
+Lv.
+56
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Wing Attack
+Flying
+--
+Mirror Move
+Flying
+--
+Type:
+Psychic
+Unknown
+Held item:
+None
+Alakazam
+♂
+Lv.
+54
+Disable
+Normal
+--
+Recover
+Normal
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Types:
+Ground
+Rock
+Held item:
+None
+Rhydon
+♂
+Lv.
+56
+Fury Attack
+Normal
+--
+Sandstorm
+Rock
+--
+Rock Slide
+Rock
+--
+Earthquake
+Ground
+--
+Types:
+Water
+Flying
+Held item:
+None
+Gyarados
+♂
+Lv.
+58
+Twister
+Dragon
+--
+Hydro Pump
+Water
+--
+Rain Dance
+Water
+--
+Hyper Beam
+Normal
+--
+Types:
+Grass
+Psychic
+Held item:
+None
+Exeggutor
+♂
+Lv.
+58
+Sunny Day
+Fire
+--
+Leech Seed
+Grass
+--
+Egg Bomb
+Normal
+--
+SolarBeam
+Grass
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Arcanine
+♂
+Lv.
+58
+Roar
+Normal
+--
+Swift
+Normal
+--
+Flamethrower
+Fire
+--
+ExtremeSpeed
+Normal
+--
+After the battle,
+Blue
+awards you the
+Earth Badge
+, the sixteenth and final Badge.
+Pallet Town
+Oak's Lab
+Return to
+Pallet Town
+and meet with
+Professor Oak
+to tell him of your adventure. Seeing that you have earned all eight
+Kanto
+Badges as well, he makes arrangements for you to visit
+Mt. Silver
+, a large mountain to the west of
+Indigo Plateau
+that only the strongest Trainers are allowed to reach becauses of the powerful wild Pokémon found inside.
+Route 22
+Route 22
+Route 22
+is a simple route that connects
+Viridian City
+back to the
+Pokémon League Reception Gate
+in the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+3
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+3-7
+0%
+0%
+95%
+Spearow
+G
+S
+C
+Grass
+3, 5
+50%
+50%
+0%
+Fearow
+G
+S
+C
+Grass
+7
+5%
+5%
+0%
+Ponyta
+G
+S
+C
+Grass
+6
+5%
+Doduo
+G
+S
+C
+Grass
+4
+10%
+10%
+0%
+Surfing
+Poliwag
+G
+S
+C
+Surfing
+5-14
+90%
+Poliwhirl
+G
+S
+C
+Surfing
+10-14
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Poliwag
+G
+S
+C
+Fishing
+Super Rod
+40
+80%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pokémon League Reception Gate
+Thanks to
+Professor Oak
+, it is now possible to venture westward to
+Mt. Silver
+. The guards that had blocked off the two side hallways are gone, allowing Trainers to travel between
+Johto
+and
+Kanto
+on foot, without the need for the
+Magnet Train
+or the
+S.S. Aqua
+.
+Route 28
+Route 28
+Route 28
+is a hidden mountain road in western
+Kanto
+. The path leads westward from the
+Pokémon League Reception Gate
+and crosses into
+Johto
+at the entrance to
+Mt. Silver
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+G
+S
+C
+Grass
+40
+30%
+Tangela
+G
+S
+C
+Grass
+39
+30%
+Ursaring
+G
+S
+C
+Grass
+40
+20%
+Donphan
+G
+S
+C
+Grass
+40
+20%
+Rapidash
+G
+S
+C
+Grass
+42
+10%
+Doduo
+G
+S
+C
+Grass
+41
+5%
+5%
+0%
+Dodrio
+G
+S
+C
+Grass
+43
+5%
+5%
+0%
+Sneasel
+G
+S
+C
+Grass
+40
+0%
+0%
+10%
+Surfing
+Poliwag
+G
+S
+C
+Surfing
+35-44
+90%
+Poliwhirl
+G
+S
+C
+Surfing
+40-44
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Poliwag
+G
+S
+C
+Fishing
+Super Rod
+40
+80%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM47
+(
+Steel Wing
+)
+From the woman in the house, accessed via Mt. Silver Exterior (requires
+Cut
+)
+G
+S
+Rare Candy
+Dead-end path east of the house, in a tree to the north (hidden; requires
+Cut
+)
+G
+S
+The Recluse
+The uneven terrain forces travelers to pass by the entrance to
+Mt. Silver
+in order to reach the route's northern area. Use
+Cut
+to clear a path and visit the house on the hill. The woman inside is a celebrity trying to maintain her privacy, and gives you a second copy of
+TM47
+(
+Steel Wing
+) to keep her hideaway a secret.
+Mt. Silver
+Mt. Silver, Exterior
+The uneven road from
+Route 28
+leads directly to a Pokémon Center at the foot of the mountain. This gives anyone attempting to scale the mountain one last opportunity to make preparations.
+Surf
+and
+Waterfall
+are required to fully explore the cave network, while the darkness of the first chamber makes
+Flash
+useful, as well.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Doduo
+G
+S
+C
+Grass
+41
+5%
+5%
+0%
+Dodrio
+G
+S
+C
+Grass
+43
+5%
+5%
+0%
+Ponyta
+G
+S
+C
+Grass
+42
+30%
+Rapidash
+G
+S
+C
+Grass
+44
+10%
+Tangela
+G
+S
+C
+Grass
+41
+30%
+Sneasel
+G
+S
+C
+Grass
+38, 42
+0%
+0%
+10%
+Ursaring
+G
+S
+C
+Grass
+42
+20%
+Donphan
+G
+S
+C
+Grass
+42
+20%
+Surfing
+Poliwhirl
+G
+S
+C
+Surfing
+35-44
+90%
+Poliwag
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Poliwag
+G
+S
+C
+Fishing
+Super Rod
+40
+80%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Full Restore
+On the southwest hill (hidden; requires
+Surf
+)
+G
+S
+← Part 26
+Route 21, Cinnabar Island, Route 20, Route 19
+Gold and Silver
+walkthrough
+Mt. Silver
+Part 28 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

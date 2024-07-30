@@ -1,0 +1,1736 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_12
+Keywords: Route 212, Route 210 (North), Celestic Town, Route 211 (East), Hearthome Gym
+
+Walkthrough Text:
+Contents
+1
+Route 212
+1.1
+Pokémon Mansion
+1.1.1
+Trophy Garden
+2
+Route 210 (North)
+3
+Celestic Town
+4
+Route 211 (East)
+5
+Hearthome Gym
+Route 212
+Route 212
+This route is probably one of the longest routes in the Sinnoh region, so before entering,
+buy a lot of healing items
+.
+The southern part of this route is rainy. There will be rainstorms and thunderstorms on some days. Near the eastern end of the route is a house. There is a woman who used to work in
+Hoenn
+'s
+Weather Institute
+who will trade
+TMs
+for
+weather
+-changing
+moves
+for
+shards
+. The route is also full of narrow paths suspended in the air. To get across them, you must ride a
+Bicycle
+over the narrow path. Near
+Pastoria City
+, you may get stuck in the bog, just like the
+marshy areas
+in Great Marsh. The northern part of this route features Sinnoh's
+Pokémon Mansion
+. You can catch a Pichu or a Pikachu there.
+There are many Trainers in this route, so if you can't defeat Pastoria Gym, this is a good training place. Even if you have defeated the Gym, you should go through this route to toughen up your Pokémon because the upcoming Gym battle will be a lot tougher (the Gym Leader's strongest Pokémon will be at above Level 35, which is quite a jump from the previous two Gym Leaders with strongest Pokémon at Level 30).
+Fight the Trainers on the route. Remember that Policemen will only fight you at night. Keep going west until you must turn. Then turn north until you reach the guardhouse. You should probably stop by the Pokémon Mansion, because it is the only location you can see Manaphy without trading.
+Items (northern, clear area)
+Item
+Location
+Games
+Super Potion
+In the bushes to the left of the entrance to the Mansion
+(hidden)
+D
+P
+Elixir
+Behind the Trainer tips sign south-west of the Mansion
+D
+P
+TM11
+(
+Sunny Day
+)
+West of the Pokémon Mansion (Requires
+Cut
+)
+D
+P
+Aspear Berry
+Berry patch next to the Pokémon Mansion
+D
+P
+Sitrus Berry
+Berry patch next to the Pokémon Mansion
+D
+P
+Great Ball
+In the bushes to the right of the entrance to the grounds of the Mansion
+(hidden)
+D
+P
+Items (southern, rainy area)
+Item
+Location
+Games
+TM07
+(
+Hail
+)
+Exchanged for 10 Green Shards at the shard collectors house
+D
+P
+TM11
+(
+Sunny Day
+)
+Exchanged for 10 Red Shards at the shard collectors house
+D
+P
+TM18
+(
+Rain Dance
+)
+Exchanged for 10 Blue Shards at the shard collectors house
+D
+P
+TM37
+(
+Sandstorm
+)
+Exchanged for 10 Yellow Shards at the shard collectors house
+D
+P
+Heart Scale
+In the swamp near the shard collectors house
+(hidden)
+D
+P
+Great Ball
+East of the hidden Heart Scale
+(hidden)
+D
+P
+TinyMushroom
+On south-westernmost hill
+(hidden)
+D
+P
+Antidote
+Far south-west corner of the route
+D
+P
+TM62
+(
+Silver Wind
+)
+Alone in a small island, near the three fishermen
+D
+P
+TM06
+(
+Toxic
+)
+South-east corner of the larger swamp
+D
+P
+Revive
+×2
+Between the two hills in the larger swamp
+(hidden)
+Next to the northern hill connected by the easternmost log
+D
+P
+X Special
+Near Scientist Shaun (requires
+Cut
+)
+D
+P
+Zinc
+North-east of the shard collector's house (Requires
+Cut
+)
+D
+P
+Hyper Potion
+In the swamp by the end of the route
+(hidden)
+D
+P
+Ether
+In the swamp by the end of the route
+(hidden)
+D
+P
+Rare Candy
+In the swamp near Pastoria City
+(hidden)
+D
+P
+Pecha Berry
+Berry patch near Pastoria City
+D
+P
+Pinap Berry
+×3
+Berry patch near Pastoria City
+D
+P
+Available Pokémon (northern, clear area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Roselia
+D
+P
+Pt
+Grass
+16-17
+15%
+Starly
+D
+P
+Pt
+Grass
+16
+20%
+Budew
+D
+P
+Pt
+Grass
+16
+30%
+Staravia
+D
+P
+Pt
+Grass
+17-18
+15%
+25%
+5%
+Kricketune
+D
+P
+Pt
+Grass
+17-19
+20%
+10%
+30%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Available Pokémon (southern, rainy area)
+Pokémon
+Games
+Location
+Levels
+Rate
+Wooper
+D
+P
+Pt
+Grass
+18
+30%
+Kricketune
+D
+P
+Pt
+Grass
+18
+10%
+10%
+30%
+Bibarel
+D
+P
+Pt
+Grass
+18-20
+35%
+35%
+25%
+Roselia
+D
+P
+Pt
+Grass
+18-20
+25%
+25%
+15%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (northern, clear area)
+Trainer
+Pokémon
+Policeman
+Bobby
+モリツグ
+Moritsugu
+Reward:
+$
+720
+Hoothoot
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Policeman
+Alex
+シュウヘイ
+Shūhei
+Reward:
+$
+720
+Hoothoot
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Policeman
+Dylan
+ケースケ
+Keisuke
+Reward:
+$
+720
+Hoothoot
+♂
+Lv.
+18
+No item
+Meditite
+♂
+Lv.
+18
+No item
+Socialite
+Reina
+ヨシノ
+Yoshino
+Reward:
+$
+3800
+Roselia
+♀
+Lv.
+19
+No item
+Gentleman
+Jeremy
+サダミツ
+Sadamitsu
+Reward:
+$
+3800
+Chatot
+♂
+Lv.
+19
+No item
+Policeman
+Caleb
+エイタロウ
+Eitarō
+Reward:
+$
+760
+Hoothoot
+♂
+Lv.
+17
+No item
+Meditite
+♂
+Lv.
+19
+No item
+Rich Boy
+Jason
+ユウスケ
+Yūsuke
+Reward:
+$
+3040
+Luxio
+♂
+Lv.
+19
+No item
+Lady
+Melissa
+ユリカ
+Yurika
+Reward:
+$
+3040
+Buneary
+♀
+Lv.
+19
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Trainers (southern, rainy area)
+Trainer
+Pokémon
+Pokémon Ranger
+Jeffrey
+エイジ
+Eiji
+Reward:
+$
+1260
+Prinplup
+♂
+Lv.
+21
+No item
+Prinplup
+♂
+Lv.
+21
+No item
+Pokémon Ranger
+Allison
+スズネ
+Suzune
+Reward:
+$
+1260
+Aipom
+♀
+Lv.
+21
+No item
+Marill
+♀
+Lv.
+21
+No item
+Scientist
+Stefano
+ツトム
+Tsutomu
+Reward:
+$
+1008
+Kadabra
+♂
+Lv.
+21
+No item
+Policeman
+Danny
+マサヨシ
+Masayoshi
+Reward:
+$
+800
+Hoothoot
+♂
+Lv.
+20
+No item
+Machop
+♂
+Lv.
+20
+No item
+Collector
+Dominique
+クリオ
+Kurio
+Reward:
+$
+1216
+Geodude
+♂
+Lv.
+18
+No item
+Geodude
+♂
+Lv.
+17
+No item
+Geodude
+♂
+Lv.
+19
+No item
+Fisherman
+Travis
+トモユキ
+Tomoyuki
+Reward:
+$
+544
+Barboach
+♂
+Lv.
+17
+No item
+Barboach
+♂
+Lv.
+18
+No item
+Shellos
+♂
+West Sea
+Lv.
+20
+No item
+Barboach
+♂
+Lv.
+17
+No item
+Fisherman
+Cameron
+ノリカズ
+Norikazu
+Reward:
+$
+608
+Goldeen
+♂
+Lv.
+19
+No item
+Barboach
+♂
+Lv.
+19
+No item
+Fisherman
+Juan
+テルヒコ
+Teruhiko
+Reward:
+$
+672
+Gyarados
+♂
+Lv.
+21
+No item
+Parasol Lady
+Alexa
+シズエ
+Shizue
+Reward:
+$
+608
+Goldeen
+♀
+Lv.
+19
+No item
+Buizel
+♀
+Lv.
+19
+No item
+Pokémon Ranger
+Taylor
+ヨシノリ
+Yoshinori
+Reward:
+$
+1260
+Luxio
+♂
+Lv.
+21
+No item
+Buizel
+♂
+Lv.
+21
+No item
+Scientist
+Shaun
+トシアキ
+Toshiaki
+Reward:
+$
+912
+Abra
+♂
+Lv.
+19
+No item
+Kadabra
+♂
+Lv.
+19
+No item
+Parasol Lady
+Sabrina
+ワカナ
+Wakana
+Reward:
+$
+672
+Psyduck
+♀
+Lv.
+21
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Trainer Tips
+The items in the Bag can be
+reorganized by pressing
+Select
+.
+Trainer Tips
+If you get stuck in the bog, you can
+count on being there for a while.
+There's no need to panic.
+Just struggle and squirm for a bit.
+Bicycles cannot be ridden on marshy
+ground, incidentally.
+Pokémon Mansion
+The Pokémon Mansion is the home of the famous Trophy Garden, which is located to the rear. That is the place for catching
+Pichu
+or
+Pikachu
+.
+It has many rooms, with the most important of them being Mr. Backlot's office -- the only eastern room. That room is also home to an expensive Pokémon statue, which is guarded by a policeman. It can, however, be touched when the guard has break (from 2:00 AM to 6:00 AM). A butler and many maids are employed in the Mansion. In one of the western rooms, a maid will give out a
+Soothe Bell
+, which makes Pokémon
+happier
+. The western and eastern exits of the mansion are blocked by the maids.
+Items
+Item
+Location
+Games
+TM87
+(
+Swagger
+)
+Found in Backlot's office
+D
+P
+Great Ball
+Found in the third room left of the entrance
+D
+P
+Soothe Bell
+Given by a Maid in the second room from the left of the entrance
+D
+P
+Burn Heal
+Found in trash can in the first room left from the entrance
+D
+P
+Trophy Garden
+You can catch a Pichu or even a Pikachu. This isn't a good training place, however.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pikachu
+D
+P
+Pt
+Grass
+18
+10%
+Pichu
+D
+P
+Pt
+Grass
+16
+30%
+10%
+10%
+Roselia
+D
+P
+Pt
+Grass
+16-17
+30%
+Staravia
+D
+P
+Pt
+Grass
+16-17
+20%
+40%
+20%
+Kricketune
+D
+P
+Pt
+Grass
+16-17
+10%
+10%
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+After stopping by Pokémon Mansion, go through the guardhouse, then you will find yourself in Hearthome City again. Heal your Pokémon, then go to Hearthome Gym, but you will find that Gym Leader Fantina is still not here for you to challenge! Now what to do?
+Route 210 (North)
+Route 210
+Go through
+Route 209
+again in order to get to
+Solaceon Town
+. Then walk north to
+Route 210
+. Get to Cafe Cabin, but instead of turning east, keep going north. Use the
+SecretPotion
+on the
+Psyduck
+and they will run off. Then Cynthia will appear.
+After some talking, Cynthia will ask you for a big favor. If you answer "No", she will ask you again. Say "Yes", then she will give you the
+Old Charm
+, tell you to go to
+Celestic Town
+and leave. Keep going north. There are 3
+Ninja Boys
+and a few items hidden in the long grass. After getting through patches of long grass and tall grass, you will find yourself surrounded by deep
+Fog
+. What to do? Use
+HM05
+(
+Defog
+) that you got earlier in
+Great Marsh
+. Most
+Flying-type
+Pokémon can learn it. If you don't use Defog and aren't looking at a map of the route, you will probably get stuck and won't find your way to Celestic Town. You'll also have to deal with an accuracy reduction weather effect in every battle along the way.
+Fight the Trainers on this route. When you can't go north anymore, it is the time to go west. Fight all the Trainers and follow the path. Eventually, you will arrive in Celestic Town. You may also use the Bicycle to ride on the logs so that you can get some items and fight a Ninja Boy.
+Items (between Psyduck and fog)
+Item
+Location
+Games
+Old Charm
+Obtained from Cynthia after curing the Psyduck
+D
+P
+Super Repel
+North of the southwest corner of the large patch of tall grass
+D
+P
+Ether
+Northeast of the Super Repel
+(hidden)
+D
+P
+Hyper Potion
+×2
+In the middle of the tall grass
+Southeast of first Hyper Potion
+(hidden)
+D
+P
+Full Heal
+In the far mid-left between two trees in big field
+(hidden)
+D
+P
+Burn Heal
+One space north of
+Ninja Boy
+Bruce
+(hidden)
+D
+P
+Ultra Ball
+Northeast corner of field north-east of tall grass
+D
+P
+Items (in foggy section)
+Item
+Location
+Games
+TM30
+(
+Shadow Ball
+)
+Across two logs (requires
+Rock Smash
+)
+D
+P
+Smoke Ball
+Under the second bridge, guarded by Ninja Boy Nathan
+D
+P
+Sitrus Berry
+At the Berry patch near the Celestic Town entrance
+D
+P
+Chesto Berry
+At the Berry patch near the Celestic Town entrance
+D
+P
+Wiki Berry
+At the Berry patch near the Celestic Town entrance
+D
+P
+Aguav Berry
+At the Berry patch near the Celestic Town entrance
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+25
+20%
+Machop
+D
+P
+Pt
+Grass
+25-26
+20%
+20%
+10%
+Machoke
+D
+P
+Pt
+Grass
+26
+10%
+Bibarel
+D
+P
+Pt
+Grass
+24
+20%
+Meditite
+D
+P
+Pt
+Grass
+24-26
+30%
+30%
+20%
+Hoothoot
+D
+P
+Pt
+Grass
+24
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+25
+0%
+0%
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (between Psyduck and fog)
+Trainer
+Pokémon
+Ninja Boy
+Fabian
+ヒロマサ
+Hiromasa
+Reward:
+$
+208
+Geodude
+♂
+Lv.
+23
+No item
+Geodude
+♂
+Lv.
+23
+No item
+Geodude
+♂
+Lv.
+26
+No item
+Ninja Boy
+Brennan
+マサユキ
+Masayuki
+Reward:
+$
+200
+Zubat
+♂
+Lv.
+25
+No item
+Skorupi
+♂
+Lv.
+25
+No item
+Ninja Boy
+Bruce
+ユウイチ
+Yūichi
+Reward:
+$
+216
+Stunky
+♂
+Lv.
+27
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Trainers (in foggy section)
+Trainer
+Pokémon
+Ninja Boy
+Joel
+ヤスアキ
+Yasuaki
+Reward:
+$
+200
+Zubat
+♂
+Lv.
+23
+No item
+Zubat
+♂
+Lv.
+23
+No item
+Golbat
+♂
+Lv.
+25
+No item
+Skorupi
+♂
+Lv.
+25
+No item
+Ace Trainer
+Alyssa
+スズカ
+Suzuka
+Reward:
+$
+1620
+Ponyta
+♀
+Lv.
+27
+No item
+Grotle
+♂
+Lv.
+27
+No item
+Double Team
+Zac & Jen
+Double Battle
+ガクとシノ
+Gaku and Shino
+Reward:
+$
+6480
+Gyarados
+♂
+Lv.
+27
+No item
+Raichu
+♂
+Lv.
+27
+No item
+Ace Trainer
+Ernest
+ジュンヤ
+Jun'ya
+Reward:
+$
+1620
+Mothim
+♂
+Lv.
+25
+No item
+Onix
+♂
+Lv.
+26
+No item
+Luxio
+♂
+Lv.
+27
+No item
+Ninja Boy
+Davido
+テッペイ
+Teppei
+Reward:
+$
+216
+Dustox
+♂
+Lv.
+27
+No item
+Black Belt
+Adam
+カツヤ
+Katsuya
+Reward:
+$
+696
+Machoke
+♂
+Lv.
+29
+No item
+Ninja Boy
+Nathan
+ケンキチ
+Kenkichi
+Reward:
+$
+200
+Croagunk
+♂
+Lv.
+25
+No item
+Golbat
+♂
+Lv.
+25
+No item
+Bird Keeper
+Brianna
+ミソラ
+Misora
+Reward:
+$
+864
+Hoothoot
+♀
+Lv.
+27
+No item
+Noctowl
+♀
+Lv.
+27
+No item
+Veteran
+Brian
+テンマ
+Tenma
+Reward:
+$
+2080
+Buizel
+♂
+Lv.
+26
+No item
+Girafarig
+♂
+Lv.
+26
+No item
+Machoke
+♂
+Lv.
+26
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Celestic Town
+Celestic Town
+Celestic Town is a small town. There is no Poké Mart, but the house at northwest functions as the Market.
+Heal your Pokémon before proceeding.
+Near the stairs, an old woman will tell you that a spaceman wants to blow up the town due to him thinking it is not important. Go down the stairs, then head north. You will find a Galactic Grunt standing in front of the Celestic Ruins entrance. Talk to him, then say "Yes" to battle him. After you win, he will leave, and the old woman will come and talk to you. Give the Old Charm to her. She will introduce herself as Cynthia's grandmother, then tell you to go inside the ruins.
+Go into the Celestic Ruins. Examine the painting, and Cynthia's grandmother will come in. She will talk awhile, then give you
+HM3
+(
+Surf
+) and tell you that you have to beat Hearthome Gym to use it.
+Go outside, and you will meet the mysterious man you met in
+Mt. Coronet
+before. He will introduce himself as
+Cyrus
+. Cyrus tells you that he is finding a power to create a new world. He instructs you to inform him if you find the power. Ignore what he tells you to do because that is totally nonsense (for now). Heal your Pokémon, then explore the other part of
+Route 211
+.
+Items
+Item
+Location
+Games
+HM03
+(
+Surf
+)
+From Cynthia's grandmother inside the ruins after defeating the Galactic Grunt and giving her the Old Charm
+D
+P
+Great Ball
+From a man in the Pokémon Center if the first Pokémon in the
+player
+'s party has high
+friendship
+D
+P
+Choice Specs
+From a man in the shop in the morning
+D
+P
+BlackGlasses
+From a man in the shop during the day
+D
+P
+Wise Glasses
+From a man in the shop at night
+D
+P
+Analog Watch
+From a man in the south-west house
+D
+P
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1080
+Beautifly
+♂
+Lv.
+25
+No item
+Croagunk
+♂
+Lv.
+27
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Route 211 (East)
+There are some Trainers for you to fight. You can also get to
+Mt. Coronet
+here, but as you are still unable to use
+Strength
+on the field, you can't get through.
+Items
+Item
+Location
+Games
+Pecha Berry
+Berry patch near Celestic Town entrance
+D
+P
+Aspear Berry
+Berry patch near Celestic Town entrance
+D
+P
+Iapapa Berry
+Berry patch near Celestic Town entrance
+D
+P
+Grepa Berry
+Berry patch near Celestic Town entrance
+D
+P
+TM77
+(
+Psych Up
+)
+Talk to the person near the Ruin Maniac
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Machoke
+D
+P
+Pt
+Grass
+27-28
+20%
+20%
+10%
+Graveler
+D
+P
+Pt
+Grass
+27
+20%
+Meditite
+D
+P
+Pt
+Grass
+27-28
+35%
+Chingling
+D
+P
+Pt
+Grass
+27-28
+10%
+Ponyta
+D
+P
+Pt
+Grass
+26-28
+15%
+15%
+5%
+Zubat
+D
+P
+Pt
+Grass
+26
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+28
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Black Belt
+Sean
+ユウサク
+Yūsaku
+Reward:
+$
+696
+Croagunk
+♂
+Lv.
+28
+No item
+Meditite
+♂
+Lv.
+27
+No item
+Machoke
+♂
+Lv.
+29
+No item
+Bird Keeper
+Katherine
+ミヤビ
+Miyabi
+Reward:
+$
+992
+Noctowl
+♀
+Lv.
+31
+No item
+Ruin Maniac
+Harry
+トキオ
+Tokio
+Reward:
+$
+1440
+Bronzor
+Lv.
+30
+No item
+Ninja Boy
+Nick
+カツノリ
+Katsunori
+Reward:
+$
+216
+Skorupi
+♂
+Lv.
+27
+No item
+Golbat
+♂
+Lv.
+27
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+After exploring
+Route 211
+, it is time to fly back to
+Hearthome City
+and challenge
+Hearthome Gym
+.
+Hearthome Gym
+Layout of Hearthome Gym
+It seems that Gym Leader
+Fantina
+is finally back.
+Make sure that you heal your Pokémon before entering.
+The Gym battle will be a tough fight, so it is recommended that you train your Pokémon until they are at about Level 35.
+The Hearthome Gym is a giant, 5-story building constructed of gray stone blocks, and is illuminated by eerie gray-blue torches. The Gym Trainers and Leader Fantina specialize in
+Ghost-type
+Pokémon. On every floor, there is a simple mathematical puzzle and three doors corresponding with the answers. Picking the correct door leads to the next elevator up, while picking the wrong door leads to a dead end and a Trainer to fight. This puzzle is somewhat pointless, as these questions have no relation to ghosts. The Pokétch has a Calculator App, which can be used to find the answers with minimal effort. Moreover, the questions are simple enough that you may not even need to use the Calculator App. Gym Leader Fantina waits in the final room on the fifth floor, which has stained glass windows and resembles a cathedral.
+Hearthome Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Donny
+テルヤ
+Teruya
+Reward:
+$
+464
+Gastly
+♂
+Lv.
+27
+No item
+Haunter
+♂
+Lv.
+29
+No item
+Lass
+Molly
+ナミエ
+Namie
+Reward:
+$
+480
+Misdreavus
+♀
+Lv.
+30
+No item
+Picnicker
+Cheyenne
+アサミ
+Asami
+Reward:
+$
+448
+Drifloon
+♀
+Lv.
+28
+No item
+Misdreavus
+♀
+Lv.
+28
+No item
+Camper
+Drew
+シンイチ
+Shin'ichi
+Reward:
+$
+432
+Gastly
+♂
+Lv.
+27
+No item
+Gastly
+♂
+Lv.
+27
+No item
+Gastly
+♂
+Lv.
+27
+No item
+School Kid
+Chance
+ガクト
+Gakuto
+Reward:
+$
+600
+Haunter
+♂
+Lv.
+30
+No item
+School Kid
+Mackenzie
+ユミカ
+Yumika
+Reward:
+$
+560
+Drifloon
+♀
+Lv.
+28
+No item
+Drifloon
+♀
+Lv.
+28
+No item
+Ace Trainer
+Allen
+レイト
+Reito
+Reward:
+$
+1800
+Gastly
+♂
+Lv.
+26
+No item
+Haunter
+♂
+Lv.
+28
+No item
+Gengar
+♂
+Lv.
+30
+No item
+Ace Trainer
+Catherine
+ユウカ
+Yūka
+Reward:
+$
+1800
+Misdreavus
+♀
+Lv.
+30
+No item
+Drifblim
+♀
+Lv.
+30
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Leader
+Fantina
+Hearthome Gym
+Diamond and Pearl
+Reward:
+$
+4320
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+32
+Ominous Wind
+Ghost
+Special
+--
+Minimize
+Normal
+Status
+--
+Gust
+Flying
+Special
+--
+Astonish
+Ghost
+Physical
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gengar
+♀
+Lv.
+34
+Confuse Ray
+Ghost
+Status
+--
+Shadow Claw
+Ghost
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Spite
+Ghost
+Status
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+Sitrus Berry
+Mismagius
+♀
+Lv.
+36
+Confuse Ray
+Ghost
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Magical Leaf
+Grass
+Special
+--
+Normal-type
+Pokémon will be completely immune to any of the Ghost-type attacks.
+Dark-type
+moves like
+Bite
+or
+Crunch
+, as well as your own Ghost-type moves like
+Shadow Ball
+(you should have picked up the
+TM
+for this move on
+Route 210
+), are your best bet. Do not try launching any Normal-type (you should have known this already) or
+Ground-type
+attacks on Fantina's Pokémon, because their type or ability make those moves useless. Be aware that Fantina's Pokémon have moves that may catch your Pokémon off guard with their secondary effects. Her
+Drifblim
+has
+Ominous Wind
+that may boost all of its stats after attacking. Her
+Gengar
+has
+Poison Jab
+that may poison your Pokémon after attacking as well as
+Spite
+to reduce PP of your Pokémon's last used move by 4. Fantina's strongest Pokémon
+Mismagius
+is at Level 36, and has
+Psybeam
+and
+Magical Leaf
+, which are
+Psychic-type
+and
+Grass-type
+moves respectively, so watch out. Psybeam can cause confusion, while Magical Leaf never misses. In addition, both Gengar and Mismagius have
+Confuse Ray
+, which will confuse your Pokémon and make it much more difficult to land an attack.
+When you beat her, Fantina is very surprised, but all the same, hands you over the Relic Badge, as well as
+TM65
+(
+Shadow Claw
+). With that Badge, you are now able to use
+HM3
+(
+Surf
+) on the field.
+After that, leave the Gym. Cynthia will be waiting for you. She tells you that she has known what happened in Celestic Town, then talks about
+Team Galactic
+, and suggests you going to
+Canalave City
+and visit
+Canalave Library
+. Afterwards, she will leave.
+But before proceeding to
+Route 218
+and
+Canalave City
+, there are more places to access with
+Surf
+.
+← Part 11
+Great Marsh, Pastoria Gym, Pastoria City, Route 213-Valor Lakefront
+Diamond and Pearl
+walkthrough
+Fuego Ironworks, Floaroma Meadow (North), Sandgem Beach and Routes 219-221
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

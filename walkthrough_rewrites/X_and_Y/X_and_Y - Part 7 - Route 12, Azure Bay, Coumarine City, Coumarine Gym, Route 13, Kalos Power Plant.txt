@@ -1,0 +1,37 @@
+Game: X_and_Y
+Part: 7
+Keywords: Route 12, Azure Bay, Coumarine City, Coumarine Gym, Route 13, Kalos Power Plant
+
+**Part 7 Walkthrough Summary: Route 12 to Kalos Power Plant**
+
+**Route 12**
+- **Adopt a Lapras**: Speak to the Pokémon Breeder near the gate for a Lapras (requires an empty party slot).
+- **Baa de Mer Ranch**: Obtain TM45 (Attract) from a girl in the cottage. Ride Skiddo to access a Shiny Stone and Whipped Dream.
+
+**Azure Bay**
+- **Southern Isle**: Talk to the old man for Ampharosite.
+- **Southwest Isle**: Collect items including Deep Sea Tooth, Deep Sea Scale, and TM81 (X-Scissor).
+
+**Coumarine City**
+- **Lower Area**: Receive a Holo Clip from Serena/Calem. Speak to the Incense Vendor and Berry Stand for various items. Get the Good Rod from a Fisherman.
+- **Coumarine Hotel**: Obtain a Lucky Egg if your lead Pokémon is friendly. Participate in TM quizzes for TMs.
+- **Upper Area**: Get HM02 (Fly) from Professor Sycamore. Battle Serena/Calem (level 31-33 Pokémon).
+
+**Coumarine Gym**
+- **Gym Leader Ramos**: Use Fire, Flying, Poison, Bug, or Ice moves against his Grass-type Pokémon. Defeat him to earn the Plant Badge and TM86 (Grass Knot).
+
+**Route 13 & Kalos Power Plant**
+- **Route 13**: Encounter Team Flare Grunts. Collect hidden items and the Power Plant Pass.
+- **Kalos Power Plant**: Defeat Team Flare Grunts and Admin Aliana to restore power. Collect items such as TM43 (Flame Charge) and Zap Plate.
+
+**Key Items and Locations**
+- **Route 12**: Honey, Aspear Berry, Shiny Stone, Leftovers.
+- **Azure Bay**: Ampharosite, X-Scissor, various hidden items.
+- **Coumarine City**: Lucky Egg, Good Rod, TMs.
+- **Kalos Power Plant**: Fresh Water, Zap Plate, Magnet.
+
+**Battle Strategies**
+- Use effective type advantages against Ramos and Team Flare.
+- Prepare for battles with healing items and type-appropriate Pokémon.
+
+This concise summary captures the essential gameplay elements, item locations, and battle strategies needed for progress through the specified routes and locations.

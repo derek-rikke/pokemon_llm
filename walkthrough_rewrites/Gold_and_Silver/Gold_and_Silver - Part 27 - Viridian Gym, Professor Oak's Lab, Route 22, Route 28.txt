@@ -1,0 +1,42 @@
+Game: Gold_and_Silver
+Part: 27
+Keywords: Viridian Gym, Professor Oak's Lab, Route 22, Route 28
+
+**Part 27 Walkthrough: Pokémon Gold and Silver**
+
+**Viridian City**
+- **Viridian Gym (Leader: Blue)**
+  - No puzzles or trainers. 
+  - Blue's team is diverse; use Electric moves against Pidgeot and Gyarados, Rock moves against Rhydon and Arcanine, and Bug/Ghost/Dark moves against Alakazam and Exeggutor. 
+  - Reward: Earth Badge ($5800).
+
+**Pallet Town**
+- Visit Professor Oak after earning all Kanto Badges. He'll grant access to Mt. Silver.
+
+**Route 22**
+- Connects Viridian City to the Pokémon League Reception Gate. 
+- Pokémon available: Rattata, Spearow, Fearow, Ponyta, Doduo, Magikarp (fishing).
+
+**Pokémon League Reception Gate**
+- Guards are gone; access to Mt. Silver is now available.
+
+**Route 28**
+- Leads into Johto at Mt. Silver's entrance.
+- Pokémon available: Ponyta, Tangela, Ursaring, Donphan, Rapidash, Doduo, Sneasel (fishing).
+
+**Items**
+- **TM47 (Steel Wing)**: From the woman in the house on Route 28 (requires Cut).
+- **Rare Candy**: Hidden in a tree east of the house (requires Cut).
+
+**The Recluse**
+- Use Cut to access the house on the hill in Route 28. The woman inside gives you a second TM47.
+
+**Mt. Silver**
+- A Pokémon Center is at the foot of the mountain.
+- Requires Surf and Waterfall for full exploration. Flash is useful for the dark areas.
+- Pokémon available: Doduo, Dodrio, Ponyta, Rapidash, Tangela, Sneasel, Ursaring, Donphan (fishing).
+
+**Items in Mt. Silver**
+- **Full Restore**: Hidden on the southwest hill (requires Surf). 
+
+This walkthrough covers the key locations, battles, and item finds necessary for progression in Pokémon Gold and Silver.

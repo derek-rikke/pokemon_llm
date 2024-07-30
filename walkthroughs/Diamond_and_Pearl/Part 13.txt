@@ -1,0 +1,1486 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_13
+Keywords: Fuego Ironworks, Floaroma Meadow (North), Sandgem Beach and Routes 219-221
+
+Walkthrough Text:
+Contents
+1
+Now that you can use Surf...
+1.1
+Twinleaf Town
+1.2
+Oreburgh Gate
+1.3
+Route 204 (South)
+1.4
+Ravaged Path
+1.5
+Valley Windworks
+1.6
+Eterna City
+1.7
+Mt. Coronet (Southern area)
+1.8
+Route 208
+1.9
+Route 209
+1.10
+Route 214
+1.11
+Route 213
+1.12
+Pastoria City
+1.13
+Route 212
+2
+Fuego Ironworks
+3
+Floaroma Meadow (North)
+4
+Sandgem Beach
+5
+Route 219
+6
+Route 220
+7
+Route 221
+7.1
+Later...
+Now that you can use Surf...
+There are a lot of places you can now access with the move
+Surf
+, such as Routes 218 to 221 and the
+Fuego Ironworks
+. These mentioned places will be further introduced. Some places that you accessed before may contain some items that you couldn't reach. With Surf, you can get those items.
+Twinleaf Town
+Items
+Item
+Location
+Games
+Odd Keystone
+In a tree along the left side of the pond (requires
+Surf
+)
+(hidden)
+D
+P
+Oreburgh Gate
+You need to bring a Pokémon with
+Rock Smash
+.
+Trainers
+Trainer
+Pokémon
+Veteran
+Grant
+ダイキ
+Daiki
+Reward:
+$
+2800
+Riolu
+♂
+Lv.
+33
+No item
+Staraptor
+♂
+Lv.
+34
+No item
+Graveler
+♂
+Lv.
+35
+No item
+Go to the basement. Head south, then Surf to the west. You can fight Veteran Grant, the only Trainer that uses a
+Riolu
+. But you will need the ability to use
+Strength
+on the field to get the items. Come back when you have the sixth Badge.
+Route 204
+(South)
+Items
+Item
+Location
+Games
+HP Up
+Northeast pond
+D
+P
+Sea Incense
+Southwest pond
+D
+P
+Head to the southern part of this route. Use Surf on the northeast and southwest ponds. You can get a
+HP Up
+and a
+Sea Incense
+.
+Ravaged Path
+You need to bring a Pokémon with
+Rock Smash
+.
+Items
+Item
+Location
+Games
+Luck Incense
+In the north end of the cave
+D
+P
+TM03
+(
+Water Pulse
+)
+In the northeast end of the cave
+D
+P
+Use
+Rock Smash
+, head west and Surf to the north. Stop surfing on the first turn of the river. Head in and use Rock Smash along the way. You will then find a
+Luck Incense
+. Jump down the ledges and surf deeper. You will end up in the northeast dead end. Collect
+TM03
+(
+Water Pulse
+).
+Valley Windworks
+Items
+Item
+Location
+Games
+Max Elixir
+On the north side of the fence
+(hidden)
+D
+P
+TM24
+(
+Thunderbolt
+)
+Behind the Windworks building
+D
+P
+Use surf on the coast of the tall grass, and surf to the north, then turn east. You can find a hidden
+Max Elixir
+under a wind turbine north of the fence and
+TM24
+(
+Thunderbolt
+) on an island directly north of Valley Windworks building.
+Eterna City
+Items
+Item
+Location
+Games
+PP Up
+In the far north-east corner of the city
+(hidden)
+D
+P
+Go to the
+Route 211
+exit. You will find two ponds near the exit. Surf on the north one, then you will find a hidden
+PP Up
+. You will find nothing on the south one, so ignore it.
+Mt. Coronet
+(Southern area)
+There is a pond on the north. Surf east on it, then go up the stairs. You can collect the
+Protein
+. Ignore the wall that you can't scale for now (due to having neither
+HM08
+(
+Rock Climb
+) nor the ability to use it on the field. However, this will play a very important role later), and jump down the ledges.
+Head to the south. Go up the stairs that leads to another pond. Surf east, and you can get the
+Dawn Stone
+.
+Items
+Item
+Location
+Games
+Dawn Stone
+Southeast corner
+D
+P
+Protein
+On the northern edge of the large hill in the center
+D
+P
+Route 208
+Trainers
+Trainer
+Pokémon
+Fisherman
+Cody
+テルマサ
+Terumasa
+Reward:
+$
+992
+Barboach
+♂
+Lv.
+31
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Go down the stairs west of Black Belt Kyle. Surf clockwise. Ignore the waterfall for now. You can fight Fisherman Cody.
+Route 209
+Items
+Item
+Location
+Games
+TM19
+(
+Giga Drain
+)
+In between trees south of the
+Hallowed Tower
+D
+P
+Go to the coast south of the bridge, where Poké Kid Danielle stands. Head to the east of the rock, then surf along the river. You can collect
+TM19
+(
+Giga Drain
+). Stay cautious as the Pokémon found while surfing can reach level 40, stronger than any of the gym leaders you've experienced so far, but good for training.
+Route 214
+Items
+Item
+Location
+Games
+Rare Candy
+Across the pond at the northeastern corner of the route
+D
+P
+Go to the northeast. There is a pond. Surf to the northeast of the pond and collect a
+Rare Candy
+.
+Route 213
+Surf southeast from Fisherman Kenneth (the fisherman that fought you). Head into the sea between two rocks. There are a few Trainers for you to fight and some items for you to collect in that area.
+Items
+Item
+Location
+Games
+Big Pearl
+In the southeast corner of the route
+(hidden)
+D
+P
+Water Stone
+At the easternmost shallow water at the southern part of Route 213, north of Swimmers Evan and Mary
+D
+P
+Max Revive
+Western Islet
+D
+P
+Pearl
+In the wall northwest of the Max Revive islet (requires
+Surf
+)
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Swimmer
+Haley
+ナオミ
+Naomi
+Reward:
+$
+496
+Marill
+♀
+Lv.
+31
+No item
+Azumarill
+♀
+Lv.
+31
+No item
+Swimmer
+Sheltin
+エイサク
+Eisaku
+Reward:
+$
+496
+Gyarados
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+29
+No item
+Gyarados
+♂
+Lv.
+31
+No item
+Sailor
+Paul
+ヨウヘイ
+Yōhei
+Reward:
+$
+992
+Gyarados
+♂
+Lv.
+31
+No item
+Machop
+♂
+Lv.
+31
+No item
+Swimmer
+Evan
+キョウジ
+Kyōji
+Reward:
+$
+512
+Golduck
+♂
+Lv.
+30
+No item
+Golduck
+♂
+Lv.
+32
+No item
+Swimmer
+Mary
+エリコ
+Eriko
+Reward:
+$
+480
+Marill
+♀
+Lv.
+32
+No item
+Pelipper
+♀
+Lv.
+30
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Pastoria City
+Items
+Item
+Location
+Games
+Mystic Water
+On a small patch of land north of the boats in the southeast corner of the city (requires
+Surf
+)
+D
+P
+Use Surf near the guy who stands at the middle of the city. Surf east and stop surfing between two trees. Head inside and you can find the item
+Mystic Water
+, which boosts the power of the
+Water-type
+moves of a Pokémon that holds it.
+Route 212
+Items (northern, clear area)
+Item
+Location
+Games
+Rose Incense
+West of the Pokémon Mansion
+D
+P
+Lum Berry
+West of the pond just north of the stairs leading to the southern area (requires
+Surf
+)
+D
+P
+Tamato Berry
+West of the pond just north of the stairs leading to the southern area (requires
+Surf
+)
+D
+P
+Items (southern, rainy area)
+Item
+Location
+Games
+Protein
+Beyond the southernmost Fisherman near two trees west
+(hidden)
+D
+P
+TM84
+(
+Poison Jab
+)
+Behind a tree, in the middle of the square of logs and bridges
+D
+P
+In the southern part, use Surf by the southernmost fisherman on the bridge. Head west to find a small area behind two trees, where you can use the Dowsing Machine to find a hidden
+Protein
+. In addition, the middle of the square of logs and bridges, you can surf southwest to find
+TM84
+(
+Poison Jab
+).
+At the southwest of Pokémon Mansion, surf west on the pond and you can collect some Berries.
+In the northern part, west of the Pokémon Mansion, use surf on a pond, and get to the isolated area. You can get
+Rose Incense
+.
+Fuego Ironworks
+Outside Fuego Ironworks
+Go to
+Route 205
+. Remember the house south of
+Eterna Forest
+, which you can take a rest and heal your Pokémon? Head south from there and go down the stairs. Turn west when you can. You will see a river. Now that you can use Surf, you can get through this river. Keep travelling north, and this river will bring you to
+Fuego Ironworks
+. Travelling south brings you to
+Valley Windworks
+, so don't bother doing that.
+Go to the north of the river. You will see a patch of grass. Go through it, and you will see a factory. Collect the items outside, then enter the factory.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Wingull
+D
+P
+Pt
+Grass
+29
+10%
+Shinx
+D
+P
+Pt
+Grass
+28
+10%
+Luxio
+D
+P
+Pt
+Grass
+29
+10%
+Pachirisu
+D
+P
+Pt
+Grass
+29
+10%
+Floatzel
+D
+P
+Pt
+Grass
+29-30
+25%
+Shellos
+D
+P
+Pt
+Grass
+28
+20%
+Gastrodon
+D
+P
+Pt
+Grass
+29-30
+15%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside Fuego Ironworks
+There are many Trainers inside. You will also see something familiar if you have played Pokémon FireRed and LeafGreen. Yes, these are the
+spinners
+again. Step on it, and you will spin in circles and travel in the direction that the arrow of the spinner points to. For example, if you step on a spinner with an arrow on it that points to the left, you will spin to the left and keep going until you hit something or another spinner.
+There are a few Trainers for you to fight. Fight them, collect the items and use the spinners to go around. Eventually you will reach the boiler and Mr. Fuego. He will give you a Fire Stone. Afterwards, collect
+TM35
+(
+Flamethrower
+), and leave Fuego Ironworks.
+There is an one-way exit east of Fuego Ironworks, which leads you back to Route 205. Jump down the two ledges, and you will find yourself near the entrance of
+Eterna Forest
+and the healing house.
+Items
+Item
+Location
+Games
+Sitrus Berry
+At the berry patch south of Fuego Ironworks building
+D
+P
+Wepear Berry
+×4
+At the berry patch south of Fuego Ironworks building
+D
+P
+Kelpsy Berry
+At the berry patch south of Fuego Ironworks building
+D
+P
+Ultra Ball
+Outside, north-east of the Honey Tree
+(hidden)
+D
+P
+Max Potion
+Outside, in a small gap between the right side of the Ironworks building and some trees
+(hidden)
+D
+P
+Burn Heal
+Inside, on the other side of the wall east of
+Worker
+Dillan, in the section below the Full Heal
+D
+P
+Fire Stone
+Inside, in the upper-right corner of the interior
+D
+P
+Rock Incense
+Inside, at the bottom-right area of the interior amongst the spinning pads
+D
+P
+TM35
+(
+Flamethrower
+)
+Inside, right next to the boiler
+D
+P
+Hyper Potion
+Inside, in a standalone barrel at the right side of the building interior
+(hidden)
+D
+P
+Full Heal
+Inside, at a dead end above the walled-off section with two blue crates and four barrels
+(hidden)
+D
+P
+Fire Stone
+Inside, after speaking to
+Mr. Fuego
+for the first time
+D
+P
+Trainers
+Trainer
+Pokémon
+Worker
+Dillan
+Reward:
+$
+1240
+Machop
+♂
+Lv.
+31
+No item
+Machoke
+♂
+Lv.
+31
+No item
+Worker
+Holden
+Reward:
+$
+1320
+Steelix
+♂
+Lv.
+33
+No item
+Worker
+Conrad
+Reward:
+$
+1320
+Rapidash
+♂
+Lv.
+33
+No item
+Floaroma Meadow (North)
+Items
+Item
+Location
+Games
+Miracle Seed
+North-west corner
+D
+P
+Full Heal
+South-east of the Miracle Seed
+(hidden)
+D
+P
+Leaf Stone
+South of the entrance from Fuego Ironworks
+D
+P
+Revive
+×2
+Slightly south-west of the entrance from Fuego Ironworks
+(hidden)
+Northeast of the Hyper Potion
+(hidden)
+D
+P
+Honey
+×2
+On the eastern edge of the meadow, slightly south of the Leaf Stone
+(hidden)
+Northeast of the Hyper Potion
+(hidden)
+D
+P
+Max Potion
+North-west of the Leaf Stone
+(hidden)
+D
+P
+Hyper Potion
+On the western edge of the meadow above the
+ledge
+(hidden)
+D
+P
+Super Potion
+North of the jumpable ledge, in the middle of the field
+(hidden)
+D
+P
+Potion
+West from the entrance
+(hidden)
+D
+P
+Antidote
+In the center of the meadow
+(hidden)
+D
+P
+Parlyz Heal
+Slightly down the center of the meadow
+(hidden)
+D
+P
+Return to Fuego Ironworks again, but get to the south of the river. Through the entrance, you will be in the rather large northern part of
+Floaroma Meadow
+. You can get many items here. Most of them are hidden, so use your Pokétch App Dowsing Machine to help you. Once you're sure you've found everything, jump down the ledge and you'll find yourself in
+Floaroma Town
+.
+Sandgem Beach
+Head south from
+Sandgem Town
+. You will be on Sandgem Beach after a few steps. There is an
+Antidote
+on Sandgem Beach, but you should probably had taken it at the start of the game. Head south, use Surf, and you'll be on
+Route 219
+.
+Items
+Item
+Location
+Games
+Antidote
+Left side of the main shore
+D
+P
+Route 219
+Route 219
+Route 219 is a small path that takes travelers south, leading to a small island of sand, then into
+Route 220
+. This route is as short as
+Route 202
+. You will be challenged by two
+Tubers
+on the island.
+Items
+Item
+Location
+Games
+Super Potion
+On the island
+(hidden)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tentacool
+D
+P
+Pt
+Surfing
+20-40
+65%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Tuber
+Mariel
+チユミ
+Chiyumi
+Reward:
+$
+116
+Marill
+♀
+Lv.
+29
+No item
+Marill
+♀
+Lv.
+29
+No item
+Tuber
+Trenton
+シンタロウ
+Shintarō
+Reward:
+$
+116
+Shellos
+♂
+West Sea
+Lv.
+29
+No item
+Shellos
+♂
+West Sea
+Lv.
+29
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Surf south from the island. You will be on Route 220.
+Route 220
+Route 220
+This route connects Route 219 and Route 221. The route is separated into 3 paths. On the northern shortcut, there is only one Trainer:
+Swimmer
+Katelyn. Also, this path is the shortest out of all 3, so this is the easiest way of crossing the route. The middle path has the most Trainers. The southern path contains several items for the player to collect, but when you arrive at
+Route 221
+, you will find that this bypass actually leads to a dead end with a Trainer.
+Items
+Item
+Location
+Games
+Ether
+Top part of first sandbar
+D
+P
+Splash Plate
+Bottom part of first sandbar
+D
+P
+Carbos
+On the shallows after the second sandbar
+D
+P
+Pearl
+On a wall between the first and second sandbars
+(hidden)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Jessica
+ユカリ
+Yukari
+Reward:
+$
+448
+Goldeen
+♀
+Lv.
+28
+No item
+Goldeen
+♀
+Lv.
+28
+No item
+Goldeen
+♀
+Lv.
+28
+No item
+Goldeen
+♀
+Lv.
+28
+No item
+Swimmer
+Erica
+シホミ
+Shihomi
+Reward:
+$
+464
+Remoraid
+♀
+Lv.
+29
+No item
+Psyduck
+♀
+Lv.
+29
+No item
+Swimmer
+Adrian
+キョウタ
+Kyōta
+Reward:
+$
+464
+Mantyke
+♂
+Lv.
+26
+No item
+Remoraid
+♂
+Lv.
+29
+No item
+Tentacool
+♂
+Lv.
+29
+No item
+Swimmer
+Vincent
+ツキオ
+Tsukio
+Reward:
+$
+464
+Pelipper
+♂
+Lv.
+29
+No item
+Whiscash
+♂
+Lv.
+29
+No item
+Swimmer
+Claire
+フミエ
+Fumie
+Reward:
+$
+496
+Buizel
+♀
+Lv.
+31
+No item
+Swimmer
+Erik
+モグル
+Moguru
+Reward:
+$
+496
+Gyarados
+♂
+Lv.
+31
+No item
+Swimmer
+Katelyn
+ヒロミ
+Hiromi
+Reward:
+$
+448
+Buizel
+♀
+Lv.
+28
+No item
+Medicham
+♀
+Lv.
+28
+No item
+Seaking
+♀
+Lv.
+28
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Surf east from any of the three paths to reach Route 221.
+Route 221
+Route 221
+This route leads to
+Pal Park
+, which has not opened yet. If you surf to this route from the southern path of Route 220, you will end up in a dead end with
+Swimmer
+Vanessa. If you want to proceed further, surf to this route from the northern or middle path of Route 220.
+You will have two possible paths to Pal Park after you stop Surfing. On the northern path, there is a
+Honey Tree
+, no grass, and only one Trainer:
+Collector
+Ivan. This is the easiest path to Pal Park.
+North of this path, a small maze of grass and trees leads to a house. An elderly man in the house will tell you a random number between 1 and 100 once a day. He will give you a
+Black Belt
+,
+Expert Belt
+, or
+Focus Sash
+if shown a Pokémon of the
+level
+he called out. The first time you show him the correct level Pokémon, he will give a Black Belt as a reward; the second time, he gives an Expert Belt; the third time, a Focus Sash. The pattern then repeats.
+On the southern path, there is more grass, more Trainers, and a Berry patch.
+Items
+Item
+Location
+Games
+Protein
+North-western corner of the land part of the route
+D
+P
+Honey
+Near the western edge of the first southern patch of grass
+D
+P
+Pure Incense
+West of the level item house
+D
+P
+TinyMushroom
+On the right side of the level item house
+(hidden)
+D
+P
+Black Belt
+Possible reward from the man in the house
+D
+P
+Expert Belt
+Possible reward from the man in the house
+D
+P
+Focus Sash
+Possible reward from the man in the house
+D
+P
+Max Revive
+In the large southern patch of grass
+(hidden)
+D
+P
+Honey
+In the large southern patch of grass
+(hidden)
+D
+P
+Ultra Ball
+In the grass below the Berry patch
+(hidden)
+D
+P
+TM81
+(
+X-Scissor
+)
+Between the large southern patch of grass and the southeastern patch of grass
+D
+P
+Carbos
+In the southeastern patch of grass (hidden)
+D
+P
+Leppa Berry
+At the berry patch near the center of the route
+D
+P
+Pecha Berry
+At the berry patch near the center of the route
+D
+P
+Mago Berry
+At the berry patch near the center of the route
+D
+P
+Hondew Berry
+At the berry patch near the center of the route
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Wingull
+D
+P
+Pt
+Grass
+29
+10%
+Floatzel
+D
+P
+Pt
+Grass
+28-31
+25%
+Roselia
+D
+P
+Pt
+Grass
+29
+10%
+Shellos
+D
+P
+Pt
+Grass
+28
+10%
+Gastrodon
+D
+P
+Pt
+Grass
+29-30
+10%
+Gastrodon
+D
+P
+Pt
+Grass
+28-30
+30%
+Sudowoodo
+D
+P
+Pt
+Grass
+29-30
+15%
+Stunky
+D
+P
+Pt
+Grass
+28
+20%
+Skuntank
+D
+P
+Pt
+Grass
+29-30
+15%
+Surfing and Fishing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-30
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+20-40
+5%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+60%
+Clamperl
+D
+P
+Pt
+Fishing
+Super Rod
+20-30
+5%
+Lumineon
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Dillon
+リキオ
+Rikio
+Reward:
+$
+512
+Shellos
+♂
+West Sea
+Lv.
+30
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+32
+No item
+Swimmer
+Vanessa
+ミナミ
+Minami
+Reward:
+$
+528
+Golduck
+♀
+Lv.
+33
+No item
+Fisherman
+Cory
+マサヒロ
+Masahiro
+Reward:
+$
+1024
+Magikarp
+♂
+Lv.
+28
+No item
+Finneon
+♂
+Lv.
+30
+No item
+Gyarados
+♂
+Lv.
+32
+No item
+Ace Trainer
+Shannon
+ホノカ
+Honoka
+Reward:
+$
+2040
+Cherrim
+♀
+Lv.
+30
+No item
+Marill
+♀
+Lv.
+32
+No item
+Lopunny
+♀
+Lv.
+34
+No item
+Ace Trainer
+Jake
+アキラ
+Akira
+Reward:
+$
+1980
+Staravia
+♂
+Lv.
+33
+No item
+Girafarig
+♂
+Lv.
+33
+No item
+Collector
+Ivan
+ヒロム
+Hiromu
+Reward:
+$
+2176
+Hippopotas
+♂
+Lv.
+28
+No item
+Hippopotas
+♂
+Lv.
+28
+No item
+Hippopotas
+♂
+Lv.
+34
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+2 construction workers standing in front of Pal Park will prevent entrance. It seems that Pal Park is still not ready to open. Now, let's get back to the main storyline. Fly to
+Jubilife City
+.
+Later...
+When you have upgraded your Pokédex to National mode, come to the Pal Park again. This time, you can go inside. Afterwards, you can also fly here. This is where you can migrate Pokémon over from
+Generation III
+games.
+← Part 12
+Route 212, Route 210 (North), Celestic Town, Route 211 (East), Hearthome Gym
+Diamond and Pearl
+walkthrough
+Jubilife City, Route 218, Canalave City, Iron Island, Canalave Gym
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

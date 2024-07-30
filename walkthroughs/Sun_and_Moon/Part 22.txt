@@ -1,0 +1,506 @@
+Part: Part 22
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_22
+Keywords: Ruins of Hope, Exeggutor Island, Poni Grand Trial
+
+Walkthrough Text:
+Contents
+1
+Ruins of Hope
+1.1
+Interior Chamber
+2
+Seafolk Village
+3
+Exeggutor Island
+3.1
+In Search of a Legend
+4
+Seafolk Village
+5
+Ancient Poni Path
+6
+Vast Poni Canyon
+6.1
+Poni Grand Trial
+Ruins of Hope
+Outside the Ruins of Hope
+The
+Ruins of Hope
+are located to the east of
+Poni Breaker Coast
+. These ruins are a sacred space, home to the
+guardian deity
+of
+Poni Island
+,
+Tapu Fini
+.
+Items
+Item
+Location
+Games
+Zygarde Cell
+Southeast of the door to the inside of the ruins, at the bottom of the ramp down
+S
+M
+Walk down the coral-encrusted pathway to reach
+Lillie
+and Mudsdale at the bottom. Enter the shrine and use
+Machamp Shove
+to move the nearest stone all the way northward, then push the stone in the middle to the east. Loop around and push that second stone northward to drop it into a hole in the ground. Walk through the doorway into the second chamber to find
+Hapu
+standing atop the platform.
+Interior Chamber
+A great light shines from the altar, and Hapu is gifted her own Sparkling Stone, marking her as the new kahuna. She reveals that her grandfather had also held this role, but died suddenly years ago, leaving the island without a kahuna ever since. Lillie asks Hapu about the Legendary Pokémon, but Hapu knows only that there is a ceremony held for it at the
+Altar of the Sunne
+S
+/
+Altar of the Moone
+M
+. This ceremony uses two flutes to empower the Legendary Pokémon. Hapu recognizes the
+Moon Flute
+S
+/
+Sun Flute
+M
+that Lillie carries, and reveals that the other can be found on
+Exeggutor Island
+, an uninhabited island off the coast of
+Poni Island
+.
+Seafolk Village
+Fly back to
+Seafolk Village
+to catch up to Lillie and Hapu. Hapu and Mudsdale leave, and Lillie goes to speak with the village chief. After a brief conversation, you and Lillie set off on the S.S. Magikarp.
+Exeggutor Island
+Exeggutor Island
+Location of Exeggutor Island
+The small, uninhabited
+Exeggutor Island
+is designated as a nature preserve. Some
+Alolan Exeggutor
+blend in with the many palm trees. According to the chief of
+Seafolk Village
+, the island was formerly a trial site.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Exeggcute
+Exeggcute
+S
+M
+Grass
+40-43
+40%
+Pelipper
+Pelipper
+S
+M
+Grass
+40-43
+30%
+Exeggutor
+Alolan Form
+N/A
+S
+M
+Grass
+40-43
+20%
+Gastrodon
+East Sea
+Gastrodon
+S
+M
+Grass
+40-43
+10%
+Special allies in weather
+Any
+Hail
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+40-43
+11%
+Any
+In
+rain
+:
+Sliggoo
+S
+M
+Grass
+40-43
+10%
+Any
+In
+rain
+:
+Castform
+S
+M
+Grass
+40-43
+1%
+Exclusively from
+Island Scan
+Serperior
+N/A
+S
+M
+Grass
+43
+One
+Th
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+North half of the island; in the cave in the south-facing cliff wall
+(hidden)
+S
+M
+Prism Scale
+At the end of the northeast path
+S
+M
+Heart Scale
+Among the red flowers at the top of the first ramp
+(hidden)
+S
+M
+Sun Flute
+On a pedestal at the island's highest point
+S
+Moon Flute
+On a pedestal at the island's highest point
+M
+In Search of a Legend
+As soon as you walk out onto the island,
+Lillie
+inadvertently disturbs an
+Alolan Exeggutor
+, which draws you into battle. When you reach the middle part of the island, the clouds roll in and it starts to rain, causing you and Lillie to run for cover in the nearby cave. The sun returns a short time later and Lillie runs back out of the cave, excited to see the rainbow high above. She wonders if maybe it is a good omen before continuing northward. Climb to the island's highest point to find Lillie in front of an old pedestal. Inspect the structure to take the
+Sun Flute
+S
+/
+Moon Flute
+M
+, then speak with the chief to return to
+Seafolk Village
+.
+Seafolk Village
+Now that you and
+Lillie
+have both the
+Sun Flute
+and the
+Moon Flute
+, the next step is to play them at the altar. The chief informs you that the altar is located in
+Vast Poni Canyon
+. He wishes you luck, warning that the road ahead is long as nature acts as its own trial.
+Ancient Poni Path
+Pass by
+Hapu
+'s house and head north to find
+Lillie
+confronted by a group of
+Team Skull
+Grunts blocking the road. They need to know how to save
+Guzma
+, and intend to knock that information out of you.
+Trainers
+Trainer
+Pokémon
+Team Skull Grunt
+Reward:
+$
+1,408
+Fomantis
+♀
+Lv.
+44
+No item
+Team Skull Grunt
+Reward:
+$
+1,408
+Salandit
+♂
+Lv.
+43
+No item
+Mareanie
+♂
+Lv.
+43
+No item
+Haunter
+♂
+Lv.
+44
+No item
+Golbat
+♂
+Lv.
+44
+No item
+Raticate
+♂
+Alolan form
+Lv.
+44
+No item
+Items
+Item
+Location
+Games
+Poisonium Z
+From Plumeria, after defeating the two Team Skull Grunts
+S
+M
+Defeat two of the Grunts and
+Plumeria
+appears. She expresses regret for her actions and asks that you save
+Guzma
+, if you can. It was you who stood up to
+Team Skull
+and took on the darkness inside the
+Aether Foundation
+, so she says if anyone can, it's you. She gives you the
+Poisonium Z
+in apology and walks away.
+Lillie
+heals your Pokémon before rushing off to the north.
+Vast Poni Canyon
+Vast Poni Canyon
+Vast Poni Canyon
+links
+Ancient Poni Path
+to the
+Altar of the Sunne
+S
+/
+Altar of the Moone
+M
+. The rugged terrain produces a
+special magnetic field
+that allows certain Pokémon to evolve here.
+Items
+Item
+Location
+Games
+Groundium Z
+From Hapu upon her defeat
+S
+M
+Poni Grand Trial
+Follow
+Lillie
+northward to meet
+Hapu
+and Mudsdale under a large, dead tree. She asks if you are ready to take on her Pokémon at full strength, and gives you the chance to prepare if you are not. As a
+Ground-type
+Pokémon specialist,
+Hapu
+'s team takes serious damage from
+Grass
+,
+Water
+, and
+Ice
+attacks. Grass Pokémon have access to
+Grassium Z
+and
+Bloom Doom
+, while Water Pokémon can make use of
+Waterium Z
+and
+Hydro Vortex
+. Alternatively, they can hold a
+Miracle Seed
+or
+Mystic Water
+for a reliable power boost.
+Hapu
+starts off her first battle as kahuna with her
+Alolan Dugtrio
+.
+Sandstorm
+lets it chip away its foe's health, while activating its
+Sand Veil
+Ability to boost its evasion. As it is part-
+Steel
+,
+Fire
+and
+Fighting
+moves are also effective. Grass moves are best against her
+Gastrodon
+and
+Ice
+moves are very effective against her
+Flygon
+. When it comes to her
+Mudsdale
+, avoid using physical moves: not only can it return the damage dealt with
+Counter
+, but its
+Stamina
+Ability boosts its
+Defense
+when it takes damage. With the
+Z-Crystal
+it holds, at any time Mudsdale can upgrade its
+Earthquake
+attack, turning it into the Ground-type Z-Move,
+Tectonic Rage
+. While powerful, this can fortunately be done only once.
+Island Kahuna
+Hapu
+Vast Poni Canyon
+Sun and Moon
+Reward:
+$
+7,680
+Types:
+Ground
+Steel
+Ability:
+Sand Veil
+Held item:
+None
+Dugtrio
+♀
+Lv.
+47
+Iron Head
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Sticky Hold
+Held item:
+None
+Gastrodon
+♀
+Lv.
+47
+Muddy Water
+Water
+Special
+--
+Mud Bomb
+Ground
+Special
+--
+Recover
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+47
+Earth Power
+Ground
+Special
+--
+Dragon Breath
+Dragon
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ground
+Unknown
+Ability:
+Stamina
+Held item:
+Groundium Z
+Mudsdale
+♂
+Lv.
+48
+Heavy Slam
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Counter
+Fighting
+Physical
+--
+After the battle, Hapu rewards you with the
+Groundium Z
+and teaches you the pose for
+Tectonic Rage
+. She then stamps your
+Trainer Passport
+with the
+Poni Trial Completion
+stamp. This stamp ensures that all Pokémon up to Level 80, even those received in a trade, will obey without question. She directs you and Lillie to a large cave opening to the east, encouraging the two of you to press onward to find the altar.
+← Part 21
+Seafolk Village, Poni Wilds, Ancient Poni Path, Poni Breaker Coast
+Sun and Moon
+walkthrough
+Vast Poni Canyon, Trial 7: The Captainless Trial
+Part 23 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

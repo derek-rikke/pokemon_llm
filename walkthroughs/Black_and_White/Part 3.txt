@@ -1,0 +1,1249 @@
+Part: Part 3
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_3
+Keywords: Route 3, Wellspring Cave, Nacrene City, Nacrene Gym
+
+Walkthrough Text:
+Contents
+1
+Route 3
+1.1
+Pokémon Day Care
+1.2
+Preschool
+1.3
+Wellspring Cave
+2
+Nacrene City
+2.1
+Give your starter Pokémon an item
+2.2
+Loblolly's Studio
+2.3
+Dye's house
+2.4
+The Café Warehouse
+2.5
+Nacrene Gym
+Route 3
+Route 3, outside the Day Care
+Route 3
+is a long, winding road that stretches off to the west. Just north of
+Striaton City
+is the
+Pokémon Day Care
+, and next door is a preschool for aspiring Trainers. The road branches off before reaching a pond, with one trail leading to the
+Wellspring Cave
+and the other leading southwest towards
+Nacrene City
+.
+Trainers
+Trainer
+Pokémon
+Northern path and playground
+Twins
+Kumi & Amy
+Reward:
+$
+160
+Purrloin
+♀
+Lv.
+10
+No item
+Purrloin
+♀
+Lv.
+10
+No item
+Nursery Aide
+Autumn
+Reward:
+$
+400
+Lillipup
+♀
+Lv.
+10
+No item
+Munna
+♀
+Lv.
+10
+No item
+Preschooler
+Doyle
+Reward:
+$
+40
+Panpour
+♂
+Lv.
+10
+No item
+Preschooler
+Wendy
+Reward:
+$
+40
+Pansear
+♂
+Lv.
+10
+No item
+Preschooler
+Tully
+Reward:
+$
+40
+Pansage
+♂
+Lv.
+10
+No item
+Pokémon Breeder
+Adelaide
+Reward:
+$
+432
+Patrat
+♀
+Lv.
+9
+No item
+Lillipup
+♀
+Lv.
+9
+No item
+Pidove
+♀
+Lv.
+9
+No item
+Southern path
+School Kid
+Al
+Reward:
+$
+260
+Blitzle
+♂
+Lv.
+13
+No item
+School Kid
+Marsha
+Reward:
+$
+260
+Woobat
+♀
+Lv.
+13
+No item
+School Kid
+Gina
+Reward:
+$
+240
+Patrat
+♀
+Lv.
+12
+No item
+Purrloin
+♀
+Lv.
+12
+No item
+School Kid
+Edgar
+Reward:
+$
+240
+Pidove
+♂
+Lv.
+12
+No item
+Roggenrola
+♂
+Lv.
+12
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Pidove
+B
+W
+Grass
+8-11
+40%
+Patrat
+B
+W
+Grass
+8
+20%
+Blitzle
+B
+W
+Grass
+8-11
+20%
+Lillipup
+B
+W
+Grass
+9
+10%
+Purrloin
+B
+W
+Grass
+9
+10%
+Dark grass
+Pidove
+B
+W
+Dark grass
+10-13
+40%
+Patrat
+B
+W
+Dark grass
+10
+20%
+Blitzle
+B
+W
+Dark grass
+10-13
+20%
+Lillipup
+B
+W
+Dark grass
+11
+10%
+Purrloin
+B
+W
+Dark grass
+11
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+8-11
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+In the sandbox (hidden)
+B
+W
+Super Potion
+In the grass patch near the fork in the road
+B
+W
+Oran Berry
+From Pokémon Breeder Adelaide after defeating her
+B
+W
+Repel
+On the ground near Pokémon Breeder Adelaide
+B
+W
+Heal Ball
+×3
+From the girl for rescuing her stolen Pokémon
+B
+W
+Antidote
+In the first grass patch south of the intersection
+B
+W
+Great Ball
+On the pond's south shore
+B
+W
+Awakening
+In the grass patch outside
+Nacrene City
+B
+W
+Pokémon Day Care
+The
+Pokémon Day Care
+is run by an old couple that looks after Trainers' Pokémon while they are away. If you leave a Pokémon with them, you may return to find that it has leveled up. The old woman will only accept one Pokémon at a time, but return here after meeting her husband in
+Nimbasa City
+, and you'll be able to leave up to two Pokémon at once. If the two Pokémon are compatible, the old couple may discover an
+Egg
+!
+Preschool
+Battle the young Trainers here, then you'll need to fight a pair of
+Twins
+. This is the first
+Double Battle
+of the game, so make sure that your first and second Pokémon are up to the task. If your team is getting a little ragged, you can step inside the school building to have the teacher heal your team.
+When you reach the fork in the road,
+Cheren
+shows up. He won the
+Trio Badge
+too and wants to see which of you is stronger.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Route 3
+Black and White
+Reward:
+$
+1200
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Oran Berry
+Tepig
+♂
+Lv.
+14
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Defense Curl
+Normal
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Fury Swipes
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Pokémon Trainer
+Cheren
+Route 3
+Black and White
+Reward:
+$
+1200
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Oran Berry
+Oshawott
+♂
+Lv.
+14
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Water Gun
+Water
+Special
+--
+Water Sport
+Water
+Status
+--
+Pokémon2=
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Fury Swipes
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Pokémon Trainer
+Cheren
+Route 3
+Black and White
+Reward:
+$
+1200
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Oran Berry
+Snivy
+♂
+Lv.
+14
+Growth
+Normal
+Status
+--
+Leer
+Normal
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Wrap
+Normal
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Fury Swipes
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+When the battle is over, a couple of
+Team Plasma
+Grunts
+run past you to the west. Close behind are
+Bianca
+and a young girl, whose Pokémon was just stolen by the two thugs.
+Cheren
+chases after them, running off towards
+Wellspring Cave
+.
+Wellspring Cave
+With you and Cheren blocking their escape, the Plasma Grunts attack. After defeating the first thug and his
+Patrat
+, two of his teammates arrive and force you and Cheren into a Double Battle.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+480
+Patrat
+♂
+Lv.
+12
+No item
+Team Plasma Grunt
+Reward:
+$
+960
+Patrat
+♂
+Lv.
+12
+No item
+Team Plasma Grunt
+Reward:
+$
+960
+Patrat
+♂
+Lv.
+12
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Roggenrola
+B
+W
+Cave
+10-13
+50%
+Woobat
+B
+W
+Cave
+10-13
+50%
+Dust Clouds
+Drilbur
+B
+W
+Dust cloud
+10-13
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM46
+(
+Thief
+)
+Near the entrance
+B
+W
+Full Heal
+At the top of the stairs, west of TM46 (hidden)
+B
+W
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Wellspring Cave
+Black and White
+Reward:
+None
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Oran Berry
+Tepig
+♂
+Lv.
+14
+Ember
+Fire
+Special
+--
+Defense Curl
+Normal
+Status
+--
+Odor Sleuth
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Pokémon Trainer
+Cheren
+Wellspring Cave
+Black and White
+Reward:
+None
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Oran Berry
+Oshawott
+♂
+Lv.
+14
+Water Gun
+Water
+Special
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+Pokémon Trainer
+Cheren
+Wellspring Cave
+Black and White
+Reward:
+None
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Oran Berry
+Snivy
+♂
+Lv.
+14
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Growth
+Normal
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+12
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Sand-Attack
+Ground
+Status
+--
+The thieves give up the stolen Pokémon. Cheren leaves to return it, which gives you the chance to grab the
+TM46
+(
+Thief
+) sitting near the ledge. Return to Bianca, and the little girl gives you three
+Heal Balls
+as thanks.
+The southern branch of the route is the first place that you'll find
+dark grass
+; the Pokémon that appear in these grass patches may appear in
+Double Battles
+. Cheren will give a brief explanation before moving on. Head south across the pond to reach Nacrene City.
+Nacrene City
+Nacrene City
+Nacrene City
+is a city of artists made up of restored century-old warehouses. It's also home to Café Warehouse, a stylish café for such a rural area. There's also a museum here where ancient Pokémon can be restored from
+Fossils
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Cottonee
+B
+W
+Trade
+Petilil
+15
+One
+Petilil
+B
+W
+Trade
+Cottonee
+15
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Chesto Berry
+×3
+From
+Cheren
+near the Poké Center
+B
+W
+Cheri Berry
+Held by the traded Lillil
+B
+/Fluffee
+W
+, a
+Petilil
+B
+/
+Cottonee
+W
+B
+W
+Miracle Seed
+From a woman in the westernmost building if the player answers "
+Snivy
+"
+B
+W
+Charcoal
+From a woman in the westernmost building if the player answers "
+Tepig
+"
+B
+W
+Mystic Water
+From a woman in the westernmost building if the player answers "
+Oshawott
+"
+B
+W
+Soda Pop
+From the waitress in the Café Warehouse every Wednesday
+B
+W
+Ultra Ball
+In the outside dining area of the Café Warehouse (hidden)
+B
+W
+Revive
+On the railway, near the fence in the southwest (hidden)
+B
+W
+Fresh Water
+From
+Clyde
+inside the Gym
+B
+W
+After defeating the Nacrene Gym
+TM67
+(
+Retaliate
+)
+From
+Lenora
+for defeating her
+B
+W
+Dowsing MCHN
+From
+Bianca
+outside the museum
+B
+W
+When you enter the city, you find
+Cheren
+waiting for you. He shows you to the Poké Center, and hands you a few
+Chesto Berries
+. He tells you about the local
+Gym Leader
+before heading off again.
+Give your starter Pokémon an item
+Speak to the woman in the second building west of the Pokémon Center. When she sees that you have a
+Pokédex
+, she'll ask which starter Pokémon you have. Depending on your answer, she will give you an item — a
+Miracle Seed
+, a
+Charcoal
+, or a
+Mystic Water
+— that will help power up your moves. Since another Miracle Seed can be found in
+Pinwheel Forest
+, it is better to answer "Tepig" or "Oshawott".
+Loblolly's Studio
+Loblolly's studio is in the southeast of the city near the entrance from Route 3. After visiting the
+Dream World
+at least once, she will begin designing pieces of décor that can be used in the Dream World. Up to five pieces can be unlocked the next time the Dream World is accessed.
+Dye's house
+Dye's house is the second building east of the Pokémon Center. On the first floor is a woman who will evaluate the
+friendship
+of your lead Pokémon. Dye is upstairs, and she's looking to
+trade
+. The Pokémon that she offers,
+Petilil
+B
+or
+Cottonee
+W
+, cannot be found in the wild.
+The Café Warehouse
+The Café Warehouse is a stylish café located in the northwest corner of town. If you speak to the waitress on a Wednesday, she will give you a free
+Soda Pop
+, which restores a Pokémon's health by 60 points.
+Nacrene Gym
+When you are about to enter the
+Gym
+,
+N
+steps outside. He talks a bit more about his vision of a perfect world, then challenges you to a battle.
+Pokémon Trainer
+N
+Nacrene City
+Black and White
+Reward:
+$
+1300
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+13
+Gust
+Flying
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Growl
+Normal
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Timburr
+♂
+Lv.
+13
+Low Kick
+Fighting
+Physical
+--
+Focus Energy
+Normal
+Status
+--
+Bide
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Tympole
+♂
+Lv.
+13
+Supersonic
+Normal
+Status
+--
+BubbleBeam
+Water
+Special
+--
+Growl
+Normal
+Status
+--
+Round
+Normal
+Special
+--
+When you defeat him, he walks off muttering about awakening some
+legendary
+dragon
+. With him out of the way, you are free to challenge the Gym.
+Nacrene City Pokémon Gym
+Leader: Lenora
+An Archeologist with Backbone
+The
+Nacrene Gym
+, which specializes in
+Normal-types
+, is located in the back of the museum. The assistant director,
+Hawes
+, gives you a tour when you enter. He ends it by directing you to the Gym, which is managed by his wife
+Lenora
+. For an easier time, consider venturing west into
+Pinwheel Forest
+— you can catch a few
+Fighting-types
+here, and get
+TM94
+(
+Rock Smash
+) from a girl near the entrance.
+The Gym doubles as a library, and features a scavenger hunt for Trainers to follow in order to reach Lenora. Start by reading through the book
+Nice to Meet You, Pokémon!
+on the front-left bookshelf. The memo inside explains her game, and starts off with the first question.
+Nacrene Gym Library
+Book
+Memo Inside
+Answer
+Location of Next Book
+Nice to Meet You, Pokémon!
+"What is the first Pokémon you met in this Gym?"
+Patrat
+Center-left bookcase
+The Biology of
+Patrat
+"Flame burns inside its body, and it gives off smoke from its head while it runs..."
+Locomotive
+Scientist Satomi, rear-left bookcase
+The Structure of a Locomotive
+"If you heat it up in a pot, it'll be delicious."
+Poffin
+Front-right bookcase
+Sweets for Pokémon
+"From this bookshelf... Move two backward, move one to the left, move two forward,
+move one to the right, and move one backward... Now, where is it?"
+The Biology of
+Tepig
+Behind School Kid Lydia, center-right bookcase
+For the final question, speak to School Kid Lydia. Defeat her, then check the book behind her,
+The Biology of Tepig
+. The book triggers a switch on the shelf, moving the bookcase and revealing a staircase leading to the basement. The Gym Leader waits downstairs. A
+Fighting-type
+Pokémon like
+Timburr
+,
+Throh
+, or
+Sawk
+can be a big help, as Lenora's Pokémon are weak only to Fighting attacks.
+Downstairs in the Nacrene Gym
+Nacrene Gym
+Trainers
+Trainer
+Pokémon
+School Kid
+Carter
+Reward:
+$
+340
+Patrat
+♂
+Lv.
+17
+No item
+Scientist
+Satomi
+Reward:
+$
+816
+Herdier
+♀
+Lv.
+17
+No item
+School Kid
+Lydia
+Reward:
+$
+300
+Lillipup
+♀
+Lv.
+15
+No item
+Lillipup
+♀
+Lv.
+15
+No item
+Lillipup
+♀
+Lv.
+15
+No item
+Leader
+Lenora
+Nacrene Gym
+Black and White
+Reward:
+$
+2400
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+18
+Take Down
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Illuminate
+Held item:
+None
+Watchog
+♀
+Lv.
+20
+Leer
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+For defeating her,
+Lenora
+gives you the
+Basic Badge
+, and
+TM67
+(
+Retaliate
+). Having a second Badge ensures that Pokémon up to level 30 will always obey you.
+Hawes
+rushes in, yelling that
+Team Plasma
+has invaded the museum. Follow them to the front of the museum to witness the villains running off with the
+Dragon Skull
+. Catch up to Lenora outside, and she'll introduce you to
+Burgh
+, the
+Castelia City
+Gym Leader.
+Cheren
+and
+Bianca
+show up to protect the museum, and Bianca gives you the
+Dowsing MCHN
+, a gift from
+Fennel
+that detects hidden items.
+Head west with Burgh to search the forest.
+← Part 2
+Route 2, Striaton City, The Dreamyard, Striaton Gym
+Black and White
+walkthrough
+Pinwheel Forest, Skyarrow Bridge, Castelia City, Castelia Gym
+Part 4 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

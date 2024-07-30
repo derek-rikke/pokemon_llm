@@ -1,0 +1,37 @@
+Game: Gold_and_Silver
+Part: 3
+Keywords: Route 31, Violet City, Sprout Tower, Violet Gym
+
+**Pokémon Gold and Silver Walkthrough: Part 3**
+
+**Route 31**
+- Connects Route 30 to Violet City. Dark Cave is located here but requires specific moves to navigate.
+- **Key Trainers**: 
+  - Bug Catcher Wade (Caterpie, Weedle)
+- **Wild Pokémon**: Caterpie, Weedle, Metapod, Pidgey, Rattata, Bellsprout, Hoothoot.
+- **Items**: Antidote (near Dark Cave sign), Bitter Berry (tree by pond), Poké Ball (south of pond), TM50 (Nightmare from the man near the pond).
+
+**Violet City**
+- Home to Sprout Tower and Violet Gym.
+- **Gift Pokémon**: Togepi (Egg), trade Onix for Bellsprout.
+- **Items**: Bitter Berry (held by traded Onix), PRZCureBerry (tree near southern exit), TM31 (Mud-Slap from Falkner), Hyper Potion (behind Pokémon Center, requires Cut), Rare Candy (eastern lake, requires Surf), PP Up (western lake, requires Surf).
+
+**Sprout Tower**
+- **Floor Layout**:
+  - **1F**: Battle Sage Nico and Sage Chow.
+  - **2F**: Battle Sage Edmond, collect X Defend.
+  - **3F**: Battle Sages Jin, Neal, and Troy; collect Potion and Escape Rope.
+- **Key Battle**: VS Sage Li (2 Bellsprout, 1 Hoothoot). Use Fire/Flying-type Pokémon to counter Grass-types.
+- Reward: HM05 (Flash) after defeating Sage Li.
+
+**Violet Gym**
+- **Leader**: Falkner (Flying-type Pokémon).
+- **Key Strategies**: Use Electric, Ice, or Rock-type moves against Falkner’s Pokémon. Rock-type Pokémon are effective against his Flying-types.
+- **Key Trainers**: Bird Keeper Abe (Spearow), Bird Keeper Rod (Pidgey).
+- **Final Battle**: Falkner (Pidgey and Pidgeotto). Use Rock-type moves if you have Onix.
+- Reward: Zephyr Badge (boosts Attack, allows use of Flash), TM31 (Mud-Slap).
+
+**Post-Gym**
+- Professor Elm contacts you about the Mystery Egg. Visit his aide at the Pokémon Center to receive the Egg and learn how to hatch it.
+
+This concludes Part 3 of the walkthrough. Proceed to Part 4 for further adventures.

@@ -1,0 +1,63 @@
+Game: LegendsArceus
+Part: 3
+Keywords: Jubilife Village, Obsidian Fieldlands
+
+### Part 3: Jubilife Village and Obsidian Fieldlands Walkthrough
+
+#### Jubilife Village
+1. **First Star Rank**
+   - Head to Galaxy Hall and speak with Cyllene.
+   - Show her your Pokédex to become a **First Star recruit**.
+   - You gain access to **Heavy Balls** and can command Pokémon up to level 20.
+
+2. **Training Grounds**
+   - The next day, meet Rei/Akari at your door. Head to the east pastures to change your Pokémon.
+   - Go to the training grounds for a battle against **Rei/Akari** (Pikachu, Level 9).
+   - After winning, you'll learn about Pokémon types and move effectiveness.
+
+3. **Zisu’s Tips**
+   - Zisu, the Security Corps captain, explains **Agile Style** and **Strong Style** for moves, which can change the action order and power.
+   - You can ask her to teach your Pokémon new moves for a fee.
+
+4. **Next Mission**
+   - Rei/Akari want to assist **Mai** from the Diamond Clan. Prepare and head to the east gate to enter **Obsidian Fieldlands**.
+
+#### Obsidian Fieldlands
+1. **Fieldlands Camp**
+   - Upon arrival, you meet **Volo**, who teaches you about the back strike technique.
+   - Heal your Pokémon in the tent and then head to Aspiration Hill.
+
+2. **Meeting Mai**
+   - Cross the bridge and meet **Mai**, who challenges you to a battle (Munchlax, Level 10).
+   - After the battle, she provides **5 Vivichokes** and requests help with a nearby alpha Pokémon.
+
+3. **Explore New Areas**
+   - After crossing the bridge, you can access various areas: Grueling Grove, Worn Bridge, Windswept Run, etc.
+
+#### Deertrack Path and Heights
+1. **Continue on Deertrack Path**
+   - Follow the path, marked by torches, until you reach **Deertrack Heights**.
+   - At the top, meet Mai, who explains the situation with the **alpha Kricketune**.
+
+2. **Battle the Alpha Kricketune**
+   - Approach Kricketune (Level 12) to battle it. Use Fire, Flying, or Rock-type moves for advantage.
+   - Defeating it allows Mai to heal your Pokémon again.
+
+3. **New Camp Site**
+   - After the battle, you’ll see Wyrdeer, which may allow you to ride it. A camp site is established, allowing fast travel.
+   - Complete the mission **A Request from Mai**.
+
+4. **Return to Jubilife Village**
+   - After your day, head back to The Wallflower in Jubilife Village.
+
+### Key Items & Pokémon
+- **Items:**
+  - **Heavy Ball** and **Revive** recipes from Cyllene.
+  - **Vivichoke x5** from Mai.
+
+- **Notable Pokémon:**
+  - **Rei/Akari’s Pikachu** (Level 9)
+  - **Mai’s Munchlax** (Level 10)
+  - **Alpha Kricketune** (Level 12)
+
+This walkthrough provides concise steps for progressing through Jubilife Village and Obsidian Fieldlands, focusing on essential battles, item acquisition, and mission objectives.

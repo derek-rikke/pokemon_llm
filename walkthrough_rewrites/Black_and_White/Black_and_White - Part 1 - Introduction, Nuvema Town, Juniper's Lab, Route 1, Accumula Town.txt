@@ -1,0 +1,35 @@
+Game: Black_and_White
+Part: 1
+Keywords: Introduction, Nuvema Town, Juniper's Lab, Route 1, Accumula Town
+
+**Part 1: Nuvema Town to Accumula Town Walkthrough**
+
+1. **Starting Out**
+   - Select New Game and choose your character's gender.
+   - Professor Juniper introduces you to the Pokémon world and your rivals, Cheren and Bianca. Enter your name.
+
+2. **Nuvema Town**
+   - In your room, choose your first Pokémon from the gift box (Snivy, Tepig, or Oshawott). Each has strengths and weaknesses:
+     - **Snivy** (Grass): Weak to Fire, Bug, Poison, Flying, Ice.
+     - **Tepig** (Fire): Strong against Grass, Bug, Ice, Steel; weak to Water, Ground, Rock.
+     - **Oshawott** (Water): Strong against Fire, Rock, Ground; weak to Grass, Electric.
+   - After choosing, Bianca battles you. Winning or losing won't affect progression.
+
+3. **The Journey Begins**
+   - Your mom gives you the Xtransceiver for communication.
+   - Visit Professor Juniper's lab to receive a Pokédex and Town Map.
+
+4. **Route 1**
+   - Leave town with Bianca and Cheren. Professor Juniper teaches you how to catch Pokémon and gives you 5 Poké Balls.
+   - Wild Pokémon available: 
+     - **Patrat** (Lv. 2-4) 
+     - **Lillipup** (Lv. 2-4)
+   - Capture at least two Pokémon for Bianca’s challenge (not mandatory).
+
+5. **Accumula Town**
+   - Speak to Professor Juniper at the Pokémon Center to learn its services, including Poké Mart and GTS.
+   - Buy Potions and Poké Balls.
+   - Witness Team Plasma's speech led by Ghetsis about Pokémon liberation.
+   - Battle N (Lv. 7 Purrloin). Defeating him allows you to proceed to Route 2.
+
+Your adventure continues as you head west to Route 2!

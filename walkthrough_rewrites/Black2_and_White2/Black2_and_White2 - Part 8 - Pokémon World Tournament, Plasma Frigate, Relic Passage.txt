@@ -1,0 +1,45 @@
+Game: Black2_and_White2
+Part: 8
+Keywords: Pokémon World Tournament, Plasma Frigate, Relic Passage
+
+**Part 8: Pokémon World Tournament, Plasma Frigate, Relic Passage**
+
+### Pokémon World Tournament
+- **Location**: South of Driftveil City.
+- **Key NPCs**:
+  - **Hidden Power Guy**: Identifies the type of Hidden Power for your Pokémon.
+  - **Move Reminder**: Re-teaches forgotten moves for 1 Heart Scale.
+  - **Move Deleter**: Forgets any move, including HMs.
+  - **Ultimate Move Tutor**: Teaches ultimate moves to fully-evolved starters with high friendship.
+  - **Battle-Combo Move Tutor**: Teaches special moves to starter Pokémon families.
+  
+- **Driftveil Tournament**: Win by defeating Hugh, Cheren, and Colress. No items allowed during battles.
+
+### Plasma Frigate
+- After the tournament, follow Hugh and Cheren to the Plasma Frigate, Team Plasma's base. 
+- Defeat Team Plasma Grunts (Koffing, Trubbish, Golbat, etc.) with the help of Cheren and Hugh.
+- **Encounter Zinzolin**, who calls upon the Shadow Triad, leading to your exit from the ship.
+
+### Relic Passage
+- **Description**: Connects Pokémon World Tournament to Castelia Sewers and leads to Relic Castle.
+- **Dust Clouds**: Encounter wild Drilbur or Onix and collect colored shards.
+
+#### Trainers
+- **North Chamber**: Fight Backpackers and Hikers for rewards.
+- **Middle Chamber**: Battle Psychics and Backpackers.
+- **South Chamber**: Encounter Scientists and Backpackers.
+
+#### Items
+- **North Chamber**: Protein (near Backpacker Randall).
+- **Middle Chamber**: Big Pearl, Blue Shard, Max Repel (hidden), Green Shard, Red Shard.
+- **South Chamber**: Max Repel, Escape Ropes, Hard Stone.
+
+### Relic Castle
+- **Overview**: Contains five rooms and the Volcarona encounter room.
+- **Items**: Ultra Ball (eastern room), hidden Sun Stone (center room).
+- **Volcarona**: Defeating it allows for respawning upon re-entering the Hall of Fame.
+
+### Progression
+- After exploring the Relic Passage, head back to Driftveil City and proceed to Route 6.
+
+**Next Steps**: Fly to Driftveil City and continue to Route 6.

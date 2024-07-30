@@ -1,0 +1,1726 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_4
+Keywords: Pinwheel Forest, Skyarrow Bridge, Castelia City, Castelia Gym
+
+Walkthrough Text:
+Contents
+1
+Pinwheel Forest
+1.1
+Exterior
+1.2
+Interior
+2
+Skyarrow Bridge
+3
+Castelia City
+3.1
+Get an evolution stone
+3.2
+Register a rare Pokémon
+3.3
+Raise a Pokémon's happiness
+3.4
+Get items by trading
+3.5
+The Royal Unova
+3.6
+Studio Castelia
+3.7
+Casteliacone
+3.8
+Get a new TM
+3.9
+The Battle Company
+3.10
+Passerby Analytics HQ
+3.11
+Round up the three Dancers
+3.12
+Meet Cheren and Burgh at the Gym
+3.13
+Castelia Gym
+3.14
+A friendly battle
+Pinwheel Forest
+Pinwheel Forest
+Exterior
+West of
+Nacrene City
+is a short road that leads into
+Pinwheel Forest
+. If you have not already done so, speak to the girl just outside the city to get
+TM94
+(
+Rock Smash
+). South of the entrance is a puddled area with a handful of
+young
+Trainers
+. On the top of the cliff to the southeast sits a challenge rock. A
+Fighting-type
+in your party can hit the rock once a day, and each hit chips off a
+Star Piece
+that can be sold for a high price.
+Trainers
+Trainer
+Pokémon
+Nurse
+Shery
+Reward:
+$
+600
+Munna
+♀
+Lv.
+15
+No item
+Preschooler
+Juliet
+Reward:
+$
+52
+Cottonee
+♀
+Lv.
+13
+No item
+Petilil
+♀
+Lv.
+13
+No item
+Preschooler
+Homer
+Reward:
+$
+56
+Roggenrola
+♂
+Lv.
+14
+No item
+Youngster
+Keita
+Reward:
+$
+208
+Tympole
+♂
+Lv.
+13
+No item
+Tympole
+♂
+Lv.
+13
+No item
+Tympole
+♂
+Lv.
+13
+No item
+Youngster
+Zachary
+Reward:
+$
+224
+Venipede
+♂
+Lv.
+14
+No item
+Lillipup
+♂
+Lv.
+14
+No item
+Black Belt
+Kentaro
+Reward:
+$
+512
+Timburr
+♂
+Lv.
+16
+No item
+Battle Girl
+Lee
+Reward:
+$
+512
+Timburr
+♂
+Lv.
+16
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tympole
+B
+W
+Grass
+12-17
+40%
+Pidove
+B
+W
+Grass
+12-15
+30%
+Timburr
+B
+W
+Grass
+13-16
+20%
+Sawk
+B
+W
+Grass
+12-17
+10%
+Throh
+B
+W
+Grass
+12-15
+10%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+12-15
+95%
+Throh
+B
+W
+Rustling grass
+15
+5%
+Sawk
+B
+W
+Rustling grass
+15
+5%
+Dark Grass
+Tympole
+B
+W
+Dark grass
+14-17
+40%
+Pidove
+B
+W
+Dark grass
+14-15
+30%
+Timburr
+B
+W
+Dark grass
+14-17
+20%
+Sawk
+B
+W
+Dark grass
+14-17
+10%
+Throh
+B
+W
+Dark grass
+14-17
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM94
+(
+Rock Smash
+)
+From the girl near
+Nacrene City
+B
+W
+Ether
+×2
+Behind a fence near
+Nacrene City
+In some flowers near the Challenge Rock (hidden)
+B
+W
+Great Ball
+Near the old railway tracks
+B
+W
+Super Potion
+×2
+In the southwest grass patch
+In some flowers beside a fence near
+Nacrene City
+(hidden)
+B
+W
+Antidote
+×2
+Between the puddles
+In the large puddle to the south (hidden)
+B
+W
+Star Piece
+(one per day)
+Hit the challenge rock with a
+Fighting-type
+Pokémon
+B
+W
+Net Ball
+Near the ledge downstairs from the Challenge Rock
+B
+W
+TinyMushroom
+In small puddle in the southwest (hidden)
+B
+W
+Interior
+The forest itself is crawling with
+Grass
+- and
+Bug-types
+, so be wary of status problems. If you need to rest your team, you can speak with the
+Nurse
+outside rather than run back to
+Nacrene
+.
+Burgh
+will block the northern exit while you trek through the underbrush to chase down
+Team Plasma
+. The fourth and final
+Team Plasma Grunt
+will give up the
+Dragon Skull
+when you defeat him.
+Gorm
+, one of the team's
+Seven Sages
+, arrives and prepares to attack you, but is blocked by
+Burgh
+and
+Lenora
+. Faced with two
+Gym Leaders
+, the thugs flee the forest. Lenora takes back the Dragon Skull you retrieved and rewards you with a
+Moon Stone
+. Follow her to the east to find the road, and head north to reach the exit, or you can stay behind and try to catch some new Pokémon.
+Pidove
+and
+Pansear
+will be useful in your upcoming Gym Battle.
+Trainers
+Trainer
+Pokémon
+Twins
+Mayo & May
+Reward:
+$
+256
+Sewaddle
+♀
+Lv.
+16
+No item
+Sewaddle
+♀
+Lv.
+16
+No item
+School Kid
+Sammy
+Reward:
+$
+340
+Munna
+♂
+Lv.
+17
+No item
+Lass
+Eva
+Reward:
+$
+240
+Woobat
+♀
+Lv.
+15
+No item
+Woobat
+♀
+Lv.
+15
+No item
+Woobat
+♀
+Lv.
+15
+No item
+School Kid
+Millie
+Reward:
+$
+320
+Pidove
+♀
+Lv.
+16
+No item
+Purrloin
+♀
+Lv.
+16
+No item
+Team Plasma Grunt
+Reward:
+$
+640
+Sandile
+♂
+Lv.
+16
+No item
+Team Plasma Grunt
+Reward:
+$
+640
+Purrloin
+♀
+Lv.
+16
+No item
+Pokémon Ranger
+Forrest
+Reward:
+$
+1080
+Herdier
+♂
+Lv.
+18
+No item
+Youngster
+Nicholas
+Reward:
+$
+256
+Venipede
+♂
+Lv.
+16
+No item
+Timburr
+♂
+Lv.
+16
+No item
+Pokémon Ranger
+Audra
+Reward:
+$
+1080
+Pansage
+♂
+Lv.
+18
+No item
+Pokémon Ranger
+Irene
+Reward:
+$
+1080
+Panpour
+♂
+Lv.
+18
+No item
+Team Plasma Grunt
+Reward:
+$
+640
+Patrat
+♂
+Lv.
+16
+No item
+Pokémon Ranger
+Miguel
+Reward:
+$
+1080
+Pansear
+♂
+Lv.
+18
+No item
+Team Plasma Grunt
+Reward:
+$
+560
+Patrat
+♂
+Lv.
+14
+No item
+Patrat
+♂
+Lv.
+14
+No item
+Sandile
+♂
+Lv.
+14
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sewaddle
+B
+W
+Grass
+14-17
+40%
+Cottonee
+B
+W
+Grass
+14-15
+30%
+Petilil
+B
+W
+Grass
+14-17
+30%
+Venipede
+B
+W
+Grass
+15-16
+20%
+Pidove
+B
+W
+Grass
+15-16
+10%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+14-17
+65%
+Pansage
+B
+W
+Rustling grass
+15
+10%
+Pansear
+B
+W
+Rustling grass
+15
+10%
+Panpour
+B
+W
+Rustling grass
+15
+10%
+Whimsicott
+B
+W
+Rustling grass
+15-17
+5%
+Lilligant
+B
+W
+Rustling grass
+15-17
+5%
+Dark Grass
+Swadloon
+B
+W
+Dark grass
+22-25
+40%
+Cottonee
+B
+W
+Dark grass
+22-24
+40%
+Petilil
+B
+W
+Dark grass
+22-25
+40%
+Tranquill
+B
+W
+Dark grass
+23-24
+10%
+Whirlipede
+B
+W
+Dark grass
+23-24
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Root
+Southwest of the second
+Plasma
+grunt
+B
+W
+Super Potion
+West of
+Pokémon Ranger
+Forrest
+B
+W
+TinyMushroom
+×2
+Southwest of
+Pokémon Ranger
+Forrest (hidden)
+In a tree stump south of
+Pokémon Ranger
+Irene (hidden)
+B
+W
+Chesto Berry
+×2
+From
+Pokémon Rangers
+Forrest and Audra after defeating them
+B
+W
+Antidote
+In a tree stump near
+Pokémon Ranger
+Audra
+B
+W
+Pecha Berry
+×2
+From
+Pokémon Rangers
+Irene and Miguel after defeating them
+B
+W
+Parlyz Heal
+In a tree stump west of
+Pokémon Ranger
+Miguel
+B
+W
+TM86
+(
+Grass Knot
+)
+East of
+Pokémon Ranger
+Miguel, near the small pond
+B
+W
+Dragon Skull
+From the fourth
+Plasma grunt
+after beating him
+B
+W
+Moon Stone
+From
+Lenora
+for retrieving the Dragon Skull
+B
+W
+Miracle Seed
+On a ledge near the northern exit
+B
+W
+Skyarrow Bridge
+The east end of Skyarrow Bridge
+The
+Skyarrow Bridge
+is the largest bridge in
+Unova
+, and connects
+Pinwheel Forest
+to
+Castelia City
+. Pedestrians travel across the elevated walkway, while trucks rumble by on the lower level. As you near the city, Castelia's skyscrapers appear in an impressive cityscape.
+Item
+Location
+Games
+Quick Claw
+From the
+Hiker
+inside the bridge's eastern
+gate
+B
+W
+Castelia City
+Castelia City
+Skyscrapers tall enough to pierce the clouds are clustered in
+Castelia City
+, and its crowded streets bustle with the comings and goings of many people. The elegant cruise ship, the
+Royal Unova
+, is moored near the Poké Center.
+Items
+Item
+Location
+Games
+From the scientist on the eastern pier
+Leaf Stone
+Choose
+Pansage
+B
+W
+Fire Stone
+Choose
+Pansear
+B
+W
+Water Stone
+Choose
+Panpour
+B
+W
+In the Battle Company building
+Quick Ball
+×3
+From a Clerk ♂ on 47F
+B
+W
+Timer Ball
+×3
+From a Clerk ♂ on 47F
+B
+W
+Revive
+Southwest corner of 47F
+B
+W
+Scope Lens
+From a Scientist in the southeast corner of 47F
+B
+W
+Hyper Potion
+In the center of 55F
+B
+W
+Exp. Share
+From disguised President Geoff on 55F after beating him
+B
+W
+Other items
+Lemonade
+From the bartender in Café Sonata
+B
+W
+Smoke Ball
+In the building across from the Gym after rescuing Munna
+B
+W
+TM44
+(
+Rest
+)
+From the
+Hiker
+on 11F of the building
+across the street from the
+Game Freak
+office
+B
+W
+TM45
+(
+Attract
+)
+From a girl at the party across the street from the Name Rater
+B
+W
+TM70
+(
+Flash
+)
+From the man in sunglasses on Narrow Street
+B
+W
+Yache Berry
+From Iris for saving
+Bianca
+'s
+Munna
+B
+W
+Soda Pop
+Reward for completing all questionnaires in Passerby Analytics HQ
+B
+W
+Eviolite
+From a scientist across the street from the Name Rater if you have seen at least 25 Pokemon
+B
+W
+Amulet Coin
+From
+Dancer
+Mickey for forming his dance group
+B
+W
+In the Gym
+Fresh Water
+From
+Clyde
+B
+W
+TM76
+(
+Struggle Bug
+)
+From Burgh for defeating him
+B
+W
+Get an evolution stone
+Pass through the
+gate
+and walk out onto the pier nearby. The scientist here will tell you that the
+elemental monkey
+you received in the
+Dreamyard
+evolves when exposed to the appropriate stone. He will give you one of three stones depending on the species, either a
+Leaf Stone
+,
+Fire Stone
+, or
+Water Stone
+. It's advisable not to choose the Fire Stone even if your
+elemental monkey
+is
+Pansear
+, because the stones are useful for evolving other Pokémon as well, and another Fire Stone can be found in the Desert Resort later on. Instead, choose one of the other two, which are harder to locate.
+Register a rare Pokémon
+In the lobby of the
+Game Freak
+building on Castelia Street, a girl is reading a picture book to a small boy. "
+Zorua
+, who was left alone, wandered around looking for
+its mother
+..." Listening to the story will register Zorua in your Pokédex.
+Raise a Pokémon's happiness
+In the building across the street from
+Game Freak
+'s office, a woman will offer to give one of your Pokémon a massage, which will make it more
+friendly
+towards you. Massages are available once a day.
+Get items by trading
+The man in the black suit on the second floor of the Poké Center will give you an item depending on how many different people you've traded with.
+Item
+Location
+Games
+Wide Lens
+Trade with 5 or more people
+B
+W
+Everstone
+Trade with 10 or more people
+B
+W
+Zoom Lens
+Trade with 20 or more people
+B
+W
+Choice Scarf
+Trade with 30 or more people
+B
+W
+PP Max
+Trade with 40 or more people
+B
+W
+Master Ball
+Trade with 50 or more people
+B
+W
+The Royal Unova
+The cruise ship, the
+Royal Unova
+, is moored at the pier across from the Poké Center. After completing the main story, you can battle a handful of Trainers onboard every day to earn a prize.
+Studio Castelia
+In the studio on Mode Street is a
+Harlequin
+that will ask to see a certain type of Pokémon every day. If you show him a Pokémon that is at least partially the correct type, he will give one
+Berry
+of your choice;
+Cheri Berry
+,
+Chesto Berry
+,
+Pecha Berry
+,
+Rawst Berry
+, or
+Aspear Berry
+.
+Casteliacone
+It's not easy to buy
+Castelia
+'s specialty soft-serve ice cream, even if you can afford the
+$
+100 price tag. The ice cream stand on Mode Street is sold out every day but Tuesday, and is closed during the winter. A
+Casteliacone
+can heal all of a Pokémon's status problems.
+Get a new TM
+There isn't much happening on Narrow Street. As you pass by the blue dumpsters, a man in sunglasses jumps out from behind them and gives you
+TM70
+(
+Flash
+). Teaching it to a Pokémon will help illuminate
+Unova
+'s dark caves.
+The Battle Company
+The Battle Company on Mode Street is full of Trainers. The opponents get tougher as you reach the top of the tower, and if you beat
+Janitor
+Geoff on the 55
+th
+floor, he'll reward you with an
+Exp. Share
+!
+Trainers
+Trainer
+Pokémon
+47F
+Clerk ♀
+Ingrid
+Reward:
+$
+760
+Herdier
+♀
+Lv.
+19
+No item
+Clerk ♂
+Clemens
+Reward:
+$
+760
+Timburr
+♂
+Lv.
+19
+No item
+Scientist
+Randall
+Reward:
+$
+912
+Roggenrola
+♂
+Lv.
+19
+No item
+Clerk ♀
+Alberta
+Reward:
+$
+720
+Petilil
+♀
+Lv.
+18
+No item
+Cottonee
+♀
+Lv.
+18
+No item
+Clerk ♂
+Warren
+Reward:
+$
+680
+Basculin
+♂
+Red-Striped Form
+Lv.
+17
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+17
+No item
+Basculin
+♂
+Red-Striped Form
+Lv.
+17
+No item
+55F
+Clerk ♂
+Ivan
+Reward:
+$
+800
+Woobat
+♂
+Lv.
+20
+No item
+Scientist
+Samantha
+Reward:
+$
+960
+Munna
+♀
+Lv.
+20
+No item
+Scientist
+Steve
+Reward:
+$
+960
+Sewaddle
+♂
+Lv.
+20
+No item
+Clerk ♂
+Wade
+Reward:
+$
+1520
+Pansear
+♂
+Lv.
+19
+No item
+Pansage
+♂
+Lv.
+19
+No item
+Panpour
+♂
+Lv.
+19
+No item
+Janitor
+Geoff
+Reward:
+$
+4000
+Trubbish
+♂
+Lv.
+20
+No item
+Minccino
+♀
+Lv.
+20
+No item
+Passerby Analytics HQ
+When you enter the Passerby Analytics HQ across and talk to the lead researcher, he will appoint you as a statistician. This title lets you receive Passerby Survey requests, and interact with other players. Complete the blonde girl's questionnaires to get a
+Soda Pop
+.
+Round up the three Dancers
+Dancer
+Mickey is near the city fountain. He tells you that he wants to form a dance team, and asks you to convince the two other dancers; Edmond on Narrow Street, and Raymond on Unity Pier. Defeat each one to gather them at the fountain, and Mickey will give you an
+Amulet Coin
+.
+Meet Cheren and Burgh at the Gym
+When you try to enter the Gym on the westernmost street,
+Cheren
+emerges, having just earned his next Badge.
+Burgh
+is right behind him, and asks you to follow him to Prime Pier. It seems that
+Team Plasma
+has shown up again.
+When you reach the pier, you meet up with
+Burgh
+,
+Bianca
+, and a girl named
+Iris
+. It appears that Bianca's
+Munna
+was stolen by
+Team Plasma
+. One of the thugs returns while the group is talking, and runs as soon as she sees Burgh, who chases after her. Follow him to the building across the street from the Gym, and help Burgh take out the trio outside.
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+680
+Sandile
+♂
+Lv.
+17
+No item
+Sandile
+♂
+Lv.
+17
+No item
+Enter the building to find
+Ghetsis
+,
+Bronius
+, and
+Gorm
+.
+Ghetsis
+tells a legend about the founding of the
+Unova
+region, revealing a bit more about his plans. Ghetsis lectures Burgh at first, but backs down and returns Bianca's
+Munna
+. The Plasma group flees,leaving behind a
+Smoke Ball
+, and
+Iris
+gives you a
+Yache Berry
+for helping Bianca. Grab the Smoke Ball off the floor, and get ready to challenge the third Gym.
+Castelia Gym
+Castelia Gym
+Castelia City Pokémon Gym
+Leader: Burgh
+"Premier Insect Artist"
+The
+Castelia Gym
+specializes with
+Bug-type
+Pokémon, and the building itself is designed like a giant beehive. In order to reach
+Burgh
+, you need to disengage the six gates by stepping on certain switches. Each gate will drop when both its posts are lit up. Two of the four
+Harlequins
+in the Gym are hiding under the floor, so they spring up when you try to step on their switches.
+Burgh
+'s
+Whirlipede
+and
+Leavanny
+are weak to
+Fire
+- and
+Flying-type
+attacks, while his
+Dwebble
+is vulnerable to
+Water
+- and
+Rock-type
+moves. If you can't exploit these weaknesses, an alternative tactic is to use
+TM70
+(
+Flash
+) to lower his Pokémon's accuracy. But, his Pokémon know some weak moves. Useful Pokémon are
+Roggenrola
+with
+Rock Blast
+or a
+Tympole
+with
+Mud Shot
+, because they can both deal with Burgh's Whirlipede and Dwebble pretty easily. Leavanny can be taken out by using
+Timburr
+'s
+Rock Throw
+, as it will resist Leavanny's
+Struggle Bug
+. If you started with
+Tepig
+or obtained a
+Pansear
+, Leavanny can be easily dealt with, and
+Pidove
+can be extremely useful.
+Castelia Gym
+Trainers
+Trainer
+Pokémon
+Harlequin
+Jack
+Reward:
+$
+640
+Sewaddle
+♂
+Lv.
+20
+No item
+Venipede
+♂
+Lv.
+20
+No item
+Harlequin
+Kerry
+Reward:
+$
+640
+Sewaddle
+♂
+Lv.
+20
+No item
+Dwebble
+♂
+Lv.
+20
+No item
+Harlequin
+Rick
+Reward:
+$
+672
+Sewaddle
+♂
+Lv.
+21
+No item
+Harlequin
+Louis
+Reward:
+$
+640
+Venipede
+♂
+Lv.
+20
+No item
+Sewaddle
+♂
+Lv.
+20
+No item
+Leader
+Burgh
+Castelia Gym
+Black and White
+Reward:
+$
+2760
+Types:
+Bug
+Poison
+Ability:
+Swarm
+Held item:
+None
+Whirlipede
+♂
+Lv.
+21
+Poison Tail
+Poison
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+Screech
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Types:
+Bug
+Rock
+Ability:
+Shell Armor
+Held item:
+None
+Dwebble
+♂
+Lv.
+21
+Smack Down
+Rock
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+Sand-Attack
+Ground
+Status
+--
+Faint Attack
+Dark
+Physical
+--
+Types:
+Bug
+Grass
+Ability:
+Swarm
+Held item:
+None
+Leavanny
+♂
+Lv.
+23
+Razor Leaf
+Grass
+Physical
+--
+Protect
+Normal
+Status
+--
+String Shot
+Bug
+Status
+--
+Struggle Bug
+Bug
+Special
+--
+Burgh
+rewards your victory with the
+Insect Badge
+, which ensures that all Pokémon up to level 40 will obey you. He also gives you
+TM76
+(
+Struggle Bug
+).
+A friendly battle
+After you defeat the
+Castelia Gym
+,
+Bianca
+calls on the
+Xtransceiver
+to challenge you to another battle. Go north to reach the fountain, and continue on to the gate.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Bianca
+Castelia Gate
+Black and White
+Reward:
+$
+2000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+18
+Odor Sleuth
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansear
+♂
+Lv.
+18
+Lick
+Ghost
+Physical
+--
+Incinerate
+Fire
+Special
+--
+Fury Swipes
+Normal
+Physical
+--
+Yawn
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Dewott
+♂
+Lv.
+20
+Water Sport
+Water
+Status
+--
+Focus Energy
+Normal
+Status
+--
+Razor Shell
+Water
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Munna
+♀
+Lv.
+18
+Yawn
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Imprison
+Psychic
+Status
+--
+Moonlight
+Normal
+Status
+--
+Pokémon Trainer
+Bianca
+Castelia Gate
+Black and White
+Reward:
+$
+2000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+18
+Odor Sleuth
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Panpour
+♂
+Lv.
+18
+Lick
+Ghost
+Physical
+--
+Water Gun
+Water
+Special
+--
+Fury Swipes
+Normal
+Physical
+--
+Water Sport
+Water
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Servine
+♂
+Lv.
+20
+Wrap
+Normal
+Physical
+--
+Growth
+Normal
+Status
+--
+Leaf Tornado
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Munna
+♀
+Lv.
+18
+Yawn
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Imprison
+Psychic
+Status
+--
+Moonlight
+Normal
+Status
+--
+Pokémon Trainer
+Bianca
+Castelia Gate
+Black and White
+Reward:
+$
+2000
+Type:
+Normal
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Herdier
+♀
+Lv.
+18
+Odor Sleuth
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansage
+♂
+Lv.
+18
+Lick
+Ghost
+Physical
+--
+Vine Whip
+Grass
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Pignite
+♂
+Lv.
+20
+Defense Curl
+Normal
+Status
+--
+Flame Charge
+Fire
+Physical
+--
+Arm Thrust
+Fighting
+Physical
+--
+Smog
+Poison
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Forewarn
+Held item:
+None
+Munna
+♀
+Lv.
+18
+Yawn
+Normal
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Imprison
+Psychic
+Status
+--
+Moonlight
+Normal
+Status
+--
+Rest up if necessary, and continue north to reach
+Route 4
+.
+← Part 3
+Route 3, Pokémon Daycare, Wellspring Cave, Nacrene City, Nacrene Gym
+Black and White
+walkthrough
+Route 4, Desert Resort, Relic Castle, Nimbasa City, Nimbasa Gym
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

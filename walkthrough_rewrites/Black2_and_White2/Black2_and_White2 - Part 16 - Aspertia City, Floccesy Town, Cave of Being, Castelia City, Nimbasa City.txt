@@ -1,0 +1,45 @@
+Game: Black2_and_White2
+Part: 16
+Keywords: Aspertia City, Floccesy Town, Cave of Being, Castelia City, Nimbasa City
+
+**Part 16 Walkthrough Summary**
+
+**Aspertia City**
+- After defeating the Pokémon League, you return to Aspertia City. 
+- Professor Cedric Juniper upgrades your Pokédex to National Dex mode.
+- Receive 2 Max Revives from your mom.
+- Meet Hugh, who thanks you for helping his sister.
+
+**Floccesy Town**
+- **New Wallpapers**: Get a new wallpaper from Amanita at the Pokémon Center.
+- **Alder's Challenge**: Battle Alder at his house (Lv. 60 Pokémon, total reward: $12,400). Use Fire moves against his Bug-types, Fighting against Bouffalant, Electric/Ice against Braviary, and Rock moves against Volcarona.
+
+**Route 20**
+- **Cave of Being**: Access by climbing the waterfall. Meet Professor Juniper and encounter Uxie, Mesprit, and Azelf (all Lv. 65, Psychic types).
+  - To find them: 
+    - Mesprit: Celestial Tower rooftop.
+    - Azelf: Route 23 forest.
+    - Uxie: Nacrene City outside the museum.
+
+**Castelia City**
+- **Game Freak**: Battle Morimoto and Nishino on the 22nd floor for daily rewards.
+- **Amanita's Gift**: Receive an Eevee with a Hidden Ability from Amanita on the 3rd floor of the building across from the Gym.
+  
+| Eeveelution | Hidden Ability |
+|-------------|----------------|
+| Vaporeon    | Hydration      |
+| Espeon      | Magic Bounce   |
+| Leafeon     | Chlorophyll    |
+| Jolteon     | Quick Feet     |
+| Umbreon     | Inner Focus    |
+| Glaceon     | Ice Body       |
+| Flareon     | Guts           |
+
+- **The Royal Unova**: Stronger trainers available; expect tougher battles for rewards.
+
+**Nimbasa City**
+- **Battle Institute**: Take the Battle Test against five trainers for ranks.
+- **Big Stadium/Small Court**: Higher-level trainers available daily.
+- **Battle Subway**: Visit the Judge at Gear Station to evaluate Pokémon potential.
+
+This concludes Part 16. Continue your journey in Part 17!

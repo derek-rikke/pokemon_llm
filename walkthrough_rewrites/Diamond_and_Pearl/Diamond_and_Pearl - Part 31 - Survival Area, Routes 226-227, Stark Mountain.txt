@@ -1,0 +1,68 @@
+Game: Diamond_and_Pearl
+Part: 31
+Keywords: Survival Area, Routes 226-227, Stark Mountain
+
+**Part 31: Survival Area, Routes 226-227, Stark Mountain**
+
+**Survival Area**
+- Heal at the Pokémon Center.
+- Items: 
+  - Max Revive (West of northernmost house, requires Rock Climb)
+  - TM42 (Facade) (Southernmost house)
+- Prepare for challenging routes ahead. 
+- Stock up on healing items (about 30 each, avoid Super Potions) and have Pokémon with HMs: Surf, Strength, Rock Smash, Rock Climb.
+- Equip leading Pokémon with Amulet Coin or Luck Incense for increased rewards.
+
+**Route 226**
+- Items:
+  - Qualot Berry ×2, Pomeg Berry ×2 (North of Ace Trainer Graham, requires Rock Climb)
+  - Carbos (Far left area, Rock Climb downwards twice)
+  - Lagging Tail (Ledge reached by Rock Climb)
+  - TM53 (Energy Ball) (Ledge west of Meister's House)
+- Trainers:
+  - Ace Trainer Graham: Skarmory (Lv. 56)
+  - Bird Keeper Geneva: Xatu (Lv. 57)
+  - Dragon Tamer Stanley: Gyarados (Lv. 56)
+- Navigate east to reach Route 227.
+
+**Route 227**
+- Items:
+  - Full Heal (Between two ponds)
+  - Charcoal (East of right pond)
+  - Zinc (West of Ace Trainer Mikayla)
+  - Protein (Northwest corner, accessible via Rock Climb)
+- Trainers:
+  - Ace Trainer Saul: Tauros (Lv. 55)
+  - Pokémon Ranger Felicia: Lickitung, Vigoroth (Lv. 57)
+- Continue north toward Stark Mountain.
+
+**Stark Mountain**
+- Items (Outside):
+  - Ether (Northeast corner of grass patch)
+  - Life Orb (Southwest corner, requires Rock Climb)
+- Trainers: 
+  - Dragon Tamer Darien: Gyarados (Lv. 60)
+- Enter Stark Mountain.
+
+**Entrance**
+- Items:
+  - Burn Heal (Northwest corner)
+  - Escape Rope (Southwest corner)
+  - PP Up (Southeast corner)
+  - Full Restore, Max Elixir (East of entrance)
+- Available Pokémon: 
+  - Golbat, Machoke, Geodude, Graveler, Weezing, Slugma, Magcargo.
+- Navigate using Strength to push boulders. 
+
+**Main Cavern**
+- Trainers:
+  - Multiple Ace Trainers and Pokémon types including Aerodactyl (Lv. 59) and Kangaskhan (Lv. 57).
+- Follow Buck, who heals your Pokémon after every battle. 
+- Navigate east, smash rocks, and use stairs to progress through the cavern.
+
+**Back Room**
+- Follow Buck to obtain the Magma Stone, triggering an earthquake. 
+- Exit via Escape Rope or Dig after completing this section.
+- Return to the Survival Area to find Buck.
+
+**Next Steps**: Prepare for catching Heatran and explore Route 228.

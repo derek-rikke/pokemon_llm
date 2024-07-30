@@ -1,0 +1,525 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_1
+Keywords: Introduction, Nuvema Town, Juniper's Lab, Route 1, Accumula Town
+
+Walkthrough Text:
+Contents
+1
+Starting Out
+2
+Nuvema Town
+2.1
+The Journey Begins
+3
+Route 1
+3.1
+Wild Pokémon
+4
+Accumula Town
+Starting Out
+(Japanese screenshot) Professor Juniper and her Minccino customarily introduce you to the world of Pokémon
+After selecting
+New Game
+you are asked to choose your character's gender. This cannot be changed after selecting. The resident researcher of the
+Unova
+region,
+Professor Juniper
+, appears and introduces new Trainers to the Pokémon world. Her lecture is important for new players, though it's nothing new to veterans of the series. She also introduces the player's best friends, who are also their rivals,
+Cheren
+and
+Bianca
+. Once she is done talking, you are asked to enter your character's name. Your name cannot be changed, so double-check that you have typed it correctly. Press
+OK
+and you are ready for your adventure!
+Nuvema Town
+Nuvema Town
+You find yourself with the cool-headed
+Cheren
+in your bedroom, waiting for
+Bianca
+to show up.
+Juniper
+believes that the three of you have potential as Pokémon trainers, and has delivered a purple gift box containing three rare
+first partner Pokémon
+to begin each of your journeys. The two Pokémon you don't pick cannot be legitimately obtained without trading, so choose carefully. An excited Bianca arrives shortly, and the two urge you to take first pick of the Pokémon, as the box was delivered to your house.
+Female player standing in their room
+Snivy
+Tepig
+Oshawott
+Grass
+Fire
+Water
+Servine
+Pignite
+Dewott
+Grass
+Fire
+Fighting
+Water
+Serperior
+Emboar
+Samurott
+Grass
+Fire
+Fighting
+Water
+The
+Grass-type
+Snivy
+has the most weaknesses out of the three first partners, with five-
+Fire
+-,
+Bug
+-,
+Poison
+-,
+Flying
+-, and
+Ice-types
+(although it and its evolutions make up for this with their superior
+Defense
+and
+Sp. Def
+). Its Grass attacks are strong against
+Rock
+-,
+Ground
+-, and
+Water-types
+.
+The
+Fire-type
+Tepig
+is great when battling
+Grass
+-,
+Bug
+-.
+Ice
+- and
+Steel-types
+, but has trouble when facing
+Water
+-,
+Ground
+-, and
+Rock-types
+. Tepig is unique amongst the Unova first partners due to it gaining a secondary type as it grows, while Snivy and Oshawott do not. The type,
+Fighting
+, adds two weaknesses in
+Psychic
+and
+Flying
+, but eliminates the Rock-type weakness. With their ability to learn Fighting moves (albeit
+only
+two
+naturally) as well as Fire attacks, Tepig's evolutions have the most type advantages of the first partner evolutions, with the added edge against
+Normal
+-
+Dark
+- and
+Rock-type
+Pokémon.
+The
+Water-type
+Oshawott
+'s Water attacks have an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-types
+, but may struggle with
+Grass
+- and
+Electric-types
+. With only two disadvantages even in its final form, Oshawott is arguably the safest choice of the three first partners.
+After you choose your first Pokémon,
+Bianca
+takes the one with a type disadvantage to yours, leaving the last with a type advantage to yours for
+Cheren
+. Bianca then suggests a battle.
+Cheren
+opts out, so she decides to battle you. When the battle is over, Cheren heals both Pokémon, regardless of the outcome. Bianca apologizes for the Pokémon destroying your room, then persuades Cheren to battle you.
+Unlike the rest of the Trainers in the game, losing to either Bianca or Cheren will not result in a
+black out
+; the story will progress as usual regardless of the outcome of each battle.
+Player's room after their first battle
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Bianca
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Oshawott
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Bianca
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Snivy
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Bianca
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Tepig
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Cheren
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Tepig
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Cheren
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Oshawott
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Cheren
+Nuvema Town
+Black and White
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Snivy
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+The Journey Begins
+Your friends will then leave the room to apologize to your Mom for the mess. Your Mom then asks not to worry and should continue on your journey. Seeing that you are about to set out on a long adventure, she gives you a gift — the
+Xtransceiver
+! This gadget allows video calls with up to four people at once, a handy way for Mom and
+Professor Juniper
+to contact you and your friends.
+The three of you decide to stop by the Juniper Lab to thank the professor for her gift.
+Bianca
+rushes off to tell her family of her impending adventure, and
+Cheren
+leaves for the lab. He waits outside for the two of you, but you'll need to stop by Bianca's house to pick her up. When you step inside, her dad is angry, and dead-set against her leaving. He cools off a little and she leaves for the lab.
+When you all arrive,
+Juniper
+asks if you three would mind helping with her studies, researching the origins of Pokémon. She hands each of you a
+Pokédex
+, and gives you a chance to name your new Pokémon before sending you on your way. Mom is waiting outside the lab, and hands each of you a
+Town Map
+to start off your journey.
+Route 1
+Route 1
+As you leave your hometown behind, you find
+Bianca
+and
+Cheren
+waiting for you. At Bianca's request, the three of you all take your first step onto
+Route 1
+together.
+Professor Juniper
+is waiting here, and demonstrates how to catch a wild
+Patrat
+with her
+Minccino
+. After the tutorial, she gives you 5
+Poké Balls
+to start you off, and heads north to
+Accumula Town
+. Bianca then suggests a Pokémon hunt; whoever has the most in their party before reaching Accumula Town wins. As you walk north, Juniper calls the three of you on the
+Xtransceiver
+asking to meet her at the nearest Pokémon Center. To win the challenge, you must catch two (three including the Pokémon you received at the start) Pokémon, but it's not necessary to continue and you don't receive any reward for winning.
+Wild Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Patrat
+B
+W
+Grass
+2-4
+50%
+Lillipup
+B
+W
+Grass
+2-4
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 1
+has two Normal-types, Patrat and Lillipup. Strengthwise, the Lillipup line is stronger than Patrat's; however, to win, it's advisable to capture both of them.
+Item
+Location
+Games
+Poké Ball
+×5
+From
+Professor Juniper
+B
+W
+Potion
+From the girl in the grass patch
+B
+W
+Accumula Town
+Accumula Town
+Item
+Location
+Games
+Poké Ball
+From a man in the northwest building
+B
+W
+As you enter
+Accumula Town
+, you find the professor waiting in front of the
+Pokémon Center
+. Speak to her to learn about all of the services available inside. Unlike past games, these now include the
+Poké Mart
+and
+GTS
+. Before she leaves, the professor asks you to visit
+Fennel
+, a friend of hers in the next city. Heal up your team and be sure to buy a few
+Potions
+and
+Poké Balls
+for the road ahead.
+Outside,
+Cheren
+directs your attention to a crowd of people gathered in the plaza. The soundtrack changes to some creepy music, and you see a line of people dressed in what looks like medieval armor standing behind the speaker, who introduces himself as
+Ghetsis
+. He gives a radical speech on behalf of
+Team Plasma
+that advocates the liberation of Pokémon from people. The speech ends, and the group leaves. As you and Cheren discuss the event, a teenage boy with green hair approaches you, claiming that he can hear your Pokémon "speaking." He introduces himself as
+N
+, and demands a battle, which you must win in order to proceed.
+Pokémon Trainer
+N
+Accumula Town
+Black and White
+Reward:
+$
+700
+Type:
+Dark
+Unknown
+Ability:
+Unburden
+Held item:
+None
+Purrloin
+♂
+Lv.
+7
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+When he is defeated, he will leave, still muttering about the liberation idea.
+Head west to
+Route 2
+. Your adventure is just beginning!
+Black and White
+walkthrough
+Route 2, Striaton City, The Dreamyard, Striaton Gym
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

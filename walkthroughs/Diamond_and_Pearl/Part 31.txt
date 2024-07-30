@@ -1,0 +1,1364 @@
+Part: Part 31
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_31
+Keywords: Survival Area, Routes 226-227, Stark Mountain
+
+Walkthrough Text:
+Contents
+1
+Survival Area
+2
+Before proceeding......
+3
+Route 226
+4
+Route 227
+5
+Stark Mountain
+5.1
+Outside
+5.2
+Entrance
+5.3
+Main Cavern
+5.4
+Back Room
+Survival Area
+The Survival Area.
+There isn't much here. Heal up at the Pokémon Center and check your supply of medicines before continuing east to
+Route 226
+.
+Items
+Item
+Location
+Games
+Max Revive
+West of the northernmost house (requires
+Rock Climb
+)
+(hidden)
+D
+P
+TM42
+(
+Facade
+)
+From a man in the southernmost house
+D
+P
+Before proceeding......
+Check the list in this section to make sure you're fully prepared. Another long journey is up ahead— You'll have to go through two somewhat long routes, as well as a massive volcano. There will be many Trainers for you to fight. A Trainer will team up with you in the same way as
+Cheryl
+,
+Mira
+,
+Riley
+and
+Marley
+, but you'd better not let your guard down because most of the wild Pokémon are at a high level, and there are a lot of Trainers.
+Make sure that you have done the following things before going on:
+Buy about 30 bottles for each kind of healing items (except Super Potion).
+To save money, you might want to stock up on
+Drinks
+(Fresh Water, Soda Pop, Lemonade and Moomoo Milk) instead of Super Potions.
+Have your leading Pokémon
+hold the
+Amulet Coin
+or
+Luck Incense
+to gain double prize after Trainer battles, especially if you're running out of money.
+Be aware that you'll face a legendary Pokémon quite soon. You will need the money to purchase a certain kind of Poke Balls.
+Bring Pokémon with the following HMs:
+Surf
+Strength
+Rock Smash
+Rock Climb
+Heal your Pokémon
+before proceeding.
+Route 226
+Route 226.
+Items
+Item
+Location
+Games
+Qualot Berry
+×2
+North of Ace Trainer Graham (requires
+Rock Climb
+)
+D
+P
+Pomeg Berry
+×2
+North of Ace Trainer Graham (requires
+Rock Climb
+)
+D
+P
+Carbos
+To the far left of the area reached by
+Rock Climbing
+downwards twice
+D
+P
+Lagging Tail
+On the ledge reached by using Rock Climb to move upwards twice from the location of the Carbos
+D
+P
+TM53
+(
+Energy Ball
+)
+On the ledge west of Meister's House that is only accessible by Rock Climbing down to it
+D
+P
+TinyMushroom
+×2
+Both in the grass above the Rock Climb point near the female Swimmer
+(hidden)
+D
+P
+Big Mushroom
+In the grass above the Rock Climb point near the female Swimmer
+(hidden)
+D
+P
+Big Pearl
+On the isolated beach southwest of Swimmer Lydia
+(hidden)
+D
+P
+PP Up
+In a gap in the trees behind the Meister's house
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Graham
+マナブ
+Manabu
+Reward:
+$
+3360
+Skarmory
+♂
+Lv.
+56
+No item
+Bird Keeper
+Geneva
+チサコ
+Chisako
+Reward:
+$
+1824
+Golbat
+♀
+Lv.
+53
+No item
+Xatu
+♀
+Lv.
+57
+No item
+Dragon Tamer
+Stanley
+ケイスケ
+Keisuke
+Reward:
+$
+1792
+Seadra
+♂
+Lv.
+56
+No item
+Gyarados
+♂
+Lv.
+56
+No item
+Swimmer
+Lydia
+ミキ
+Miki
+Reward:
+$
+832
+Bibarel
+♀
+Lv.
+52
+No item
+Azumarill
+♀
+Lv.
+52
+No item
+Sealeo
+♀
+Lv.
+52
+No item
+Swimmer
+Wade
+セイイチ
+Seiichi
+Reward:
+$
+864
+Carvanha
+♂
+Lv.
+51
+No item
+Carvanha
+♂
+Lv.
+51
+No item
+Sharpedo
+♂
+Lv.
+54
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+D
+P
+Pt
+Grass
+20-22
+5%
+Raticate
+D
+P
+Pt
+Grass
+51-52
+30%
+Spearow
+D
+P
+Pt
+Grass
+20-22
+5%
+Fearow
+D
+P
+Pt
+Grass
+51-53
+40%
+40%
+20%
+Golduck
+D
+P
+Pt
+Grass
+51-53
+10%
+Machoke
+D
+P
+Pt
+Grass
+53
+10%
+Banette
+D
+P
+Pt
+Grass
+50-52
+0%
+0%
+20%
+Surfing and Fishing
+Tentacruel
+D
+P
+Pt
+Surfing
+40-55
+5%
+Seel
+D
+P
+Pt
+Surfing
+35-45
+30%
+Dewgong
+D
+P
+Pt
+Surfing
+40-55
+5%
+Pelipper
+D
+P
+Pt
+Surfing
+40-55
+60%
+Spheal
+D
+P
+Pt
+Surfing
+35-45
+30%
+Sealeo
+D
+P
+Pt
+Surfing
+40-55
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Horsea
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-50
+60%
+Seadra
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Relicanth
+D
+P
+Pt
+Fishing
+Super Rod
+40-50
+5%
+Special Pokémon
+Krabby
+D
+P
+Pt
+Swarm
+52
+40%
+Mankey
+D
+P
+Pt
+Poké Radar
+22
+2%
+Primeape
+D
+P
+Pt
+Poké Radar
+51-52
+20%
+Magikarp
+D
+P
+Pt
+Trade
+Finneon
+The same as the traded Pokémon
+One
+*
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Navigate your way east, climbing up and down the cliffs. When you reach the ocean,
+Surf
+east until you reach a large patch of tall grass: the start of
+Route 227
+.
+Route 227
+Route 227.
+Items
+Item
+Location
+Games
+Full Heal
+Between the two ponds
+(hidden)
+D
+P
+Charcoal
+East of the right pond
+D
+P
+Zinc
+West of Ace Trainer Mikayla
+D
+P
+Protein
+On the small rock in the northwest corner, accessible via
+Stark Mountain
+(Requires
+Rock Climb
+)
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Saul
+クニオ
+Kunio
+Reward:
+$
+3300
+Tauros
+♂
+Lv.
+55
+No item
+Pokémon Ranger
+Felicia
+アキヨ
+Akiyo
+Reward:
+$
+3420
+Lickitung
+♀
+Lv.
+57
+No item
+Vigoroth
+♀
+Lv.
+57
+No item
+Ace Trainer
+Mikayla
+ミワコ
+Miwako
+Reward:
+$
+3360
+Meowth
+♀
+Lv.
+56
+No item
+Persian
+♀
+Lv.
+56
+No item
+Hypno
+♀
+Lv.
+56
+No item
+Black Belt
+Griffin
+ケイタ
+Keita
+Reward:
+$
+1368
+Cacturne
+♂
+Lv.
+57
+No item
+Machamp
+♂
+Lv.
+57
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fearow
+D
+P
+Pt
+Grass
+54-55
+20%
+20%
+10%
+Golbat
+D
+P
+Pt
+Grass
+54
+0%
+0%
+10%
+Graveler
+D
+P
+Pt
+Grass
+54-56
+15%
+15%
+5%
+Weezing
+D
+P
+Pt
+Grass
+55
+10%
+Rhyhorn
+D
+P
+Pt
+Grass
+22-24
+5%
+Rhydon
+D
+P
+Pt
+Grass
+55
+20%
+Skarmory
+D
+P
+Pt
+Grass
+56
+5%
+Numel
+D
+P
+Pt
+Grass
+22-24
+5%
+Camerupt
+D
+P
+Pt
+Grass
+55
+20%
+Banette
+D
+P
+Pt
+Grass
+53-54
+0%
+0%
+10%
+Fishing and Surfing
+Poliwag
+D
+P
+Pt
+Surfing
+20-30
+30%
+Poliwhirl
+D
+P
+Pt
+Surfing
+37-55
+70%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+Special Pokémon
+Gligar
+D
+P
+Pt
+Dual-slot
+Emerald
+22
+8%
+Magby
+D
+P
+Pt
+Dual-slot
+LeafGreen
+22
+8%
+Torkoal
+D
+P
+Pt
+Poké Radar
+24-55
+22%
+Spinda
+D
+P
+Pt
+Swarm
+55
+40%
+Spinda
+D
+P
+Pt
+Swarm
+53-54
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Continue north from the grass. Soon, you'll notice volcanic ash falling from the sky.
+Stark Mountain
+isn't too far ahead! Keep in mind that you want to go north and uphill, and it shouldn't be too much of a challenge. Also, you'll need to use your highest
+Bicycle
+gear to jump ramps to get over rocks, but be careful not to jump off the ledges. On the way, you'll see
+Rival
+Barry
+and
+Crasher Wake
+having a conversation. You'll also see
+Buck
+again. At the top of the hill is the entrance to the volcano-- Stark Mountain!
+Stark Mountain
+This is it: the biggest (and only) volcano in the Sinnoh region!
+Outside
+The exterior of Stark Mountain
+There are some items that can be picked up.
+Items (Entrance)
+Item
+Location
+Games
+Ether
+Northeast corner of the outside grass patch
+D
+P
+Life Orb
+Southwest corner of the exterior (requires
+Rock Climb
+)
+D
+P
+Trainers (Outside)
+Trainer
+Pokémon
+Dragon Tamer
+Darien
+タケル
+Takeru
+Reward:
+$
+1920
+Gyarados
+♂
+Lv.
+60
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon (Outside)
+Pokémon
+Games
+Location
+Levels
+Rate
+Rhyhorn
+D
+P
+Pt
+Grass
+22,24
+5%
+Rhydon
+D
+P
+Pt
+Grass
+54-55
+20%
+Numel
+D
+P
+Pt
+Grass
+22,24
+5%
+Camerupt
+D
+P
+Pt
+Grass
+55
+20%
+Skarmory
+D
+P
+Pt
+Grass
+56
+5%
+Weezing
+D
+P
+Pt
+Grass
+55
+10%
+Fearow
+D
+P
+Pt
+Grass
+51,54-55
+20%
+20%
+10%
+Graveler
+D
+P
+Pt
+Grass
+54,56
+15%
+15%
+5%
+Banette
+D
+P
+Pt
+Grass
+54
+0%
+0%
+10%
+Golbat
+D
+P
+Pt
+Grass
+54
+0%
+0%
+10%
+Special Pokémon
+Torkoal
+D
+P
+Pt
+Poké Radar
+24,55
+22%
+Magby
+D
+P
+Pt
+Dual-slot
+LeafGreen
+22
+8%
+Gligar
+D
+P
+Pt
+Dual-slot
+Emerald
+22
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+If you think you're prepared, enter the cave.
+Entrance
+Entrance
+Items (Entrance)
+Item
+Location
+Games
+Burn Heal
+North-west corner
+D
+P
+Escape Rope
+South-west corner
+D
+P
+PP Up
+South-east corner
+D
+P
+Full Restore
+East of entrance to second room
+D
+P
+Max Elixir
+North of the Full Restore
+(hidden)
+D
+P
+Available Pokémon (Entrance)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+54
+10%
+Machoke
+D
+P
+Pt
+Cave
+56
+10%
+Geodude
+D
+P
+Pt
+Cave
+25, 27
+5%
+Graveler
+D
+P
+Pt
+Cave
+55
+20%
+Onix
+D
+P
+Pt
+Cave
+54
+5%
+Weezing
+D
+P
+Pt
+Cave
+56
+10%
+Slugma
+D
+P
+Pt
+Cave
+25, 27
+5%
+Magcargo
+D
+P
+Pt
+Cave
+55-56
+30%
+Camerupt
+D
+P
+Pt
+Cave
+56
+5%
+Special Pokémon
+Magby
+D
+P
+Pt
+Dual-slot
+LeafGreen
+27
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Navigating through the volcano entrance room is fairly straightforward— the main puzzle is using Strength to push boulders up and down stairs. You'll want to keep going north. In front of the entrance to the next room, you'll find Barry, complaining about how he was defeated by
+Buck
+. He won't battle you, though, so continue deeper into the mountain.
+Main Cavern
+Main Cavern
+Trainers (Main Cavern)
+Trainer
+Pokémon
+Ace Trainer
+Abel
+エイイチ
+Eiichi
+Reward:
+$
+3540
+Aerodactyl
+♂
+Lv.
+59
+No item
+Ace Trainer
+Monique
+コトミ
+Kotomi
+Reward:
+$
+3420
+Kangaskhan
+♀
+Lv.
+57
+No item
+Ursaring
+♀
+Lv.
+57
+No item
+Ace Trainer
+Keenan
+マコト
+Makoto
+Reward:
+$
+3420
+Primeape
+♂
+Lv.
+57
+No item
+Torkoal
+♂
+Lv.
+57
+No item
+Ace Trainer
+Kassandra
+レイコ
+Reiko
+Reward:
+$
+3480
+Stantler
+♀
+Lv.
+58
+No item
+Carnivine
+♀
+Lv.
+58
+No item
+Ace Trainer
+Stefan
+ユウヤ
+Yūya
+Reward:
+$
+3420
+Larvitar
+♂
+Lv.
+57
+No item
+Magcargo
+♂
+Lv.
+57
+No item
+Ace Trainer
+Jasmin
+シノブ
+Shinobu
+Reward:
+$
+3540
+Drapion
+♀
+Lv.
+59
+No item
+Bird Keeper
+Krystal
+ソノコ
+Sonoko
+Reward:
+$
+1760
+Dodrio
+♀
+Lv.
+55
+No item
+Fearow
+♀
+Lv.
+55
+No item
+Honchkrow
+♀
+Lv.
+55
+No item
+Black Belt
+Ray
+リキト
+Rikito
+Reward:
+$
+1392
+Tyrogue
+♂
+Lv.
+53
+No item
+Marowak
+♂
+Lv.
+57
+No item
+Breloom
+♂
+Lv.
+58
+No item
+Psychic
+Chelsey
+ナナ
+Nana
+Reward:
+$
+1856
+Xatu
+♀
+Lv.
+56
+No item
+Mismagius
+♀
+Lv.
+58
+No item
+Psychic
+Sterling
+ユウ
+Yū
+Reward:
+$
+1856
+Baltoy
+Lv.
+54
+No item
+Grumpig
+♂
+Lv.
+58
+No item
+Veteran
+Harlan
+トモゾウ
+Tomozō
+Reward:
+$
+4480
+Loudred
+♂
+Lv.
+56
+No item
+Donphan
+♂
+Lv.
+56
+No item
+Tauros
+♂
+Lv.
+56
+No item
+Dragon Tamer
+Kenny
+ユウリ
+Yūri
+Reward:
+$
+1888
+Bagon
+♂
+Lv.
+57
+No item
+Shelgon
+♂
+Lv.
+59
+No item
+Ace Trainer
+Skylar
+ヒデユキ
+Hideyuki
+Reward:
+$
+3420
+Loudred
+♂
+Lv.
+57
+No item
+Rampardos
+♂
+Lv.
+57
+No item
+Ace Trainer
+Natasha
+ミサト
+Misato
+Reward:
+$
+3360
+Dunsparce
+♀
+Lv.
+56
+No item
+Scyther
+♀
+Lv.
+56
+No item
+Marowak
+♀
+Lv.
+56
+No item
+Dragon Tamer
+Drake
+マサフミ
+Masafumi
+Reward:
+$
+1824
+Vibrava
+♂
+Lv.
+57
+No item
+Dragonair
+♂
+Lv.
+57
+No item
+Seadra
+♂
+Lv.
+57
+No item
+Black Belt
+Jarrett
+タクマ
+Takuma
+Reward:
+$
+1416
+Machamp
+♂
+Lv.
+59
+No item
+Available Pokémon (Main Cavern)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+56
+10%
+Machoke
+D
+P
+Pt
+Cave
+58
+10%
+Geodude
+D
+P
+Pt
+Cave
+27, 29
+5%
+Graveler
+D
+P
+Pt
+Cave
+57
+20%
+Onix
+D
+P
+Pt
+Cave
+56
+5%
+Weezing
+D
+P
+Pt
+Cave
+56, 58
+10%
+Slugma
+D
+P
+Pt
+Cave
+27, 29
+5%
+Magcargo
+D
+P
+Pt
+Cave
+57-58
+30%
+Camerupt
+D
+P
+Pt
+Cave
+58
+5%
+Special Pokémon
+Magby
+D
+P
+Pt
+Dual-slot
+LeafGreen
+25
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+When you enter the large main cavern, you'll find your point of view zoomed out. This makes it easier to see where you are in this massive cavern.
+Quickly, you'll find Buck again. He asks you to team up with him to find the
+Magma Stone
+, although he thinks you're "pretty wimpy". You'll be leading the way through the cave. While he's with you, you can't use
+Rock Climb
+to get all of the items, so don't even bother right now. However, he'll heal your Pokémon after every battle, just like
+the other Trainers you teamed up with before
+.
+To get through the cave: First, head east along the sort of ridge you're on until you reach the first point you can go north at. Smash the rock that's in the way and continue north until you reach the second set of stairs. Go down them and continue a few steps north and then far west, smashing the rock in your way. Go up the stairs and fight the
+Dragon Tamer
+and
+Black Belt
+, then walk around the ledge you're on and go down the stairs. From there, keep going east (pushing the Strength rock in front of you) and go up the stairs at the end.
+Back Room
+Follow Buck into the cave ahead of you. He will pick up the Magma Stone... (an earthquake occurs!) and then leave. Exit the cavern (using an
+Escape Rope
+or the move
+Dig
+is the easiest, if you have it, but you must leave the third room first) and return to the
+Survival Area
+. Time to go look for Buck!
+← Part 30
+Fight Area, Battle Park, Battle Tower, Route 225
+Diamond and Pearl
+walkthrough
+Back in Survival Area, Back to Stark Mountain, Catching Heatran, Route 228
+Part 32 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

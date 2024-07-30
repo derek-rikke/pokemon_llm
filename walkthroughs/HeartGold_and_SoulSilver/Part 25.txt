@@ -1,0 +1,691 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_25
+Keywords: Viridian City, Route 1, Pallet Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Viridian City
+1.1
+Trainer House
+2
+Route 1
+3
+Pallet Town
+3.1
+Red's House
+3.2
+Blue's House
+3.3
+Professor Oak's Lab
+Viridian City
+Viridian City
+Viridian
+is a small city on the west side of
+Kanto
+. The
+Viridian Gym
+is closed for now, and the
+Pokémon academy
+that once stood here has been replaced by the
+Trainer House
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Poliwag
+HG
+SS
+Surfing
+5-10
+90%
+Poliwhirl
+HG
+SS
+Surfing
+10
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Poliwag
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Poliwag
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Poliwag
+HG
+SS
+Fishing
+Super Rod
+40
+93%
+Magikarp
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+3-7
+50%
+Spinarak
+HG
+SS
+Headbutt
+5-7
+30%
+Ledyba
+HG
+SS
+Headbutt
+5-7
+30%
+Pineco
+HG
+SS
+Headbutt
+3-4
+30%
+Wurmple
+HG
+SS
+Headbutt
+3-7
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+Near the trees northeast of the Poké Mart (hidden)
+HG
+SS
+TM85
+(
+Dream Eater
+)
+From the man on the ridge (requires
+Cut
+or
+Surf
+)
+HG
+SS
+After defeating the Viridian Gym
+TM92
+(
+Trick Room
+)
+From Blue upon his defeat
+HG
+SS
+Trainer House, 1F
+Trainer House
+The
+Trainer House
+allows challengers to battle a certain opponent under controlled conditions. The default opponent is
+Cal
+, who uses the final forms of the Johto starter Pokémon. However, by connecting the
+Pokéwalker
+to that of another player and re-syncing it back to your game, the opponent will be that Trainer instead, with the same Pokémon, moves, and items. Trainers battled this way have their Pokémon's levels capped at 50. Rather than experience or money, victorious Trainers earn
+Battle Points
+which may be redeemed in the
+Battle Frontier
+near
+Olivine City
+.
+Ace Trainer
+Cal
+Trainer House
+HeartGold and SoulSilver
+Reward:
+1
+BP
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Sitrus Berry
+Meganium
+♀
+Lv.
+50
+Energy Ball
+Grass
+Special
+--
+Protect
+Normal
+Status
+--
+Leech Seed
+Grass
+Status
+--
+Toxic
+Poison
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Salac Berry
+Typhlosion
+♀
+Lv.
+50
+Eruption
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Substitute
+Normal
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Lum Berry
+Feraligatr
+♀
+Lv.
+50
+Waterfall
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Route 1
+Route 1
+The uneven terrain of
+Route 1
+allows southbound travelers to avoid all but the southernmost patch of grass.
+Trainers
+Trainer
+Pokémon
+School Kid
+Sherman
+Reward:
+$
+860
+Furret
+♂
+Lv.
+43
+No item
+Pidgeot
+♂
+Lv.
+43
+No item
+School Kid
+Danny
+Reward:
+$
+860
+Jynx
+♀
+Lv.
+43
+No item
+Electabuzz
+♂
+Lv.
+43
+No item
+Magmar
+♂
+Lv.
+43
+No item
+Ace Trainer
+French
+Reward:
+$
+2820
+Absol
+♂
+Lv.
+47
+No item
+Alakazam
+♂
+Lv.
+47
+No item
+Ace Trainer
+Quinn
+Reward:
+$
+2820
+Ivysaur
+♂
+Lv.
+47
+No item
+Starmie
+Lv.
+47
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+HG
+SS
+Grass
+2-4
+45%
+45%
+0%
+Rattata
+HG
+SS
+Grass
+2
+,
+2-6
+30%
+30%
+55%
+Sentret
+HG
+SS
+Grass
+3
+20%
+20%
+0%
+Furret
+HG
+SS
+Grass
+6
+5%
+5%
+0%
+Hoothoot
+HG
+SS
+Grass
+2-4
+0%
+0%
+45%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+2-3
+50%
+Hoothoot
+HG
+SS
+Headbutt
+5-6
+80%
+Spinarak
+HG
+SS
+Headbutt
+5-6
+30%
+Ledyba
+HG
+SS
+Headbutt
+5-6
+30%
+Pineco
+HG
+SS
+Headbutt
+2-3
+30%
+Wurmple
+HG
+SS
+Headbutt
+5-6
+20%
+Swarm
+Poochyena
+HG
+SS
+Swarm
+2
+40%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+2
+20%
+Minun
+HG
+SS
+Hoenn Sound
+3
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+2-3
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Blk Apricorn
+On a tree, on the northwest hill
+HG
+SS
+Pallet Town
+Pallet Town
+Pallet Town
+is a quiet town in the southwest. Two of its residents,
+Blue
+and
+Red
+, have both held the
+Champion
+title at some point in the past.
+Professor Oak
+'s
+Laboratory
+, where the professor researches the relationships between people and Pokémon, is also located here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+HG
+SS
+Surfing
+30-35
+90%
+Tentacruel
+HG
+SS
+Surfing
+35
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Tentacool
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Tentacool
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Chinchou
+HG
+SS
+Fishing
+Good Rod
+20
+7%
+Shellder
+HG
+SS
+Fishing
+Good Rod
+20
+3%
+Chinchou
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Shellder
+HG
+SS
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+HG
+SS
+Fishing
+Super Rod
+40
+7%
+Lanturn
+HG
+SS
+Fishing
+Super Rod
+40
+3%
+Headbutt
+Hoothoot
+HG
+SS
+Headbutt
+2-3
+50%
+Pineco
+HG
+SS
+Headbutt
+2-3
+30%
+Spinarak
+HG
+SS
+Headbutt
+5-6
+30%
+Ledyba
+HG
+SS
+Headbutt
+5-6
+30%
+Wurmple
+HG
+SS
+Headbutt
+2-3
+20%
+Headbutt (Special Tree)
+Hoothoot
+HG
+SS
+Headbutt
+5-6
+50%
+Wurmple
+HG
+SS
+Headbutt
+5-6
+20%
+Gift Pokémon
+Bulbasaur
+HG
+SS
+Gift
+5
+One
+Charmander
+HG
+SS
+Gift
+5
+One
+Squirtle
+HG
+SS
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Subsequent visits
+HM08
+(
+Rock Climb
+)
+From Professor Oak, after earning all 16 Badges
+HG
+SS
+Jade Orb
+From Professor Oak, after showing both
+Groudon
+and
+Kyogre
+from the
+Embedded Tower
+HG
+SS
+Red's House
+Red
+is not home right now. He defeated
+Blue
+to earn his Champion title, but gave up that position with the
+Pokémon League
+to continue his training. His mother is proud of him, but still worried that he is alone somewhere.
+Blue's House
+Blue
+is away too, but his sister
+Daisy
+will offer to
+groom
+one of your Pokémon every day, from 3:00 PM to 4:00 PM. Grooming is an important process for obtaining Pokémon like
+Espeon
+and
+Umbreon
+. After having groomed your Pokémon at least seven times, she will give you Blue's phone number, which will allow you to arrange a rematch with him after winning your sixteenth Badge.
+Professor Oak's Lab
+Visit the laboratory to meet up with
+the professor
+. He claims to have a gift for you, but you must first defeat the remaining Kanto Gym Leaders to receive it.
+Afterwards, you can speak to Oak to have him rate your
+Pokédex
+. There are currently 493 known species. It is also possible to use the
+Pokégear
+to have him rate your progress over the phone.
+← Part 24
+Route 3, Mt. Moon, Route 4
+HeartGold and SoulSilver
+walkthrough
+Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Seafoam Islands, Route 19
+Part 26 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

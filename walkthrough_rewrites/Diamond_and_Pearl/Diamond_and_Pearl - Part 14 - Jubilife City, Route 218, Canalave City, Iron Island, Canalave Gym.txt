@@ -1,0 +1,55 @@
+Game: Diamond_and_Pearl
+Part: 14
+Keywords: Jubilife City, Route 218, Canalave City, Iron Island, Canalave Gym
+
+**Part 14 Walkthrough: Jubilife City to Canalave Gym**
+
+**1. Jubilife City:**
+- Head west from Jubilife TV and the Pokétch Company to enter Route 218. 
+- Speak to the fisherman at the gate for the Old Rod if you haven't obtained it.
+
+**2. Route 218:**
+- You need a Pokémon with Surf to navigate the water.
+- Surf north from the central island to reach Canalave City. 
+- Collect items: 
+  - **Honey** (west of the pier)
+  - **Rare Candy** (northeast corner)
+  - **Berries** (soft soil above the grassy area)
+
+**3. Canalave City (East):**
+- Enter Canalave City and find the Move Deleter in a house.
+- Heal your Pokémon before crossing the bridge; you'll encounter your rival, Barry.
+
+**4. 4th Rival Battle:**
+- Barry's team varies based on your starter:
+  - **Turtwig:** Staravia, Heracross, Roselia
+  - **Chimchar:** Staravia, Heracross, Ponyta
+  - **Piplup:** Staravia, Buizel, Roselia
+
+**5. Canalave City (West):**
+- Visit Canalave Library and Canalave Gym. 
+- Sailor Eldritch will take you to Iron Island.
+
+**6. Iron Island:**
+- Heal up and bring fewer than five Pokémon.
+- Collect the **Max Ether** outside the cave and enter.
+- Navigate through the cave, battling trainers and catching Pokémon.
+- **Riley** will join you; he heals your Pokémon after each battle.
+
+**7. Canalave Gym:**
+- The Gym focuses on Steel-types. Use Fire, Fighting, and Ground-type Pokémon.
+- Key battles include:
+  - **Leader Byron:** 
+    - **Bronzor (Lv. 36)**: Weak to Fire
+    - **Steelix (Lv. 36)**: Avoid Ground moves (Ice Fang)
+    - **Bastiodon (Lv. 39)**: Use Fighting or Ground moves for maximum damage.
+
+**8. After Defeating Byron:**
+- You receive the Mine Badge and TM91 (Flash Cannon).
+- Barry suggests visiting Canalave Library. 
+
+**Next Steps:**
+- You can either visit Canalave Library, explore areas with Strength, or head to Lake Acuity for the next Gym.
+- Ensure you have HM04 (Strength) before proceeding. 
+
+This concise guide focuses on essential progression points, item locations, and strategies for battles.

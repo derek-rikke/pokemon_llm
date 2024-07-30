@@ -1,0 +1,1501 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_11
+Keywords: Route 210, Celestic Town, Fuego Ironworks, Route 213, Route 219, Route 220
+
+Walkthrough Text:
+Contents
+1
+Route 210
+2
+Celestic Town
+3
+Now that you can use Surf (optional)
+3.1
+Twinleaf Town
+3.2
+Oreburgh Gate
+3.3
+Route 204
+3.4
+Ravaged Path
+3.5
+Valley Windworks
+3.6
+Eterna City
+3.7
+Route 208
+3.8
+Route 209
+3.9
+Route 214
+3.10
+Pastoria City
+3.11
+Route 212 (Northern area)
+3.12
+Route 212 (Southern area)
+4
+Fuego Ironworks (optional)
+4.1
+Stars for Shards
+5
+Floaroma Meadow (optional)
+6
+Route 213 (optional)
+Route 210
+Route 210
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Machop
+D
+P
+Pt
+Grass
+28-29
+15%
+Machoke
+D
+P
+Pt
+Grass
+29-30
+10%
+Scyther
+D
+P
+Pt
+Grass
+27,29
+15%
+0%
+0%
+Scyther
+D
+P
+Pt
+Grass
+29
+0%
+5%
+5%
+Hoothoot
+D
+P
+Pt
+Grass
+27
+0%
+0%
+10%
+Noctowl
+D
+P
+Pt
+Grass
+27
+0%
+0%
+10%
+Meditite
+D
+P
+Pt
+Grass
+27,29
+20%
+20%
+0%
+Meditite
+D
+P
+Pt
+Grass
+29
+0%
+0%
+10%
+Swablu
+D
+P
+Pt
+Grass
+27
+20%
+30%
+20%
+Bibarel
+D
+P
+Pt
+Grass
+28
+20%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Whiscash
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Between the Psyduck and the fog
+Trainer
+Pokémon
+Ninja Boy
+Fabian
+ヒロマサ
+Hiromasa
+Reward:
+$
+248
+Croagunk
+♂
+Lv.
+31
+No item
+Croagunk
+♂
+Lv.
+31
+No item
+Ninja Boy
+Brennan
+マサユキ
+Masayuki
+Reward:
+$
+256
+Zubat
+♂
+Lv.
+30
+No item
+Skorupi
+♂
+Lv.
+32
+No item
+Ninja Boy
+Bruce
+ユウイチ
+Yūichi
+Reward:
+$
+264
+Stunky
+♂
+Lv.
+33
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Northern (foggy) section
+Trainer
+Pokémon
+Ninja Boy
+Joel
+ヤスアキ
+Yasuaki
+Reward:
+$
+232
+Zubat
+♂
+Lv.
+29
+No item
+Skorupi
+♂
+Lv.
+29
+No item
+Golbat
+♂
+Lv.
+29
+No item
+Stunky
+♂
+Lv.
+29
+No item
+Ace Trainer
+Alyssa
+スズカ
+Suzuka
+Reward:
+$
+1980
+Aipom
+♀
+Lv.
+32
+No item
+Grotle
+♂
+Lv.
+33
+No item
+Girafarig
+♀
+Lv.
+32
+No item
+Double Team
+Zac & Jen
+Double Battle
+ガクとシノ
+Gaku and Shino
+Reward:
+$
+8640
+Gyarados
+♂
+Lv.
+36
+No item
+Raichu
+♂
+Lv.
+36
+No item
+Ace Trainer
+Ernest
+ジュンヤ
+Jun'ya
+Reward:
+$
+2040
+Scyther
+♂
+Lv.
+32
+No item
+Luxio
+♂
+Lv.
+34
+No item
+Probopass
+♂
+Lv.
+31
+No item
+Ninja Boy
+Davido
+テッペイ
+Teppei
+Reward:
+$
+264
+Mothim
+♂
+Lv.
+33
+No item
+Black Belt
+Adam
+カツヤ
+Katsuya
+Reward:
+$
+816
+Machoke
+♂
+Lv.
+34
+No item
+Ninja Boy
+Nathan
+ケンキチ
+Kenkichi
+Reward:
+$
+248
+Stunky
+♂
+Lv.
+31
+No item
+Golbat
+♂
+Lv.
+31
+No item
+Bird Keeper
+Brianna
+ミソラ
+Misora
+Reward:
+$
+1056
+Hoothoot
+♀
+Lv.
+31
+No item
+Noctowl
+♀
+Lv.
+33
+No item
+Veteran
+Brian
+テンマ
+Tenma
+Reward:
+$
+2560
+Tangela
+♂
+Lv.
+32
+No item
+Ponyta
+♂
+Lv.
+32
+No item
+Buizel
+♂
+Lv.
+32
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Between the Psyduck and the fog
+Item
+Location
+Games
+Old Charm
+Obtained from Cynthia after curing the Psyduck
+Pt
+Max Repel
+West of the Psyduck, behind a tree
+Pt
+Full Heal
+Northeast of the Max Repel
+(hidden)
+Pt
+Hyper Potion
+×2
+In the middle of the tall grass
+Southeast of first Hyper Potion
+(hidden)
+Pt
+Ultra Ball
+×2
+One tile northeast of Ninja Boy Bruce
+(hidden)
+Northwest of Hyper Potion
+(hidden)
+Pt
+Nest Ball
+In the top right corner of the grassy patch before the fog
+Pt
+Northern (foggy) section
+Item
+Location
+Games
+Red Shard
+To the right of Ace Trainer Alyssa
+Pt
+TM30
+(
+Shadow Ball
+)
+Across two logs (requires
+Rock Smash
+)
+Pt
+Meadow Plate
+Atop the easternmost
+waterfall
+(requires
+Surf
+and
+Waterfall
+)
+(hidden)
+Pt
+Smoke Ball
+Under the second bridge, guarded by Ninja Boy Nathan
+Pt
+Sitrus Berry
+Berry patch north of Veteran Brian
+Pt
+Chesto Berry
+Berry patch north of Veteran Brian
+Pt
+Wiki Berry
+Berry patch north of Veteran Brian
+Pt
+Aguav Berry
+Berry patch north of Veteran Brian
+Pt
+Now that
+Cynthia
+has given you the
+SecretPotion
+, talk to the
+Psyduck
+that have been blocking access to the north half of
+Route 210
+. Administer the SecretPotion and the Psyduck will move off. Cynthia will appear and give you the
+Old Charm
+, asking you to deliver it to
+Celestic Town
+.
+Tall grass
+grows rampant throughout this route, preventing the use of your
+bicycle
+. This area is a popular place for
+Ninja Boys
+to hide. Further north, the grass clears to give rise to thick
+fog
+. To ease travel,
+HM05
+(
+Defog
+) may be used, although this is not required.
+Head north through the large patch of tall grass, but make sure you find all three members of the Ninja Trio and defeat them, as they won't challenge you unless you stand right next to them.
+Grandma Wilma
+, a
+Move Tutor
+, lives in a house on the northern, foggy stretch of Route 210 although you'll need
+Rock Climb
+to reach it. Previously, she lived in a famous city of
+Dragon Tamers
+, and is able to teach the move
+Draco Meteor
+to any
+Dragon-type
+Pokémon with high
+friendship
+. Turn west, then head up the stairs and across the first bridge. From there, carry on straight, across two narrow bridges to find the powerful
+TM30
+(
+Shadow Ball
+). Backtrack, and head south over the second wide bridge and then follow the path west to
+Celestic Town
+.
+Celestic Town
+Celestic Town
+Items
+Item
+Location
+Games
+HM03
+(
+Surf
+)
+From Cynthia's grandmother inside the ruins after defeating Cyrus
+Pt
+Great Ball
+From a man in the Pokémon Center if the first Pokémon in the
+player
+'s party has high
+friendship
+Pt
+Choice Specs
+From a man in the shop in the morning
+Pt
+BlackGlasses
+From a man in the shop during the day
+Pt
+Wise Glasses
+From a man in the shop at night
+Pt
+Analog Watch
+From a man in the south-west house
+Pt
+Dragon Fang
+South on the east ledge, behind the Pokémon Center
+Pt
+King's Rock
+On the west ledge next to the ruins, at the side closest to the Ruins
+(hidden)
+Pt
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-35
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Celestic Town
+is a tiny town that preserves the history of
+Sinnoh
+and the old ways of life. The center of town has a small shrine that dates back to ancient times. This town is the hometown of
+Cynthia
+'s family. Although there is no
+Poké Mart
+in the town, an elderly couple run a shop out of their house. A man standing in the shop gives away three pairs of glasses to you depending on the time of day. He gives away
+Choice Specs
+in the morning,
+BlackGlasses
+during the day, and
+Wise Glasses
+at night. The Choice Specs powers up the holder's
+Special moves
+by 1.5 times, so be sure to take them if you have any special attacking Pokémon.
+Next to the Pokémon Center is
+Cynthia's grandmother
+. Talk to her and she'll tell you about the
+Galactic Grunt
+guarding the entrance to the
+ruins
+, so head down the stairs and battle the Grunt at the north end of town.
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1200
+Houndour
+♂
+Lv.
+32
+No item
+Golbat
+♂
+Lv.
+30
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Celestic Ruins
+After the battle, Cynthia's grandmother will thank you, and you'll give her the
+Old Charm
+. Head inside the ruins and examine the mural at the back of the room depicting
+Azelf
+,
+Uxie
+, and
+Mesprit
+.
+Team Galactic
+'s Boss
+Cyrus
+will show up, interested in the old Sinnoh legends, and after he and Cynthia's grandmother exchange their views on the current state of the world, you'll battle him.
+Galactic Boss
+Cyrus
+Celestic Ruins
+Platinum
+Reward:
+$
+6840
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+34
+Screech
+Normal
+Status
+--
+Ice Punch
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+34
+Air Cutter
+Flying
+Special
+--
+Poison Fang
+Poison
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+Sitrus Berry
+Murkrow
+♂
+Lv.
+36
+Night Shade
+Ghost
+Special
+--
+Faint Attack
+Dark
+Physical
+--
+Drill Peck
+Flying
+Physical
+--
+Astonish
+Ghost
+Physical
+--
+This battle certainly shouldn't be the hardest you've yet had. Cyrus's
+Sneasel
+, although fast, has low defensive stats. A
+Fighting-type
+move is pretty much guaranteed to take it out in one hit. It's worth noting that Cyrus's entire team is weak to
+Rock-type
+moves as well.
+After the battle, Cyrus will disappear in a flash and you'll be rewarded
+HM03
+(
+Surf
+) by Cynthia's grandmother. Once you leave the ruins, you'll meet up with Cynthia, who heard what happened and now understands that Team Galactic is more dangerous than she initially thought. She'll mention there is a library in
+Canalave City
+with books detailing Sinnoh's history, west of
+Jubilife City
+. Since it is the location of your next Gym Battle, you will need to head there eventually.
+Now that you can use Surf (optional)
+Now that have the option to
+Surf
+in the field, let's collect some items and battle some trainers around the region.
+Twinleaf Town
+Items
+Item
+Location
+Games
+Odd Keystone
+In a tree along the left side of the pond (requires
+Surf
+)
+(hidden)
+Pt
+Oreburgh Gate
+Trainers
+Trainer
+Pokémon
+Veteran
+Grant
+ダイキ
+Daiki
+Reward:
+$
+2720
+Requires
+Surf
+Riolu
+♂
+Lv.
+34
+No item
+Staraptor
+♂
+Lv.
+34
+No item
+Graveler
+♂
+Lv.
+34
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Route 204
+Items
+Item
+Location
+Games
+HP Up
+South side; far side of the large eastern pond (requires
+Surf
+)
+Pt
+Sea Incense
+South side; at the southwest corner (requires
+Surf
+)
+Pt
+Ravaged Path
+Items
+Item
+Location
+Games
+Luck Incense
+In the north end of the cave (requires
+Surf
+and
+Rock Smash
+)
+Pt
+TM03
+(
+Water Pulse
+)
+In the northeast end of the cave (requires
+Surf
+and
+Rock Smash
+)
+Pt
+Valley Windworks
+Items
+Item
+Location
+Games
+Max Elixir
+Exterior; on the north side of the fence (requires
+Surf
+)
+(hidden)
+Pt
+TM24
+(
+Thunderbolt
+)
+Exterior; behind the Windworks building (requires
+Surf
+)
+Pt
+Electirizer
+Exterior; on the north side of the fence (requires
+Surf
+)
+Pt
+Eterna City
+Items
+Item
+Location
+Games
+Moon Stone
+In the far northeast corner of the city (requires
+Surf
+)
+(hidden)
+Pt
+Route 208
+Trainers
+Trainer
+Pokémon
+Fisherman
+Cody
+テルマサ
+Terumasa
+Reward:
+$
+1056
+Barboach
+♂
+Lv.
+33
+No item
+Gyarados
+♂
+Lv.
+33
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Route 209
+Items
+Item
+Location
+Games
+TM19
+(
+Giga Drain
+)
+In between the trees south of the
+Hallowed Tower
+(requires
+Surf
+)
+Pt
+Route 214
+Items
+Item
+Location
+Games
+Rare Candy
+Across the pond at the northeastern corner of the route (requires
+Surf
+)
+Pt
+Pastoria City
+Items
+Item
+Location
+Games
+Mystic Water
+On a small patch of land north of the boats in the southeast corner of the city (requires
+Surf
+)
+Pt
+Route 212 (Northern area)
+Items
+Item
+Location
+Games
+Rose Incense
+West of the Pokémon Mansion (requires
+Surf
+)
+Pt
+Iron
+West of the Pokémon Mansion (requires
+Surf
+)
+Pt
+Lum Berry
+West of the pond just north of the stairs leading to the southern area (requires
+Surf
+)
+Pt
+Tamato Berry
+West of the pond just north of the stairs leading to the southern area (requires
+Surf
+)
+Pt
+Route 212 (Southern area)
+Items
+Item
+Location
+Games
+TM84
+(
+Poison Jab
+)
+Behind a tree, in the middle of the square of logs and bridges (requires
+Surf
+)
+Pt
+Max Ether
+Behind two trees after passing the three Fishermen (requires
+Surf
+)
+(hidden)
+Pt
+Fuego Ironworks (optional)
+Fuego Ironworks interior
+Route 205
+Fuego Ironworks exterior
+Available Pokémon (Exterior only)
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+D
+P
+Pt
+Grass
+28-30
+30%
+Magmar
+D
+P
+Pt
+Grass
+28-29
+30%
+30%
+0%
+Magmar
+D
+P
+Pt
+Grass
+28
+0%
+0%
+20%
+Floatzel
+D
+P
+Pt
+Grass
+29-31
+25%
+Gastrodon
+D
+P
+Pt
+Grass
+30-31
+15%
+15%
+0%
+Gastrodon
+D
+P
+Pt
+Grass
+29-31
+0%
+0%
+25%
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+9%
+Shellos
+D
+P
+Pt
+Surfing
+20-30
+30%
+Gastrodon
+D
+P
+Pt
+Surfing
+20-40
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Finneon
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (Interior only)
+Trainer
+Pokémon
+Worker
+Dillan
+イサオ
+Isao
+Reward:
+$
+1320
+Machop
+♂
+Lv.
+33
+No item
+Machoke
+♂
+Lv.
+33
+No item
+Worker
+Holden
+シュウイチ
+Shūichi
+Reward:
+$
+1280
+Magnemite
+Lv.
+32
+No item
+Magnemite
+Lv.
+32
+No item
+Magnemite
+Lv.
+32
+No item
+Worker
+Conrad
+シゲミチ
+Shigemichi
+Reward:
+$
+1400
+Magmar
+♂
+Lv.
+35
+No item
+Items
+Item
+Location
+Games
+Ultra Ball
+Outside, northwest of the honey tree
+(hidden)
+Pt
+Sitrus Berry
+Berry patch west of the honey tree
+Pt
+Wepear Berry
+×4
+Berry patch west of the honey tree
+Pt
+Kelpsy Berry
+Berry patch west of the honey tree
+Pt
+Big Mushroom
+Outside, between a small gap between the right side of the Ironworks building and some trees
+(hidden)
+Pt
+Yellow Shard
+Inside, behind the blue box just north of the first spinning tiles
+Pt
+Calcium
+Inside, directly right from Worker Dillan behind a wall
+Pt
+Protein
+Inside, at a dead end around the mid-upper-left area
+(hidden)
+Pt
+Red Shard
+Inside, just above Mr. Fuego's area
+Pt
+Blue Shard
+Inside, in a dead end directly right after the twisting narrow passage
+Pt
+Green Shard
+Inside, between the twisting narrow spinning pad passage
+Pt
+Star Piece
+Inside, in a standalone barrel at the right side of the building interior
+(hidden)
+Pt
+Fire Stone
+Inside, in the upper-right corner of the interior
+Pt
+Rock Incense
+Inside, at the bottom-right area of the interior amongst the spinning pads
+Pt
+TM35
+(
+Flamethrower
+)
+Inside, right next to the boiler
+Pt
+Star Piece
+Inside, after speaking to Mr. Fuego for the first time
+Pt
+Starting from the bridge near the entrance to
+Route 205
+'s south half,
+Surf
+on the river northwest and eventually you'll reach
+Fuego Ironworks
+. Get off at the northern bank of the river. It's worth noting that outside of the Ironworks, you can find wild
+Magnemite
+.
+Inside Fuego Ironworks your objective is getting to the boiler in the center, where the owner
+Mr. Fuego
+is. You will need to use the
+spin tiles
+to reach him. First head into the direction of the southeastern corner of the Ironworks at your own pace, but avoid the tile near Mr. Fuego as that one will take you through another tile that will cause you to start over. After accessing the (↓) tile in the southeastern area you will see three (←) in a line that lead to a larger patch of tiles. The northernmost (←) is the correct one to use and will get you to the area just to the right of the entrance to the boiler place.
+Stars for Shards
+Mr. Fuego will give you a
+Star Piece
+when you first meet him. From now on, you can trade a Star Piece for one of all four different-colored
+Shards
+.
+Star Piece Trade
+Item
+Location
+Games
+Red Shard
+From
+Mr. Fuego
+in exchange for a
+Star Piece
+(repeatable)
+Pt
+Blue Shard
+From
+Mr. Fuego
+in exchange for a
+Star Piece
+(repeatable)
+Pt
+Yellow Shard
+From
+Mr. Fuego
+in exchange for a
+Star Piece
+(repeatable)
+Pt
+Green Shard
+From
+Mr. Fuego
+in exchange for a
+Star Piece
+(repeatable)
+Pt
+Floaroma Meadow (optional)
+From Fuego Ironworks, you can access the northern section of Floaroma Meadow, which contains multiple hidden items.
+Items
+Item
+Location
+Games
+Miracle Seed
+In the northwest corner
+Pt
+Ultra Ball
+Southeast of the Miracle Seed
+Pt
+Leaf Stone
+South of the entrance from Fuego Ironworks
+Pt
+Hyper Potion
+On the eastern edge of the meadow above the ledge
+(hidden)
+Pt
+Revive
+Northwestern corner
+(hidden)
+Pt
+Max Revive
+One tile to the west of the yellow flowers in the center
+(hidden)
+Pt
+Honey
+×6
+Northern end of the meadow, in the center, on a pink flower among blue flowers
+(hidden)
+Northwestern corner, on a pink flower between two purple flowers, against the top boundary
+(hidden)
+Southwestern corner, on a pink flower with blue flowers on three sides
+(hidden)
+North of the house, north of the ledge
+(hidden)
+Central eastern end, to the east of the patch of yellow flowers
+(hidden)
+Halfway between the northwestern corner and the center, in a patch of pink flowers
+(hidden)
+Pt
+PP Up
+In the center, between yellow and blue flowers
+(hidden)
+Pt
+Rare Candy
+Southwestern corner
+Pt
+Full Heal
+Southwestern corner, east of Rare Candy
+(hidden)
+Pt
+Route 213 (optional)
+Route 213
+Trainers
+Trainer
+Pokémon
+Requires Surf
+Swimmer
+Haley
+Reward:
+$
+560
+Psyduck
+♀
+Lv.
+31
+No item
+Azumarill
+♀
+Lv.
+35
+No item
+Sailor
+Paul
+Reward:
+$
+1088
+Tentacool
+♂
+Lv.
+31
+No item
+Pelipper
+♂
+Lv.
+31
+No item
+Machoke
+♂
+Lv.
+34
+No item
+Swimmer
+Evan
+Reward:
+$
+544
+Golduck
+♂
+Lv.
+32
+No item
+Golduck
+♂
+Lv.
+34
+No item
+Swimmer
+Mary
+Reward:
+$
+528
+Finneon
+♀
+Lv.
+33
+No item
+Pelipper
+♀
+Lv.
+33
+No item
+Swimmer
+Sheltin
+Reward:
+$
+512
+Gyarados
+♂
+Lv.
+32
+No item
+Gyarados
+♂
+Lv.
+32
+No item
+Gyarados
+♂
+Lv.
+32
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+20-30
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+20-40
+5%
+Wingull
+D
+P
+Pt
+Surfing
+20-30
+30%
+Shellos
+D
+P
+Pt
+Surfing
+20-30
+4%
+Gastrodon
+D
+P
+Pt
+Surfing
+20-40
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+In the southeast corner of the route (requires
+Surf
+)
+(hidden)
+Pt
+Max Revive
+Western islet (requires
+Surf
+)
+Pt
+Big Pearl
+In the islet to the west of Swimmer Sheltin (same islet as the Max Revive) (requires
+Surf
+)
+(hidden)
+Pt
+Water Stone
+At the easternmost shallow water at the southern part of Route 213, north of Swimmers Evan and Mary (requires
+Surf
+)
+Pt
+On
+Route 213
+, use
+Surf
+south of Dr. Footstep's house and follow the rock wall eastward. Eventually, you will find a narrow passage to a patch of sea that contains most of the trainers and a few items. South of that is another passage leading to
+Swimmer
+Shetlin, a
+Big Pearl
+, and a
+Max Revive
+. Whenever you visit a small island, be sure to use the Dowsing Machine on your
+Pokétch
+to find more items.
+← Part 10
+Pastoria Gym to Valor Lakefront
+Platinum
+walkthrough
+Route 219 to Canalave City
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

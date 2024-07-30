@@ -1,0 +1,45 @@
+Game: Ruby_and_Sapphire
+Part: 16
+Keywords: Abandoned Ship, Route 129, Route 130, Route 131, Pacifidlog Town
+
+## Pokémon Ruby and Sapphire Walkthrough: Part 16
+
+### Key Locations: Abandoned Ship, Route 129, Route 130, Route 131, Pacifidlog Town
+
+### Abandoned Ship (Route 108)
+- **Access**: Use Surf and Dive.
+- **Trainers**:
+  - B1F: Sailor Duncan (Wailmer, Machoke).
+  - 1F: Tuber Charlie (Marill), Young Couple Lois & Hal (Volbeat, Illumise).
+- **Items**:
+  - 1F: Harbor Mail (northwest room), Revive (north room).
+  - B1F: Dive Ball (north-central cabin), Escape Rope (southwest cabin), TM13 (Ice Beam, requires Storage Key).
+  - **Hidden Items**: Storage Key (Captain's Office), Rm. 1 Key (Room 3), Water Stone (Room 3), TM18 (Rain Dance, Room 1), Scanner (Room 2).
+- **Objective**: Retrieve the Scanner for Captain Stern in Slateport Harbor, trade it for either DeepSeaTooth or DeepSeaScale.
+
+### Route 129
+- **Trainers**:
+  - Triathlete Allison (Staryu), Triathlete Chase (Staryu), Swimmer Reed (Carvanha, Sharpedo).
+- **Pokémon**: Surfing brings Tentacool, Wingull, Wailord; fishing yields Magikarp and Tentacool.
+
+### Route 130
+- **Trainers**:
+  - Swimmer Katie (Goldeen, Chinchou, Spheal), Swimmer Rodney (Horsea, Gyarados).
+- **Mirage Island**: Occasionally appears, home to Wynaut (Lv. 5-50) and a Liechi Berry tree.
+
+### Route 131
+- **Trainers**:
+  - Swimmer Kara (Seaking), Swimmer Herman (Wailmer, Tentacruel), Swimmer Susie (Horsea, Wailmer).
+- **Pokémon**: Similar to previous routes - Tentacool, Wingull, Wailmer with fishing yields similar results.
+
+### Pacifidlog Town
+- **Overview**: Floating village with a Pokémon Center.
+- **Trainers**: Trade Corsola for Bellossom with a local.
+- **Items**: TM21 (Frustration) or TM27 (Return) based on friendship with lead Pokémon.
+- **Legends**: Speak to locals for hints about the region's mysteries.
+
+### Important Notes:
+- Rematches available with trainers having a PokéNav.
+- Collect items before proceeding to the next area to enhance your journey.
+
+This guide focuses on essential battle strategies, item locations, and key objectives to progress in Pokémon Ruby and Sapphire.

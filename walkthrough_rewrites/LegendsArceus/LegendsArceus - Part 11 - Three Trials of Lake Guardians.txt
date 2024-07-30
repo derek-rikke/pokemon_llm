@@ -1,0 +1,35 @@
+Game: LegendsArceus
+Part: 11
+Keywords: Three Trials of Lake Guardians
+
+**Part 11: Three Trials of Lake Guardians**
+
+1. **Location**: Head to Lake Verity, Lake Acuity, and Lake Valor to complete the trials.
+   
+2. **Trial Steps**:
+   - **Lake Verity**: 
+     - Speak with the Guardian (Uxie).
+     - Defeat the level 65 Uxie in battle.
+     - Complete the trial to receive the “Wisdom” blessing.
+
+   - **Lake Acuity**: 
+     - Find the Guardian (Azelf).
+     - Battle and defeat the level 65 Azelf.
+     - Complete the trial to receive the “Knowledge” blessing.
+
+   - **Lake Valor**: 
+     - Meet the Guardian (Mesprit).
+     - Engage and defeat the level 65 Mesprit.
+     - Complete the trial to receive the “Emotion” blessing.
+
+3. **After Trials**: 
+   - Return to the center and report your progress.
+   - Prepare for the upcoming battles by healing your Pokémon and stocking up on items.
+
+4. **Battle Strategy**:
+   - Use strong-type advantages against the Lake Guardians. Consider Psychic-type moves for effective damage.
+   - Ensure your Pokémon are at least level 60 for easier battles.
+
+5. **Next Steps**: After completing all three trials, advance the storyline by following the next quest objectives.
+
+Remember to save your game frequently!

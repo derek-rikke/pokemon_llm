@@ -1,0 +1,56 @@
+Game: Black2_and_White2
+Part: 10
+Keywords: Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+
+### Part 10 Walkthrough: Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+
+#### Mistralton City
+- **Items:**
+  - **HP Up:** From a woman in the southeast house after collecting TMs (10, 20, 35, 50, 70, 95).
+  - **Iron:** Hidden in the trash can in the southeast house.
+  - **Master Ball:** Received from Professor Juniper near the Pokémon Center.
+  - **Sharp Beak:** From a female Veteran at the Cargo Service.
+  - **Net Balls (x5):** From the Worker at the Cargo Service when you have a Flying or Psychic Pokémon.
+  - **TM58 (Sky Drop):** On the runway, south of the Cargo Service.
+  - **Max Repel:** South of the runway, between the greenhouses.
+  - **Fresh Water:** From Clyde in the Gym.
+  - **TM55 (Acrobatics):** From Skyla after defeating her.
+  - **TM40 (Aerial Ace):** From the Youngster in the northern house.
+
+#### Route 7
+- **Overview:** Grass-filled area with paths to avoid wild Pokémon. Leads to Celestial Tower and Twist Mountain.
+- **Trainers:** Includes Pokémon Breeder Marcus, Youngster Cody, and others with varying rewards.
+- **Available Pokémon:** Tranquill, Cubchoo, Zebstrika, Deerling, Zangoose, etc.
+- **Items:**
+  - **Zinc:** Near Youngster Cody.
+  - **Leaf Stone:** Near Preschooler Greg.
+  - **Elixir:** East of Preschooler Chrissy.
+  - **TM81 (X-Scissor):** Near Harlequin Pat.
+  
+#### Celestial Tower
+- **Overview:** Five-floor tower where you can catch Litwick and Elgyem.
+- **Items:**
+  - **Lucky Egg:** From Professor Juniper on 1F.
+  - **Hyper Potion:** On 2F (west).
+  - **TM61 (Will-O-Wisp):** On 2F (east).
+  - **Revive:** On 3F (west).
+  - **TM65 (Shadow Claw):** On 4F (east).
+  - **Ghost Gem:** Hidden on the roof.
+
+#### Mistralton Gym
+- **Leader:** Skyla (Flying-type).
+- **Strategy:** Use Electric, Ice, and Rock-type moves. Skyla’s Pokémon:
+  - **Swoobat:** Vulnerable to Electric.
+  - **Skarmory:** Weak against Fire.
+  - **Swanna:** Weak against Electric and Rock.
+- **Rewards:** 
+  - Defeating Skyla grants the Jet Badge (ensures Pokémon up to level 70 obey) and TM55 (Acrobatics).
+
+#### After the Gym
+- **Juniper's Return:** After your victory, Juniper meets you and prepares to leave for Opelucid City.
+- **Kids' Treasure:** Speak to the Youngster in the house north of the Pokémon Center, then find TM40 (Aerial Ace) at the south end of the runway.
+
+#### Next Steps
+- Head to Mistralton Cargo Service where Skyla will fly you to Lentimas Town due to the blockage at Twist Mountain. 
+
+This concise guide covers key progress points, essential items, and strategies needed to advance through Mistralton City, Route 7, and the Celestial Tower.

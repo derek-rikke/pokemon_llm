@@ -1,0 +1,32 @@
+Game: Diamond_and_Pearl
+Part: 20
+Keywords: Catching the Lake Guardians, Hotel Grand Lake, Route 222, Sunyshore City, Vista Lighthouse
+
+**Part 20 Walkthrough: Catching the Lake Guardians and Progressing to Sunyshore City**
+
+1. **Post-Team Galactic**: After defeating Team Galactic, visit Celestic Town to gather data on Palkia/Dialga and head to Galactic HQ in Veilstone City to speak with Commander Saturn.
+
+2. **Catching the Lake Guardians**: Equip Pokémon with **Surf**, and stock up on **Dusk Balls**, **Quick Balls**, and **Repel**.
+
+   - **Mesprit**: Found in **Verity Cavern** (Lake Verity). After a brief encounter, it will roam Sinnoh. Use the **Marking Map** to track it. Recommended areas to encounter Mesprit are **Route 205** and **Valley Windworks**.
+     - Use a Pokémon under Level 50 to encounter Mesprit. Inflict a status ailment, then weaken it before throwing Quick Balls when its HP is low.
+
+   - **Azelf**: Found in **Valor Cavern** (Lake Valor). It battles you directly.
+     - Use **Dusk Balls** to catch it. Be cautious of its **Nasty Plot** ability that boosts its Special Attack.
+
+   - **Uxie**: Found in **Acuity Cavern** (Lake Acuity) and also battles you directly.
+     - Similar strategy as Azelf, using **Dusk Balls**. Watch out for **Yawn**, which can induce sleep.
+
+3. **Hotel Grand Lake**: Heal your Pokémon and ensure you have Pokémon with **Cut**, **Surf**, and **Rock Smash**. Head east from Seven Stars Restaurant to reach **Route 222**.
+
+4. **Route 222**: A straightforward path leading to **Sunyshore City**. Plenty of trainers are available for battles. Collect items along the way:
+   - **TM56 (Fling)** and various Berries, including **Wiki**, **Mago**, and **Aguav Berries**.
+   - **Surfing Pokémon**: Encounter Tentacool, Tentacruel, and others.
+
+5. **Sunyshore City**: Upon entering, meet Flint from the Elite Four. He informs you that Gym Leader Volkner is at **Vista Lighthouse**. Explore the city, heal at the Pokémon Center, and grab hidden items like the **Zap Plate**.
+
+6. **Vista Lighthouse**: Take the lift to the top. Speak with Volkner, who will return to Sunyshore Gym after your conversation. 
+
+7. **Next Steps**: Heal your Pokémon and prepare for your battle with Volkner at Sunyshore Gym.
+
+This walkthrough ensures you catch the Lake Guardians and progress through Route 222 and Sunyshore City efficiently.

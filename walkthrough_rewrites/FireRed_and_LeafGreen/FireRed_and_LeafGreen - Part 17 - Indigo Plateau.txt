@@ -1,0 +1,48 @@
+Game: FireRed_and_LeafGreen
+Part: 17
+Keywords: Indigo Plateau
+
+## Part 17: Indigo Plateau Walkthrough
+
+### Indigo Plateau Overview
+Indigo Plateau is the Pokémon League's headquarters in Kanto. Prepare with a Pokémon Center and Poké Mart before facing the Elite Four. Bring strong Pokémon and plenty of healing items like Potions and Revives.
+
+**Poké Mart Inventory:**
+- Ultra Ball: $1200
+- Great Ball: $600
+- Full Restore: $3000
+- Max Potion: $2500
+- Revive: $1500
+- Full Heal: $600
+- Max Repel: $700
+
+### Elite Four Battles
+
+#### Battle 1: Lorelei
+- **Type**: Ice/Water
+- **Strategy**: Use Electric moves against her Water/Ice types.
+- **Key Pokémon**: Dewgong (Lv. 52), Cloyster (Lv. 51), Slowbro (Lv. 52), Jynx (Lv. 54), Lapras (Lv. 54).
+
+#### Battle 2: Bruno
+- **Type**: Fighting/Rock
+- **Strategy**: Use Flying and Psychic moves. Grass and Water moves are effective against his Onix.
+- **Key Pokémon**: Onix (Lv. 51), Hitmonchan (Lv. 53), Hitmonlee (Lv. 53), Onix (Lv. 54), Machamp (Lv. 56).
+
+#### Battle 3: Agatha
+- **Type**: Ghost/Poison
+- **Strategy**: Use Dark and Ghost moves. Ground and Psychic moves are effective.
+- **Key Pokémon**: Gengar (Lv. 54), Golbat (Lv. 54), Haunter (Lv. 53), Arbok (Lv. 56), Gengar (Lv. 58).
+
+#### Battle 4: Lance
+- **Type**: Dragon/Flying
+- **Strategy**: Use Ice moves against his Dragons and Electric moves against Gyarados.
+- **Key Pokémon**: Gyarados (Lv. 56), Dragonair (Lv. 54), Dragonair (Lv. 54), Aerodactyl (Lv. 58), Dragonite (Lv. 60).
+
+### Champion Battle: Blue
+- **Strategy**: Use Electric moves against Pidgeot and Gyarados, Water moves against Rhydon, and Fire/Ice moves against Exeggutor. Use strong physical moves against Alakazam.
+- **Key Pokémon**: Pidgeot (Lv. 59), Alakazam (Lv. 57), Rhydon (Lv. 59), Gyarados (Lv. 61), Exeggutor (Lv. 59), Charizard/Arcanine (Lv. 63).
+
+### Hall of Fame
+After defeating Blue, you will enter the Hall of Fame, where your achievements are recorded. The game will save, and credits will roll, but your adventure continues!
+
+Prepare well and good luck!

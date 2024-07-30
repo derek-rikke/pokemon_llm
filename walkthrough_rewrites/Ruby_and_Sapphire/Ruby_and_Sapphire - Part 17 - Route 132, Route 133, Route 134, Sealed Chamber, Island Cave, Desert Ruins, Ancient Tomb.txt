@@ -1,0 +1,49 @@
+Game: Ruby_and_Sapphire
+Part: 17
+Keywords: Route 132, Route 133, Route 134, Sealed Chamber, Island Cave, Desert Ruins, Ancient Tomb
+
+## Pokémon Ruby and Sapphire Walkthrough - Part 17
+
+### Routes 132, 133, and 134
+- **Ocean Currents**: Navigate westward through strong currents to explore islands.
+  
+#### Route 132 Trainers:
+- **Swimmer Dana**: Marill, Luvdisc, Azumarill (Reward: $264)
+- **Swimmer Gilbert**: Sharpedo (Reward: $280)
+- **Black Belt Kiyo**: Multiple Makuhita and Machoke (Reward: $1,056)
+- **Fisherman Ronald**: Multiple Gyarados and Magikarp (Reward: $1,360)
+
+#### Route 133 Trainers:
+- **Swimmer Franklin**: Tentacruel, Sealeo (Reward: $272)
+- **Cooltrainer Warren**: Graveler, Magcargo, Ludicolo (Reward: $1,632)
+- **Bird Keeper Beck**: Pelipper (Reward: $1,088)
+
+#### Route 134 Trainers:
+- **Swimmer Jack**: Staryu, Gyarados (Reward: $272)
+- **Black Belt Hitoshi**: Machoke (Reward: $1,088)
+- **Dragon Tamer Aaron**: Bagon (Reward: $1,680)
+
+### Key Items:
+- **Route 132**: Rare Candy (northwest island), Star Piece (northwest island)
+- **Route 133**: Big Pearl (southern shallows)
+
+### Sealed Chamber
+- **Entrance**: Dive south of Route 134, enter the Sealed Chamber.
+- **First Room**: Read stone tablets for clues. Use Dig on the north wall.
+- **Back Room**: Follow instructions to position Relicanth and Wailord in your party to unlock access to three legendary Pokémon.
+
+### Island Cave (Route 105)
+- **Entrance**: Wait 2 minutes by the north wall to reveal a passage.
+- **Back Room**: Encounter **Regice** (Lv. 40, Ice-type).
+
+### Desert Ruins (Route 111)
+- **Entrance**: Move two steps east and two steps south, then use Strength.
+- **Back Room**: Encounter **Regirock** (Lv. 40, Rock-type).
+
+### Ancient Tomb (Route 120)
+- **Entrance**: Move to the center and use Fly.
+- **Back Room**: Encounter **Registeel** (Lv. 40, Steel-type).
+
+#### Summary:
+1. Navigate the challenging waters of Routes 132-134, battling trainers and collecting items.
+2. Seek out hidden chambers and legendary Pokémon by following specific instructions and solving ancient messages.

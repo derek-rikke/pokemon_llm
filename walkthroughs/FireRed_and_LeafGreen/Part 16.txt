@@ -1,0 +1,1363 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_16
+Keywords: Route 22, Route 23, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 22
+1.1
+Rival Battle 7
+1.1.1
+If the player chose Bulbasaur:
+1.1.2
+If the player chose Charmander:
+1.1.3
+If the player chose Squirtle:
+2
+Route 23 (South)
+2.1
+VIPs Only
+2.2
+Victory Road
+2.2.1
+1F
+2.2.2
+2F
+2.2.3
+3F
+2.2.4
+2F
+2.2.5
+3F
+2.2.6
+2F
+2.2.7
+3F (Southeast)
+2.2.8
+2F (East)
+3
+Route 23 (North)
+Route 22
+Route 22
+Route 23
+Route 22
+is a simple route that connects
+Viridian City
+to the
+Pokémon League Reception Gate
+in the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+FR
+LG
+Grass
+2-5
+45%
+Mankey
+FR
+LG
+Grass
+2-5
+45%
+Spearow
+FR
+LG
+Grass
+3, 5
+10%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+20-40
+100%
+Slowpoke
+FR
+LG
+Surfing
+20-40
+100%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Poliwag
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Poliwhirl
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rival Battle 7
+As you attempt to travel westward,
+Blue
+appears and challenges you again. His Pokémon are no pushovers, but play to their weaknesses and they should not last very long.
+If the player chose
+Bulbasaur
+:
+Rival
+Blue
+Route 22
+FireRed and LeafGreen
+Reward:
+$
+1908
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeot
+♂
+Lv.
+47
+Wing Attack
+Flying
+--
+FeatherDance
+Flying
+--
+Quick Attack
+Normal
+--
+Gust
+Flying
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+47
+Psychic
+Psychic
+--
+Calm Mind
+Psychic
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+45
+Rock Blast
+Rock
+--
+Take Down
+Normal
+--
+Fury Attack
+Normal
+--
+Horn Drill
+Normal
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+45
+Rain Dance
+Water
+--
+Twister
+Dragon
+--
+Hydro Pump
+Water
+--
+Leer
+Normal
+--
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggcute
+♂
+Lv.
+45
+SolarBeam
+Grass
+--
+PoisonPowder
+Poison
+--
+Sleep Powder
+Grass
+--
+Stun Spore
+Grass
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+None
+Charizard
+♂
+Lv.
+53
+Flamethrower
+Fire
+--
+Wing Attack
+Flying
+--
+Slash
+Normal
+--
+Scary Face
+Normal
+--
+If the player chose
+Charmander
+:
+Rival
+Blue
+Route 22
+FireRed and LeafGreen
+Reward:
+$
+1908
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeot
+♂
+Lv.
+47
+Wing Attack
+Flying
+--
+FeatherDance
+Flying
+--
+Quick Attack
+Normal
+--
+Gust
+Flying
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+47
+Psychic
+Psychic
+--
+Calm Mind
+Psychic
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+45
+Rock Blast
+Rock
+--
+Take Down
+Normal
+--
+Fury Attack
+Normal
+--
+Horn Drill
+Normal
+--
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggcute
+♂
+Lv.
+45
+SolarBeam
+Grass
+--
+PoisonPowder
+Poison
+--
+Sleep Powder
+Grass
+--
+Stun Spore
+Grass
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Growlithe
+♂
+Lv.
+45
+Flame Wheel
+Fire
+--
+Take Down
+Normal
+--
+Leer
+Normal
+--
+Agility
+Psychic
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Blastoise
+♂
+Lv.
+53
+Rain Dance
+Water
+--
+Water Gun
+Water
+--
+Rapid Spin
+Normal
+--
+Bite
+Dark
+--
+If the player chose
+Squirtle
+:
+Rival
+Blue
+Route 22
+FireRed and LeafGreen
+Reward:
+$
+1908
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeot
+♂
+Lv.
+47
+Wing Attack
+Flying
+--
+FeatherDance
+Flying
+--
+Quick Attack
+Normal
+--
+Gust
+Flying
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+47
+Psychic
+Psychic
+--
+Calm Mind
+Psychic
+--
+Future Sight
+Psychic
+--
+Disable
+Normal
+--
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+None
+Rhyhorn
+♂
+Lv.
+45
+Rock Blast
+Rock
+--
+Take Down
+Normal
+--
+Fury Attack
+Normal
+--
+Horn Drill
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Growlithe
+♂
+Lv.
+45
+Flame Wheel
+Fire
+--
+Take Down
+Normal
+--
+Leer
+Normal
+--
+Agility
+Psychic
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+45
+Rain Dance
+Water
+--
+Twister
+Dragon
+--
+Hydro Pump
+Water
+--
+Leer
+Normal
+--
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Venusaur
+♂
+Lv.
+53
+Sweet Scent
+Normal
+--
+Synthesis
+Grass
+--
+Razor Leaf
+Grass
+--
+Growth
+Normal
+--
+Route 23 (South)
+POKéMON LEAGUE
+Front Gate
+Route 23
+is a lengthy road that links the
+Pokémon League Reception Gate
+to
+Indigo Plateau
+.
+Victory Road
+is located on the north side.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mankey
+FR
+LG
+Grass
+32, 34
+30%
+Fearow
+FR
+LG
+Grass
+40, 42, 44
+25%
+Ekans
+FR
+LG
+Grass
+32, 34
+20%
+Sandshrew
+FR
+LG
+Grass
+32, 34
+20%
+Spearow
+FR
+LG
+Grass
+32, 34
+15%
+Arbok
+FR
+LG
+Grass
+44
+5%
+Sandslash
+FR
+LG
+Grass
+44
+5%
+Primeape
+FR
+LG
+Grass
+42
+5%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+20-40
+100%
+Slowpoke
+FR
+LG
+Surfing
+20-40
+100%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Poliwag
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Poliwhirl
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Leppa Berry
+Northwest of the Thunder Badge checkpoint, on the marked square
+(hidden)
+FR
+LG
+Max Ether
+Two steps south, two steps west of the northeast corner of the island
+(hidden)
+FR
+LG
+Ultra Ball
+Northeast of the lake, on the wall between two statues
+(hidden)
+FR
+LG
+Aspear Berry
+Southwest of the Volcano Badge checkpoint, on the marked square
+(hidden)
+FR
+LG
+Full Restore
+East of the northernmost grass patch, on a rock
+(hidden)
+FR
+LG
+Sitrus Berry
+West-southwest of the Victory Road entrance, next to the statue
+(hidden)
+FR
+LG
+Lum Berry
+Southwest of the maze of stones, on a marked square
+(hidden)
+FR
+LG
+Max Elixir
+Northwest part of the maze of stones
+(hidden)
+FR
+LG
+VIPs Only
+All Trainers traveling to
+Indigo Plateau
+must present their Badges to prove their worth. The first guard looks to see if a Trainer has earned the
+Boulder Badge
+. The other guards are posted at various checkpoints farther along the route to inspect each Trainer for the other seven Badges. Once the last guard has verified that you have earned the
+Earth Badge
+, you are free to enter Victory Road.
+Victory Road, 1F
+Victory Road, 2F
+Victory Road, 3F
+Victory Road
+There are several large boulders in
+Victory Road
+that can only be moved with
+Strength
+, like in the
+Seafoam Islands
+. However, instead of dropping them down through holes in the floor, they must be moved onto pressure switches to unlock new areas.
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Naomi
+Reward:
+$
+1512
+Persian
+♀
+Lv.
+42
+No item
+Ponyta
+♀
+Lv.
+42
+No item
+Rapidash
+♀
+Lv.
+42
+No item
+Vulpix
+♀
+Lv.
+42
+No item
+Ninetales
+♀
+Lv.
+42
+No item
+Cooltrainer
+Rolando
+Reward:
+$
+1512
+Raticate
+♂
+Lv.
+42
+No item
+Ivysaur
+♂
+Lv.
+42
+No item
+Wartortle
+♂
+Lv.
+42
+No item
+Charmeleon
+♂
+Lv.
+42
+No item
+Charizard
+♂
+Lv.
+42
+No item
+Black Belt
+Daisuke
+Reward:
+$
+1032
+Machoke
+♂
+Lv.
+43
+Black Belt
+Machop
+♂
+Lv.
+43
+Black Belt
+Machoke
+♂
+Lv.
+43
+Black Belt
+Juggler
+Nelson
+Reward:
+$
+1640
+Drowzee
+♂
+Lv.
+41
+No item
+Hypno
+♂
+Lv.
+41
+No item
+Kadabra
+♂
+Lv.
+41
+No item
+Kadabra
+♂
+Lv.
+41
+No item
+Tamer
+Vincent
+Reward:
+$
+1760
+Persian
+♂
+Lv.
+44
+No item
+Golduck
+♂
+Lv.
+44
+No item
+Juggler
+Gregory
+Reward:
+$
+1920
+Mr. Mime
+♂
+Lv.
+48
+No item
+Cooltrainer
+George
+Reward:
+$
+1512
+Exeggutor
+♂
+Lv.
+42
+No item
+Sandslash
+♂
+Lv.
+42
+No item
+Cloyster
+♂
+Lv.
+42
+No item
+Electrode
+Lv.
+42
+No item
+Arcanine
+♂
+Lv.
+42
+No item
+PokéManiac
+Dawson
+Reward:
+$
+1920
+Charmeleon
+♂
+Lv.
+40
+No item
+Lapras
+♂
+Lv.
+40
+No item
+Lickitung
+♂
+Lv.
+40
+No item
+Cooltrainer
+Alexa
+Reward:
+$
+1512
+Clefairy
+♀
+Lv.
+42
+No item
+Jigglypuff
+♀
+Lv.
+42
+No item
+Persian
+♀
+Lv.
+42
+No item
+Dewgong
+♀
+Lv.
+42
+No item
+Chansey
+♀
+Lv.
+42
+No item
+Cooltrainer
+Colby
+Reward:
+$
+1548
+Kingler
+♂
+Lv.
+41
+No item
+Poliwhirl
+♂
+Lv.
+42
+No item
+Tentacruel
+♂
+Lv.
+42
+No item
+Seadra
+♂
+Lv.
+42
+No item
+Blastoise
+♂
+Lv.
+43
+No item
+Cooltrainer
+Caroline
+Reward:
+$
+1512
+Bellsprout
+♀
+Lv.
+42
+No item
+Weepinbell
+♀
+Lv.
+42
+No item
+Victreebel
+♀
+Lv.
+42
+No item
+Paras
+♀
+Lv.
+42
+No item
+Parasect
+♀
+Lv.
+42
+No item
+Cool Couple
+Ray & Tyra
+Reward:
+$
+2160
+Nidoking
+♂
+Lv.
+45
+No item
+Nidoqueen
+♀
+Lv.
+45
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+1F, 3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Onix
+FR
+LG
+Cave
+40, 43, 46
+30%
+Machop
+FR
+LG
+Cave
+32
+20%
+Geodude
+FR
+LG
+Cave
+32
+20%
+Zubat
+FR
+LG
+Cave
+32
+10%
+Arbok
+FR
+LG
+Cave
+44
+5%
+Sandslash
+FR
+LG
+Cave
+44
+5%
+Golbat
+FR
+LG
+Cave
+44
+5%
+Machoke
+FR
+LG
+Cave
+44, 46
+5%
+Marowak
+FR
+LG
+Cave
+44, 46
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Machop
+FR
+LG
+Cave
+34
+20%
+Geodude
+FR
+LG
+Cave
+34
+20%
+Onix
+FR
+LG
+Cave
+45, 48
+20%
+Zubat
+FR
+LG
+Cave
+34
+10%
+Primeape
+FR
+LG
+Cave
+42
+10%
+Arbok
+FR
+LG
+Cave
+46
+5%
+Sandslash
+FR
+LG
+Cave
+46
+5%
+Golbat
+FR
+LG
+Cave
+46
+5%
+Machoke
+FR
+LG
+Cave
+46, 48
+5%
+Marowak
+FR
+LG
+Cave
+46, 48
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM02
+(
+Dragon Claw
+)
+Northeast corner, north of the boulder (requires
+Strength
+)
+FR
+LG
+Rare Candy
+Northeast corner, west of the boulder (requires
+Strength
+)
+FR
+LG
+Full Restore
+Northeast corner, on a rock two steps east of TM02
+(hidden)
+FR
+LG
+Ultra Ball
+Near the middle of 1F, on a rock
+(hidden)
+FR
+LG
+2F
+TM37
+(
+Sandstorm
+)
+South of the rock platform
+FR
+LG
+Full Heal
+Northeast area, next to the Tamer
+FR
+LG
+TM07
+(
+Hail
+)
+Northeast corner, near the Juggler
+FR
+LG
+Guard Spec.
+Northwest area, near Moltres
+FR
+LG
+3F
+Max Revive
+Northeast area, near the Cooltrainer♂
+FR
+LG
+TM50
+(
+Overheat
+)
+Near the ladder in the northwest corner
+FR
+LG
+1F
+Near the entrance, there is a boulder to the west and a pressure switch to the east. To activate the switch, use
+Strength
+to move the boulder eastward (↓1, →5, ↑2, →7, ↑2, →1, and ↓1). Doing so removes the barrier on the rocky ridge. Head to the northeast area to find two items near the north wall. The cave's narrow layout forces you to use the boulder here to block off one item in order to reach the other. Collect either the
+Rare Candy
+or
+TM02
+(
+Dragon Claw
+), then exit and re-enter the cave to reset the puzzle and reach the other item. Go west past the two Cooltrainers and climb up the ladder to the northwest.
+2F
+Another boulder can be found to the south. Push this one southwestward (←2, ↓2, ←2) to reach the switch and clear the next barrier. Walk along the rocky ridge and go down the first stairway. Pick up
+TM37
+(
+Sandstorm
+) to the west, then head northeastward to reach a
+Full Heal
+and
+TM07
+(
+Hail
+). Climb the northeast ladder to the third floor.
+3F
+Go northeast to fight a Cooltrainer♂ and pick up a
+Max Revive
+. Head to the northwest area to find
+TM50
+(
+Overheat
+) and another switch. Climb down the ladder to reach a separate part of the second floor.
+2F
+Battle PokéManiac Dawson and pick up the
+Guard Spec.
+on the rock next to him. Take the ladder back up to the third floor.
+3F
+Go back to the boulder in the northeast area and push it all the way westward (↑2, ←22, ↓1, ←4, ↓3, →1) to reach the switch. This removes the next barrier so that you can reach the southern area. Walk across the rocky ridge and go south to battle two more Cooltrainers. Head east and push the boulder here down the hole in the floor, then jump down after it.
+2F
+Shove the boulder all the way westward to the switch. This removes the barrier near where the boulder landed. Climb up onto the ridge and take the ladder up to the third floor.
+3F (Southeast)
+Climb down the next ladder back to the second floor.
+2F (East)
+The Cooltrainer in the final area offers to teach
+Double-Edge
+to a compatible Pokémon, in recognition of you clearing the cave. Take the eastern exit to return to
+Route 23
+.
+Route 23 (North)
+Follow the tiled pathway to the north and head through the maze of stones to finally reach
+Indigo Plateau
+.
+← Part 15
+Route 21, Power Plant, Viridian Gym
+FireRed and LeafGreen
+walkthrough
+The Pokémon League
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

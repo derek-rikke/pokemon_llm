@@ -1,0 +1,1216 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_15
+Keywords: Route 22, Route 23, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 22
+1.1
+Rival Battle 7
+1.1.1
+If the player chose Bulbasaur:
+1.1.2
+If the player chose Charmander:
+1.1.3
+If the player chose Squirtle:
+2
+Route 23 (South)
+2.1
+VIPs Only
+2.2
+Victory Road
+2.2.1
+1F
+2.2.2
+2F
+2.2.3
+3F
+2.2.4
+2F
+2.2.4.1
+VS Moltres
+2.2.5
+3F
+2.2.6
+2F
+2.2.7
+3F (Southeast)
+2.2.8
+2F (East)
+3
+Route 23 (North)
+Route 22
+Route 22
+Route 23
+Route 22
+is a simple route that connects
+Viridian City
+to the
+Pokémon League Reception Gate
+in the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+R
+B
+Y
+Grass
+2-4
+45%
+Nidoran♀
+R
+B
+Y
+Grass
+2-4
+40%
+Nidoran♂
+R
+B
+Y
+Grass
+2-4
+40%
+Spearow
+R
+B
+Y
+Grass
+3, 5
+10%
+Nidoran♀
+R
+B
+Y
+Grass
+3-4
+5%
+Nidoran♂
+R
+B
+Y
+Grass
+3-4
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Poliwag
+R
+B
+Y
+Fishing
+Super Rod
+15
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Super Rod
+15
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rival Battle 7
+As you attempt to travel westward,
+Blue
+appears and challenges you again. His Pokémon are no pushovers, but play to their weaknesses and they should not last very long.
+If the player chose
+Bulbasaur
+:
+Blue
+Route 22
+Red, Green
+, and
+Blue
+Reward:
+$
+3445
+Types:
+Normal
+Flying
+Pidgeot
+Lv.
+47
+Wing Attack
+Flying
+--
+Agility
+Psychic
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Types:
+Ground
+Rock
+Rhyhorn
+Lv.
+45
+Fury Attack
+Normal
+--
+Stomp
+Normal
+--
+Horn Drill
+Normal
+--
+Tail Whip
+Normal
+--
+Types:
+Grass
+Psychic
+Exeggcute
+Lv.
+45
+Leech Seed
+Grass
+--
+PoisonPowder
+Poison
+--
+SolarBeam
+Grass
+--
+Stun Spore
+Grass
+--
+Types:
+Water
+Flying
+Gyarados
+Lv.
+47
+Dragon Rage
+Dragon
+--
+Hydro Pump
+Water
+--
+Bite
+Normal
+--
+Leer
+Normal
+--
+Type:
+Psychic
+Unknown
+Alakazam
+Lv.
+50
+Psybeam
+Psychic
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Recover
+Normal
+--
+Types:
+Fire
+Flying
+Charizard
+Lv.
+53
+Flamethrower
+Fire
+--
+Slash
+Normal
+--
+Rage
+Normal
+--
+Leer
+Normal
+--
+If the player chose
+Charmander
+:
+Blue
+Route 22
+Red, Green
+, and
+Blue
+Reward:
+$
+3445
+Types:
+Normal
+Flying
+Pidgeot
+Lv.
+47
+Wing Attack
+Flying
+--
+Agility
+Psychic
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Types:
+Ground
+Rock
+Rhyhorn
+Lv.
+45
+Fury Attack
+Normal
+--
+Stomp
+Normal
+--
+Horn Drill
+Normal
+--
+Tail Whip
+Normal
+--
+Type:
+Fire
+Unknown
+Growlithe
+Lv.
+45
+Ember
+Fire
+--
+Take Down
+Normal
+--
+Leer
+Normal
+--
+Agility
+Psychic
+--
+Types:
+Grass
+Psychic
+Exeggcute
+Lv.
+47
+Leech Seed
+Grass
+--
+PoisonPowder
+Poison
+--
+SolarBeam
+Grass
+--
+Stun Spore
+Grass
+--
+Type:
+Psychic
+Unknown
+Alakazam
+Lv.
+50
+Psybeam
+Psychic
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Recover
+Normal
+--
+Type:
+Water
+Unknown
+Blastoise
+Lv.
+53
+Hydro Pump
+Water
+--
+Skull Bash
+Normal
+--
+Bite
+Normal
+--
+Withdraw
+Water
+--
+If the player chose
+Squirtle
+:
+Blue
+Route 22
+Red, Green
+, and
+Blue
+Reward:
+$
+3445
+Types:
+Normal
+Flying
+Pidgeot
+Lv.
+47
+Wing Attack
+Flying
+--
+Agility
+Psychic
+--
+Quick Attack
+Normal
+--
+Whirlwind
+Normal
+--
+Types:
+Ground
+Rock
+Rhyhorn
+Lv.
+45
+Fury Attack
+Normal
+--
+Stomp
+Normal
+--
+Horn Drill
+Normal
+--
+Tail Whip
+Normal
+--
+Types:
+Water
+Flying
+Gyarados
+Lv.
+45
+Dragon Rage
+Dragon
+--
+Hydro Pump
+Water
+--
+Bite
+Normal
+--
+Leer
+Normal
+--
+Type:
+Fire
+Unknown
+Growlithe
+Lv.
+47
+Ember
+Fire
+--
+Take Down
+Normal
+--
+Leer
+Normal
+--
+Agility
+Psychic
+--
+Type:
+Psychic
+Unknown
+Alakazam
+Lv.
+50
+Psybeam
+Psychic
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Recover
+Normal
+--
+Types:
+Grass
+Poison
+Venusaur
+Lv.
+53
+Vine Whip
+Grass
+--
+PoisonPowder
+Poison
+--
+Razor Leaf
+Grass
+--
+Growth
+Normal
+--
+Route 23 (South)
+POKéMON LEAGUE
+Front Gate
+Route 23
+is a lengthy road that links the
+Pokémon League Reception Gate
+to
+Indigo Plateau
+.
+Victory Road
+is located on the north side.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ditto
+R
+B
+Y
+Grass
+33, 38, 43
+30%
+Fearow
+R
+B
+Y
+Grass
+38, 41, 43
+25%
+Ekans
+R
+B
+Y
+Grass
+26
+25%
+Sandshrew
+R
+B
+Y
+Grass
+26
+25%
+Spearow
+R
+B
+Y
+Grass
+26
+15%
+Arbok
+R
+B
+Y
+Grass
+41
+5%
+Sandslash
+R
+B
+Y
+Grass
+41
+5%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Slowbro
+R
+B
+Y
+Fishing
+Super Rod
+23
+25%
+Kingler
+R
+B
+Y
+Fishing
+Super Rod
+23
+25%
+Seadra
+R
+B
+Y
+Fishing
+Super Rod
+23
+25%
+Seaking
+R
+B
+Y
+Fishing
+Super Rod
+23
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Ether
+Near the center of the island
+(hidden)
+R
+B
+Ultra Ball
+In the rightmost of the two trees northeast of the water
+(hidden)
+R
+B
+Full Restore
+In the lone rock just west of the northernmost patch of grass
+(hidden)
+R
+B
+VIPs Only
+All Trainers traveling to
+Indigo Plateau
+must present their Badges to prove their worth. The first guard looks to see if a Trainer has earned the
+Boulder Badge
+. The other guards are posted at various checkpoints farther along the route to inspect each Trainer for the other seven Badges. Once the last guard has verified that you have earned the
+Earth Badge
+, you are free to enter Victory Road.
+Victory Road, 1F
+Victory Road, 2F
+Victory Road, 3F
+Victory Road
+There are several large boulders in
+Victory Road
+that can only be moved with
+Strength
+, like in the
+Seafoam Islands
+. However, instead of dropping them down through holes in the floor, they must be moved onto pressure switches to unlock new areas.
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Reward:
+$
+1540
+Persian
+Lv.
+44
+No item
+Ninetales
+Lv.
+44
+No item
+Cooltrainer
+Reward:
+$
+1470
+Ivysaur
+Lv.
+42
+No item
+Wartortle
+Lv.
+42
+No item
+Charmeleon
+Lv.
+42
+No item
+Charizard
+Lv.
+42
+No item
+Blackbelt
+Reward:
+$
+1075
+Machoke
+Lv.
+43
+No item
+Machop
+Lv.
+43
+No item
+Machoke
+Lv.
+43
+No item
+Juggler
+Reward:
+$
+1435
+Drowzee
+Lv.
+41
+No item
+Hypno
+Lv.
+41
+No item
+Kadabra
+Lv.
+41
+No item
+Kadabra
+Lv.
+41
+No item
+Tamer
+Reward:
+$
+1760
+Persian
+Lv.
+44
+No item
+Golduck
+Lv.
+44
+No item
+Juggler
+Reward:
+$
+1680
+Mr. Mime
+Lv.
+48
+No item
+PokéManiac
+Reward:
+$
+2000
+Charmeleon
+Lv.
+40
+No item
+Lapras
+Lv.
+40
+No item
+Lickitung
+Lv.
+40
+No item
+Cooltrainer
+Reward:
+$
+1505
+Exeggutor
+Lv.
+43
+No item
+Cloyster
+Lv.
+43
+No item
+Arcanine
+Lv.
+43
+No item
+Cooltrainer
+Reward:
+$
+1505
+Parasect
+Lv.
+43
+No item
+Dewgong
+Lv.
+43
+No item
+Chansey
+Lv.
+43
+No item
+Cooltrainer
+Reward:
+$
+1505
+Kingler
+Lv.
+43
+No item
+Tentacruel
+Lv.
+43
+No item
+Blastoise
+Lv.
+43
+No item
+Cooltrainer
+Reward:
+$
+1505
+Bellsprout
+Lv.
+43
+No item
+Weepinbell
+Lv.
+43
+No item
+Victreebel
+Lv.
+43
+No item
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Onix
+R
+B
+Y
+Cave
+36, 39, 42
+30%
+Machop
+R
+B
+Y
+Cave
+24
+25%
+Zubat
+R
+B
+Y
+Cave
+22
+15%
+Geodude
+R
+B
+Y
+Cave
+26
+15%
+Golbat
+R
+B
+Y
+Cave
+41
+5%
+Graveler
+R
+B
+Y
+Cave
+42
+5%
+Machoke
+R
+B
+Y
+Cave
+42
+4%
+Marowak
+R
+B
+Y
+Cave
+43
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Onix
+R
+B
+Y
+Cave
+36, 39, 42
+30%
+Machop
+R
+B
+Y
+Cave
+22
+25%
+Zubat
+R
+B
+Y
+Cave
+26
+15%
+Geodude
+R
+B
+Y
+Cave
+24
+15%
+Golbat
+R
+B
+Y
+Cave
+40
+5%
+Machoke
+R
+B
+Y
+Cave
+41
+5%
+Marowak
+R
+B
+Y
+Cave
+40
+4%
+Graveler
+R
+B
+Y
+Cave
+43
+1%
+Special Pokémon
+Moltres
+R
+B
+Y
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Machop
+R
+B
+Y
+Cave
+24
+25%
+Onix
+R
+B
+Y
+Cave
+42, 45
+20%
+Zubat
+R
+B
+Y
+Cave
+22
+15%
+Geodude
+R
+B
+Y
+Cave
+26
+15%
+Venomoth
+R
+B
+Y
+Cave
+40
+10%
+Golbat
+R
+B
+Y
+Cave
+41
+5%
+Machoke
+R
+B
+Y
+Cave
+42, 45
+5%
+Graveler
+R
+B
+Y
+Cave
+43
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+TM43
+(
+Sky Attack
+)
+Northeast corner, north of the boulder (requires
+Strength
+)
+R
+B
+Rare Candy
+Northeast corner, west of the boulder (requires
+Strength
+)
+R
+B
+2F
+TM05
+(
+Mega Kick
+)
+South of the rock platform
+R
+B
+Full Heal
+Northeast area, next to the Tamer
+R
+B
+TM17
+(
+Submission
+)
+Northeast corner, near the Juggler
+R
+B
+Ultra Ball
+Northwest area, on the rock next to the PokéManiac
+(hidden)
+R
+B
+Guard Spec.
+Northwest area, near Moltres
+R
+B
+Full Restore
+On a rock near the exit
+(hidden)
+R
+B
+3F
+Max Revive
+Northeast area, near the Cooltrainer♂
+R
+B
+TM47
+(
+Explosion
+)
+Near the ladder in the northwest corner
+R
+B
+1F
+Near the entrance, there is a boulder to the west and a pressure switch to the east. To activate the switch, use
+Strength
+to move the boulder eastward (↓1, →4, ↑2, →7, ↑2, →1, and ↓1). Doing so removes the barrier on the rocky ridge. Head to the northeast area to find two items near the north wall. The cave's narrow layout forces you to use the boulder here to block off one item in order to reach the other. Collect either the
+Rare Candy
+or
+TM47
+(
+Sky Attack
+), then exit and re-enter the cave to reset the puzzle and reach the other item. Go west past the two Cooltrainers and climb up the ladder to the northwest.
+2F
+Another boulder can be found to the south. Push this one southwestward (←1, ↓2, ←2) to reach the switch and clear the next barrier. Walk along the rocky ridge and go down the first stairway. Pick up
+TM05
+(
+Mega Kick
+) to the west, then head northeastward to reach a
+Full Heal
+and
+TM17
+(
+Submission
+). Climb the northeast ladder to the third floor.
+3F
+Go northeast to fight a Cooltrainer♂ and pick up a
+Max Revive
+. Head to the northwest area to find
+TM47
+(
+Explosion
+) and another switch. Climb down the ladder to reach a separate part of the second floor.
+2F
+Battle the PokéManiac and pick up the
+Guard Spec.
+on the rock next to him.
+Moltres
+, the third of the
+Legendary birds
+, is roosting nearby.
+VS Moltres
+Moltres
+is the third of the
+legendary birds
+. Use
+Water
+- and
+Electric-type
+attacks to weaken it quickly, then follow up with
+Grass
+and
+Fighting
+moves to wear its health down further. Like with
+Articuno
+and
+Zapdos
+, inflicting status ailments like
+Sleep
+and
+Paralysis
+will help increase the chances of capturing it.
+Types:
+Fire
+Flying
+Moltres
+Lv.
+50
+Peck
+Flying
+--
+Fire Spin
+Fire
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+When the battle is over, take the ladder back up to the third floor.
+3F
+Go back to the boulder in the northeast area and push it all the way westward (↑2, ←16, ↓1, ←4, ↓3, →1) to reach the switch. This removes the next barrier so that you can reach the southern area. Walk across the rocky ridge and go south to battle two more Cooltrainers. Head east and push the boulder here down the hole in the floor, then jump down after it.
+2F
+Shove the boulder all the way westward to the switch. This removes the barrier near where the boulder landed. Climb up onto the ridge and take the ladder up to the third floor.
+3F (Southeast)
+Climb down the next ladder back to the second floor.
+2F (East)
+Inspect the rock next to the ladder to find a
+Full Restore
+. Take the eastern exit to return to
+Route 23
+.
+Route 23 (North)
+Follow the tiled pathway to the north and head through the maze of Pokémon statues to finally reach
+Indigo Plateau
+.
+← Part 14
+Power Plant, Viridian Gym
+Red and Blue
+walkthrough
+The Pokémon League
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

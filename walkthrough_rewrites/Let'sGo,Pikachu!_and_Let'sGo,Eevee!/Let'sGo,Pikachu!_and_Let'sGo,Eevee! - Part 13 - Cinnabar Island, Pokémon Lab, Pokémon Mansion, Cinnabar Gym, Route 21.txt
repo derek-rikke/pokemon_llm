@@ -1,0 +1,52 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21
+
+### Part 13: Cinnabar Island Walkthrough
+
+**Cinnabar Island Overview**
+- Cinnabar Island is located southwest of Kanto between Routes 20 and 21.
+- Key locations: Pokémon Lab (west), Pokémon Mansion (northwest), Cinnabar Gym (northeast).
+
+**Available Pokémon**
+- **Fossils**: Revive Omanyte (Helix Fossil), Kabuto (Dome Fossil), Aerodactyl (Old Amber) at Cinnabar Lab.
+- **Trade**: Alolan Meowth and Grimer available for regular Meowth and Grimer.
+
+**Key Items**
+- **Cinnabar Lab**: TM02 (Taunt) from the Research Room.
+- **Pokémon Mansion**: Items include Max Repel, Max Elixir, Fire Stone, TM52 (Sludge Bomb), and the Secret Key.
+
+**Pokémon Mansion**
+- Explore for items and trainers; use hidden switches to unlock doors.
+- Notable trainers: Burglar Arnie (Rapidash), Coach Trainer Rita (TM22: Rock Slide).
+- Collect journal entries for lore.
+
+**Cinnabar Gym**
+- **Leader**: Blaine (Fire-type).
+- Answer quiz questions to earn Blaine dolls; collect five dolls to challenge Blaine.
+- Correct answers:
+  1. Magmar
+  2. Eight
+  3. Not very effective
+  4. False
+  5. Your player name
+
+**Blaine's Pokémon**
+- **Magmar** (Lv. 47), **Rapidash** (Lv. 47), **Ninetales** (Lv. 47), **Arcanine** (Lv. 48).
+- Strategy: Use Water, Rock, and Ground-type moves.
+
+**Route 21**
+- Follow the ocean route to Pallet Town. 
+- Trainers include Swimmers and Fishermen with Pokémon around level 42.
+
+**Pallet Town**
+- Utilize Sky Dash to return to Route 10 for further exploration towards the Power Plant.
+
+**Route 10 (North)**
+- Head south on the river to find the Power Plant.
+- Trainer: Poké Maniac Mark (Rhyhorn, Lickitung).
+
+**Items on Route 10**
+- Thunder Stone east of the Power Plant (requires Sea Skim).
+
+This concludes your journey through Cinnabar Island and Route 21. Prepare for your next adventure at the Power Plant!

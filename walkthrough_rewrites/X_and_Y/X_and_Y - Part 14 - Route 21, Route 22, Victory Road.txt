@@ -1,0 +1,45 @@
+Game: X_and_Y
+Part: 14
+Keywords: Route 21, Route 22, Victory Road
+
+**Part 14: Route 21, Route 22, Victory Road**
+
+**Route 21**
+- **Overview**: Connects Snowbelle City to Victory Road; explore for items.
+- **Notable Trainers**:
+  - Ace Trainer Mireille (Sableye, Crustle; $5600)
+  - Ace Duo Elina & Sean (Wailord, Vileplume; $11400)
+  - Veteran Trisha (Tyrantrum; $8260)
+- **Available Pokémon**: Floatzel, Spinda, Altaria, Scyther, Ursaring (levels 50-57).
+- **Items**: 
+  - Insect Plate (Surf required, north of Snowbelle gate)
+  - Guard Spec. (east of Ace Duo)
+  - Hidden items: Elixir, Rare Candy, TM22 (Solar Beam) through Strength puzzles.
+
+**Route 22**
+- **Overview**: Links Victory Road to Santalune City; explore for hidden items.
+- **Notable Trainers**:
+  - Rising Star Louise (Psyduck, Litleo; $420)
+  - Ace Trainer Adelbert (Lucario; $3100)
+- **Available Pokémon**: Azurill, Bunnelby, Riolu, Litleo (levels 5-31).
+- **Items**: Super Potion, Elixir, Tanga Berry, Max Elixir, TM26 (Earthquake) via Strength puzzles.
+
+**Victory Road**
+- **Overview**: Entry requires all eight Gym Badges; face various trainers.
+- **Notable Trainers**:
+  - Ace Trainer Robbie (Carbink, Raichu, Kingdra; $5700)
+  - Ace Trainer Alanza (Weavile; $6000)
+  - Rival Battle with Serena/Calem (team level 57-61).
+- **Available Pokémon**: Graveler, Gurdurr, Haunter, Druddigon (levels 57-61).
+- **Items**: 
+  - Cave 1: X Attack, Dusk Ball, TM03 (Psyshock)
+  - Grove 2: Hyper Potion, Full Heal
+  - Cave 2: Ultra Ball, Carbos
+  - Grove 3: Revive, PP Up, Max Revive
+  - Cave 4: Star Piece
+  
+**Key Strategies**:
+- **Battles**: Use type advantages against trainers. Focus on leveling up your team to match or exceed the levels of opponents.
+- **Exploration**: Utilize Surf and Strength to access hidden areas and items throughout the routes and caves.
+
+**Conclusion**: After navigating through Victory Road and defeating the rival, you will reach the Pokémon League. Prepare for the final challenges ahead!

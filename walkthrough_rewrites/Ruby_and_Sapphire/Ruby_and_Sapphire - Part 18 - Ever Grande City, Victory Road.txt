@@ -1,0 +1,48 @@
+Game: Ruby_and_Sapphire
+Part: 18
+Keywords: Ever Grande City, Victory Road
+
+## Part 18: Ever Grande City & Victory Road Walkthrough
+
+### Overview
+After defeating all Gym Leaders and earning eight Badges, head to **Ever Grande City**. From **Mossdeep City**, sail south, then east through Route 128's narrow channel. 
+
+### Ever Grande City
+- Visit the **Pokémon Center** to prepare for **Victory Road**.
+- You need a Pokémon able to use **Waterfall** to access the city.
+
+### Victory Road
+Victory Road is the final challenge before the Pokémon League. Bring Pokémon capable of using **Surf**, **Strength**, **Rock Smash**, and **Waterfall**. **Flash** is optional but helps with visibility.
+
+#### Key Trainers:
+1. **Cooltrainer Albert** (Reward: $2064)
+   - Pokémon: Manectric (Lv. 43), Muk (Lv. 43)
+   
+2. **Cooltrainer Hope** (Reward: $2112)
+   - Pokémon: Roselia (Lv. 44)
+
+3. **Cooltrainer Wally** (Reward: $2700)
+   - Leads with Altaria (Lv. 44, weak to Ice).
+   - Use super-effective moves against his Pokémon:
+     - **Delcatty**: Quick knock-out recommended.
+     - **Roselia**: Use Fire, Ice, Flying, or Psychic moves.
+     - **Magneton**: Ground moves are effective.
+     - **Gardevoir**: Use Dark, Ghost, or Bug moves.
+
+#### Key Pokémon Locations:
+- **1F**: Golbat, Hariyama, Zubat, Lairon.
+- **B1F**: Golbat, Lairon, Medicham.
+- **B2F**: Golbat, Mawile, Sableye.
+
+#### Important Items:
+- **1F**: Max Elixir (east ledge), PP Up (southeast cliff).
+- **B1F**: Full Restore (north of Cooltrainer Samuel).
+- **B2F**: Max Repel (hidden), TM29 (Psychic) on isolated cliff.
+
+### After Victory Road
+Once you defeat Wally, continue north across the bridge to reach the **Pokémon League**. Here, you will face the Elite Four and Champion.
+
+### Preparation
+Ensure your Pokémon are healed and stocked up on items before the final challenge. 
+
+Follow this streamlined path to efficiently navigate through Ever Grande City and Victory Road!

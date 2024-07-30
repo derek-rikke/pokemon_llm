@@ -1,0 +1,886 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_1
+Keywords: Introduction, Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Introduction
+2
+Home
+3
+Littleroot Town
+3.1
+Professor Birch's House
+4
+Route 101
+4.1
+Save the Professor!
+5
+Littleroot Town
+5.1
+Birch's Lab
+5.1.1
+AreaNav
+6
+Oldale Town
+6.1
+Free Potions!
+6.2
+The Sketch Artist
+7
+Route 103
+7.1
+Rival Battle 1
+7.1.1
+Player chose Treecko
+7.1.2
+Player chose Torchic
+7.1.3
+Player chose Mudkip
+8
+Littleroot Town
+8.1
+Pokémon Lab
+8.2
+Meet up with Mom
+9
+Route 101
+9.1
+DexNav
+9.1.1
+Catching and Seeing Pokémon
+9.1.2
+Checking Progress
+9.1.3
+Hidden Pokémon
+9.1.3.1
+Detector Mode
+10
+Route 102
+10.1
+Soft Soil
+10.2
+Eye Some Beautifly
+11
+Petalburg City
+11.1
+Meet up with Dad
+11.1.1
+PlayNav
+Introduction
+The player is immediately given a choice of several languages—English, Spanish, French, German, Italian, Japanese, and Korean—in which to play. After the title screen, the resident researcher of the
+Hoenn
+region,
+Professor Birch
+, appears and introduces new Trainers to the Pokémon world. Meanwhile, the camera pulls back to reveal that his lecture is being shown on a device that the player is using in the back of a moving truck. As the truck proceeds to its destination, the player is shown a scenic view of the surrounding wilderness. The professor continues, asking the player to select both a gender and a name, which can be up to twelve characters long. With that done, the moving truck stops, and Birch sends the player off to begin their journey!
+Home
+The game begins
+in the back of a moving truck
+, as your family has just moved here from the far-off
+Johto
+region. Hop out of the truck to meet
+Mom
+and step inside your new home. Head upstairs to check out your room and set the clock. Return to the first floor and Mom excitedly calls you over to the TV; the current program just aired a segment about the
+Petalburg Gym
+, where your dad is the new
+Gym Leader
+. She then suggests visiting his friend, your new neighbor,
+Professor Birch
+. Welcome to Littleroot Town!
+Littleroot Town
+Littleroot Town
+Littleroot
+is a quaint little town nestled on the lush southern edge of the
+Hoenn
+mainland. There are only three buildings here; your home,
+Professor Birch
+'s home, and the professor's Pokémon Laboratory, where he conducts research on Pokémon distribution, in the south.
+Items
+Item
+Location
+Games
+Running Shoes
+Available from the beginning
+OR
+AS
+Potion
+In the Bag from the beginning
+OR
+AS
+Professor Birch's House
+Having just moved to a new town, why not meet your new neighbors? Visit the house next door to meet the professor's wife, then head upstairs to meet his child,
+May
+/
+Brendan
+. She/He suddenly leaves, remembering that Birch asked for help in catching a Pokémon.
+Route 101
+Route 101
+Route 101
+is a short path that connects
+Littleroot Town
+to
+Oldale Town
+in the north. The route features several patches of
+tall grass
+, a favorite hiding place of wild Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+OR
+AS
+Grass
+2
+40%
+Wurmple
+OR
+AS
+Grass
+2
+40%
+Poochyena
+OR
+AS
+Grass
+2
+20%
+Horde Encounter
+Zigzagoon
+OR
+AS
+Horde Encounter
+2
+95%
+Poochyena
+OR
+AS
+Horde Encounter
+2
+5%
+First partner Pokémon
+Treecko
+OR
+AS
+Gift
+5
+One
+Torchic
+OR
+AS
+Gift
+5
+One
+Mudkip
+OR
+AS
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Save the Professor!
+When you first reach the area, you find
+Professor Birch
+being chased around by a wild
+Poochyena
+! His Bag has fallen out of his reach, and he pleads with you for help. Choose one of the three Pokémon from the Poké Balls inside the professor's Bag, and use it to scare off his attacker.
+Treecko
+Torchic
+Mudkip
+Grass
+Fire
+Water
+Grovyle
+Combusken
+Marshtomp
+Grass
+Fire
+Fighting
+Water
+Ground
+Sceptile
+Blaziken
+Swampert
+Grass
+Fire
+Fighting
+Water
+Ground
+The
+Grass-type
+Treecko
+has the most weaknesses of the trio, with five:
+Fire
+-,
+Bug
+-,
+Poison
+-,
+Flying
+-, and
+Ice-type
+attacks. It and its evolutions excel in
+Special Attack
+and
+Speed
+. Its Grass moves are strong against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon.
+The
+Fire-type
+Torchic
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+-,
+Rock
+-, and
+Ground-type
+moves. It and its evolved forms focus on
+Attack
+and
+Special Attack
+. As it grows, it gains a secondary
+Fighting
+type.
+The
+Water-type
+Mudkip
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+and
+Electric
+attacks. It and its evolutions specialize in
+Attack
+. As it grows, it gains a secondary Ground type; this protects it from Electric attacks, but leaves it especially vulnerable to Grass moves.
+Littleroot Town
+Birch's Lab
+After scaring off the wild Pokémon, Birch invites you back to the Lab. As thanks for rescuing him, he happily lets you keep the young Pokémon. He then encourages you to visit May/Brendan on
+Route 103
+for tips on how to be a Pokémon Trainer. If you ever get lost, he advises using the AreaNav on your
+PokéNav Plus
+to find your way. When your Pokémon needs a rest, head back home and visit with Mom to have her restore it to full health.
+AreaNav
+The PokéNav Plus is a device that can make use of four different apps, though you have only one at this point. AreaNav displays a map of Hoenn, with locations darkened until you visit them. Up to five features can be unlocked in this app.
+Places
+lists detailed info on each location.
+Pokémon
+shows the different species you have encountered in each area; the image for those you have only seen will be grayed out.
+Trainers
+displays old foes that are itching for a rematch, and provides info on their strategy, favorite Pokémon, and even their team.
+Secret Bases
+shows the location of your Secret Base, as well as the bases of others.
+Berries
+displays the locations of Berries you have planted, and how long it has been since you planted them.
+Oldale Town
+Oldale Town
+Oldale Town
+is the first settlement in the region to feature a
+Pokémon Center
+and a
+Poké Mart
+. Pokémon Centers are essentially hospitals where creatures can be restored to perfect health. The PC on the counter is always available for Trainers to organize their Pokémon. Poké Marts offer a wide range of items for sale, from Potions to Poké Balls.
+Route 102
+leads off to the west, while
+Route 103
+runs northward.
+Items
+Item
+Location
+Games
+Potion
+×10
+From the Poké Mart attendant near the exit to Route 101
+OR
+AS
+Free Potions!
+The moment you enter Oldale Town, an excited Poké Mart clerk races toward you. He tells you all about Poké Marts, and even gives you ten free
+Potions
+as part of a promotion his shop is running.
+The Sketch Artist
+The western exit is currently blocked off by a man who believes that he may have found some extremely rare Pokémon tracks. No one is allowed past until he has made a sketch of his discovery.
+Route 103
+Route 103
+Route 103
+serves as a shortcut between
+Oldale Town
+and
+Route 110
+. Seawater divides the route, restricting travel to the western side for now.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+OR
+AS
+Grass
+2-3
+40%
+Poochyena
+OR
+AS
+Grass
+2-3
+40%
+Wingull
+OR
+AS
+Grass
+2-3
+20%
+Horde Encounter
+Zigzagoon
+OR
+AS
+Horde Encounter
+2
+35%
+Poochyena
+OR
+AS
+Horde Encounter
+2
+60%
+Wingull
+OR
+AS
+Horde Encounter
+2
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rival Battle 1
+Cross through the tall grass to meet up with
+your
+rival
+, who challenges you to a friendly battle after spotting your new Pokémon. The opposing Pokémon will always have a type advantage against your own. Avoid using moves of your own type, as they will deal less damage than normal, and use
+Normal-type
+moves instead. Remember to use Potions if the battle isn't going your way!
+Player chose
+Treecko
+Pokémon Trainer
+May
+Route 103
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+200
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Torchic
+♀
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Torchic
+Pokémon Trainer
+May
+Route 103
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+200
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Mudkip
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Mudkip
+Pokémon Trainer
+May
+Route 103
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+200
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Treecko
+♀
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+May/Brendan is kind enough to heal your Pokémon. She/He thanks you for the battle and heads back to the Pokémon Lab.
+Littleroot Town
+Items
+Item
+Location
+Games
+Pokédex
+From Professor Birch, after defeating May/Brendan on
+Route 103
+OR
+AS
+Poké Ball
+×10
+From May/Brendan, after obtaining the Pokédex
+OR
+AS
+Subsequent visits
+Amulet Coin
+From Mom, after defeating
+Norman
+in a Gym battle
+OR
+AS
+National Pokédex
+From Professor Birch, after catching or defeating
+Groudon
+/
+Kyogre
+OR
+AS
+Mewtwonite X
+Southwest of Birch's Lab, after catching or defeating
+Groudon
+/
+Kyogre
+OR
+AS
+Pair of Tickets
+From Norman, after defeating the Elite Four and Champion for the first time
+OR
+AS
+S.S. Ticket
+From Norman, after completing the Delta Episode
+OR
+AS
+Latiasite
+From Mom, after completing the Delta Episode
+OR
+Latiosite
+From Mom, after completing the Delta Episode
+AS
+Pokémon Lab
+After the battle, follow May/Brendan back to
+Professor Birch
+'s Lab. Inside, the professor gives you a handy gadget: the
+Pokédex
+! This high-tech encyclopedia instantly records information on any Pokémon you see or catch. In addition, his child gives you ten
+Poké Balls
+to start you off on your journey. Now that you have received some Poké Balls, they can be purchased at all Poké Marts in the region. Buying ten Poké Balls at once, at any location, also earns you a bonus
+Premier Ball
+.
+Meet up with Mom
+As you go to leave Littleroot, Mom comes over to ask if you've met the professor. She is proud that you have your own Pokémon, but asks that you don't push yourself too hard. She reminds you that you can always come back home to rest.
+Route 101
+DexNav
+May/Brendan catches up with you as you re-enter
+Route 101
+. She/He has a gift for you from the professor; a new update for your
+PokéNav Plus
+, the DexNav! This handy app helps you tell whether or not you've caught all of the Pokémon that live in each area. Early on, DexNav only shows Pokémon that can be found on land. Once you obtain a fishing rod, it also displays Pokémon that can be found while fishing. Once you can use
+Surf
+in the field, it also shows Pokémon that can be found while crossing bodies of water.
+Catching and Seeing Pokémon
+Pokémon that you've seen but not caught will appear as shadows on DexNav, and will be listed as "Seen" in your Pokédex. Pokémon that you have caught will be shown in full color on DexNav. Tap one of these full-color Pokémon to activate Detector Mode and search for more specimens!
+Checking Progress
+Tap the DexNav display to view a message that gives a better idea of your progress.
+Message
+Progress
+"There are no wild Pokémon in this area."
+No Pokémon can be caught.
+"There are still Pokémon in this area that you have not caught!"
+More than one Pokémon remains to be caught.
+"Nearly complete!"
+Only one more Pokémon remains to be caught.
+"Good job! You've caught them all!"
+Every available Pokémon has been caught through regular encounters.
+"Amazing! Fantastic! You caught every possible Pokémon in this area!"
+Every available Pokémon has been caught, including all hidden Pokémon that appear in the field.
+As you catch more Pokémon, special marks will appear in the screen's upper-right-hand corner. A bronze trophy means that you've caught all available Pokémon through a single method, via tall grass, surfing, fishing, or by sneaking up on hidden Pokémon. A platinum trophy means that you've caught all possible Pokémon for that area.
+Hidden Pokémon
+Now that you have some Poké Balls and the DexNav upgrade, you're all set to start catching wild Pokémon. They can be found by simply moving through tall grass, but sometimes a hidden Pokémon will appear that you can sneak up on! Continue along
+Route 101
+until May/Brendan points out a Pokémon's tail in the tall grass. When you see one of these hidden Pokémon in the field, or one is detected in Detector Mode, sneak up on it by pushing lightly on the Circle Pad. When you approach, a magnifying glass will appear on the Touch Screen; tap it to open Detector Mode. It turns out that this Pokémon, a
+Poochyena
+, is on level 5 and knows one of the
+Elemental Fang
+moves. The move it has depends on your first partner Pokémon;
+Thunder Fang
+for
+Treecko
+,
+Ice Fang
+for
+Torchic
+, and
+Fire Fang
+for
+Mudkip
+.
+Detector Mode
+Detector Mode
+shows information about hidden Pokémon and how close they are to you. If used repeatedly to find a particular kind of Pokémon, you're more likely to encounter a hidden Pokémon with exceptional traits. These Pokémon may have great
+potential
+, or may know
+certain moves
+they may not otherwise learn. They may also have
+Hidden Abilities
+, hold special items, or be found at much higher levels than other Pokémon in the area. An exceptional Pokémon is marked by an exclamation point next to any part of its summary on the Detector Mode screen. Repeatedly battling the same kind of Pokémon raises the Search Level for each species; a higher Search Level means that more details are displayed on the summary screen.
+Detecting a Pokémon doesn't guarantee a battle, however. Three main actions can cause a search to fail:
+Moving too fast, instead of sneaking up on a hidden Pokémon.
+Taking too long to find a hidden Pokémon.
+Attempting another search immediately after the last one. Try to take at least 20 steps between searches.
+Route 102
+Route 102
+Route 102
+connects
+Oldale Town
+and
+Petalburg City
+. The patches of tall grass are home to several new wild Pokémon species.
+Trainers
+Trainer
+Pokémon
+Youngster
+Calvin
+Reward:
+$
+64
+Zigzagoon
+♂
+Lv.
+4
+No item
+Bug Catcher
+Rick
+Reward:
+$
+64
+Wurmple
+♂
+Lv.
+4
+No item
+Youngster
+Allen
+Reward:
+$
+32
+Poochyena
+♂
+Lv.
+4
+No item
+Taillow
+♂
+Lv.
+2
+No item
+Lass
+Tiana
+Reward:
+$
+80
+Zigzagoon
+♀
+Lv.
+5
+No item
+Rematch
+Youngster
+Calvin
+Reward:
+$
+192
+Zigzagoon
+♂
+Lv.
+12
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zigzagoon
+OR
+AS
+Grass
+2-3
+30%
+Wurmple
+OR
+AS
+Grass
+2-3
+30%
+Poochyena
+OR
+AS
+Grass
+2-3
+20%
+Seedot
+OR
+AS
+Grass
+2-3
+15%
+Lotad
+OR
+AS
+Grass
+2-3
+15%
+Ralts
+OR
+AS
+Grass
+3
+4%
+Surskit
+OR
+AS
+Grass
+3
+1%
+Horde Encounter
+Zigzagoon
+OR
+AS
+Horde Encounter
+2
+60%
+Lotad
+OR
+AS
+Horde Encounter
+2
+35%
+Seedot
+OR
+AS
+Horde Encounter
+2
+35%
+Ralts
+OR
+AS
+Horde Encounter
+2
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Oran Berry
+×2
+From the soft soil patch
+OR
+AS
+Pecha Berry
+×2
+From the soft soil patch
+OR
+AS
+Potion
+Southwest part of the route
+OR
+AS
+Soft Soil
+There is a patch of
+soft soil
+on the route's north side. On your first visit, two
+Berry
+trees can be found growing here. Collect the fruit and the trees disappear, allowing you to plant another Berry to continue the cycle. The amount of time needed for the new tree to fully mature and produce fruit varies based on the kind of Berry. After obtaining a
+watering can
+, you may water the young plants at certain times to increase the Berry yield. Berries can have several useful effects, from curing status conditions to restoring health. They can even be turned into
+candy
+!
+Eye Some Beautifly
+May/Brendan catches up to you as you near the route's west end. The two of you watch in awe as a few
+Beautifly
+flutter past. She/He is headed to just down the road to
+Petalburg City
+, and points out that your dad is the local Gym Leader before hurrying off to take in the sights.
+Petalburg City
+Petalburg City
+Situated between
+Route 102
+to the east and
+Route 104
+to the west,
+Petalburg City
+is the first location you reach to feature a
+Pokémon Gym
+.
+Items
+Item
+Location
+Games
+Return trip
+HM03
+(
+Surf
+)
+From
+Wally
+'s dad, after defeating the Petalburg Gym
+OR
+AS
+Max Revive
+Across the northeast pond (requires
+Surf
+)
+OR
+AS
+Ether
+Across the southwest pond (requires
+Surf
+)
+OR
+AS
+Rare Candy
+Across the southwest pond (hidden, requires
+Surf
+)
+OR
+AS
+Meet up with Dad
+As you reach the center of town, you see your father,
+Norman
+, talking with a Schoolkid about a battle they just had. The kid leaves, and Dad invites you inside the Gym to talk. He is surprised that you've made it this far from home, but is excited for you to become a Pokémon Trainer like him. A sickly boy named
+Wally
+soon enters, and explains that he will be staying with relatives in nearby
+Verdanturf Town
+in the hopes that the clean air will do him good. But he is afraid of becoming lonely there, and asks for help in catching a Pokémon to take along. Norman asks that you go with him, and loans him his
+Zigzagoon
+and a
+Poké Ball
+. Wally leads you back to
+Route 102
+, where he successfully catches a
+Ralts
+.
+PlayNav
+Back at the Gym, Wally can't thank you enough for helping him catch his very own Pokémon. Before he leaves, he happily upgrades your
+PokéNav Plus
+with the PlayNav app. Now you can play games with your Pokémon with
+Pokémon-Amie
+, train them up in
+Super Training
+, and connect with other Trainers around with world with the
+Player Search System
+!
+Your father then gives you some advice: to become a strong Trainer, challenge Gym Leader
+Roxanne
+in
+Rustboro City
+before moving on to the other Gym Leaders. Though Norman is also a Gym Leader, he will not accept your challenge until you have earned four
+Badges
+.
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 104, Petalburg Woods, Rustboro City, Route 116, Rusturf Tunnel
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

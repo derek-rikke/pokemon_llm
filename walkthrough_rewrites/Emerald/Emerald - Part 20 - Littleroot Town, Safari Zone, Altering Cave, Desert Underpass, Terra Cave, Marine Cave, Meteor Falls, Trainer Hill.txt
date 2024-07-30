@@ -1,0 +1,45 @@
+Game: Emerald
+Part: 20
+Keywords: Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+
+### Pokémon Emerald Walkthrough: Part 20
+
+#### Littleroot Town
+- **Home:** After the credits, return to Littleroot Town and speak to Norman to receive the **S.S. Ticket** from Mr. Briney. 
+- **Eon Pokémon:** Choose between red (Latios) or blue (Latias) to encounter them roaming Hoenn. Use a Pokémon level 13-39, spray Max Repel, and utilize trapping moves like **Mean Look** with **Crobat** or start with **Wobbuffet** to prevent them from fleeing.
+  
+#### Professor Birch's Lab
+- **National Pokédex:** After entering the Hall of Fame, visit Birch to upgrade your Pokédex.
+- **Johto Starters:** Catch all 200 Hoenn Pokémon to receive a Johto starter (Chikorita, Cyndaquil, or Totodile).
+
+#### Gym Leaders & Wally Rematches
+- Rematch Gym Leaders and Wally using the PokéNav's Match Call. Wally can be rematched once daily.
+
+#### Trick House
+- Complete Puzzle 8 to obtain a **Nugget**.
+
+#### Altering Cave
+- Located on Route 103 with only **Zubat** available.
+
+#### Trainer Hill
+- Battle through four floors to the rooftop. Use recovery items; no experience or prize money is awarded. Completing different modes yields various prizes.
+
+#### Desert Underpass
+- Visit the **Fossil Maniac** and explore the tunnel leading to **Ditto** and the **Root/Claw Fossil**.
+
+#### Route 123
+- Collect special Berries from the Berry Master's wife after entering the Hall of Fame.
+
+#### Safari Zone
+- Participate in the Safari Game to catch various Pokémon for $500. Access different areas using bikes.
+
+#### The Super-Ancient Pokémon
+- **Weather Institute:** Learn about Groudon and Kyogre's locations.
+- **Terra Cave:** Locate Groudon on Route 114. Save before approaching as it may flee.
+- **Marine Cave:** Find Kyogre via Surfing on the eastern routes.
+
+#### Steven Continues His Training
+- **Mossdeep City:** Visit Steven's house for a **Beldum**.
+- **Meteor Falls:** Explore for Pokémon like **Golbat** and **Solrock** and find Steven.
+
+This streamlined guide focuses on key progress points, item locations, and important battle strategies in Pokémon Emerald.

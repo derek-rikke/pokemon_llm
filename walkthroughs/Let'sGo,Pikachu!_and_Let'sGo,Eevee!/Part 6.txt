@@ -1,0 +1,1156 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_6
+Keywords: Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 6
+2
+Vermilion City
+2.1
+A Rare Addition
+2.2
+Time for a Trade
+2.3
+This or That
+2.4
+Pokémon Fan Club
+2.5
+Dressing the Part
+3
+Vermilion Port
+3.1
+S.S. Anne
+3.1.1
+1F
+3.1.2
+B1F
+3.1.3
+1F
+3.1.4
+2F
+3.1.4.1
+Rival Battle 4
+3.1.4.1.1
+In Let's Go, Pikachu!:
+3.1.4.1.2
+In Let's Go, Eevee!:
+3.2
+Meet Mina
+4
+Vermilion City
+4.1
+Vermilion Gym
+4.2
+Meet Up with Misty
+Route 6
+Route 6
+Route 6
+consists of a road running south from
+Saffron City
+and passing the southern end of the
+Underground Path
+on its way to
+Vermilion City
+.
+Trainers
+Trainer
+Pokémon
+Camper
+Ricky
+Reward:
+$
+300
+2
+Great Balls
+Sandshrew
+♂
+Lv.
+15
+No item
+Nidoran♂
+Lv.
+15
+No item
+Picnicker
+Nancy
+Reward:
+$
+300
+2
+Great Balls
+Nidoran♀
+Lv.
+15
+No item
+Jigglypuff
+♀
+Lv.
+15
+No item
+Gentleman
+Edward
+Reward:
+$
+1,920
+3
+Poké Balls
+Eevee
+♂
+Lv.
+16
+No item
+Sailor
+Elijah
+Reward:
+$
+960
+3
+Poké Balls
+Tentacool
+♂
+Lv.
+16
+No item
+Picnicker
+Isabelle
+Reward:
+$
+300
+2
+Great Balls
+Charmander
+♀
+Lv.
+15
+No item
+Camper
+Jeff
+Reward:
+$
+300
+2
+Great Balls
+Bellsprout
+♂
+Lv.
+15
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+P
+E
+Grass
+11-16
+20%
+Rattata
+P
+E
+Grass
+11-16
+20%
+Growlithe
+P
+E
+Grass
+11-16
+20%
+Vulpix
+P
+E
+Grass
+11-16
+20%
+Jigglypuff
+P
+E
+Grass
+11-16
+15%
+Pidgeotto
+P
+E
+Grass
+11-16
+10%
+Psyduck
+P
+E
+Grass
+11-16
+10%
+Abra
+P
+E
+Grass
+11-16
+5%
+Rare Spawns
+Chansey
+P
+E
+Grass
+11-16
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rare Candy
+East of the Saffron City gate
+(hidden)
+(daily)
+P
+E
+Super Potion
+West of the Saffron City gate
+P
+E
+Guard Spec.
+West side of the route, near Gentleman Edward
+P
+E
+Paralyze Heal
+South of the pond
+P
+E
+Vermilion City
+Vermilion City
+Vermilion City
+is a popular port city located between
+Route 6
+and
+Route 11
+. Vermilion Port sees many ships coming and going, including the
+S.S. Anne
+, which has recently arrived for its yearly visit on its voyage around the world.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Squirtle
+P
+E
+Gift
+16
+One
+Persian
+P
+E
+Gift
+16
+One
+Arcanine
+P
+E
+Gift
+16
+One
+Special Pokémon
+Geodude
+Alolan Form
+P
+E
+Trade
+Geodude
+16
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pikachu Set
+West-central building, from the Pokémon Fan Club Chairman
+P
+Eevee Set
+West-central building, from the Pokémon Fan Club Chairman
+E
+Raichu Set
+From the Pokémon Fan Club Chairman, after becoming best friends with partner Pikachu
+P
+Eeveelution Sets
+From the Pokémon Fan Club Chairman, after becoming best friends with partner Eevee
+E
+Sailor Set
+Outside Vermilion Port; from the Sailor who checks for tickets, after showing the
+S.S. Ticket
+P
+E
+Full Heal
+Northeast plot of land; west of the southern storage container
+P
+E
+Pretty Wing
+Flower beds near
+Route 11
+; sometimes found by the
+player
+'s
+walking Pokémon
+P
+E
+After clearing the S.S. Anne
+Autograph
+From Lt. Surge, after defeating him (requires
+Chop Down
+)
+P
+E
+TM36
+(
+Thunderbolt
+)
+From Lt. Surge, after defeating him (requires
+Chop Down
+)
+P
+E
+Later visit
+Big Pearl
+East of the Fan Club; behind the person on the bench
+(hidden)
+(requires
+Sea Skim
+)
+P
+E
+A Rare Addition
+Speak to
+Officer Jenny
+near the city's north entrance. She recently apprehended a mischievous
+Squirtle
+that was causing trouble around the city, and now needs to find a Trainer who can tame its unruly behavior. If you have caught at least 60 Pokémon, she recognizes you as a competent Trainer and asks that you give Squirtle a good home.
+Time for a Trade
+Visit the Pokémon Center and speak to the Hiker sitting on the sofa. He is hoping to trade for a
+Geodude
+, and is willing to part with his
+Alolan
+Geodude
+in exchange. His is a
+Rock
+/
+Electric
+Pokémon, a unique typing not seen outside of its evolutionary family. This trade may be conducted multiple times.
+This or That
+To the west of the Poké Mart, there is a person sitting on a bench who asks if you prefer the Puppy Pokémon,
+Growlithe
+, or the Scratch Cat Pokémon,
+Meowth
+. Regardless of your answer, you are given a certain task.
+This Black Belt asks that you catch 5 Growlithe. Speak to him again after doing so to receive a
+Persian
+P
+.
+This Beauty asks that you catch 5 Meowth. Speak to her again after doing so to receive an
+Arcanine
+E
+.
+Instead of this Pokémon following behind when let outside of its Poké Ball, you are able to ride on its back! This lets you move at a faster pace than the normal walking or running speed.
+Pokémon Fan Club
+The building to the north of the
+Vermilion Gym
+is home to the
+Pokémon Fan Club
+. Speak to the Chairman and listen to his rambling thoughts to receive either a
+Pikachu Set
+P
+or an
+Eevee Set
+E
+in appreciation. This lets you dress up like your
+partner Pokémon
+!
+After becoming best friends with your partner Pokémon, speak to the Chairman again to receive more clothing for both you and your Pokémon. This time, he gives you the
+Raichu Set
+P
+or the 8
+Eeveelution Sets
+E
+.
+Dressing the Part
+As you head south to Vermilion Port, show the
+S.S. Ticket
+to the Sailor here and you are free to board the
+S.S. Anne
+. In addition, he gives you a
+Sailor Set
+for being the 100th guest on the ship. This includes a set for both you and your partner Pokémon.
+Vermilion Port
+Items
+Item
+Location
+Games
+Revive
+At the port, southeast of the truck (requires
+Sea Skim
+)
+(hidden)
+(daily)
+P
+E
+S.S. Anne
+S.S. Anne
+The
+S.S. Anne
+is a popular luxury cruise ship that sails all around the world and visits
+Vermilion City
+once a year. This will not be a relaxing time, as there are many Trainers on board.
+Trainers
+1F
+Trainer
+Pokémon
+Gentleman
+Arthur
+Reward:
+$
+2,160
+3
+Poké Balls
+Growlithe
+♂
+Lv.
+18
+No item
+Beauty
+Nickie
+Reward:
+$
+1,020
+3
+Poké Balls
+Pidgey
+♂
+Lv.
+17
+No item
+Pikachu
+♀
+Lv.
+17
+No item
+Youngster
+Tyler
+Reward:
+$
+320
+3
+Poké Balls
+Mankey
+♂
+Lv.
+16
+No item
+B1F
+Trainer
+Pokémon
+Sailor
+Leonard
+Reward:
+$
+1,080
+3
+Poké Balls
+Slowpoke
+♂
+Lv.
+18
+No item
+Engineer
+Dylan
+Reward:
+$
+1,080
+3
+Poké Balls
+Magnemite
+Lv.
+18
+No item
+Magnemite
+Lv.
+18
+No item
+Sailor
+Huey
+Reward:
+$
+1,080
+3
+Poké Balls
+Psyduck
+♂
+Lv.
+18
+No item
+Poliwag
+♂
+Lv.
+18
+No item
+Fisherman
+Barny
+Reward:
+$
+720
+3
+Poké Balls
+Goldeen
+♀
+Lv.
+18
+No item
+Horsea
+♂
+Lv.
+18
+No item
+Deck
+Trainer
+Pokémon
+Sailor
+Trevor
+Reward:
+$
+1,080
+3
+Poké Balls
+Seel
+♀
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+18
+No item
+Sailor
+Edmond
+Reward:
+$
+1,080
+3
+Poké Balls
+Poliwag
+♂
+Lv.
+18
+No item
+2F
+Trainer
+Pokémon
+Fisherman
+Dale
+Reward:
+$
+720
+3
+Poké Balls
+Magikarp
+♂
+Lv.
+18
+No item
+Gentleman
+Brooks
+Reward:
+$
+2,160
+3
+Poké Balls
+Ponyta
+♂
+Lv.
+18
+No item
+Gentleman
+Lamar
+Reward:
+$
+2,160
+3
+Poké Balls
+Sandshrew
+♂
+Lv.
+18
+No item
+Items
+Item
+Location
+Games
+1F
+Shalour Sable
+From
+Blue
+, near the entrance
+P
+E
+Paralyze Heal
+Second cabin from the left
+P
+E
+Super Repel
+Kitchen; in the southwest corner
+P
+E
+Tiny Mushroom
+Kitchen; in the third trash can from the door
+(hidden)
+P
+E
+2F
+Pinap Berry
+×3
+Deck; under the lower-right table
+(hidden)
+P
+E
+Revive
+Second cabin from the left
+P
+E
+Nugget
+Fourth cabin from the left, on a chair
+P
+E
+Chop Down
+Captain's quarters; from the Captain, after helping him calm his nerves
+P
+E
+B1F
+Full Heal
+Third cabin from the right
+P
+E
+Elixir
+Third cabin from the right
+P
+E
+Super Potion
+Fourth cabin from the right
+P
+E
+1F
+When you enter the ship, you are greeted by
+Trace
+. As he thanks you again for his ticket,
+Blue
+approaches from the left. He is headed to the exit with his party favors, and shares one with you: a
+Shalour Sable
+. He mentions having overheard rumors about
+Team Rocket
+'s plans, and warns the two of you to avoid the group before leaving the ship. If you take the time to talk to Trace, he'll reveal that not only is Blue strong enough to have beaten the
+Pokémon League
+'s
+Elite Four
+in the past, but also that he apparently had a
+rival
+who's even stronger than him.
+From the entrance, you can speak to the girl in the first room on the right to have her heal your Pokémon. Turn to the right and take the stairs down to the lower floor.
+B1F
+This part of the ship is a dead-end hallway with five cabins. Visit the middle room for a
+Full Heal
+, then battle Engineer Dylan to reach an
+Elixir
+. Battle Sailor Huey and pick up the
+Super Potion
+in the fourth room from the stairs, then head back up to the main floor.
+1F
+Follow the hallway around to the front of the ship, and visit the second cabin from the left to get a
+Paralyze Heal
+. Turn the corner and continue on to reach the kitchen. Collect the
+Super Repel
+, then leave the kitchen and climb the nearest stairs to reach the upper floor.
+2F
+The nearest doorway leads to the deck of the ship, where two Sailors are looking to battle. Step inside the second cabin from the left to get a
+Revive
+, then visit the fourth room to battle the two Gentlemen and pick up a
+Nugget
+. When you approach the captain's quarters at the back of the ship,
+Trace
+is just leaving. He mentions that the man is famous for mastering a
+Secret Technique
+and offers to teach the move to anyone interested.
+Rival Battle 4
+Trace
+'s team is much the same as it was in the previous battle in
+Cerulean City
+, aside from his
+Pidgey
+having evolved and a couple of new moves.
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+S.S. Anne
+Let's Go, Pikachu!
+Reward:
+$
+1,260
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgeotto
+♂
+Lv.
+20
+Quick Attack
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Oddish
+♀
+Lv.
+20
+Razor Leaf
+Grass
+Physical
+--
+Acid
+Poison
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Eevee
+♂
+Lv.
+21
+Double Kick
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+In
+Let's Go, Eevee!
+:
+Pokémon Trainer
+Trace
+S.S. Anne
+Let's Go, Eevee!
+Reward:
+$
+1,260
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgeotto
+♂
+Lv.
+20
+Quick Attack
+Normal
+Physical
+--
+Sand Attack
+Ground
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Oddish
+♀
+Lv.
+20
+Razor Leaf
+Grass
+Physical
+--
+Acid
+Poison
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+21
+Thunder Shock
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle, he urges you to visit the captain to learn his
+Secret Technique
+. Enter the captain's quarters to find him hunched over a trash can; it seems like he got seasick. Speak to him to help him out with a quick backrub and he will be feeling good as new. He is about to teach you his Secret Technique as thanks until your
+partner Pokémon
+makes it clear that it wants to learn the move, too. The famous swordmaster walks over to a potted plant in the corner and chops it down in one swing!
+Chop Down
+lets you cut down certain inconveniently-placed trees to reach new areas.
+Be sure to collect all of the items on board before leaving, as the ship sets sail when you do.
+Meet Mina
+After the ship leaves, you find a blonde girl standing on the pier. She was so caught up with sketching a picture of the ocean that she missed her ship, which she intended to ride on her way home to the tropical
+Alola
+region. She does not seem very bothered by this change in her plans and decides to stay here in
+Kanto
+for a while longer.
+Mina
+specializes in
+Fairy-type
+Pokémon and can be challenged to battle once per day.
+Pokémon Trainer
+Mina
+Vermilion City
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+2,640
+1
+Bottle Cap
+Types:
+Normal
+Fairy
+Mega Stone:
+None
+Jigglypuff
+♀
+Lv.
+21
+Sing
+Normal
+Status
+--
+Double Slap
+Normal
+Physical
+--
+Disable
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Psychic
+Fairy
+Mega Stone:
+None
+Mr. Mime
+♂
+Lv.
+22
+Psywave
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Vermilion City
+Visit the Pokémon Center to prepare for the upcoming Gym, then make your way to the southwest part of town. When you approach the small tree growing next to the building, the
+Gym guide
+calls out to you from the other side. Examine the tree to use
+Chop Down
+and clear the path to the Gym.
+Vermilion Gym
+Vermilion City Pokémon Gym
+Leader: Lt. Surge
+The Lightning Lieutenant
+The
+Vermilion Gym
+specializes in
+Electric-type
+Pokémon. Electric-type moves are super effective against
+Flying
+- and
+Water-type
+Pokémon, while Electric-type Pokémon are weak to
+Ground-type
+moves.
+Grass
+Pokémon are a good option, as well; they resist Electric attacks and can fight back with status moves like
+Sleep Powder
+. The Gym Leader can be found in the back room, beyond an electronic barrier. Reaching him requires challengers to
+flip two switches
+hidden among the many trash cans. When defeated, the Gym Trainers hint that a can next to the blue can contains a switch, while none of the cans next to the red can contain one. Once the first switch has been found, the second will be in an adjacent can. If the wrong can is inspected and there is no switch inside, the puzzle resets.
+Each of
+Lt. Surge
+'s Pokémon know
+Thunderbolt
+, a powerful
+Electric-type
+attack that receives a
+Same-type attack bonus
+when used by each of his Electric Pokémon. The best way to avoid this is to use only
+Ground-type
+Pokémon like
+Diglett
+, as they are immune to Electric moves. His
+Magnemite
+also takes serious damage from
+Fire
+- and
+Fighting-type
+moves. Be especially careful with his
+Raichu
+, as it has the higher stats of an evolved Pokémon, so its Thunderbolt hits harder. Certain Ground Pokémon like
+Geodude
+and
+Onix
+are part-
+Rock
+, as well; though immune to Electric moves, Raichu's
+Double Kick
+deals serious damage to Rock Pokémon.
+Vermilion Gym
+Trainers
+Trainer
+Pokémon
+Sailor
+Dwayne
+Reward:
+$
+1,320
+Magnemite
+Lv.
+22
+No item
+Rocker
+Baily
+Reward:
+$
+616
+Voltorb
+Lv.
+22
+No item
+Voltorb
+Lv.
+22
+No item
+Gentleman
+Tucker
+Reward:
+$
+2,640
+Pikachu
+♂
+Lv.
+22
+No item
+Gym Leader
+Lt. Surge
+Vermilion Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+4,160
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Voltorb
+Lv.
+25
+Thunderbolt
+Electric
+Special
+--
+Swift
+Normal
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Electric
+Steel
+Mega Stone:
+None
+Magnemite
+Lv.
+25
+Thunderbolt
+Electric
+Special
+--
+Sonic Boom
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Raichu
+♂
+Lv.
+26
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Lt. Surge
+awards you the
+Thunder Badge
+. Having three Badges ensures obedience from all Pokémon up to level 40. He also gives you his
+Autograph
+and
+TM36
+(
+Thunderbolt
+) as prizes.
+Meet Up with Misty
+After leaving the Gym and chopping down the small tree,
+Misty
+calls out to you from next to the Poké Mart. She is impressed that you have defeated
+Lt. Surge
+and heals your Pokémon to full health. She is on her way to swim in the sea and wonders where you are headed next. After suggesting
+Diglett's Cave
+, she offers to show you the way. If you accept her offer, she walks with you to the entrance of Diglett's Cave on
+Route 11
+, to the east of the city.
+← Part 5
+Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Route 11, Route 2, Pewter City, Cerulean City, Route 9, Route 10
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

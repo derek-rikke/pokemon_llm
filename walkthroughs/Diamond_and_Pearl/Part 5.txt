@@ -1,0 +1,1146 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_5
+Keywords: Route 205 (Part 3), Eterna City, Route 211 (West), Mt. Coronet (Northern Area Part 1), Eterna Gym, Back to Eterna Forest, Old Chateau, Galactic Eterna Building
+
+Walkthrough Text:
+Contents
+1
+Route 205 (Part 3)
+1.1
+Later......
+2
+Eterna City
+2.1
+Underground House and the Underground
+3
+Route 211 (West)
+4
+Mt. Coronet (Northern Area Part 1)
+5
+Eterna Gym
+6
+Now that you can use Cut......
+6.1
+Eterna City
+6.2
+Route 204 (North)
+6.2.1
+Eterna Forest bypass
+6.2.2
+Old Chateau
+6.2.3
+Later......
+7
+Team Galactic Eterna Building
+7.1
+1F
+7.2
+2F
+7.3
+3F
+7.4
+4F
+Route 205 (Part 3)
+Once you exit
+Eterna Forest
+, you will come along a short path where there will be a bridge and a few
+Fishermen
+fishing. They will only battle if you talk to them. There is also large patch of tall grass, though there are no new Pokémon to catch here, as this is still
+Route 205
+. When you get through the grass, there are
+Berries
+to pick. There is also another
+Honey Tree
+and some
+Honey
+hidden behind it. You will reach
+Eterna City
+by going further east.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pachirisu
+D
+P
+Pt
+Grass
+11
+10%
+Bidoof
+D
+P
+Pt
+Grass
+10-12
+45%
+Buizel
+D
+P
+Pt
+Grass
+10-12
+35%
+Shellos
+D
+P
+Pt
+Grass
+11
+10%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Joseph
+Reward:
+$
+448
+Goldeen
+♂
+Lv.
+14
+No item
+Fisherman
+Andrew
+Reward:
+$
+320
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Fisherman
+Zachary
+Reward:
+$
+320
+Magikarp
+♂
+Lv.
+10
+No item
+Goldeen
+♂
+Lv.
+13
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Cheri Berry
+At the berry patch north of the pond
+D
+P
+Pecha Berry
+At the berry patch north of the pond
+D
+P
+Oran Berry
+×2
+At the berry patch north of the pond
+D
+P
+Potion
+On the south coast of the pond
+D
+P
+Honey
+By the Honey Tree, at northeast corner of the route
+(hidden)
+D
+P
+Later......
+Once you've obtained
+Cut
+and the
+Forest Badge
+you can cut between the trees found here to locate a path that makes it easier to get through Eterna Forest. Refer to the part "Now that you can use Cut....../Back to Eterna Forest/Eterna Forest bypass" below for more information.
+Eterna City
+Eterna City
+Items
+Item
+Location
+Games
+Super Potion
+Next to the Gym
+D
+P
+Friendship Checker
+Obtained from a woman in the Pokémon Center
+D
+P
+HM01
+(
+Cut
+)
+Obtained from
+Cynthia
+D
+P
+Explorer Kit
+Obtained from the
+Underground Man
+D
+P
+TM67
+(
+Recycle
+)
+Received from the old woman in the
+Eterna Condominiums
+D
+P
+Bicycle
+From the
+Rad Rickshaw
+after saving him from
+Team Galactic
+D
+P
+Draco Plate
+Behind the statue of
+Dialga
+/
+Palkia
+(hidden)
+D
+P
+Welcome to
+Eterna City
+, the location of the second Gym. First off, it is recommended that you heal your Pokémon at the
+Pokémon Center
+. There, you can find a woman that will give you the
+Friendship Checker
+, a Pokétch upgrade that will analyze the happiness factor for your party Pokémon, which is useful when you are trying to evolve a Pokémon that evolves from high happiness or if you're trying to calculate the damage of the moves
+Return
+or
+Frustration
+.
+There is also a building in the northwest corner owned by
+Team Galactic
+, but you won't be able to enter it without the move Cut. If you go east of Team Galactic's building, you will meet
+Cynthia
+. She will recognize you as working for
+Professor Rowan
+, and tell you she is looking into Pokémon mythology before giving you
+HM01
+(
+Cut
+). You can't use the HM until you've defeated
+Gardenia
+, the Gym Leader, though. There is plenty to do before you take the Gym challenge, so explore the city.
+The large statue in the northeast corner of the city has a hidden
+Draco Plate
+, an item that increases the power of
+Dragon-type
+moves and changes
+Arceus
+to the Dragon type. Located next to the
+Poké Mart
+are the
+Eterna Condominiums
+. On the first floor is the
+Name Rater
+, who will let you change your Pokémon's nickname, as well as a boy called Norton, who will trade his
+Chatot
+for a
+Buizel
+. On the second floor, a woman will give you
+TM67
+(
+Recycle
+). The
+Herb Shop
+is located east of Team Galactic's building, where you can buy healing herbs which lower your Pokémon's happiness but are far cheaper than most other equivalent healing items. It might be a good idea to buy some
+Revival Herbs
+.
+Rad Rickshaw's Cycle Shop
+is located north of the Poké Mart. However, you won't be able to get the
+Bicycle
+right away as the owner has gone to deal with Team Galactic in their building, since they had kidnapped his
+Clefairy
+.
+You can also explore a part of
+Route 211
+and
+Mt. Coronet
+.
+Underground House and the Underground
+The Underground House is next to the Pokémon Center. This house is where you can get the
+Explorer Kit
+that allows you to explore the
+Underground
+, a massive network of underground tunnels where you can set up a
+Secret Base
+, play with friends using DS wireless communications, and dig for
+Evolution stones
+,
+Fossils
+, and other valuable items. The
+Skull Fossil
+D
+and
+Armor Fossil
+P
+can be revived into the Pokémon
+Cranidos
+and
+Shieldon
+, respectively, at the museum in
+Oreburgh City
+. Other Fossils will become available much later in the game, after you receive the
+National Pokédex
+. Don't worry about it right now.
+The Underground Man will give you missions to do underground, each with various rewards.
+Route 211 (West)
+You'll need to bring Pokémon with
+Rock Smash
+.
+There are three Trainers to fight and some Pokémon for you to catch here, such as
+Ponyta
+,
+Meditite
+and
+Chingling
+. If you didn't choose
+Chimchar
+as your starter Pokémon, Ponyta evolutionary line will be your only 2
+Fire-type
+Pokémon you can use in the main storyline of this game.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+D
+P
+Pt
+Grass
+13
+10%
+Ponyta
+D
+P
+Pt
+Grass
+13
+10%
+Chingling
+D
+P
+Pt
+Grass
+13
+10%
+Meditite
+D
+P
+Pt
+Grass
+12-14
+35%
+35%
+25%
+Bidoof
+D
+P
+Pt
+Grass
+12-14
+35%
+35%
+25%
+Zubat
+D
+P
+Pt
+Grass
+12-14
+0%
+0%
+10%
+Hoothoot
+D
+P
+Pt
+Grass
+12-14
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+Hidden in the northern most bare patch of tall grass
+D
+P
+TM12
+(
+Taunt
+)
+Under the large bridge
+D
+P
+Trainers
+Trainer
+Pokémon
+Ninja Boy
+Zach
+コタロウ
+Kotarō
+Reward:
+$
+120
+Zubat
+♂
+Lv.
+13
+No item
+Zubat
+♂
+Lv.
+14
+No item
+Zubat
+♂
+Lv.
+15
+No item
+Hiker
+Louis
+ノボル
+Noboru
+Reward:
+$
+480
+Geodude
+♂
+Lv.
+15
+No item
+Onix
+♂
+Lv.
+15
+No item
+Bird Keeper
+Alexandra
+フウコ
+Fūko
+Reward:
+$
+608
+Hoothoot
+♀
+Lv.
+19
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Mt. Coronet (Northern Area Part 1)
+Again, some Pokémon for you to catch (such as
+Cleffa
+), but you can't explore much until you get
+HM04
+(
+Strength
+).
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Meditite
+D
+P
+Pt
+Cave
+13-14
+25%
+Machop
+D
+P
+Pt
+Cave
+13
+10%
+Chingling
+D
+P
+Pt
+Cave
+13
+10%
+Geodude
+D
+P
+Pt
+Cave
+12-13
+20%
+30%
+30%
+Zubat
+D
+P
+Pt
+Cave
+12-13
+10%
+20%
+20%
+Cleffa
+D
+P
+Pt
+Cave
+12
+25%
+5%
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+After healing at the Pokémon Center, go to the Eterna Gym.
+Eterna Gym
+The Eterna Gym's layout.
+Make sure that your Pokémon are fully healed before entering.
+It is also recommended that you don't challenge the Gym unless your Pokémon are at about Level 20. Gardenia is a master of the
+Grass-type
+, so if you started with
+Chimchar
+this should be relatively easy. If not, try and raise a higher-leveled
+Flying
+or
+Bug
+-type Pokémon such as
+Kricketune
+or
+Staravia
+, or go east of Eterna to
+Route 211
+to find a
+Ponyta
+.
+Once you enter the Gym, talk to Gardenia and she'll tell you that you have to take the Gym challenge before battling her, which consists of finding and battling four Trainers.
+The first Trainer is located by the Gym Leader's area (north of the entrance). You can find her in the first branch of trees that is slightly to the left, then moving south a little bit. The second one can be found by making your way down the left-most corridor, to the southwestern area that has a dead-end near the two rocks. The third is hiding behind the three small trees near the entrance to the room. And lastly, the final Trainer is in the very northeastern-most corner, which is accessible by taking the first right from the entrance all the way to the end. After defeating all four of them, Gardenia will appear in the northern area of the room.
+Eterna Gym
+Trainers
+Trainer
+Pokémon
+Lass
+Caroline
+リサ
+Lisa
+Reward:
+$
+240
+Cherubi
+♀
+Lv.
+15
+No item
+Roselia
+♀
+Lv.
+15
+No item
+Aroma Lady
+Jenna
+マナエ
+Manae
+Reward:
+$
+480
+Budew
+♀
+Lv.
+14
+No item
+Budew
+♀
+Lv.
+13
+No item
+Budew
+♀
+Lv.
+15
+No item
+Aroma Lady
+Angela
+ユキノ
+Yukino
+Reward:
+$
+544
+Turtwig
+♂
+Lv.
+17
+No item
+Beauty
+Lindsay
+ヨウコ
+Yōko
+Reward:
+$
+952
+Roselia
+♀
+Lv.
+17
+No item
+Leader
+Gardenia
+Eterna Gym
+Diamond and Pearl
+Reward:
+$
+2640
+Type:
+Grass
+Unknown
+Ability:
+Chlorophyll
+Held item:
+None
+Cherubi
+♀
+Lv.
+19
+Grass Knot
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Safeguard
+Normal
+Status
+--
+Growth
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+Lv.
+19
+Razor Leaf
+Grass
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Withdraw
+Water
+Status
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+Sitrus Berry
+Roserade
+♀
+Lv.
+22
+Magical Leaf
+Grass
+Special
+--
+Grass Knot
+Grass
+Special
+--
+Stun Spore
+Grass
+Status
+--
+Poison Sting
+Poison
+Physical
+--
+All of Gardenia's Pokémon know the attack
+Grass Knot
+, which does higher damage to
+heavier
+Pokémon. This shouldn't be a huge worry at this stage in the game. Gardenia's
+Cherubi
+'s
+Leech Seed
+can make things inconvenient for you really fast, so be sure to knock out this Pokémon quickly.
+Safeguard
+will protect Gardenia's team from
+status conditions
+for five turns.
+Turtwig
+isn't a huge threat either, although its high defensive stats can prove to be irritating. Get it knocked out quickly, since it can raise its Defense with
+Withdraw
+and protect the team from physical attacks for five turns with
+Reflect
+. Gardenia's last Pokémon,
+Roserade
+, is a huge threat with its unbelievable Special Attack stat. Its attack
+Magical Leaf
+will never miss and is not something you want one of your Pokémon to be hit by.
+Stun Spore
+will cause
+paralysis
+if it hits, and
+Poison Sting
+may
+poison
+your Pokémon. The best strategy in this Gym is to keep attacking with the most powerful moves at your disposal, not allowing Gardenia's team to set up strategies that will make the battle harder for you.
+Once you beat Gardenia, you will receive the
+Forest Badge
+. This Badge will cause all Pokémon up to Level 30 to now obey you without question, and will allow you to use
+Cut
+out of battle. You will also get get
+TM86
+(
+Grass Knot
+).
+Now that you can use Cut, it's time to enter the Team Galactic building to save
+Rad Rickshaw
+! Before that, you can also check out some previously inaccessible areas to find some items.
+Now that you can use
+Cut
+......
+You can get some items you previously couldn't get.
+Eterna City
+You can get the TM for Thief behind the Team Galactic building, which can allow you to steal items from wild Pokémon and trainers if you aren't holding an item.
+Items
+Item
+Location
+Games
+TM46
+(
+Thief
+)
+North of the statue, accessed from behind the Team Galactic Eterna Building (requires
+Cut
+)
+D
+P
+Route 204
+(North)
+Go back to the northern part of Route 204 and use Cut on the tree. Go inside, and a woman will give you
+TM78
+(
+Captivate
+).
+Items
+Item
+Location
+Games
+TM78
+(
+Captivate
+)
+Upper part; Cut the tree, talk to the woman deep inside to get the item
+D
+P
+Eterna Forest bypass
+The path outside Eterna Forest
+You can use Cut to access the bypass from Route 205. In this bypass you'll find another Honey Tree and Berry patch. Also, in the southern part of this bypass, you'll find a trench that has
+Silver Powder
+for enhancing Bug-type moves and
+TM82
+(
+Sleep Talk
+). A woman will also give you a
+Big Tree
+.
+Items
+Item
+Location
+Games
+Razz Berry
+×2
+At the berry patch in the middle of the shortcut path
+D
+P
+Bluk Berry
+×2
+At the berry patch in the middle of the shortcut path
+D
+P
+Cheri Berry
+At the berry patch in the middle of the shortcut path
+D
+P
+Oran Berry
+×2
+At the berry patch in the middle of the shortcut path
+D
+P
+Big Tree
+Gift from a woman on the shortcut path
+D
+P
+SilverPowder
+West end of trench
+D
+P
+TM82
+(
+Sleep Talk
+)
+East end of trench
+D
+P
+Old Chateau
+Outside the Old Chateau
+Inside the Old Chateau
+Go inside Eterna Forest from the part of Route 205 near Eterna City. Use Cut to access the part that you couldn't get into before. You'll soon find a haunted house, which is the
+Old Chateau
+. There are 2 items outside of the building and many items inside.
+Items (Outside)
+Item
+Location
+Games
+Insect Plate
+In the wall on the right side of the
+Old Chateau
+(hidden)
+D
+P
+Ether
+On the right side of the Old Chateau
+D
+P
+Upon entering, the Old Chateau appears to be old and abandoned. The first room encountered is the foyer, which has two flights of stairs both leading to the first floor. Between the foyer's staircases is a door to the dining hall, where a long wooden tables dominates the room. The kitchen area can be accessed on the left side of the table. Just outside of the room stands a strange statue with an ominous aura; the statue "appears as if it is glaring".
+On the first floor, left and right of the main room extends a library, where old books are cramped into bookshelves.
+There are also 4 bedrooms that can be accessed to by traveling further up the first floor. In one of the rooms there is a television that is on and displaying a plain, white, flickering screen. There is also a portrait in another room; glowing red eyes appear on it that will stare at people when their back is turned and will disappear when faced.
+The butler who appears in the dining hall
+The little girl who appears in the bedroom
+Sometimes, what seem to be the ghosts of a little girl and a butler appear in a bedroom on the first floor and in the dining hall, respectively. The butler appears to be sitting at the other side of the table in the dining room. The player walks forward and he starts to "walk" to the left side of the room, leaving the game window. He never appears on the other side. Unlike the little girl, the butler does not use a walking motion. He instead appears to just "float" off the ground. The little girl appears when the player enters the room next to the bedroom where the ghost "is". She appears to "walk" through the door and is never seen on the other side.
+These two characters cannot be interacted with, which—accompanied with Gardenia's reports that the Chateau is haunted—lends to the theory that they are both ghosts.
+Additionally, the picture in the room, in which the ghost of the little girl is visible, the eyes may begin to "blink" and/or follow the player.
+This is the first place to find wild
+Gastly
+.
+Items (Inside)
+Item
+Location
+Games
+Antidote
+Dining Room; in the northernmost trash can in the kitchen
+(hidden)
+D
+P
+Old Gateau
+Entrance; in the westernmost room
+D
+P
+TM90
+(
+Substitute
+)
+2F; in the easternmost bedroom
+D
+P
+Dread Plate
+2F; in the westernmost bedroom
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Walking
+12-16
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Later......
+After upgrading the Pokédex to National Pokédex, return to the room with a TV at night. Check the TV and you'll be in a battle against
+Rotom
+.
+Team Galactic Eterna Building
+Make sure that you heal your Pokémon before proceeding! You'll need to bring Pokémon with
+Cut
+.
+Use Cut to remove the small trees from the front of the Galactic Building. Before entering head to the small tree that is in the upper-right corner of the building and cut it to eventually find
+TM46
+(
+Thief
+).
+1F
+Trainers (1F)
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+520
+Wurmple
+♂
+Lv.
+13
+No item
+Cascoon
+♂
+Lv.
+13
+No item
+Galactic Grunt
+Reward:
+$
+540
+Zubat
+♀
+Lv.
+14
+No item
+Glameow
+♀
+Lv.
+14
+No item
+Here you will find four Team Galactic members. While two of them you won't fight you, the two that are right by the stairs will. If you walk between them they will challenge you to a
+Double Battle
+or you can talk to them for a single battle. Afterwards you can head to 2F.
+2F
+Trainers (2F)
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+520
+Wurmple
+♂
+Lv.
+13
+No item
+Zubat
+♂
+Lv.
+13
+No item
+Galactic Grunt
+Reward:
+$
+600
+Silcoon
+♀
+Lv.
+15
+No item
+On this floor all the Galactic members here are at computers. You can talk to them if you wish. Only the members at the third computer on the top row which directly below stairs to 3rd, and the one at the lower-left corner of the bottom row will challenge you to a battle. These battles are optional and you don't have to face them if you wish. But when you're ready head up the stairs to 3F.
+3F
+Trainers (3F)
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+480
+Wurmple
+♀
+Lv.
+12
+No item
+Silcoon
+♀
+Lv.
+12
+No item
+Zubat
+♀
+Lv.
+12
+No item
+Scientist
+Travon
+Reward:
+$
+720
+Kadabra
+♂
+Lv.
+15
+No item
+Here you will see three more members. You won't have to face the one at the desk, but you can't avoid the others and will have to face them. Once you defeat both members head to the last floor, 4F.
+4F
+Commander
+Jupiter
+Team Galactic Eterna Building
+Diamond and Pearl
+Reward:
+$
+1600
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♀
+Lv.
+18
+Wing Attack
+Flying
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Stench
+Held item:
+Sitrus Berry
+Skuntank
+♀
+Lv.
+20
+Night Slash
+Dark
+Physical
+--
+Poison Gas
+Poison
+Status
+--
+SmokeScreen
+Normal
+Status
+--
+Screech
+Normal
+Status
+--
+Once you reach this floor, you will see the Team Galactic
+Commander Jupiter
+along with Rad Rickshaw and his stolen Clefairy along with a
+Buneary
+. Talk to her and she will see that you have come to rescue the Pokémon and immediately challenges you to a battle. If you have a
+Geodude
+make sure it knows
+Magnitude
+since her
+Skuntank
+is only weak to
+Ground-type
+attacks. A
+Shellos
+with the move
+Mud Bomb
+is also good. Otherwise without them the battle will be more difficult especially since Skuntank knows
+SmokeScreen
+to reduce your Pokémon's accuracy.
+When you defeat her, Jupiter says that she doesn't care because she finished analyzing the statue and that
+Commander Mars
+had collected enough energy from
+Valley Windworks
+. Before leaving she advises you to stay out of their affairs, by pointing out that her boss is researching mythological Pokémon to take over Sinnoh with. After she leaves talk to Rad Rickshaw and he says they were after Clefairy because of the myth that Clefairy originated from space, though their logic had confused him.
+After Rad leaves, head out of the Galactic Building and head to his Bicycle shop. Rad will award you with the latest
+Bicycle
+. Unlike the previous Bicycles, this one has the ability to switch to fourth gear for faster speed and the ability to climb slopes, or third gear for easier handling and jumping not as far when jumping off dirt mounds which is useful in some cases. The gears can be changed by pressing B button. Once you are ready, head to the south exit towards
+Route 206
+.
+← Part 4
+Floaroma Town, Route 205 (Part 1-2), Valley Windworks, Floaroma Meadow (South), Eterna Forest
+Diamond and Pearl
+walkthrough
+Route 206, Wayward Cave (Main part), Route 207, Mt. Coronet (Southern Area Part 1), Route 208
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1167 @@
+Part: Part 30
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_30
+Keywords: Tracking the Ultra Beasts:Poni Grove, Poni Plains, Poni Meadow, Resolution Cave, UB-05 Glutton, Ten Carat Hill (Farthest Hollow)
+
+Walkthrough Text:
+Contents
+1
+Poni Island
+1.1
+Poni Grove
+1.2
+Poni Plains
+1.3
+Poni Meadow
+1.4
+Resolution Cave
+1.5
+Seafolk Village
+2
+Aether Paradise
+2.1
+B2F
+3
+Melemele Island
+3.1
+Route 1 (Hau'oli Outskirts)
+3.1.1
+Ten Carat Hill
+3.1.1.1
+Cave
+3.1.1.2
+Farthest Hollow
+Poni Island
+Poni Grove
+Poni Grove
+Poni Grove
+is a short, lush path connecting
+Ancient Poni Path
+in the west to
+Poni Plains
+in the east.
+Trainers
+Trainer
+Pokémon
+Black Belt
+Roy
+Reward:
+$
+1,792
+Crabominable
+♂
+Lv.
+56
+No item
+Ace Trainer
+Jackson
+Reward:
+$
+3,808
+Bruxish
+♂
+Lv.
+55
+No item
+Marowak
+♂
+Alolan form
+Lv.
+56
+No item
+Braviary
+♂
+Lv.
+56
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Trumbeak
+Trumbeak
+S
+M
+Grass
+52-55
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+52-55
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+52-55
+-
+30%
+Granbull
+Granbull
+S
+M
+Grass
+52-55
+20%
+Pinsir
+Pinsir
+S
+M
+Grass
+52-55
+10%
+Riolu
+Riolu
+Lucario
+Chansey
+S
+M
+Grass
+52-55
+10%
+Exclusively from
+Island Scan
+Eelektross
+N/A
+S
+M
+Grass
+55
+One
+Su
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+Along the wall to the east of the southern entrance
+S
+M
+X Sp. Atk
+North of the southern entrance, between the tall grass and the cliff
+S
+M
+Zygarde Cell
+Against the cliff north of the southern entrance
+S
+M
+Max Ether
+Northwest of the third smaller grass patch
+(hidden)
+S
+M
+Zygarde Cell
+At the east end of the grove
+S
+M
+Poni Plains
+Poni Plains
+Poni Plains
+connects
+Poni Grove
+in the south,
+Poni Meadow
+in the northwest, and
+Poni Coast
+in the northeast. To reach Poni Meadow, go left at the signpost near the northeast grass patch.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Angela
+Reward:
+$
+4,012
+Cloyster
+♀
+Lv.
+58
+No item
+Lurantis
+♀
+Lv.
+59
+No item
+Hiker
+Ryan
+Reward:
+$
+1,760
+Lycanroc
+♂
+Midday Form
+Lv.
+55
+No item
+Gigalith
+♂
+Lv.
+55
+No item
+Veteran
+Leon
+Reward:
+$
+5,192
+Skarmory
+♂
+Lv.
+59
+No item
+Gyarados
+♂
+Lv.
+59
+No item
+Vikavolt
+♂
+Lv.
+59
+No item
+After defeating all other Trainers in the area
+Ace Trainer
+Cole
+Reward:
+$
+3,876
+Drampa
+♂
+Lv.
+56
+No item
+Goodra
+♂
+Lv.
+57
+Dragonium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Seven small fields of grass scattered in the middle
+Trumbeak
+Trumbeak
+S
+M
+Grass
+54-57
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+54-57
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+54-57
+-
+30%
+Cottonee
+Cottonee
+S
+M
+Grass
+54-57
+20%
+Petilil
+Petilil
+S
+M
+Grass
+54-57
+20%
+Tauros
+Tauros
+Miltank
+S
+M
+Grass
+54-57
+10%
+Miltank
+Miltank
+Tauros
+S
+M
+Grass
+54-57
+10%
+Two large fields of grass in the north and around central tree
+Gumshoos
+Gumshoos
+S
+M
+Grass
+54-57
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+54-57
+-
+30%
+Hypno
+Hypno
+S
+M
+Grass
+54-57
+20%
+Cottonee
+Cottonee
+S
+M
+Grass
+54-57
+20%
+Petilil
+Petilil
+S
+M
+Grass
+54-57
+20%
+Tauros
+Tauros
+Miltank
+S
+M
+Grass
+54-57
+10%
+Miltank
+Miltank
+Tauros
+S
+M
+Grass
+54-57
+10%
+Trumbeak
+Trumbeak
+S
+M
+Grass
+54-57
+10%
+Three fields of grass by the mountains
+Fearow
+Fearow
+S
+M
+Grass
+54-57
+20%
+Cottonee
+Cottonee
+S
+M
+Grass
+54-57
+20%
+Petilil
+Petilil
+S
+M
+Grass
+54-57
+20%
+Mudsdale
+Mudsdale
+S
+M
+Grass
+54-57
+20%
+Tauros
+Tauros
+Miltank
+S
+M
+Grass
+54-57
+10%
+Miltank
+Miltank
+Tauros
+S
+M
+Grass
+54-57
+10%
+Trumbeak
+Trumbeak
+S
+M
+Grass
+54-57
+10%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+54-57
+10%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+54-57
+-
+10%
+Three fields of grass on the coastline
+Gumshoos
+Gumshoos
+S
+M
+Grass
+54-57
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+54-57
+-
+30%
+Pelipper
+Pelipper
+S
+M
+Grass
+54-57
+20%
+Cottonee
+Cottonee
+S
+M
+Grass
+54-57
+20%
+Petilil
+Petilil
+S
+M
+Grass
+54-57
+20%
+Tauros
+Tauros
+Miltank
+S
+M
+Grass
+54-57
+10%
+Miltank
+Miltank
+Tauros
+S
+M
+Grass
+54-57
+10%
+Trumbeak
+Trumbeak
+S
+M
+Grass
+54-57
+10%
+Ambush encounters
+Rustling grass
+Gumshoos
+Gumshoos
+S
+M
+Rustling grass
+54-57
+70%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Rustling grass
+54-57
+-
+70%
+Hariyama
+Hariyama
+S
+M
+Rustling grass
+54-57
+30%
+Shadows of flying Pokémon
+Fearow
+Fearow
+S
+M
+Shadow
+54-57
+70%
+Braviary
+Braviary
+S
+M
+Shadow
+54-57
+30%
+Mandibuzz
+Mandibuzz
+S
+M
+Shadow
+54-57
+30%
+Rustling trees
+Primeape
+Primeape
+S
+M
+Rustling tree
+54-57
+80%
+Emolga
+Emolga
+S
+M
+Rustling tree
+54-57
+20%
+Rustling bushes
+Cottonee
+Cottonee
+S
+M
+Rustling bush
+54-57
+70%
+Petilil
+Petilil
+S
+M
+Rustling bush
+54-57
+70%
+Scyther
+Scyther
+S
+M
+Rustling bush
+54-57
+30%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+54-57
+100%
+Exclusively from
+Island Scan
+Conkeldurr
+N/A
+S
+M
+Grass
+57
+One
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zygarde Cell
+In the corner of land east of the
+Trainer Tips
+sign and north of the Poni Grove entrance
+Night
+S
+M
+Carbos
+Southeastern-most point
+S
+M
+TM60
+(
+Quash
+)
+From Ace Trainer Cole, after defeating him
+S
+M
+PP Max
+Beneath the palm tree north-northeast of the Poni Grove entrance
+(hidden)
+S
+M
+Zygarde Cell
+By the first palm tree north-northwest of the Poni Grove entrance
+Day
+S
+M
+Star Piece
+Rocky northwest area, down the eastern ledge (requires
+Tauros Charge
+)
+S
+M
+TM24
+(
+Thunderbolt
+)
+Rocky northwest area, down the western ledge (requires Tauros Charge)
+S
+M
+Zygarde Cell
+In the rocky northwest area, on the second ledge down (requires
+Tauros Charge
+)
+S
+M
+X Defense
+On a ledge in the northeast, east of the Poni Meadow entrance
+S
+M
+Poni Meadow
+Poni Meadow
+Poni Meadow
+is a secluded area between
+Poni Plains
+and
+Resolution Cave
+.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Cottonee
+Cottonee
+S
+M
+Grass
+54-57
+50%
+Petilil
+Petilil
+S
+M
+Grass
+54-57
+50%
+Ribombee
+Ribombee
+S
+M
+Grass
+54-57
+30%
+Oricorio
+Sensu Style
+Oricorio
+S
+M
+Grass
+54-57
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-57
+59%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-57
+40%
+Dratini
+Dratini
+Dragonair
+S
+M
+Fishing
+10-57
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-57
+50%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-57
+40%
+Dratini
+Dratini
+Dragonair
+S
+M
+Fishing
+10-57
+10%
+Exclusively from
+Island Scan
+Leavanny
+N/A
+S
+M
+Grass
+57
+One
+We
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Purple Nectar
+×2
+East side of the first pond, in front of the pillar
+(daily)
+North side of the first pond, top of the ramp
+(daily)
+S
+M
+Honey
+Across the bridge of roots over the first pond
+S
+M
+TM50
+(
+Overheat
+)
+North of the first pond, on a south branch after crossing the two root bridges
+S
+M
+Power Herb
+Across the roots south of the Resolution Cave entrance
+S
+M
+Zygarde Cell
+On a ledge south of the Resolution Cave entrance
+S
+M
+Resolution Cave
+Trainers
+Trainer
+Pokémon
+Exterior
+Backpacker
+Maria
+Reward:
+$
+1,368
+Requires
+Mudsdale Gallop
+Emolga
+♀
+Lv.
+57
+No item
+Hiker
+Travis
+Reward:
+$
+1,824
+Requires
+Mudsdale Gallop
+and
+Tauros Charge
+Dugtrio
+♂
+Alolan form
+Lv.
+56
+No item
+Mudsdale
+♂
+Lv.
+57
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Interior, Exterior
+Golbat
+Golbat
+Crobat
+S
+M
+Cave
+54-57
+70%
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Cave
+54-57
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+All items require
+Mudsdale Gallop
+Elixir
+Exterior; end of the path west of the rocky terrain near the cave's entrance
+S
+M
+HP Up
+Exterior; end of the path west of the rocky terrain, in front of the southernmost rock
+(hidden)
+S
+M
+Terrain Extender
+Exterior; end of the narrow western path in front of Backpacker Maria
+S
+M
+TM26
+(
+Earthquake
+)
+Exterior; end of the eastern path behind Backpacker Maria (requires
+Tauros Charge
+)
+S
+M
+Zygarde Cell
+Exterior; to the right of the entrance to Interior
+Day
+S
+M
+Zygarde Cell
+Interior; on the right side of the main path between the entrance and center platform
+Night
+S
+M
+Zygarde Cell
+Interior; on the raised platform in the center
+S
+M
+Adrenaline Orb
+Interior; at the end of the northwest path
+S
+M
+Big Nugget
+Interior; at the end of the northeast path
+(hidden)
+S
+M
+Light Ball
+Interior; at the end of the southwest path
+S
+M
+Life Orb
+Interior; at the end of the southeast path
+S
+M
+Call
+Mudsdale Gallop
+go west from the rocky intersection to reach an
+Elixir
+. Backtrack and head south from the intersection to fight Backpacker Maria. Collect the nearby
+Terrain Extender
+to the west and
+TM26
+(
+Earthquake
+) to the east before continuing southward. Turn east and follow the descending path to reach a large cave entrance. The final
+Ultra Beast
+can be encountered anywhere in this dimly-lit chamber, which is laid out roughly in the shape of an X. Go northward to reach another
+Zygarde Cell
+along the main path, and another on the raised central platform. After capturing the final beast, report back to the restaurant in
+Seafolk Village
+.
+Aura: +2
+Attack
+Types:
+Dark
+Dragon
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+70
+Thrash
+Normal
+Physical
+--
+Gastro Acid
+Poison
+Status
+--
+Heavy Slam
+Steel
+Physical
+--
+Wring Out
+Normal
+Special
+--
+Seafolk Village
+Speak to
+Looker
+and he summons
+Anabel
+. Now that all of the
+Ultra Beasts
+have been contained, they must report their success to
+Wicke
+in
+Aether Paradise
+. They suggest that you meet them there as well, in the secret labs on the lower floor.
+Aether Paradise
+B2F
+Enter Secret Lab B at the far end of the hallway to find
+Anabel
+speaking with
+Wicke
+. They have been waiting for you, and on behalf of
+Aether Foundation
+, Wicke offers her sincere thanks to the two of you. The both of you remind her of
+Looker
+, who is running late. He enters a moment later, talking about some new disaster. He stopped on
+Melemele Island
+to get malasadas for everyone on his way here, and noticed something black and shining streaking across the sky. He is afraid it may be another Ultra Beast, but there has been no word from HQ of any more creatures and Wicke calms him down. He and Anabel have been cleared for their paid leave and are ready to start their vacation. The two thank you for your help, and before he leaves, Looker delivers your payment from HQ: a whopping
+$
+1,000,000!
+Melemele Island
+Route 1 (Hau'oli Outskirts)
+Ten Carat Hill
+Ten Carat Hill, Farthest Hollow
+Located southwest of Kukui's Research Center,
+Ten Carat Hill
+was partly accessible after clearing the first
+grand trial
+. However, the area may now be fully explored due to the abilities of other
+Poké Ride
+Pokémon.
+Cave
+Head southwest and use
+Tauros Charge
+to crash through the large rocks blocking the way. Break through a few more rocks until you reach a boulder; only
+Machamp Shove
+is powerful enough to move it. This leads to a cliff in the southwest wall of the hollow, where you find a pedestal with a
+Flyinium Z
+. Backtrack to the boulder and enter the Farthest Hollow.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+10-13
+30%
+Roggenrola
+Roggenrola
+S
+M
+Cave
+10-13
+30%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+10-13
+20%
+Carbink
+Carbink
+Sableye
+S
+M
+Cave
+10-13
+20%
+Exclusively from
+Island Scan
+Deino
+N/A
+S
+M
+Cave
+13
+One
+Tu
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Protein
+Near the second entrance to the hollow, south side of a rock
+(hidden)
+(requires
+Tauros Charge
+,
+Machamp Shove
+)
+S
+M
+Farthest Hollow
+The black, reflective object that
+Looker
+saw in the sky has landed somewhere in the Farthest Hollow. It is not immediately visible and must be encountered by moving through the tall grass. Like with the
+Ultra Beasts
+, it will respawn immediately if defeated or run from.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Machop
+Machop
+S
+M
+Grass
+10-13
+30%
+Roggenrola
+Roggenrola
+S
+M
+Grass
+10-13
+20%
+Carbink
+Carbink
+S
+M
+Grass
+10-13
+20%
+Rockruff
+Rockruff
+S
+M
+Grass
+10-13
+20%
+Spinda
+Spinda
+S
+M
+Grass
+10-13
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Flyinium Z
+Southwest cliff overlooking the hollow, accessed via Cave (requires
+Machamp Shove
+)
+S
+M
+Type:
+Psychic
+Unknown
+Ability:
+Prism Armor
+Held item:
+None
+Necrozma
+Lv.
+75
+Stealth Rock
+Rock
+Status
+--
+Iron Defense
+Steel
+Status
+--
+Wring Out
+Normal
+Special
+--
+Prismatic Laser
+Psychic
+Special
+--
+← Part 29
+Post-Game: Tracking the Ultra Beasts
+Sun and Moon
+walkthrough
+Post-Game: Tying Loose Ends
+Part 31 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

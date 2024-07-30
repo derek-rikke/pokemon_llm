@@ -1,0 +1,50 @@
+Game: BrilliantDiamond_and_ShiningPearl
+Part: 2
+Keywords: Route 202, Jubilife City, Route 204, Ravaged Path, Route 203, Oreburgh Gate
+
+### Pokémon Brilliant Diamond and Shining Pearl Walkthrough (Part 2)
+
+#### Route 202
+- **Introduction**: After arriving, you'll receive 20 Poké Balls from Professor Rowan's assistant.
+- **Recommended Pokémon**: Catch Starly, Shinx, or Bidoof. Starly evolves into Staraptor, which is strong.
+- **Trainers**: Battle three Trainers with Pokémon around level 5.
+- **Items**: 
+  - **Poké Balls**: 20 received from Lucas/Dawn.
+  - **Potion**: Found in grass west of the northern terminus.
+
+#### Jubilife City
+- **Main Tasks**:
+  1. **Trainers' School**: Meet Barry, deliver the Parcel, and battle two Trainers for TMs.
+  2. **Pokétch Company**: Collect three Coupons from clowns (answers are all "Yes") to receive the Pokétch.
+- **Items**:
+  - **Paralyze Heal**: Hidden at the southern entrance.
+  - **Quick Claw**: From a girl on the first floor of the Condominiums.
+  - **Old Rod**: From the Fisherman at Route 218 entrance.
+
+#### Route 204
+- **Pokémon**: Catch Budew and other Pokémon like Zubat and Shinx.
+- **Progress**: You need Rock Smash and the Coal Badge to explore Ravaged Path fully.
+
+#### Ravaged Path
+- **Pokémon**: Catch Zubat, Geodude, and Psyduck.
+- **Items**: 
+  - **Antidote**: Located just northeast of the stairs.
+
+#### Route 203
+- **Important Battle**: Face Barry; ensure your Pokémon are at least level 7.
+- **Barry’s Team**:
+  - If you chose Turtwig: Level 7 Starly.
+  - If you chose Chimchar: Level 9 Chimchar.
+  - If you chose Piplup: Level 9 Piplup.
+- **Trainers**: Battle additional trainers along the route.
+- **Pokémon**: Available Pokémon include Zubat and Abra.
+
+#### Oreburgh Gate
+- **Hiker**: Receives 3 TMs for Rock Smash and the Hidden Moves app.
+- **Pokémon**: Catch Zubat and Geodude.
+- **Trainers**: Battle two Trainers inside the cave.
+
+#### Next Steps
+- After Oreburgh Gate, head east to Oreburgh City to continue your journey.
+
+Make sure to heal your Pokémon regularly and stock up on items as needed!

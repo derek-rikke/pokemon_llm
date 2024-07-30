@@ -1,0 +1,42 @@
+Game: Yellow
+Part: 11
+Keywords: Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone
+
+**Pokémon Yellow Walkthrough: Part 11**
+
+**Route 16**
+- **Travel to Route 17**: Use a Bicycle to navigate safely.
+- **Catch Snorlax**: Use the Poké Flute to wake it (Lv. 30, Normal type).
+- **HM02 (Fly)**: Cut the tree in the northwestern area and talk to the girl for the HM.
+
+**Route 17**
+- **Cycling Road**: Riders will continue rolling unless they press A or B.
+- **Trainers**: Defeat Cue Balls and Bikers for cash rewards (up to $825).
+- **Available Pokémon**: Doduo, Ponyta, Fearow, and fishing options (Magikarp).
+
+**Route 18**
+- **Trainers**: Encounter Bird Keepers and earn rewards (up to $850).
+- **Trade Opportunity**: Find a boy on the second floor of the gate for a Parasect for a Tangela.
+
+**Fuchsia City**
+- **City Overview**: Fuchsia City has the Safari Zone and Fuchsia Gym.
+- **Fishing Guru**: Get the Good Rod from the southeastern house.
+- **Safari Zone Warden**: Return Gold Teeth to receive HM04 (Strength).
+
+**Fuchsia Gym**
+- **Leader: Koga**: Specializes in Poison types; use Psychic, Ground, Fire, or Flying moves. 
+- **Battle Strategy**: Bring Awakenings and Antidotes for status effects. 
+- **Rewards**: Earn the Soul Badge and TM06 (Toxic) after defeating Koga.
+
+**Safari Zone**
+- **Entry Fee**: $500 for 30 Safari Balls; catch Pokémon without weakening them first.
+- **Catching Mechanics**: Use bait to keep Pokémon from fleeing or throw rocks to make them easier to catch.
+- **Pokémon Locations**: Includes Nidoran♂, Nidoran♀, Exeggcute, and Chansey.
+- **Items**: Collect various items like Carbos, TM37 (Egg Bomb), and HM03 (Surf) while exploring.
+
+**Important Items in Safari Zone**:
+- **Gold Teeth**: Found in Area 3.
+- **TM32 (Double Team)**: Located in Area 3, near the Secret House.
+- **Max Potions and Revives**: Scattered throughout the areas.
+
+This streamlined guide covers essential travel routes, trainers, Pokémon encounters, gym strategies, and key items for progressing through Pokémon Yellow.

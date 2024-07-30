@@ -1,0 +1,43 @@
+Game: Platinum
+Part: 10
+Keywords: Pastoria Gym, Route 212, Valor Lakefront
+
+**Part 10 Walkthrough Summary: Pastoria Gym, Route 212, Valor Lakefront**
+
+### Pastoria Gym
+- **Rival Battle:** Before entering the Gym, you will face your rival Barry.
+- **Gym Details:** The Gym specializes in Water-types. Use Grass or Electric-types; avoid Fire, Rock, or Ground-types. 
+- **Puzzle Navigation:**
+  1. Go down the entrance stairs, turn left, and step on the yellow button to lower the water.
+  2. Go down the stairs, through a narrow passage, then hit the green button upstairs.
+  3. Continue down the stairs, battle a Sailor, and hit the blue button.
+  4. Follow the path to the first yellow button, battle two Tubers, and hit the green button.
+  5. Continue to the blue button and follow the path to Crasher Wake.
+
+- **Crasher Wake Battle:** 
+  - **Gyarados (Lv. 33)**: Use Electric-type moves.
+  - **Quagsire (Lv. 34)**: Use Grass-type attacks.
+  - **Floatzel (Lv. 37)**: Again, use Electric-type moves, but keep your Pokémon healthy due to its Brine attack.
+- **Reward:** Fen Badge (allows Surf) and TM55 (Brine).
+
+### Route 212 (South)
+- **Trainers:** Battle various trainers including Pokémon Rangers and Fishermen.
+- **Items:**
+  - Hyper Potion, Ultra Ball, Dawn Stone, and various Berries hidden in the mud.
+- **Exploration:** Use Dowsing Machine for hidden items and navigate through mud sections.
+
+### Route 212 (North)
+- **Trainers:** Socialite, Gentlemen, and Policemen with Pokémon around levels 23-27.
+- **Items:** Elixir, Ultra Ball, Pearl, and TM11 (Sunny Day) found around the Pokémon Mansion.
+
+### Pokémon Mansion
+- **Trainers:** Battle maids with Clefairy.
+- **Key Items:** TM87 (Swagger), Luxury Ball, and Soothe Bell.
+- **Objective:** Interact with Mr. Backlot's office to record Manaphy’s data for the National Pokédex.
+
+### Route 213 and Valor Lakefront
+- **Chase Sequence:** After speaking with Crasher Wake, chase a Galactic Grunt towards Valor Lakefront.
+- **Battle the Grunt:** Defeat him near Lake Valor to progress.
+- **Cynthia Encounter:** After the battle, receive the SecretPotion to help Psyduck on Route 210.
+
+This concise guide covers essential battles, navigation, and item locations to help you progress efficiently in the game.

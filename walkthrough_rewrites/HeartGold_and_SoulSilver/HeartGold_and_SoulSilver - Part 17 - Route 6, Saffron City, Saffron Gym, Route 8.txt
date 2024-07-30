@@ -1,0 +1,48 @@
+Game: HeartGold_and_SoulSilver
+Part: 17
+Keywords: Route 6, Saffron City, Saffron Gym, Route 8
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 17
+
+**Key Locations:**
+- **Route 6**
+- **Saffron City**
+- **Saffron Gym**
+- **Route 8**
+
+#### New Bark Town
+- **Start**: After the credits, you return home. Speak to your mom, then visit Professor Elm to obtain an **S.S. Ticket**.
+
+#### Olivine City
+- **Harbor**: Head to the south building and talk to the Sailor to board the **S.S. Aqua** to **Vermilion City**.
+
+#### S.S. Aqua
+- **1F**: Interact with trainers and complete battles for rewards. Look for a Gentleman whose granddaughter is missing.
+- **B1F**: Find the little girl in the Captain's cabin. After bringing her back, you receive a **Metal Coat**.
+
+#### Vermilion City
+- **Overview**: A port city with access to Routes 6 and 11. The **Vermilion Gym** is in the southwest, with a Snorlax blocking Route 11.
+
+**Pokémon Available**:
+- **Diglett** (Rock Smash, LV 24-37)
+- **Shuckle** (Rock Smash, LV 32-35)
+
+**Items**:
+- **Iron**: South of the S.S. Aqua (hidden).
+- **Rare Candy**: Pokémon Fan Club (after talking to the Chairman).
+
+#### Chasing Suicune
+- Near the harbor, encounter **Suicune**. It will flee, prompting an interaction with **Eusine**.
+
+#### Pokémon Fan Club
+- Located on the west side. Speak to the Chairman for a **Rare Candy**.
+
+#### Vermilion Gym
+- **Leader**: Lt. Surge (Electric-type).
+- **Strategy**: Use Ground-type Pokémon against Surge's team, which includes Raichu and Electrode. Navigate the trash can puzzle to reach him.
+- **Rewards**: Defeating Surge grants the **Thunder Badge** and **TM34 (Shock Wave)**.
+
+**Battle Tips**: 
+- Surge uses moves like **Double Team** and **Thunder Wave**. Consider using items to boost Speed or accuracy.
+
+This concludes Part 17 of your journey through HeartGold and SoulSilver. Prepare for your next adventure in Saffron City.

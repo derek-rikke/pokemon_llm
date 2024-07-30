@@ -1,0 +1,39 @@
+Game: Black_and_White
+Part: 6
+Keywords: Route 5, Driftveil Drawbridge, Driftveil City, Cold Storage, Driftveil Gym
+
+**Part 6: Route 5 to Driftveil City**
+
+**Route 5**  
+- Connects Nimbasa City to Driftveil Drawbridge.  
+- Battle Cheren for $2600. His team varies by starter choice.
+
+**Driftveil Drawbridge**  
+- Meet Alder, the Champion of Unova, after crossing the bridge.  
+- A hungry maid in a camper will buy edible items for higher prices than Poké Marts.
+
+**Driftveil City**  
+- Meet Gym Leader Clay, who requests help capturing escaped Team Plasma grunts.  
+- Items to collect:  
+  - **Shell Bell**: From an old man southeast of the Poké Center (requires seeing 50 Pokémon).  
+  - **Expert Belt**: From a man in black at the market (requires a Pokémon level 30+).  
+  - **Heart Scales**: Daily from a woman north of the market for showing a Pokémon with a specific move.
+
+**Cold Storage**  
+- Search for Team Plasma grunts.  
+- Key battles include:  
+  - **Worker Victor**: $960  
+  - **Worker Glenn**: $960  
+  - **Zinzolin** (Team Plasma sage) after defeating four grunts.  
+- Collect items: **NeverMeltIce** and **TM55 (Scald)**.
+
+**Driftveil Gym**  
+- Clay specializes in Ground-type Pokémon.  
+- Use Grass and Water-type moves against his Pokémon, especially Excadrill, which is weak to Fire, Water, Ground, or Fighting moves.  
+- Defeat Clay to earn the **Quake Badge** ($3720 reward).
+
+**Battle with Bianca**  
+- Bianca challenges you after leaving the Gym. Defeat her for **HM02 (Fly)**.  
+- Rest at the Poké Center before heading to **Route 6**.
+
+This concludes Part 6 of the walkthrough. Prepare for your next adventure!

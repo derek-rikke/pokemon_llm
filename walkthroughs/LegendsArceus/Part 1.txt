@@ -1,0 +1,489 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Legends:_Arceus_walkthrough/Section_1
+Keywords: Introduction: In an Unfamiliar Land, Prelude Beach, Jubilife Village, Obsidian Fieldlands
+
+Walkthrough Text:
+Contents
+1
+In an Unfamiliar Land
+2
+Prelude Beach
+2.1
+Catch the runaway Pokémon
+3
+Jubilife Village
+3.1
+Head to The Wallflower
+3.2
+The captain of the Survey Corps
+3.3
+A little help from the Professor
+3.4
+The merchant of the Ginkgo Guild
+4
+Obsidian Fieldlands
+4.1
+The Galaxy Team's Entry Trial
+4.2
+Using Pokémon outside of battle
+4.3
+Catching aggressive Pokémon
+In an Unfamiliar Land
+Arceus, giving you the mission to seek out all Pokémon
+Your vision is dark. When you regain consciousness, you're greeted by the
+Mythical Pokémon
+,
+Arceus
+, who glows as bright as a blinding sun. Arceus asks for your name and your appearance, both of which you cannot change later. It explains that you are in its realm, beyond space and time, and introduces you to the strange world of
+Pokémon
+.
+Thus, Arceus gives you a mission:
+Seek out all Pokémon, and thou shalt find me once more
+.
+You float helplessly in an endless mist as the only thing in your pocket, your cell phone, begins to fly away. Arceus imbues its power into your cell phone, and you disappear with it, as your vision fades once again.
+Prelude Beach
+Professor Laventon and the three runaway Pokémon
+You hear a voice calling out for you to wake up, and in front of you stands
+Professor Laventon
+and his three Pokémon. He ponders about who you are and where you came from, when suddenly, his Pokémon run off and he has to chase after them.
+You can use the
+Left Stick
+to walk, and click into the stick to dash. Walk over to the glowing object on the ground, and press
+A
+to pick it up. You receive the
+Arc Phone
+, which repeats the same mission:
+Seek out all Pokémon
+.
+Follow the path to catch up with the Professor. He asks that you help him catch his three Pokémon, and hands you fifty
+Poké Balls
+to do so.
+Items
+Item
+Location
+Games
+Arc Phone
+On the ground, in front of the rocks and flowers
+LA
+Poké Ball
+x50
+Obtained from
+Professor Laventon
+, to help catch his runaway Pokémon, but returned after use
+LA
+Poké Ball
+x10
+Obtained from
+Professor Laventon
+, if the player runs out of Poké Balls while catching, also returned after use
+LA
+Catch the runaway Pokémon
+Hold down the
+ZR
+button to ready a Poké Ball, and use the
+Right Stick
+to aim. Release
+ZR
+to throw it. Additionally, you can hold down
+ZL
+to help lock-on to Pokémon, especially ones that move around or run away.
+Help catch the Professor's Pokémon: you can find
+Cyndaquil
+behind the rocks to the east,
+Oshawott
+by the pond to the west, and
+Rowlet
+on the grassy hill up north. The last one you catch breaks out, and the Professor comments on that. Go ahead and throw another Poké Ball to catch them again.
+After catching all three, you return the remaining Poké Balls. Professor Laventon realizes you have a knack for catching Pokémon, and asks you to help him fulfill his dream- to create the region's first
+Pokédex
+, an encyclopedia on all the species of Pokémon in this region called
+Hisui
+. Your objective to catch all Pokémon aligns with his dream, so you agree to work together and head off to
+Jubilife Village
+.
+Jubilife Village
+Canala Avenue
+Professor Laventon takes you to
+Jubilife Village
+, the base of operations of his research. He asks the guards to allow you entrance into the village, which they cautiously do. The other residents are definitely not fond of you, having just appeared from nowhere—you can hear them whispering about you, where you came from, and your strange outfit.
+Follow Professor Laventon while you overhear this. He takes you down Canala Avenue of Jubilife Village and describes its history, pointing out the
+Galaxy Team
+and
+Galaxy Hall
+, the headquarters of the operation. That's where he intended to take you, but instead he wants you to head to a nearby canteen, called The Wallflower, to wait while he reports that he recaptured the runaway Pokémon.
+Head to The Wallflower
+When he leaves, you get a notification on your phone. Your Arc Phone now shows guidance markers, which point you to where you need to go next to progress. It currently points to The Wallflower in the northwest, so walk over to it. You can also press
+Minus
+(-) to display a map on your Arc Phone.
+When you approach, you meet
+Beni
+, the owner of the establishment. He takes one look at your outfit and turns you away immediately. Someone else approaches, appearing about the same age as you, but in a kimono. They are either
+Rei
+or
+Akari
+, the opposite gender of the appearance you chose. As they question you, Laventon and
+Cyllene
+, the captain of the Survey Corps, appear. They both agree to let you join the Survey Corps and give you shelter. To celebrate, Laventon orders food and notes that the Survey Corps are too anxious to capture even one Pokémon, while you have fearlessly wrangled three, and he has hope for your potential.
+Cyllene, the captain of the Survey Corps
+The captain of the Survey Corps
+However, when you finish eating, Rei/Akari mentions that you have a trial to pass before you can really become a member of the Survey Corps. Cyllene returns to point out that you now have a place to rest for the night, but if you don't pass the trial, you will be expelled from the village.
+Walk over to your new room, and press A to enter. Then, walk to the futon on the floor. Before you lie down, you notice something on the desk: you can press
+Up
+on the
+D-pad
+to open the menu and reread old tutorial pop-ups. You can also press
+ZL
+and
+ZR
+to scroll through the different menus, including
+saving
+and
+game settings
+.
+Walk back over to your futon and press
+A
+to rest. While you sleep, ominous lightning crashes to the ground from the Space-Time Rift that you came from, as a Pokémon's loud cry is heard. The night passes, and Rei/Akari greets you in the morning to get you ready for your trial.
+Walk to the door and press
+A
+to exit your room. Rei/Akari lets you know that you should meet with Cyllene in Galaxy Hall to begin the trial.
+Walk to Galaxy Hall and press
+A
+to enter the building. Inside, you overhear a Survey Corps member in pain from being attacked by wild Pokémon. Rei/Akari makes a note that even with a partner Pokémon, it's dangerous in the wild. They take you to Cyllene, who gives you your task for the trial: catch a
+Bidoof
+,
+Starly
+, and
+Shinx
+.
+She also gives you a Survey-Corps
+Satchel
+to hold
+items
+. You can access these items when you press
+Up
+on the
+D-pad
+.
+When you open the Arc Phone map with
+Minus
+(-), you can then press
+Y
+to display a list of
+missions
+and
+requests
+. Missions are required quests for the main storyline, while requests are optional side quests from townspeople. Your first mission is
+The Galaxy Team's Entry Trial
+: the trial to formally become a member of the Survey Corps and to be allowed to live in Jubilife Village.
+A little help from the Professor
+Professor Laventon enters the room, and asks for you to come out. He declares that you must pass this trial, and he has just the ticket to help you accomplish that: your
+first partner Pokémon
+! He asks you to take your pick from one of the three that you helped to wrangle in the day before:
+Cyndaquil
+,
+Rowlet
+, or
+Oshawott
+.
+Rowlet
+Cyndaquil
+Oshawott
+Grass
+Flying
+Fire
+Water
+Dartrix
+Quilava
+Dewott
+Grass
+Flying
+Fire
+Water
+Decidueye
+Typhlosion
+Samurott
+Grass
+Fighting
+Fire
+Ghost
+Water
+Dark
+Rowlet
+, the
+Grass-type
+, evolves into
+Hisuian
+Decidueye
+, a
+Grass
+/
+Fighting-type
+. It is the slowest and bulkiest of the three, and has the highest physical
+Attack
+. Unlike the other two, it has a 4x weakness (to
+Flying
+) and no immunities, so it can struggle in certain type matchups. Its signature move is
+Triple Arrows
+, which increases its
+critical hit
+ratio and decreases the target's defensive stats. This is incredibly powerful, as Decidueye can snowball and do more and more damage as the battle goes on.
+Cyndaquil
+, the
+Fire-type
+, evolves into
+Hisuian
+Typhlosion
+, a
+Fire
+/
+Ghost-type
+. It is a glass cannon- it has the highest
+Special Attack
+and
+Speed
+of the three, but also has the lowest
+HP
+and physical
+Defense
+. Its signature move is
+Infernal Parade
+, which is a slightly weaker
+Hex
+that has a 30% chance to
+burn
+. This is discreetly strong, because
+Will-O-Wisp
+is not in this game, so burns are harder to come by. The burns also reduce the target's physical Attack, which can make up for Typhlosion's defensive weakness. The ability to set itself up with a single move can be very powerful.
+Oshawott
+, the
+Water-type
+, evolves into
+Hisuian
+Samurott
+, a
+Water
+/
+Dark-type
+. It is the mixed attacker, as both its Attack and Special Attack are almost equally powerful, and it has nearly the same Speed as Cyndaquil. However, it has the absolute lowest
+Special Defense
+of the three, and can really struggle against fast special attackers. Its signature move is
+Ceaseless Edge
+, which has a high critical-hit ratio, and leaves the target with
+splinters
+for 2-4 turns. This has more immediate value than Decidueye's signature move, but doesn't snowball in a similar way.
+They all have various strengths and weaknesses, but none are outright better than the other- it's down to your personal preference.
+Walk over to one of them and press
+A
+to select them as your partner. Laventon hands you their Poké Ball and says that it's yours to keep, as well as twenty more Poké Balls for the trial. He also asks which Pokémon you were tasked with catching, and mentions that all three can be found in the
+Obsidian Fieldlands
+. Rei/Akari adds that to head to the Obsidian Fieldlands, you just need to turn left from Galaxy Hall and head to the gate.
+The merchant of the Ginkgo Guild
+Walk forward and press A to exit the door, then head west to the front gate. When you reach the gate, you find a merchant named
+Volo
+who finds it odd for a stranger to have a Pokémon, and forces you to
+battle
+him.
+In battle, the menu completely changes. It is especially different from other Pokémon games: you can press
+Y
+to view the turn order,
+B
+to run away, and you can freely move your character and the camera around.
+However, the main thing that you can currently do is press
+A
+to
+fight
+, and select one of your Pokémon's
+moves
+to attack with. Attack Volo's Pokémon to win the battle.
+Ginkgo Guild Member
+Volo
+Jubilife Village
+Pokémon Legends: Arceus
+Type:
+Fairy
+Unknown
+Mega Stone:
+None
+Togepi
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After defeating Volo, your Pokémon learns a new move, and you can change moves at any point in the Satchel menu. Volo congratulates you on your win, heals both of your Pokémon, and hands you five
+Potions
+for beating him. Rei/Akari says to tell the guardsmen where you're headed off to, so that if you get hurt, someone can come for your aid.
+Walk to the front gate, and
+Ress
+the guardsman greets you. Select the
+Obsidian Fieldlands
+on the map to depart for the trial.
+Items
+Item
+Location
+Games
+Poké Ball
+x20
+Obtained from
+Professor Laventon
+, for use in the trial
+LA
+Satchel
+Obtained from
+Cyllene
+, for use in the trial
+LA
+Potion
+x5
+Obtained from
+Volo
+, for defeating him in battle
+LA
+Obsidian Fieldlands
+Aspiration Hill
+You depart for the Fieldlands Camp, on the border of where the wild area begins. Rei/Akari is surprised to see Professor Laventon following the two of you, and he explains that Cyllene ordered him to take responsibility for whatever happens (although most of the responsibility is still on Rei/Akari).
+Walk over to Rei/Akari, who will be overseeing your trial. They explain that all three of the trial Pokémon live here on
+Aspiration Hill
+, the area just outside of the Fieldlands Camp.
+You can hold the
+ZL
+button to lock onto Pokémon, to better aim your Poké Ball against moving targets. It does not account for distance or uneven terrain, so you can still use the
+Right Stick
+for better precision.
+The Galaxy Team's Entry Trial
+Akari pointing out the Starly on Aspiration Hill
+You are unable to explore any of the Obsidian Fieldlands until after you complete the trial.
+The trial has now begun. Continue down the hill and catch the
+Bidoof
+.
+Afterwards, follow Rei/Akari as they run further down the hill. They find a Starly, and explain that approaching it directly will make it startled and run away (even in battle). So, your objective is to catch it while it doesn't see you. You can press the
+B
+button to crouch, which will let you hide in tall grass and make it harder for Pokémon to see you.
+Catch the
+Starly
+, using the tall grass as cover.
+Using Pokémon outside of battle
+Walk over to Rei/Akari by the tree. They explain that you can swap between throwing an item or a Pokémon by pressing
+X
+. The menu on the bottom right will swap between two lists: one for your items, and the other for the Pokémon in your
+party
+. You can throw your Pokémon at things like rocks, trees, or even items on the ground, and the Pokémon will investigate it for you and bring back anything it finds.
+If you'd like, press
+X
+to swap to the Pokémon menu and press
+ZR
+to throw your Poké Ball at the tree to receive 3
+Oran Berries
+.
+Items
+All of these items replenish regularly.
+Item
+Location
+Games
+Bidoof Section
+Apricorn
+On a small terrace halfway up the cliff on the west side of the path leading south
+LA
+Apricorn
+x5
+Obtained from an Apricorn tree on a small terrace halfway up the cliff on the west side of the path leading south
+LA
+Medicinal Leek
+Next to a field of grass on the east side of the path leading south
+LA
+Starly Section
+Apricorn
+x5
+Obtained from an Apricorn tree on top of the cliff on the east side of the path leading south
+LA
+Oran Berry
+x3
+Obtained from an Oran Berry tree past the fields of grass on west side of the path leading south
+LA
+Shinx Section
+Apricorn
+x5
+Obtained from an Apricorn tree to the west of the bridge
+LA
+Medicinal Leek
+To the east of the bridge
+LA
+Oran Berry
+x3
+Obtained from an Oran Berry tree to the east of the bridge
+LA
+Catching aggressive Pokémon
+Walk over to Rei/Akari again, and they point out the last Pokémon that you need to catch:
+Shinx
+. They explain that if the Pokémon is angered and attacking, you won't be able to freely throw Poké Balls at it, so you must enter battle to have a chance at catching it. When you press
+ZL
+to target a Pokémon, an icon appears above it that displays how easy it is to catch, or if it is now hostile and you are currently unable to catch it.
+The Shinx immediately sees you, so you must press
+X
+to swap to the Pokémon menu and press
+ZR
+to send out a Pokémon to battle. To make it easier to catch, you can attack it to get its health low, but make sure to not knock it out completely. In battle, you can still use the same overworld menu to throw a Poké Ball at it (using
+ZR
+to select), or you can press
+Up
+on the
+D-pad
+to open up the Items menu and select a Poké Ball with
+A
+.
+Once you catch it, Rei/Akari sees firsthand how fearless you are with catching Pokemon, and they believe that you'll be able to help create the Pokédex. The two of you return to Professor Laventon, who congratulates you for completing the trial and takes a commemorative photograph.
+You've successfully overcome the trial!
+It's time for the three of you to report to Cyllene and make your way back to Jubilife Village.
+Available Pokémon
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Bidoof
+2-4
+17-19
+✔
+✔
+Starly
+2-4
+17-19
+✔
+✔
+✔
+✔
+Shinx
+‡
+2-6
+17-21
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Legends: Arceus
+walkthrough
+The Pokédex
+: Jubilife Village, Obsidian Fieldlands
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

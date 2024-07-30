@@ -1,0 +1,2709 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_18
+Keywords: The Pokémon League: Round 2, Tying Loose Ends
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Indigo Plateau
+1.1
+The Man, The Myth, The Legend
+2
+Indigo League
+2.1
+VS Brock
+2.2
+VS Misty
+2.3
+VS Lt. Surge
+2.4
+VS Erika
+2.5
+VS Sabrina
+2.6
+VS Koga
+2.7
+VS Blaine
+2.8
+VS Blue
+2.9
+Indigo Plateau
+2.9.1
+Mega Stone merchant
+2.9.2
+VS Lorelei
+2.9.3
+VS Bruno
+2.9.4
+VS Agatha
+2.9.5
+VS Lance
+2.9.6
+VS Champion
+2.9.6.1
+In Let's Go, Pikachu!:
+2.9.6.2
+In Let's Go, Eevee!:
+3
+Celadon City
+3.1
+Celadon Condominiums
+3.1.1
+VS Morimoto
+3.1.2
+The Director's Challenge
+4
+Route 17
+4.1
+Team Rocket Blasts Off Again
+5
+Team Rocket Hideout
+5.1
+One Last Rocket Battle
+Indigo Plateau
+The Man, The Myth, The Legend
+Another legendary Trainer can be found outside the
+Pokémon League
+building at
+Indigo Plateau
+. To trigger
+Red
+'s appearance, you must defeat six of the
+Master Trainers
+scattered across
+Kanto
+. After doing so, use
+Sky Dash
+to return to the building's main entrance; Red can be seen to the west, beyond the row of pillars. Approach him with a full team of six Pokémon and he readies a Poké Ball; you are then given the option to battle. Red battles under the same conditions as the Master Trainers, so using items is prohibited. Choosing to run will forfeit the battle, but losing does not result in losing any money. Defeating him earns you the title of
+Battle Master
+, which may be displayed in link battles against other Trainers.
+Pokémon Trainer
+Red
+Indigo Plateau
+Let's Go, Pikachu! and Let's Go, Eevee!
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Pikachu
+♂
+Lv.
+85
+Thunderbolt
+Electric
+Special
+--
+Brick Break
+Fighting
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Machamp
+♂
+Lv.
+85
+Superpower
+Fighting
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Arcanine
+♂
+Lv.
+85
+Heat Wave
+Fire
+Special
+--
+Crunch
+Dark
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Roar
+Normal
+Status
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Lapras
+♀
+Lv.
+85
+Ice Shard
+Ice
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Snorlax
+♂
+Lv.
+85
+Toxic
+Poison
+Status
+--
+Protect
+Normal
+Status
+--
+Rest
+Psychic
+Status
+--
+Body Slam
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Mega Stone:
+Venusaurite
+Venusaur
+♂
+Lv.
+85
+Sludge Bomb
+Poison
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Amnesia
+Psychic
+Status
+--
+Indigo League
+The eight
+Gym Leaders
+and the elite Trainers at
+Indigo Plateau
+have all continued their training after losing to you. Challenge each one again to prove that your first victory was not just luck!
+VS Brock
+Gym Leader
+Brock
+Pewter Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Onix
+♂
+Lv.
+56
+Stealth Rock
+Rock
+Status
+--
+Iron Tail
+Steel
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Rock
+Water
+Mega Stone:
+None
+Kabutops
+♀
+Lv.
+56
+X-Scissor
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Rock
+Water
+Mega Stone:
+None
+Omastar
+♂
+Lv.
+56
+Blizzard
+Ice
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Seismic Toss
+Fighting
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Rock
+Flying
+Mega Stone:
+None
+Aerodactyl
+♂
+Lv.
+56
+Crunch
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Golem
+♂
+Lv.
+57
+Earthquake
+Ground
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+VS Misty
+Gym Leader
+Misty
+Cerulean Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Golduck
+♂
+Lv.
+56
+Scald
+Water
+Special
+--
+Psychic
+Psychic
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Dewgong
+♀
+Lv.
+56
+Aqua Jet
+Water
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Vaporeon
+♀
+Lv.
+56
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Starmie
+Lv.
+56
+Hydro Pump
+Water
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Water
+Flying
+Mega Stone:
+None
+Gyarados
+♂
+Lv.
+57
+Waterfall
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+VS Lt. Surge
+Gym Leader
+Lt. Surge
+Vermilion Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Electrode
+Lv.
+56
+Mirror Coat
+Psychic
+Special
+--
+Explosion
+Normal
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Foul Play
+Dark
+Physical
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Jolteon
+♀
+Lv.
+56
+Thunder
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Reflect
+Psychic
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Electabuzz
+♂
+Lv.
+56
+Thunder Punch
+Electric
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Electric
+Steel
+Mega Stone:
+None
+Magneton
+Lv.
+56
+Thunder
+Electric
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Tri Attack
+Normal
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Raichu
+♂
+Lv.
+57
+Thunder Punch
+Electric
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+VS Erika
+Gym Leader
+Erika
+Celadon Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Type:
+Grass
+Unknown
+Mega Stone:
+None
+Tangela
+♀
+Lv.
+56
+Mega Drain
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Reflect
+Psychic
+Status
+--
+Power Whip
+Grass
+Physical
+--
+Types:
+Bug
+Grass
+Mega Stone:
+None
+Parasect
+♀
+Lv.
+56
+Solar Beam
+Grass
+Special
+--
+Brick Break
+Fighting
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Spore
+Grass
+Status
+--
+Types:
+Grass
+Psychic
+Mega Stone:
+None
+Exeggutor
+♀
+Lv.
+56
+Solar Beam
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Victreebel
+♀
+Lv.
+56
+Power Whip
+Grass
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Swords Dance
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+57
+Moonblast
+Fairy
+Special
+--
+Petal Dance
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Stun Spore
+Grass
+Status
+--
+VS Sabrina
+Gym Leader
+Sabrina
+Saffron Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Types:
+Psychic
+Fairy
+Mega Stone:
+None
+Mr. Mime
+♂
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Ice
+Psychic
+Mega Stone:
+None
+Jynx
+♀
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Blizzard
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Lovely Kiss
+Normal
+Status
+--
+Type:
+Psychic
+Unknown
+Mega Stone:
+None
+Hypno
+♂
+Lv.
+56
+Dream Eater
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Thunder Punch
+Electric
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♀
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Scald
+Water
+Special
+--
+Type:
+Psychic
+Unknown
+Mega Stone:
+None
+Alakazam
+♂
+Lv.
+57
+Psychic
+Psychic
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Tri Attack
+Normal
+Special
+--
+VS Koga
+Gym Leader
+Koga
+Fuchsia Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Types:
+Water
+Poison
+Mega Stone:
+None
+Tentacruel
+♀
+Lv.
+56
+Toxic
+Poison
+Status
+--
+Hydro Pump
+Water
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+56
+Toxic
+Poison
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Thunder
+Electric
+Special
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♀
+Lv.
+56
+Crunch
+Dark
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Fly
+Flying
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Types:
+Bug
+Poison
+Mega Stone:
+None
+Venomoth
+♂
+Lv.
+56
+Sludge Bomb
+Poison
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Psychic
+Psychic
+Special
+--
+Bug Buzz
+Bug
+Special
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Muk
+♂
+Lv.
+57
+Dark Pulse
+Dark
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Moonblast
+Fairy
+Special
+--
+VS Blaine
+Gym Leader
+Blaine
+Cinnabar Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,680
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Magmar
+♂
+Lv.
+56
+Fire Punch
+Fire
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♂
+Lv.
+56
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Drill Run
+Ground
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Ninetales
+♀
+Lv.
+56
+Fire Blast
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Solar Beam
+Grass
+Special
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Flareon
+♂
+Lv.
+56
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Arcanine
+♂
+Lv.
+57
+Flare Blitz
+Fire
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Play Rough
+Fairy
+Physical
+--
+VS Blue
+Gym Leader
+Blue
+Viridian Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+19,040
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Tauros
+♂
+Lv.
+66
+Double-Edge
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Type:
+Psychic
+Unknown
+Mega Stone:
+None
+Alakazam
+♂
+Lv.
+66
+Dazzling Gleam
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Reflect
+Psychic
+Status
+--
+Foul Play
+Dark
+Physical
+--
+Types:
+Water
+Flying
+Mega Stone:
+None
+Gyarados
+♂
+Lv.
+66
+Waterfall
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Types:
+Grass
+Psychic
+Mega Stone:
+None
+Exeggutor
+♂
+Lv.
+66
+Power Whip
+Grass
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Stomp
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Rock
+Flying
+Mega Stone:
+None
+Aerodactyl
+♂
+Lv.
+66
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fire
+Flying
+Mega Stone:
+Charizardite Y
+Charizard
+♂
+Lv.
+68
+Fire Blast
+Fire
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Air Slash
+Flying
+Special
+--
+Indigo Plateau
+Mega Stone merchant
+A new merchant has appeared at
+Indigo Plateau
+. The Poké Maniac near the Pokémon Center counter offers rare stones that he has gathered from other regions. Each one has a hefty price, but be sure to collect them all!
+Mega Stones
+Beedrillite
+$
+30,000
+Pidgeotite
+$
+30,000
+Alakazite
+$
+30,000
+Slowbronite
+$
+30,000
+Gengarite
+$
+30,000
+Kangaskhanite
+$
+30,000
+Pinsirite
+$
+30,000
+Gyaradosite
+$
+30,000
+Aerodactylite
+$
+30,000
+VS Lorelei
+Elite Four
+Lorelei
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+12,400
+Types:
+Water
+Ice
+Mega Stone:
+None
+Dewgong
+♂
+Lv.
+61
+Aqua Jet
+Water
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Types:
+Ice
+Psychic
+Mega Stone:
+None
+Jynx
+♀
+Lv.
+61
+Lovely Kiss
+Normal
+Status
+--
+Psychic
+Psychic
+Special
+--
+Blizzard
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Types:
+Ice
+Steel
+Mega Stone:
+None
+Sandslash
+♂
+Lv.
+61
+Ice Punch
+Ice
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Cloyster
+♀
+Lv.
+61
+Ice Beam
+Ice
+Special
+--
+Spike Cannon
+Normal
+Physical
+--
+Hydro Pump
+Water
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+61
+Surf
+Water
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Yawn
+Normal
+Status
+--
+Types:
+Water
+Ice
+Mega Stone:
+None
+Lapras
+♀
+Lv.
+62
+Blizzard
+Ice
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Thunder
+Electric
+Special
+--
+VS Bruno
+Elite Four
+Bruno
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+12,600
+Types:
+Rock
+Ground
+Mega Stone:
+None
+Onix
+♂
+Lv.
+62
+Stealth Rock
+Rock
+Status
+--
+Iron Tail
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Hitmonchan
+♂
+Lv.
+62
+Fire Punch
+Fire
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Feint
+Normal
+Physical
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Hitmonlee
+♂
+Lv.
+62
+High Jump Kick
+Fighting
+Physical
+--
+Feint
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Rock
+Electric
+Mega Stone:
+None
+Golem
+♂
+Lv.
+62
+Thunder Punch
+Electric
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Fighting
+Mega Stone:
+None
+Poliwrath
+♂
+Lv.
+62
+Waterfall
+Water
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Machamp
+♂
+Lv.
+63
+Earthquake
+Ground
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+VS Agatha
+Elite Four
+Agatha
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+12,800
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♀
+Lv.
+63
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Fire
+Ghost
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+63
+Flare Blitz
+Fire
+Physical
+--
+Bonemerang
+Ground
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♂
+Lv.
+63
+Air Slash
+Flying
+Special
+--
+Crunch
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Types:
+Ghost
+Poison
+Mega Stone:
+None
+Gengar
+♀
+Lv.
+63
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+63
+Sludge Bomb
+Poison
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunder
+Electric
+Special
+--
+Types:
+Ghost
+Poison
+Mega Stone:
+None
+Gengar
+♂
+Lv.
+64
+Shadow Ball
+Ghost
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+VS Lance
+Elite Four
+Lance
+Pokémon League
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+13,000
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Seadra
+♀
+Lv.
+64
+Hydro Pump
+Water
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Blizzard
+Ice
+Special
+--
+Types:
+Rock
+Flying
+Mega Stone:
+None
+Aerodactyl
+♂
+Lv.
+64
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Water
+Flying
+Mega Stone:
+None
+Gyarados
+♀
+Lv.
+64
+Waterfall
+Water
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Fire
+Flying
+Mega Stone:
+Charizardite X
+Charizard
+♂
+Lv.
+64
+Flare Blitz
+Fire
+Physical
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Thunder Punch
+Electric
+Physical
+--
+Types:
+Grass
+Dragon
+Mega Stone:
+None
+Exeggutor
+♂
+Lv.
+64
+Mega Drain
+Grass
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Dragon
+Flying
+Mega Stone:
+None
+Dragonite
+♂
+Lv.
+65
+Outrage
+Dragon
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Hyper Beam
+Normal
+Special
+--
+Iron Tail
+Steel
+Physical
+--
+VS Champion
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Pokémon League
+Let's Go, Pikachu!
+Reward:
+$
+18,760
+Types:
+Normal
+Flying
+Mega Stone:
+Pidgeotite
+Pidgeot
+♂
+Lv.
+66
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Heat Wave
+Fire
+Special
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+66
+Solar Beam
+Grass
+Special
+--
+Reflect
+Psychic
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+66
+Brick Break
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♀
+Lv.
+66
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Drill Run
+Ground
+Physical
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+66
+Psychic
+Psychic
+Special
+--
+Surf
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Jolteon
+♂
+Lv.
+67
+Thunder
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Pin Missile
+Bug
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+In
+Let's Go, Eevee!
+:
+Pokémon Trainer
+Trace
+Pokémon League
+Let's Go, Eevee!
+Reward:
+$
+18,760
+Types:
+Normal
+Flying
+Mega Stone:
+Pidgeotite
+Pidgeot
+♂
+Lv.
+66
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Heat Wave
+Fire
+Special
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+66
+Solar Beam
+Grass
+Special
+--
+Reflect
+Psychic
+Status
+--
+Sludge Bomb
+Poison
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+66
+Brick Break
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Fire Punch
+Fire
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Rapidash
+♀
+Lv.
+66
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Drill Run
+Ground
+Physical
+--
+Types:
+Water
+Psychic
+Mega Stone:
+None
+Slowbro
+♂
+Lv.
+66
+Psychic
+Psychic
+Special
+--
+Surf
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Raichu
+♂
+Lv.
+67
+Brick Break
+Fighting
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder
+Electric
+Special
+--
+Iron Tail
+Steel
+Physical
+--
+Celadon City
+Celadon Condominiums
+Visit the
+Game Freak
+office again on the third floor of the
+Celadon Condominiums
+to see a new face. The man introduces himself as
+Morimoto
+, the leader of the Coach Trainers, and he is eager to battle you.
+VS Morimoto
+Coach Trainer
+Morimoto
+Celadon Condominiums
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+5,400
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Kangaskhan
+♀
+Lv.
+54
+Fake Out
+Normal
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Dizzy Punch
+Normal
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Flareon
+♂
+Lv.
+54
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Type:
+Water
+Unknown
+Mega Stone:
+None
+Vaporeon
+♀
+Lv.
+54
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Jolteon
+♂
+Lv.
+54
+Quick Attack
+Normal
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+Thunder
+Electric
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Fighting
+Unknown
+Mega Stone:
+None
+Machamp
+♂
+Lv.
+54
+Superpower
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Dragon
+Flying
+Mega Stone:
+None
+Dragonite
+♂
+Lv.
+54
+Dragon Pulse
+Dragon
+Special
+--
+Blizzard
+Ice
+Special
+--
+Fire Blast
+Fire
+Special
+--
+Thunder
+Electric
+Special
+--
+The Director's Challenge
+The director is still waiting to see your completed
+Pokédex
+. There are currently 150 known species. Once you record data on all of them, aside from
+a few
+certain
+exceptions
+, the director rewards you with a special
+Diploma
+to mark your achievment. He also gives you a
+Shiny Charm
+, a trinket that boosts the odds of encountering wild
+Shiny Pokémon
+.
+Route 17
+Team Rocket Blasts Off Again
+With
+Giovanni
+'s defeat in
+Viridian Gym
+, most of
+Team Rocket
+has dispersed but there are still a few members loitering around. Visit
+Route 17
+again to find
+a familiar group
+on the east side. Approach them and they challenge you to one last battle, for old time's sake.
+Team Rocket
+and
+Team Rocket
+Jessie
+James
+Route 17
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+4,992
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♂
+Lv.
+52
+Poison Jab
+Poison
+Physical
+--
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+52
+Sludge Bomb
+Poison
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Team Rocket Hideout
+One Last Rocket Battle
+One more member of
+Team Rocket
+,
+Archer
+, is waiting for you out there. Head to the bottom floor of the
+Team Rocket Hideout
+to find him in
+Giovanni
+'s office. Angered by your presence, he challenges you to one more battle.
+Pokémon Trainer
+Archer
+Team Rocket Hideout
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+5,400
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Electrode
+Lv.
+54
+Thunder
+Electric
+Special
+--
+Foul Play
+Dark
+Physical
+--
+Explosion
+Normal
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♂
+Lv.
+54
+Air Slash
+Flying
+Special
+--
+Crunch
+Dark
+Physical
+--
+Sludge Bomb
+Poison
+Special
+--
+U-turn
+Bug
+Physical
+--
+Type:
+Fire
+Unknown
+Mega Stone:
+None
+Magmar
+♂
+Lv.
+54
+Fire Punch
+Fire
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Clear Smog
+Poison
+Special
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+54
+Dark Pulse
+Dark
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Having been defeated, Archer calms down and reads the letter he's been drafting for you. He congratulates you on surpassing the
+Pokémon League
+and reveals that he intends to leave
+Kanto
+in order to establish a new, stronger Team Rocket in the future. He questions himself for writing such a letter and tears it to shreds before bidding you farewell, never to be seen again.
+← Part 17
+A World Expands, Cerulean Cave
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

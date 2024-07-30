@@ -1,0 +1,39 @@
+Game: Black2_and_White2
+Part: 4
+Keywords: Castelia City, Castelia Sewers, Castelia Gym
+
+**Part 4 Walkthrough: Castelia City, Sewers, and Gym**
+
+**Castelia City Overview:**
+- Largest city in Unova featuring various attractions.
+- Key locations: Royal Unova, Battle Company, Unity Pier, Liberty Pier, Passerby Analytics HQ.
+
+**Key Items Locations:**
+- **Heart Scale:** South end of Prime Pier.
+- **Bicycle:** From Harlequin on Oceanfront Road.
+- **Rare Candy:** From Harlequin on Oceanfront Road after the hunt.
+- **Exp. Share:** Battle Company 1F (near Janitor).
+- **Quick Balls (x2):** Battle Company 47F (after defeating Clerk Clemens).
+- **Revive:** Game Freak building, 22F.
+- **Miracle Seed:** In Empty Lot (accessed via Castelia Sewers).
+
+**Oceanfront Road:**
+- Complete Harlequin Hunt (find 3 Harlequins) to receive rewards.
+- Bridge Gate leads to Skyarrow Bridge (access blocked temporarily).
+
+**Castelia Sewers:**
+- Accessed via Thumb Pier.
+- Changes with seasons; explore for different areas.
+- Key battles: Team Plasma Grunts, Hugh (your rival).
+- **Items:** Twisted Spoon, Leftovers, HM04 (Strength).
+
+**Castelia Gym:**
+- **Leader:** Burgh (Bug-type Pokémon).
+- **Strategy:** Use Fire-, Flying-, or Rock-type moves against Burgh’s team. Flash can lower accuracy.
+- **Trainers inside:** Harlequins and Burgh.
+- Defeating Burgh grants the Insect Badge and TM76 (Struggle Bug).
+
+**Next Steps:**
+- After defeating Burgh, speak to Colress near Central Plaza and prepare for Route 4.
+
+This concise walkthrough highlights essential gameplay elements, critical item locations, and key battle strategies for progressing through Castelia City, the Sewers, and the Gym.

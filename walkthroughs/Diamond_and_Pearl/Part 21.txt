@@ -1,0 +1,853 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_21
+Keywords: Sunyshore Gym, Route 223, Pokémon League (Victory Road Entrance)
+
+Walkthrough Text:
+Contents
+1
+Sunyshore Gym
+2
+Sunyshore City
+3
+Now that you can use Waterfall...
+3.1
+Route 208
+3.2
+Route 210
+3.3
+Mt. Coronet (Upper Caverns: 4F)
+4
+Route 223
+5
+Pokémon League (Victory Road Entrance)
+Sunyshore Gym
+Make sure that you heal your Pokémon before entering the Gym.
+The
+Sunyshore Gym
+is the final Gym you'll challenge in the game, so the Trainers and Gym Leader
+Volkner
+have Pokémon above Level 40. It's recommended that you train your Pokémon until they're above Level 45 before challenging the Gym.
+This Gym specializes in
+Electric-types
+.
+Ground-type
+Pokémon are the best here because they're immune to Electric-type moves and can deal super-effective damage.
+Grass-types
+are also decent choices because they can resist Electric-type moves. However, the Trainers, as well as Volkner, use teams with other types, so along with Pokémon with Ground-type moves, you should also bring Pokémon with
+Dark
+-,
+Bug
+-,
+Ghost
+-,
+Fighting
+-,
+Flying
+-,
+Fire
+-,
+Water
+-, Electric- and/or
+Grass
+-type moves (you don't really need to bring Pokémon with all 9 types of moves. For example, if you have a Pokémon with Ghost-type attacks, you don't need to bring Pokémon with Dark-, Bug-, and Flying-type moves) to counter Pokémon in different types.
+Layout of first room.
+Layout of second room.
+Layout of third room.
+There are three rooms in this Gym. In each, there are several gears with bridges on them. Step on the buttons on the bridges to rotate the gears. There are three different colors of buttons: green, blue and red. A blue button turns the gear you are stepping on clockwise 90 degrees, while a green button turns the gear anticlockwise (or counterclockwise, both words have the same meaning) 90 degrees. A red button turns the gear you're stepping on clockwise 180 degrees. It's important to remember that
+all of the other gears will also turn when you step on a button.
+It is rumored that the "gear challenge" was designed by Leader Volkner out of boredom.
+Turn the gears and fight the Trainers along to find your way to the next room or Leader Volkner.
+Upon entering the Gym, step on the right-hand green switch once and the left green switch once. Follow the path and go to the next room. In the second room, step on the blue switch three times. Go up the stairs on the left, and step on the blue switch once. Step on the green switch and go to the right then up the stairs. In the third room, step on the right red switch once, the left red switch once, and then go up the left side. Step on the green switch twice, then the blue switch. Go down the right side down to where you started. Hit the right red switch once, then run up the right side to get to the Gym Leader.
+Sunyshore Gym
+Trainers
+Trainer
+Pokémon
+School Kid
+Tiera
+ユリエ
+Yurie
+Reward:
+$
+880
+Pachirisu
+♀
+Lv.
+44
+No item
+School Kid
+Forrest
+トヨフミ
+Toyofumi
+Reward:
+$
+880
+Mr. Mime
+♂
+Lv.
+44
+No item
+Guitarist
+Jerry
+ミック
+Mick
+Reward:
+$
+1056
+Luxio
+♂
+Lv.
+44
+No item
+Poké Kid
+Meghan
+チマリ
+Chimari
+Reward:
+$
+328
+Pikachu
+♀
+Lv.
+41
+No item
+Pikachu
+♀
+Lv.
+41
+No item
+Pikachu
+♀
+Lv.
+41
+No item
+Pikachu
+♀
+Lv.
+41
+No item
+Guitarist
+Lonnie
+マイク
+Mike
+Reward:
+$
+1056
+Raichu
+♂
+Lv.
+44
+No item
+Ace Trainer
+Destiny
+ナズナ
+Nazuna
+Reward:
+$
+2640
+Kadabra
+♂
+Lv.
+44
+No item
+Raichu
+♀
+Lv.
+44
+No item
+Guitarist
+Preston
+ゲイリー
+Gary
+Reward:
+$
+1008
+Luxio
+♂
+Lv.
+42
+No item
+Bibarel
+♂
+Lv.
+42
+No item
+Ace Trainer
+Zachery
+ショウマ
+Shōma
+Reward:
+$
+2640
+Steelix
+♂
+Lv.
+44
+No item
+Medicham
+♂
+Lv.
+44
+No item
+Leader
+Volkner
+Sunyshore Gym
+Diamond and Pearl
+Reward:
+$
+5880
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Raichu
+♂
+Lv.
+46
+Charge Beam
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Technician
+Held item:
+None
+Ambipom
+♂
+Lv.
+47
+Baton Pass
+Normal
+Status
+--
+Nasty Plot
+Dark
+Status
+--
+Agility
+Psychic
+Status
+--
+Shock Wave
+Electric
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Sniper
+Held item:
+None
+Octillery
+♂
+Lv.
+47
+Octazooka
+Water
+Special
+--
+Charge Beam
+Electric
+Special
+--
+Bullet Seed
+Grass
+Physical
+--
+Aurora Beam
+Ice
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Rivalry
+Held item:
+Sitrus Berry
+Luxray
+♂
+Lv.
+49
+Thunder Fang
+Electric
+Physical
+--
+Charge Beam
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Crunch
+Dark
+Physical
+--
+Volkner has four Pokémon in his team, but only two of them are Electric-types. Three of his Pokémon have
+Charge Beam
+, which is an attack that looks weak, but has a high chance of raising the user's Special Attack. The other two Pokémon may catch you off guard if not prepared.
+Volkner starts off with his
+Raichu
+. A good Ground-type move like
+Earthquake
+will finish it off quickly. Although
+Thunder Wave
+can paralyze your Pokémon and
+Light Screen
+reduces all Special damage by half, don't worry too much about its attacks because it doesn't have
+Thunderbolt
+or its evolutionary line's
+signature move
+,
+Volt Tackle
+. Be wary if your Ground-type Pokémon is partly Rock-type because Raichu knows
+Brick Break
+.
+Ambipom
+(a very random choice for an Electric-type specialist, and the evolution of
+Aipom
+) is a
+Normal-type
+Pokémon, which means that only Fighting-type moves can deal super-effective damage. Two of its moves are
+Agility
+and
+Nasty Plot
+, which boost Speed and Sp. Atk respectively.
+Baton Pass
+will force it to switch out, but the Pokémon that comes in will gain all of Ambipom's stat changes. Its only offensive move
+Shock Wave
+may look weak, but being a variation of
+Aerial Ace
+and
+Swift
+, it never misses. Moreover, Ambipom's
+Ability
+Technician
+will boost the power of this move because its base power is only 60!
+Volkner's
+Octillery
+, a
+Water-type
+, tends to surprise people who don't know Volkner's team before they challenge him. As such, it's weak to your own Electric-type attacks. Strong Grass-type moves may also work against it, but be careful of
+Aurora Beam
+if you're using a Grass-type Pokémon. It can also use
+Bullet Seed
+, which is a random choice (unless you, unwisely, use Ground-type Pokémon against Octillery). It also possesses its
+signature move
+Octazooka
+, which shoots ink to attack and reduce your Pokémon's Accuracy.
+Then comes his strongest Pokémon:
+Luxray
+(the evolution of
+Luxio
+) at Level 49. Its
+Thunder Fang
+can inflict paralysis or make your Pokémon flinch while dealing damage.
+Crunch
+may reduce your Pokémon's Defense stat. With Luxray's high Attack, this combination can be a threat. Its lower Special Attack makes Charge Beam deal less damage, but you still need to watch out. It doesn't have the ability
+Intimidate
+, so your Physical-based attacks won't be weakened, but that means it will have
+Rivalry
+instead. Be careful if you're sending in a
+male
+Pokémon— Rivalry boosts Luxray's Attack when it's facing a Pokémon of the same gender!
+After you defeat Volkner, he'll give you the
+Beacon Badge
+and
+TM57
+(
+Charge Beam
+). You can also now use
+Waterfall
+outside of battle. You can finally challenge the
+Pokémon League
+... but you still don't have
+HM07
+(
+Waterfall
+)! Now what?
+Sunyshore City
+Leave the Sunyshore Gym, heal your Pokémon at the Pokémon Center, and then go to the beach where
+Jasmine
+is. Talk to her. She will notice that you now have the Beacon Badge, and give you
+HM07
+(
+Waterfall
+). Now you can finally climb waterfalls! Note that you'll also need
+HM03
+(
+Surf
+) in order to utilize this HM, because all waterfalls are in water.
+You can now proceed to
+Route 223
+, but you may also want to check out places that you've been to before that have waterfalls.
+Now that you can use Waterfall...
+There are a few places that you couldn't fully navigate due to waterfalls in your way. With Waterfall, you can access those places and grab the items.
+Route 208
+Item
+Item
+Location
+Games
+Carbos
+Small shoal on the northern shore of the river
+D
+P
+Go down the stairs southwest of
+Black Belt
+Kyle. Surf east and climb the waterfall. You can grab a bottle of
+Carbos
+.
+Route 210
+You'll need to bring a Pokémon with
+Defog
+.
+Items
+Item
+Location
+Games
+Meadow Plate
+Hidden atop the easternmost waterfall
+D
+P
+Wave Incense
+Isolated near the westernmost waterfall, accessible by climbing up the middle waterfall
+D
+P
+Surf west from
+Ace Trainer
+Alyssa. There are two waterfalls. Climb up the eastern one for a hidden
+Meadow Plate
+. Climb up the western one and follow along the path, climbing another waterfall on the way. The path leads you to a
+Wave Incense
+, which you'll need if you want a
+Mantyke
+Egg
+.
+Mt. Coronet
+(Upper Caverns: 4F)
+You'll need to bring a Pokémon with
+Strength
+and
+Rock Climb
+to get here.
+For a refresher on how to through Mt. Coronet, see
+this section
+.
+Item
+Item
+Location
+Games
+Stone Plate
+Atop the waterfall, hidden on a rock inside a small section of cave
+D
+P
+Remember the room with a waterfall? Yes, 4F, the room between the southern and northern mountainsides. Go inside from the eastern entrance. Surf west, then north and climb up the waterfall. Head inside the cave and grab the
+Stone Plate
+. Also, when you obtain the
+Super Rod
+later in the game, you can fish here for the rare Pokémon
+Dratini
+and
+Dragonair
+.
+Route 223
+Route 223
+Items
+Item
+Location
+Games
+Big Pearl
+On a rock north-east of Swimmer Aubree
+(hidden)
+D
+P
+TM18
+(
+Rain Dance
+)
+Among a jumble of rocks on the west side
+D
+P
+Pearl
+Above Sailor Zachariah, to the right
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tentacruel
+D
+P
+Pt
+Surfing
+30-50
+60%
+Pelipper
+D
+P
+Pt
+Surfing
+30-50
+30%
+Mantyke
+D
+P
+Pt
+Surfing
+30-50
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Miranda
+リリカ
+Ririka
+Reward:
+$
+688
+Lumineon
+♀
+Lv.
+43
+No item
+Swimmer
+Aubree
+ケイコ
+Keiko
+Reward:
+$
+656
+Azurill
+♀
+Lv.
+41
+No item
+Azumarill
+♀
+Lv.
+41
+No item
+Swimmer
+Oscar
+ヒデノリ
+Hidenori
+Reward:
+$
+672
+Mantyke
+♂
+Lv.
+38
+No item
+Remoraid
+♂
+Lv.
+40
+No item
+Mantine
+♂
+Lv.
+42
+No item
+Swimmer
+Colton
+レンサク
+Rensaku
+Reward:
+$
+656
+Wingull
+♂
+Lv.
+37
+No item
+Quagsire
+♂
+Lv.
+42
+No item
+Pelipper
+♂
+Lv.
+41
+No item
+Swimmer
+Paige
+キミカ
+Kimika
+Reward:
+$
+656
+Marill
+♀
+Lv.
+39
+No item
+Wingull
+♀
+Lv.
+40
+No item
+Golduck
+♀
+Lv.
+41
+No item
+Swimmer
+Ricardo
+アキヒト
+Akihito
+Reward:
+$
+688
+Tentacruel
+♂
+Lv.
+43
+No item
+Swimmer
+Wesley
+ミナト
+Minato
+Reward:
+$
+656
+Buizel
+♂
+Lv.
+41
+No item
+Tentacruel
+♂
+Lv.
+41
+No item
+Swimmer
+Crystal
+マリエ
+Marie
+Reward:
+$
+656
+Wingull
+♀
+Lv.
+41
+No item
+Seaking
+♀
+Lv.
+41
+No item
+Sailor
+Zachariah
+タツヒコ
+Tatsuhiko
+Reward:
+$
+1408
+Pelipper
+♂
+Lv.
+38
+No item
+Machoke
+♂
+Lv.
+38
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+44
+No item
+Swimmer
+Gabrielle
+タマキ
+Tamaki
+Reward:
+$
+688
+Golduck
+♀
+Lv.
+43
+No item
+Swimmer
+Cassandra
+コヨミ
+Koyomi
+Reward:
+$
+656
+Finneon
+♀
+Lv.
+41
+No item
+Pelipper
+♀
+Lv.
+41
+No item
+Swimmer
+Francisco
+テルユキ
+Teruyuki
+Reward:
+$
+672
+Tentacool
+♂
+Lv.
+40
+No item
+Golduck
+♂
+Lv.
+42
+No item
+Swimmer
+Troy
+スイヘイ
+Suihei
+Reward:
+$
+688
+Gyarados
+♂
+Lv.
+43
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Make sure that you heal your Pokémon before proceeding. You'll need to bring Pokémon with
+Surf
+and
+Waterfall
+.
+It's a good idea to have your leading Pokémon hold an
+Amulet Coin
+or a
+Luck Incense
+to gain double prize money after Trainer battles, as you may need to buy a lot of items to get through the next section of this journey.
+Route 223
+is the longest water route in the entire
+Sinnoh
+region, and has many Trainers. However, there are only three items for you to collect. To access the Route, return to Sunyshore City and Surf north of Jasmine. After a few "steps," you'll be on your way.
+The Trainers use mostly
+Water-type
+Pokémon and the wild Pokémon are all Water-types, so this is a good training place for your
+Electric
+- and
+Grass
+-types. Fight all of the Trainers along the way. Keep in mind that you are mainly heading north, but you should also go back and forth between west and east sides of this Route to fight all Trainers. This is very important, since you'll need all the training you can get before you face the
+Pokémon League
+at the end of the upcoming journey.
+Also, there is new Pokémon for you to catch:
+Mantyke
+, a
+Water
+/
+Flying
+-type Pokémon, and the newly added pre-evolution of
+Mantine
+. The evolving method is extremely strange— you'll need to level it up while having a
+Remoraid
+(you can conveniently use your
+Good Rod
+to hook one up here) in your party.
+You can collect a
+Big Pearl
+at northeast of
+Swimmer
+Aubree, and
+TM18
+(
+Rain Dance
+) among a jumble of rocks on the west side.
+On the island, in order to obtain the
+Pearl
+, you have to enter from the southeast. Then, head north to grab the item, return to where you stopped Surfing, go west to fight
+Sailor
+Zachariah, then Surf west and turn north again.
+After that, follow the path and continue Surfing. Fight the Trainers on the way and head north until you see the big waterfall. Climb it, and you're done with this Route.
+Pokémon League (Victory Road Entrance)
+You've reached Sinnoh's
+Pokémon League
+. But you cannot challenge the
+Elite Four
+yet. The biggest and final test before the
+Elite Four
+challenge is waiting right here, through the nearby cave entrance. It's the Sinnoh
+Victory Road
+, a mazelike cavern filled with tough Trainers and Pokémon. However, DO NOT rush inside! You'll find a Pokemon Centre on the left.
+Take advantage of the Pokémon Centre. You will be extremely grateful for a fully-healed team, so
+heal up here
+before continuing. After getting out of the Pokémon Centre, you can also
+Fly
+off to other places to buy items you might need (as listed in the next section of this walkthrough), and Fly back here without going through Route 223 again.
+← Part 20
+Catching the Lake Guardians, Hotel Grand Lake, Route 222, Sunyshore City, Vista Lighthouse
+Diamond and Pearl
+walkthrough
+Sinnoh Victory Road, Pokémon League (Main Building), Final Rival battle
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

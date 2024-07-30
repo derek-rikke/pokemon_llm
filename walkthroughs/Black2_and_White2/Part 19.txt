@@ -1,0 +1,2660 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_19
+Keywords: N's Castle, Tubeline Bridge, Route 8, Moor of Icirrus, Icirrus City, Dragonspiral Tower, Giant Chasm
+
+Walkthrough Text:
+Contents
+1
+Victory Road
+2
+N's Castle
+2.1
+1F
+2.2
+2F
+2.3
+Season battles
+2.3.1
+Spring battle
+2.3.2
+Summer battle
+2.3.3
+Autumn battle
+2.3.4
+Winter battle
+3
+Opelucid City
+4
+Tubeline Bridge
+4.1
+So Loud!
+4.2
+Charge Ahead
+5
+Route 8
+5.1
+Moor of Icirrus
+6
+Icirrus City
+6.1
+The Ore Collector
+6.2
+Pokémon Fan Club
+6.3
+Aha's Pep Quiz
+6.4
+The Shadows Reappear
+6.5
+Dragonspiral Tower
+6.5.1
+1F
+6.5.2
+2F
+6.5.3
+3F
+6.5.4
+4F
+6.5.5
+5F
+6.5.6
+6F
+6.5.7
+7F
+7
+Giant Chasm
+Victory Road
+Fly back to the
+Pokémon League
+and head down the mountainside to investigate the dream that
+Hugh
+'s sister had. Go down the stairway south of the two Veterans to find a
+Zoroark
+, the same one from your first visit to the area. It leads you back to the cave it had been guarding, and once inside, runs off down a tall stairway that connects to a ruined building.
+N's Castle
+N's Castle exterior
+B
+W
+N's Castle
+is the former base of
+Team Plasma
+that suddenly appeared two years ago. It was built in secret in the lands surrounding the
+Pokémon League
+, but fell into disrepair after the great battle, and eventually collapsed back into the ground.
+Items
+Item
+Location
+Games
+Luxury Ball
+Inside N's room
+B2
+W2
+Protein
+South of N's room
+B2
+W2
+TM50
+(
+Overheat
+)
+Eastern part of the first floor
+B2
+W2
+Dark Stone
+Gift from N upon his defeat
+B2
+Light Stone
+Gift from N upon his defeat
+W2
+1F
+Upon entering the ruined castle, you find
+N
+waiting at the bottom of the stairway. He asks that you lead him to the deepest chamber, a place that holds a special meaning to him. Only here will he face you in battle.
+North of the entrance is
+N
+'s old room. He tells you the sad tale of his childhood, then leaves the room in silence. Grab the
+Luxury Ball
+before following him.
+A fallen column blocks the walkway, so climb down the rubble to the lower level. Pick up the
+Protein
+to the west before heading east. Before heading upstairs, be sure to grab
+TM50
+(
+Overheat
+) to the southeast.
+2F
+Go west until you reach the large crack in the floor, where N stops you. He says simply,
+"This is our destination... Go inside."
+Enter the throne room and head north, where he catches up to you. He tells you about losing to a certain Trainer two years ago, and having to accept new ideas. He wants to know if you are a Trainer whose heart is strong enough to do that. He summons his friend
+Zekrom
+B2
+/
+Reshiram
+W2
+to his side, and asks if you are ready to battle. Despite having only one Pokémon, it can put up a serious fight. Defensively, you may want to use a high-level
+Ground-type
+Pokémon against Zekrom, or a high-level
+Rock-type
+Pokémon against Reshiram. Offensively,
+Ground
+moves like
+Earthquake
+and
+Ice
+moves like
+Ice Beam
+will be a big help.
+Pokémon Trainer
+N
+N's Castle
+Black 2
+Reward:
+$
+14000
+Types:
+Dragon
+Electric
+Ability:
+Teravolt
+Held item:
+None
+Zekrom
+Lv.
+70
+Fusion Bolt
+Electric
+Physical
+--
+Imprison
+Psychic
+Status
+--
+Dragon Claw
+Dragon
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Pokémon Trainer
+N
+N's Castle
+White 2
+Reward:
+$
+14000
+Types:
+Dragon
+Fire
+Ability:
+Turboblaze
+Held item:
+None
+Reshiram
+Lv.
+70
+Fusion Flare
+Fire
+Special
+--
+Imprison
+Psychic
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+After N says his goodbyes, his dragon is transformed into its dormant state, the
+Dark Stone
+B2
+/
+Light Stone
+W2
+. He instructs you to take the stone to
+Dragonspiral Tower
+. Exit the castle to
+Victory Road
+, then fly to
+Opelucid City
+.
+Season battles
+Once you catch his dragon, N appears near
+Nimbasa
+'s Ferris Wheel every Friday. After riding with him and catching
+Kyurem
+in the
+Giant Chasm
+, he returns to his castle for a
+once-per-month rematch
+with a team that changes with the seasons.
+Spring battle
+Pokémon Trainer
+N
+N's Castle
+Black 2 and White 2
+Reward:
+$
+15000
+Type:
+Water
+Unknown
+Ability:
+Drizzle
+Held item:
+Life Orb
+Politoed
+♂
+Lv.
+77
+Hypnosis
+Psychic
+Status
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Types:
+Water
+Electric
+Ability:
+Volt Absorb
+Held item:
+None
+Lanturn
+♂
+Lv.
+75
+Stockpile
+Normal
+Status
+--
+Signal Beam
+Bug
+Special
+--
+Thunder
+Electric
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Types:
+Water
+Poison
+Ability:
+Clear Body
+Held item:
+Damp Rock
+Tentacruel
+♂
+Lv.
+75
+Rain Dance
+Water
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Barrier
+Psychic
+Status
+--
+Scald
+Water
+Special
+--
+Types:
+Rock
+Water
+Ability:
+Swift Swim
+Held item:
+Damp Rock
+Omastar
+♂
+Lv.
+75
+Rain Dance
+Water
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Earth Power
+Ground
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Types:
+Rock
+Water
+Ability:
+Swift Swim
+Held item:
+None
+Kabutops
+♂
+Lv.
+75
+Stone Edge
+Rock
+Physical
+--
+Low Kick
+Fighting
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Types:
+Water
+Psychic
+Ability:
+Natural Cure
+Held item:
+None
+Starmie
+Lv.
+75
+Thunder
+Electric
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Psychic
+Psychic
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Summer battle
+Pokémon Trainer
+N
+N's Castle
+Black 2 and White 2
+Reward:
+$
+15000
+Type:
+Fire
+Unknown
+Ability:
+Drought
+Held item:
+Life Orb
+Ninetales
+♀
+Lv.
+77
+Confuse Ray
+Ghost
+Status
+--
+SolarBeam
+Grass
+Special
+--
+Foul Play
+Dark
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+75
+ExtremeSpeed
+Normal
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Outrage
+Dragon
+Physical
+--
+Overheat
+Fire
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Rapidash
+♂
+Lv.
+75
+Drill Run
+Ground
+Physical
+--
+SolarBeam
+Grass
+Special
+--
+Megahorn
+Bug
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Types:
+Grass
+Dark
+Ability:
+Chlorophyll
+Held item:
+Heat Rock
+Shiftry
+♂
+Lv.
+75
+Focus Blast
+Fighting
+Special
+--
+SolarBeam
+Grass
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Dark Pulse
+Dark
+Special
+--
+Types:
+Bug
+Flying
+Ability:
+Speed Boost
+Held item:
+Heat Rock
+Ninjask
+♂
+Lv.
+75
+Protect
+Normal
+Status
+--
+SolarBeam
+Grass
+Special
+--
+Sunny Day
+Fire
+Status
+--
+X-Scissor
+Bug
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Leaf Guard
+Held item:
+None
+Leafeon
+♀
+Lv.
+75
+Attract
+Normal
+Status
+--
+Iron Tail
+Steel
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Autumn battle
+Pokémon Trainer
+N
+N's Castle
+Black 2 and White 2
+Reward:
+$
+15000
+Type:
+Ground
+Unknown
+Ability:
+Sand Stream
+Held item:
+Life Orb
+Hippowdon
+♂
+Lv.
+77
+Crunch
+Dark
+Physical
+--
+Superpower
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Stealth Rock
+Rock
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Storm Drain
+Held item:
+Smooth Rock
+Gastrodon
+♂
+Lv.
+75
+Sandstorm
+Rock
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Muddy Water
+Water
+Special
+--
+Earth Power
+Ground
+Special
+--
+Types:
+Rock
+Grass
+Ability:
+Suction Cups
+Held item:
+Smooth Rock
+Cradily
+♂
+Lv.
+75
+Sandstorm
+Rock
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Stockpile
+Normal
+Status
+--
+Types:
+Rock
+Bug
+Ability:
+Battle Armor
+Held item:
+None
+Armaldo
+♂
+Lv.
+75
+Aqua Tail
+Water
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Rock Polish
+Rock
+Status
+--
+Types:
+Bug
+Steel
+Ability:
+Technician
+Held item:
+None
+Scizor
+♂
+Lv.
+75
+Bullet Punch
+Steel
+Physical
+--
+Double Hit
+Normal
+Physical
+--
+Bug Bite
+Bug
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Ground
+Rock
+Ability:
+Solid Rock
+Held item:
+None
+Rhyperior
+♂
+Lv.
+75
+Fire Punch
+Fire
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Winter battle
+Pokémon Trainer
+N
+N's Castle
+Black 2 and White 2
+Reward:
+$
+15000
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+Life Orb
+Abomasnow
+♂
+Lv.
+77
+Earthquake
+Ground
+Physical
+--
+Wood Hammer
+Grass
+Physical
+--
+Blizzard
+Ice
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+Icy Rock
+Vanilluxe
+♂
+Lv.
+75
+Flash Cannon
+Steel
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Blizzard
+Ice
+Special
+--
+Hail
+Ice
+Status
+--
+Types:
+Water
+Ice
+Ability:
+Skill Link
+Held item:
+None
+Cloyster
+♂
+Lv.
+75
+Shell Smash
+Normal
+Status
+--
+Hydro Pump
+Water
+Special
+--
+Icicle Spear
+Ice
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ice
+Ground
+Ability:
+Snow Cloak
+Held item:
+None
+Mamoswine
+♂
+Lv.
+75
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+Icy Rock
+Froslass
+♀
+Lv.
+75
+Psychic
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Blizzard
+Ice
+Special
+--
+Hail
+Ice
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Snow Cloak
+Held item:
+None
+Glaceon
+♀
+Lv.
+75
+Attract
+Normal
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Blizzard
+Ice
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Opelucid City
+While you are here, you can visit with
+Drayden
+in his home. He can teach the strongest Dragon attack,
+Draco Meteor
+, to any of your
+Dragon-type
+Pokémon as long as they share a strong bond with you. Head west through
+Route 9
+to reach
+Tubeline Bridge
+.
+Tubeline Bridge
+Tubeline Bridge
+Tubeline Bridge
+is a steel bridge that connects
+Route 9
+to
+Route 8
+. It is so sturdy that subway trains running beneath it will not cause it to budge an inch. A recent study reveals that it can support up to 4,934 people at once!
+Items
+Item
+Location
+Games
+TM43
+(
+Flame Charge
+)
+From the Battle Girl
+B2
+W2
+EnergyPowder
+From the Scientist in the west gate
+B2
+W2
+So Loud!
+The woman on the east end of the bridge is very frustrated about all the loud noises. The noise level will increase every time you talk to her, from 70 decibels, to 80, 100, and finally 120 decibels. Talk to her when you are traveling with a Pokémon that has the
+Soundproof
+Ability, and she will notice something interesting about her surroundings.
+Charge Ahead
+Talk to the Battle Girl near the middle of the bridge. She was trying to outrun the trains, but got overheated. She gives you
+TM43
+(
+Flame Charge
+), a low-power move that raises Speed, before running off again.
+Route 8
+Route 8
+Route 8
+is covered with marshes and water. Constant rain means that the route is always mucky, except in winter when the puddles mostly freeze over. To the north is the
+Moor of Icirrus
+, and to the south,
+Icirrus City
+.
+Trainers
+Trainer
+Pokémon
+Parasol Lady
+Ingrid
+ミチコ
+Michiko
+Reward:
+$
+1920
+Rotation Battle
+Castform
+♀
+Lv.
+60
+No item
+Castform
+♀
+Lv.
+60
+No item
+Castform
+♀
+Lv.
+60
+No item
+Lass
+Mai
+マイ
+Mai
+Reward:
+$
+960
+Shelmet
+♀
+Lv.
+60
+No item
+Slugma
+♀
+Lv.
+60
+No item
+Gastrodon
+♀
+West Sea
+Lv.
+60
+No item
+Fisherman
+Ryder
+タクマ
+Takuma
+Reward:
+$
+1920
+Barboach
+♂
+Lv.
+60
+No item
+Whiscash
+♂
+Lv.
+60
+No item
+Stunfisk
+♂
+Lv.
+60
+No item
+Parasol Lady
+Tyra
+ルイ
+Rui
+Reward:
+$
+1920
+Triple Battle
+Ludicolo
+♀
+Lv.
+60
+No item
+Jolteon
+♂
+Lv.
+60
+No item
+Castform
+♀
+Lv.
+60
+No item
+Youngster
+Astor
+タカト
+Takato
+Reward:
+$
+960
+Palpitoad
+♂
+Lv.
+60
+No item
+Vaporeon
+♂
+Lv.
+60
+No item
+Croagunk
+♂
+Lv.
+60
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Palpitoad
+B2
+W2
+Puddle
+54-57
+40%
+40%
+40%
+-
+Shelmet
+B2
+W2
+Puddle
+54
+20%
+20%
+20%
+-
+Stunfisk
+B2
+W2
+Puddle
+55-56
+20%
+20%
+20%
+-
+Croagunk
+B2
+W2
+Puddle
+55-56
+15%
+15%
+15%
+-
+Karrablast
+B2
+W2
+Puddle
+57
+5%
+5%
+5%
+-
+Surfing
+Stunfisk
+B2
+W2
+Surfing
+45-60
+70%
+Palpitoad
+B2
+W2
+Surfing
+45-60
+30%
+Rippling water
+Stunfisk
+B2
+W2
+Rippling water
+45-60
+65%
+Palpitoad
+B2
+W2
+Rippling water
+45-60
+30%
+Seismitoad
+B2
+W2
+Rippling water
+60
+5%
+Swarm
+Quagsire
+B2
+W2
+Puddle
+40-55
+40%
+40%
+40%
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Damp Rock
+(once per day)
+From the Parasol Lady near the Tubeline Bridge gate (morning)
+B2
+W2
+Heat Rock
+(once per day)
+From the Parasol Lady near the Tubeline Bridge gate (afternoon)
+B2
+W2
+Smooth Rock
+(once per day)
+From the Parasol Lady near the Tubeline Bridge gate (evening)
+B2
+W2
+Icy Rock
+(once per day)
+From the Parasol Lady near the Tubeline Bridge gate (night)
+B2
+W2
+Big Pearl
+Southwest of the eastern Fisherman (requires
+Surf
+)
+B2
+W2
+Max Repel
+Between Fisherman Ryder and Parasol Lady Tyra (hidden)
+B2
+W2
+TM36
+(
+Sludge Bomb
+)
+North of Youngster Astor
+B2
+W2
+Nest Ball
+Northeast of Youngster Astor
+B2
+W2
+Rare Candy
+South of Youngster Astor (hidden)
+B2
+W2
+Moor of Icirrus
+Moor of Icirrus
+The
+Moor of Icirrus
+is a large marsh that formed when water collected on the uneven ground. The area was once destroyed by an intense wildfire, and the Pokémon Rangers monitor the area to prevent the same from happening again. Fully exploring the area requires the use of
+Strength
+to move the boulder on the west side.
+Trainers
+Trainer
+Pokémon
+Pokémon Ranger
+Elaine
+リサ
+Lisa
+Reward:
+$
+3720
+Accelgor
+♀
+Lv.
+62
+No item
+Swalot
+♀
+Lv.
+62
+No item
+Kecleon
+♀
+Lv.
+62
+No item
+Pokémon Ranger
+Parker
+パーカー
+Parker
+Reward:
+$
+3720
+Escavalier
+♂
+Lv.
+62
+No item
+Skuntank
+♂
+Lv.
+62
+No item
+Carnivine
+♂
+Lv.
+62
+No item
+Fisherman
+Eustace
+タクジ
+Takuji
+Reward:
+$
+1920
+Corphish
+♂
+Lv.
+60
+No item
+Poliwag
+♂
+Lv.
+60
+No item
+Stunfisk
+♂
+Lv.
+60
+No item
+Fisherman
+Arnold
+テツハル
+Tetsuharu
+Reward:
+$
+1920
+Poliwhirl
+♂
+Lv.
+60
+No item
+Whiscash
+♂
+Lv.
+60
+No item
+Politoed
+♂
+Lv.
+60
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Palpitoad
+B2
+W2
+Puddle
+54-57
+40%
+40%
+40%
+-
+Shelmet
+B2
+W2
+Puddle
+54
+20%
+20%
+20%
+-
+Stunfisk
+B2
+W2
+Puddle
+55-56
+20%
+20%
+20%
+-
+Croagunk
+B2
+W2
+Puddle
+55-56
+15%
+15%
+15%
+-
+Karrablast
+B2
+W2
+Puddle
+57
+5%
+5%
+5%
+-
+Surfing
+Stunfisk
+B2
+W2
+Surfing
+45-60
+70%
+Palpitoad
+B2
+W2
+Surfing
+45-60
+30%
+Rippling water
+Stunfisk
+B2
+W2
+Rippling water
+45-60
+65%
+Palpitoad
+B2
+W2
+Rippling water
+45-60
+30%
+Seismitoad
+B2
+W2
+Rippling water
+60
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TinyMushroom
+West of the entrance, in the gap in the trees (hidden)
+B2
+W2
+Lum Berry
+×2
+From Pokémon Ranger Elaine upon her defeat (requires
+Strength
+)
+From Pokémon Ranger Parker upon his defeat
+B2
+W2
+TM84
+(
+Poison Jab
+)
+South of Pokémon Ranger Elaine (requires
+Strength
+)
+B2
+W2
+Big Mushroom
+West of Fisherman Arnold (hidden)
+B2
+W2
+Green Shard
+East of Fisherman Arnold
+B2
+W2
+Heart Scale
+Northeast part of the marsh
+B2
+W2
+Dawn Stone
+In the patch of flowers, southwest of Fisherman Eustace (hidden)
+B2
+W2
+Rare Candy
+In the group of trees, southwest of Fisherman Eustace
+Spring
+Summer
+Autumn
+B2
+W2
+Full Heal
+Northeast of Pokémon Ranger Parker
+B2
+W2
+Go west from the entrance to find a hidden
+TinyMushroom
+in the line of trees. To the north, an old man tells you about the marsh's history and the fire that once raged here. Move the boulder into place to reach the southwest lake; defeat Pokémon Ranger Elaine to get a
+Lum Berry
+, and continue south to find
+TM84
+(
+Poison Jab
+). Further north, a hidden
+Big Mushroom
+and a
+Green Shard
+lie on opposite sides of Fisherman Arnold. Head to the northeast area for a
+Heart Scale
+, then jump the ledge. A hidden
+Dawn Stone
+and a
+Rare Candy
+can be found in the middle of the southeast lake. South of that, Pokémon Ranger Parker gives up another
+Lum Berry
+, and a
+Full Heal
+sits nearby.
+Return to
+Route 8
+and head southwest to reach
+Icirrus City
+.
+Icirrus City
+Icirrus City
+Icirrus City
+'s wetlands occupy the area to the south, while the buildings are situated on higher, stable ground. The Pokémon Fan Club is located here, and you can win prizes for answering Aha's quizzes.
+Brycen
+, who served as the local Gym Leader two years ago, now works as an actor at
+PokéStar Studios
+.
+Available Pokémon
+Items
+Item
+Location
+Games
+Antidote
+(one per day)
+From Aha for answering her quiz correctly
+B2
+W2
+Parlyz Heal
+(one per day)
+From Aha for answering her quiz incorrectly
+B2
+W2
+Exp. Share
+From the Fan Club chairman, if Pokémon shown has gained 25-49 levels since it was met
+B2
+W2
+Cleanse Tag
+From the Fan Club chairman, if Pokémon shown has gained 50-98 levels since it was met
+B2
+W2
+King's Rock
+From the Fan Club chairman, if Pokémon shown has gained 99 levels since it was met
+B2
+W2
+PP Up
+East of the Pokémon Center
+B2
+W2
+Max Elixir
+West of the Pokémon Center
+Winter
+B2
+W2
+Black Belt
+From a Battle Girl inside the Pokémon Center
+B2
+W2
+The Ore Collector
+The Gentleman in the Pokémon Center is interested in collecting any stones, gems, and minerals you might have, and is willing to pay double the normal price for them. He is the only person in the region who will buy
+Pearl Strings
+and
+Comet Shards
+.
+Items Accepted
+Any Gem
+$
+200
+Any Shard
+$
+200
+Hard Stone
+$
+500
+Everstone
+$
+1000
+Any weather rock
+$
+1000
+Float Stone
+$
+1000
+Pearl
+$
+1400
+Oval Stone
+$
+1500
+Stardust
+$
+2000
+Fire Stone
+$
+3000
+Moon Stone
+$
+3000
+Thunderstone
+$
+3000
+Water Stone
+$
+3000
+Dawn Stone
+$
+3000
+Shiny Stone
+$
+3000
+Sun Stone
+$
+3000
+Dusk Stone
+$
+3000
+Leaf Stone
+$
+3000
+Odd Keystone
+$
+3000
+Shoal Shell
+$
+7000
+Big Pearl
+$
+7500
+Star Piece
+$
+9800
+Nugget
+$
+10000
+Pearl String
+$
+25000
+Big Nugget
+$
+30000
+Comet Shard
+$
+60000
+Pokémon Fan Club
+Talk to the chairman and show him a well-trained Pokémon to get an item. Depending on the number of levels it gained since meeting you, he will hand over up to three different items. A Pokémon that has grown 25-49 levels will earn you an
+Exp. Share
+; 50-98 levels will get you a
+Cleanse Tag
+; and a Pokémon that's grown 99 levels will earn you a
+King's Rock
+.
+The girl in the Fan Club will offer to check your Pokémon's mood. Choose a Pokémon to show her, and she will tell you how
+friendly
+it is toward you.
+Aha's Pep Quiz
+The home of Aha, Wye, and Ditoh is east of the former Gym. The mother, Wye, pulls you into the game the moment you step inside. The father, Aha, will ask you a question, while Wye gives hints to the answer. A correct answer will earn you an
+Antidote
+, while an incorrect one will get you a
+Parlyz Heal
+instead. You can take the quiz once per day.
+The Shadows Reappear
+Head east from the Pokémon Center and cross the bridge. When you reach the end of the path, the
+Shadow Triad
+suddenly appears. The Triad challenges you to three individual battles; a Single Battle, a Triple Battle, then a Rotation Battle. They also give you a chance to quit between battles. When the battles end, the Triad disappears without a word; however, they will reappear for a rematch once every season.
+Team Plasma
+Shadow
+Icirrus City
+Black 2 and White 2
+Reward:
+$
+12060
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Scary Face
+Normal
+Status
+--
+Iron Head
+Steel
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Low Sweep
+Fighting
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Swords Dance
+Normal
+Status
+--
+X-Scissor
+Bug
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+67
+Aerial Ace
+Flying
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Team Plasma
+Shadow
+Icirrus City
+Black 2 and White 2
+Reward:
+$
+11700
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Scary Face
+Normal
+Status
+--
+Iron Head
+Steel
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Low Sweep
+Fighting
+Physical
+--
+Type:
+Bug
+Unknown
+Ability:
+Hydration
+Held item:
+None
+Accelgor
+♂
+Lv.
+67
+Bug Buzz
+Bug
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Swords Dance
+Normal
+Status
+--
+X-Scissor
+Bug
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Team Plasma
+Shadow
+Icirrus City
+Black 2 and White 2
+Reward:
+$
+11700
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♂
+Lv.
+67
+Shadow Claw
+Ghost
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Psychic
+Psychic
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Scary Face
+Normal
+Status
+--
+Iron Head
+Steel
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Low Sweep
+Fighting
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Bisharp
+♂
+Lv.
+65
+Swords Dance
+Normal
+Status
+--
+X-Scissor
+Bug
+Physical
+--
+Guillotine
+Normal
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Dragonspiral Tower
+Dragonspiral Tower
+Dragonspiral Tower
+is said to be the oldest structure in the
+Unova
+region. No one knows its history, but it is said to have a deep connection with the legendary dragons
+Zekrom
+and
+Reshiram
+.
+Available Pokémon
+Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sawsbuck
+B2
+W2
+Grass
+55-58
+35%
+-
+-
+-
+Sawsbuck
+B2
+W2
+Grass
+55-58
+-
+35%
+-
+-
+Sawsbuck
+B2
+W2
+Grass
+55-58
+-
+-
+35%
+-
+Sawsbuck
+B2
+W2
+Grass
+55-57
+-
+-
+-
+30%
+Tranquill
+B2
+W2
+Grass
+55-58
+35%
+35%
+35%
+-
+Mienshao
+B2
+W2
+Grass
+56-58
+25%
+25%
+25%
+30%
+Vanillish
+B2
+W2
+Grass
+55-57
+-
+-
+-
+25%
+Beartic
+B2
+W2
+Grass
+57-58
+-
+-
+-
+15%
+Druddigon
+B2
+W2
+Grass
+58
+5%
+5%
+5%
+-
+Dark grass (winter only)
+Sawsbuck
+B2
+W2
+Dark grass
+63-65
+-
+-
+-
+30%
+Mienshao
+B2
+W2
+Dark grass
+64-66
+-
+-
+-
+29%
+Vanillish
+B2
+W2
+Dark grass
+63-65
+-
+-
+-
+25%
+Beartic
+B2
+W2
+Dark grass
+65-66
+-
+-
+-
+15%
+Mienfoo
+B2
+W2
+Dark grass
+66
+-
+-
+-
+1%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+55-58
+85%
+Emolga
+B2
+W2
+Rustling grass
+56
+10%
+Unfezant
+B2
+W2
+Rustling grass
+58
+5%
+5%
+5%
+-
+Vanilluxe
+B2
+W2
+Rustling grass
+58
+-
+-
+-
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Outside
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tranquill
+B2
+W2
+Grass
+55-58
+35%
+35%
+35%
+-
+Sawsbuck
+B2
+W2
+Grass
+55-58
+35%
+-
+-
+-
+Sawsbuck
+B2
+W2
+Grass
+55-58
+-
+35%
+-
+-
+Sawsbuck
+B2
+W2
+Grass
+55-58
+-
+-
+35%
+-
+Sawsbuck
+B2
+W2
+Grass
+55-57
+-
+-
+-
+30%
+Mienshao
+B2
+W2
+Grass
+56-58
+25%
+Vanillish
+B2
+W2
+Grass
+55-57
+-
+-
+-
+25%
+Beartic
+B2
+W2
+Grass
+57-58
+-
+-
+-
+15%
+Druddigon
+B2
+W2
+Grass
+58
+5%
+Dark grass
+Tranquill
+B2
+W2
+Dark grass
+63-66
+35%
+35%
+35%
+-
+Sawsbuck
+B2
+W2
+Dark grass
+63-66
+35%
+-
+-
+-
+Sawsbuck
+B2
+W2
+Dark grass
+63-66
+-
+35%
+-
+-
+Sawsbuck
+B2
+W2
+Dark grass
+63-66
+-
+-
+35%
+-
+Sawsbuck
+B2
+W2
+Dark grass
+63-65
+-
+-
+-
+30%
+Mienshao
+B2
+W2
+Dark grass
+64-66
+25%
+Vanillish
+B2
+W2
+Dark grass
+63-65
+-
+-
+-
+25%
+Beartic
+B2
+W2
+Dark grass
+65-66
+-
+-
+-
+15%
+Druddigon
+B2
+W2
+Dark grass
+66
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+55-57
+85%
+Emolga
+B2
+W2
+Rustling grass
+56
+10%
+Unfezant
+B2
+W2
+Rustling grass
+57
+5%
+5%
+5%
+-
+Vanilluxe
+B2
+W2
+Rustling grass
+57
+-
+-
+-
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Basculin
+B2
+W2
+Surfing
+45-60
+100%
+Rippling water
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+Basculin
+B2
+W2
+Rippling water
+45-60
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inside
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golurk
+B2
+W2
+1F
+55-58
+50%
+Druddigon
+B2
+W2
+1F
+56-58
+30%
+Mienshao
+B2
+W2
+1F
+55
+20%
+2F
+Golurk
+B2
+W2
+2F
+55-58
+100%
+Special Pokémon
+Zekrom
+B2
+W2
+Only one
+70
+One
+Reshiram
+B2
+W2
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Entrance
+NeverMeltIce
+On the cliff north of Icirrus City
+Winter
+B2
+W2
+Outside
+Old Gateau
+Gift from Cedric Juniper
+B2
+W2
+Carbos
+East of the tower (requires
+Surf
+)
+B2
+W2
+Inside
+Red Shard
+2F; in the rubble on the north side (hidden)
+B2
+W2
+Elixir
+2F; under the fallen northeast column
+B2
+W2
+Ultra Ball
+2F; on the broken western column
+B2
+W2
+Shiny Stone
+3F; in the middle of the room
+B2
+W2
+Protein
+3F; on the northeast platform
+B2
+W2
+Adamant Orb
+4F; northeast platform
+B2
+W2
+Lustrous Orb
+4F; northeast platform
+B2
+W2
+Griseous Orb
+4F; northeast platform
+B2
+W2
+TM02
+(
+Dragon Claw
+)
+5F; second ring from the center
+B2
+W2
+Max Revive
+5F; third ring from the center
+B2
+W2
+PP Max
+5F; outer ring
+B2
+W2
+Comet Shard
+×2
+6F; northeast corner
+7F; northeast area (hidden)
+B2
+W2
+1F
+The first floor is pretty straightforward. Just follow the path to the stairs.
+2F
+The second floor is littered with broken columns; these act as a bridge if you don't have a Pokémon with
+Strength
+. There's an
+Elixir
+under a column to the northeast, and an
+Ultra Ball
+on a broken column to the west. Don't miss the
+Red Shard
+hiding in the rubble!
+3F
+The third floor is covered with one-way ramps. Jump to the south, then take the middle ramp west then north to reach a
+Shiny Stone
+. Grab the
+Protein
+in the northeast before taking the southernmost ramp west to the winding staircase.
+4F
+Another straightforward floor. Climb the several stairways to reach the north side. To the east, a trio of items lie neatly in a row. These are the
+Adamant
+,
+Lustrous
+, and
+Griseous Orbs
+, which boost the powers of
+Dialga
+,
+Palkia
+, and
+Giratina
+. The legendary titans do not appear in
+Unova
+, but can still be found through
+other
+means
+.
+5F
+The fifth floor is made up of four large circular paths around the central column. Head to the right to find a
+PP Max
+on the outer ring, then go left to reach
+TM02
+(
+Dragon Claw
+) on the second ring from the center. Walk around the column to get a
+Max Revive
+, then go left to reach the stairs.
+6F
+Another simple floor. Follow the path to find a
+Comet Shard
+, which can be sold to the Ore Collector in Icirrus for a whopping
+$
+60,000! Continue on to the stairs in the southwest.
+7F
+Head on up through the narrow path, and the room begins to shake. Suddenly, the
+Dark Stone
+B2
+/
+Light Stone
+W2
+begins to tremble inside your Bag. The stone floats in the air for a moment, slowly absorbing the aura from its surroundings before reawakening as
+Zekrom
+B2
+/
+Reshiram
+W2
+. In a show of force, it sends out a shock wave of crackling electricity
+B2
+/blazing fire
+W2
+as it descends to the ground.
+First, exploit its weaknesses to quickly drop its health. Both dragons are vulnerable to
+Dragon
+- and
+Ground-type
+attacks; in addition, Zekrom fears
+Ice
+moves and Reshiram fears
+Rock
+moves. Next, wear it down gradually with
+Grass
+,
+Fire
+, or
+Electric
+moves. If you happen to defeat it, it will reappear once you defeat the Elite Four and Champion again.
+Types:
+Dragon
+Electric
+Ability:
+Teravolt
+Held item:
+None
+Zekrom
+Lv.
+70
+Fusion Bolt
+Electric
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Imprison
+Psychic
+Status
+--
+Types:
+Dragon
+Fire
+Ability:
+Turboblaze
+Held item:
+None
+Reshiram
+Lv.
+70
+Fusion Flare
+Fire
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Imprison
+Psychic
+Status
+--
+After the battle,
+N
+appears and tells you to go to the
+Giant Chasm
+. According to his friend,
+Kyurem
+has returned! Once he leaves, be sure to track down that hidden
+Comet Shard
+. It is possible to
+Fly
+out of here, so take off for
+Lacunosa Town
+again and head east.
+Giant Chasm
+The Crater Forest has mostly recovered from the
+Plasma Frigate
+'s impact, except for the sandy depression in the center. Enter the cave to the northeast and head to the back chamber to find
+Kyurem
+waiting for you. Save the game before starting the battle, as it will be much tougher to catch than the previous dragon.
+Dragon
+,
+Fighting
+,
+Rock
+, and
+Steel
+attacks will reduce its health the fastest, then weaken it further with
+Grass
+,
+Water
+, and
+Electric
+moves.
+Types:
+Dragon
+Ice
+Ability:
+Pressure
+Held item:
+None
+Kyurem
+Lv.
+70
+Scary Face
+Normal
+Status
+--
+Glaciate
+Ice
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Imprison
+Psychic
+Status
+--
+When the battle is over,
+Cheren
+and
+Bianca
+enter the cave. Cheren is impressed at the sight of
+Kyurem
+, while Bianca suggests showing your
+Pokédex
+to
+Professor Juniper
+. They run off, giving you the chance to grab the
+DNA Splicers
+that Kyurem dropped. When used, these let you fuse Kyurem with either Zekrom or Reshiram to create
+Black Kyurem
+or
+White Kyurem
+, respectively. The new Pokémon draws its level and other details from Kyurem. The next time you use the PC, you will receive some new Kyurem-themed wallpapers.
+← Part 18
+Route 14, Abundant Shrine, Black City & White Forest, Route 15, Marvelous Bridge
+Black 2 and White 2
+walkthrough
+Skyarrow Bridge, Pinwheel Forest, Nacrene City, Route 3, Striaton City, The Dreamyard
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

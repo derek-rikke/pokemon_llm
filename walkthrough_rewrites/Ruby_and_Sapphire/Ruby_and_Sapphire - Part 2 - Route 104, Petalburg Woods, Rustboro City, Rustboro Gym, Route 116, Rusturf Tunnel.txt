@@ -1,0 +1,58 @@
+Game: Ruby_and_Sapphire
+Part: 2
+Keywords: Route 104, Petalburg Woods, Rustboro City, Rustboro Gym, Route 116, Rusturf Tunnel
+
+### Pokémon Ruby and Sapphire Walkthrough: Part 2
+
+**Route 104**: Connects Petalburg City to Rustboro City. Key locations include Mr. Briney's cottage and Pretty Petal Flower Shop.
+
+- **Trainers**: 
+  - Youngster Billy: Seedot, Taillow (Reward: $128)
+  - Rich Boy Winston: Zigzagoon (Reward: $1400, Nugget)
+  - Lady Cindy: Zigzagoon (Reward: $1400, Nugget)
+  - Others: Various levels and rewards.
+
+- **Items**:
+  - South Side: Antidote, Heart Scale, Potion, Berries (hidden)
+  - North Side: TM09 (Bullet Seed), Wailmer Pail (from shop owner), various Berries.
+
+**Petalburg Woods**: Dense forest with various trainers and items.
+
+- **Trainers**: 
+  - Bug Catcher Lyle: Wurmple (Reward: $48)
+  - Team Magma/Aqua Grunt: Poochyena (Reward: $180)
+  - Bug Catcher James: Nincada (Reward: $128, rematch available).
+
+- **Items**: 
+  - Great Ball (after defeating Grunt), Miracle Seed, Tiny Mushrooms (hidden).
+
+- **Story Event**: Help the researcher from Devon Corporation fend off a Team Magma/Aqua Grunt to receive a Great Ball.
+
+**Rustboro City**: Home to the Pokémon Trainer's School, Devon Corporation, and Rustboro Gym.
+
+- **Key Items**:
+  - HM01 (Cut) from Cutter.
+  - Quick Claw from Trainer's School.
+  - TM39 (Rock Tomb) from Roxanne after defeating her.
+
+- **Rustboro Gym**: 
+  - Leader: Roxanne (Rock-type).
+  - Strategy: Use Grass, Water, and Fighting moves. Defeat Geodude and Nosepass for the Stone Badge.
+
+**Route 116**: East of Rustboro City, leads to Rusturf Tunnel.
+
+- **Trainers**: Various trainers, including School Kid Jerry with Ralts.
+
+- **Items**: Repel, X Special, Super Potion.
+
+- **Story Event**: Witness a Team Magma/Aqua Grunt stealing from Devon Corporation.
+
+**Rusturf Tunnel**: Small cave where you confront the thief.
+
+- **Trainers**: Team Grunts and Hiker Mike.
+
+- **Items**: Poké Ball, Devon Goods from the Grunt after defeat.
+
+- **Next Steps**: Return to Rustboro City, deliver Devon Goods, receive PokéNav from Mr. Stone, and a letter to Steven in Dewford Town.
+
+**Summary**: Defeat trainers, collect items, and complete objectives to progress through Ruby and Sapphire. Use type advantages in battles and strategize for gym challenges.

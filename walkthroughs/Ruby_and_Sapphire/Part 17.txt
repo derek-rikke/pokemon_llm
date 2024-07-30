@@ -1,0 +1,824 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_17
+Keywords: Route 132, Route 133, Route 134, Sealed Chamber, Island Cave, Desert Ruins, Ancient Tomb
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Routes 132, 133, and 134
+1.1
+Northern path
+1.2
+Central path
+1.3
+To the Depths
+1.4
+Sealed Chamber
+1.4.1
+Entrance
+1.4.2
+Back Room
+2
+Route 105
+2.1
+Island Cave
+2.1.1
+Entrance
+2.1.2
+Back Room
+3
+Route 111
+3.1
+Desert Ruins
+3.1.1
+Entrance
+3.1.2
+Back Room
+4
+Route 120
+4.1
+Ancient Tomb
+4.1.1
+Entrance
+4.1.2
+Back Room
+Routes 132, 133, and 134
+Route 132
+Route 133
+Route 134
+The waters of Routes
+132
+,
+133
+, and
+134
+hold strong ocean currents that make travel difficult. While moving primarily westbound, these currents can send you sailing in almost any direction. This makes it necessary to revisit the area in order to explore every island.
+Trainers
+Route 132
+Trainer
+Pokémon
+Swimmer
+Dana
+Reward:
+$
+264
+Marill
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Azumarill
+♀
+Lv.
+33
+No item
+Swimmer
+Gilbert
+Reward:
+$
+280
+Sharpedo
+♂
+Lv.
+35
+No item
+Black Belt
+Kiyo
+Reward:
+$
+1056
+Makuhita
+♂
+Lv.
+33
+No item
+Makuhita
+♂
+Lv.
+33
+No item
+Machoke
+♂
+Lv.
+33
+No item
+Fisherman
+Ronald
+Reward:
+$
+1360
+Gyarados
+♂
+Lv.
+34
+No item
+Gyarados
+♂
+Lv.
+29
+No item
+Gyarados
+♂
+Lv.
+25
+No item
+Gyarados
+♂
+Lv.
+22
+No item
+Gyarados
+♂
+Lv.
+20
+No item
+Magikarp
+♂
+Lv.
+19
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 133
+Trainer
+Pokémon
+Swimmer
+Franklin
+Reward:
+$
+272
+Tentacruel
+♂
+Lv.
+34
+No item
+Sealeo
+♂
+Lv.
+34
+No item
+Cooltrainer
+Warren
+Reward:
+$
+1632
+Graveler
+♂
+Lv.
+34
+No item
+Magcargo
+♂
+Lv.
+34
+No item
+Ludicolo
+♂
+Lv.
+34
+No item
+Bird Keeper
+Beck
+Reward:
+$
+1088
+Pelipper
+♂
+Lv.
+34
+No item
+Pelipper
+♂
+Lv.
+34
+No item
+Swimmer
+Debra
+Reward:
+$
+272
+Goldeen
+♀
+Lv.
+34
+No item
+Seaking
+♀
+Lv.
+34
+No item
+Swimmer
+Linda
+Reward:
+$
+272
+Horsea
+♀
+Lv.
+34
+No item
+Seadra
+♀
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 134
+Trainer
+Pokémon
+Swimmer
+Jack
+Reward:
+$
+272
+Staryu
+Lv.
+34
+No item
+Gyarados
+♂
+Lv.
+34
+No item
+Swimmer
+Laurel
+Reward:
+$
+264
+Luvdisc
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Luvdisc
+♀
+Lv.
+33
+No item
+Black Belt
+Hitoshi
+Reward:
+$
+1088
+Machoke
+♂
+Lv.
+34
+No item
+Machoke
+♂
+Lv.
+34
+No item
+Dragon Tamer
+Aaron
+Reward:
+$
+1680
+Bagon
+♂
+Lv.
+35
+No item
+Bird Keeper
+Alex
+Reward:
+$
+1024
+Natu
+♂
+Lv.
+32
+No item
+Wingull
+♂
+Lv.
+32
+No item
+Swellow
+♂
+Lv.
+32
+No item
+Pelipper
+♂
+Lv.
+32
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Route 132
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Horsea
+R
+S
+E
+Fishing
+Super Rod
+25-30
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 133
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Horsea
+R
+S
+E
+Fishing
+Super Rod
+25-30
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 134
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Horsea
+R
+S
+E
+Fishing
+Super Rod
+25-30
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Route 132
+Rare Candy
+North side of the northwest island
+R
+S
+Route 133
+Big Pearl
+Southern of the two shallows in the northeast
+R
+S
+Star Piece
+North side of the northwest island
+R
+S
+Northern path
+Ride the central currents to Swimmer Dana, then sail westward to reach a
+Rare Candy
+opposite Fisherman Ronald on the northwest island. From here, Surf westward through the northern shallows of Route 133 to reach the north side of the route's northwest island. Collect the
+Star Piece
+here, then sail west to the calm waters on Route 134's north side. Take the current south of here to reach the large, thin island. Fight Black Belt Hitoshi, then Surf west to reach the shallows outside
+Slateport City
+.
+Central path
+Ride the southern currents to the southeast island to fight Black Belt Kiyo. Wade into the waters off the north end of the shallows to follow the current to Fisherman Ronald on the northwest island. Sail westward to ride the current to the southern of two shallows on Route 133, and collect the
+Big Pearl
+there. Continue westward to reach the south side of Route 133's northwest island, and battle Cooltrainer Warren. Sail west again to battle Bird Keeper Alex in the shallows of Route 134's largest island. Head back into the water to follow the current to Slateport City.
+To the Depths
+Ride the southern currents to fight Black Belt Kiyo on the crescent-shaped island, then sail westward to a calm patch of water surrounded by shallows. Follow the currents westward to be funneled through a bottleneck; this leads to calm waters with two Swimmers, Debra and Linda. Pass through the rocky southern islet to reach a rectangular patch of shallow water situated between Routes 133 and 134. Step into the water from the west-central side to reach a deep, dark pit of water surrounded by a ring of rocks.
+Dive
+beneath the waves and follow the underwater path southward. The markings on the nearby wall are an ancient form of writing, and translate to
+Go up here
+.
+Surface from this point to emerge in an ancient ruin known as the
+Sealed Chamber
+.
+Sealed Chamber, Entrance
+Sealed Chamber, Back Room
+Sealed Chamber
+The
+Sealed Chamber
+is a mysterious ruin located in the depths of
+Route 134
+. The many stone tablets positioned around the chamber feature the same mysterious writing that was found near the underwater entrance. Solving some of
+Hoenn
+'s oldest mysteries hinges on deciphering this age-old system.
+Entrance
+The first chamber holds ten stone tablets that act as a key to decoding this ancient writing system, known as
+Braille
+. These 28 characters correspond to the 26 letters of the alphabet, as well as the comma and period. Inspect the markings on the cavern's north wall to reveal a phrase, which translates to
+Dig here
+. Using
+the field move
+causes the wall to fall away, granting you access to a second cavern.
+Back Room
+The central ruins are encircled by
+six more stone tablets
+which tell of a powerful Pokémon that was sealed away. The message on the north wall reads,
+First comes
+Relicanth
+. Last comes
+Wailord
+.
+Wailord's pre-evolved form,
+Wailmer
+, can be found in many areas with the
+Good Rod
+or
+Super Rod
+, while Relicanth can be found only in a few underwater areas. Position these Pokémon in their respective places in your party and examine the wall again. This causes a mighty earthquake to rock the Sealed Chamber, while the sound of doors opening echoes from somewhere far away. Three separate ruins have now been opened, and each one holds a legendary Pokémon!
+Route 105
+Island Cave, exterior
+Island Cave, interior
+Island Cave
+The
+Island Cave
+sits on a small isle in the northwest part of
+Route 105
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Stop and wait. Wait for time to pass twice.
+Close the message box and stand still at the north wall for two full minutes. Once enough time passes, a secret passage appears out of nowhere!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Regice
+awaits.
+Type:
+Ice
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regice
+Lv.
+40
+Icy Wind
+Ice
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+Route 111
+Desert Ruins, exterior
+Desert Ruins, interior
+Desert Ruins
+The
+Desert Ruins
+lie among the dunes of
+Route 111
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+Right, right, down, down. Then, use Strength.
+Close the message box and move exactly as instructed, two steps east and two steps south. Have a Pokémon use
+Strength
+from this location, and a secret passage opens in the north wall!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Regirock
+awaits.
+Type:
+Rock
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Regirock
+Lv.
+40
+Rock Throw
+Rock
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+Route 120
+Ancient Tomb, exterior
+Ancient Tomb, interior
+Ancient Tomb
+The
+Ancient Tomb
+stands on the southwest plateau of
+Route 120
+. Another coded message can be found on the north wall.
+Entrance
+Examine the north wall to view the message, which reads,
+With new time, hope and love, aim to the sky in the middle.
+Close the message box and move to the center of the cave. Have a Pokémon use
+Fly
+from this location, and a secret passage appears out of nowhere!
+Back Room
+Follow the passage to the back cavern, where the legendary Pokémon
+Registeel
+awaits.
+Type:
+Steel
+Unknown
+Ability:
+Clear Body
+Held item:
+None
+Registeel
+Lv.
+40
+Metal Claw
+Steel
+--
+Curse
+???
+--
+Superpower
+Fighting
+--
+AncientPower
+Rock
+--
+← Part 16
+Abandoned Ship, Routes 129, 130, and 131, Pacifidlog Town
+Ruby and Sapphire
+walkthrough
+Ever Grande City, Victory Road
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

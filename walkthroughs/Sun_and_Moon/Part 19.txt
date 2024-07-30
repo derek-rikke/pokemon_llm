@@ -1,0 +1,730 @@
+Part: Part 19
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_19
+Keywords: Po Town, Shady House, Ula'ula Grand Trial
+
+Walkthrough Text:
+Contents
+1
+Po Town
+1.1
+The First Barricade
+1.2
+The Assault on Po Town
+1.3
+Shady House
+1.3.1
+1F
+1.3.2
+2F (West)
+1.3.3
+2F (Exterior)
+1.3.4
+2F (East)
+1.3.4.1
+VS Guzma
+1.4
+The Man in Black
+2
+Route 15
+2.1
+Aether House
+2.1.1
+VS Gladion
+3
+Malie City
+3.1
+Ula'ula Grand Trial
+Po Town
+Po Town
+Po Town
+is located on the northwestern-most point of
+Ula'ula Island
+. The barricaded town has long been overrun by
+Team Skull
+and houses their base of operations, the
+Shady House
+. The team now runs the Pokémon Center, ensuring that their Pokémon have a reliable form of treatment. Visitors may also have their Pokémon healed here as well—for a price.
+Trainers
+Trainer
+Pokémon
+Team Skull Grunt
+Reward:
+$
+1,088
+Spinarak
+♂
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Grimer
+♂
+Alolan form
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,120
+Double Battle
+with the following Grunt
+Raticate
+♀
+Alolan form
+Lv.
+35
+No item
+Team Skull Grunt
+Reward:
+$
+1,120
+Double Battle
+with the previous Grunt
+Golbat
+♀
+Lv.
+35
+No item
+Team Skull Grunt
+Reward:
+$
+1,088
+Fomantis
+♂
+Lv.
+34
+No item
+Salandit
+♂
+Lv.
+34
+No item
+Team Skull Grunt
+Reward:
+$
+1,120
+Wimpod
+♀
+Lv.
+35
+No item
+Items
+Item
+Location
+Games
+Max Repel
+Southeast corner of the town
+S
+M
+Rare Candy
+East-central yard, accessed from southeast yard
+S
+M
+Smoke Ball
+Northeast yard, reached through a hole in the hedge
+S
+M
+Zygarde Cell
+Outside the Shady House, near the red truck
+Night
+S
+M
+Zygarde Cell
+Outside the Shady House, near the yellow truck
+Day
+S
+M
+Ice Stone
+Near the swimming pool, accessed via Shady House
+S
+M
+After becoming Champion
+Skull Tank
+Pokémon Center; sold by the female Team Skull Grunt for
+$
+10,000
+S
+M
+The First Barricade
+When first entering the city, you are notice by a pair of Team Skull Grunts. They would like to battle you, but decide that moving their barricade to reach you would be too much work. They taunt you instead and tell you to go home, confident that you will never find a way inside.
+The Assault on Po Town
+Go west and inspect the hedge to crawl through the hole. This leads you back to the first two Grunts, who can't believe that you are stubborn enough to challenge them. Defeat them one after the other, then continue east to reach the Pokémon Center.
+Controlled by Team Skull, the Pokémon Center has fallen into disrepair while the Poké Mart and Café are unstaffed. The team never passes up an opportunity to make money, so the female Grunt behind the counter offers to heal your Pokémon—for
+$
+10 per visit.
+Leave the Pokémon Center and continue north. Both sides of the street have a hole in the hedges; take the eastern one first to reach a
+Double Battle
+with two female Grunts and a
+Rare Candy
+. Backtrack and crawl through the western hedge. Head to the street to fight the Grunt standing on top of the pickup truck. Enter the yard of the northwest house and walk over the stacked boxes to pass through a hole in the fence. Go east and detour through the hedge into the northeast yard to reach a
+Smoke Ball
+, then continue north to the
+Shady House
+.
+Shady House
+The
+Shady House
+serves as
+Team Skull
+'s headquarters. The dilapidated mansion is covered in graffiti and grime.
+Trainers
+Trainer
+Pokémon
+1F
+Team Skull Grunt
+Reward:
+$
+1,120
+Zubat
+♂
+Lv.
+34
+No item
+Gastly
+♂
+Lv.
+34
+No item
+Salandit
+♂
+Lv.
+35
+No item
+Team Skull Grunt
+Reward:
+$
+1,120
+Mareanie
+♀
+Lv.
+35
+No item
+1F (north room)
+Team Skull Grunt
+Reward:
+$
+1,120
+Haunter
+♀
+Lv.
+35
+No item
+2F
+Team Skull Grunt
+Reward:
+$
+1,120
+Wimpod
+♂
+Lv.
+34
+No item
+Drowzee
+♂
+Lv.
+35
+No item
+2F (west room)
+Team Skull Grunt
+Reward:
+$
+1,120
+Rattata
+♀
+Alolan form
+Lv.
+35
+No item
+Team Skull Grunt
+Reward:
+$
+1,120
+Raticate
+♀
+Alolan form
+Lv.
+35
+No item
+2F (southwest room)
+Team Skull Grunt
+Reward:
+$
+1,120
+Fomantis
+♂
+Lv.
+35
+No item
+Roof
+Team Skull Grunt
+Reward:
+$
+1,120
+Golbat
+♀
+Lv.
+35
+No item
+Items
+Item
+Location
+Games
+Max Revive
+1F; west-central room
+S
+M
+Heal Powder
+1F; northeast room
+S
+M
+TM36
+(
+Sludge Bomb
+)
+2F; northwest room
+S
+M
+Iron
+2F; southwest room
+S
+M
+Escape Rope
+2F (Exterior); on the eastern rooftop
+S
+M
+Buginium Z
+2F; northeast room, after defeating Guzma
+S
+M
+1F
+The Shady House
+Take the first door on the left to exit the building and find an
+Ice Stone
+near the swimming pool. Back in the entrance hall, go north and defeat the female Grunt in the western hallway. Enter the west-central room to get a
+Max Revive
+, then visit the northwest room. Inside, you find a note on the floor that lists a secret password:
+Beat Up
+. Return to the entrance and enter the room under the staircase. Defeat the female Grunt in the middle of the room and continue east; this leads to the blocked-off part of the eastern hallway. Visit the northeast room to find a
+Heal Powder
+and a second note on the floor with another secret password:
+Tapu Cocoa
+; it also reminds the reader that true Team Skull members always butt heads and answer with a hearty "No!". Backtrack to the entrance and climb the staircase.
+2F (West)
+Visit the northwest room to find
+TM36
+(
+Sludge Bomb
+). In the southwest room, defeat the Grunt to reach the
+Iron
+, and inspect the third note on the floor to learn a final password:
+Golisopod
+. Battle the Grunt patrolling the upper floor and speak to the Grunt guarding the balcony. To meet
+Guzma
+, you must give the three correct passwords—
+Beat Up
+,
+Goliosopod
+, and
+Tapu Cocoa
+—and when asked if you're sure, remember to answer
+No!
+.
+2F (Exterior)
+Go east from the balcony and cross the wooden scaffolding to the rooftop. Defeat the female Grunt and pick up the
+Escape Rope
+before climbing through the open window.
+2F (East)
+Continue on to reach the northeast room, which has been turned into
+Guzma
+'s makeshift throne room. He soon realizes that you are here to rescue the little girl's
+Yungoos
+, which is being held back by another Grunt. Guzma warns that if you can't mind your own business you risk getting hurt, and draws you into battle.
+VS Guzma
+Guzma
+prefers using
+Bug
+Pokémon, so
+Fire
+-,
+Flying
+-, and
+Rock-type
+moves will be the most effective.
+Team Skull Boss
+Guzma
+Shady House
+Sun and Moon
+Reward:
+$
+4,320
+Types:
+Bug
+Water
+Ability:
+Emergency Exit
+Held item:
+None
+Golisopod
+♂
+Lv.
+37
+Swords Dance
+Normal
+Status
+--
+Razor Shell
+Water
+Physical
+--
+First Impression
+Bug
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Swarm
+Held item:
+None
+Ariados
+♂
+Lv.
+36
+Fell Stinger
+Bug
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Shadow Sneak
+Ghost
+Physical
+--
+Infestation
+Bug
+Special
+--
+Defeated, Guzma orders the Grunt to give Yungoos back to you. The Pokémon runs off to find the little girl, then the Grunt leaves the room. Guzma promises to beat you down one day before he leaves as well. Be sure to inspect the treasure chest to find the
+Buginium Z
+.
+The Man in Black
+When you leave the Shady House, you are met by the same man who let you into
+Po Town
+. He asks if he has you to thank for rescuing Yungoos before healing your Pokémon. Just then
+Acerola
+appears, referring to him as her uncle,
+Nanu
+. She thanks you for rescuing the Pokémon before leaving with it for
+Aether House
+.
+Route 15
+Aether House
+Enter Aether House to find
+Acerola
+returning with Yungoos just now, as well. The relief is short-lived, as
+Hau
+reveals that
+Lillie
+has been taken by
+Plumeria
+. It seems that stealing the little Pokémon was merely a distraction.
+Gladion
+rushes in, expressing his shock that it was Lillie who took
+Cosmog
+. He is upset that no one was able to protect Lillie from Team Skull, and angrily draws you into battle.
+VS Gladion
+Gladion
+'s Pokémon are vulnerable to
+Psychic
+-,
+Rock
+-, and
+Fighting-type
+attacks.
+Team Skull
+Gladion
+Aether House
+Sun and Moon
+Reward:
+$
+3,040
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+37
+Acrobatics
+Flying
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+37
+Icy Wind
+Ice
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Battle Armor
+Held item:
+None
+Type: Null
+Lv.
+38
+Pursuit
+Dark
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Curse
+Unknown
+Status
+--
+Afterward, Gladion apologizes for the meaningless fight. He had warned that
+Cosmog
+will bring disaster to the region, and is frustrated that the Pokémon was not kept safe. Gladion intends to leave from the ferry terminal, so either tell him that you are ready to go, or meet him there once you are prepared.
+Malie City
+When you reach the pier, you find
+Gladion
+staring out to sea. While the two Trainers are waiting for
+Hau
+to arrive,
+Nanu
+appears and expresses his dismay that
+Team Skull
+didn't keep their troublemaking confined to
+Po Town
+. He reveals himself as an
+Island kahuna
+and offers to battle you.
+Ula'ula Grand Trial
+As a
+Dark-type
+Pokémon specialist,
+Nanu
+'s team generally takes serious damage from
+Bug
+,
+Fighting
+, and
+Fairy
+moves. Trainers with
+Decidueye
+should be wary of
+Ghost
+and Dark attacks. Trainers with
+Incineroar
+should be careful of
+Rock
+and
+Ground
+moves.
+Nanu
+starts off with his
+Sableye
+. As a
+Ghost
+/
+Dark
+Pokémon, it is only vulnerable to Fairy attacks.
+Krokorok
+'s Ground typing also leaves it susceptible to
+Water
+-,
+Grass
+, and
+Ice-type
+moves. Beware of facing it with a physical attacker, as its
+Intimidate
+Ability cuts the foe's
+Attack
+! The same goes for his
+Persian
+as well, as its
+Fur Coat
+Ability doubles its physical
+Defense
+.
+Island Kahuna
+Nanu
+Malie City
+Sun and Moon
+Reward:
+$
+6,240
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+38
+Power Gem
+Rock
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ground
+Dark
+Ability:
+Intimidate
+Held item:
+None
+Krokorok
+♂
+Lv.
+38
+Crunch
+Dark
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Swagger
+Normal
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Fur Coat
+Held item:
+Darkinium Z
+Persian
+♀
+Lv.
+39
+Power Gem
+Rock
+Special
+--
+Fake Out
+Normal
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+After the battle, Nanu is impressed with your victory and heals your team to full health. He then rewards you with the
+Darkinium Z
+and teaches you the pose for
+Black Hole Eclipse
+. Defeating the kahuna earns your
+Trainer Passport
+the
+Ula'ula Trial Completion
+stamp, which ensures that all Pokémon up to Level 65, even those received in a trade, will obey without question.
+Hau
+arrives just as
+Nanu
+is leaving. He is still beating himself up about not being strong enough to protect
+Lillie
+. He wonders aloud where she could have been taken, as your raid of
+Po Town
+showed no sign of her.
+Gladion
+mentions
+Aether Paradise
+, and the three Trainers board his
+Team Skull
+boat for the artificial island.
+← Part 18
+Route 15, Route 16, Ula'ula Meadow, Route 17
+Sun and Moon
+walkthrough
+Aether Paradise
+Part 20 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

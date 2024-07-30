@@ -1,0 +1,73 @@
+Game: Red_and_Blue
+Part: 16
+Keywords: Indigo Plateau
+
+**Walkthrough: Indigo Plateau - Pokémon Red and Blue**
+
+**Overview:**
+Indigo Plateau is the Pokémon League capital where Trainers face the Elite Four and Champion after defeating all Gym Leaders. Prepare at the Pokémon Center and Poké Mart before entering the battles.
+
+**Poké Mart Items:**
+- Ultra Ball: $1200
+- Great Ball: $600
+- Full Restore: $3000
+- Max Potion: $2500
+- Full Heal: $600
+- Revive: $1500
+- Max Repel: $700
+
+**Elite Four Battles:**
+
+1. **Lorelei (Ice-type)**
+   - **Strategy:** Use Electric moves against her Water/Ice Pokémon.
+   - **Key Pokémon:**
+     - Dewgong (Lv. 54)
+     - Cloyster (Lv. 53)
+     - Slowbro (Lv. 54)
+     - Jynx (Lv. 56)
+     - Lapras (Lv. 56)
+   - **Reward:** $5544
+
+2. **Bruno (Fighting-type)**
+   - **Strategy:** Utilize Psychic and Flying moves; Grass and Water moves against Onix.
+   - **Key Pokémon:**
+     - Onix (Lv. 53, 56)
+     - Hitmonchan (Lv. 55)
+     - Hitmonlee (Lv. 55)
+     - Machamp (Lv. 58)
+   - **Reward:** $5742
+
+3. **Agatha (Ghost/Poison-type)**
+   - **Strategy:** Use Psychic and Ground moves; eliminate Gengar quickly to avoid Sleep/Poison.
+   - **Key Pokémon:**
+     - Gengar (Lv. 56, 60)
+     - Golbat (Lv. 56)
+     - Haunter (Lv. 55)
+     - Arbok (Lv. 58)
+   - **Reward:** $5940
+
+4. **Lance (Dragon-type)**
+   - **Strategy:** Focus on Ice moves for Dragonair and Dragonite; Electric moves for Gyarados.
+   - **Key Pokémon:**
+     - Gyarados (Lv. 58)
+     - Dragonair (Lv. 56, 56)
+     - Aerodactyl (Lv. 60)
+     - Dragonite (Lv. 62)
+   - **Reward:** $6138
+
+**Champion - Rival Battle 8 (Blue)**
+- **First Half:** Pidgeot, Alakazam, Rhydon
+- **Second Half (Varies):** Gyarados/Blastoise, Exeggutor/Venusaur, Arcanine/Charizard
+- **Strategy:** 
+  - Use Electric moves on Pidgeot and Gyarados; Water moves on Rhydon.
+  - Flamethrower/Ice Beam on Exeggutor; physical moves against Alakazam.
+- **Reward:** $6435
+
+**Hall of Fame:**
+After defeating the Champion, you’ll be led to the Hall of Fame by Professor Oak. Your Pokémon team will be recorded, and the game will save.
+
+**Next Steps:**
+Return to Pallet Town and use Fly to Cerulean City. 
+
+**Note:**
+This guide covers the original Game Boy versions of Pokémon Red and Blue, not the remakes.

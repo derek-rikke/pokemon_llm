@@ -1,0 +1,1853 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_20
+Keywords: Cerulean Cave, The Pokémon League: Round 2
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cerulean City
+1.1
+Cerulean Cave
+1.1.1
+1F
+1.1.2
+2F (Northeast)
+1.1.3
+1F
+1.1.4
+2F (Southwest)
+1.1.5
+1F
+1.1.6
+2F (East)
+1.1.7
+1F
+1.1.8
+2F (Center)
+1.1.9
+1F (Northwest)
+1.1.10
+B1F
+1.1.10.1
+VS Mewtwo
+2
+A Legend On the Loose
+2.1
+Tracking a Beast
+2.1.1
+If the player chose Bulbasaur:
+2.1.2
+If the player chose Charmander:
+2.1.3
+If the player chose Squirtle:
+3
+Indigo Plateau
+3.1
+Lorelei
+3.2
+Bruno
+3.3
+Agatha
+3.4
+Lance
+3.5
+Rival Battle 9
+3.5.1
+If the player chose Bulbasaur:
+3.5.1.1
+If the player chose Charmander:
+3.5.1.2
+If the player chose Squirtle:
+Cerulean City
+Having cleared the
+Sevii Islands
+, there is only one place left to explore:
+Cerulean Cave
+, a mysterious place on the northwest edge of
+Cerulean City
+. To get there, visitors must
+Surf
+southward from
+Route 24
+.
+Cerulean Cave
+Cerulean Cave, 1F
+Cerulean Cave, 2F
+Cerulean Cave, B1F
+Cerulean Cave
+is a mysterious cavern located in the northwest part of
+Cerulean City
+. Only the most powerful Trainers who have entered the
+Hall of Fame
+are allowed to enter due to the powerful wild Pokémon inside. The sprawling cave network is unforgiving, so be sure to prepare well. Pack the
+Super Rod
+and stock up on
+Ultra Balls
+, and bring the
+Master Ball
+as well. It is here that the
+genetically-engineered Pokémon
+from
+Cinnabar Island
+'s
+Pokémon Mansion
+fled after escaping the facility.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Parasect
+FR
+LG
+Cave
+49, 58
+25%
+Magneton
+FR
+LG
+Cave
+49
+20%
+Golbat
+FR
+LG
+Cave
+46, 55
+14%
+Primeape
+FR
+LG
+Cave
+52, 61
+11%
+Ditto
+FR
+LG
+Cave
+52, 61
+11%
+Machoke
+FR
+LG
+Cave
+46
+10%
+Electrode
+FR
+LG
+Cave
+58
+5%
+Wobbuffet
+FR
+LG
+Cave
+55
+4%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+30-50
+65%
+Slowpoke
+FR
+LG
+Surfing
+30-50
+65%
+Golduck
+FR
+LG
+Surfing
+40-55
+35%
+Slowbro
+FR
+LG
+Surfing
+40-55
+35%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Poliwag
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Poliwhirl
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-25
+15%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-35
+5%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+30-50
+65%
+Graveler
+FR
+LG
+Rock Smash
+40-55
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+FR
+LG
+Cave
+49, 58
+25%
+Machoke
+FR
+LG
+Cave
+49
+20%
+Parasect
+FR
+LG
+Cave
+52, 61
+14%
+Kadabra
+FR
+LG
+Cave
+55, 64
+11%
+Ditto
+FR
+LG
+Cave
+55, 64
+11%
+Magneton
+FR
+LG
+Cave
+52
+10%
+Wobbuffet
+FR
+LG
+Cave
+58
+5%
+Electrode
+FR
+LG
+Cave
+61
+4%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+35-55
+65%
+Graveler
+FR
+LG
+Rock Smash
+45-60
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Kadabra
+FR
+LG
+Cave
+58, 67
+25%
+Ditto
+FR
+LG
+Cave
+58, 67
+25%
+Parasect
+FR
+LG
+Cave
+55, 64
+14%
+Golbat
+FR
+LG
+Cave
+52, 61
+11%
+Machoke
+FR
+LG
+Cave
+52
+10%
+Magneton
+FR
+LG
+Cave
+55
+10%
+Electrode
+FR
+LG
+Cave
+64
+4%
+Wobbuffet
+FR
+LG
+Cave
+61
+1%
+Surfing
+Psyduck
+FR
+LG
+Surfing
+40-60
+65%
+Slowpoke
+FR
+LG
+Surfing
+40-60
+65%
+Golduck
+FR
+LG
+Surfing
+50-65
+35%
+Slowbro
+FR
+LG
+Surfing
+50-65
+35%
+Fishing
+Magikarp
+FR
+LG
+Fishing
+Old Rod
+5
+100%
+Poliwag
+FR
+LG
+Fishing
+Good Rod
+5-15
+60%
+Goldeen
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Magikarp
+FR
+LG
+Fishing
+Good Rod
+5-15
+20%
+Poliwag
+FR
+LG
+Fishing
+Super Rod
+15-25
+40%
+Poliwhirl
+FR
+LG
+Fishing
+Super Rod
+20-30
+40%
+Gyarados
+FR
+LG
+Fishing
+Super Rod
+15-35
+16%
+Psyduck
+FR
+LG
+Fishing
+Super Rod
+15-25
+4%
+Slowpoke
+FR
+LG
+Fishing
+Super Rod
+15-25
+4%
+Rock Smash
+Geodude
+FR
+LG
+Rock Smash
+40-60
+65%
+Graveler
+FR
+LG
+Rock Smash
+50-65
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Nugget
+Western ridge, north side
+FR
+LG
+Ultra Ball
+Western ridge, two steps east of the north ladder
+(hidden)
+FR
+LG
+Max Elixir
+Middle ridge, northwest of the eastern ladder
+FR
+LG
+Full Restore
+Southwest area
+FR
+LG
+2F
+Full Restore
+Northeast; accessed via the northeast ladder on 1F (requires
+Rock Smash
+)
+FR
+LG
+PP Up
+Southwest; accessed via the southwest ladder on 1F (requires Rock Smash)
+FR
+LG
+Ultra Ball
+East; accessed via east ladder on middle ridge (requires Rock Smash)
+FR
+LG
+B1F
+Max Revive
+Northeast corner
+FR
+LG
+Ultra Ball
+On the larger central ridge
+FR
+LG
+1F
+Head to the water's edge and use
+Surf
+to reach the island in the northeast corner, then climb the ladder to 2F.
+2F (Northeast)
+Follow the trail to reach a
+Full Restore
+behind a pair of breakable rocks, and return to 1F.
+1F
+Surf westward and climb onto the western ridge. Collect the
+Nugget
+near the north ladder, then climb up the south ladder.
+2F (Southwest)
+Use
+Rock Smash
+to reach a
+PP Up
+, then climb back down the ladder.
+1F
+Go east to collect a
+Full Restore
+at the water's edge and walk up onto the other ridge. Climb up the northeast ladder.
+2F (East)
+Clear the rock to reach an
+Ultra Ball
+, then go back down to 1F.
+1F
+Head northwest to pick up a
+Max Elixir
+. Continue westward to reach the ladder in the middle of 1F.
+2F (Center)
+Follow the path in a counter-clockwise direction to reach the ladder in the northwest corner.
+1F (Northwest)
+This tiny part of 1F simply leads to the lower floor.
+B1F
+Go east to reach a
+Max Revive
+in the northeast corner. Turn south and climb onto the rocky ridge to pick up the nearby
+Ultra Ball
+. Continue southwestward and use
+Surf
+to find
+Mewtwo
+, alone on its island.
+VS Mewtwo
+Not only is
+Mewtwo
+the strongest Pokémon around, but it has already reached level 70. As a
+Psychic-type
+Pokémon, it is vulnerable to
+Bug
+-,
+Ghost
+-, and
+Dark-type
+attacks. The legendary Pokémon can restore its health repeatedly with
+Recover
+, so inflicting status ailments are a must. Not only will this make Mewtwo easier to catch, but
+Sleep
+,
+Freezing
+, and
+Paralysis
+will prevent it from replenishing its HP. It will not let itself be caught easily, so either use the
+Master Ball
+when the battle begins or be prepared to go through more than a few
+Ultra Balls
+.
+Type:
+Psychic
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Mewtwo
+Lv.
+70
+Swift
+Normal
+--
+Recover
+Normal
+--
+Safeguard
+Normal
+--
+Psychic
+Psychic
+--
+A Legend On the Loose
+With
+Celio
+'s Network Machine fully upgraded, there have been recent sightings of a mysterious, quick-footed Pokémon. This Pokémon has found its way here from the neighboring
+Johto
+region and begins
+roaming
+across
+Kanto
+. The creature that appears will have a type advantage against your
+first partner Pokémon
+.
+Before trying to track it down, be sure to save your progress
+. Due to
+a glitch
+,
+Entei
+and
+Raikou
+will permanently disappear if they are able to use
+Roar
+to escape. If you have not yet used the
+Master Ball
+, doing so when the battle begins is the easiest way to avoid this scenario; players may also use a
+soft reset
+to reload the game from the last save. Otherwise, players would need to play through a new game to make the beast reappear.
+Tracking a Beast
+The Pokémon now races across the vast
+Kanto
+region, but it is not necessary to search every area for it. A simple strategy involves spraying on a Repel.
+Trainer Tips!
+1.
+If necessary, visit a Poké Mart to purchase a few
+Repels
+or
+Super Repels
+.
+2.
+Fly
+back to
+Viridian City
+and go north to
+Route 2
+.
+3.
+The Pokémon in the first party position must have a level between 11 and 49. Choose a Repel variant and spray it on. This chases off any wild Pokémon with a lower level, leaving the high-level beast the only thing left to encounter.
+4.
+Wander through the tall grass until the beast appears. If not, enter and exit the gate to
+Viridian Forest
+to reload the map and change the Pokémon's location.
+It will attempt to flee as soon as the battle begins, so be sure to use
+Abilities
+like
+Arena Trap
+or moves like
+Mean Look
+to block its escape.
+If the player chose
+Bulbasaur
+:
+Type:
+Fire
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Entei
+Lv.
+50
+Ember
+Fire
+--
+Roar
+Normal
+--
+Fire Spin
+Fire
+--
+Stomp
+Normal
+--
+If the player chose
+Charmander
+:
+Type:
+Water
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Suicune
+Lv.
+50
+BubbleBeam
+Water
+--
+Rain Dance
+Water
+--
+Gust
+Flying
+--
+Aurora Beam
+Ice
+--
+If the player chose
+Squirtle
+:
+Type:
+Electric
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Raikou
+Lv.
+50
+ThunderShock
+Electric
+--
+Roar
+Normal
+--
+Quick Attack
+Normal
+--
+Spark
+Electric
+--
+Indigo Plateau
+By the time
+Celio
+fully upgrades his Network Machine,
+Lorelei
+has returned from
+Four Island
+. Each of these five elite Trainers have continued pushing their Pokémon to new heights, with higher levels, new moves, and even new party members.
+Lorelei
+Lorelei
+has swapped out her
+Slowbro
+in favor of
+Piloswine
+, while her
+Lapras
+and
+Dewgong
+have learned
+Thunder
+and
+Signal Beam
+, respectively.
+Fighting
+- and
+Electric-type
+Pokémon work well against her team, but be careful of
+Psychic
+and
+Earthquake
+.
+Elite Four
+Lorelei
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+6600
+Types:
+Water
+Ice
+Ability:
+Thick Fat
+Held item:
+None
+Dewgong
+♂
+Lv.
+64
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Signal Beam
+Bug
+--
+Double Team
+Normal
+--
+Types:
+Water
+Ice
+Ability:
+Shell Armor
+Held item:
+None
+Cloyster
+♂
+Lv.
+63
+Rain Dance
+Water
+--
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Supersonic
+Normal
+--
+Types:
+Ice
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Piloswine
+♂
+Lv.
+63
+Earthquake
+Ground
+--
+Blizzard
+Ice
+--
+Double-Edge
+Normal
+--
+Rock Slide
+Rock
+--
+Types:
+Ice
+Psychic
+Ability:
+Oblivious
+Held item:
+None
+Jynx
+♀
+Lv.
+66
+Psychic
+Psychic
+--
+Ice Beam
+Ice
+--
+Lovely Kiss
+Normal
+--
+Attract
+Normal
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+Cheri Berry
+Lapras
+♂
+Lv.
+66
+Psychic
+Psychic
+--
+Thunder
+Electric
+--
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Bruno
+Both of
+Bruno
+'s
+Onix
+have evolved into
+Steelix
+, but their low
+Special Defense
+leaves them vulnerable to
+Fire
+and
+Water
+moves. His three other Pokémon now know
+Rock Slide
+, making this a hazardous battle for
+Flying
+Pokémon.
+Psychic
+attacks are still useful, and Psychic Pokémon only need to fear his Steelix's
+Crunch
+.
+Elite Four
+Bruno
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+6800
+Types:
+Steel
+Ground
+Ability:
+Sturdy
+Held item:
+None
+Steelix
+♂
+Lv.
+65
+Earthquake
+Ground
+--
+Rock Tomb
+Rock
+--
+Iron Tail
+Steel
+--
+Crunch
+Dark
+--
+Type:
+Fighting
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Hitmonchan
+♂
+Lv.
+65
+Sky Uppercut
+Fighting
+--
+Mach Punch
+Fighting
+--
+Rock Slide
+Rock
+--
+Counter
+Fighting
+--
+Type:
+Fighting
+Unknown
+Ability:
+Limber
+Held item:
+None
+Hitmonlee
+♂
+Lv.
+65
+Mega Kick
+Normal
+--
+Foresight
+Normal
+--
+Earthquake
+Ground
+--
+Rock Slide
+Rock
+--
+Types:
+Steel
+Ground
+Ability:
+Sturdy
+Held item:
+None
+Steelix
+♂
+Lv.
+66
+DragonBreath
+Dragon
+--
+Iron Tail
+Steel
+--
+Earthquake
+Ground
+--
+Crunch
+Dark
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+Persim Berry
+Machamp
+♂
+Lv.
+68
+Brick Break
+Fighting
+--
+Cross Chop
+Fighting
+--
+Earthquake
+Ground
+--
+Rock Slide
+Rock
+--
+Agatha
+Agatha
+'s
+Golbat
+has evolved into
+Crobat
+, and she has swapped out her
+Haunter
+in favor of
+Misdreavus
+. Her
+Arbok
+has learned
+Earthquake
+, and both
+Gengar
+know
+Psychic
+. In addition, her Misdreavus and her second Gengar know
+Thunderbolt
+.
+Elite Four
+Agatha
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+7000
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Gengar
+♂
+Lv.
+66
+Confuse Ray
+Ghost
+--
+Shadow Punch
+Ghost
+--
+Hypnosis
+Psychic
+--
+Psychic
+Psychic
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+66
+Confuse Ray
+Ghost
+--
+Shadow Ball
+Ghost
+--
+Air Cutter
+Flying
+--
+Sludge Bomb
+Poison
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Misdreavus
+♂
+Lv.
+65
+Shadow Ball
+Ghost
+--
+Thunderbolt
+Electric
+--
+Psychic
+Psychic
+--
+Attract
+Normal
+--
+Type:
+Poison
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arbok
+♂
+Lv.
+68
+Double Team
+Normal
+--
+Sludge Bomb
+Poison
+--
+Earthquake
+Ground
+--
+Giga Drain
+Grass
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+Chesto Berry
+Gengar
+♂
+Lv.
+70
+Shadow Ball
+Ghost
+--
+Sludge Bomb
+Poison
+--
+Psychic
+Psychic
+--
+Thunderbolt
+Electric
+--
+Lance
+One of
+Lance
+'s
+Dragonair
+has evolved into
+Dragonite
+, while the other has been replaced by
+Kingdra
+. Kingdra's
+Water
+/
+Dragon
+typing means that it is only vulnerable to
+Dragon
+moves, while it can counter Dragon-type Pokémon with
+Ice Beam
+. Both of his Dragonite know moves to counter
+Water
+and
+Water
+/
+Ice
+Pokémon that may attempt using Ice moves. His
+Gyarados
+can cover its weakness to
+Electric
+Pokémon with
+Earthquake
+, while his
+Aerodactyl
+can counter Ice-type Pokémon with
+AncientPower
+.
+Elite Four
+Lance
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+7200
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+68
+Dragon Dance
+Dragon
+--
+Earthquake
+Ground
+--
+Thunder Wave
+Electric
+--
+Hyper Beam
+Normal
+--
+Types:
+Dragon
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Dragonite
+♂
+Lv.
+66
+Flamethrower
+Fire
+--
+Dragon Claw
+Dragon
+--
+Earthquake
+Ground
+--
+Hyper Beam
+Normal
+--
+Types:
+Water
+Dragon
+Ability:
+Swift Swim
+Held item:
+None
+Kingdra
+♂
+Lv.
+66
+Dragon Dance
+Dragon
+--
+Surf
+Water
+--
+Ice Beam
+Ice
+--
+Hyper Beam
+Normal
+--
+Types:
+Rock
+Flying
+Ability:
+Rock Head
+Held item:
+None
+Aerodactyl
+♂
+Lv.
+70
+Aerial Ace
+Flying
+--
+AncientPower
+Rock
+--
+Earthquake
+Ground
+--
+Hyper Beam
+Normal
+--
+Types:
+Dragon
+Flying
+Ability:
+Inner Focus
+Held item:
+Persim Berry
+Dragonite
+♂
+Lv.
+72
+Thunderbolt
+Electric
+--
+Outrage
+Dragon
+--
+Ice Beam
+Ice
+--
+Hyper Beam
+Normal
+--
+Rival Battle 9
+Blue
+has swapped out his
+Pidgeot
+and
+Rhydon
+for
+Heracross
+and
+Tyranitar
+. Most of his Pokémon also have moves to cover their weaknesses. Heracross takes massive damage from
+Flying
+attacks, but avoid using Flying-type Pokémon as it can fight back with
+Rock Tomb
+. Similarly, Tyranitar suffers massive damage from
+Fighting
+moves, but Fighting-type Pokémon will be vulnerable to
+Aerial Ace
+, a Flying-type attack. His
+Arcanine
+,
+Gyarados
+, and
+Exeggutor
+are much the same as before. Arcanine can counter
+Rock
+Pokémon with
+Iron Tail
+, and Gyarados can retaliate against
+Electric
+Pokémon with
+Earthquake
+.
+Charizard
+,
+Blastoise
+, and
+Venusaur
+all have ways to counter their weaknesses, so be wary of sending in a Pokémon that may seemingly have the advantage at first.
+If the player chose
+Bulbasaur
+:
+Champion
+Blue
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+7500
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+72
+Megahorn
+Bug
+--
+Counter
+Fighting
+--
+Rock Tomb
+Rock
+--
+Earthquake
+Ground
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+73
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Calm Mind
+Psychic
+--
+Shadow Ball
+Ghost
+--
+Types:
+Rock
+Dark
+Ability:
+Sand Stream
+Held item:
+None
+Tyranitar
+♂
+Lv.
+72
+Crunch
+Dark
+--
+Thunderbolt
+Electric
+--
+Earthquake
+Ground
+--
+Aerial Ace
+Flying
+--
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggutor
+♂
+Lv.
+73
+Sleep Powder
+Grass
+--
+Light Screen
+Psychic
+--
+Giga Drain
+Grass
+--
+Psychic
+Psychic
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+73
+Dragon Dance
+Dragon
+--
+Hydro Pump
+Water
+--
+Earthquake
+Ground
+--
+Hyper Beam
+Normal
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+Sitrus Berry
+Charizard
+♂
+Lv.
+75
+Fire Blast
+Fire
+--
+Aerial Ace
+Flying
+--
+Dragon Claw
+Dragon
+--
+Earthquake
+Ground
+--
+If the player chose
+Charmander
+:
+Champion
+Blue
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+7500
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+72
+Megahorn
+Bug
+--
+Counter
+Fighting
+--
+Rock Tomb
+Rock
+--
+Earthquake
+Ground
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+73
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Calm Mind
+Psychic
+--
+Shadow Ball
+Ghost
+--
+Types:
+Rock
+Dark
+Ability:
+Sand Stream
+Held item:
+None
+Tyranitar
+♂
+Lv.
+72
+Crunch
+Dark
+--
+Thunderbolt
+Electric
+--
+Earthquake
+Ground
+--
+Aerial Ace
+Flying
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+73
+Overheat
+Fire
+--
+ExtremeSpeed
+Normal
+--
+Iron Tail
+Steel
+--
+Aerial Ace
+Flying
+--
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggutor
+♂
+Lv.
+73
+Sleep Powder
+Grass
+--
+Light Screen
+Psychic
+--
+Giga Drain
+Grass
+--
+Psychic
+Psychic
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Sitrus Berry
+Blastoise
+♂
+Lv.
+75
+Rain Dance
+Water
+--
+Hydro Pump
+Water
+--
+Ice Beam
+Ice
+--
+Earthquake
+Ground
+--
+If the player chose
+Squirtle
+:
+Champion
+Blue
+Indigo Plateau
+FireRed and LeafGreen
+Reward:
+$
+7500
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+72
+Megahorn
+Bug
+--
+Counter
+Fighting
+--
+Rock Tomb
+Rock
+--
+Earthquake
+Ground
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+73
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Calm Mind
+Psychic
+--
+Shadow Ball
+Ghost
+--
+Types:
+Rock
+Dark
+Ability:
+Sand Stream
+Held item:
+None
+Tyranitar
+♂
+Lv.
+72
+Crunch
+Dark
+--
+Thunderbolt
+Electric
+--
+Earthquake
+Ground
+--
+Aerial Ace
+Flying
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+73
+Dragon Dance
+Dragon
+--
+Hydro Pump
+Water
+--
+Earthquake
+Ground
+--
+Hyper Beam
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+73
+Overheat
+Fire
+--
+ExtremeSpeed
+Normal
+--
+Iron Tail
+Steel
+--
+Aerial Ace
+Flying
+--
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+Sitrus Berry
+Venusaur
+♂
+Lv.
+75
+Sunny Day
+Fire
+--
+SolarBeam
+Grass
+--
+Sludge Bomb
+Poison
+--
+Earthquake
+Ground
+--
+With the powered-up
+Pokémon League
+defeated and
+Cerulean Cave
+cleared, the only thing left to do is to complete the
+Pokédex
+. There are 386 different Pokémon species that have been discovered so far, so there is plenty of training left to do!
+← Part 19
+Five Island, Seven Island
+FireRed and LeafGreen
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

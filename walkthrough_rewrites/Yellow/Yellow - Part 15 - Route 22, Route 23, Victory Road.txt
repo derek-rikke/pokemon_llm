@@ -1,0 +1,65 @@
+Game: Yellow
+Part: 15
+Keywords: Route 22, Route 23, Victory Road
+
+### Pokémon Yellow Walkthrough: Part 15
+
+**Route 22**
+- Connects Viridian City to the Pokémon League.
+- **Pokémon Encounter Rates**:
+  - Nidoran♂: Levels 2, 4
+  - Nidoran♀: Levels 2, 4
+  - Mankey: Levels 3, 5
+  - Rattata: Level 3
+  - Spearow: Levels 2, 4, 6
+  - Fishing (Old Rod): Magikarp (Level 5), Good Rod: Poliwag, Goldeen (Level 10).
+
+**Rival Battle 7 (Blue)**:
+- **Team**: 
+  - Sandslash (Lv. 47)
+  - Exeggcute (Lv. 45)
+  - Magneton (Lv. 45)
+  - Ninetales (Lv. 47)
+  - Kadabra (Lv. 50)
+  - Vaporeon/Jolteon/Flareon (Lv. 53 based on your Eevee evolution).
+- **Strategy**: Use type advantages to defeat his Pokémon.
+
+---
+
+**Route 23 (South)**
+- Leads to Indigo Plateau and Victory Road.
+- **Pokémon Encounter Rates**:
+  - Nidorino/Nidorina: Levels 41, 44
+  - Mankey: Levels 36, 41
+  - Fearow: Levels 40, 45
+
+- **Items**:
+  - Max Ether (hidden), Ultra Ball (hidden), Full Restore (hidden).
+
+**VIPs Only**: Present your Badges at checkpoints to enter Victory Road.
+
+---
+
+**Victory Road**
+- **1F**: Use Strength to move boulders onto pressure switches to unlock areas.
+- **Trainers**: Various trainers including Cooltrainers and Juggler with Pokémon around levels 41-48.
+- **Pokémon Available**: Geodude, Zubat, Onix, Graveler.
+
+**Special Pokémon**: Moltres (Lv. 50) found on 2F.
+
+**Moltres Strategy**:
+- Use Water and Electric-type moves to weaken it, then follow up with Grass and Fighting moves. Inflict status ailments to increase catch chances.
+
+- **Items**:
+  - 1F: TM43 (Sky Attack), Rare Candy.
+  - 2F: TM05 (Mega Kick), Full Heal, TM17 (Submission), Guard Spec.
+  - 3F: Max Revive, TM47 (Explosion).
+
+**Route 23 (North)**: Follow the path to reach Indigo Plateau.
+
+---
+
+**Key Points**:
+- Use type advantages in battles.
+- Ensure you have the required badges for access.
+- Collect items and Pokémon as you progress through Victory Road.

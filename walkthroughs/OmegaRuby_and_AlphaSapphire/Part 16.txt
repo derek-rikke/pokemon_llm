@@ -1,0 +1,1136 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_16
+Keywords: Route 128, Seafloor Cavern
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 128
+1.1
+Seafloor Cavern
+1.1.1
+Entrance
+1.1.2
+Room 1
+1.1.3
+Room 2
+1.1.4
+Room 3
+1.1.5
+Room 4
+1.1.6
+Room 7
+1.1.7
+Room 6
+1.1.8
+Room 8
+1.1.9
+Room 9
+1.1.10
+Room 10
+1.1.10.1
+VS Maxie
+OR
+1.1.10.2
+VS Archie
+AS
+2
+Route 128
+Route 128
+Route 128
+Route 128 (underwater)
+Route 128
+is situated between
+Route 127
+to the north,
+Route 129
+to the south, and
+Ever Grande City
+to the east.
+Captain Stern
+mentioned that he'd found an underwater cave here while exploring in his
+submarine
+.
+Team Magma
+OR
+/
+Team Aqua
+AS
+has now breached that same cavern with their stolen, souped-up sub. Whatever mysteries lie below, one thing is clear: this is the place where that giant pillar of light burst forth from the ocean, so something big must be happening beneath the waves!
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Cornelius
+Reward:
+$
+2,340
+Golem
+♂
+Lv.
+39
+No item
+Raichu
+♂
+Lv.
+39
+No item
+Fisherman
+Wayne
+Reward:
+$
+1,184
+Wailmer
+♂
+Lv.
+37
+No item
+Seadra
+♂
+Lv.
+37
+No item
+Tuber
+Delmar
+Reward:
+$
+152
+Luvdisc
+♀
+Lv.
+38
+No item
+Tuber
+Marlene
+Reward:
+$
+152
+Luvdisc
+♀
+Lv.
+38
+No item
+Triathlete
+Isaiah
+Reward:
+$
+1,440
+Starmie
+Lv.
+36
+No item
+Underwater
+Free Diver
+Mayu
+Reward:
+$
+1,560
+Luvdisc
+♀
+Lv.
+39
+No item
+Luvdisc
+♀
+Lv.
+39
+No item
+Rematch
+Triathlete
+Isaiah
+Reward:
+$
+1,640
+After earning the
+Mind Badge
+Starmie
+Lv.
+41
+No item
+Triathlete
+Isaiah
+Reward:
+$
+1,800
+After earning the
+Rain Badge
+Starmie
+Lv.
+45
+No item
+Triathlete
+Isaiah
+Reward:
+$
+1,960
+After entering the
+Hall of Fame
+Floatzel
+♂
+Lv.
+49
+No item
+Starmie
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Water's surface
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Luvdisc
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Luvdisc
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Corsola
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Underwater
+Pokémon
+Games
+Location
+Levels
+Rate
+Chinchou
+OR
+AS
+Seaweed
+25
+50%
+Clamperl
+OR
+AS
+Seaweed
+30
+30%
+Lanturn
+OR
+AS
+Seaweed
+30
+15%
+Corsola
+OR
+AS
+Seaweed
+30
+4%
+Relicanth
+OR
+AS
+Seaweed
+35
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×3
+South side of the sand ring (hidden)
+On the sandbar to the east of the sand ring (hidden)
+On the south-central island, west of the route sign (hidden)
+OR
+AS
+Requires
+Dive
+Stone Plate
+Main area, northwest of the rocky ring (hidden)
+OR
+AS
+Draco Plate
+Main area, west of the rocky ring (hidden)
+OR
+AS
+Pixie Plate
+Main area, southeast of the Seafloor Cavern entrance (hidden)
+OR
+AS
+Adamant Orb
+In the middle of the rocky ring, near the north wall (hidden)
+OR
+AS
+Protein
+Eastern area, southwest part of the bare patch in the seaweed (hidden)
+OR
+AS
+Pearl
+Eastern area, southeast of the seaweed patch (hidden)
+OR
+AS
+Seafloor Cavern, Entrance
+R
+S
+Seafloor Cavern, Room 1
+R
+S
+Seafloor Cavern, Room 2
+R
+S
+Seafloor Cavern, Room 3
+R
+S
+Seafloor Cavern
+The long-forgotten
+Seafloor Cavern
+can only be reached from an underwater cave in the depths of
+Route 128
+.
+Maxie
+OR
+/
+Archie
+AS
+has gone to great lengths to breach the seal that has protected this place for ages, in the hope of awakening the super-ancient Pokémon rumored to dwell here. He believes this Pokémon has the power to bring about the great future he desires, but the risks seem far too great.
+Trainers
+Omega Ruby
+Trainer
+Pokémon
+Room 1
+Team Magma Grunt
+Reward:
+$
+1,560
+Numel
+♂
+Lv.
+39
+No item
+Mightyena
+♂
+Lv.
+39
+No item
+Team Magma Grunt
+Reward:
+$
+1,640
+Golbat
+♂
+Lv.
+41
+No item
+Room 2
+Team Magma Grunt
+Reward:
+$
+1,640
+Numel
+♀
+Lv.
+41
+No item
+Room 3
+Team Magma Grunt
+Reward:
+$
+1,640
+Weezing
+♀
+Lv.
+41
+No item
+Room 7
+Team Magma Grunt
+Reward:
+$
+1,600
+Mightyena
+♂
+Lv.
+38
+No item
+Weezing
+♂
+Lv.
+40
+No item
+Alpha Sapphire
+Trainer
+Pokémon
+Room 1
+Team Aqua Grunt
+Reward:
+$
+1,560
+Carvanha
+♂
+Lv.
+39
+No item
+Mightyena
+♂
+Lv.
+39
+No item
+Team Aqua Grunt
+Reward:
+$
+1,640
+Golbat
+♂
+Lv.
+41
+No item
+Room 2
+Team Aqua Grunt
+Reward:
+$
+1,640
+Carvanha
+♀
+Lv.
+41
+No item
+Room 3
+Team Aqua Grunt
+Reward:
+$
+1,640
+Muk
+♀
+Lv.
+41
+No item
+Room 7
+Team Aqua Grunt
+Reward:
+$
+1,600
+Mightyena
+♂
+Lv.
+38
+No item
+Muk
+♂
+Lv.
+40
+No item
+Available Pokémon
+Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Golbat
+OR
+AS
+Surfing
+25, 30, 35
+55%
+Tentacruel
+OR
+AS
+Surfing
+30, 35
+45%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+5, 10
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+10
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+30
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+30
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+30
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rooms 1, 2, 4
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+33-36
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+18
+100%
+Rock Smash
+Graveler
+OR
+AS
+Rock Smash
+33-36
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rooms 5, 6
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+33-36
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+18
+100%
+Surfing
+Tentacruel
+OR
+AS
+Surfing
+25, 30
+65%
+Golbat
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rooms 3, 7, 8, 9
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+33-36
+100%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+18
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+Entrance, southeast corner (hidden)
+OR
+AS
+Escape Rope
+Room 3, northern of the two southeast corners (hidden)
+OR
+AS
+TM55
+(
+Scald
+)
+Room 7, on the island among the currents (requires
+Strength
+)
+OR
+AS
+TM26
+(
+Earthquake
+)
+Room 9, south side near the stairway to the final room
+OR
+AS
+Other Items
+Big Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Hard Stone
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Normal Gem
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Soft Sand
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Star Piece
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Entrance
+When you surface inside the cavern, you find
+Captain Stern
+'s sub moored in the shallows. Scan the shoreline for a hidden
+Heart Scale
+in the southeast, then take the north doorway to the next room.
+Room 1
+This room features two large boulders that hinder travel. Go northwest, clear the way with
+Rock Smash
+, then use
+Strength
+to drop the first into the nearby hole. Moving the second boulder is optional, as it only creates a minor shortcut. Walk up the stairway to the north and take the doorway to the southeast, battling two Grunts on the way.
+Room 2
+There's a Grunt nearby, pacing in a circle. Battle her then head south and push the boulder to the hole. The western path has a boulder that can't be moved successfully from this direction, so head through the doorway to the southeast instead.
+Room 3
+Jump down the ledge and fight the nearby Grunt. The doorway to the south merely leads back to the previous room. Inspect the southeast corner for a hidden
+Escape Rope
+, then go through the northeast doorway.
+Room 4
+Go northeast and push the first boulder westward to the hole. Head north then west from that boulder's starting position, and move this boulder westward until it hits a rock. Walk north from here and push the third boulder up against the north wall. Go east then south to find the fourth boulder sitting next to a cracked rock. Use
+Rock Smash
+on the cracked rock, then push the boulder west until it hits a rock. Walk southwest to the puzzle's staring point, then northeast to approach that same boulder from the opposite side. Push the boulder all the way eastward to the hole near the wall. Finally, move the nearest boulder a few paces southward to the hole in order to create a shortcut. Take the northeast doorway to the next room.
+Room 7
+This room has many strong water currents.
+Surf
+out into the water and ride the currents to a calm spot on the room's north side. From here, go south and ride the current to the island in the room's center, where you find
+TM55
+(
+Scald
+). Swim west from the island and ride the current to the northwest. Climb onto the shoreline and go through the doorway to the north.
+Room 6
+Head north and battle the Grunt. Move the nearby boulder a few paces southward to the hole to create a shortcut, then go north through the next doorway.
+Room 8
+This room has eight large boulders that initially block any progress. Start by moving the two southernmost boulders west and east into the two nearby holes. Push the east-southeast boulder to the right, then move the west-southwest boulder two paces to the right. Next, move the west-northwest boulder two paces to the south. That should allow you to push the northwest boulder into the hole and walk across it to reach the north doorway.
+Room 9
+Go east, south, then west along the downward-sloping corridor. Be sure to grab
+TM26
+(
+Earthquake
+) from the southwest corner before descending the stairway to the final room.
+Room 10
+In the depths of the Seafloor Cavern, you finally catch up to the villainous team's driven leader,
+Maxie
+OR
+/
+Archie
+AS
+along with the other leader. He has discovered the fabled resting place of the super-ancient Pokémon,
+Groudon
+OR
+/
+Kyogre
+AS
+, and stands ready to restore the creature with his stolen
+Red Orb
+OR
+/
+Blue Orb
+AS
+. He taunts Maxie/Archie and drags you into battle. He pulls out all the stops, even
+Mega Evolving
+his prized Pokémon in an attempt to quash you once and for all!
+VS Maxie
+OR
+Magma Leader
+Maxie
+Seafloor Cavern
+Omega Ruby
+Reward:
+$
+6,880
+Type:
+Dark
+Unknown
+Ability:
+Quick Feet
+Held item:
+None
+Mightyena
+♂
+Lv.
+41
+Scary Face
+Normal
+Status
+--
+Take Down
+Normal
+Physical
+--
+Taunt
+Dark
+Status
+--
+Embargo
+Dark
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Weezing
+♂
+Lv.
+41
+Haze
+Ice
+Status
+--
+Double Hit
+Normal
+Physical
+--
+Sludge Bomb
+Poison
+Special
+--
+Explosion
+Normal
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+41
+Poison Fang
+Poison
+Physical
+--
+Mean Look
+Normal
+Status
+--
+Acrobatics
+Flying
+Physical
+--
+Haze
+Ice
+Status
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+Cameruptite
+Camerupt
+♂
+Lv.
+43
+Curse
+Ghost
+Status
+--
+Take Down
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Yawn
+Normal
+Status
+--
+VS Archie
+AS
+Aqua Leader
+Archie
+Seafloor Cavern
+Alpha Sapphire
+Reward:
+$
+6,880
+Type:
+Dark
+Unknown
+Ability:
+Quick Feet
+Held item:
+None
+Mightyena
+♂
+Lv.
+41
+Scary Face
+Normal
+Status
+--
+Embargo
+Dark
+Status
+--
+Taunt
+Dark
+Status
+--
+Take Down
+Normal
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Muk
+♂
+Lv.
+41
+Sludge Wave
+Poison
+Special
+--
+Screech
+Normal
+Status
+--
+Venom Drench
+Poison
+Status
+--
+Gunk Shot
+Poison
+Physical
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+41
+Poison Fang
+Poison
+Physical
+--
+Mean Look
+Normal
+Status
+--
+Acrobatics
+Flying
+Physical
+--
+Haze
+Ice
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+Sharpedonite
+Sharpedo
+♂
+Lv.
+43
+Scary Face
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Even defeated, Maxie
+OR
+/Archie
+AS
+reaffirms his intent to revive the super-ancient Pokémon. Before he can do so,
+Tabitha
+OR
+/
+Shelly
+AS
+enters and tries to dissuade him from this plan, but it's no use. Seeing that he's not to be reasoned with, his Admin and his rival turn and flee the cavern. Holding the
+Red Orb
+OR
+/
+Blue Orb
+AS
+high, he finally succeeds in awakening
+Groudon
+OR
+/
+Kyogre
+AS
+. It escapes the cavern with a loud cry and emerges at the water's surface, where the great energy it generates immediately changes
+Hoenn
+'s weather to extremely harsh sunlight
+OR
+/heavy rain
+AS
+, a dramatic change that influences any battles on Hoenn's east side. The intense sunlight boosts all
+Fire
+moves and negates all
+Water
+moves by evaporating them on the spot. The massive downpours boost all Water moves and negate all Fire moves by dousing their flames. The super-ancient Pokémon is last seen moving northwest toward
+Sootopolis City
+.
+Route 128
+The group returns to the surface, where they witness the intense weather conditions. The super-ancient Pokémon hasn't even undergone
+Primal Reversion
+yet and its power is already beyond expectations, forcing Maxie
+OR
+/Archie
+AS
+to grudgingly agree to work with his rival to set things right. Groudon
+OR
+/Kyogre
+AS
+is believed to be heading to the
+Cave of Origin
+in the heart of
+Sootopolis
+, where a source of energy needed for
+Primal Reversion
+is said to be located. Once the others leave for the city,
+Steven
+swoops down to assess the situation. He's headed to Sootopolis as well, to investigate the sweltering heat wave
+OR
+/massive stormclouds
+AS
+emanating from the city, and suggests you do the same.
+← Part 15
+Mossdeep City, Route 125, Shoal Cave, Route 127
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 126, Sootopolis City, Cave of Origin
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,49 @@
+Game: Crystal
+Part: 5
+Keywords: Azalea Town, Slowpoke Well, Azalea Gym, Ilex Forest, Route 34
+
+**Part 5: Azalea Town to Route 34 Walkthrough**
+
+**Azalea Town:**
+- **Key Locations:**
+  - **Kurt's House:** Talk to Kurt to initiate the quest to save the Slowpoke.
+  - **Slowpoke Well:** Located east of town, defeat Team Rocket Grunts to rescue Slowpoke.
+
+- **Items:**
+  - **Full Heal:** Hidden on the north wall of Slowpoke Well.
+  - **Lure Ball:** Received from Kurt after defeating Team Rocket.
+  - **TM49 (Fury Cutter):** Obtained from Bugsy after defeating him at Azalea Gym.
+
+**Slowpoke Well:**
+- **Defeat Team Rocket:** 
+  - Battle multiple Grunts. The last one uses a Koffing (Lv. 14). 
+  - After defeating them, Kurt will give you a Lure Ball and explain how to collect Apricorns for custom Poké Balls.
+
+**Azalea Gym:**
+- **Leader:** Bugsy (Bug-type Pokémon).
+- **Strategy:** Use Fire, Flying, or Rock-type moves against Bugsy's Pokémon, especially Scyther (Lv. 16).
+- **Rewards:** Hive Badge (allows Cut usage) and TM49 (Fury Cutter).
+
+**Rival Battle 2:**
+- **Opponent:** Silver, who has a Gastly (Lv. 12) and Zubat (Lv. 14). 
+- **Strategy:** Use Ghost, Psychic, or Dark-type moves against Gastly, and Rock or Electric-type moves against Zubat.
+
+**Ilex Forest:**
+- **Main Task:** Help the Charcoal Kiln apprentice find the lost Farfetch'd. 
+- **Finding Farfetch'd:** Approach from the east to avoid scaring it away. Return it to the apprentice for HM01 (Cut).
+- **Items:**
+  - **TM02 (Headbutt):** From a man on a ledge in the forest.
+
+**Route 34:**
+- **Day Care Center:** Leave Pokémon for leveling and potentially receive an Odd Egg from the Day Care Man.
+- **Trainers:** Defeat various trainers for rewards, including Youngster Samuel and Officer Keith (Lv. 17 Growlithe at night).
+- **Items:**
+  - **TM12 (Sweet Scent):** From a woman at the gate.
+  - **Rare Candy:** Located in the fenced area (requires Surf).
+
+**Key Gameplay Elements:**
+- Focus on collecting Apricorns for custom Poké Balls.
+- Prepare for battles with Bugsy and Silver by leveraging type advantages.
+- Engage with the environment to find hidden items and Pokémon. 
+
+Continue to explore Ilex Forest and Route 34 for more encounters and items!

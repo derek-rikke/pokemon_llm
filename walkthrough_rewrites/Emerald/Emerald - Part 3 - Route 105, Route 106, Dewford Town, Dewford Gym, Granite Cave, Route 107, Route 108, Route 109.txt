@@ -1,0 +1,49 @@
+Game: Emerald
+Part: 3
+Keywords: Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108, Route 109
+
+**Part 3 Walkthrough: Dewford Town and Surrounding Areas**
+
+1. **Rustboro City**
+   - After retrieving the Devon Goods, return to the Devon Corporation. Receive a Great Ball and a PokéNav from Mr. Stone.
+   - Deliver a Letter to Steven in Dewford Town. 
+
+2. **Route 105 & 106**
+   - Travel with Mr. Briney to Dewford; the waters can be explored after earning the fifth Badge.
+
+3. **Dewford Town**
+   - **Pokémon Available:**
+     - **Fishing:** Magikarp (Old Rod, 70%), Tentacool (Old Rod, 30%).
+   - **Items:**
+     - Silk Scarf (Ace Trainer at pier), Old Rod (Fisherman east of Gym).
+   - **Dewford Gym:**
+     - Leader: Brawly (Fighting-type).
+     - Use Flying and Psychic moves. Brawly has Machop, Meditite, and Makuhita. Defeat him to earn the Knuckle Badge and TM08 (Bulk Up).
+
+4. **Granite Cave**
+   - Obtain HM05 (Flash) from a Hiker at the entrance.
+   - Items: Escape Rope (west of entrance), TM47 (Steel Wing) from Steven after delivering the Letter.
+   - **Pokémon Available:**
+     - **1F:** Makuhita, Zubat, Abra, Geodude.
+     - **B1F:** Aron, Sableye.
+     - **B2F:** Collect items and meet Steven to complete your mission.
+
+5. **Routes 107 and 108**
+   - Similar to Routes 105 and 106, full exploration occurs after earning the fifth Badge.
+
+6. **Route 109**
+   - Trainers: Sailor Huey, Sailor Edmond, various Tubers.
+   - Items: Revive, Ether, Heart Scales, and Soda Pop (from the Seashore House after defeating Trainers).
+   - Proceed north to Slateport City.
+
+**Key Instructions:**
+- Deliver the Letter to Steven in Dewford.
+- Defeat Brawly in Dewford Gym for the Knuckle Badge.
+- Use Flash in Granite Cave to navigate and meet Steven.
+- Explore further routes after obtaining the fifth Badge. 
+
+**Preparation Tips:**
+- Level up Flying and Psychic-type Pokémon before the Dewford Gym.
+- Stock up on healing items before exploring caves and routes. 
+
+This concise guide ensures you progress effectively through Part 3 of your Pokémon adventure.

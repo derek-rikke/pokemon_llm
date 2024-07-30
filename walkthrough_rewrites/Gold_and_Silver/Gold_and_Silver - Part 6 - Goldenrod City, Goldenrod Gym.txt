@@ -1,0 +1,52 @@
+Game: Gold_and_Silver
+Part: 6
+Keywords: Goldenrod City, Goldenrod Gym
+
+### Part 6: Goldenrod City & Goldenrod Gym Walkthrough
+
+**Goldenrod City Overview:**
+- Largest city in Johto, located between Routes 34 and 35.
+- Key locations include the Goldenrod Department Store, Radio Tower, Game Corner, and Goldenrod Gym.
+
+**Key Items and Locations:**
+
+- **Goldenrod Department Store:**
+  - **B1F:** Ultra Ball, Burn Heal, Ether (accessible on subsequent visits).
+  - **2F:** Trainer's Market (buy healing items).
+  - **5F:** TM Corner (TMs for various moves). 
+    - **TM27 (Return)** and **TM21 (Frustration)** based on your Pokémon's friendship.
+  - **6F:** Rooftop Square for drinks.
+
+- **Bike Shop:** 
+  - Obtain a Bicycle for faster travel.
+
+- **Magnet Train Station:** 
+  - Connects to Kanto; requires a Pass.
+
+- **Radio Tower:** 
+  - Participate in the Lucky Number Lottery for prizes.
+  - Complete the Promo Quiz for a Radio Card.
+
+- **Game Corner:** 
+  - Play games and exchange coins for prizes (e.g., TMs, Pokémon).
+
+- **Goldenrod Underground:** 
+  - Contains shops and trainers for rematches.
+
+- **Name Rater:** 
+  - Change Pokémon nicknames.
+
+**Goldenrod Gym:**
+- **Leader:** Whitney (Normal-type).
+- **Strategy:** Use Fighting-type Pokémon (e.g., Machop) to counter her Clefairy and Miltank. 
+  - Miltank's **Rollout** is particularly dangerous; use Fighting moves to defeat it.
+
+- **Trainers to Defeat:** 
+  - Victoria (3 Sentret), Samantha (2 Meowth), Carrie (Snubbull), Bridget (3 Jigglypuff).
+
+**After the Gym Battle:**
+- Whitney rewards you with the **Plain Badge** and **TM45 (Attract)** after overcoming her emotional reaction to losing.
+
+- **Next Steps:** Visit the Flower Shop for a **SquirtBottle** to interact with the odd tree on Route 36.
+
+This concludes your visit to Goldenrod City. Prepare for your next adventure on Route 35!

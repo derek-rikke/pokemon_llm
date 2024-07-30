@@ -1,0 +1,41 @@
+Game: Gold_and_Silver
+Part: 12
+Keywords: Goldenrod Radio Tower, Goldenrod Underground, Route 44, Ice Path
+
+### Pokémon Gold and Silver Walkthrough: Part 12
+
+**Goldenrod City**  
+Team Rocket has taken over the Goldenrod Radio Tower. Your mission is to liberate it.
+
+#### Radio Tower
+1. **1F-5F**: Battle Rocket Grunts and Scientists to reach the top.
+   - Collect the **Basement Key** from the Rocket Executive on 5F after defeating him.
+2. **Goldenrod Underground**: 
+   - Enter from the north side. Use the Basement Key to access the Underground Warehouse.
+   - **B2F**: Battle Rival Silver, who has a leveled-up team.
+3. **Items**: 
+   - **Full Heal** (B2F), **Max Potion** (B1F), **Card Key** (from the Director in the Warehouse).
+
+#### Goldenrod Radio Tower
+1. Use the **Card Key** to access 3F and beyond.
+2. Defeat the female Rocket Executive on 4F (East) to access 5F.
+3. **Final Battle**: Defeat the last Rocket Executive on 5F to end Team Rocket's plans. You will receive either the **Rainbow Wing** (Gold) or **Silver Wing** (Silver).
+
+**Mahogany Town**  
+With Team Rocket gone, the souvenir shop is open. You can now access Route 44.
+
+**Route 44**  
+1. This area connects Mahogany Town to the Ice Path.  
+2. Trainers include Psychic Phil and Fisher Edgar.
+
+**Ice Path**  
+1. Navigate through icy terrain and boulders. 
+2. Collect **HM07 (Waterfall)** and other items like **Max Potions** and **TM44 (Rest)**.
+3. Complete boulder puzzles to progress through B1F and B2F.
+
+#### Key Locations in Ice Path
+- **1F**: HM07 (Waterfall) is on the eastern edge of the third ice patch.
+- **B1F**: Max Potion is hidden in the central ice patch.
+- **B2F**: Collect **NeverMeltIce** and additional items while solving boulder puzzles.
+
+**Next Destination**: After exiting the Ice Path, head to **Blackthorn City**.

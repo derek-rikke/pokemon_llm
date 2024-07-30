@@ -1,0 +1,1179 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_2
+Keywords: Route 2, Striaton City, The Dreamyard, Striaton Gym
+
+Walkthrough Text:
+Contents
+1
+Route 2
+2
+Striaton City
+2.1
+The Dreamyard
+2.2
+Trainer's School
+2.3
+Striaton Gym
+2.4
+Fennel's Lab
+2.5
+Back to Route 2 (optional)
+2.6
+Back to the Dreamyard
+Route 2
+Route 2
+Trainers
+Trainer
+Pokémon
+Youngster
+Jimmy
+ケンタ
+Kenta
+Reward:
+$
+112
+Patrat
+♂
+Lv.
+7
+No item
+Lass
+Mali
+マリ
+Mari
+Reward:
+$
+112
+Purrloin
+♀
+Lv.
+7
+No item
+Youngster
+Roland
+タカヒロ
+Takahiro
+Reward:
+$
+112
+Lillipup
+♂
+Lv.
+7
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Patrat
+B
+W
+Grass
+4-7
+40%
+Lillipup
+B
+W
+Grass
+4-7
+40%
+Purrloin
+B
+W
+Grass
+4-5
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Running Shoes
+From Mom just outside
+Accumula Town
+B
+W
+Potion
+×2
+In the western patch of grass
+On the hill to the east
+B
+W
+Poké Ball
+On the hill to the east
+B
+W
+Route 2
+introduces a new Pokémon; the
+Dark-type
+Purrloin.
+As you enter
+Route 2
+, your
+Xtransceiver
+rings. It's Mom, checking in on you. She hangs up quickly though, and walks out of the
+gate
+from
+Accumula Town
+. She's got a gift for you—the
+Running Shoes
+! With these on, you can run around to your heart's content. She says goodbye and heads for home.
+This route has three novice Trainers looking for a battle. The next city is home to the first Gym, so be sure to claim those experience points! You should aim to have your Pokémon around level 12 or 15 to be on par with the Gym Leader. Just as you are about to reach the safety of
+Striaton City
+,
+Bianca
+tracks you down for a second battle.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Bianca
+Route 2
+Black and White
+Reward:
+$
+700
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Lillipup
+♀
+Lv.
+6
+Leer
+Normal
+Status
+--
+Tackle
+Normal
+Physical
+--
+Odor Sleuth
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Oshawott
+♂
+Lv.
+7
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Water Gun
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Bianca
+Route 2
+Black and White
+Reward:
+$
+700
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Lillipup
+♀
+Lv.
+6
+Leer
+Normal
+Status
+--
+Tackle
+Normal
+Physical
+--
+Odor Sleuth
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Snivy
+♂
+Lv.
+7
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Bianca
+Route 2
+Black and White
+Reward:
+$
+700
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Lillipup
+♀
+Lv.
+6
+Leer
+Normal
+Status
+--
+Tackle
+Normal
+Physical
+--
+Odor Sleuth
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Tepig
+♂
+Lv.
+7
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Striaton City
+Striaton City
+Striaton
+is a small city that boasts such facilities as the Striaton Gym and the Trainer's School. The Gym can't be challenged until
+Cilan
+, one of the leaders, returns; coincidentally, he will return as soon as you defeat Cheren at the Trainer's School.
+Fennel
+'s lab is housed inside the northeastern-most building; though Fennel will be too busy to see visitors until you get the Trio Badge. A small wood-like area is located east of the city.
+Items
+Item
+Location
+Games
+X Speed
+South of the fence near
+Route 2
+B
+W
+Dusk Ball
+From the Roughneck behind Fennel's lab
+B
+W
+Great Ball
+×2
+From a man in the building south of Fennel's Lab
+South of the water fountain
+B
+W
+Oran Berry
+×3
+From Cheren in the Trainer's School
+B
+W
+Full Heal
+From a boy in Trainer's School after passing the quiz
+B
+W
+Fresh Water
+From
+Clyde
+at the Gym's entrance
+B
+W
+TM83
+(
+Work Up
+)
+From the Gym Leader as a reward
+B
+W
+HM01
+(
+Cut
+)
+From
+Fennel
+after defeating the Gym Leader
+B
+W
+C-Gear
+From
+Fennel
+after getting the Dream Mist
+B
+W
+Pal Pad
+From
+Amanita
+after getting the C-Gear
+B
+W
+BalmMushroom
+In a tree near the water, west of the archway to
+Route 3
+(hidden)
+B
+W
+The Dreamyard
+The
+Dreamyard
+is an old factory site just outside of the city limits. The plant is closed down, and the ruins are now a playground for Trainers. Battle the two Trainers, then speak to the second girl. After learning which
+first partner Pokémon
+you chose, she is willing to give you one of her own Pokémon to keep. The Pokémon that you receive will be one of the
+elemental monkeys
+, a trio of monkeys that share the first partners' type triangle of
+Grass
+,
+Fire
+, and
+Water
+. The type of monkey you receive will be able to cover your first partner Pokémon's weakness. This is especially helpful when challenging the Striaton Gym.
+Trainers
+Trainer
+Pokémon
+Lass
+Eri
+Reward:
+$
+128
+Purrloin
+♀
+Lv.
+8
+No item
+Purrloin
+♀
+Lv.
+8
+No item
+Youngster
+Joey
+Reward:
+$
+112
+Patrat
+♂
+Lv.
+7
+No item
+Patrat
+♂
+Lv.
+7
+No item
+Lillipup
+♂
+Lv.
+7
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Patrat
+B
+W
+Grass
+8-11
+40%
+Purrloin
+B
+W
+Grass
+8-11
+40%
+Munna
+B
+W
+Grass
+8-10
+20%
+Special Pokémon
+Pansage
+B
+W
+Gift
+10
+From a girl if the player started with
+Tepig
+Pansear
+B
+W
+Gift
+10
+From a girl if the player started with
+Oshawott
+Panpour
+B
+W
+Gift
+10
+From a girl if the player started with
+Snivy
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+X Defend
+Just north of the open gate
+B
+W
+Trainer's School
+The students here are learning the basics of being a Pokémon Trainer, like status problems and
+abilities
+. The blackboard lists all the possible
+status conditions
+that can affect a Pokémon. One student asks to quiz you, and answering the two questions correctly will earn you a
+Full Heal
+.
+Cheren
+is inside, studying the notes on the blackboard. He tells you that the Gym Leader just left for the Gym, and asks for a battle to practice using items.
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Cheren
+Striaton City
+Black and White
+Reward:
+$
+800
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Oran Berry
+Tepig
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Ember
+Fire
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Purrloin
+♂
+Lv.
+8
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Cheren
+Striaton City
+Black and White
+Reward:
+$
+800
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Oran Berry
+Oshawott
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Water Gun
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Purrloin
+♂
+Lv.
+8
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Cheren
+Striaton City
+Black and White
+Reward:
+$
+800
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Oran Berry
+Snivy
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Vine Whip
+Grass
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Purrloin
+♂
+Lv.
+8
+Scratch
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Assist
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, he gives you a few
+Oran Berries
+as a thank you gift. Stop by the Pokémon Center to prepare your team, and head next door to the Gym.
+Striaton Gym
+The Striaton Gym
+Striaton City Pokémon Gym
+Leader: ---
+Triple Trouble!
+The
+Striaton Gym
+is designed as a restaurant, with tables and chairs in each of the four rooms. When you enter, the
+Gym guide
+, Clyde, gives you a
+Fresh Water
+to help against the Gym Leader. In this Gym, you progress by stepping on the switch whose type is effective against the type shown on each curtain.
+When you speak to the green-haired guy in the back, two more appear out of nowhere—one with red hair, one with blue. These three brothers are the Striaton Gym Leaders;
+Cilan
+,
+Chili
+, and
+Cress
+. However, you'll only battle one of them to earn your first Badge; your opponent depends on which first partner Pokémon you chose. While your first Pokémon will be at a disadvantage, the monkey you received in the
+Dreamyard
+(either
+Panpour
+,
+Pansage
+, or
+Pansear
+) will be a definite help.
+Striaton Gym
+Trainers
+Trainer
+Pokémon
+Waiter
+Maxwell
+ミキヤ
+Mikiya
+Reward:
+$
+440
+Lillipup
+♂
+Lv.
+11
+No item
+Waitress
+Tia
+チハル
+Chiharu
+Reward:
+$
+400
+Patrat
+♀
+Lv.
+10
+No item
+Purrloin
+♀
+Lv.
+10
+No item
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Leader
+Chili
+Striaton Gym
+Black and White
+Reward:
+$
+1680
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Lillipup
+♂
+Lv.
+12
+Bite
+Dark
+Physical
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansear
+♂
+Lv.
+14
+Incinerate
+Fire
+Special
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Leader
+Cress
+Striaton Gym
+Black and White
+Reward:
+$
+1680
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Lillipup
+♂
+Lv.
+12
+Bite
+Dark
+Physical
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Panpour
+♂
+Lv.
+14
+Water Gun
+Water
+Special
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Leader
+Cilan
+Striaton Gym
+Black and White
+Reward:
+$
+1680
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Lillipup
+♂
+Lv.
+12
+Bite
+Dark
+Physical
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+None
+Pansage
+♂
+Lv.
+14
+Vine Whip
+Grass
+Physical
+--
+Work Up
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+When the battle is over, your opponent will award you with the
+Trio Badge
+! He'll also give you
+TM83
+(
+Work Up
+) as a prize for defeating him. Work Up is a handy move that raises both
+Attack
+and
+Special Attack
+at once. Don't be afraid to use it — in
+Generation V
+, every
+TM
+can be used repeatedly without breaking. With one Badge, your Pokémon will obey you up to level 20, and you also earn the ability to use the move
+Cut
+outside of battle.
+Fennel's Lab
+When you leave the Gym, a woman approaches you and introduces herself as
+Fennel
+, a scientist who studies Pokémon Trainers. She leads you to her lab where she gives you
+HM01
+(
+Cut
+). Then she asks for a favor; she is looking for a bit of
+Dream Mist
+that a
+Munna
+gives off. You'll need to return to the
+Dreamyard
+to find it, but speak with her roommate first. She introduces herself as
+Amanita
+, the woman who designed
+Unova
+'s PC system. She quickly explains the
+Battle Box
+, a feature that allows a Trainer to register a team of Pokémon that they battle alongside the most, allowing them to be quickly exchanged as a whole with the current party.
+Back to Route 2 (optional)
+Now that you have the HM for
+Cut
+, you have to option to return to Route 2 if you would like and collect some items.
+Items
+Item
+Location
+Games
+Great Ball
+To the northwest (requires
+Cut
+)
+B
+W
+Super Potion
+To the northwest (requires
+Cut
+)
+B
+W
+Back to the Dreamyard
+The Dreamyard
+Use
+Cut
+to chop down the tree, and step through the hole in the fence.
+Bianca
+shows up, looking for
+Munna
+as well. The two of you hear a Pokémon cry out nearby, and find Munna in the warehouse ruins. Unfamiliar with humans, it tries to run, but is blocked by a pair of
+Team Plasma Grunts
+. The thugs are after the
+Dream Mist
+too, and plan to use it to manipulate people into releasing their Pokémon. They start to bully Munna, and attack you when you try to help it.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+400
+Patrat
+♂
+Lv.
+10
+No item
+Team Plasma Grunt
+Reward:
+$
+400
+Purrloin
+♀
+Lv.
+10
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Patrat
+B
+W
+Grass
+8-11
+40%
+Purrloin
+B
+W
+Grass
+8-11
+40%
+Munna
+B
+W
+Grass
+8-10
+20%
+Rustling Grass
+Musharna
+B
+W
+Rustling grass
+11
+5%
+Audino
+B
+W
+Rustling grass
+8-11
+95%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Parlyz Heal
+Behind the southeast wall
+B
+W
+Repel
+At the east end of the elevated walkway
+B
+W
+Potion
+At the west end of the elevated walkway
+B
+W
+Poké Ball
+In the western patch of grass
+B
+W
+When you beat the grunts,
+Ghetsis
+shows up to scold them. The grunts remark that he is "not the Ghetsis who tries to manipulate people with his trick speeches", and they run off.
+Musharna
+lets its illusion disappear, and emerges from the shadows to comfort
+Munna
+. The two float away, leaving the Dream Mist behind.
+Fennel
+shows up right away and takes the mist back to her lab.
+Collect the items here, and hunt for new Pokémon if you wish. Now that you have a Badge, you may occasionally discover
+unusual activity
+across the region, like rustling grass. This lets you encounter rarer species, like Musharna.
+Audino
+is the most common and gives a lot of experience upon defeat, making it a great way to train your Pokémon.
+When you return to her lab, Fennel rewards you with the
+C-Gear
+. This device appears on the Touch Screen, and offers three means of communication: Wireless, Infrared, and Online. It lets you interact with other players, as well as access the
+Entralink
+and the
+Dream World
+. As thanks for helping Fennel,
+Amanita
+gives you the
+Pal Pad
+, which lets you interact with friends over Wi-Fi.
+Now that all of that is done, you are free to head north to
+Route 3
+.
+← Part 1
+Intro, Nuvema Town, Juniper's Lab, Route 1, Accumula Town
+Black and White
+walkthrough
+Route 3, Pokémon Daycare, Wellspring Cave, Nacrene City, Nacrene Gym
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

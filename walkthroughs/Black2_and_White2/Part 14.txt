@@ -1,0 +1,2929 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_14
+Keywords: Route 21, Seaside Cave, Plasma Frigate, Giant Chasm
+
+Walkthrough Text:
+Contents
+1
+Route 21
+1.1
+Seaside Cave
+1.1.1
+1F
+1.1.2
+B1F
+1.1.3
+1F
+2
+Route 21 (east)
+3
+Plasma Frigate
+3.1
+North Entrance
+3.2
+B1F
+B2
+3.3
+B1F
+W2
+3.4
+Command Center
+4
+Giant Chasm
+4.1
+Outer Cave
+4.2
+Crater Forest
+4.3
+Plasma Frigate
+4.3.1
+South Entrance
+4.3.2
+B2F
+B2
+4.3.3
+B2F
+W2
+4.3.4
+Kyurem's Location
+4.3.5
+Control Room
+4.3.6
+Ghetsis' Quarters
+4.4
+Inner Cave
+Route 21
+Route 21
+Route 21
+is a short ocean route that leads south from
+Humilau City
+. A large island that houses
+Seaside Cave
+sits off to the south.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Desiree
+アイコ
+Aiko
+Reward:
+$
+736
+Wailord
+♀
+Lv.
+46
+No item
+Swimmer
+Kaoru
+カオル
+Kaoru
+Reward:
+$
+720
+Remoraid
+♀
+Lv.
+45
+No item
+Remoraid
+♀
+Lv.
+45
+No item
+Swimmer
+Harold
+ヒデロウ
+Hiderō
+Reward:
+$
+736
+Octillery
+♂
+Lv.
+46
+No item
+Black Belt
+Kenneth
+コウヘイ
+Kōhei
+Reward:
+$
+1504
+Crustle
+♂
+Lv.
+47
+No item
+Swimmer
+Kyle
+ナオキ
+Naoki
+Reward:
+$
+720
+Wingull
+♂
+Lv.
+45
+No item
+Wingull
+♂
+Lv.
+45
+No item
+Doctor
+Braid
+ハルキ
+Haruki
+Reward:
+$
+2760
+Alomomola
+♂
+Lv.
+46
+No item
+Fisherman
+Kenzo
+ケンゾウ
+Kenzō
+Reward:
+$
+1408
+Frillish
+♂
+Male
+Lv.
+44
+No item
+Frillish
+♀
+Female
+Lv.
+44
+No item
+Frillish
+♀
+Female
+Lv.
+44
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Frillish
+B2
+W2
+Surfing
+30-45
+65%
+Mantyke
+B2
+W2
+Surfing
+30-45
+30%
+Remoraid
+B2
+W2
+Surfing
+35-45
+5%
+Rippling water
+Jellicent
+B2
+W2
+Rippling water
+30-45
+60%
+Alomomola
+B2
+W2
+Rippling water
+30-45
+35%
+Mantine
+B2
+W2
+Rippling water
+30-45
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+Northeast of Black Belt Kenneth
+B2
+W2
+PP Up
+South of Fisherman Kenzo
+B2
+W2
+Seaside Cave
+Seaside Cave
+Seaside Cave
+passes through a large cliff that rises up out of the ocean. The cavern was opened up by erosion from wind, waves, and Pokémon. The southern exit leads to
+Undella Bay
+.
+Trainers
+1F
+Trainer
+Pokémon
+Pokémon Ranger
+Mikiko
+ミキコ
+Mikiko
+Reward:
+$
+2760
+Vibrava
+♀
+Lv.
+46
+No item
+Gligar
+♀
+Lv.
+46
+No item
+Pokémon Ranger
+Johan
+ヨハン
+Johann
+Reward:
+$
+2760
+Onix
+♂
+Lv.
+46
+No item
+Lairon
+♂
+Lv.
+46
+No item
+Black Belt
+Rocky
+ガンジロウ
+Ganjirō
+Reward:
+$
+1408
+Roggenrola
+♂
+Lv.
+44
+No item
+Roggenrola
+♂
+Lv.
+44
+No item
+Roggenrola
+♂
+Lv.
+44
+No item
+Roggenrola
+♂
+Lv.
+44
+No item
+Battle Girl
+Tia
+チハル
+Chiharu
+Reward:
+$
+1504
+Heracross
+♀
+Lv.
+47
+No item
+Black Belt
+Drago
+リュウスケ
+Ryūsuke
+Reward:
+$
+1504
+Scrafty
+♂
+Lv.
+47
+No item
+B1F
+Trainer
+Pokémon
+Battle Girl
+Maki
+マキ
+Maki
+Reward:
+$
+1504
+Mienfoo
+♀
+Lv.
+47
+No item
+Black Belt
+Rich
+リイチ
+Rīchi
+Reward:
+$
+1504
+Gurdurr
+♂
+Lv.
+47
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golduck
+B2
+W2
+Cave
+34-36
+35%
+Woobat
+B2
+W2
+Cave
+34-36
+35%
+Boldore
+B2
+W2
+Cave
+35-37
+15%
+Seel
+B2
+W2
+Cave
+35
+10%
+Tynamo
+B2
+W2
+Cave
+37
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+34-37
+100%
+B1F
+Boldore
+B2
+W2
+Cave
+39-42
+35%
+Woobat
+B2
+W2
+Cave
+39-41
+35%
+Golduck
+B2
+W2
+Cave
+40
+20%
+Shuckle
+B2
+W2
+Cave
+41
+5%
+Eelektrik
+B2
+W2
+Cave
+42
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+39-42
+100%
+Surfing
+Frillish
+B2
+W2
+Surfing
+25-40
+70%
+Seel
+B2
+W2
+Surfing
+25-40
+30%
+Rippling water
+Seel
+B2
+W2
+Rippling water
+25-40
+60%
+Jellicent
+B2
+W2
+Rippling water
+25-40
+30%
+Dewgong
+B2
+W2
+Rippling water
+30-40
+10%
+Special Pokémon
+Crustle
+B2
+W2
+Only one
+42
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Persim Berry
+×2
+From Pokémon Ranger Mikiko upon her defeat
+From Pokémon Ranger Johan upon his defeat
+B2
+W2
+Blue Shard
+Southeast of Pokémon Ranger Mikiko (hidden)
+B2
+W2
+Dive Ball
+On the ledge between the two Pokémon Rangers
+B2
+W2
+Full Restore
+South of Battle Girl Tia
+B2
+W2
+Heart Scale
+On the island in the southeast (requires
+Surf
+)
+B2
+W2
+TM06
+(
+Toxic
+)
+North of Battle Girl Tia (accessible from B1F, requires
+Strength
+)
+B2
+W2
+Calcium
+In the rock to the north of the east exit (hidden)
+B2
+W2
+B1F
+Max Repel
+Near the south wall
+B2
+W2
+Rare Candy
+On the boulder-strewn platform (requires
+Strength
+)
+B2
+W2
+1F
+Head south over a series of ledges to fight Pokémon Rangers Mikiko and Johan, and pick up the
+Dive Ball
+between them. Defeat Black Belt Rocky to clear the south exit to
+Undella Bay
+, then cross the bridge to return to the north side. Grab the
+Full Restore
+near Battle Girl Tia, and jump the northernmost ledge again. Turn east this time, and go down the stairway to reach the water's edge. Nab the
+Heart Scale
+from the bit of dry land, then
+swim
+northward. Take the stairway to the lower level.
+B1F
+Go south to the smaller of the two raised platforms. Pick up the
+Max Repel
+to the south, then drop the boulder into the hole. Continue east to reach Battle Girl Maki and the larger raised platform. Use
+Strength
+to move the first five boulders into position, and pick up the
+Rare Candy
+on the way past. Move the sixth boulder and head northwest to return to the first floor.
+1F
+Head west to find
+TM06
+(
+Toxic
+) sitting atop the cliff, then jump the lower ledge near the water. Climb the opposite stairway to find an unusual boulder blocking the east exit. Activate the
+Colress MCHN
+to wake the rock, which turns out to be a
+Crustle
+. The delicate instrument breaks after the battle. Step outside to reach a secluded part of
+Route 21
+'s ocean.
+Route 21 (east)
+The Plasma Frigate
+Outside, the
+Plasma Frigate
+is anchored at the water's edge. As you approach it,
+Hugh
+emerges from
+Seaside Cave
+and wonders aloud how to board the ship. Just then, the gangplank falls with a heavy thud, and
+Marlon
+disembarks the ship. He still hasn't changed his mind about
+Team Plasma
+, but wanted to help the two of you. He leaves, and Hugh runs up onto the ship.
+Plasma Frigate
+Two Plasma Grunts block the way; defeat one and the pair runs off. Follow Hugh north in search of
+Zinzolin
+.
+Trainers
+Trainer
+Pokémon
+Shipdeck
+Team Plasma Grunt
+Reward:
+$
+1840
+Watchog
+♂
+Lv.
+46
+No item
+Garbodor
+♂
+Lv.
+46
+No item
+North Entrance
+Team Plasma Grunt
+Reward:
+$
+3680
+(with Team Plasma Grunt)
+Golbat
+♂
+Lv.
+46
+No item
+Drapion
+♂
+Lv.
+46
+No item
+Team Plasma Grunt
+Reward:
+$
+3680
+(with Team Plasma Grunt)
+Seviper
+♀
+Lv.
+46
+No item
+Garbodor
+♀
+Lv.
+46
+No item
+Items
+Item
+Location
+Games
+1F
+Revive
+Bow of the ship
+B2
+W2
+TM67
+(
+Retaliate
+)
+Stern of the ship
+B2
+W2
+B1F
+Magmarizer
+Northeast room
+B2
+Electirizer
+Southwest room
+W2
+Plasma Card
+From the female Grunt in the center of the dining hall
+W2
+North Entrance
+Just inside the North Entrance, you pair up with
+Hugh
+to take on a couple of Grunts. He leads with his
+first partner Pokémon
+at level 50, which is great against the four
+Poison-type
+Pokémon unless it happens to be a
+Serperior
+. Hand the pair a quick defeat and they hurry off. Before he leaves,
+Hugh
+claims that the barrier can be deactivated by either flipping a few switches
+B2
+, or using a password
+W2
+. Leave this room, and take either the northern
+B2
+or southern
+W2
+stairway to reach the basement.
+B1F
+B2
+Trainers
+Trainer
+Pokémon
+Stairwell
+Team Plasma Grunt
+Reward:
+$
+1880
+Krookodile
+♂
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Drapion
+♀
+Lv.
+47
+No item
+Southwest room
+Team Plasma Grunt
+Reward:
+$
+1800
+Pawniard
+♀
+Lv.
+45
+No item
+Pawniard
+♀
+Lv.
+45
+No item
+Pawniard
+♀
+Lv.
+45
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Scraggy
+♀
+Lv.
+46
+No item
+Liepard
+♀
+Lv.
+46
+No item
+Northwest room
+Team Plasma Grunt
+Reward:
+$
+1880
+Garbodor
+♂
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Whirlipede
+♂
+Lv.
+46
+No item
+Watchog
+♂
+Lv.
+46
+No item
+Southeast room
+Team Plasma Grunt
+Reward:
+$
+1800
+Deino
+♀
+Lv.
+45
+No item
+Deino
+♀
+Lv.
+45
+No item
+Sneasel
+♀
+Lv.
+45
+No item
+East room
+Team Plasma Grunt
+Reward:
+$
+1880
+Weezing
+♂
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Krokorok
+♂
+Lv.
+46
+No item
+Raticate
+♂
+Lv.
+46
+No item
+There are three Grunts here; the first will not attack, but the others will if they detect you. If you need to heal up, you can visit the bed in the northeast room. In the west room, a Grunt will record the entries for
+Reshiram
+and
+Zekrom
+in your
+Pokédex
+. The six rooms that surround the stairwell each have warp panels that aim to disorient intruders. Four of these tiles lead back to the switches inside the North Entrance.
+Switch
+Accessed via
+#1
+Northwest room, top-left corner
+#2
+East room, top-left corner
+#3
+Southwest room, top-left corner
+#4
+Southeast room, bottom-right corner
+With the four switches engaged, the electrified barrier deactivates. Step on the teleporter to warp to the Command Center.
+B1F
+W2
+Trainers
+Trainer
+Pokémon
+Stairwell
+Team Plasma Grunt
+Reward:
+$
+1800
+Scraggy
+♂
+Lv.
+45
+No item
+Krokorok
+♂
+Lv.
+45
+No item
+Golbat
+♂
+Lv.
+45
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Scrafty
+♀
+Lv.
+47
+No item
+Northeast room
+Team Plasma Grunt
+Reward:
+$
+1880
+Drapion
+♀
+Lv.
+47
+No item
+Southeast room
+Team Plasma Grunt
+Reward:
+$
+1840
+Whirlipede
+♂
+Lv.
+46
+No item
+Watchog
+♂
+Lv.
+46
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Krokorok
+♂
+Lv.
+46
+No item
+Raticate
+♂
+Lv.
+46
+No item
+Northwest room
+Team Plasma Grunt
+Reward:
+$
+1880
+Weezing
+♂
+Lv.
+47
+No item
+Southwest room
+Team Plasma Grunt
+Reward:
+$
+1800
+Pawniard
+♀
+Lv.
+45
+No item
+Pawniard
+♀
+Lv.
+45
+No item
+Pawniard
+♀
+Lv.
+45
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Garbodor
+♂
+Lv.
+47
+No item
+There are three Grunts here; the first will not attack, but the others will if they detect you. If you need to heal up, you can visit the bed in the east room. In the west room, a Grunt will record the entries for
+Reshiram
+and
+Zekrom
+in your
+Pokédex
+. There are five clues needed to learn the password, which changes with every adventure and may contain letters or numbers. Using the password requires the
+Plasma Card
+, which can be obtained from the female Plasma Grunt in the center of the dining hall, the west/southwest room.
+Potential Passwords
+Password
+Value
+#1
+2202
+#2
+7707
+#3
+9909
+#4
+Reshiram
+#5
+Zekrom
+With the password entered, the electrified barrier deactivates. Step on the teleporter to warp to the Command Center.
+Command Center
+Zinzolin
+is waiting here, and shows off the source of the ship's power,
+Kyurem
+.
+Hugh
+appears, and joins you in a Multi Battle against Zinzolin and the Plasma Grunt. All but one of their Pokémon are susceptible to
+Fighting-type
+attacks, while
+Weavile
+is especially vulnerable.
+Team Plasma
+and
+Team Plasma
+Zinzolin
+Grunt
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+10800
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+48
+Reflect
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Slash
+Normal
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+48
+Light Screen
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Slash
+Normal
+Physical
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+50
+Ice Shard
+Ice
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Limber
+Held item:
+None
+Liepard
+♂
+Lv.
+45
+Taunt
+Dark
+Status
+--
+Assurance
+Dark
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Illuminate
+Held item:
+None
+Watchog
+♂
+Lv.
+45
+Slam
+Normal
+Physical
+--
+Hyper Fang
+Normal
+Physical
+--
+Baton Pass
+Normal
+Status
+--
+Mean Look
+Normal
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Poison Point
+Held item:
+None
+Scolipede
+♂
+Lv.
+45
+Steamroller
+Bug
+Physical
+--
+Agility
+Psychic
+Status
+--
+Baton Pass
+Normal
+Status
+--
+Toxic
+Poison
+Status
+--
+Defeated,
+Zinzolin
+orders the
+Shadow Triad
+to appear and teleport the two of you off the ship. The
+Plasma Frigate
+rises into air and flies off.
+Cheren
+shows up on the beach to tell you that he saw the ship headed toward the
+Giant Chasm
+to the northwest.
+Fly
+back to
+Humilau
+and use the shortcut on
+Route 22
+to reach the cave.
+Giant Chasm
+Giant Chasm
+The
+Giant Chasm
+is a crater-shaped cave, with a small forest covering the crater floor. The residents of nearby
+Lacunosa Town
+fear the monster that is said to hide here. The west side of the cave opens up to
+Route 23
+.
+Trainers
+Trainer
+Pokémon
+Crater Forest
+Team Plasma Grunt
+Reward:
+$
+1880
+Weezing
+♂
+Lv.
+47
+No item
+Muk
+♂
+Lv.
+47
+No item
+Available Pokémon
+Route 13 Entrance
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+B2
+W2
+Grass
+44-45
+30%
+Pelipper
+B2
+W2
+Grass
+45
+20%
+Clefairy
+B2
+W2
+Grass
+45-47
+15%
+Lunatone
+B2
+W2
+Grass
+45
+10%
+Solrock
+B2
+W2
+Grass
+46
+10%
+Vanillish
+B2
+W2
+Grass
+45-47
+10%
+Delibird
+B2
+W2
+Grass
+44
+5%
+Dark grass
+Tangela
+B2
+W2
+Dark grass
+49-50
+30%
+Pelipper
+B2
+W2
+Dark grass
+50
+20%
+Clefairy
+B2
+W2
+Dark grass
+50-52
+15%
+Lunatone
+B2
+W2
+Dark grass
+50
+10%
+Solrock
+B2
+W2
+Dark grass
+51
+10%
+Vanillish
+B2
+W2
+Dark grass
+50-52
+10%
+Delibird
+B2
+W2
+Dark grass
+49
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+44-47
+85%
+Clefable
+B2
+W2
+Rustling grass
+47
+5%
+Tangrowth
+B2
+W2
+Rustling grass
+47
+5%
+Vanilluxe
+B2
+W2
+Rustling grass
+47
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Outer Cave
+Pokémon
+Games
+Location
+Levels
+Rate
+Piloswine
+B2
+W2
+Cave
+44-46
+25%
+Sneasel
+B2
+W2
+Cave
+44
+20%
+Clefairy
+B2
+W2
+Cave
+44-46
+15%
+Vanillish
+B2
+W2
+Cave
+45-47
+15%
+Lunatone
+B2
+W2
+Cave
+46
+10%
+Solrock
+B2
+W2
+Cave
+46
+10%
+Delibird
+B2
+W2
+Cave
+47
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+44-47
+100%
+Surfing
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Seel
+B2
+W2
+Surfing
+35-50
+30%
+Rippling water
+Seel
+B2
+W2
+Rippling water
+35-50
+60%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Dewgong
+B2
+W2
+Rippling water
+40-50
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Crater Forest
+Pokémon
+Games
+Location
+Levels
+Rate
+Piloswine
+B2
+W2
+Grass
+44-46
+30%
+Clefairy
+B2
+W2
+Grass
+45
+20%
+Ditto
+B2
+W2
+Grass
+45-47
+15%
+Lunatone
+B2
+W2
+Grass
+46
+10%
+Solrock
+B2
+W2
+Grass
+46
+10%
+Metang
+B2
+W2
+Grass
+45-47
+10%
+Delibird
+B2
+W2
+Grass
+44
+5%
+Dark grass
+Piloswine
+B2
+W2
+Dark grass
+49-51
+30%
+Clefairy
+B2
+W2
+Dark grass
+50
+20%
+Ditto
+B2
+W2
+Dark grass
+50-52
+15%
+Lunatone
+B2
+W2
+Dark grass
+51
+10%
+Solrock
+B2
+W2
+Dark grass
+51
+10%
+Metang
+B2
+W2
+Dark grass
+50-52
+10%
+Delibird
+B2
+W2
+Dark grass
+49
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+44-47
+85%
+Clefable
+B2
+W2
+Rustling grass
+47
+5%
+Metagross
+B2
+W2
+Rustling grass
+47
+5%
+Mamoswine
+B2
+W2
+Rustling grass
+47
+5%
+Hidden Grotto
+Clefairy
+B2
+W2
+Hidden Grotto
+45-50
+Common
+Sneasel
+B2
+W2
+Hidden Grotto
+45-50
+Uncommon
+Metang
+B2
+W2
+Hidden Grotto
+45-50
+Uncommon
+Ditto
+B2
+W2
+Hidden Grotto
+45-50
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Inner Cave
+Pokémon
+Games
+Location
+Levels
+Rate
+Piloswine
+B2
+W2
+Cave
+44-46
+25%
+Sneasel
+B2
+W2
+Cave
+44
+20%
+Clefairy
+B2
+W2
+Cave
+44-46
+15%
+Vanillish
+B2
+W2
+Cave
+45-47
+15%
+Lunatone
+B2
+W2
+Cave
+46
+10%
+Solrock
+B2
+W2
+Cave
+46
+10%
+Delibird
+B2
+W2
+Cave
+47
+5%
+Dust clouds
+Excadrill
+B2
+W2
+Dust cloud
+44-47
+100%
+Surfing
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Basculin
+B2
+W2
+Surfing
+35-50
+70%
+Seel
+B2
+W2
+Surfing
+35-50
+30%
+Rippling water
+Seel
+B2
+W2
+Rippling water
+35-50
+60%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Basculin
+B2
+W2
+Rippling water
+35-50
+30%
+Dewgong
+B2
+W2
+Rippling water
+40-50
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Route 13 Entrance
+Yellow Shard
+Northeast of the cave entrance
+B2
+W2
+Moon Stone
+On the dead-end bridge (hidden)
+B2
+W2
+Max Potion
+Southwest of the cave entrance, on the highest level (hidden)
+B2
+W2
+Outer Cave
+TM13
+(
+Ice Beam
+)
+Near the Route 22 entrance (requires
+Surf
+)
+B2
+W2
+Star Piece
+×2
+In a rock near the Crater Forest entrance (hidden)
+Northwest corner (requires
+Strength
+, hidden)
+B2
+W2
+Max Repel
+Dead-end tunnel in the southwest corner (requires
+Strength
+)
+B2
+W2
+Ultra Ball
+Northwest corner (hidden)
+B2
+W2
+Ice Gem
+Near the north wall (requires
+Strength
+)
+B2
+W2
+Crater Forest
+Max Revive
+×3
+From Rood after defeating the first Plasma Grunt
+B2
+W2
+Razor Claw
+Southwest part of the crater
+B2
+W2
+Moon Stone
+Southwest part of the crater
+B2
+W2
+Star Piece
+Southeast part of the crater
+*
+B2
+W2
+TM03
+(
+Psyshock
+)
+West side of the Frigate's landing zone
+*
+B2
+W2
+PP Up
+East side of the Frigate's landing zone
+*
+B2
+W2
+Carbos
+Northwest part of the crater
+*
+B2
+W2
+Sun Stone
+North of the Frigate's landing zone
+*
+B2
+W2
+Outer Cave
+Go south from the entrance to encounter a pair of Plasma Grunts.
+Hugh
+shows up and attempts to battle them, but a former Plasma member, acting as a spy for
+Rood
+, uses his wits to chase them off. Continue south to reach a boulder; use
+Strength
+to clear the way, then
+Surf
+north to get
+TM13
+(
+Ice Beam
+). Head southwest to reach the
+Route 13
+entrance.
+Duck outside to pick up a
+Yellow Shard
+and two hidden items, a
+Moon Stone
+and a
+Max Potion
+. The path to the south leads back to
+Route 13
+, so push the boulder into place to open the shortcut. To the east, a
+Hyper Potion
+lies in plain sight on the beach, while a
+Heart Scale
+lies hidden on a nearby rock.
+Re-enter the cave and turn west. Inspect the nearest rock for a hidden
+Star Piece
+, then move the boulder in the southwest corner to reach a
+Max Repel
+. A pair of Plasma Grunts blocks the west exit to
+Route 23
+for now. In the northwest corner, a hidden
+Ultra Ball
+lies on the west side, while a second
+Star Piece
+lies behind a boulder on the north side. Turn east and move the last boulder to find a hidden
+Ice Gem
+. Jump the ledge and head southwest to reach the Crater Forest.
+Crater Forest
+Inside the crater,
+Rood
+and a pair of Grunts from the old
+Team Plasma
+are trying to convince a group of current members that what they are doing is wrong.
+Hugh
+breaks up the fight, drawing the Grunts' attention, and drawing the two of you into battle. Rood gives you three
+Max Revives
+as thanks for your help. His group will keep the others busy while you and Hugh track down the
+Shadow Triad
+aboard the
+Plasma Frigate
+. Check the surroundings for a
+Razor Claw
+and a
+Moon Stone
+, then follow Hugh up onto the mound of ice and into the ship.
+Plasma Frigate
+Hugh
+is already holding off a group of Plasma Grunts, leaving you free to advance. The front of the ship has already been cleared, so head to the stern this time.
+Trainers
+South Entrance
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+3680
+(with Team Plasma Grunt)
+Scraggy
+♀
+Lv.
+46
+No item
+Scrafty
+♀
+Lv.
+46
+No item
+Whirlipede
+♀
+Lv.
+46
+No item
+Team Plasma Grunt
+Reward:
+$
+3680
+(with Team Plasma Grunt)
+Trubbish
+♂
+Lv.
+46
+No item
+Golbat
+♂
+Lv.
+46
+No item
+Garbodor
+♂
+Lv.
+46
+No item
+B2F
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+1800
+Skorupi
+♂
+Lv.
+45
+No item
+Foongus
+♂
+Lv.
+45
+No item
+Golbat
+♂
+Lv.
+45
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Krookodile
+♂
+Lv.
+47
+No item
+Doctor
+Julius
+キリツグ
+Kiritsugu
+Reward:
+$
+2940
+Leavanny
+♂
+Lv.
+49
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Scrafty
+♂
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Scolipede
+♀
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Trubbish
+♀
+Lv.
+46
+No item
+Zangoose
+♀
+Lv.
+46
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Grimer
+♂
+Lv.
+46
+No item
+Seviper
+♂
+Lv.
+46
+No item
+Only in
+Black 2
+Team Plasma Grunt
+Reward:
+$
+1880
+Raticate
+♀
+Lv.
+47
+No item
+Watchog
+♀
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Krokorok
+♂
+Lv.
+47
+No item
+Krookodile
+♂
+Lv.
+47
+No item
+Team Plasma Grunt
+Reward:
+$
+1880
+Drapion
+♂
+Lv.
+47
+No item
+Only in
+White 2
+Team Plasma Grunt
+Reward:
+$
+1800
+Deino
+♀
+Lv.
+45
+No item
+Deino
+♀
+Lv.
+45
+No item
+Sneasel
+♀
+Lv.
+45
+No item
+Team Plasma Grunt
+Reward:
+$
+1840
+Koffing
+♂
+Lv.
+46
+No item
+Amoonguss
+♂
+Lv.
+46
+No item
+Items
+Item
+Location
+Games
+B2F
+Plasma Card
+From female Plasma Grunt on the north side of the maze
+B2
+Zinc
+In front of the glowing blue column
+B2
+W2
+Max Revive
+Southwest corner of the room
+B2
+Southeast corner of the room
+W2
+B2
+W2
+Max Elixir
+Southwest corner of the room
+B2
+Southeast corner of the room
+W2
+B2
+W2
+Power Band
+East side of the pipe maze
+B2
+Power Belt
+West side of the pipe maze
+W2
+South Entrance
+As soon as you set foot inside, a pair of Plasma Grunts attacks. Knock them around a bit before taking the teleporter into the belly of the ship.
+B2F
+B2
+When you warp into the room where
+Kyurem
+is imprisoned, you draw the attention of the nearby Plasma Grunt. He turns out to be the spy that is working for
+Rood
+, and informs you of the room's layout and how to proceed. To the south is a maze of pipes; navigating the area requires activating switches that extend and retract these pipes.
+There are five clues needed to learn the password, which changes with every adventure and may contain letters or numbers. Using the password requires the
+Plasma Card
+, which can be obtained from the female Plasma Grunt on the north side of the maze.
+Potential Passwords
+Password
+Value
+#1
+2202
+#2
+7707
+#3
+9909
+#4
+Reshiram
+#5
+Zekrom
+With the password entered, the electrified barrier deactivates. Head north to reach
+Kyurem
+.
+B2F
+W2
+When you warp into the room where
+Kyurem
+is imprisoned, you draw the attention of the nearby Plasma Grunt. He turns out to be the spy that is working for
+Rood
+, and informs you of the room's layout and how to proceed. To the south is a maze of pipes; navigating the area requires activating switches that extend and retract these pipes. On the floor below is a series of warp panels which will eventually lead to the four red switches that deactivate the barrier.
+Switch
+Accessed via
+#1
+Second column from left, near the Plasma Grunt
+#2
+Northwest corner of the maze
+#3
+Third column from left, near the female Plasma Grunt
+#4
+Northeast corner of the maze
+With the four switches engaged, the electrified barrier deactivates. Head north to reach
+Kyurem
+.
+Kyurem's Location
+Deactivate the barrier and proceed.
+Kyurem
+is stuck in a cage to the north. When you approach it,
+Zinzolin
+appears and tries one last time to stop you. His Pokémon have only grown by one level since your last encounter, so the strategy to defeating him is the same.
+Team Plasma
+Zinzolin
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+9180
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+49
+Reflect
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Slash
+Normal
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+49
+Light Screen
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Slash
+Normal
+Physical
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+51
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Ignore
+Zinzolin
+'s vague threats and proceed. The warp tile to the left is blocked, so take the one to the right to reach the Control Room.
+Control Room
+Colress
+is waiting inside the Control Room. He joined
+Team Plasma
+at the request of an old friend, in order to research how to bring out the full power of Pokémon. It does not matter to him which method does the job. One last battle with you will apparently show him which is right. Four of his Pokémon are vulnerable to
+Fire
+- and
+Ground-type
+attacks, while his
+Beheeyem
+fears
+Ghost
+- and
+Dark-type
+moves.
+Team Plasma
+Colress
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+10400
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+Eviolite
+Magneton
+Lv.
+50
+Thunder Wave
+Electric
+Status
+--
+Volt Switch
+Electric
+Special
+--
+Tri Attack
+Normal
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Beheeyem
+♂
+Lv.
+50
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Calm Mind
+Psychic
+Status
+--
+Recover
+Normal
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+None
+Metang
+Lv.
+50
+Meteor Mash
+Steel
+Physical
+--
+Agility
+Psychic
+Status
+--
+Rock Slide
+Rock
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnezone
+Lv.
+50
+Flash Cannon
+Steel
+Special
+--
+Discharge
+Electric
+Special
+--
+Thunder Wave
+Electric
+Status
+--
+Explosion
+Normal
+Physical
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+Held item:
+Air Balloon
+Klinklang
+Lv.
+52
+Shift Gear
+Steel
+Status
+--
+Gear Grind
+Steel
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Giga Impact
+Normal
+Physical
+--
+Defeated,
+Colress
+recognizes your strengths. Which method is better,
+Team Plasma
+'s science or the bond between Trainers and Pokémon? He suggests that you find out for yourself by taking the warp panel on the west side of
+Kyurem
+'s prison.
+Ghetsis' Quarters
+Meet
+Ghetsis
+, the man who has been behind
+Team Plasma
+'s schemes from the beginning. He is furious that
+Colress
+lost to you, but his ambitious plans are still in motion. He intends to use
+Kyurem
+to freeze
+Unova
+and force people and Pokémon to submit to his reign. Before exiting the ship, he summons the
+Shadow Triad
+to take care of you. The Shadows only attack when challenged, so you will have a chance to heal your Pokémon between battles.
+Team Plasma
+Shadow
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+5100
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+51
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Future Sight
+Psychic
+Special
+--
+Team Plasma
+Shadow
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+9180
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♂
+Lv.
+51
+Shadow Claw
+Ghost
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Psychic
+Psychic
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Team Plasma
+Shadow
+Plasma Frigate
+Black 2 and White 2
+Reward:
+$
+9180
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Pawniard
+♂
+Lv.
+49
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Hone Claws
+Dark
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Type:
+Bug
+Unknown
+Ability:
+Hydration
+Held item:
+None
+Accelgor
+♂
+Lv.
+51
+Bug Buzz
+Bug
+Special
+--
+Me First
+Normal
+Status
+--
+Swift
+Normal
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Defeated, the
+Shadow Triad
+finally returns the Pokémon that belonged to
+Hugh
+'s sister.
+Purrloin
+has evolved into
+Liepard
+and only listens to the Triad, but Hugh finally got what he wanted. Leave the ship, descend the mountain of ice, and enter the cave to the north.
+Inner Cave
+Proceed to the deepest part of the cave to find
+Ghetsis
+. He proclaims that he will freeze the region from here, where
+Kyurem
+'s power is strongest. He summons the dragon and commands it to attack you with
+Glaciate
+, but something interferes. It's
+N
+, flying in on
+Zekrom
+B2
+or
+Reshiram
+W2
+. His dragon told him that Kyurem is suffering, and he is here to help. But Ghetsis planned on that, and uses the
+DNA Splicers
+to fuse Kyurem with the other dragon, resulting in
+Black Kyurem
+B2
+or
+White Kyurem
+W2
+. Disrupting signals from Ghetsis' cane prevents capture, so there is no choice but to defeat the new dragon, which is vulnerable to
+Dragon
+-,
+Fighting
+-,
+Rock
+-, and
+Steel-type
+attacks.
+Types:
+Dragon
+Ice
+Ability:
+Teravolt
+Held item:
+None
+Kyurem
+Lv.
+55
+Freeze Shock
+Ice
+Physical
+--
+Fusion Bolt
+Electric
+Physical
+--
+Slash
+Normal
+Physical
+--
+DragonBreath
+Dragon
+Special
+--
+Types:
+Dragon
+Ice
+Ability:
+Turboblaze
+Held item:
+None
+Kyurem
+Lv.
+55
+Ice Burn
+Ice
+Special
+--
+Fusion Flare
+Fire
+Special
+--
+Slash
+Normal
+Physical
+--
+DragonBreath
+Dragon
+Special
+--
+The defeated dragon separates back into two, and Kyurem vanishes. Enraged about having his plans suddenly thwarted, Ghetsis aims to take you out himself. His Pokémon have few weaknesses, so switch out as needed to use the most damaging moves possible. Take out
+Cofagrigus
+with
+Ghost
+- or
+Dark-type
+moves, and
+Seismitoad
+with
+Grass-type
+attacks.
+Drapion
+fears only
+Ground-type
+attacks, while
+Toxicroak
+is vulnerable to
+Flying
+and
+Psychic
+moves. Use
+Ice
+- or
+Fighting-type
+attacks to take care of
+Hydreigon
+, which is a greater threat than normal thanks to its
+Life Orb
+.
+Team Plasma
+Ghetsis
+Giant Chasm
+Black 2 and White 2
+Reward:
+$
+9360
+Type:
+Ghost
+Unknown
+Ability:
+Mummy
+Held item:
+Leftovers
+Cofagrigus
+♂
+Lv.
+50
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Protect
+Normal
+Status
+--
+Toxic
+Poison
+Status
+--
+Types:
+Water
+Ground
+Ability:
+Poison Touch
+Held item:
+None
+Seismitoad
+♂
+Lv.
+50
+Muddy Water
+Water
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Drain Punch
+Fighting
+Physical
+--
+Sludge Wave
+Poison
+Special
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Eelektross
+♂
+Lv.
+50
+Flamethrower
+Fire
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Poison
+Dark
+Ability:
+Sniper
+Held item:
+None
+Drapion
+♂
+Lv.
+50
+Night Slash
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Types:
+Poison
+Fighting
+Ability:
+Anticipation
+Held item:
+None
+Toxicroak
+♂
+Lv.
+50
+Brick Break
+Fighting
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Sucker Punch
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Dark
+Dragon
+Ability:
+Levitate
+Held item:
+Life Orb
+Hydreigon
+♂
+Lv.
+52
+Dragon Rush
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Frustration
+Normal
+Physical
+--
+Utterly defeated,
+Ghetsis
+appears to have lost his senses, and the
+Shadow Triad
+takes the old man away. Without a leader,
+Team Plasma
+is left in ruin.
+N
+suggests visiting the
+Pokémon League
+before climbing onto his dragon and flying off.
+Hugh
+enters to make sure that Team Plasma is truly finished, and after a few words of encouragement, informs you that
+Route 23
+can be reached from the west side of the outer cave.
+← Part 13
+Opelucid City, Route 9, Marine Tube, Humilau City, Route 22
+Black 2 and White 2
+walkthrough
+Route 23, Victory Road, Pokémon League
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,65 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 4
+Keywords: Route 3, Mt. Moon, Route 4
+
+### Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! Walkthrough: Part 4
+
+#### Route 3
+- **Overview**: Leads from Pewter City to Route 4. Encounter various Trainers to level up your Pokémon.
+  
+- **Trainers**:
+  - **Lass Janice**: Oddish (Lv. 6) - Reward: $140, 3 Poké Balls.
+  - **Coach Trainer Kareem**: Bulbasaur (Lv. 11) - Reward: $1,100.
+  - **Youngster Calvin**: Spearow (Lv. 6) - Reward: $120, 3 Poké Balls.
+  - **Camper Victor**: Nidoran♂ (Lv. 7) - Reward: $140, 2 Great Balls.
+  - **Picnicker Robin**: Nidoran♀ (Lv. 7) - Reward: $140, 2 Great Balls.
+  
+- **Available Pokémon**: Rattata, Spearow, Ekans, Sandshrew, Mankey (Levels 3-8).
+
+- **Items**:
+  - **Revive (×2)**: Defeat Kareem and in tall grass at the eastern end.
+  - **Poké Balls (×3)**: South of Youngster Calvin.
+  - **Lure**: Behind a bush, northeast of Picnicker Robin.
+
+#### Route 4 (West)
+- **Overview**: Contains a Pokémon Center and the entrance to Mt. Moon.
+
+- **Trainer**:
+  - **Coach Trainer Oberon**: Meowth (Lv. 13) - Reward: $1,300.
+
+- **Available Pokémon**: Spearow, Rattata, Ekans, Sandshrew, Psyduck (Levels 7-12).
+
+- **Items**:
+  - **TM57 (Pay Day)**: Defeat Oberon.
+  - **Escape Rope**: Among rocks west of the Pokémon Center.
+  - **Magikarp**: Buy for $500 from the salesman inside the Pokémon Center.
+
+#### Mt. Moon
+- **Overview**: A cave filled with Trainers and Pokémon like Zubat and Paras.
+
+- **Trainers**:
+  - **1F**: Battle Bug Catcher Kent, Lass Evelyn, and others to earn Poké Balls.
+  - **B2F**: Fight Team Rocket Grunts and Super Nerds for cash and items.
+
+- **Available Pokémon**: Zubat, Geodude, Paras, Clefairy (Levels 5-10).
+
+- **Items**:
+  - **Potion**: Near the entrance.
+  - **Great Ball (×5)**: In the chamber west of the entrance.
+  - **Rare Candy**: B2F.
+  - **Fossils**: Choose between Helix and Dome Fossils after defeating Super Nerd Miguel.
+
+- **Key Events**: Battle Jessie and James (Team Rocket) after acquiring a fossil.
+
+#### Route 4 (East)
+- **Overview**: One-way road to Cerulean City.
+
+- **Available Pokémon**: Spearow, Rattata, Ekans, Sandshrew, Psyduck (Levels 7-12).
+
+- **Items**:
+  - **Paralyze Heal**: South of Mt. Moon exit.
+  - **Poké Balls (×5)**: On the northwest hill.
+  - **Repel**: At the east end.
+  - **PP Up**: Hidden in a bush on the east side.
+
+This concise guide covers essential battles, Pokémon encounters, and item locations as you progress through Route 3, Route 4, and Mt. Moon.

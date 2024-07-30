@@ -1,0 +1,1048 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_6
+Keywords: Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 6
+2
+Vermilion City
+2.1
+Fishing Guru 1
+2.2
+Time for a Trade
+2.3
+Pokémon Fan Club
+3
+Vermilion Harbor
+3.1
+S.S. Anne
+3.1.1
+1F
+3.1.2
+B1F
+3.1.3
+1F
+3.1.4
+2F
+3.1.4.1
+Rival Battle 4
+3.1.4.1.1
+If the player chose Bulbasaur:
+3.1.4.1.2
+If the player chose Charmander:
+3.1.4.1.3
+If the player chose Squirtle:
+4
+Vermilion City
+4.1
+Vermilion Gym
+Route 6
+Route 6
+Route 6
+consists of a road running south from
+Saffron City
+and passing the southern end of the
+Underground Path
+on its way to
+Vermilion City
+.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Reward:
+$
+160
+Weedle
+Lv.
+16
+No item
+Caterpie
+Lv.
+16
+No item
+Weedle
+Lv.
+16
+No item
+Jr. Trainer♂
+Reward:
+$
+400
+Squirtle
+Lv.
+20
+No item
+Jr. Trainer♀
+Reward:
+$
+320
+Rattata
+Lv.
+16
+No item
+Pikachu
+Lv.
+16
+No item
+Bug Catcher
+Reward:
+$
+200
+Butterfree
+Lv.
+20
+No item
+Jr. Trainer♀
+Reward:
+$
+320
+Pidgey
+Lv.
+16
+No item
+Pidgey
+Lv.
+16
+No item
+Pidgey
+Lv.
+16
+No item
+Jr. Trainer♂
+Reward:
+$
+320
+Spearow
+Lv.
+16
+No item
+Raticate
+Lv.
+16
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+B
+Y
+Grass
+13, 15-16
+40%
+Bellsprout
+R
+B
+Y
+Grass
+13, 15-16
+40%
+Pidgey
+R
+B
+Y
+Grass
+13, 15-16
+35%
+Meowth
+R
+B
+Y
+Grass
+10, 12, 14, 16
+25%
+Mankey
+R
+B
+Y
+Grass
+10, 12, 14, 16
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Vermilion City
+Vermilion City
+Vermilion City
+is a popular port city located between
+Route 6
+and
+Route 11
+. Vermilion Harbor sees many ships coming and going, including the
+S.S. Anne
+, which has recently arrived for its yearly visit on its voyage around the world.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Farfetch'd
+R
+B
+Y
+Trade
+Spearow
+The same as the Traded Pokémon
+One
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Old Rod
+Northwest house, from the first Fishing Guru
+R
+B
+Bike Voucher
+West-central building, from the Pokémon Fan Club Chairman
+R
+B
+After clearing the S.S. Anne
+TM24
+(
+Thunderbolt
+)
+From Lt. Surge, after defeating him (requires
+Cut
+)
+R
+B
+Later visit
+Max Ether
+Five steps east, two steps north of the Fan Club entrance, on the house
+(hidden)
+(requires
+Surf
+)
+R
+B
+Fishing Guru 1
+Visit the house in the northwest part of town to meet a Fisherman known as the
+Fishing Guru
+. Convince him that you love fishing as much as he does, and he rewards you with an
+Old Rod
+. This particular model is not the most impressive fishing rod, but it is useful for reeling in
+Magikarp
+.
+Time for a Trade
+Stop by the house in the middle of the city and speak to the girl inside. She is hoping to
+trade
+for a
+Spearow
+, and is willing to part with her
+Farfetch'd
+for one. Spearow are found nearly everywhere, but Farfetch'd is one of a kind.
+Pokémon Fan Club
+The building to the north of the
+Vermilion Gym
+is home to the
+Pokémon Fan Club
+. Speak to the Chairman and listen to his rambling thoughts to receive a
+Bike Voucher
+in appreciation. With this ticket, you can return to the Bike Shop in
+Cerulean City
+at any time and exchange it for a
+Bicycle
+. Riding a bike allows you to travel twice as fast as walking speed.
+Vermilion Harbor
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+S.S. Anne
+S.S. Anne, 1F
+S.S. Anne, B1F
+S.S. Anne, 2F
+S.S. Anne, 3F
+The
+S.S. Anne
+is a popular luxury cruise ship that sails all around the world and visits
+Vermilion City
+once a year. This will not be a relaxing time, however, as there are many Trainers on board.
+Trainers
+1F
+Trainer
+Pokémon
+Gentleman
+Reward:
+$
+1260
+Growlithe
+Lv.
+18
+No item
+Growlithe
+Lv.
+18
+No item
+Gentleman
+Reward:
+$
+1330
+Nidoran♂
+Lv.
+19
+No item
+Nidoran♀
+Lv.
+19
+No item
+Lass
+Reward:
+$
+270
+Pidgey
+Lv.
+18
+No item
+Nidoran♀
+Lv.
+18
+No item
+Youngster
+Reward:
+$
+315
+Nidoran♂
+Lv.
+21
+No item
+B1F
+Trainer
+Pokémon
+Sailor
+Reward:
+$
+630
+Shellder
+Lv.
+21
+No item
+Sailor
+Reward:
+$
+510
+Horsea
+Lv.
+17
+No item
+Shellder
+Lv.
+17
+No item
+Tentacool
+Lv.
+17
+No item
+Sailor
+Reward:
+$
+510
+Horsea
+Lv.
+17
+No item
+Horsea
+Lv.
+17
+No item
+Horsea
+Lv.
+17
+No item
+Sailor
+Reward:
+$
+540
+Tentacool
+Lv.
+18
+No item
+Staryu
+Lv.
+18
+No item
+Fisherman
+Reward:
+$
+595
+Tentacool
+Lv.
+17
+No item
+Staryu
+Lv.
+17
+No item
+Shellder
+Lv.
+17
+No item
+Sailor
+Reward:
+$
+600
+Machop
+Lv.
+20
+No item
+Deck
+Trainer
+Pokémon
+Sailor
+Reward:
+$
+510
+Machop
+Lv.
+17
+No item
+Tentacool
+Lv.
+17
+No item
+Sailor
+Reward:
+$
+540
+Machop
+Lv.
+18
+No item
+Shellder
+Lv.
+18
+No item
+2F
+Trainer
+Pokémon
+Fisherman
+Reward:
+$
+595
+Goldeen
+Lv.
+17
+No item
+Tentacool
+Lv.
+17
+No item
+Goldeen
+Lv.
+17
+No item
+Gentleman
+Reward:
+$
+1610
+Pikachu
+Lv.
+23
+No item
+Gentleman
+Reward:
+$
+1190
+Growlithe
+Lv.
+17
+No item
+Ponyta
+Lv.
+17
+No item
+Lass
+Reward:
+$
+270
+Rattata
+Lv.
+18
+No item
+Pikachu
+Lv.
+18
+No item
+Items
+Item
+Location
+Games
+1F
+TM08
+(
+Body Slam
+)
+Second cabin from the left
+R
+B
+Great Ball
+Kitchen; in the farthest trash can from the doorway
+(hidden)
+R
+B
+2F
+Max Ether
+Second cabin from the left
+R
+B
+Rare Candy
+Fourth cabin from the left
+R
+B
+HM01
+(
+Cut
+)
+Captain's quarters; from the Captain, after helping him calm his nerves
+R
+B
+B1F
+Max Potion
+In the right-most cabin
+R
+B
+Ether
+In the middle cabin
+R
+B
+TM44
+(
+Rest
+)
+Second cabin from the left
+R
+B
+Hyper Potion
+In the left-most cabin, on the bed's pillow
+(hidden)
+R
+B
+1F
+Turn to the right and take the stairs down to the lower floor.
+B1F
+This part of the ship is a dead-end hallway with five cabins. Visit the right-most room for a
+Max Potion
+and the middle room for an
+Ether
+. Pick up
+TM44
+(
+Rest
+) in the fourth room from the stairs, then head back up to the main floor.
+1F
+Follow the hallway around to the front of the ship, and visit the second cabin from the left to get
+TM08
+(
+Body Slam
+). Turn the corner and continue on to reach the kitchen. Inspect the three trash cans for any forgotten items, then leave the kitchen and climb the nearest stairs to reach the upper floor.
+2F
+The nearest doorway leads to the deck of the ship, where two Sailors are looking to battle. Step inside the second cabin from the left to get a
+Max Ether
+, then visit the fourth room to pick up a
+Rare Candy
+. When you approach the captain's quarters at the back of the ship,
+Blue
+is just leaving.
+Rival Battle 4
+He again leads with his
+Pidgeotto
+, so use
+Electric
+and
+Rock
+moves for best results. His
+Rattata
+has evolved into
+Raticate
+, with an increased
+Attack
+stat that allows it to deal even greater damage with
+Hyper Fang
+. Blue's
+Abra
+has evolved as well, and even though
+Psychic
+Pokémon like
+Kadabra
+are only vulnerable to
+Bug-type
+attacks, its low
+Defense
+leaves it exposed to physical moves. His
+first partner Pokémon
+has grown into its second stage as well. It is best to avoid pitting your own against it and use a Pokémon with a type advantage instead.
+If the player chose
+Bulbasaur
+:
+Blue
+S.S. Anne
+Red, Green
+, and
+Blue
+Reward:
+$
+1330
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+19
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Raticate
+Lv.
+16
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Hyper Fang
+Normal
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+18
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Fire
+Unknown
+Charmeleon
+Lv.
+20
+Scratch
+Normal
+--
+Growl
+Normal
+--
+Ember
+Fire
+--
+Leer
+Normal
+--
+If the player chose
+Charmander
+:
+Blue
+S.S. Anne
+Red, Green
+, and
+Blue
+Reward:
+$
+1330
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+19
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Raticate
+Lv.
+16
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Hyper Fang
+Normal
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+18
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Wartortle
+Lv.
+20
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Bubble
+Water
+--
+Water Gun
+Water
+--
+If the player chose
+Squirtle
+:
+Blue
+S.S. Anne
+Red, Green
+, and
+Blue
+Reward:
+$
+1330
+Types:
+Normal
+Flying
+Pidgeotto
+Lv.
+19
+Gust
+Normal
+--
+Sand-Attack
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Raticate
+Lv.
+16
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Hyper Fang
+Normal
+--
+Type:
+Psychic
+Unknown
+Kadabra
+Lv.
+18
+Teleport
+Psychic
+--
+Confusion
+Psychic
+--
+Disable
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Poison
+Ivysaur
+Lv.
+20
+Tackle
+Normal
+--
+Growl
+Normal
+--
+Leech Seed
+Grass
+--
+Vine Whip
+Grass
+--
+Despite his loss, he taunts you again as usual before walking away. Enter the captain's quarters to find him hunched over a trash can; it seems like he got seasick. Speak to him to help him out with a quick backrub and he will be feeling good as new. He gives you
+HM01
+(
+Cut
+) to show his appreciation. This field move lets you chop down certain inconveniently-placed trees to reach new areas.
+Be sure to collect all of the items on board before leaving, as the ship sets sail when you do. Use
+HM01
+to teach
+Cut
+to a compatible Pokémon, then set out for the Vermilion Gym.
+Vermilion City
+Vermilion Gym
+Vermilion Gym
+VERMILION CITY
+POKéMON GYM
+LEADER: LT. SURGE
+The Lightning American!
+The
+Vermilion Gym
+specializes in
+Electric-type
+Pokémon. Not only are
+Ground-type
+Pokémon immune to Electric attacks, but Ground attacks deal serious damage to Electric Pokémon. Keep
+Water
+- and
+Flying-type
+Pokémon on the sidelines for now. The Gym Leader can be found in the back room, beyond a set of electronic doors. Reaching him requires challengers to
+flip two switches
+hidden randomly among the many trash cans. Once the first switch has been found, the second will be in an adjacent can. If the wrong can is inspected and there is no switch inside, the puzzle resets.
+Lt. Surge
+leads with his
+Voltorb
+. Its
+Attack
+stat may be low, but
+Screech
+lowers the target's
+Defense
+so that it can deal an increased amount of damage. His
+Pikachu
+can
+paralyze
+the target with
+Thunder Wave
+, so be sure to bring a
+Parlyz Heal
+or two.
+Raichu
+'s high
+Special
+lets it deal a good bit of damage with
+Thunderbolt
+. Use Ground moves like
+Dig
+for best results.
+Vermilion Gym
+Trainers
+Trainer
+Pokémon
+Sailor
+Reward:
+$
+630
+Pikachu
+Lv.
+21
+No item
+Pikachu
+Lv.
+21
+No item
+Rocker
+Reward:
+$
+500
+Voltorb
+Lv.
+20
+No item
+Magnemite
+Lv.
+20
+No item
+Voltorb
+Lv.
+20
+No item
+Gentleman
+Reward:
+$
+1610
+Pikachu
+Lv.
+23
+No item
+Lt. Surge
+Vermilion Gym
+Red, Green
+, and
+Blue
+Reward:
+$
+2376
+Type:
+Electric
+Unknown
+Voltorb
+Lv.
+21
+Tackle
+Normal
+--
+Screech
+Normal
+--
+SonicBoom
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Electric
+Unknown
+Pikachu
+Lv.
+18
+ThunderShock
+Electric
+--
+Growl
+Normal
+--
+Thunder Wave
+Electric
+--
+Quick Attack
+Normal
+--
+Type:
+Electric
+Unknown
+Raichu
+Lv.
+24
+ThunderShock
+Electric
+--
+Growl
+Normal
+--
+Thunderbolt
+Electric
+--
+Struggle
+Normal
+--
+After the battle,
+Lt. Surge
+awards you the
+Thunder Badge
+, which gives your Pokémon a slight
+Defense
+boost during battle and enables the use of
+Fly
+in the field. He also gives you
+TM24
+(
+Thunderbolt
+) as a prize.
+The next destination is
+Route 11
+to the east.
+← Part 5
+Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+Red and Blue
+walkthrough
+Route 11, Route 2, Pewter City, Cerulean City, Route 9, Route 10
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

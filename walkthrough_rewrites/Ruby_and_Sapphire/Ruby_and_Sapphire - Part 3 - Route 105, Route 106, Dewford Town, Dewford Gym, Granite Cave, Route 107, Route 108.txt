@@ -1,0 +1,49 @@
+Game: Ruby_and_Sapphire
+Part: 3
+Keywords: Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108
+
+### Pokémon Ruby and Sapphire Walkthrough: Part 3
+
+#### Routes 105 and 106
+- **Route 105**: Quick visit; return after earning your 5th Badge for better exploration. Encounter trainers such as Swimmer Dawn (Marill, Lv. 27) and Ruin Maniac Foster (Sandshrew, Lv. 26).
+- **Route 106**: Similar quick visit; trainers include Fisherman Ned (Tentacool, Lv. 12) and Swimmer Douglas (Tentacool, Lv. 26).
+
+**Available Pokémon**:
+- **Route 105**: Tentacool (Surf), Wingull (Surf), Magikarp (Old Rod).
+- **Route 106**: Tentacool (Surf), Wingull (Surf), Magikarp (Old Rod).
+
+**Items**:
+- **Route 105**: Heart Scale, Iron.
+- **Route 106**: Heart Scale, Stardust, Poké Ball, Protein.
+
+#### Dewford Town
+- **Items**: Silk Scarf (Ace Trainer at the pier), Old Rod (Fisherman east of Gym).
+- **Dewford Gym**: Leader Brawly specializes in Fighting-types. Use Flying and Psychic moves (recommendations: Taillow, Wingull, Ralts).
+
+**Brawly's Pokémon**:
+- Machop (Lv. 17), Makuhita (Lv. 18). Both have the Guts ability.
+
+**Defeating Brawly**: 
+- Earn the Knuckle Badge and TM08 (Bulk Up).
+
+#### Granite Cave
+- **Access**: Get HM05 (Flash) from a Hiker near the entrance.
+- **Exploration**: Use Flash to navigate B1F and B2F; find items like TM47 (Steel Wing) and Rare Candy.
+
+**Available Pokémon**:
+- **1F**: Makuhita, Zubat, Abra.
+- **B1F**: Aron, Mawile, Sableye.
+
+**Items**:
+- **1F**: Escape Rope, TM47.
+- **B2F**: Everstone (x2), Repel, Rare Candy.
+
+#### Routes 107 and 108
+- **Route 107**: Quick visit; trainers include Swimmer Beth (Marill, Lv. 25).
+- **Route 108**: Features the Abandoned Ship; trainers include Swimmer Jerome (Tentacool, Lv. 26).
+
+**Items**:
+- **Route 108**: Rare Candy (hidden on an island southeast of the Abandoned Ship).
+
+### Next Steps
+- After completing Dewford Gym and Granite Cave, talk to Mr. Briney to sail to Slateport City for your next objectives.

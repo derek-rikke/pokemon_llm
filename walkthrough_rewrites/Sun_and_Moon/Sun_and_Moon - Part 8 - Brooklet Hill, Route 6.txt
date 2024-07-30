@@ -1,0 +1,61 @@
+Game: Sun_and_Moon
+Part: 8
+Keywords: Brooklet Hill, Route 6
+
+## Part 8 Walkthrough Summary
+
+### Route 5 (South)
+- **Overview**: Connects Paniola Ranch and Brooklet Hill.
+- **Key Trainers**:
+  - **Twins Isa and Nico**: $360
+  - **Pokémon Breeder Yuka**: $640
+  - **Rising Star Duo Lauren and Justin**: $1,632
+  - **Trial Guide Bronson**: $1,056, rewards with **Psychium Z**.
+  
+- **Items**:
+  - **Super Potion**: Southeast, by a rock.
+  - **Star Piece**: Hidden in rocky crescent path.
+  - **TM41 (Torment)**: Near the rocky ledge.
+  - **Revive x3**: From Hau after defeating Gladion.
+  - **TM57 (Charge Beam)**: At a dead-end path south of the Pokémon Center.
+  
+- **Encounter**: Meet **Gladion** who battles you. Afterward, Hau gives you Revives.
+
+### Brooklet Hill
+- **Overview**: Known for fishing; meet **Captain Lana**.
+- **Key Trainers**:
+  - **Fisherman Hal**: $544 (requires Lapras Paddle or Sharpedo Jet).
+  - **Backpacker Mikiko**: $408.
+  
+- **Items**:
+  - **Net Ball**: Southwest by the first lake.
+  - **X Sp. Atk**: North side of the second lake.
+  - **TM55 (Scald)**: Southeast side of the third lake.
+  - **Waterium Z**: Reward after clearing the trial.
+  
+- **Trial Instructions**:
+  1. Help Lana investigate disturbances in the water.
+  2. Use **Lapras Paddle** to surf and collect items.
+  3. Battle **Totem Wishiwashi** (Water-type) and its allies.
+  
+- **Battle Strategy**:
+  - Use Grass and Electric-type moves.
+  - Chip away Wishiwashi's health to avoid healing from Alomomola.
+
+### Route 5 (South) - Return
+- **Post-Trial**: Use **Waterium Z** to scare away the Sudowoodo blocking the path to Paniola Ranch. Receive **Mystic Water** from a nearby boy.
+
+### Route 6
+- **Overview**: Links Paniola Ranch with Heahea City.
+- **Key Trainers**:
+  - **Youngster Anthony**: $320.
+  - **Team Skull Grunt**: $544.
+  
+- **Items**:
+  - **Super Potion**: North end, west side.
+  - **Rare Candy**: Between cracked rocks (requires Tauros Charge).
+  
+- **Battle Encounter**: Assist **Hapu** against Team Skull Grunts.
+
+### Next Steps
+- After battling the Team Skull Grunts, proceed to the **Battle Royal Dome** before heading south to Heahea City.

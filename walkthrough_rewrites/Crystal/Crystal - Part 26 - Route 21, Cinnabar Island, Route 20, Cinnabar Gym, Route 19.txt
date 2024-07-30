@@ -1,0 +1,51 @@
+Game: Crystal
+Part: 26
+Keywords: Route 21, Cinnabar Island, Route 20, Cinnabar Gym, Route 19
+
+### Part 26 Walkthrough
+
+#### Route 21
+- **Location**: Connects Pallet Town to Cinnabar Island.
+- **Trainers**: 
+  - Swimmer Nikki: 3x Seel (Lv. 28), Dewgong (Lv. 28).
+  - Fisher Arnold: Tentacruel (Lv. 34).
+  - Swimmer Seth: Quagsire (Lv. 29, 32), Octillery (Lv. 29).
+- **Pokémon Available**: 
+  - Surfing: Tentacool (Lv. 30-39), Tentacruel (Lv. 35-39).
+  - Fishing (Old Rod): Magikarp (Lv. 10), Tentacool (Lv. 10).
+  - Fishing (Good Rod): Chinchou (Lv. 20), Shellder (Lv. 20).
+  - Fishing (Super Rod): Lanturn (Lv. 40), Kingler (Lv. 40).
+
+#### Cinnabar Island
+- **Overview**: Island with a Pokémon Center; Cinnabar Gym relocated to Seafoam Islands.
+- **Item**: Rare Candy (hidden on the north side).
+- **Nature's Madness**: Destruction from the volcanic eruption; only the Pokémon Center is rebuilt.
+- **Final Gym Leader**: Blue, located at Viridian Gym after speaking to him.
+
+#### Route 20
+- **Location**: East of Route 20 leads to Route 19.
+- **Trainers**: 
+  - Swimmer Cameron: Marill (Lv. 34).
+  - Swimmer Lori: 2x Starmie (Lv. 32).
+  - Swimmer Nicole: 2x Marill (Lv. 29), Lapras (Lv. 32).
+  
+#### Seafoam Islands
+- **Overview**: Houses the relocated Cinnabar Gym.
+  
+#### Cinnabar Gym
+- **Leader**: Blaine.
+- **Pokémon**: 
+  - Magcargo (Lv. 45): Use special moves, especially Water-type.
+  - Magmar (Lv. 45): ThunderPunch (Electric) for Water-type counter.
+  - Rapidash (Lv. 50): High Speed; be cautious of Fire Blast.
+- **Reward**: Volcano Badge ($5000).
+
+#### Route 19
+- **Location**: North from Route 20 to Fuchsia City.
+- **Trainers**: 
+  - Swimmer Harold: Remoraid (Lv. 32), Seadra (Lv. 30).
+  - Swimmer Tucker: Shellder (Lv. 30), Cloyster (Lv. 34).
+  - Swimmer Dawn: Seaking (Lv. 34).
+  
+#### Cleanup Complete
+- **Note**: Volcanic debris cleared, allowing free movement between Fuchsia City and Route 19.

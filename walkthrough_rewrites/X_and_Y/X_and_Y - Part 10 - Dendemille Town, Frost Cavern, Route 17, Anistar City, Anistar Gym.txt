@@ -1,0 +1,49 @@
+Game: X_and_Y
+Part: 10
+Keywords: Dendemille Town, Frost Cavern, Route 17, Anistar City, Anistar Gym
+
+## Part 10 Walkthrough: Dendemille Town to Anistar City
+
+### Dendemille Town
+- **Key NPCs**: Sycamore (talk for Legend info), Madam Reminder (move recall), Move Deleter (move forget).
+- **Items**:
+  - Sitrus Berry: Pokémon Center
+  - Moomoo Milk: Hex Maniac outside Center ($500)
+  - Heal Ball: Hidden bush southwest of Center
+  - Big Root: South side of crop field
+  - Nugget: Hidden in the crop field
+  - Shell Bell: 70+ Pokémon in Mountain Pokédex (Monsieur in northeast house)
+  - Big Nugget: Show Super Size Gourgeist to Preschooler in northwest house
+  - TM42 (Facade): Southwest house (Youngster)
+  
+### Frost Cavern
+- **Location**: North of Dendemille Town; explore to uncover clues.
+- **Trainers**: 
+  - Hiker Ross, Sky Trainer Celso, Ace Trainers Cordelia and Neil, etc.
+- **Available Pokémon**: Jynx, Piloswine, Beartic, Cryogonal, etc.
+- **Items**: 
+  - Hidden Ice Heal, Dusk Ball, Hyper Potion, TM71 (Stone Edge), etc.
+- **Objective**: Defeat Team Flare Grunts and Mable to rescue Abomasnow; receive Abomasite.
+
+### Route 17
+- **Overview**: Connects Dendemille Town and Anistar City; navigate using Mamoswine.
+- **Trainers**: Sky Trainer Anila.
+- **Items**: Timer Ball, Icicle Plate, Calcium, Rare Candy.
+
+### Anistar City
+- **Key NPCs**: Sina (gives ten Repeat Balls), Memory Girl (recalls Pokémon memories).
+- **Items**: TM10 (Hidden Power), Super Repel, Escape Rope.
+- **Legend Lore**: Talk to Monsieur for stories about Xerneas and Yveltal.
+- **Rival Battle**: Fight Serena/Calem with a level 44 team including Meowstic and Absol.
+
+### Anistar Gym
+- **Gym Type**: Psychic.
+- **Battle Tips**: Use Bug, Ghost, Dark types; avoid Fighting and Poison.
+- **Gym Leader**: Olympia (uses Sigilyph, Slowking, Meowstic).
+- **Rewards**: Psychic Badge (ensures obedience up to level 90), TM04 (Calm Mind).
+
+### Holo Clip
+- After defeating Olympia, receive a Holo Clip from Lysandre, revealing his intentions with Team Flare and the ultimate weapon.
+
+--- 
+This walkthrough provides concise information to progress through Dendemille Town, Frost Cavern, Route 17, and Anistar City effectively, while highlighting key encounters and items.

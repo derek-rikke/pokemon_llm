@@ -1,0 +1,54 @@
+Game: Diamond_and_Pearl
+Part: 21
+Keywords: Sunyshore Gym, Route 223, Pokémon League (Victory Road Entrance)
+
+## Part 21: Sunyshore Gym, Route 223, Pokémon League (Victory Road Entrance)
+
+### Sunyshore Gym
+- **Preparation**: Heal your Pokémon. Recommended level: 45+.
+- **Type**: Electric. Best counters: Ground-types (immune to Electric) and Grass-types.
+- **Strategy**: Bring Pokémon with diverse move types (Dark, Bug, Ghost, Fighting, Flying, Fire, Water, Electric, Grass) to handle various opponents.
+
+**Gym Layout**:
+1. **First Room**: Step on the right green switch, then the left green switch.
+2. **Second Room**: Step on the blue switch three times, go upstairs, step blue, green, up again.
+3. **Third Room**: Step on the right red switch, left red switch, go left, green twice, blue, then right down to reach Volkner.
+
+**Volkner's Team**:
+- **Raichu** (Lv. 46): Use Ground-type moves.
+- **Ambipom** (Lv. 47): Use Fighting moves.
+- **Octillery** (Lv. 47): Weak to Electric and Grass.
+- **Luxray** (Lv. 49): Watch for Thunder Fang and Crunch; use strong Electric or Ground moves.
+
+**Rewards**: Beacon Badge and TM57 (Charge Beam). You can now use HM07 (Waterfall).
+
+### Sunyshore City
+- **Post-Gym**: Heal at the Pokémon Center, then speak to Jasmine at the beach for HM07 (Waterfall). You need HM03 (Surf) to use it.
+
+### Now that you can use Waterfall...
+- **Access Previous Areas**: You can now reach items blocked by waterfalls.
+
+**Item Locations**:
+- **Route 208**: Carbos (near Black Belt Kyle).
+- **Route 210**: 
+  - Meadow Plate (eastern waterfall).
+  - Wave Incense (western waterfall, after climbing).
+- **Mt. Coronet (4F)**: Stone Plate (inside cave at the waterfall). 
+
+### Route 223
+- **Preparation**: Bring Pokémon with Surf and Waterfall. Use Amulet Coin for extra prize money.
+- **Items**: 
+  - Big Pearl (northeast of Swimmer Aubree).
+  - TM18 (Rain Dance, west side).
+  - Pearl (north of Sailor Zachariah).
+- **Wild Pokémon**: Tentacruel, Pelipper, Mantyke (requires Remoraid to evolve).
+- **Trainers**: Focus on leveling up Electric and Grass-types.
+
+**Path**: Surf north, fight Trainers, collect items, and head to the big waterfall at the end.
+
+### Pokémon League (Victory Road Entrance)
+- **Preparation**: Heal at the Pokémon Center before entering Victory Road. Stock up on items as needed. 
+
+**Note**: You cannot challenge the Elite Four yet; prepare for tough battles ahead in Victory Road. 
+
+**Next Steps**: Begin your journey through Sinnoh's Victory Road.

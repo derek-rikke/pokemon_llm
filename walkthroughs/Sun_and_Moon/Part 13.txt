@@ -1,0 +1,166 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_13
+Keywords: Docks, Conservation Area
+
+Walkthrough Text:
+Contents
+1
+Aether Paradise
+1.1
+B1F: Docks
+1.2
+1F: Entrance
+1.3
+2F: Conservation area
+1.4
+B1F: Docks
+Aether Paradise
+Aether Paradise
+Aether Paradise
+Aether Paradise
+is a very large floating structure located in the middle of the
+Alola
+region. An artificial island, it was created by the
+Aether Foundation
+to serve as a base for their research on Pokémon conservation. To protect the wild Pokémon being treated here, the facility employs a jamming signal that prevents the use of empty Poké Balls in the vicinity.
+Items
+Item
+Location
+Games
+TM29
+(
+Psychic
+)
+B1F; from Wicke, after the Ultra Beast encounter
+S
+M
+Rare Candy
+B1F; near the wall, north of the elevator
+S
+M
+Stick
+1F; from a Aether Foundation Employee, northeast of the elevator
+S
+M
+After clearing Nanu's grand trial
+X Sp. Atk
+B1F; southwest of the ferry
+S
+M
+TM06
+(
+Toxic
+)
+B1F; southwest corner
+S
+M
+Max Revive
+B2F; from Hau, after entering the area
+S
+M
+After becoming Champion
+All
+Memory
+Drives
+2F; from Gladion, north of the elevator
+S
+M
+Dubious Disc
+1F; from Faba, near the north exit
+S
+M
+B1F: Docks
+Upon arrival,
+Faba
+explains the purpose of the facility. A short time later, a woman steps off of the elevator and Faba leaves for a meeting with the president, with the remainder of the tour falling to her. She welcomes you and
+Hau
+to the facility and introduces herself as
+Wicke
+, then the three take the elevator up to the entrance level.
+1F: Entrance
+The entrance level has two service counters, one of which has a PC and an Aether Foundation Employee who can restore Pokémon to full health. This floor provides access to the exterior parts of the facility. After a brief discussion with Hau, Wicke continues the tour with the conservation area.
+2F: Conservation area
+Wicke informs you that the Aether president should be somewhere in the conservation area. Take the southwest path from the elevator, then head north along the western side of 2F. Turn right at the northwest corner and continue on to a clearing to find the president. She welcomes you and
+Hau
+to the island, and introduces herself as
+Lusamine
+. After a short conversation, the entire facility shudders. Suddenly, a wormhole appears nearby and an
+unidentified, jellyfish-like creature
+emerges. Interact with it to begin the battle. The creature seems to function much like a
+Totem Pokémon
+, receiving an aura-induced Defense boost at the outset. Its elemental attributes seem to be
+Rock
+/
+Poison
+, so
+Ground
+,
+Water
+,
+Psychic
+and
+Steel
+moves will be most effective.
+Types:
+Rock
+Poison
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+27
+Venoshock
+Poison
+Special
+--
+Psywave
+Psychic
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, the creature flickers in and out of view before disappearing entirely.
+Lusamine
+identifies the creature as an
+Ultra Beast
+, claiming that it seemed to be in pain after having stumbled through the
+Ultra Wormhole
+from its own dimension. She vows, rather fanatically, to save the beast and love it in order to deliver it from its pain. She thanks the Trainers for their help, and asks
+Wicke
+to see them to the next island while she checks on the other resident Pokémon. The president intends to meet with
+Faba
+and prepare the foundation for their newest and greatest duty: the protection of the
+Ultra Beasts
+...
+B1F: Docks
+Wicke
+gives you each a parting gift: some Big Malasadas for
+Hau
+, and
+TM29
+(
+Psychic
+) for you. She wishes you well on your island challenge, and the ship departs for
+Ula'ula Island
+.
+← Part 12
+Memorial Hill, Ruins of Life, Akala Grand Trial, Hano Grand Resort, Hano Beach
+Sun and Moon
+walkthrough
+Malie City, Malie Garden, Outer Cape
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,909 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_11
+Keywords: Dimensional Research Lab, Diglett's Tunnel, Route 9, Konikoni City
+
+Walkthrough Text:
+Contents
+1
+Heahea City
+1.1
+Dimensional Research Lab
+1.1.1
+3F
+2
+Diglett's Tunnel
+3
+Route 9
+4
+Konikoni City
+4.1
+Salon
+4.2
+Apparel shop
+4.2.1
+Male fashion items
+4.2.2
+Female fashion items
+4.3
+Herbalist shop
+4.4
+Incense stall
+4.5
+Pokémon groomer
+4.6
+Technical Machine stall
+4.7
+Friendship rater
+4.8
+Restaurant
+4.9
+Olivia's jewelry shop
+4.9.1
+1F
+4.9.2
+2F
+4.10
+Move Tutor
+Heahea City
+Dimensional Research Lab
+3F
+On the third floor,
+Kukui
+introduces you to his wife,
+Professor Burnet
+. Burnet runs the laboratory, which monitors spacetime in the
+Alola
+region. She reveals that, three months ago, she found Lillie and Nebby unconscious on a beach. She goes on to explain the
+Ultra Wormhole
+phenomenon, where dimensional rifts sometimes split open in the skies over Alola. Legends of fearsome Pokémon appearing from these wormholes have led people to believe in the existence of a mysterious alternate dimension. These
+Ultra Beasts
+were feared, and stories claim that the
+guardian deities
+fought desperately against them. Burnet hopes to study dimensional disturbances in order to unravel the mystery of these Ultra Wormholes.
+Speak to Lillie, and she explains that she was headed to meet with Burnet to learn more about Nebby when she got lost and collapsed on the shore. Burnet has been helping Lillie research Nebby's origin so that it can make its way home. Head to the elevator, where Kukui reminds you about challenging Kahuna
+Olivia
+. Burnet informs you that Olivia's house is located in
+Konikoni City
+, which is past
+Diglett's Tunnel
+to the south.
+Exit the lab, and you notice something overhead. Something that looks like a crack in the sky comes into view before quickly fading away.
+Hau
+appears and directs you toward Diglett's Tunnel as well, before heading off for more malasada.
+Diglett's Tunnel
+Diglett's Tunnel
+Diglett's Tunnel
+connects
+Heahea City
+in the north to
+Route 9
+in the south. One branch leads to an isolated area of
+Konikoni City
+. Wild
+Dugtrio
+can sometimes be seen moving through the area.
+Trainers
+Trainer
+Pokémon
+Worker
+Frank
+Reward:
+$
+880
+Diglett
+♂
+Alolan form
+Lv.
+22
+No item
+Worker
+Jeff
+Reward:
+$
+880
+Roggenrola
+♂
+Lv.
+21
+No item
+Mudbray
+♂
+Lv.
+22
+No item
+Worker
+Vaclav
+Reward:
+$
+880
+Machop
+♂
+Lv.
+22
+No item
+Team Skull Grunt
+Reward:
+$
+704
+Double Battle
+with the following Grunt
+Fomantis
+♀
+Lv.
+22
+No item
+Team Skull Grunt
+Reward:
+$
+704
+Double Battle
+with the previous Grunt
+Salandit
+♂
+Lv.
+22
+No item
+After defeating all other regular Trainers in the tunnel
+Black Belt
+Greg
+Reward:
+$
+736
+Hariyama
+♂
+Lv.
+23
+Fightinium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+19-22
+70%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+19-22
+30%
+Ambush encounters
+Diglett
+Alolan Form
+Diglett
+S
+M
+Dirt cloud
+19-22
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dusk Ball
+Southeast of the Heahea-side entrance, near Worker Frank
+S
+M
+Escape Rope
+Between two rocks next to Black Belt Greg in the west branch
+(hidden)
+S
+M
+X Attack
+Between two rocks, opposite the stairway in the west branch
+(hidden)
+S
+M
+Fire Stone
+West branch; dead-end path to the north of the stairway (requires Tauros Charge)
+S
+M
+Hyper Potion
+Southeast of the stairway, next to a wheelbarrow
+S
+M
+Nugget
+Next to a box and wheelbarrow, north of the exit
+(hidden)
+S
+M
+Zygarde Cell
+North of the Route 9 exit, in a corner near the box and wheelbarrow
+S
+M
+Max Ether
+From Hau, after defeating the two Team Skull Grunts
+S
+M
+Max Revive
+From Black Belt Greg, after defeating all other Trainers
+S
+M
+Upon entering the tunnel, you see
+Olivia
+speaking with a couple of
+Aether Foundation Employees
+. Increased activity by the local
+Diglett
+population had been making it difficult for travelers to reach
+Konikoni City
+, but they have since settled down. Realizing that she is your next opponent, Olivia invites you to meet her at her shop in Konikoni.
+Take the path to the east to battle Worker Frank and collect a
+Dusk Ball
+. Turn around and go west, past Black Belt Greg. Use Stoutland to find two hidden items, an
+Escape Rope
+and an
+X Attack
+. Switch to Tauros and clear the rocks near the stairway to reach a
+Fire Stone
+. Climb the two stairways to speak with the two Aether Foundation Employees, who reveal that
+Team Skull
+was the reason behind the agitated
+Diglett
+. Follow the path around the bend for a
+Hyper Potion
+. Take the narrow path to the south to find a large boulder blocking a westward tunnel. Battle Worker Jeff and jump the ledge, then continue on to fight Worker Vaclav. A pair of Team Skull Grunts blocks the exit, but
+Hau
+appears just in time for a
+Multi Battle
+. Defeat them and they run off, and Hau gives you a
+Max Ether
+.
+Route 9
+Route 9
+Route 9
+is a short route that connects
+Diglett's Tunnel
+with
+Memorial Hill
+to the east and
+Konikoni City
+to the west. A small bit of coastline gives travelers the opportunity to fish before heading into town.
+Trainers
+Trainer
+Pokémon
+Police Officer
+Haruki
+Reward:
+$
+960
+Growlithe
+♂
+Lv.
+24
+No item
+Fisherman
+Mike
+Reward:
+$
+736
+Chinchou
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fishing
+Luvdisc
+Luvdisc
+S
+M
+Fishing
+10-23
+70%
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-23
+15%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-23
+10%
+Corsola
+Corsola
+Mareanie
+S
+M
+Fishing
+10-23
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Net Ball
+On the coast, east of Fisherman Mike
+S
+M
+X Accuracy
+On the coast, near a rock northeast of Fisherman Mike
+(hidden)
+S
+M
+Later visit
+Focus Band
+Police Station; from
+Snubbull
+'s partner Officer after speaking to Snubbull, after clearing Olivia's grand trial
+S
+M
+Konikoni City
+Konikoni City
+Konikoni City
+, the city of merchants, features an open-air market with a variety of shops. A salon and an apparel shop are located near the Pokémon Center on the northeast side of the city. The southwest side of the street holds an incense stall, a
+Technical Machine
+stall, a restaurant, and
+Olivia
+'s jewelry shop.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Poliwhirl
+N/A
+S
+M
+Trade
+Zubat
+22
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+$
+5,000
+Pokémon Center; from an Aether Foundation Employee, after registering
+Passimian
+S
+/
+Oranguru
+M
+in the Pokédex
+S
+M
+Max Potion
+From Olivia's
+Probopass
+, after entering her store
+S
+M
+Zygarde Core
+In front of the refrigerator in Olivia's room
+S
+M
+Pikanium Z
+From a woman at Lighthouse Point in the north of the city
+S
+M
+Eviolite
+Behind a bench at Lighthouse Point
+S
+M
+Zygarde Cell
+Next to the three
+Pikachu
+at Lighthouse Point
+Night
+S
+M
+Muscle Band
+From Lana after defeating her, after clearing Olivia's grand trial
+S
+M
+Later visit
+Big Pearl
+On the hill near the Trainer Tips sign, accessed via Diglett's Tunnel (requires Machamp Shove)
+S
+M
+TM61
+(
+Will-O-Wisp
+)
+Next to the lighthouse, accessed via Diglett's Tunnel (requires Machamp Shove)
+S
+M
+Whipped Dream
+From a Punk Girl in the restaurant, after becoming Champion
+S
+M
+Sachet
+From a Punk Girl in the restaurant, after becoming Champion
+S
+M
+Dragon Fang
+From a Cook on the restaurant's second floor, after becoming Champion
+S
+M
+Salon
+The salon near the city entrance offers the usual cut and color services to travelers in need of a fresh haircut.
+Apparel shop
+The apparel shop stands between the salon and the Pokémon Center. It offers tops, bottoms, shoes, bags, and hats, as well as socks for female customers.
+Male fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Athletic Tank
+Beige
+Pink
+Green
+$
+4,000
+Top
+Sandygast Tank
+Custom
+$
+2,900
+Top
+Luvdisc Tank
+Custom
+$
+2,900
+Top
+Leppa Tee
+Custom
+$
+4,980
+Top
+Necktie Tee
+Custom
+$
+4,980
+Top
+Chatot Tee
+Custom
+$
+4,980
+Top
+Cherrim Tee
+Custom
+$
+4,980
+Top
+Argyle Tee
+Custom
+$
+4,980
+Top
+Sporty Tank
+Legendary, Seed
+Poison Bee
+$
+6,280
+Bottom
+Athletic Long Shorts
+Beige
+Pink
+Green
+$
+3,400
+Bottom
+Sporty Long Shorts
+Legendary, Seed
+Poison Bee
+$
+3,980
+Shoes
+Low-Top Sneakers
+White
+Black
+$
+4,980
+Shoes
+Sporty Sneakers
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,150
+Bag
+Scout Pack
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+6,500
+Hat
+Athletic Cap
+Beige
+Pink
+Green
+$
+3,200
+Hat
+Sports Cap
+Legendary, Seed
+Poison Bee
+$
+3,580
+Female fashion items
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Striped V-Neck Tee
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+980
+Top
+Ruffled Tank
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+3,580
+Top
+Ruffled Blouse
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+4,980
+Top
+Striped Ruffled Blouse
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+4,980
+Top
+Athletic Tank
+Beige
+Pink
+Green
+$
+4,000
+Top
+Sporty Tank
+Legendary, Seed
+Poison Bee
+$
+6,280
+Bottom
+Capri Pants
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+1,120
+Bottom
+Pleated Miniskirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,600
+Bottom
+Bordered Flared Skirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+6,800
+Bottom
+Athletic Shorts
+Beige
+Pink
+Green
+$
+3,400
+Bottom
+Sporty Shorts
+Legendary, Seed
+Poison Bee
+$
+3,980
+Socks
+Knee Socks
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+420
+Socks
+Sporty Knee Socks
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+980
+Shoes
+Low-Heeled Sandals
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+34,200
+Shoes
+Espadrilles
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,500
+Shoes
+Low-Top Sneakers
+White
+Black
+$
+4,980
+Shoes
+Sporty Sneakers
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,150
+Bag
+Messenger Bag
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+3,520
+Bag
+Ruffled Shoulder Bag
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+8,800
+Hat
+Athletic Cap
+Beige
+Pink
+Green
+$
+3,200
+Hat
+Sports Cap
+Legendary, Seed
+Poison Bee
+$
+3,580
+Herbalist shop
+A Hiker standing outside the apparel shop sells
+herbal medicine
+.
+Heal Powder
+$
+300
+Energy Powder
+$
+500
+Energy Root
+$
+1,200
+Revival Herb
+$
+2,800
+Incense stall
+A Lass to the left of the city entrance sells various
+incenses
+.
+Incenses
+Sea Incense
+$
+2,000
+Lax Incense
+$
+5,000
+Rose Incense
+$
+2,000
+Pure Incense
+$
+6,000
+Rock Incense
+$
+2,000
+Odd Incense
+$
+2,000
+Luck Incense
+$
+11,000
+Full Incense
+$
+5,000
+Wave Incense
+$
+2,000
+Pokémon groomer
+A Dancer next to the Lass selling
+incense
+will offer to
+massage
+the lead Pokémon of a Trainer's party, which increases its
+friendship
+. The service is free, but may only be done once per day.
+Technical Machine stall
+A man in a stall across from the apparel shop sells various TMs.
+Technical Machines
+TM08
+(
+Bulk Up
+)
+$
+10,000
+TM09
+(
+Venoshock
+)
+$
+10,000
+TM32
+(
+Double Team
+)
+$
+10,000
+TM47
+(
+Low Sweep
+)
+$
+10,000
+TM65
+(
+Shadow Claw
+)
+$
+10,000
+TM82
+(
+Dragon Tail
+)
+$
+10,000
+Friendship rater
+A female Veteran standing near the TM stall can evaluate the
+friendship
+of any Pokémon in a Trainer's party.
+Restaurant
+The
+Restaurant
+is operated by
+Mallow
+'s family. Z-set meals can be purchased here for
+$
+1,040. After each meal, the customer receives two complimentary
+Heart Scales
+.
+Olivia's jewelry shop
+1F
+Olivia
+'s jewelry shop is located across the street from the Pokémon Center. When you enter, Olivia's
+Probopass
+gives you a letter from its Trainer. There has been a change of plans, and rather than meet here, she asks that you meet her at the
+Ruins of Life
+instead. The ruins lie to the east of
+Konikoni
+, past
+Memorial Hill
+. After you read the letter, Probopass goes upstairs for a moment before returning with a
+Max Potion
+for you.
+The young woman at the front counter sells
+evolution stones
+. A second older woman sells one of each
+Fossil
+per customer. Fossils can be revitalized at the Fossil Restoration Center on
+Route 8
+.
+A third woman sells
+hair accessories
+to female Trainers.
+Evolution stones
+Fire Stone
+$
+3,000
+Thunder Stone
+$
+3,000
+Water Stone
+$
+3,000
+Leaf Stone
+$
+3,000
+Fossils
+Skull Fossil
+S
+$
+7,000
+Cover Fossil
+S
+$
+7,000
+Plume Fossil
+M
+$
+7,000
+Armor Fossil
+M
+$
+7,000
+2F
+Olivia's room is on the second floor. Collect the red
+Zygarde Core
+to receive a call from
+Sina
+. She explains that each Core retains one of
+Zygarde
+'s moves, and work together with Cells to form the legendary Pokémon. When Zygarde is reconstituted, this particular Core lets it remember the move
+Dragon Dance
+.
+Move Tutor
+A woman and her three
+Pikachu
+can be found on the north side of the city at Lighthouse Point. Speak to her to receive a new Z-Crystal,
+Pikanium Z
+. Afterwards, she can teach
+Volt Tackle
+to any Pikachu. When used by a Pikachu holding Pikanium Z, Volt Tackle upgrades into the Z-Move,
+Catastropika
+.
+← Part 10
+Route 8, Lush Jungle, Route 5 (North)
+Sun and Moon
+walkthrough
+Memorial Hill, Ruins of Life, Akala Grand Trial, Hano Grand Resort, Hano Beach
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,55 @@
+Game: Sun_and_Moon
+Part: 10
+Keywords: Lush Jungle, Route 5 (North)
+
+### Part 10 Walkthrough: Route 8, Lush Jungle, Route 5 (North)
+
+#### Route 8 Overview
+- **Location**: Connects Route 7 to Route 5 (North).
+- **Trainers**:
+  - **Kiana** (Eevee, Lv. 20) - Reward: $480
+  - **Mikey** (Bounsweet, Lv. 20; Trumbeak, Lv. 21) - Reward: $1,008
+  - **Nicki** (Miltank, Lv. 21) - Reward: $1,008
+  - **Tyrone** (Archen, Lv. 20; Shieldon, Lv. 20) - Reward: $960
+  - **Alan** (Rockruff, Lv. 20) - Reward: $1,200
+  - **Maile** (Alolan Meowth, Lv. 20) - Reward: $1,200
+  - **Eileen** (Ace Trainer, Wingull, Lv. 21; Fearow, Lv. 22) - Reward: $1,496
+
+- **Items**:
+  - **Max Repel**: Near Route 7 entrance
+  - **TM43 (Flame Charge)**: Given by Colress
+  - **Thunder Stone**: Behind Fossil Restoration Center
+  - **Diving and Fishing**: Requires Lapras Paddle or Sharpedo Jet for some items.
+
+#### Fossil Restoration Center
+- Located northeast of the Pokémon Center. Bring fossils to revive ancient Pokémon.
+
+#### Lush Jungle (Trial 4)
+- **Objective**: Help Captain Mallow find ingredients for her trial.
+- **Ingredients**: Mago Berry, Tiny Mushroom, Revival Herb, Miracle Seed.
+- **Wild Pokémon**: Not available until trial completion.
+
+1. **Central Area**: Collect **Tiny Mushroom** (defeat Parasect).
+2. **Northwest Area**: Find **Mago Berry** (defeat Fomantis).
+3. **North Area**: Collect **Revival Herb** (defeat Fomantis).
+4. **East Area**: Find **Miracle Seed** (clear rocks with Tauros).
+
+#### VS Totem Lurantis
+- **Strategy**: Use Fire, Flying, Ice, Poison, or Bug-type moves.
+- **Allies**: Trumbeak and Castform can assist.
+- **Rewards**: Grassium Z and TM67 (Smart Strike) from Mallow after trial completion.
+
+#### Route 5 (North)
+- **Trainers**:
+  - **Caleb** (Charjabug, Lv. 20) - Reward: $400
+  - **Gabriel** (Mudbray, Lv. 21) - Reward: $672
+  - **Alexis** (Goomy, Lv. 22; Sylveon, Lv. 23) - Reward: $1,564
+
+- **Items**:
+  - **PP Up**: Between Lush Jungle entrance and signpost (hidden).
+  - **Nugget**: Front of the western den (hidden).
+  - **Hyper Potion**: Northwest of Pokémon Center.
+  - **TM59 (Brutal Swing)**: South end, northeast of Pokémon Center.
+
+### Next Steps
+- After completing the trials, challenge Kahuna Olivia for the grand trial. Visit the Dimensional Research Lab in Heahea City to proceed.

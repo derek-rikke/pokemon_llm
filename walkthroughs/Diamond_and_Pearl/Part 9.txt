@@ -1,0 +1,1706 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_9
+Keywords: Route 215, Veilstone City, Veilstone Gym, Getting back Lucas'/Dawn's PokéDex
+
+Walkthrough Text:
+Contents
+1
+Route 215
+2
+Veilstone City
+2.1
+Galactic Veilstone Building (Galactic HQ)
+2.2
+Meteorites
+2.3
+Veilstone Department Store
+2.3.1
+1F - Trainer's Zone
+2.3.2
+2F - Battle Collection
+2.3.3
+3F - TM Corner
+2.3.4
+4F - Poké Dolls and Goods
+2.3.5
+5F - Rooftop Plaza
+2.4
+Massage Girl
+2.5
+Veilstone Game Corner
+3
+Veilstone Gym
+4
+Getting back Lucas'/Dawn's Pokédex
+Route 215
+Route 215
+On this route, it is generally raining which weakens
+Fire-type
+moves while strengthening
+Water-type
+moves. Once you climb up the stairs near the entrance, cross the bridge to find a Honey Tree. Then follow the path east and talk to the guy in the Black Belt clothes to receive
+TM66
+(
+Payback
+). Once you follow the path north and defeat the Black Belt Trainer, use
+Cut
+on the small tree to find another Black Belt Trainer, along with the
+Fist Plate
+, which enhances
+Fighting-type
+attacks.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Abra
+D
+P
+Pt
+Grass
+19-20
+10%
+Kadabra
+D
+P
+Pt
+Grass
+20-22
+15%
+Ponyta
+D
+P
+Pt
+Grass
+21-22
+30%
+40%
+20%
+Kricketune
+D
+P
+Pt
+Grass
+20-22
+10%
+10%
+30%
+Geodude
+D
+P
+Pt
+Grass
+20-22
+35%
+25%
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ruin Maniac
+Calvin
+イサジ
+Isaji
+Reward:
+$
+1104
+Bronzor
+Lv.
+21
+No item
+Shieldon
+♂
+Lv.
+23
+No item
+Jogger
+Craig
+スバル
+Subaru
+Reward:
+$
+640
+Luxio
+♂
+Lv.
+19
+No item
+Staravia
+♂
+Lv.
+21
+No item
+Ponyta
+♂
+Lv.
+20
+No item
+Black Belt
+Derek
+ケンサク
+Kensaku
+Reward:
+$
+600
+Croagunk
+♂
+Lv.
+25
+No item
+Black Belt
+Gregory
+ヨウスケ
+Yōsuke
+Reward:
+$
+504
+Meditite
+♂
+Lv.
+23
+No item
+Machop
+♂
+Lv.
+22
+No item
+Meditite
+♂
+Lv.
+21
+No item
+Black Belt
+Nathaniel
+グンジ
+Gunji
+Reward:
+$
+528
+Croagunk
+♂
+Lv.
+21
+No item
+Machop
+♂
+Lv.
+22
+No item
+Meditite
+♂
+Lv.
+23
+No item
+Jogger
+Scott
+マサヤ
+Masaya
+Reward:
+$
+736
+Staravia
+♂
+Lv.
+23
+No item
+Ace Trainer
+Dennis
+カツマサ
+Katsumasa
+Reward:
+$
+1380
+(w. Ace Trainer Maya)
+Monferno
+♂
+Lv.
+23
+No item
+Gyarados
+♂
+Lv.
+23
+No item
+Ace Trainer
+Maya
+エリナ
+Erina
+Reward:
+$
+1380
+(w. Ace Trainer Dennis)
+Glameow
+♀
+Lv.
+23
+No item
+Kadabra
+♂
+Lv.
+23
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Ether
+East of Ruin Maniac Calvin
+D
+P
+TM66
+(
+Payback
+)
+Given by the
+Black Belt
+before the second bridge
+D
+P
+Fist Plate
+Just past
+Black Belt
+Gregory (requires
+Cut
+)
+D
+P
+Guard Spec.
+Located across the bridge to the south, below the grass patch
+D
+P
+Pecha Berry
+×2
+Berry patch south of
+Black Belt
+Gregory (requires
+Cut
+)
+D
+P
+Bluk Berry
+×2
+Berry patch south of
+Black Belt
+Gregory (requires
+Cut
+)
+D
+P
+TM34
+(
+Shock Wave
+)
+South of the largest grass patch (requires
+Cut
+)
+D
+P
+Full Heal
+Below the ledge past Jogger Scott
+D
+P
+Honey
+On the eastern most grass tile past the second bridge
+(hidden)
+D
+P
+Zinc
+On a tree in the northeast corner of the largest grass patch
+(hidden)
+D
+P
+Hyper Potion
+Near the small tree after passing the bridge near the Berry patch
+(hidden)
+D
+P
+Wiki Berry
+Berry patch east of
+Ace Trainer
+Maya
+D
+P
+Mago Berry
+Berry patch east of
+Ace Trainer
+Maya
+D
+P
+Next jump down the ledge and head south to find another small tree to cut to reach a Berry patch. Then climb the stairs and follow the path north then east, eventually finding some more small trees to cut to find
+TM34
+(
+Shock Wave
+). Then follow the path east to reach a
+gate
+that will take you to
+Veilstone City
+.
+Veilstone City
+Veilstone City
+Now that you've arrived in Veilstone City, you can challenge the Gym here for your third Badge. This city is also the home for
+Galactic HQ
+.
+Items
+Item
+Location
+Games
+TM63
+(
+Embargo
+)
+From the man in the southern part of the city
+D
+P
+Coin Case
+From a clown in a house, west of
+Veilstone Game Corner
+D
+P
+TM60
+(
+Drain Punch
+)
+Reward for defeating Maylene
+D
+P
+HM02
+(
+Fly
+)
+Inside the
+Galactic Warehouse
+D
+P
+TinyMushroom
+In the tiled area west of the Warehouse (
+hidden
+)
+D
+P
+PP Up
+Behind one of the spikes behind the Galactic Veilstone Building
+D
+P
+Revive
+Between the trees and Veilstone Department Store (
+hidden
+)
+D
+P
+Galactic Veilstone Building (Galactic HQ)
+The very large building in the northeast corner is the headquarters of
+Team Galactic
+, known as
+Galactic HQ
+. While the first floor has no problems, a door is blocking the stairs to the second floor, so there is nothing you can do at the moment until you have the proper key.
+Meteorites
+East of the
+Pokémon Center
+is a bunch of Meteorites. If you have a
+Deoxys
+, you can use them to transform it between its various
+Formes
+.
+Veilstone Department Store
+Veilstone Department Store
+A Shop Full of Dreams!
+Located near the Pokémon Center. Similar to the department stores of other regions, there are multiple floors with different types of items.
+1F - Trainer's Zone
+Items
+Left Cashier
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Escape Rope
+$
+550
+Poké Doll
+$
+1000
+Repel
+$
+350
+Super Repel
+$
+500
+Max Repel
+$
+700
+Grass Mail
+$
+50
+Flame Mail
+$
+50
+Bubble Mail
+$
+50
+Space Mail
+$
+50
+Right Cashier
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Revive
+$
+1500
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Burn Heal
+$
+250
+Ice Heal
+$
+200
+Awakening
+$
+250
+Full Heal
+$
+600
+On this floor, you will find basic items, like Poké Balls, Repels, Potions, and Status-healing items. Unlike other Poké Marts, there is no Badge prerequisite to purchase these particular items. There is also a lady here who will give you an
+Accessory
+depending on which starter you choose.
+Items
+Item
+Location
+Games
+Turtwig Mask
+Accessory
+; if the player started with
+Chimchar
+D
+P
+Chimchar Mask
+Accessory
+; if the player started with
+Piplup
+D
+P
+Piplup Mask
+Accessory
+; if the player started with
+Turtwig
+D
+P
+2F - Battle Collection
+Battle Items
+Top Cashier
+X Speed
+$
+350
+X Attack
+$
+500
+X Defend
+$
+550
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+X Accuracy
+$
+950
+X Special
+$
+350
+X Sp. Def
+$
+350
+Middle Cashier
+Protein
+$
+9800
+Iron
+$
+9800
+Calcium
+$
+9800
+Zinc
+$
+9800
+Carbos
+$
+9800
+HP Up
+$
+9800
+On this floor, the items that are sold have to do with altering stats for battle. The lady in the middle of the register sells you the brands that permanently alter the stats for that item but are very expensive. The lady at the top offers the battle items that can temporarily alter stats in the middle of battle. There is also a lady at the bottom of the register who can offer you a Pokétch upgrade the
+Counter
+which you can use can tap on the button to count up to 9,999, though it has no value to help you in the game.
+Items
+Item
+Location
+Games
+Counter
+From the downmost man behind the selling counter
+D
+P
+3F - TM Corner
+TM's
+Top Cashier
+TM83
+(
+Natural Gift
+)
+$
+2000
+TM17
+(
+Protect
+)
+$
+2000
+TM54
+(
+False Swipe
+)
+$
+2000
+TM20
+(
+Safeguard
+)
+$
+2000
+TM33
+(
+Reflect
+)
+$
+2000
+TM16
+(
+Light Screen
+)
+$
+2000
+TM70
+(
+Flash
+)
+$
+1000
+Bottom Cashier
+TM38
+(
+Fire Blast
+)
+$
+5500
+TM25
+(
+Thunder
+)
+$
+5500
+TM14
+(
+Blizzard
+)
+$
+5500
+TM22
+(
+SolarBeam
+)
+$
+3000
+TM52
+(
+Focus Blast
+)
+$
+5500
+TM15
+(
+Hyper Beam
+)
+$
+7500
+On this floor, you can purchase a
+TM
+. Some good choices here are
+TM54
+(
+False Swipe
+), which can help make it easier to catch Pokémon such as
+Unown
+at the
+Solaceon Ruins
+. Also if you need an extra copy to teach a Pokémon to light up a cavern,
+TM70
+(
+Flash
+) will be a good choice because this former
+HM
+can help with places like
+Wayward Cave
+.
+4F - Poké Dolls and Goods
+Decorations
+Top Cashier
+Yellow Cushion
+$
+500
+Cupboard
+$
+1000
+TV
+$
+4500
+Refrigerator
+$
+1000
+Pretty Sink
+$
+3000
+Bottom Cashier
+Munchlax Doll
+$
+2000
+Bonsly Doll
+$
+2000
+Mime Jr. Doll
+$
+2000
+Mantyke Doll
+$
+3000
+Buizel Doll
+$
+3000
+Chatot Doll
+$
+3000
+Decorations for your
+Secret Base
+can be bought on this floor.
+5F - Rooftop Plaza
+Vending Machine
+Vending Machine
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+On this floor, you will find two
+Vending Machines
+that sell inexpensive
+drinks
+. These drinks, along with the Moomoo Milk, can heal your Pokémon and are cheaper than Potions. If you head to the wall on the other side of the escalator and talk to the man there, you will receive a
+Sticky Barb
+, a hold item that hurts the user unless if the foe uses a physical contact move which transfers the item to them.
+Items
+Item
+Location
+Games
+Sticky Barb
+5F, from the man standing in front of another man near the escalator
+D
+P
+Massage Girl
+The
+Massage Girl
+lives in the southwest area of the city near the Gym and is at the first house seen. Once a day she performs a massage on a Pokémon for free that can help with their happiness level and also will find an
+Accessory
+for dressing up Pokémon for
+Pokémon Contests
+.
+Veilstone Game Corner
+Veilstone Game Corner
+Aim for an Explosion of Luck!
+Veilstone City also has a
+game corner
+where you can play
+Slot machines
+to earn money for purchasing special items and TMs. It is located in the southern part of the city near
+Route 214
+. The
+Coin Case
+is located in the house next to the Massage Girl. Talk to the clown there and guess which hand the coin is in to receive this item.
+Prizes
+TMs
+and
+Held items
+Silk Scarf
+1000
+Coins
+Wide Lens
+1000
+Coins
+Zoom Lens
+1000
+Coins
+Metronome
+1000
+Coins
+TM90
+(
+Substitute
+)
+2000
+Coins
+TM58
+(
+Endure
+)
+2000
+Coins
+TM75
+(
+Swords Dance
+)
+4000
+Coins
+TM32
+(
+Double Team
+)
+4000
+Coins
+TM44
+(
+Rest
+)
+6000
+Coins
+TM89
+(
+U-turn
+)
+6000
+Coins
+TM10
+(
+Hidden Power
+)
+6000
+Coins
+TM27
+(
+Return
+)
+8000
+Coins
+TM21
+(
+Frustration
+)
+8000
+Coins
+TM35
+(
+Flamethrower
+)
+10000
+Coins
+TM24
+(
+Thunderbolt
+)
+10000
+Coins
+TM13
+(
+Ice Beam
+)
+10000
+Coins
+TM29
+(
+Psychic
+)
+10000
+Coins
+TM74
+(
+Gyro Ball
+)
+15000
+Coins
+TM68
+(
+Giga Impact
+)
+15000
+Coins
+Veilstone Gym
+Veilstone City Pokémon Gym
+Leader: Maylene
+The Barefoot, Fighting Genius!
+Once you are ready head to the southwest where the Gym is located. As you approach
+Lucas
+/
+Dawn
+will appear and see that you are tougher and say that they've seen the Game Corner and have been working on their Pokédex before leaving. This Gym is a
+Fighting-type
+Gym so you will need a
+Flying-type
+or
+Psychic-type
+Pokémon to take advantage of the weaknesses of Fighting-type Pokémon, or a
+Ghost-type
+Pokémon to shut them down due to the immunity. It is also recommended to also bring a
+Fire-type
+Pokémon such as
+Monferno
+or
+Ponyta
+, a
+Ground-type
+Pokémon (a
+Shellos
+with
+Mud Bomb
+may also work) or your own Fighting-type Pokémon like Monferno or
+Machoke
+for help in dealing with Maylene's
+Lucario
+which is part
+Steel-type
+, that can cause only normal damage with Flying-type and Psychic-type Pokémon.
+Make sure that you heal your Pokémon before going into the Gym.
+It is also recommended that you should train your Pokémon until they are at Level 27 or above.
+The puzzle in the Gym is to move the special walls around to go through the small room blocks so you can line up the boxes in the middle to get to Leader
+Maylene
+. First head for the walls on the right and then move the ones between right and middle side blocks. Next, go through the walls to get the ones on right side corner of the Gym. This will help you reach the movable wall above for the top box in the middle row that will get you to Maylene.
+Next deal with the movable walls on the left row. First head to the middle row and move the two walls, that should help you get to eventually move ones of the left side to get to the top of the left row to move the last wall. With the middle road clear you can now reach Maylene.
+Veilstone Gym
+Trainers
+Trainer
+Pokémon
+Black Belt
+Darren
+ジロウ
+Jirō
+Reward:
+$
+600
+Machoke
+♂
+Lv.
+25
+No item
+Machop
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+Black Belt
+Jeffery
+シロウ
+Shirō
+Reward:
+$
+624
+Machoke
+♂
+Lv.
+26
+No item
+Meditite
+♂
+Lv.
+26
+No item
+Black Belt
+Rafael
+サブロウ
+Saburō
+Reward:
+$
+672
+Meditite
+♂
+Lv.
+28
+No item
+Black Belt
+Colby
+イチロウ
+Ichirō
+Reward:
+$
+600
+Machoke
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+Machoke
+♂
+Lv.
+25
+No item
+Leader
+Maylene
+Veilstone Gym
+Diamond and Pearl
+Reward:
+$
+3600
+Types:
+Fighting
+Psychic
+Ability:
+Pure Power
+Held item:
+None
+Meditite
+♀
+Lv.
+27
+Confusion
+Psychic
+Special
+--
+Meditate
+Psychic
+Status
+--
+Detect
+Fighting
+Status
+--
+Drain Punch
+Fighting
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machoke
+♂
+Lv.
+27
+Brick Break
+Fighting
+Physical
+--
+Leer
+Normal
+Status
+--
+Foresight
+Normal
+Status
+--
+Rock Tomb
+Rock
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+Sitrus Berry
+Lucario
+♂
+Lv.
+30
+Drain Punch
+Fighting
+Physical
+--
+Force Palm
+Fighting
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Bone Rush
+Ground
+Physical
+--
+Once you've have defeated Maylene, she will give you the
+Cobble Badge
+that will allow you to use Fly outside of battle. Maylene will also give you
+TM60
+(
+Drain Punch
+).
+Getting back Lucas'/Dawn's Pokédex
+Once you leave the Gym, Lucas/Dawn will be waiting for you, and explain that after dropping their Pokédex, Team Galactic found and took it, and needs you at the Galactic warehouse to get it back. It should be located near the Department store where the entrance is guarded by two male Team Galactic grunts. When ready talk to Lucas/Dawn to enter a Tag Battle.
+If the
+player
+chose
+Turtwig
+Partner:
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+/
+♀
+Lv.
+28
+BubbleBeam
+Water
+Special
+--
+Peck
+Flying
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+/
+♀
+Lv.
+28
+BubbleBeam
+Water
+Special
+--
+Peck
+Flying
+Physical
+--
+Fury Attack
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+If the
+player
+chose
+Chimchar
+Partner:
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+/
+♀
+Lv.
+28
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+???
+Status
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+/
+♀
+Lv.
+28
+Razor Leaf
+Grass
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Bite
+Dark
+Physical
+--
+Curse
+???
+Status
+--
+If the
+player
+chose
+Piplup
+Partner:
+P
+K
+M
+N
+Trainer
+Lucas
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+/
+♀
+Lv.
+28
+Flame Wheel
+Fire
+Physical
+--
+Ember
+Fire
+Special
+--
+Mach Punch
+Fighting
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+P
+K
+M
+N
+Trainer
+Dawn
+Veilstone City
+Diamond and Pearl
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Clefairy
+♀
+Lv.
+25
+Metronome
+Normal
+Status
+--
+Sing
+Normal
+Status
+--
+Gravity
+Psychic
+Status
+--
+Wake-Up Slap
+Fighting
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Kadabra
+♂
+Lv.
+25
+Psybeam
+Psychic
+Special
+--
+Psycho Cut
+Psychic
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+/
+♀
+Lv.
+28
+Flame Wheel
+Fire
+Physical
+--
+Ember
+Fire
+Special
+--
+Mach Punch
+Fighting
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+1000
+Beautifly
+♂
+Lv.
+25
+No item
+Stunky
+♂
+Lv.
+25
+No item
+Galactic Grunt
+Reward:
+$
+1000
+Dustox
+♂
+Lv.
+25
+No item
+Croagunk
+♂
+Lv.
+25
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Once you defeat both grunts they return the stolen Pokédex and run away, but not before mentioning that contents from their warehouse has been moved to
+Pastoria City
+already. Lucas/Dawn thanks you and mentions that the Pastoria has the
+Great Marsh
+where many kinds of Pokémon are found. Quickly head into the warehouse to pick up
+HM02
+(
+Fly
+). Now that you have the Badge, you can use it outside of battle. Nothing else can be done here now. Use the southern gate to reach Route 214.
+← Part 8
+Lost Tower, Solaceon Town, Solaceon Ruins, Route 210 (South)
+Diamond and Pearl
+walkthrough
+Route 214, Valor Lakefront, Hotel Grand Lake, Route 213, Pastoria City
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

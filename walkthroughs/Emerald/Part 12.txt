@@ -1,0 +1,1753 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_12
+Keywords: Mt. Pyre, Route 123, Jagged Pass, Team Magma Hideout
+
+Walkthrough Text:
+Contents
+1
+Mt. Pyre
+1.1
+Interior
+1.2
+Exterior
+1.3
+Summit
+2
+Route 123 (optional)
+3
+Jagged Pass
+4
+Magma Hideout
+4.1
+Entrance
+4.2
+1F
+4.3
+B1F
+4.4
+1F
+4.5
+B1F
+4.6
+B2F
+4.7
+B3F
+4.8
+B4F
+4.8.1
+VS Tabitha
+4.8.2
+VS Maxie
+Mt. Pyre
+Mt. Pyre, 1F
+Mt. Pyre, 6F
+Mt. Pyre, Exterior and Summit
+The towering
+Mt. Pyre
+exists to soothe the spirits of Pokémon that have passed on. Hoenn's most beloved Pokémon have been laid to rest here, making the mountain a very sacred place.
+Trainers
+Inside
+Trainer
+Pokémon
+2F
+PokéManiac
+Mark
+Reward:
+$
+1860
+Potential
+Double Battle
+with Leah
+Rhyhorn
+♂
+Lv.
+31
+No item
+Hex Maniac
+Leah
+Reward:
+$
+744
+Potential
+Double Battle
+with Mark or Zander
+Spoink
+♀
+Lv.
+31
+No item
+Black Belt
+Zander
+Reward:
+$
+992
+Potential
+Double Battle
+with Leah
+Hariyama
+♂
+Lv.
+31
+No item
+Young Couple
+Dez & Luke
+Reward:
+$
+1984
+Delcatty
+♀
+Lv.
+31
+No item
+Manectric
+♂
+Lv.
+31
+No item
+3F
+Psychic
+Kayla
+Reward:
+$
+624
+Potential
+Double Battle
+with Gabrielle
+Wobbuffet
+♀
+Lv.
+26
+No item
+Natu
+♀
+Lv.
+26
+No item
+Kadabra
+♂
+Lv.
+26
+No item
+Pokémon Breeder
+Gabrielle
+Reward:
+$
+1040
+Potential
+Double Battle
+with Kayla or William
+*
+Skitty
+♀
+Lv.
+26
+No item
+Poochyena
+♀
+Lv.
+26
+No item
+Zigzagoon
+♀
+Lv.
+26
+No item
+Lotad
+♀
+Lv.
+26
+No item
+Seedot
+♀
+Lv.
+26
+No item
+Taillow
+♀
+Lv.
+26
+No item
+Psychic
+William
+Reward:
+$
+624
+Potential
+Double Battle
+with Gabrielle
+Ralts
+♂
+Lv.
+26
+No item
+Ralts
+♂
+Lv.
+26
+No item
+Kirlia
+♂
+Lv.
+26
+No item
+4F
+Hex Maniac
+Tasha
+Reward:
+$
+768
+Shuppet
+♀
+Lv.
+32
+No item
+5F
+Black Belt
+Atsushi
+Reward:
+$
+1024
+Hariyama
+♂
+Lv.
+32
+No item
+6F
+Hex Maniac
+Valerie
+Reward:
+$
+768
+Potential
+Double Battle
+with Cedric
+Sableye
+♀
+Lv.
+32
+No item
+Psychic
+Cedric
+Reward:
+$
+768
+Potential
+Double Battle
+with Valerie
+Wobbuffet
+♂
+Lv.
+32
+No item
+Rematch
+Pokémon Breeder
+Gabrielle
+*
+Reward:
+$
+1240
+Skitty
+♀
+Lv.
+31
+No item
+Mightyena
+♀
+Lv.
+31
+No item
+Zigzagoon
+♀
+Lv.
+31
+No item
+Lotad
+♀
+Lv.
+31
+No item
+Seedot
+♀
+Lv.
+31
+No item
+Taillow
+♀
+Lv.
+31
+No item
+Pokémon Breeder
+Gabrielle
+*
+Reward:
+$
+1320
+Skitty
+♀
+Lv.
+33
+No item
+Mightyena
+♀
+Lv.
+33
+No item
+Linoone
+♀
+Lv.
+33
+No item
+Lombre
+♀
+Lv.
+33
+No item
+Nuzleaf
+♀
+Lv.
+33
+No item
+Taillow
+♀
+Lv.
+33
+No item
+Pokémon Breeder
+Gabrielle
+*
+Reward:
+$
+1400
+Delcatty
+♀
+Lv.
+35
+No item
+Mightyena
+♀
+Lv.
+35
+No item
+Linoone
+♀
+Lv.
+35
+No item
+Lombre
+♀
+Lv.
+35
+No item
+Nuzleaf
+♀
+Lv.
+35
+No item
+Swellow
+♀
+Lv.
+35
+No item
+Pokémon Breeder
+Gabrielle
+*
+Reward:
+$
+1480
+Delcatty
+♀
+Lv.
+37
+No item
+Mightyena
+♀
+Lv.
+37
+No item
+Linoone
+♀
+Lv.
+37
+No item
+Ludicolo
+♀
+Lv.
+37
+No item
+Shiftry
+♀
+Lv.
+37
+No item
+Swellow
+♀
+Lv.
+37
+No item
+Hex Maniac
+Valerie
+*
+Reward:
+$
+744
+Sableye
+♀
+Lv.
+31
+No item
+Spoink
+♀
+Lv.
+31
+No item
+Hex Maniac
+Valerie
+*
+Reward:
+$
+840
+/
+960
+Spoink
+♀
+Lv.
+35
+/
+40
+No item
+Sableye
+♀
+Lv.
+35
+/
+40
+No item
+Hex Maniac
+Valerie
+*
+Reward:
+$
+1008
+Duskull
+♀
+Lv.
+42
+No item
+Sableye
+♀
+Lv.
+42
+No item
+Grumpig
+♀
+Lv.
+42
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Outside
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+640
+Carvanha
+♂
+Lv.
+32
+No item
+Team Aqua Grunt
+Reward:
+$
+640
+Zubat
+♂
+Lv.
+32
+No item
+Team Aqua Grunt
+Reward:
+$
+600
+Double Battle
+with the following Grunt
+Poochyena
+♂
+Lv.
+30
+No item
+Carvanha
+♂
+Lv.
+30
+No item
+Team Aqua Grunt
+Reward:
+$
+600
+Double Battle
+with the previous Grunt
+Wailmer
+♀
+Lv.
+30
+No item
+Zubat
+♀
+Lv.
+30
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Interior
+Pokémon
+Games
+Location
+Levels
+Rate
+1F-3F
+Shuppet
+R
+S
+E
+1F-3F
+22-29
+100%
+4F-6F
+Shuppet
+R
+S
+E
+4F-6F
+22-29
+90%
+Duskull
+R
+S
+E
+4F-6F
+25, 27, 29
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Exterior
+Pokémon
+Games
+Location
+Levels
+Rate
+Shuppet
+R
+S
+E
+Grass
+27-29
+60%
+Vulpix
+R
+S
+E
+Grass
+25, 27, 29
+30%
+Wingull
+R
+S
+E
+Grass
+26-28
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Summit
+Pokémon
+Games
+Location
+Levels
+Rate
+Shuppet
+R
+S
+E
+Grass
+24-30
+85%
+Duskull
+R
+S
+E
+Grass
+26, 28, 30
+13%
+Chimecho
+R
+S
+E
+Grass
+28
+2%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Interior
+Cleanse Tag
+1F; From the old woman in the northeast corner
+E
+Ultra Ball
+2F; Southwest corner
+E
+Super Repel
+3F; West wall
+E
+Sea Incense
+4F; Southwest corner, accessible by falling from 5F
+E
+Lax Incense
+5F; South side, accessible by falling from 6F
+E
+TM30
+(
+Shadow Ball
+)
+6F; South side
+E
+Exterior
+TM48
+(
+Skill Swap
+)
+Atop the rock wall near the second grass patch
+E
+Max Potion
+Southeast of the Summit entrance
+E
+Max Ether
+Southwest of the Summit entrance, on a headstone (hidden)
+E
+Ultra Ball
+Northwest corner, on a headstone (hidden)
+E
+Summit
+Zinc
+Southwest corner, on a headstone (hidden)
+E
+Rare Candy
+Northeast corner, in the tall grass (hidden)
+E
+Magma Emblem
+From the old woman after Team Aqua flees
+E
+Interior
+On 1F, talk to the old woman in the northeast corner. Concerned for your safety, she gives you a
+Cleanse Tag
+, which reduces the wild encounter rate when held by your lead Pokémon.
+On 6F, pick up
+TM30
+(
+Shadow Ball
+) from the south side before falling through the nearby hole in the floor. On the south side of 5F, you find a
+Lax Incense
+, which boosts the holder's
+evasiveness
+by 5%. Fall through the southeast hole to return to 4F, where you find a
+Sea Incense
+. This item gives
+Water
+moves a 20% power boost when held. These Incenses also allow
+Wobbuffet
+,
+Marill
+, and
+Azumarill
+to produce
+Wynaut
+and
+Azurill
+Eggs at the Day Care.
+Exterior
+Reaching the summit means a long climb up the mountainside. Be sure to collect
+TM48
+(
+Skill Swap
+) and the
+Max Potion
+before moving on.
+Summit
+When you reach the summit, you are finally able to catch up to
+Team Aqua
+. Show no mercy to the four Grunts lining the path as you advance northward. Upon reaching the mountain's highest peak,
+Archie
+informs you that
+Maxie
+and
+Team Magma
+beat them to the summit, but he also got what he wanted, and steals the
+Red Orb
+from its altar! Like your last meeting atop
+Mt. Chimney
+, he doesn't have much time to waste on you. He orders his team to fall back, and the group disappears in an instant. Afterward, the elderly woman caretaker tells you that the two Orbs belong together and must never be separated as they are now. She says that although Team Magma showed up first and was able to steal the
+Blue Orb
+, they left something behind in their haste. She gives you the
+Magma Emblem
+, in the hopes that it may be useful.
+Route 123 (optional)
+Route 123
+Route 123
+slopes downhill as it runs westward, from
+Route 122
+back to
+Route 118
+. Before heading onto this route make sure you that to have Pokémon on your team know
+Cut
+, and also has at least one
+Grass
+type pokemon.
+Trainers
+Trainer
+Pokémon
+Accessed via Route 122
+Hex Maniac
+Kindra
+Reward:
+$
+720
+Potential
+Double Battle
+with Ed
+Duskull
+♀
+Lv.
+30
+No item
+Shuppet
+♀
+Lv.
+30
+No item
+Collector
+Ed
+Reward:
+$
+1800
+Potential
+Double Battle
+with Kindra
+Zangoose
+♂
+Lv.
+30
+No item
+Seviper
+♂
+Lv.
+30
+No item
+Cooltrainer
+Wendy
+Reward:
+$
+1392
+Mawile
+♀
+Lv.
+29
+No item
+Roselia
+♀
+Lv.
+29
+No item
+Pelipper
+♀
+Lv.
+29
+No item
+Cooltrainer
+Braxton
+Reward:
+$
+1344
+Swellow
+♂
+Lv.
+28
+No item
+Trapinch
+♂
+Lv.
+28
+No item
+Wailmer
+♂
+Lv.
+28
+No item
+Magneton
+Lv.
+28
+No item
+Shiftry
+♂
+Lv.
+28
+No item
+Guitarist
+Fernando
+Reward:
+$
+960
+Potential
+Double Battle
+with Alberto
+Electrike
+♂
+Lv.
+30
+No item
+Loudred
+♂
+Lv.
+30
+No item
+Bird Keeper
+Alberto
+Reward:
+$
+960
+Potential
+Double Battle
+with Fernando
+Pelipper
+♂
+Lv.
+30
+No item
+Xatu
+♂
+Lv.
+30
+No item
+Psychic
+Jacki
+Reward:
+$
+720
+Potential
+Double Battle
+with Fredrick
+Kadabra
+♂
+Lv.
+30
+No item
+Lunatone
+Lv.
+30
+No item
+Expert
+Fredrick
+Reward:
+$
+1200
+Potential
+Double Battle
+with Jacki
+Makuhita
+♂
+Lv.
+30
+No item
+Machoke
+♂
+Lv.
+30
+No item
+Requires
+Cut
+Psychic
+Cameron
+Reward:
+$
+744
+Solrock
+Lv.
+31
+No item
+Ninja Boy
+Jonas
+Reward:
+$
+372
+Double Battle
+with Kayley
+Koffing
+♂
+Lv.
+31
+No item
+Parasol Lady
+Kayley
+Reward:
+$
+1240
+Double Battle
+with Jonas
+Castform
+♀
+Lv.
+31
+No item
+Rematch
+Guitarist
+Fernando
+*
+Reward:
+$
+1120
+Electrike
+♂
+Lv.
+35
+No item
+Electrike
+♂
+Lv.
+35
+No item
+Loudred
+♂
+Lv.
+35
+No item
+Guitarist
+Fernando
+*
+Reward:
+$
+1184
+Electrike
+♂
+Lv.
+37
+No item
+Manectric
+♂
+Lv.
+37
+No item
+Loudred
+♂
+Lv.
+37
+No item
+Guitarist
+Fernando
+*
+Reward:
+$
+1248
+Manectric
+♂
+Lv.
+39
+No item
+Manectric
+♂
+Lv.
+39
+No item
+Loudred
+♂
+Lv.
+39
+No item
+Guitarist
+Fernando
+*
+Reward:
+$
+1312
+Manectric
+♂
+Lv.
+41
+No item
+Manectric
+♂
+Lv.
+41
+No item
+Exploud
+♂
+Lv.
+41
+No item
+Psychic
+Jacki
+*
+シホミ
+Shihomi
+Reward:
+$
+816
+/
+888
+/
+960
+Kadabra
+♂
+Lv.
+34
+/
+37
+/
+40
+No item
+Lunatone
+Lv.
+34
+/
+37
+/
+40
+No item
+Psychic
+Jacki
+*
+Reward:
+$
+1032
+Lunatone
+Lv.
+43
+No item
+Alakazam
+♂
+Lv.
+43
+No item
+Psychic
+Cameron
+*
+Reward:
+$
+792
+/
+912
+/
+984
+Kadabra
+♂
+Lv.
+33
+/
+38
+/
+41
+No item
+Solrock
+Lv.
+33
+/
+38
+/
+41
+No item
+Psychic
+Cameron
+*
+Reward:
+$
+1080
+Solrock
+Lv.
+45
+No item
+Alakazam
+♂
+Lv.
+45
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Shuppet
+R
+S
+E
+Grass
+26, 28
+30%
+Poochyena
+R
+S
+E
+Grass
+26
+20%
+Mightyena
+R
+S
+E
+Grass
+26, 28
+20%
+Oddish
+R
+S
+E
+Grass
+26, 28
+15%
+Wingull
+R
+S
+E
+Grass
+26-28
+9%
+Gloom
+R
+S
+E
+Grass
+28
+5%
+Kecleon
+R
+S
+E
+Grass
+25
+1%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Accessible via Route 122
+PP Up
+×2
+East of the pier, at the end of the dead-end center path (hidden, requires
+Cut
+)
+West of Psychic Jacki and Expert Frederick
+E
+Rare Candy
+East of the pier, near the trees (hidden, requires
+Cut
+)
+E
+TM19
+(
+Giga Drain
+)
+From a girl southwest of the pier, if shown a
+Grass
+Pokémon
+E
+Pecha Berry
+×2
+Soft soil patch west of the pier
+E
+Rawst Berry
+×2
+Soft soil patch west of the pier
+E
+Sitrus Berry
+×2
+Soft soil patch west of the pier
+E
+Hyper Potion
+On a rock, east of Hex Maniac Kindra (hidden)
+E
+Leppa Berry
+×4
+Soft soil patch on the north side
+E
+Elixir
+On a ledge, northeast of Cooltrainer Wendy
+E
+Super Repel
+In a clearing in a grass patch along the north treeline (hidden)
+E
+Revival Herb
+South of the rock outcropping, west of Guitarist Fernando
+E
+Calcium
+West of the pond
+E
+Jagged Pass
+Magma Hideout, outside
+Having received the
+Magma Emblem
+from the caretakers atop
+Mt. Pyre
+, the next step is to use it.
+Fly
+back to
+Lavaridge Town
+and
+Route 112
+, then either enter
+Jagged Pass
+from the south and use the
+Acro Bike
+to scale the cliffs, or ride the cable car to the summit and descend. Hike through the area until you reach the halfway point, where you passed that Magma Grunt on your first visit. Just then, a suspicious-looking part of the cliffside begins shaking in response to the Magma Emblem. By the time the tremor subsides, a gaping hole has appeared in the rock!
+Magma Hideout
+Magma Hideout, entrance
+Magma Hideout, 1F
+Magma Hideout, B1F
+Magma Hideout, B2F
+Magma Hideout, B3F
+Magma Hideout, B4F
+Magma Hideout, B5F
+Magma Hideout, stairs room
+Located deep in the side of
+Mt. Chimney
+, the
+Magma Hideout
+serves as the terrestrial team's base of operations. Many strange machines can be found inside, and one chamber even holds excavation equipment for further expansion.
+Trainers
+Trainer
+Pokémon
+1F
+Team Magma Grunt
+Reward:
+$
+580
+Poochyena
+♂
+Lv.
+29
+No item
+1F (elevated path)
+Team Magma Grunt
+Reward:
+$
+580
+Zubat
+♂
+Lv.
+29
+No item
+2F
+Team Magma Grunt
+Reward:
+$
+580
+Numel
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Mightyena
+♀
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+560
+Potential
+Double Battle
+with the following Grunt
+Baltoy
+Lv.
+28
+No item
+Numel
+♂
+Lv.
+28
+No item
+Team Magma Grunt
+Reward:
+$
+560
+Potential
+Double Battle
+with the preceding Grunt
+Baltoy
+Lv.
+28
+No item
+Zubat
+♂
+Lv.
+28
+No item
+2F (Room 2)
+Team Magma Grunt
+Reward:
+$
+580
+Double Battle
+with the following Grunt
+Numel
+♀
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Double Battle
+with the preceding Grunt
+Mightyena
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Zubat
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Poochyena
+♂
+Lv.
+29
+No item
+3F
+Team Magma Grunt
+Reward:
+$
+580
+Zubat
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Baltoy
+Lv.
+29
+No item
+3F (Room 2)
+Team Magma Grunt
+Reward:
+$
+580
+Mightyena
+♂
+Lv.
+29
+No item
+4F
+Team Magma Grunt
+Reward:
+$
+580
+Baltoy
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Potential
+Double Battle
+with the following Grunt
+Numel
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+580
+Potential
+Double Battle
+with the preceding Grunt
+Zubat
+♂
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+R
+S
+E
+Cave
+27-30
+55%
+Torkoal
+R
+S
+E
+Cave
+28, 30
+30%
+Graveler
+R
+S
+E
+Cave
+30-33
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Rare Candy
+West side of the elevated path, accessible via 2F (Room 2)
+E
+2F (Room 2)
+Full Restore
+West of the lava pool
+E
+Max Elixir
+East of the lava pool
+E
+3F
+Nugget
+West side of the lower lava pool
+E
+3F (Room 2)
+PP Max
+West side
+E
+4F
+Max Revive
+Northwest of Groudon's lava pool
+E
+3F (Room 3)
+Escape Rope
+Southwest corner
+E
+Entrance
+Enter the base, turn the corner, and use
+Strength
+to move past the group of boulders. Continue on to battle the Grunt on the east side of the chamber, then take the southeast doorway.
+1F
+Make your way down the cliffside, battling four more Grunts along the way. After that, head through the mid-level doorway to detour for a handful of items.
+B1F
+Go north to fight a couple of Grunts in a
+Double Battle
+, then collect the
+Full Restore
+just beyond them. Head back south, then turn east to battle another two Grunts and grab the
+Max Elixir
+to the northwest. Continue eastward and head through the northeast doorway.
+Back at the entrance, follow the elevated path to the southwest, battling a single Grunt along the way to the path's end, where you find a
+Rare Candy
+. Backtrack through B1F to the southwest doorway to return to 1F.
+1F
+Continue down the cliffside and go through the doorway at the bottom.
+B1F
+Head west around the lava pool to battle the first Grunt. Walk down the stairway and go through the doorway to the east.
+B2F
+Pick up a
+PP Max
+to the northwest and battle the Grunt to the northeast, then return to the previous chamber.
+B3F
+Walk down the stairway and fight the second Grunt. Go west and collect the
+Nugget
+before heading south through the doorway.
+B4F
+Head down the stairway and go west, battling three more Grunts along the way. Continue westward and you are stopped by Magma Admin
+Tabitha
+. He tells you that
+Maxie
+is up ahead, and draws you into battle to buy some time for his boss.
+VS Tabitha
+Magma Admin
+Tabitha
+Magma Hideout
+Emerald
+Reward:
+$
+1320
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+26
+Tackle
+Normal
+--
+Ember
+Fire
+--
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+28
+Bite
+Dark
+--
+Odor Sleuth
+Normal
+--
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♂
+Lv.
+30
+Astonish
+Ghost
+--
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♂
+Lv.
+33
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Rock Slide
+Rock
+--
+Collect a
+Max Revive
+from the northwest corner, then turn south. Up ahead, you find Maxie standing on the edge of a lava pool, talking to the sleeping form of the super-ancient Pokémon,
+Groudon
+. He holds the
+Blue Orb
+high, and its light awakens the ancient beast, which immediately escapes. Maxie blames you, accusing you of some "cheap stunt", and prepares for battle!
+VS Maxie
+Magma Leader
+Maxie
+Magma Hideout
+Emerald
+Reward:
+$
+3120
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+37
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+38
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♂
+Lv.
+39
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Rock Slide
+Rock
+--
+Earthquake
+Ground
+--
+Defeated, Maxie flees to search for Groudon. Take the south doorway for a shortcut back to the entrance, and collect the
+Escape Rope
+along the way through 5F and the stairs room.
+← Part 11
+Route 120, Fortree Gym, Route 121, Route 122
+Emerald
+walkthrough
+Slateport City, Lilycove City, Safari Zone, Aqua Hideout
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

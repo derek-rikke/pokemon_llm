@@ -1,0 +1,73 @@
+Game: Sun_and_Moon
+Part: 17
+Keywords: Abandoned Megamart
+
+### Part 17: Tapu Village, Aether House, Route 14, Trial 6: Abandoned Megamart
+
+**Tapu Village**
+- Connects Route 13 (north) and Route 14 (south). 
+- Visit the Pokémon Center; it's the only functional building left after Tapu Bulu's anger over the Thrifty Megamart construction.
+- **Catch Pokémon:** Pelipper, Gumshoos, Alolan Raticate, Snorunt, and Alolan Vulpix (Levels 28-31).
+- **Item:** Zygarde Cell (South of Pokémon Center).
+
+**Meet Up with Hau**
+- Hau waits near the Pokémon Center to inform you about the Aether House and the Pokémon League construction.
+
+---
+
+**Route 15**
+- Features Aether House and a beach leading to Route 16. Use Lapras Paddle to navigate.
+- **Trainer Battles:**
+  - Ace Trainer Yuki (Sandshrew, Marowak).
+  - Team Skull Grunt (Drowzee).
+- **Items:** Hyper Potion (north of Aether House), Zygarde Cell (southeast beach), Luxury Balls (after defeating Team Skull Grunt), PP Max (after defeating Trial Guide Katrina), TM93 (Wild Charge), Dive Ball (northeast beach), Pearl, Normal Gem.
+
+---
+
+**Aether House**
+- An orphanage for Pokémon and children, home to Acerola.
+- **Trainer Battle:** Preschooler Hunter (Elekid).
+- **Items:** Zygarde Cell (by the TV), Rare Candy (after defeating Plumeria), Up-Grade (after becoming Champion).
+
+**Security!**
+- Enter Aether House; battle Preschoolers. Acerola arrives and mentions her trial at the old Thrifty Megamart.
+
+---
+
+**Team Skull Trouble**
+- After exiting, help Lillie against a Team Skull Grunt. She gives you five Luxury Balls. Follow Acerola back to Tapu Village and head to Route 14.
+
+---
+
+**Route 14**
+- A black sand beach sacred to Tapu Bulu with ruins of Thrifty Megamart.
+- **Trainer Battles:** Fisherman Hisato (Feebas, Gyarados), Collector Kawika (Togedemaru, Gabite), Swimmer Keoni (Pyukumuku).
+- **Items:** Pearl, Max Potion, TM30 (Shadow Ball), Big Pearl, Ghostium Z, Dusk Balls (after Acerola's trial).
+
+---
+
+**Catch Up with the Captain**
+- Find Acerola at the trial gate. Your goal is to photograph the Totem Pokémon in the old building.
+- **Trial:** Enter the building to begin; no wild Pokémon until completion.
+
+---
+
+**Thrifty Megamart**
+- **Trial Steps:**
+  1. Encounter Gastly via the conveyor belt.
+  2. Follow Pikachu to Haunter.
+  3. Capture Gengar behind levitating dolls.
+  
+**VS Totem Mimikyu**
+- Focus on Mimikyu first; it has the Disguise ability. Use Steel and Ghost-type attacks.
+- **Mimikyu's Stats:**
+  - Level 33, Ability: Disguise, Held item: Lum Berry.
+- **Allies:** Haunter and Gengar (vulnerable to Dark and Psychic moves).
+
+**Post-Trial Rewards:**
+- Receive Ghostium Z and the pose for Never-Ending Nightmare. You can now catch wild Pokémon in the building and receive ten Dusk Balls.
+
+---
+
+**Next Steps:**
+- Head to Route 15, Route 16, and prepare for further adventures.

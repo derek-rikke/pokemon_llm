@@ -1,0 +1,1545 @@
+Part: Part 6
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_6
+Keywords: Mt. Coronet (south), Route 208, Hearthome City, Hearthome Gym, Route 209
+
+Walkthrough Text:
+Contents
+1
+Mt. Coronet (south)
+2
+Route 208
+3
+Hearthome City
+3.1
+Amity Square
+4
+Hearthome Gym
+5
+Route 209
+Mt. Coronet (south)
+Mt. Coronet
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Clefairy
+D
+P
+Pt
+Cave
+17
+10%
+0%
+10%
+Zubat
+D
+P
+Pt
+Cave
+19
+5%
+5%
+0%
+Zubat
+D
+P
+Pt
+Cave
+18-19
+0%
+0%
+15%
+Machop
+D
+P
+Pt
+Cave
+20
+10%
+Geodude
+D
+P
+Pt
+Cave
+19
+20%
+0%
+20%
+Geodude
+D
+P
+Pt
+Cave
+17,19
+0%
+30%
+0%
+Nosepass
+D
+P
+Pt
+Cave
+18
+5%
+Meditite
+D
+P
+Pt
+Cave
+18,20
+20%
+20%
+0%
+Meditite
+D
+P
+Pt
+Cave
+20
+0%
+0%
+10%
+Chingling
+D
+P
+Pt
+Cave
+17,19
+10%
+Bronzor
+D
+P
+Pt
+Cave
+18
+20%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+EnergyPowder
+On a rock just above the entrance from Route 207
+(hidden)
+Pt
+Revive
+In the south-west corner
+(hidden)
+Pt
+Stardust
+On a rock on the large hill in the center
+(hidden)
+Pt
+In
+Mt. Coronet
+, you'll find
+Cyrus
+ranting about perfecting the world before leaving. Collect all the items you can, and simply walk to the other side of this small section of Mt. Coronet, then out of the exit to
+Route 208
+. You won't be able to do anything important here until much later in the game.
+Route 208
+Route 208
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+19
+0%
+0%
+10%
+Ralts
+D
+P
+Pt
+Grass
+17-18
+15%
+Roselia
+D
+P
+Pt
+Grass
+19-20
+15%
+Bidoof
+D
+P
+Pt
+Grass
+18
+20%
+Bibarel
+D
+P
+Pt
+Grass
+18-20
+20%
+Budew
+D
+P
+Pt
+Grass
+18-19
+30%
+30%
+0%
+Budew
+D
+P
+Pt
+Grass
+18
+0%
+0%
+20%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Hiker
+Jonathan
+アツオ
+Atsuo
+Reward:
+$
+704
+Onix
+♂
+Lv.
+22
+No item
+Black Belt
+Kyle
+ゴウタ
+Gōta
+Reward:
+$
+552
+Machop
+♂
+Lv.
+23
+No item
+Hiker
+Robert
+イツクニ
+Itsukuni
+Reward:
+$
+704
+Nosepass
+♂
+Lv.
+22
+No item
+Aroma Lady
+Hannah
+テイコ
+Teiko
+Reward:
+$
+704
+Roselia
+♀
+Lv.
+18
+No item
+Combee
+♂
+Lv.
+22
+No item
+Artist
+William
+モトフミ
+Motofumi
+Reward:
+$
+960
+Mime Jr.
+♂
+Lv.
+20
+No item
+Bonsly
+♂
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Great Ball
+South (down the stairs) of Black Belt Kyle.
+Pt
+Ether
+Ledge on the eastern side of the waterfall (requires
+Rock Smash
+)
+Pt
+TinyMushroom
+Near the
+Honey Tree
+(hidden)
+Pt
+Odd Keystone
+Black Belt
+near the
+Honey Tree
+Pt
+Nanab Berry
+×2
+Patch of soil next to the
+Berry Master
+'s house
+Pt
+Razz Berry
+×2
+Patch of soil next to the
+Berry Master
+'s house
+Pt
+Bluk Berry
+×2
+Patch of soil next to the
+Berry Master
+'s house
+Pt
+Pinap Berry
+×2
+Patch of soil next to the
+Berry Master
+'s house
+Pt
+Berry Searcher
+Little girl in the
+Berry Master
+'s house on the easternmost side of the route.
+Pt
+There are many Trainers to battle on
+Route 208
+, however, two of them cannot be fought until much later in the game, when you have the necessary HMs. Go across the first section of the bridge, make a quick detour north to grab a Great Ball, then continue east down the stairs, and through the tall grass, and you will be at the entrance of
+Hearthome City
+.
+Also on this Route is the
+Berry Master's house
+. Each day, he will give you a fresh
+Berry
+. You may also get the Berry Searcher Pokétch app that shows where there are Berries ready to pick. His wife sells
+Mulch
+, which affects the growth of Berries.
+Mulch
+Berry Master
+'s wife
+Growth Mulch
+$
+200
+Damp Mulch
+$
+200
+Stable Mulch
+$
+200
+Gooey Mulch
+$
+200
+Hearthome City
+Hearthome City
+Items
+Item
+Location
+Games
+Shell Bell
+Given by a woman in the Pokémon Hotel
+Pt
+Glitter Powder
+Given by
+Keira
+in the
+Super Contest
+Hall
+Pt
+Tuxedo
+/
+Dress
+Given by
+Johanna
+in the Super Contest Hall
+Pt
+Mild Poffin
+Given by Contest Judge
+Jordan
+in the Super Contest Hall (requires
+Poffin Case
+)
+Pt
+Big Mushroom
+Near the Amity Square West Gate, on the outside of the town fence line
+(hidden)
+Pt
+Poffin Case
+Given by the Fan Club Chairman in the
+Pokémon Fan Club
+Pt
+On arriving at
+Hearthome City
+, a lost
+Buneary
+will run into you, shortly followed by
+its Trainer
+, who will thank you for catching her Buneary, and suggest that you visit the
+Super Contest
+Hall (the large building near the
+Hearthome Gym
+). Once you get there, you'll find her talking to your
+mom
+. They will both talk to you about Super Contests and leave. Go to the front desk and talk to the woman dressed in purple. She will reveal herself as
+Fantina
+, this city's
+Gym Leader
+, and return to the Gym where you will be able to challenge her.
+After that, you can take a look around the city. Next to the
+Pokémon Center
+is
+Bebe
+'s house, where
+Sinnoh
+'s administrator of the
+PC box system
+lives. If you talk to her and have a spare slot in your party, she'll hand over an
+Eevee
+. If you're into
+Pokémon breeding
+, consider saving your game before you receive the Eevee, since there is only a 12.5% chance it will be a female and otherwise, you'll have to wait until you have the National Dex to find a
+Ditto
+or another Eevee.
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Eevee
+D
+P
+Pt
+Gift
+20
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+East of the
+Poké Mart
+is the
+Pokémon Fan Club
+. Go inside and talk to the man with the hat inside. After listening to his rambles, he will give you the
+Poffin Case
+, which is essential for making
+Poffins
+. Poffins can be made in the building west of the Poké Mart, known as the
+Poffin House
+. Near the
+Poffin House
+is
+Mr. Goods
+. Although he claims he can't remember who he is or his real name, he has dedicated himself to seeking rarities. He gives
+goods
+to
+Trainers
+once they have met certain requirements. These items can be placed in the Trainer's
+Secret Base
+located in the
+Underground
+.
+Next to the
+Pokémon Fan Club
+is the Pokémon Hotel. If you go to the second floor and talk to the woman with the
+Clefairy
+, she will give you a
+Shell Bell
+, which heals the user by 1/8 of its max HP when it inflicts damage.
+Amity Square
+Amity Square
+Items
+Item
+Location
+Games
+TM43
+(
+Secret Power
+)
+On the rock in the middle of the island
+Pt
+TM45
+(
+Attract
+)
+Near the warp in the middle center north of the lake
+Pt
+Spooky Plate
+On a ledge reachable by going in the first hut from the East entrance, and warping in the east warp three times
+Pt
+Amulet Coin
+Behind the bench, all the way north from the East entrance
+Pt
+At the northwest and northeast of the city are the entrances to
+Amity Square
+, where you can find some
+Accessories
+, an
+Amulet Coin
+,
+TM43
+(
+Secret Power
+), and
+TM45
+(
+Attract
+), but you'll need to make a trip from each entrance to get all the items. Keep in mind that you'll need a "cute" Pokémon to enter - your first partner Pokémon in any of its evolutionary forms will work. Additionally, each hut contains three teleporters that can warp you to a different hut. To access them, enter the hut but stop on the tile just inside the entrance. Take a step forward, right, or left to access the hidden teleporters. It is the only way to access the area where you can obtain the
+Spooky Plate
+. A chubby man in overalls goes around Amity Square every day. To reach him, players must go through the east gate and use the teleporters. When found, he will give the player five
+Berries
+or one
+Accessory
+.
+Hearthome Gym
+Hearthome City Gym
+Once you're done exploring the town, head to the
+Hearthome Gym
+, located in the northeast corner of the city. The Gym leader,
+Fantina
+, uses
+Ghost-type
+Pokémon, which are weak to
+Dark
+- and
+Ghost
+-type moves. Ghost-types are also immune to
+Normal
+- and
+Fighting
+-type moves, but Normal-type Pokémon are immune to Ghost-type moves in return. The gym's structure is two darkened rooms each with a maze of
+Duskull
+lamps. Although you're given a flashlight at the entrance, it's still easy to see everything on the screen. The goal of the puzzle is to find a blue tile, note down the shape on it, then go to the door that has the same pattern. If you pick the wrong door, you'll find yourself back at the beginning (note that if you leave the gym and reenter, the symbol on the blue tile is randomized, so it probably won't be the same). After the second maze, you'll find Fantina - challenge her to a battle to earn the
+Relic Badge
+.
+Hearthome Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Donny
+テルヤ
+Teruya
+Reward:
+$
+352
+Gastly
+♂
+Lv.
+20
+No item
+Drifloon
+♂
+Lv.
+22
+No item
+Lass
+Molly
+ナミエ
+Namie
+Reward:
+$
+368
+Misdreavus
+♀
+Lv.
+23
+No item
+School Kid
+Chance
+ガクト
+Gakuto
+Reward:
+$
+460
+Gastly
+♂
+Lv.
+23
+No item
+School Kid
+Mackenzie
+ユミカ
+Yumika
+Reward:
+$
+420
+Drifloon
+♀
+Lv.
+21
+No item
+Drifloon
+♀
+Lv.
+21
+No item
+Ace Trainer
+Allen
+レイト
+Reito
+Reward:
+$
+1440
+Gastly
+♂
+Lv.
+21
+No item
+Gastly
+♂
+Lv.
+22
+No item
+Haunter
+♂
+Lv.
+24
+No item
+Ace Trainer
+Catherine
+ユウカ
+Yūka
+Reward:
+$
+1440
+Haunter
+♀
+Lv.
+23
+No item
+Misdreavus
+♀
+Lv.
+24
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Leader
+Fantina
+Hearthome Gym
+Platinum
+Reward:
+$
+3120
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Duskull
+♀
+Lv.
+24
+Will-O-Wisp
+Fire
+Status
+--
+Shadow Sneak
+Ghost
+Physical
+--
+Future Sight
+Psychic
+Special
+--
+Pursuit
+Dark
+Physical
+--
+Types:
+Ghost
+Poison
+Ability:
+Levitate
+Held item:
+None
+Haunter
+♀
+Lv.
+24
+Confuse Ray
+Ghost
+Status
+--
+Shadow Claw
+Ghost
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Sucker Punch
+Dark
+Physical
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+Sitrus Berry
+Mismagius
+♀
+Lv.
+26
+Confuse Ray
+Ghost
+Status
+--
+Psybeam
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Magical Leaf
+Grass
+Special
+--
+Typically of Ghost-types, Fantina's Pokémon are all pain to deal with, particularly her
+Mismagius
+. If you chose
+Turtwig
+as your first partner Pokémon or have added a
+Shinx
+to your team, their jaws should be able to
+Bite
+through Fantina's team with little problem. Her
+Duskull
+has high defense stats and may take a few hits to take down. It has
+Will-O-Wisp
+to
+burn
+and halve the Attack stat of an affected Pokémon, making it lose 1/8 of its HP each turn. Apply
+Burn Heals
+right away. It also has
+Pursuit
+and
+Shadow Sneak
+, Pursuit doing more damage if you try to
+switch out
+and Shadow Sneak
+always going first
+, like
+Quick Attack
+.
+Future Sight
+will do damage to any Pokémon, regardless of type, after two turns. Do not forget Future Sight, as it could take you out just as you think you're winning and have low HP. Contrary to her Duskull, her
+Haunter
+has very high Special Attack and Speed, but has no Special based attacks, and has quite low defenses. It has
+Shadow Claw
+, a Ghost-type attack with a high critical hit ratio, and
+Sucker Punch
+, which will strike before you for 80 power, but only works if you are attacking that turn. Like Duskull, Haunter's role is annoyance, and it will disrupt you with
+Confuse Ray
+before going in for
+Hypnosis
+to set you up for Fantina's Mismagius. Mismagius comes packing the powerful move
+Shadow Ball
+, a Ghost-type attack that synergises with Mismagius' high Sp. Atk. Not good! It also has
+Psybeam
+and
+Magical Leaf
+backing it up, with Confuse Ray to disrupt as well.
+Staravia
+would do well here as it is immune to Shadow Ball and its typing halves the damage from Magical Leaf.
+Once Fantina is defeated, she gives you the Relic Badge and
+TM65
+(
+Shadow Claw
+). You can also use
+Defog
+outside of battle, which will come in handy later on
+Route 210
+.
+Route 209
+Having earned your Relic Badge, you've now done everything there is to do in Hearthome. It's time to move east to
+Route 209
+, however before leaving, consider purchasing
+Great Balls
+from the
+Poké Mart
+- they have a 50% higher catch rate than regular Poké Balls. Make sure your team is fully healed, because as you enter the Gate that separates Hearthome City from Route 209, you'll encounter
+Barry
+, who will challenge you to another battle.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Route 209
+Platinum
+Reward:
+$
+2700
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+25
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+23
+Water Gun
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+23
+Stun Spore
+Grass
+Status
+--
+Mega Drain
+Grass
+Special
+--
+Poison Sting
+Poison
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Monferno
+♂
+Lv.
+27
+Mach Punch
+Fighting
+Physical
+--
+Leer
+Normal
+Status
+--
+Flame Wheel
+Fire
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Route 209
+Platinum
+Reward:
+$
+2700
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+25
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+23
+Tackle
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roselia
+♂
+Lv.
+23
+Stun Spore
+Grass
+Status
+--
+Mega Drain
+Grass
+Special
+--
+Poison Sting
+Poison
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Prinplup
+♂
+Lv.
+27
+Growl
+Normal
+Status
+--
+Peck
+Flying
+Physical
+--
+BubbleBeam
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Route 209
+Platinum
+Reward:
+$
+2700
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staravia
+♂
+Lv.
+25
+Double Team
+Normal
+Status
+--
+Wing Attack
+Flying
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Endeavor
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Buizel
+♂
+Lv.
+23
+Water Gun
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Pursuit
+Dark
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Ponyta
+♂
+Lv.
+23
+Tackle
+Normal
+Physical
+--
+Ember
+Fire
+Special
+--
+Growl
+Normal
+Status
+--
+Tail Whip
+Normal
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grotle
+♂
+Lv.
+27
+Tackle
+Normal
+Physical
+--
+Razor Leaf
+Grass
+Physical
+--
+Absorb
+Grass
+Special
+--
+Withdraw
+Water
+Status
+--
+This time around he'll have two new Pokémon that represent the types of the
+first partner Pokémon
+that he didn't pick at the beginning of the game. Additionally, both his first partner Pokémon and his
+Starly
+have evolved into their second forms. He shouldn't be that tough if you have a well leveled team, since your selection of Pokémon is much greater than it was last time.
+Route 209
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Albert
+Reward:
+$
+960
+Budew
+♂
+Lv.
+20
+No item
+Eevee
+♂
+Lv.
+20
+No item
+Bonsly
+♂
+Lv.
+20
+No item
+Pichu
+♂
+Lv.
+20
+No item
+Jogger
+Richard
+(
+Morning
+only)
+Reward:
+$
+736
+Luxio
+♂
+Lv.
+23
+No item
+Twins
+Emma & Lil
+Reward:
+$
+704
+Bonsly
+♀
+Lv.
+22
+No item
+Mime Jr.
+♀
+Lv.
+22
+No item
+Poké Kid
+Danielle
+Reward:
+$
+176
+Pichu
+♀
+Lv.
+22
+No item
+Jogger
+Raul
+(
+Morning
+only)
+Reward:
+$
+736
+Staravia
+♂
+Lv.
+23
+No item
+Pokémon Breeder
+Jennifer
+Reward:
+$
+960
+Budew
+♀
+Lv.
+20
+No item
+Cleffa
+♀
+Lv.
+20
+No item
+Eevee
+♂
+Lv.
+20
+No item
+Mime Jr.
+♀
+Lv.
+20
+No item
+Cowgirl
+Shelley
+Reward:
+$
+368
+Ponyta
+♀
+Lv.
+23
+No item
+Young Couple
+Ty & Sue
+Reward:
+$
+2944
+Buneary
+♂
+Lv.
+23
+No item
+Buizel
+♂
+Lv.
+23
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+19
+0%
+0%
+10%
+Chansey
+D
+P
+Pt
+Grass
+17,19
+5%
+Ralts
+D
+P
+Pt
+Grass
+17-19
+20%
+20%
+0%
+Ralts
+D
+P
+Pt
+Grass
+18-19
+0%
+0%
+10%
+Roselia
+D
+P
+Pt
+Grass
+19-20
+25%
+Duskull
+D
+P
+Pt
+Grass
+17
+0%
+0%
+10%
+Staravia
+D
+P
+Pt
+Grass
+18-19
+20%
+20%
+0%
+Staravia
+D
+P
+Pt
+Grass
+18
+0%
+0%
+10%
+Bibarel
+D
+P
+Pt
+Grass
+18-19
+30%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Good Rod
+From the
+Fisherman
+by
+Hearthome City
+entrance
+Pt
+Great Ball
+In the northeast corner of tall grass by the
+Hearthome City
+gate
+Pt
+Great Ball
+In the center of the patch of grass just outside the
+Hearthome City
+gate (
+hidden
+)
+Pt
+Super Repel
+Right in front of the first tree west of
+Twins
+Emma & Lil (
+hidden
+)
+Pt
+Chesto Berry
+Berry patch of soil northwest of Jogger Richard
+Pt
+Leppa Berry
+Berry patch of soil northwest of Jogger Richard
+Pt
+Hyper Potion
+Due east (across the south bridge) of
+Poké Kid
+Danielle.
+Pt
+Revive
+Just southwest of the Honey Tree near
+Pokémon Breeder
+Jennifer (
+hidden
+)
+Pt
+Ether
+In the middle of the Pit near the Honey Tree
+Pt
+Razz Berry
+×2
+Patch of soil next to the first pit with the mudslide
+Pt
+Stardust
+On the rock in the first pit with the mudslide (
+hidden
+)
+Pt
+Calcium
+In between trees to the north of the northernmost mudslide pit
+Pt
+TM47
+(
+Steel Wing
+)
+In between trees south of the
+Lost Tower
+(requires
+Cut
+)
+Pt
+From the entrance, go east, then north to travel directly to
+Solaceon Town
+, collecting any items that are of interest to you. On this route, there is the Broken Tower, which becomes the
+Hallowed Tower
+when an
+Odd Keystone
+(available from a Black Belt on
+Route 208
+, hidden in
+Twinleaf Town
+, or mineable in the
+Underground
+) is placed in it. After speaking to 32 people in the Underground, a
+level
+25
+Spiritomb
+will appear to battle you. You will pass the
+Lost Tower
+near the end of the route, but you will need to get
+HM05
+(
+Defog
+) first for dealing with the
+fog
+on the higher floors. Fortunately, HM05 is available not far from here, so pass it by for now. Follow the path north to reach
+Solaceon Town
+.
+← Part 5
+Eterna City to Route 207
+Platinum
+walkthrough
+Solaceon Town to Route 210
+Part 7 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,1296 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_2
+Keywords: Route 202, Jubilife City, Route 203, Oreburgh Gate, Oreburgh City, Oreburgh Mine
+
+Walkthrough Text:
+Contents
+1
+Route 202
+1.1
+Learning to Catch Pokémon
+2
+Jubilife City
+2.1
+Trainer's School
+2.2
+Pokétch Campaign
+2.3
+Jubilife Condominiums
+3
+Route 203
+4
+Oreburgh Gate
+5
+Oreburgh City
+6
+Oreburgh Mine
+Route 202
+Route 202
+Learning to Catch Pokémon
+Leave
+Sandgem Town
+between the
+Pokémon Center
+and the
+Poké Mart
+to enter
+Route 202
+, carry on along the route to meet
+Dawn
+/
+Lucas
+who will teach you how to catch a Pokémon.
+Dawn/Lucas and Player walk into grass, and you meet a wild
+Bidoof
+. Dawn/Lucas will demonstrate how to catch a Pokémon.
+If the
+player
+chose
+Turtwig
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Route 202
+Platinum
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Route 202
+Platinum
+Reward:
+Ń/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+/
+♀
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Chimchar
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Route 202
+Platinum
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Route 202
+Platinum
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+/
+♀
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Dawn
+Route 202
+Platinum
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Lucas
+Route 202
+Platinum
+Reward:
+N/A
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+/
+♀
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Simple
+or
+Unaware
+Held item:
+None
+Bidoof
+♂
+/
+♀
+Lv.
+2
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the demonstration on how to catch a Pokémon,
+Dawn
+/
+Lucas
+will give you 5
+Poké Balls
+to get you started. Go further along the route, it's pretty straightforward. You can use the ledges to escape the grass if you need to heal, and after fighting through 3
+Trainers
+, keep going west to find a
+Potion
+in a patch of grass. After this, head north to reach
+Jubilife City
+.
+Items
+Item
+Location
+Games
+Poké Ball
+×5
+Obtained from
+Dawn
+/
+Lucas
+after a demonstration on catching Pokémon
+Pt
+Potion
+Patch of grass just west of northern terminus
+Pt
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+2-4
+40%
+50%
+50%
+Shinx
+D
+P
+Pt
+Grass
+3-4
+30%
+Starly
+D
+P
+Pt
+Grass
+2,4
+20%
+20%
+10%
+Kricketot
+D
+P
+Pt
+Grass
+3
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+4
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Youngster
+Tristan
+ユウタ
+Yūta
+Reward:
+$
+80
+Starly
+♂
+Lv.
+5
+No item
+Lass
+Natalie
+ルミ
+Rumi
+Reward:
+$
+80
+Bidoof
+♀
+Lv.
+5
+No item
+Youngster
+Logan
+カツミ
+Katsumi
+Reward:
+$
+80
+Burmy
+♂
+Plant Cloak
+Lv.
+5
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Jubilife City
+Jubilife City
+Items
+Item
+Location
+Games
+Stardust
+Just outside the southern entrance of the town within the small indent to the left of the stairs
+(hidden)
+Pt
+Vs. Recorder
+Obtained from
+Looker
+on arrival
+Pt
+Town Map
+Obtained from rival after delivering the
+Parcel
+to him, in the Trainers' School
+Pt
+X Attack
+Inside
+Trainers' School
+Pt
+Potion
+Obtained after defeating
+School Kids
+in
+Trainers' School
+Pt
+Coupons 1, 2, and 3
+Obtained from
+Clown
+located between
+Poké Mart
+and
+Pokémon Center
+Obtained from
+Clown
+located in front of the
+Pokétch Company
+headquarters
+Obtained from
+Clown
+located in front of the
+Jubilife TV Station
+Pt
+Pokémon Watch
+Obtained from inventor of the Pokétch after handing him all three coupons
+Pt
+Quick Claw
+Obtained from girl on ground floor of
+Jubilife Condominiums
+Pt
+Potion
+Across the street from the the
+Pokétch Company
+headquarters, in between two of the buildings behind the
+Global Terminal
+Pt
+Old Rod
+Obtained from fisherman in western gate
+Pt
+Trainers
+Trainer
+Pokémon
+School Kid
+Harrison
+ナオト
+Naoto
+Reward:
+$
+120
+Starly
+♂
+Lv.
+6
+No item
+School Kid
+Christine
+チサト
+Chisato
+Reward:
+$
+120
+Bidoof
+♀
+Lv.
+6
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Upon entrance to
+Jubilife City
+, you will notice that it is a much larger town than either
+Twinleaf
+or Sandgem. As soon as you walk into Jubilife City, Dawn/Lucas will come up to you and talk to you for a while. Dawn/Lucas will then take you up the main street for a while, until you see
+Looker
+hiding behind a lamp post between the
+Pokémon Center
+and the Trainer's School. Looker will then talk to you for a short time. After that he will give you the
+Vs. Recorder
+and be on his way. Head west to the Trainer's School.
+Trainer's School
+Inside the school will be your rival! Go talk to him and deliver the parcel from his mom. Your rival notices that there are two town maps, so he gives you one of them. Your rival leaves promptly after this. Inside the school, you can study the blackboard to learn about
+status conditions
+, or you can battle the two Trainers in the northeast corner of the room. There is also an
+X Attack
+hidden among some of the books on the west side.
+Pokétch Campaign
+Once you leave the Trainer's School and start heading north, a man will interrupt you and tell you about a promotion for the
+Pokétch
+. If you find the three clowns and receive all the coupons, you will be given a free Pokétch!
+Clown 1
+Can be found in the area of the
+Poké Mart
+.
+Question: "Does a Pokémon grow by defeating others and gaining EXP Points?"
+The answer to this clown's question is "Yes".
+Clown 2
+This one is standing in front of the Pokétch Company in the northwest corner of town.
+Question: "Just like Pokémon types, do the moves also have types?"
+The answer to this clown's question is "Yes".
+Clown 3
+This clown is blocking the entrance to the
+Jubilife TV
+station.
+Question: "Can a Pokémon hold an item?"
+The answer to this clown's question is "Yes".
+Jubilife Condominiums
+You can find the Jubilife Condominiums to the northeast. The girl on the ground floor gives you a
+Quick Claw
+. Talk to the other NPCs if you want to hear about the Pokétch, moves, and
+Heal Balls
+, which are available at the Jubilife PokéMart across the street.
+Next, it is a good idea to head west to
+Route 218
+to obtain the
+Old Rod
+from a
+Fisherman
+. That's the only thing you'll find there for now, until you can use
+Surf
+. After you have obtained the coupons, return to the man and receive your Pokétch. After you are finished exploring Jubilife City, your next destination is
+Route 203
+.
+Be prepared for a rival battle, though, so heal up your Pokémon at the
+Pokémon Center
+before continuing and train if necessary.
+Route 203
+Route 203
+After leaving
+Jubilife City
+, you will quickly be challenged by your rival.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Route 203
+Platinum
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+Lv.
+9
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Route 203
+Platinum
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+Lv.
+9
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Route 203
+Platinum
+Reward:
+$
+900
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Starly
+♂
+Lv.
+7
+Quick Attack
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+Lv.
+9
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Trainers
+Trainer
+Pokémon
+Youngster
+Michael
+トモキ
+Tomoki
+Reward:
+$
+96
+Kricketot
+♂
+Lv.
+7
+No item
+Zubat
+♂
+Lv.
+6
+No item
+Youngster
+Dallas
+マサル
+Masaru
+Reward:
+$
+128
+Shinx
+♂
+Lv.
+8
+No item
+Youngster
+Sebastian
+ミツオ
+Mitsuo
+Reward:
+$
+128
+Machop
+♂
+Lv.
+8
+No item
+Lass
+Kaitlin
+サユリ
+Sayuri
+Reward:
+$
+64
+Bidoof
+♀
+Lv.
+4
+No item
+Budew
+♀
+Lv.
+4
+No item
+Starly
+♀
+Lv.
+4
+No item
+Abra
+♂
+Lv.
+4
+No item
+Lass
+Madeline
+チカ
+Chika
+Reward:
+$
+128
+Psyduck
+♀
+Lv.
+8
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+D
+P
+Pt
+Grass
+4
+0%
+0%
+10%
+Abra
+D
+P
+Pt
+Grass
+4-5
+15%
+Starly
+D
+P
+Pt
+Grass
+4, 6, 7
+25%
+Starly
+D
+P
+Pt
+Grass
+5
+10%
+10%
+0%
+Bidoof
+D
+P
+Pt
+Grass
+5-7
+15%
+Bidoof
+D
+P
+Pt
+Grass
+4
+0%
+10%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+4
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+5
+0%
+0%
+10%
+Shinx
+D
+P
+Pt
+Grass
+4-5
+25%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+Near the ledge on the lower western plateau
+Pt
+Repel
+North of the pond
+Pt
+X Defend
+Near the ledge on the higher eastern plateau
+Pt
+Afterwards you can travel along
+Route 203
+, battling Trainers and picking up items. This route is notably the only place where you can catch a
+level
+7
+Bidoof
+before using
+Rock Smash
+. Once this Bidoof reaches level 15 and
+evolves
+, it can learn any four of the six
+HM
+moves required to reach any location in this game. You can then leave it at level 15 so that more experience goes to the Pokémon that do not need to know weak HM moves, such as Rock Smash,
+Cut
+, or
+Rock Climb
+.
+Oreburgh Gate
+Oreburgh Gate
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Zubat
+D
+P
+Pt
+Cave
+5-8
+50%
+Psyduck
+D
+P
+Pt
+Cave
+5-7
+35%
+Geodude
+D
+P
+Pt
+Cave
+5,7
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM06
+(
+Rock Smash
+)
+From the Hiker near the mine's entrance
+Pt
+Trainers
+1F
+Camper
+Curtis
+ハジメ
+Hajime
+Reward:
+$
+112
+Starly
+♂
+Lv.
+7
+No item
+Shinx
+♂
+Lv.
+7
+No item
+Picnicker
+Diana
+サチコ
+Sachiko
+Reward:
+$
+144
+Bidoof
+♀
+Lv.
+9
+No item
+A hiker greets you at the entrance of
+Oreburgh Gate
+. He gives you
+HM06
+(
+Rock Smash
+), but you can't use it outside of battle until you have the
+Coal Badge
+. Proceed east and you have the option to battle a Camper and Picnicker, respectively. After getting through the tunnel, you'll arrive in Oreburgh City.
+Oreburgh City
+Oreburgh City
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Abra
+D
+P
+Pt
+Trade
+Machop
+Same as the traded Pokémon
+Only one
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dusk Ball
+Obtained from a girl on the second floor of the northwestern-most building
+Pt
+Oran Berry
+Held by
+Kazza
+Pt
+Heal Ball
+Obtained in the house to the left of the
+Poké Mart
+, from a man on the second floor if shown a
+Geodude
+Pt
+Great Ball
+Obtained in the house below the
+Museum
+and to the right of the
+Pokémon Center
+, from a boy on the second floor
+Pt
+Dire Hit
+Obtained by the slag heap in the mining section
+Pt
+Yellow Shard
+To the left of the Dire Hit by the slag heap in the mining section
+Pt
+Heart Scale
+In the middle of the slag heap in the mining section
+(hidden)
+Pt
+Pearl
+On the left side of the slag heap in the mining section
+(hidden)
+Pt
+Super Potion
+Obtained from a worker in the bottom right corner of the town by the Mine entrance
+Pt
+Oreburgh City
+is the location of your first Gym challenge... but the
+Gym Leader
+isn't awaiting your challenge: He's in
+Oreburgh Mine
+, located south of the Pokémon Center. From this city, you also have the option of heading through the north exit to
+Route 207
+to find some new wild Pokémon.
+In one of the houses here, there is a woman, Hilary, who will
+trade
+you her
+Abra
+, nicknamed Kazza, in exchange for a Machop, which you can catch on
+Route 207
+. Until you become able to use
+another move
+later in the game, Abra's
+Teleport
+will be very useful as transportation. Additionally, remember the
+Oreburgh Mining Museum
+, as it will be useful if you find
+Fossils
+later in the game.
+Oreburgh Mine
+The bottom of Oreburgh Mine
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Zubat
+D
+P
+Pt
+Cave
+5-7
+25%
+Geodude
+D
+P
+Pt
+Cave
+4-8
+65%
+Onix
+D
+P
+Pt
+Cave
+6,8
+10%
+B1F
+Zubat
+D
+P
+Pt
+Cave
+6-8
+25%
+Geodude
+D
+P
+Pt
+Cave
+5-9
+65%
+Onix
+D
+P
+Pt
+Cave
+7,9
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Poké Ball
+To the right of the main entrance/exit
+Pt
+Escape Rope
+South of the
+ledge
+, in the southwestern corner
+Pt
+Potion
+On the right side of the coal slab
+Pt
+Trainers
+Trainer
+Pokémon
+Worker
+Mason
+ゲンタ
+Genta
+Reward:
+$
+360
+Geodude
+♂
+Lv.
+9
+No item
+Worker
+Colin
+カンジ
+Kanji
+Reward:
+$
+320
+Geodude
+♂
+Lv.
+6
+No item
+Machop
+♂
+Lv.
+8
+No item
+After walking down the steps leading to the inside of
+Oreburgh Mine
+, you will enter a rectangular room. Upon reaching the large block of coal in the center of the room, turn right, and then walk south until you reach the end of the wall, at which point you should see a red-haired man in a mining helmet a few steps to your left. Talk to him, and he will introduce himself as
+Roark
+, the town's Gym Leader, and show you how to use Rock Smash. He then tells you that he will be back at the Gym, ready to challenge you. Exit the mine and head to the Gym.
+← Part 1
+Twinleaf Town to Sandgem Town
+Platinum
+walkthrough
+Oreburgh Gym to Floaroma Meadow
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

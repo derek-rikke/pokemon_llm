@@ -1,0 +1,853 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_18
+Keywords: Ever Grande City, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Having defeated every Gym Leader and earned all eight Badges, the next destination is
+Ever Grande City
+. The city lies on
+Hoenn
+'s most remote island, on the far eastern edge of the region. To get there, sail southward from
+Mossdeep City
+, then eastward through
+Route 128
+'s narrow channel.
+Contents
+1
+Ever Grande City (south)
+2
+Victory Road
+2.1
+1F
+2.2
+B1F
+2.3
+B2F
+2.4
+B1F
+2.5
+1F
+2.5.1
+VS Wally
+3
+Ever Grande City (north)
+Ever Grande City (south)
+Ever Grande City
+High above the ocean,
+Ever Grande City
+is lush with grass and flowers. The large waterfall makes it impossible to reach the city itself without a Pokémon able to
+scale
+the cascading waters. The island is divided by
+Victory Road
+, which runs through a large mountain at the center of the isle. Visit the Pokémon Center to make your preparations before braving this final challenge on the road to the
+Pokémon League
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Luvdisc
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Luvdisc
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Corsola
+R
+S
+E
+Fishing
+Super Rod
+30-35
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Victory Road
+Victory Road, 1F
+Victory Road, B1F
+Victory Road, B2F
+Victory Road
+, the long, tough trail through the mountainside, is the final challenge on the road to the
+Pokémon League
+. This grueling trail serves as a way to weed out all but the most determined Trainers. The field moves
+Surf
+,
+Strength
+,
+Rock Smash
+, and
+Waterfall
+are required to reach the other side, while
+Flash
+is optional. If you can make it through this daunting tunnel, you just might have what it takes to enter the
+Hall of Fame
+!
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Albert
+Reward:
+$
+2064
+Manectric
+♂
+Lv.
+43
+No item
+Muk
+♂
+Lv.
+43
+No item
+Cooltrainer
+Hope
+Reward:
+$
+2112
+Roselia
+♀
+Lv.
+44
+No item
+Cooltrainer
+Shannon
+Reward:
+$
+2112
+Claydol
+Lv.
+44
+No item
+Cooltrainer
+Samuel
+Reward:
+$
+2016
+Dodrio
+♂
+Lv.
+42
+No item
+Lairon
+♂
+Lv.
+42
+No item
+Kadabra
+♂
+Lv.
+42
+No item
+Cooltrainer
+Julie
+Reward:
+$
+2064
+Sandslash
+♀
+Lv.
+43
+No item
+Ninetales
+♀
+Lv.
+43
+No item
+Cooltrainer
+Owen
+Reward:
+$
+2016
+Kecleon
+♂
+Lv.
+42
+No item
+Rhyhorn
+♂
+Lv.
+42
+No item
+Tentacruel
+♂
+Lv.
+42
+No item
+Cooltrainer
+Caroline
+Reward:
+$
+2064
+Mawile
+♀
+Lv.
+43
+No item
+Sableye
+♀
+Lv.
+43
+No item
+Cooltrainer
+Vito
+Reward:
+$
+2016
+Swellow
+♂
+Lv.
+42
+No item
+Kadabra
+♂
+Lv.
+42
+No item
+Manectric
+♂
+Lv.
+42
+No item
+Shiftry
+♂
+Lv.
+42
+No item
+Cooltrainer
+Michelle
+Reward:
+$
+2016
+Nosepass
+♀
+Lv.
+42
+No item
+Medicham
+♀
+Lv.
+42
+No item
+Ludicolo
+♀
+Lv.
+42
+No item
+Cooltrainer
+Edgar
+Reward:
+$
+2112
+Cacturne
+♂
+Lv.
+44
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+38, 40
+25%
+Hariyama
+R
+S
+E
+Cave
+38, 40
+25%
+Zubat
+R
+S
+E
+Cave
+36
+10%
+Lairon
+R
+S
+E
+Cave
+40
+10%
+Loudred
+R
+S
+E
+Cave
+40
+10%
+Makuhita
+R
+S
+E
+Cave
+36
+10%
+Whismur
+R
+S
+E
+Cave
+36
+5%
+Aron
+R
+S
+E
+Cave
+36
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+38, 40, 42
+35%
+Hariyama
+R
+S
+E
+Cave
+38, 40, 42
+35%
+Lairon
+R
+S
+E
+Cave
+40, 42
+15%
+Medicham
+R
+S
+E
+Cave
+40
+10%
+Meditite
+R
+S
+E
+Cave
+38
+5%
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+30-40
+70%
+Graveler
+R
+S
+E
+Rock Smash
+30-40
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+40, 42, 44
+35%
+Mawile
+R
+S
+E
+Cave
+40, 42, 44
+35%
+Sableye
+R
+S
+E
+Cave
+40, 42, 44
+35%
+Lairon
+R
+S
+E
+Cave
+40, 42, 44
+15%
+Medicham
+R
+S
+E
+Cave
+40, 42, 44
+15%
+Surfing
+Golbat
+R
+S
+E
+Surfing
+25-40
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Barboach
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Whiscash
+R
+S
+E
+Fishing
+Super Rod
+30-45
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Max Elixir
+On a ledge on the east side of the floor
+R
+S
+PP Up
+On the southeast cliff, accessible via B1F
+R
+S
+Ultra Ball
+On the west edge of the southeast cliff, accessible via B1F (hidden)
+R
+S
+B1F
+Full Restore
+North of Cooltrainer Samuel (requires
+Strength
+,
+Rock Smash
+)
+R
+S
+TM29
+(
+Psychic
+)
+Isolated northeast cliff, accessible via B2F
+R
+S
+B2F
+Max Repel
+In a nook near the northeast ladder (hidden)
+R
+S
+Full Heal
+Between the two waterfalls, near Cooltrainer Vito
+R
+S
+Elixir
+In a nook atop the eastern waterfall (hidden)
+R
+S
+1F
+Head north under the first two bridges and climb the north-northwest stairway. Turn east and cross over these next two bridges to reach a
+Max Elixir
+on a ledge to the east. Jump the ledge and head to the northwest, battling Cooltrainer Albert on the way. Climb the west-central stairway to battle Cooltrainer Hope in the northwest corner, and take the ladder down to B1F.
+B1F
+As this level is deeper underground, it's a good idea to use
+Flash
+to light the way. There are two boulders nearby; use
+Strength
+to move the first boulder westward and the second boulder eastward. This leads to a fork in the road. Take the northern path past cracked rocks, boulders, and Cooltrainer Shannon to reach the ladder in the southeast corner; this leads to a
+PP Up
+and a hidden
+Ultra Ball
+on 1F. Back on B1F, jump the nearby ledge and head north past Cooltrainer Samuel to find a
+Full Restore
+beyond some boulders and a cracked rock. Backtrack to the southeast ledge, then go west to reach the next ladder.
+B2F
+Go north to fight Cooltrainer Julie and
+Surf
+north across the water's edge. Climb the stairway, check the nook in the north wall for a hidden
+Max Repel
+, then take the northeast ladder to an isolated cliff on B1F, which holds
+TM29
+(
+Psychic
+). Back on B2F, head south to battle Cooltrainer Owen. After that, pass over the two bridges to fight Cooltrainer Caroline at the west end. Go north to find yourself at the top of a waterfall. Surf out to the northeast to battle
+Cooltrainer Vito
+and claim a
+Full Heal
+, then continue east to find a hidden
+Elixir
+atop the eastern waterfall. Turn around and ride down the western waterfall before turning east to reach the next ladder.
+B1F
+Jumping the ledge to the west leads only to a battle with Cooltrainer Michelle. Head southeast instead and use Strength and Rock Smash to clear a way to the final ladder.
+1F
+Cross over the final bridge and head north to fight Cooltrainer Edgar. Go a short distance northward and turn the corner to come within view of the exit, just as
+Wally
+catches up to you. After a short conversation, you find that the sickly, weak-willed kid you met back in
+Petalburg City
+is no more. In his place stands a confident Trainer, ready to show off how much training he's done!
+VS Wally
+Wally leads with his
+Altaria
+, a
+Dragon
+/
+Flying
+type that is especially vulnerable to
+Ice
+attacks. It can raise its
+Attack
+and
+Speed
+with
+Dragon Dance
+, so use super-effective moves to take it down before it becomes a major threat.
+Delcatty
+may be his weakest Pokémon, but it can still cause problems with
+Sing
+,
+Charm
+, and its
+Cute Charm
+Ability. Its stats aren't very threatening, but knock it out quickly to avoid these pitfalls. With moves like
+Toxic
+and
+Leech Seed
+, his
+Roselia
+can tip the battle in his favor as time goes on. Knock it out with
+Fire
+,
+Ice
+,
+Flying
+, or
+Psychic
+moves.
+Magneton
+can be a major threat due to its high
+Special Attack
+and
+Sturdy
+Ability, which prevents a one-hit knockout. Strike it with
+Ground
+moves to take it down. Finally, Wally resorts to using his
+Gardevoir
+.
+Psychic
+and
+Future Sight
+are strong attacks that receive a
+same-type attack bonus
+, and
+Calm Mind
+can boost its damage output to dangerous levels. Use
+Dark
+,
+Ghost
+, and
+Bug
+moves to knock it out and win the battle.
+P
+K
+M
+N
+Trainer
+Wally
+Victory Road
+Ruby and Sapphire
+Reward:
+$
+2700
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+44
+Safeguard
+Normal
+--
+Dragon Dance
+Dragon
+--
+Aerial Ace
+Flying
+--
+DragonBreath
+Dragon
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+43
+Sing
+Normal
+--
+Faint Attack
+Dark
+--
+Charm
+Normal
+--
+Assist
+Normal
+--
+Types:
+Grass
+Poison
+Ability:
+Poison Point
+Held item:
+None
+Roselia
+♂
+Lv.
+44
+Leech Seed
+Grass
+--
+Toxic
+Poison
+--
+Magical Leaf
+Grass
+--
+Giga Drain
+Grass
+--
+Types:
+Electric
+Steel
+Ability:
+Magnet Pull
+Held item:
+None
+Magneton
+Lv.
+41
+Thunderbolt
+Electric
+--
+Tri Attack
+Normal
+--
+Screech
+Normal
+--
+Supersonic
+Normal
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Gardevoir
+♂
+Lv.
+45
+Psychic
+Psychic
+--
+Double Team
+Normal
+--
+Future Sight
+Psychic
+--
+Calm Mind
+Psychic
+--
+Wally admits that he couldn't defeat you this time, but promises to continue his training and catch up to you one day. Continue northward and cross the bridge to reach the exit.
+Ever Grande City (north)
+With
+Victory Road
+behind you, only a long, stone walkway separates you from the Pokémon League, where the Elite Four and Champion await your challenge. Follow the walkway to the large building at its end, and prepare for your final test.
+← Part 17
+Routes 132, 133, and 134, Island Cave, Desert Ruins, Ancient Tomb
+Ruby and Sapphire
+walkthrough
+Pokémon League
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

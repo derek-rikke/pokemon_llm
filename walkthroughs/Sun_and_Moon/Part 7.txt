@@ -1,0 +1,1214 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_7
+Keywords: Heahea City, Route 4, Paniola Town, Paniola Ranch, Pokémon Nursery
+
+Walkthrough Text:
+Contents
+1
+Heahea City
+1.1
+Welcome to Akala
+1.2
+Ferry Terminal
+1.3
+Akala Tourist Bureau
+1.3.1
+Name Rater
+1.4
+Apparel Shop
+1.5
+Tide Song Hotel
+1.5.1
+VS Dexio
+S
+1.5.2
+VS Sina
+M
+2
+Route 4
+3
+Paniola Town
+3.1
+Rival Battle 4
+3.1.1
+Player chose Rowlet:
+3.1.2
+Player chose Litten:
+3.1.3
+Player chose Popplio:
+3.2
+Kiawe's House
+4
+Paniola Ranch
+4.1
+Moomoo Paddock
+4.2
+Southern Paddock
+4.3
+Pokémon Nursery
+Heahea City
+Akala Island
+Heahea City
+Kukui
+'s boat delivers its passengers to
+Heahea City
+on
+Akala Island
+. Akala is much larger than
+Melemele Island
+, with more to do and more Pokémon to catch. Heahea City is known as the "front door" to the island, and offers a warm welcome to all visitors. The city is home to the
+Tide Song Hotel
+and the Dimensional Research Lab, and hosts its own apparel shop as well.
+Items
+Item
+Location
+Games
+$
+10,000
+From the old man in the apparel shop, after registering
+Pyukumuku
+in the Pokédex
+S
+M
+Rare Candy
+From the woman across the street from the apparel shop
+S
+M
+Zygarde Cube
+From
+Dexio
+in front of
+Tide Song Hotel
+, after defeating him
+S
+or
+Sina
+M
+S
+M
+Lemonade
+From a woman in the
+Game Freak
+office
+S
+M
+Big Mushroom
+Behind the Dimensional Research Lab
+S
+M
+After obtaining the Zygarde Cube
+Zygarde Cell
+×2
+Tide Song Hotel; back-left corner of the lobby
+Outside the Dimensional Research Lab; east of the satellite dish
+Night
+S
+M
+Welcome to Akala
+When Kukui and his passengers disembark, they are met by two young women.
+Olivia
+wishes good luck to you and
+Hau
+on your island challenge, and is looking forward to battling the two Trainers when the time comes.
+Mallow
+introduces herself as one of the island's trial captains, and the two leave. The professor reveals that Olivia is indeed the
+Akala Island
+Kahuna
+, and that there are three trials on the island. He advises you that the nearest trial is located beyond
+Route 4
+and
+Paniola Town
+to the northeast. Hau leaves for the Pokémon Center, more interested in the local selection of malasadas.
+Lillie
+decides to do some shopping and investigate another set of ruins for Nebby. The group disperses, and Rotom unlocks a new section of the Pokédex: the
+Akala Pokédex
+!
+Ferry Terminal
+The Ferry Terminal is the first building at the end of the street. Now that you have reached Akala Island, you may take the ferry between
+Hau'oli City
+and
+Heahea City
+at any time.
+Akala Tourist Bureau
+Name Rater
+The
+Alola
+region's resident
+Name Rater
+can be found in the Akala Tourist Bureau building, just east of the ferry terminal. This man has the power to evaluate and change your Pokémon's nicknames as often as you would like. However, he cannot change a Pokémon's nickname if it first belonged to someone else.
+Apparel Shop
+The apparel shop is housed inside the next building to the east.
+Lillie
+and
+Nebby
+can be found outside. Nebby is anxious to investigate the
+Ruins of Life
+, the home of
+Akala Island
+'s
+guardian deity
+,
+Tapu Lele
+. Lillie invites you along, and will be waiting outside the
+Tide Song Hotel
+for you. She will be meeting someone there in the meantime, someone important to her... She warns you about the no-good group that has been stealing Pokémon,
+Team Skull
+, before scooping Nebby into her bag and heading off.
+Inside the apparel shop, there is an old man, a former trial captain, to the right. He misses his former role, and offers you a makeshift trial: visit the beach near
+Hano Grand Resort
+on the southeast side of the island to catch a
+Pyukumuku
+. Speak to him again after registering the Pokémon in your Pokédex to receive a
+$
+10,000 reward.
+The shop offers a different selection than the one in
+Hau'oli City
+. It sells
+fashion items
+, offering tops, bottoms, shoes, hats, and eyewear, as well as socks for female Trainers.
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Sporty Tank
+Sludge
+$
+12,500
+Top
+Iconic Top
+Custom
+$
+6,800
+Top
+Wolf Tank
+Custom
+$
+6,800
+Top
+Bone Keeper Tank
+Custom
+$
+6,800
+Top
+Dark Tank
+Custom
+$
+6,800
+Top
+Hard Scale Tank
+Custom
+$
+6,800
+Top
+Star-Print Polo
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+5,800
+Bottom
+Patterned Cargo Shorts
+Flowers
+Striped
+$
+12,800
+Bottom
+Sporty Long Shorts
+Sludge
+$
+8,900
+Bottom
+Plain Cargo Shorts
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+4,500
+Shoes
+Penny Loafers
+Order, Thunderbolt, Scaly
+Long Neck
+Cruel
+$
+14,500
+Hat
+Sports Cap
+Sludge
+$
+5,800
+Eyewear
+Horn-Rimmed Glasses
+White, Black
+Red, Yellow, Orange, Pink
+Green, Blue, Navy Blue, Purple
+$
+4,900
+Type
+Item
+Patterns by availability
+Price
+S
+M
+US
+UM
+S
+US
+M
+UM
+Top
+Houndstooth Tank
+Custom
+$
+6,800
+Top
+Cobra Tank
+Custom
+$
+6,800
+Top
+Iconic Top
+Custom
+$
+6,800
+Top
+Sporty Tank
+Sludge
+$
+12,500
+Top
+Polka-Dot Ruffled Tank
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+3,580
+Top
+Gothorita Tank
+Custom
+$
+2,900
+Top
+Luvdisc Tank
+Custom
+$
+2,900
+Bottom
+Sporty Shorts
+Sludge
+$
+8,900
+Bottom
+Flower-Print Flared Skirt
+White, Black
+Red, Yellow, Orange, Pink, Beige
+Green, Blue, Navy Blue, Purple, Gray
+$
+6,800
+Socks
+Over-the-Knee Socks
+Floral Print
+Striped
+$
+2,100
+Shoes
+Espadrilles
+Order, Thunderbolt, Scaly
+Long Neck
+Cruel
+$
+14,500
+Hat
+Sports Cap
+Sludge
+$
+5,800
+Eyewear
+Horn-Rimmed Glasses
+White, Black
+Red, Yellow, Orange, Pink
+Green, Blue, Navy Blue, Purple
+$
+4,900
+Tide Song Hotel
+The
+Tide Song Hotel
+is a large hotel on the north side of the city, accessed by the street next to the apparel shop. Along the way, you meet a couple of Trainers on a sightseeing trip from
+another region
+, who introduce themselves as
+Dexio
+and
+Sina
+. They are fascinated by the island challenge tradition, and one of them challenges you to a battle.
+VS Dexio
+S
+Pokémon Trainer
+Dexio
+Heahea City
+Sun
+Reward:
+$
+2,240
+Types:
+Water
+Psychic
+Ability:
+Own Tempo
+Held item:
+None
+Slowpoke
+♂
+Lv.
+15
+Confusion
+Psychic
+Special
+--
+Water Gun
+Water
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Espeon
+♂
+Lv.
+16
+Confusion
+Psychic
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+VS Sina
+M
+Pokémon Trainer
+Sina
+Heahea City
+Moon
+Reward:
+$
+2,240
+Types:
+Ice
+Flying
+Ability:
+Vital Spirit
+Held item:
+None
+Delibird
+♀
+Lv.
+15
+Present
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Snow Cloak
+Held item:
+None
+Glaceon
+♀
+Lv.
+16
+Icy Wind
+Ice
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterward, Sina heals your Pokémon to full health. Dexio says how your battle reminded him of he and Sina in the past, and a group of five young Trainers. He rewards you with the
+Zygarde Cube
+, a means to collect the Cores and Cells of a Pokémon named
+Zygarde
+. Dexio says he will give you the details at another time, and asks that you keep the item safe for now. As they leave, he recommends heading to
+Route 4
+to continue your island challenge.
+Inside the hotel itself, there is a mysterious green sparkle in the far left corner of the lobby. Check it, and the strange creature is sucked up into the Zygarde Cube. Just then, you receive a call from
+Sina
+. She explains that the creature you just found is a Zygarde Cell, and the Zygarde Cube acts as a nest for Cells and Cores. She tasks you with collecting all of the Zygarde Cells and Cores in the region, and ends the call.
+Lillie can be found on the other side of the lobby. She got scared by some people who looked like
+Team Skull
+and ducked inside the hotel to avoid them, but ended up missing her meeting. She asks if you are headed to your next trial, and directs you to
+Route 4
+.
+Route 4
+Route 4
+Route 4
+is a winding, nature-filled path that connects
+Heahea City
+with
+Paniola Town
+to the northeast.
+Trainers
+Trainer
+Pokémon
+Bellhop
+Jody
+Reward:
+$
+560
+Drifloon
+♂
+Lv.
+14
+No item
+Collector
+Bryan
+Reward:
+$
+448
+Munchlax
+♂
+Lv.
+13
+No item
+Bagon
+♂
+Lv.
+14
+No item
+Sightseer
+Scotty
+Reward:
+$
+840
+Rattata
+♂
+Lv.
+14
+No item
+Cook
+Ernie
+Reward:
+$
+560
+Cutiefly
+♂
+Lv.
+14
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Lillipup
+Lillipup
+S
+M
+Grass
+11-14
+30%
+Mudbray
+Mudbray
+S
+M
+Grass
+11-14
+20%
+Pikipek
+Pikipek
+S
+M
+Grass
+11-14
+15%
+25%
+Grubbin
+Grubbin
+S
+M
+Grass
+11-14
+10%
+Yungoos
+Yungoos
+S
+M
+Grass
+11-14
+10%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+11-14
+-
+10%
+Igglybuff
+Igglybuff
+Jigglypuff
+Happiny
+S
+M
+Grass
+11-14
+10%
+-
+Eevee
+Eevee
+Espeon
+S
+M
+Grass
+11-14
+5%
+-
+Eevee
+Eevee
+Umbreon
+S
+M
+Grass
+11-14
+-
+5%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+11-14
+100%
+Exclusively from
+Island Scan
+Venipede
+N/A
+S
+M
+Grass
+14
+One
+Th
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Great Ball
+Clearing between two grass patches, east of Heahea City
+S
+M
+Tiny Mushroom
+On a rock, narrow path near the first Trainer Tips sign
+(hidden)
+S
+M
+Zygarde Cell
+On the cliff overlooking the southwest hill
+S
+M
+Revive
+Upper level; behind Collector Bryan and the southwest grass patch
+S
+M
+Dire Hit
+Upper level; north side of the rock formation
+(hidden)
+S
+M
+Adrenaline Orb
+Upper level; below the ledge
+S
+M
+Energy Root
+South of Paniola Town, south side of the grass patch
+S
+M
+Big Mushroom
+South of the Berry tree
+(hidden)
+S
+M
+Paniola Town
+Paniola Town
+Paniola Town
+is a small town surrounded by farmland and grazing pastures in the middle of
+Akala Island
+.
+Paniola Ranch
+lies to the north.
+Items
+Item
+Location
+Games
+Dire Hit
+From Hau, after battling him
+S
+M
+Revive
+In front of the hay cart on the west side of town
+(hidden)
+S
+M
+Fresh Water
+Southwest corner of town, near the fence
+(hidden)
+S
+M
+Quick Ball
+From a
+Magmar
+on the second floor of
+Kiawe
+'s house
+S
+M
+Later visit
+TM88
+(
+Sleep Talk
+)
+Area accessible via Route 6; south side
+S
+M
+Super Repel
+Area accessible via Route 6; north side, on the hay bales
+(hidden)
+S
+M
+Protector
+From Kiawe's father, after becoming Champion
+S
+M
+Rival Battle 4
+A short time after entering the town,
+Hau
+catches up with you. It seems that he has passed
+Hala
+'s grand trial and received his own
+Normalium Z
+, and he is ready to try it out! In order to have an honorable showdown, he heals your Pokémon before the battle begins.
+Player chose Rowlet:
+Pokémon Trainer
+Hau
+Paniola Town
+Sun and Moon
+Reward:
+$
+680
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+16
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Normalium Z
+Brionne
+♂
+Lv.
+17
+Aqua Jet
+Water
+Physical
+--
+Disarming Voice
+Fairy
+Special
+--
+Pound
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Player chose Litten:
+Pokémon Trainer
+Hau
+Paniola Town
+Sun and Moon
+Reward:
+$
+680
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+16
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Flying
+Ability:
+Overgrow
+Held item:
+Normalium Z
+Dartrix
+♂
+Lv.
+17
+Razor Leaf
+Grass
+Physical
+--
+Peck
+Flying
+Physical
+--
+Tackle
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Player chose Popplio:
+Pokémon Trainer
+Hau
+Paniola Town
+Sun and Moon
+Reward:
+$
+680
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+None
+Pikachu
+♂
+Lv.
+16
+Electro Ball
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+Normalium Z
+Torracat
+♂
+Lv.
+17
+Fire Fang
+Fire
+Physical
+--
+Lick
+Ghost
+Physical
+--
+Scratch
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Afterward, he gives you a
+Dire Hit
+before running off northward to
+Paniola Ranch
+.
+Kiawe's House
+The house across the street from the Pokémon Center belongs to
+Kiawe
+, one of Akala's trial captains. Step inside to find his mother and a
+Magmar
+on the first floor. Climb the stairs to find several more Magmar in the upstairs hallway, one of which gives you a
+Quick Ball
+.
+Paniola Ranch
+Paniola Ranch
+Paniola Ranch
+is a farmland area that includes Moomoo Paddock, a pasture for tending Pokémon like
+Tauros
+and
+Miltank
+, and the
+Alola
+region's
+Pokémon Nursery
+.
+Trainers
+Trainer
+Pokémon
+Madame
+Elizabeth
+Reward:
+$
+3,000
+Carbink
+Lv.
+15
+No item
+Pokémon Breeder
+Wesley
+Reward:
+$
+600
+Tauros
+♂
+Lv.
+15
+No item
+Pokémon Breeder
+Glenn
+Reward:
+$
+600
+Mudbray
+♂
+Lv.
+15
+No item
+Gentleman
+Gerald
+Reward:
+$
+3,000
+Sableye
+♂
+Lv.
+15
+No item
+Pokémon Breeder
+Amanda
+Reward:
+$
+600
+Lillipup
+♀
+Lv.
+14
+No item
+Growlithe
+♂
+Lv.
+15
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Mudbray
+Mudbray
+S
+M
+Grass
+12-15
+50%
+Lillipup
+Lillipup
+S
+M
+Grass
+12-15
+40%
+Tauros
+Tauros
+Miltank
+S
+M
+Grass
+12-15
+5%
+Miltank
+Miltank
+Tauros
+S
+M
+Grass
+12-15
+5%
+Gift Pokémon
+Eevee
+N/A
+S
+M
+Egg
+1
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM10
+(
+Hidden Power
+)
+From a woman inside the Pokémon Nursery
+S
+M
+Moomoo Paddock
+Stoutland Search
+From Mallow on the player's first visit
+S
+M
+Moomoo Milk
+East of the bench on the north side
+(hidden)
+S
+M
+Scope Lens
+From Pokémon Breeder Wesley, after defeating him
+S
+M
+Fresh Water
+Near the pool of water, north of the gap where the Tauros drink
+(hidden)
+S
+M
+Repel
+South side, east of the pair of hay bales
+(hidden)
+S
+M
+Southern paddock
+Soda Pop
+In the field north of the Trainer Tips sign
+(hidden)
+S
+M
+Super Repel
+Middle of the field in the southwest corner
+(hidden)
+S
+M
+Ether
+Southwest corner
+S
+M
+Zygarde Cell
+×2
+Northeast corner, clearing in the tall grass patch
+Day
+Northwest of the first ramp
+Night
+S
+M
+Eastern paddock
+Oval Stone
+Fenced area with hay bales south of the Nursery, next to the spade
+(hidden)
+S
+M
+Eastern road
+Amulet Coin
+Behind the truck, east of the Nursery
+S
+M
+Big Mushroom
+Southeast of the Nursery, center of the grass patch
+(hidden)
+S
+M
+Heal Ball
+Opposite the grass field southeast of the Pokémon Nursery
+S
+M
+Later visit
+Mystic Water
+From the kid, after scaring off the
+Sudowoodo
+(requires
+Waterium Z
+)
+S
+M
+Follow the path around the first bend to battle Madame Elizabeth. A Pokémon Breeder stands at the entrance to the first paddock; recognizing you as a trial-goer, he reveals that there is a captain visiting the ranch and invites you inside.
+Moomoo Paddock
+It turns out to be
+Mallow
+, who is here to get Moomoo Milk to use in her recipes. Since she was lucky enough to run into you, she registers
+Stoutland
+in your
+Ride Pager
+. This lets you access
+Stoutland Search
+, which calls a Stoutland that is able to sniff out hidden items. When riding Stoutland, press the B Button to search, then press the A Button when the exclamation point above it turns red. As she leaves, Mallow suggests visiting her friend
+Lana
+in
+Brooklet Hill
+.
+There is a lone
+Tauros
+in the paddock's northwest corner that has been behaving aggressively. Interact with it to trigger a battle with Pokémon Breeder Wesley, who rewards your victory with a
+Scope Lens
+. Use
+Stoutland Search
+to find a
+Moomoo Milk
+,
+Fresh Water
+, and
+Repel
+before moving on.
+Southern Paddock
+Head southeast to enter the first patch of tall brown grass in the eastern paddock. Use Stoutland Search to locate a hidden
+Soda Pop
+, and collect the
+Zygarde Cell
+in the northeast corner
+Day
+. Climb over the dirt ramp to reach another Zygarde Cell
+Night
+and an
+Ether
+in the southwest corner. Go east to battle Pokémon Breeder Glenn and continue on to reach the Nursery.
+Pokémon Nursery
+The
+Pokémon Nursery
+is located near the junction at the eastern end of the ranch. The place is run by a pair of Pokémon Breeders, two sisters who were inspired by the
+Pokémon Day Cares
+in other regions. Trainers may leave two Pokémon in the Nursery to produce
+Pokémon Eggs
+. Pokémon that are left here will not level up, and the cost for retrieving a Pokémon is always
+$
+500. On your first visit, the woman behind the counter gives you a Pokémon Egg that was just recently found!
+A woman inside the Nursery gives out
+TM10
+(
+Hidden Power
+), and can reveal the type of any Pokémon's Hidden Power.
+← Part 6
+Melemele Grand Trial, Ten Carat Hill, Hau'oli City (Shopping Mall)
+Sun and Moon
+walkthrough
+Route 5, Brooklet Hill, Route 6
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

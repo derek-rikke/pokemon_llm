@@ -1,0 +1,48 @@
+Game: Sun_and_Moon
+Part: 32
+Keywords: Round 2
+
+**Part 32: Poni Coast, Poni Gauntlet, Battle Tree, The Pokémon League: Round 2**
+
+### Poni Coast
+- **Location**: Northeast Poni Island, connecting Poni Plains to Poni Gauntlet.
+- **Key Items**:
+  - **Max Revive**: North end of the elevated western area (hidden).
+  - **TM97 (Dark Pulse)**: Ledge northwest of Poni Plains entrance.
+  - **Comet Shard**: Northwest area.
+  - **Zygarde Cells**: Along coastline, requires Tauros Charge.
+
+- **Notable Trainers**:
+  - Honeymooners Noriko and Devin: Various Pokémon, rewards: $7,080.
+
+### Poni Gauntlet
+- **Description**: Lush area with strong Trainers.
+- **Key Items**:
+  - **Bottle Cap**: Given by Mina after defeating her.
+  - Other items: Guard Spec., Misty Seed, Big Pearl, Max Elixir.
+
+- **Mina Challenge**: Beat all Trainers in the area to challenge Mina.
+
+### Battle Tree
+- **Location**: North side of Poni Island.
+- **Key Items**:
+  - Various rewards up to **Starf Berry** for consecutive victories.
+  - **Charizardite X/Y, Venusaurite, Blastoisinite** from Red after defeating him.
+
+- **Challenges**: Compete in Single, Double, or Multi Battles. Win streaks grant Battle Points (BP).
+
+- **Battle Legends**: You can battle Red or Blue. Prepare for level 70 Pokémon.
+
+### The Pokémon League
+- **Elite Four Teams**: Each member has enhanced teams.
+  - **Hala**: Fighting-type (e.g., Hariyama, Poliwrath).
+  - **Olivia**: Rock/Water-type (e.g., Relicanth, Golem).
+  - **Acerola**: Dark/Ghost-type (e.g., Sableye, Froslass).
+  - **Kahili**: Flying-type (e.g., Skarmory, Toucannon).
+
+- **Champion Battle**: Face Hau after defeating Elite Four. Pokémon levels 63.
+
+### Summary
+- Prepare your strongest Pokémon for the Elite Four and Champion battles.
+- Collect items and finish challenges in Poni Gauntlet and Battle Tree for rewards.
+- Focus on leveling up and strategy for successful battles against powerful opponents.

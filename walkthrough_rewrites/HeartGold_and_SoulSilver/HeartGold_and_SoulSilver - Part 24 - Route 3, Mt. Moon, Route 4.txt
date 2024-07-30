@@ -1,0 +1,48 @@
+Game: HeartGold_and_SoulSilver
+Part: 24
+Keywords: Route 3, Mt. Moon, Route 4
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 24
+
+**Route 3**
+- Connects Pewter City to Mt. Moon. 
+- **Trainers**:
+  - *Youngster Regis*: Golbat (Lv. 40), Electrode (Lv. 40) - Reward: $640
+  - *Youngster Warren*: Fearow (Lv. 38), Raticate (Lv. 42) - Reward: $672
+  - *Double Team (Zac & Jen)*: Dugtrio (Lv. 47), Electabuzz (Lv. 47) - Reward: $11,280
+- **Available Pokémon**: 
+  - Rattata (5-10), Spearow (5-8), Ekans (8), Jigglypuff (6), Zubat (5)
+- **Items**:
+  - Big Root (south of Hiker Bruce)
+  - Hyper Potion (hidden, west of Pokémon Center)
+  - Star Pieces (inside craters)
+
+**Mt. Moon**
+- Single chamber connects Route 3 to Route 4. 
+- Encounter **Silver** who challenges you.
+- **Available Pokémon**:
+  - Zubat (6), Geodude (6-10), Sandshrew (8), Paras (12)
+- **Items**:
+  - Revive (hidden rock)
+
+**Mt. Moon Square**
+- Clefairy dance occurs Monday nights.
+- **Items**:
+  - Max Revive (east of trees)
+  - Moon Stone (near pond during Clefairy event)
+- **Shop**: Sells items like Fresh Water ($200), Lemonade ($350), Repel ($350).
+
+**Route 4**
+- Leads to Cerulean City.
+- **Trainers**:
+  - *Picnicker Hope*: Flaaffy (Lv. 44) - Reward: $704
+  - *Bird Keeper Hank*: Pidgeot (Lv. 44) - Reward: $1,408
+- **Available Pokémon**:
+  - Ekans (8), Jigglypuff (6), Spearow (5-8)
+- **Items**:
+  - Big Mushroom (southeast of Bird Keeper Hank)
+  - HP Up (ledge to the east)
+  - Ultra Ball (northeast of Picnicker Hope)
+
+### Summary
+Focus on battling trainers for experience and collecting items throughout Route 3, Mt. Moon, and Route 4. Participate in the Clefairy dance to obtain a Moon Stone and continue your journey toward Cerulean City.

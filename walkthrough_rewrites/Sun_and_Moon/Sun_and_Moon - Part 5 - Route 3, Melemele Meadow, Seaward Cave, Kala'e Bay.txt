@@ -1,0 +1,59 @@
+Game: Sun_and_Moon
+Part: 5
+Keywords: Route 3, Melemele Meadow, Seaward Cave, Kala'e Bay
+
+**Part 5 Walkthrough: Route 3, Melemele Meadow, Seaward Cave, Kala'e Bay**
+
+**Route 3 Overview**
+- Route 3 connects Route 2 to Route 1 and features rocky paths and cliffs.
+- **Trainers to Battle:**
+  - Ian (Psyduck, Lv. 13), Tatiana (Petilil, Lv. 13), Joshua (Growlithe, Lv. 13)
+  - After defeating the above, battle Ace Trainer Makana (Rockruff, Lv. 13; Slowpoke, Lv. 14).
+- **Available Pokémon:**
+  - Common: Spearow, Mankey, Cutiefly, Yungoos
+  - Rare: Bagon (1% encounter rate)
+
+**Key Items:**
+- Sharp Beak (southern path)
+- Stardust (northern rocky outcrop, hidden)
+- Heal Ball (east of northern grass)
+- Soothe Bell (near the bridge)
+- Super Potion (southeast of the bridge)
+- TM83 (Infestation, requires Tauros Charge)
+
+**Melemele Meadow**
+- Encounter wild Pokémon like Cottonee, Petilil, and Oricorio.
+- **Important Items:**
+  - Great Ball (south of first flower field)
+  - Honey (3 hidden locations)
+  - Net Ball (near Seaward Cave entrance)
+  - Poison Barb (southwest cliff)
+
+- **Find Lillie:** Near the meadow entrance; she will heal your Pokémon.
+
+**Seaward Cave**
+- Connects Melemele Meadow to Kala'e Bay.
+- **Available Pokémon:** Zubat, Alolan Diglett
+- **Key Items:**
+  - Escape Rope (near entrance)
+  - Heal Ball (southwest of Melemele tunnel)
+  - Super Potion (west of pool)
+
+**Kala'e Bay**
+- Accessible but not fully explorable yet. Requires water-crossing abilities.
+- **Key Items:**
+  - Net Ball (north of Seaward Cave entrance)
+  - Dive Ball (on nearby island)
+  - TM05 (Roar, south side of beach)
+
+**Rival Battle 3**
+- After returning Nebby to Lillie, battle Hau.
+  - **Hau’s Pokémon:**
+    - Pikachu (Lv. 13)
+    - Varies based on your starter (Popplio, Rowlet, Litten).
+- **Reward:** $140
+
+**Next Steps:**
+- After defeating Hau, proceed south to Iki Town for Hala's grand trial.
+
+This concise guide covers key locations, trainer battles, item pickups, and important encounters to streamline your progress through this section of the game.

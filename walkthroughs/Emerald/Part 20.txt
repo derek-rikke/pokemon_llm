@@ -1,0 +1,1346 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_20
+Keywords: Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+
+Walkthrough Text:
+Contents
+1
+Littleroot Town
+1.1
+Home
+1.2
+The Eon Pokémon
+1.3
+Professor Birch's Lab
+1.3.1
+National Pokédex
+1.3.2
+Johto Starter Pokemon
+1.4
+Gym Leaders and Wally rematches
+2
+Trick House - Puzzle 8
+3
+Altering Cave
+4
+Trainer Hill
+5
+Desert Underpass
+6
+Route 123
+7
+Safari Zone
+7.1
+Safari Game
+8
+The Super-Ancient Pokémon
+8.1
+Weather Institute
+8.2
+Terra Cave
+8.3
+Marine Cave
+9
+Steven Continues His Training
+9.1
+Mossdeep City
+9.2
+Meteor Falls
+Littleroot Town
+Items
+Item
+Location
+Games
+S.S. Ticket
+From Norman, after defeating the Elite Four and Champion for the first time
+E
+National Pokédex
+From
+Professor Birch
+in his lab, after entering the Hall of Fame
+E
+Home
+When the credits conclude, you awaken in your room back in
+Littleroot Town
+. Head downstairs and
+Norman
+hands you a gift from
+Mr. Briney
+—the
+S.S. Ticket
+. With this, you can ride
+Captain Stern
+'s new ferry! Norman suggests taking the ferry from either
+Slateport
+or
+Lilycove
+, then heads back to the
+Petalburg Gym
+.
+The Eon Pokémon
+After Norman leaves, a breaking news story flashes across the TV screen; it seems that a certain unnamed Pokémon has been spotted flying around the region. The reporter informs viewers of the Pokémon's color, but static interference prevents you from learning it. After viewing this report, Mom asks which color it was, giving you the choice of red or blue. Depending on your choice, you will be able to encounter the legendary Pokémon
+Latias
+or
+Latios
+, respectively,
+roaming
+across Hoenn.
+The Pokémon moves to a different area every time you change locations. The easiest way to see Latios/Latias for the first time is to first fly to
+Slateport City
+. Once there, put a Pokémon with a certain level (make sure it is above 13 and below 40) as first conscious member of your party. Once that is done, go to the route above Slateport City (Route 110) and spray Max Repel. Next, use the Mach Bike around for 5 seconds in the grass next to the entrance of
+Cycling Road
+. After that, enter to Cycling Road then go back to that patch of grass to repeat the process. The repel helps you save time from encountering Pokémon other than Latios/Latias but still lets you find Latios/Latias because it is not a higher level than 40 (starting level for Latios/Latias). To make matters more difficult, Latios/Latios will also attempt to flee on the first turn of battle. These Pokémon are probably the best one to use your
+Master Ball
+on but if you already used yours or you don't want to, there are some strategies you can utilize. A good way to prevent them from running away is to send out a faster Pokémon like
+Crobat
+to use a trapping move like
+Mean Look
+(
+Zubat
+learns this move at level 36.) Likewise, the move
+Wrap
+also works. Your Pokémon should be equipped with a
+Quick Claw
+. Another option is start the battle with a
+Wobbuffet
+due to its
+Shadow Tag
+ability. If Latios/Latias is afflicted by a status condition, it will retain this ailment when it is next encountered. After meeting it for the first time, the Pokédex tracks its movements.
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latios
+Lv.
+40
+Protect
+Normal
+--
+Refresh
+Normal
+--
+Luster Purge
+Psychic
+--
+Psychic
+Psychic
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latias
+Lv.
+40
+Water Sport
+Water
+--
+Refresh
+Normal
+--
+Mist Ball
+Psychic
+--
+Psychic
+Psychic
+--
+Professor Birch's Lab
+National Pokédex
+Professor Birch
+and your
+rival
+are waiting outside your house. Birch takes both of you to his lab, where he upgrades your
+Pokédexes
+to
+National Pokédex
+mode. Shortly after leaving the lab, you'll get a call from
+Scott
+.
+Johto Starter Pokemon
+Be sure to visit Professor Birch in his Lab again once you have caught
+all 200 Pokémon
+in the
+Hoenn
+regional Pokédex
+. Once he verifies that you are indeed successful, he offers you a gift to start you on your quest to complete the
+National Pokédex
+listing. This gift is the choice between one of three starter Pokémon of the distant
+Johto
+region:
+Chikorita
+,
+Cyndaquil
+, and
+Totodile
+!
+Chikorita
+Cyndaquil
+Totodile
+Grass
+Fire
+Water
+Bayleef
+Quilava
+Croconaw
+Grass
+Fire
+Water
+Meganium
+Typhlosion
+Feraligatr
+Grass
+Fire
+Water
+Gym Leaders and Wally rematches
+After receiving the National Pokédex,
+Wally
+and the
+Gym Leaders
+can request
+rematches
+through the
+PokéNav
+'s Match Call.
+The Gym Leaders can be rematched to a
+Double Battle
+, and the only way to rematch with them is to wait until they are ready. Here the Match Call will alert you.
+Wally can be repeatedly rematched once per day and they will take place near the exit of the Victory Road. He is the only opponent which the Match Call doesn't alert you about a rematch.
+Trick House - Puzzle 8
+In
+Trick House
+now you can complete the puzzle 8. You can get the
+Nugget
+in the Trick Master's Room.
+Altering Cave
+Altering Cave
+Back on
+Route 103
+, a cave entrance has opened up on the east bank of the river that divides the route. This is
+Altering Cave
+, and although there have been rumors of
+rare Pokémon
+inside, it seems to house only
+Zubat
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+S
+E
+Cave
+6, 8, 10, 12, 14, 16
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainer Hill
+Trainer Hill
+Trainer Hill
+is located to the east of the Winstrate home. This tower was designed for challengers to race through as quickly as possible, battling four floors of Trainers on the way to the rooftop. The ground floor holds both a Pokémon Center and Poké Mart (the seller upgrade their inventory due you entered the
+Hall of Fame
+), so Trainers can be well-prepared for the trial ahead. There are four different modes—Normal, Variety, Unique, and Expert—with each one more difficult than the last. A challenger's Pokémon will not be healed by the staff, but recovery items like Potions may be used during and between battles. Prizes vary depending on the amount of time elapsed, and all battles conducted here are
+Double Battles
+. No experience or prize money is awarded.
+Time
+Prize
+Under 12 minutes
+TM11
+(
+Sunny Day
+)
+Normal Mode
+Elixir
+Variety Mode
+TM19
+(
+Giga Drain
+)
+Unique Mode
+TM31
+(
+Brick Break
+)
+Expert Mode
+12-13 minutes
+Ether
+13-14 minutes
+Max Potion
+14-16 minutes
+Revive
+16-18 minutes
+Fluffy Tail
+Over 18 minutes
+Great Ball
+Desert Underpass
+Desert Underpass
+Fly
+back to
+Fallarbor Town
+and head west to
+Route 114
+to pay a visit to the
+Fossil Maniac
+in his home just outside of town. His constant digging for new Fossils has caused the wall to collapse, revealing a long, sandy tunnel stretching far to the east. This is the
+Desert Underpass
+, which leads through the mountains of northern Hoenn before ending beneath the desert of
+Route 111
+. At the tunnel's end, you find the remaining Fossil that fell beneath the sands when
+Mirage Tower
+disappeared. There are also a handful of Pokémon species to be found here, including
+Ditto
+, which can't be found anywhere else. This Pokémon is unique as its only move,
+Transform
+, allows it to become a nearly-identical copy of the target. But it's even more useful outside of battle. When left in the Day Care building on
+Route 117
+with nearly any other Pokémon, the pair are able to produce an Egg containing the other Pokémon's first-stage form! This makes it incredibly useful when working to complete the Pokédex.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Ditto
+R
+S
+E
+Cave
+38, 40-43, 45
+50%
+Whismur
+R
+S
+E
+Cave
+35-36, 38
+34%
+Loudred
+R
+S
+E
+Cave
+38, 40, 44
+16%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Root Fossil
+or
+Claw Fossil
+Only one; east end of the tunnel
+E
+Route 123
+Now you can get the other four special Berries from the
+Berry Master's wife
+since you have already entered the
+Hall of Fame
+.
+Phrase
+Berry Received
+CHALLENGE CONTEST (requires entering the
+Hall of Fame
+)
+Pamtre Berry
+OVERWHELMING LATIAS (requires that the player has seen
+Latias
+)
+Watmel Berry
+COOL LATIOS (requires that the player has seen
+Latios
+)
+Durin Berry
+SUPER HUSTLE (requires entering the Hall of Fame)
+Belue Berry
+Safari Zone
+The Safari Zone
+The
+Safari Zone
+gives Trainers a chance to encounter all kinds of Pokémon. It is only open to Trainers participating in the
+Safari Game
+, where Trainers must use unconventional tactics to try to catch these Pokémon. Admission is
+$
+500, and entrants are given 30
+Safari Balls
+to be used and a limit of 500 steps taken before the game is over. The varied terrain means that some areas are only accessible by
+Acro Bike
+or
+Mach Bike
+.
+The four quadrants to the north and west of the building are open to any Trainer who received a
+Pokéblock Case
+. Once you upgrade to the National Pokédex, the construction of the two eastern areas will be complete. You can return to the
+Safari Zone
+and catch some Pokémon native to
+Johto
+.
+Available Pokémon
+Area 1 (Southeast)
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Grass
+25, 27
+40%
+Girafarig
+R
+S
+E
+Grass
+25, 27
+20%
+Doduo
+R
+S
+E
+Grass
+25
+10%
+Natu
+R
+S
+E
+Grass
+25
+10%
+Wobbuffet
+R
+S
+E
+Grass
+27, 29
+10%
+Pikachu
+R
+S
+E
+Grass
+25, 27
+5%
+Gloom
+R
+S
+E
+Grass
+25
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 2 (Southwest)
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Grass
+25, 27
+40%
+Girafarig
+R
+S
+E
+Grass
+25, 27
+20%
+Doduo
+R
+S
+E
+Grass
+27
+10%
+Natu
+R
+S
+E
+Grass
+25
+10%
+Wobbuffet
+R
+S
+E
+Grass
+27, 29
+10%
+Pikachu
+R
+S
+E
+Grass
+25, 27
+5%
+Gloom
+R
+S
+E
+Grass
+25
+5%
+Surfing
+Psyduck
+R
+S
+E
+Surfing
+20-35
+100%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+40%
+Goldeen
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Seaking
+R
+S
+E
+Fishing
+Super Rod
+25-40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 3 (Northwest)
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Grass
+27, 29
+30%
+Rhyhorn
+R
+S
+E
+Grass
+27, 29
+30%
+Gloom
+R
+S
+E
+Grass
+29, 31
+15%
+Doduo
+R
+S
+E
+Grass
+27, 29
+15%
+Dodrio
+R
+S
+E
+Grass
+29, 31
+5%
+Pinsir
+R
+S
+E
+Grass
+27, 29
+5%
+Surfing
+Psyduck
+R
+S
+E
+Surfing
+20-35
+95%
+Golduck
+R
+S
+E
+Surfing
+25-40
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+10-30
+40%
+Goldeen
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Seaking
+R
+S
+E
+Fishing
+Super Rod
+25-40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 4 (Northeast)
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Grass
+27-29
+30%
+Phanpy
+R
+S
+E
+Grass
+27, 29
+30%
+Gloom
+R
+S
+E
+Grass
+29, 31
+15%
+Natu
+R
+S
+E
+Grass
+27, 29
+15%
+Xatu
+R
+S
+E
+Grass
+29, 31
+5%
+Heracross
+R
+S
+E
+Grass
+27, 29
+5%
+Rock Smash
+Geodude
+R
+S
+E
+Rock Smash
+5-30
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 5 (Extended: SE)
+Pokémon
+Games
+Location
+Levels
+Rate
+Mareep
+R
+S
+E
+Grass
+34, 36
+30%
+Sunkern
+R
+S
+E
+Grass
+33, 35
+30%
+Spinarak
+R
+S
+E
+Grass
+33
+10%
+Aipom
+R
+S
+E
+Grass
+34
+10%
+Hoothoot
+R
+S
+E
+Grass
+35
+5%
+Gligar
+R
+S
+E
+Grass
+37, 40
+5%
+Snubbull
+R
+S
+E
+Grass
+34
+5%
+Stantler
+R
+S
+E
+Grass
+36, 39
+5%
+Surfing
+Wooper
+R
+S
+E
+Surfing
+25-30
+60%
+Marill
+R
+S
+E
+Surfing
+25-35
+39%
+Quagsire
+R
+S
+E
+Surfing
+35-40
+1%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+25-30
+70%
+Goldeen
+R
+S
+E
+Fishing
+Old Rod
+25-30
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+25-30
+60%
+Goldeen
+R
+S
+E
+Fishing
+Good Rod
+25-30
+20%
+Remoraid
+R
+S
+E
+Fishing
+Good Rod
+30-35
+20%
+Remoraid
+R
+S
+E
+Fishing
+Super Rod
+25-35
+59%
+Goldeen
+R
+S
+E
+Fishing
+Super Rod
+25-30
+40%
+Octillery
+R
+S
+E
+Fishing
+Super Rod
+35-40
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Area 6 (Extended: NE)
+Pokémon
+Games
+Location
+Levels
+Rate
+Aipom
+R
+S
+E
+Grass
+33, 35
+30%
+Teddiursa
+R
+S
+E
+Grass
+34, 36
+30%
+Ledyba
+R
+S
+E
+Grass
+33
+10%
+Sunkern
+R
+S
+E
+Grass
+34
+10%
+Hoothoot
+R
+S
+E
+Grass
+35
+5%
+Pineco
+R
+S
+E
+Grass
+34
+5%
+Houndour
+R
+S
+E
+Grass
+36, 39
+5%
+Miltank
+R
+S
+E
+Grass
+37, 40
+5%
+Rock Smash
+Shuckle
+R
+S
+E
+Rock Smash
+20-40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Area 2 (Southwest)
+Max Revive
+South edge of the southwest pond (requires
+Surf
+)
+E
+Area 3 (Northwest)
+TM22
+(
+Solar Beam
+)
+Northeast edge of the pond (requires
+Mach Bike
+,
+Surf
+)
+E
+Area 4 (Northeast)
+Calcium
+North edge of the northwest grass patch (requires
+Acro Bike
+)
+E
+Area 5 (Extended: SE)
+PP Up
+South of the southern-most Pokéblock stand (hidden)
+E
+Full Restore
+North edge of the southeast grass patch (hidden)
+E
+Big Pearl
+Northeast patch of grass, east of the waterfall (requires
+Surf
+)
+E
+Area 6 (Extended: NE)
+Rare Candy
+Southeast portion of the area, in a 2×3 patch of light green grass, in the southeastern-most square (hidden)
+E
+Zinc
+In the first alcove along the rocky patch (hidden)
+E
+Nugget
+Between two ledges at the end of the rocky path
+E
+Safari Game
+In a Safari Game, Trainers must use unconventional tactics to catch wild Pokémon. Rather than use your own Pokémon in battle, you are only allowed to throw
+Pokéblocks
+to entice the target, making it less likely to run; or go near, which makes the target easier to catch but more likely to run.
+In addition, there are several Pokéblock feeders scattered throughout the park. Each feeder can accept a single Pokéblock at a time. Any Pokémon encountered in the feeder's range of five steps will have a Nature that is attracted to that type of Pokéblock. The feeder's effect dissipates after 100 steps are taken.
+The Super-Ancient Pokémon
+Weather Institute
+Return to
+Route 119
+and pay a visit to the
+Weather Institute
+. Speak to the meteorologist on the second floor to learn that he has been tracking weather patterns across
+Hoenn
+. He's even found an unusual weather system localized to a certain area. Routes
+114
+,
+115
+,
+116
+, and
+118
+have been suffering under severe drought, while Routes
+105
+,
+125
+,
+127
+, and
+129
+have become prone to heavy thunderstorms. The existence of these unusual conditions indicates the presence of
+Groudon
+and
+Kyogre
+, hidden away in a new home that it's made for itself. But these ancient Pokémon are fickle and won't stay put for long, so hurry off to the specified route and you may stumble across a legend!
+Terra Cave
+Terra Cave, entrance
+Terra Cave, interior
+After learning of a severe drought on Hoenn's west side, you need to visit the specified route in order to track down
+Terra Cave
+. Be aware that if it appears on
+Route 114
+, you will need to scale the waterfall to access it. Enter the cave and proceed to the second chamber, where you find a long tunnel with
+Groudon
+sitting in a pool of magma at its end. Be sure to save the game before you approach it, as it will disappear if you happen to defeat it. Its
+Drought
+Ability increases
+Fire Blast
+'s power by 50% and lets it use
+SolarBeam
+without charging.
+Rest
+allows it to recover its health, but also makes it easier to catch. Begin with
+Grass
+,
+Water
+, and
+Ice
+moves to weaken it quickly, then follow up with
+Rock
+and
+Poison
+moves to wear it down further.
+Type:
+Ground
+Unknown
+Ability:
+Drought
+Held item:
+None
+Groudon
+Lv.
+70
+Fire Blast
+Fire
+--
+Rest
+Psychic
+--
+Fissure
+Ground
+--
+SolarBeam
+Grass
+--
+Marine Cave
+Marine Cave, entrance
+Marine Cave, interior
+After learning of heavy storms on Hoenn's east side, you need to visit the specified route in order to track down
+Marine Cave
+.
+Surf
+across the route in search of a small patch of deep, dark water, and
+Dive
+down to the ocean floor. Resurface inside the cave and proceed to the second chamber, where you find a long tunnel with
+Kyogre
+in a deep pit of seawater at its end. Be sure to save the game before you approach it, as it will disappear if you happen to defeat it. Its
+Drizzle
+Ability increases
+Hydro Pump
+'s power by 50%.
+Rest
+allows it to recover its health, but also makes it easier to catch. Begin with
+Grass
+and
+Electric
+moves to weaken it quickly, then follow up with
+Fire
+,
+Water
+,
+Ice
+, and
+Steel
+moves to wear it down further.
+Type:
+Water
+Unknown
+Ability:
+Drizzle
+Held item:
+None
+Kyogre
+Lv.
+70
+Hydro Pump
+Water
+--
+Rest
+Psychic
+--
+Sheer Cold
+Ice
+--
+Double-Edge
+Normal
+--
+Steven Continues His Training
+Mossdeep City
+Return to
+Mossdeep City
+and pay a visit to
+Steven
+'s house. He's not home, but he has left a note for you on the table. It says that he plans to do some soul-searching as he continues his training on the road, and doesn't intend to return home for quite some time. He asks a favor of you, to take the Poké Ball on the desk. It contains a
+Beldum
+, his favorite Pokémon. He ends the note by saying that he hopes your paths cross again someday.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Beldum
+R
+S
+E
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Meteor Falls
+Meteor Falls, 1F (upper)
+Available Pokémon
+1F (upper)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+R
+S
+E
+Cave
+33, 35, 38, 40
+65%
+Solrock
+R
+S
+E
+Cave
+33, 35, 37, 39
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Though it was possible to explore
+Meteor Falls
+more thoroughly immediately after defeating
+Juan
+, you can fully explore this place after entering the
+Hall of Fame
+. The 1F (upper) room is now available. There is nothing important in this final chamber aside from Steven, standing at the north wall. He's been digging for new rocks and stones to add to his collection. He's impressed that you found him here, and warns that if you intend to mount a serious challenge, you should expect the worst.
+P
+K
+M
+N
+Trainer
+Steven
+Meteor Falls
+Emerald
+Reward:
+$
+4680
+Types:
+Steel
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Skarmory
+♂
+Lv.
+77
+Toxic
+Poison
+--
+Aerial Ace
+Flying
+--
+Spikes
+Ground
+--
+Steel Wing
+Steel
+--
+Types:
+Ground
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Claydol
+Lv.
+75
+Reflect
+Psychic
+--
+Light Screen
+Psychic
+--
+AncientPower
+Rock
+--
+Earthquake
+Ground
+--
+Types:
+Steel
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Aggron
+♂
+Lv.
+76
+Thunder
+Electric
+--
+Earthquake
+Ground
+--
+SolarBeam
+Grass
+--
+Dragon Claw
+Dragon
+--
+Types:
+Rock
+Grass
+Ability:
+Suction Cups
+Held item:
+None
+Cradily
+♂
+Lv.
+76
+Giga Drain
+Grass
+--
+AncientPower
+Rock
+--
+Ingrain
+Grass
+--
+Confuse Ray
+Ghost
+--
+Types:
+Rock
+Bug
+Ability:
+Battle Armor
+Held item:
+None
+Armaldo
+♂
+Lv.
+76
+Water Pulse
+Water
+--
+AncientPower
+Rock
+--
+Aerial Ace
+Flying
+--
+Slash
+Normal
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Sitrus Berry
+Metagross
+Lv.
+78
+Earthquake
+Ground
+--
+Psychic
+Psychic
+--
+Meteor Mash
+Steel
+--
+Shadow Ball
+Ghost
+--
+← Part 19
+Pokémon League
+Emerald
+walkthrough
+S.S. Tidal, Battle Frontier
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

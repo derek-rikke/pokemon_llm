@@ -1,0 +1,469 @@
+Part: Part 28
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_28
+Keywords: Tracking the Ultra Beasts:Lillie's Departure, UB-01 Symbiont, UB-02 AbsorptionS/ BeautyM
+
+Walkthrough Text:
+Contents
+1
+Melemele Island
+1.1
+Iki Town
+1.2
+Home
+1.3
+Hau'oli City Marina
+1.4
+Home
+2
+Akala Island
+2.1
+Route 8
+3
+Aether Paradise
+4
+Akala Island
+4.1
+Route 8
+4.2
+Wela Volcano Park / Diglett's Tunnel
+5
+Melemele Island
+5.1
+Route 2
+5.2
+Melemele Meadow
+S
+/ Verdant Cavern
+M
+Melemele Island
+Iki Town
+After battling
+Tapu Koko
+, you and
+Lillie
+return to the festival. When the fireworks end, the credits begin.
+Home
+The next day
+S
+/ night
+M
+, you are at home with
+Mom
+and Meowth when
+Hau
+arrives. He's in a hurry to collect you, as the ship is about to leave!
+Hau'oli City Marina
+Kukui
+and
+Lillie
+are already at the Marina. She has decided to travel to the distant
+Kanto
+region to get stronger and become a real Trainer. Lillie gives each of you a gift to remember her, with yours being what was once her most treasured possession, a
+Poké Doll
+. She promises to return to
+Alola
+one day and the ship departs. The rest of you return home and the credits roll to the end.
+Home
+Items
+Item
+Location
+Games
+Decidium Z
+From Hau, if not obtained from Kukui in
+Malie Garden
+S
+M
+Incinium Z
+From Hau, if not obtained from Kukui in
+Malie Garden
+S
+M
+Primarium Z
+From Hau, if not obtained from Kukui in
+Malie Garden
+S
+M
+With the main adventure complete, you find yourself back in your room. Inspect the purple sparkle to collect the
+Zygarde Core
+and receive a message from
+Sina
+explaining what it can do. Go into the kitchen and
+Hau
+arrives with gifts from his grandfather. Where Kukui once gave you the Z-Crystal meant for your
+first partner Pokémon
+, Hau is here to deliver the two other crystals to you. As he leaves, he promises to train at the
+Battle Tree
+on
+Poni Island
+to get stronger before visiting
+Lillie
+and his father in
+Kanto
+.
+When you step outside, a mysterious man gives you an
+Enigmatic Card
+. He advises you to take care when you read it, as no one is to know of his visit or this card. Written inside is a request for you to visit a guest room in the motel on
+Route 8
+on
+Akala Island
+.
+Akala Island
+Route 8
+Two members of the
+International Police
+, "
+Looker
+" and his boss
+Anabel
+, are waiting inside the nearest room. The two are part of a secret division called the UB Task Force. Looker asks if you have encountered UB-01 Symbiont, otherwise known as
+Nihilego
+, and Anabel explains that the International Police refers to all Ultra Beasts by codenames. Confirm that you have indeed encountered the creature, and Anabel warns that the following info is highly classified: Symbiont was not the only Ultra Beast to appear from the Ultra Wormhole opened by
+Lusamine
+. They have confirmed the presence of another Symbiont, and have received reports of sightings of several other species of Ultra Beasts. These dangerous beings were suddenly dropped into our world, and should the creatures become combative, their orders are to eliminate them. As they are still living creatures, she and Looker would rather protect them from harm instead, leaving capture as their only option. They do not have the power to do this on their own, which is why they have asked for your assistance. Agree to join the Task Force, and Anabel requests a battle to test your strength.
+Pokémon Trainer
+Anabel
+Route 8
+Sun and Moon
+Reward:
+$
+13,420
+Type:
+Psychic
+Unknown
+Ability:
+Inner Focus
+Held item:
+None
+Alakazam
+♂
+Lv.
+61
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Psyshock
+Psychic
+Special
+--
+Disable
+Normal
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♀
+Lv.
+61
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mismagius
+♀
+Lv.
+61
+Shadow Ball
+Ghost
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Salamence
+♂
+Lv.
+61
+Dragon Claw
+Dragon
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+61
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Yawn
+Normal
+Status
+--
+Once you have proven your worth, the two suggest that you visit
+Aether Paradise
+and speak to
+Wicke
+. She happens to be a partner of theirs and will know why you are there.
+Aether Paradise
+Items
+Item
+Location
+Games
+Big Malasada
+×2
+B2F, from Wicke
+S
+M
+DNA Splicers
+Secret Lab A, from the Aether Employee
+S
+M
+Prison Bottle
+Secret Lab A, from the Aether Employee
+S
+M
+Soul Dew
+Secret Lab A, from the Aether Employee
+S
+M
+Beast Ball
+×10
+Secret Lab B, from Wicke
+S
+M
+Take the elevator down to B2F and go east to find Wicke. She thanks you for what you have done for
+Lillie
+and
+Lusamine
+, and reveals that Lillie asked her to explain why she left for
+Kanto
+. Lusamine's fusion with
+Nihilego
+reminded Lillie about a book she once read, about a man named
+Bill
+who created the PC Storage System. It turns out that he also wound up fused with a Pokémon in an experiment that went awry, and Lillie is hopeful that Bill's solution will also work for Lusamine. Afterward, Wicke gives you two
+Big Malasadas
+and returns to work.
+Visit the eastern hallway and enter Secret Lab A. Speak to the Aether Employee here to receive several
+Legendary artifacts
+: the
+DNA Splicers
+, the
+Prison Bottle
+, and a
+Soul Dew
+. Exit the room and continue on to Secret Lab B to receive ten
+Beast Balls
+from Wicke, then return to the motel on
+Route 8
+.
+Akala Island
+Route 8
+Shortly after you return,
+Looker
+rushes into the room. Another UB-01 Symbiont has been spotted on
+Akala Island
+! This begins the first UB Mission.
+Wela Volcano Park / Diglett's Tunnel
+A single specimen has been sighted in
+Wela Volcano Park
+and
+Diglett's Tunnel
+. Fly to either location and travel around until the creature appears in a random encounter. The creature respawns immediately if defeated or run from.
+Aura: +2
+Special Defense
+Types:
+Rock
+Poison
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+55
+Power Gem
+Rock
+Special
+--
+Mirror Coat
+Psychic
+Special
+--
+Acid Spray
+Poison
+Special
+--
+Venom Drench
+Poison
+Status
+--
+With the first mission complete, return to
+Route 8
+and report to Looker. Anabel informs you that the original plan was for the police force to take possession of the
+Ultra Beasts
+, but she has obtained clearance for you to keep them instead so they do not end up as research subjects. Looker returns to the room, excited to report the sighting of another creature on
+Melemele Island
+. Anabel leaves to set up a new base of operations in the local motel and asks that you meet them there.
+Melemele Island
+Route 2
+Speak with
+Anabel
+to learn that she will be meeting a mysterious man with knowledge of the Ultra Beast.
+Nanu
+enters the room, and it is clear that he and Anabel know each other. He has information to suggest that there are multiple specimens involved in this latest sighting. He leaves before
+Looker
+returns and confirms Nanu's intel. Before you leave, Looker gives you another ten
+Beast Balls
+from
+Wicke
+. Visit
+Melemele Meadow
+to find two individuals codenamed UB-02 Absorption
+S
+, or
+Verdant Cavern
+to find four individuals codenamed UB-02 Beauty
+M
+. Like with UB-01, each of these creatures respawn immediately if defeated or run from.
+Melemele Meadow
+S
+/ Verdant Cavern
+M
+Aura: +2
+Defense
+Types:
+Bug
+Fighting
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+65
+Counter
+Fighting
+Physical
+--
+Hammer Arm
+Fighting
+Physical
+--
+Lunge
+Bug
+Physical
+--
+Dynamic Punch
+Fighting
+Physical
+--
+Aura: +2
+Speed
+Types:
+Bug
+Fighting
+Ability:
+Beast Boost
+Held item:
+None
+???
+Lv.
+60
+Triple Kick
+Fighting
+Physical
+--
+Lunge
+Bug
+Physical
+--
+Bug Buzz
+Bug
+Special
+--
+Me First
+Normal
+Status
+--
+Report back to Looker and he calls Anabel back to the room. She is feeling a bit light-headed from the last mission, so Looker suggests eating something and runs off to make restaurant reservations. When he returns, he reports another Ultra Beast sighting on
+Akala Island
+. Anabel asks that you meet them at their former base in the
+Route 8
+motel.
+← Part 27
+Post-Game: The Guardians of Alola
+Sun and Moon
+walkthrough
+Post-Game: Tracking the Ultra Beasts
+Part 29 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

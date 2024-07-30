@@ -1,0 +1,990 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_4
+Keywords: Floaroma Town, Route 205 (Parts 1-2), Valley Windworks, Floaroma Meadow (South), Eterna Forest
+
+Walkthrough Text:
+Contents
+1
+Floaroma Town
+2
+Route 205 (Part 1)
+3
+Valley Windworks
+4
+Back to Floaroma Town
+5
+Floaroma Meadow (South)
+6
+Back to Valley Windworks
+7
+Route 205 (Part 2)
+8
+Eterna Forest
+Floaroma Town
+Floaroma Town
+Once you reach
+Floaroma Town
+, you'll find yourself surrounded by flowers. Floaroma Town is known for its vividly scented flowers. It is also the first area in the game where you are able to pick and grow
+Berries
+. Pick the Berries in the front of the
+Pick a Peck of Colors Flower Shop
+. If you go into the house next to the Flower shop on the left, talk to the little girl inside and agree with her statement, she will give you
+TM88
+(
+Pluck
+).
+The only important building in Floaroma Town is the
+Pick a Peck of Colors Flower Shop
+. Enter the Flower Shop and talk to the lady on the far left to obtain the
+Sprayduck
+, a watering can for watering Berries which shaped like a
+Psyduck
+. Also talk to the lady on the right, to get one random
+Berry
+each day. The lady at the counter will sell you
+Accessories
+for different amounts of different kinds of Berries.
+Two Galactic Grunts are blocking the entrance in
+Floaroma Meadow
+, so head to the east and move on to
+Route 205
+for now.
+Items
+Item
+Location
+Games
+TM88
+(
+Pluck
+)
+From a girl in the house to the left of the flower shop
+D
+P
+Oran Berry
+In the soft soil patch near flower shop
+D
+P
+Cheri Berry
+In the soft soil patch near flower shop
+D
+P
+Sprayduck
+From a woman inside the flower shop
+D
+P
+Cheri Berry
+Received from a girl inside the flower shop (Random berry once per day)
+D
+P
+Chesto Berry
+Received from a girl inside the flower shop (Random berry once per day)
+D
+P
+Pecha Berry
+Received from a girl inside the flower shop (Random berry once per day)
+D
+P
+Rawst Berry
+Received from a girl inside the flower shop (Random berry once per day)
+D
+P
+Aspear Berry
+Received from a girl inside the flower shop(Random berry once per day)
+D
+P
+Route 205 (Part 1)
+Walk east and you'll find a little girl, who will tell you that her father has been taken hostage by
+Team Galactic
+! Head east to
+Valley Windworks
+to rescue him!
+You'll see the bridge towards Eterna Forest blocked by two other Galactic Grunts, so don't bother heading north for now.
+Valley Windworks
+Heal your Pokémon before proceeding.
+Valley Windworks
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+8
+10%
+Pachirisu
+D
+P
+Pt
+Grass
+7-8
+25%
+Buizel
+D
+P
+Pt
+Grass
+7-9
+35%
+Shellos
+D
+P
+Pt
+Grass
+7-9
+30%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Special Pokémon
+Drifloon
+D
+P
+Pt
+Only one
+22
+Once per week
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Here, a special Pokémon
+Drifloon
+can be found only on Fridays. But it won't appear until after Team Galactic is defeated in the Valley Windworks building (If Team Galactic is defeated on a Friday, Drifloon will not appear until the next Friday). Drifloon is a Ghost/Flying-type Pokémon, which will evolve into
+Drifblim
+.
+Trainer
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+440
+Glameow
+♀
+Lv.
+11
+No item
+In the entrance to the Valley Windworks, a Galactic Grunt will be blocking the door. Defeat him, and he will lock the door. What to do?
+The grunt said that
+Works Key
+is required to open the door and the grunts blocking the Floaroma Meadow have the other Works Key, so head back to Floaroma Town. But before that, you can catch three new Pokémon:
+Shellos
+,
+Buizel
+and
+Pachirisu
+. The first two are both
+Water-type
+Pokémon, while Pachirisu is an
+Electric-type
+Pokémon. Shellos can evolve into Water/Ground-type Pokémon
+Gastrodon
+, but beware that Gastrodon is slow that almost all other Pokémon can outspeed it. Buizel can evolve into
+Floatzel
+and has decent speed. Pachirisu doesn't evolve, but it is even speedier.
+Back to Floaroma Town
+Heal your Pokémon before proceeding.
+Head back to the northwest corner of Floaroma Town. The grunts are gone. Head inside.
+Floaroma Meadow (South)
+Make sure that your Pokémon are healed before proceeding.
+You'll see two Galactic Grunts hassling a man for
+honey
+. Talk to them to fight them. You are going to fight them back-to-back, not in a Double Battle.
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+360
+Wurmple
+♂
+Lv.
+9
+No item
+Silcoon
+♂
+Lv.
+9
+No item
+Galactic Grunt
+Reward:
+$
+440
+Zubat
+♂
+Lv.
+11
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+A Honey Tree
+After defeating them, the man will give you the dropped
+Works Key
+and some
+Honey
+. Follow the path between the flowers. You will find a golden tree as well as a house. The honey can be slathered on a golden tree to attract Pokémon, and after around six hours a Pokémon will appear. The trees are scattered throughout Sinnoh and after 24 hours have passed Pokémon and honey will disappear from the tree.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Non-Munchlax tree
+Wurmple
+D
+P
+Pt
+Honey Tree
+5-15
+29%
+Combee
+D
+P
+Pt
+Honey Tree
+5-15
+22%
+Silcoon
+D
+P
+Pt
+Honey Tree
+5-15
+14%
+Cascoon
+D
+P
+Pt
+Honey Tree
+5-15
+14%
+Burmy
+Plant Cloak
+D
+P
+Pt
+Honey Tree
+5-15
+11%
+Cherubi
+D
+P
+Pt
+Honey Tree
+5-15
+7.5%
+Aipom
+D
+P
+Pt
+Honey Tree
+5-15
+5.5%
+Heracross
+D
+P
+Pt
+Honey Tree
+5-15
+1%
+None
+D
+P
+Pt
+Honey Tree
+10%
+Munchlax tree
+Combee
+D
+P
+Pt
+Honey Tree
+5-15
+32%
+Burmy
+Plant Cloak
+D
+P
+Pt
+Honey Tree
+5-15
+16%
+Cherubi
+D
+P
+Pt
+Honey Tree
+5-15
+15%
+Wurmple
+D
+P
+Pt
+Honey Tree
+5-15
+11.5%
+Aipom
+D
+P
+Pt
+Honey Tree
+5-15
+8%
+Silcoon
+D
+P
+Pt
+Honey Tree
+5-15
+4%
+Cascoon
+D
+P
+Pt
+Honey Tree
+5-15
+4%
+Heracross
+D
+P
+Pt
+Honey Tree
+5-15
+3.5%
+Munchlax
+D
+P
+Pt
+Honey Tree
+5-15
+1%
+None
+D
+P
+Pt
+Honey Tree
+9%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+You can talk to the man on the field anytime you wish to purchase additional honey from him for
+$
+100 each. When you are ready, head to Valley Windworks again.
+Back to Valley Windworks
+Make sure that you heal your Pokémon before proceeding!
+With the Works Key from
+Floaroma Meadow
+, you can open the door. The grunt you beat earlier will realise he is still the loser after all, then bolts off to alert the commander.
+Trainers
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+440
+Cascoon
+♂
+Lv.
+11
+No item
+Galactic Grunt
+Reward:
+$
+400
+Wurmple
+♂
+Lv.
+10
+No item
+Glameow
+♀
+Lv.
+10
+No item
+Items
+Item
+Location
+Games
+Potion
+In the southeast corner, below the Honey Tree
+D
+P
+There will be a few grunts inside, including the
+Team Galactic
+Commander
+Mars
+, one of the three Commanders of Team Galactic. The only difficulty to deal with is that Mars has a Level 16
+Purugly
+with a high Attack stat. Due to its weak defenses, a
+Monferno
+, or
+Machop
+should be able to defeat it by using some
+Fighting-type
+moves like
+Mach Punch
+or
+Karate Chop
+. Also using
+Staravia
+or possibly
+Shinx
+and
+Luxio
+can help because their (possible)
+Ability
+Intimidate
+reduces Purugly's Attack instantly.
+Commander
+Mars
+Valley Windworks
+Diamond and Pearl
+Reward:
+$
+1280
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♀
+Lv.
+14
+Bite
+Dark
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Toxic
+Poison
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Oran Berry
+Purugly
+♀
+Lv.
+16
+Fake Out
+Normal
+Physical
+--
+Scratch
+Normal
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+After the battle, Mars is furious over her loss, but knows that it makes no difference as they collected enough data already. You will talk to the scientist a little bit about how Team Galactic were using the windworks for something, just as his daughter-- the little girl on Route 205, arrives and reunites with him. She also says that "the Balloon Pokemon" will come again. The scientist adds that there is a Balloon Pokémon that comes on a certain day of the week, but he apparently has forgotten which day it is and what the name of the Balloon Pokémon is. The Balloon Pokémon is
+Drifloon
+and it will come every Friday from now on.
+Afterwards, return to Route 205 and the Galactic Grunts should be gone.
+Route 205 (Part 2)
+Heal your Pokémon before proceeding.
+Route 205
+Head north across the bridge. The wild Pokémon found here are the same as those in Valley Windworks. Climb up the stairs and follow the elevated path while facing enemy Trainers to reach a house that you can use to heal your team if necessary. Then go down the stairs and follow the one-way road. Fight a few more Trainers and grab 2 plants of Berries. The river leads to
+Fuego Ironworks
+and another part of Floaroma Meadow, but you cannot cross the stream yet. Come back when you have
+HM03
+(
+Surf
+).
+Now head back to the house and heal, then head north. There are 2 ledges on the northwest, which indicate the exit from Fuego Ironworks. Ignore them and head further north. You'll find the entrance to
+Eterna Forest
+and a path block by 2 trees. Since you can't use
+Cut
+outside of battle yet, your only choice is to head into Eterna Forest to reach the other side of Route 205.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pachirisu
+D
+P
+Pt
+Grass
+9-13
+10%
+Bidoof
+D
+P
+Pt
+Grass
+9-10
+10%
+Buizel
+D
+P
+Pt
+Grass
+8-13
+35%
+Shellos
+D
+P
+Pt
+Grass
+8-10
+45%
+Fishing and Surfing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Camper
+Jacob
+Reward:
+$
+224
+Ponyta
+♂
+Lv.
+14
+No item
+Hiker
+Daniel
+Reward:
+$
+352
+Geodude
+♂
+Lv.
+11
+No item
+Machop
+♂
+Lv.
+11
+No item
+Geodude
+♂
+Lv.
+11
+No item
+Bidoof
+♂
+Lv.
+11
+No item
+Aroma Lady
+Elizabeth
+Reward:
+$
+448
+Budew
+♀
+Lv.
+14
+No item
+Camper
+Zackary
+Reward:
+$
+224
+Geodude
+♂
+Lv.
+14
+No item
+Picnicker
+Siena
+Reward:
+$
+192
+Shinx
+♀
+Lv.
+12
+No item
+Pachirisu
+♀
+Lv.
+12
+No item
+Hiker
+Nicholas
+Reward:
+$
+448
+Onix
+♂
+Lv.
+14
+No item
+Battle Girl
+Kelsey
+Reward:
+$
+240
+Machop
+♂
+Lv.
+15
+No item
+Picnicker
+Karina
+Reward:
+$
+224
+Piplup
+♂
+Lv.
+14
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Chesto Berry
+Lower level; at the berry patch near the Floaroma Town entrance
+D
+P
+Pecha Berry
+Lower level; at the berry patch near the Floaroma Town entrance
+D
+P
+X Attack
+Near Hiker Daniel
+D
+P
+Poké Ball
+To the left of the bridge on the lower path
+D
+P
+Antidote
+On the small hill east of Camper Zackary
+(hidden)
+D
+P
+Repel
+Near Battle Girl Kelsey
+D
+P
+Super Potion
+South of house on the lower path
+D
+P
+Eterna Forest
+Eterna Forest
+Items
+Item
+Location
+Games
+Antidote
+Left of the bottom entrance
+D
+P
+Parlyz Heal
+Above Lass Briana
+D
+P
+Great Ball
+In the large patch of grass south of Psychics Lindsey and Elijah
+D
+P
+Potion
+In the grass at the bottom-right corner of the forest
+D
+P
+Honey
+In the grass south-west of the cuttable trees leading to the
+Old Chateau
+D
+P
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Jack
+Reward:
+$
+208
+Wurmple
+♂
+Lv.
+9
+No item
+Silcoon
+♂
+Lv.
+11
+No item
+Beautifly
+♂
+Lv.
+13
+No item
+Lass
+Briana
+Reward:
+$
+224
+Pachirisu
+♀
+Lv.
+14
+No item
+Psychic
+Lindsey
+Reward:
+$
+480
+Abra
+♂
+Lv.
+15
+No item
+Psychic
+Elijah
+Reward:
+$
+480
+Abra
+♂
+Lv.
+15
+No item
+Bug Catcher
+Phillip
+Reward:
+$
+208
+Wurmple
+♂
+Lv.
+9
+No item
+Cascoon
+♂
+Lv.
+11
+No item
+Dustox
+♂
+Lv.
+13
+No item
+Bug Catcher
+Donald
+Reward:
+$
+192
+Burmy
+♂
+Plant Cloak
+Lv.
+12
+No item
+Kricketune
+♂
+Lv.
+12
+No item
+Psychic
+Kody
+Reward:
+$
+480
+Meditite
+♂
+Lv.
+15
+No item
+Psychic
+Rachael
+Reward:
+$
+480
+Psyduck
+♀
+Lv.
+15
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Buneary
+D
+P
+Pt
+Grass
+10-12
+19%
+Wurmple
+D
+P
+Pt
+Grass
+10-11
+30%
+30%
+20%
+Silcoon
+D
+P
+Pt
+Grass
+10
+20%
+Beautifly
+D
+P
+Pt
+Grass
+10-12
+2%
+Cascoon
+D
+P
+Pt
+Grass
+10
+20%
+Dustox
+D
+P
+Pt
+Grass
+10-12
+2%
+Budew
+D
+P
+Pt
+Grass
+10-12
+29%
+29%
+19%
+Murkrow
+D
+P
+Pt
+Grass
+10-11
+0%
+0%
+20%
+Misdreavus
+D
+P
+Pt
+Grass
+10-11
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Right at the beginning of Eterna Forest, a woman named
+Cheryl
+will join you and ask you to go through the forest with her because she is afraid of
+Team Galactic
+. She will fully heal your Pokémon after every battle.
+Pokémon Trainer
+Cheryl
+Eterna Forest
+Diamond and Pearl
+Reward:
+None
+Type:
+Normal
+Unknown
+Ability:
+Natural Cure
+Held item:
+None
+Chansey
+♀
+Lv.
+15
+Egg Bomb
+Normal
+Physical
+--
+Refresh
+Normal
+Status
+--
+Softboiled
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+During your travels through the Eterna Forest, you will mostly have to deal with Trainers that if lined up correctly will challenge you to
+Multi Battles
+, with Cheryl as your partner. At the end of Eterna Forest, the
+Old Chateau
+can be found. It can only be accessed by using the move Cut.
+Note that the wild battles will be
+Double Battles
+as well. To catch one Pokémon, you must knock out the other, otherwise it is impossible to aim a Poké Ball. You can come back after Cheryl is escorted through, and then wild battles will revert into
+Single Battles
+. This might also be a good time to train weaker Pokémon because your Pokémon will be healed after each battle. But remember that once Cheryl leaves you, this will no longer work.
+The forest is also home to the
+Moss Rock
+that can evolve
+Eevee
+into
+Leafeon
+. You're still a long way from obtaining Eevee, though.
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.
+← Part 3
+Route 207, Oreburgh Mine, Oreburgh Gym, Oreburgh Gate (Basement), Jubilife City, Route 204 (South, North), Ravaged Path
+Diamond and Pearl
+walkthrough
+Route 205 (Part 3), Eterna City, Route 211 (West), Mt. Coronet (Northern Area Part 1), Eterna Gym, Galactic Eterna Building
+Part 5 →

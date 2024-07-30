@@ -1,0 +1,60 @@
+Game: X_and_Y
+Part: 4
+Keywords: Route 7 (East), Route 6, Parfum Palace, Route 7 (West), Connecting Cave
+
+## Concise Walkthrough: Pokémon X and Y - Part 4
+
+### Route 7 (East)
+- **Description**: Connects Camphrier Town to Connecting Cave; features Berry Fields.
+- **Items**:
+  - **Oran Berry ×5** - East of the bridge from the Berry farmer.
+  - **Pecha Berry ×5** - East of the bridge from the Berry farmer.
+  - **Miracle Seed** - In Berry Fields, southwest corner.
+  - **Heal Ball** - North of the bridge on the riverbank.
+
+#### Berry Fields
+- Help the caretaker and his daughter to receive Oran Berries, Pecha Berries, and a Sprinklotad. Berries can be planted here and mutated for rare berries.
+
+### Route 6
+- Leads north to Parfum Palace. Encounter wild Pokémon and trainers along the way.
+
+#### Available Pokémon
+- Oddish, Sentret, Espurr, Honedge, Kecleon, etc.
+
+### Parfum Palace
+- **Entrance**: Pay $1,000 to enter. Speak to tourists for items.
+- **Interior**: Help find the missing Furfrou. Rest your Pokémon here.
+- **Courtyard**: Obtain **HM01 (Cut)** and trap Furfrou with Shauna’s help.
+- **Balcony**: After returning Furfrou, get the **Poké Flute** and **TM17 (Protect)** from the butler.
+
+### Route 7 (West)
+- **Trainers**: Fight various trainers and artists; gain rewards.
+- **Items**:
+  - **X Sp. Def** - Southwest of Artist Georgia.
+  - **PP Up** - Southwest of Battle Chateau.
+  - **Persim Berry** - Near Connecting Cave.
+
+#### Snorlax Encounter
+- Use the Poké Flute to wake Snorlax (Lv. 15). It's weak to Fighting-type moves. Be prepared with Great Balls.
+
+### Pokémon Day Care
+- Located west of the bridge; leave up to two Pokémon to gain experience.
+
+### Battle Chateau
+- Meet Viola and Hennessy. Start as Baron/Baroness and battle to increase your rank and earn rewards.
+
+#### Ranks Overview
+- Progress through ranks by defeating trainers. Higher ranks yield better rewards and opponents.
+
+#### Multi Battle
+- Engage in a Multi Battle with Serena/Calem against Tierno and Trevor.
+
+### Connecting Cave
+- Connects Route 7 to Route 8. A scientist heals Pokémon here.
+- **Available Pokémon**: Zubat, Whismur, Meditite, Axew.
+
+#### Items
+- **TM40 (Aerial Ace)** - Northwest corner (requires Strength).
+- **TM21 (Frustration)** - From Backpacker near the central boulder.
+
+**Next Steps**: Head to Route 8 for continued adventures.

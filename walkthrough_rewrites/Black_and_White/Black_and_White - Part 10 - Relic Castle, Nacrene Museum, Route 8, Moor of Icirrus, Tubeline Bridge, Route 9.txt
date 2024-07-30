@@ -1,0 +1,58 @@
+Game: Black_and_White
+Part: 10
+Keywords: Relic Castle, Nacrene Museum, Route 8, Moor of Icirrus, Tubeline Bridge, Route 9
+
+**Part 10 Walkthrough: Key Locations and Instructions**
+
+**1. Relic Castle**
+- Access the lower floors by using the stairs in the southwest after the sand is cleared.
+- **B1F**: Battle Team Plasma Grunts for rewards. 
+- **B2F**: Collect Max Potion and TM30 (Shadow Ball). Defeat two grunts.
+- **B3F**: Fight another grunt, grab Max Revive and PP Up.
+- **B4F**: Defeat two more grunts and head to B5F.
+- **B5F**: Encounter Cheren, Alder, and Ghetsis. After Ghetsis leaves, head to Nacrene City.
+
+**Items:**
+- Max Potion (B2F southeast)
+- TM30 (Shadow Ball) (B2F)
+- Max Revive (B3F)
+- Sun Stone (B4F)
+
+**2. Nacrene City**
+- Meet Professor Juniper and receive the Light Stone from Lenora.
+- Prepare to battle N.
+
+**3. Route 8**
+- Navigate through marshy terrain to Moor of Icirrus.
+- Battle Trainers for rewards.
+
+**Available Pokémon:**
+- Palpitoad, Shelmet, Stunfisk in puddles.
+
+**Items:**
+- TM36 (Sludge Bomb) (Northeast of Pokémon Ranger Lewis)
+- Full Restore (east of Parasol Lady Melita)
+
+**4. Moor of Icirrus**
+- Use Strength to navigate boulders. Battle trainers and collect items.
+
+**Items:**
+- Nugget (north of Fisherman Damon)
+- Max Potion (north part of the moor)
+
+**5. Tubeline Bridge**
+- Encounter Bianca for a battle. Defeat her to receive a Full Restore.
+- Talk to Battle Girl for TM43 (Flame Charge).
+
+**6. Route 9**
+- Exit the Tubeline Bridge, receive TM56 (Fling) from an Infielder.
+- Explore Shopping Mall Nine for various items and Pokémon.
+
+**Available Pokémon:**
+- Gothorita, Duosion, Garbodor, Minccino, Pawniard.
+
+**Items:**
+- Lemonade (hidden near Shopping Mall Nine)
+- Max Ether (near Tubeline Bridge gate)
+
+Continue east to Opelucid City after completing the tasks in the above areas.

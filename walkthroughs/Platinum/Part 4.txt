@@ -1,0 +1,1310 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_4
+Keywords: Valley Windworks, Route 205 (south), Eterna Forest, Route 205 (east), Eterna City, Eterna Gym
+
+Walkthrough Text:
+Contents
+1
+Valley Windworks
+1.1
+Interior
+2
+Route 205 (south)
+3
+Eterna Forest
+4
+Route 205 (east)
+5
+Eterna City
+5.1
+Underground Man
+5.2
+Eterna Condominiums
+5.3
+Herb Shop
+5.4
+Bike Shop
+6
+Eterna Gym
+Valley Windworks
+Valley Windworks (with Drifloon)
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Shinx
+D
+P
+Pt
+Grass
+10
+20%
+Pachirisu
+D
+P
+Pt
+Grass
+9,11
+10%
+Buizel
+D
+P
+Pt
+Grass
+9-11
+25%
+Shellos
+D
+P
+Pt
+Grass
+9-12
+45%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+Eastern side, below the Honey Tree
+Pt
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+520
+Glameow
+♀
+Lv.
+13
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Battle the
+Galactic Grunt
+here who is guarding the door of
+Valley Windworks
+. After defeating him, he will run inside the Valley Windworks and lock the door. However, he will tell you that his comrades in Floaroma Meadow have a spare key. If you don't already have the key, return to Floaroma Town and enter the
+meadow
+to the north.
+Interior
+Interior of the Valley Windworks
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+520
+Zubat
+♂
+Lv.
+13
+No item
+Galactic Grunt
+Reward:
+$
+440
+Glameow
+♀
+Lv.
+11
+No item
+Stunky
+♂
+Lv.
+11
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+When you enter the Windworks, you will startle the grunt who had previously blocked the door. He quickly turns and runs away to warn
+the Commander
+. Follow him, battling the two grunts along the way. The Commander notices you and talks to you about Team Galactic, providing some information. She promptly challenges you to a battle.
+Commander
+Mars
+Valley Windworks
+Platinum
+Reward:
+$
+1360
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Zubat
+♀
+Lv.
+15
+Bite
+Dark
+Physical
+--
+Leech Life
+Bug
+Physical
+--
+Toxic
+Poison
+Status
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Oran Berry
+Purugly
+♀
+Lv.
+17
+Fake Out
+Normal
+Physical
+--
+Scratch
+Normal
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+The danger here is that Mars' Level 17
+Purugly
+is tough to beat unless if your team was well prepared beforehand. If you started with
+Chimchar
+, having it evolve into
+Monferno
+(at Lv. 14) to learn
+Mach Punch
+is useful.
+Intimidate
+users, such as
+Staravia
+or
+Luxio
+, are also helpful. Upon defeat, Mars will gather her grunts and leave the Windworks after
+another Commander
+reminds her that they've already collected enough energy from the Windworks for their plans.
+The little girl's father thanks you for rescuing him, and his daughter runs in happily, thanking you as she passes. You now may continue north on Route 205, which was previously blocked by Galactic Grunts. After leaving the Windworks,
+Looker
+shows up and mentions that he heard of the attack on the Windworks and at first is in disbelief that you drove Team Galactic away. He then mentions that Team Galactic is rumored to have a
+hideout
+in
+Eterna City
+. Before continuing north, return to Floaroma Town and heal up your team.
+Now that Team Galactic has left the Windworks, a
+Drifloon
+will appear here every Friday.
+Route 205 (south)
+Route 205
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Bidoof
+D
+P
+Pt
+Grass
+10
+10%
+Pachirisu
+D
+P
+Pt
+Grass
+9,11
+10%
+Buizel
+D
+P
+Pt
+Grass
+10-11
+15%
+Shellos
+D
+P
+Pt
+Grass
+9-12
+65%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Chesto Berry
+Berry patch near Floaroma Town entrance
+Pt
+Pecha Berry
+Berry patch near Floaroma Town entrance
+Pt
+X Sp. Def
+Near Hiker Daniel
+Pt
+Stardust
+In the center of the small hill
+(hidden)
+Pt
+Oran Berry
+Berry patch to the right of the bridge on the lower path
+Pt
+Pecha Berry
+Berry patch to the right of the bridge on the lower path
+Pt
+Heal Ball
+To the left of the bridge on the lower path
+Pt
+Repel
+Near Battle Girl Kelsey
+Pt
+Super Potion
+South of house on the lower path
+Pt
+Trainers
+Trainer
+Pokémon
+Camper
+Jacob
+ヨシキ
+Yoshiki
+Reward:
+$
+224
+Ponyta
+♂
+Lv.
+14
+No item
+Hiker
+Daniel
+カツト
+Katsuto
+Reward:
+$
+384
+Geodude
+♂
+Lv.
+10
+No item
+Geodude
+♂
+Lv.
+11
+No item
+Geodude
+♂
+Lv.
+12
+No item
+Aroma Lady
+Elizabeth
+チエ
+Chie
+Reward:
+$
+448
+Roselia
+♀
+Lv.
+14
+No item
+Camper
+Zackary
+コウヘイ
+Kōhei
+Reward:
+$
+224
+Aipom
+♂
+Lv.
+14
+No item
+Picnicker
+Siena
+コエダ
+Koeda
+Reward:
+$
+192
+Bidoof
+♀
+Lv.
+12
+No item
+Pachirisu
+♀
+Lv.
+12
+No item
+Hiker
+Nicholas
+ガンジ
+Ganji
+Reward:
+$
+448
+Onix
+♂
+Lv.
+14
+No item
+Battle Girl
+Kelsey
+チナツ
+Chinatsu
+Reward:
+$
+240
+Machop
+♂
+Lv.
+15
+No item
+Picnicker
+Karina
+サヤ
+Saya
+Reward:
+$
+224
+Piplup
+♂
+Lv.
+14
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+As stated before, the
+Galactic Grunts
+who were blocking you from entering
+Route 205
+are now gone with Commander Mars. You can cross the small bridge and then continue heading north until you get to Eterna Forest. Ascend to the raised western side of the route, and battle your way to the house at the top, where the woman inside can heal your Pokémon. Jump down the ledges on the eastern side of the route, battling all the trainers and collecting all the items on the lower level, then head left just before the last ledge and ascend back up to the top of the route and enter Eterna Forest.
+Eterna Forest
+Eterna Forest
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gastly
+D
+P
+Pt
+Grass
+13
+4%
+Bidoof
+D
+P
+Pt
+Grass
+12
+10%
+Buneary
+D
+P
+Pt
+Grass
+11,13
+24%
+Wurmple
+D
+P
+Pt
+Grass
+10
+10%
+10%
+0%
+Silcoon
+D
+P
+Pt
+Grass
+12
+5%
+Beautifly
+D
+P
+Pt
+Grass
+14
+1%
+Cascoon
+D
+P
+Pt
+Grass
+12
+5%
+Dustox
+D
+P
+Pt
+Grass
+14
+1%
+Kricketot
+D
+P
+Pt
+Grass
+12
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+10
+0%
+0%
+10%
+Budew
+D
+P
+Pt
+Grass
+10-12
+30%
+40%
+30%
+Hoothoot
+D
+P
+Pt
+Grass
+12
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Jack
+ヨウタ
+Yōta
+Reward:
+$
+240
+Wurmple
+♂
+Lv.
+11
+No item
+Silcoon
+♂
+Lv.
+13
+No item
+Beautifly
+♂
+Lv.
+15
+No item
+Lass
+Briana
+カナコ
+Kanako
+Reward:
+$
+256
+Pachirisu
+♀
+Lv.
+16
+No item
+Psychic
+Lindsey
+ヨリコ
+Yoriko
+Reward:
+$
+544
+Abra
+♂
+Lv.
+17
+No item
+Psychic
+Elijah
+アキフミ
+Akifumi
+Reward:
+$
+544
+Abra
+♂
+Lv.
+17
+No item
+Bug Catcher
+Phillip
+シンゴ
+Shingo
+Reward:
+$
+240
+Wurmple
+♂
+Lv.
+11
+No item
+Cascoon
+♂
+Lv.
+13
+No item
+Dustox
+♂
+Lv.
+15
+No item
+Bug Catcher
+Donald
+ミチオ
+Michio
+Reward:
+$
+224
+Burmy
+♂
+Sandy Cloak
+Lv.
+14
+No item
+Burmy
+♂
+Trash Cloak
+Lv.
+14
+No item
+Psychic
+Kody
+マキヤ
+Makiya
+Reward:
+$
+544
+Meditite
+♂
+Lv.
+17
+No item
+Psychic
+Rachael
+リョウコ
+Ryōko
+Reward:
+$
+544
+Psyduck
+♀
+Lv.
+17
+No item
+Items
+Item
+Location
+Games
+Antidote
+Left of the bottom entrance
+Pt
+Parlyz Heal
+Above Lass Briana
+Pt
+Net Ball
+In the large patch of grass south of Psychics Lindsey and Elijah
+Pt
+Potion
+In the grass at the bottom-right corner of the forest
+Pt
+Green Shard
+Near the exit of the Eterna Forest
+Pt
+Soothe Bell
+Given by Cheryl when the exit is found
+Pt
+Eterna Forest
+has a reputation for being a mysterious place, from the abandoned
+Old Chateau
+to the strange Moss Rock. Eterna Forest is a long and complex structure of trees that make it a natural maze, where a lot of people get lost. It's home to many Bug- and Grass-type Pokémon, and is currently the only known place in Sinnoh to find and catch
+Buneary
+.
+Once inside, a woman named
+Cheryl
+will ask you to escort her through the forest, since she is worried about being attacked by
+Team Galactic
+. When traveling with her, all wild encounters will become
+Double Battles
+! If you want to catch any of the Pokémon found here, it is recommended you do so after you've parted ways; while you're in Cheryl's company you're unable to catch wild Pokémon while there are two enemies on the field, and her Chansey will quickly finish off a single Pokémon. You also have the option of challenging pairs of Trainers as a tag team with Cheryl or by yourself by talking to them to fight individual battles. The greatest benefit of traveling with her is that after every battle, she will fully heal your team! This makes Eterna Forest a great place to train for your upcoming Gym Battle.
+Pokémon Trainer
+Cheryl
+Eterna Forest
+Platinum
+Reward:
+None
+Type:
+Normal
+Unknown
+Ability:
+Natural Cure
+Held item:
+None
+Chansey
+♀
+Lv.
+20
+Egg Bomb
+Normal
+Physical
+--
+Refresh
+Normal
+Status
+--
+Softboiled
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+The most direct route from the southern exit to the northern exit is as follows: travel northeast from the entrance, through the
+tall grass
+, and then directly north, following the path between a Lass and a Bug Catcher. Then, continue east a short way to the trees and then south to a large patch of tall grass. From there, continue east until the eastern wall is reached. A considerable distance north of there is the exit, around a small rock ledge. However, you may (and should) choose to deviate from this route, as there are a lot of items and Trainers to be found in Eterna Forest. Once you reach the northern exit, Cheryl will leave. Upon leaving, Cheryl will give you the Soothe Bell as a gift.
+Route 205 (east)
+When you come out of Eterna Forest and return to
+Route 205
+, all you need to do is walk across the bridge. The
+Fishermen
+won't battle you unless you talk to them, so if you don't want the experience just go straight ahead to Eterna City.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Hoothoot
+D
+P
+Pt
+Grass
+12
+0%
+0%
+10%
+Wurmple
+D
+P
+Pt
+Grass
+13
+10%
+10%
+0%
+Silcoon
+D
+P
+Pt
+Grass
+14
+10%
+Beautifly
+D
+P
+Pt
+Grass
+15
+1%
+Cascoon
+D
+P
+Pt
+Grass
+14
+10%
+Dustox
+D
+P
+Pt
+Grass
+15
+1%
+Bidoof
+D
+P
+Pt
+Grass
+12-14
+30%
+Kricketot
+D
+P
+Pt
+Grass
+12
+10%
+0%
+0%
+Kricketot
+D
+P
+Pt
+Grass
+13
+0%
+0%
+10%
+Budew
+D
+P
+Pt
+Grass
+12-14
+28%
+38%
+28%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Joseph
+タカマサ
+Takamasa
+Reward:
+$
+544
+Goldeen
+♂
+Lv.
+17
+No item
+Fisherman
+Andrew
+ユキハル
+Yukiharu
+Reward:
+$
+512
+Magikarp
+♂
+Lv.
+8
+No item
+Magikarp
+♂
+Lv.
+10
+No item
+Magikarp
+♂
+Lv.
+12
+No item
+Magikarp
+♂
+Lv.
+12
+No item
+Magikarp
+♂
+Lv.
+14
+No item
+Magikarp
+♂
+Lv.
+16
+No item
+Fisherman
+Zachary
+シンサク
+Shinsaku
+Reward:
+$
+512
+Magikarp
+♂
+Lv.
+14
+No item
+Goldeen
+♂
+Lv.
+16
+No item
+Magikarp
+♂
+Lv.
+14
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Cheri Berry
+Berry patch above the pond
+Pt
+Pecha Berry
+Berry patch above the pond
+Pt
+Oran Berry
+×2
+Berry patch above the pond
+Pt
+Super Potion
+Near the Honey Tree in the northeast corner of the route
+(hidden)
+Pt
+Guard Spec.
+On the outlook of the south part of the pond near the entrance to
+Eterna City
+Pt
+Eterna City
+Eterna City
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Friendship Checker
+Obtained from a woman in the Pokémon Center
+Pt
+Draco Plate
+Behind the statue
+(hidden)
+Pt
+HM01
+(
+Cut
+)
+Given by
+Cynthia
+after your encounter with
+Cyrus
+Pt
+Explorer Kit
+Given by the Underground Man in his house
+Pt
+TM67
+(
+Recycle
+)
+Received from the old woman in the
+Eterna Condominiums
+Pt
+Leppa Berry
+Held by
+Charap
+Pt
+Super Potion
+Next to the Gym
+Pt
+Once in
+Eterna City
+, you will see that Team Galactic has set up another Headquarters. As usual, you'll be stopping them from their evil work. The building is blocked by small trees, though, so you must first go to the Gym, and battle the Gym Leader,
+Gardenia
+. Before that, go a bit ahead and
+Barry
+will accompany you to the statue around the corner. As you walk up to the statue, you'll see
+Cyrus
+there. Once again, he will make a reference to
+Sinnoh's legends
+.
+After Barry and Cyrus leave, you'll find a hidden
+Draco Plate
+just behind the statue. As you head back the way you came, you'll meet
+Cynthia
+who gives you a copy of
+HM01
+(
+Cut
+)! Also, talk to the lady in the
+Pokémon Center
+for a
+Pokétch
+app called Friendship Checker which allows you to tell how much the Pokémon in your
+Party
+like you. This is useful when trying to evolve Pokémon that evolve with high
+Friendship
+.
+Here are some other places you can check out in Eterna City:
+Underground Man
+Right next to the Pokémon Center is the house of the
+Underground Man
+, who will give you the
+Explorer Kit
+. You can use this daily to travel to the Sinnoh
+Underground
+, a vast expanse of tunnels where you can mine for items and create a
+Secret Base
+.
+There are two potential types of fossils that can be mined in the Underground, but only one type is available per game. It has to do with the last digit of your
+Trainer ID number
+(visible on your
+Trainer Card
+). If the last digit is odd then you'll be able to obtain the Skull Fossil (
+Cranidos
+), but if it is even then you'll get the Armor Fossil (
+Shieldon
+). Fossils can be revived into their respective Pokémon in the
+Oreburgh Mining Museum
+. The Fossils from Generation I and III can only be obtained after getting the
+National Pokédex
+.
+Eterna Condominiums
+Main article:
+Eterna Condominiums
+On the first floor of this building, Sinnoh's
+Name Rater
+can be found, as well as a boy named Norton who will trade a
+Chatot
+for a
+Buizel
+and on the second floor, an old lady will give away
+TM67
+(
+Recycle
+).
+Pokémon
+Games
+Location
+Levels
+Rate
+Chatot
+D
+P
+Pt
+Trade
+Buizel
+Same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Herb Shop
+Main article:
+Herb Shop
+The
+Herb Shop
+is a shop that sells herbs with effects similar to other medicines. They're relatively inexpensive, but their bitter taste lowers the
+Happiness
+of Pokémon they are used on.
+Revival Herbs
+are probably the most useful thing that can be bought here.
+Bike Shop
+Main article:
+Rad Rickshaw's Cycle Shop
+Obviously, this is a store where
+Bicycles
+are sold. However, you can't purchase a bike from the store. The owner is being held captive by Team Galactic!
+You can challenge the Eterna City Gym if you want but if you need more time to train or find new Pokémon you can check out the west side of
+Route 211
+and part of the north side of
+Mt. Coronet
+by heading through Eterna City's eastern exit. See
+this section
+for more details on Route 211 and
+this section
+for Mt. Coronet's North Area.
+Eterna Gym
+Interior of the Eterna Gym
+This Gym specializes in
+Grass-types
+. Be aware that the highest-leveled Pokémon you'll encounter here is Level 22 and quite powerful.
+Gardenia
+'s Grass-types are weak to
+Fire
+- and
+Flying
+-type moves. Avoid bringing
+Ground
+-,
+Rock
+-, and
+Water
+-types, as these types are very weak against her Grass Pokémon. If your starter was
+Chimchar
+, this should be an easy fight. If not, the common Pokémon
+Starly
+evolves into
+Staravia
+at Level 14, and is a good Flying-type that should be considered having on any team, regardless of your starter.
+Once inside the Gym, you must find and battle three Trainers before Gardenia will face you. The hands of the giant clock in the middle move every time you defeat a Trainer. When they are pointing north, south, east, or west, you can walk across them to reach other areas of the Gym.
+Eterna Gym
+Trainers
+Trainer
+Pokémon
+Lass
+Caroline
+リサ
+Lisa
+Reward:
+$
+272
+Cherubi
+♀
+Lv.
+17
+No item
+Roselia
+♀
+Lv.
+17
+No item
+Aroma Lady
+Jenna
+マナエ
+Manae
+Reward:
+$
+544
+Budew
+♀
+Lv.
+15
+No item
+Budew
+♀
+Lv.
+16
+No item
+Budew
+♀
+Lv.
+17
+No item
+Aroma Lady
+Angela
+ユキノ
+Yukino
+Reward:
+$
+608
+Roselia
+♀
+Lv.
+19
+No item
+Leader
+Gardenia
+Eterna Gym
+Platinum
+Reward:
+$
+2640
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+Lv.
+20
+Razor Leaf
+Grass
+Physical
+--
+Grass Knot
+Grass
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Flower Gift
+Held item:
+None
+Cherrim
+♀
+Lv.
+20
+Grass Knot
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Safeguard
+Normal
+Status
+--
+Magical Leaf
+Grass
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+Sitrus Berry
+Roserade
+♀
+Lv.
+22
+Grass Knot
+Grass
+Special
+--
+Magical Leaf
+Grass
+Special
+--
+Poison Sting
+Poison
+Physical
+--
+Stun Spore
+Grass
+Status
+--
+First she will send out her
+Turtwig
+, which will use moves like
+Sunny Day
+and
+Reflect
+to help set up the rest of her Pokémon. However, Sunny Day also powers up Fire-type moves, which you can use to your advantage. Gardenia's entire team knows
+Grass Knot
+, an attack that does more damage to
+heavier Pokémon
+. If Turtwig had a chance to set up Sunny Day, Gardenia's Cherrim will have its
+Attack
+and
+Special Defense
+increase by 50% due to
+its Ability
+. Try to knock it out quickly so you don't get hit by
+Leech Seed
+, which will drain your HP to heal the opponent. Gardenia's highest-leveled Pokémon,
+Roserade
+, has an additional
+Poison
+type that makes it weak to
+Psychic-type
+attacks. Along with the strong attack
+Magical Leaf
+, Roserade also has
+Stun Spore
+, a move that can
+paralyze
+, and
+Poison Sting
+, a weak attack that can
+poison
+your Pokémon.
+Once you beat her you will receive the
+Forest Badge
+,
+TM86
+(
+Grass Knot
+), and the ability to use
+Cut
+outside of battle. Now, you may enter the Galactic Eterna Building.
+← Part 3
+Oreburgh Gym to Floaroma Meadow
+Platinum
+walkthrough
+Eterna City to Route 207
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

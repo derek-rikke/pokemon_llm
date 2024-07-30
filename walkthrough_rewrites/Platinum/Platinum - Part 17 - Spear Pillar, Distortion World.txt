@@ -1,0 +1,52 @@
+Game: Platinum
+Part: 17
+Keywords: Spear Pillar, Distortion World
+
+### Part 17: Spear Pillar and Distortion World Walkthrough
+
+#### Spear Pillar
+1. **Battle Team Galactic:**
+   - **Double Battle:** Fight two Galactic Grunts (Croagunk and Stunky).
+   - **Multi Battle:** Team up with Barry against Mars and Jupiter.
+   
+2. **Key Pokémon Encountered:**
+   - Barry's Pokémon vary based on your starter:
+     - **Turtwig:** Roserade (Lv. 40), Heracross (Lv. 42), Staraptor (Lv. 42), Torterra (Lv. 44).
+     - **Chimchar:** Floatzel (Lv. 40), Infernape (Lv. 44).
+     - **Piplup:** Empoleon (Lv. 44).
+
+3. **Defeat Mars and Jupiter:**
+   - Focus on taking out both Bronzor quickly to avoid Reflect/Light Screen. Use Fighting or Ground-type moves against Purugly and Skuntank.
+
+4. **Cyrus' Summoning:**
+   - After the battle, watch as Cyrus uses the Red Chain to summon Dialga and Palkia. Then, Giratina appears, leading to the Distortion World.
+
+#### Distortion World
+1. **Navigating the World:**
+   - Gravity behaves differently; follow Cynthia to use gray markers as elevators.
+   - Follow her through various floors, solving puzzles by activating gray markers to reveal platforms.
+
+2. **Key Areas:**
+   - **B1F to B7F:** Utilize platforms to access different levels, pushing boulders into holes where each Lake Guardian appears.
+   - **Encounter Cyrus:** After solving puzzles, face Cyrus again.
+
+#### Battle Cyrus
+- **Cyrus' Team:**
+  - Houndoom (Lv. 45), Honchkrow (Lv. 47), Crobat (Lv. 46), Gyarados (Lv. 46), Weavile (Lv. 48).
+- **Strategy:** Use Electric and Rock-type moves to exploit weaknesses. Be wary of status moves and powerful attacks.
+
+#### Catching Giratina
+1. **Approach:**
+   - Save before reaching Giratina (Lv. 47). Use Dusk Balls (best at night) for a higher catch rate.
+   
+2. **Battle Strategy:**
+   - Inflict status conditions to ease capture. Avoid strong moves that could knock it out.
+   - If overwhelmed, you can defeat it now and catch later in Turnback Cave.
+
+3. **Post-Battle:**
+   - After catching or defeating Giratina, follow Cynthia to a portal that leads back to the real world.
+
+#### Conclusion
+- After the encounter, Cyrus expresses disbelief at Giratina's defeat/capture and leaves. Enter the portal to reach Sendoff Spring.
+
+**Next:** Head to Sunyshore City (Part 18).

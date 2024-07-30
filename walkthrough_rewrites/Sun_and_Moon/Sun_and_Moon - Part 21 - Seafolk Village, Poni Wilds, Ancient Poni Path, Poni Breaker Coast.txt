@@ -1,0 +1,71 @@
+Game: Sun_and_Moon
+Part: 21
+Keywords: Seafolk Village, Poni Wilds, Ancient Poni Path, Poni Breaker Coast
+
+### Walkthrough: Poni Island (Part 21)
+
+**Seafolk Village**
+- **Access:** Main entry to Poni Island, leads to Poni Wilds and Exeggutor Island.
+- **Trainers:**
+  - Sightseer Marcus (Lv. 55 Exeggcute, Reward: $3,300)
+  - Sylveon User Kira (Lv. 54 Sylveon, Reward: $648)
+  
+- **Items:**
+  - **Huntail Ship:** 
+    - Magmarizer & Electirizer (from the cabin).
+    - Gift: Aerodactyl (from nearby Ace Trainer).
+  - **Wailord Ship:** 
+    - Heart Scale (after ordering Z-Noodles).
+    - Zygarde Cells (multiple locations).
+  
+- **Important NPCs:**
+  - Seafolk Chief (directs to Hapu's house).
+  - Trade: Steenee for Granbull (Veteran).
+  - Move Tutors: Draco Meteor & Dragon Ascent.
+
+---
+
+**Poni Wilds**
+- **Access:** North from Seafolk Village.
+- **Trainers:**
+  - Ace Trainer Lindsey (Lv. 44 Garbodor, Reward: $3,060)
+  - Ace Trainer Kekoa (Lv. 44 Skarmory, Reward: $3,060)
+  
+- **Items:**
+  - Focus Sash (from Dancer Julia after defeating her).
+  - Hidden items: Repeat Ball, Big Pearl, etc.
+
+---
+
+**Ancient Poni Path**
+- **Access:** Between Poni Wilds and Poni Breaker Coast.
+- **Trainers:**
+  - Collector Raymond (Lv. 43 Turtonator, Reward: $1,376)
+  
+- **Meeting Mudsdale:** Encounter with Hapu outside her house. Hapu directs to the Ruins of Hope.
+
+---
+
+**Poni Breaker Coast**
+- **Access:** Links Ancient Poni Path to Ruins of Hope.
+- **Trainers:**
+  - Sightseer Jamie (Lv. 43 Sandshrew, Reward: $2,580)
+  
+- **Items:**
+  - Calcium (near the southeast pool).
+  
+- **Fishing Pokémon:** Magikarp, Wailmer, etc. 
+
+---
+
+### Key Objectives:
+1. **Visit Seafolk Village** to gather items and meet key NPCs.
+2. **Battle trainers in Poni Wilds** for experience and rewards.
+3. **Meet Hapu at Ancient Poni Path** to progress the story.
+4. **Reach Poni Breaker Coast** to prepare for the Ruins of Hope. 
+
+### Tips:
+- Regularly check for hidden items and trainers for optimal leveling.
+- Utilize fishing and encounter mechanics to fill your Pokédex. 
+
+Continue to the next part for Ruins of Hope and the Grand Trial.

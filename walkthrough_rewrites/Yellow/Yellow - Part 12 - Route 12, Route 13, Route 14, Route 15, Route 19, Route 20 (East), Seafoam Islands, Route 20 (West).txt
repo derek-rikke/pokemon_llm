@@ -1,0 +1,44 @@
+Game: Yellow
+Part: 12
+Keywords: Route 12, Route 13, Route 14, Route 15, Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+
+### Pokémon Yellow Walkthrough: Part 12 Summary
+
+**Key Locations:**
+- **Route 12**: Connects Lavender Town and Routes 11 & 13. Encounter Snorlax; use the Poké Flute to wake it (Lv. 30). Obtain the Super Rod from Fishing Guru's brother.
+- **Route 13**: A maze-like path leading to Route 14. Battle various Trainers.
+- **Route 14**: Coastal road leading to Route 15. Trainers include Bird Keepers and Bikers.
+- **Route 15**: Connects to Fuchsia City with more Trainers.
+- **Fuchsia City**: Prepare for upcoming battles and surfing.
+- **Route 19**: Leads to Route 20; trainers include Swimmers.
+- **Route 20 (East)**: Features Seafoam Islands; catch Water Pokémon and battle Swimmers.
+- **Seafoam Islands**: Navigate through currents and rocks to find Articuno (Lv. 50). Use status effects to aid in capturing.
+- **Route 20 (West)**: Connects to Cinnabar Island with additional Trainer battles.
+
+**Important Trainers and Battles:**
+- **Route 12**: Multiple Fishermen and a Rocker.
+- **Route 13**: Bird Keepers and Jr. Trainers.
+- **Route 14**: Bird Keepers and Bikers.
+- **Route 15**: Beauty and Jr. Trainers with varying levels.
+- **Articuno Fight**: Use Fire, Electric, or Rock-type moves, then Grass or Bug moves. Inflict Sleep or Paralysis for better capture chances.
+
+**Items to Collect:**
+- **Route 12**: TM39 (Swift), Hyper Potion, Super Rod, Iron.
+- **Route 14**: Calcium, PP Up.
+- **Route 15**: TM20 (Rage), Exp. All (after catching 50 species).
+- **Seafoam Islands**: Nugget, Max Elixir, Ultra Ball.
+
+**Available Pokémon:**
+- **Route 12**: Oddish, Bellsprout, various Water-types with fishing.
+- **Route 13**: Pidgey, Oddish, Gloom.
+- **Route 14**: Oddish, Bellsprout, Venonat.
+- **Route 15**: Oddish, Bellsprout, Venonat.
+- **Seafoam Islands**: Zubat, Krabby, Slowpoke, and Legendary Articuno.
+
+### Gameplay Strategy:
+- Use appropriate type advantages during battles.
+- Capture Water Pokémon using the Super Rod and Old Rod.
+- Prepare for battles with plenty of healing items and Poké Balls, especially before encountering Articuno.
+- Explore all areas for hidden items and trainers for experience. 
+
+This concise guide covers essential locations, trainers, items, and strategies for progressing in Pokémon Yellow.

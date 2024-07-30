@@ -1,0 +1,50 @@
+Game: Ruby_and_Sapphire
+Part: 15
+Keywords: Route 126, Sootopolis City, Cave of Origin, Sootopolis Gym
+
+### Pokémon Ruby and Sapphire Walkthrough: Part 15
+
+**Route 126**  
+- Access Sootopolis City underwater; trainers such as Swimmer Barry (Gyarados, Lv. 35) await.  
+- Items: Green Shard (NW corner), Stardust (N. dark spot), Ultra Ball (N. central dark spot), Heart Scale (NW dark spot).
+
+**Sootopolis City**  
+- Prepare for the Sootopolis Gym and the urgent Cave of Origin quest.  
+- Items available after clearing the cave: Ether (from Fisherman), Elixir (from Hiker), Wailmer Doll, TM31 (Brick Break).
+
+**Catch Up with Steven**  
+- Surf to the Pokémon Center to rest and stock up on Ultra Balls.  
+- Talk to Steven and Wallace at the cave entrance; they will guide you to the Cave of Origin.
+
+**Cave of Origin**  
+- Follow the straightforward path downwards:
+  - **1F**: Move clockwise to the NE ladder.
+  - **B1F**: Follow the tunnel to the W ladder.
+  - **B2F**: Move south to find the next ladder.
+  - **B3F**: Find HM07 (Waterfall) in the NW corner; then go NE down the ladder.
+  - **B4F**: Approach the pool to trigger the encounter with Groudon (R) or Kyogre (S).
+
+**Battle Strategies**:  
+- **Groudon (R)**: Use Grass and Ice moves; avoid Water moves due to Drought ability.  
+- **Kyogre (S)**: Use Grass and Electric moves; avoid Fire moves due to Drizzle ability.
+
+**Aftermath**  
+- After defeating the super-ancient Pokémon, return to the Gym where Steven thanks you. Wallace is back at the Gym.
+
+**Sootopolis Gym**  
+- Leader: Wallace (Water-type). Best counters: Grass and Electric moves.  
+- Navigate ice puzzles to reach Wallace:
+  - Puzzle 1: Move →1, ↑1, ←2, ↑1, →1.
+  - Puzzle 2: Move ←3, ↑2, →2, ↓1, →3, ↓1, →1, ↑2, ←3.
+  - Puzzle 3: Follow a longer path to reveal the final stairway.
+
+**Wallace's Team**:
+- **Luvdisc (Lv. 40)**: Weak but can inflict confusion. 
+- **Whiscash (Lv. 42)**: Vulnerable to Grass moves.
+- **Sealeo (Lv. 40)**: Weak to Fighting and Rock moves.
+- **Seaking (Lv. 42)**: Watch out for Horn Drill.
+- **Milotic (Lv. 43)**: Strong, use powerful moves to take it down quickly.
+
+**Rewards**: Defeating Wallace grants the Rain Badge (enables Waterfall) and TM03 (Water Pulse). Prepare for your journey to the Pokémon League in Ever Grande City.
+
+**Next Steps**: Explore remaining areas like Route 129 before heading to the League.

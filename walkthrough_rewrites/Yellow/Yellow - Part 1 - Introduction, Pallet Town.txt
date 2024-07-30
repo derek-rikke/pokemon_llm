@@ -1,0 +1,32 @@
+Game: Yellow
+Part: 1
+Keywords: Introduction, Pallet Town
+
+**Pokémon Yellow Walkthrough: Part 1 - Pallet Town**
+
+**Introduction:**
+- Start the game by selecting "New Game" on the title screen. Choose your character's name and your rival's name from preset options or create your own.
+
+**Pallet Town Overview:**
+- Your journey begins in Pallet Town, which has three main buildings: your house (west), your rival's house (east), and Professor Oak's Lab (south). The north leads to Route 1.
+
+**Key Items:**
+- **Potion**: Found in your PC at home.
+- **Pokédex**: Given by Professor Oak after he receives his parcel.
+- **Town Map**: Obtained from Daisy in your rival's house after getting the Pokédex.
+
+**Gameplay Steps:**
+1. **Home (2F)**: Withdraw the Potion from your PC, then head downstairs.
+2. **Home (1F)**: Talk to your mom, who informs you that Professor Oak is looking for you. Exit the house.
+3. **Encounter with Oak**: Head to the tall grass north of town. Professor Oak appears and catches a wild Pikachu.
+4. **Professor Oak's Lab**: Oak offers you the caught Pikachu as your first Pokémon. Your rival will challenge you to a battle immediately after.
+
+**Rival Battle 1:**
+- **Battle Details**: You and your rival each send out a Level 5 Pokémon (Pikachu vs. Eevee).
+- **Strategy**: Use "Fight" to attack. If your HP is low, use the Potion from your inventory. The outcome of this battle influences Eevee's evolution later.
+- **Reward**: Defeating your rival earns you $175 and your Pikachu gains experience, leveling up to Level 6. 
+
+**Next Steps:**
+- After the battle, Pikachu will follow you. Head north to Route 1 to continue your adventure.
+
+For further guidance, proceed to Part 2 of the walkthrough.

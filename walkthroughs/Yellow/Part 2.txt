@@ -1,0 +1,382 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_2
+Keywords: Route 1, Viridian City, Pallet Town (revisited), Route 2 (West)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 1
+1.1
+Free Sample
+2
+Viridian City
+2.1
+Pokémon Center
+2.2
+Poké Mart
+2.2.1
+Special Delivery
+2.3
+Pokémon Academy
+3
+Pallet Town
+3.1
+Oak's Lab
+3.2
+Blue's house
+4
+Viridian City
+5
+Route 22
+5.1
+Rival Battle 2
+6
+Route 2 (West)
+Route 1
+Route 1
+Route 1
+is a peaceful, country road that leads north from
+Pallet Town
+to
+Viridian City
+. The path is riddled with patches of
+tall grass
+and one-way
+ledges
+that make northward travel difficult. It is not yet possible to catch any of the wild Pokémon here, but it is still good to battle them to earn valuable
+Experience Points
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+2-7
+70%
+Rattata
+R
+B
+Y
+Grass
+2-4
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+From the Viridian Poké Mart employee
+Y
+Free Sample
+Speak to the man on the south side of the route, near the signpost. He works at the
+Poké Mart
+in
+Viridian City
+and gives you a
+Potion
+as a free sample.
+Viridian City
+Viridian City
+Viridian City
+is a small, nature-loving city that is enveloped in green year-round. It is located between
+Route 1
+to the south,
+Route 2
+to the north, and
+Route 22
+to the west.
+Items
+Item
+Location
+Games
+Oak's Parcel
+Poké Mart; from the shopkeeper
+Y
+Potion
+Near the city's north exit, on the small tree
+(hidden)
+Y
+Later visit
+TM42
+(
+Dream Eater
+)
+From the sleeping man in the southwest (requires
+Cut
+or
+Surf
+)
+Y
+Revive
+Inside Viridian Gym
+Y
+TM27
+(
+Fissure
+)
+From the Gym Leader, after defeating him
+Y
+Pokémon Center
+The first building you will see is the
+Pokémon Center
+. This Pokémon hospital will heal your team to full health and eliminate any status ailments they may have. Each facility also has a PC for Trainers to use, where they can access their Pokémon storage and item storage. As Trainers may only carry six Pokémon with them at once, any others are immediately transferred to storage upon capture. It is a good idea to heal up and save your progress whenever you find a Pokémon Center.
+Poké Mart
+Another shop sits to the northeast of the Pokémon Center. This is the local
+Poké Mart
+; these stores offer a variety of Poké Balls, Potions, and other items. It is a good idea to stock up on supplies whenever possible, as there is no telling what you may run into on your journey.
+Poké Mart
+Poké Ball
+$
+200
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Burn Heal
+$
+250
+Special Delivery
+When you step inside, the shopkeeper recognizes you as someone from
+Pallet Town
+and calls you over to the counter. It seems that
+Professor Oak
+had ordered something that was recently delivered. The shopkeeper hands
+Oak's Parcel
+to you and asks that you take it to him. The man is adamant, so you will not be able to make any purchases until the delivery is made.
+Pokémon Academy
+The
+Pokémon academy
+in the city's center teaches inexperienced Trainers about the basics of battle. A blackboard in the front of the room describes the five
+status ailments
+that can affect a Pokémon.
+Ailment
+Effect(s)
+BRN
+Burn
+Attack
+drops to 50%; inflicts damage equal to 1/16 of maximum
+HP
+every turn
+FRZ
+Freeze
+Cannot move until thawed
+PAR
+Paralysis
+Speed
+drops to 25%; cannot attack 1/4 of the time
+PSN
+Poison
+Inflicts damage equal to 1/16 of maximum
+HP
+every turn; loses 1 HP for every four steps taken outside of battle
+SLP
+Sleep
+Cannot move for one to seven turns
+Pallet Town
+The
+Kanto
+region, as seen on the Town Map
+Oak's Lab
+Deliver
+Oak's Parcel
+, a custom Poké Ball, to him and
+Blue
+arrives a moment later. The professor has a request for each of you: take the
+Pokédex
+he invented and use it to gather information on all the Pokémon in the world. This handheld device is a high-tech encyclopedia that records data on every Pokémon you encounter, and will be complete when you catch a member of every species. It was Oak's dream to do this himself, but his advanced age means that he must rely on the two of you instead.
+Blue's house
+Visit your rival's house before leaving town and speak to
+his sister
+to receive a
+Town Map
+.
+Viridian City
+With
+Oak's Parcel
+delivered, it is now possible to purchase items at the Poké Mart, and the
+old man
+that had blocked the path northward is feeling better now that he has had his coffee. When you pass him, he demonstrates how to catch a Pokémon as an apology for being rude. His attempt is unsuccessful, and he heads off to buy more Poké Balls.
+At this point, you may proceed north to Route 2, or make an optional detour westward to
+Route 22
+first.
+Route 22
+Running into Blue for the second battle
+It is not yet possible to fully explore
+Route 22
+, but you may still hunt for new Pokémon. A short way into the route,
+Blue
+appears and challenges you to a battle.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidoran♂
+R
+B
+Y
+Grass
+2, 4
+35%
+Nidoran♀
+R
+B
+Y
+Grass
+2, 4
+25%
+Mankey
+R
+B
+Y
+Grass
+3, 5
+20%
+Rattata
+R
+B
+Y
+Grass
+3
+10%
+Spearow
+R
+B
+Y
+Grass
+2, 4, 6
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rival Battle 2
+Little has changed since your fight in Oak's Lab, but his Eevee has learned a new move. Blue has added a
+Spearow
+to his team, as well. Use the same tactics from your last battle to wear his Pokémon down and take the win.
+Blue
+Route 22
+Yellow
+Reward:
+$
+280
+Types:
+Normal
+Flying
+Spearow
+Lv.
+9
+Peck
+Flying
+--
+Growl
+Normal
+--
+Leer
+Normal
+--
+Struggle
+Normal
+--
+|
+Type:
+Normal
+Unknown
+Eevee
+Lv.
+8
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Sand-Attack
+Normal
+--
+Struggle
+Normal
+--
+After the battle, be sure to heal your Pokémon and stock up on Poké Balls, then continue on to
+Route 2
+.
+Route 2 (West)
+Route 2
+Route 2
+runs northward from
+Viridian City
+to
+Pewter City
+. Much of the route's west side is occupied by a large maze of trees known as
+Viridian Forest
+.
+Overgrown trees
+block access to the east side for now. Head through the
+gate
+to enter the forest, a whole new area with new Pokémon to catch!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+R
+B
+Y
+Grass
+3, 5, 7
+35%
+Rattata
+R
+B
+Y
+Grass
+3-4
+35%
+Nidoran♀
+R
+B
+Y
+Grass
+4, 6
+15%
+Nidoran♂
+R
+B
+Y
+Grass
+4, 6
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+← Part 1
+Introduction, Pallet Town
+Yellow
+walkthrough
+Viridian Forest, Pewter City, Pewter Gym
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

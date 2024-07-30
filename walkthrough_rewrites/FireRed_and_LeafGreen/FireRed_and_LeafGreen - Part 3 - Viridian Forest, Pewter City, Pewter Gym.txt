@@ -1,0 +1,41 @@
+Game: FireRed_and_LeafGreen
+Part: 3
+Keywords: Viridian Forest, Pewter City, Pewter Gym
+
+**Part 3 Walkthrough: Route 2, Viridian Forest, Pewter City**
+
+**Viridian Forest**
+- **Location**: Route 2
+- **Trainers**: 
+  - Bug Catcher Rick: Weedle (Lv. 6), Caterpie (Lv. 6)
+  - Bug Catcher Doug: Weedle (Lv. 7), Kakuna (Lv. 7)
+  - Bug Catcher Anthony: Caterpie (Lv. 7, 8)
+  - Bug Catcher Charlie: Metapod (Lv. 7), Caterpie (Lv. 7)
+  - Bug Catcher Sammy: Weedle (Lv. 9)
+- **Available Pokémon**: Caterpie, Weedle, Metapod, Kakuna, Pikachu (rare).
+- **Items**: 
+  - Poké Ball: Northwest dead end.
+  - Antidote: Near the lone tree (2), hidden; southeast dead end.
+  - Potions: East of the southern entrance (3), hidden near Bug Catcher Sammy.
+- **Instructions**: 
+  1. Follow the trail northwest for a Poké Ball.
+  2. Head east for a Potion, battle Bug Catcher Rick.
+  3. Collect items and defeat trainers to reach the northern exit to Route 2.
+
+**Pewter City**
+- **Key Locations**: Pewter Museum of Science, Pewter Gym.
+- **Items**: 
+  - Poké Ball: West of the Pewter Museum (hidden).
+  - TM39 (Rock Tomb): From Brock after defeating him.
+  - Running Shoes: From Oak's aide after defeating Brock.
+- **Pewter Gym**:
+  - **Leader**: Brock (Rock/Ground type).
+  - **Strategy**: Use Grass or Water moves. Charmander should reach Level 13 to learn Metal Claw. Consider catching a Mankey on Route 22 for Fighting moves.
+  - **Trainers**: 
+    - Camper Liam: Geodude (Lv. 10), Sandshrew (Lv. 11).
+    - Brock: Geodude (Lv. 12), Onix (Lv. 14).
+  - **Reward**: Boulder Badge (boosts Attack, enables Flash) and TM39.
+
+**Heading Out**: After defeating the Gym, stock up on items at the Poké Mart, then head east to Route 3. You’ll be given Running Shoes from one of Oak’s aides, allowing faster movement. 
+
+**Next Destination**: Cerulean City.

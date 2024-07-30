@@ -1,0 +1,38 @@
+Game: Platinum
+Part: 5
+Keywords: Eterna City, Old Chateau, Route 206, Wayward Cave, Route 207
+
+**Part 5 Walkthrough - Eterna City to Route 207**
+
+**Eterna City**
+1. **Team Galactic Eterna Building**  
+   - **1F**: Defeat Galactic Grunts for cash. Collect X Speed.
+   - **2F**: Battle grunts, collect X Special.
+   - **3F**: Fight Scientist Travon for money; collect Blue Shard and Revive.
+   - **4F**: Collect Up-Grade, then battle Commander Jupiter (Level 21 Zubat, Level 23 Skuntank). Use Geodude or Shellos for Skuntank.
+
+2. **Rad Rickshaw's Cycle Shop**  
+   - After defeating Jupiter, meet Rad Rickshaw for the Bicycle. Use it to access Route 206.
+
+**Old Chateau**  
+- Located in the northern Eterna Forest. Contains Rotom (available at night) and various items (e.g., Honey, Rare Candy). Use Cut to access the location. 
+
+**Route 206 (Optional)**  
+- Requires Bicycle. Encounter various Pokémon (Zubat, Machop, Geodude, Ponyta).
+- Trainers: Cyclists and a Hiker; defeat them for money and experience.
+- Obtain Exp. Share from Dawn/Lucas’s father if you’ve seen 35 Pokémon.
+
+**Wayward Cave (Optional)**
+- **Main Area**: Contains Pokémon like Zubat, Geodude, and Bronzor. 
+- **Hidden Area**: Access by following directions provided; contains Gible and TM26 (Earthquake).
+- Consider teaming up with Mira for double battles.
+
+**Route 207**  
+- Access via Route 206 or Oreburgh City. Contains trainers and items (Poké Balls, Rare Candy).
+- Encounter Pokémon: Zubat, Machop, Geodude, Ponyta.
+- Meet Dawn/Lucas to receive the Vs. Seeker and Dowsing Machine.
+
+**Key Items to Collect**: 
+- X Speed, X Special, Blue Shard, Revive, Up-Grade, Bicycle, Exp. Share, TM26 (Earthquake), various berries, and healing items.
+
+Prepare your team with Pokémon knowing Cut, Rock Smash, and Flash to navigate upcoming areas effectively.

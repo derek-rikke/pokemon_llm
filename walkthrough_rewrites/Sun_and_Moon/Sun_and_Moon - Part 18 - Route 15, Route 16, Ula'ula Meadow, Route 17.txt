@@ -1,0 +1,50 @@
+Game: Sun_and_Moon
+Part: 18
+Keywords: Route 15, Route 16, Ula'ula Meadow, Route 17
+
+### Part 18 Walkthrough
+
+#### Route 15
+1. **VS Plumeria**: After defeating the Ghost-type trial, head north on Route 15. You'll encounter Team Skull Admin Plumeria at Aether House. Use Psychic- and Rock-type moves against her Poison-type Pokémon:
+   - **Golbat (Lv. 34)**: Weak to Psychic/Rock
+   - **Salazzle (Lv. 35)**: Weak to Psychic/Rock
+
+   **Reward**: $4,200
+
+2. **Aether House**: After the battle, speak with Acerola. She'll inform you that Team Skull has taken a girl's Yungoos and suggest finding a kimono-clad man for help.
+
+3. **The Kimono-Clad Man**: Locate Grimsley on the beach. He will give you the Sharpedo Jet, allowing you to cross water and break rocks. Use this ability to continue to Route 16.
+
+#### Route 16
+- This short route connects Route 15 to Ula'ula Meadow. Rest at the Pokémon Center and visit the nearby Aether Base.
+
+- **Aether Base**: Utilize the Reassembly Unit to combine Zygarde Cells and Cores with your Zygarde Cube.
+
+#### Ula'ula Meadow
+- A field of red flowers where you can find Oricorio. The area connects to Route 17.
+
+#### Route 17
+- **Getting Past Security**: Approach Po Town’s entrance to initiate a Double Battle with Team Skull Grunts. Defeat them to proceed.
+
+- **The Man in Black**: After defeating the Grunts, a man in black will question your readiness to enter Po Town. Confirm your intent to proceed.
+
+### Key Items
+- **Route 15**: 
+  - PP Max (Defeat Trial Guide Katrina)
+  - TM93 (Wild Charge)
+  - Dive Ball
+  - Rare Candy (From the girl in Aether House)
+
+- **Route 16**: 
+  - Zygarde Cell (Near the Pokémon Center)
+  - TM81 (X-Scissor)
+
+- **Ula'ula Meadow**: 
+  - Red Nectar (Daily from flowers)
+  - Zygarde Cells (Various locations)
+
+- **Route 17**: 
+  - Zygarde Core (Near Po Town Police Station)
+  - TM84 (Poison Jab)
+
+Continue to explore Po Town and prepare for the challenges ahead.

@@ -1,0 +1,59 @@
+Game: Emerald
+Part: 2
+Keywords: Route 104, Petalburg Woods, Rustboro City, Rustboro Gym, Route 116, Rusturf Tunnel
+
+### Pokémon Emerald Walkthrough: Part 2
+
+#### Route 104 (South)
+- Connects Petalburg City to Petalburg Woods.
+- Catch a **Marill** (useful for HM moves).
+- **Trainers**:
+  - **Youngster Billy**: Zigzagoon (Lv. 5), Seedot (Lv. 7).
+  - **Fisherman Darian**: Magikarp (Lv. 9).
+  - **Lady Cindy**: Zigzagoon (Lv. 7), offers a **Nugget** as a reward.
+
+#### Petalburg Woods
+- Features dense trees, limiting movement.
+- **Trainers**:
+  - **Bug Catcher Lyle**: 4 Wurmple (Lv. 3).
+  - **Team Aqua Grunt**: Poochyena (Lv. 9).
+- **Event**: Help a Devon researcher against a Team Aqua Grunt to receive a **Great Ball**.
+  
+#### Route 104 (North)
+- Connects Petalburg Woods to Rustboro City.
+- Visit **Pretty Petal Flower Shop** for berries and the **Wailmer Pail** from the middle sister.
+- **Trainers**:
+  - **Rich Boy Winston**: Zigzagoon (Lv. 7), gives a **Nugget**.
+
+#### Rustboro City
+- Main locations: **Pokémon Trainer's School**, **Devon Corporation**, **Rustboro Gym**.
+- **Items**:
+  - Obtain **Cut** from the Cutter's House.
+  - Receive **Quick Claw** from the school teacher.
+- **Trade**: Seedot for Ralts.
+  
+#### Rustboro Gym
+- **Leader**: Roxanne (Rock-type).
+- **Strategy**: Use Grass, Water, and Fighting moves. Avoid Fire, Bug, and Flying types.
+- **Trainers**: 
+  - **Youngster Josh**: Geodude (Lv. 10).
+  - **Leader Roxanne**: Defeating her grants the **Stone Badge** (enables Cut) and **TM39 (Rock Tomb)**.
+
+#### Post-Gym
+- Witness a Team Aqua Grunt escaping, then follow to **Route 116**.
+
+#### Route 116
+- Trainers include **Bug Catcher Jose** and **Hiker Clark**.
+- **Items**: Potions and Repels found along the path.
+
+#### Rusturf Tunnel
+- Encounter Team Aqua Grunt and rescue **Mr. Briney’s** Wingull, Peeko.
+- Defeat the Grunt to retrieve **Devon Goods**.
+
+### Key Locations and Items:
+- **Route 104**: Marill, Nugget, various berries.
+- **Petalburg Woods**: Great Ball, Tiny Mushrooms.
+- **Rustboro City**: Cut, Quick Claw, Stone Badge, Rock Tomb.
+- **Route 116**: Items and trainers for battles. 
+
+This streamlined walkthrough captures essential gameplay elements, item locations, and strategies to progress through the game efficiently.

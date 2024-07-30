@@ -1,0 +1,38 @@
+Game: Black2_and_White2
+Part: 19
+Keywords: N's Castle, Tubeline Bridge, Route 8, Moor of Icirrus, Icirrus City, Dragonspiral Tower, Giant Chasm
+
+### Part 19 Walkthrough Summary
+
+**Victory Road**  
+- Fly to the Pokémon League and descend to find Zoroark, leading you to its cave. 
+
+**N's Castle**  
+- **Items:** Luxury Ball (N's room), Protein (south of N's room), TM50 (Overheat, eastern part of 1F), Dark Stone (B2) or Light Stone (W2, from N after battle).
+- Enter to battle N, who has Zekrom (B2) or Reshiram (W2). Use high-level Ground or Rock-type Pokémon against Zekrom, and Ice-type moves against Reshiram. After the battle, exit to Victory Road and fly to Opelucid City.
+
+**Season Battles**  
+- N reappears every Friday at Nimbasa's Ferris Wheel for a rematch. His Pokémon change with the seasons.
+
+**Opelucid City**  
+- Visit Drayden for Draco Meteor for Dragon-types and proceed west to Tubeline Bridge.
+
+**Tubeline Bridge**  
+- **Items:** TM43 (Flame Charge) from the Battle Girl in the middle of the bridge, EnergyPowder from a Scientist at the west gate.
+
+**Route 8**  
+- North leads to Moor of Icirrus, south to Icirrus City. The route features marshes and various trainers.
+
+**Moor of Icirrus**  
+- Requires Strength to explore fully. Defeat trainers and find hidden items like Lum Berries and TM84 (Poison Jab).
+
+**Icirrus City**  
+- Engage in activities at the Pokémon Fan Club and Aha’s Pep Quiz for items. Defeat the Shadow Triad in battle.
+
+**Dragonspiral Tower**  
+- Explore up to 7F, battling wild Pokémon and collecting items like Red Shard, Ultra Ball, and various Orbs. On 7F, battle Zekrom (B2) or Reshiram (W2) again to weaken them before catching.
+
+**Giant Chasm**  
+- Enter the cave to find Kyurem. Save before the battle; use Dragon, Fighting, Rock, and Steel moves to lower its health. After capturing Kyurem, collect the DNA Splicers for fusion with Zekrom or Reshiram.
+
+This summary provides essential instructions, item locations, and battle strategies for progressing through part 19 of the Pokémon game.

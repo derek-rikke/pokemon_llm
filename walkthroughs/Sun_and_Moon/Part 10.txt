@@ -1,0 +1,908 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_10
+Keywords: Route 8, Fossil Restoration Center, Trial 4: Lush Jungle, Route 5 (North)
+
+Walkthrough Text:
+Contents
+1
+Route 8
+1.1
+The Mysterious Scientist
+1.2
+Fossil Restoration Center
+1.3
+Roadside Motel
+2
+Lush Jungle
+2.1
+Central area
+2.1.1
+Captain Mallow's Trial
+2.2
+Northwest area
+2.3
+Central area
+2.4
+North area
+2.5
+Central area
+2.6
+East area
+2.7
+Central area
+2.7.1
+VS Totem Lurantis
+3
+Route 5 (North)
+Route 8
+Route 8
+Route 8
+is an oceanside path with great views, and a popular date spot for many couples and Pokémon. It loops around the north end of
+Akala Island
+, linking
+Route 7
+back to the north end of
+Route 5
+.
+Trainers
+Trainer
+Pokémon
+Backpacker
+Kiana
+Reward:
+$
+480
+Eevee
+♂
+Lv.
+20
+No item
+Rising Star
+Mikey
+Reward:
+$
+1,008
+Bounsweet
+♀
+Lv.
+20
+No item
+Trumbeak
+♂
+Lv.
+21
+No item
+Rising Star
+Nicki
+Reward:
+$
+1,008
+Miltank
+♀
+Lv.
+21
+No item
+Scientist
+Tyrone
+Reward:
+$
+960
+Archen
+♂
+Lv.
+20
+No item
+Shieldon
+♂
+Lv.
+20
+No item
+Golfer
+Alan
+Reward:
+$
+1,200
+Rockruff
+♂
+Lv.
+20
+No item
+Golfer
+Maile
+Reward:
+$
+1,200
+Meowth
+♀
+Alolan form
+Lv.
+20
+No item
+Requires Lapras Paddle or Sharpedo Jet
+Karate Family
+Samuel and Guy
+Reward:
+$
+900
+Machop
+♂
+Lv.
+19
+No item
+Machop
+♂
+Lv.
+21
+No item
+After defeating all other regular Trainers on the route
+Ace Trainer
+Eileen
+Reward:
+$
+1,496
+Wingull
+♀
+Lv.
+21
+No item
+Fearow
+♀
+Lv.
+22
+Flyinium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Trumbeak
+Pikipek
+S
+M
+Grass
+17-20
+30%
+Yungoos
+Yungoos
+S
+M
+Grass
+17-20
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+17-20
+-
+30%
+Salandit
+Salandit
+S
+M
+Grass
+17-20
+20%
+Fletchinder
+Fletchinder
+S
+M
+Grass
+17-20
+15%
+Stufful
+Stufful
+S
+M
+Grass
+17-20
+5%
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+17-20
+100%
+Ambush encounters
+Wimpod
+N/A
+S
+M
+Chase
+17-20
+100%
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+17-20
+40%
+Finneon
+Finneon
+S
+M
+Surfing
+17-20
+40%
+Wingull
+Wingull
+S
+M
+Surfing
+17-20
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-20
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-20
+20%
+Chinchou
+Chinchou
+S
+M
+Fishing
+10-20
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-20
+60%
+Chinchou
+Chinchou
+S
+M
+Fishing
+10-20
+20%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-20
+20%
+Exclusively from
+Island Scan
+Luxio
+N/A
+S
+M
+Grass
+20
+One
+Tu
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+On a rock by the fishing spot near the Route 7 entrance
+(hidden)
+S
+M
+TM43
+(
+Flame Charge
+)
+From
+Colress
+, near the Aether Foundation building
+S
+M
+$
+5,000
+Aether Foundation; from an
+Employee
+, after registering
+Stufful
+in the Pokédex
+S
+M
+Big Pearl
+On the cliff northeast of the Aether Foundation building
+S
+M
+Hyper Potion
+North side of the east-west road, opposite the tall grass patch
+S
+M
+Miracle Seed
+South side of the east-west road, south of the grass patch
+S
+M
+Adrenaline Orb
+Road level, in the corner southeast of the Berry tree
+(hidden)
+S
+M
+Ultra Ball
+West of the Berry tree, north of the tall grass patch
+S
+M
+Iron
+North of the Pokémon Center, on the north side of rock
+(hidden)
+S
+M
+Awakening
+Outside the Fossil Restoration Center, in an open cardboard box
+(hidden)
+S
+M
+Thunder Stone
+Behind the Fossil Restoration Center trailer
+S
+M
+Dive Ball
+Behind the Roadside Motel
+S
+M
+Water Stone
+On the seafloor in the southwest corner of the route (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+TM58
+(
+Sky Drop
+)
+From Ace Trainer Eileen upon her defeat
+S
+M
+Zygarde Cell
+×2
+East side of the Aether Foundation building
+In front of a rock, next to the Route 5 entrance
+S
+M
+Later visit
+TM53
+(
+Energy Ball
+)
+On a cliff, accessible via Lush Jungle (requires Machamp Shove)
+S
+M
+The Mysterious Scientist
+Leave the
+Aether Foundation
+building and proceed to the west, and a moment later you are stopped by a Scientist who introduces himself as
+Colress
+. He is researching the bonds that bring out a Pokémon's potential, and so is very interested in Trainers who have a Z-Ring. To mark the encounter, he gives you
+TM43
+(
+Flame Charge
+) and encourages you to make use of it at the next trial in
+Lush Jungle
+.
+Fossil Restoration Center
+The path to the northeast of the Pokémon Center leads to a small wooded area with a trailer. A Pokémon Breeder here describes his dream of bringing ancient Pokémon back to life. Bring him any
+Fossil
+and he will be able to revive it into a Pokémon.
+Roadside Motel
+The Roadside Motel is located to the west of the Pokémon Center, on a cliff overlooking the ocean. A vending machine near the front desk holds
+Fresh Water
+and
+Soda Pop
+for sale. The receptionist reveals that a member of
+Team Skull
+has been staying in the building. It turns out to be
+Gladion
+, who does not take kindly to visitors.
+Lush Jungle
+Lush Jungle
+Located to the north of
+Route 5
+,
+Lush Jungle
+is a dense rainforest famous for producing ingredients for delicious meals. It serves as the backdrop for the next trial.
+Wild Pokémon
+cannot be found until the trial is complete.
+Items
+Item
+Location
+Games
+Forage Bag
+Central area; from Mallow upon beginning her trial
+S
+M
+X Defense
+Central area; east side of the northeast grass patch
+(hidden)
+S
+M
+Super Potion
+Central area; end of the path in the northeast
+S
+M
+Max Revive
+Central area; behind the tall grass in the northeast corner
+S
+M
+X Sp. Atk
+Northwest area; south side of the rock surrounded by grass
+(hidden)
+S
+M
+Hyper Potion
+North area; near the fronds in the corner near the entrance
+(hidden)
+S
+M
+Heal Powder
+North area; on a rock, in the grass west of the entrance
+(hidden)
+S
+M
+TM86
+(
+Grass Knot
+)
+North of the northwest area; accessed via tunnel from the north area
+S
+M
+X Attack
+East area; northeast of the cracked rock
+(hidden)
+S
+M
+Big Root
+Central area; on a ledge near the entrance, accessed via east area
+S
+M
+Grassium Z
+Reward from Mallow, after clearing her trial
+S
+M
+Nest Ball
+×10
+Reward from Mallow, after clearing her trial
+S
+M
+TM67
+(
+Smart Strike
+)
+From Professor Kukui, after clearing the trial
+S
+M
+Later visit
+Awakening
+In the cave beyond the east area (requires Machamp Shove)
+S
+M
+Rare Candy
+In the cave beyond the east area
+(hidden, requires Machamp Shove)
+S
+M
+Zygarde Cell
+Cave area; in a corner near the west entrance (requires Machamp Shove)
+S
+M
+Central area
+Captain Mallow's Trial
+Mallow
+welcomes you upon entering the jungle, and enlists your help in finding four ingredients to cook up her favorite dish, the Mallow Special. To do so, she needs a
+Mago Berry
+,
+Tiny Mushroom
+,
+Revival Herb
+, and a
+Miracle Seed
+. She gives you a
+Forage Bag
+to hold any ingredients collected, and hints that
+Stoutland Search
+will be useful in locating these items. As with other trials, wild Pokémon cannot be found until the trial is complete.
+Call Stoutland and go west to find some mushrooms. Collect the
+Tiny Mushroom
+, and the Big Mushroom attacks! It turns out to be a (
+Parasect
+S
+/
+Shiinotic
+M
+). Once it is defeated, Mallow congratulates you and reminds you that there are still three more ingredients to find. Take Stoutland north to the next area.
+Northwest area
+Have Stoutland search near the small tree in the tall grass patch to find a hidden
+X Sp. Atk
+. There is a Photo Spot to the west, as well. Continue westward along the path to reach a rustling tree, where you are suddenly attacked by a
+Fomantis
+! After the battle, you can find the
+Mago Berry
+buried in the ground. Mallow stops by to congratulate you again, and reminds you about the two remaining ingredients. Go back to the previous area.
+Central area
+Go east through the nearest tall grass patch. Use Stoutland to find a hidden
+X Defense
+in the eastern grass patch, then dismount to reach a
+Super Potion
+behind a narrow path to the northwest. Continue north to the next area.
+North area
+Take the eastern path to find a hidden
+Hyper Potion
+, then head west. Use Stoutland to search the tall grasses to the west and locate the
+Revival Herb
+to the southwest. Once it is safely tucked away, another
+Fomantis
+leaps from the grass to attack! Afterward, Mallow reappears a third time. Only one ingredient remains! Farther to the west is a narrow path that leads to
+TM86
+(
+Grass Knot
+). In the grassy area to the north, Stoutland can reveal a hidden
+Heal Powder
+.
+Central area
+Head south on the east side of the main area. Go up the hill in the southeast to the next part of the jungle.
+East area
+Collect the
+X Attack
+from the curled fronds to the east of the first cracked rock. A
+large boulder
+blocks the path eastward for now. Go southwest instead and use Tauros to clear the path of rocks. The final ingredient, a
+Miracle Seed
+, can be found in the depression where one of the rocks used to sit. Mallow appears once more to congratulate you on finding all of the ingredients. It is time to start cooking, so head back to the jungle entrance. Use the path westward from the Miracle Seed to jump down the ledges and find a
+Big Root
+along the way.
+Central area
+When you speak with Mallow,
+Lana
+and
+Kiawe
+appear. They have each brought items to help with the preparation. With all ingredients accounted for, you and Mallow begin cooking. Press A repeatedly to grind the food to a pulp. Suddenly, you feel a piercing gaze from the underbrush, and the Totem Pokémon attacks!
+VS Totem Lurantis
+The Totem Pokémon begins surrounded by an aura that raises its
+Speed
+by one stage. Like other
+Grass-type
+Pokémon,
+Lurantis
+is most at home in the sunlight. Under intense sunlight, its
+Leaf Guard
+Ability prevents status ailments,
+Synthesis
+restores more health than normal, and
+Solar Blade
+does not require a turn to charge.
+Fire
+Pokémon are especially useful against Lurantis, as they resist its Grass and Bug moves, and deal serious damage with Fire attacks. If Trumbeak is present, it can cover most of Lurantis' weaknesses with
+Rock Blast
+, and cut the target's
+Defense
+with
+Screech
+. If Castform is present, it can set up intense sunlight with
+Sunny Day
+. Despite this being helpful to Lurantis, it also gives a power boost to Fire attacks. A Pokémon holding Firium Z should be able to make short work of the Totem Pokémon with Inferno Overdrive. Use
+Fire
+-,
+Flying
+-,
+Ice
+-,
+Poison
+-, or
+Bug-type
+attacks for best results.
+Totem Lurantis
+Ally Trumbeak
+Ally Castform
+Aura:
+Speed
++1
+Type:
+Grass
+Unknown
+Ability:
+Leaf Guard
+Held item:
+Power Herb
+Lurantis
+♀
+Lv.
+24
+Razor Leaf
+Grass
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Solar Blade
+Grass
+Physical
+--
+Synthesis
+Grass
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Trumbeak
+♂
+/
+♀
+Lv.
+22
+Rock Blast
+Rock
+Physical
+--
+Pluck
+Flying
+Physical
+--
+Supersonic
+Normal
+Status
+--
+Screech
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Forecast
+Held item:
+None
+Castform
+♂
+/
+♀
+Lv.
+22
+Sunny Day
+Fire
+Status
+--
+Water Gun
+Water
+Special
+--
+Headbutt
+Normal
+Physical
+--
+Weather Ball
+Normal
+Special
+--
+After the Totem Pokémon and its allies are defeated, the three captains of Akala congratulate you on completing all of the island's trials.
+Mallow
+rewards you with the
+Grassium Z
+and teaches you the pose for
+Bloom Doom
+. That's not all, as she also gives you ten
+Nest Balls
+. Mallow invites
+Lana
+and
+Kiawe
+to try the food that
+Lurantis
+did not finish, but it turns out to be too spicy and the other captains run off. As she races after them, Mallow reminds you to challenge Kahuna
+Olivia
+'s grand trial next.
+Professor Kukui
+appears and gives you
+TM67
+(
+Smart Strike
+) as a reward for clearing Mallow's trial. There is a facility that he wants you to check out, called the Dimensional Research Lab. He leads you back out to
+Route 5
+, where he congratulates you on clearing all of
+Akala Island
+'s trials. Kahuna Olivia is an expert on
+Rock-type
+Pokémon, and he suggests catching some
+Grass
+Pokémon in
+Lush Jungle
+before continuing on. When you are ready to challenge Olivia, visit with Kukui in the Dimensional Research Lab in
+Heahea City
+, just off of
+Route 6
+.
+Route 5 (North)
+The north end of
+Route 5
+sits at a higher elevation than the south end, with a series of ledges that hinder northbound travel.
+Trainers
+Trainer
+Pokémon
+Youngster
+Caleb
+Reward:
+$
+400
+Charjabug
+♂
+Lv.
+20
+No item
+Hiker
+Gabriel
+Reward:
+$
+672
+Mudbray
+♂
+Lv.
+21
+No item
+Ace Trainer
+Alexis
+Reward:
+$
+1,564
+Goomy
+♀
+Lv.
+22
+No item
+Sylveon
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fomantis
+Fomantis
+S
+M
+Grass
+18-21
+30%
+Trumbeak
+Trumbeak
+S
+M
+Grass
+18-21
+20%
+Caterpie
+Caterpie
+Butterfree
+S
+M
+Grass
+18-21
+15%
+Metapod
+Caterpie
+Butterfree
+S
+M
+Grass
+18-21
+10%
+Bonsly
+Bonsly
+Sudowoodo
+Happiny
+S
+M
+Grass
+18-21
+10%
+Grubbin
+Grubbin
+S
+M
+Grass
+18-21
+10%
+Butterfree
+N/A
+S
+M
+Grass
+18-21
+5%
+Ambush encounters
+Diglett
+Alolan Form
+Diglett
+S
+M
+Dirt cloud
+18-21
+100%
+Exclusively from
+Island Scan
+Bellsprout
+N/A
+S
+M
+Grass
+16
+One
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+On a rock, between the Lush Jungle entrance and the signpost
+(hidden)
+S
+M
+Nugget
+Second-highest level; in front of the western den
+(hidden)
+S
+M
+Hyper Potion
+Northwest of the Pokémon Center
+S
+M
+Ether
+Highest level; northeast of the Pokémon Center
+S
+M
+TM59
+(
+Brutal Swing
+)
+Highest level; south end, northeast of the Pokémon Center
+S
+M
+Zygarde Cell
+Northeast side of the Pokémon Center
+S
+M
+← Part 9
+Royal Avenue, Route 7, Wela Volcano Park
+Sun and Moon
+walkthrough
+Diglett's Tunnel, Route 9, Konikoni City
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

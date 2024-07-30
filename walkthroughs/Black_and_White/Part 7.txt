@@ -1,0 +1,2070 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_7
+Keywords: Route 6, Chargestone Cave, Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+
+Walkthrough Text:
+Contents
+1
+Route 6
+1.1
+Season Research Lab
+1.2
+Chargestone Cave
+1.2.1
+1F
+1.2.2
+B1F
+1.2.3
+B2F
+1.2.4
+B1F
+1.2.5
+1F
+2
+Mistralton City
+2.1
+The Move Family
+2.2
+Meet the other Juniper
+3
+Route 7
+3.1
+Celestial Tower
+4
+Mistralton Gym
+Route 6
+Route 6
+Route 6
+, connecting
+Driftveil City
+and
+Chargestone Cave
+, is a winding road surrounded by lush vegetation and a flowing river. The Season Research Lab stands at the center, where scientists are conducting research on Pokémon that change with the seasons. A girl in the house across the river will offer to heal your Pokémon before you enter the nearby cave.
+Trainers
+Trainer
+Pokémon
+Scientist
+William
+Reward:
+$
+1296
+Deerling
+♂
+Autumn Form
+Lv.
+27
+No item
+Pokémon Ranger
+Shanti
+Reward:
+$
+1620
+Emolga
+♀
+Lv.
+27
+No item
+Deerling
+♀
+Autumn Form
+Lv.
+27
+No item
+Parasol Lady
+Nicole
+Reward:
+$
+768
+Tympole
+♀
+Lv.
+24
+No item
+Tympole
+♀
+Lv.
+24
+No item
+Tympole
+♀
+Lv.
+24
+No item
+Tympole
+♀
+Lv.
+24
+No item
+Scientist
+Ron
+Reward:
+$
+1296
+Deerling
+♂
+Autumn Form
+Lv.
+27
+No item
+Scientist
+Maria
+Reward:
+$
+1296
+Deerling
+♀
+Autumn Form
+Lv.
+27
+No item
+Parasol Lady
+Tihana
+Reward:
+$
+832
+Vanillite
+♀
+Lv.
+26
+No item
+Frillish
+♀
+Female
+Lv.
+26
+No item
+Pokémon Ranger
+Richard
+Reward:
+$
+1620
+Minccino
+♀
+Lv.
+27
+No item
+Emolga
+♂
+Lv.
+27
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Deerling
+B
+W
+Grass
+22-24
+35%
+-
+-
+-
+Deerling
+B
+W
+Grass
+22, 24
+-
+35%
+-
+-
+Deerling
+B
+W
+Grass
+22, 24
+-
+-
+35%
+-
+Deerling
+B
+W
+Grass
+22, 24
+-
+-
+-
+35%
+Karrablast
+B
+W
+Grass
+22, 24
+25%
+Foongus
+B
+W
+Grass
+23
+15%
+Tranquill
+B
+W
+Grass
+23-25
+15%
+15%
+15%
+-
+Vanillite
+B
+W
+Grass
+23, 25
+-
+-
+-
+15%
+Swadloon
+B
+W
+Grass
+22, 23
+10%
+Dark Grass
+Deerling
+B
+W
+Dark grass
+26, 28
+35%
+-
+-
+-
+Deerling
+B
+W
+Dark grass
+26, 28
+-
+35%
+-
+-
+Deerling
+B
+W
+Dark grass
+26, 28
+-
+-
+35%
+-
+Deerling
+B
+W
+Dark grass
+26, 28
+-
+-
+-
+35%
+Karrablast
+B
+W
+Dark grass
+26, 28
+25%
+Foongus
+B
+W
+Dark grass
+27-29
+15%
+Tranquill
+B
+W
+Dark grass
+27-29
+15%
+15%
+15%
+-
+Vanillite
+B
+W
+Dark grass
+27-29
+-
+-
+-
+15%
+Swadloon
+B
+W
+Dark grass
+27
+10%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+22-25
+70%
+Emolga
+B
+W
+Rustling grass
+23-25
+20%
+Unfezant
+B
+W
+Rustling grass
+25
+5%
+Leavanny
+B
+W
+Rustling grass
+25
+5%
+Special Pokémon
+Foongus
+B
+W
+Fake item
+20
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Cheri Berry
+×2
+From
+Pokémon Ranger
+Shanti after defeating her
+From
+Pokémon Ranger
+Richard after defeating him
+B
+W
+Elixir
+In the tall grass to the south of the Season Research Lab
+B
+W
+Hyper Potion
+West of the Season Research Lab
+B
+W
+Leaf Stone
+×2
+Between
+Parasol Lady
+Tihana and
+Pokémon Ranger
+Richard
+From a scientist in the Lab for showing him all of Deerling's forms
+B
+W
+Shiny Stone
+Gift from the child in the house near
+Chargestone Cave
+B
+W
+TM78
+(
+Bulldoze
+)
+From
+Clay
+outside
+Chargestone Cave
+for defeating him
+B
+W
+After getting
+HM03
+(
+Surf
+)
+TM84
+(
+Poison Jab
+)
+Between the middle and southern bridges
+B
+W
+Silk Scarf
+East across the river from the Season Research Lab
+B
+W
+TinyMushroom
+×2
+North of the Lab, beyond the fence (hidden, regrows occasionally)
+Near the entrance to
+Mistralton Cave
+(hidden, regrows occasionally)
+B
+W
+Big Mushroom
+North of the Lab, beyond the fence (hidden)
+B
+W
+Season Research Lab
+The scientists at the Season Research Lab are interested in studying
+Deerling
+because it can alter its appearance based on the season. One of the researchers will ask for your help. If you show him a Deerling in all four of its forms, he will give you a
+Leaf Stone
+as thanks.
+Chargestone Cave
+Chargestone Cave
+As you approach
+Chargestone Cave
+, you find a large
+Galvantula
+web blocking the entrance.
+Clay
+shows up with his
+Krokorok
+and removes it for you, then hands you
+TM78
+(
+Bulldoze
+) as a reward for defeating him at the Gym.
+Trainers
+Trainer
+Pokémon
+1F
+Scientist
+Ronald
+Reward:
+$
+1392
+Klink
+Lv.
+29
+No item
+Ace Trainer
+Jared
+Reward:
+$
+1860
+Archen
+♂
+Lv.
+31
+No item
+Hiker
+Hardy
+Reward:
+$
+832
+Boldore
+♂
+Lv.
+26
+No item
+Gurdurr
+♂
+Lv.
+26
+No item
+Scientist
+Naoko
+Reward:
+$
+1392
+Klink
+Lv.
+29
+No item
+Scientist
+Orville
+Reward:
+$
+1392
+Klink
+Lv.
+29
+No item
+Ace Trainer
+Corky
+Reward:
+$
+1800
+Whimsicott
+♂
+Lv.
+30
+No item
+Tirtouga
+♂
+Lv.
+30
+No item
+B1F
+Doctor
+Wayne
+Reward:
+$
+1740
+Swadloon
+♂
+Lv.
+29
+No item
+Team Plasma Grunt
+Reward:
+$
+1040
+Sandile
+♂
+Lv.
+26
+No item
+Scraggy
+♂
+Lv.
+26
+No item
+Watchog
+♂
+Lv.
+26
+No item
+Team Plasma Grunt
+Reward:
+$
+1120
+Scraggy
+♂
+Lv.
+28
+No item
+Team Plasma Grunt
+Reward:
+$
+1080
+Trubbish
+♀
+Lv.
+27
+No item
+Liepard
+♀
+Lv.
+27
+No item
+Team Plasma Grunt
+Reward:
+$
+1040
+Trubbish
+♀
+Lv.
+26
+No item
+Trubbish
+♀
+Lv.
+26
+No item
+Trubbish
+♀
+Lv.
+26
+No item
+Team Plasma Grunt
+Reward:
+$
+1080
+Watchog
+♂
+Lv.
+27
+No item
+Sandile
+♂
+Lv.
+27
+No item
+Team Plasma Grunt
+Reward:
+$
+1120
+Liepard
+♀
+Lv.
+28
+No item
+Team Plasma Grunt
+Reward:
+$
+1080
+Sandile
+♂
+Lv.
+27
+No item
+Watchog
+♂
+Lv.
+27
+No item
+B2F
+Ace Trainer
+Allison
+Reward:
+$
+1800
+Drilbur
+♀
+Lv.
+30
+No item
+Zebstrika
+♀
+Lv.
+30
+No item
+Ace Trainer
+Stella
+Reward:
+$
+1740
+Gothita
+♀
+Lv.
+29
+No item
+Lilligant
+♀
+Lv.
+29
+No item
+Ducklett
+♀
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F, B1F
+Joltik
+B
+W
+Cave
+24-27
+39%
+Klink
+B
+W
+Cave
+25-27
+29%
+Ferroseed
+B
+W
+Cave
+24-26
+20%
+Boldore
+B
+W
+Cave
+24
+10%
+Tynamo
+B
+W
+Cave
+27
+2%
+B2F
+Joltik
+B
+W
+Cave
+24-27
+36%
+Klink
+B
+W
+Cave
+25-27
+26%
+Ferroseed
+B
+W
+Cave
+26-27
+20%
+Boldore
+B
+W
+Cave
+24
+10%
+Tynamo
+B
+W
+Cave
+27
+8%
+Dust Clouds
+Drilbur
+B
+W
+Dust cloud
+24-27
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Outside
+TM78
+(
+Bulldoze
+)
+From
+Clay
+for defeating him
+B
+W
+1F
+Lucky Egg
+From
+Professor Juniper
+near the entrance
+B
+W
+Parlyz Heal
+North of the second floating stone
+B
+W
+Revive
+Near
+Scientist
+Ronald
+B
+W
+Heal Ball
+On a ledge by the north wall
+B
+W
+Elixir
+In the alcove north of
+Ace Trainer
+Jared (hidden)
+B
+W
+Hyper Potion
+East of the bridge
+B
+W
+Iron
+South of the bridge, on the east side
+B
+W
+Max Potion
+On the wall behind the floating stone, near
+Hiker
+Hardy (hidden)
+B
+W
+Magnet
+East of
+Ace Trainer
+Corky
+B
+W
+B1F
+Nugget
+×2
+One from each of the Nugget Brothers
+B
+W
+Parlyz Heal
+In the alcove west of the Nugget Brothers (hidden)
+B
+W
+HP Up
+On 1F; take the stairs west of the Nugget Brothers (hidden)
+B
+W
+Timer Ball
+North of the Nugget Brothers
+B
+W
+Revive
+On the wall west of
+Doctor
+Wayne (hidden)
+B
+W
+Thunderstone
+West of the
+Plasma
+grunts
+B
+W
+B2F
+Parlyz Heal
+By the east wall (hidden)
+B
+W
+BrightPowder
+In the northeast chamber
+B
+W
+Hyper Potion
+West of the stairway
+B
+W
+Star Piece
+On the wall north of the Hyper Potion (hidden)
+B
+W
+Rare Candy
+In the southeast
+B
+W
+1F
+Almost as soon as you enter, two members of the
+Shadow Triad
+appear and escort you to
+N
+. He warns you that
+Team Plasma
+is waiting ahead to test you, then leaves.
+Head north to meet up with
+Bianca
+and
+Professor Juniper
+. The professor is here to research
+Klink
+, and Bianca is acting as her bodyguard. Juniper gives you the
+Lucky Egg
+, which boosts a Pokémon's experience.
+Walk around Bianca and shove the floating stone to the left; it flies over to a larger stone on the ground, clearing a path. Go north and push the next rock to the right, and pick up the
+Parlyz Heal
+. Fight
+Scientist
+Ronald, grab the
+Revive
+behind the two floating stones, and continue north to reach a
+Heal Ball
+on a ledge. Shove the next two floating stones to the west, then south. Bianca and the professor catch up and talk more about
+Klink
+. You can't go very far north with another floating stone in the way, so go south to the bridge. The
+Shadow Triad
+appears again, telling you that
+Team Plasma
+is waiting downstairs. Pick up the
+Hyper Potion
+to the north and shove the floating stone to the south. Fight
+Scientist
+Naoko, loop around to the west, and push the southern stone west to get an
+Iron
+.
+B1F
+Head to the west and talk to the two brothers to get a
+Nugget
+from each of them. Continue west to find a
+Parlyz Heal
+hidden in the alcove, and take the stairs back to the first floor to grab a hidden
+HP Up
+. Go north past the Nugget Brothers to find a
+Timer Ball
+. Defeat
+Doctor
+Wayne to the east to rest your Pokémon, and track down a
+Revive
+hidden on the wall west of him. Fight your way north past the five
+Plasma
+grunts. Go west and push another two floating stones to reach a
+Thunderstone
+and the stairs to the bottom floor.
+B2F
+Push the floating stone to the right and continue south. Climb down the stairway near
+Ace Trainer
+Stella to find a
+Hyper Potion
+, and a
+Star Piece
+hidden on the wall nearby. Follow the narrow path around to find a
+Rare Candy
+, then backtrack to the center of the floor. Hunt down a
+Parlyz Heal
+hidden near the east wall, and get the
+BrightPowder
+from the northeast chamber. Climb back upstairs to B1F.
+B1F
+Fight one last
+Plasma
+grunt and climb the eastern stairs.
+1F
+Go west past
+Scientist
+Orville and push the floating stone, then check the wall nearby for a hidden
+Max Potion
+. Head southeast to fight
+Ace Trainer
+Corky, then pick up the
+Magnet
+south of him.
+Go east through the last tunnel, and you'll find
+N
+waiting for you. He says that he wants to find out what kind of dream you have, and he'll do it by battling you.
+Team Plasma
+N
+Chargestone Cave
+Black and White
+Reward:
+$
+2800
+Type:
+Rock
+Unknown
+Ability:
+Sturdy
+Held item:
+None
+Boldore
+♂
+Lv.
+28
+Mud-Slap
+Ground
+Special
+--
+Iron Defense
+Steel
+Status
+--
+Smack Down
+Rock
+Physical
+--
+Power Gem
+Rock
+Special
+--
+Types:
+Grass
+Steel
+Ability:
+Iron Barbs
+Held item:
+None
+Ferroseed
+♂
+Lv.
+28
+Metal Claw
+Steel
+Physical
+--
+Pin Missile
+Bug
+Physical
+--
+Gyro Ball
+Steel
+Physical
+--
+Iron Defense
+Steel
+Status
+--
+Types:
+Bug
+Electric
+Ability:
+Unnerve
+Held item:
+None
+Joltik
+♂
+Lv.
+28
+Electroweb
+Electric
+Special
+--
+Bug Bite
+Bug
+Physical
+--
+Gastro Acid
+Poison
+Status
+--
+Slash
+Normal
+Physical
+--
+Type:
+Steel
+Unknown
+Ability:
+Plus
+Held item:
+None
+Klink
+Lv.
+28
+Gear Grind
+Steel
+Physical
+--
+ThunderShock
+Electric
+Special
+--
+Bind
+Normal
+Physical
+--
+Charge Beam
+Electric
+Special
+--
+Bianca
+and
+Professor Juniper
+catch up to you after the battle.
+N
+expresses his hostility toward Juniper for being a Pokémon researcher, then leaves. The other two head back into the cave to collect more data. Take the exit to reach
+Mistralton City
+.
+Mistralton City
+Mistralton City
+B
+Most of
+Mistralton City
+is occupied by a giant runway for cargo planes. The vegetables harvested from the greenhouses
+B
+/ fields
+W
+are exported to other regions aboard these planes. The city is also home to the Move Family, and the Mistralton Gym.
+Items
+Item
+Location
+Games
+Sharp Beak
+From a woman in the Cargo Service building
+B
+W
+TM58
+(
+Sky Drop
+)
+Near the southern plane
+B
+W
+Max Ether
+Among the greenhouses
+B
+/ fields
+W
+at the southern end of the runway (hidden)
+B
+W
+Parlyz Heal
+Among the greenhouses
+B
+/ fields
+W
+at the southern end of the runway (hidden)
+B
+W
+Elixir
+Between the greenhouses at the southern end of the runway (hidden)
+B
+Repel
+Among the fields at the southern end of the runway (hidden)
+W
+Fresh Water
+From Clyde in the Gym
+B
+W
+After defeating the Mistralton Gym
+TM62
+(
+Acrobatics
+)
+From
+Skyla
+for defeating her
+B
+W
+TM40
+(
+Aerial Ace
+)
+South end of the runway, after talking to a
+Youngster
+in the house north of the Poké Center
+B
+W
+The Move Family
+The Move Family lives in the house to the east of the Pokémon Center. The old man is the
+Move deleter
+, who can make a Pokémon forget any move, even moves taught by an HM. The
+reminder girl
+, on the other hand, can make a Pokémon remember any forgotten move in exchange for a
+Heart Scale
+.
+Meet the other Juniper
+A man approaches you when you head north past the Pokémon Center. He introduces himself as
+Cedric Juniper
+,
+Professor Juniper
+'s father. To commemorate your first meeting, he upgrades your
+Pokédex
+with new search features, and a function that lets you now view a Pokémon's different forms, and even its
+Shiny
+form!
+He introduces you to
+Skyla
+, the Mistralton Gym Leader. She's off to check on a sick Pokémon atop the
+Celestial Tower
+. You won't be able to challenge the Gym until you meet her at the tower, so follow her north to
+Route 7
+.
+Route 7
+Route 7
+Route 7
+is overgrown with patches of tall grass. A series of elevated walkways offer a safer alternative, but you will fall if you miss a step or stop for too long. In a house to the west is a
+Hiker
+who is looking to trade for a
+Boldore
+; if you've got one to spare, he offers his
+Emolga
+for it.
+Make your way north to reach the
+Celestial Tower
+.
+Trainers
+Trainer
+Pokémon
+Backpacker
+Terrance
+Reward:
+$
+744
+Simisear
+♂
+Lv.
+31
+No item
+Youngster
+Mikey
+Reward:
+$
+480
+Dwebble
+♂
+Lv.
+30
+No item
+Simisage
+♂
+Lv.
+30
+No item
+Youngster
+Parker
+Reward:
+$
+464
+Palpitoad
+♂
+Lv.
+29
+No item
+Shelmet
+♂
+Lv.
+29
+No item
+Scolipede
+♂
+Lv.
+29
+No item
+Ace Trainer
+Elmer
+Reward:
+$
+1920
+Liepard
+♂
+Lv.
+32
+No item
+Watchog
+♂
+Lv.
+32
+No item
+Swoobat
+♂
+Lv.
+32
+No item
+Backpacker
+Ruth
+Reward:
+$
+744
+Minccino
+♀
+Lv.
+31
+No item
+Pokémon Ranger
+Mary
+Reward:
+$
+1800
+Swadloon
+♀
+Lv.
+30
+No item
+Tranquill
+♀
+Lv.
+30
+No item
+Simipour
+♂
+Lv.
+30
+No item
+Pokémon Ranger
+Pedro
+Reward:
+$
+1860
+Solosis
+♂
+Lv.
+31
+No item
+Axew
+♂
+Lv.
+31
+No item
+Harlequin
+Pat
+Reward:
+$
+960
+Emolga
+♂
+Lv.
+30
+No item
+Sigilyph
+♂
+Lv.
+30
+No item
+Harlequin
+Ian
+Reward:
+$
+928
+Tynamo
+♂
+Lv.
+29
+No item
+Ducklett
+♂
+Lv.
+29
+No item
+Tranquill
+♂
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Tranquill
+B
+W
+Tall grass
+26-28
+30%
+30%
+30%
+-
+Cubchoo
+B
+W
+Tall grass
+26-28
+-
+-
+-
+30%
+Watchog
+B
+W
+Tall grass
+27-29
+20%
+Zebstrika
+B
+W
+Tall grass
+27, 29
+20%
+Deerling
+B
+W
+Tall grass
+26
+20%
+-
+-
+-
+Deerling
+B
+W
+Tall grass
+26
+-
+20%
+-
+-
+Deerling
+B
+W
+Tall grass
+26
+-
+-
+20%
+-
+Deerling
+B
+W
+Tall grass
+26
+-
+-
+-
+20%
+Foongus
+B
+W
+Tall grass
+29
+10%
+Dark grass
+Tranquill
+B
+W
+Tall grass
+30, 32
+30%
+30%
+30%
+-
+Cubchoo
+B
+W
+Tall grass
+30-32
+-
+-
+-
+30%
+Watchog
+B
+W
+Tall grass
+31-33
+20%
+Zebstrika
+B
+W
+Tall grass
+31-33
+20%
+Deerling
+B
+W
+Tall grass
+30
+20%
+-
+-
+-
+Deerling
+B
+W
+Tall grass
+30
+-
+20%
+-
+-
+Deerling
+B
+W
+Tall grass
+30
+-
+-
+20%
+-
+Deerling
+B
+W
+Tall grass
+30
+-
+-
+-
+20%
+Foongus
+B
+W
+Tall grass
+30-32
+10%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+26-29
+85%
+Unfezant
+B
+W
+Rustling grass
+29
+5%
+5%
+5%
+-
+Emolga
+B
+W
+Rustling grass
+27
+10%
+10%
+10%
+-
+Emolga
+B
+W
+Rustling grass
+27-29
+-
+-
+-
+15%
+Special Pokémon
+Emolga
+B
+W
+Trade
+Boldore
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM57
+(
+Charge Beam
+)
+From a girl on the dirt road just north of
+Mistralton
+B
+W
+Ultra Ball
+In a clearing near
+Youngsters
+Mikey and Parker
+B
+W
+Lum Berry
+Held by Minipete, an
+Emolga
+the player can receive in a
+trade
+B
+W
+Aspear Berry
+×2
+From
+Pokémon Ranger
+Mary after defeating her
+From
+Pokémon Ranger
+Pedro after defeating him
+B
+W
+PP Up
+In a clearing west of
+Pokémon Ranger
+Mary
+B
+W
+Max Ether
+East of
+Pokémon Ranger
+Pedro
+B
+W
+TM81
+(
+X-Scissor
+)
+East of the dark grass patch
+B
+W
+Ultra Ball
+In the puddle in front of Twist Mountain (hidden)
+B
+W
+Celestial Tower
+The
+Celestial Tower
+is a five-story tower built as a memorial to departed Pokémon. On the roof is a large bell whose tones are said to comfort and purify the lost spirits.
+Trainers
+Trainer
+Pokémon
+2F
+Psychic
+Doreen
+Reward:
+$
+960
+Elgyem
+♀
+Lv.
+30
+No item
+Solosis
+♀
+Lv.
+30
+No item
+Sigilyph
+♀
+Lv.
+30
+No item
+Lass
+Kara
+Reward:
+$
+480
+Deerling
+♀
+Spring Form
+Lv.
+30
+No item
+Gothita
+♀
+Lv.
+30
+No item
+Pokéfan
+Jude
+Reward:
+$
+1920
+Emolga
+♂
+Lv.
+30
+No item
+Herdier
+♂
+Lv.
+30
+No item
+Pokéfan
+Georgia
+Reward:
+$
+1984
+Swadloon
+♀
+Lv.
+31
+No item
+3F
+Psychic
+Belle
+Reward:
+$
+1024
+Musharna
+♀
+Lv.
+32
+No item
+Psychic
+Micki
+Reward:
+$
+992
+Yamask
+♂
+Lv.
+31
+No item
+Golett
+Lv.
+31
+No item
+Psychic
+Lin
+Reward:
+$
+992
+Litwick
+♀
+Lv.
+31
+No item
+Swoobat
+♀
+Lv.
+31
+No item
+Psychic
+Bryce
+Reward:
+$
+1024
+Duosion
+♂
+Lv.
+32
+No item
+Nurse
+Sachiko
+Reward:
+$
+1240
+Gothita
+♀
+Lv.
+31
+No item
+Alomomola
+♀
+Lv.
+31
+No item
+4F
+Ace Trainer
+Beckett
+Reward:
+$
+1980
+Stoutland
+♂
+Lv.
+33
+No item
+Ace Trainer
+Kassandra
+Reward:
+$
+1920
+Swoobat
+♀
+Lv.
+32
+No item
+Gothorita
+♀
+Lv.
+32
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+2F
+Litwick
+B
+W
+2F-Top
+26-29
+100%
+3F
+Litwick
+B
+W
+2F-Top
+26-29
+85%
+Elgyem
+B
+W
+3F-Top
+26-29
+15%
+4F
+Litwick
+B
+W
+2F-Top
+26-29
+70%
+Elgyem
+B
+W
+3F-Top
+26-29
+30%
+Rooftop
+Litwick
+B
+W
+2F-Top
+26-29
+50%
+Elgyem
+B
+W
+3F-Top
+26-29
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+2F
+Hyper Potion
+East of
+Lass
+Kara
+B
+W
+TM61
+(
+Will-O-Wisp
+)
+West of
+Psychic
+Doreen
+B
+W
+3F
+Spell Tag
+Near
+Psychic
+Bryce
+B
+W
+4F
+Revive
+East of
+Ace Trainer
+Beckett
+B
+W
+TM65
+(
+Shadow Claw
+)
+West of
+Ace Trainer
+Kassandra
+B
+W
+Layout
+Version
+Outside
+1F
+2F
+3F
+Black
+White
+Version
+4F
+Rooftop
+Black
+White
+When you reach the rooftop,
+Skyla
+has already helped the weakened Pokémon. Since you've come so far, she asks you to ring the bell. The character of the person ringing the bell is supposed to be reflected in its sound. After listening to the tone, Skyla says you are a kind and strong person, and invites you back to
+Mistralton
+for a Gym battle.
+Mistralton Gym
+Mistralton Gym
+Mistralton City Pokémon Gym
+Leader: Skyla
+The Highflying Girl
+The
+Mistralton Gym
+is set up inside an aircraft hangar, and specializes in the
+Flying-type
+. The Gym features a series of cannons that challengers must use to reach the Gym Leader. All Pokémon here are vulnerable to
+Electric
+- and
+Rock-type
+attacks; if you don't have any of these moves, you may want to use TMs to teach moves like
+Volt Switch
+or
+Rock Tomb
+.
+Climb inside the first cannon, then go left to reach the second. Walk down the staircase and jump in the second cannon again to get shot to the east, landing near
+Worker
+Cliff. Climb up the staircase and go south to fight
+Worker
+Brady. Jump inside the third cannon to land on the west side, and battle
+Pilot
+Ted. Climb in the fourth cannon from the south, and you'll land just short of
+Skyla
+'s platform. The fifth cannon will launch you to the east, then backtrack and battle
+Pilot
+Chase, and fly to the west. Walk up the staircase to fight
+Worker
+Arnold, then use the next four cannons to fly south, east, north, then west onto Skyla's platform.
+Mistralton Gym
+Trainers
+Trainer
+Pokémon
+Worker
+Cliff
+Reward:
+$
+1280
+Tranquill
+♂
+Lv.
+32
+No item
+Tranquill
+♂
+Lv.
+32
+No item
+Worker
+Brady
+Reward:
+$
+1280
+Ducklett
+♂
+Lv.
+32
+No item
+Woobat
+♂
+Lv.
+32
+No item
+Pilot
+Ted
+Reward:
+$
+1920
+Ducklett
+♂
+Lv.
+32
+No item
+Sigilyph
+♂
+Lv.
+32
+No item
+Pilot
+Chase
+Reward:
+$
+1980
+Unfezant
+♂
+Male
+Lv.
+33
+No item
+Worker
+Arnold
+Reward:
+$
+1320
+Swoobat
+♂
+Lv.
+33
+No item
+Leader
+Skyla
+Mistralton Gym
+Black and White
+Reward:
+$
+4200
+Types:
+Psychic
+Flying
+Ability:
+Unaware
+Held item:
+None
+Swoobat
+♀
+Lv.
+33
+Amnesia
+Psychic
+Status
+--
+Heart Stamp
+Psychic
+Physical
+--
+Acrobatics
+Flying
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Big Pecks
+Held item:
+None
+Unfezant
+♀
+Lv.
+33
+Quick Attack
+Normal
+Physical
+--
+Razor Wind
+Normal
+Special
+--
+Air Slash
+Flying
+Special
+--
+Leer
+Normal
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Swanna
+♀
+Lv.
+35
+Aqua Ring
+Water
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Air Slash
+Flying
+Special
+--
+BubbleBeam
+Water
+Special
+--
+This battle will go quickly if you've got a strong
+Electric
+-type. If not,
+Rock
+-types will also do the trick, although you have to watch out for
+Swanna
+'s
+Water
+-type attacks.
+Upon her defeat,
+Skyla
+awards you the
+Jet Badge
+, which makes all Pokémon up to level 70 obey you. She also hands over
+TM62
+(
+Acrobatics
+).
+Outside the Gym,
+N
+is waiting for you. He tells you that
+Ghetsis
+is searching for the
+Light Stone
+and the
+Dark Stone
+, each said to hold the essence of a legendary Pokémon. Before he leaves, he announces that he will resurrect and befriend one of the legendary dragons, so the world will recognize him as the hero of legend.
+Leave
+Mistralton City
+and head northeast through
+Route 7
+to reach
+Twist Mountain
+.
+← Part 6
+Route 5, Driftveil Drawbridge, Driftveil City, Cold Storage, Driftveil Gym
+Black and White
+walkthrough
+Route 17, Route 18, P2 Laboratory, Mistralton Cave, Rumination Field
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,56 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 7
+Keywords: Route 11, Diglett's Cave, Route 2 (East), Pewter Museum of Science, Route 9, Route 10 (North)
+
+### Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! Walkthrough - Part 7
+
+**Route 11**
+- **Location**: Between Vermilion City and Route 12.
+- **Key Trainers**: 
+  - Coach Trainer Will (Reward: $2,100, Pokémon: Rattata)
+  - Sailor Dirk (Reward: $1,080, Pokémon: Poliwag, Machop)
+- **Available Pokémon**: Pidgey, Rattata, Drowzee, etc.
+- **Items**: 
+  - Super Potion (south side)
+  - X Defense (middle)
+  - Great Ball (south of the gate)
+- **Notable Action**: Speak to the Scientist at the east gate to unlock the Judge function in your Pokédex after catching 30 species.
+
+**Diglett's Cave**
+- **Connects**: Route 11 to Route 2.
+- **Available Pokémon**: Diglett, Zubat, Dugtrio.
+  
+**Route 2 (East)**
+- **Items**: 
+  - Great Ball (north of Diglett’s Cave)
+  - Leaf Stone (south of the gate, needs Chop Down)
+  - Light Up (from Oak’s aide after catching 10 species).
+- **Key Encounter**: Meet Trace after learning Light Up; he can guide you to Cerulean City.
+
+**Pewter City**
+- **Pewter Museum of Science**: Use Chop Down to access the employee area. Speak to the Scientist to receive the Old Amber.
+
+**Route 9**
+- **Location**: Connects Cerulean City to Route 10.
+- **Key Trainers**: 
+  - Hiker Jeremy (Reward: $880, Pokémon: Onix)
+  - Youngster Chris (Reward: $400, Pokémon: Diglett, Fearow).
+- **Items**: 
+  - Super Potions (southwest corner)
+  - Ether (northwest corner).
+
+**Route 10 (North)**
+- **Connects Route 9 to Lavender Town**.
+- **Key Trainers**: 
+  - Team Rocket Grunt (Reward: $616, Pokémon: Raticate)
+  - Coach Trainer Tasha (Reward: TM13, Pokémon: Poliwhirl, Primeape).
+- **Items**: 
+  - Super Lure (south of Route 9 intersection)
+  - Great Ball (between cave entrance and Pokémon Center).
+- **Ambush Event**: Team Rocket Grunts attack; Lorelei from the Elite Four intervenes, warning them and mentioning your Gym Badge quest.
+
+### Summary
+- Progress through Route 11, fight trainers, and gather items.
+- Navigate Diglett's Cave to reach Route 2.
+- Visit Pewter City for the Old Amber.
+- Continue to Routes 9 and 10, defeating trainers and collecting items while preparing for an ambush by Team Rocket.

@@ -1,0 +1,52 @@
+Game: HeartGold_and_SoulSilver
+Part: 13
+Keywords: Whirl Islands, Ruins of Alph
+
+### Pokémon HeartGold and SoulSilver Walkthrough: Part 13
+
+#### Blackthorn City
+- **Location**: Northeast Johto, near Ice Path and Route 45.
+- **Key Areas**: 
+  - **Dragon's Den**: Accessible with Gym Leader Clair's permission via the lake behind the Gym.
+
+#### Key Pokémon and Items
+- **Pokémon Available**:
+  - **Surfing**: Magikarp (Level 2-20, 100%)
+  - **Fishing**: Poliwag (Old Rod, Level 10, 15%), Dratini (Good Rod, Level 20, 10%)
+- **Items**:
+  - **Soft Sand**: Southeast of Gym
+  - **Revive**: Inside Dragon's Den (hidden)
+  
+#### Blackthorn Gym
+- **Leader**: Clair (Dragon-type)
+- **Strategy**: Use Ice and Dragon-type moves against her Pokémon.
+- **Battle Order**:
+  1. **Gyarados (Lv. 38)** - Weak to Electric
+  2. **Dragonair (Lv. 38)** - Use status effects
+  3. **Kingdra (Lv. 41)** - Use Dragon-type moves and heal against Hyper Beam.
+  
+- **Puzzle Solution**: 
+  1. Platform 1: Left Arrow, Center Button, Right Arrow.
+  2. Platform 2: Up Arrow, Right Arrow, Center Button.
+  3. Platform 3: Follow the arrows to navigate.
+
+#### Dragon's Den
+- **Objective**: Prove your worth by answering the elder’s quiz.
+- **Items**: TM59 (Dragon Pulse) after quiz.
+- **Special Pokémon**: Dratini (Gift, Level 15) if the quiz is answered correctly.
+
+#### Route 45
+- **Trainers**: Hikers and Ace Trainers with Pokémon around Levels 24-30.
+- **Items**: Nuggets, Elixirs, and various healing items scattered throughout.
+
+#### Dark Cave
+- **Exploration**: Requires Surf, Strength, and Rock Smash. Difficult without Flash.
+- **Pokémon Available**: Zubat, Geodude, and Graveler.
+- **Items**: Hidden Elixirs, Max Potions, and TMs.
+
+#### Route 46
+- **Trainers**: Includes a mix of lower-level Pokémon trainers.
+- **Items**: Apricorns, X Speed, and Calcium.
+
+### Summary
+Prepare for the Blackthorn Gym by using effective type advantages, solve the gym’s platform puzzle, complete the Dragon's Den quiz to earn a Dratini, and navigate through Route 45 and Dark Cave for items and experience before heading to the Pokémon League.

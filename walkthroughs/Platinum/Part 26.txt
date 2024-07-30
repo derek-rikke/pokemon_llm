@@ -1,0 +1,1292 @@
+Part: Part 26
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_26
+Keywords: Stark Mountain, Route 228, Route 229, Resort Area, Route 230
+
+Walkthrough Text:
+Contents
+1
+Stark Mountain
+1.1
+Catching Heatran
+2
+Route 228
+2.1
+Move Tutor
+3
+Route 229
+4
+Resort Area
+4.1
+Ribbon Syndicate
+4.2
+Villa
+5
+Route 230
+Stark Mountain
+When you come back, you'll want
+Rock Climb
+and plenty of
+Dusk Balls
+.
+Now that you are traveling by yourself, in the large room, you can use Rock Climb to easily navigate through. Return to Heatran's room,
+save the game
+and challenge it so you can catch it.
+Catching Heatran
+Types:
+Fire
+Steel
+Ability:
+Flash Fire
+Held item:
+None
+Heatran
+Lv.
+50
+Metal Sound
+Steel
+Status
+--
+Crunch
+Dark
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Lava Plume
+Fire
+Special
+--
+Heatran is Level 50 and can be a dangerous attacker. Use a
+Water
+- or
+Fighting
+-type move to take out a chunk of its HP, then continue hitting with weaker attacks until its HP bar turns red. Then, throw Dusk Balls until you catch it. To avoid the risk of getting defeated by Heatran, heal your team often.
+Route 228
+Route 228
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+D
+P
+Pt
+Grass
+49
+5%
+Dugtrio
+D
+P
+Pt
+Grass
+50-52
+30%
+Rhydon
+D
+P
+Pt
+Grass
+50,52
+20%
+20%
+0%
+Rhydon
+D
+P
+Pt
+Grass
+52
+0%
+0%
+10%
+Cacnea
+D
+P
+Pt
+Grass
+50
+5%
+Cacturne
+D
+P
+Pt
+Grass
+52
+20%
+20%
+0%
+Cacturne
+D
+P
+Pt
+Grass
+50,52
+0%
+0%
+40%
+Hippowdon
+D
+P
+Pt
+Grass
+50-51
+20%
+20%
+0%
+Hippowdon
+D
+P
+Pt
+Grass
+51
+0%
+0%
+10%
+Surfing
+Poliwag
+D
+P
+Pt
+Surfing
+35-45
+30%
+Poliwhirl
+D
+P
+Pt
+Surfing
+35-55
+70%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+55%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+40%
+Whiscash
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+55%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+45%
+Swarm
+Beldum
+D
+P
+Pt
+Swarm
+51-52
+40%
+Special Pokémon
+Sandslash
+D
+P
+Pt
+Dual-slot
+LeafGreen
+49-50
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Jose
+ナオキ
+Naoki
+Reward:
+$
+3300
+Golduck
+♂
+Lv.
+56
+No item
+Sandslash
+♂
+Lv.
+56
+No item
+Manectric
+♂
+Lv.
+57
+No item
+Black Belt
+Davon
+フミヒト
+Fumihito
+Reward:
+$
+1320
+Tyrogue
+♂
+Lv.
+54
+No item
+Makuhita
+♂
+Lv.
+54
+No item
+Machamp
+♂
+Lv.
+57
+No item
+Ace Trainer
+Moira
+ユフコ
+Yufuko
+Reward:
+$
+3240
+Sandslash
+♀
+Lv.
+56
+No item
+Gastrodon
+♀
+West Sea
+Lv.
+56
+No item
+Claydol
+Lv.
+57
+No item
+Dragon Tamer
+Keegan
+ソウマ
+Sōma
+Reward:
+$
+1856
+Trapinch
+♂
+Lv.
+55
+No item
+Vibrava
+♂
+Lv.
+57
+No item
+Pokémon Ranger
+Kyler
+マキオ
+Makio
+Reward:
+$
+6840
+Exeggcute
+♂
+Lv.
+55
+No item
+Zangoose
+♂
+Lv.
+55
+No item
+Empoleon
+♂
+Lv.
+58
+No item
+Pokémon Ranger
+Krista
+ユッコ
+Yukko
+Reward:
+$
+6840
+Lairon
+♀
+Lv.
+57
+No item
+Marowak
+♀
+Lv.
+57
+No item
+Ace Trainer
+Meagan
+サツキ
+Satsuki
+Reward:
+$
+3300
+Delcatty
+♀
+Lv.
+57
+No item
+Abomasnow
+♀
+Lv.
+58
+No item
+Psychic
+Corbin
+シュウ
+Shū
+Reward:
+$
+1760
+Xatu
+♂
+Lv.
+56
+No item
+Gallade
+♂
+Lv.
+56
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Max Repel
+Southwest of Ace Trainer Jose
+(hidden)
+Pt
+Rare Candy
+A few steps below the northernmost sign near the route connector between Route 226 and Route 228
+(hidden)
+Pt
+Protector
+In the pit east of Ace Trainer Jose
+Pt
+Full Restore
+South of Ace Trainer Miora, in the middle of the grass patches
+(hidden)
+Pt
+Shed Shell
+On the ledge north-west of the Move Tutor's house (Requires
+Rock Smash
+)
+Pt
+Iron
+Northeast of the Move Tutor's house
+Pt
+Star Piece
+On a small rock southwest of the pond below the Move Tutor's house
+(hidden)
+Pt
+TM37
+(
+Sandstorm
+)
+South-west of the pair of Pokémon Rangers
+Pt
+Shiny Stone
+At the end of a narrow bridge south of the pair of Pokémon Rangers
+Pt
+Hondew Berry
+×2
+Berry patch northeast of southwestern lake
+Pt
+Tamato Berry
+×2
+Berry patch northeast of southwestern lake
+Pt
+PP Max
+Near the southwest corner, south of the two trees, in the middle of the grass patches
+(hidden)
+Pt
+Calcium
+At the south end of the route on the apparently empty hill with one big rock
+(hidden)
+Pt
+Hard Stone
+Inside
+Regirock
+'s
+cave
+in the middle of the route
+Pt
+Nugget
+Inside Regirock's cave in the middle of the route, northeast of the Hard Stone
+(hidden)
+Pt
+On this route, there is a constant
+Sandstorm
+, which causes minor damage to Pokémon that aren't
+Rock
+,
+Ground
+, or
+Steel
+-types on every turn. You will need both your
+Bicycle
+and the HM
+Rock Smash
+for this area. The nearby cave is the entrance to the
+Rock Peak Ruins
+where, if you have an
+event
+Regigigas
+in your party, you will find
+Regirock
+where you have
+a chance
+to catch it. If not, it is an ordinary cave where you will find a
+Hard Stone
+and a hidden
+Nugget
+northeast of it.
+This route can be a bit of a puzzle to navigate. You'll need to use the
+muddy slopes and logs
+to access the
+Berry
+patch and all of the items. For a shortcut out of this route, from the area where you started, head for the northern area and follow the path with your bike and you'll only have to deal with a few Trainers and breakable rocks.
+Move Tutor
+The northern house on this route belongs to one of the
+Move Tutors
+. He can teach the ultimate moves of the
+first partner Pokémon
+to their final forms as long as their
+happiness
+factor is maxed out. The moves he teaches are
+Frenzy Plant
+for the
+Grass
+first partner Pokémon,
+Blast Burn
+for the
+Fire
+first partner Pokémon, and
+Hydro Cannon
+for the
+Water
+first partner Pokémon.
+Route 229
+Route 229
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+D
+P
+Pt
+Grass
+47
+5%
+0%
+5%
+Pidgey
+D
+P
+Pt
+Grass
+47,50
+0%
+25%
+0%
+Ledian
+D
+P
+Pt
+Grass
+50
+20%
+0%
+0%
+Ariados
+D
+P
+Pt
+Grass
+50
+0%
+0%
+20%
+Beautifly
+D
+P
+Pt
+Grass
+48
+5%
+Dustox
+D
+P
+Pt
+Grass
+48
+5%
+Volbeat
+D
+P
+Pt
+Grass
+49
+10%
+Illumise
+D
+P
+Pt
+Grass
+49
+10%
+Roselia
+D
+P
+Pt
+Grass
+48-50
+45%
+Surfing
+Surskit
+D
+P
+Pt
+Surfing
+35-45
+95%
+Masquerain
+D
+P
+Pt
+Surfing
+35-55
+5%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Seaking
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Swarm
+Pinsir
+D
+P
+Pt
+Swarm
+48-49
+40%
+Special Pokémon
+Venonat
+D
+P
+Pt
+Poké Radar
+48
+2%
+Venomoth
+D
+P
+Pt
+Poké Radar
+49
+20%
+Pineco
+D
+P
+Pt
+Dual-slot
+Emerald
+48
+8%
+Lombre
+D
+P
+Pt
+Dual-slot
+Sapphire
+48
+8%
+Nuzleaf
+D
+P
+Pt
+Dual-slot
+Ruby
+48
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Dana
+ダイアン
+Diane
+Reward:
+$
+3360
+Mightyena
+♀
+Lv.
+55
+No item
+Kirlia
+♀
+Lv.
+56
+No item
+Ace Trainer
+Felix
+バトラー
+Butler
+Reward:
+$
+3360
+Dusclops
+♂
+Lv.
+55
+No item
+Salamence
+♂
+Lv.
+56
+No item
+Ace Trainer
+Sandra
+チトセ
+Chitose
+Reward:
+$
+3240
+Dugtrio
+♀
+Lv.
+55
+No item
+Raichu
+♀
+Lv.
+54
+No item
+Ninetales
+♀
+Lv.
+54
+No item
+Pokémon Ranger
+Deshawn
+ケンジ
+Kenji
+Reward:
+$
+3240
+Spinda
+♂
+Lv.
+54
+No item
+Kecleon
+♂
+Lv.
+54
+No item
+Granbull
+♀
+Lv.
+54
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Reaper Cloth
+East of
+Cuttable
+tree in the middle of the route (requires
+Cut
+)
+Pt
+Full Restore
+Northeast corner
+Pt
+Nugget
+Talk to man in the middle of the route
+Pt
+Nugget
+Continue talking to the man in the middle of the route
+Pt
+Protein
+North-east of the lake (requires
+Cut
+)
+Pt
+Thunderstone
+By the south-west end of the pond (requires
+Cut
+and
+Surf
+)
+(hidden)
+Pt
+Grepa Berry
+×2
+Berry patch northwest of lake
+Pt
+Qualot Berry
+×2
+Berry patch northwest of lake
+Pt
+This should be a straightforward route. In the patch of
+long grass
+, a man is hiding in the trees who will give you two
+Nuggets
+if you talk with him twice. Also, one of the Trainers is hidden. You will need
+Cut
+for finding two of the items. In the southernmost area where two of the Trainers are, there are two paths. Going west will take you to
+Route 230
+while going east takes you to the
+Resort Area
+. Let's go to the Resort Area first.
+Resort Area
+Resort Area
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+35-45
+10%
+Golduck
+D
+P
+Pt
+Surfing
+35-55
+90%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-35
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Super Rod
+1-100
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+To the left of a rock northwest of the Villa (requires
+Surf
+)
+Pt
+Nugget
+Two steps south from the door of the Villa
+(hidden)
+Pt
+Leppa Berry
+Berry patch to the left of the Villa
+Pt
+Qualot Berry
+×2
+Berry patch to the left of the Villa
+Pt
+Grepa Berry
+×2
+Berry patch to the right of the Villa
+Pt
+Lum Berry
+Berry patch to the right of the Villa
+Pt
+There isn't much to do here. This is the only place in the game besides
+Twinleaf Town
+not to have a
+Poké Mart
+or another store.
+Ribbon Syndicate
+The
+Ribbon Syndicate
+is the large building in the northeastern part of town. This is a very hard building to get into as you must have 10 different kinds of
+Ribbon
+on your current party just to be permitted entry. You'll need to participate in a lot of different
+Super Contests
+to achieve this.
+Like with the massage therapist in
+Veilstone City
+, there is a spa treatment, receivable once per day, that will increase a Pokémon's
+happiness
+factor. One difference is that it can also be used on
+Pokémon Eggs
+, enabling the Pokémon that hatches from that Egg to already possess that increased happiness factor. Also, you can purchase rare, highly expensive Ribbons not found elsewhere.
+Villa
+Located in the southeastern area of town. Once you arrive, the previous owner will turn over the
+Villa
+to you and help you get a
+table
+. You can purchase other furniture with the booklet found on the table, allowing you to decorate in a similar way to the
+Underground
+Secret Base
+. The
+Sinnoh
+Gym Leaders
+,
+Professor Rowan
+,
+Lucas
+/
+Dawn
+,
+Barry
+, and
+your character's mother
+may come and visit.
+Route 230
+Route 230
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+D
+P
+Pt
+Grass
+47
+0%
+0%
+20%
+Gloom
+D
+P
+Pt
+Grass
+49
+5%
+Bellsprout
+D
+P
+Pt
+Grass
+47
+20%
+20%
+0%
+Weepinbell
+D
+P
+Pt
+Grass
+49
+5%
+Wingull
+D
+P
+Pt
+Grass
+48
+5%
+Pelipper
+D
+P
+Pt
+Grass
+48,50
+30%
+Roselia
+D
+P
+Pt
+Grass
+49
+10%
+Floatzel
+D
+P
+Pt
+Grass
+48,50
+25%
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+35-55
+10%
+Pelipper
+D
+P
+Pt
+Surfing
+35-55
+30%
+Sealeo
+D
+P
+Pt
+Surfing
+35-55
+60%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+60%
+Octillery
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+5%
+Wailmer
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+30%
+Wailord
+D
+P
+Pt
+Fishing
+Super Rod
+40-55
+5%
+Swarm
+Corsola
+D
+P
+Pt
+Swarm
+48
+40%
+Special Pokémon
+Togepi
+D
+P
+Pt
+Poké Radar
+48-50
+22%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Kurt
+タイゾウ
+Taizō
+Reward:
+$
+848
+Krabby
+Lv.
+51
+No item
+Corphish
+Lv.
+51
+No item
+Kingler
+Lv.
+54
+No item
+Swimmer
+Joanna
+チカコ
+Chikako
+Reward:
+$
+864
+Luvdisc
+Lv.
+52
+No item
+Lapras
+Lv.
+54
+No item
+Swimmer
+Mallory
+ナツコ
+Natsuko
+Reward:
+$
+864
+Surskit
+Lv.
+52
+No item
+Lombre
+Lv.
+54
+No item
+Swimmer
+Glenn
+ミナオ
+Minao
+Reward:
+$
+816
+Octillery
+Lv.
+53
+No item
+Poliwhirl
+Lv.
+53
+No item
+Swimmer
+Sophia
+トモコ
+Tomoko
+Reward:
+$
+832
+Delibird
+Lv.
+53
+No item
+Mantine
+Lv.
+53
+No item
+Swimmer
+Sam
+サンペイ
+Sanpei
+Reward:
+$
+816
+Sealeo
+Lv.
+53
+No item
+Gastrodon
+West Sea
+Lv.
+53
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Water Stone
+In the wall near the middle of the island, behind a
+Rock Smash
+-able rock
+(hidden)
+Pt
+Rare Candy
+On the east side of the island (Requires
+Rock Smash
+)
+Pt
+Ultra Ball
+On the north side of the island (requires
+Rock Smash
+)
+(hidden)
+Pt
+Blue Shard
+Far west side, behind a
+Rock Smash
+-able rock
+Pt
+Kelpsy Berry
+×4
+Berry patch to the left of the Villa
+Pt
+Grepa Berry
+×2
+Berry patch to the right of the Villa
+Pt
+For the last numbered route in the game, this is pretty easy to navigate.
+Surf
+west to reach the
+Fight Area
+. If you have a
+Grass
+- and an
+Electric
+-type with you, you should have no problems. You will need
+Rock Smash
+for the small island found on this route to reach all the items (two of which are hidden).
+After arresting
+Charon
+and exploring every location, your mission in this game is mostly complete! All that's left is to work on completing the
+National Pokédex
+, which will require
+trading
+with other players. Obtaining all 481 non-
+event
+Pokémon is a big task, but it
+is
+possible! If you complete the National Pokédex, go to the
+Hotel Grand Lake
+on
+Valor Lakefront
+and talk with the
+Game Freak director
+to get your Diploma for completing your Pokédex.
+Additionally, you can always challenge the
+Elite Four
+,
+Battleground
+, and
+Battle Frontier
+.
+← Part 25
+Stark Mountain, Survival Area
+Platinum
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,49 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 20
+Keywords: Sea Mauville, Scorched Slab, Mirage spots
+
+**Part 20 Walkthrough: Pokémon Omega Ruby and Alpha Sapphire**
+
+**Sea Mauville Overview**  
+Located north of Route 108, Sea Mauville is an abandoned research facility now home to water Pokémon. 
+
+**Key Trainers**  
+- **Outside:**  
+  - Sailor Duncan: Wailmer (Lv. 26), Machoke (Lv. 28)  
+  - Tuber Charlie: Corphish (Lv. 28)  
+- **Inside:**  
+  - Young Couple Lois & Hal: Illumise (Lv. 29), Volbeat (Lv. 29)  
+  - Mysterious Sisters Scall & Ion: Chingling (Lv. 29), Kirlia (Lv. 28)  
+
+**Available Pokémon**  
+- **Outside (Surfing):** Tentacool, Wingull, Pelipper  
+- **Inside (Fishing):** Magikarp, Tentacool, Wailmer  
+- **Special Pokémon:** Ho-Oh (OR), Lugia (AS)  
+
+**Items**  
+- **Escape Rope:** Near the Scientist outside.  
+- **TM18 (Rain Dance):** Stairway northeast of the Scientist.  
+- **Max Repel:** Southern left hallway.  
+- **Keys and other items:** Various throughout the facility (require Surf/Dive).
+
+**Navigating Sea Mauville**  
+1. Surf to the entrance and talk to the Scientist. Collect the **Escape Rope** and **TM18**.  
+2. Enter the facility and take the left hallway to collect **Max Repel** by the water.  
+3. Dive in the underwater hallway, head east to the control room, and find the **Scanner**.  
+4. Explore various rooms for keys and items. Notable rooms include Room 1 (Dive Ball, Key to Room 2) and Room 2 (Revive, Key to Room 6).  
+5. Surf to the Fisherman for the **Key to Room 4**, unlocking more items.
+
+**Legendary Pokémon Battles**  
+- **Ho-Oh (OR):** Use the Clear Bell at the facility's edge.  
+- **Lugia (AS):** Use the Tidal Bell in the underwater control room.  
+
+**Scorched Slab (Route 120)**  
+1. Surf from Fortree City to reach Scorched Slab.  
+2. **Items:** TM11 (Sunny Day), Full Heal, Nugget, Super Potion, Charizardite Y.  
+3. **Legendary Pokémon:** Heatran (Lv. 50) found on B3F near the north wall.
+
+**Mirage Spots**  
+Conditional spots for catching Legendaries from Johto, Sinnoh, and Unova will appear after specific conditions are met. 
+
+**Next Steps**  
+Continue your journey to Ever Grande City and Victory Road.

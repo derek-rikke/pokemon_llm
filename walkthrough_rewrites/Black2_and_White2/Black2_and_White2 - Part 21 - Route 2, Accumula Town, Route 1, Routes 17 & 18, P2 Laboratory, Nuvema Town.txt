@@ -1,0 +1,63 @@
+Game: Black2_and_White2
+Part: 21
+Keywords: Route 2, Accumula Town, Route 1, Routes 17 & 18, P2 Laboratory, Nuvema Town
+
+**Part 21 Walkthrough Summary**
+
+**Route 2**
+- Connects Striaton City and Accumula Town.
+- Key Trainers:
+  - Youngster Mikey: Beedrill, Dustox (Lv. 61)
+  - Lass Henrietta: Butterfree, Beautifly (Lv. 61)
+  - Veteran Rayne: Masquerain, Magnezone (Lv. 66)
+- Wild Pokémon: Watchog, Herdier, Liepard (Levels 56-59).
+- Items: 
+  - Dawn Stone (from Lady on the hill).
+  - Repeat Ball and Full Heal (on the hill).
+  - Carbos and PP Max (hidden, requires Cut).
+  - Max Revives (hidden and near Youngster Jimmy).
+
+**Accumula Town**
+- Trade Pokémon with Lass Diana for Ambipom or Hippowdon (both Lv. 40).
+- Items:
+  - 10 Poké Balls (from northwest building).
+  - Gems (Grass, Fire, Water) after answering a quiz about first partner Pokémon.
+  - Balm Mushroom (northern building).
+  - Fluffy Tail (show a tall Pokémon).
+  - Metronome (show Kricketot and Whismur).
+
+**Route 1**
+- Connects Accumula Town to Nuvema Town.
+- Key Trainers:
+  - Backpacker Jill: Omanyte, Anorith (Lv. 62).
+  - Ace Trainer Sean: Espeon, Durant (Lv. 66).
+- Wild Pokémon: Herdier, Watchog (Levels 56-59).
+- Items:
+  - Potion and Ultra Ball (from a girl in the grass).
+  - Full Restore (requires Surf).
+
+**Route 17 (South)**
+- Trainers include Fisherman Lydon (Feebas, Lv. 64) and Swimmer Jeffery (Tentacool, Lv. 65).
+- Wild Pokémon: Frillish, Alomomola (Surfing).
+- Items: Blue Shards, Dive Ball, Shoal items.
+
+**Route 18**
+- Features P2 Laboratory.
+- Trainers include Veteran Gina (Triple Battle, Lv. 68).
+- Wild Pokémon: Scrafty, Sawk (Grass).
+- Items: Zinc, Rare Candy (Strength required).
+
+**P2 Laboratory & Plasma Frigate**
+- Meet Colress after defeating him for a Master Ball.
+- Pokémon: Magneton, Rotom, Metagross (Lv. 72).
+- Strategy: Use Fire- and Ground-type attacks against Colress’ Pokémon.
+
+**Nuvema Town**
+- Home of Juniper Pokémon Lab.
+- Items:
+  - Super Rod (from Cedric Juniper).
+  - King's Rock (in hero's bedroom).
+  - Berry Juice (from Cheren's father).
+- Collect rewards for completing the Unova Pokédex (Permit, Oval Charm, Shiny Charm).
+
+This concludes Part 21 of the walkthrough. Continue exploring the Unova region!

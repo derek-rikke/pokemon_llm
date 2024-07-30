@@ -1,0 +1,50 @@
+Game: Diamond_and_Pearl
+Part: 26
+Keywords: Sinnoh Victory Road, Route 224, Eterna City, Eterna Forest, Old Chateau, Catching Rotom
+
+### Part 26: Sinnoh Victory Road & Related Areas
+
+**Sinnoh Victory Road**
+1. **1F**: Use Rock Climb to access the cave where the man was blocking the entrance. 
+2. **Tunnel**: Proceed down the stairs into B1F. Wild Pokémon here include Golbat, Graveler, Steelix, and Medicham.
+3. **B1F (Part 3)**: Use Defog immediately to see. You'll meet Marley, who has a Level 57 Arcanine. She heals your Pokémon after battles.
+4. **B1F (Part 4)**: Follow the path, pushing boulders as necessary. Collect items: 
+   - **Dusk Stone** (behind boulders)
+   - **Elixir** (northwest corner)
+   - **Max Revive** (hidden)
+   - **Rare Candy** (requires Surf)
+   - **Big Pearl** (northeast of the lake)
+   - **Leftovers** (requires Surf)
+5. **Exit**: Head up the long stairs to leave Victory Road.
+
+**Route 224**
+1. **Available Pokémon**: Gloom, Weepinbell, Roselia, Gastrodon, etc. 
+2. **Trainers**: Fight multiple trainers for experience, including Ace Trainer Ruben and Psychic Brittney.
+3. **Items**: Collect a Rare Candy, Stardust, and other items from hidden locations.
+
+**Eterna City**
+1. **Visit Professor Oak** in the house southwest of Eterna Gym for the Up-Grade item.
+2. **Prepare for Night Encounter**: Bring a Pokémon with Cut and at least 20 Dusk Balls to capture Rotom at the Old Chateau.
+
+**Eterna Forest**
+1. **Head to Old Chateau**: After speaking with Gardenia, cut the tree blocking the path and collect Ether and Insect Plate.
+
+**Old Chateau**
+1. **Catching Rotom**: 
+   - Save your game before approaching the TV.
+   - Use Dusk Balls or Nest Balls to catch Rotom (Level 15, Electric/Ghost-type). 
+   - Consider using a low-level Pokémon to weaken Rotom if necessary. 
+
+### Summary of Key Items:
+- **Dusk Stone**: B1F (Victory Road)
+- **Elixir**: B1F (Victory Road)
+- **Max Revive**: B1F (Victory Road)
+- **Rare Candy**: Route 224
+- **Up-Grade**: Eterna City (from Professor Oak)
+
+### Battle Strategy:
+- Train Pokémon to around Level 60 for Victory Road.
+- Use Ghost- or Dark-type moves against Rotom, and Dusk/Nest Balls for capture.
+
+### Note:
+- Ensure to battle trainers and collect items before exiting areas.

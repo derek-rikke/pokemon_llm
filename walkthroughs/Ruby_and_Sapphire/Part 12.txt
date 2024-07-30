@@ -1,0 +1,844 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_12
+Keywords: Team Magma HideoutR/ Team Aqua HideoutS
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Lilycove City
+2
+Magma Hideout
+R
+2.1
+1F
+2.2
+2F (west)
+2.3
+Submarine room
+2.4
+2F (west)
+2.5
+2F (east)
+2.6
+2F (west)
+2.7
+Submarine room
+3
+Aqua Hideout
+S
+3.1
+1F
+3.2
+B1F (west)
+3.3
+B1F (east)
+3.4
+B1F (west)
+3.5
+Submarine room
+3.6
+B1F (west)
+3.7
+Submarine room
+4
+Route 124
+4.1
+Treasure Hunter's House
+Lilycove City
+The hideout belonging to
+Team Magma
+R
+/
+Team Aqua
+S
+can be found in a cave to the northeast of
+Lilycove
+'s beach. You'll need to storm their hideout in order to retrieve
+Captain Stern
+'s submarine, so bring a party that can handle plenty of battles against them. When choosing your team, remember that Team Magma often uses
+Fire
+- and
+Dark-type
+Pokémon, while Team Aqua often uses
+Water
+- and Dark-type Pokémon.
+Magma Hideout
+R
+Magma Hideout, 1F
+Magma Hideout, 2F
+Magma Hideout, submarine room
+Team Magma
+has been working hard to build
+an impressive hideout
+in this spacious cave near
+Lilycove City
+. Storming this heavily-guarded base won't be easy, but you must risk it all to prevent
+Maxie
+'s misguided vision from becoming reality!
+Trainers
+Trainer
+Pokémon
+Team Magma Grunt
+Reward:
+$
+640
+Poochyena
+♂
+Lv.
+32
+No item
+Poochyena
+♂
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+660
+Zubat
+♀
+Lv.
+33
+No item
+Team Magma Grunt
+Reward:
+$
+620
+Poochyena
+♀
+Lv.
+31
+No item
+Numel
+♀
+Lv.
+31
+No item
+Numel
+♀
+Lv.
+31
+No item
+Team Magma Grunt
+Reward:
+$
+640
+Numel
+♂
+Lv.
+32
+No item
+Zubat
+♂
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+600
+Zubat
+♂
+Lv.
+30
+No item
+Poochyena
+♂
+Lv.
+30
+No item
+Numel
+♂
+Lv.
+30
+No item
+Poochyena
+♂
+Lv.
+30
+No item
+Team Magma Grunt
+Reward:
+$
+660
+Numel
+♂
+Lv.
+33
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Electrode
+R
+S
+E
+Fake item
+30
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+2F
+Max Elixir
+Southwest room
+R
+Nugget
+Maxie's office, bottom-left item in the group of four
+R
+Master Ball
+Maxie's office, top-left item in the group of four
+R
+Submarine room
+Nest Ball
+Southeast area, accessed via warp in the northeast corner
+R
+1F
+Climb out of the water and up the three stairways. At the top, a single Magma Grunt patrols around the hill. Battle him and climb the stairs to the north.
+2F (west)
+There are two warp panels in the northwest room; take the southern panel first to reach the southwest room and a
+Max Elixir
+. Warp back and take the other to reach the north-northwest room, and head downstairs to the submarine room.
+Submarine room
+Defeat the Magma Grunt in the northwest room, then climb the nearby stairs back to 2F.
+2F (west)
+In the north-central room, there is only a single warp panel, which leads to the southwest room. Pass by the two Magma Grunts and take the warp panel in the southwest. This leads to the east-central room, and another warp panel.
+2F (east)
+The previous warp panel leads to a small room with several more. Follow them in the correct order—left, center, right, right—to reach the interior room on 2F.
+2F (west)
+In
+Maxie
+'s office, you'll find four items near the far wall. Two of them are actually
+Electrode
+in disguise, while the bottom-left item is a
+Nugget
+and the top-left item is a
+Master Ball
+! This type of Poké Ball will catch any wild Pokémon without fail, and is best used on hard-to-catch legendary Pokémon. Backtrack through the warp-filled hallway to 2F's southeast room, and step on the southeast warp panel. This transports you to the northeast room; take out the single Grunt and head down the stairs.
+Submarine room
+Pass by the two generators and take the northeast warp panel to the southeast area and a
+Nest Ball
+before warping back. Head southwest past another Grunt to the next warp panel; this one leads a short distance to the west. Go south to find one of the Magma Admins,
+Tabitha
+, standing at the water's edge. He's the only thing standing between you and stopping
+Maxie
+'s getaway!
+Magma Admin
+Tabitha
+Magma Hideout
+Ruby
+Reward:
+$
+1280
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+32
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+32
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Bite
+Dark
+--
+Scary Face
+Normal
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♂
+Lv.
+32
+Magnitude
+Ground
+--
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+The battle lasted just long enough for
+Maxie
+to escape in his souped-up submarine. You've got to chase after him to the
+Seafloor Cavern
+, but you have no means of diving underwater like he can in his sub. For now, you'll have to keep to the surface. Head west then north and take the warp panel there back to the cave entrance and
+Lilycove City
+. The Grunt and his
+Wailmer
+blockade have disappeared from the beach, leaving you free to venture out into the eastern ocean.
+Aqua Hideout
+S
+Aqua Hideout, 1F
+Aqua Hideout, B1F
+Aqua Hideout, submarine room
+Team Aqua
+has been working hard to build
+an impressive hideout
+in this spacious cave near
+Lilycove City
+. Storming this heavily-guarded base won't be easy, but you must risk it all to prevent
+Archie
+'s misguided vision from becoming reality!
+Trainers
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+640
+Poochyena
+♂
+Lv.
+32
+No item
+Poochyena
+♂
+Lv.
+32
+No item
+Team Aqua Grunt
+Reward:
+$
+620
+Poochyena
+♀
+Lv.
+31
+No item
+Carvanha
+♀
+Lv.
+31
+No item
+Carvanha
+♀
+Lv.
+31
+No item
+Team Aqua Grunt
+Reward:
+$
+600
+Zubat
+♂
+Lv.
+30
+No item
+Poochyena
+♂
+Lv.
+30
+No item
+Carvanha
+♂
+Lv.
+30
+No item
+Poochyena
+♂
+Lv.
+30
+No item
+Team Aqua Grunt
+Reward:
+$
+660
+Carvanha
+♂
+Lv.
+33
+No item
+Team Aqua Grunt
+Reward:
+$
+640
+Carvanha
+♂
+Lv.
+32
+No item
+Zubat
+♂
+Lv.
+32
+No item
+Team Aqua Grunt
+Reward:
+$
+660
+Zubat
+♀
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Electrode
+R
+S
+E
+Fake item
+30
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+B1F
+Max Elixir
+East-central room
+S
+Nugget
+Archie's office, bottom-left item in the group of four
+S
+Master Ball
+Archie's office, top-left item in the group of four
+S
+Submarine room
+Nest Ball
+West-central area, accessed via warp in the floor's center
+S
+1F
+Climb out of the water and up the stairway. At the top, a single Aqua Grunt patrols around the pool of water. Battle him and head down the stairs to the northeast.
+B1F (west)
+There are two warp panels in the northeast room; take the eastern panel first to reach the east-central room and a
+Max Elixir
+. Warp back and take the other to reach the northwest panel in the southern room. Pass by the two Aqua Grunts and take the warp panel in the southwest.
+B1F (east)
+The previous warp panel leads to a small room with several more. Follow them in the correct order—left, center, left, left—to reach the interior room on B1F.
+B1F (west)
+In
+Archie
+'s office, you'll find four items near the far wall. Two of them are actually
+Electrode
+in disguise, while the bottom-left item is a
+Nugget
+and the top-left item is a
+Master Ball
+! This type of Poké Ball will catch any wild Pokémon without fail, and is best used on hard-to-catch legendary Pokémon. Backtrack through the warp-filled hallway to B1F's southern room, and step on the southeast warp panel. This transports you to the north-central room; head down the stairs to the submarine room.
+Submarine room
+Go south and step on the warp panel there to be transported a short distance to the west; collect the
+Nest Ball
+from this enclosed area before warping back. Head northeast past another patrolling Aqua Grunt and take the warp panel there to the northwest room. Climb the stairs back to B1F.
+B1F (west)
+Battle past the single Aqua Grunt here and head down the stairs to the northeast.
+Submarine room
+Battle the female Aqua Grunt and step on the warp panel to the southwest; this leads to the southeast corner of the submarine room. Go west to find one of the Aqua Admins,
+Matt
+, standing at the water's edge. He's the only thing standing between you and stopping
+Archie
+'s getaway!
+Aqua Admin
+Matt
+Aqua Hideout
+Sapphire
+Reward:
+$
+1280
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Carvanha
+♂
+Lv.
+32
+Bite
+Dark
+--
+Focus Energy
+Normal
+--
+Rage
+Normal
+--
+Scary Face
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+32
+Scary Face
+Normal
+--
+Swagger
+Normal
+--
+Bite
+Dark
+--
+Odor Sleuth
+Normal
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+32
+Bite
+Dark
+--
+Focus Energy
+Normal
+--
+Rage
+Normal
+--
+Scary Face
+Normal
+--
+The battle lasted just long enough for Archie to escape in his souped-up submarine. You've got to chase after him to the
+Seafloor Cavern
+, but you have no means of diving underwater like he can in his sub. For now, you'll have to keep to the surface. Head south then east and take the warp panel there back to the cave entrance and
+Lilycove City
+. The Grunt and his
+Wailmer
+blockade have disappeared from the beach, leaving you free to venture out into the eastern ocean.
+Route 124
+Route 124, Surface
+Route 124, Underwater
+Route 124
+holds all sorts of treasure, but most lie on the ocean floor far below. It's not possible to fully explore the area without
+a certain field move
+, so for now the route simply serves as a connector between
+Lilycove
+to the west,
+Route 126
+to the south, and
+Mossdeep City
+to the east.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Jenny
+Reward:
+$
+280
+Wailmer
+♀
+Lv.
+35
+No item
+Sis and Bro
+Rita & Sam
+Reward:
+$
+816
+Chinchou
+♂
+Lv.
+36
+No item
+Carvanha
+♂
+Lv.
+34
+No item
+Swimmer
+Roland
+Reward:
+$
+280
+Carvanha
+♂
+Lv.
+35
+No item
+Swimmer
+Grace
+Reward:
+$
+264
+Marill
+♀
+Lv.
+33
+No item
+Wailmer
+♀
+Lv.
+33
+No item
+Wingull
+♀
+Lv.
+33
+No item
+Swimmer
+Spencer
+Reward:
+$
+264
+Tentacool
+♂
+Lv.
+33
+No item
+Tentacool
+♂
+Lv.
+33
+No item
+Tentacool
+♂
+Lv.
+33
+No item
+Swimmer
+Chad
+Reward:
+$
+272
+Wingull
+♂
+Lv.
+34
+No item
+Wailmer
+♂
+Lv.
+34
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Above water (requires
+Surf
+,
+Dive
+)
+Blue Shard
+Shallow water, accessed by surfacing in the west-southwest Dive spot
+R
+S
+Yellow Shard
+Shallow water, accessed by surfacing in the northeast Dive spot
+R
+S
+Red Shard
+Shallow water, accessed by surfacing in the northwest Dive spot
+R
+S
+Underwater (requires
+Surf
+,
+Dive
+)
+Carbos
+Clearing in the seaweed patch in the S-shaped trench (hidden)
+R
+S
+Calcium
+In the dark spot directly beneath the north-central Dive spot (hidden)
+R
+S
+Heart Scale
+×2
+In the dark spot directly beneath the Dive spot nearest Mossdeep City (hidden)
+Directly beneath the Dive spot near the route's center (hidden)
+R
+S
+Pearl
+In the dark spot directly beneath the second Dive spot north-northwest of the Treasure Hunter's house (hidden)
+R
+S
+Big Pearl
+In the dark spot directly beneath the larger Dive spot southwest of the Treasure Hunter's house (hidden)
+R
+S
+Green Shard
+Beneath the smaller Dive spot near Lilycove City, in a clearing in the seaweed patch (hidden)
+R
+S
+Treasure Hunter's House
+The
+Treasure Hunter
+'s house stands on a small island to the southeast. He loves to collect
+Shards
+, and is happy to trade for them with certain
+Evolution stones
+. The kind of Shard you trade him determines the kind of stone you get in return.
+Shard Given
+Stone Received
+Red Shard
+Fire Stone
+Yellow Shard
+Thunderstone
+Blue Shard
+Water Stone
+Green Shard
+Leaf Stone
+← Part 11
+Slateport Harbor, Lilycove City
+Ruby and Sapphire
+walkthrough
+Mossdeep City, Route 125, Shoal Cave, Route 127
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

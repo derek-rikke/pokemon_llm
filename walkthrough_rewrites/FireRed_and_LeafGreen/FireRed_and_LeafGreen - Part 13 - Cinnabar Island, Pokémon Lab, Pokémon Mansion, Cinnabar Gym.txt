@@ -1,0 +1,45 @@
+Game: FireRed_and_LeafGreen
+Part: 13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym
+
+**Part 13: Cinnabar Island Walkthrough**
+
+**Cinnabar Island Overview**
+- Located between Routes 20 and 21 in Kanto.
+- Key locations: Cinnabar Lab (revives fossils), Pokémon Mansion (contains items and trainers), Cinnabar Gym (fights Blaine).
+
+**Available Pokémon**
+- **Surfing**: Tentacool (Levels 5-40)
+- **Fishing** (Old Rod): Magikarp (Level 5)
+- **Fishing** (Good Rod): Horsea, Krabby (Levels 5-15)
+- **Fishing** (Super Rod): Shellder, Staryu, Gyarados, etc. (Levels 15-35)
+- **Fossils**: Revive Helix Fossil for Omanyte, Dome Fossil for Kabuto, Old Amber for Aerodactyl.
+
+**Cinnabar Lab**
+1. **Meeting Room**: Trade Electrode for Raichu or Tangela for Venonat.
+2. **R&D Room**: Move Tutor teaches Metronome.
+3. **Testing Room**: Trade Seel for Ponyta.
+
+**Pokémon Mansion**
+- Explore for hidden switches and journal entries.
+- Key Trainers: 
+  - Youngster Johnson (Ekans, Raticate)
+  - Burglar Arnie (Charmander, Charmeleon)
+- Items: 
+  - Moon Stone, Escape Rope, Protein, etc.
+- Fossil Regeneration: Speak to the Scientist to revive fossils.
+
+**Cinnabar Gym**
+- **Leader**: Blaine (Fire-type).
+- Prepare with Water, Ground, or Rock-type Pokémon.
+- Answer quiz questions correctly to reach Blaine faster or battle trainers for XP.
+  
+**Blaine's Pokémon**:
+- Growlithe (Lv. 42), Ponyta (Lv. 40), Rapidash (Lv. 42), Arcanine (Lv. 47).
+
+**Post-Gym**
+- Receive the Volcano Badge and TM38 (Fire Blast) from Blaine.
+- Bill invites you to One Island; prepare before boarding the ferry.
+
+**Next Steps**
+- Set sail for the Sevii Islands after concluding activities on Cinnabar Island.

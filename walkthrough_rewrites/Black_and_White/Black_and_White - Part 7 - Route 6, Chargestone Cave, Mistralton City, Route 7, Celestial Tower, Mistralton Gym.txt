@@ -1,0 +1,52 @@
+Game: Black_and_White
+Part: 7
+Keywords: Route 6, Chargestone Cave, Mistralton City, Route 7, Celestial Tower, Mistralton Gym
+
+### Part 7 Walkthrough: Route 6 to Mistralton Gym
+
+#### Route 6
+- Connects **Driftveil City** to **Chargestone Cave**.
+- **Season Research Lab**: Show a **Deerling** in all forms to receive a **Leaf Stone**.
+- **Trainings**: Defeat trainers for cash rewards. Notable Pokémon include **Deerling**, **Emolga**, and **Tympole**.
+- **Items**: 
+  - **Cheri Berry**: From Pokémon Rangers.
+  - **Elixir**: South of the Lab.
+  - **TM78 (Bulldoze)**: From **Clay** after defeating him.
+
+#### Chargestone Cave
+- **Entrance** blocked by **Galvantula** web; Clay helps you.
+- **Notable Trainers**: Fight **Scientists**, **Ace Trainers**, and **Plasma Grunts**. Key Pokémon include **Klink**, **Archen**, and **Whimsicott**.
+- **Items**: 
+  - **Lucky Egg**: Near entrance from **Professor Juniper**.
+  - **Various healing items** and **evolution stones** scattered throughout.
+
+#### Mistralton City
+- **Key Locations**: 
+  - **Move Family**: Can delete/remember moves.
+  - **Skyla**: Gym Leader, requires you to visit **Celestial Tower** before battling.
+- **Items**: 
+  - **TM58 (Sky Drop)**: Near southern plane.
+  - **Max Ether**: Hidden in greenhouses.
+
+#### Route 7
+- **Celestial Tower**: Contains trainers and wild Pokémon like **Tranquill** and **Cubchoo**.
+- **Trainers**: Defeat them for cash; notable trainers include **Backpacker** and **Ace Trainer**.
+
+#### Celestial Tower
+- **Objective**: Ring the bell at the top for Skyla.
+- **Trainers**: Psychic types like **Elgyem** and **Solosis**.
+- **Items**: **Revive** and **TM61 (Will-O-Wisp)** on different floors.
+
+#### Mistralton Gym
+- **Type**: Flying.
+- **Strategy**: Use **Electric** or **Rock-type** moves against Gym Leader **Skyla**.
+- **Key Pokémon**:
+  - **Swoobat** (Lv. 33)
+  - **Unfezant** (Lv. 33)
+  - **Swanna** (Lv. 35)
+- **Defeating Skyla** awards the **Jet Badge** and **TM62 (Acrobatics)**.
+
+#### Post-Gym
+- Encounter **N**, who discusses legendary Pokémon and the quest for the **Light** and **Dark Stones**.
+
+**Next Destination**: Proceed northeast through **Route 7** to **Twist Mountain**.

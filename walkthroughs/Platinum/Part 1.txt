@@ -1,0 +1,461 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_1
+Keywords: Introduction, Twinleaf Town, Route 201, Lake Verity, Sandgem Town
+
+Walkthrough Text:
+Contents
+1
+Starting the game
+2
+Twinleaf Town
+3
+Route 201
+4
+Twinleaf Town
+5
+Route 201
+6
+Lake Verity (first visit)
+7
+Route 201
+8
+Verity Lakefront (optional)
+9
+Sandgem Town
+10
+Twinleaf Town
+Starting the game
+The player's room
+Professor Rowan
+The game loads with
+Giratina
+being shown on the bottom title screen. Press Start, A, or tap the screen to go to the main menu, then start a new game. You will be greeted by
+Professor Rowan
+, who will ask if you need advice about playing the game.
+Afterward, Rowan will ask you about yourself. Here, choose your gender, name, and the name of
+your rival
+. None of these can be changed later on, so be sure you're happy with each choice before continuing to the next one.
+After choosing your rival's name, you will be brought to your house in
+Twinleaf Town
+.
+Twinleaf Town
+Twinleaf Town
+Twinleaf Town
+Fresh and Free!
+The game starts in front of the TV at your house in
+Twinleaf Town
+. You are watching the tail end of a show featuring
+Professor Rowan
+. As you try to move, you will be greeted by your
+rival
+, who will briefly be distracted by your
+PC
+, and will then tell you to meet him outside as he dashes off. Follow him downstairs, where you'll have a short conversation with your
+mom
+. Just before you leave, your mom will tell you to stay away from the
+tall grass
+.
+Twinleaf Town is cold, with patches of
+snow
+on the ground. As you explore the town, be sure to visit the house in the north-west corner of the town. Here, your rival will bump into you as you try to enter. He'll head back in immediately, however, because he forgot something. Head upstairs and your rival will ask you to meet him at
+Route 201
+. Leave his house and head north. Soon, you'll find yourself on Route 201.
+Route 201
+Route 201
+Lake Verity
+is to the west of
+Route 201
+, while
+Sandgem Town
+is to the east. As you go north, you meet up with your rival for a chat. He suggests that the two of you go to
+Sandgem Town
+to get Pokémon from Professor Rowan. When you point out you shouldn't go into the tall grass, he naively suggests running through the tall grass so fast that wild Pokémon have no chance to jump out at you (running through tall grass actually increases the chance that you'll be attacked by a wild Pokémon). Just as he's about to enter the grass, an old man shouts at him to halt.
+The man is Professor Rowan, and he is not happy! He tells you two not to go to tall grass, then quizzes you about your love for Pokémon; eventually
+Dawn
+/
+Lucas
+will appear, and the professor will ask you to pick your very first Pokémon.
+Turtwig
+Chimchar
+Piplup
+Grass
+Fire
+Water
+Grotle
+Monferno
+Prinplup
+Grass
+Fire
+Fighting
+Water
+Torterra
+Infernape
+Empoleon
+Grass
+Ground
+Fire
+Fighting
+Water
+Steel
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+First partner Pokémon
+Turtwig
+D
+P
+Pt
+Gift
+5
+Only one
+Chimchar
+D
+P
+Pt
+Gift
+5
+Only one
+Piplup
+D
+P
+Pt
+Gift
+5
+Only one
+Grass Pokémon
+Starly
+D
+P
+Pt
+Grass
+2-3
+50%
+50%
+40%
+Bidoof
+D
+P
+Pt
+Grass
+2-3
+40%
+50%
+50%
+Kricketot
+D
+P
+Pt
+Grass
+3
+10%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Turtwig
+has high HP, Attack, and Defense, and its final evolution gains
+Ground
+as a secondary type; few moves are
+super effective
+or
+not very effective
+against this combination. Its Grass/Ground typing will be effective in more
+Gyms
+than Piplup, but in fewer than Chimchar.
+Chimchar
+has high Attack, Special Attack, and Speed. Its second evolution gains the
+Fighting
+type, a combination that is very effective against the most Gyms out of the three choices, not to mention the Pokémon League. It can also learn the powerful
+Fire Blast
+and
+Focus Blast
+relatively early, while the other two are still relying on weaker moves like
+Razor Leaf
+and
+Bubblebeam
+. However, its very low Defense and Special Defense mean it will be vulnerable even to types it resists.
+Piplup
+is similar to Turtwig; it has high Defense and Special Attack, and its final form gains
+Steel
+as the secondary type. This combination will resist many different move types, though it gains a
+Ground
+weakness. Piplup's moves are neutrally effective against more Gyms, but its wide range of resistances combined with its high Defense allow it to take quite the pounding.
+Once you made your choice, in true
+Rival
+fashion, Barry will pick the one that has the type advantage over your choice. Rowan will point out that these Pokémon are inexperienced with the world and need you to help them grow before he and Lucas/Dawn return to Sandgem Town. Barry will then challenge you to an immediate battle. You don't have to win this battle, but winning awards
+Experience
+points for your new first partner Pokémon, as well as a small amount of spending money.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+Pokémon Trainer
+Barry
+Route 201
+Platinum
+Reward:
+$
+500
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Chimchar
+♂
+Lv.
+5
+Scratch
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Barry
+Route 201
+Platinum
+Reward:
+$
+500
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Piplup
+♂
+Lv.
+5
+Pound
+Normal
+Physical
+--
+Growl
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Pokémon Trainer
+Barry
+Route 201
+Platinum
+Reward:
+$
+500
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Turtwig
+♂
+Lv.
+5
+Tackle
+Normal
+Physical
+--
+Withdraw
+Water
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle you will immediately go home.
+Twinleaf Town
+Back at home, your mom is happy that you and Barry met Professor Rowan, since he stopped you from being attacked by wild Pokémon. She then asks for you to thank him properly in Sandgem Town and gives you the ever-useful
+Running Shoes
+.
+Items
+Item
+Location
+Games
+Running Shoes
+Obtained from player's mother at the start of the game
+Pt
+Route 201
+After arriving back on Route 201, you'll meet up with
+Barry
+again. He reveals that he's also planning to go to
+Sandgem Town
+, and he asks you to come with him to
+Lake Verity
+first to find and catch the rumored legendary Pokémon to show to Professor Rowan.
+Lake Verity (first visit)
+Once at Lake Verity you will see
+Cyrus
+, the leader of
+Team Galactic
+. He boasts to the legendary Pokémon of the lake that he will one day take control of Time and Space, then leaves the scene. When Barry is ready to press forward, you will hear this
+legendary Pokémon
+, and he is ready to catch it only to realize that neither of you have any
+Poké Balls
+to catch it with. Barry then recalls that Professor Rowan said to come to him if they needed anything, so Barry then departs for Sandgem Town. With nothing more to do here, follow him south and then east along Route 201.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Starly
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+40%
+Bidoof
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+60%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 201
+Once past Verity Lakefront, you are free to explore the tall grass, though you can't catch any wild Pokémon yet. Talk to the
+Poké Mart
+employee near the entrance to Sandgem Town to receive a free
+Potion
+, then head west to pick up an item or east to reach the town.
+Items
+Item
+Location
+Games
+Potion
+Given by Poké Mart employee
+Pt
+Verity Lakefront (optional)
+There isn't much to do at
+Verity Lakefront
+right now, except collecting a hidden TinyMushroom. It is accessible from Route 201.
+Items
+Item
+Location
+Games
+TinyMushroom
+On the raised-land section, one space north of the southernmost flower
+(hidden)
+Pt
+Sandgem Town
+Sandgem Town
+Once you arrive at
+Sandgem Town
+, Lucas/Dawn are waiting to escort you inside Rowan's laboratory. Just as you're about to enter, Barry comes rushing out, commenting that Rowan is not as scary as he appears to be, before he dashes off. Once inside, the Professor takes a look at your Pokémon and approvingly allows you to keep it. Seeing the growing bond between you and your Pokémon, the Professor gives you a
+Pokédex
+and requests that you travel across Sinnoh and record data on the various Pokémon you meet.
+Items
+Item
+Location
+Games
+TM27
+(
+Return
+)
+Obtained from
+Professor Rowan
+after leaving his Research Lab
+Pt
+Pokédex
+Obtained from
+Professor Rowan
+in the Pokémon Research Lab
+Pt
+National Pokédex
+Pokédex upgraded by
+Professor Oak
+in the Pokémon Research Lab after
+the player sees all Pokémon in the Sinnoh Region.
+Pt
+Poké Radar
+Obtained from
+Professor Rowan
+after Oak gives you the National Pokédex
+Pt
+Outside the lab, Rowan gives you
+TM27
+(
+Return
+). Lucas/Dawn will show you around town, then suggest that you talk with your mom about what you've so quickly agreed to do. Before you go, you may want to head south of Sandgem to Route 219 and grab the Antidote waiting there, heal up your Pokémon in the
+Pokémon Center
+, and maybe even buy some
+Poké Balls
+in the
+Poké Mart
+by speaking to the cashier.
+Finally, head west out of Sandgem and use the ledges to return to Twinleaf.
+Twinleaf Town
+Enter your house, where your mom agrees that you should go on this adventure, and gives you a
+Journal
+to record it. Barry's mother shows up looking for her son, and asks you to give him a
+Parcel
+, suggesting that Barry is likely in Jubilife City by now.
+Now, return to Sandgem.
+Items
+Item
+Location
+Games
+Journal
+Obtained from player's mother after returning from Sandgem Town
+Pt
+Parcel
+Obtained from rival's mother in player's house to deliver to your rival
+Pt
+Platinum
+walkthrough
+Route 202 to Jubilife City
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

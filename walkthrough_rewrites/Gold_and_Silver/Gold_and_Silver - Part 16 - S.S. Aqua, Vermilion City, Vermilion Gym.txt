@@ -1,0 +1,38 @@
+Game: Gold_and_Silver
+Part: 16
+Keywords: S.S. Aqua, Vermilion City, Vermilion Gym
+
+### Pokémon Gold and Silver Walkthrough - Part 16
+
+**S.S. Aqua, Vermilion City, Vermilion Gym**
+
+1. **New Bark Town**  
+   - After the credits, visit Professor Elm to receive the **S.S. Ticket**.
+
+2. **Olivine City**  
+   - Go to Olivine Harbor and show the Sailor your ticket to board the **S.S. Aqua** to Vermilion City.
+
+3. **S.S. Aqua (1F & B1F)**  
+   - **Missing Child Quest**: A Gentleman mentions his granddaughter is missing. Check cabins and find her in the Captain's cabin on 1F. Return her to receive a **Metal Coat**.  
+   - **Trainers on S.S. Aqua**: Defeat various trainers for cash rewards.
+
+4. **Vermilion City**  
+   - Explore the city, noting that Snorlax blocks the eastern exit. The **Pokémon Fan Club** is on the west side where you can get a **Rare Candy** from the Chairman.  
+   - **Item Locations**: 
+     - **Iron**: Northeast of S.S. Aqua (hidden, requires Surf).
+     - **Full Heal**: Next to Vermilion Gym (hidden).
+     - **HP Up**: Near the east exit after earning all 16 Badges.
+
+5. **Vermilion Gym**  
+   - **Leader**: Lt. Surge (Electric-type). His Pokémon include:
+     - **Raichu** (Lv. 44), **Magneton** (Lv. 40), **2 Electrode** (Lv. 40), **Electabuzz** (Lv. 46).
+   - **Strategy**: Use Ground-type Pokémon to avoid Electric attacks. Be cautious of Zap Cannon and the potential for Electrode to explode.
+   - Defeating Lt. Surge earns you the **Thunder Badge**.
+
+### Key Notes:
+- Use the **S.S. Aqua** for travel between Johto and Kanto.
+- Ground-type Pokémon are advantageous against Electric-types.
+- Rematch trainers on the ship for higher-level Pokémon.
+- Return the missing girl for a reward and complete the quest. 
+
+This concise walkthrough highlights the essential steps and strategies for progressing through Part 16 of Pokémon Gold and Silver.

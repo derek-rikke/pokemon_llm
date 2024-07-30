@@ -1,0 +1,129 @@
+Part: Part 27
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_27
+Keywords: Canalave City, Fullmoon Island, Back to Canalave City, Catching Cresselia, Iron Island
+
+Walkthrough Text:
+Contents
+1
+Canalave City
+2
+Fullmoon Island
+3
+Back to Canalave City
+4
+Catching Cresselia
+5
+Iron Island
+Canalave City
+Canalave City
+Fly
+to
+Canalave City
+and go into the southernmost house on the west side of the river.
+When you get inside, you see that the little boy,
+Sailor Eldritch's
+son, is in the bed. Walk up to the bed and try to talk to him—— he will be talking in his sleep, saying, "
+Dar
+...
+Dark
+... Is watching me..." His mother explains that she fears he has been cast into an endless nightmare.
+Darkrai
+, a Pokémon obtainable only by a
+special event
+, has the ability to give people horrifying, endless nightmares from which they cannot awaken. The little boy seems to be saying that Darkrai is watching him.
+Sailor Eldritch requests that you go with him on his ship to
+Fullmoon Island
+. The only thing that can stop nightmares caused by Darkrai is
+Cresselia
+'s feather
+Lunar Wing
+, which is said to give people that hold it as they sleep wonderful dreams. Cresselia lives on Fullmoon Island. No special preparation is needed to go to the Island, since there are no wild Pokémon to fight or catch, and no moves are required to use in order to get through that Island.
+Go to the dock outside the house and speak to Sailor Eldritch to get on his boat and travel to Fullmoon Island.
+Fullmoon Island
+Fullmoon Island
+Cresselia
+Once you get off the ship, walk up the steps, and then head north for a short distance until you can walk east. Enter the forest's interior once you've gone far enough, and you will find a large, pink-and-yellow Pokémon waiting by a shallow, crescent-shaped pool of water. This is Cresselia, a
+Psychic-type
+legendary Pokémon that gives people wonderful dreams and can dispel nightmares.
+Talk to Cresselia and she (Cresselia is always female) will disappear, leaving behind an item. Pick it up—— it is the Lunar Wing that will save Sailor Eldritch's son. Now that you have it, go back and talk to Sailor Eldritch to sail back to Canalave City.
+Back to Canalave City
+Once you've arrived in Canalave City, return to the house, walk up to the sleeping boy, and press A. He will be cured of his nightmare, and his parents will be very relieved.
+Now that you've saved Sailor Eldritch's son, it's time to ask: Where did Cresselia go?
+Catching Cresselia
+Make sure that you have your first Pokémon under Level 50, your Pokétch App Marking Map is ready, and you buy a lot of
+Quick Balls
+and
+Repels
+before proceeding to catch Cresselia.
+If you have a Pokémon that knows
+Mean Look
+, you should bring it, too.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cresselia
+♀
+Lv.
+50
+Aurora Beam
+Ice
+Special
+--
+Future Sight
+Psychic
+Special
+--
+Slash
+Normal
+Physical
+--
+Mist
+Ice
+Status
+--
+The answer is that Cresselia is now roaming Sinnoh, just like
+Mesprit
+did. If you haven't caught Mesprit, you'll find that there is no way to differentiate between the two roaming Pokémon on your Marking Map. Catching Cresselia employs the same strategy as catching Mesprit:
+Cresselia can be at pretty much any route, and even at the
+Valley Windworks
+and
+Fuego Ironworks
+. When you change locations, she will instantly shift to another location. As with Mesprit, two of the best places to "wait" for her to show up are Route 205 and the Valley Windworks. Run back and forth between the boundary of these two places until you and Cresselia are at the same location. Once Cresselia is in the same place as you, use a Repel, save your game, and set a Pokémon at or under Level 50 as your first Pokémon. Then, go into the tall grass and run around (or Surf around in the water) until she appears. There is no special music when encountering Cresselia, so don't freak out and think that you failed to encounter her when you hear the normal battle theme. She will attempt to flee every turn of the battle, like Mesprit. When you first encounter her, weaken her with a
+Dark
+-,
+Ghost
+-, or
+Bug
+-type attack (or use Mean Look to trap her, then attack). If you accidentally knock her out, just turn off the power since you just saved beforehand. Every time you encounter her, you have two options: use a Quick Ball and then continue chasing her if unsuccessful, or use Mean Look and proceed to catch her in the usual way.
+Mesprit and Cresselia may seem similar; they are roaming, Psychic-type legendary Pokémon. Mesprit has fairly high Attack, Special Attack, Defense, and Special Defense, but is lacking in (for a legendary Pokémon) HP and Speed. None of its stats are particularly bad. Cresselia has a large amount of HP and has excellent Defense and Special Defense, and she is slightly faster than Mesprit. However, her Attack and Special Attack aren't the greatest. If you want to save yourself difficulty and use the
+Master Ball
+on one of these two, you need to figure out which one of them fits your battle style best.
+Iron Island
+Sailor Eldritch will now be able to bring you to
+Iron Island
+as before. If you want, he can also bring you to Fullmoon Island again.
+Head to Iron Island. Remember that here is an empty house? Go inside. You'll find that
+Byron
+is here. Talk to him, and he'll give you the
+Metal Coat
+. Then he'll leave.
+Now fly to
+Veilstone City
+and get ready for another trip of catching Legendary Pokémon.
+← Part 26
+Sinnoh Victory Road, Route 224, Eterna City, Eterna Forest, Old Chateau, Catching Rotom
+Diamond and Pearl
+walkthrough
+Route 214, Spring Path, Sendoff Spring, Turnback Cave, Catching Giratina, Hotel Grand Lake-- Collecting the Diploma
+Part 28 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

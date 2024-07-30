@@ -1,0 +1,718 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Crystal_walkthrough/Section_20
+Keywords: Route 7, Celadon City, Celadon Gym
+
+Walkthrough Text:
+Contents
+1
+Route 7
+2
+Celadon City
+2.1
+Pokémon Center
+2.1.1
+The Rainbow Pokémon's Return
+2.2
+Celadon Mansion
+2.3
+Restaurant
+2.4
+Game Corner
+2.5
+Prize Corner
+2.6
+Celadon Department Store
+2.6.1
+2F
+2.6.2
+3F
+2.6.3
+4F
+2.6.4
+5F
+2.6.5
+6F
+2.7
+Celadon Gym
+Route 7
+Route 7
+Route 7
+is a short path that links
+Saffron City
+to the east and
+Celadon City
+to the west. The western end of the second
+Underground Path
+emerges here, but the door is locked and authorities have closed the tunnel indefinitely.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+G
+S
+C
+Grass
+17
+30%
+30%
+0%
+Raticate
+G
+S
+C
+Grass
+18
+10%
+10%
+0%
+Spearow
+G
+S
+C
+Grass
+17
+30%
+30%
+0%
+Jigglypuff
+G
+S
+C
+Grass
+18
+5%
+Meowth
+G
+S
+C
+Grass
+17
+0%
+0%
+30%
+Persian
+G
+S
+C
+Grass
+18
+0%
+0%
+10%
+Abra
+G
+S
+C
+Grass
+16
+5%
+Murkrow
+G
+S
+C
+Grass
+17
+0%
+0%
+30%
+Snubbull
+G
+S
+C
+Grass
+18
+20%
+20%
+0%
+Houndour
+G
+S
+C
+Grass
+18
+0%
+0%
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Celadon City
+Celadon City
+Celadon City
+is located between
+Route 7
+to the east and
+Route 16
+to the west. The
+Celadon Department Store
+in the northwest offers all kinds of items for sale, and the
+Celadon Mansion
+acts as a hotel. Visitors can try their luck at the
+Game Corner
+in the heart of the city and redeem their winnings at the Prize Corner next door. The
+Celadon Gym
+stands on a hill in the southwest part of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Grimer
+G
+S
+C
+Surfing
+15-24
+90%
+Muk
+G
+S
+C
+Surfing
+15-19
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM03
+(
+Curse
+)
+Celadon Mansion; from the man on the roof, after listening to his story
+Night
+C
+Leftovers
+Restaurant; in the trash can (hidden)
+C
+PP Up
+Dead-end southeast path, in the tree on the north end (hidden)
+C
+18
+Coins
+Game Corner; from the man sitting in the third row from the left
+C
+TM19
+(
+Giga Drain
+)
+Celadon Gym; from
+Gym Leader
+Erika
+, after defeating her
+C
+Pokémon Center
+The Rainbow Pokémon's Return
+Eusine
+has returned to his hometown, and can now be found inside the Pokémon Center.
+Suicune
+has already been captured, but
+Raikou
+and
+Entei
+may still be on the loose, racing around
+Johto
+. Return here and speak to him once all three
+legendary beasts
+have been caught, and he informs you of recent rumors of
+a rainbow-colored Pokémon
+appearing at
+Tin Tower
+. He then leaves for
+Ecruteak City
+to investigate.
+Celadon Mansion
+After the sun sets, follow the path behind the Pokémon Center and enter the
+Celadon Mansion
+through the back door. Speak to the man on the roof to hear a scary story, and receive
+TM03
+(
+Curse
+) for listening to it.
+Restaurant
+The restaurant on the south side of town is currently hosting an eat-a-thon. Check the trash can by the counter to find some
+Leftovers
+, which restore a bit of the holder's health every turn.
+Game Corner
+The prizes offered next door are expensive, so it will require a large number of coins to receive all of them. Coins may be purchased at the counter in sets of 50 for
+$
+1,000 each, and sets of 500 for
+$
+1,000 each. Much of the building is occupied by traditional
+slot machines
+, while the first two available rows from the left feature a
+card flip
+game, instead.
+Prize Corner
+Like the
+Goldenrod Game Corner
+, this one also offers rare Pokémon and items as prizes.
+Left Window
+TM32
+(
+Double Team
+)
+1500
+Coins
+TM29
+(
+Psychic
+)
+3500
+Coins
+TM15
+(
+Hyper Beam
+)
+7500
+Coins
+Right Window
+Pikachu
+(
+Lv.
+25)
+2222
+Coins
+Porygon
+(
+Lv.
+15)
+5555
+Coins
+Larvitar
+(
+Lv.
+40)
+8888
+Coins
+Celadon Department Store
+The
+Celadon Department Store
+is the largest shop in
+Kanto
+. Nearly any item a Trainer could want can be found here.
+2F
+The Trainer's Market is found on the second floor. Everyday items like
+Great Balls
+and
+Super Potions
+are offered here.
+Left cashier
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Revive
+$
+1500
+Super Repel
+$
+500
+Max Repel
+$
+700
+Right cashier
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Escape Rope
+$
+550
+Full Heal
+$
+600
+Antidote
+$
+100
+Burn Heal
+$
+250
+Ice Heal
+$
+250
+Awakening
+$
+250
+Paralyze Heal
+$
+200
+3F
+The third floor holds the TM Shop.
+Technical Machines
+for several rare moves can be purchased here.
+TM10
+(
+Hidden Power
+)
+$
+3000
+TM11
+(
+Sunny Day
+)
+$
+2000
+TM17
+(
+Protect
+)
+$
+3000
+TM18
+(
+Rain Dance
+)
+$
+2000
+TM37
+(
+Sandstorm
+)
+$
+2000
+4F
+Wiseman Gifts is located on the fourth floor. The shop offers a few souvenir items for sale.
+Poké Doll
+$
+1000
+Lovely Mail
+$
+50
+Surf Mail
+$
+50
+5F
+The Drug Store can be found on the fifth floor.
+Battle items
+and
+vitamins
+are offered here.
+Left cashier
+HP Up
+$
+9800
+Protein
+$
+9800
+Iron
+$
+9800
+Carbos
+$
+9800
+Calcium
+$
+9800
+Right cashier
+X Accuracy
+$
+950
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+X Attack
+$
+500
+X Defend
+$
+550
+X Speed
+$
+350
+X Special
+$
+350
+6F
+The sixth floor houses a picnic area and several
+vending machines
+.
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+Celadon Gym
+Celadon Gym
+Celadon City Pokémon Gym
+Leader: Erika
+The Nature-Loving Princess
+The
+Celadon Gym
+specializes in
+Grass-type
+Pokémon. Grass-type moves are super effective against
+Ground
+-,
+Rock
+-, and
+Water-type
+Pokémon, while Grass-type Pokémon are weak to
+Bug
+-,
+Fire
+-,
+Flying
+-,
+Ice
+-, and
+Poison-type
+moves.
+The Gym is designed as a greenhouse, with many flower arrangements on display. There are no puzzles to solve, and only a few Gym Trainers to defeat in order to reach the
+Gym Leader
+.
+Erika
+leads with her
+Tangela
+. Its
+Bind
+move restricts the target's movement, as does
+Sleep Powder
+. Its
+Special Defense
+is low, so prioritize using
+Fire
+and
+Ice
+moves against it for greatest effect. Three of
+Jumpluff
+'s moves steal the target's
+HP
+, while the fourth sharply reduces its
+Speed
+. As a
+Grass
+/
+Flying
+Pokémon, it takes massive damage from Ice-type moves. As plants rely on the sun for nutrients, Erika's remaining two Pokémon rely on
+Sunny Day
+to prepare their combination moves.
+Victreebel
+regains more HP than normal under
+harsh sunlight
+with
+Synthesis
+, and
+Bellossom
+does the same. Under these conditions, Bellossom can launch its strongest move,
+SolarBeam
+, without first taking a turn to charge it.
+Celadon Gym
+Trainers
+Trainer
+Pokémon
+Twins
+Jo & Zoe
+ミキとマキ
+Miki and Maki
+Reward:
+$
+700
+Victreebel
+♀
+Lv.
+35
+No item
+Vileplume
+♀
+Lv.
+35
+No item
+Picnicker
+Tanya
+ユキコ
+Yukiko
+Reward:
+$
+740
+Exeggutor
+♀
+Lv.
+37
+No item
+Lass
+Michelle
+マユミ
+Mayumi
+Reward:
+$
+816
+Skiploom
+♀
+Lv.
+32
+No item
+Hoppip
+♀
+Lv.
+33
+No item
+Jumpluff
+♀
+Lv.
+34
+No item
+Beauty
+Julia
+ナツキ
+Natsuki
+Reward:
+$
+3080
+Paras
+♀
+Lv.
+32
+No item
+Exeggcute
+♀
+Lv.
+32
+No item
+Parasect
+♀
+Lv.
+35
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Leader
+Erika
+Celadon Gym
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+4600
+Type:
+Grass
+Unknown
+Held item:
+None
+Tangela
+♀
+Lv.
+42
+Vine Whip
+Grass
+--
+Bind
+Normal
+--
+Giga Drain
+Grass
+--
+Sleep Powder
+Grass
+--
+Types:
+Grass
+Flying
+Held item:
+None
+Jumpluff
+♀
+Lv.
+41
+Mega Drain
+Grass
+--
+Leech Seed
+Grass
+--
+Cotton Spore
+Grass
+--
+Giga Drain
+Grass
+--
+Types:
+Grass
+Poison
+Held item:
+None
+Victreebel
+♀
+Lv.
+46
+Sunny Day
+Fire
+--
+Synthesis
+Grass
+--
+Acid
+Poison
+--
+Razor Leaf
+Grass
+--
+Type:
+Grass
+Unknown
+Held item:
+None
+Bellossom
+♀
+Lv.
+46
+Sunny Day
+Fire
+--
+Synthesis
+Grass
+--
+Petal Dance
+Grass
+--
+SolarBeam
+Grass
+--
+After the battle,
+Erika
+awards you the
+Rainbow Badge
+. She also hands out
+TM19
+(
+Giga Drain
+) as a prize.
+← Part 19
+Cerulean City, Route 24, Route 25, Cerulean Gym, Route 5
+Crystal
+walkthrough
+Route 16, Route 17, Route 18, Fuchsia City
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

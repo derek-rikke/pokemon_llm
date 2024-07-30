@@ -1,0 +1,1950 @@
+Part: Part 12
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_12
+Keywords: Route 13, Lacunosa Town, Route 12, Village Bridge, Route 11
+
+Walkthrough Text:
+Contents
+1
+Route 13
+1.1
+The Treasure Hunter
+1.2
+Cobalion is waiting
+2
+Lacunosa Town
+2.1
+The Old Legend
+2.2
+The Businessman
+2.3
+Zinzolin
+3
+Route 12
+3.1
+Hunt for Bug Pokémon
+4
+Village Bridge
+4.1
+Rest Stop
+4.2
+Stonewall's Winning Streak
+4.3
+The Voice
+5
+Route 11
+5.1
+Virizion is waiting
+Route 13
+Route 13
+The water and plant life of
+Route 13
+give the area a lot of natural beauty. The mysterious
+Giant Chasm
+lies to the north, and
+Lacunosa Town
+lies off to the northwest.
+Trainers
+Trainer
+Pokémon
+Black Belt
+Wesley
+フトシ
+Futoshi
+Reward:
+$
+1312
+Gurdurr
+♂
+Lv.
+41
+No item
+Battle Girl
+Alize
+アキノ
+Akino
+Reward:
+$
+1312
+Scrafty
+♀
+Lv.
+41
+No item
+Ace Trainer
+Miguel
+ミゲル
+Miguel
+Reward:
+$
+2460
+Delcatty
+♀
+Lv.
+41
+No item
+Eelektrik
+♂
+Lv.
+41
+No item
+Fisherman
+Leroy
+Reward:
+$
+1280
+Vaporeon
+♂
+Lv.
+40
+No item
+Parasol Lady
+Laura
+Reward:
+$
+1280
+Castform
+♀
+Lv.
+40
+No item
+Fisherman
+Damon
+Reward:
+$
+1248
+Basculin
+♂
+Red-Striped Form
+Lv.
+39
+No item
+Staryu
+Lv.
+39
+No item
+Fisherman
+Jones
+Reward:
+$
+1280
+Alomomola
+♂
+Lv.
+40
+No item
+Ace Trainer
+Angi
+Reward:
+$
+2460
+Lopunny
+♀
+Lv.
+41
+No item
+Lampent
+♀
+Lv.
+41
+No item
+Pokémon Ranger
+Daryl
+Reward:
+$
+2340
+Rotation Battle
+Jolteon
+♂
+Lv.
+39
+No item
+Nosepass
+♂
+Lv.
+39
+No item
+Galvantula
+♂
+Lv.
+39
+No item
+Pokémon Ranger
+Dianne
+Reward:
+$
+2340
+Triple Battle
+Vibrava
+♀
+Lv.
+39
+No item
+Larvesta
+♀
+Lv.
+39
+No item
+Flareon
+♂
+Lv.
+39
+No item
+Fisherman
+Vince
+Reward:
+$
+1280
+Golduck
+♂
+Lv.
+40
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Tangela
+B2
+W2
+Grass
+34-37
+25%
+Pelipper
+B2
+W2
+Grass
+34-37
+25%
+Drifblim
+B2
+W2
+Grass
+34-35
+15%
+Absol
+B2
+W2
+Grass
+35-37
+15%
+Lunatone
+B2
+W2
+Grass
+36
+10%
+Solrock
+B2
+W2
+Grass
+36
+10%
+Dark grass
+Tangela
+B2
+W2
+Dark grass
+38-41
+25%
+Pelipper
+B2
+W2
+Dark grass
+38-41
+25%
+Drifblim
+B2
+W2
+Dark grass
+38-39
+15%
+Absol
+B2
+W2
+Dark grass
+39-41
+15%
+Lunatone
+B2
+W2
+Dark grass
+40
+10%
+Solrock
+B2
+W2
+Dark grass
+40
+10%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+34-37
+85%
+Emolga
+B2
+W2
+Rustling grass
+35
+10%
+Tangrowth
+B2
+W2
+Rustling grass
+37
+5%
+Surfing
+Frillish
+B2
+W2
+Surfing
+25-40
+65%
+Staryu
+B2
+W2
+Surfing
+25-40
+30%
+Basculin
+B2
+W2
+Surfing
+30-40
+5%
+Basculin
+B2
+W2
+Surfing
+30-40
+5%
+Rippling water
+Staryu
+B2
+W2
+Rippling water
+25-40
+60%
+Jellicent
+B2
+W2
+Rippling water
+25-40
+30%
+Basculin
+B2
+W2
+Rippling water
+30-40
+5%
+Basculin
+B2
+W2
+Rippling water
+30-40
+5%
+Starmie
+B2
+W2
+Rippling water
+30-40
+5%
+Hidden Grotto
+Foongus
+B2
+W2
+Hidden Grotto
+35-40
+Common
+Drifloon
+B2
+W2
+Hidden Grotto
+35-40
+Uncommon
+Spheal
+B2
+W2
+Hidden Grotto
+35-40
+Rare
+Special Pokémon
+Cobalion
+B2
+W2
+Only one
+45
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+West of Battle Girl Alize (requires
+Cut
+)
+B2
+W2
+Zinc
+In the grass patch on the southern cliff (hidden)
+B2
+W2
+Red Shard
+On the southern cliff (requires
+Strength
+)
+B2
+W2
+Heart Scale
+×2
+On the beach, north of Battle Girl Alize (hidden)
+Accessible from Giant Chasm (hidden)
+B2
+W2
+Ultra Ball
+On the beach, north of Battle Girl Alize
+B2
+W2
+Luxury Ball
+On the island, north of Ace Trainer Miguel
+B2
+W2
+TM29
+(
+Psychic
+)
+East of the island, near Fisherman Vince (requires
+Surf
+)
+B2
+W2
+Big Pearl
+North of Parasol Lady Laura (hidden,
+reappears
+occasionally)
+B2
+W2
+Pearl
+North of the sandbar, at the foot of the stairway (hidden,
+reappears
+occasionally)
+B2
+W2
+Star Piece
+On the rock pillar south of Ace Trainer Angi
+B2
+W2
+Sitrus Berry
+×2
+From Pokémon Ranger Daryl after defeating him
+From Pokémon Ranger Dianne after defeating her
+B2
+W2
+Power Lens
+In the western house, from the girl with the Wingull
+B2
+Power Band
+In the western house, from the girl with the Wingull
+W2
+Blue Shard
+Near Pokémon Ranger Dianne
+B2
+W2
+Max Ether
+Near Pokémon Ranger Dianne
+B2
+W2
+Hyper Potion
+Accessible from Giant Chasm
+B2
+W2
+The Treasure Hunter
+When you reach the sandbar near Parasol Lady Laura, take the western path first. The man further down the beach is a treasure hunter, and will give you some of his extra items. Speak to him every day to get one of the five kinds of
+Flute
+, which can be sold to the billionaire in
+Undella Town
+for a high price.
+Cobalion is waiting
+Farther north, the beach gives way to the forested high ground. Climb the stairway and approach the cuttable trees to find
+Cobalion
+standing in the clearing beyond. Now's your chance to catch it! Start off with
+Fire
+-,
+Fighting
+-, or
+Ground-type
+attacks to wear it down fast, then follow up with
+Normal
+,
+Grass
+,
+Ice
+, or
+Steel
+moves to weaken it further. Avoid using
+Dark-type
+attacks, as its
+Justified
+Ability raises its
+Attack
+when it is damaged by those moves. If you happen to defeat it, Cobalion will reappear after entering the
+Hall of Fame
+at level 65. So you may want to consider capturing Cobalion at a later time if you don't plan on adding it to your team right away.
+Types:
+Steel
+Fighting
+Ability:
+Justified
+Held item:
+None
+Cobalion
+Lv.
+45
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Sacred Sword
+Fighting
+Physical
+--
+Go north from the clearing to reach
+Lacunosa Town
+.
+Lacunosa Town
+Lacunosa Town
+The people of
+Lacunosa Town
+believe in an old legend that tells of a monster that attacks at night. Even now, they never leave their homes after dark.
+Items
+Item
+Location
+Games
+Metronome
+In the northeast house
+B2
+W2
+Full Heal
+In the southwest corner of the upper level
+B2
+W2
+Pecha Berry
+From the businessman in the northeast house (night/late night only)
+B2
+W2
+Bluk Berry
+From the businessman in the northeast house (night/late night only)
+B2
+W2
+Lum Berry
+From the businessman in the northeast house (night/late night only)
+B2
+W2
+Leppa Berry
+From the businessman in the northeast house (night/late night only)
+B2
+W2
+The Old Legend
+Enter the town and head south, and
+Professor Juniper
+and
+Bianca
+will call out to you. The professor leads you both to a house on the north side of town. She asks the old woman here to tell the legend of the
+Giant Chasm
+. The old woman claims that the area was formed when a meteorite that contained a Pokémon crashed into the planet. At night, that Pokémon would attack humans and Pokémon alike, and always appeared with a frigid wind that could freeze someone to the bone. Juniper believes that the walls built around the town may have earned it the name Lacunosa, as lacunosus clouds resemble a fence.
+After listening to the old woman's tale,
+Professor Juniper
+tells you about the legendary
+dragon
+,
+Zekrom
+B2
+/
+Reshiram
+W2
+. She thinks there is a link between it and the monster in the legend, as minerals found in
+Dragonspiral Tower
+were also found in the
+Giant Chasm
+.
+The Businessman
+Visit the northeast house at night or late night. Talk to the businessman inside to get a
+Pecha Berry
+,
+Bluk Berry
+,
+Lum Berry
+, or
+Leppa Berry
+once per day.
+Zinzolin
+Head west from the Pokémon Center to meet up with
+Hugh
+again. He's here because he heard rumors of
+Team Plasma
+in the city. Suddenly,
+Zinzolin
+and a Grunt appear, After hearing Team Plasma's plans, your rival snaps and asks for your help in battle. Combine your strength to take out the two criminals.
+If the
+player
+chose
+Snivy
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Lacunosa Town
+Black 2 and White 2
+Reward:
+N/A
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Charcoal
+Emboar
+♂
+Lv.
+43
+Take Down
+Normal
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Heat Crash
+Fire
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Mystic Water
+Simipour
+♂
+Lv.
+41
+Scald
+Water
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+41
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+If the
+player
+chose
+Tepig
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Lacunosa Town
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Mystic Water
+Samurott
+♂
+Lv.
+43
+Aqua Jet
+Water
+Physical
+--
+Encore
+Normal
+Status
+--
+Revenge
+Fighting
+Physical
+--
+Slash
+Normal
+Physical
+--
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Miracle Seed
+Simisage
+♂
+Lv.
+41
+Seed Bomb
+Grass
+Physical
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+41
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+If the
+player
+chose
+Oshawott
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Lacunosa Town
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Miracle Seed
+Serperior
+♂
+Lv.
+43
+Coil
+Poison
+Status
+--
+Leaf Blade
+Grass
+Physical
+--
+Slam
+Normal
+Physical
+--
+Mega Drain
+Grass
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Charcoal
+Simisear
+♂
+Lv.
+41
+Flame Burst
+Fire
+Special
+--
+Leer
+Normal
+Status
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+Scope Lens
+Unfezant
+♂
+Lv.
+41
+Taunt
+Dark
+Status
+--
+Air Slash
+Flying
+Special
+--
+Razor Wind
+Normal
+Special
+--
+Detect
+Fighting
+Status
+--
+Team Plasma
+and
+Team Plasma
+Zinzolin
+Grunt
+Lacunosa Town
+Black 2 and White 2
+Reward:
+$
+9480
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+42
+Ice Beam
+Ice
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Slash
+Normal
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Inner Focus
+Held item:
+None
+Sneasel
+♂
+Lv.
+44
+Snatch
+Dark
+Status
+--
+Slash
+Normal
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Screech
+Normal
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+39
+Air Cutter
+Flying
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Mean Look
+Normal
+Status
+--
+Poison Fang
+Poison
+Physical
+--
+Type:
+Poison
+Unknown
+Ability:
+Weak Armor
+Held item:
+None
+Garbodor
+♂
+Lv.
+39
+Sludge Bomb
+Poison
+Special
+--
+Clear Smog
+Poison
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Toxic
+Poison
+Status
+--
+Defeated, Zinzolin and the Grunt flee the town. Hugh takes off after them. Head west to
+Route 12
+.
+Route 12
+Route 12
+Route 12
+is a short route made of grassy fields and rolling hills. The area connects
+Lacunosa Town
+in the east to
+Village Bridge
+in the west.
+Trainers
+Trainer
+Pokémon
+Battle Girl
+Azra
+Reward:
+$
+1312
+Gurdurr
+♂
+Lv.
+41
+No item
+Mienfoo
+♀
+Lv.
+41
+No item
+Black Belt
+Jeriel
+Reward:
+$
+1344
+Heracross
+♂
+Lv.
+42
+No item
+Backers
+Cleo & Rio
+Reward:
+$
+1920
+Roselia
+♀
+Lv.
+40
+No item
+Roselia
+♀
+Lv.
+40
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Roselia
+B2
+W2
+Grass
+35-37
+25%
+Tranquill
+B2
+W2
+Grass
+36-38
+25%
+Combee
+B2
+W2
+Grass
+35
+20%
+Heracross
+B2
+W2
+Grass
+36-38
+15%
+Pinsir
+B2
+W2
+Grass
+36-38
+15%
+Sewaddle
+B2
+W2
+Grass
+36-38
+15%
+Dark grass
+Roselia
+B2
+W2
+Dark grass
+39-41
+25%
+Tranquill
+B2
+W2
+Dark grass
+40-42
+25%
+Combee
+B2
+W2
+Dark grass
+39
+20%
+Heracross
+B2
+W2
+Dark grass
+40-42
+15%
+Pinsir
+B2
+W2
+Dark grass
+40-42
+15%
+Sewaddle
+B2
+W2
+Dark grass
+40-42
+15%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+35-37
+60%
+Dunsparce
+B2
+W2
+Rustling grass
+36
+10%
+Emolga
+B2
+W2
+Rustling grass
+36
+10%
+Roserade
+B2
+W2
+Rustling grass
+38
+5%
+Vespiquen
+B2
+W2
+Rustling grass
+38
+5%
+Unfezant
+B2
+W2
+Rustling grass
+38
+5%
+Leavanny
+B2
+W2
+Rustling grass
+38
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Timer Ball
+North of the entrance to Lacunosa Town
+B2
+W2
+Ultra Ball
+Northeast part of the dark grass (hidden)
+B2
+W2
+Rare Candy
+East of the tallest hill (hidden)
+B2
+W2
+Green Shard
+Near the Trainer Tips sign
+B2
+W2
+PP Up
+Central part of the dark grass
+B2
+W2
+Yellow Shard
+Central part of the dark grass
+B2
+W2
+Max Repel
+Near the northwest part of the dark grass (hidden)
+B2
+W2
+Max Potion
+Southeast of the gate
+B2
+W2
+Hunt for Bug Pokémon
+The
+Bug-type
+Pokémon
+Pinsir
+,
+Heracross
+,
+Combee
+, and
+Vespiquen
+are seldom seen, and can only be found here and in
+Lostlorn Forest
+. Don't pass up the chance to add to your Pokédex.
+Village Bridge
+Village Bridge
+Village Bridge
+spans a wide river, and is lined with homes on either side. Like its name implies, it is indeed a village built on a bridge. It connects
+Route 12
+with
+Route 11
+to the west.
+Trainers
+Trainer
+Pokémon
+Smasher
+Lizzy
+Reward:
+$
+4400
+Whimsicott
+♀
+Lv.
+44
+No item
+Smasher
+Amy
+Reward:
+$
+4400
+Lilligant
+♀
+Lv.
+44
+No item
+Gentleman
+Stonewall
+Reward:
+$
+8600
+Durant
+♂
+Lv.
+43
+No item
+Lucario
+♂
+Lv.
+43
+No item
+Artist
+Gough
+Reward:
+$
+2016
+Sunflora
+♂
+Lv.
+42
+No item
+Youngster
+Karl
+Reward:
+$
+672
+672
+Sandslash
+♂
+Lv.
+42
+No item
+Baker
+Chris
+Reward:
+$
+1680
+Heatmor
+♀
+Lv.
+42
+Sitrus Berry
+Fisherman
+Dean
+Reward:
+$
+1344
+Basculin
+♂
+Red-Striped Form
+Lv.
+42
+No item
+Hoopster
+Nicolas
+Reward:
+$
+4200
+Triple Battle
+Magby
+♂
+Lv.
+42
+No item
+Magmar
+♂
+Lv.
+42
+No item
+Magby
+♂
+Lv.
+42
+No item
+Hoopster
+Derrick
+Reward:
+$
+4200
+Triple Battle
+Elekid
+♂
+Lv.
+42
+No item
+Electabuzz
+♂
+Lv.
+42
+No item
+Elekid
+♂
+Lv.
+42
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+B2
+W2
+Grass
+36-38
+35%
+Marill
+B2
+W2
+Grass
+36-38
+35%
+Zangoose
+B2
+W2
+Grass
+37-39
+15%
+Seviper
+B2
+W2
+Grass
+37-39
+15%
+Dark grass
+Golduck
+B2
+W2
+Dark grass
+40-42
+35%
+Marill
+B2
+W2
+Dark grass
+40-42
+35%
+Zangoose
+B2
+W2
+Dark grass
+41-43
+15%
+Seviper
+B2
+W2
+Dark grass
+41-43
+15%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+36-39
+75%
+Dunsparce
+B2
+W2
+Rustling grass
+37
+10%
+Emolga
+B2
+W2
+Rustling grass
+37
+10%
+Azumarill
+B2
+W2
+Rustling grass
+39
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Marill
+B2
+W2
+Surfing
+25-40
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+25-40
+60%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Lapras
+B2
+W2
+Rippling water
+30-40
+5%
+Azumarill
+B2
+W2
+Rippling water
+30-40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Carbos
+On the tennis court
+B2
+W2
+Big Mushroom
+Northeast corner (hidden)
+B2
+W2
+Rare Candy
+Northeast corner
+B2
+W2
+Heart Scale
+On the patch of land supporting the bridge's center (requires
+Surf
+)
+B2
+W2
+Big Pearl
+On the islet north of the bridge (requires
+Surf
+)
+B2
+W2
+Blue Shard
+East of the basketball court
+B2
+W2
+Ultra Ball
+Southwest corner
+B2
+W2
+Max Ether
+Southwest corner (hidden)
+B2
+W2
+PP Up
+West of the basketball court, in the trash can (hidden)
+B2
+W2
+Sitrus Berry
+×5
+From the girl on the bridge after solving her problem
+B2
+W2
+Lum Berry
+×3
+From Baker Chris, for showing him a Pokémon with the
+Honey Gather
+Ability (post game)
+B2
+W2
+Rest Stop
+Visit the easternmost house, and talk to the woman inside. She heals your Pokémon back to full health. There is no Pokémon Center nearby, so visit her when your Pokémon need a break.
+Stonewall's Winning Streak
+Head up over the bridge, and a Gentleman suddenly stops you. He is trying to set a record for most consecutive wins, and only needs one more to reach 1,000. Even though you defeat him, he can't wait to begin again.
+The Voice
+Enter the room under the west side of the bridge to find a woman practicing her singing. She chases you out, and when that happens, talk to the girl directly above on the bridge. For clearing up the mystery of the voice she heard, she gives you five
+Sitrus Berries
+as thanks.
+Route 11
+Route 11
+Route 11
+is a short, paved road that passes over a river flowing out from a waterfall. The gate on the west side leads to
+Opelucid City
+, home of the next Gym.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Magnolia
+Reward:
+$
+1312
+*
+Emolga
+♀
+Lv.
+41
+No item
+Altaria
+♀
+Lv.
+41
+No item
+Pokémon Ranger
+Crofton
+Reward:
+$
+2520
+Tympole
+♂
+Lv.
+42
+No item
+Palpitoad
+♂
+Lv.
+42
+No item
+Requires Surf and Waterfall
+Pokémon Ranger
+Thalia
+Reward:
+$
+3120
+Simisage
+♂
+Lv.
+52
+No item
+Simisear
+♂
+Lv.
+52
+No item
+Simipour
+♂
+Lv.
+52
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Shelmet
+B2
+W2
+Grass
+36-39
+25%
+Karrablast
+B2
+W2
+Grass
+36-39
+25%
+Golduck
+B2
+W2
+Grass
+36
+20%
+Gligar
+B2
+W2
+Grass
+37-39
+15%
+Marill
+B2
+W2
+Grass
+36
+10%
+Zangoose
+B2
+W2
+Grass
+38
+10%
+Seviper
+B2
+W2
+Grass
+38
+10%
+Karrablast
+B2
+W2
+Grass
+36
+5%
+Amoonguss
+B2
+W2
+Grass
+37
+5%
+Shelmet
+B2
+W2
+Grass
+36
+5%
+Dark grass
+Shelmet
+B2
+W2
+Dark grass
+40-43
+25%
+Karrablast
+B2
+W2
+Dark grass
+40-43
+25%
+Golduck
+B2
+W2
+Dark grass
+40
+20%
+Gligar
+B2
+W2
+Dark grass
+41-43
+15%
+Marill
+B2
+W2
+Dark grass
+40
+10%
+Zangoose
+B2
+W2
+Dark grass
+42
+10%
+Seviper
+B2
+W2
+Dark grass
+42
+10%
+Karrablast
+B2
+W2
+Dark grass
+40
+5%
+Amoonguss
+B2
+W2
+Dark grass
+41
+5%
+Shelmet
+B2
+W2
+Dark grass
+40
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+36-39
+80%
+Emolga
+B2
+W2
+Rustling grass
+37
+10%
+Azumarill
+B2
+W2
+Rustling grass
+39
+5%
+Gliscor
+B2
+W2
+Rustling grass
+39
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Basculin
+B2
+W2
+Surfing
+25-40
+70%
+Buizel
+B2
+W2
+Surfing
+25-40
+30%
+Rippling water
+Buizel
+B2
+W2
+Rippling water
+25-40
+60%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Basculin
+B2
+W2
+Rippling water
+25-40
+30%
+Floatzel
+B2
+W2
+Rippling water
+30-40
+10%
+Special Pokémon
+Virizion
+B2
+W2
+Only one
+45
+One
+Amoonguss
+B2
+W2
+Fake item
+47
+Two
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Favored Mail
+From the Pokémon Ranger inside the trailer
+B2
+W2
+Full Heal
+Near the west gate, behind the fence (requires
+Surf
+)
+B2
+W2
+Aspear Berry
+×2
+From Pokémon Ranger Crofton after defeating him
+From Pokémon Ranger Thalia after defeating her (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Max Potion
+Northwest corner of the westernmost grass patch (hidden)
+B2
+W2
+Razor Fang
+East of Pokémon Ranger Thalia (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Zinc
+On the cliff where Virizion was standing (requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+HP Up
+On the cliff behind the trailer (hidden; requires
+Surf
+,
+Waterfall
+)
+B2
+W2
+Virizion is waiting
+When you reach the west side of
+Route 11
+, the legendary
+Virizion
+suddenly leaps down from the cliff. It seems that it, like
+Cobalion
+, was also waiting for you. Start off with
+Fire
+-,
+Ice
+-, or
+Flying-type
+attacks to wear it down fast, then follow up with
+Water
+-,
+Rock
+-, or
+Ground-type
+moves to weaken it further. Avoid using
+Dark-type
+attacks, as its
+Justified
+Ability raises its
+Attack
+when it is damaged by those moves. If you happen to defeat it, Virizion will reappear after entering the
+Hall of Fame
+at level 65. So you may want to consider capturing Virizion at a later time if you don't plan on adding it to your team right away.
+Types:
+Grass
+Fighting
+Ability:
+Justified
+Held item:
+None
+Virizion
+Lv.
+45
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Sacred Sword
+Fighting
+Physical
+--
+Continue west to reach
+Opelucid City
+.
+← Part 11
+Lentimas Town, Strange House, Reversal Mountain, Undella Town, Undella Bay
+Black 2 and White 2
+walkthrough
+Opelucid City, Route 9, Opelucid Gym, Marine Tube, Humilau City, Humilau Gym, Route 22
+Part 13 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

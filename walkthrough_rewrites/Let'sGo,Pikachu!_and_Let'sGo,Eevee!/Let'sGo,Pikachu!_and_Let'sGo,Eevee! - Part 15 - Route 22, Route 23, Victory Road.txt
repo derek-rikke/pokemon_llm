@@ -1,0 +1,56 @@
+Game: Let'sGo,Pikachu!_and_Let'sGo,Eevee!
+Part: 15
+Keywords: Route 22, Route 23, Victory Road
+
+### Part 15: Route 22, Route 23, Victory Road
+
+**Route 22**  
+- Connects Viridian City to the Pokémon League Reception Gate.  
+- **Available Pokémon**:  
+  - Rattata (Lv. 3-4)
+  - Spearow (Lv. 3-4)
+  - Nidoran♀ and Nidoran♂ (Lv. 3-4)
+  - Poliwag (Sea Skim, Lv. 3-4)
+  - Magikarp (Sea Skim, Lv. 3-4)
+- **Items**:  
+  - Antidote (hidden, north of eastern grass)
+  - Poké Balls ×5 (southwest corner)
+
+**Rival Battle 7**  
+- **Opponent**: Trace (Lv. 50 Pidgeot, Vileplume, Marowak, Jolteon/Raichu).  
+- **Reward**: $8,160.  
+- **Strategy**: Prepare for varied types (Flying, Grass, Ground, Electric).  
+
+---
+
+**Route 23 (South)**  
+- Connects Pokémon League Reception Gate to Indigo Plateau.  
+- **Available Pokémon**:  
+  - Nidorina/Nidorino (Lv. 41-46)
+  - Fearow, Exeggcute, Chansey (rare)
+  - Poliwag (Sea Skim, Lv. 41-46)
+- **Items**:  
+  - Golden Razz Berry ×8 (various locations)
+  
+**VIPs Only**  
+- Present your Badges to proceed through checkpoints. Must show Earth Badge to enter Victory Road.
+
+---
+
+**Victory Road**  
+- Contains large boulders needing **Strong Push** to navigate.  
+- **Trainers**: Various Ace Trainers, Coach Trainers, and a Juggler with rewards of Ultra Balls and cash.  
+- **Items**: Numerous TMs (e.g., TM56, TM45, TM39) and healing items (Revives, Full Restores).
+
+**Moltres Battle**  
+- **Location**: 2F of Victory Road.  
+- **Level**: 50.  
+- **Strategy**: Use Water, Electric, and Rock-type attacks. Catch with Ultra Balls and Razz Berries.
+
+**Completion**  
+- After battling trainers and catching Moltres, head to the exit to Route 23 (North) and proceed towards the Pokémon League.
+
+---
+
+**Route 23 (North)**  
+- Follow the path to the Pokémon League building. Prepare for the final challenge ahead.

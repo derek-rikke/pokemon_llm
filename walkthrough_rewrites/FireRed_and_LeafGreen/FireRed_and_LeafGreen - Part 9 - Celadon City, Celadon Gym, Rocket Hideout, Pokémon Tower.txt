@@ -1,0 +1,43 @@
+Game: FireRed_and_LeafGreen
+Part: 9
+Keywords: Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+
+### Pokémon FireRed and LeafGreen Walkthrough: Part 9
+
+**Celadon City Overview:**
+- Located between Route 7 and Route 16.
+- Key locations: Celadon Department Store, Celadon Mansion, and Celadon Gym.
+
+**Celadon Mansion:**
+1. **1F:** Talk to the elderly woman for **Tea**.
+2. **3F:** Speak to Game Freak's designer for a reward after completing the Pokédex.
+3. Find **Eevee** in the back entrance of the mansion. 
+
+**Celadon Department Store:**
+- **2F:** Shop for items like Great Balls and Super Potions.
+- **4F:** Purchase evolution stones (Fire, Water, Thunder) and Poké Dolls.
+- **5F:** Buy battle items and vitamins.
+- **Rooftop:** Buy drinks for a girl to receive TMs (Light Screen, Safeguard, Reflect).
+
+**Celadon Gym (Erika):**
+- **Type:** Grass/Poison, vulnerable to Fire, Ice, Flying, Poison, and Bug attacks.
+- **Tips:** Bring healing items for status conditions. Use Cut to access Erika.
+- **Reward:** Rainbow Badge and TM19 (Giga Drain).
+
+**Game Corner and Rocket Hideout:**
+- **Coin Case:** Obtain from a man in the restaurant after hearing his story.
+- **Hidden Switch:** In the Game Corner, defeat a Rocket Grunt to find a secret door.
+- **Rocket Hideout:** Navigate through multiple floors, battling Grunts and collecting items.
+  - **Key Items:** Lift Key (from Grunt), Silph Scope (after defeating Giovanni).
+- **Giovanni Battle:** Use strong Water or Grass moves against his Pokémon.
+
+**Lavender Town:**
+- **Pokémon Tower:** Ghost-types are immune to Normal/Fighting but weak to Dark.
+- **Key Items:** Escape Rope, Elixir, Great Ball found on various floors.
+- **Rival Battle:** Prepare for a tough fight using type advantages against Blue's Pokémon.
+- **Mr. Fuji:** After calming Marowak's spirit, receive the **Poké Flute** to wake sleeping Pokémon.
+
+**Next Steps:**
+- Use the Poké Flute to wake Snorlax and continue your journey towards Saffron City and beyond. 
+
+This condensed guide provides essential instructions and strategies for progressing through Celadon City and Lavender Town in Pokémon FireRed and LeafGreen.

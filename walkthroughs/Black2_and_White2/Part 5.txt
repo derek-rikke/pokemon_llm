@@ -1,0 +1,1262 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_5
+Keywords: Route 4, Desert Resort, Relic Castle, Join Avenue
+
+Walkthrough Text:
+Contents
+1
+Route 4
+B2
+1.1
+Battle the Pokémon Breeder
+1.2
+Challenge Colress
+1.3
+The Speed-Focused Girl
+1.4
+Time for a Trade
+1.5
+The Maid of Mimicry
+1.6
+Rest House
+1.7
+Planned Expansion Area
+2
+Route 4
+W2
+2.1
+Battle the Pokémon Breeder
+2.2
+Challenge Colress
+2.3
+The Maid of Mimicry
+2.4
+The Attack-Focused Guy
+2.5
+Time for a Trade
+2.6
+Rest House
+3
+Desert Resort
+3.1
+The Nurse Heals Your Pokémon
+3.2
+Add a Funfest Mission
+3.3
+Relic Castle
+4
+Join Avenue
+4.1
+Become a Manager
+4.2
+Development
+4.2.1
+Communication
+4.2.2
+Building a Shop
+4.2.3
+Rise in Popularity
+Route 4
+B2
+Route 4
+B2
+Two years ago,
+Route 4
+was still buried under the shifting sands. Thanks to the progress of technology, many buildings have been constructed since then. After exploring the settlement, head northwest to reach the
+Desert Resort
+.
+Bianca catches up to you in Castelia Gate, where she gives you the
+Dowsing MCHN
+. This handy machine detects any hidden items lying nearby.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Irene
+Reward:
+$
+512
+*
+Drilbur
+♀
+Lv.
+16
+No item
+Marill
+♀
+Lv.
+16
+No item
+Fisherman
+Hubert
+Reward:
+$
+544
+Basculin
+♂
+Red-Striped Form
+Lv.
+17
+No item
+Fisherman
+Andrew
+Reward:
+$
+512
+Psyduck
+♂
+Lv.
+16
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+16
+No item
+Policeman
+Braven
+Reward:
+$
+640
+Growlithe
+♂
+Lv.
+16
+No item
+Herdier
+♂
+Lv.
+16
+No item
+Policeman
+Dell
+Reward:
+$
+840
+Riolu
+♂
+Lv.
+21
+No item
+Growlithe
+♂
+Lv.
+21
+No item
+Policeman
+Neagle
+Reward:
+$
+880
+Herdier
+♂
+Lv.
+22
+No item
+Roughneck
+Silvester
+Reward:
+$
+528
+Darumaka
+♂
+Lv.
+22
+No item
+Roughneck
+Joey
+Reward:
+$
+504
+Venipede
+♂
+Lv.
+21
+No item
+Sandile
+♂
+Lv.
+21
+No item
+Youngster
+Sinclair
+Reward:
+$
+352
+Pidove
+♂
+Lv.
+22
+No item
+Biker
+Stanley
+Reward:
+$
+672
+Zubat
+♂
+Lv.
+21
+No item
+Timburr
+♂
+Lv.
+21
+No item
+Hooligans
+Rob & Sal
+Reward:
+$
+1344
+Cottonee
+♂
+Lv.
+21
+No item
+Petilil
+♀
+Lv.
+21
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandile
+B2
+W2
+Deep sand
+14-17
+35%
+Darumaka
+B2
+W2
+Deep sand
+14-17
+35%
+Trubbish
+B2
+W2
+Deep sand
+14-17
+25%
+Scraggy
+B2
+W2
+Deep sand
+17
+5%
+Special Pokémon
+Petilil
+B2
+W2
+Trade
+Cottonee
+20
+One
+Mandibuzz
+B2
+W2
+Only one
+25
+Once per week
+Th
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dowsing MCHN
+From Bianca in the south gate
+B2
+Mystic Water
+Near the water
+B2
+Protein
+From Colress after defeating him
+B2
+Health Wing
+×5 or ×1
+From the female Ace Trainer in the southernmost building on the right
+B2
+Wide Lens
+On the second floor of the house where you get
+Petilil
+B2
+Poké Toy
+From the Maid in the northernmost building on the right
+B2
+Sitrus Berry
+×3
+From the Black Belt in the building on the left
+B2
+Red Shard
+Between the first two stairways southeast of the vending machine (hidden)
+B2
+Hyper Potion
+In the deep sand south of Policeman Neagle (hidden)
+B2
+TM28
+(
+Dig
+)
+In the sand behind the northwest blue-roofed building
+B2
+Stardust
+×2
+In the expansion area to the west, near Roughneck Silvester and Biker Stanley
+East of Youngster Sinclair (hidden)
+B2
+Grip Claw
+In the expansion area, with Youngster Sinclair running laps around it
+B2
+Yellow Shard
+East of Youngster Sinclair (hidden)
+B2
+Green Shard
+West of Hooligans Rob & Sal (hidden)
+B2
+Power Anklet
+Held by traded
+Petilil
+B2
+Battle the Pokémon Breeder
+There is a Pokémon Breeder named Irene just north of the gate. She believes that having many battles is the best way to raise a Pokémon quickly, and is happy to battle whenever you visit the area. If you wish to avoid this battle later on, you can do so by walking in front of her from as far to the west as possible.
+To the west, a
+Mystic Water
+lies near the waterfront.
+Challenge Colress
+Further north,
+Colress
+is waiting to battle. He uses a special device to wake up and disperse the several
+Crustle
+that block the road, and the battle begins.
+Pokémon Trainer
+Colress
+Route 4
+Black 2 and White 2
+Reward:
+$
+2300
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnemite
+Lv.
+21
+Thunder Wave
+Electric
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Spark
+Electric
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Steel
+Unknown
+Ability:
+Unknown
+Held item:
+None
+Klink
+Lv.
+23
+Charge
+Electric
+Status
+--
+Gear Grind
+Steel
+Physical
+--
+ThunderShock
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Afterwards, he thanks you with a
+Protein
+for helping with his research.
+The Speed-Focused Girl
+Enter the southernmost blue-roofed building on the right, and talk to the female Ace Trainer inside. She asks to see a Pokémon with a certain
+Speed
+value. If your Pokémon's Speed matches her number, she rewards you with five
+Health Wings
+; if its Speed is higher, then she gives you only one.
+Time for a Trade
+In the next building to the north, a Lass would like to trade. If you have a
+Cottonee
+, she will trade you her
+Petilil
+. Cottonee can be found in
+Castelia
+'s Empty Lot.
+There is also a
+Wide Lens
+sitting next to the TV on the second floor.
+The Maid of Mimicry
+In the northeast building, a Maid imitates the
+cry
+of one of your party members. If you correctly identify the Pokémon, she rewards you with a
+Poké Toy
+. Only the first correct answer earns the item, but you can visit multiple times to try her challenge.
+Rest House
+Go west along the newly paved road to reach a vending machine and a rest house. The woman inside heals your Pokémon, so be sure to visit if they get injured.
+Planned Expansion Area
+South of the rest house is a large area that has been designated for future expansion, and where many items lie hidden. On the ledge between the first two stairways lies a hidden
+Red Shard
+. A
+Hyper Potion
+hides in the deep sand south of Policeman Neagle.
+TM28
+(
+Dig
+) is sitting in a straight stretch of sand to the northeast, and a
+Stardust
+sits near Roughneck Silvester and Biker Stanley to the west. To the south, Youngster Sinclair is running laps around a
+Grip Claw
+. In the deep sand to the east lie two hidden items, another
+Stardust
+and a
+Yellow Shard
+. A
+Green Shard
+lies hidden to the southwest of the Youngster.
+On Thursdays, a special
+Mandibuzz
+appears in the clearing northeast of Hooligans Rob & Sal. This vulture has its Hidden Ability,
+Weak Armor
+, which lowers
+Defense
+but raises
+Speed
+when hit by a physical attack. It reappears every week, so you will have many chances to catch it.
+Route 4
+W2
+Route 4
+W2
+Two years ago,
+Route 4
+was still buried under the shifting sands. The area has been developed since then, but the discovery of ancient ruins halted any further construction plans. After exploring the ruins, head northwest to reach the
+Desert Resort
+.
+Bianca catches up to you in Castelia Gate, where she gives you the
+Dowsing MCHN
+. This handy machine detects any hidden items lying nearby.
+Trainers
+Trainer
+Pokémon
+Pokémon Breeder
+Irene
+Reward:
+$
+512
+*
+Drilbur
+♀
+Lv.
+16
+No item
+Marill
+♀
+Lv.
+16
+No item
+Fisherman
+Hubert
+Reward:
+$
+544
+Basculin
+♂
+Red-Striped Form
+Lv.
+17
+No item
+Fisherman
+Andrew
+Reward:
+$
+512
+Psyduck
+♂
+Lv.
+16
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+16
+No item
+Backpacker
+Clifford
+Reward:
+$
+384
+Sandile
+♂
+Lv.
+16
+No item
+Herdier
+♂
+Lv.
+16
+No item
+Twins
+Tara & Val
+Reward:
+$
+320
+Cottonee
+♀
+Lv.
+20
+No item
+Petilil
+♀
+Lv.
+20
+No item
+Rich Boy
+Keenan
+Reward:
+$
+3520
+Herdier
+♂
+Lv.
+22
+No item
+Lady
+Lina
+Reward:
+$
+3520
+Liepard
+♀
+Lv.
+22
+No item
+Backpacker
+Rachel
+Reward:
+$
+504
+Woobat
+♀
+Lv.
+21
+No item
+Pidove
+♀
+Lv.
+21
+No item
+Pokéfan
+Sachiko
+Reward:
+$
+1408
+Darumaka
+♀
+Lv.
+22
+No item
+Pokéfan
+Norbert
+Reward:
+$
+1344
+Growlithe
+♂
+Lv.
+21
+No item
+Sandshrew
+♂
+Lv.
+21
+No item
+Backpacker
+Roland
+Reward:
+$
+504
+Riolu
+♂
+Lv.
+21
+No item
+Timburr
+♂
+Lv.
+21
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandile
+B2
+W2
+Deep sand
+14-17
+35%
+Darumaka
+B2
+W2
+Deep sand
+14-17
+35%
+Minccino
+B2
+W2
+Deep sand
+14-17
+25%
+Scraggy
+B2
+W2
+Deep sand
+17
+5%
+Special Pokémon
+Cottonee
+B2
+W2
+Trade
+Petilil
+20
+One
+Braviary
+B2
+W2
+Only one
+25
+Once per week
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dowsing MCHN
+From Bianca in the south gate
+W2
+Mystic Water
+Near the water
+W2
+Protein
+From Colress after defeating him
+W2
+Red Shard
+In the deep sand in front of the westernmost building (hidden)
+W2
+Poké Toy
+From the Maid in the westernmost building
+W2
+Hyper Potion
+Near Rich Boy Keenan (hidden)
+W2
+TM28
+(
+Dig
+)
+In the northwest corner of the ruins, north of Rich Boy Keenan
+W2
+Swift Wing
+×5 or ×1
+From the male Ace Trainer in the building near Lady Lina
+W2
+BrightPowder
+In the building with the Youngster who wants to trade his
+Cottonee
+for your
+Petilil
+W2
+Stardust
+×2
+South of Lady Lina
+In the clearing near Pokéfan Sachiko (hidden)
+W2
+Yellow Shard
+In the clearing near Pokéfan Sachiko (hidden)
+W2
+Light Clay
+In the northeast corner of the ruins, behind the rest house
+W2
+Sitrus Berry
+×3
+From the Black Belt in the southeast building
+W2
+Green Shard
+Near Pokéfan Norbert in the southeast corner of the ruins
+W2
+Power Weight
+Held by traded
+Cottonee
+W2
+Battle the Pokémon Breeder
+A Pokémon Breeder named Irene stands northwest of the gate. She believes that having many battles is the best way to raise a Pokémon quickly, and is happy to battle whenever you visit the area. If you wish to avoid this battle later on, you can take a detour across some sand on the inside of the corner here.
+To the west, a
+Mystic Water
+lies near the waterfront.
+Challenge Colress
+Further north,
+Colress
+is waiting to battle. He uses a special device to wake up and disperse the several
+Crustle
+that block the road, and the battle begins.
+Pokémon Trainer
+Colress
+Route 4
+Black 2 and White 2
+Reward:
+$
+2300
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magnemite
+Lv.
+21
+Thunder Wave
+Electric
+Status
+--
+Magnet Bomb
+Steel
+Physical
+--
+Spark
+Electric
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Steel
+Unknown
+Ability:
+Unknown
+Held item:
+None
+Klink
+Lv.
+23
+Charge
+Electric
+Status
+--
+Gear Grind
+Steel
+Physical
+--
+ThunderShock
+Electric
+Special
+--
+Curse
+Unknown
+Status
+--
+Afterwards, he thanks you with a
+Protein
+for helping with his research.
+The Maid of Mimicry
+In the westernmost building, a Maid imitates the
+cry
+of one of your party members. If you correctly identify the Pokémon, she rewards you with a
+Poké Toy
+. Only the first correct answer earns the item, but you can visit multiple times to try her challenge.
+The Attack-Focused Guy
+Enter the small building near Lady Lina and talk to the male Ace Trainer. He asks to see a Pokémon with a certain
+Attack
+value. If your Pokémon's Attack matches his number, he rewards you with five
+Swift Wings
+; if its Attack is higher, then he gives you only one.
+Time for a Trade
+In the large building on the north side, a Youngster would like to trade. If you have a
+Petilil
+, he will trade you his
+Cottonee
+. Petilil can be found in
+Castelia
+'s Empty Lot.
+On Mondays, a special
+Braviary
+appears to the clearing to the east, near PokéFan Sachiko. This eagle has its Hidden Ability,
+Defiant
+, which raises its
+Attack
+when its opponent's move or Ability lowers its stats. It reappears every week, so you will have many chances to catch it.
+Rest House
+Enter the small building to the east of PokéFan Sachiko. The woman inside heals your Pokémon, so be sure to visit if they get injured.
+Desert Resort
+Desert Resort
+The
+Desert Resort
+is a large desert with an ever-raging sandstorm. Two years ago, there were two entrances to the ruined
+Relic Castle
+in the north, but the tower in the west has been buried since then. There are many items hidden in the sand to put your
+Dowsing MCHN
+to good use.
+Trainers
+Trainer
+Pokémon
+Nurse
+Mariah
+Reward:
+$
+880
+Cleffa
+♀
+Lv.
+22
+No item
+Pokémon Ranger
+Jaden
+Reward:
+$
+1380
+Darumaka
+♂
+Lv.
+23
+No item
+Backpacker
+Sam
+Reward:
+$
+528
+Dwebble
+♂
+Lv.
+22
+No item
+Backpacker
+Tami
+Reward:
+$
+528
+Drilbur
+♀
+Lv.
+22
+No item
+Backpacker
+Walt
+Reward:
+$
+528
+Sandile
+♂
+Lv.
+22
+No item
+Psychic
+Future
+Reward:
+$
+736
+Munna
+♀
+Lv.
+23
+No item
+Psychic
+Tommy
+Reward:
+$
+704
+Woobat
+♂
+Lv.
+22
+No item
+Yamask
+♂
+Lv.
+22
+No item
+Pokémon Ranger
+Anja
+Reward:
+$
+1380
+Magby
+♂
+Lv.
+23
+No item
+Backpacker
+Clara
+Reward:
+$
+528
+Sandshrew
+♀
+Lv.
+22
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Entrance
+Sandshrew
+B2
+W2
+Deep sand
+19-20
+10%
+Sandile
+B2
+W2
+Deep sand
+18-19
+30%
+Darumaka
+B2
+W2
+Deep sand
+18-19
+30%
+Maractus
+B2
+W2
+Deep sand
+19
+10%
+Dwebble
+B2
+W2
+Deep sand
+19-21
+10%
+Scraggy
+B2
+W2
+Deep sand
+19
+10%
+Desert
+Sandshrew
+B2
+W2
+Deep sand
+19-20
+15%
+Trapinch
+B2
+W2
+Deep sand
+21
+5%
+Sandile
+B2
+W2
+Deep sand
+18-19
+30%
+Darumaka
+B2
+W2
+Deep sand
+18
+20%
+Maractus
+B2
+W2
+Deep sand
+19
+10%
+Dwebble
+B2
+W2
+Deep sand
+19-21
+10%
+Sigilyph
+B2
+W2
+Deep sand
+19
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rawst Berry
+×2
+From Pokémon Ranger Anja after defeating her
+From Pokémon Ranger Jaden after defeating him
+B2
+W2
+Stardust
+Southwest of Pokémon Ranger Jaden
+B2
+W2
+Star Piece
+In the deep sand north of Pokémon Ranger Jaden (hidden)
+B2
+W2
+Yellow Shard
+Northeast of Pokémon Ranger Anja
+B2
+W2
+Soft Sand
+From the man in black, north of Pokémon Ranger Anja
+B2
+W2
+Super Repel
+Northeast corner of the desert (hidden)
+B2
+W2
+Heart Scale
+North of the Relic Castle
+B2
+W2
+Ground Gem
+Southwest of the Relic Castle (hidden)
+B2
+W2
+Red Shard
+×2
+West of the Relic Castle, near Backpacker Walt (hidden)
+Near Backpacker Sam on the desert's west side
+B2
+W2
+Blue Shard
+×2
+In deep sand, near Backpacker Clara (hidden)
+In a pit, west of Backpacker Clara
+B2
+W2
+Green Shard
+South-central part of the desert
+B2
+W2
+Fire Stone
+Southwest corner of the desert (hidden)
+B2
+W2
+Max Ether
+Southwest corner of the desert
+B2
+W2
+Nugget
+Northwest corner of the desert
+B2
+W2
+The Nurse Heals Your Pokémon
+Nurse Mariah stands in the southeast part of the desert, not far from the gate. Once you defeat her, talk to her again and she will heal your Pokémon to full health every time. Be sure to visit her when your Pokémon get worn down from the sandstorm.
+Add a Funfest Mission
+In the northwest part of the desert, a Pokémon Ranger will unlock another
+Funfest Mission
+, either
+Get Rich Quick!
+B2
+or
+Treasure Hunt!
+W2
+.
+Inside the Relic Castle
+Relic Castle
+The
+Relic Castle
+is made up of ruins with a glorious history that have since become buried by the sands. Quicksand falls from the ground floor, pulling any unsuspecting tourists to the floor below. Only the top two floors are accessible from the desert.
+Trainers
+Trainer
+Pokémon
+1F
+Psychic
+Perry
+Reward:
+$
+736
+Sigilyph
+♂
+Lv.
+23
+No item
+B1F
+Psychic
+Dua
+Reward:
+$
+736
+Gothita
+♀
+Lv.
+23
+No item
+Psychic
+Low
+Reward:
+$
+736
+Solosis
+♂
+Lv.
+23
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Sandile
+B2
+W2
+1F
+18-21
+40%
+Yamask
+B2
+W2
+1F
+18-21
+40%
+Sandshrew
+B2
+W2
+1F
+19-20
+20%
+B1F
+Sandile
+B2
+W2
+B1F
+18-20
+40%
+Yamask
+B2
+W2
+B1F
+18-21
+40%
+Sandshrew
+B2
+W2
+B1F
+20
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM39
+(
+Rock Tomb
+)
+B1F: Near Psychic Dua
+B2
+W2
+Heart Scale
+B1F: In the sand pile to the left (hidden)
+B2
+W2
+After exploring the ruins, head east from the desert and turn north to reach
+Join Avenue
+.
+Join Avenue
+Join Avenue, on the first visit
+Join Avenue
+is a shopping center that was built north of
+Route 4
+. The place is still new and has not yet acquired any vendors, but will likely be a popular attraction soon. Come back here daily to expand it into a valuable resource for training and evolving your Pokémon later on.
+Become a Manager
+Inside, you meet the Avenue's owner and his assistants. He is too busy with other Avenues to manage this one, and asks that you take his place as manager. After accepting his request, he asks about your favorite phrase, and what you say when you are moved. Each answer can be up to eight characters long, and will be communicated to others through Tag Mode, so choose words that make people happy. The owner thanks you and leaves, but his assistants Jacci and Future stay behind to help out. They can always be found at the office if you need to change your title or favorite phrase.
+Development
+The avenue develops as you communicate with more people. First, you need to invite visitors to be residents of the avenue, so they set up shop here. Recommending these shops to visitors raises not only the shops' popularity, but that of the avenue as well. More popular shops will have a wider selection of products.
+Communication
+There are several ways to attract visitors. Not only passersby using Tag Mode will visit, but people you interact with through the
+C-Gear
+, meet in the
+Union Room
+, or trade with over the
+GTS
+will also appear. Even if you do not communicate with others, a few visitors will pass through the avenue every day, so you can still develop the area.
+Building a Shop
+Speak to a visitor to hear what kind of dream they have. After being invited to be a resident, he or she will build one of eight kinds of shop. Nurseries cannot be built until you enter the
+Hall of Fame
+and the avenue rank is 15 or more.
+If I were to make my dream come true on this avenue...
+Type of Shop opened
+Description
+I would want to collect unique items and surprise everyone!
+Antique Shop
+Old items may be revealed as valuable
+I would want to make people's Pokémon more beautiful.
+Beauty Salon
+Services to boost a Pokémon's level or stats
+I would want to make delicious meals for Pokémon and make them happy.
+Café
+Various foods to raise a Pokémon's friendship, level or stats
+I would want to train people's Pokémon and make them strong.
+Fitness
+A different way to train your Pokémon
+I would want to help everyone relax with beautiful flowers.
+Florist
+A flower shop offering Mulch and Berries
+I would want to collect a lot of things and surprise everyone.
+Mart
+Large selection of items for every need
+I would want to spend my days helping Pokémon Eggs hatch.
+Nursery
+Items that help a Pokémon Egg hatch faster
+I would want to make everyone excited.
+Raffle Shop
+A daily raffle with potentially rare items
+Rise in Popularity
+As you recommend shops to visitors, the popularity of the shops and the avenue rises, and the shops' rank goes up. Recommend shops that visitors will like; if others are recommended, the visitors will leave. As a shop's rank rises, it will have more products available. A shop's rank goes up to 10. As the avenue's rank rises, you will earn various rewards. The avenue's rank goes up to 100.
+← Part 4
+Castelia City, Castelia Sewers, Castelia Gym
+Black 2 and White 2
+walkthrough
+Nimbasa City, Nimbasa Gym, Route 16, Lostlorn Forest, Anville Town
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

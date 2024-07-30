@@ -1,0 +1,1431 @@
+Part: Part 10
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_10
+Keywords: Route 119, Weather Institute, Fortree City, Route 120
+
+Walkthrough Text:
+Contents
+1
+Route 119
+1.1
+The Mimic Circle
+1.2
+Finding Feebas
+1.3
+Weather Institute
+1.3.1
+Rest and Restore Health
+1.3.2
+Looking for Answers
+1.3.3
+VS Shelly
+1.3.4
+The Next Step
+1.4
+Rival Battle 4
+1.4.1
+Player chose Treecko
+1.4.2
+Player chose Torchic
+1.4.3
+Player chose Mudkip
+2
+Fortree City
+2.1
+Secret Base Shop
+2.2
+Running Errands
+2.3
+Reveal Your Hidden Power
+2.4
+Time for a Trade
+Route 119
+Route 119
+Known for its sweltering heat and
+rainfalls
+, the spacious
+Route 119
+runs north from
+Route 118
+to
+Fortree City
+. The extreme weather conditions make this an ideal setting for the
+Weather Institute
+, located on the north end of this tropical rainforest. You'll need the
+Acro Bike
+to pick up all the items here.
+The area is filled with patches of
+long grass
+, which prevent using both bikes and hide Trainers and wild Pokémon. One of these wild Pokémon is
+Tropius
+, which can learn
+Fly
+along with four other
+HM
+moves. It will be very useful if you cannot or do not want to teach those HM moves to the Pokémon that you use in battle.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Kent
+Reward:
+$
+400
+Ninjask
+♂
+Lv.
+25
+No item
+Bug Maniac
+Donald
+Reward:
+$
+1440
+Wurmple
+♂
+Lv.
+24
+No item
+Silcoon
+♂
+Lv.
+24
+No item
+Beautifly
+♂
+Lv.
+24
+No item
+Bug Catcher
+Greg
+Reward:
+$
+400
+Volbeat
+♂
+Lv.
+25
+No item
+Illumise
+♀
+Lv.
+25
+No item
+Bug Maniac
+Taylor
+Reward:
+$
+1620
+Wurmple
+♂
+Lv.
+27
+No item
+Cascoon
+♂
+Lv.
+27
+No item
+Dustox
+♂
+Lv.
+27
+No item
+Bug Catcher
+Doug
+Reward:
+$
+448
+Nincada
+♂
+Lv.
+28
+No item
+Ninjask
+♂
+Lv.
+28
+No item
+Bug Maniac
+Brent
+Reward:
+$
+1560
+Surskit
+♂
+Lv.
+26
+No item
+Fisherman
+Chris
+Reward:
+$
+920
+Requires
+Surf
+Magikarp
+♂
+Lv.
+29
+No item
+Tentacool
+♂
+Lv.
+20
+No item
+Feebas
+♂
+Lv.
+26
+No item
+Carvanha
+♂
+Lv.
+23
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+1248
+Gloom
+♀
+Lv.
+26
+No item
+Roselia
+♀
+Lv.
+26
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+1296
+Breloom
+♂
+Lv.
+27
+No item
+Parasol Lady
+Rachel
+Reward:
+$
+1040
+Potential
+Double Battle
+with Phil
+Goldeen
+♀
+Lv.
+26
+No item
+Bird Keeper
+Phil
+Reward:
+$
+832
+Potential
+Double Battle
+with Rachel
+Swellow
+♂
+Lv.
+26
+No item
+Ninja Boy
+Takashi
+Reward:
+$
+300
+Potential
+Double Battle
+with Dayton
+Ninjask
+♂
+Lv.
+25
+No item
+Koffing
+♂
+Lv.
+25
+No item
+Kindler
+Dayton
+Reward:
+$
+800
+Potential
+Double Battle
+with Takashi
+Slugma
+♂
+Lv.
+25
+No item
+Numel
+♂
+Lv.
+25
+No item
+Bird Keeper
+Hugh
+Reward:
+$
+800
+Wingull
+♂
+Lv.
+25
+No item
+Tropius
+♂
+Lv.
+25
+No item
+After clearing the Weather Institute
+Guitarist
+Fabian
+Reward:
+$
+832
+Potential
+Double Battle
+with Yasu
+Manectric
+♂
+Lv.
+26
+No item
+Ninja Boy
+Yasu
+Reward:
+$
+312
+Potential
+Double Battle
+with Fabian
+Ninjask
+♂
+Lv.
+26
+No item
+Ninja Boy
+Hideo
+Reward:
+$
+300
+Koffing
+♂
+Lv.
+25
+No item
+Koffing
+♂
+Lv.
+25
+No item
+Rematch
+Pokémon Ranger
+Catherine
+*
+Reward:
+$
+1440
+/
+1584
+/
+1728
+Gloom
+♀
+Lv.
+30
+/
+33
+/
+36
+No item
+Roselia
+♀
+Lv.
+30
+/
+33
+/
+36
+No item
+Pokémon Ranger
+Catherine
+*
+Reward:
+$
+1872
+Bellossom
+♀
+Lv.
+39
+No item
+Roselia
+♀
+Lv.
+39
+No item
+Pokémon Ranger
+Jackson
+*
+Reward:
+$
+1488
+/
+1632
+/
+1776
+Breloom
+♂
+Lv.
+31
+/
+34
+/
+37
+No item
+Pokémon Ranger
+Jackson
+*
+Reward:
+$
+1872
+Kecleon
+♂
+Lv.
+39
+No item
+Breloom
+♂
+Lv.
+39
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+R
+S
+E
+Long grass
+24-27
+30%
+Zigzagoon
+R
+S
+E
+Long grass
+25, 27
+30%
+Linoone
+R
+S
+E
+Long grass
+25, 27
+30%
+Tropius
+R
+S
+E
+Long grass
+25-27
+9%
+Kecleon
+R
+S
+E
+Long grass
+25
+1%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-35
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Carvanha
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Special Pokémon
+Feebas
+R
+S
+E
+Fishing
+Old Rod
+20-25
+50%
+Feebas
+R
+S
+E
+Fishing
+Good Rod
+20-25
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Repel
+Southernmost grass patch, in a clearing to the northwest
+E
+Full Heal
+Southernmost grass patch, in a small 1 tile clearing, to right of Super Repel item (hidden)
+E
+Hyper Potion
+×2
+Southernmost grass patch, in a clearing to the northeast
+Near the muddy slope, south of the Weather Institute
+E
+Zinc
+Northwest of Fisherman Eugene on the river's southern end (requires
+Surf
+)
+E
+Sitrus Berry
+×2
+Soft soil patch under the larger wooden bridge
+E
+Leppa Berry
+×2
+Soft soil patch under the larger wooden bridge
+E
+Calcium
+Pathway to a Secret Base entrance, west of the lower waterfall (hidden, requires
+Acro Bike
+)
+E
+Elixir
+East of Ninja Boy Takashi and Kindler Dayton
+E
+After clearing the Weather Institute
+Elixir
+Southeast of the northern bridge
+E
+Ultra Ball
+Patch of long grass east of the river, northeast of the lower waterfall (hidden, requires
+Surf
+)
+E
+Leaf Stone
+Atop the lower waterfall, to the east (requires
+Surf
+)
+E
+Max Ether
+Tiny strip of land at the base of the upper waterfall (hidden, requires
+Surf
+)
+E
+HM02
+(
+Fly
+)
+From May/Brendan outside Fortree City, after being defeated
+E
+Pomeg Berry
+×6
+In the soft soil near
+Fortree City
+E
+The Mimic Circle
+A handful of Trainers in the southernmost patch of long grass like to copy the movements of any Trainer passing by, collectively earning them the "Mimic Circle" nickname. They move when you do, so outmaneuver them to pin them down and start battling. Each one remains in a certain area, which gives you a chance to corner them.
+Finding Feebas
+Feebas
+can only be found by fishing in one of six water tiles along the route. Adding to the difficulty, other Pokémon besides Feebas can also appear in the Feebas tiles as well. There is no known easy method to determine which tiles contain Feebas: the only way is to fish repeatedly in each and every water tile on the route, doing so enough times to be reasonably confident that no Feebas are in that tile (or else risk missing a tile). (If the player reels in one Pokémon in every tile, there is a 1 in 64 (approximately 1.6%) chance that the player will pass over all six Feebas tiles without reeling in a single Feebas.) Any rod can find Feebas, and Feebas can be fished from the same tile many times. The tiles' locations are independent of the
+trend
+in
+Dewford Town
+, although the tiles' location will change every time the trend does.
+Weather Institute
+Located on the north end of the route, the
+Weather Institute
+is a high-tech facility used to study and research the intricacies of weather patterns across
+Hoenn
+. This research seems to have attracted the attention of
+Team Aqua
+, as several Grunts have been stationed outside.
+Trainers
+Trainer
+Pokémon
+1F
+Team Aqua Grunt
+Reward:
+$
+560
+Carvanha
+♀
+Lv.
+28
+No item
+Team Aqua Grunt
+Reward:
+$
+540
+Zubat
+♂
+Lv.
+27
+No item
+Poochyena
+♂
+Lv.
+27
+No item
+2F
+Team Aqua Grunt
+Reward:
+$
+540
+Potential
+Double Battle
+with the below Grunt
+Poochyena
+♂
+Lv.
+27
+No item
+Carvanha
+♂
+Lv.
+27
+No item
+Team Aqua Grunt
+Reward:
+$
+540
+Potential
+Double Battle
+with the above Grunt
+Zubat
+♀
+Lv.
+27
+No item
+Poochyena
+♀
+Lv.
+27
+No item
+Team Aqua Grunt
+Reward:
+$
+520
+Poochyena
+♂
+Lv.
+26
+No item
+Zubat
+♂
+Lv.
+26
+No item
+Carvanha
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Castform
+R
+S
+E
+Gift
+25
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mystic Water
+Held by Castform
+E
+Rest and Restore Health
+Visit the back room to find some Team Aqua Grunts searching the place. Before battling them, head to the northwest room to find a comfy bed and rest your Pokémon before continuing on. There is also a PC here in case you should need to reorganize your team.
+Looking for Answers
+When you reach the second floor, you find the source of the disturbance: Aqua Admin
+Shelly
+is harassing the researchers! She is here looking for information about extreme weather conditions, and to steal one of the Institute's
+Castform
+, a rare species of Pokémon. She can't allow you to meddle in the team's plans, and draws you into battle.
+VS Shelly
+Aqua Admin
+Shelly
+Weather Institute
+Emerald
+Reward:
+$
+1120
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Carvanha
+♀
+Lv.
+28
+Focus Energy
+Normal
+--
+Scary Face
+Normal
+--
+Crunch
+Dark
+--
+Screech
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+28
+Bite
+Dark
+--
+Odor Sleuth
+Normal
+--
+Roar
+Normal
+--
+Swagger
+Normal
+--
+The Next Step
+The Admin simply shrugs off her defeat, claiming that the team has other plans before she and the Grunts leave the building. As thanks for your help, one of the researchers even rewards you with a new Pokémon,
+Castform
+, which changes its type and appearance based on the current weather.
+Rival Battle 4
+Leave the building and cross the upper bridge.
+May
+/
+Brendan
+catches up to you when you reach the nearest stairway. Your friend wants to see how much stronger you've become, and wastes no time challenging you to a battle!
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+Brendan
+Route 119
+Emerald
+Reward:
+$
+1860
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pelipper
+♂
+Lv.
+29
+Wing Attack
+Flying
+--
+Supersonic
+Normal
+--
+Mist
+Ice
+--
+Protect
+Normal
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♂
+Lv.
+29
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Fake Out
+Normal
+--
+Fury Swipes
+Normal
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+31
+Double Kick
+Fighting
+--
+Peck
+Flying
+--
+Sand-Attack
+Ground
+--
+Bulk Up
+Fighting
+--
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Emerald
+Reward:
+$
+1860
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pelipper
+♀
+Lv.
+29
+Wing Attack
+Flying
+--
+Supersonic
+Normal
+--
+Mist
+Ice
+--
+Protect
+Normal
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♀
+Lv.
+29
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Fake Out
+Normal
+--
+Fury Swipes
+Normal
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+31
+Double Kick
+Fighting
+--
+Peck
+Flying
+--
+Sand-Attack
+Ground
+--
+Bulk Up
+Fighting
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+Brendan
+Route 119
+Emerald
+Reward:
+$
+1860
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♂
+Lv.
+29
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Fake Out
+Normal
+--
+Fury Swipes
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+29
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Harden
+Normal
+--
+Amnesia
+Psychic
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+31
+Mud Shot
+Ground
+--
+Foresight
+Normal
+--
+Mud Sport
+Ground
+--
+Take Down
+Normal
+--
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Emerald
+Reward:
+$
+1860
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♀
+Lv.
+29
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Fake Out
+Normal
+--
+Fury Swipes
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♀
+Lv.
+29
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Harden
+Normal
+--
+Amnesia
+Psychic
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+31
+Mud Shot
+Ground
+--
+Foresight
+Normal
+--
+Mud Sport
+Ground
+--
+Take Down
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+Brendan
+Route 119
+Emerald
+Reward:
+$
+1860
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+29
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Harden
+Normal
+--
+Amnesia
+Psychic
+--
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pelipper
+♂
+Lv.
+29
+Wing Attack
+Flying
+--
+Supersonic
+Normal
+--
+Mist
+Ice
+--
+Protect
+Normal
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+31
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+Screech
+Normal
+--
+Leaf Blade
+Grass
+--
+P
+K
+M
+N
+Trainer
+May
+Route 119
+Emerald
+Reward:
+$
+1860
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♀
+Lv.
+29
+Ember
+Fire
+--
+Rock Throw
+Rock
+--
+Harden
+Normal
+--
+Amnesia
+Psychic
+--
+Types:
+Water
+Grass
+Ability:
+Swift Swim
+Held item:
+None
+Lombre
+♀
+Lv.
+29
+Absorb
+Grass
+--
+Nature Power
+Normal
+--
+Fake Out
+Normal
+--
+Fury Swipes
+Normal
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+31
+Fury Cutter
+Bug
+--
+Pursuit
+Dark
+--
+Screech
+Normal
+--
+Leaf Blade
+Grass
+--
+Once you defeat her/him, your friend rewards you with
+HM02
+(
+Fly
+). It's a strong move in battle and even more useful when used in the field, though you'll need to win the Gym Badge from the next city first. She/He then runs off, leaving you to continue on to
+Fortree City
+.
+Just as your neighbor climbs the hill to Fortree,
+Scott
+is headed south away from it. He congratulates you on winning your latest match, and expects great things from you at the
+Fortree Gym
+.
+Fortree City
+Fortree City
+Fortree City
+is located in an old-growth forest with many towering trees. These ancient arbors are so large that the residents were able to build cozy homes among their branches. A shop offering Secret Base decorations can be found in the southeast part of town, and the
+Fortree Gym
+can be found in the heart of the city. Unfortunately, the Gym's entrance is obstructed by something invisible.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Plusle
+R
+S
+E
+Trade
+Volbeat
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM10
+(
+Hidden Power
+)
+From an old woman in the north-northwest house, after clearing her guessing game
+E
+Wood Mail
+Northwest house; held by Pluses, the traded
+Plusle
+E
+Return trip
+TM40
+(
+Aerial Ace
+)
+From Winona upon her defeat
+E
+Secret Base Shop
+Climb the ladder near the Poké Mart and head east across the rope bridge to reach
+a shop
+with a selection of
+Secret Base
+decorations for sale. Desks can be purchased at the counter to the left, while chairs can be purchased at the counter to the right.
+Desk shop
+Small Desk
+$
+3000
+Pokémon Desk
+$
+3000
+Heavy Desk
+$
+6000
+Ragged Desk
+$
+6000
+Comfort Desk
+$
+6000
+Brick Desk
+$
+9000
+Camp Desk
+$
+9000
+Hard Desk
+$
+9000
+Chair shop
+Small Chair
+$
+2000
+Pokémon Chair
+$
+2000
+Heavy Chair
+$
+2000
+Ragged Chair
+$
+2000
+Comfort Chair
+$
+2000
+Brick Chair
+$
+2000
+Camp Chair
+$
+2000
+Hard Chair
+$
+2000
+Running Errands
+Speak to the Pokémon Breeder in the northeast house to see his
+Wingull
+fly off on an errand. Return later to see if it's successful!
+Reveal Your Hidden Power
+The north-northwest house belongs to an old woman. Speak to her to take a quiz. She holds a coin in her hand, and asks in which one you think it's hidden. Guess correctly
+three times in a row
+to receive
+TM10
+(
+Hidden Power
+)! This unique attack is listed as a
+Normal-type
+move, but its type and power vary depending on the Pokémon using it.
+Speak to the woman's elderly husband to learn that he talks in his sleep. He offers to teach the move
+Sleep Talk
+to a Pokémon, one time only.
+Time for a Trade
+The little boy in the northwest house wants a
+Volbeat
+. If you happened to catch one back on
+Route 117
+, he'll give you her
+Plusle
+in return. Plusle arrives holding a
+Wood Mail
+.
+← Part 9
+Abandoned Ship, New Mauville, Route 118, Route 123
+Emerald
+walkthrough
+Route 120, Fortree Gym, Route 121, Route 122, Mt. Pyre
+Part 11 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

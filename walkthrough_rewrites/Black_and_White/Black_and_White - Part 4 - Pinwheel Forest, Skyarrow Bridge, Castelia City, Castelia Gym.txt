@@ -1,0 +1,53 @@
+Game: Black_and_White
+Part: 4
+Keywords: Pinwheel Forest, Skyarrow Bridge, Castelia City, Castelia Gym
+
+# Part 4 Walkthrough: Pinwheel Forest, Skyarrow Bridge, Castelia City, Castelia Gym
+
+## Pinwheel Forest
+- **Exterior**: 
+  - West of Nacrene City. Speak to the girl near the entrance for TM94 (Rock Smash).
+  - Defeat trainers for cash: Nurse Shery ($600), Youngster Zachary ($224), etc. 
+  - Use a Fighting-type to hit the challenge rock daily for a Star Piece.
+
+- **Interior**: 
+  - Contains Grass- and Bug-types. Burgh will block the northern exit while you chase Team Plasma.
+  - Defeat the last Team Plasma Grunt to obtain the Dragon Skull. 
+  - Afterward, receive a Moon Stone from Lenora. 
+
+## Skyarrow Bridge
+- Connects Pinwheel Forest to Castelia City. You can find a Quick Claw from a Hiker at the eastern gate.
+
+## Castelia City
+- **Items**:
+  - Get elemental stones from the scientist at the pier based on your starter.
+  - Items in Battle Company: Quick Balls, Timer Balls, Revive, Scope Lens, Exp. Share from Janitor Geoff on 55F.
+  - Other items include TM70 (Flash) and TM44 (Rest) from various locations.
+
+- **Activities**:
+  - Register Zorua in your Pokédex by listening to the story in Game Freak's building.
+  - Get a massage for your Pokémon's happiness in the building across from Game Freak.
+  - Trade with people for items like Wide Lens and Master Ball at the Poké Center.
+
+- **Royal Unova**: Battle trainers onboard after completing the main story.
+
+- **Dancer Mickey**: Round up dancers Edmond and Raymond for an Amulet Coin.
+
+## Castelia Gym
+- **Leader**: Burgh (Bug-type).
+- **Strategy**:
+  - Use Fire- and Flying-type moves against Whirlipede and Leavanny, and Water- or Rock-type moves against Dwebble.
+  - Alternative: Use TM70 (Flash) to lower opponents' accuracy.
+  
+- **Trainers**: 
+  - Defeat Harlequins for cash rewards.
+  
+- **Victory**: Earn the Insect Badge and TM76 (Struggle Bug).
+
+## Friendly Battle
+- After the Gym, battle Bianca near the fountain. Defeat her to progress.
+
+## Next Steps
+- Head north to reach Route 4. 
+
+This concise walkthrough highlights key locations, items, and strategies crucial for progression in Pokémon Black and White.

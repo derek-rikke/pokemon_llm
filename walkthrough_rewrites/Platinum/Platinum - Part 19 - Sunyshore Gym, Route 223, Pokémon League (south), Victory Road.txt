@@ -1,0 +1,55 @@
+Game: Platinum
+Part: 19
+Keywords: Sunyshore Gym, Route 223, Pokémon League (south), Victory Road
+
+### Part 19: Sunyshore Gym, Route 223, Pokémon League, Victory Road
+
+#### Sunyshore Gym
+- **Before Battling Volkner**: Heal your Pokémon. Volkner's highest level is 50, and he specializes in Electric-types. Use Ground-type Pokémon to exploit their weakness.
+
+- **Gym Puzzle**:
+  1. **First Room**: Hit the green switch (right) once, then the left switch once.
+  2. **Second Room**: Hit the blue switch (left) three times, cross the drawbridge, then hit the blue switch in the corner and the nearby green switch.
+  3. **Third Room**: Hit the red switch (nearby), then the left red switch, followed by the green switch (twice) and the blue switch (once). Return to the first red switch to access Volkner.
+
+- **Trainers**: Face various trainers like School Kid Tiera (Pachirisu, Level 47) and Ace Trainer Destiny (Electabuzz, Level 47).
+
+- **Volkner's Team**:
+  - Jolteon (Lv. 46)
+  - Raichu (Lv. 46)
+  - Luxray (Lv. 48)
+  - Electivire (Lv. 50)
+  
+  **Strategy**: Use Ground-types to counter Electric moves. Be cautious of Raichu's Focus Blast and Electivire's Fire Punch.
+
+- **After Victory**: Receive the Beacon Badge and TM57 (Charge Beam). Speak to Jasmine to obtain HM07 (Waterfall).
+
+#### Now that you can use Waterfall (optional)
+- **Item Locations**:
+  - **Route 208**: Carbos (requires Surf and Waterfall).
+  - **Route 210**: Meadow Plate and Wave Incense (requires Surf and Waterfall).
+  - **Mt. Coronet**: Stone Plate, Lustrous Orb, Adamant Orb (requires Surf and Waterfall).
+
+#### Route 223
+- **Available Pokémon**: Surf to catch Tentacruel, Pelipper, and Mantyke. Use the Good Rod for Remoraid and Octillery.
+- **Trainers**: Including Swimmer Miranda (Lumineon, Level 45) and Swimmer Oscar (Mantine, Level 43).
+
+- **Items**: Heart Scale, TM18 (Rain Dance), Ultra Ball, Dive Ball, and Rare Candy.
+
+#### Pokémon League (south)
+- **Preparation**: Climb the waterfall to reach the Pokémon Center. Get ready for Victory Road.
+
+#### Victory Road
+- **Essential HMs**: Bring Pokémon with Surf, Strength, Rock Smash, Waterfall, and Rock Climb.
+
+- **Trainers**: Battle trainers like Psychic Bryce (Gengar, Level 46) and Ace Trainer Mariah (Blissey, Level 45).
+
+- **Floor Details**:
+  - **1F**: Items include TM41 (Torment) and Max Repel.
+  - **2F**: Items include Max Elixir and TM79 (Dark Pulse).
+  - **B1F**: Items include TM59 (Dragon Pulse) and Heart Scale.
+
+- **Accessing Areas**: Use Rock Climb and navigate through boulders and bike ramps to find items and reach the upper floors. 
+
+#### Conclusion
+Once you’ve navigated through Victory Road and collected necessary items, you will be prepared to challenge the Elite Four at the Pokémon League.

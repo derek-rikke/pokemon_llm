@@ -1,0 +1,891 @@
+Part: Part 21
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_21
+Keywords: Ever Grande City, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Having defeated every Gym Leader and earned all eight Badges, the next destination is
+Ever Grande City
+. The city lies on
+Hoenn
+'s most remote island, on the far eastern edge of the region. To get there, Fly back to
+Route 128
+and Surf eastward through the narrow channel.
+Contents
+1
+Ever Grande City (south)
+2
+Victory Road
+2.1
+1F (Entrance)
+2.2
+1F (Interior)
+2.3
+B1F
+2.4
+1F (Interior)
+2.5
+B1F
+2.6
+1F (Interior)
+2.7
+B1F
+2.8
+1F (Interior)
+2.9
+2F (Front)
+2.10
+2F (Back)
+2.10.1
+VS Wally
+3
+Ever Grande City (north)
+Ever Grande City (south)
+Ever Grande City
+High above the ocean,
+Ever Grande City
+is lush with grass and flowers. The large waterfall makes it impossible to reach the city itself without a Pokémon able to
+scale
+the cascading waters. The island is divided by
+Victory Road
+, which runs through a large mountain at the center of the isle. Visit the Pokémon Center to make your preparations before braving this final challenge on the road to the
+Pokémon League
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Luvdisc
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Luvdisc
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30
+35%
+Corsola
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+South of Victory Road
+Revive
+West of the northern-most stairway (hidden)
+OR
+AS
+TM29
+(
+Psychic
+)
+On the eastern cliff, accessible via Victory Road
+OR
+AS
+North of Victory Road
+Mewtwonite Y
+West of the Pokémon League entrance
+OR
+AS
+Victory Road
+Victory Road, 1F (Entrance)
+Victory Road, 1F (Interior)
+Victory Road, B1F
+Victory Road, 2F (Front)
+Victory Road, 2F (Back)
+Victory Road
+, the long, tough trail through the mountainside, is the final challenge on the road to the
+Pokémon League
+. This grueling trail serves as a way to weed out all but the most determined Trainers. The field moves
+Surf
+and
+Strength
+are required to reach the other side, while
+Flash
+is optional. If you can make it through this daunting tunnel, you just might have what it takes to enter the
+Hall of Fame
+!
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Albert
+Reward:
+$
+2,700
+Sigilyph
+♂
+Lv.
+45
+No item
+Rhyperior
+♂
+Lv.
+45
+No item
+Ace Trainer
+Hope
+Reward:
+$
+2,820
+Froslass
+♀
+Lv.
+47
+No item
+Expert
+Bryn
+Reward:
+$
+3,600
+Hitmontop
+♂
+Lv.
+45
+No item
+Throh
+♂
+Lv.
+45
+No item
+Ace Trainer
+Edgar
+Reward:
+$
+2,820
+Mawile
+♂
+Lv.
+47
+No item
+Street Thug
+Regan
+Reward:
+$
+1,376
+Houndoom
+♂
+Lv.
+43
+No item
+Shiftry
+♂
+Lv.
+43
+No item
+Ace Duo
+Jude & Rory
+Reward:
+$
+2,820
+Armaldo
+♂
+Lv.
+47
+No item
+Cradily
+♂
+Lv.
+47
+No item
+Expert
+Theodore
+Reward:
+$
+3,760
+Sawk
+♂
+Lv.
+47
+No item
+Ace Trainer
+Vito
+Reward:
+$
+2,640
+Electrode
+Lv.
+44
+No item
+Darmanitan
+♂
+Lv.
+44
+No item
+Swalot
+♂
+Lv.
+44
+No item
+Dragon Tamer
+Egon
+Reward:
+$
+2,820
+Kingdra
+♂
+Lv.
+47
+No item
+Brains & Brawn
+Aden & Finn
+Reward:
+$
+3,008
+Musharna
+♂
+Lv.
+47
+No item
+Primeape
+♂
+Lv.
+47
+No item
+Rematch
+Ace Duo
+Jude & Rory
+Reward:
+$
+3,360
+After entering the
+Hall of Fame
+Armaldo
+♂
+Lv.
+56
+No item
+Cradily
+♂
+Lv.
+56
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Entrance, 1F, B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+37, 39
+20%
+Loudred
+OR
+AS
+Cave
+37, 39
+20%
+Lairon
+OR
+AS
+Cave
+37, 39
+20%
+Hariyama
+OR
+AS
+Cave
+38, 40
+15%
+Medicham
+OR
+AS
+Cave
+38, 40
+15%
+Sableye
+OR
+AS
+Cave
+40
+10%
+Mawile
+OR
+AS
+Cave
+40
+10%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+20
+60%
+Aron
+OR
+AS
+Horde Encounter
+20
+35%
+Loudred
+OR
+AS
+Horde Encounter
+20
+5%
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Golbat
+OR
+AS
+Surfing
+30, 40
+35%
+Tentacruel
+OR
+AS
+Surfing
+35
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Luvdisc
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Luvdisc
+OR
+AS
+Fishing
+Super Rod
+35
+60%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 40
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Golbat
+OR
+AS
+Surfing
+25, 30, 35, 40
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Goldeen
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Barboach
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Barboach
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F (Interior)
+Full Heal
+West end of the western-most bridge
+OR
+AS
+Max Repel
+On a lone rock, on the north-central side (hidden)
+OR
+AS
+Elixir
+West end of the northeast bridge (hidden)
+OR
+AS
+B1F
+Ultra Ball
+small rock, left of the ladder
+(hidden)
+OR
+AS
+PP Up
+Northeast corner of the western area, behind two boulders (requires
+Strength
+)
+OR
+AS
+Max Elixir
+West end of the northeast bridge, accessible via 1F
+OR
+AS
+TM35
+(
+Flamethrower
+)
+North of Expert Theodore, behind two boulders (requires
+Strength
+)
+OR
+AS
+Full Restore
+West-central area, northwest of Ace Trainer Vito
+OR
+AS
+2F
+Iron
+West of the southern bridge (hidden)
+OR
+AS
+TM81
+(
+X-Scissor
+)
+On the northwest cliff (requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+Dawn Stone
+From Wally after defeating him
+OR
+AS
+1F (Entrance)
+Surf northward to reach the cavern entrance.
+1F (Interior)
+Climb onto shore and use
+Strength
+to push the boulder northward; this causes it to fall into the nearby hole, allowing you to continue. Go northwest to reach a fork in the road; climb the stairway and cross the bridge to get a
+Full Heal
+, then go back down and continue west to fight Ace Trainer Albert. Head northeast to reach another fork; detour to the east to find a lone rock with a hidden
+Max Repel
+, then climb the two stairways. Turn west to battle Ace Trainer Hope, then take the ladder to the basement.
+B1F
+While not necessary,
+Flash
+is strongly recommended to help traverse the basement floor. There are two boulders nearby; start by pushing the western boulder westward, then move the southern one eastward. Go south, then northeast until you reach another pair of boulders; move the southern one eastward to reach the
+PP Up
+behind them. Head southwest from here and climb the stairway to fight Expert Bryn, then climb the ladder back to 1F.
+1F (Interior)
+Go north and climb the stairway to fight Ace Trainer Edgar. After that, use the Dowsing Machine to find a hidden
+Elixir
+to the north. Head east over the bridge to reach another fork in the road. Climb down the northeast ladder for a short detour.
+B1F
+Head south then west to reach a
+Max Elixir
+. Climb the ladder back to 1F.
+1F (Interior)
+Descend the two stairways to the south to battle Street Thug Regan. Continue south then west to reach another ladder leading to the basement.
+B1F
+Go down the two stairways to the south to fight Ace Duo Jude & Rory. Use
+Surf
+and sail southward to temporarily exit the cave. Collect
+TM29
+(
+Psychic
+) from the eastern cliff and re-enter the cave. Surf to the northwest and climb out of the water. Head north to battle Expert Theodore, then go northeast. There are two boulders here; begin by moving the south boulder eastward. After that, push the north boulder two steps northward, then eastward to reach
+TM35
+(
+Flamethrower
+). Leave the boulders behind and head northwest to find Ace Trainer Vito; defeat him to reach the
+Full Restore
+to the northwest. Go south to reach Dragon Tamer Egon, climb the stairway, and take the ladder up to 1F.
+1F (Interior)
+Climb the stairway and head northeastward across two bridges. Go down the stairway to fight Brains & Brawn Aden & Finn. Continue north and take the ladder up to the second floor.
+2F (Front)
+Cross the bridge to the west, and use the Dowsing Machine to find a hidden
+Iron
+in the corner. Head north over the next bridge, then walk to the water's edge. Use
+Surf
+and
+Waterfall
+to scale the rushing waters and find
+TM81
+(
+X-Scissor
+) atop the cliff. Descend the waterfall and go east across the third bridge, then turn north to reach the final room.
+2F (Back)
+The final chamber is nearly silent, except for the winds blowing through the many red flowers nearby. Go a short distance northward to find
+Wally
+, who notices you as well. After a short conversation, you find that the sickly, weak-willed kid you met back in
+Petalburg City
+is no more. In his place stands a confident Trainer who flashes his Mega Pendant as he challenges you to battle!
+VS Wally
+Wally leads with his
+Altaria
+, a
+Dragon
+/
+Flying
+type that is especially vulnerable to
+Ice
+attacks. It can raise its
+Defense
+by three stages with
+Cotton Guard
+, so use Special moves for greater effectiveness.
+Delcatty
+may be his weakest Pokémon, but it can still cause problems with
+Sing
+,
+Charm
+, and its
+Cute Charm
+Ability. Its stats aren't very threatening, but take it out quickly to avoid these pitfalls. With moves like
+Toxic
+and
+Leech Seed
+, his
+Roselia
+can tip the battle in his favor as time goes on. Knock it out with
+Fire
+,
+Ice
+,
+Flying
+, or
+Psychic
+moves.
+Magneton
+can be a major threat due to its high
+Special Attack
+and
+Sturdy
+Ability, which prevents a one-hit knockout. Strike it with
+Ground
+moves to take it down. Once the others fall, Wally resorts to using his
+Gallade
+. Wally
+Mega Evolves
+it into Mega Gallade on its first turn, which raises its already-high Attack.
+Close Combat
+and
+Psycho Cut
+are strong attacks that receive a
+same-type attack bonus
+, and
+Swords Dance
+can boost its damage output to dangerous levels. Use Flying,
+Ghost
+, and
+Fairy
+moves to knock it out and win the battle.
+Pokémon Trainer
+Wally
+Victory Road
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,920
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+46
+Aerial Ace
+Flying
+Physical
+--
+Safeguard
+Normal
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Cotton Guard
+Grass
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+None
+Delcatty
+♀
+Lv.
+46
+Sing
+Normal
+Status
+--
+Disarming Voice
+Fairy
+Special
+--
+Charm
+Fairy
+Status
+--
+Feint Attack
+Dark
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Poison Point
+Held item:
+None
+Roselia
+♀
+Lv.
+46
+Synthesis
+Grass
+Status
+--
+Leech Seed
+Grass
+Status
+--
+Petal Blizzard
+Grass
+Physical
+--
+Toxic
+Poison
+Status
+--
+Types:
+Electric
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Magneton
+Lv.
+46
+Screech
+Normal
+Status
+--
+Discharge
+Electric
+Special
+--
+Tri Attack
+Normal
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Types:
+Psychic
+Fighting
+Ability:
+Steadfast
+Held item:
+Galladite
+Gallade
+♂
+Lv.
+48
+Psycho Cut
+Psychic
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Slash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Wally thanks you for not holding back during the battle, and gives you a
+Dawn Stone
+in the hopes that you'll use it on a male
+Kirlia
+in order to obtain a
+Gallade
+of your own. He promises to continue his training here in Victory Road for the next time the two of you meet. Continue northward and cross the bridge to reach the exit.
+Ever Grande City (north)
+With
+Victory Road
+behind you, only a long, stone walkway separates you from the Pokémon League, where the Elite Four and Champion await your challenge. Follow the walkway to the large building at its end, and be sure to check the sparkling spot to the west to find a
+Mewtwonite Y
+before heading inside.
+← Part 20
+Sea Mauville, Scorched Slab, Mirage spots
+Omega Ruby and Alpha Sapphire
+walkthrough
+Pokémon League
+Part 22 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,42 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 7
+Keywords: Route 111 (South), Route 112 (South), Fiery Path, Route 112 (North), Route 111 (North), Route 113
+
+**Walkthrough: Part 7 - Route 111 to Route 113**
+
+**Route 111 (South)**
+- **Winstrate House:** Battle the Winstrate family for a Macho Brace reward. They challenge you to four consecutive battles.
+- **Trainers:**
+  - Gabby & Ty (Magnemite, Whismur) - Reward: $1,600
+  - Picnicker Irene (Plusle, Illumise) - Reward: $288
+  - Camper Travis (Sandshrew) - Reward: $304
+  - Backpacker Emory (Taillow) - Reward: $504
+
+**Route 112 (South)**
+- **A Friendly Face:** Meet May/Brendan who heals your Pokémon and gives you HM04 (Strength).
+- **Access Denied:** Team Magma/Aqua grunts block the cable car to Mt. Chimney.
+- **Fiery Path:** Contains fire-type Pokémon. Navigate through to the north side of Route 112.
+
+**Route 112 (North)**
+- **Harvest on the Hill:** Battle Trainer Jaylin (Mightyena) - Reward: $672 and collect Berries from trees.
+
+**Route 111 (North)**
+- **Rest Stop:** Heal your Pokémon and prepare for the next route.
+- **Meet Aarune:** He gives you TM43 (Secret Power) for establishing a Super-Secret Base.
+
+**Route 113**
+- **To Fallarbor:** Encounter May/Brendan again. They are headed to meet Professor Cozmo regarding meteorite studies.
+- **Glass Workshop:** Receive a Soot Sack from the owner to collect ash. Ash can be traded for items like flutes and decorations for your Secret Base.
+
+**Key Items:**
+- **Macho Brace:** From Winstrate family.
+- **HM04 (Strength):** Given by May/Brendan.
+- **TM43 (Secret Power):** From Aarune.
+- **Soot Sack:** Collect ash for crafting items.
+
+**Notable Pokémon:**
+- Route 111: Geodude (Rock Smash), Magikarp (Old Rod).
+- Route 112: Numel, Machop.
+- Route 113: Spinda, Sandshrew, Skarmory.
+
+This concludes the walkthrough for this section. Prepare for your next adventure to Fallarbor Town!

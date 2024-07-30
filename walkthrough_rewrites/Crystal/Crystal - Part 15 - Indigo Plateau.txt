@@ -1,0 +1,36 @@
+Game: Crystal
+Part: 15
+Keywords: Indigo Plateau
+
+### Indigo Plateau Walkthrough
+
+#### Overview
+Indigo Plateau is the final challenge for Trainers who have defeated all eight Gym Leaders in Johto and Kanto. Prepare with healing items at the Pokémon Center and Poké Mart (notable items include Ultra Balls, Max Potions, and Revives).
+
+#### Elite Four Battles
+- **Battle 1: Will (Psychic)**
+  - **Weaknesses:** Bug, Dark, Ghost
+  - **Strategy:** Use Dark and Bug-type moves against Xatu and Slowbro. Fire and Bug attacks are effective against Exeggutor and Jynx.
+  
+- **Battle 2: Koga (Poison)**
+  - **Weaknesses:** Ground, Psychic
+  - **Strategy:** Psychic-type moves work best against most of Koga's Pokémon. Be cautious of Forretress's Explosion and bring antidotes for Toxic.
+
+- **Battle 3: Bruno (Fighting)**
+  - **Weaknesses:** Psychic, Flying
+  - **Strategy:** Use Psychic moves against Hitmontop, Hitmonlee, and Hitmonchan. Water and Grass moves are effective against Onix.
+
+- **Battle 4: Karen (Dark)**
+  - **Weaknesses:** Bug, Fighting
+  - **Strategy:** Use Bug and Fighting moves against Umbreon, Vileplume, and Murkrow. Ice moves work well against Vileplume and Murkrow.
+
+#### Champion Battle: Lance
+- **Types:** Water, Dragon, Flying
+- **Weaknesses:** Electric (against Gyarados), Rock (against Charizard, Aerodactyl), Ice (against Dragonite)
+- **Strategy:** Start with Electric moves against Gyarados. Use Ice-type attacks against Dragonite. Be prepared for Hyper Beam from all Pokémon, and stock up on healing items.
+
+#### Hall of Fame
+After defeating Lance, you will enter the Hall of Fame where your accomplishments will be recorded. The game will save, showcasing your Pokémon as the latest inductees.
+
+### Summary
+Stock up on healing items, prepare type-effective Pokémon, and strategize for each member of the Elite Four and the Champion to secure your place in the Hall of Fame.

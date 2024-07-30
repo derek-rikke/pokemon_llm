@@ -1,0 +1,1451 @@
+Part: Part 22
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_22
+Keywords: Victory Road, Pokémon League (Main Building), Final Rival battle
+
+Walkthrough Text:
+Contents
+1
+Before proceeding......
+2
+Sinnoh Victory Road
+2.1
+1F (Part 1)
+2.2
+2F (Part 1)
+2.3
+Back to 1F
+2.4
+2F (Part 2)
+2.5
+1F (Part 2)
+2.6
+B1F (Part 1)
+2.7
+1F (Part 3)
+2.8
+B1F (Part 2)
+2.9
+1F (Part 4)
+2.10
+2F (Part 3)
+2.11
+1F (Part 5)
+3
+Pokémon League (Main Building)
+4
+Final Rival Battle
+Before proceeding......
+Make sure that you are fully prepared!
+Be warned— A tough and long journey is up ahead.
+The Sinnoh
+Victory Road
+is very complicated. A lot of Trainers are there to challenge you. It is a very harsh test, but is a necessary training for the challenges of the Pokémon League.
+Make sure that you have done the following things before going on:
+Buy a lot of medicines.
+Buy at least 30 of each necessary medicine
+, excluding different versions of Potions.
+Buying 35 to 40 of each is recommended.
+To save money, don't buy
+Super Potions
+, and don't buy too many bottles of
+Potion
+.
+You may still need to buy many bottles of
+Hyper Potion
+and
+Full Restore
+, though.
+Buy
+Drinks
+(i.e. Fresh Water, Soda Pop, Lemonade, Moomoo Milk) instead of the Potions. You should know where to buy them, but in case you forgot:
+Fresh Water, Soda Pop, Lemonade:
+Vending Machines
+on
+Veilstone Department Store
+'s fifth floor
+Moomoo Milk: Cafe Cabin,
+Route 210
+Buy a few bottles of Repel in any of the 3 versions to get some items more easily.
+If you are buying
+Repels
+, buy at most 10 bottles.
+If you are buying
+Super Repels
+, buy no more than 8 bottles.
+If you are buying
+Max Repels
+, buy no more than 6 bottles.
+Heal your Pokémon.
+Always let your leading Pokémon hold
+Amulet Coin
+or
+Luck Incense
+to gain double prize after Trainer battles, especially if you're running out of money.
+Bring Pokémon with the following
+HM
+moves:
+Surf
+Strength
+Rock Smash
+Waterfall
+Rock Climb
+Train your Pokémon until they are above Level 50.
+Having your Pokémon at about Level 55 is recommended.
+If your Pokémon are at or below Level 45, DO NOT even dare to proceed!
+Sinnoh Victory Road
+This is the final journey that you must take before challenging the
+Pokémon League
+. There are 3 levels that you can now access. Go inside when you are ready.
+1F (Part 1)
+1F
+First, cross the bridge, climb down the wall, head west to fight
+Psychic
+Bryce and collect
+TM41
+(
+Torment
+). Next, head east from Bryce and get the hidden
+Ultra Ball
+in one of the rocks at the southeast part. Then, head back to where you climbed down. Climb up and head east.
+Cross the bridge and go down the stairs. Fight
+Bird Keeper
+Hana and head north to grab the
+Full Heal
+. After that, head back to the stairs and cross the bridge to the north. Then climb down the wall and head west.
+Follow the path (be careful that you don’t jump down the ledge) and go up the stairs. Fight
+Ace Trainer
+Mariah and head north. Don’t go up the stairs yet -- collect the hidden
+Max Elixir
+in a rock at the north first. Then head back to the stairs and go up to 2F.
+Items (1F Part 1)
+Item
+Location
+Games
+TM41
+(
+Torment
+)
+North of
+Psychic
+Bryce
+D
+P
+Pt
+Ultra Ball
+On a rock south-east of Bird Keeper Hana
+(hidden)
+D
+P
+Full Heal
+North of
+Bird Keeper
+Hana
+D
+P
+}}
+Max Elixir
+On a rock north of
+Ace Trainer
+Mariah
+(hidden)
+D
+P
+Available Pokémon (1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Graveler
+D
+P
+Pt
+Cave
+45
+20%
+Onix
+D
+P
+Pt
+Cave
+44
+10%
+Steelix
+D
+P
+Pt
+Cave
+46
+10%
+Golbat
+D
+P
+Pt
+Cave
+44-46
+20%
+Medicham
+D
+P
+Pt
+Cave
+44-46
+15%
+Machoke
+D
+P
+Pt
+Cave
+44-46
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (1F Part 1)
+Trainer
+Pokémon
+Psychic
+Bryce
+Reward:
+$
+1472
+Haunter
+♂
+Lv.
+43
+No item
+Alakazam
+♂
+Lv.
+46
+No item
+Gengar
+♂
+Lv.
+46
+No item
+Bird Keeper
+Hana
+Reward:
+$
+1536
+Noctowl
+♀
+Lv.
+46
+No item
+Staraptor
+♀
+Lv.
+48
+No item
+Ace Trainer
+Mariah
+Reward:
+$
+2880
+Golduck
+♀
+Lv.
+46
+No item
+Blissey
+♀
+Lv.
+48
+No item
+2F (Part 1)
+2F
+First, head west, smash the rock and push the boulder to the west. Next, push the boulder near the ramp to the east. Then, use a
+Repel
+,
+Super Repel
+or
+Max Repel
+, get on your
+bicycle
+, set it to the fourth gear and ride on the ramp to fly over the rock. After that, smash the rock near another ramp, switch to the third gear, ride on the ramp and head north, then west for a
+Max Ether
+. Jump down the ledge, switch back to the fourth gear, go all the way east and fly over the rock, then head south and smash the rock to proceed. You will then see 3 boulders in this pattern:
+11001
+10XY1
+100Z1
+10011
+Legend:
+0 = empty tiles
+1 = wall
+2 = unbreakable rocks
+alphabets (A, B, C, etc.) = boulders / breakable rocks
+Push boulders in the following order:
+Boulder Y to the south
+Boulder X to the west
+Boulder Z all the way to the south
+Follow the path, fight Ace Trainer Omar, and you’ll see rocks arranged in the following pattern:
+11000000
+100ABCDE
+10200000
+100G1110
+10001110
+Solve the puzzle in the following order:
+Push boulder A to the south
+Go around the rock F
+Smash rock G
+Push boulder A back to its original place
+Ignore boulder B. Follow the path, smash the rock, head east and fight Ace Trainer Sydney. Then follow the path and you’ll see another 3 boulders:
+02011
+00H00
+0I0J1
+1R111
+Solve the puzzle in the following order:
+Push boulder I to the east
+Grab the hidden
+Rare Candy
+(marked as R in the picture)
+Push boulder H all the way to the east
+You cannot proceed deeper in this level yet due to the rock, so head north and fight
+Veteran
+Clayton, then head down the stairs.
+Items (2F Part 1)
+Item
+Location
+Games
+Full Restore
+Behind the bike ramp west of the first stairs from 1F
+(hidden)
+D
+P
+Max Ether
+North-west corner of 2F, end of first set of ramps
+D
+P
+Rare Candy
+East of
+Ace Trainer
+Sydney, among movable boulders
+(hidden)
+D
+P
+Available Pokémon (2F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Onix
+D
+P
+Pt
+Cave
+45
+10%
+Steelix
+D
+P
+Pt
+Cave
+47
+10%
+Graveler
+D
+P
+Pt
+Cave
+46
+20%
+Golbat
+D
+P
+Pt
+Cave
+45-47
+20%
+Kadabra
+D
+P
+Pt
+Cave
+45-47
+25%
+Medicham
+D
+P
+Pt
+Cave
+45-47
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (2F Part 1)
+Trainer
+Pokémon
+Ace Trainer
+Omar
+Reward:
+$
+2880
+Rapidash
+♂
+Lv.
+45
+No item
+Carnivine
+♂
+Lv.
+45
+No item
+Rampardos
+♂
+Lv.
+48
+No item
+Ace Trainer
+Sydney
+Reward:
+$
+2880
+Clefable
+♀
+Lv.
+46
+No item
+Torterra
+♂
+Lv.
+48
+No item
+Veteran
+Clayton
+Reward:
+$
+3760
+Staraptor
+♂
+Lv.
+47
+No item
+Hippowdon
+♂
+Lv.
+47
+No item
+Back to 1F
+Immediately backtrack to 2F.
+2F (Part 2)
+Now you’re back to 2F, the boulders have been reset. Push boulder H to the south, then head east. Follow the path and you’ll see rocks arranged in the following pattern:
+020K001
+02L0101
+00M1101
+1101101
+10N0000
+1001100
+Solve the puzzle in the following order:
+Push boulder N all the way to the east
+Head north and follow the path
+Push boulder K to the west
+Smash rock L
+Push boulder M to the south
+Afterwards, head west, turn north and follow the path. You’ll see some ramps. Use another bottle of Repel, Super Repel or Max Repel (by now the previous one should have worn off). Get on your bicycle again and start from the far east. Make sure that it is at the fourth gear, then go all the way west, riding through the ramps and flying over the rock. You can get the Full Restore.
+Head deeper and fight
+Double Team
+Al and Kay. Then ride through the ramps again (use a bottle of Repel/Super Repel/Max Repel again if the previous one wears off), but this one is tricky – you have to stop at the right time. If you succeed, you can get
+TM71
+(
+Stone Edge
+). If you failed, try again and you’ll ultimately do it.
+Items (2F Part 2)
+Item
+Location
+Games
+Full Restore
+At end of second set of bike ramps
+D
+P
+TM71
+(
+Stone Edge
+)
+At end of third set of bike ramps
+D
+P
+Trainers (2F Part 2)
+Trainer
+Pokémon
+Double Team
+Al & Kay
+Reward:
+$
+11280
+Staraptor
+♂
+Lv.
+47
+No item
+Whiscash
+♂
+Lv.
+47
+No item
+Now get back to the stairs leading back to 1F (the one near Veteran Clayton) and go down the stairs.
+1F (Part 2)
+You’re now at 1F again. Cross the bridge, climb down the wall, follow the path (be careful that you don’t jump down the ledge! Otherwise, you’ll need to go all the way through 2F again), fight
+Black Belt
+Miles, then go down the stairs.
+Trainers (1F Part 2)
+Trainer
+Pokémon
+Black Belt
+Miles
+Reward:
+$
+1176
+Machamp
+♂
+Lv.
+49
+No item
+B1F (Part 1)
+B1F
+Head east, go down the stairs, and surf north. The left path is a one-way road, so take the right one and fight Psychic Valencia. Then surf again. The path directly north will be a shortcut, but you’ll miss out some items and Trainers.
+Surf east and stop surfing behind Valencia. Then surf across the pond to the south. Grab the hidden
+Pearl
+and go up the stairs. Fight Double Team Jo and Pat, then surf across another pond to the west. Go up the stairs.
+Item (B1F Part 1)
+Item
+Location
+Games
+Pearl
+On rock north-west of Double Team Jo & Pat
+(hidden)
+D
+P
+Available Pokémon (B1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+44-46
+20%
+Machoke
+D
+P
+Pt
+Cave
+44-46
+25%
+Steelix
+D
+P
+Pt
+Cave
+46
+10%
+Floatzel
+D
+P
+Pt
+Cave
+42-45
+30%
+Medicham
+D
+P
+Pt
+Cave
+44-46
+15%
+Surfing and Fishing
+Golbat
+D
+P
+Pt
+Surfing
+35-50
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (B1F Part 1)
+Trainer
+Pokémon
+Psychic
+Valencia
+Reward:
+$
+1536
+Chingling
+♀
+Lv.
+44
+No item
+Chimecho
+♀
+Lv.
+48
+No item
+Double Team
+Jo & Pat
+Reward:
+$
+11280
+Gyarados
+♂
+Lv.
+47
+No item
+Medicham
+♂
+Lv.
+47
+No item
+1F (Part 3)
+Grab the Rare Candy and a hidden
+Max Revive
+, then return to B1F.
+Items (1F Part 3)
+Item
+Location
+Games
+Rare Candy
+In an isolated area only reachable via the stairs in the south-west corner of B1F
+D
+P
+Max Revive
+On a boulder south-west of Rare Candy
+(hidden)
+D
+P
+B1F (Part 2)
+Head back to where you fought Double Team Jo and Pat. Go down the stairs, surf across the pond and take the easternmost path. Fight Ace Trainer Henry, then surf and climb the waterfall.
+Follow the path and climb down another waterfall to collect
+TM59
+(
+Dragon Pulse
+). Climb up the waterfall again and head west. Fight
+Dragon Tamer
+Ondrej, then surf west and follow the path.
+Grab the hidden
+Big Mushroom
+. Finally, climb up the stairs. (There is nothing south of the small pond.)
+Items (B1F Part 2)
+Item
+Location
+Games
+TM59
+(
+Dragon Pulse
+)
+North-west of Psychic Valencia, accessible by the waterfall
+D
+P
+Big Mushroom
+South-west of Dragon Tamer Ondrej on a boulder east of the next stairs leading up
+(hidden)
+D
+P
+Trainers (B1F Part 2)
+Trainer
+Pokémon
+Ace Trainer
+Henry
+Reward:
+$
+2940
+Honchkrow
+♂
+Lv.
+49
+No item
+Dragon Tamer
+Ondrej
+Reward:
+$
+1568
+Gabite
+♂
+Lv.
+49
+No item
+1F (Part 4)
+Head all the way west and turn south to grab a
+Razor Claw
+. Then backtrack, and you’ll find a set of stairs near Veteran Edgar. Go up the stairs and follow the path, crossing another bridge. You’ll find someone blocking a cave to a deeper area, saying that you’ll become even tougher, and eventually the world will grow bigger to you. The cave will only open up when you get the National Pokédex, so ignore it for now and grab the
+Zinc
+to the south.
+After that, go back and fight Veteran Edgar, then head south through the gap. You’ll see a T-junction. Don’t go east yet -- go west first. Climb up the wall, cross the bridge to the west, and go up the stairs.
+Items (1F Part 4)
+Item
+Location
+Games
+Zinc
+South of the entrance to the blocked area
+D
+P
+Razor Claw
+South-west of
+Veteran
+Edgar
+D
+P
+Trainer (1F Part 4)
+Trainer
+Pokémon
+Veteran
+Edgar
+Reward:
+$
+3840
+Tentacruel
+♂
+Lv.
+45
+No item
+Golem
+♂
+Lv.
+45
+No item
+Empoleon
+♂
+Lv.
+48
+No item
+2F (Part 3)
+You’ll see 3 boulders (yup, a puzzle with 3 boulders again) arranged in the following pattern:
+20L0
+T0M0
+20N0
+Don’t move boulder M yet, or you’ll mess up the puzzle. First, move both boulder L and N to the west. Now you can really move boulder M. Next, move boulder M to either the north or the south. Then, grab
+TM79
+(
+Dark Pulse
+) (marked as T in the picture). After that, go down the stairs and return to 1F.
+Item (2F Part 3)
+Item
+Location
+Games
+TM79
+(
+Dark Pulse
+)
+In an isolated room only reachable via the stairs in the north-west corner of 1F
+D
+P
+Pt
+1F (Part 5)
+You are almost done with Victory Road!
+Get back to the T-junction, but head east this time. (Be careful that you don’t jump off the ledge, or you’ll need to go all the way through B1F!) Climb up the wall and fight the last Trainer -- Dragon Tamer Clinton!
+Trainer (1F Part 5)
+Trainer
+Pokémon
+Dragon Tamer
+Clinton
+Reward:
+$
+1472
+Gible
+♂
+Lv.
+46
+No item
+Gyarados
+♂
+Lv.
+49
+No item
+Gible
+♂
+Lv.
+46
+No item
+Now cross the bridge and head north. You are finally at the exit! Head outside.
+Pokémon League (Main Building)
+That's it! You have done with Victory Road and you're now at the main part of the
+Sinnoh Pokémon League
+. The main building of the Pokémon League is above the biggest waterfall in the region. Check the statue, and it displays:
+Pokémon League
+The Pinnacle of Trainerdom!
+Grab the hidden
+Sky Plate
+, then surf and climb up the waterfall, and finally head inside the building.
+Item
+Item
+Location
+Games
+Sky Plate
+South of western Poké Ball statue at exit from Victory Road
+(hidden)
+D
+P
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing and Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+35-45
+65%
+Pelipper
+D
+P
+Pt
+Surfing
+35-55
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+The ground floor of the building is a mixture of a Pokémon Center and a Poké Mart (although the theme is the one in Pokémon Centers).
+DO NOT go all the way forward!
+A tough battle awaits you. Instead,
+heal your Pokémon FIRST
+! Your Pokémon should be exhausted after the Victory Road journey. The Pokémon Center is on the left. Then buy items if you are running out of them. The Mart is on the right.
+MAKE SURE that you HEAL your Pokémon and have your Pokémon AT LEVEL 50 at the very least BEFORE PROCEEDING to the Ace Trainer!
+It is recommended that you train your Pokémon until they are around Level 55 before proceeding.
+When you are ready, step forward to the Ace Trainer, and someone will burst in, saying:
+"Hold it!
+Don’t go off without me!"
+Final Rival Battle
+That "someone" is none other than Rival
+Barry
+. He says,
+"Let’s see who’s more worthy of making the challenge with a battle!"
+then challenges you to the final rival battle in the main storyline! (Well, he rarely falls behind you, and he did, coming here after your arrival.)
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+5300
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+50
+Rock Slide
+Rock
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+51
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+49
+Poison Jab
+Poison
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+49
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+53
+Flamethrower
+Fire
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+5300
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+50
+Rock Slide
+Rock
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+51
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+49
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+49
+Poison Jab
+Poison
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+53
+Brine
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Pokémon League
+Diamond and Pearl
+Reward:
+$
+5300
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+50
+Rock Slide
+Rock
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+51
+Rest
+Psychic
+Status
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+49
+Aqua Jet
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+49
+Will-O-Wisp
+Fire
+Status
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Fire Blast
+Fire
+Special
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+53
+Leaf Storm
+Grass
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Synthesis
+Grass
+Status
+--
+Barry’s team is now very strong -- far stronger than the team he has when you're in the
+Multi Battle
+on
+Spear Pillar
+,
+Mt. Coronet
+. His strongest Pokémon is again his own first partner Pokémon at its final form,
+at Level 53
+. All of his Pokémon have evolved into their final forms. They also possess moves that deals a lot of damage. However, you cannot lose this fight -- if you lose, you’re not worthy to challenge the
+Elite Four
+!
+No matter which first partner you chose, his team will always have the following 3 Pokémon:
+Staraptor
+(which he always starts with),
+Heracross
+and
+Snorlax
+(Evolved from his
+Munchlax
+. It seems that Barry treated it well).
+He’ll have 3 of the following 6 Pokémon, depending on your first partner Pokémon:
+2 of these 3:
+Rapidash
+,
+Roserade
+,
+Floatzel
+1 of the final forms of the 3 first partners (
+Torterra
+,
+Infernape
+and
+Empoleon
+, at
+Level 53
+)
+His Pokémon can hit really hard. Their moves can also cover a variety of types, so watch out! He’ll also use type-advantage to attack and send out Pokémon depending on the situation (i.e. what Pokémon you’re using), so try to use your own type-advantage to hit back.
+After beating him, he’ll say that he’s not ready, order you not to lose, and bolts off.
+Heal your Pokémon, but don't proceed further yet! You will have to do the most serious preparation ever!
+← Part 21
+Sunyshore Gym, Route 223, Pokémon League -- Victory Road Entrance
+Diamond and Pearl
+walkthrough
+Final Preparation, VS Elite Four, VS Champion, Hall Of Fame
+Part 23 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,44 @@
+Game: HeartGold_and_SoulSilver
+Part: 29
+Keywords: Mt. Silver
+
+### Walkthrough: Mt. Silver - Pokémon HeartGold and SoulSilver
+
+**General Info**
+- Mt. Silver is a challenging area located between Johto and Kanto. Only players with Professor Oak's permission can enter. Bring Max Repels, Ultra Balls, and Dusk Balls.
+
+**Key Pokémon Encounters:**
+1. **1F**:
+   - **Pokémon**: Onix, Donphan, Ursaring, Graveler, Phanpy, Teddiursa, Golbat, Larvitar (Levels 15-50).
+   - **Legendary**: **Moltres** (Level 50, Fire/Flying) can be found in its chamber.
+
+2. **2F**:
+   - **Pokémon**: Quagsire, Sneasel, Donphan, Ursaring (Levels 45-50).
+   - **Special Pokémon**: Makuhita, Absol, Chingling (Hoenn/Sinnoh Sounds).
+
+3. **3F**:
+   - **Pokémon**: Golduck, Quagsire, Sneasel, Donphan, Ursaring (Levels 45-50).
+
+**Important Items:**
+- **1F**: Expert Belt, Ultra Balls, Hyper Potion, Full Restore, Revive.
+- **Lower Mountainside**: Escape Rope, TM76 (Stealth Rock).
+- **2F**: Max Elixir, Max Revive, Max Potion, Calcium, Protein, Iron.
+- **Upper Mountainside**: Max Ether, Pure Incense, Rare Candy, Hyper Potion, Dawn Stone.
+- **3F**: Max Revive.
+
+**Moltres Battle Strategy**:
+- Start with Water or Electric moves to weaken it. Use Grass, Fire, Bug, Fighting, or Steel moves to capture.
+
+**Final Challenge: Red**  
+Upon reaching the summit, face **Red** (Level 88 Pikachu, Level 80 Lapras, Level 82 Snorlax, Level 84 Venusaur, Level 84 Charizard, Level 84 Blastoise).  
+**Strategies**:
+- Use Ground-type moves against Pikachu.
+- Utilize Electric, Grass, Rock, and Fighting moves against Lapras.
+- Fighting-type moves are effective against Snorlax.
+- Fire, Ice, Flying, and Psychic moves work well against Venusaur.
+- Rock-type moves are effective against Charizard.
+- Grass and Electric moves are best against Blastoise.
+
+**Post-Battle**: After defeating Red, you can challenge him again by defeating the Elite Four. Return to New Bark Town to report to Professor Oak.
+
+This concludes your adventure in Mt. Silver.

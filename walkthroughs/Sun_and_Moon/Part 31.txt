@@ -1,0 +1,629 @@
+Part: Part 31
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_31
+Keywords: Tying Loose Ends:Melemele Sea, Seaward Cave, Kala'e Bay, Lake of the MooneS/ Lake of the SunneM
+
+Walkthrough Text:
+Contents
+1
+Melemele Island
+1.1
+Melemele Sea
+1.2
+Seaward Cave
+1.3
+Kala'e Bay
+2
+Poni Island
+2.1
+Altar of the Sunne
+S
+/ Altar of the Moone
+M
+3
+Ula'ula Island
+3.1
+Lake of the Sunne
+S
+/ Lake of the Moone
+M
+3.1.1
+Altar
+Melemele Island
+Melemele Sea
+Melemele Sea
+Seaward Cave
+Kala'e Bay
+Melemele Sea
+borders the southeast side of
+Melemele Island
+.
+Lapras Paddle
+or
+Sharpedo Jet
+are required to fully explore the area. Sharpedo Jet can be used to reach an isolated cave within the southwest side of
+Ten Carat Hill
+.
+Trainers
+Trainer
+Pokémon
+Hau'oli City side
+Swimmer
+Portia
+Reward:
+$
+432
+Luvdisc
+♀
+Lv.
+18
+No item
+Luvdisc
+♀
+Lv.
+18
+No item
+Swimmer
+Jade
+Reward:
+$
+312
+Goldeen
+♀
+Lv.
+13
+No item
+Route 1 side
+Swimmer
+Shelby
+Reward:
+$
+432
+Corsola
+♀
+Lv.
+18
+No item
+Swimmer
+Kelsie
+Reward:
+$
+432
+Finneon
+♀
+Lv.
+18
+No item
+Swimmer
+Kalani
+Reward:
+$
+432
+Wishiwashi
+♂
+Lv.
+18
+No item
+Barboach
+♂
+Lv.
+18
+No item
+Swimmer
+Yasu
+Reward:
+$
+432
+Tentacool
+♂
+Lv.
+18
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+15-18
+40%
+Finneon
+Finneon
+S
+M
+Surfing
+15-18
+40%
+Wingull
+Wingull
+S
+M
+Surfing
+15-18
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-18
+78%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-18
+20%
+Corsola
+Corsola
+Mareanie
+S
+M
+Fishing
+10-18
+1%
+Luvdisc
+Luvdisc
+S
+M
+Fishing
+10-18
+1%
+Fishing at a bubbling spot
+Luvdisc
+Luvdisc
+S
+M
+Fishing
+10-18
+40%
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-18
+20%
+Corsola
+Corsola
+Mareanie
+S
+M
+Fishing
+10-18
+20%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-18
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Soft Sand
+On the northeast island
+S
+M
+Super Repel
+Ocean floor to the southeast of the northeast island
+S
+M
+TM80
+(
+Rock Slide
+)
+On the southeast island (requires
+Sharpedo Jet
+)
+S
+M
+TM64
+(
+Explosion
+)
+Ten Carat Hill; accessed via the southwest cave (requires
+Sharpedo Jet
+)
+S
+M
+Rare Candy
+East side of the small western beach
+(hidden, regenerates occasionally)
+S
+M
+Seaward Cave
+Seaward Cave
+connects
+Melemele Meadow
+and
+Kala'e Bay
+. The path slopes downward to water level where it opens to the bay. The cave and other nearby areas may now be fully explored with the
+ability
+to cross the waves.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Zubat
+Zubat
+S
+M
+Cave
+9-12
+70%
+Diglett
+Alolan Form
+Diglett
+S
+M
+Cave
+9-12
+30%
+Surfing
+Zubat
+Zubat
+S
+M
+Surfing
+15-18
+80%
+Psyduck
+Psyduck
+S
+M
+Surfing
+15-18
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+99%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-15
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+50%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-15
+50%
+Exclusively from
+Island Scan
+Totodile
+N/A
+S
+M
+Cave
+12
+One
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+Southwest part of the cave (requires
+Lapras Paddle
+or
+Sharpedo Jet
+)
+S
+M
+Expert Belt
+Behind the rocks on the northern path (requires
+Tauros Charge
+)
+S
+M
+Kala'e Bay
+Kala'e Bay
+is regarded as one of the most scenic spots on
+Melemele Island
+.
+Lapras Paddle
+and
+Sharpedo Jet
+enable exploration of the small islands and the southwest beach.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Wingull
+Wingull
+S
+M
+Grass
+15-18
+40%
+Yungoos
+Yungoos
+S
+M
+Grass
+15-18
+30%
+-
+Rattata
+Alolan Form
+Rattata
+S
+M
+Grass
+15-18
+-
+30%
+Slowpoke
+Slowpoke
+Slowbro
+S
+M
+Grass
+15-18
+20%
+Bagon
+Bagon
+Shelgon
+S
+M
+Grass
+15-18
+10%
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+15-18
+40%
+Finneon
+Finneon
+S
+M
+Surfing
+15-18
+40%
+Wingull
+Wingull
+S
+M
+Surfing
+15-18
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-15
+20%
+Shellder
+Shellder
+S
+M
+Fishing
+10-15
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-15
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-15
+30%
+Shellder
+Shellder
+S
+M
+Fishing
+10-15
+20%
+Exclusively from
+Island Scan
+Horsea
+N/A
+S
+M
+Surfing
+18
+One
+We
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zygarde Cell
+Southwestern tip of land near the Seaward Cave entrance
+S
+M
+Requires
+Lapras Paddle or Sharpedo Jet
+Dive Ball
+On the northeast island
+S
+M
+Big Pearl
+On the northeast island
+(hidden, regenerates occasionally)
+S
+M
+Pearl
+Southwest beach, north of the grass-sand line
+(hidden, regenerates occasionally)
+S
+M
+TM05
+(
+Roar
+)
+South end of the southwest beach
+S
+M
+Poni Island
+Lake of the Sunne/Moone, Exterior
+Lake of the Sunne/Moone, Entrance
+Lake of the Sunne, Altar
+Altar of the Sunne
+S
+/ Altar of the Moone
+M
+Return to
+Poni Island
+and visit the
+Altar of the Sunne
+S
+/
+Altar of the Moone
+M
+. When traveling with
+Solgaleo
+at night, or with
+Lunala
+during the day, the Legendary Pokémon's power opens the dimensional distortion into an
+Ultra Wormhole
+. Traveling through the wormhole leads to the Altar of the Moone
+S
+/ Altar of the Sunne
+M
+in an alternate version of
+Alola
+which experiences daytime at the same time as night in the real world, and vice versa. Although there is only one Legendary Pokémon involved in the main story, another
+Cosmog
+can be found on
+Ula'ula Island
+that would otherwise be undetectable from the real world.
+Ula'ula Island
+Lake of the Sunne
+S
+/ Lake of the Moone
+M
+In this alternate world, the
+Lake of the Moone
+S
+/
+Lake of the Sunne
+M
+has been replaced by the
+Lake of the Sunne
+S
+/
+Lake of the Moone
+M
+. The area can be reached by visiting
+Ula'ula Meadow
+and taking the northeast exit. The exterior ruins lead to a long, damp, underground corridor. This corridor emerges at a large lake that forms a perfect circle, like the face of a clock.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Cosmog
+N/A
+S
+M
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM03
+(
+Psyshock
+)
+Entrance, northeast corner
+S
+M
+Altar
+When you approach the altar,
+Solgaleo
+S
+/
+Lunala
+M
+suddenly appears from its Poké Ball and roars toward the sky. This causes a vision of Lunala
+S
+/ Solgaleo
+M
+to appear. Both Pokémon flicker in and out of sight as they again cry out toward the sky. The two suddenly disappear, leaving behind a
+Cosmog
+in their place. Simply interact with the Pokémon to take it along with you.
+← Part 30
+Post-Game: Tracking the Ultra Beasts
+Sun and Moon
+walkthrough
+Post-Game: Poni Coast, Poni Gauntlet, Battle Tree, League Rematch
+Part 32 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

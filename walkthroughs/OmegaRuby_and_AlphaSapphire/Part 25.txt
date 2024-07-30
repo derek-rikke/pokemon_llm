@@ -1,0 +1,1501 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_25
+Keywords: Battle Resort, The Pokémon League: Round 2, Littleroot Town, Route 101
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Battle Resort
+1.1
+Catch up with Wally
+1.2
+Receive a Mega Stone
+1.3
+Lower level
+1.3.1
+Learn of the Battle Maison
+1.3.2
+Meet the Judge
+1.3.3
+Pokémon Day Care Annex
+1.3.4
+Talk Bikes with a Triathlete
+1.3.5
+Meet Looker
+1.3.6
+Battle Resort Masters
+1.3.7
+Custodian's Cabin
+1.3.8
+Meet the Move Tutors
+1.4
+Mid-level
+1.4.1
+Scale the Hill
+1.4.2
+Visit the East Cabins
+1.4.3
+Stilt Houses
+1.5
+Upper level
+1.5.1
+The Famous Whismur Show
+1.5.2
+Battle Maison
+2
+Pokémon League: Round 2
+2.1
+Round 1: Sidney
+2.2
+Round 2: Phoebe
+2.3
+Round 3: Glacia
+2.4
+Round 4: Drake
+2.5
+Champion Rematch
+3
+Littleroot Town
+4
+Route 101
+Battle Resort
+Battle Resort
+The grand
+Battle Resort
+was built with the goal of allowing Trainers to enjoy every kind of Pokémon battle. The many shops, attractions, and skilled Trainers found on this tropical island make it an ideal destination for Trainers seeking to improve their battling skills. To reach it, catch the ferry in either Slateport or Lilycove.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacruel
+OR
+AS
+Surfing
+35
+50%
+Mantyke
+OR
+AS
+Surfing
+35
+30%
+Pelipper
+OR
+AS
+Surfing
+35, 40
+19%
+Mantine
+OR
+AS
+Surfing
+40
+1%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Remoraid
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Remoraid
+OR
+AS
+Fishing
+Super Rod
+30, 35
+95%
+Octillery
+OR
+AS
+Fishing
+Super Rod
+40
+5%
+Gift Pokémon
+Sharpedo
+OR
+AS
+Gift
+40
+One
+Camerupt
+OR
+AS
+Gift
+40
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Lower level
+Sharpedonite
+On the pier, from Team Aqua upon arriving
+OR
+Cameruptite
+On the pier, from Team Magma upon arriving
+AS
+Max Ether
+South end of the pier (hidden)
+OR
+AS
+Vs. Recorder
+From a Collector at the entrance (if not previously obtained at the
+Battle Institute
+)
+OR
+AS
+TM87
+(
+Swagger
+)
+From a Lady in the Day Care Annex, after lending her
+$
+100
+OR
+AS
+Big Pearl
+Southeast of the Day Care Annex, east side of the rocky outcropping (hidden)
+OR
+AS
+Full Restore
+Northeast side of the island, between three rocks near a male Swimmer (hidden)
+OR
+AS
+Gengarite
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+Protein
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+Zinc
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+Carbos
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+HP Up
+Custodian's cabin on the northeast corner of the island
+West side of the island, in the northernmost Move Tutor's hut (hidden)
+OR
+AS
+Iron
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+Calcium
+Custodian's cabin on the northeast corner of the island
+OR
+AS
+Middle level
+Lansat Berry
+From the little girl in the first cabin east of the Battle Maison, after reaching 100 consecutive victories at the facility
+OR
+AS
+Starf Berry
+From the little girl in the first cabin east of the Battle Maison, after reaching 200 consecutive victories at the facility
+OR
+AS
+Passho Berry
+Second cabin east of the Battle Maison, held by the
+Camerupt
+received from the Team Magma Grunt
+OR
+AS
+Wacan Berry
+Second cabin east of the Battle Maison, held by the
+Sharpedo
+received from the Team Aqua Grunt
+OR
+AS
+Footprint Ribbon
+Northwest stilt cabin, from a Collector after showing him a Pokémon that has gained at least 30 levels
+OR
+AS
+Level Release
+Northwest stilt cabin, from a Battle Girl
+OR
+AS
+Audinite
+Northeast stilt cabin; from Looker, after finding him on the eastern shore
+OR
+AS
+Upper level
+Big Mushroom
+(one per day)
+Northeast of the Battle Maison, from the girl after winning her
+Whismur
+shuffle game
+OR
+AS
+Catch up with Wally
+Stepping off the S.S. Tidal, you're surprised to find your friend
+Wally
+standing on the pier. The little guy is bursting with excitement and can't wait to explore everything that this tropical paradise has to offer—especially now that you're here to enjoy it with him!
+Receive a Mega Stone
+Wally's excitement nearly lands him in hot water as he dashes through a group of high-ranking
+Team Aqua
+OR
+/
+Team Magma
+AS
+members, including
+Archie
+OR
+/
+Maxie
+AS
+. He apologizes and no harm is done, but Archie/Maxie has a few words for you—and a new Mega Stone, as well! Pocket the
+Sharpedonite
+OR
+/
+Cameruptite
+AS
+that
+Matt
+OR
+/
+Courtney
+AS
+hands you before hurrying after Wally.
+Lower level
+Learn of the Battle Maison
+As you and Wally step onto the island, you catch the attention of a Collector. He can tell that the two of you are not here as spectators, and suggests checking out the
+Battle Maison
+, the big building in the center of the island. He also hands each of you a
+Vs. Recorder
+, if you haven't yet obtained one. Wally runs off to explore, leaving you to do the same.
+Meet the Judge
+Visit the Pokémon Center and speak to the Ace Trainer who stands in the corner. People call him the
+Judge
+, as he has the power to judge a Pokémon's individual potential for greatness. Show the Judge any Pokémon, and he'll tell you whether or not it has the potential to become the mightiest of its species.
+Pokémon Day Care Annex
+Go east from the Pokémon Center to reach the Day Care Annex. It operates the same way as the Day Care Center on
+Route 117
+. Between the two facilities, four individual Pokémon can be raised—or two pairs of Pokémon can be bred—at the same time.
+Inside, the rather pompous Lady needs some money to help her out of a jam. If you decide to lend her
+$
+100, she rewards you with
+TM87
+(
+Swagger
+).
+Talk Bikes with a Triathlete
+Visit the beach on the island's southeast side to find a Bike-riding Triathlete staring out to sea. Chat up this obvious Bike enthusiast, and he'll be blown away by the Bike you got from Rydel's Cycles. It seems he's been thinking about buying one of Rydel's Bikes for himself. If you also spoke with a certain Hex Maniac in
+Route 111
+'s central desert and a particular Bird Keeper on
+Route 119
+, who were both equally impressed by your Bikes, then return to
+Mauville
+and pay Rydel a visit. You'll find that he will now let you keep both the Mach Bike and Acro Bike at the same time. No more swapping Bikes, and you can now reach two valuable TMs in the
+Hoenn Safari Zone
+and one at the
+Mirage Cave (north of Fallarbor Town)
+!
+Meet Looker
+Head up the beach on the island's east side to find a man in a trench coat doubled over near the shore. This coat-wearing castaway is known as
+Looker
+, a tough detective who solved many mysteries and crimes around
+Lumiose City
+before leaving the distant
+Kalos
+region for new adventures. He looks all washed up, but you don't get the chance to help him as he is rescued by an all-too-eager Beauty.
+Battle Resort Masters
+These five Trainers wander the island, each one specializing in a certain Pokémon type. Combined with the eight Gym Leaders, Elite Four, and Champion, you can now face master Trainers for each of the 18 Pokémon types! Continue going north (right) along the beach to meet the first of the Battle Resort masters. This is the
+Fairy-type
+master, Fairy Tale Girl Josephine, and though she's still young she has already mastered the delicate intricacies of battling with
+Fairy-type
+Pokémon.
+Custodian's Cabin
+Visit the small cabin on the island's northeast shore to meet the Battle Resort's elderly custodian. He has collected a number of valuable items that people have carelessly left around the island, and invites you to take whatever you like. Be sure to check the sparkling spot as well to obtain another Mega Stone, a
+Gengarite
+.
+Meet the Move Tutors
+Head westward (right) from the custodian's cabin and you'll soon meet the island's
+Poison-type
+master, Rich Boy Antoin. Whether you battle him or not, continue on to the west side of the island, where several Move Tutors have set up shop. In exchange for a few Battle Points, these four Move Tutors will teach your Pokémon a wide variety of moves. Battle Points can be earned at the Battle Maison, and by doing well at the Battle Institute in
+Mauville
+.
+In addition, the island's resident
+Grass-type
+master, Aroma Lady Carnation, stands ready for battle on the nearby shore.
+Mid-level
+Scale the Hill
+You've come full-circle, and are now back near the Pokémon Center. There's nowhere else to go but up! Climb the stairway to find the Battle Maison, but finish exploring the island before stepping inside. The final two type specialists—the
+Ground-type
+master, Poké Maniac Kelvin, and the
+Bug-type
+master, Bug Maniac Felix—can be found staring each other down in a small arena to the west.
+Visit the East Cabins
+Go down the stairway to the east to reach a lower level with a couple of cabins. The woman in the first cabin turns out to be a Berry enthusiast; speak to her once per day to receive either a
+Pomeg
+,
+Kelpsy
+,
+Qualot
+,
+Hondew
+,
+Grepa
+, or
+Tamato Berry
+.
+When you enter the eastern cabin, your eyes find a startling sight. It seems that a Team Magma Grunt and a Team Aqua Grunt have booked their own private cabin! You've startled them, and it's not long before other members of Team Magma and Team Aqua arrive. After the initial shock, it turns out that times have changed and nobody is upset about the two Grunts getting together.
+Leave the Grunts' cabin to let them recover from their shocking discovery, and take the opportunity to rest at the Pokémon Center. Be sure to free up two slots in your party, as well. Return to their cabin afterward to learn that they've decided to call off their relationship after all. Relieved to have everything out in the open, and eager to put their unhappy past behind them, they each give you a Pokémon:
+Camerupt
+and
+Sharpedo
+!
+Stilt Houses
+Head east from the Grunts' cabin and cross the bridge to reach several stilt homes standing above the water. In the first house, a Collector will give you a
+Footprint Ribbon
+if you show him a Pokémon that you've raised 30 levels or more. Speak to the nearby Battle Girl afterward to receive a
+Level Release
+for your Secret Base. Check in on Looker next, who is resting comfortably with the Beauty in the neighboring house. He'll give you an
+Audinite
+as thanks for looking out for him on the beach.
+Upper level
+The Famous Whismur Show
+Return to the Grunts' cabin and climb the nearby stairway to reach the island's highest point. An impressive model of the proposed Battle Frontier is prominently displayed here, and to the west lies the Battle Resort's happiest attraction—the Whismur show! Watch the Whismur dance each day, and try to pick out the one that's holding the
+Big Mushroom
+. If you guess correctly, you get to keep the item, which can be sold to stores for
+$
+2500.
+Battle Maison
+Having given the entire island a thorough search, it's now time to check out the
+Battle Maison
+! There's plenty of battling to be done inside, but don't worry about resting up beforehand. The receptionist in the main hall will heal your Pokémon before each battle, and you will also find a handy PC if you should need to reorganize the Pokémon in your party or Battle Box.
+Challengers fight to earn
+Battle Points
+and to increase their current winning streak. Battles conducted here are subject to
+certain rules
+that differ from normal battles. The amount of
+awarded Battles Points
+varies based on the length of the current winning streak. These points may be redeemed for
+valuable prizes
+.
+Certain Pokémon
+are ineligible to participate. After reaching both 20 and 50 consecutive victories in each format—
+Single
+,
+Double
+,
+Triple
+, and
+Rotation
+—challengers must face one of the
+Battle Chatelaines
+. Defeating one of these four sisters on the 50th consecutive victory earns the challenger a commemorative monument located in the building's lobby.
+Pokémon League: Round 2
+Now that the events of the Delta Episode is over, the Champion
+Steven Stone
+is back at the Pokémon League, enabling for you to be able to challenge them again when you return to
+Ever Grande City
+. This time around some of the Pokémon on the Elite Four and Champion's teams have been replaced by Non-regional Pokémon and Steven has brought back some
+Key Stones
+, allowing one of the Pokémon on each of the Elite Four's team to be able to
+Mega Evolve
+. Aside from the new Pokémon and new Mega Evolutions everything else is still the same as last time in terms of strategy. Due to the levels for the teams of the Elite Four and Champion being higher than last time, make sure your team is around Level 70.
+Round 1: Sidney
+Elite Four
+Sidney
+Pokémon League
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+11,520
+Types:
+Dark
+Fighting
+Ability:
+Intimidate
+Held item:
+None
+Scrafty
+♂
+Lv.
+70
+Crunch
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Types:
+Grass
+Dark
+Ability:
+Chlorophyll
+Held item:
+None
+Shiftry
+♂
+Lv.
+70
+Fake Out
+Normal
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Leaf Blade
+Grass
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Illusion
+Held item:
+None
+Zoroark
+♂
+Lv.
+70
+Night Slash
+Dark
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Dark Pulse
+Dark
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+70
+Crunch
+Dark
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Slash
+Normal
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Overcoat
+Held item:
+None
+Mandibuzz
+♀
+Lv.
+70
+Brave Bird
+Flying
+Physical
+--
+Bone Rush
+Ground
+Physical
+--
+Feint Attack
+Dark
+Physical
+--
+Tailwind
+Flying
+Status
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+Absolite
+Absol
+♂
+Lv.
+72
+Aerial Ace
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Psycho Cut
+Psychic
+Physical
+--
+Slash
+Normal
+Physical
+--
+Sidney now has
+Scrafty
+,
+Mandibuzz
+, and
+Zoroark
+in place of
+Mightyena
+and
+Cacturne
+. For Scrafty, it uses it's natural moves
+Crunch
+, or
+Brick Break
+, and also uses
+Poison Jab
+to counter
+Fairy-types
+. Unless if you have a fast Fairy-type, then just use a
+Flying-type
+, or another Fighting-type to beat it. Mandibuzz uses the strongest physical Flying-type move
+Brave Bird
+, as well as
+Tailwind
+which will allow for it to attack first while in effect, and also uses
+Bone Rush
+to cover its weakness to
+Electric
+or
+Rock-types
+. If you do not want risk using the two aforementioned types, then counter with Fairy or
+Ice-types
+. Lastly Zoroark specializes in speed and offensive, though it has a very weak defense. Its
+Dark Pulse
+may cause your Pokémon to flinch and its
+Night Slash
+may cause a critical hit, which can make it deadly. Fortunately aside from the fact it can counter
+Bug-types
+with
+Flamethrower
+it can still be easily taken down with Fighting or Fairy-types.
+Round 2: Phoebe
+Elite Four
+Phoebe
+Pokémon League
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+11,680
+Type:
+Ghost
+Unknown
+Ability:
+Insomnia
+Held item:
+None
+Banette
+♂
+Lv.
+71
+Shadow Ball
+Ghost
+Special
+--
+Grudge
+Ghost
+Status
+--
+Toxic
+Poison
+Status
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Ghost
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mismagius
+♀
+Lv.
+71
+Shadow Ball
+Ghost
+Special
+--
+Power Gem
+Rock
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Pain Split
+Normal
+Status
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+71
+Phantom Force
+Ghost
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Icy Wind
+Ice
+Special
+--
+Acrobatics
+Flying
+Physical
+--
+Types:
+Ghost
+Fire
+Ability:
+Flame Body
+Held item:
+None
+Chandelure
+♀
+Lv.
+71
+Hex
+Ghost
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Type:
+Ghost
+Unknown
+Ability:
+Pressure
+Held item:
+None
+Dusknoir
+♀
+Lv.
+71
+Hex
+Ghost
+Special
+--
+Fire Punch
+Fire
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Types:
+Dark
+Ghost
+Ability:
+Prankster
+Held item:
+Sablenite
+Sableye
+♀
+Lv.
+73
+Shadow Claw
+Ghost
+Physical
+--
+Foul Play
+Dark
+Physical
+--
+Power Gem
+Rock
+Special
+--
+Fake Out
+Normal
+Physical
+--
+In place of
+Dusclops
+and one of her
+Banette
+, Phoebe now has a
+Mismagius
+,
+Drifblim
+, and
+Chandelure
+. For Mismagius it can use
+Pain Split
+to even out the HP between you and it, so take it out as quickly as possible. Any
+Dark-type
+excluding the duel-types that are weak to
+Thunderbolt
+or
+Power Gem
+should work, especially if they are fast enough. Drifblim can use
+Phantom Force
+, a two turn Ghost-type move that is really powerful and cannot be defended against with
+Protect
+or
+Detect
+and
+Acrobatics
+, a powerful Flying-type move that is at full capacity since Drifblim is not holding an item. Its other moves should pose no problem if you use a Dark, Ghost, or Electic-type to defeat it as long as it doesn't have a type weak against
+Icy Wind
+or
+Psychic
+, but remember your Pokémon will take damage from
+Aftermath
+if you finish Drifblim off with a move that causes physical contact. For Chandelure the power of its
+Hex
+move can be increase if your Pokémon suffers a
+Burn
+either from Flamethrower, or its ability
+Flame Body
+if you use a move that causes physical contact. It also can use
+Energy Ball
+to counter
+Water-types
+. Unless if you have a faster Water-type, exploit its other weaknesses and bring in some healing items, if you need to risk the chance of getting inflicted with Flame Body.
+Round 3: Glacia
+Elite Four
+Glacia
+Pokémon League
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+11,840
+Types:
+Grass
+Ice
+Ability:
+Snow Warning
+Held item:
+None
+Abomasnow
+♂
+Lv.
+72
+Blizzard
+Ice
+Special
+--
+Wood Hammer
+Grass
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Ice
+Unknown
+Ability:
+Snow Cloak
+Held item:
+None
+Beartic
+♂
+Lv.
+72
+Icicle Crash
+Ice
+Physical
+--
+Slash
+Normal
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+None
+Froslass
+♀
+Lv.
+72
+Draining Kiss
+Fairy
+Special
+--
+Blizzard
+Ice
+Special
+--
+Hail
+Ice
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Ice Body
+Held item:
+None
+Vanilluxe
+♀
+Lv.
+72
+Ice Beam
+Ice
+Special
+--
+Mirror Coat
+Psychic
+Special
+--
+Freeze-Dry
+Ice
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Types:
+Ice
+Water
+Ability:
+Thick Fat
+Held item:
+None
+Walrein
+♂
+Lv.
+72
+Surf
+Water
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Blizzard
+Ice
+Special
+--
+Sheer Cold
+Ice
+Special
+--
+Type:
+Ice
+Unknown
+Ability:
+Inner Focus
+Held item:
+Glalitite
+Glalie
+♂
+Lv.
+74
+Protect
+Normal
+Status
+--
+Ice Shard
+Ice
+Physical
+--
+Hail
+Ice
+Status
+--
+Freeze-Dry
+Ice
+Special
+--
+Glacia now has only one
+Glalie
+and
+Froslass
+, and has added
+Abomasnow
+,
+Beartic
+, and
+Vanilluxe
+to her team. For Abomasnow it's ability
+Snow Warning
+creates
+Hail
+, enabling
+Blizzard
+to always hit and
+Wood Hammer
+can dish out tons of damage due to its high attack. While it may have
+Earthquake
+to counter
+Fire
+and
+Steel-types
+, a quicker Fire-type can beat it due to both its slow speed, and that it take 4× damage from Fire-type attacks. For Beartic, its best attack is
+Icicle Crash
+that can cause a lot of damage and may make the Pokémon flinch and it has Brick Break to counter Rock and Steel-types. A Fire or Fighting-type should be able to easily beat it. Vanilluxe has
+Mirror Coat
+where it survives a special attack, it can send the damage back at double the force. Another threat it possesses is
+Freeze-Dry
+, which is bad for Water-types as it reverse the type of the damage they take, to which the normally "not very effective" damage they take from Ice-type moves becomes "super-effective damage". Using any type that is effective against the Ice-type should work here, preferably with physical moves.
+Round 4: Drake
+Elite Four
+Drake
+Pokémon League
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+12,000
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+73
+Aerial Ace
+Flying
+Physical
+--
+Cotton Guard
+Grass
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Types:
+Poison
+Dragon
+Ability:
+Poison Point
+Held item:
+None
+Dragalge
+♂
+Lv.
+73
+Dragon Pulse
+Dragon
+Special
+--
+Hydro Pump
+Water
+Special
+--
+Sludge Wave
+Poison
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Water
+Dragon
+Ability:
+Sniper
+Held item:
+None
+Kingdra
+♂
+Lv.
+73
+Dragon Pulse
+Dragon
+Special
+--
+Surf
+Water
+Special
+--
+Yawn
+Normal
+Status
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+73
+Flamethrower
+Fire
+Special
+--
+Boomburst
+Normal
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Screech
+Normal
+Status
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+None
+Haxorus
+♂
+Lv.
+73
+Dragon Claw
+Dragon
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Intimidate
+Held item:
+Salamencite
+Salamence
+♂
+Lv.
+75
+Dragon Rush
+Dragon
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Drake now has only one
+Flygon
+on his team this time, as well as having added both
+Dragalge
+and
+Haxorus
+. Dragalge has
+Dragon Pulse
+, a powerful
+Dragon-type
+move, and can counter
+Ground-types
+with
+Hydro Pump
+and Fairy-types with
+Sludge Wave
+. Use Ice or Psychic-types to beat it. Haxorus uses
+Dragon Claw
+as its Dragon-type move, and has other hard-hitting physical moves, Shadow Claw, Earthquake, and
+X-Scissor
+. It should be possible to beat it with Fairy, Ice, or other Dragon-types.
+Champion Rematch
+Champion
+Steven
+Pokémon League
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+15,800
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♂
+Lv.
+77
+Toxic
+Poison
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Spikes
+Ground
+Status
+--
+Steel Wing
+Steel
+Physical
+--
+Types:
+Ground
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Claydol
+Lv.
+77
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Extrasensory
+Psychic
+Special
+--
+Earth Power
+Ground
+Special
+--
+Types:
+Steel
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Aggron
+♂
+Lv.
+77
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Types:
+Rock
+Fairy
+Ability:
+Clear Body
+Held item:
+None
+Carbink
+Lv.
+77
+Moonblast
+Fairy
+Special
+--
+Power Gem
+Rock
+Special
+--
+Psychic
+Psychic
+Special
+--
+Earth Power
+Ground
+Special
+--
+Types:
+Rock
+Flying
+Ability:
+Pressure
+Held item:
+None
+Aerodactyl
+♂
+Lv.
+77
+Rock Slide
+Rock
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+Metagrossite
+Metagross
+Lv.
+79
+Bullet Punch
+Steel
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Meteor Mash
+Steel
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+In place of the two Hoenn Fossil Pokémon, Steven now has
+Aerodactyl
+, one of the Kanto Fossil Pokémon, and
+Carbink
+. Aerodactyl uses
+Rock Slide
+, which due to its high speed can pose a problem as it has a chance of causing your Pokémon to flinch and also uses all three elemental fang attacks
+Thunder Fang
+,
+Ice Fang
+, and
+Fire Fang
+that helps cover its weaknesses. Only the Electric type can easily handle Aerodactyl as long as the Pokémon does not have another type weak against these three moves. Carbink has
+Moonblast
+and
+Power Gem
+to powerful special moves that matches its type, and can also use
+Earth Power
+to counter Steel-types which cause it 4× damage. While it might not be strong in offense, its defense stats can be annoying to deal with. If you do not want to risk it with Steel-types, use, Ground, Water, or
+Grass-types
+instead.
+Once you defeat Steven again, you will receive the
+Metagrossite
+from him, allowing you to Mega Evolve your own
+Metagross
+. Sit by and watch the credits roll again.
+Littleroot Town
+Once you resume your game, leave your house. Once you are outside, you'll hear
+Professor Birch
+'s screams. Once again he is in trouble at
+Route 101
+.
+Route 101
+Professor Birch is being chased around once again and for the fourth time, you'll look into his bag where you can find a set of first partner Pokémon which you can pick one of them to have. This time it is one of the first partners from the
+Sinnoh
+region.
+Turtwig
+Chimchar
+Piplup
+Grass
+Fire
+Water
+Grotle
+Monferno
+Prinplup
+Grass
+Fire
+Fighting
+Water
+Torterra
+Infernape
+Empoleon
+Grass
+Ground
+Fire
+Fighting
+Water
+Steel
+Once you make your decision, it turns out it was actually the Professors own wife who was chasing to whom he thought was a Pokémon.
+So anyway this ends the main part of the walkthrough.
+← Part 24
+Littleroot Town, Route 101, S.S. Tidal
+Omega Ruby and Alpha Sapphire
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

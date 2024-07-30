@@ -1,0 +1,50 @@
+Game: Emerald
+Part: 9
+Keywords: Abandoned Ship, New Mauville, Route 118
+
+**Part 9 Walkthrough Summary: Abandoned Ship, New Mauville, Route 118**
+
+**Abandoned Ship (Optional)**  
+- **Location:** Route 108  
+- **Key Items:** 
+  - **Harbor Mail:** 1F, northwest room  
+  - **Revive:** 1F, west side, north room  
+  - **Dive Ball:** B1F, broken door cabin  
+  - **Escape Rope:** B1F, southwest cabin  
+  - **TM13 (Ice Beam):** B1F, northeast room (requires Storage Key)  
+  - **Storage Key:** Captain's Office  
+- **Battles:**  
+  - **Sailor Duncan:** Spheal, Machoke  
+  - **Beauty Thalia:** Wailmer, Horsea  
+- **Strategy:** Use Surf and specific moves to access various areas. Trainers marked with PokéNav may have rematches.
+
+**Trick House - Puzzle 4 (Optional)**  
+- Complete the puzzle using a Pokémon with Strength.
+
+**New Mauville (Optional)**  
+- **Task:** Turn off the generator for Wattson.  
+- **Key Items:** 
+  - **Basement Key:** From Wattson  
+  - **TM24 (Thunderbolt):** After shutting down the generator  
+- **Items in New Mauville:** Escape Rope, Ultra Ball, Parlyz Heal, Thunderstone, and Voltorb (fake items).  
+- **Strategy:** Navigate using colored buttons to access rooms and collect items.
+
+**Route 118**  
+- **Explore:** Use Surf to find new Pokémon, such as **Manectric**.  
+- **Trainers:**  
+  - **Gabby & Ty:** Double Battle  
+  - **Fisherman Barny:** Tentacool, Carvanha  
+  - **Bird Keepers:** Taillow, Swellow  
+- **Key Items:** 
+  - **Good Rod:** From the Fisherman on the beach  
+  - **Iron:** Hidden on the beach near Barny  
+  - **Sitrus Berries:** Found in soft soil patch west of Route 119 exit.
+
+**Route 123 (Optional)**  
+- **Berry Master’s House:** Collect various berries and learn about daily gifts.  
+- **Key Items:** Ultra Ball, Revive (hidden).
+
+**Strategy Tips:**  
+- Always check areas for hidden items and Pokémon.  
+- Use Double Battles to gain experience and items.  
+- Keep track of trainers for potential rematches for higher-level Pokémon.

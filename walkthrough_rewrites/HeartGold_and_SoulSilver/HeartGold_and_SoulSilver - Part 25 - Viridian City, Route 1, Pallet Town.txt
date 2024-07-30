@@ -1,0 +1,44 @@
+Game: HeartGold_and_SoulSilver
+Part: 25
+Keywords: Viridian City, Route 1, Pallet Town
+
+**Pokémon HeartGold and SoulSilver Walkthrough: Part 25**
+
+**Viridian City**
+- **Overview**: Small city in Kanto. The Viridian Gym is currently closed. 
+- **Trainer House**: Battle against Ace Trainer Cal (uses Johto starters). Win for Battle Points (BP).
+- **Available Pokémon**: 
+  - Surfing: Poliwag (5-10), Poliwhirl (10)
+  - Fishing: Magikarp (10), Poliwag (10/20/40)
+  - Headbutt: Hoothoot (3-7), Spinarak (5-7), Ledyba (5-7), Pineco (3-4), Wurmple (3-7)
+- **Items**: 
+  - Nugget (hidden, northeast of Poké Mart)
+  - TM85 (Dream Eater) - on ridge (requires Cut/Surf)
+  - TM92 (Trick Room) - from Blue after defeating him.
+
+**Route 1**
+- **Trainers**: 
+  - Sherman (Furret, Pidgeot) - $860
+  - Danny (Jynx, Electabuzz, Magmar) - $860
+  - Ace Trainer French (Absol, Alakazam) - $2820
+  - Ace Trainer Quinn (Ivysaur, Starmie) - $2820
+- **Available Pokémon**: 
+  - Grass: Pidgey (2-4), Rattata (2), Sentret (3), Furret (6)
+  - Headbutt: Hoothoot (2-3), Spinarak (5-6), Ledyba (5-6)
+- **Items**: Blk Apricorn (northwest hill)
+
+**Pallet Town**
+- **Overview**: Home of former champions Red and Blue. 
+- **Available Pokémon**: 
+  - Surfing: Tentacool (30-35), Fishing: Magikarp (10)
+  - Gift Pokémon: Bulbasaur, Charmander, Squirtle (all level 5)
+- **Items**: 
+  - HM08 (Rock Climb) - from Professor Oak after earning all 16 Badges.
+  - Jade Orb - from Oak after showing both Groudon and Kyogre.
+
+**Locations**: 
+- **Red's House**: Red is absent, but his mother is available.
+- **Blue's House**: Daisy grooms Pokémon daily (3 PM - 4 PM).
+- **Professor Oak's Lab**: Speak to Oak for a gift after defeating all Kanto Gym Leaders. 
+
+This guide outlines key battles, available Pokémon, and important items in Viridian City, Route 1, and Pallet Town. Focus on defeating trainers and collecting items for progression.

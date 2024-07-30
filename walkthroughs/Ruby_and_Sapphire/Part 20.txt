@@ -1,0 +1,604 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Ruby_and_Sapphire_walkthrough/Section_20
+Keywords: Eon Pokémon, S.S. Tidal, Battle Tower, Sky Pillar
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Ruby and Sapphire
+.
+These pages follow the original
+Game Boy Advance
+iteration,
+not
+Pokémon Omega Ruby and Alpha Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Littleroot Town
+1.1
+Home
+1.2
+The Eon Pokémon
+2
+Slateport City/Lilycove City
+3
+S.S. Tidal
+3.1
+1F
+3.2
+Basement
+4
+Battle Tower
+4.1
+Restrictions
+4.2
+Prizes
+4.3
+Awards
+5
+Route 131
+5.1
+Sky Pillar
+5.1.1
+1F-5F
+5.1.2
+Apex
+Littleroot Town
+Home
+When the credits conclude, you awaken in your room back in
+Littleroot Town
+. Head downstairs and
+Norman
+hands you a gift from
+Mr. Briney
+—the
+S.S. Ticket
+. With this, you can ride
+Captain Stern
+'s new ferry! Norman suggests taking the ferry from either
+Slateport
+or
+Lilycove
+on the way to the
+Battle Tower
+on a small island in the southeast part of Hoenn. He encourages you to test your ambition at the facility, before heading back to the
+Petalburg Gym
+.
+The Eon Pokémon
+If you check the TV, you'll see a special news bulletin; it seems that a certain unnamed Pokémon has been spotted flying around the region. After viewing this report, you will be able to encounter the legendary Pokémon
+Latios
+R
+/
+Latias
+S
+roaming
+across Hoenn.
+The Pokémon moves to a different area every time you change locations. The easiest way to track it down is to begin in a central area like
+Mauville City
+. Find a patch of tall grass near a building, like
+Route 117
+'s Day Care, or the route's end, like
+Route 110
+. Use Repels to avoid other Pokémon and cross the threshold enough times and the Pokémon will eventually appear nearby. To make matters more difficult, it will also attempt to flee on the first turn of battle. The best way to prevent this is to send out a faster Pokémon to use a trapping move, like
+Mean Look
+or
+Wrap
+. If afflicted by a status condition, it will retain this ailment when it is next encountered. After meeting it for the first time, the Pokédex tracks its movements.
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latios
+Lv.
+40
+Protect
+Normal
+--
+Refresh
+Normal
+--
+Luster Purge
+Psychic
+--
+Psychic
+Psychic
+--
+Types:
+Dragon
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Latias
+Lv.
+40
+Water Sport
+Water
+--
+Refresh
+Normal
+--
+Mist Ball
+Psychic
+--
+Psychic
+Psychic
+--
+Slateport City/Lilycove City
+That
+S.S. Ticket
+is burning a hole in your Bag! Fly to either
+Slateport
+or
+Lilycove
+, then head to the harbor building. Present your ticket to the woman near the ferry, and she'll ask where you'd like to go. The
+Battle Tower
+beckons!
+S.S. Tidal
+S.S. Tidal, 1F
+S.S. Tidal, B1F
+Captain Stern's mighty vessel, the
+S.S. Tidal
+, ferries people between Slateport City, Lilycove City, and the Battle Tower.
+Trainers
+Trainer
+Pokémon
+Cabins
+Young Couple
+Lea & Jed
+Reward:
+$
+2880
+Luvdisc
+♀
+Lv.
+45
+No item
+Luvdisc
+♀
+Lv.
+45
+No item
+Rich Boy
+Garret
+Reward:
+$
+9000
+Azumarill
+♂
+Lv.
+45
+Nugget
+Gentleman
+Tucker
+Reward:
+$
+3520
+Manectric
+♂
+Lv.
+44
+No item
+Manectric
+♂
+Lv.
+44
+No item
+Pokéfan
+Colton
+Reward:
+$
+3360
+Skitty
+♀
+Lv.
+22
+Oran Berry
+Skitty
+♀
+Lv.
+36
+Oran Berry
+Skitty
+♀
+Lv.
+40
+Oran Berry
+Skitty
+♀
+Lv.
+12
+Oran Berry
+Skitty
+♀
+Lv.
+30
+Oran Berry
+Delcatty
+♀
+Lv.
+42
+Oran Berry
+Lady
+Anette
+Reward:
+$
+9000
+Roselia
+♀
+Lv.
+45
+Nugget
+Gentleman
+Thomas
+Reward:
+$
+3600
+Zangoose
+♂
+Lv.
+45
+No item
+Basement
+Sailor
+Phillip
+Reward:
+$
+1408
+Potential
+Double Battle
+with Leonard
+Tentacruel
+♂
+Lv.
+44
+No item
+Machoke
+♂
+Lv.
+44
+No item
+Sailor
+Leonard
+Reward:
+$
+1376
+Potential
+Double Battle
+with Phillip
+Machop
+♂
+Lv.
+43
+No item
+Pelipper
+♂
+Lv.
+43
+No item
+Machoke
+♂
+Lv.
+43
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+TM49
+(
+Snatch
+)
+From a man in the top-right cabin
+R
+S
+Leftovers
+In the northwest trash can on the basement floor (hidden)
+R
+S
+1F
+After you climb aboard, you find
+Mr. Briney
+and
+Peeko
+on the north side of the ship. The two are happy to be back out on the seas, and even more so now that Briney has been made the ship's honorary captain!
+There are eight cabins on the main floor, with three cabins on each side holding Trainers who are anxious to battle. On the south side, the second cabin from the left is your own, with a bed where you can rest your Pokémon. In the time it takes you to rest for the first time, the ship will reach its destination. On the north side, the farthest cabin to the right holds a Poké Maniac who gives you
+TM49
+(
+Snatch
+).
+Basement
+Head downstairs to visit the ship's spacious storage. There's plenty of room for Pokémon battles to play out, and the two hardworking Sailors here will happily oblige. Be sure to search the trash cans to discover some
+Leftovers
+, as well.
+Battle Tower
+Battle Tower
+The great
+Battle Tower
+was built to provide a challenge to all those able to defeat the Pokémon League, with the best and brightest Trainers from across the region competing here to determine who among them is the strongest. Challengers push on through seven battles in a row, with three Pokémon per side, and levels of either 50 or 100 depending on the chosen mode. No two Pokémon used by the same Trainer can be holding the same item.
+Restrictions
+Nearly all Pokémon are available to participate, however there are
+certain restrictions
+.
+Prizes
+Prizes
+are earned after each seventh victory. A single, random item is awarded based on the length of the challenger's winning streak.
+The first several prizes
+are awarded for wins 7-35 and will each be a random Vitamin:
+Protein
+,
+Iron
+,
+Carbos
+,
+Zinc
+, or
+HP Up
+.
+Subsequent prizes
+are awarded for 35 or more consecutive wins, and will each be one of a random in-battle item:
+Leftovers
+,
+White Herb
+,
+Quick Claw
+,
+Mental Herb
+,
+BrightPowder
+,
+Choice Band
+,
+King's Rock
+,
+Focus Band
+, or
+Scope Lens
+.
+Awards
+After reaching a winning streak of a certain length, special prizes are awarded. At 50 consecutive wins, you receive a
+Silver Shield
+; at 100, you receive a
+Gold Shield
+. Both are decorations for use in your Secret Base. Upon reaching 56 straight wins in Level 50 mode, a
+Winning Ribbon
+is awarded to all participating Pokémon. Finally, upon reaching 56 straight wins in Level 100 mode, a
+Victory Ribbon
+is awarded to all participants.
+Route 131
+Sky Pillar, Exterior
+Sky Pillar, 1F
+Sky Pillar, 2F
+Sky Pillar, 3F
+Sky Pillar, 4F
+Sky Pillar, 5F
+Sky Pillar, 6F
+Sky Pillar
+Sky Pillar
+is an ancient, towering altar built for the ascension of Hoenn's ageless protector, the legendary dragon
+Rayquaza
+. The building's advanced age has left several areas of flooring
+unstable
+, which makes the
+Mach Bike
+necessary to reach the apex.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F
+Golbat
+R
+S
+E
+1F
+48, 50
+30%
+Mawile
+R
+S
+E
+1F
+48, 50
+30%
+Sableye
+R
+S
+E
+1F
+48, 50
+30%
+Claydol
+R
+S
+E
+1F
+47-50
+25%
+Dusclops
+R
+S
+E
+1F
+48, 50
+15%
+Banette
+R
+S
+E
+1F
+48, 50
+15%
+3F
+Golbat
+R
+S
+E
+3F
+51, 53
+30%
+Mawile
+R
+S
+E
+3F
+51, 53
+30%
+Sableye
+R
+S
+E
+3F
+51, 53
+30%
+Claydol
+R
+S
+E
+3F
+50-53
+25%
+Dusclops
+R
+S
+E
+3F
+51, 53
+15%
+Banette
+R
+S
+E
+3F
+51, 53
+15%
+5F
+Golbat
+R
+S
+E
+5F
+54, 56
+30%
+Mawile
+R
+S
+E
+5F
+54, 56
+30%
+Sableye
+R
+S
+E
+5F
+54, 56
+30%
+Claydol
+R
+S
+E
+5F
+54-56
+19%
+Dusclops
+R
+S
+E
+5F
+54, 56
+15%
+Banette
+R
+S
+E
+5F
+54, 56
+15%
+Altaria
+R
+S
+E
+5F
+54, 57, 60
+6%
+Special Pokémon
+Rayquaza
+R
+S
+E
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+1F-5F
+After climbing through the tunnel from the sea, you emerge on the island's upper level. Enter the tower and climb the stairs to 2F. There are several patches of unstable floor here, so use the Mach Bike to speed over them and continue on. Things get tricky on 4F, where you must stop cycling on one of two cracked tiles on the north side of the floor; this causes you to fall back down to a previously-inaccessible part of 3F. Climb to 5F and take the stairs in the northeast to reach the apex.
+Apex
+Upon reaching the rooftop, you find the legendary creature beyond one final flight of stairs. At level 70,
+Rayquaza
+is the highest-leveled Pokémon available, and as such, easily warrants the use of a
+Master Ball
+. Barring that, you will need a similarly high-leveled Pokémon with excellent Defense to counter it. Be sure to save the game, as you've only got one chance to catch it! As a
+Dragon
+/
+Flying
+Pokémon, it is especially vulnerable to
+Ice
+attacks, but Dragon- and
+Rock-type
+moves are also useful. Begin with these super-effective moves to deal heavy damage, and consider putting it to sleep before it can restore its health with
+Rest
+. Follow up with
+Grass
+,
+Fire
+, and
+Water
+moves to wear its health away even further. Beware of its most dangerous move,
+Outrage
+: after rampaging for several turns, Rayquaza becomes confused from fatigue. While it can deal serious damage to its target, it may also cause the dragon to attack itself in its confusion, and could end up knocking itself out!
+Types:
+Dragon
+Flying
+Ability:
+Air Lock
+Held item:
+None
+Rayquaza
+Lv.
+70
+Fly
+Flying
+--
+Rest
+Psychic
+--
+ExtremeSpeed
+Normal
+--
+Outrage
+Dragon
+--
+Having tied up all the loose ends, your final mission is to complete the Pokédex. The discovery of Hoenn-native Pokémon has brought the total number of species to 386, so there is still plenty to keep you busy!
+← Part 19
+Pokémon League
+Ruby and Sapphire
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

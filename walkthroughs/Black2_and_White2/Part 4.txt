@@ -1,0 +1,1643 @@
+Part: Part 4
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_4
+Keywords: Castelia City, Castelia Sewers, Castelia Gym
+
+Walkthrough Text:
+Contents
+1
+Castelia City
+1.1
+Oceanfront Road
+1.1.1
+Harlequin Hunt
+1.1.2
+Bridge Gate
+1.1.3
+The Royal Unova
+1.1.4
+Battle Company
+1.1.4.1
+1F
+1.1.4.2
+47F
+1.1.4.3
+55F
+1.1.5
+Unity Pier
+1.1.6
+Liberty Pier
+1.1.6.1
+Liberty Garden
+1.1.7
+Passerby Analytics HQ
+1.2
+Castelia Street
+1.2.1
+Castelia Street building
+1.2.2
+Game Freak
+1.2.2.1
+22F
+1.3
+Mode Street
+1.3.1
+Casteliacone
+1.3.2
+Studio Castelia
+1.4
+Narrow Street
+1.4.1
+Café Sonata
+1.5
+Gym Street
+1.5.1
+Western building
+1.5.2
+Burgh is away
+1.6
+Castelia Sewers
+1.7
+Castelia Gym
+1.7.1
+Easy Mode/Normal Mode
+1.7.2
+Challenge Mode
+1.8
+Central Plaza
+1.9
+Street to Route 4
+Castelia City
+Castelia City
+Castelia City
+is home to many towering skyscrapers, and is the largest city in
+Unova
+. The elegant cruise ship, the
+Royal Unova
+, docks near the Pokémon Center, and other ships provide transportation to
+Virbank City
+and
+Liberty Garden
+. The
+Castelia Sewers
+connect the city to otherwise-inaccessible areas.
+Items
+Item
+Location
+Games
+Heart Scale
+On the south end of Prime Pier
+B2
+W2
+Bicycle
+From the Harlequin on Oceanfront Road
+B2
+W2
+Rare Candy
+From the Harlequin on Oceanfront Road, after completing the Harlequin Hunt
+B2
+W2
+Casteliacone
+From the ice-cream store on Mode Street, except in winter,
+$
+100 per serving
+B2
+W2
+Exp. Share
+Battle Company 1F: From a Janitor, the company's former president
+B2
+W2
+Miracle Seed
+or
+Charcoal
+or
+Mystic Water
+Battle Company 1F: From the female Ace Trainer; by selecting Snivy, Tepig, or Oshawott, respectively
+B2
+W2
+Quick Ball
+×2
+Battle Company 47F: From Clerk♂ Clemens after defeating him
+B2
+W2
+Timer Ball
+×5
+Battle Company 47F: From Clerk♂ Warren after defeating him
+B2
+W2
+Guard Spec.
+Battle Company 47F: Near Clerk♀ Britney
+B2
+W2
+Scope Lens
+Battle Company 47F: From the Scientist
+B2
+W2
+Ether
+Battle Company 55F: In the northwest corner
+B2
+W2
+Quick Claw
+From a woman in the gate to Skyarrow Bridge
+B2
+W2
+Destiny Knot
+From a girl on Unity Pier
+B2
+W2
+Revive
+Game Freak building, 22F
+B2
+W2
+Moomoo Milk
+From the manager of Café Sonata on Narrow Street
+B2
+W2
+Soda Pop
+Passerby Analytics HQ, after completing all surveys
+B2
+W2
+Miracle Seed
+In the Empty Lot, accessed from Castelia Sewers
+B2
+W2
+Amulet Coin
+Street to Route 4: From a man on 1F of the left building
+B2
+W2
+TM45
+(
+Attract
+)
+Street to Route 4: From a girl on 47F of the south building
+B2
+W2
+Eviolite
+Street to Route 4: From a Scientist on 1F of the north building, if you've seen at least 40 different Pokémon
+B2
+W2
+TM44
+(
+Rest
+)
+Guitarist on 11F of Pokémon Massage on Castelia Street
+B2
+W2
+TM70
+(
+Flash
+)
+Received from a man behind a dumpster on Narrow Street
+B2
+W2
+Charcoal
+Street to Route 4: On 47F of the north building on the right
+B2
+W2
+Requires
+Surf
+Repel
+On Back Street, accessible from Castelia Sewers
+Spring
+Summer
+BlackGlasses
+Near the three Trainers on Back Street, accessible from Castelia Sewers
+Spring
+Summer
+B2
+W2
+When you and
+Hugh
+leave the ship, he asks that you register each other in the
+Xtransceiver
+. If you call him up, he will give you advice about where to go next on your journey. Pop Roxie will be waiting here, so you can return to
+Virbank City
+anytime.
+Oceanfront Road
+Harlequin Hunt
+When you step onto Oceanfront Road, you are stopped by a
+Harlequin
+, who is advertising the Castelia Harlequin Hunt. To complete the hunt, you need to speak to three other Harlequins scattered across the city; one is waiting in the
+Medal
+Office, another is in Passerby Analytics HQ, and the third is hiding out in the Battle Company building. This Harlequin gives you a
+Bicycle
+to help you travel around the city faster. After you meet the three others, you can talk to this clown again to receive a
+Rare Candy
+.
+Bridge Gate
+The gate on the city's east side leads to
+Skyarrow Bridge
+. Talk to the dark-haired woman inside to get a
+Quick Claw
+. A Worker blocks the way to the bridge; his team is busy inspecting the bridge, so it may be a while until it is open to the public again.
+The Royal Unova
+At the Cruise Ship Dock, the
+Royal Unova
+can be boarded in the evening for a fare of
+$
+1,000. Defeating a certain number of Trainers earns you a prize, but both of these change depending on the day. The ship returns to port after a certain amount of time has passed.
+Season
+Embarking Times
+Spring
+5:00pm - 7:59pm
+Summer
+7:00pm - 8:59pm
+Autumn
+5:00pm - 7:59pm
+Winter
+5:00pm - 6:59pm
+Day of the Week
+Number of Trainers
+Prize
+Sunday
+Seven people
+Rare Candy
+Monday
+Four people
+Lava Cookie
+Tuesday
+Three people
+Berry Juice
+Wednesday
+Four people
+Lava Cookie
+Thursday
+Five people
+Old Gateau
+Friday
+Four people
+Lava Cookie
+Saturday
+Six people
+RageCandyBar
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Mariana
+Reward:
+$
+1080
+Magnemite
+Lv.
+18
+No item
+Basculin
+♀
+Red-Striped Form
+Lv.
+18
+No item
+Ace Trainer
+Henry
+Reward:
+$
+1080
+Herdier
+♂
+Lv.
+18
+No item
+Marill
+♂
+Lv.
+18
+No item
+Lass
+Sibyl
+Reward:
+$
+256
+Budew
+♀
+Lv.
+16
+No item
+Sewaddle
+♀
+Lv.
+16
+No item
+Rich Boy
+Brad
+Reward:
+$
+2560
+Patrat
+♂
+Lv.
+16
+No item
+Zubat
+♂
+Lv.
+16
+No item
+Lady
+Elizandra
+Reward:
+$
+2560
+Purrloin
+♀
+Lv.
+16
+No item
+Eevee
+♂
+Lv.
+16
+No item
+Socialite
+Cassandra
+Reward:
+$
+3400
+Purrloin
+♀
+Lv.
+17
+No item
+Gentleman
+Robert
+Reward:
+$
+3400
+Lillipup
+♂
+Lv.
+17
+No item
+Maid
+Tanya
+Reward:
+$
+680
+Elekid
+♀
+Lv.
+17
+No item
+Clerk ♂
+Chaz
+Reward:
+$
+640
+Venipede
+♂
+Lv.
+16
+No item
+Psyduck
+♂
+Lv.
+16
+No item
+Youngster
+Abe
+Reward:
+$
+256
+Pidove
+♂
+Lv.
+16
+No item
+Patrat
+♂
+Lv.
+16
+No item
+Battle Company
+Trainers
+Trainer
+Pokémon
+47F
+Clerk ♂
+Clemens
+Reward:
+$
+640
+Growlithe
+♂
+Lv.
+16
+No item
+Clerk ♂
+Warren
+Reward:
+$
+640
+Marill
+♂
+Lv.
+16
+No item
+Clerk ♀
+Britney
+Reward:
+$
+640
+Budew
+♀
+Lv.
+16
+No item
+Clerk ♂
+Gilligan
+Reward:
+$
+1360
+Pidove
+♂
+Lv.
+17
+No item
+55F
+School Kid
+Neil
+Reward:
+$
+340
+Eevee
+♂
+Lv.
+17
+No item
+Herdier
+♂
+Lv.
+17
+No item
+1F
+The
+Battle Company
+stands to the left of the Harlequin. Inside, a Janitor near the entrance gives you an
+Exp. Share
+, which lets a Pokémon earn experience even if it does not battle. To the right, a female Ace Trainer asks which Pokémon that you took on your journey, and gives you a special item for it; a
+Miracle Seed
+for
+Snivy
+, a
+Charcoal
+for
+Tepig
+, or a
+Mystic Water
+for
+Oshawott
+. The first of the three Hunted Harlequins is seated at the other table.
+47F
+Battle the Clerk♂ near the elevator to get a couple of
+Quick Balls
+, then fight the Clerk♂ in the center of the room to receive 5
+Timer Balls
+. There is a
+Guard Spec.
+near the female Clerk, and the Scientist gives you a
+Scope Lens
+.
+55F
+Grab the
+Ether
+to the left, then go right to meet the Janitor from the entrance. The elderly man used to be the Battle Company's President, a title that now rests with his grandson. When you defeat him, he claims that his dream as president is to release a device that lets people talk to Pokémon.
+Location of Unity Tower in Unova
+Unity Pier
+Unity Pier is across from Narrow Street, in the center-west part of the city. The blue ship here ferries people to
+Unity Tower
+, which is only accessible after completing an international trade. If you talk to the girl she will give you one
+Destiny Knot
+.
+Liberty Pier
+The ship at the westernmost pier travels to
+Liberty Garden
+. Unlike
+Black and White
+, the
+Liberty Pass
+is not required to reach the island.
+Location of Liberty Garden in Unova
+Liberty Garden
+Liberty Garden
+is an island that was bought 200 years ago by a wealthy person who wished for a world where humans and Pokémon could live freely. The lighthouse in the center of the island has a small room with evidence that
+a small Pokémon
+once lived here alone.
+Passerby Analytics HQ
+When you enter the
+Passerby Analytics HQ
+across from Liberty Pier and talk to the lead researcher, he will appoint you to a job as a statistician. This title lets you receive Passerby Survey requests, and interact with other players. Complete the questionnaires to receive a variety of items. He will reward you with a
+Soda Pop
+when you complete all the surveys.
+Castelia Street
+Castelia Street building
+In the building on the left side of the street, a female Guitarist on the eleventh floor will give you
+TM44
+(
+Rest
+).
+Game Freak
+22F
+Across the street, you can visit with
+Game Freak
+, the people who made
+Black 2 and White 2
+. You can battle Morimoto and Nishino each once per day. There is also a
+Revive
+lying nearby. If you meet with the Game Director at the desk in the corner after completing the
+Pokédex
+, he will reward you with a certificate that will be posted on the wall of your bedroom.
+GAME FREAK
+Morimoto
+Castelia City
+Black 2 and White 2
+Reward:
+$
+1120
+Type:
+Grass
+Unknown
+Ability:
+Gluttony
+Held item:
+Oran Berry
+Pansage
+♂
+Lv.
+14
+Vine Whip
+Grass
+Physical
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Gluttony
+Held item:
+Oran Berry
+Pansear
+♂
+Lv.
+14
+Incinerate
+Fire
+Special
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Gluttony
+Held item:
+Oran Berry
+Panpour
+♂
+Lv.
+14
+Water Gun
+Water
+Special
+--
+Lick
+Ghost
+Physical
+--
+Fury Swipes
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+GAME FREAK
+Nishino
+Castelia City
+Black 2 and White 2
+Reward:
+$
+1280
+Type:
+Normal
+Unknown
+Ability:
+Cute Charm
+Held item:
+Leftovers
+Clefairy
+♀
+Lv.
+16
+Growl
+Normal
+Status
+--
+DoubleSlap
+Normal
+Physical
+--
+Follow Me
+Normal
+Status
+--
+Encore
+Normal
+Status
+--
+Mode Street
+Casteliacones
+Casteliacone
+This ice cream shop offers its famous soft-serve treat to customers only once per day. These tasty treats eliminate any status problems a Pokémon might have. They can be bought individually or by the dozen for
+$
+100 apiece, except in winter.
+Studio Castelia
+Across from Casteliacone is Studio Castelia, which displays many paintings from local artists. The man near the sculptures wants to see a different type of Pokémon every day. If you show him a Pokémon of the correct type, he will reward you with either a
+Cheri
+,
+Chesto
+,
+Pecha
+,
+Rawst
+, or
+Aspear Berry
+.
+Narrow Street
+When you pass by the dumpsters outside Café Sonata, you are stopped by a man looking for his sunglasses, who gives you
+TM70
+(
+Flash
+).
+Café Sonata
+In the center-left part of the city is Café Sonata. Many people stop to relax here after a long day of work. A
+Meloetta
+can learn
+Relic Song
+from the Musician, and the manager gives you a
+Moomoo Milk
+on your first visit.
+Gym Street
+Western building
+On the first floor are three people; the
+Name Rater
+, the girl at the table is a
+Pokémon groomer
+, and woman is the
+Feeling Checker
+. The
+Medal
+Office is located on the second floor; here you can check your Medal rank and number of Medals. Visit after collecting 50 Medals for your first rank-up ceremony.
+Fennel
+'s Lab is on the third floor; she and her assistant explain the
+Game Sync
+, while
+Amanita
+explains the PC Boxes and
+Pal Pad
+.
+Burgh is away
+Clyde
+is blocking the entrance to
+Castelia Gym
+, and claims that
+Burgh
+is not here. Just then a girl named
+Iris
+, who used to be the
+Opelucid
+Gym Leader, shows up. The two of you talk about
+Team Plasma
+, and she says that she may know a place where suspicious people would go to hide. Follow her east along Oceanfront Road to Thumb Pier, where you can enter the
+Castelia Sewers
+.
+Hugh
+arrives suddenly and enters the tunnels without a blink, so follow him inside.
+Castelia Sewers
+Inside the Sewers
+The water level inside the
+Castelia Sewers
+changes depending on the season. As the waters rise in spring and summer, and recede in autumn and winter, new areas become accessible while others are closed off. Traveling through the Sewers is the only way to reach Back Street and the Empty Lot.
+Trainers
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+1280
+(w. Team Plasma Grunt)
+Sandile
+♂
+Lv.
+16
+No item
+Team Plasma Grunt
+Reward:
+$
+1280
+(w. Team Plasma Grunt)
+Scraggy
+♂
+Lv.
+16
+No item
+Janitor
+Felix
+Reward:
+$
+640
+Lillipup
+♂
+Lv.
+16
+No item
+Trubbish
+♂
+Lv.
+16
+No item
+Worker
+Zack
+Reward:
+$
+680
+Drilbur
+♂
+Lv.
+17
+No item
+Doctor
+Heath
+Reward:
+$
+1020
+Sewaddle
+♂
+Lv.
+17
+No item
+Spring and Summer only, requires Surf
+Scientist
+Clarke
+Reward:
+$
+816
+Magnemite
+Lv.
+17
+No item
+Any season, requires Surf in Spring and Summer
+Worker
+Scott
+Reward:
+$
+640
+Timburr
+♂
+Lv.
+17
+No item
+Janitor
+Brady
+Reward:
+$
+1240
+Marill
+♂
+Lv.
+31
+No item
+Cinccino
+♀
+Lv.
+31
+No item
+Autumn and Winter only
+Scientist
+Caroline
+Reward:
+$
+816
+Grimer
+♀
+Lv.
+17
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Rattata
+B2
+W2
+Walking
+14-17
+45%
+Zubat
+B2
+W2
+Walking
+14-17
+45%
+Grimer
+B2
+W2
+Walking
+15, 17
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+All Seasons
+TwistedSpoon
+Near the two Plasma Grunts
+B2
+W2
+HM04
+(
+Strength
+)
+From Hugh after beating the two Plasma Grunts
+B2
+W2
+Leftovers
+North of Worker Zack, east of Doctor Heath
+B2
+W2
+X Sp. Def
+West of Janitor Felix (requires
+Surf
+in Spring, Summer)
+B2
+W2
+Pearl
+Near Worker Scott in the southwest (requires
+Surf
+in Spring, Summer)
+B2
+W2
+Spring and Summer only
+Heart Scale
+West of the two Plasma Grunts
+B2
+W2
+X Special
+Southwest of Janitor Felix
+B2
+W2
+Rare Bone
+Southwest of Doctor Heath
+B2
+W2
+TM41
+(
+Torment
+)
+West of Scientist Clarke in the southeast (requires
+Surf
+)
+B2
+W2
+Black Sludge
+West of Scientist Clarke and TM41 (requires
+Surf
+)
+B2
+W2
+If the
+player
+chose
+Snivy
+:
+If the
+player
+chose
+Tepig
+:
+If the
+player
+chose
+Oshawott
+:
+Pokémon Trainer
+Hugh
+Castelia Sewers
+Black 2 and White 2
+Reward:
+N/A
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+Charcoal
+Pignite
+♂
+Lv.
+20
+Flame Charge
+Fire
+Physical
+--
+Arm Thrust
+Fighting
+Physical
+--
+Smog
+Poison
+Special
+--
+Defense Curl
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+18
+Air Cutter
+Flying
+Physical
+--
+Leer
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Roost
+Flying
+Status
+--
+Pokémon Trainer
+Hugh
+Castelia Sewers
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+Mystic Water
+Dewott
+♂
+Lv.
+20
+Razor Shell
+Water
+Physical
+--
+Fury Cutter
+Bug
+Physical
+--
+Water Sport
+Water
+Status
+--
+Focus Energy
+Normal
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+18
+Air Cutter
+Flying
+Physical
+--
+Leer
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Roost
+Flying
+Status
+--
+Pokémon Trainer
+Hugh
+Castelia Sewers
+Black 2 and White 2
+Reward:
+N/A
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+Miracle Seed
+Servine
+♂
+Lv.
+20
+Leaf Tornado
+Grass
+Special
+--
+Leech Seed
+Grass
+Status
+--
+Growth
+Normal
+Status
+--
+Wrap
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+18
+Air Cutter
+Flying
+Physical
+--
+Leer
+Normal
+Status
+--
+Quick Attack
+Normal
+Physical
+--
+Roost
+Flying
+Status
+--
+Inside the Sewers, your rival suggests that the two of you team up. He will help you battle wild Pokémon, but not against other Trainers. He heals your Pokémon after every battle, so take advantage of this to train your team. With him around, wild Pokémon will appear in pairs, so knock one out before trying to catch the other.
+Head west and climb the north stairway. At the end of the walkway is a
+TwistedSpoon
+and a pair of
+Team Plasma Grunts
+. Once you and your rival beat them in a Double Battle, they run off claiming that they got the Pokémon they needed.
+Hugh
+is anxious to look for more Plasma members, but the Gym Leader,
+Burgh
+, arrives and claims that he did not see any other suspicious people. Hugh gives you
+HM04
+(
+Strength
+) as thanks for your help, then leaves. Just then,
+a mysterious man in a white coat
+exits the cave, and it seems that he was watching your battle. He praises the way you battled and leaves. Burgh leaves as well, leaving you free to explore the sewers.
+Not far to the south is a stairway leading up to the Empty Lot. This tiny park has a ring of tall and dark grass, a
+Miracle Seed
+, and a man who claims that this is where it all started for Castelia.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Cottonee
+B2
+W2
+Grass
+15-17
+35%
+Petilil
+B2
+W2
+Grass
+15-17
+35%
+Rattata
+B2
+W2
+Grass
+15-16
+30%
+Skitty
+B2
+W2
+Grass
+15-16
+15%
+Buneary
+B2
+W2
+Grass
+15-16
+15%
+Pidove
+B2
+W2
+Grass
+15-16
+15%
+Eevee
+B2
+W2
+Grass
+18
+5%
+Dark grass
+Cottonee
+B2
+W2
+Dark grass
+16-18
+35%
+Petilil
+B2
+W2
+Dark grass
+16-18
+35%
+Rattata
+B2
+W2
+Dark grass
+16-17
+30%
+Skitty
+B2
+W2
+Dark grass
+16-17
+15%
+Buneary
+B2
+W2
+Dark grass
+16-17
+15%
+Pidove
+B2
+W2
+Dark grass
+16-17
+15%
+Eevee
+B2
+W2
+Dark grass
+19
+5%
+Rustling grass
+Audino
+B2
+W2
+Grass
+15-18
+90%
+Lopunny
+B2
+W2
+Grass
+18
+5%
+Delcatty
+B2
+W2
+Grass
+18
+5%
+Whimsicott
+B2
+W2
+Grass
+18
+5%
+Lilligant
+B2
+W2
+Grass
+18
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Go south from the stairway, and check the island west of Janitor Felix for an
+X Sp. Def
+. Continue west to the next island to reach Doctor Heath and some
+Leftovers
+. In the nearby room, a female Scientist is trying to turn poison into medicine, and will give either a
+Potion
+,
+Super Potion
+, or
+Revive
+once per day, depending on her experiment's results. Now head east to the exit; you've got another Gym to challenge!
+Castelia Gym
+Castelia City Pokémon Gym
+Leader: Burgh
+Premier Insect Artist
+The
+Castelia Gym
+specializes in
+Bug-type
+Pokémon, and the building's theme is based on cocoons. Some of the cocoons are connected by strands of silk, and when you approach them, they pull you in and transport you to another one. Some of them have more than one entrance, and the direction they take you depends on which way you are facing. Battle Harlequin Gary and enter the east cocoon from the right side, then fight Harlequin Anders and enter the next cocoon from the left side to reach
+Burgh
+.
+Burgh's
+Swadloon
+and
+Leavanny
+have a double weakness to
+Fire
+- and
+Flying-type
+attacks, his Shelmet and Karrablast are weak to Fire-, Flying- and
+Rock-type
+moves while his
+Dwebble
+is vulnerable to
+Water
+- and Rock-type moves. If you can't exploit these weaknesses, an alternative tactic is to use
+TM70
+(
+Flash
+) to lower his Pokémon's accuracy.
+Main Room
+Top Floor
+Castelia Gym
+Trainers
+Trainer
+Pokémon
+Harlequin
+Clarence
+Reward:
+$
+640
+Sewaddle
+♂
+Lv.
+20
+No item
+Sewaddle
+♂
+Lv.
+20
+No item
+Harlequin
+Jack
+Reward:
+$
+640
+Combee
+♂
+Lv.
+20
+No item
+Swadloon
+♂
+Lv.
+20
+No item
+Harlequin
+Gary
+Reward:
+$
+608
+Sewaddle
+♂
+Lv.
+19
+No item
+Combee
+♂
+Lv.
+19
+No item
+Dwebble
+♂
+Lv.
+19
+No item
+Harlequin
+Anders
+Reward:
+$
+640
+Dwebble
+♂
+Lv.
+20
+No item
+Swadloon
+♂
+Lv.
+20
+No item
+Easy Mode/Normal Mode
+Leader
+Burgh
+Castelia Gym
+Black 2 and White 2
+Reward:
+$
+2640
+/
+$
+2880
+Types:
+Bug
+Grass
+Ability:
+Leaf Guard
+Held item:
+None
+Swadloon
+♂
+Lv.
+20
+/
+22
+String Shot
+Bug
+Status
+--
+Razor Leaf
+Grass
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+Protect
+Normal
+Status
+--
+Types:
+Bug
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Dwebble
+♂
+Lv.
+20
+/
+22
+Smack Down
+Rock
+Physical
+--
+Faint Attack
+Dark
+Physical
+--
+Rock Polish
+Rock
+Status
+--
+Struggle Bug
+Bug
+Special
+--
+Types:
+Bug
+Grass
+Ability:
+Swarm
+Held item:
+Sitrus Berry
+Leavanny
+♂
+Lv.
+22
+/
+24
+Razor Leaf
+Grass
+Physical
+--
+Cut
+Normal
+Physical
+--
+String Shot
+Bug
+Status
+--
+Struggle Bug
+Bug
+Special
+--
+Challenge Mode
+Leader
+Burgh
+Castelia Gym
+Black 2 and White 2
+Reward:
+$
+3120
+Types:
+Bug
+Rock
+Ability:
+Sturdy
+Held item:
+Sitrus Berry
+Dwebble
+♂
+Lv.
+24
+Rock Polish
+Rock
+Status
+--
+Faint Attack
+Dark
+Physical
+--
+Rock Blast
+Rock
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+Type:
+Bug
+Unknown
+Ability:
+Shell Armor
+Held item:
+None
+Shelmet
+♂
+Lv.
+24
+Acid
+Poison
+Special
+--
+Mega Drain
+Grass
+Special
+--
+Struggle Bug
+Bug
+Special
+--
+Curse
+Ghost
+Status
+--
+Type:
+Bug
+Unknown
+Ability:
+Shed Skin
+Held item:
+None
+Karrablast
+♂
+Lv.
+24
+Endure
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+Headbutt
+Normal
+Physical
+--
+Types:
+Bug
+Grass
+Ability:
+Swarm
+Held item:
+Sitrus Berry
+Leavanny
+♂
+Lv.
+26
+GrassWhistle
+Grass
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Razor Leaf
+Grass
+Physical
+--
+Struggle Bug
+Bug
+Special
+--
+After the battle,
+Burgh
+awards you the
+Insect Badge
+, which makes all Pokémon of level 40 or less obey you. He also gives you
+TM76
+(
+Struggle Bug
+) as a prize.
+Central Plaza
+Talk to the old man near the fountain to add the
+Entralink
+Funfest Mission,
+Train with Martial Artists
+. Nearby, the man in the white coat identifies himself as
+Colress
+and asks to battle you for research purposes. He will wait for you on
+Route 4
+.
+Street to Route 4
+In the building on the left, an old man gives you an
+Amulet Coin
+on the first floor. There are two buildings on the right. On 47F of the south building, a girl will give you
+TM45
+(
+Attract
+). In the north building, a Scientist on the first floor gives you an
+Eviolite
+if you've seen at least 40 different Pokémon, and a
+Charcoal
+lies on 47F.
+← Part 3
+Virbank City, Virbank Complex, Virbank Gym, Pokéstar Studios
+Black 2 and White 2
+walkthrough
+Route 4, Desert Resort, Relic Castle, Join Avenue
+Part 5 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

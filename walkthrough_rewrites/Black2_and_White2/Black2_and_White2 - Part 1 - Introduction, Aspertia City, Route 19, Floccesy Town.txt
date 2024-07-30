@@ -1,0 +1,55 @@
+Game: Black2_and_White2
+Part: 1
+Keywords: Introduction, Aspertia City, Route 19, Floccesy Town
+
+**Part 1 Walkthrough: Aspertia City, Route 19, Floccesy Town**
+
+**Introduction**  
+Start a new game and select your character's gender. Professor Juniper will introduce you to the Pokémon world and your rival, Hugh. Customize your names and begin your adventure.
+
+**Aspertia City**  
+- Your journey starts here. Visit **Aspertia Outlook** for a view of Unova.
+- The **Aspertia Gym** is closed initially.
+- **Items to Collect:**
+  - **Xtransceiver** and **Pal Pad** in your bag.
+  - **Pokédex** from Bianca at Aspertia Outlook.
+  - **Poké Balls (×10)** from Bianca in the Pokémon Center.
+  - **Running Shoes** from Mom outside the Pokémon Center.
+  - **Town Map** from Hugh's sister.
+  - **Potion** from the attendant at the gate.
+  - **TM53 (Energy Ball)** requires Surf after becoming Champion.
+  - **Max Revive (×2)** from Mom after becoming Champion.
+
+**Home**  
+Mom will offer you a Pokémon and a Pokédex. After accepting, meet Hugh, who wants to find Bianca.
+
+**Aspertia Outlook**  
+Climb the stairs to find Bianca. Choose your starter Pokémon: Snivy (Grass), Tepig (Fire), or Oshawott (Water). After choosing, Bianca gives you a Pokédex and Hugh challenges you to a battle. 
+
+**Battle Strategy:**  
+- This battle is straightforward; winning earns you $500 and experience to level 6.
+
+**Pokémon Center**  
+Bianca will tour you through the Pokémon Center. Healing and item purchasing are available here. After exiting, receive **Running Shoes** from Mom and a **Town Map** from Hugh's sister. Bianca will show you how to catch Pokémon.
+
+**Route 19**  
+A short route that connects Aspertia City and Floccesy Town.  
+- **Available Pokémon:** 
+  - Patrat (Lv. 2-4)
+  - Purrloin (Lv. 2-4)
+- **Items:**
+  - **Potion** in the eastern grass.
+  - **Water Stone** northwest of the pond.
+  - **Nest Ball** northeast.
+  - **Expert Belt** hidden where Alder stood.
+
+Bianca will demonstrate capturing a Purrloin. Follow the path to meet Alder, who will guide you to Floccesy Town.
+
+**Floccesy Town**  
+Notable for its clock tower. Alder will inform you about Hugh being on Route 20.  
+- **Items:**
+  - **Potion (×2)** from an old man in a house east of the Pokémon Center.
+
+Continue to explore Route 20, Floccesy Ranch, and Pledge Grove. 
+
+**Next Steps:** Proceed to Part 2 for further instructions.

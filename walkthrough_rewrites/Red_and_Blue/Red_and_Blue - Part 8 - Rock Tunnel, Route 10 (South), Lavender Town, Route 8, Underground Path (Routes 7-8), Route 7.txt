@@ -1,0 +1,47 @@
+Game: Red_and_Blue
+Part: 8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+**Pokémon Red and Blue Walkthrough - Part 8**
+
+**Route 10**  
+- **Rock Tunnel**: The cave is dark; use a Pokémon with **Flash** for visibility.
+- **Trainers**:  
+  - **1F**: PokéManiac (Cubone, Lv. 23), Hiker (Geodude, Lv. 19, Machop, Lv. 19), Jr. Trainer (Bellsprout, Lv. 22, Clefairy, Lv. 22).
+  - **B1F**: PokéManiac (Slowpoke, Lv. 25), Hiker (Onix, Lv. 20), Jr. Trainer (Oddish, Lv. 22, Bulbasaur, Lv. 22).
+- **Pokémon** available: Zubat, Geodude, Machop, Onix (various levels).
+- **Key Locations**: 
+  - **1F (Northeast)**: Defeat the PokéManiac, then go down the ladder.
+  - **B1F (Southeast)**: Battle trainers and take the ladder back up.
+  - **1F (South)**: Battle the last three Trainers; exit is southwest.
+
+**Route 10 (South)**  
+- Shorter than the northern route. Option to avoid Trainers by taking the eastern path.
+- **Trainers**: Jr. Trainer (Pidgey, Lv. 21), Hiker (Geodude, Lv. 21, Onix, Lv. 21).
+
+**Lavender Town**  
+- Notable for **Pokémon Tower**, a location for ghost-type Pokémon.
+- **Items**: 
+  - **Max Ether**: East of Rock Tunnel exit.
+  - **Poké Flute**: From Mr. Fuji after rescuing him in Pokémon Tower.
+- **Name Rater**: Change Pokémon nicknames for free.
+- **Lavender Volunteer Pokémon House**: Caretakers for abandoned Pokémon.
+
+**Pokémon Tower**  
+- Contains ghost-type Pokémon like Gastly and Haunter.  
+- **Rival Battle**: Blue on the second floor, can battle now or later.
+- **Restless Spirits**: True ghost blocks access to the top floor; return later after obtaining a specific item.
+
+**Route 8**  
+- Connects Lavender Town to Saffron City.
+- **Trainers**: Various battles against Clefairy, Growlithe, Vulpix, Grimer, etc.
+- **Items**: Hidden Nugget and Elixir in the Underground Path.
+
+**Underground Path**  
+- Cannot access Saffron City yet due to gatekeepers. Follow the path west to Route 7.
+
+**Route 7**  
+- Short route linking Saffron City and Celadon City.
+- **Available Pokémon**: Pidgey, Meowth, Mankey, Oddish, Bellsprout, Vulpix, Growlithe (various levels).
+
+Use this guide to navigate through Rock Tunnel, Lavender Town, and surrounding routes efficiently while battling trainers and capturing Pokémon.

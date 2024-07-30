@@ -1,0 +1,68 @@
+Game: Black2_and_White2
+Part: 2
+Keywords: Route 20, Floccesy Ranch, Pledge Grove, Aspertia Gym
+
+**Part 2 Walkthrough: Route 20, Floccesy Ranch, Pledge Grove, Aspertia Gym**
+
+**Route 20**
+- Connects Floccesy Town and Virbank City. 
+- Head north to Floccesy Ranch; watch out for Trainer battles.
+- **Trainers:**
+  - Youngster Terrell (Patrat Lv. 4)
+  - Lass Isabel (Purrloin Lv. 4)
+  - Youngster Petey (Patrat Lv. 4)
+- **Items:**
+  - Parlyz Heal (north of Isabel)
+  - Hidden Poké Balls (northwest of Hiker Jerome)
+
+**Floccesy Ranch**
+- Owned by a couple; expect more trainers and wild Pokémon.
+- **Trainers:**
+  - Lass Molly (Purrloin, Sewaddle Lv. 6)
+  - Janitor Orville (Lillipup, Mareep Lv. 6)
+  - Youngster Kenny (Patrat, Psyduck Lv. 6)
+- **Wild Pokémon:** Patrat, Lillipup, Psyduck, Azurill, Pidove, Mareep, Riolu.
+- **Items:**
+  - Potions (from owner's wife; in forest east of Kenny)
+  - TM21 (Frustration from Plasma Grunt in the forest)
+
+- Battle Hugh after entering pastures; he'll challenge you based on your starter Pokémon (Tepig, Oshawott, Snivy).
+- After helping find Herdier, return to Floccesy Town.
+
+**Floccesy Town**
+- **Items:**
+  - X Speed (west of Alder's house)
+  - Potion (old man east of Pokémon Center)
+  - Medal Box (from Mr. Medal)
+
+**Alder's House**
+- Battle Alder's students to train your Pokémon. Type match-ups matter.
+- **Pledge Grove:** Behind Alder's house, Keldeo can learn Secret Sword here.
+
+**Aspertia City**
+- **Items:**
+  - X Defend (Trainers' School)
+  - Fresh Water (Clyde behind school)
+  - Post-Gym rewards: TM83 (Work Up from Cheren), TM27 (Return from Bianca), C-Gear.
+
+**Aspertia Gym**
+- **Leader:** Cheren (Normal-type Pokémon).
+- **Strategy:** Defeat quickly; use Fighting-type moves if you have Riolu.
+- **Trainers:**
+  - Youngster Pedro (Patrat, Lillipup Lv. 9)
+  - Lass Serena (Lillipup, Patrat Lv. 9)
+
+- **Cheren's Team:**
+  - Patrat (Lv. 10/11) - Tackle, Work Up
+  - Lillipup (Lv. 12/13) - Tackle, Work Up
+
+- Defeating Cheren earns you the Basic Badge (obedience up to level 20) and TM83 (Work Up).
+
+**Post-Gym:**
+- Bianca upgrades your Pokédex with the Habitat List.
+- Cheren shares info about stronger Pokémon in dark grass on Route 20, where he gifts Pecha Berries.
+
+**Return to Route 20**
+- Encounter trainers and wild Pokémon; utilize dark grass for stronger battles.
+
+**End of Part 2**

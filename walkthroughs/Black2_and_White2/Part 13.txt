@@ -1,0 +1,2377 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_13
+Keywords: Opelucid City, Route 9, Opelucid Gym, Marine Tube, Humilau City, Humilau Gym, Route 22
+
+Walkthrough Text:
+Contents
+1
+Opelucid City
+1.1
+Reunite with Iris
+1.2
+Get Props from the old man
+1.3
+The Tympole Choir
+2
+Route 9
+2.1
+Shopping Mall Nine
+2.1.1
+A Request
+2.1.2
+Items
+3
+Opelucid City
+3.1
+Opelucid Gym
+3.1.1
+Easy Mode/Normal Mode
+3.1.2
+Challenge Mode
+3.2
+Drayden's Story
+3.3
+Team Plasma Attacks!
+4
+Marine Tube
+5
+Humilau City
+5.1
+Meet up with Hugh
+5.2
+Move Tutor
+5.3
+Time for a Trade
+5.4
+A New Funfest Mission
+5.5
+Mienfoo's Daily Walk
+5.6
+Home is Where the Heart Scales Are
+5.7
+Humilau Gym
+5.7.1
+Easy Mode/Normal Mode
+5.7.2
+Challenge Mode
+6
+Route 22
+6.1
+Terrakion is waiting
+6.2
+Return to Humilau
+Opelucid City
+Opelucid City
+B
+Opelucid City
+is a convenient city of rapid change that shows no traces of the past. The
+Opelucid Gym
+is managed only by the city's mayor,
+Drayden
+, as
+Iris
+has given up her Gym Leader position.
+Items
+Item
+Location
+Games
+Prop
+From the
+Musical
+fan in the westernmost building (once daily; Big Bag, Fluffy Beard, Gift Box, Scarlet Hat)
+B2
+W2
+Float Stone
+From the Linebacker on the second floor of Drayden's house
+B2
+W2
+Ring Target
+From the girl on the second floor of Drayden's house
+B2
+W2
+Smoke Ball
+From the Lady in the building east of the Gym
+B2
+W2
+Inside the Gym
+Fresh Water
+From Clyde at the entrance
+B2
+W2
+TM82
+(
+Dragon Tail
+)
+From Drayden after defeating him
+B2
+W2
+Reunite with Iris
+Iris
+calls out to you upon entering the city. She points you toward the Gym, but recommends training on
+Route 9
+before challenging her "grandfather"
+Drayden
+.
+Get Props from the old man
+Visit the westernmost house, and speak to the old man inside. He is a big fan of
+Musicals
+, and will hand out one
+Prop
+every day for a total of four. Stop by again to get a Big Bag, Fluffy Beard, Gift Box, and Scarlet Hat.
+The Tympole Choir
+There are five
+Tympole
+in the house to the north of the Pokémon Center. If you visit with a Tympole in your party, you will have an amazing opportunity to hear six Tympole singing in harmony.
+Route 9
+Route 9
+Route 9
+is a paved road that runs through a wooded area. To the north is
+Shopping Mall Nine
+, which offers the greatest variety of goods in the region.
+Trainers
+Trainer
+Pokémon
+Roughneck
+Chance
+エイキチ
+Eikichi
+Reward:
+$
+1032
+Scraggy
+♂
+Lv.
+43
+No item
+Biker
+Zeke
+キョウジ
+Kyōji
+Reward:
+$
+1376
+Pawniard
+♂
+Lv.
+43
+No item
+Biker
+Phillip
+フィリップ
+Phillip
+Reward:
+$
+1376
+Skorupi
+♂
+Lv.
+43
+No item
+Hooligans
+Jim & Cas
+ジムとサブ
+Jim and Sabu
+Reward:
+$
+2688
+Krookodile
+♂
+Lv.
+42
+No item
+Drapion
+♂
+Lv.
+42
+No item
+Roughneck
+Reese
+リュウジ
+Ryūji
+Reward:
+$
+1032
+Krokorok
+♂
+Lv.
+43
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Minccino
+B2
+W2
+Grass
+37, 39
+30%
+Gothorita
+B2
+W2
+Grass
+37, 39
+25%
+Duosion
+B2
+W2
+Grass
+37, 39
+25%
+Garbodor
+B2
+W2
+Grass
+38, 40
+15%
+Pawniard
+B2
+W2
+Grass
+38, 40
+15%
+Liepard
+B2
+W2
+Grass
+40
+10%
+Muk
+B2
+W2
+Grass
+40
+5%
+Dark grass
+Minccino
+B2
+W2
+Dark grass
+41, 43
+30%
+Gothorita
+B2
+W2
+Dark grass
+41, 43
+25%
+Duosion
+B2
+W2
+Dark grass
+41, 43
+25%
+Garbodor
+B2
+W2
+Dark grass
+42, 44
+15%
+Pawniard
+B2
+W2
+Dark grass
+42, 44
+15%
+Liepard
+B2
+W2
+Dark grass
+44
+10%
+Muk
+B2
+W2
+Dark grass
+44
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+37-40
+80%
+Emolga
+B2
+W2
+Rustling grass
+38
+10%
+Cinccino
+B2
+W2
+Rustling grass
+40
+5%
+Gothitelle
+B2
+W2
+Rustling grass
+40
+5%
+Reuniclus
+B2
+W2
+Rustling grass
+40
+5%
+Hidden Grotto
+Liepard
+B2
+W2
+Hidden Grotto
+35-40
+Common
+Muk
+B2
+W2
+Hidden Grotto
+35-40
+Uncommon
+Garbodor
+B2
+W2
+Hidden Grotto
+35-40
+Uncommon
+Bouffalant
+B2
+W2
+Hidden Grotto
+35-40
+Rare
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+South of the Opelucid gate
+B2
+W2
+Nugget
+West of Roughneck Reese
+B2
+W2
+Iron
+Outside the collapsed Challenger's Cave
+B2
+W2
+Dark Gem
+Southeast of Roughneck Reese (hidden)
+B2
+W2
+Quick Ball
+On the road near Biker Phillip
+B2
+W2
+HP Up
+Near Hooligans Jim & Cas
+B2
+W2
+Shopping Mall Nine
+Shopping Mall Nine
+This convenient mall has a great selection of items, including some not found in any Poké Mart, so be sure to spend, spend, spend! Don't miss out on special evening deals; talk to the Waitress on the east side of the ground floor to buy items like
+Poké Balls
+at a discount. The stockroom is packed with boxes of appliances; bringing a
+Rotom
+here will allow it to change its form.
+Trainers
+Trainer
+Pokémon
+Waitress
+Olwen
+マドカ
+Madoka
+Reward:
+$
+1720
+Minccino
+♀
+Lv.
+43
+No item
+Waiter
+Lou
+エツヤ
+Etsuya
+Reward:
+$
+1720
+Liepard
+♂
+Lv.
+43
+No item
+Items
+Item
+Location
+Games
+Poké Doll
+In the stockroom
+B2
+W2
+From the Lady on the ground floor
+$
+1200
+An allowance to buy her a Hyper Potion
+B2
+W2
+Energy Root
+Reward given that same day
+B2
+W2
+EnergyPowder
+Reward given the next day
+B2
+W2
+A Request
+Talk to the Lady on the ground floor, and she gives you
+$
+1200 to buy her a
+Hyper Potion
+. Bring her one that same day, and she rewards you with an
+Energy Root
+. If you wait and bring it to her the next day, you'll get an
+EnergyPowder
+instead.
+Items
+Ground floor
+Cashier
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Revive
+$
+1500
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Burn Heal
+$
+250
+Ice Heal
+$
+200
+Awakening
+$
+250
+Full Heal
+$
+600
+Escape Rope
+$
+550
+Poké Toy
+$
+1000
+Repel
+$
+350
+Super Repel
+$
+500
+Max Repel
+$
+700
+Mid-level
+Left cashier
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Heal Ball
+$
+300
+Net Ball
+$
+1000
+Nest Ball
+$
+1000
+Dusk Ball
+$
+1000
+Quick Ball
+$
+1000
+Timer Ball
+$
+1000
+Greet Mail
+$
+50
+Favored Mail
+$
+50
+RSVP Mail
+$
+50
+Thanks Mail
+$
+50
+Inquiry Mail
+$
+50
+Like Mail
+$
+50
+Reply Mail
+$
+50
+Right cashier
+TM15
+(
+Hyper Beam
+)
+$
+90000
+TM68
+(
+Giga Impact
+)
+$
+90000
+Top floor
+Left cashier
+Protein
+$
+9800
+Iron
+$
+9800
+Calcium
+$
+9800
+Zinc
+$
+9800
+Carbos
+$
+9800
+HP Up
+$
+9800
+Right cashier
+X Speed
+$
+350
+X Attack
+$
+500
+X Defend
+$
+550
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+X Accuracy
+$
+950
+X Special
+$
+350
+X Sp. Def
+$
+350
+Vending machine
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+Opelucid City
+Opelucid Gym
+Opelucid City Pokémon Gym
+Leader: Drayden
+The Spartan Mayor
+The
+Opelucid Gym
+specializes in
+Dragon-type
+Pokémon, which are only vulnerable to
+Ice
+- and Dragon-type attacks. The Gym consists of two large dragon statues, one near the entrance and the other at the rear wall. Challengers must defeat at least one Trainer from each level to advance. First off, defeat Veteran Lucius to activate the switch on the first dragon's neck; this elevates you to the level of the next two Trainers. On the left, Veteran Rhona prefers fighting defensively, while Veteran Jerry on the right favors offense. Defeat at least one to reach the next level. On the left, Veteran Denae fights in a
+Rotation Battle
+, while Veteran Ron on the right fights in a
+Triple Battle
+. Once they fall, your statue rises to
+Drayden
+'s level and the two statues butt heads, allowing you to reach the Gym Leader.
+Consider having a Move Tutor teach some new moves;
+Dual Chop
+and
+Ice Punch
+are available in
+Driftveil
+, while
+Icy Wind
+and
+Dragon Pulse
+can be taught in
+Lentimas
+. Avoid using
+Grass
+-,
+Fire
+-,
+Water
+-, or
+Electric-type
+attacks, as dragons are resistant to such moves.
+Druddigon
+'s
+Revenge
+makes its opponent pay for not knocking it out in one hit, while
+Crunch
+deals extra damage from its
+Sheer Force
+Ability.
+Flygon
+'s
+Rock Slide
+nails any Ice-type opponent aiming for its double-weakness, and
+Earth Power
+can also inflict serious damage. Lastly, his
+Haxorus
+starts with high
+Attack
+and can boost it (and
+Speed
+) even further with
+Dragon Dance
+, so knock it out as soon as possible! All three dragons share the
+Dragon Tail
+attack, which forces the damaged opponent to switch out.
+Opelucid Gym
+Trainers
+Trainer
+Pokémon
+Veteran
+Lucius
+リュウセイ
+Ryūsei
+Reward:
+$
+3680
+Fraxure
+♂
+Lv.
+46
+No item
+Veteran
+Rhona
+タツミ
+Tatsumi
+Reward:
+$
+3600
+Fraxure
+♀
+Lv.
+45
+Haban Berry
+Druddigon
+♀
+Lv.
+45
+Rocky Helmet
+Veteran
+Jerry
+タツロウ
+Tatsurō
+Reward:
+$
+3600
+Fraxure
+♂
+Lv.
+45
+Dragon Fang
+Druddigon
+♂
+Lv.
+45
+Dragon Gem
+Rotation Battle
+Veteran
+Denae
+ドレイク
+Drake
+Reward:
+$
+3520
+Fraxure
+♀
+Lv.
+44
+No item
+Druddigon
+♀
+Lv.
+44
+No item
+Axew
+♀
+Lv.
+44
+No item
+Triple Battle
+Veteran
+Ron
+ロン
+Long
+Reward:
+$
+3520
+Fraxure
+♂
+Lv.
+44
+No item
+Druddigon
+♂
+Lv.
+44
+No item
+Axew
+♂
+Lv.
+44
+No item
+Easy Mode/Normal Mode
+Leader
+Drayden
+Opelucid Gym
+Black 2 and White 2
+Reward:
+$
+4320
+/
+$
+5760
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+None
+Druddigon
+♂
+Lv.
+42
+/
+46
+Revenge
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+42
+/
+46
+Rock Slide
+Rock
+Physical
+--
+Earth Power
+Ground
+Special
+--
+Crunch
+Dark
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Sitrus Berry
+Haxorus
+♂
+Lv.
+44
+/
+48
+Dragon Dance
+Dragon
+Status
+--
+Dragon Tail
+Dragon
+Physical
+--
+Slash
+Normal
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Challenge Mode
+Leader
+Drayden
+Opelucid Gym
+Black 2 and White 2
+Reward:
+$
+7200
+Type:
+Dragon
+Unknown
+Ability:
+Sheer Force
+Held item:
+Sitrus Berry
+Druddigon
+♂
+Lv.
+50
+Revenge
+Fighting
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Flygon
+♂
+Lv.
+50
+Rock Slide
+Rock
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earth Power
+Ground
+Special
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♂
+Lv.
+50
+Cotton Guard
+Grass
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Sing
+Normal
+Status
+--
+Dragon Pulse
+Dragon
+Special
+--
+Type:
+Dragon
+Unknown
+Ability:
+Mold Breaker
+Held item:
+Sitrus Berry
+Haxorus
+♂
+Lv.
+52
+Dragon Dance
+Dragon
+Status
+--
+Dragon Tail
+Dragon
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Defeated,
+Drayden
+awards you the
+Legend Badge
+, which ensures that all Pokémon of level 80 or less will obey you. He also gives you
+TM82
+(
+Dragon Tail
+) as a prize.
+Drayden's Story
+Drayden
+shows you to his home, where he tells the story of the two dragons, the legend of
+Kyurem
+, and the history of his family heirloom.
+Let me tell you the story. It's a long story, but listen closely. It was two years ago when the two dragon Pokémon were awakened. The black dragon Pokémon,
+Zekrom
+, pursued what is ideal, with the desire to usher in a new world of hope. And the white dragon Pokémon,
+Reshiram
+, sought what is true, with the desire to usher in a new world of goodness. Zekrom and Reshiram were once a single Pokémon. You may wonder why it split in two. The single dragon Pokémon had helped the twin heroes bring a new region into being. But the twin heroes--the older brother who sought the truth and the younger brother who sought ideals--sundered the region in two as they fought to see which of them was right. In that desperate hour, the single dragon Pokémon split its body into a black Pokémon and a white Pokémon, even though ideals and truth don't need to be in opposition! As the story goes, a third dragon Pokémon,
+Kyurem
+, also came into existence in that era. And there may be proof of this to be found in a treasure passed down in my family for generations: the
+DNA Splicers
+.
+Professor Juniper
+'s research determined that the materials in the splicers date back to the same era as the materials used in building the
+Dragonspiral Tower
+. Oh, the DNA Splicers are stored very safely. I guard them because I don't know what kind of power might lie within them. But here's what's been bothering me... Could there be one more dragon Pokémon? Even if Kyurem really exists, we don't know what kind of Pokémon it is. For starters, the two Pokémon the ancient Pokémon split into are both overwhelmingly powerful. So if Kyurem exists, could it be just a husk--a shell that was left over?
+Team Plasma Attacks!
+The building is rocked by a sudden tremor. Outside, the
+Plasma Frigate
+approaches from the sky. It readies its cannon and fires a few shots of ice at the city. Every shot freezes a part of the city, leaving the area difficult to navigate.
+Drayden
+doesn't appreciate this and sends his
+Haxorus
+to smash the nearest ice crystal, but it doesn't work.
+Zinzolin
+appears and demands that Drayden hand over the
+DNA Splicers
+. He refuses, but the Sage won't give up so easily. He sends his Grunts to search for the splicers, and the Gym Leader asks that you track them down.
+Team Plasma
+Trainer
+Pokémon
+Team Plasma Grunt
+Reward:
+$
+1760
+Watchog
+♂
+Lv.
+44
+No item
+Muk
+♂
+Lv.
+44
+No item
+Team Plasma Grunt
+Reward:
+$
+1760
+Golbat
+♀
+Lv.
+44
+No item
+Garbodor
+♀
+Lv.
+44
+No item
+Team Plasma Grunt
+Reward:
+$
+1760
+Seviper
+♂
+Lv.
+44
+No item
+Weezing
+♂
+Lv.
+44
+No item
+Slide south over the ice to catch up with Drayden, and fight the first Grunt just east of the Pokémon Center. Next, slide north to find the second Grunt outside the former Battle House. After that, track down the third Grunt to the south of the Gym. When all three are defeated, return to the Gym to take on
+Zinzolin
+. Use
+Fire
+- and
+Fighting-type
+moves to bring the battle to a quick end.
+Team Plasma
+Zinzolin
+Opelucid City
+Black 2 and White 2
+Reward:
+$
+8640
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Reflect
+Psychic
+Status
+--
+Type:
+Ice
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Cryogonal
+Lv.
+46
+Slash
+Normal
+Physical
+--
+Ice Beam
+Ice
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+48
+Slash
+Normal
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Ice Shard
+Ice
+Physical
+--
+Zinzolin
+runs off and
+Drayden
+heals your Pokémon. He steps inside the Gym briefly to retrieve the
+DNA Splicers
+, which he shows to you. Just then, one of the
+Shadow Triad
+appears and steals the splicers. The two others appears as well, and the three run off. Head south toward the
+Route 11
+gate to find one of them waiting for you. Attack with
+Fighting-type
+moves for a decisive victory.
+Team Plasma
+Shadow
+Opelucid City
+Black 2 and White 2
+Reward:
+$
+8640
+Types:
+Dark
+Steel
+Ability:
+Defiant
+Held item:
+None
+Pawniard
+♂
+Lv.
+46
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Types:
+Dark
+Steel
+Ability:
+Inner Focus
+Held item:
+None
+Pawniard
+♂
+Lv.
+46
+Faint Attack
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Metal Claw
+Steel
+Physical
+--
+Type:
+Dark
+Unknown
+Ability:
+Super Luck
+Held item:
+None
+Absol
+♂
+Lv.
+48
+Swords Dance
+Normal
+Status
+--
+Night Slash
+Dark
+Physical
+--
+Slash
+Normal
+Physical
+--
+Future Sight
+Psychic
+Special
+--
+Unfortunately, this
+Shadow
+did not have the splicers. He vanishes, and
+Drayden
+runs over to see if you are alright. Just then,
+Hugh
+and
+Cheren
+call on the
+Xtransceiver
+. They saw the ship attack the city, and Cheren is headed there now. He says that
+Humilau City
+has the lowest temperature readings in the region right now, so
+Team Plasma
+must be nearby. Return to
+Undella Town
+and enter the
+Marine Tube
+.
+Marine Tube
+Marine Tube
+The
+Marine Tube
+is an undersea tunnel built with cutting-edge technology. Known as
+The Walk-Through Aquarium
+, the path features a transparent dome so that visitors can see the various ocean-dwelling Pokémon.
+Wailord
+appears every day from 3pm to 4pm; seeing it swim over and under the tunnel earns you the Wailord Watcher
+Medal
+.
+Items
+Item
+Location
+Games
+Black Sludge
+From a girl after showing her a Pokémon holding a
+Poison Barb
+B2
+W2
+TM42
+(
+Facade
+)
+From a Parasol Lady in the north entrance
+B2
+W2
+Humilau City
+Humilau City
+Humilau City
+is a resort town with a tropical atmosphere. Surrounded by the ocean, the homes here are built on wooden bridges. In addition to the
+Marine Tube
+, the city connects to
+Route 21
+in the south and
+Route 22
+in the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Frillish
+B2
+W2
+Surfing
+30-45
+65%
+Staryu
+B2
+W2
+Surfing
+30-45
+30%
+Basculin
+B2
+W2
+Surfing
+35-45
+5%
+Basculin
+B2
+W2
+Surfing
+35-45
+5%
+Rippling water
+Jellicent
+B2
+W2
+Rippling water
+35-45
+60%
+Corsola
+B2
+W2
+Rippling water
+35-45
+30%
+Starmie
+B2
+W2
+Rippling water
+35-45
+5%
+Basculin
+B2
+W2
+Rippling water
+35-45
+5%
+Basculin
+B2
+W2
+Rippling water
+35-45
+5%
+Special Pokémon
+Tangrowth
+B2
+W2
+Trade
+Mantine
+45
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×7
+Near the northeast building
+Near a Swimmer
+♀
+in the central part of town (hidden)
+Speak to the Nurse in the northeast building with a
+Luvdisc
+in your party (×5)
+B2
+W2
+Full Restore
+In the southwest building, in the trash can (hidden)
+B2
+W2
+Shell Bell
+Behind the Gym
+B2
+W2
+Pearl
+From the Socialite in the northwest building for taking her
+Mienfoo
+on a walk
+B2
+W2
+Protein
+West of the Lady on the north side of town
+B2
+W2
+Sitrus Berry
+Held by the Roughneck's traded
+Tangrowth
+B2
+W2
+Inside the Gym
+Fresh Water
+From Clyde near the entrance
+B2
+W2
+TM55
+(
+Scald
+)
+From Marlon after defeating him
+B2
+W2
+After entering the Hall of Fame
+Revive
+Speak to the couple and fulfill their request by ringing the bell at
+Celestial Tower
+B2
+W2
+Meet up with Hugh
+Hugh
+is waiting near the
+Marine Tube
+exit. When you approach him, he suggests taking on the final Gym Leader. But first, you will need to track him down.
+Marlon
+is a man of the sea, and as you walk north, he leaps out of the water and onto the pier. After meeting him here, he will return to the Gym.
+Move Tutor
+The local
+Move Tutor
+lives in the southeast house, directly north of the
+Marine Tube
+. This individual is obsessed with
+Yellow Shards
+, and will teach a variety of moves for the right number.
+Giga Drain
+will be useful at the final Gym, and
+Seed Bomb
+and
+ThunderPunch
+can be learned in
+Driftveil City
+.
+Move
+Type
+Category
+Shards
+Bind
+2
+Snore
+2
+Heal Bell
+4
+Knock Off
+4
+Synthesis
+6
+Roost
+6
+Sky Attack
+8
+Move
+Type
+Category
+Shards
+Role Play
+8
+Heat Wave
+10
+Giga Drain
+10
+Drain Punch
+10
+Pain Split
+10
+Tailwind
+10
+Time for a Trade
+In the house just north of the Gym, a Roughneck offers to trade Pokémon. He offers a
+Tangrowth
+in exchange for a
+Mantine
+. Mantine can be found in
+Undella Bay
+, except during the winter.
+A New Funfest Mission
+Outside the Roughneck's house is an old man. Talking to him will add a new
+Funfest Mission
+,
+Memory Training
+.
+Mienfoo's Daily Walk
+In the northwest house lives a Socialite and her
+Mienfoo
+. Once a day, she will ask that you take Mienfoo on a walk. Lead it around the house for a while, and the old woman rewards you with a
+Pearl
+.
+Home is Where the Heart Scales Are
+A Nurse with a
+Stunfisk
+lives in the northeast house. She likes flat Pokémon, and will give out five
+Heart Scales
+if you speak to her with a
+Luvdisc
+in your party. Luvdisc can only be caught by fishing, but the Super Rod is not obtained until later.
+Humilau Gym
+Humilau Gym
+Humilau City Pokémon Gym
+Leader: Marlon
+More Splash Than The Sea
+The marshy
+Humilau Gym
+specializes in
+Water-type
+Pokémon, so
+Grass
+- and
+Electric-type
+attacks will work best. To reach the Gym Leader, challengers must move from dock to dock by floating on large lily pads. When stepped on, they move in the same direction until they hit an obstacle. When they hit each other, the first stops and the second moves on. Jump on the first lily pad to reach the southwest dock, and ride the second one eastward. Climb onto the dock and go east to fight Ace Trainer Melina. Float south to the next dock and loop around to reach the bridge. To reach Ace Trainer Santino, ride the nearby pad south then east; this moves another pad into place, letting you continue along the east wall. Take on Ace Trainer Jeanne and cross the water to reach the northwest dock. Float north to reach Ace Trainer Sable, then south to reach Ace Trainer Enzio. Repeat the same clockwise loop to reach
+Marlon
+.
+Marlon
+'s
+Carracosta
+tends to start things off with
+Shell Smash
+, which cuts its defenses but raises its
+Attack
+,
+Special Attack
+, and
+Speed
+. In addition, its
+Sturdy
+Ability prevents it from being taken out in one shot.
+Wailord
+can hit opposing
+Grass-type
+Pokémon with
+Bounce
+, but otherwise its low defenses make it a big target. His
+Jellicent
+can be difficult to take down, especially with
+Recover
+. Keep your Pokémon's health above 50% to avoid its powered-up
+Brine
+attack. All three of Marlon's Pokémon know the move
+Scald
+, so watch out for
+burns
+!
+Humilau Gym
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Doyle
+ウシオ
+Ushio
+Reward:
+$
+2820
+Floatzel
+♂
+Lv.
+47
+No item
+Mantine
+♂
+Lv.
+47
+No item
+Ace Trainer
+Melina
+ミナモ
+Minamo
+Reward:
+$
+2880
+Alomomola
+♀
+Lv.
+48
+No item
+Ace Trainer
+Santino
+シブキ
+Shibuki
+Reward:
+$
+2880
+Walrein
+♂
+Lv.
+48
+No item
+Ace Trainer
+Jeanne
+ジャンヌ
+Jeanne
+Reward:
+$
+2820
+Pelipper
+♀
+Lv.
+47
+No item
+Wailord
+♀
+Lv.
+47
+No item
+Ace Trainer
+Sable
+ナギサ
+Nagisa
+Reward:
+$
+2820
+Golduck
+♀
+Lv.
+47
+No item
+Starmie
+Lv.
+47
+No item
+Ace Trainer
+Enzio
+エンツォ
+Enzo
+Reward:
+$
+2760
+Basculin
+♂
+Red-Striped Form
+Lv.
+46
+No item
+Basculin
+♂
+Blue-Striped Form
+Lv.
+46
+No item
+Azumarill
+♂
+Lv.
+46
+No item
+Easy Mode/Normal Mode
+Leader
+Marlon
+Humilau Gym
+Black 2 and White 2
+Reward:
+$
+5640
+/
+$
+6120
+Types:
+Water
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Carracosta
+♂
+Lv.
+45
+/
+49
+Smack Down
+Rock
+Physical
+--
+Shell Smash
+Normal
+Status
+--
+Scald
+Water
+Special
+--
+Crunch
+Dark
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailord
+♂
+Lv.
+45
+/
+49
+Amnesia
+Psychic
+Status
+--
+Scald
+Water
+Special
+--
+Rollout
+Rock
+Physical
+--
+Bounce
+Flying
+Physical
+--
+Types:
+Water
+Ghost
+Ability:
+Cursed Body
+Held item:
+Sitrus Berry
+Jellicent
+♂
+Lv.
+47
+/
+51
+Brine
+Water
+Special
+--
+Recover
+Normal
+Status
+--
+Scald
+Water
+Special
+--
+Ominous Wind
+Ghost
+Special
+--
+Challenge Mode
+Leader
+Marlon
+Humilau Gym
+Black 2 and White 2
+Reward:
+$
+6600
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailord
+♂
+Lv.
+53
+Scald
+Water
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Rain Dance
+Water
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Swift Swim
+Held item:
+None
+Mantine
+♂
+Lv.
+53
+Air Slash
+Flying
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Scald
+Water
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Water
+Rock
+Ability:
+Sturdy
+Held item:
+Sitrus Berry
+Carracosta
+♂
+Lv.
+53
+Rock Slide
+Rock
+Physical
+--
+Shell Smash
+Normal
+Status
+--
+Scald
+Water
+Special
+--
+Crunch
+Dark
+Physical
+--
+Types:
+Water
+Ghost
+Ability:
+Cursed Body
+Held item:
+Sitrus Berry
+Jellicent
+♂
+Lv.
+55
+Energy Ball
+Grass
+Special
+--
+Recover
+Normal
+Status
+--
+Scald
+Water
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Upon his defeat,
+Marlon
+awards you the
+Wave Badge
+, which ensures that all Pokémon will obey without question. He also hands over
+TM55
+(
+Scald
+) as a prize before swimming off.
+Outside,
+Hugh
+congratulates you on winning your eighth Badge, and reminds you that
+Team Plasma
+is still up to no good.
+Marlon
+stops by, asking if Team Plasma is actually bad or not. He follows a policy of "the ocean accepts all rivers", and as a result does not seem bothered by the group's wrongdoings. He refuses to help track them down, and just walks away. Hugh asks that you investigate
+Route 22
+to the west. Stock up on
+Ultra Balls
+before you go, as
+another legendary
+is found nearby!
+Route 22
+Route 22
+The uneven terrain of
+Route 22
+makes the scenery almost maze-like. Raised walkways connect some elevated areas, while most of the tall grass lies below. The route stretches between
+Humilau City
+to the east and the
+Giant Chasm
+to the west.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Shel
+テル
+Teru
+Reward:
+$
+2820
+Starmie
+Lv.
+47
+No item
+Drapion
+♂
+Lv.
+47
+No item
+Backpacker
+Myra
+アサギ
+Asagi
+Reward:
+$
+1080
+Vanillite
+♀
+Lv.
+45
+No item
+Bouffalant
+♀
+Lv.
+45
+No item
+Hiker
+Justin
+ジュウゾウ
+Jūzō
+Reward:
+$
+1440
+Nosepass
+♂
+Lv.
+45
+No item
+Steelix
+♂
+Lv.
+45
+No item
+Pokémon Breeder
+Addison
+アグリ
+Aguri
+Reward:
+$
+1440
+*
+Camerupt
+♂
+Lv.
+45
+No item
+Grumpig
+♂
+Lv.
+45
+No item
+Backpacker
+Lowell
+タギマ
+Tagima
+Reward:
+$
+1080
+Swinub
+♂
+Lv.
+45
+No item
+Darmanitan
+♂
+Lv.
+45
+No item
+Ace Trainer
+Lucca
+ルカ
+Ruka
+Reward:
+$
+2820
+Arcanine
+♂
+Lv.
+47
+No item
+Excadrill
+♀
+Lv.
+47
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Mienfoo
+B2
+W2
+Grass
+39-42
+25%
+Amoonguss
+B2
+W2
+Grass
+39
+20%
+Golduck
+B2
+W2
+Grass
+40
+10%
+Marill
+B2
+W2
+Grass
+40-42
+10%
+Pelipper
+B2
+W2
+Grass
+40
+10%
+Lunatone
+B2
+W2
+Grass
+41
+10%
+Solrock
+B2
+W2
+Grass
+41
+10%
+Delibird
+B2
+W2
+Grass
+39
+5%
+Dark grass
+Mienfoo
+B2
+W2
+Dark grass
+44-47
+25%
+Amoonguss
+B2
+W2
+Dark grass
+44
+20%
+Golduck
+B2
+W2
+Dark grass
+45
+10%
+Marill
+B2
+W2
+Dark grass
+45-47
+10%
+Pelipper
+B2
+W2
+Dark grass
+45
+10%
+Lunatone
+B2
+W2
+Dark grass
+46
+10%
+Solrock
+B2
+W2
+Dark grass
+46
+10%
+Delibird
+B2
+W2
+Dark grass
+44
+5%
+Rustling grass
+Audino
+B2
+W2
+Rustling grass
+39-42
+85%
+Emolga
+B2
+W2
+Rustling grass
+40
+10%
+Azumarill
+B2
+W2
+Rustling grass
+42
+5%
+Surfing
+Basculin
+B2
+W2
+Surfing
+15-40
+70%
+Basculin
+B2
+W2
+Surfing
+15-40
+70%
+Marill
+B2
+W2
+Surfing
+15-40
+30%
+Rippling water
+Marill
+B2
+W2
+Rippling water
+15-40
+60%
+Basculin
+B2
+W2
+Rippling water
+15-40
+35%
+Basculin
+B2
+W2
+Rippling water
+15-40
+35%
+Azumarill
+B2
+W2
+Rippling water
+25-45
+5%
+Hidden Grotto
+Amoonguss
+B2
+W2
+Hidden Grotto
+40-45
+Common
+Pelipper
+B2
+W2
+Hidden Grotto
+40-45
+Uncommon
+Mienfoo
+B2
+W2
+Hidden Grotto
+50-55
+Rare
+Special Pokémon
+Amoonguss
+B2
+W2
+Fake item
+47
+Two
+Terrakion
+B2
+W2
+Only one
+45
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Carbos
+Northeast cliff, north of the
+movable
+boulder (hidden)
+B2
+W2
+PP Up
+Northwest of Backpacker Myra
+B2
+W2
+Green Shard
+East of Hiker Justin (hidden)
+B2
+W2
+Calcium
+West of the pond (requires
+Surf
+)
+B2
+Protein
+West of the pond (requires
+Surf
+)
+W2
+Poison Barb
+On the ridge southwest of Hiker Justin
+B2
+W2
+Rare Candy
+Northwest of Hiker Justin
+B2
+W2
+Colress MCHN
+From Colress upon approaching Terrakion
+B2
+W2
+Max Potion
+East of Backpacker Lowell
+B2
+W2
+Red Shard
+Southeast of the Giant Chasm entrance
+B2
+Blue Shard
+Southeast of the Giant Chasm entrance
+W2
+Fake items
+Amoonguss
+×2
+North of Backpacker Myra
+West of Backpacker Lowell
+B2
+W2
+Terrakion is waiting
+The third member of the
+Swords of Justice
+is found in the center of
+Route 22
+. It seems that it, like
+Cobalion
+and
+Virizion
+, was also waiting for you. Upon approaching it, you are interrupted by
+Colress
+. He says that you will need the strength to protect your Pokémon in order to fight
+Team Plasma
+. He gives you the
+Colress MCHN
+, and before he leaves mentions that something he saw in
+Seaside Cave
+reminded him of meeting you on
+Route 4
+.
+Start off with
+Grass
+-,
+Water
+-, or
+Ground-type
+attacks to wear
+Terrakion
+down fast, then follow up with
+Fire
+-,
+Poison
+-, or
+Bug-type
+moves to weaken it further. Avoid using
+Dark-type
+attacks, as its
+Justified
+Ability raises its
+Attack
+when it is damaged by those moves. If you happen to defeat it, Terrakion will reappear after entering the
+Hall of Fame
+.
+Types:
+Rock
+Fighting
+Ability:
+Justified
+Held item:
+None
+Terrakion
+Lv.
+45
+Helping Hand
+Normal
+Status
+--
+Retaliate
+Normal
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Sacred Sword
+Fighting
+Physical
+--
+Return to Humilau
+The
+Giant Chasm
+is accessible at this point, but cannot be fully explored. Instead, follow the raised walkways southeastward to reach a large boulder, and use
+Strength
+to create a shortcut for later. Take
+Colress
+' advice and head for
+Seaside Cave
+on
+Route 21
+, south of
+Humilau City
+.
+← Part 12
+Route 13, Lacunosa Town, Route 12, Village Bridge, Route 11
+Black 2 and White 2
+walkthrough
+Route 21, Seaside Cave, Plasma Frigate, Giant Chasm
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

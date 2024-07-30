@@ -1,0 +1,64 @@
+Game: Diamond_and_Pearl
+Part: 33
+Keywords: Route 229, Resort Area, Route 230, Back in Fight Area, Rival rematch
+
+**Part 33: Route 229, Resort Area, Route 230, Fight Area, Rival Rematch**
+
+**Route 229:**
+- **Items:**
+  - Reaper Cloth: Behind cuttable tree (middle)
+  - Full Restore: Northeast corner
+  - Nugget: From man in the south
+  - Protein: Northeast of the lake (requires Cut)
+  - Big Mushroom: Southwest end of pond (requires Cut and Surf)
+  
+- **Trainers:**
+  - Ace Trainer Dana: Mightyena (Lv. 55), Kirlia (Lv. 55)
+  - Ace Trainer Felix: Dusclops (Lv. 55), Salamence (Lv. 55)
+  - Ace Trainer Sandra: Granbull (Lv. 57)
+  - Pokémon Ranger Deshawn: Spinda (Lv. 55), Kecleon (Lv. 55)
+
+**Resort Area:**
+- **Items:**
+  - Nugget (×2): Above the pond (southeast corner)
+  - Leppa Berry: Western soft soil
+  - Lum Berry: Eastern soft soil
+  
+- **Pokémon:**
+  - Surfing: Golduck (40-55), Pelipper (40-55)
+  - Fishing: Magikarp (old and good rods), Gyarados (super rod)
+
+- **Notes:** Heal your Pokémon here. Ribbon Syndicate requires 10 different Ribbons to enter. 
+
+**Route 230:**
+- **Items:**
+  - Kelpsy Berry (×4), Grepa Berry (×2): Northwestern side
+  - Rare Candy, Carbos, HP Up: Hidden, accessible via Rock Smash
+
+- **Trainers:**
+  - Swimmer Kurt: Crawdaunt (Lv. 53)
+  - Swimmer Joanna: Luvdisc (Lv. 50), Lapras (Lv. 54)
+  
+- **Pokémon:** Oddish, Gloom, Golduck in tall grass.
+
+**Back in Fight Area:**
+- Return here after exploring the Battle Zone.
+
+**Rival Rematch:**
+- **Preparation:** Heal Pokémon, level 60+ recommended.
+- **Location:** Barry waits at the Battle Park on weekends. 
+- **Team Strength:** Barry’s Pokémon are now around Lv. 60, making this battle challenging.
+
+**Important Notes on Barry’s Team:**
+- **Initial Rematch:**
+  - Staraptor (Lv. 58), Heracross (Lv. 60), Snorlax (Lv. 60), Roserade (Lv. 59), Floatzel (Lv. 59), Infernape (Lv. 64)
+  - Reward: $6400
+
+- **Hardest Challenge:**
+  - If you defeat the Elite Four and Champion 20 times, Barry's Pokémon level up to 70, with tougher moves. Recommended level: 70+.
+  - Reward: $7400
+
+**Afterwards:**
+- Complete post-game tasks: Achieve 100 consecutive wins in the Battle Tower, earn a Master Rank in Super Contest, and get a platinum flag in the Underground. Aim to complete the Pokédex for additional Trainer stars.
+
+Congratulations on completing the aftergame storyline!

@@ -1,0 +1,1367 @@
+Part: Part 7
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_7
+Keywords: Route 35, National Park, Route 36, Route 37
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 35
+1.1
+Mail Delivery
+1.2
+Attack of the Dragonflies!
+2
+National Park
+2.1
+Bug-Catching Contest
+2.1.1
+Prizes
+3
+Route 36
+3.1
+An Inconvenient Tree
+3.1.1
+VS Sudowoodo
+4
+Route 37
+Route 35
+Route 35
+Route 35
+is a short, pleasant path that leads northward from
+Goldenrod City
+. The main road leads to the
+National Park
+, while a smaller trail acts as a shortcut to
+Route 36
+.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Kim
+Reward:
+$
+300
+Vulpix
+♀
+Lv.
+15
+No item
+Camper
+Elliot
+Reward:
+$
+300
+Sandshrew
+♂
+Lv.
+13
+No item
+Marill
+♂
+Lv.
+15
+No item
+Picnicker
+Brooke
+Reward:
+$
+320
+Pikachu
+♀
+Lv.
+16
+No item
+Camper
+Ivan
+Reward:
+$
+280
+Diglett
+♂
+Lv.
+10
+No item
+Zubat
+♂
+Lv.
+10
+No item
+Diglett
+♂
+Lv.
+14
+No item
+Juggler
+Irwin
+Reward:
+$
+560
+Voltorb
+Lv.
+2
+No item
+Voltorb
+Lv.
+6
+No item
+Voltorb
+Lv.
+10
+No item
+Voltorb
+Lv.
+14
+No item
+Firebreather
+Walt
+Reward:
+$
+624
+Magmar
+♂
+Lv.
+11
+No item
+Magmar
+♂
+Lv.
+13
+No item
+Officer
+Dirk
+Reward:
+$
+560
+Night
+only
+Growlithe
+♂
+Lv.
+14
+No item
+Growlithe
+♂
+Lv.
+14
+No item
+Bug Catcher
+Arnie
+Reward:
+$
+240
+Venonat
+♂
+Lv.
+15
+No item
+Bird Keeper
+Bryan
+Reward:
+$
+336
+Pidgey
+♂
+Lv.
+12
+No item
+Pidgeotto
+♂
+Lv.
+14
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+G
+S
+C
+Grass
+14
+5%
+5%
+0%
+Nidoran♀
+G
+S
+C
+Grass
+12
+30%
+Nidoran♂
+G
+S
+C
+Grass
+12
+30%
+Abra
+G
+S
+C
+Grass
+10
+10%
+Drowzee
+G
+S
+C
+Grass
+14
+20%
+Ditto
+G
+S
+C
+Grass
+10
+4%
+Hoothoot
+G
+S
+C
+Grass
+14
+0%
+0%
+5%
+Yanma
+G
+S
+C
+Grass
+12
+1%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+During a Yanma swarm
+Pidgey
+G
+S
+C
+Swarm
+14
+5%
+5%
+0%
+Nidoran♀
+G
+S
+C
+Swarm
+12
+30%
+Nidoran♂
+G
+S
+C
+Swarm
+12
+30%
+Ditto
+G
+S
+C
+Swarm
+10
+5%
+Hoothoot
+G
+S
+C
+Swarm
+14
+0%
+0%
+5%
+Yanma
+G
+S
+C
+Swarm
+12-14
+30%
+Gift Pokémon
+Spearow
+G
+S
+C
+Gift
+10
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Flower Mail
+Held by Kenya, a
+Spearow
+received from
+the guard
+in the southern gate
+G
+S
+TM04
+(
+Rollout
+)
+West of the tall grass, in a corner of the grove of trees
+G
+S
+Later visit
+HP Up
+From the guard in the southern gate, after delivering his Spearow with its Mail to
+Route 31
+G
+S
+MysteryBerry
+West of the pond, on a tree (daily; requires
+Surf
+)
+G
+S
+Mail Delivery
+Speak to
+the guard
+in the southern gate, and he asks for a favor. Deliver his
+Spearow
+, named Kenya, and the piece of
+Mail
+it holds to his friend on
+Route 31
+. It is intended for the man dozing near the pond there. Complete the delivery, and he wakes up just long enough to give you
+TM50
+(
+Nightmare
+). Return here and speak to the guard afterward to receive an
+HP Up
+as a reward.
+Attack of the Dragonflies!
+Defeat Bug Catcher Arnie near the
+thin tree
+in the northeast, then be sure to trade phone numbers with him. He will call occasionally to alert you about a
+swarm
+of a certain Pokémon species.
+Yanma
+are usually difficult to find, but will be more likely to appear along
+Route 35
+for a short time. The swarm only lasts until midnight, so be quick!
+National Park
+National Park
+The
+National Park
+is a beautiful recreational space between
+Route 35
+to the south and
+Route 36
+to the east. A haven for
+Bug
+and
+Grass
+Pokémon, a
+Bug-Catching Contest
+is held here every
+Tuesday, Thursday, and Saturday
+.
+Trainers
+Trainer
+Pokémon
+Pokéfan
+Beverly
+Reward:
+$
+1120
+Snubbull
+♀
+Lv.
+14
+Berry
+Pokéfan
+William
+Reward:
+$
+1120
+Raichu
+♂
+Lv.
+14
+Berry
+Schoolboy
+Jack
+Reward:
+$
+480
+Oddish
+♂
+Lv.
+12
+No item
+Voltorb
+Lv.
+15
+No item
+Lass
+Krise
+Reward:
+$
+360
+Oddish
+♀
+Lv.
+12
+No item
+Cubone
+♀
+Lv.
+15
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Caterpie
+G
+S
+C
+Grass
+10,12
+50%
+0%
+0%
+Caterpie
+G
+S
+C
+Grass
+10
+0%
+30%
+0%
+Metapod
+G
+S
+C
+Grass
+10
+30%
+30%
+0%
+Weedle
+G
+S
+C
+Grass
+10,12
+50%
+0%
+0%
+Weedle
+G
+S
+C
+Grass
+10
+0%
+30%
+0%
+Kakuna
+G
+S
+C
+Grass
+10
+30%
+30%
+0%
+Pidgey
+G
+S
+C
+Grass
+10,12,14
+20%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+12,14
+0%
+15%
+0%
+Hoothoot
+G
+S
+C
+Grass
+10,12,14
+0%
+0%
+100%
+Sunkern
+G
+S
+C
+Grass
+11,13
+0%
+25%
+0%
+Bug-Catching Contest
+Caterpie
+G
+S
+C
+Grass
+7-18
+20%
+Metapod
+G
+S
+C
+Grass
+9-18
+10%
+Butterfree
+G
+S
+C
+Grass
+12-15
+5%
+Weedle
+G
+S
+C
+Grass
+7-18
+20%
+Kakuna
+G
+S
+C
+Grass
+9-18
+10%
+Beedrill
+G
+S
+C
+Grass
+12-15
+5%
+Paras
+G
+S
+C
+Grass
+10-17
+10%
+Venonat
+G
+S
+C
+Grass
+10-16
+10%
+Scyther
+G
+S
+C
+Grass
+13-14
+5%
+Pinsir
+G
+S
+C
+Grass
+13-14
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Quick Claw
+Southeast area, from a woman sitting with her
+Persian
+G
+S
+Parlyz Heal
+Outside the fence, north of the eastern gate
+G
+S
+TM28
+(
+Dig
+)
+Outside the fence, end of the tree-lined path in the southwest
+G
+S
+Full Heal
+Outside the fence, end of narrow path northwest of the southern gate
+(hidden)
+G
+S
+Park Ball
+×20
+Loaned for use in the Bug-Catching Contest; leftovers are returned when the game ends
+G
+S
+Bug-Catching Contest
+There is no entry fee for the
+Bug-Catching Contest
+. Anyone may enter once per day, every
+Tuesday, Thursday, and Saturday
+.
+To compete, Trainers must catch the single best
+Bug-type
+Pokémon they can find. To do this, Trainers are given 20
+Park Balls
+and are only allowed to use a single Pokémon from their party. The others remain with the contest officials until the competition is over. Any Pokémon caught will be recorded in the Pokédex, but only one Pokémon may be kept to be judged. The Pokémon selected to be judged may be kept after the competition.
+The competition ends when 20 minutes have passed, all
+Park Balls
+have been used, or the Trainer
+blacks out
+, leaves the park, or chooses to quit. After that, the judging will occur, in which Trainers are scored on their skills of capturing rare and powerful Pokémon.
+Prizes
+Place
+Prize
+1st
+Sun Stone
+2nd
+Everstone
+3rd
+Gold Berry
+Runner-Up
+Berry
+Route 36
+Route 36
+Route 36
+is a densely wooded path that branches off in several directions. It connects the
+National Park
+and
+Route 35
+in the west with the
+Ruins of Alph
+to the south,
+Violet City
+to the east, and
+Route 37
+to the north.
+Trainers
+Trainer
+Pokémon
+Psychic
+Mark
+Reward:
+$
+544
+Abra
+♂
+Lv.
+13
+No item
+Abra
+♂
+Lv.
+13
+No item
+Kadabra
+♂
+Lv.
+15
+No item
+Schoolboy
+Alan
+Reward:
+$
+512
+Tangela
+♂
+Lv.
+16
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+G
+S
+C
+Grass
+13,15
+25%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+14
+0%
+20%
+0%
+Nidoran♀
+G
+S
+C
+Grass
+12
+30%
+Nidoran♂
+G
+S
+C
+Grass
+12
+30%
+Vulpix
+G
+S
+C
+Grass
+13
+10%
+0%
+10%
+Vulpix
+G
+S
+C
+Grass
+13,15
+0%
+15%
+0%
+Growlithe
+G
+S
+C
+Grass
+13
+10%
+0%
+10%
+Growlithe
+G
+S
+C
+Grass
+13,15
+0%
+15%
+0%
+Hoothoot
+G
+S
+C
+Grass
+13,15
+0%
+0%
+25%
+Stantler
+G
+S
+C
+Grass
+13
+5%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ice Berry
+Northeast of the National Park gate, on a tree (daily)
+G
+S
+TM08
+(
+Rock Smash
+)
+From the man to the east of
+Sudowoodo
+'s location, after removing it
+G
+S
+Hard Stone
+Northeast area; from Arthur
+Th
+G
+S
+An Inconvenient Tree
+The odd tree mentioned by the women in
+Goldenrod City
+'s flower shop can be found in the middle of the route, blocking travel from every direction. Despite its tree-like appearance, this oddity actually tries to avoid water. Use the
+SquirtBottle
+to splash a bit of water on it, and it attacks! It turns out to be a
+Sudowoodo
+, a rare Pokémon that is more similar to a rock than a tree.
+VS Sudowoodo
+Type:
+Rock
+Unknown
+Held item:
+None
+Sudowoodo
+♂
+/
+♀
+Lv.
+20
+Rock Throw
+Rock
+--
+Mimic
+Normal
+--
+Flail
+Normal
+--
+Low Kick
+Fighting
+--
+Once the path is clear, speak with the man to the east to receive
+TM08
+(
+Rock Smash
+) as thanks dealing with the troublesome Pokémon.
+Route 37
+Route 37
+Route 37
+is a short road that leads north from
+Route 36
+to
+Ecruteak City
+. A secluded grove of
+Apricorn
+trees stands on the east side.
+Trainers
+Trainer
+Pokémon
+Twins
+Ann & Anne
+Reward:
+$
+320
+Clefairy
+♀
+Lv.
+16
+No item
+Jigglypuff
+♀
+Lv.
+16
+No item
+Psychic
+Greg
+Reward:
+$
+544
+Drowzee
+♂
+Lv.
+17
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+G
+S
+C
+Grass
+13,15
+60%
+50%
+0%
+Pidgey
+G
+S
+C
+Grass
+15
+20%
+0%
+0%
+Pidgey
+G
+S
+C
+Grass
+13,15
+0%
+50%
+0%
+Pidgeotto
+G
+S
+C
+Grass
+15
+0%
+5%
+0%
+Vulpix
+G
+S
+C
+Grass
+14
+10%
+0%
+10%
+Vulpix
+G
+S
+C
+Grass
+14,16
+0%
+15%
+0%
+Growlithe
+G
+S
+C
+Grass
+14
+10%
+0%
+10%
+Growlithe
+G
+S
+C
+Grass
+14,16
+0%
+15%
+0%
+Hoothoot
+G
+S
+C
+Grass
+15
+0%
+0%
+20%
+Hoothoot
+G
+S
+C
+Grass
+13,15
+0%
+0%
+60%
+Ledyba
+G
+S
+C
+Grass
+13,15
+40%
+0%
+0%
+Spinarak
+G
+S
+C
+Grass
+13,15
+0%
+0%
+40%
+Stantler
+G
+S
+C
+Grass
+15
+30%
+Headbutt tree
+(Moderate chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+65%
+Metapod
+G
+S
+C
+Headbutt
+10
+15%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+65%
+Kakuna
+G
+S
+C
+Headbutt
+10
+15%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Headbutt tree
+(Low chances of battle)
+Caterpie
+G
+S
+C
+Headbutt
+10
+50%
+Butterfree
+G
+S
+C
+Headbutt
+10
+5%
+Weedle
+G
+S
+C
+Headbutt
+10
+50%
+Beedrill
+G
+S
+C
+Headbutt
+10
+5%
+Exeggcute
+G
+S
+C
+Headbutt
+10
+15%
+Pineco
+G
+S
+C
+Headbutt
+10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Red Apricorn
+Eastern grove, on the northwest tree (daily)
+G
+S
+Blu Apricorn
+Eastern grove, on the northeast tree (daily)
+G
+S
+Blk Apricorn
+Eastern grove, on the southern tree (daily)
+G
+S
+Ether
+Northwest of the sign outside Ecruteak City
+(hidden)
+G
+S
+Magnet
+East side; from
+Sunny
+Su
+G
+S
+← Part 6
+Goldenrod City
+Gold and Silver
+walkthrough
+Ecruteak City, Route 38, Route 39
+Part 8 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,26 @@
+Game: UltraSun_and_UltraMoon
+Part: 8
+Keywords: Brooklet Hill, Route 6
+
+**Part 8: Route 5 (South), Trial 2: Brooklet Hill, Route 6**
+
+1. **Route 5 (South)**: 
+   - Head south from Route 5.
+   - Battle trainers and capture wild Pokémon as you proceed.
+   - Collect items: Super Potion and Revive.
+
+2. **Trial 2: Brooklet Hill**:
+   - Enter Brooklet Hill to begin the Water-type Trial.
+   - Speak to Lana to start the trial.
+   - Defeat the wild Pokémon (Psyduck and Wishiwashi) in the trial area.
+   - Face the Totem Pokémon: Totem Wishiwashi.
+     - **Strategy**: Use Electric-type moves for effective damage and avoid status conditions.
+   - After defeating the Totem, receive the Water-type Z-Crystal (Waterium Z).
+
+3. **Route 6**:
+   - Exit Brooklet Hill and head to Route 6.
+   - Battle additional trainers and wild Pokémon.
+   - Look for items: Potion and TM moves.
+   - Proceed north to continue your journey.
+
+Focus on training your Pokémon effectively and utilizing their strengths against opponents, especially in the trial and against the Totem Pokémon.

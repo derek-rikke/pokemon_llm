@@ -1,0 +1,1106 @@
+Part: Part 16
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_16
+Keywords: Route 11, Route 12, Blush Mountain, Secluded Shore, Route 13
+
+Walkthrough Text:
+Contents
+1
+Malie City
+1.1
+Malie Garden
+1.1.1
+VS Guzma
+2
+Route 11
+3
+Route 12
+3.1
+Hapu and Mudsdale
+4
+Blush Mountain
+5
+Secluded Shore
+6
+Route 13
+6.1
+The Search for Cosmog
+6.2
+The Shifting Sands
+Malie City
+Malie Garden
+Items
+Item
+Location
+Games
+After defeating Guzma
+Decidium Z
+From Professor Kukui, if player chose Rowlet
+S
+M
+Incinium Z
+From Professor Kukui, if player chose Litten
+S
+M
+Primarium Z
+From Professor Kukui, if player chose Popplio
+S
+M
+Big Nugget
+From Veteran Don, after defeating the Trainers on the bridge
+S
+M
+After clearing Nanu's grand trial
+Air Balloon
+Northwest area; from the Lass in the middle of the lake, after answering her quiz
+Day
+S
+M
+Enter
+Malie Garden
+to find
+Professor Kukui
+being harassed by a pair of
+Team Skull
+Grunts. Not to be intimidated, Kukui tells them that he'll beat them in four turns in a
+Battle Royal
+match. Just then, someone else from Team Skull approaches and gets in the professor's face. This is
+Guzma
+, the leader of Team Skull. Guzma refers to the two of them as fellow rejects who could never become captains, and states that there is no need for a Pokémon League as everyone already knows the strongest Trainer on these islands. Kukui disagrees, as he chose to study Pokémon moves instead of becoming a captain. When he discovered
+Z-Moves
+, he knew he had to establish a Pokémon League so that every Trainer can be pushed to their limits. Guzma doesn't want to hear this and promises to destroy Kukui one day, but not before destroying everything he cares about first, and pulls you into battle.
+VS Guzma
+Guzma
+prefers using
+Bug
+Pokémon, so use
+Flying
+and
+Rock
+attacks for best results.
+Team Skull Boss
+Guzma
+Malie Garden
+Sun and Moon
+Reward:
+$
+3,600
+Types:
+Bug
+Water
+Ability:
+Emergency Exit
+Held item:
+None
+Golisopod
+♂
+Lv.
+31
+First Impression
+Bug
+Physical
+--
+Razor Shell
+Water
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Bug
+Poison
+Ability:
+Swarm
+Held item:
+None
+Ariados
+♂
+Lv.
+30
+Fell Stinger
+Bug
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Shadow Sneak
+Ghost
+Physical
+--
+Infestation
+Bug
+Special
+--
+Defeated, Guzma and his Team Skull Grunts run off. Kukui congratulates you on your victory and gives you a special
+Z-Crystal
+for your first partner Pokémon: the
+Decidium Z
+, the
+Incinium Z
+, or the
+Primarium Z
+. These crystals upgrade their signature moves in battle:
+Spirit Shackle
+becomes
+Sinister Arrow Raid
+,
+Darkest Lariat
+becomes
+Malicious Moonsault
+, and
+Sparkling Aria
+becomes
+Oceanic Operetta
+. He then notices the
+Professor's Mask
+, and says that he'll get it back to the Masked Royal safe and sound.
+Lillie
+and
+Acerola
+enter, Kukui leaves for
+Mount Lanakila
+to oversee the construction, and Acerola suggests tackling the next trial beyond
+Route 11
+. Her and Lillie then set out to do some shopping, so leave the garden and head south from the city to reach
+Route 11
+.
+Route 11
+Route 11
+Route 11
+runs along the south side of
+Malie City
+to
+Route 12
+in the southeast. It is a peaceful path filled with trees and bamboo. A
+Trial Guide
+is posted outside Malie City to heal a Trainer's Pokémon at any time. A second Trial Guide on the east end will open the gate for Trainers who have earned the
+Electrium Z
+.
+Trainers
+Trainer
+Pokémon
+Athletic Siblings
+Alyssa and Sho
+Reward:
+$
+1,512
+Herdier
+♀
+Lv.
+27
+No item
+Fletchinder
+♂
+Lv.
+27
+No item
+Preschooler
+Hayden
+Reward:
+$
+312
+Stufful
+♂
+Lv.
+26
+No item
+Black Belt
+Clayton
+Reward:
+$
+896
+Hariyama
+♂
+Lv.
+28
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pancham
+Pancham
+Pangoro
+S
+M
+Grass
+24-27
+20%
+Trumbeak
+Trumbeak
+S
+M
+Grass
+24-27
+20%
+Ledian
+Ledian
+S
+M
+Grass
+24-27
+20%
+-
+Ariados
+Ariados
+S
+M
+Grass
+24-27
+-
+20%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+24-27
+20%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+24-27
+-
+20%
+Komala
+N/A
+S
+M
+Grass
+24-27
+10%
+Paras
+Paras
+S
+M
+Grass
+24-27
+10%
+-
+Morelull
+Morelull
+S
+M
+Grass
+24-27
+-
+10%
+Exclusively from
+Island Scan
+Vigoroth
+N/A
+S
+M
+Grass
+27
+One
+Fr
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Mushroom
+×2
+Westernmost grass patch, near the route sign
+Southeastern-most grass patch
+S
+M
+Stardust
+×2
+Second grass patch from the west, near the Trial Guide
+(hidden)
+Third grass patch from the west, southwest of the bamboo
+(hidden)
+S
+M
+TM74
+(
+Gyro Ball
+)
+Center of the route, dead-end path surrounded by bamboo
+S
+M
+Tiny Mushroom
+In the north-central grass patch
+S
+M
+Star Piece
+North-central grass patch
+(hidden)
+S
+M
+Quick Ball
+North side of the northeastern-most grass patch
+S
+M
+Zygarde Cell
+On the side of the dirt path in the east, southeast of
+Black Belt
+Clayton
+Night
+S
+M
+Route 12
+Route 12
+Route 12
+is a rugged route that follows the southeast side of
+Ula'ula Island
+. It connects
+Route 11
+in the north with
+Blush Mountain
+,
+Secluded Shore
+, and
+Route 13
+.
+Trainers
+Trainer
+Pokémon
+Requires Mudsdale Gallop
+Punk Pair
+Yoko and Lane
+Reward:
+$
+1,856
+Pancham
+♀
+Lv.
+29
+No item
+Krokorok
+♂
+Lv.
+29
+No item
+Rising Star
+Leilani
+Reward:
+$
+1,440
+Tirtouga
+♂
+Lv.
+30
+No item
+Rising Star
+Matthew
+Reward:
+$
+1,440
+Cranidos
+♂
+Lv.
+30
+No item
+Scientist
+Jayson
+Reward:
+$
+1,392
+Porygon
+Lv.
+28
+No item
+Magneton
+Lv.
+29
+No item
+After defeating all other Trainers on the route
+Collector
+Andrew
+Reward:
+$
+928
+Ledian
+♂
+Lv.
+28
+No item
+Pinsir
+♂
+Lv.
+29
+Buginium Z
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+First ten fields of grass from the north
+Geodude
+Alolan Form
+Geodude
+S
+M
+Grass
+26-29
+40%
+Mudbray
+Mudbray
+S
+M
+Grass
+26-29
+30%
+Torkoal
+Torkoal
+S
+M
+Grass
+26-29
+20%
+Elekid
+Elekid
+Electabuzz
+Chansey
+S
+M
+Grass
+26-29
+10%
+Southernmost field of grass
+Geodude
+Alolan Form
+Geodude
+S
+M
+Grass
+25-28
+40%
+Mudbray
+Mudbray
+S
+M
+Grass
+25-28
+30%
+Torkoal
+Torkoal
+S
+M
+Grass
+25-28
+20%
+Elekid
+Elekid
+Electabuzz
+Chansey
+S
+M
+Grass
+25-28
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Burn Heal
+Next to the northern-most rocky patch
+S
+M
+Elixir
+In a forked path on the west side of the route
+S
+M
+Hyper Potion
+East side of the route, past the third rocky patch
+S
+M
+X Attack
+Southeast grass patch, next to the large rock
+S
+M
+PP Up
+South end, in front of a rock near the southern-most grass patch
+S
+M
+TM77
+(
+Psych Up
+)
+From Collector Andrew after defeating him
+S
+M
+Zygarde Cell
+After crossing the northernmost rocky terrain by a rock on the north side of the route (requires
+Mudsdale Gallop
+)
+S
+M
+Zygarde Cell
+South of
+Punk Pair
+Yoko and Lane, between the second and third rocky terrains from the north
+S
+M
+Hapu and Mudsdale
+Upon reaching Route 12, it is difficult not to notice the rugged, uneven ground ahead. Just then,
+Hapu
+and her
+Mudsdale
+approach from the north. They have been looking for you, and Hapu says that if you are going to be traveling around
+Ula'ula Island
+, then you should do it astride a Mudsdale. She registers Mudsdale Gallop in your
+Ride Pager
+as thanks for helping her on
+Akala Island
+. Calling Mudsdale allows the user to cross rocky terrain, like that of Route 12. Hapu suggests continuing on to
+Tapu Village
+in the southwest before she and Mudsdale turn and leave.
+Blush Mountain
+Blush Mountain
+South of the branching trails of
+Route 12
+, another path leads northwest to
+Blush Mountain
+. A large clearing leads to a visitor's center for the Geothermal Power Plant, where heat from the ground is processed into enough electricity to power the entire island.
+Trainers
+Trainer
+Pokémon
+Outside
+Office Worker
+Shane
+Reward:
+$
+1,200
+Psyduck
+♂
+Lv.
+29
+No item
+Fearow
+♂
+Lv.
+30
+No item
+Inside the Power Plant, after speaking with
+Kagetora
+Espeon User
+Ishaan
+Reward:
+$
+2,200
+Espeon
+♂
+Lv.
+55
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Western field of grass
+Geodude
+Alolan Form
+Geodude
+S
+M
+Grass
+27-30
+30%
+Geodude
+Alolan Form
+Geodude
+S
+M
+Grass
+26-29
+30%
+Mudbray
+Mudbray
+S
+M
+Grass
+27-30
+20%
+Mudbray
+Mudbray
+S
+M
+Grass
+26-29
+20%
+Torkoal
+Torkoal
+S
+M
+Grass
+26-29
+20%
+Turtonator
+Turtonator
+S
+M
+Grass
+27-30
+10%
+Togedemaru
+Togedemaru
+S
+M
+Grass
+27-30
+10%
+Elekid
+Elekid
+Electabuzz
+Chansey
+S
+M
+Grass
+27-30
+10%
+Elekid
+Elekid
+Electabuzz
+Chansey
+S
+M
+Grass
+26-29
+10%
+Torkoal
+Torkoal
+S
+M
+Grass
+27-30
+10%
+Charjabug
+Charjabug
+S
+M
+Grass
+27-30
+10%
+Charjabug
+Charjabug
+S
+M
+Grass
+26-29
+10%
+Togedemaru
+Togedemaru
+S
+M
+Grass
+26-29
+10%
+Eastern field of grass
+Geodude
+Geodude
+S
+M
+Grass
+27-30
+30%
+Torkoal
+Torkoal
+S
+M
+Grass
+27-30
+20%
+Mudbray
+Mudbray
+S
+M
+Grass
+27-30
+20%
+Torkoal
+Torkoal
+S
+M
+Grass
+27-30
+10%
+Turtonator
+Turtonator
+S
+M
+Grass
+27-30
+10%
+Elekid
+Elekid
+Electabuzz
+Chansey
+S
+M
+Grass
+27-30
+10%
+Charjabug
+Charjabug
+S
+M
+Grass
+27-30
+10%
+Togedemaru
+Togedemaru
+S
+M
+Grass
+27-30
+10%
+Exclusively from
+Island Scan
+Rhyhorn
+N/A
+S
+M
+Grass
+30
+One
+Su
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Outside
+Zinc
+Middle of the eastern grass patch
+(hidden)
+S
+M
+Sun Stone
+Southwest corner, across the grass patch
+S
+M
+Timer Ball
+Northwest corner, near the fence
+S
+M
+Zygarde Cell
+Near a rock in the northeast
+S
+M
+Inside the Power Plant
+TM63
+(
+Embargo
+)
+From the Scientist with a
+Magnemite
+Day
+S
+M
+Lure Ball
+From Samson Oak in the southwest corner
+S
+M
+Secluded Shore
+Secluded Shore
+Secluded Shore
+is a small beach on the edge of
+Ula'ula Island
+, accessed from the southeast part of
+Route 12
+. It is a rather isolated and unwelcoming place.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Sara
+Reward:
+$
+720
+Alomomola
+♀
+Lv.
+30
+No item
+Swimmer
+Robert
+Reward:
+$
+720
+Whiscash
+♂
+Lv.
+29
+No item
+Sandygast
+♂
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pile of Berries by Berry tree
+Crabrawler
+Crabrawler
+S
+M
+Berry pile
+27-30
+100%
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+27-30
+40%
+Finneon
+Finneon
+S
+M
+Surfing
+27-30
+40%
+Pelipper
+Pelipper
+S
+M
+Surfing
+27-30
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-30
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-30
+20%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-30
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-30
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-30
+30%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Pearl
+×2
+Southwest of Swimmer Sara
+(hidden, regenerates occasionally)
+West of the Berry tree, south of two small clumps of plants
+(hidden, regenerates occasionally)
+S
+M
+Big Pearl
+×2
+Southwest of Swimmer Robert
+(hidden, regenerates occasionally)
+Between the group of four
+Slowpoke
+in the east and the next nearest Slowpoke
+(hidden, regenerates occasionally)
+S
+M
+Zygarde Cell
+Along the wall east of the entry to the beach
+Night
+S
+M
+Zygarde Cell
+At the west end of the beach
+Day
+S
+M
+Route 13
+Route 13
+Route 13
+links
+Route 12
+with
+Haina Desert
+to the north and
+Tapu Village
+to the west. The area is a small, seaside oasis that serves as a rest stop for travelers hoping to visit the desert.
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-30
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-30
+20%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-30
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-30
+50%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-30
+30%
+Bruxish
+Bruxish
+S
+M
+Fishing
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Potion
+From Hau upon entering the route
+S
+M
+Moon Stone
+East side of the pond
+S
+M
+Guard Spec.
+South of the pond, on the east end of the shore
+S
+M
+TM12
+(
+Taunt
+)
+From a Punk Guy inside the trailer near the desert entrance
+S
+M
+Zygarde Cell
+On the west end of the motel
+Night
+S
+M
+Zygarde Cell
+South of the pond, on the east end of the trailer
+S
+M
+After clearing the Thrifty Megamart trial
+Adrenaline Orb
+×3
+From the Trial Guide, if given a
+Fresh Water
+after she opens the barricade
+S
+M
+The Search for Cosmog
+When you first approach the motel,
+Hau
+comes running up from behind. He heard that you cleared
+Sophocles
+' trial and excitedly informs you that he has done the same before giving you a
+Max Potion
+. Just then,
+Gladion
+exits the motel and says that
+Team Skull
+is looking for a Pokémon called
+Cosmog
+. According to him, Cosmog is not a very strong Pokémon, but it has the potential to summon a Pokémon so strong that it would be a disaster for the region. He continues, saying that if you know where it is, or learn any more about it, to keep it safe. Gladion leaves, and Hau wonders if
+Lillie
+is going to be safe with the gang looking for Nebby. He decides to take on his next trial to get even stronger, and runs off to the west.
+The Shifting Sands
+The entrance to
+Haina Desert
+is initially blocked due to the difficulty of traversing the area. The broiling sun and shifting sands make it easy to become disoriented, as traveling one way or another does not always lead where one might expect.
+← Part 15
+Route 10, Mount Hokulani, Hokulani Observatory
+Sun and Moon
+walkthrough
+Tapu Village, Route 15, Aether House, Route 14, Thrifty Megamart
+Part 17 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

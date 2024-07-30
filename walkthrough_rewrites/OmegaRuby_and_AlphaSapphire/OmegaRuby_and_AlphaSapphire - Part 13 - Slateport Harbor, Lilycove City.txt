@@ -1,0 +1,44 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 13
+Keywords: Slateport Harbor, Lilycove City
+
+### Pokémon Omega Ruby and Alpha Sapphire Walkthrough: Part 13
+
+**Slateport City**
+- Upon arrival, head northeast to Slateport Harbor. Speak to Captain Stern after his interview.
+- Maxie (OR) or Archie (AS) interrupts, revealing their plan to use a submarine. Battle Team Magma/Aqua Grunts:
+  - **Grunts**: Mightyena (Lv. 36), Numel/Golbat (Lv. 34).
+- After the battle, Stern offers a ferry ride to Lilycove City.
+
+**Lilycove City**
+- Explore the city for key locations: 
+  - **Lilycove Department Store**: A large shopping center with various items.
+    - **1F**: Lottery Corner (daily draws).
+    - **2F**: Battle items.
+    - **3F**: Stat-enhancing items.
+    - **4F**: TMs for offense and defense.
+    - **5F**: Secret Base decorations.
+    - **Rooftop**: Saturday clearance sales.
+  - **Lilycove Museum**: Displays Pokémon contest portraits after winning Master Rank contests.
+  - **Cove Lily Motel**: Currently uneventful; contains a vending machine.
+  - **Pokéblock Master's House**: Learn about crafting Pokéblocks.
+  - **Contest Spectacular Trainer Fan Club**: Show an Altaria to receive the Altarianite.
+  - **Memory Girl**: Outside the Pokémon Center, share memories of your Pokémon.
+  
+**Rival Battle 4**
+- Near the north stairway, you encounter May/Brendan. Battle them:
+  - **Brendan's Team**: Swellow (Lv. 37), Wailord (Lv. 37), Breloom (Lv. 37), Blaziken (Lv. 39) or other Pokémon depending on your starter.
+- After the battle, your rival leaves for Littleroot Town.
+
+**Move Deleter's House**
+- Located east at the top of the stairs. Free service to delete any Pokémon moves, including HMs.
+
+**Item Locations**
+- **Items**: 
+  - Altarianite (Fan Club).
+  - Max Repel, TMs, and other items from various NPCs and locations.
+
+**Berry Collection**
+- Talk to the Gentleman near the Move Deleter for a random Berry daily.
+
+Continue to the next part of the walkthrough to pursue Team Magma/Aqua in their hideout.

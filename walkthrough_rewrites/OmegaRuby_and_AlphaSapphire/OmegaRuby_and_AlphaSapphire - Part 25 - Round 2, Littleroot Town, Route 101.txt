@@ -1,0 +1,35 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 25
+Keywords: Round 2, Littleroot Town, Route 101
+
+**Pokémon Omega Ruby and Alpha Sapphire Walkthrough - Part 25**
+
+**Battle Resort**
+- **Access**: Take the ferry from Slateport or Lilycove.
+- **Key Locations**:
+  - **Wally**: Meet him on the pier; he’ll introduce you to Team Aqua/Magma leaders who give you a Mega Stone (Sharpedonite/Cameruptite).
+  - **Battle Maison**: Central building; offers various battle formats for Battle Points (BP).
+  - **Judge**: Located at the Pokémon Center; assesses Pokémon potential.
+  - **Day Care Annex**: East of the Pokémon Center; can raise Pokémon and gives TM87 (Swagger) for $100.
+  - **Move Tutors**: Found west of the Custodian's Cabin; exchange BP for moves.
+- **Items**: 
+  - **Mega Stones**: Sharpedonite/Cameruptite (lower level), Gengarite (Custodian's Cabin).
+  - **Various Berries**: Received from NPCs in cabins.
+  - **Battle Points**: Earned at Battle Maison; used for items and moves.
+
+**Pokémon League: Round 2**
+- **Preparation**: Ensure your team is around Level 70.
+- **Elite Four and Champion Teams**:
+  - **Sidney**: Dark-type; uses Scrafty, Mandibuzz, Zoroark, etc. Counter with Fighting or Fairy-types.
+  - **Phoebe**: Ghost-type; includes Mismagius and Chandelure. Use Dark-types to counter.
+  - **Glacia**: Ice-type; features Abomasnow and Vanilluxe. Use Fire or Fighting-types.
+  - **Drake**: Dragon-type; includes Dragalge and Haxorus. Use Ice or Fairy-types.
+  - **Champion Steven**: Team includes Skarmory and Metagross. Use Electric-types against Aerodactyl.
+
+**Littleroot Town**
+- **Aftermath**: Upon returning, leave your house to find Professor Birch in trouble again. Choose one of the Sinnoh starters: Turtwig, Chimchar, or Piplup.
+
+**Route 101**
+- **Final Encounter**: Help Professor Birch and select your starter Pokémon, concluding the main walkthrough.
+
+This walkthrough focuses on key locations, items, and battle strategies essential for progressing through the game.

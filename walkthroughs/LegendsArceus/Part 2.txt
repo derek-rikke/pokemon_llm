@@ -1,0 +1,920 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Legends:_Arceus_walkthrough/Section_2
+Keywords: The Pokédex:Jubilife Village, Obsidian Fieldlands
+
+Walkthrough Text:
+Contents
+1
+Jubilife Village
+1.1
+Commander of the Galaxy Team
+1.2
+The Basics of Crafting
+1.3
+Accepting requests
+2
+Obsidian Fieldlands
+2.1
+The Pokédex
+2.2
+Head to Aspiration Hill
+2.3
+Head to Horseshoe Plains
+2.4
+Getting to Work on Research Tasks
+2.5
+New areas to explore (Optional)
+Jubilife Village
+The player putting on their Survey Corps outfit
+Galaxy Hall, the headquarters of the Galaxy Team
+You return to
+Jubilife Village
+, unscathed. On the way back,
+Rei
+/
+Akari
+mentions that you can carry up to six Pokémon in your party at one time, and eventually you can keep the rest in the village
+pastures
+(the equivalent of the
+PC
+for storing Pokémon, in other Pokémon games).
+Professor Laventon
+suggests that you report to
+Cyllene
+as soon as possible.
+Walk north and enter
+Galaxy Hall
+. Continue into Cyllene's office directly in front of you, and approach her desk. Upon your arrival, Cyllene is impressed. She gave you a tall order because you're an outsider, and yet you exceeded her expectations. She allows you to keep your satchel, hands you a Survey Corps Uniform and Sandals, and orders you to report to the commander once you get changed.
+Go outside of Galaxy Hall, and turn west to return to your room. Once inside, head to the back corner with the futon, and press
+A
+on the mirror on the wall to change your outfit. Press
+L
+or
+R
+to navigate the menus and press
+A
+to put on your Survey Corps Uniform and your Survey Corps Sandals. Press
+B
+when you're finished.
+When you finish changing, you head back to the Galaxy Hall and Rei/Akari complements how the outfit fits you. Cyllene comes downstairs, saying that you may continue to live in the same room while you work in the Survey Corps. She finally gives you a hat to tie the outfit all together, and orders you to meet with the Commander on the third floor.
+Commander Kamado, the Commander of the Galaxy Team
+Commander of the Galaxy Team
+Head up either stairway to the second floor, and then turn around to go up another flight of stairs.
+At the top of the stairs, you meet Commander
+Kamado
+, the commander of the
+Galaxy Team
+, who introduces himself and is aware of the rift that you came from. All of a sudden, he challenges you to physically fight him! You charge at him, but he easily sumo throws you, a tiny 15-year-old child, to the floor. He warns that not everyone in the village will be kind to outsiders, but acknowledges that you completed the trial and are now a proper member of the Survey Corps and Jubilife Village. He orders you to complete the Pokédex and to stay vigilant, as Pokémon are dangerous creatures.
+You've completed
+The Galaxy Corps Entry Trial
+!
+You return to Cyllene's office, and she explains that you're beginning as a No Star recruit, meaning you currently have no rank. To gain a better rank, Laventon adds, you must add more information to the Pokédex. To do that, you'll need Poké Balls, so Cyllene hands you a recipe to
+craft
+your own Poké Balls and
+$
+3,000 to buy the materials you'll need. She orders Rei/Akari to teach you how to craft, and you receive a mission:
+The Basics of Crafting
+.
+Items
+Item
+Location
+Games
+Survey Corps Uniform
+From
+Cyllene
+, after reporting the results of the trial
+LA
+Survey Corps Sandals
+From
+Cyllene
+, after reporting the results of the trial
+LA
+Recipe
+:
+Poké Ball
+From
+Cyllene
+, after reporting to
+Kamado
+LA
+$
+3,000
+From
+Cyllene
+, to purchase materials for crafting
+LA
+The crafting interface
+The Basics of Crafting
+Head outside of Galaxy Hall.
+Anthe
+, the local clothier approaches you, and says that the Professor asked her to give you a change of clothes. She hands you an Everyday Kimono and a pair of Everyday Trousers, and hopes you take a look at the village shops eventually. (You can talk to her or use the mirror in your room to equip the outfit, if you'd like.) Rei/Akari waves at you and shouts to follow them to the
+craftworks
+.
+Follow Rei/Akari to the craftworks in the east. They explain, to craft, you just need to use the workbench and have the necessary materials and recipes. They hand you the materials for a Poké Ball for free and tell you to spend the money on other things you might need.
+Walk up to the crafting bench and press
+A
+to pull up the list of recipes. Press
+A
+again to select a recipe, and use the
+D-pad
+to select how many Poké Balls you'd like to craft. When you've decided, press
+A
+to craft.
+You've completed
+The Basics of Crafting
+!
+Laventon approaches again to remind you how Poké Balls make use of a Pokémon's ability to shrink down to capture them. Then, he hands you a Pokédex. Rei/Akari explain that you need to complete research tasks to fill the Pokédex, and you receive a mission:
+Getting to Work on Research Tasks
+.
+Items
+Item
+Location
+Games
+Everyday Kimono
+From
+Anthe
+, after exiting
+Galaxy Hall
+LA
+Everyday Trousers
+From
+Anthe
+, after exiting
+Galaxy Hall
+LA
+Apricorn
+×20
+From
+Rei
+/
+Akari
+, to craft Poké Balls with
+LA
+Tumblestone
+×20
+From
+Rei
+/
+Akari
+, to craft Poké Balls with
+LA
+Pokédex
+From
+Professor Laventon
+, after crafting Poké Balls
+LA
+Accepting requests
+Guardsman Beauregard in front of Galaxy Hall
+You walk away from the bench, ready to get back to work, but before you can leave, a guardsman in front of Galaxy Hall speaks up. He had overheard that you're heading to the Fieldlands Camp, and gives you your first
+request
+. Requests aren't required to beat the game, but you can earn various rewards for completing them. Townspeople that have requests will display a request icon above them, and this icon also shows up on the Arc Phone map.
+If you'd like, talk to guardsman Beauregard to receive Request 1:
+Wurmple Can Evolve
+.
+From now on, available requests will be shown in each section, but won't be covered in detail. Head to
+Requests: Part 1
+for a detailed walkthrough on requests, as this section focuses on the main storyline and
+missions
+.
+You also have gained access to a variety of shops and services throughout Jubilife Village: you can buy general trainer items at the
+general store
+, you just learned about the
+craftworks
+where you can buy materials to craft with, you can grow useful crops at the
+farm
+, and you can buy powerful buff charms at the
+folk shrine
+at the farthest northwest corner. All of these shops may not offer amazing items right now, but they'll provide significantly more useful items as you progress.
+When you're ready, head back to the front gate (the same one that you first departed Jubilife Village from) and head to the
+Obsidian Fieldlands
+.
+Available Requests
+Head to
+Requests: Part 1
+for a detailed walkthrough on requests.
+#
+Request
+Description
+Objectives
+Reward(s)
+Location received
+Unlock requirement(s)
+1
+Wurmple Can Evolve
+Beauregard
+of the Security Corps heard about Evolution from the professor, and now Beauregard wants to evolve a Wurmple of his own. You need to catch one for him.
+[note 1]
+Catch a Wurmple to give to Beauregard.
+Dazzling Honey
+×3
+Jubilife Village
+: Floaro Main Street
+(in front of
+Galaxy Hall
+)
+Complete Mission 3: "The Basics of Crafting"
+2
+Adorable Starly
+Show a Starly to
+Marli
+of the Supply Corps, who is rather taken with how adorable Starly are.
+Show Marli a Starly.
+Show Marli the completed Pokédex entry for Starly.
+Poké Ball
+×10
+Jubilife Village
+: Floaro Main Street
+(in front of the general store)
+Complete Mission 3: "The Basics of Crafting"
+3
+What Did Shinx's Ears Look Like?
+A villager named
+Toshi
+wants you to show him a Shinx, since he can't quite seem to remember what the marks on Shinx's ears look like.
+Catch a Shinx to show to Toshi
+Potion
+×3
+Jubilife Village
+: Floaro Main Street
+(in front of the photography studio)
+Complete Mission 3: "The Basics of Crafting"
+4
+Big Buizel, Little Buizel
+Catch a big
+[note 2]
+Buizel for
+Dorian
+of the Security Corps, who wants an even bigger specimen to raise alongside the Buizel he already has.
+Catch a big Buizel to give to Dorian.
+Oran Berry
+×5
+Exp. Candy S
+×1
+Jubilife Village
+: Seaside Gate
+Complete Mission 3: "The Basics of Crafting"
+↑
+Beauregard will refuse to accept
+alpha Pokémon
+.
+↑
+Dorian requests a height of 2'8" or larger; however
+due to an oversight
+, he will accept some 2'7" Buizel. Height is stored internally as a value from 0-255, and Dorian accepts Buizel from size 215-255.
+The height of 2'7" ranges from 196-217, which slightly overlaps the accepted range, meaning he'll erroneously accept 3/22 possible Buizel with a height of 2'7".
+Obsidian Fieldlands
+Starly's research tasks for its Pokédex entry
+Map of Obsidian Fieldlands
+Now that you're an actual member of the Survey Corps, it's finally time to get down to business and begin seeking out the Pokémon. When you arrive in the
+Obsidian Fieldlands
+, Laventon explains that you'll need to study the Pokémon in depth to begin writing its Pokédex entry.
+The Pokédex
+Unlike other Pokémon games, simply catching one Pokémon isn't enough complete its entry. Instead, you need to fulfill
+research tasks
+, to study the Pokémon's behaviors and habits. These include objectives like catching or battling multiple of the Pokémon, evolving the Pokémon, seeing them use certain moves, etc. There has never been an actual complete Pokédex before, so you're starting from scratch and you need as much data as you can collect.
+You can press
+Down
+on the
+D-pad
+to open up the Pokédex. Each Pokémon's entry has different research tasks to complete. To complete a Pokédex entry, you need to finish 10 research tasks (you can think of it as 10 check marks). You should focus on the ones with the red arrows next to them, as they give double points, which make completing the entry faster. You could hypothetically complete a Pokédex entry with only 5 research tasks. There's also diminishing returns: the requirements increase for the same task, so it's much faster to do many different tasks than to only stick to one.
+Head to Aspiration Hill
+At this point, the game is much more open. You actually won't be able to progress unless you explore, so feel free to take your time, collect items, fill Pokédex entries, and most importantly catch Pokémon.
+Rei/Akari also gives you a tip for self-defense: how to dodge. You can dodge by pressing
+Y
+for a brief window of invincibility and movement. Also unlike other Pokémon games, the Pokémon will openly attack
+you
+, the player. If you get too hurt, you may
+black out
+and lose many of the items in your satchel. Rei/Akari reminds you that the day before,
+they
+were attacked by
+Shinx
+and had to be rescued—not just their Pokémon. You should make use of dodging and dashing to maneuver out of tough situations and to prevent the same thing from happening to you.
+Follow Rei/Akari onto
+Aspiration Hill
+. They explain that if you target a Pokémon with
+ZL
+, you can press
+Down
+on the
+D-pad
+to quickly access the Pokédex entry for that Pokémon. It's a useful shortcut that makes it so that you don't need to search for the correct Pokédex entry manually. They also begin showing you examples of common research tasks: for instance, one of
+Bidoof
+'s research tasks is to catch multiple of them.
+Follow Rei/Akari down the path and into the tall grass in the west. One of
+Starly
+'s research tasks is to catch it without being spotted.
+Items
+All of these items replenish regularly.
+Item
+Location
+Games
+Bidoof Section
+Apricorn
+On a small terrace halfway up the cliff on the west side of the path leading south
+LA
+Apricorn
+x5
+From an Apricorn tree on a small terrace halfway up the cliff on the west side of the path leading south
+LA
+Medicinal Leek
+Next to a field of grass on the east side of the path leading south
+LA
+Starly Section
+Apricorn
+x5
+From an Apricorn tree on top of the cliff on the east side of the path leading south
+LA
+Oran Berry
+x3
+From an Oran Berry tree past the fields of grass on west side of the path leading south
+LA
+Shinx Section
+Apricorn
+x5
+From an Apricorn tree to the west of the bridge
+LA
+Medicinal Leek
+To the east of the bridge
+LA
+Oran Berry
+x3
+From an Oran Berry tree to the east of the bridge
+LA
+Available Pokémon
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pichu
+‡
+3-6
+18-21
+✔
+✔
+Wurmple
+‡
+3-6
+18-21
+✔
+✔
+Bidoof
+2-4
+17-19
+✔
+✔
+Starly
+2-4
+17-19
+✔
+✔
+✔
+✔
+Shinx
+‡
+2-6
+17-21
+✔
+✔
+Drifloon
+2-4
+17-19
+✔
+✔
+In the air
+Starly
+2-4
+17-19
+✔
+✔
+✔
+✔
+Drifloon
+2-4
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Horseshoe Plains
+Head to Horseshoe Plains
+Go down the Aspiration Hill path all the way until the bridge, where you had first caught Shinx. Then, follow Rei/Akari westward to the
+Horseshoe Plains
+. They point out
+Buizel
+, who is similarly aggressive to Shinx: you must battle it to have a chance to catch it. One of its research tasks is to see it use a specific attack in battle (in this case,
+Aqua Jet
+).
+Follow Rei/Akari deeper into Horseshoe Plains. For keeping up with them, they give you your own
+Crafting Kit
+, which lets you craft anywhere using items from your satchel. (Your satchel has limited inventory space—if you want to craft using
+all
+your items, you should use a workbench.) They also give you a crafting recipe for
+Potions
+.
+They also explain that the cover page of the Pokédex shows your current progress: how many Pokémon you've seen, how many you've caught, how many research tasks you've completed, etc. Then, they ask you to report back to Professor Laventon when you're finished. For now, don't worry about that yet and continue exploring.
+Items
+Item
+Location
+Games
+Crafting Kit
+From
+Rei
+/
+Akari
+as a reward for following them through Horseshoe Plains
+LA
+Vivichoke
+Near the
+alpha
+Rapidash
+LA
+Ore Deposits
+Item
+Location
+Games
+Tumblestone
+×5
+South of the southwestern oxbow lake, south side of the large rock formation
+LA
+Tumblestone
+×5
+Southeast of the southwestern oxbow lake, southwest side of the large rock formation
+LA
+Tumblestone
+×5
+Southwest of the central oxbow lake, south of a small rock formation
+LA
+Tumblestone
+×5
+West of the central oxbow lake, south of a small rock formation
+LA
+Tumblestone
+×5
+West of the central oxbow lake, south of a small rock formation
+LA
+Tumblestone
+×5
+North of the northwest oxbow lake, against the northern cliff
+LA
+Tumblestone
+×5
+North of the northwest oxbow lake, against the northern cliff
+LA
+Tumblestone
+×5
+North of the northern oxbow lake, south of a rock formation
+LA
+Tumblestone
+×5
+West of the northeast oxbow lake, east of a rock formation
+LA
+Tumblestone
+×5
+North of the northeast oxbow lake, east of a large rock
+LA
+Tumblestone
+×5
+North of the southeast oxbow lake, west of a rock formation
+LA
+Medicinal Leeks
+Item
+Location
+Games
+Medicinal Leek
+Inside the curve of the southwestern oxbow lake, north of the rock formation
+LA
+Medicinal Leek
+North of the southwestern oxbow lake, west of a field of grass
+LA
+Medicinal Leek
+North of the southwestern oxbow lake, south of a small rock formation
+LA
+Medicinal Leek
+Between the two southern oxbow lakes, south of a field of grass near the river
+LA
+Medicinal Leek
+Southwest of the central oxbow lake
+LA
+Medicinal Leek
+Southwest of the central oxbow lake
+LA
+Medicinal Leek
+Southwest of the northwest oxbow lake
+LA
+Medicinal Leek
+West of the northwest oxbow lake
+LA
+Medicinal Leek
+Northwest of the northwest oxbow lake
+LA
+Medicinal Leek
+East of the northwest oxbow lake
+LA
+Medicinal Leek
+West of the northeast oxbow lake, west of a rock formation
+LA
+Medicinal Leek
+Southwest of the northeast oxbow lake, west of a field of grass
+LA
+Medicinal Leek
+North of the northeast oxbow lake, south of a field of grass
+LA
+Medicinal Leek
+Northwest of the southeastern oxbow lake, north of a field of grass
+LA
+Trees
+Item
+Location
+Games
+Oran Berry
+×3
+North of the southwestern oxbow lake
+LA
+Apricorn
+×5
+Between the two southern oxbow lakes, southwest of a field of grass south of the southeastern oxbow lake
+LA
+Oran Berry
+×3
+Between the central and northern oxbow lakes
+LA
+Apricorn
+×5
+North of the northeast oxbow lake, south of a large rock
+LA
+Apricorn
+×5
+Southwest of the southeastern oxbow lake
+LA
+Oran Berry
+×3
+Inside the curve of the southeastern oxbow lake
+LA
+Leppa Berry
+×2
+In the northeast of the area, north of the Alpha Pokémon
+LA
+Available Pokémon
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Ponyta
+3-6
+18-21
+✔
+✔
+✔
+✔
+Eevee
+2-6
+17-21
+✔
+✔
+Wurmple
+2-6
+17-21
+✔
+✔
+Silcoon
+22-24
+✔
+✔
+✔
+✔
+Cascoon
+7-9
+22-24
+✔
+✔
+Starly
+‡
+2-4
+17-19
+✔
+✔
+✔
+✔
+Bidoof
+2-6
+17-21
+✔
+✔
+Buizel
+2-4
+17-19
+✔
+✔
+Drifloon
+2-6
+17-21
+✔
+✔
+Mime Jr.
+3-6
+18-21
+✔
+✔
+Fixed Alpha
+Rapidash
+40
+✔
+✔
+✔
+✔
+In the air
+Starly
+2-4
+✔
+✔
+✔
+✔
+Drifloon
+2-4
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+The cover of the Pokédex, which displays your progress
+Getting to Work on Research Tasks
+If you'll notice, the mission description may read, "Report your research tasks to Professor Laventon and earn a sufficient number of Pokémon
+research points
+." To progress and rank up in the Survey Corps, you must earn a total of 500 research points (you can see how many you currently have and need at the bottom of the Pokédex's cover).
+One research task gives 10 points, the research tasks with the red arrows give 20 points, and completing a Pokédex entry gives an additional 100 points. So,
+completing one entry gives a total of 200 points
+. With the sheer amount of new Pokémon around, and the research points you likely already have, it shouldn't take too long to earn enough to progress.
+Here's some tips for catching Pokémon:
+Aim for the Pokémon's back when throwing Poké Balls to increase the chance of catching it (i.e.
+catch rate
+), while it's distracted or doesn't see you. This is called a back strike.
+You can also do the same when throwing a Pokémon out to initiate a battle, and the wild Pokémon will be stunned for a turn.
+You can throw
+Berries
+to distract the Pokémon if it doesn't see you or is friendly, which increases its catch rate as it eats. Make sure you crouch as you approach the Pokémon.
+If the Pokémon is actively trying to attack you, you can instead throw
+Spoiled Apricorns
+or
+Balls of Mud
+to stun it and increase its catch rate.
+The basic red Poké Ball doesn't have a high catch rate, so don't be discouraged if they break out, even with these tips. You can always lower their HP in battle, the old-fashioned way.
+Now that much more of the map is available for you to explore, get to work on completing those research tasks in any order you'd like. You could start with the four you already have (your
+first partner Pokémon
+, Bidoof, Starly, and Shinx) or you could go around catching new species of Pokémon. This is also a good opportunity to catch a
+Wurmple
+, a large Buizel, and to fill Starly's Pokédex entry for the requests.
+You should also level your Pokémon up to at least 9 for an upcoming battle.
+The possible areas that a No Star recruit can explore
+New areas to explore (Optional)
+This section is incomplete.
+Please feel free to edit this section to add missing information and complete it.
+Reason: Floaro Gardens item list
+In addition to
+Aspiration Hill
+and
+Horseshoe Plains
+, you can also explore
+Floaro Gardens
+,
+Sandgem Flats
+, and part of
+Lake Verity
+, but you should definitely keep it to those first three areas for now. As you'll see in the encounter tables below, Sandgem Flats and Lake Verity have significantly higher-level Pokémon, many of which are aggressive and difficult to capture. It's extremely risky to explore those areas at your current level. There is also a guardsman on the bridge on Aspiration Hill that prevents you from crossing until you rank up, locking off your access to the rest of the Obsidian Fieldlands.
+Available Pokémon (Floaro Gardens)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Pichu
+3-6
+18-21
+✔
+✔
+Wurmple
+2-6
+17-21
+✔
+✔
+Silcoon
+5-7
+20-22
+✔
+✔
+✔
+✔
+Cascoon
+3-5
+18-20
+✔
+✔
+Shinx
+‡
+3-6
+18-21
+✔
+✔
+Drifloon
+4-8
+19-23
+✔
+✔
+Fixed Alpha
+Luxio
+40
+✔
+✔
+In the air
+Beautifly
+18-22
+33-37
+✔
+✔
+✔
+✔
+Dustox
+18-22
+33-37
+✔
+✔
+Shaking trees
+Wormadam
+‡
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Sandgem Flats)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Abra
+12-15
+27-30
+✔
+✔
+Kadabra
+16-19
+31-34
+✔
+✔
+Mr. Mime
+15-18
+30-33
+✔
+✔
+Luxio
+15-18
+30-33
+✔
+✔
+Luxray
+30-33
+45-48
+✔
+✔
+Shellos
+West Sea
+15-18
+30-33
+✔
+✔
+Gastrodon
+West Sea
+30-33
+45-48
+✔
+✔
+Drifblim
+28-31
+43-46
+✔
+✔
+Mime Jr.
+15-18
+30-33
+✔
+✔
+Fixed Alpha
+Alakazam
+60
+✔
+✔
+Snorlax
+‡
+45
+✔
+✔
+In the air
+Staravia
+15-18
+30-33
+✔
+✔
+✔
+✔
+Drifblim
+28-31
+43-46
+✔
+✔
+Shaking trees
+Wormadam
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Shaking ore deposits
+Graveler
+25-28
+40-43
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+Available Pokémon (Lake Verity)
+Pokémon
+Levels
+Alpha
+Levels
+Time of day
+Weather
+Luxio
+15-18
+30-33
+✔
+✔
+Luxray
+41-44
+56-59
+✔
+✔
+Drifblim
+28-31
+41-44
+43-46
+56-59
+✔
+✔
+Fixed Alpha
+Gyarados
+60
+✔
+✔
+Shaking trees
+Wormadam
+Plant Cloak
+20-23
+35-38
+✔
+✔
+Water
+Magikarp
+16-19
+31-34
+✔
+✔
+Gyarados
+53-56
+68-71
+✔
+✔
+Luxray
+30-32
+45-47
+✔
+✔
+Non-fixed alpha Pokémon do not spawn until the player quelled the frenzy of the subregion's noble.
+Some of the Pokémon marked with (‡) may only spawn near the area's borders.
+You can always visit these areas later, when you and your Pokémon are stronger. Also, if you want to keep exploring,
+don't report to Professor Laventon yet
+. As soon as you talk to him after earning enough research points, he'll immediately take you back to Jubilife Village.
+When you're ready, return back to Professor Laventon at the Fieldlands Camp. Professor Laventon records your research tasks and caught Pokémon in a survey report to keep track of your progress. He also gives you money and research points relative to the amount of work that you do. Now that you've made significant progress on the Pokédex, Laventon suggests that you talk to Cyllene to rank up in the Survey Corps, and you head back to
+Jubilife Village
+.
+← Part 1
+Introduction
+: In an Unfamiliar Land, Prelude Beach, Jubilife Village, Obsidian Fieldlands
+Legends: Arceus
+walkthrough
+First Star
+: Jubilife Village, Obsidian Fieldlands
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

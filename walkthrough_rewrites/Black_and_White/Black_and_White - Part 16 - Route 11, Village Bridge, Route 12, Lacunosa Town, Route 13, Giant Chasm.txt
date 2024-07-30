@@ -1,0 +1,44 @@
+Game: Black_and_White
+Part: 16
+Keywords: Route 11, Village Bridge, Route 12, Lacunosa Town, Route 13, Giant Chasm
+
+**Part 16 Walkthrough Summary**
+
+**Route 11**
+- Head east to find a waterfall; climb it for TM50 (Overheat) and a hidden Max Revive.
+- Battle trainers: 
+  - Pokémon Ranger Crofton (Dewgong, Pinsir, Pelipper, Lv. 64)
+  - Backpackers Talon and Corin (Croagunk, Snover, Lv. 65)
+- Items: Hyper Potions, Leppa Berries, Protector (near Crofton).
+- Wild Pokémon include Vullaby, Rufflet, Golduck, and Gligar.
+
+**Village Bridge**
+- Heal at the house in the northeast.
+- Battle trainers: 
+  - School Kid Serena (Zubat, Doduo, etc., Lv. 60)
+  - Scientist Shannon (Amoonguss, Ekans, etc., Lv. 62)
+  - Baker Chris (Combee, Ursaring, Lv. 64)
+- Items: Leftovers (trash can), Calcium (island), HP Up, Full Restore, Lum Berry (from Baker Chris).
+
+**Route 12**
+- Pick up Full Heal near Village Bridge gate and TM53 (Energy Ball) near Pokémon Breeder Ethel.
+- Trainers: 
+  - Pokémon Breeder Eustace (Makuhita, Riolu, Tyrogue, Lv. 63)
+- Items: Sitrus Berries, Revive, various hidden items.
+
+**Lacunosa Town**
+- Visit the Pokémon Center and talk to the girl for a Gracidea flower if you have Shaymin.
+- Items: Elixir, Max Repel.
+
+**Route 13**
+- Meet trainers and collect items. Notable battles include: 
+  - Fisherman Jones (Tentacool, Tentacruel, Lv. 63)
+  - Artist Zach (Camerupt, Lv. 65).
+- Items: Max Ether, Razor Claw, various hidden items.
+
+**Giant Chasm**
+- Explore the crater's forest; find many items including TM13 (Ice Beam) and Max Revive.
+- Battle Kyurem (Lv. 75) in the Monster's Lair using Fighting, Rock, or Dragon-type moves for effective damage.
+- Capture with Dusk Balls due to the cave environment.
+
+After capturing Kyurem, proceed south to Undella Town.

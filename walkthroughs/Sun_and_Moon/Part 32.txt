@@ -1,0 +1,2185 @@
+Part: Part 32
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_32
+Keywords: Poni Coast, Poni Gauntlet, Battle Tree, The Pokémon League: Round 2
+
+Walkthrough Text:
+Contents
+1
+Poni Coast
+2
+Poni Gauntlet
+2.1
+Meet Up with Mina
+3
+Battle Tree
+3.1
+The Stuff of Legend
+3.1.1
+VS Red
+3.1.2
+VS Blue
+3.2
+Challenges
+3.3
+IV Judge
+3.4
+Exchange Service Corner
+4
+The Pokémon League
+4.1
+Fighting Chamber
+4.2
+Rock Chamber
+4.3
+Ghost Chamber
+4.4
+Flying Chamber
+4.5
+Champion's Chamber
+4.5.1
+Player chose Rowlet:
+4.5.2
+Player chose Litten:
+4.5.3
+Player chose Popplio:
+Poni Coast
+Poni Coast
+Poni Coast
+is a barren, rocky area on the northeast side of
+Poni Island
+. The boulder-strewn shoreline runs from
+Poni Plains
+in the south to
+Poni Gauntlet
+in the north.
+Trainers
+Trainer
+Pokémon
+Honeymooners
+Noriko and Devin
+Reward:
+$
+7,080
+Ninetales
+♀
+Lv.
+58
+No item
+Exeggutor
+♀
+Lv.
+59
+No item
+Sandslash
+♂
+Lv.
+58
+No item
+Golem
+♂
+Lv.
+59
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Ambush encounters
+Dugtrio
+Alolan Form
+Dugtrio
+S
+M
+Dirt cloud
+56-59
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Revive
+North end of the elevated western area
+(hidden)
+S
+M
+TM97
+(
+Dark Pulse
+)
+Atop a ledge northwest of the Poni Plains entrance
+S
+M
+Comet Shard
+Northwest area
+S
+M
+Zygarde Cell
+Along the coastline, where one of the rocky outcrops makes a narrow path with the coast (requires
+Tauros Charge
+)
+S
+M
+Zygarde Cell
+On the narrow path running by the northern part of the ledge along the west cliff
+S
+M
+Poni Gauntlet
+Poni Gauntlet
+Poni Gauntlet
+is a lush field that encompasses the north side of the island. Wooden bridges are used to cross the several small waterfalls that stream out into the ocean. Some of the strongest Trainers in
+Alola
+have gathered here.
+Trainers
+Trainer
+Pokémon
+Scientist
+Kyle
+Reward:
+$
+2,832
+Ditto
+Lv.
+58
+No item
+Porygon-Z
+Lv.
+59
+No item
+Veteran
+Sheri
+Reward:
+$
+5,368
+Weavile
+♀
+Lv.
+61
+No item
+Trevenant
+♀
+Lv.
+61
+No item
+Magmortar
+♂
+Lv.
+61
+No item
+Kommo-o
+♀
+Lv.
+61
+No item
+Backpacker
+Yuho
+Reward:
+$
+1,416
+Mimikyu
+♀
+Lv.
+59
+No item
+Black Belt
+Tracy
+Reward:
+$
+1,920
+Pangoro
+♂
+Lv.
+60
+No item
+Machamp
+♂
+Lv.
+60
+No item
+Punk Pair
+Marie and Troy
+Reward:
+$
+3,776
+Lycanroc
+♀
+Midnight Form
+Lv.
+59
+No item
+Honchkrow
+♂
+Lv.
+59
+No item
+Veteran Duo
+Tsunekazu and Nobuko
+Reward:
+$
+10,736
+Wishiwashi
+♂
+Lv.
+61
+No item
+Electivire
+♂
+Lv.
+61
+No item
+Turtonator
+♂
+Lv.
+61
+No item
+Comfey
+♀
+Lv.
+61
+No item
+Alomomola
+♀
+Lv.
+61
+No item
+Lilligant
+♀
+Lv.
+61
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Pelipper
+Pelipper
+S
+M
+Grass
+56-59
+30%
+Gumshoos
+Gumshoos
+S
+M
+Grass
+56-59
+30%
+-
+Raticate
+Alolan Form
+Raticate
+S
+M
+Grass
+56-59
+-
+30%
+Granbull
+Granbull
+S
+M
+Grass
+56-59
+20%
+Golduck
+Golduck
+S
+M
+Grass
+56-59
+15%
+Bewear
+Bewear
+S
+M
+Grass
+56-59
+5%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-59
+59%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-59
+40%
+Dratini
+Dratini
+Dragonair
+Dragonite
+S
+M
+Fishing
+10-59
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-59
+50%
+Barboach
+Barboach
+Whiscash
+S
+M
+Fishing
+10-59
+40%
+Dratini
+Dratini
+Dragonair
+Dragonite
+S
+M
+Fishing
+10-59
+10%
+Special Pokémon
+Talonflame
+N/A
+S
+M
+Trade
+Bewear
+59
+One
+Exclusively from
+Island Scan
+Togekiss
+N/A
+S
+M
+Grass
+59
+One
+Tu
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Bottle Cap
+From
+Mina
+, after defeating her
+S
+M
+Guard Spec.
+West side of the middle stream, against the cliff
+S
+M
+Misty Seed
+East of the western-most bridge, northeastern-most point of land
+S
+M
+Big Pearl
+On the island in the middle stream
+S
+M
+Max Elixir
+East end of the western-most bridge, near Black Belt Tracy
+S
+M
+Meet Up with Mina
+Mina
+can be found near the entrance when you first arrive. She says she has just completed a hundred sketches and is taking a break. Having defeated all of the other Trainers in the area, the captain is bored and has nothing else to do. She challenges you to beat all of the Trainers in the area as she did, if you want to challenge her again. Defeating all of the Trainers and Mina herself earns you a
+Bottle Cap
+.
+Captain
+Mina
+Poni Gauntlet
+Sun and Moon
+Reward:
+$
+7,320
+Types:
+Steel
+Fairy
+Ability:
+Prankster
+Held item:
+None
+Klefki
+♀
+Lv.
+61
+Dazzling Gleam
+Fairy
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Reflect
+Psychic
+Status
+--
+Light Screen
+Psychic
+Status
+--
+Type:
+Fairy
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Granbull
+♂
+Lv.
+61
+Crunch
+Dark
+Physical
+--
+Play Rough
+Fairy
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Types:
+Grass
+Fairy
+Ability:
+Effect Spore
+Held item:
+None
+Shiinotic
+♀
+Lv.
+61
+Spore
+Grass
+Status
+--
+Moonblast
+Fairy
+Special
+--
+Dream Eater
+Psychic
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Types:
+Normal
+Fairy
+Ability:
+Competitive
+Held item:
+None
+Wigglytuff
+♀
+Lv.
+61
+Dazzling Gleam
+Fairy
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Bug
+Fairy
+Ability:
+Shield Dust
+Held item:
+Fairium Z
+Ribombee
+♀
+Lv.
+61
+Pollen Puff
+Bug
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Psychic
+Psychic
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Battle Tree
+Battle Tree
+The
+Battle Tree
+stands on the north side of
+Poni Island
+, west of
+Poni Gauntlet
+. These sacred grounds are where
+Alola
+'s strongest Trainers gather to test their skill. The facility is run by the
+Battle Legends
+, two well-known Trainers from a distant region.
+Items
+Item
+Location
+Games
+Moomoo Milk
+From the receptionist, after 5 consecutive victories
+S
+M
+PP Up
+From the receptionist, after 10 consecutive victories
+S
+M
+Rare Candy
+From the receptionist, after 20 consecutive victories
+S
+M
+Bottle Cap
+From the receptionist, after 30 consecutive victories
+S
+M
+PP Max
+From the receptionist, after 40 consecutive victories
+S
+M
+Ability Capsule
+From the receptionist, after 50 consecutive victories
+S
+M
+Lansat Berry
+From the receptionist, after 100 consecutive victories
+S
+M
+Starf Berry
+From the receptionist, after 200 consecutive victories
+S
+M
+Charizardite X
+From
+Red
+, after defeating him in Battle Tree proper
+S
+M
+Charizardite Y
+From Red, after defeating him in Battle Tree proper
+S
+M
+Venusaurite
+From Red, after defeating him in Battle Tree proper
+S
+M
+Blastoisinite
+From Red, after defeating him in Battle Tree proper
+S
+M
+Battle Tree Great Ribbon
+Given to all participating Pokémon after defeating Red or Blue in a regular battle
+S
+M
+Battle Tree Master Ribbon
+Given to all participating Pokémon after defeating Red or Blue in a Super Battle
+S
+M
+The Stuff of Legend
+When you first visit the Battle Tree, you are approached by two young men. One of the men introduces himself as
+Blue
+, and the other as
+Red
+, both
+Champions
+from the far-off
+Kanto
+region. As a fellow Champion, they expect that you could give them a great battle, and give you the choice of which you would like to fight.
+Afterward, Blue explains that they were called here to run the facility, and the two eagerly await your challenge.
+VS Red
+Pokémon Trainer
+Red
+Battle Tree
+Sun and Moon
+Reward:
+$
+18,480
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+Light Ball
+Pikachu
+♂
+Lv.
+70
+Volt Tackle
+Electric
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Light Screen
+Psychic
+Status
+--
+Nuzzle
+Electric
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Venusaur
+♂
+Lv.
+66
+Bulldoze
+Ground
+Physical
+--
+Leech Seed
+Grass
+Status
+--
+Leaf Storm
+Grass
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+None
+Charizard
+♂
+Lv.
+66
+Will-O-Wisp
+Fire
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Air Slash
+Flying
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Blastoise
+♂
+Lv.
+66
+Hydro Pump
+Water
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Types:
+Water
+Ice
+Ability:
+Water Absorb
+Held item:
+None
+Lapras
+♀
+Lv.
+65
+Surf
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Snorlax
+♂
+Lv.
+65
+Crunch
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+High Horsepower
+Ground
+Physical
+--
+Body Slam
+Normal
+Physical
+--
+VS Blue
+Pokémon Trainer
+Blue
+Battle Tree
+Sun and Moon
+Reward:
+$
+18,200
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+65
+Psychic
+Psychic
+Special
+--
+Future Sight
+Psychic
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Rock
+Flying
+Ability:
+Pressure
+Held item:
+None
+Aerodactyl
+♂
+Lv.
+65
+Rock Slide
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Iron Head
+Steel
+Physical
+--
+Sky Drop
+Flying
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+65
+Extreme Speed
+Normal
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Bulldoze
+Ground
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+65
+Aqua Tail
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Dragon Dance
+Dragon
+Status
+--
+Type:
+Fighting
+Unknown
+Ability:
+Guts
+Held item:
+None
+Machamp
+♂
+Lv.
+65
+Cross Chop
+Fighting
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Knock Off
+Dark
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Grass
+Psychic
+Ability:
+Chlorophyll
+Held item:
+None
+Exeggutor
+♂
+Lv.
+65
+Leaf Storm
+Grass
+Special
+--
+Psychic
+Psychic
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Challenges
+Challengers compete to see how many Trainers they can defeat in a row. Losing one battle will reset the challenger's win streak to zero. Each time a challenger defeats a Trainer,
+Battle Points
+, or BP, will be awarded. The longer the win streak, the more BP will be received. There are three formats a challenger can choose: Single Battle,
+Double Battle
+, or
+Multi Battle
+. The challenger needs three Pokémon for Single Battles, four for Double Battles, and for Multi Battles, two per Trainer. Lastly, challengers cannot use more than one of the same Pokémon or item.
+There are two courses for each format: Normal Course and Super Course. A Normal Course challenge consists of 20 battles, the last of which will be against a
+Battle Legend
+. Upon successfully completing a Normal Course, the Super Course for the respective format will be unlocked, in which the challenger may rebattle the same Battle Legend on the 50th battle. Unlike the Normal Course, the Super Course is indefinite and ends only when the challenger loses a battle.
+IV Judge
+A male Ace Trainer can be found next to the PC. If you have hatched at least 21
+Eggs
+, he will update your PC with a feature that allows you to view the innate
+IVs
+of each Pokémon.
+Exchange Service Corner
+The area includes three Exchange Service Corners, where various items can be purchased with Battle Points earned in the Battle Tree.
+Left attendant
+King's Rock
+32
+BP
+Deep Sea Tooth
+32
+BP
+Deep Sea Scale
+32
+BP
+Dragon Scale
+32
+BP
+Up-Grade
+32
+BP
+Dubious Disc
+32
+BP
+Protector
+32
+BP
+Electirizer
+32
+BP
+Magmarizer
+32
+BP
+Reaper Cloth
+32
+BP
+Whipped Dream
+32
+BP
+Sachet
+32
+BP
+Middle attendant
+Toxic Orb
+16
+BP
+Flame Orb
+16
+BP
+Iron Ball
+16
+BP
+Ring Target
+16
+BP
+White Herb
+24
+BP
+Mental Herb
+24
+BP
+Power Herb
+24
+BP
+Focus Sash
+32
+BP
+Air Balloon
+32
+BP
+Red Card
+32
+BP
+Eject Button
+32
+BP
+Weakness Policy
+32
+BP
+Choice Band
+48
+BP
+Choice Specs
+48
+BP
+Choice Scarf
+48
+BP
+Life Orb
+48
+BP
+Rocky Helmet
+48
+BP
+Assault Vest
+48
+BP
+Safety Goggles
+48
+BP
+Terrain Extender
+48
+BP
+Protective Pads
+48
+BP
+Right attendant
+Gengarite
+64
+BP
+Scizorite
+64
+BP
+Pinsirite
+64
+BP
+Aerodactylite
+64
+BP
+Lucarionite
+64
+BP
+Kangaskhanite
+64
+BP
+Gyaradosite
+64
+BP
+Absolite
+64
+BP
+Alakazite
+64
+BP
+Garchompite
+64
+BP
+Sablenite
+64
+BP
+Metagrossite
+64
+BP
+Sharpedonite
+64
+BP
+Slowbronite
+64
+BP
+Glalitite
+64
+BP
+Salamencite
+64
+BP
+The Pokémon League
+Now that they have been defeated once, the
+Elite Four
+have altered their teams to make for more of a challenge. Use your strongest Pokémon and your best strategies to take down these powerful opponents!
+Fighting Chamber
+Elite Four
+Hala
+Pokémon League
+Sun and Moon
+Reward:
+$
+12,600
+Type:
+Fighting
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Hariyama
+♂
+Lv.
+63
+Fake Out
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Type:
+Fighting
+Unknown
+Ability:
+Anger Point
+Held item:
+None
+Primeape
+♂
+Lv.
+63
+Cross Chop
+Fighting
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Stomping Tantrum
+Ground
+Physical
+--
+Types:
+Normal
+Fighting
+Ability:
+Fluffy
+Held item:
+None
+Bewear
+♂
+Lv.
+63
+Hammer Arm
+Fighting
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Water
+Fighting
+Ability:
+Water Absorb
+Held item:
+None
+Poliwrath
+♂
+Lv.
+63
+Waterfall
+Water
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Poison Jab
+Poison
+Physical
+--
+Payback
+Dark
+Physical
+--
+Types:
+Fighting
+Ice
+Ability:
+Iron Fist
+Held item:
+Fightinium Z
+Crabominable
+♂
+Lv.
+63
+Ice Hammer
+Ice
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rock Chamber
+Elite Four
+Olivia
+Pokémon League
+Sun and Moon
+Reward:
+$
+12,600
+Types:
+Water
+Rock
+Ability:
+Swift Swim
+Held item:
+None
+Relicanth
+♂
+Lv.
+63
+Head Smash
+Rock
+Physical
+--
+Waterfall
+Water
+Physical
+--
+Yawn
+Normal
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Types:
+Rock
+Fairy
+Ability:
+Clear Body
+Held item:
+None
+Carbink
+Lv.
+63
+Power Gem
+Rock
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Reflect
+Psychic
+Status
+--
+Stealth Rock
+Rock
+Status
+--
+Types:
+Rock
+Electric
+Ability:
+Sturdy
+Held item:
+None
+Golem
+♀
+Lv.
+63
+Thunder Punch
+Electric
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Types:
+Rock
+Steel
+Ability:
+Sturdy
+Held item:
+None
+Probopass
+♀
+Lv.
+63
+Earth Power
+Ground
+Special
+--
+Power Gem
+Rock
+Special
+--
+Dazzling Gleam
+Fairy
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Type:
+Rock
+Unknown
+Ability:
+Keen Eye
+Held item:
+Rockium Z
+Lycanroc
+♂
+Lv.
+63
+Crunch
+Dark
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Rock Climb
+Normal
+Physical
+--
+Ghost Chamber
+Elite Four
+Acerola
+Pokémon League
+Sun and Moon
+Reward:
+$
+12,600
+Types:
+Dark
+Ghost
+Ability:
+Keen Eye
+Held item:
+None
+Sableye
+♀
+Lv.
+63
+Shadow Claw
+Ghost
+Physical
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Types:
+Ghost
+Flying
+Ability:
+Aftermath
+Held item:
+None
+Drifblim
+♀
+Lv.
+63
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Psychic
+Psychic
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Types:
+Ghost
+Grass
+Ability:
+Steelworker
+Held item:
+None
+Dhelmise
+Lv.
+63
+Phantom Force
+Ghost
+Physical
+--
+Heavy Slam
+Steel
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Types:
+Ice
+Ghost
+Ability:
+Snow Cloak
+Held item:
+None
+Froslass
+♀
+Lv.
+63
+Blizzard
+Ice
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+Ice Shard
+Ice
+Physical
+--
+Types:
+Ghost
+Ground
+Ability:
+Water Compaction
+Held item:
+Ghostium Z
+Palossand
+♀
+Lv.
+63
+Shadow Ball
+Ghost
+Special
+--
+Earth Power
+Ground
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Flying Chamber
+Elite Four
+Kahili
+Pokémon League
+Sun and Moon
+Reward:
+$
+12,600
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♂
+Lv.
+63
+Steel Wing
+Steel
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Spikes
+Ground
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+63
+Air Slash
+Flying
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Types:
+Fire
+Flying
+Ability:
+Dancer
+Held item:
+None
+Oricorio
+♀
+Lv.
+63
+Revelation Dance
+Fire
+Special
+--
+Teeter Dance
+Normal
+Status
+--
+Air Slash
+Flying
+Special
+--
+Feather Dance
+Flying
+Status
+--
+Types:
+Dark
+Flying
+Ability:
+Big Pecks
+Held item:
+None
+Mandibuzz
+♀
+Lv.
+63
+Snarl
+Dark
+Special
+--
+Air Slash
+Flying
+Special
+--
+Roost
+Flying
+Status
+--
+Toxic
+Poison
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Skill Link
+Held item:
+Flyinium Z
+Toucannon
+♂
+Lv.
+63
+Bullet Seed
+Grass
+Physical
+--
+Rock Blast
+Rock
+Physical
+--
+Beak Blast
+Flying
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Champion's Chamber
+With the
+Elite Four
+defeated a second time, the final challenge awaits again in the Champion's chamber. As
+Alola
+'s very first
+Champion
+, everyone is looking to
+claim your title
+. Upon taking your place on the Champion's throne, your first opponent enters the room. The first Title Defense battle after the initial Champion battle is always against
+Hau
+, but other characters will challenge you in subsequent battles.
+Player chose
+Rowlet
+:
+Pokémon Trainer
+Hau
+Pokémon League
+Sun and Moon
+Reward:
+$
+10,080
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+63
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+63
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+63
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Fighting
+Ice
+Ability:
+Iron Fist
+Held item:
+None
+Crabominable
+♂
+Lv.
+63
+Close Combat
+Fighting
+Physical
+--
+Ice Hammer
+Ice
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Types:
+Water
+Fairy
+Ability:
+Torrent
+Held item:
+Waterium Z
+Primarina
+♂
+Lv.
+63
+Sparkling Aria
+Water
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Litten
+:
+Pokémon Trainer
+Hau
+Pokémon League
+Sun and Moon
+Reward:
+$
+10,080
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+63
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+63
+Hydro Pump
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+63
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Fighting
+Ice
+Ability:
+Iron Fist
+Held item:
+None
+Crabominable
+♂
+Lv.
+63
+Close Combat
+Fighting
+Physical
+--
+Ice Hammer
+Ice
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Types:
+Grass
+Ghost
+Ability:
+Overgrow
+Held item:
+Grassium Z
+Decidueye
+♂
+Lv.
+63
+Spirit Shackle
+Ghost
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Smack Down
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Popplio
+:
+Pokémon Trainer
+Hau
+Pokémon League
+Sun and Moon
+Reward:
+$
+10,080
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+63
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Grass
+Unknown
+Ability:
+Leaf Guard
+Held item:
+None
+Leafeon
+♂
+Lv.
+63
+Leaf Blade
+Grass
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+63
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Fighting
+Ice
+Ability:
+Iron Fist
+Held item:
+None
+Crabominable
+♂
+Lv.
+63
+Close Combat
+Fighting
+Physical
+--
+Ice Hammer
+Ice
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Brutal Swing
+Dark
+Physical
+--
+Types:
+Fire
+Dark
+Ability:
+Blaze
+Held item:
+Firium Z
+Incineroar
+♂
+Lv.
+63
+Darkest Lariat
+Dark
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Curse
+Unknown
+Status
+--
+Having saved
+Alola
+from the
+Ultra Beasts
+and defeated the
+Elite Four
+at their full power, the last big challenge is to complete the
+Pokédex
+. The discovery of Alola-native Pokémon brought the total number of known creatures 807, so there is plenty of training left to do!
+← Part 31
+Post-Game: Tying Loose Ends
+Sun and Moon
+walkthrough
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

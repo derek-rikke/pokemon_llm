@@ -1,0 +1,46 @@
+Game: Yellow
+Part: 17
+Keywords: Cerulean Cave
+
+**Part 17: Cerulean Cave Walkthrough (Pokémon Yellow)**
+
+**Cerulean City**
+- Head to **Cerulean Cave** in the northwest corner of Cerulean City. You must **Surf** south from Route 24 to access it.
+- Only Trainers who have entered the Hall of Fame can enter due to the powerful wild Pokémon inside.
+
+**Cerulean Cave Overview**
+- Prepare with **Ultra Balls**, the **Master Ball**, and the **Super Rod**.
+- Pokémon found in various cave levels:
+  - **1F:** Golbat (50, 55), Graveler (45), Weepinbell (55), Gloom (55), Ditto (55, 60).
+  - **2F:** Golbat (52, 57), Sandslash (56), Rhyhorn (50), Ditto (60).
+  - **B1F:** Golbat (54, 59), Ditto (60, 65), Rhydon (62), Lickitung (50, 55), Chansey (56).
+  - **Special:** Mewtwo (Lv. 70) in B1F.
+
+**Item Locations**
+- **1F:** 
+  - Max Elixir (south of larger pool)
+  - Rare Candy (southeast of smaller pool)
+  - Ultra Ball (northern rocky ridge)
+  - Max Revive (northeast of rocky ridge)
+- **2F:** 
+  - Ultra Ball (south central)
+  - Rare Candy (northwest)
+  - Full Restore (east central)
+- **B1F:** 
+  - Max Elixir (north-central area)
+  - Ultra Balls (southwest rocky ridge)
+  - Max Revive (southwest rocky ridge)
+
+**Navigating Cerulean Cave**
+1. **1F (South):** Surf west for Max Elixir, then climb the ladder.
+2. **2F (South):** Head northeast for an Ultra Ball, then backtrack for Max Revive.
+3. **1F (East):** Surf southeast for Rare Candy, then pick up an Ultra Ball.
+4. **2F (Northeast):** Take the northern path for Full Restore, then the southern path to the ladder.
+5. **B1F:** Follow the tunnel to find Max Elixir, then Surf to the southwest for Ultra Ball and Max Revive. Mewtwo is on its island—save before approaching it.
+
+**VS Mewtwo**
+- **Level:** 70, **Type:** Psychic
+- Use Legendary birds for battle, inflicting status ailments (Sleep, Freeze, Paralysis) to prevent healing with Recover.
+- Attempt to catch with the Master Ball or use Ultra Balls if necessary.
+
+After defeating Mewtwo, your focus shifts to completing the Pokédex with 151 Pokémon to discover!

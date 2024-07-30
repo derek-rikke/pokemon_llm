@@ -1,0 +1,55 @@
+Game: Emerald
+Part: 14
+Keywords: Route 124, Mossdeep City, Space Center, Route 125
+
+### Walkthrough: Part 14 - Route 124 to Mossdeep City
+
+#### Route 124
+- **Overview**: Connects Lilycove City, Route 126, and Mossdeep City. 
+- **Trainers**: 
+  - Swimmer Grace (Marill, Lv. 34)
+  - Swimmer Declan (Gyarados, Lv. 34)
+  - Sis and Bro Lila & Roy (Chinchou, Lv. 34; Carvanha, Lv. 33)  
+  - Swimmer Spencer (Tentacool, Lv. 33; Wingull, Lv. 33)
+  - Additional trainers available for rematches with higher-level Pokémon.
+
+- **Treasure Hunter's House**: 
+  - Trade Shards for Evolution Stones.
+    - Red Shard → Fire Stone
+    - Yellow Shard → Thunderstone
+    - Blue Shard → Water Stone
+    - Green Shard → Leaf Stone
+
+#### Mossdeep City
+- **Notable Locations**:
+  - **Move Tutor**: Teaches DynamicPunch.
+  - **Steven's House**: Contains part of Steven's rock collection, receive HM08 (Dive) after defeating Team Magma.
+  - **Game Corner**: Mini-games available.
+  - **Mossdeep Gym**:
+    - Leaders: Liza & Tate (Psychic-type).
+    - Strategy: Use Dark- and Ghost-type moves for effectiveness.
+    - After defeating them, receive the Mind Badge and TM04 (Calm Mind).
+
+- **Items**:
+  - **Net Ball**: Southeast corner.
+  - **King's Rock**: From the boy in front of Steven's house.
+  - **Super Rod**: From the fisherman east of the Gym.
+  - **Sun Stone**: From a Sailor inside the Space Center.
+
+#### Mossdeep Space Center
+- **Encounter**: After Gym battle, find Team Magma and battle Maxie and Tabitha.
+- **Boss Strategy**: Use Steven's Pokémon alongside yours against Maxie (Mightyena, Crobat, Camerupt).
+- **Post-battle**: Maxie flees; Steven gives you HM08 (Dive).
+
+#### Optional Areas
+- **Trick House**: Complete Puzzle 6.
+- **Route 125**: Contains trainers and potential Secret Base locations.
+
+#### Trainers on Route 125
+- **Sailor Ernest**: Wingull, Machoke.
+- **Swimmer Nolen**: Tentacruel.
+- **Swimmer Sharon**: Seaking.
+- **Bird Keeper Presley**: Tropius, Xatu.
+
+### Summary
+Progress through Route 124 to Mossdeep City, challenge the Gym, and thwart Team Magma at the Space Center. Utilize key strategies against Psychic Pokémon and collect useful items along the way. Optional areas provide additional training and exploration opportunities.

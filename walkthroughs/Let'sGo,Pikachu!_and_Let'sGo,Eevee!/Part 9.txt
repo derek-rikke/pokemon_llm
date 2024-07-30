@@ -1,0 +1,1931 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_9
+Keywords: Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Celadon City
+1.1
+Pokémon Center
+1.1.1
+Move Tutor
+1.1.2
+Time for a Trade
+1.1.3
+Fortune Teller
+1.2
+Celadon Condominiums
+1.3
+Celadon Department Store
+1.3.1
+2F
+1.3.2
+3F
+1.3.3
+4F
+1.3.4
+5F
+1.3.5
+Roof
+1.4
+Celadon Gym
+1.5
+Shady Dealings
+1.6
+Game Corner
+1.6.1
+A Secret Switch?
+1.7
+Team Rocket Hideout
+1.7.1
+B1F (North)
+1.7.2
+B2F
+1.7.3
+B1F (West)
+1.7.4
+B2F
+1.7.5
+B3F
+1.7.6
+B4F (Northwest)
+1.7.7
+B4F (Southeast)
+1.7.7.1
+VS Archer
+1.7.7.2
+VS Giovanni
+1.8
+Fly, Fly Away
+2
+Lavender Town
+2.1
+Pokémon Tower
+2.1.1
+3F
+2.1.2
+4F
+2.1.3
+5F
+2.1.4
+6F
+2.1.5
+7F
+2.2
+Pokémon House
+Celadon City
+Celadon City
+Celadon City
+is located between
+Route 7
+to the east and
+Route 16
+to the west. The
+Celadon Department Store
+in the northwest offers all kinds of items for sale. The
+Celadon Condominiums
+serves as
+Game Freak
+'s headquarters in the
+Kanto
+region. The
+Celadon Gym
+stands on a hill in the southwest part of town.
+Trainers
+Trainer
+Pokémon
+Game Corner
+Team Rocket Grunt
+Reward:
+$
+812
+Raticate
+♀
+Lv.
+29
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Sandshrew
+Alolan Form
+P
+E
+Trade
+Sandshrew
+27
+Unlimited
+Vulpix
+Alolan Form
+P
+E
+Trade
+Vulpix
+27
+Unlimited
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+Near the northeast corner of the city
+P
+E
+Rare Candy
+Near the northwest corner of the city
+P
+E
+TM03
+(
+Helping Hand
+)
+Department Store; from a clerk on 3F
+P
+E
+TM06
+(
+Light Screen
+)
+Department Store; from a girl on the roof, after giving her a Fresh Water
+P
+E
+TM09
+(
+Reflect
+)
+Department Store; from a girl on the roof, after giving her a Soda Pop
+P
+E
+TM07
+(
+Protect
+)
+Department Store; from a girl on the roof, after giving her a Lemonade
+P
+E
+Pewter Crunchies
+In front of the
+Celadon Condominiums
+, from
+Brock
+P
+E
+Tea
+In front of the Celadon Condominiums, from Brock
+P
+E
+Fresh Water
+Celadon Condominiums, 3F; on the water dispenser
+(hidden)
+P
+E
+Health Candy
+×3
+Celadon Condominiums, Roof; in the fenced-in east side
+P
+E
+TM44
+(
+Play Rough
+)
+Celadon Condominiums, Roof; in the room on the west side
+P
+E
+Razz Berry
+×5
+East side of the city; north end of the path
+(hidden)
+(daily)
+P
+E
+TM53
+(
+Mega Drain
+)
+From Erika, after defeating her
+P
+E
+Sky Dash
+Taught by a
+Rocker
+in front of the Rocket Game Corner, after obtaining the
+Silph Scope
+P
+E
+Other items
+Pretty Wing
+Flowerbed east of the fountain; infrequently found by some
+walking Pokémon
+P
+E
+Later visit
+TM26
+(
+Poison Jab
+)
+From the man across the pond (requires
+Sea Skim
+)
+P
+E
+Shiny Charm
+Celadon Condominiums, 3F; from the game director, after catching every non-
+Mythical
+Pokémon
+P
+E
+PP Max
+×10
+Celadon Condominiums, 3F; from
+Morimoto
+after defeating him, after becoming Champion
+P
+E
+Pokémon Center
+Move Tutor
+Visit the Pokémon Center to find the same
+Tamer
+from
+Cerulean City
+. Speak to him, and he will offer to teach your
+partner Pokémon
+a new move.
+Let's Go, Pikachu!
+Move
+Type
+Cat.
+Floaty Fall
+Flying
+Physical
+Let's Go, Eevee!
+Move
+Type
+Cat.
+Glitzy Glow
+Psychic
+Special
+Baddy Bad
+Dark
+Special
+Time for a Trade
+Speak to the Camper standing near the sofa. He is hoping to trade for a
+Sandshrew
+P
+/
+Vulpix
+E
+, and is willing to part with its
+Alolan
+counterpart in exchange. His Sandshrew is an
+Ice
+/
+Steel
+Pokémon, and his Vulpix becomes an
+Ice
+/
+Fairy
+Pokémon when it evolves. Both are unique typings not seen outside of these evolutionary families. This trade may be conducted multiple times.
+Fortune Teller
+A Channeler named Madam Celadon and her
+Abra
+can be found to the left of the front desk. For
+$
+10,000, she can influence the
+Nature
+of any wild Pokémon you might encounter for the rest of the day. Nature is determined with two questions; the first question determining the Nature's strength, and the second determining its weakness.
+Nature table
+No change ↘
+Which one will you thin out?
+↓Attack
+(Red)
+↓Defense
+(Yellow)
+↓Sp.Atk
+(Blue)
+↓Sp.Def
+(Green)
+↓Speed
+(Pink)
+Which flower do you water?
+↑Attack
+(Red)
+Hardy
+Lonely
+Adamant
+Naughty
+Brave
+↑Defense
+(Yellow)
+Bold
+Docile
+Impish
+Lax
+Relaxed
+↑Sp.Atk
+(Blue)
+Modest
+Mild
+Bashful
+Rash
+Quiet
+↑Sp.Def
+(Green)
+Calm
+Gentle
+Careful
+Quirky
+Sassy
+↑Speed
+(Pink)
+Timid
+Hasty
+Jolly
+Naive
+Serious
+Celadon Condominiums
+The tall building in the north part of town is the
+Celadon Condominiums
+.
+Brock
+can be seen standing outside the entrance and calls out to you when you approach. He intended to visit the local
+Gym Leader
+, but was turned away and is now headed home. He gives you a bag of
+Pewter Crunchies
+he'd brought as a gift, as well as a cup of
+Tea
+. He wishes you the best and leaves toward the east.
+On the third floor,
+Game Freak
+'s game director promises a
+reward
+for showing him your completed
+Pokédex
+. There is also a female Ace Trainer nearby who asks that you return once you have earned a title.
+Celadon Department Store
+The
+Celadon Department Store
+is the largest shop in
+Kanto
+. Nearly any item a Trainer could want can be found here.
+2F
+The Trainers' Market is found on the second floor. Everyday items like
+Great Balls
+and
+Super Potions
+are offered here.
+Upper cashier
+TM17
+(
+Dragon Tail
+)
+$
+20,000
+TM18
+(
+U-turn
+)
+$
+20,000
+TM19
+(
+Iron Tail
+)
+$
+50,000
+TM25
+(
+Waterfall
+)
+$
+30,000
+TM28
+(
+Tri Attack
+)
+$
+30,000
+TM30
+(
+Bulk Up
+)
+$
+10,000
+TM43
+(
+Shadow Ball
+)
+$
+30,000
+TM48
+(
+Hyper Beam
+)
+$
+100,000
+Lower cashier
+Poké Ball
+$
+100
+Great Ball
+$
+300
+Potion
+$
+100
+Super Potion
+$
+700
+Antidote
+$
+200
+Burn Heal
+$
+300
+Ice Heal
+$
+100
+Awakening
+$
+100
+Paralyze Heal
+$
+300
+Escape Rope
+$
+300
+Repel
+$
+400
+Lure
+$
+400
+X Attack
+$
+550
+X Defense
+$
+500
+X Sp. Atk
+$
+350
+X Sp. Def
+$
+350
+X Speed
+$
+350
+X Accuracy
+$
+900
+Dire Hit
+$
+650
+Guard Spec.
+$
+700
+3F
+The third floor holds the Video Game Shop, with various video games on display. There are no items for sale, but the clerk behind the counter gives out
+TM03
+(
+Helping Hand
+).
+4F
+Wiseman Gifts is located on the fourth floor. The
+stones
+that cause certain Pokémon to evolve can be purchased here. Be sure to pick up a
+Poké Doll
+or two, as they are useful for running from wild Pokémon.
+Fire Stone
+$
+5,000
+Thunder Stone
+$
+5,000
+Water Stone
+$
+5,000
+Leaf Stone
+$
+5,000
+Ice Stone
+$
+5,000
+5F
+The Accessory Market can be found on the fifth floor. There are
+many different accessories
+available for Trainers and their Pokémon.
+Roof
+The Relaxation Space holds a picnic area and several
+vending machines
+. Each machine offers
+Fresh Water
+,
+Soda Pop
+, and
+Lemonade
+. If you purchase one of each
+drink
+for the little girl nearby, she rewards you with
+TM06
+(
+Light Screen
+),
+TM09
+(
+Reflect
+), and
+TM09
+(
+Protect
+), respectively.
+Vending machine
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+Celadon Gym
+Celadon Gym
+Celadon City Pokémon Gym
+Leader: Erika
+The Nature-Loving Princess
+The
+Celadon Gym
+specializes in
+Grass-type
+Pokémon. This type is generally vulnerable against
+Fire
+-,
+Ice
+-,
+Flying
+-,
+Poison
+-, and
+Bug-type
+attacks. Most Pokémon inside are also part-Poison, which leaves them exposed to
+Psychic
+moves, as well.
+Water
+,
+Rock
+, and
+Ground
+Pokémon are best kept on the sidelines. Grass Pokémon tend to harass their target with status ailments, so it is a good idea to bring healing items like
+Antidote
+,
+Paralyze Heal
+, and
+Awakening
+. The Gym is decorated like a hedge maze. A Lass stops you near the entrance and explains that only Trainers with cute Pokémon are allowed to enter. Show her an acceptable Pokémon from your party, like Pikachu or Eevee, to gain entry.
+Go straight ahead from the entrance to see
+Erika
+watching you from above the ledge. Turn right to battle Lass Kay and continue eastward. Clearing the southern bush only leads back to the entrance, so use
+Chop Down
+on the other bush and head north instead. Go right to battle Beauty Mai, then follow the path to the building's northeast area. Fight Picnicker Tina and Beauty Tamia to reach another intersection. Chopping down the bush on the right creates another shortcut to the entrance, so go left instead to battle Beauty Lori in the building's northwest corner. Head south to fight Ace Trainer Mary, then battle Lass Lina near another intersection. Cut down the bush on the right and continue on. Chop down the final bush on the left to reach the Gym Leader.
+Celadon Gym
+Trainers
+Trainer
+Pokémon
+Lass
+Kay
+Reward:
+$
+560
+Oddish
+♀
+Lv.
+28
+No item
+Requires Chop Down
+Beauty
+Mai
+Reward:
+$
+1,740
+Exeggcute
+♀
+Lv.
+29
+No item
+Picnicker
+Tina
+Reward:
+$
+580
+Gloom
+♀
+Lv.
+29
+No item
+Beauty
+Tamia
+Reward:
+$
+1,740
+Oddish
+♀
+Lv.
+29
+No item
+Weepinbell
+♀
+Lv.
+29
+No item
+Beauty
+Lori
+Reward:
+$
+1,740
+Gloom
+♀
+Lv.
+29
+No item
+Ace Trainer
+Mary
+Reward:
+$
+3,200
+Weepinbell
+♀
+Lv.
+31
+No item
+Tangela
+♀
+Lv.
+32
+No item
+Lass
+Lina
+Reward:
+$
+560
+Bellsprout
+♀
+Lv.
+28
+No item
+Bellsprout
+♀
+Lv.
+28
+No item
+Bellsprout
+♀
+Lv.
+28
+No item
+Gym Leader
+Erika
+Celadon Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+5,440
+Type:
+Grass
+Unknown
+Mega Stone:
+None
+Tangela
+♀
+Lv.
+33
+Mega Drain
+Grass
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Bind
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Weepinbell
+♀
+Lv.
+33
+Mega Drain
+Grass
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+34
+Mega Drain
+Grass
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle,
+Erika
+awards you the
+Rainbow Badge
+, which ensures obedience from all Pokémon up to level 50. She also gives you
+TM53
+(
+Mega Drain
+) as a prize.
+Shady Dealings
+Next door to the restaurant, there are
+Team Rocket
+Grunts organizing the transport of Pokémon to the Game Corner to be used as prizes. As one of the Grunts points out, their plan surely has nothing to do with a hidden switch in the Game Corner.
+Game Corner
+A Secret Switch?
+Jessie and James
+can be found playing some of the arcade games on the west side of the building. James is ready to leave for their hideout but Jessie is in no rush, as they have already handed
+Cubone
+off to another Team Rocket member. She asks James to remind her of how to enter the hideout and James rather loudly does so. Speak to the Team Rocket Grunt guarding the poster near the counter and he picks a fight with you. Defeat his Pokémon and he retreats, leaving the poster unguarded. Inspect it to push a switch hidden underneath. A loud noise echoes as a hidden door opens to the left, revealing a secret stairway leading underground.
+Team Rocket Hideout
+The
+Team Rocket Hideout
+is a secret underground complex used by the group as their base of operations. Rumors point to a
+certain item
+being located somewhere in
+Celadon
+that can identify the ghosts of
+Pokémon Tower
+. It would not be surprising for
+Team Rocket
+to have acquired an item as valuable as this, so be sure to take it back if you can find it!
+Trainers
+B1F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+812
+Golbat
+♀
+Lv.
+29
+No item
+Team Rocket Grunt
+Reward:
+$
+812
+Koffing
+♂
+Lv.
+29
+No item
+Rattata
+♂
+Lv.
+29
+No item
+Rattata
+♂
+Lv.
+29
+No item
+Team Rocket Grunt
+Reward:
+$
+812
+Voltorb
+Lv.
+29
+No item
+Team Rocket Grunt
+Reward:
+$
+812
+Ekans
+♀
+Lv.
+29
+No item
+Arbok
+♀
+Lv.
+29
+No item
+Southeast, requires Lift Key
+Team Rocket Grunt
+Reward:
+$
+812
+Zubat
+♀
+Lv.
+29
+No item
+Gastly
+♂
+Lv.
+29
+No item
+B2F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+812
+Hypno
+♂
+Lv.
+29
+No item
+B3F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+812
+Golbat
+♂
+Lv.
+29
+No item
+Team Rocket Grunt
+Reward:
+$
+812
+Rattata
+♂
+Lv.
+29
+No item
+Voltorb
+Lv.
+29
+No item
+B4F
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+812
+Grimer
+♀
+Lv.
+29
+No item
+Items
+B1F
+Item
+Location
+Games
+Team Rocket Set
+North; south of the entrance, from the spy disguised as a female Team Rocket Grunt
+P
+E
+Ultra Ball
+×3
+North; in the western room
+P
+E
+Mighty Candy
+×3
+North; in the eastern room
+P
+E
+Hyper Potion
+South; in the northwest corner
+P
+E
+Full Heal
+South; in the cardboard box near the northern desk
+(hidden)
+P
+E
+Great Ball
+×5
+South; near the east wall
+P
+E
+B2F
+Item
+Location
+Games
+Nugget
+Spinner maze, northeast corner
+P
+E
+Awakening
+Spinner maze, near the west wall
+P
+E
+TM05
+(
+Rest
+)
+Spinner maze, near the middle
+P
+E
+X Accuracy
+Spinner maze, south side of the large block in the middle
+(hidden)
+P
+E
+PP Up
+Spinner maze, southwest area
+P
+E
+B3F
+Item
+Location
+Games
+TM20
+(
+Dark Pulse
+)
+East-central room
+P
+E
+Guard Spec.
+South of the machine with Poké Balls in it, on the electronic boxes
+(hidden)
+P
+E
+Revive
+Northwest corner of the floor
+P
+E
+X Speed
+Spinner maze, west side
+P
+E
+Rare Candy
+Spinner maze, east side
+P
+E
+B4F
+Item
+Location
+Games
+Hyper Potion
+Northwest; in the south room, near the north wall
+P
+E
+PP Up
+Northwest; in the south room, in the southwest corner
+P
+E
+Lift Key
+Northwest; retrieved by the partner Pokémon, after defeating the Rocket Grunt
+P
+E
+Requires the Lift Key
+Elixir
+Southeast; west of the elevator
+P
+E
+Max Revive
+Southeast; behind
+Giovanni
+'s desk, on the cabinet to the right
+(hidden)
+(daily)
+P
+E
+Silph Scope
+Southeast; from Giovanni, after defeating him
+P
+E
+B1F (North)
+Visit the western room to get a set of 5
+Ultra Balls
+. The female Team Rocket Grunt to the south of the entrance is actually a spy, and gives you the
+Team Rocket Set
+of clothing to mark your encounter. Defeat the last Team Rocket Grunt and collect the 3
+Mighty Candies
+from the east room, then take the stairs down to B2F.
+B2F
+Go west to fight the next Team Rocket Grunt. Further west is a maze of
+spinner tiles
+meant to thwart any intruders; step on one of these arrow tiles to be sent spinning until you reach a stopper tile.
+Enter the maze and follow the spinner tiles to the stopper tile in the northwest. Backtrack carefully to reach a
+Nugget
+in the northeast corner. Collect the
+Awakening
+,
+TM05
+(
+Rest
+), and
+PP Up
+on the way southward. Step on the northern of the two southernmost spinner tiles to reach the maze exit and climb the stairs to the east.
+B1F (West)
+Battle the two Rocket Grunts here, then pick up the
+Hyper Potion
+to the west and the set of 5
+Great Balls
+to the east.
+B2F
+Backtrack through the east side of the maze and head down the stairs to the north.
+B3F
+Go south past the lone Rocket Grunt to reach
+TM20
+(
+Dark Pulse
+), then head west to grab the
+Revive
+in the floor's northwest corner and enter the second maze of spinner tiles. Collect the
+X Speed
+and
+Rare Candy
+on the way southward, then battle another Rocket Grunt and go downstairs.
+B4F (Northwest)
+Go west to reach a
+Hyper Potion
+and a
+PP Up
+, then continue north. Another Rocket Grunt can be found in the north room. It's his fault that the elevator isn't working, because he has the Lift Key!
+Even when defeated, he still refuses to give it up. He runs off and throws the key into the metal grating overhead to prevent you from reaching the boss. Examine the blue chair from the desk to move it underneath the vent in the northeast part of the room. Examine the chair again to help your
+partner Pokémon
+up into the vent. Take control of the Pokémon and go northwest to reach another metal grate; examine it to walk out onto the overhead pipes. Loop around along the metal grating to reach the
+Lift Key
+to the southeast.
+Jessie and James
+are standing guard in the next room and hear your Pokémon's movements, but believe it to be from Meowth's stomach making noise. Move to the edge of the grating to have your Pokémon jump down and reunite with you.
+Climb back up to B2F and make your way through the larger maze again to reach the elevator. Take it down to B4F.
+B4F (Southeast)
+Go west to reach an
+Elixir
+, then head north to confront
+Jessie and James
+.
+Soon after exiting the elevator, you are confronted by
+Jessie and James
+. They intend to get payback for their defeat at
+Mt. Moon
+, and draw you into battle.
+Team Rocket
+and
+Team Rocket
+Jessie
+James
+Team Rocket Hideout
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+3,072
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♂
+Lv.
+32
+Poison Jab
+Poison
+Physical
+--
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+32
+Toxic
+Poison
+Status
+--
+Sludge
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, the trio runs off again. Step inside the office to find
+Cubone
+near the desk while a Rocket Admin named
+Archer
+meets with
+his boss
+to discuss his plans to take over
+Silph Co.
+in
+Saffron City
+. As he turns to leave, he realizes that you have been listening in. He draws you into battle as payback.
+VS Archer
+Team Rocket Admin
+Archer
+Team Rocket Hideout
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+3,300
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+33
+Sludge Bomb
+Poison
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Curse
+Unknown
+Status
+--
+Types:
+Poison
+Flying
+Mega Stone:
+None
+Golbat
+♂
+Lv.
+33
+Air Slash
+Flying
+Special
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Defeated, he begs
+Giovanni
+for forgiveness. The Rocket boss steps out from behind the desk, ready to take you on himself. He explains that
+Team Rocket
+captures Pokémon from all over the world to keep their criminal enterprise running. He is amused that you have infiltrated their hideout, but refuses to let you rescue even
+Cubone
+.
+VS Giovanni
+Giovanni
+'s {p|Rhyhorn}} takes massive damage from
+Grass
+and
+Water
+attacks. His
+Persian
+takes serious damage only from
+Fighting
+moves.
+Team Rocket Boss
+Giovanni
+Team Rocket Hideout
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+5,600
+Type:
+Normal
+Unknown
+Mega Stone:
+None
+Persian
+♂
+Lv.
+35
+Slash
+Normal
+Physical
+--
+Feint
+Normal
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Ground
+Rock
+Mega Stone:
+None
+Rhyhorn
+♂
+Lv.
+35
+Drill Run
+Ground
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Rock Throw
+Rock
+Physical
+--
+Giovanni accepts his defeat, and acknowledges that you raise your Pokémon with great care. He allows you to take Cubone with you, and gives you the
+Silph Scope
+as an apology for mocking you. He says that a child like you could never understand his goals, and leaves the room. Cubone takes the opportunity to make its way back to
+Lavender Town
+. Ride the elevator back to B1F to reach the exit.
+Fly, Fly Away
+When you leave the Game Corner, be sure to speak to the
+Rocker
+in front of the building. He's invented a machine with balloons attached that lets the user fly through the sky, and teaches your
+partner Pokémon
+a new
+Secret Technique
+, Sky Dash. Use this to instantly fly back to
+Lavender Town
+.
+Lavender Town
+Pokémon Tower
+The
+Ghost
+Pokémon of
+Pokémon Tower
+are immune to
+Normal
+- and
+Fighting-type
+attacks, and are vulnerable to Ghost- and
+Dark-type
+moves. The spirits can be relentless, so it may be useful to bring a supply of Repels along to avoid them as much as possible. There are still many possessed Channelers here as well, so be sure to bring some Super Potions along to keep your Pokémon in good health.
+Trainers
+2F
+Trainer
+Pokémon
+Coach Trainer
+Holly
+Reward:
+$
+2,800
+Geodude
+♀
+Lv.
+28
+No item
+3F
+Trainer
+Pokémon
+Channeler
+Hope
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♂
+Lv.
+25
+No item
+Channeler
+Patricia
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♀
+Lv.
+25
+No item
+Gastly
+♂
+Lv.
+25
+No item
+Channeler
+Carly
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♀
+Lv.
+25
+No item
+4F
+Trainer
+Pokémon
+Channeler
+Laurel
+Reward:
+$
+1,000
+3
+Poké Balls
+Haunter
+♀
+Lv.
+25
+No item
+Channeler
+Jody
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♀
+Lv.
+25
+No item
+Haunter
+♀
+Lv.
+25
+No item
+Channeler
+Paula
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♂
+Lv.
+25
+No item
+Gastly
+♀
+Lv.
+25
+No item
+5F
+Trainer
+Pokémon
+Channeler
+Ruth
+Reward:
+$
+1,000
+3
+Poké Balls
+Haunter
+♀
+Lv.
+25
+No item
+Channeler
+Tammy
+Reward:
+$
+1,000
+3
+Poké Balls
+Haunter
+♀
+Lv.
+25
+No item
+Gastly
+♀
+Lv.
+25
+No item
+Gastly
+♂
+Lv.
+25
+No item
+Channeler
+Karina
+Reward:
+$
+1,000
+3
+Poké Balls
+Haunter
+♂
+Lv.
+25
+No item
+Gastly
+♀
+Lv.
+25
+No item
+Channeler
+Janae
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♂
+Lv.
+25
+No item
+Gastly
+♂
+Lv.
+25
+No item
+Gastly
+♂
+Lv.
+25
+No item
+Gastly
+♀
+Lv.
+25
+No item
+6F
+Trainer
+Pokémon
+Channeler
+Emilia
+Reward:
+$
+1,280
+3
+Poké Balls
+Haunter
+♀
+Lv.
+32
+No item
+Haunter
+♂
+Lv.
+32
+No item
+Haunter
+♀
+Lv.
+32
+No item
+Channeler
+Angelica
+Reward:
+$
+1,000
+3
+Poké Balls
+Gastly
+♀
+Lv.
+25
+No item
+Haunter
+♀
+Lv.
+25
+No item
+Gastly
+♂
+Lv.
+25
+No item
+Channeler
+Jennifer
+Reward:
+$
+1,000
+3
+Poké Balls
+Haunter
+♀
+Lv.
+25
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+3F-4F
+Gastly
+P
+E
+3F-4F
+27-32
+75%
+Cubone
+P
+E
+3F-4F
+27-32
+10%
+Zubat
+P
+E
+3F-4F
+27-32
+5%
+Golbat
+P
+E
+3F-4F
+27-32
+5%
+Haunter
+P
+E
+3F-4F
+27-32
+5%
+5F-6F
+Gastly
+P
+E
+5F-6F
+27-32
+70%
+Haunter
+P
+E
+5F-6F
+27-32
+10%
+Cubone
+P
+E
+5F-6F
+27-32
+10%
+Zubat
+P
+E
+5F-6F
+27-32
+5%
+Golbat
+P
+E
+5F-6F
+27-32
+5%
+Rare Spawns
+Chansey
+P
+E
+3F-6F
+27-32
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+3F
+Awakening
+Near the north wall
+P
+E
+Super Potion
+Middle of the floor
+P
+E
+Star Piece
+Near the northeast wall
+(hidden)
+(daily)
+P
+E
+4F
+Escape Rope
+In a group of tombstones near the eastern stairs
+P
+E
+TM04
+(
+Teleport
+)
+Near the middle of the room
+P
+E
+Full Heal
+Near the northeast wall
+P
+E
+Super Potion
+Northeastern-most corner
+(hidden)
+(daily)
+P
+E
+5F
+Nugget
+Near the north wall
+P
+E
+Ice Stone
+Southwest area
+P
+E
+Big Pearl
+On the tombstone in the southeast corner
+(hidden)
+(daily)
+P
+E
+6F
+Revive
+Southeast area
+P
+E
+Ultra Ball
+×3
+Northeast area
+P
+E
+Hyper Potion
+Northwest corner
+P
+E
+PP Up
+Northwest area, in a corner south of the Hyper Potion
+(hidden)
+(daily)
+P
+E
+Rare Candy
+West of the southern stairs (requires
+Silph Scope
+)
+P
+E
+Other items
+Pearl
+4F; near the stairs to 3F, infrequently found by the
+player
+'s
+walking
+Ghost-type
+Pokémon
+P
+E
+3F
+Upon reaching 3F with
+Trace
+in tow, you automatically use the
+Silph Scope
+to reveal the nearby spirits as
+Gastly
+and
+Haunter
+. Go north to fight Channeler Hope and reach an
+Awakening
+, then circle back around to the center of the room. Battle Channeler Carly and grab the nearby
+Super Potion
+before climbing the stairs to 4F.
+4F
+Pick up the nearby
+Escape Rope
+, and
+TM04
+(
+Teleport
+) closer to the center of the room. Grab the
+Full Heal
+near the northeast wall and climb the western stairs.
+5F
+Go northeast to battle Channeler Ruth and grab the
+Nugget
+near the north wall. A Channeler in the middle of the floor has not been possessed and maintains a healing area with her white magic. When a Trainer enters this protected zone, all of their Pokémon will be fully healed. Continue south to battle Channeler Karina and pick up the
+Ice Stone
+near the southwest wall. Battle Channeler Janae to reach the eastern stairs.
+6F
+Go south to fight Channeler Angelica and collect the
+Revive
+, then turn around and head north. Battle past Channelers Emilia and Jennifer, then pick up the set of three
+Ultra Balls
+near the northeast wall. Go west to get a
+Hyper Potion
+, then turn southward. As you approach the middle of the room, the
+ghost
+attacks!
+Trace
+catches up to you and the
+Silph Scope
+activates, revealing a
+Marowak
+.
+Cubone
+rushes in and tries to reach for its mother, but her spirit is calmed and she crosses over to the afterlife. Trace attempts to comfort the Pokémon, then tells you that he'll see that it gets home. He asks that you continue on and help
+Mr. Fuji
+get home, as well. Go south to grab a
+Rare Candy
+and climb the southern stairs.
+7F
+Upon reaching the top floor, you find
+Mr. Fuji
+standing before an altar.
+Jessie and James
+rush past you. With Marowak's spirit calmed, they are now here to persuade Mr. Fuji to provide his research to
+Team Rocket
+. They can't risk you thwarting their plans again, and draw you into battle. Their
+Ekans
+and
+Koffing
+have evolved since the previous battle. Use
+Ground
+- and
+Psychic-type
+moves like before for greatest effect.
+Team Rocket
+and
+Team Rocket
+Jessie
+James
+Pokémon Tower
+Let's Go, Pikachu! and Let's Go, Eevee!
+Reward:
+$
+3,264
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Arbok
+♂
+Lv.
+34
+Poison Jab
+Poison
+Physical
+--
+Glare
+Normal
+Status
+--
+Crunch
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Poison
+Unknown
+Mega Stone:
+None
+Weezing
+♂
+Lv.
+34
+Dark Pulse
+Dark
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Afterward, Jessie tells James that they can make up for their defeat by helping with the takeover of
+Silph Co.
+in
+Saffron City
+. After they blast off again, speak to
+Mr. Fuji
+. Having not even noticed Jessie and James's presence, he thanks you for calming Marowak's spirit and asks that you accompany him to his home, Pokémon House, at the foot of the tower.
+Pokémon House
+Speak to
+Mr. Fuji
+to receive the
+Poké Flute
+as thanks. This instrument awakens any
+sleeping
+Pokémon who may hear its music. With this, you can finally wake the two
+Snorlax
+who have been blocking the way to southern
+Kanto
+. But first, head west to return to
+Saffron City
+to chase off the Rockets and take on the next Gym.
+← Part 8
+Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Route 7
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+Saffron City, Silph Co., Saffron Gym
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

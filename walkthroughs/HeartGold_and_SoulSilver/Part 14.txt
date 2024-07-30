@@ -1,0 +1,1138 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_14
+Keywords: Routes 27 and 26, Pokemon League Reception Gate, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+New Bark Town
+1.1
+Elm's Lab
+2
+Ecruteak City
+2.1
+Silver's Trial
+2.2
+Dance Theater
+2.2.1
+VS Zuki
+2.2.2
+VS Naoko
+2.2.3
+VS Miki
+2.2.4
+VS Sayo
+2.2.5
+VS Kuni
+2.3
+Bellchime Trail
+2.4
+Bell Tower
+2.4.1
+1F
+2.4.2
+3F
+2.4.3
+4F
+2.4.4
+5F
+2.4.5
+4F
+2.4.6
+5F
+2.4.7
+6F
+2.4.8
+7F
+2.4.9
+8F
+2.4.10
+9F (Center)
+2.4.11
+10F
+2.4.12
+Rooftop
+2.4.12.1
+VS Ho-Oh
+3
+Route 41
+3.1
+Whirl Islands
+3.1.1
+Via the Northwest Island
+3.1.1.1
+1F (Northwest)
+3.1.1.2
+B1F
+3.1.1.3
+B2F (Clifftop)
+3.1.1.4
+B1F
+3.1.1.5
+1F (Northeast)
+3.1.1.6
+B1F
+3.1.2
+Via the Southwest Island
+3.1.2.1
+1F (Southwest)
+3.1.2.2
+B1F
+3.1.2.3
+1F (Southeast)
+3.1.3
+Via the Northeast Island
+3.1.3.1
+1F (Northeast)
+3.1.3.2
+B1F
+3.1.3.3
+B2F
+3.1.3.4
+B3F (Upper)
+3.1.3.5
+B2F
+3.1.3.6
+B3F (Lower)
+3.1.3.6.1
+VS Lugia
+3.1.4
+Via the Southeast Island
+New Bark Town
+New Bark Town
+Elm's Lab
+When you return to Elm's Lab in
+New Bark Town
+,
+Lyra
+/
+Ethan
+is impressed that you have already collected eight
+Badges
+, and
+Professor Elm
+thanks you for helping with his research. To show his appreciation, he rewards you with a
+Master Ball
+, a rare model of Poké Ball that catches any Pokémon without fail! According to Elm, this type of Poké Ball is usually given only to recognized Pokémon researchers, but he thinks that you will make better use of it than he would. It is best to use it when battling a Legendary Pokémon, as they can be very difficult to capture otherwise. He also informs you that a group of
+Kimono Girls
+is looking for you, and is waiting at the
+Ecruteak Dance Theater
+.
+Ecruteak City
+Silver's Trial
+As you approach the Dance Theater,
+Silver
+is just leaving, still agonizing over his defeat by the
+Kimono Girls
+. He warns you not to get complacent just because you defeated
+Team Rocket
+, as the Kimono Girls are powerful Trainers. He leaves quickly so that he does not have to see you win where he could not.
+Dance Theater
+Once inside, you proceed to the stage, where you are welcomed by Zuki. She explains that in order to persuade
+Ho-Oh
+HG
+/
+Lugia
+SS
+to return, they needed to find a person who has the right bond with Pokémon. She reveals that it was they who gave the
+Mystery Egg
+to
+Mr. Pokémon
+, and asked that he give it to someone who showed "true potential". However, pure intentions alone will not be enough to face the Legendary Pokémon's power. Zuki then gives you a chance to prove yourself by defeating each of the sisters in quick succession.
+VS Zuki
+Zuki, the girl from
+Violet City
+, intends to test how closely you have bonded with your Pokémon.
+Kimono Girl
+Zuki
+Ecruteak City
+HeartGold and SoulSilver
+Reward:
+$
+4560
+Type:
+Dark
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Umbreon
+♂
+Lv.
+38
+Dark Pulse
+Dark
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Last Resort
+Normal
+Physical
+--
+VS Naoko
+Naoko, who you first met in
+Ilex Forest
+, witnessed you taking on
+Team Rocket
+when
+Kurt
+was in trouble.
+Kimono Girl
+Naoko
+Ecruteak City
+HeartGold and SoulSilver
+Reward:
+$
+4560
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Espeon
+♂
+Lv.
+38
+Psychic
+Psychic
+Special
+--
+Swift
+Normal
+Special
+--
+Psych Up
+Normal
+Status
+--
+Last Resort
+Normal
+Physical
+--
+VS Miki
+Miki saw you chase off the
+Team Rocket
+Grunt who was harassing her here, in the Dance Theater.
+Kimono Girl
+Miki
+Ecruteak City
+HeartGold and SoulSilver
+Reward:
+$
+4560
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+38
+Fire Blast
+Fire
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Last Resort
+Normal
+Physical
+--
+VS Sayo
+Sayo, the girl who skates in sandals, witnessed your kindness when you helped her escape the
+Ice Path
+. She was in the
+Dragon's Den
+, and overheard your answers to the Elder's quiz.
+Kimono Girl
+Sayo
+Ecruteak City
+HeartGold and SoulSilver
+Reward:
+$
+4560
+Type:
+Electric
+Unknown
+Ability:
+Volt Absorb
+Held item:
+None
+Jolteon
+♂
+Lv.
+38
+Thunderbolt
+Electric
+Special
+--
+Double Team
+Normal
+Status
+--
+Thunder Wave
+Electric
+Status
+--
+Last Resort
+Normal
+Physical
+--
+VS Kuni
+Kuni, the girl you met in
+Goldenrod Tunnel
+, was amazed when you thwarted
+Team Rocket
+'s mission to take over the Radio Tower.
+Kimono Girl
+Kuni
+Ecruteak City
+HeartGold and SoulSilver
+Reward:
+$
+4560
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+38
+Surf
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Aurora Beam
+Ice
+Special
+--
+Last Resort
+Normal
+Physical
+--
+Defeating the five sisters proves your worth, and Zuki entrusts you with the
+Clear Bell
+HG
+/
+Tidal Bell
+SS
+. When paired with the
+Rainbow Wing
+HG
+/
+Silver Wing
+SS
+, these two legendary artifacts summon the Legendary Pokémon to its roost.
+Just then, the girls' younger sister runs into the building. She exclaims that she just saw the shadow of a big Pokémon, over the
+Bell Tower
+HG
+/ in the
+Whirl Islands
+' waters
+SS
+. The sisters all rush off to investigate, leaving you to follow.
+Bellchime Trail
+Bellchime Trail
+Bellchime Trail
+is a short path between the Barrier Station and the
+Bell Tower
+. It is said to always be bathed in sunset, no matter the season.
+Items
+Item
+Location
+Games
+TinyMushroom
+×3
+North of the path, between the second and third trees from the west (hidden)
+North of the path, between the third and fourth trees from the west (hidden)
+Next to the Bell Tower's northwest corner (hidden)
+HG
+SS
+Big Mushroom
+×2
+North-central area, between the fifth and sixth trees from the west (hidden)
+South of the Bell Tower (hidden)
+HG
+SS
+Bell Tower, 1F
+Bell Tower, 2F
+Bell Tower, 3F
+Bell Tower, 4F
+Bell Tower, 5F
+Bell Tower, 6F
+Bell Tower, 7F
+Bell Tower, 8F
+Bell Tower, 9F
+Bell Tower, 10F
+Bell Tower, Rooftop
+Summoning Ho-Oh
+Ho-Oh descends to the tower
+Bell Tower
+The
+Bell Tower
+is a sacred place, and is off-limits to all but a select few people.
+Ecruteak Gym
+'s
+Fog Badge
+gets a Trainer inside the tower, but no higher than the first floor. Possessing the
+Rainbow Wing
+and the
+Clear Bell
+proves your worth as a Trainer, and together grant access to the rest of the tower.
+SoulSilver players cannot encounter Ho-Oh without the Rainbow Wing. The Clear Bell is unobtainable for them, and not required.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+2F-10F
+Rattata
+HG
+SS
+2F-10F
+20-24
+100%
+100%
+0%
+Rattata
+HG
+SS
+2F-10F
+22-24
+0%
+0%
+20%
+Gastly
+HG
+SS
+2F-10F
+20-22
+0%
+0%
+80%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+3F
+Full Heal
+Southwest corner
+HG
+SS
+Max Potion
+North-central area, on the eastbound ramp (hidden)
+HG
+SS
+4F
+Ultra Ball
+East of the pillar, left-hand path
+HG
+SS
+PP Up
+Next to the southeast ladder
+HG
+SS
+Escape Rope
+Near the southwest ladder
+HG
+SS
+5F
+Rare Candy
+Next to the pillar
+HG
+SS
+Full Restore
+East-southeast area, north of the stairs to 4F (hidden)
+HG
+SS
+6F
+Max Potion
+Next to the pillar
+HG
+SS
+Full Heal
+Northwest area
+HG
+SS
+7F
+Max Revive
+Northeast corner
+HG
+SS
+8F
+Max Elixir
+Center; next to the pillar, accessed via warp tile on 9F
+HG
+SS
+Nugget
+South; southeast of the pillar, accessed via warp tile on 9F
+HG
+SS
+Carbos
+North; in the patch of light under the easternmost window (hidden)
+HG
+SS
+Full Restore
+North; in the northwest corner
+HG
+SS
+9F
+HP Up
+North; between the two central statues, accessed via warp tile on 8F
+HG
+SS
+1F
+Approach the ladder in the northwest, and the
+Rainbow Wing
+floats up into the air above you for a moment. Seeing this legendary artifact, the Sage standing guard allows you to continue up the tower.
+3F
+Beginning on the third floor, the tower features a series of ramps to confound any intruders looking to use the Legendary Pokémon for nefarious deeds. Pick up the
+Full Heal
+in the southwest corner, then move around the floor in a large S-shape to reach the stairs in the northeast.
+4F
+Go south and jump the first ramp, then take the western path to reach an
+Ultra Ball
+. Continue southward and pick up the
+PP Up
+in the southeast corner. Head west to reach an
+Escape Rope
+, then climb the northwest stairs.
+5F
+Jump over the two ramps along the north wall to reach the northeast corner, then move south and west to find a
+Rare Candy
+at the central pillar. Take the southeast path to reach the stairs in the southeast corner.
+4F
+Move westward to the southwest area, then pass by the pillar again and climb the northwest ladder.
+5F
+Jump eastward over the first two ramps, then jump the one to the south. Move westward over the next ramp, then turn south and take the eastern path to reach the south-central ladder.
+6F
+The sixth floor serves as a transition between the tightly-packed ramps on the lower floors and the far-flung
+warp tiles
+above. Collect the
+Max Potion
+next to the pillar, then move counter-clockwise along the path to find a
+Full Heal
+in the northwest corner. Head southward over the two ramps to reach the western stairs.
+7F
+Step on the northern warp tile to reach the central area, then take the next one to reach the eastern part of 9F. There are two warp tiles to the south. Take the one on the right first; this leads to the dead-end central part of 8F and a
+Max Elixir
+. The one on the left leads to the dead-end southeastern part of 8F and a
+Nugget
+. Backtrack to the northern warp tile on 7F, then pick up the
+Max Revive
+in the northeast corner. Head south and take the southern warp tile to the west side of 8F.
+8F
+Step on the southern warp tile to reach the north side of 9F. Collect the
+HP Up
+near the north wall, then take the western warp tile to the north side of 8F. Once there, pick up the
+Full Restore
+in the northwest corner, then step on the north-central warp tile to be transported to the central part of 9F.
+9F (Center)
+Climb up the ladder to 10F.
+10F
+Cross the bridge and climb up the final ladder to reach the rooftop.
+Rooftop
+Ho-Oh Descends to the Bell Tower
+Zuki and the other
+Kimono Girls
+are waiting here for you. She explains that the dance that they have long practiced and the chime of the
+Clear Bell
+are parts of a ritual to summon
+Ho-Oh
+from the great arch of the sky once again. The Clear Bell then floats up into the air above you and the girls take their positions around the tower's spire. The Clear Bell and the four bells attached to the tower begin to chime, and the girls begin to dance as a flurry of sunset-colored leaves blows through the area. The sound reaches into the sky, and Ho-Oh descends to the rooftop a moment later. Zuki says that your heart and the Clear Bell in harmony have caused it to appear, and that it must have been waiting for someone like you all this time.
+VS Ho-Oh
+The rainbow-colored
+Ho-Oh
+has returned to its perch! Begin with
+Water
+- and
+Electric-type
+attacks to wear its health down quickly, then follow up with
+Fighting
+-,
+Fire
+-,
+Steel
+-,
+Grass
+-, and
+Bug-type
+moves to chip away at it even further. Consider inflicting status ailments like
+Sleep
+and
+Paralysis
+to restrict its movements, and be sure to bring along some healing items as well.
+Pokémon HeartGold
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+Sacred Ash
+Ho-Oh
+Lv.
+45
+Extrasensory
+Psychic
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Fire Blast
+Fire
+Special
+--
+Sacred Fire
+Fire
+Physical
+--
+Pokémon SoulSilver
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+Sacred Ash
+Ho-Oh
+Lv.
+70
+Sacred Fire
+Fire
+Physical
+--
+Punishment
+Dark
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Safeguard
+Normal
+Status
+--
+Route 41
+Whirl Islands, 1F (Northwest)
+Whirl Islands, 1F (Northeast)
+Whirl Islands, 1F (Southeast)
+Whirl Islands, 1F (Southwest)
+Whirl Islands, B1F
+Whirl Islands, B2F
+Whirl Islands, B3F (Upper)
+Whirl Islands, B3F (Lower)
+Summoning Lugia
+Lugia rises from the waterfall basin
+Whirl Islands
+The
+Whirl Islands
+are connected underwater by a sprawling network of dark caves, where seawater and boulders restrict movement in certain areas. Despite being first seen on the initial visit to
+Route 41
+, it was impossible to fully explore the area without the field moves
+Surf
+,
+Strength
+, and
+Whirlpool
+, and difficult to do so without
+Flash
+, as well. Visitors may enter from any of the four islands, but those looking for
+the immense, silver-colored Pokémon
+should enter from the northeast island. Possessing the
+Silver Wing
+and the
+Tidal Bell
+prove your worth as a Trainer, and together grant access to a secluded chamber deep below sea level.
+HeartGold players cannot encounter Lugia without the Silver Wing. The Tidal Bell is unobtainable for them, and not required.
+Available Pokémon
+1F, B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+23
+30%
+Golbat
+HG
+SS
+Cave
+23
+5%
+Seel
+HG
+SS
+Cave
+22, 24
+15%
+Krabby
+HG
+SS
+Cave
+22, 24
+50%
+Surfing
+Tentacool
+HG
+SS
+Surfing
+15-25
+60%
+Horsea
+HG
+SS
+Surfing
+10-20
+30%
+Tentacruel
+HG
+SS
+Surfing
+15-25
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+50%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Horsea
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+23
+30%
+Golbat
+HG
+SS
+Cave
+23
+5%
+Seel
+HG
+SS
+Cave
+22, 24
+15%
+Krabby
+HG
+SS
+Cave
+22, 24
+50%
+Surfing
+Horsea
+HG
+SS
+Surfing
+15-25
+60%
+Tentacruel
+HG
+SS
+Surfing
+15-25
+30%
+Seadra
+HG
+SS
+Surfing
+10-30
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+85%
+Krabby
+HG
+SS
+Fishing
+Old Rod
+10
+15%
+Krabby
+HG
+SS
+Fishing
+Good Rod
+20
+50%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+40%
+Horsea
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+HG
+SS
+Cave
+24
+30%
+Golbat
+HG
+SS
+Cave
+24
+5%
+Seel
+HG
+SS
+Cave
+23, 25
+15%
+Krabby
+HG
+SS
+Cave
+23, 25
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F (Northeast)
+Ultra Ball
+On the rocky ridge, near the southern ladder
+HG
+SS
+1F (Southwest)
+Ultra Ball
+Near the eastern ladder
+HG
+SS
+1F (Southeast)
+Rare Candy
+On the rock in the northwest corner (hidden)
+HG
+SS
+B1F
+Carbos
+West-central area, between the northwest and southwest ridges
+HG
+SS
+Pearl
+Northwest area, on a lone stalagmite a few steps east of the northwest ladder (hidden)
+HG
+SS
+Full Restore
+On the northwest ledge
+HG
+SS
+Nugget
+North-central area, surrounded by the C-shaped ridge
+HG
+SS
+Escape Rope
+South-central area, west of the boulder
+HG
+SS
+Ultra Ball
+East-central area, in a short dead-end path (hidden)
+HG
+SS
+Calcium
+On the rocky ridge in the southeast corner, northeast of the ladder
+HG
+SS
+Ultra Ball
+Northwest side of the southeast ridge, on the wall between two small rocks (hidden)
+HG
+SS
+Super Repel
+Northeast area, on a lone rock west of the northeast ladder (hidden)
+HG
+SS
+Revive
+Northeast; on the middle of three rocks (hidden)
+HG
+SS
+B2F
+Max Elixir
+Clifftop; west of the southern ladder, accessible via B1F
+HG
+SS
+Full Restore
+Clifftop; east of the southern ladder, accessible via B1F
+Northwest of the northern ladder, on the wall between two rocks (hidden)
+HG
+SS
+Max Revive
+Northwest area
+HG
+SS
+B3F (Upper)
+Rare Candy
+On the rocky overhang above the waterfall basin
+HG
+SS
+Via the Northwest Island
+1F (Northwest)
+Use
+Flash
+to illuminate the area, then climb down the ladder.
+B1F
+Go south from the ladder to reach a
+Carbos
+, then climb down the ladder on the ridge to the southeast.
+B2F (Clifftop)
+Collect the two items, a
+Max Elixir
+to the west and a
+Full Restore
+to the east, from atop the cliff and return to B1F.
+B1F
+Head northwest to return to the first ladder, then go south from the rocky ridge to reach another
+Full Restore
+atop the ledge. Turn east and walk across the north-central ledge; walk down the second stairway and go left to find a
+Nugget
+. Head east and jump over the pair of ledges, then climb up the ladder.
+1F (Northeast)
+Pick up the
+Ultra Ball
+on the rocky ridge, then climb back down the same ladder.
+B1F
+Go southwest from here, jumping over two ledges along the way. Grab the
+Escape Rope
+in the south-central area. The nearby boulder cannot be moved from this side, so climb the ladder to the southwest instead. The entrance from the southwest island is located to the south.
+Via the Southwest Island
+1F (Southwest)
+Use
+Surf
+to move east from the entrance. Pick up the
+Ultra Ball
+and climb down the ladder.
+B1F
+Go northeast, then south to reach the rocky ridge in the southeast area. Grab the
+Calcium
+here and climb up the ladder.
+1F (Southeast)
+The entrance from the southeast island is located to the south.
+Via the Northeast Island
+1F (Northeast)
+Jump over the first ledge, then continue eastward and jump the northern-most of the next two ledges. Climb down the ladder in the northeast corner.
+B1F
+Move southwestward along the rocky ridge and climb down the next ladder.
+B2F
+Collect the
+Max Revive
+to the west. Speak to the man at the cliff's edge, and the
+Silver Wing
+floats up into the air above you for a moment. Seeing this legendary artifact, the man steps aside, allowing you to continue down the cliffside. Walk down the ramp and enter the first cave opening.
+B3F (Upper)
+B3F houses a large waterfall basin. Collect the
+Rare Candy
+from the rocky overhang in this upper area and return to B2F.
+B2F
+Continue along the path down the cliffside and enter the lower cave opening to reach the waterfall basin.
+B3F (Lower)
+Lugia Rises from the Waterfall Basin
+Zuki and the other
+Kimono Girls
+are waiting here for you. She explains that the dance that they have long practiced and the chime of the
+Tidal Bell
+are parts of a ritual to summon
+Lugia
+from the waterfall basin once again. The Tidal Bell then floats up into the air above you and the girls take their positions around the rocky platform. The Tidal Bell and the two bells on either side of the waterfall begin to chime, and the girls begin to dance as a flurry of silver-colored feathers blows through the area. A winged silhouette appears on the wall of water, and Lugia emerges a moment later. Zuki says that your heart and the Tidal Bell in harmony have caused it to appear, and that it must have been waiting for someone like you all this time.
+Walk down the stairway on the north side of the platform and use
+Surf
+to reach the Legendary Pokémon.
+VS Lugia
+The silver-colored
+Lugia
+has appeared! Begin with
+Rock
+-,
+Electric
+-,
+Ice
+-,
+Ghost
+-, and
+Dark-type
+attacks to wear its health down quickly, then follow up with
+Grass
+-,
+Psychic
+-, and
+Fighting-type
+moves to chip away at it even further. Consider inflicting status ailments like
+Sleep
+and
+Paralysis
+to restrict its movements, and be sure to bring along some healing items as well.
+Pokémon HeartGold
+Types:
+Psychic
+Flying
+Ability:
+Pressure
+Held item:
+None
+Lugia
+Lv.
+70
+Aeroblast
+Flying
+Special
+--
+Punishment
+Dark
+Physical
+--
+AncientPower
+Rock
+Special
+--
+Safeguard
+Normal
+Status
+--
+Pokémon SoulSilver
+Types:
+Psychic
+Flying
+Ability:
+Pressure
+Held item:
+None
+Lugia
+Lv.
+45
+Extrasensory
+Psychic
+Special
+--
+Rain Dance
+Water
+Status
+--
+Hydro Pump
+Water
+Special
+--
+Aeroblast
+Flying
+Special
+--
+There is no shortcut leading out of the cave, so using an Escape Rope is the fastest way to reach the exit.
+Via the Southeast Island
+Entering from the southeast island ultimately leads to the southwest island's entrance. The only items accessible from this direction are a Calcium and a Ultra Ball, both of which will have been already obtained by this point.
+← Part 13
+Blackthorn City, Route 45, Dark Cave, Route 46
+HeartGold and SoulSilver
+walkthrough
+Route 27, Route 26, Victory Road
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

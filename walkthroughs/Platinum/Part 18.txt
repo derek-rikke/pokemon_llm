@@ -1,0 +1,1375 @@
+Part: Part 18
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_18
+Keywords: Sendoff Spring, Lake Verity, Lake Valor, Lake Acuity, Route 222, Sunyshore City
+
+Walkthrough Text:
+Contents
+1
+Sendoff Spring
+2
+Sandgem Town
+3
+Mt. Coronet (optional)
+4
+Catching the Lake Guardians
+4.1
+Lake Verity
+4.2
+Lake Valor
+4.3
+Lake Acuity
+5
+Route 222
+6
+Sunyshore City
+6.1
+Sunyshore Market
+6.2
+Pokétch developer
+6.3
+Julia's House
+6.4
+Vista Lighthouse
+Sendoff Spring
+Sendoff Spring
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Grass
+38
+0%
+0%
+10%
+Graveler
+D
+P
+Pt
+Grass
+37-39
+35%
+35%
+0%
+Graveler
+D
+P
+Pt
+Grass
+37-38
+0%
+0%
+25%
+Dusclops
+D
+P
+Pt
+Grass
+40
+5%
+5%
+0%
+Dusclops
+D
+P
+Pt
+Grass
+39-40
+0%
+0%
+15%
+Staravia
+D
+P
+Pt
+Grass
+38,40
+20%
+20%
+0%
+Staravia
+D
+P
+Pt
+Grass
+40
+0%
+0%
+10%
+Bibarel
+D
+P
+Pt
+Grass
+37-38
+30%
+Chingling
+D
+P
+Pt
+Grass
+37,39
+10%
+Surfing
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+100%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+After returning to
+Sendoff Spring
+in the regular world, Cynthia suggests that you visit
+Sandgem Town
+since
+Professor Rowan
+was worried about you. If you don’t have
+Fly
+with you, go south to
+Spring Path
+and you'll find yourself on
+Route 214
+where there were previously only trees. From there, head to
+Veilstone City
+to get the Pokémon you need before Flying off to Sandgem Town.
+Sandgem Town
+When you arrive at Professor Rowan's lab in
+Sandgem Town
+, it turns out both he and
+Lucas
+/
+Dawn
+are relieved to see you alive, as they had been trying to find you. Professor Rowan will mention that the Lake Guardians have returned to their homes. Seeing the number of Pokémon you have, and your seven Badges, he suggests that you head to
+Sunyshore City
+where the final Gym is and eventually challenge the
+Elite Four
+to broaden your horizons.
+You are now free to continue east through
+Valor Lakefront
+to access
+Route 222
+and Sunyshore City, but let's visit the Lake Guardians first, as they need to be encountered for you to get the
+National Pokédex
+.
+Mt. Coronet (optional)
+Now that
+Team Galactic
+is gone, a few items in
+Mt. Coronet
+'s upper 1F 1 are now accessible.
+Items (Upper 1F 1)
+Item
+Location
+Games
+TM02
+(
+Dragon Claw
+)
+Southern end of southern cavern (requires entering via the tunnel from the summit)
+Pt
+Nugget
+On a rock directly north of TM02
+(hidden)
+Pt
+Catching the Lake Guardians
+To get the National
+Pokédex
+, you only need to see the Lake Guardians. If you still want to catch them, then your Pokémon should be at reasonably high Levels, as the Lake Guardians are at Level 50. It's recommended you bring a
+Steel-type
+with you to resist the Lake Guardians' attacks, as well as
+False Swipe
+or a
+sleep
+-inducing move to make them easier to catch. To catch
+Azelf
+and
+Uxie
+, you should bring about 40
+Dusk Balls
+or
+Timer Balls
+. (Timer Balls become more effective than Dusk Balls after 25 turns) Also, you'll need the HM
+Surf
+to get across each lake. As always,
+SAVING
+before encountering them is a good idea.
+Lake Verity
+Lake Verity
+Verity Cavern
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Starly
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+40%
+Bidoof
+D
+P
+Pt
+Grass
+2-4
+50%
+50%
+60%
+Surfing and Fishing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Seaking
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM38
+(
+Fire Blast
+)
+In the south-west corner of the western patch of grass (requires
+Surf
+)
+Pt
+When you arrive at
+Lake Verity
+, Surf over to the southwestern corner of the lake to find
+TM38
+(
+Fire Blast
+). After that, Surf to the cavern in the center and talk to
+Mesprit
+inside. It quickly leaves, but is counted as seen in your Pokédex. Professor Rowan shows up and after you listen to him babble about his research, he mentions that Mesprit is likely playing with you and you'll need to track it with the
+Marking Map
+app on your Pokétch, which can track roaming Pokémon. If you didn't get it yet, Fly to
+Jubilife City
+and go to the
+Pokétch Company
+building. Talk to the company President inside. This is the second app you'll receive from him anytime after collecting your third Badge.
+Mesprit
+roams
+Sinnoh, moving every time you enter a different town or Route. On the first turn of battle, it will flee. This mission will take either patience or a
+Master Ball
+. As long as your lead Pokémon is at or below level 50,
+Repels
+can make it easier to find in the grass.
+Jubilife City is a good place to use for moving between Routes to draw Mesprit closer, as it has four different exits. The
+guardpost
+leading to
+Route 218
+or the cave that leads to the upper area of
+Route 204
+are helpful if Mesprit makes it to those places and you are in the right position, since moving through them does not count as changing locations. You can also try moving back and forth across a boundary between two routes until Mesprit appears on your route.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Mesprit
+Lv.
+50
+Swift
+Normal
+Special
+--
+Lucky Chant
+Normal
+Status
+--
+Future Sight
+Psychic
+Special
+--
+Charm
+Normal
+Status
+--
+One method to catch it without a Master Ball is to
+Paralyze
+Mesprit or put it to
+sleep
+with a faster Pokémon the first time you encounter it. On subsequent encounters, attack it to carefully cut down its HP and soft-reset in case you knock it out. Once you've had enough battles to cut its HP bar down to the red zone, throw
+Quick Balls
+each time you see it until you catch it.
+The second strategy is to use the escape-preventing moves
+Block
+or
+Mean Look
+, then continue into a battle similar to the one when you caught Giratina. Once you have it trapped, throw Dusk Balls (if it is nighttime) or Timer Balls to catch it. Out of the three Lake Guardians, Mesprit is the slowest, but it has better HP and more balanced offensive and defensive stats compared to Azelf and Uxie.
+Lake Valor
+Lake Valor (restored)
+Valor Cavern
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+38-39
+15%
+Golduck
+D
+P
+Pt
+Grass
+40-41
+15%
+Staravia
+D
+P
+Pt
+Grass
+38,40
+35%
+Bibarel
+D
+P
+Pt
+Grass
+39,41
+35%
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Seaking
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM25
+(
+Thunder
+)
+In the southeastern patch of grass (requires
+Surf
+)
+Pt
+Now that Team Galactic is long gone,
+Lake Valor
+has been fully restored. Surf to the southeastern corner of this lake to find
+TM25
+(
+Thunder
+). Then, enter the cave and
+save your game
+before talking to Azelf.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Azelf
+Lv.
+50
+Swift
+Normal
+Special
+--
+Uproar
+Normal
+Special
+--
+Future Sight
+Psychic
+Special
+--
+Nasty Plot
+Dark
+Status
+--
+Azelf
+is the fastest Lake Guardian and has the best offensive stats compared to the others, but it has the weakest defenses. With
+Nasty Plot
+, it can quickly become a serious threat by boosting its Special Attack.
+Steel-types
+are good Pokémon to use because they resist Azelf's attacks. Paralyze it or put it to
+sleep
+, then carefully weaken it with a not-too-powerful move. Once its HP is in the red zone, keep throwing Dusk Balls until you catch it.
+Lake Acuity
+Lake Acuity
+Acuity Cavern
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Psyduck
+D
+P
+Pt
+Grass
+38
+5%
+Golduck
+D
+P
+Pt
+Grass
+39-40
+15%
+Sneasel
+D
+P
+Pt
+Grass
+41
+10%
+Snorunt
+D
+P
+Pt
+Grass
+39-40
+0%
+0%
+20%
+Bibarel
+D
+P
+Pt
+Grass
+39-40
+25%
+Snover
+D
+P
+Pt
+Grass
+38-41
+45%
+45%
+0%
+Snover
+D
+P
+Pt
+Grass
+38,41
+0%
+0%
+25%
+Surfing
+Psyduck
+D
+P
+Pt
+Surfing
+20-30
+90%
+Golduck
+D
+P
+Pt
+Surfing
+20-40
+10%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Goldeen
+D
+P
+Pt
+Fishing
+Good Rod
+15-20
+30%
+Seaking
+D
+P
+Pt
+Fishing
+Good Rod
+25-35
+5%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM14
+(
+Blizzard
+)
+At northwest corner of tall grass in the northeast part of the lake (requires
+Surf
+)
+Pt
+Once you arrive at
+Lake Acuity
+, Surf to the northeastern corner of the area to find
+TM14
+(
+Blizzard
+). Now, enter the cavern and prepare to battle Uxie.
+Type:
+Psychic
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Uxie
+Lv.
+50
+Swift
+Normal
+Special
+--
+Yawn
+Normal
+Status
+--
+Future Sight
+Psychic
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Uxie in terms of base stats is the opposite of Azelf, where it is the strongest in its defensive stats and weakest in its offensive stats. It can use
+Amnesia
+to raise its Sp. Defense stat by 2 levels. Use non-supereffective physical moves to lower its HP and then use False Swipe if necessary. Uxie may try to put your Pokémon to sleep with
+Yawn
+which can be an annoyance until Uxie's HP is in the red zone and you can focus on catching it. Just like with Azelf, Dusk Balls are the best way to go, though Timer Balls may be needed as backup.
+Now that you have dealt with the Lake Guardians, Fly back to
+Pastoria City
+, then head to
+Hotel Grand Lake
+at Valor Lakefront. Time to travel east to your final Gym battle!
+Route 222
+Route 222
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Magnemite
+D
+P
+Pt
+Grass
+39
+10%
+Magneton
+D
+P
+Pt
+Grass
+41
+5%
+Electabuzz
+D
+P
+Pt
+Grass
+39,41
+30%
+30%
+0%
+Electabuzz
+D
+P
+Pt
+Grass
+39
+0%
+0%
+20%
+Wingull
+D
+P
+Pt
+Grass
+38
+10%
+Pelipper
+D
+P
+Pt
+Grass
+40
+5%
+Luxio
+D
+P
+Pt
+Grass
+38,40
+10%
+Floatzel
+D
+P
+Pt
+Grass
+40
+20%
+20%
+0%
+Floatzel
+D
+P
+Pt
+Grass
+38,40-41
+0%
+0%
+40%
+Chatot
+D
+P
+Pt
+Grass
+38
+10%
+10%
+0%
+Surfing
+Tentacool
+D
+P
+Pt
+Surfing
+30-40
+60%
+Tentacruel
+D
+P
+Pt
+Surfing
+30-50
+9%
+Wingull
+D
+P
+Pt
+Surfing
+30-40
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+30-50
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Rich Boy
+Trey
+マサヒコ
+Masahiko
+Reward:
+$
+7200
+Luxray
+♂
+Lv.
+45
+No item
+Beauty
+Nicola
+ノリカ
+Norika
+Reward:
+$
+2520
+Lopunny
+♀
+Lv.
+45
+No item
+Sailor
+Marc
+ユウジロウ
+Yūjirō
+Reward:
+$
+1440
+Mantyke
+♂
+Lv.
+45
+No item
+Tuber
+Conner
+トモオ
+Tomoo
+Reward:
+$
+176
+Remoraid
+♂
+Lv.
+44
+No item
+Sailor
+Luther
+ユウシ
+Yūshi
+Reward:
+$
+1376
+Wingull
+♂
+Lv.
+41
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+43
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Fisherman
+Alec
+タツオ
+Tatsuo
+Reward:
+$
+1440
+Magikarp
+♂
+Lv.
+42
+No item
+Gyarados
+♂
+Lv.
+45
+No item
+Fisherman
+George
+マサシ
+Masashi
+Reward:
+$
+1344
+Magikarp
+♂
+Lv.
+41
+No item
+Gyarados
+♂
+Lv.
+42
+No item
+Remoraid
+♂
+Lv.
+41
+No item
+Finneon
+♂
+Lv.
+41
+No item
+Fisherman
+Brett
+ユキオ
+Yukio
+Reward:
+$
+1344
+Magikarp
+♂
+Lv.
+43
+No item
+Finneon
+♂
+Lv.
+42
+No item
+Feebas
+♂
+Lv.
+42
+No item
+Fisherman
+Cole
+マツオ
+Matsuo
+Reward:
+$
+1376
+Gyarados
+♂
+Lv.
+43
+No item
+Gyarados
+♂
+Lv.
+43
+No item
+Remoraid
+♂
+Lv.
+40
+No item
+Tuber
+Holly
+アユミ
+Ayumi
+Reward:
+$
+176
+Remoraid
+♀
+Lv.
+44
+No item
+Poké Kid
+Janet
+アヤカ
+Ayaka
+Reward:
+$
+336
+Pikachu
+♀
+Lv.
+42
+No item
+Pikachu
+♀
+Lv.
+42
+No item
+Policeman
+Thomas
+セイタロウ
+Seitarō
+Reward:
+$
+1720
+Noctowl
+♂
+Lv.
+43
+No item
+Machoke
+♂
+Lv.
+43
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+PP Up
+×2
+At end of middle path between trees in north-west corner
+(hidden)
+Just right of the Pikachu Fan Club
+Pt
+Wiki Berry
+×2
+Berry patch on the north path
+Pt
+Mago Berry
+×2
+Berry patch on the north path
+Pt
+Aguav Berry
+×2
+Berry patch on the north path
+Pt
+Qualot Berry
+Berry patch on the north path
+Pt
+Full Restore
+×2
+Up from the jumpable ledge, next to the man who gives out
+TM56
+(
+Fling
+)
+In the grass west of the
+Quick Ball
+(requires
+Rock Smash
+)
+(hidden)
+Pt
+Ultra Ball
+In the grass north-west of the man who gives out
+TM56
+(
+Fling
+)
+(hidden)
+Pt
+Carbos
+Behind
+cut
+-able tree
+Pt
+TM56
+(
+Fling
+)
+From the man near cliff edg
+Pt
+Pearl
+South of the westernmost rock at the beach
+(hidden)
+Pt
+Heart Scale
+×2
+Between Fisherman Brett and Fisherman Cole
+(hidden)
+On the beach, south of the Pikachu Fan Club
+(hidden)
+Pt
+Net Ball
+Show the Fisherman a larger Remoraid than the one listed
+Pt
+Quick Ball
+In large patch of grass east of beach (requires
+Rock Smash
+)
+Pt
+TinyMushroom
+In the grass east of the
+Quick Ball
+(requires
+Rock Smash
+)
+(hidden)
+Pt
+Big Mushroom
+In small patch of grass in far south-east corner (requires
+Rock Smash
+and
+Surf
+)
+(hidden)
+Pt
+Route 222
+is the path from
+Valor Lakefront
+to
+Sunyshore City
+. It's worth noting that it's also the only location where you can find a wild
+Electabuzz
+. The two houses on the beach are not essential to visit, but the one on the left is a
+Pikachu
+fan club. One of the Pikachu inside is actually a
+Poké Kid
+who will battle the player using two Pikachu of her own! The other house has a Fisherman inside who is looking for a giant
+Remoraid
+that is larger than 23.7 inches. If you show him one then he'll give you a
+Net Ball
+.
+Also on this route is the final
+Honey Tree
+you'll find in the game. The man at the end of the cliff will give you
+TM56
+(
+Fling
+). If you ever use Fling in battle, be aware that usually
+the user's held item will be lost forever
+upon use (some places where it's kept include the
+Battle Frontier
+and player-versus-player battles). Make sure to battle the
+Fishermen
+on the beach, as one of them has a
+Feebas
+, which is a hard to spot Pokémon that you will need to see to complete your
+Sinnoh
+Pokédex
+. Once you are done here, head through the gatehouse to reach Sunyshore City.
+Sunyshore City
+Sunyshore City
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacruel
+D
+P
+Pt
+Surfing
+30-50
+9%
+Tentacool
+D
+P
+Pt
+Surfing
+30-40
+60%
+Wingull
+D
+P
+Pt
+Surfing
+30-40
+30%
+Pelipper
+D
+P
+Pt
+Surfing
+30-50
+1%
+Fishing
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-15
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Carbos
+Between the Sunyshore Market and the blank sign painted white
+(hidden)
+Pt
+Zap Plate
+In front of the
+Vista Lighthouse
+, in the southeast corner
+(hidden)
+Pt
+Thunderstone
+Behind the
+Vista Lighthouse
+Pt
+HM07
+(
+Waterfall
+)
+From
+Jasmine
+after defeating
+Volkner
+Pt
+Effort Ribbon
+From a lady in the
+Sunyshore Market
+, if the player's Pokémon has 510
+Effort values
+Pt
+Alert Ribbon
+From Julia
+Mo
+Pt
+Shock Ribbon
+From Julia
+Tu
+Pt
+Downcast Ribbon
+From Julia
+We
+Pt
+Careless Ribbon
+From Julia
+Th
+Pt
+Relax Ribbon
+From Julia
+Fr
+Pt
+Snooze Ribbon
+From Julia
+Sa
+Pt
+Smile Ribbon
+From Julia
+Su
+Pt
+When you enter
+Sunyshore City
+, you'll encounter
+Flint
+of the
+Elite Four
+, who asks if you can try to cheer up his friend, Sunyshore's Gym Leader
+Volkner
+, who has been bored lately from the lack of excitement. You can explore around the city if you want, but before you can challenge the Gym you need to find Volkner at the lighthouse. Also, on the beach in the northern area of town, you can encounter
+Jasmine
+, a Gym Leader from
+Johto
+. It's most important to talk to her after you beat Volkner, though, because she will then give you
+HM07
+(
+Waterfall
+).
+Sunyshore Market
+The building that is slightly north of the Poké Mart is the
+Sunyshore Market
+. Here, you can buy
+Seals
+for decorating your Poké Balls if you have a
+Seal Case
+. There is also a woman here who will give the
+Effort Ribbon
+to your lead Pokémon if it has
+Effort Values
+that equal 510.
+Pokétch developer
+In the house on the cliff on the eastern side of town, accessible through
+Rock Climb
+, is a man that will give you three new Pokétch apps based on the
+Nature
+of your Pokémon that are in your current
+party
+.
+If you have a Pokémon with a
+Serious
+Nature inside your Party, you will get the
+Calendar App
+.
+If you have a Pokémon with a
+Naive
+Nature inside your Party, you will get the
+Dot Artist App
+.
+If you have a Pokémon with a
+Quirky
+Nature inside your Party, you will get the
+Roulette App
+.
+Also, southwest of this house is a
+Thunderstone
+.
+Julia's House
+The right-hand house in the northeastern corner of the city belongs to a woman named Julia. Visit her daily to obtain a
+Ribbon
+. The Ribbon you receive is dependent on which day of the week it is. She does not give out a ribbon on the first visit.
+Vista Lighthouse
+The large building in the southeastern corner of the city is the
+Vista Lighthouse
+. First, use the
+Dowsing Machine
+to find a hidden
+Zap Plate
+here. Inside, talk to Volkner and you'll leave him convinced to accept your challenge at the Gym.
+← Part 17
+Spear Pillar to Distortion World
+Platinum
+walkthrough
+Sunyshore Gym to Victory Road
+Part 19 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

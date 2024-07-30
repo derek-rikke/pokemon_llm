@@ -1,0 +1,901 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_20
+Keywords: Route 7, Celadon City, Celadon Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 7
+2
+Celadon City
+2.1
+Celadon Condominiums
+2.2
+Restaurant
+2.3
+Game Corner
+2.4
+Celadon Department Store
+2.4.1
+2F
+2.4.2
+3F
+2.4.3
+4F
+2.4.4
+5F
+2.4.5
+Rooftop Atrium
+2.5
+Celadon Gym
+Route 7
+Route 7
+Route 7
+is a tiny road between
+Saffron City
+and
+Celadon City
+. The
+Underground Path
+links to
+Route 8
+, but has been closed indefinitely due to excessive battling in the tunnel. This is the only area where two new
+Dark-type
+Pokémon—
+Murkrow
+and
+Houndour
+—can be found, but only in the overnight hours.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+HG
+SS
+Grass
+15-19
+,
+17
+,
+19
+40%
+35%
+30%
+Meowth
+HG
+SS
+Grass
+17
+30%
+Growlithe
+HG
+SS
+Grass
+15
+,
+18
+20%
+25%
+20%
+Vulpix
+HG
+SS
+Grass
+15
+,
+18
+20%
+25%
+20%
+Spearow
+HG
+SS
+Grass
+17
+30%
+30%
+0%
+Murkrow
+HG
+SS
+Grass
+17-19
+0%
+0%
+35%
+Murkrow
+HG
+SS
+Grass
+17
+0%
+0%
+30%
+Raticate
+HG
+SS
+Grass
+19
+10%
+Persian
+HG
+SS
+Grass
+19
+5%
+Rattata
+HG
+SS
+Grass
+15
+5%
+0%
+0%
+Houndour
+HG
+SS
+Grass
+15
+0%
+0%
+5%
+Headbutt
+Spearow
+HG
+SS
+Headbutt
+15-20
+50%
+Heracross
+HG
+SS
+Headbutt
+17-20
+30%
+Combee
+HG
+SS
+Headbutt
+17-20
+20%
+Special Pokémon
+Plusle
+HG
+SS
+Hoenn Sound
+17
+20%
+Minun
+HG
+SS
+Hoenn Sound
+18
+20%
+Shinx
+HG
+SS
+Sinnoh Sound
+17-18
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mental Herb
+North of the tall grass
+HG
+SS
+Celadon City
+Celadon City
+Celadon City
+has changed little in the past few years, though the
+Game Corner
+no longer conceals a criminal hideout. Like its counterpart in
+Goldenrod
+, the
+Celadon Department Store
+offers many useful and hard-to-find items, so don't miss out!
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Headbutt
+Spearow
+HG
+SS
+Headbutt
+11-20
+80%
+Heracross
+HG
+SS
+Headbutt
+11-17
+20%
+Combee
+HG
+SS
+Headbutt
+10-20
+20%
+Surfing
+Grimer
+HG
+SS
+Surfing
+15-20
+90%
+Muk
+HG
+SS
+Surfing
+15
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+PP Up
+Southeast part of the city (hidden)
+HG
+SS
+Spell Tag
+From the man atop Celadon Condominiums at night
+HG
+SS
+TM67
+(
+Recycle
+)
+At the end of the pathway on the city's north side
+HG
+SS
+Turtwig Mask
+Department Store 2F, from
+Crasher Wake
+HG
+SS
+Chimchar Mask
+Department Store 2F, from
+Crasher Wake
+HG
+SS
+Piplup Mask
+Department Store 2F, from
+Crasher Wake
+HG
+SS
+After defeating the Celadon Gym
+TM19
+(
+Giga Drain
+)
+From Erika upon her defeat
+HG
+SS
+After obtaining all 16 Badges
+GB Sounds
+From a Game Freak employee in Celadon Condominiums
+HG
+SS
+Celadon Condominiums
+Take the front entrance and the left elevator for access to
+Game Freak
+on the third floor. You'll encounter
+Lyra
+and her Marill and she briefly talks to you about the
+GB Sounds
+, which can be obtained from the Sound Designer at the end of the room once the player has all 16 Gym Badges. The roof can also be accessed from this elevator but there's nothing to do here.
+When night falls, take the path behind the Pokémon Center and enter the Celadon Condominiums through the back door. The man on the roof will tell a scary story, and rewards you with a
+Spell Tag
+for listening to the whole thing. When held, this item increases the power of
+Ghost-type
+moves by 20%.
+Restaurant
+The restaurant on the south side of town is currently hosting an eat-a-thon. It is impossible to participate, as the contest is already in progress. However, you can meet a notable figure from a foreign region. The girl with pink hair is
+Maylene
+, Gym Leader of
+Sinnoh
+'s
+Veilstone City
+.
+Game Corner
+Like
+its counterpart
+, Celadon's
+Game Corner
+has also added the new
+Voltorb Flip
+game.
+Left window
+TM58
+(
+Endure
+)
+2000
+Coins
+TM32
+(
+Double Team
+)
+4000
+Coins
+TM10
+(
+Hidden Power
+)
+6000
+Coins
+TM29
+(
+Psychic
+)
+10000
+Coins
+TM74
+(
+Gyro Ball
+)
+10000
+Coins
+TM68
+(
+Giga Impact
+)
+15000
+Coins
+Silk Scarf
+1000
+Coins
+Wide Lens
+1000
+Coins
+Zoom Lens
+1000
+Coins
+Metronome
+1000
+Coins
+Right window
+Mr. Mime
+(
+Lv.
+15)
+3333
+Coins
+Eevee
+(
+Lv.
+15)
+6666
+Coins
+Porygon
+(
+Lv.
+15)
+9999
+Coins
+Celadon Department Store
+The
+Celadon Department Store
+is the largest Poké Mart in the region, and sells anything a Trainer could need.
+Items
+2F
+Left Cashier
+Potion
+$
+300
+Super Potion
+$
+700
+Hyper Potion
+$
+1200
+Max Potion
+$
+2500
+Full Restore
+$
+3000
+Revive
+$
+1500
+Antidote
+$
+100
+Parlyz Heal
+$
+200
+Burn Heal
+$
+250
+Ice Heal
+$
+250
+Awakening
+$
+250
+Full Heal
+$
+600
+Right Cashier
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Ultra Ball
+$
+1200
+Escape Rope
+$
+550
+Repel
+$
+350
+Super Repel
+$
+500
+Max Repel
+$
+700
+Grass Mail
+$
+50
+Flame Mail
+$
+50
+Bubble Mail
+$
+50
+Space Mail
+$
+50
+3F
+Technical Machines
+TM21
+(
+Frustration
+)
+$
+1000
+TM27
+(
+Return
+)
+$
+1000
+TM87
+(
+Swagger
+)
+$
+1500
+TM78
+(
+Captivate
+)
+$
+1500
+TM12
+(
+Taunt
+)
+$
+1500
+TM41
+(
+Torment
+)
+$
+1500
+TM20
+(
+Safeguard
+)
+$
+2000
+TM28
+(
+Dig
+)
+$
+2000
+TM76
+(
+Stealth Rock
+)
+$
+2000
+TM55
+(
+Brine
+)
+$
+3000
+TM72
+(
+Avalanche
+)
+$
+3000
+TM79
+(
+Dark Pulse
+)
+$
+3000
+4F
+Gift Shop
+Air Mail
+$
+50
+Tunnel Mail
+$
+50
+Bloom Mail
+$
+50
+5F
+Left Cashier
+X Attack
+$
+500
+X Defend
+$
+550
+X Speed
+$
+350
+X Special
+$
+350
+X Sp. Def
+$
+350
+X Accuracy
+$
+950
+Guard Spec.
+$
+700
+Dire Hit
+$
+650
+Right Cashier
+HP Up
+$
+9800
+Protein
+$
+9800
+Iron
+$
+9800
+Calcium
+$
+9800
+Zinc
+$
+9800
+Carbos
+$
+9800
+Rooftop Square
+Vending machine
+Fresh Water
+$
+200
+Soda Pop
+$
+300
+Lemonade
+$
+350
+2F
+The Trainer's Market sells basic equipment and items that Trainers may find useful while on their journey.
+In addition, you can meet another foreign Gym Leader. Speak to
+Crasher Wake
+, Gym Leader of
+Sinnoh
+'s
+Pastoria City
+, to receive three Mask
+Accessories
+, one for each of the three
+Sinnoh
+starter
+Pokémon
+.
+3F
+The TM Shop sells Technical Machines on the third floor.
+4F
+Wiseman Gifts offers a few souvenir items for sale.
+5F
+The Battle Collection sells both
+permanent
+and
+temporary
+stat-enhancing items.
+Rooftop Atrium
+The Rooftop Atrium's
+vending machines
+let you buy cold, health-restoring drinks for cheap.
+Celadon Gym
+Celadon Gym
+Celadon City Pokémon Gym
+Leader: Erika
+The Nature-Loving Princess!
+The
+Celadon Gym
+specializes in
+Grass-type
+Pokémon.
+Fire
+,
+Flying
+, and
+Ice
+attacks will work wonders, but
+Water
+-,
+Ground
+-, and
+Rock-type
+Pokémon should sit this one out.
+Erika
+'s
+Tangela
+is especially vulnerable to
+special moves
+, so take it out with a Fire or Ice attack. Her
+Jumpluff
+can be a speedy nuisance, but with a 4× weakness to Ice moves, a sub-zero shot will ground it for good. If
+Sunny Day
+takes effect,
+Synthesis
+will restore ⅔ of the user's maximum HP,
+Bellossom
+'s
+SolarBeam
+can launch without a charge-up, and the
+Speed
+of each of
+Erika
+'s Pokémon is doubled due to their shared
+Chlorophyll
+Ability. In addition, Fire moves receive a 50% power boost.
+Reaching the Gym Leader
+1
+Follow the east wall to Lass Michelle, enter the nearest archway
+2
+Continue north along the east wall to fight Picnicker Tanya
+3
+Approach Beauty Julia from the south, so she leaves the small tree
+4
+Cut down the tree and walk through the last archway to reach Erika
+Celadon Gym
+Trainers
+Trainer
+Pokémon
+Twins
+Jo & Zoe
+Reward:
+$
+1504
+Victreebel
+♀
+Lv.
+47
+No item
+Vileplume
+♀
+Lv.
+47
+No item
+Lass
+Michelle
+Reward:
+$
+736
+Skiploom
+♀
+Lv.
+44
+No item
+Hoppip
+♀
+Lv.
+45
+No item
+Jumpluff
+♀
+Lv.
+46
+No item
+Picnicker
+Tanya
+Reward:
+$
+784
+Exeggutor
+♀
+Lv.
+49
+No item
+Beauty
+Julia
+Reward:
+$
+2632
+Paras
+♀
+Lv.
+44
+No item
+Carnivine
+♀
+Lv.
+44
+No item
+Parasect
+♀
+Lv.
+47
+No item
+Leader
+Erika
+Celadon Gym
+HeartGold and SoulSilver
+Reward:
+$
+6720
+Types:
+Grass
+Flying
+Ability:
+Chlorophyll
+Held item:
+None
+Jumpluff
+♀
+Lv.
+51
+Leech Seed
+Grass
+Status
+--
+U-turn
+Bug
+Physical
+--
+Giga Drain
+Grass
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Chlorophyll
+Held item:
+None
+Tangela
+♀
+Lv.
+52
+AncientPower
+Rock
+Special
+--
+Wring Out
+Normal
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Chlorophyll
+Held item:
+None
+Victreebel
+♀
+Lv.
+56
+Sunny Day
+Fire
+Status
+--
+Synthesis
+Grass
+Status
+--
+Leaf Storm
+Grass
+Special
+--
+Grass Knot
+Grass
+Special
+--
+Type:
+Grass
+Unknown
+Ability:
+Chlorophyll
+Held item:
+Sitrus Berry
+Bellossom
+♀
+Lv.
+56
+Sunny Day
+Fire
+Status
+--
+SolarBeam
+Grass
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Synthesis
+Grass
+Status
+--
+Defeated,
+Erika
+awards you the
+Rainbow Badge
+. She also hands out
+TM21
+(
+Giga Drain
+) as a prize.
+← Part 19
+Route 9, Cerulean City, Routes 24 and 25, Route 5
+HeartGold and SoulSilver
+walkthrough
+Routes 16, 17, and 18, Fuchsia City
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

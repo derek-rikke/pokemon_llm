@@ -1,0 +1,1570 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_15
+Keywords: Shoal Cave, Route 127, Route 128, Seafloor Cavern
+
+Walkthrough Text:
+Contents
+1
+Shoal Cave (optional)
+1.1
+High tide
+1.1.1
+Entrance
+1.1.2
+Second Cavern
+1.2
+Low tide
+1.2.1
+Entrance
+1.2.2
+Second Cavern
+1.2.3
+Fourth Cavern
+1.2.4
+Second Cavern
+1.2.5
+Third Cavern
+1.2.6
+Ice Cavern
+2
+Now that you can use Dive (optional)
+2.1
+Route 124
+2.2
+Abandoned Ship
+2.2.1
+B1F
+2.2.2
+Hidden Floor
+2.3
+Slateport City
+3
+Route 127
+4
+Route 128
+5
+Seafloor Cavern
+5.1
+Entrance
+5.2
+Room 1
+5.3
+Room 2
+5.4
+Room 3
+5.5
+Room 4
+5.6
+Room 5
+5.7
+Room 6
+5.8
+Room 7
+5.8.1
+VS Shelly
+5.9
+Room 8
+5.10
+Deepest Room
+5.10.1
+VS Archie
+6
+Route 128
+Shoal Cave (optional)
+Shoal Cave, Entrance (high tide)
+Shoal Cave, Entrance (low tide)
+Shoal Cave, Second Cavern (high tide)
+Shoal Cave, Second Cavern (low tide)
+Shoal Cave, Ice Cavern (low tide)
+Shoal Cave, Third Cavern (low tide)
+Shoal Cave, Fourth Cavern (low tide)
+Connected to the ocean, the appearance of
+Shoal Cave
+changes with the
+tides
+. Seawater floods the cave during high tide, closing off some areas and opening others. It then drains away during low tide, revealing new areas for exploration. The tides change every six hours, at 3:00 and 9:00.
+Available Pokémon
+Main Cave
+Pokémon
+Games
+Location
+Levels
+Rate
+Spheal
+R
+S
+E
+Cave
+26, 28, 30, 32
+50%
+Zubat
+R
+S
+E
+Cave
+26, 28, 30, 32
+45%
+Golbat
+R
+S
+E
+Cave
+32
+5%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Zubat
+R
+S
+E
+Surfing
+5-35
+30%
+Spheal
+R
+S
+E
+Surfing
+25-35
+10%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+20-45
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Icy Cavern
+Pokémon
+Games
+Location
+Levels
+Rate
+Spheal
+R
+S
+E
+Cave
+26, 28, 30, 32
+45%
+Zubat
+R
+S
+E
+Cave
+26, 28, 30
+40%
+Snorunt
+R
+S
+E
+Cave
+26, 28, 30
+10%
+Golbat
+R
+S
+E
+Cave
+30, 32
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+All times
+Shell Bell
+Entrance, from the old man after handing over four
+Shoal Shells
+and four
+Shoal Salts
+E
+High tide
+Shoal Shell
+×4
+Second Cavern, near the southern bridge
+Second Cavern, northwest corner
+Second Cavern, northeast corner
+Second Cavern, southeast corner
+E
+Rare Candy
+Second Cavern, east of the central ladder
+E
+Big Pearl
+Entrance; northeast ledge, accessible from second cavern
+E
+Low tide
+Shoal Salt
+×4
+Fourth Cavern, southeast corner
+Third Cavern, north-central area
+Second Cavern, southwest area
+Second Cavern, under the north bridge
+E
+Ice Heal
+Fourth Cavern, southeast corner
+E
+Focus Band
+Third Cavern, given by the
+Black Belt
+E
+NeverMeltIce
+Ice Cavern, south end of the central plateau
+E
+TM07
+(
+Hail
+)
+Ice Cavern, atop the ledge
+E
+High tide
+Entrance
+An old man in the entry chamber offers to make a
+Shell Bell
+for your Pokémon. But first, he needs you to collect some of the cave's natural resources:
+Shoal Shells
+and
+Shoal Salts
+. These items are replenished each day, so there's no limit to the number you can collect. Once you hand over four of each item, he crafts the health-restoring item for you. Surf northwest and take the doorway there to reach the next chamber.
+Second Cavern
+Surf along the water in a clockwise direction, collecting the four Shoal Shells and a
+Rare Candy
+on the way. Take the southeast doorway back to the entrance, where you can collect a
+Big Pearl
+on the nearby ledge.
+Low tide
+Entrance
+An old man in the entry chamber offers to make a
+Shell Bell
+for your Pokémon. But first, he needs you to collect some of the cave's natural resources:
+Shoal Shells
+and
+Shoal Salts
+. These items are replenished each day, so there's no limit to the number you can collect. Once you hand over four of each item, he crafts the health-restoring item for you. Head through the north doorway to reach the next chamber.
+Second Cavern
+Head up the stairway, go north and climb down the east-central ladder.
+Fourth Cavern
+Grab the Shoal Salt and
+Ice Heal
+, then climb the hill to the ladder in the northwest.
+Second Cavern
+Go west then south along the two bridges, then climb down the ladder in the center.
+Third Cavern
+Head east to meet a Black Belt and receive a
+Focus Band
+from him. Continue east to find another Shoal Salt, then use
+Strength
+to move the boulder eastward and descend the ladder to the south.
+Ice Cavern
+The final cavern is permanently encased in ice, and the slick floors hinder travel. Go south from the ladder, across two ice patches. At the third ice patch, slide west to the second snow patch within it. Slide north, then west and south to the third small snow patch. Slide south, east, then north to continue on. Slide north to the snow patch near the narrow stairway. Move west then south to a rock, then east and north to the central plateau and the
+NeverMeltIce
+on its south end. Slide south from the narrow stairway, then west and north to reach the northwest corner. Go east then south to a snow patch, then north to a rock near the room's northwest corner. Head east, south, and west, then move north, west, south, and west to the small snow patch. Slide north, east, then south to reach
+TM07
+(
+Hail
+) and jump the ledge to return to the ladder.
+Now that you can use Dive (optional)
+There are many
+underwater
+treasures (as well as three underwater Pokémon) beneath the
+Abandoned Ship
+and
+Route 124
+you can collect. All underwater areas with seaweed have the same
+wild Pokémon
+.
+Underwater
+Pokémon
+Games
+Location
+Levels
+Rate
+Clamperl
+R
+S
+E
+Seaweed
+20-35
+65%
+Chinchou
+R
+S
+E
+Seaweed
+20-30
+30%
+Relicanth
+R
+S
+E
+Seaweed
+30-35
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Route 124
+Route 124, Underwater
+Route 124, Surface
+Route 124
+Item
+Location
+Games
+Above water (requires
+Surf
+,
+Dive
+)
+Blue Shard
+Shallow water, accessed by surfacing in the west-southwest Dive spot
+E
+Red Shard
+Shallow water, accessed by surfacing in the northwest Dive spot
+E
+Yellow Shard
+Shallow water, accessed by surfacing in the northeast Dive spot
+E
+Underwater (requires
+Surf
+,
+Dive
+)
+Green Shard
+Beneath the smaller Dive spot near Lilycove City, in a clearing in the seaweed patch (hidden)
+E
+Carbos
+Clearing in the seaweed patch in the S-shaped trench (hidden)
+E
+Heart Scale
+×2
+Directly beneath the Dive spot near the route's center (hidden)
+In the dark spot directly beneath the Dive spot nearest Mossdeep City (hidden)
+E
+Calcium
+In the dark spot directly beneath the north-central Dive spot (hidden)
+E
+Big Pearl
+In the dark spot directly beneath the larger Dive spot southwest of the Treasure Hunter's house (hidden)
+E
+Pearl
+In the dark spot directly beneath the second Dive spot north-northwest of the Treasure Hunter's house (hidden)
+E
+Abandoned Ship
+Abandoned Ship, B1F
+Abandoned Ship, underwater hallway
+Abandoned Ship, hidden floor
+Now that you can use both
+Surf
+and
+Dive
+, you can navigate the sunken vessel's entire structure.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+40%
+Tentacool
+R
+S
+E
+Fishing
+Super Rod
+25-35
+80%
+Tentacruel
+R
+S
+E
+Fishing
+Super Rod
+20-35
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rm. 1 Key
+Room 3, northeast corner (hidden)
+E
+Water Stone
+Room 3
+E
+Rm. 4 Key
+Room 1, near the west wall (hidden)
+E
+TM18
+(
+Rain Dance
+)
+Room 1
+E
+Rm. 6 Key
+Room 4, in the trash can (hidden)
+E
+Luxury Ball
+Room 6
+E
+Rm. 2 Key
+Room 5, three step south of the left-hand trash can (hidden)
+E
+Scanner
+Room 2
+E
+B1F
+Head for the south-central cabin. Seawater has flooded into the room, so use
+Dive
+to traverse an underwater hallway that leads to an isolated part of the ship.
+Hidden Floor
+This part of the ship has six cabins. Rooms 1-3 are located on the south side, and Rooms 4-6 are found to the north. Four of these rooms are locked, and although Room 5 is unlocked, there is debris blocking the door.
+Enter Room 3 to see a sparkle on the floor; this signifies a hidden item. Pick up the
+Rm. 1 Key
+from the northeast corner, and the
+Water Stone
+to the left before leaving.
+There are two hidden items in Room 1. The
+Rm. 4 Key
+is located near the west wall, while the other item is just trash. The visible item is
+TM18
+(
+Rain Dance
+).
+In Room 4, inspect the trash can in the northeast corner to find the
+Rm. 6 Key
+.
+Enter Room 6 and collect the
+Luxury Ball
+, then use the narrow hallway to reach the adjoining room. Room 5 has three pieces of trash and one item; the
+Rm. 2 Key
+is located three steps south of the left-hand trash can.
+Visit Room 2 to find the
+Scanner
+. If you show this to the Scientist in the Captain's office, he asks you to take it to Captain Stern back in
+Slateport Harbor
+.
+Slateport City
+Items
+Item
+Location
+Games
+Return trip
+DeepSeaTooth
+or
+DeepSeaScale
+From Captain Stern, in exchange for the
+Scanner
+E
+Once in Slateport Harbor, Stern offers to trade either a
+DeepSeaTooth
+or a
+DeepSeaScale
+for it. The DeepSeaTooth doubles a
+Clamperl
+'s
+Special Attack
+when held, and triggers Clamperl's evolution into
+Huntail
+when traded. The DeepSeaScale doubles a Clamperl's
+Special Defense
+when held, and triggers its evolution into
+Gorebyss
+when traded.
+Route 127
+Route 127, Underwater
+Route 127, Surface
+Route 127
+links
+Mossdeep City
+with
+Route 126
+to the west and
+Route 128
+to the south. Explore the area quickly on your way southward in pursuit of Team Aqua!
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Aidan
+Reward:
+$
+1024
+Potential
+Double Battle
+with Athena
+Swellow
+♂
+Lv.
+32
+No item
+Skarmory
+♂
+Lv.
+32
+No item
+Cooltrainer
+Athena
+Reward:
+$
+1536
+Potential
+Double Battle
+with Aidan
+Manectric
+♀
+Lv.
+32
+No item
+Linoone
+♀
+Lv.
+32
+No item
+Fisherman
+Jonah
+Reward:
+$
+1280
+Wailmer
+♂
+Lv.
+30
+No item
+Tentacool
+♂
+Lv.
+31
+No item
+Sharpedo
+♂
+Lv.
+32
+No item
+Fisherman
+Roger
+Reward:
+$
+1400
+Magikarp
+♂
+Lv.
+15
+No item
+Magikarp
+♂
+Lv.
+25
+No item
+Gyarados
+♂
+Lv.
+35
+No item
+Fisherman
+Henry
+Reward:
+$
+1360
+Carvanha
+♂
+Lv.
+31
+No item
+Tentacruel
+♂
+Lv.
+34
+No item
+Triathlete
+Camden
+Reward:
+$
+1320
+Staryu
+Lv.
+33
+No item
+Staryu
+Lv.
+33
+No item
+Black Belt
+Koji
+Reward:
+$
+1088
+Machoke
+♂
+Lv.
+34
+No item
+Triathlete
+Donny
+Reward:
+$
+1360
+Wingull
+♀
+Lv.
+26
+No item
+Staryu
+Lv.
+34
+No item
+Rematch
+Black Belt
+Koji
+*
+Reward:
+$
+1184
+Machoke
+♂
+Lv.
+37
+No item
+Machoke
+♂
+Lv.
+37
+No item
+Black Belt
+Koji
+*
+Reward:
+$
+1248
+Makuhita
+♂
+Lv.
+39
+No item
+Machoke
+♂
+Lv.
+39
+No item
+Machoke
+♂
+Lv.
+39
+No item
+Black Belt
+Koji
+*
+Reward:
+$
+1312
+Hariyama
+♂
+Lv.
+41
+No item
+Machoke
+♂
+Lv.
+41
+No item
+Machoke
+♂
+Lv.
+41
+No item
+Black Belt
+Koji
+*
+Reward:
+$
+1376
+Hariyama
+♂
+Lv.
+43
+No item
+Machamp
+♂
+Lv.
+43
+No item
+Machamp
+♂
+Lv.
+43
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zinc
+In the northwestern-most patch of shallow water
+E
+Rare Candy
+South side of the tree-covered northwest island
+E
+Carbos
+South end of the isolated grove, accessed via Dive spot near the southeast island
+E
+Underwater
+Star Piece
+Main area's center-west branch, on a small rock (hidden)
+E
+Heart Scale
+Main area's center trench, on small rock to the south (hidden)
+E
+HP Up
+Main area's center-east branch, on a small rock (hidden)
+E
+Red Shard
+Isolated eastern trench, on a small rock (hidden)
+E
+Route 128
+Route 128
+Route 128, Underwater
+Route 128
+is situated between
+Route 127
+to the north,
+Route 129
+to the south, and
+Ever Grande City
+to the east.
+Captain Stern
+mentioned that he'd found an underwater cave here while exploring in his
+submarine
+.
+Team Aqua
+has now breached that same cavern with their stolen sub.
+Trainers
+Trainer
+Pokémon
+Cooltrainer
+Ruben
+Reward:
+$
+1632
+Shiftry
+♂
+Lv.
+34
+No item
+Nosepass
+♂
+Lv.
+34
+No item
+Cooltrainer
+Alexa
+Reward:
+$
+1632
+Gloom
+♀
+Lv.
+34
+No item
+Azumarill
+♀
+Lv.
+34
+No item
+Fisherman
+Wayne
+Reward:
+$
+1440
+Tentacool
+♂
+Lv.
+31
+No item
+Tentacool
+♂
+Lv.
+31
+No item
+Wailmer
+♂
+Lv.
+36
+No item
+Triathlete
+Isaiah
+Reward:
+$
+1400
+Staryu
+Lv.
+35
+No item
+Triathlete
+Katelyn
+Reward:
+$
+1400
+Staryu
+Lv.
+35
+No item
+Swimmer
+Carlee
+Reward:
+$
+280
+Potential
+Double Battle
+with Harrison
+Seaking
+♀
+Lv.
+35
+No item
+Swimmer
+Harrison
+Reward:
+$
+280
+Potential
+Double Battle
+with Carlee
+Tentacruel
+♂
+Lv.
+35
+No item
+Rematch
+Triathlete
+Isaiah
+*
+Reward:
+$
+1560
+/
+1680
+Staryu
+Lv.
+39
+/
+42
+No item
+Triathlete
+Isaiah
+*
+Reward:
+$
+1800
+/
+1920
+Starmie
+Lv.
+45
+/
+48
+No item
+Triathlete
+Katelyn
+*
+Reward:
+$
+1560
+/
+1680
+Staryu
+Lv.
+39
+/
+42
+No item
+Triathlete
+Katelyn
+*
+Reward:
+$
+1800
+/
+1920
+Starmie
+Lv.
+45
+/
+48
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Luvdisc
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+30-45
+45%
+Luvdisc
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Corsola
+R
+S
+E
+Fishing
+Super Rod
+30-35
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+×3
+In the north-central sandbar, two steps east of Cooltrainer Ruben (hidden)
+On the west side of the ring-shaped island in the route's center (hidden)
+On the south side of the southwest sandbar (hidden)
+E
+Underwater
+Protein
+Main area, on a small rock in the middle of the rocky ring (hidden)
+E
+Pearl
+Eastern area, on a small rock (hidden)
+E
+Seafloor Cavern
+Seafloor Cavern, Entrance
+Seafloor Cavern, Room 1
+Seafloor Cavern, Room 2
+Seafloor Cavern, Room 3
+Seafloor Cavern, Room 4
+Seafloor Cavern, Room 5
+Seafloor Cavern, Room 6
+Seafloor Cavern, Room 7
+Seafloor Cavern, Room 8
+Seafloor Cavern, Deepest Room
+The long-forgotten
+Seafloor Cavern
+can only be reached from an underwater cave in the depths of
+Route 128
+.
+Archie
+has gone to great lengths to breach the seal that has protected this place for ages, in the hope of awakening the super-ancient Pokémon rumored to dwell here. He believes this Pokémon has the power to bring about the great future he desires, but the risks seem far too great.
+Trainers
+Trainer
+Pokémon
+Team Aqua Grunt
+Reward:
+$
+720
+Poochyena
+♂
+Lv.
+36
+No item
+Team Aqua Grunt
+Reward:
+$
+720
+Carvanha
+♂
+Lv.
+36
+No item
+Team Aqua Grunt
+Reward:
+$
+720
+Potential
+Double Battle
+with the following Grunt
+Zubat
+♂
+Lv.
+36
+No item
+Team Aqua Grunt
+Reward:
+$
+720
+Potential
+Double Battle
+with the previous Grunt
+Carvanha
+♀
+Lv.
+36
+No item
+Team Aqua Grunt
+Reward:
+$
+700
+Potential
+Double Battle
+with Aqua Admin Shelly
+Mightyena
+♂
+Lv.
+35
+No item
+Golbat
+♂
+Lv.
+35
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Zubat
+R
+S
+E
+Cave
+28-35
+90%
+Golbat
+R
+S
+E
+Cave
+33-36
+10%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Zubat
+R
+S
+E
+Surfing
+5-35
+35%
+Golbat
+R
+S
+E
+Surfing
+30-35
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+20-45
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM26
+(
+Earthquake
+)
+Deepest Room, east of the doorway
+E
+Entrance
+When you first enter the cavern, you find
+Captain Stern
+'s sub moored beneath the waves. Rise to the surface and take the north doorway to the next room.
+Room 1
+This room features two boulders that hinder travel. Go northwest and clear the way with
+Rock Smash
+, then use
+Strength
+to move the first boulder southward. Head east and move the second boulder eastward. At this point, there are two paths forward. The northwest doorway leads directly to the southeast part of Room 4. The southeast doorway leads through Rooms 2 and 3 to the southwest part of Room 4.
+Room 2
+Head south to a fork in the road. Both tunnels lead into the next room, but the western tunnel serves as a shortcut.
+Room 3
+The doorway to the south merely leads back to the entrance. Instead, go through the northeast doorway.
+Room 4
+Use
+Strength
+or
+Rock Smash
+to clear a path, then move the west-central boulder to the northwest corner. The northwest doorway leads to Room 5, while the northeast doorway leads to Room 6.
+Room 5
+This room has many strong water currents.
+Surf
+out into the water and ride the currents to a calm spot a short distance to the northeast. Sail east to ride the current to a patch of calm water to the northeast. Go east again to follow the current around the rock outcropping to the west side of the room. Surf westward and take the current to the northwest doorway.
+Room 6
+This room has many strong water currents. Surf eastward along the south wall to the second current, which leads a short distance northward. Go north from here to reach the west side of the room. Sail north once more to follow the current back and forth on the room's north side. Climb onto shore and go through the northwest doorway.
+Room 7
+The room splits into two tunnels before converging near the next doorway. The room's east side is littered with boulders, while the west side is clear, aside from
+Shelly
+and an Aqua Grunt. She's looking for payback for what happened in the
+Weather Institute
+, and draws you into battle!
+VS Shelly
+Aqua Admin
+Shelly
+Seafloor Cavern
+Emerald
+Reward:
+$
+1480
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♀
+Lv.
+37
+Scary Face
+Normal
+--
+Crunch
+Dark
+--
+Screech
+Normal
+--
+Slash
+Normal
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♀
+Lv.
+37
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Room 8
+There are a dozen boulders here to block progress. Start off by moving the south-central boulder one step northward and the other two southern-most boulders farther apart. Push the first boulder one step westward, then shove the middle boulder one step northward. Move the boulders on the left and right farther apart, then push both the north-northwest and north-northeast boulders to the north wall. Finally, push the middle boulder to either side to reach the doorway.
+Deepest Room
+Go east to find
+TM26
+(
+Earthquake
+) on the room's highest level before continuing along the downward-sloping corridor.
+Team Aqua
+'s driven leader,
+Archie
+suddenly runs up to you. Like
+Maxie
+did with
+Groudon
+, Archie has discovered the super-ancient Pokémon,
+Kyogre
+, and stands ready to restore the creature with his stolen
+Red Orb
+. With his plan so close to fruition, he's not about to let anything stop him, and drags you into battle.
+VS Archie
+Aqua Leader
+Archie
+Seafloor Cavern
+Emerald
+Reward:
+$
+3440
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+41
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+41
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♂
+Lv.
+43
+Screech
+Normal
+--
+Slash
+Normal
+--
+Taunt
+Dark
+--
+Swagger
+Normal
+--
+Even defeated, Archie reaffirms his intent to revive the super-ancient Pokémon. While talking, the
+Red Orb
+suddenly shines brightly, awakening
+Kyogre
+. Like
+Groudon
+before it, the Pokémon flees. Just then, Archie receives an urgent call from his subordinates outside. The great energy generated by the legendary creature has altered and intensified
+Hoenn
+'s weather as expected, but to dangerous, unforeseen levels. The weather's dramatic shift to a strange mix of heavy rain and harsh sunlight influences any battles on the region's east side.
+Maxie
+and a pair of his Grunts enter a moment later. He condemns
+Team Aqua
+'s actions and tries to reason with Archie, who counters by criticizing
+Team Magma
+for disturbing Groudon.
+Route 128
+Archie talking to the player about the weather.
+The group returns to the surface, where they witness the extreme weather firsthand. Kyogre's power has surpassed expectations, forcing Archie to grudgingly agree to work with Maxie to set things right. Once the others leave,
+Steven
+swoops down to assess the situation. He informs you that the oppressive weather seems to originate in
+Sootopolis City
+to the northwest. He's headed there to investigate, and suggests you do the same.
+Note that abnormal weather only occurs in Lilycove City, Mossdeep City,
+Sootopolis City
+,
+Ever Grande City
+, and the Routes 124, 125,
+Route 126
+, 127 and 128. Go to the Route 126 which is located to south from Route 124. Additionally, if you return to
+Lilycove
+, the
+department store's rooftop
+will be closed because of the weather conditions.
+← Part 14
+Route 124, Mossdeep City, Space Center, Route 125
+Emerald
+walkthrough
+Route 126, Sootopolis City, Cave of Origin, Route 129, Route 130, Route 131, Pacifidlog Town
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

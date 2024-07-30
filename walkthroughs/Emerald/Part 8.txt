@@ -1,0 +1,1828 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_8
+Keywords: Route 111 (Desert), Mirage Tower, Petalburg Gym, Route 115, Route 105, Route 107, Route 108
+
+Walkthrough Text:
+Contents
+1
+Route 111 (desert, optional)
+1.1
+Desert Ruins
+2
+Mirage Tower (optional)
+2.1
+Relic Recovery!
+3
+Back to Petalburg City
+4
+Petalburg City (second visit)
+4.1
+Petalburg Gym
+4.2
+Wally's House
+4.3
+Trainers Rematches
+5
+Now that you can use Surf (optional)
+5.1
+Petalburg City
+5.2
+Littleroot Town
+5.3
+Route 103
+5.4
+Route 104 (north)
+5.5
+Route 110
+5.6
+Route 111 (south)
+6
+Route 115 (optional)
+7
+Route 105 (optional)
+7.1
+Island Cave
+8
+Route 106 (optional)
+9
+Dewford Town (optional)
+10
+Route 107 (optional)
+11
+Route 108 (optional)
+12
+Route 109 (optional)
+Route 111 (desert, optional)
+Route 111
+With the
+Go-Goggles
+, you can finally venture into the windswept desert on
+Route 111
+. The powerful sandstorm deters most would-be explorers, so no one has yet claimed the valuable treasures lying among the dunes.
+Trainers
+Trainer
+Pokémon
+Desert (requires Go-Goggles)
+Picnicker
+Heidi
+Reward:
+$
+352
+Sandshrew
+♀
+Lv.
+22
+No item
+Baltoy
+Lv.
+22
+No item
+Camper
+Beau
+Reward:
+$
+336
+Baltoy
+Lv.
+21
+No item
+Sandshrew
+♂
+Lv.
+21
+No item
+Baltoy
+Lv.
+21
+No item
+Camper
+Drew
+Reward:
+$
+368
+Sandshrew
+♂
+Lv.
+23
+No item
+Picnicker
+Becky
+Reward:
+$
+352
+Sandshrew
+♀
+Lv.
+22
+No item
+Marill
+♀
+Lv.
+22
+No item
+Ruin Maniac
+Dusty
+Reward:
+$
+1380
+Sandslash
+♂
+Lv.
+23
+No item
+Picnicker
+Celia
+Reward:
+$
+352
+Potential
+Double Battle
+with Bryan
+Marill
+♀
+Lv.
+22
+No item
+Lombre
+♀
+Lv.
+22
+No item
+Ruin Maniac
+Bryan
+Reward:
+$
+1320
+Potential
+Double Battle
+with Celia or Branden
+Sandshrew
+♂
+Lv.
+22
+No item
+Sandslash
+♂
+Lv.
+22
+No item
+Camper
+Branden
+Reward:
+$
+352
+Potential
+Double Battle
+with Bryan
+Taillow
+♂
+Lv.
+22
+No item
+Nuzleaf
+♂
+Lv.
+22
+No item
+Rematch
+Ruin Maniac
+Dusty
+Reward:
+$
+1620
+/
+1800
+/
+1980
+/
+2160
+Sandslash
+♂
+Lv.
+27
+/
+30
+/
+33
+/
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sandshrew
+R
+S
+E
+Deep sand
+19-21
+35%
+Trapinch
+R
+S
+E
+Deep sand
+19-21
+35%
+Baltoy
+R
+S
+E
+Deep sand
+19-21
+24%
+Cacnea
+R
+S
+E
+Deep sand
+20, 22
+6%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+×2
+North of the desert's southern entrance
+On a rock, next to Ruin Maniac Dusty (hidden)
+E
+Protein
+Just north of Mirage Tower (hidden)
+E
+Rare Candy
+On a rock, northeast of Ruin Maniac Dusty and Picnicker Becky (hidden)
+E
+TM37
+(
+Sandstorm
+)
+Southernmost point, south of the Desert Ruins
+E
+Desert Ruins
+The unusual arrangement of stones to the south is known as the
+Desert Ruins
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Mirage Tower (optional)
+Mirage Tower, 1F
+Mirage Tower, 2F
+Mirage Tower, 3F
+Mirage Tower, 4F
+Mirage Tower
+is an elusive building located just inside the desert's southern entrance. The tower disappears and reappears as would-be explorers visit and leave the route. The ancient structure shows its age, with unstable floors and fallen rock scattered about. Progressing past these obstacles requires using the
+Mach Bike
+and
+Rock Smash
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F-4F
+Sandshrew
+R
+S
+E
+1F-4F
+20-24
+50%
+Trapinch
+R
+S
+E
+1F-4F
+20-24
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Root Fossil
+or
+Claw Fossil
+4F; Root Fossil to the left, Claw Fossil to the right
+E
+Relic Recovery!
+The tower's top floor holds two treasures from the ancient past. The
+Root Fossil
+and
+Claw Fossil
+belong to two species that once lived in the primordial ocean. The researchers at
+Devon Corporation
+back in
+Rustboro
+are able to revive any Fossil they receive into a long-lost Pokémon. The Root Fossil becomes the
+Rock
+/
+Grass
+Lileep
+, while the Claw Fossil turns into the
+Rock
+/
+Bug
+Anorith
+. Choose carefully! After removing either one, the tower begins to shake, and you fall from the building, landing just outside the entrance. The tower disappears down into the dunes, and the remaining Fossil falls away into the shifting sands.
+Back to Petalburg City
+Now that you've claimed your fourth Badge and combed the desert for treasure, your next stop is
+Petalburg City
+. The city is far to the southwest, but there are multiple ways to get there.
+Head northwest around the volcano to
+Fallarbor Town
+, then south through
+Meteor Falls
+to return to Rustboro.
+Go south from the desert to
+Mauville City
+, then west to
+Verdanturf Town
+. Cut through
+Rusturf Tunnel
+to return to Rustboro.
+Go further south to
+Slateport City
+and then to
+Route 109
+, and
+Mr. Briney
+will take you to
+Route 104
+.
+Once in Rustboro, be sure to stop by
+Devon Corporation
+. Take your Fossil to the second floor of the Devon Corporation building, and give it to a scientist there for him to restore. Exit the room, come back in, and receive your newly resurrected Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Lileep
+R
+S
+E
+Revive
+Root Fossil
+20
+One
+Anorith
+R
+S
+E
+Revive
+Claw Fossil
+20
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Petalburg City (second visit)
+Items
+Item
+Location
+Games
+After defeating the Petalburg Gym
+TM42
+(
+Facade
+)
+From Norman upon his defeat
+E
+HM03
+(
+Surf
+)
+Obtained from
+Wally
+'s father after defeating Norman
+E
+Petalburg Gym
+Petalburg Gym
+Petalburg City Pokémon Gym
+Leader: Norman
+A man in pursuit of power!
+The
+Petalburg Gym
+, which specializes in
+Normal-type
+Pokémon, is styled as a traditional dojo with multiple rooms. Each room has a single Trainer who uses a certain strategy. The sign on each door gives a clue to the strategy of the Trainer in the room behind it. Rather than relying on items, each Trainer's strategy depends on the moves of their Pokémon. The first two rooms beyond the lobby are labeled "Speed" and "Accuracy". The three rooms farther on are named "Confusion", "Defense", and "Recovery". The final two rooms before the Gym Leader are labeled "Strength" and "One-Hit KO". A minimum of three Gym Trainers must be defeated to reach the Gym Leader.
+Fighting
+types like
+Combusken
+and
+Breloom
+will give you the upper hand here.
+In the final room, your father has been waiting for you. Now that you have earned four other Badges, he is ready to accept your challenge.
+Norman
+leads with his
+Spinda
+;
+Teeter Dance
+allows it to confuse the target.
+Fighting
+Pokémon should watch out for its
+Psybeam
+! His
+Vigoroth
+is so restless that it can't sleep, due to its
+Vital Spirit
+Ability. While not a serious threat, it may land a critical hit with
+Slash
+.
+Linoone
+can be a serious problem, as
+Belly Drum
+halves its HP in order to boost its Attack by a whopping 300%! Luckily, the move fails if the user's HP has fallen below 50%.
+Slaking
+usually leads with
+Yawn
+. Although Slaking can use its extremely dangerous 160 base
+Attack stat
+to overpower most Pokémon, its
+Truant
+lets you completely shut it down with
+Dig
+or
+Protect
+. Additionally, if you switch out your Pokémon (possibly to keep Yawn from working), your replacement will be safe for one turn. All four of Norman's Pokémon know
+Facade
+, which doubles in power if the user is
+Burned
+,
+Poisoned
+, or
+Paralyzed
+, though the
+Attack
+penalty incurred by sustaining a Burn still applies.
+Petalburg Gym
+Trainers
+Trainer
+Pokémon
+Speed Room
+Cooltrainer
+Randall
+Reward:
+$
+1248
+Swellow
+♂
+Lv.
+26
+No item
+Accuracy Room
+Cooltrainer
+Mary
+Reward:
+$
+1248
+Delcatty
+♀
+Lv.
+26
+No item
+Confusion Room
+Cooltrainer
+Parker
+Reward:
+$
+1248
+Spinda
+♂
+Lv.
+26
+No item
+Defense Room
+Cooltrainer
+Alexia
+Reward:
+$
+1248
+Wigglytuff
+♀
+Lv.
+26
+No item
+Recovery Room
+Cooltrainer
+George
+Reward:
+$
+1248
+Slakoth
+♂
+Lv.
+26
+Sitrus Berry
+Strength Room
+Cooltrainer
+Jody
+Reward:
+$
+1248
+Zangoose
+♀
+Lv.
+26
+No item
+One-Hit KO Room
+Cooltrainer
+Berke
+Reward:
+$
+1248
+Vigoroth
+♂
+Lv.
+26
+No item
+Leader
+Norman
+Petalburg Gym
+Emerald
+Reward:
+$
+3100
+Type:
+Normal
+Unknown
+Ability:
+Own Tempo
+Held item:
+None
+Spinda
+♂
+Lv.
+27
+Teeter Dance
+Normal
+--
+Psybeam
+Psychic
+--
+Facade
+Normal
+--
+Encore
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Vigoroth
+♂
+Lv.
+27
+Slash
+Normal
+--
+Facade
+Normal
+--
+Encore
+Normal
+--
+Faint Attack
+Dark
+--
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Linoone
+♂
+Lv.
+29
+Slash
+Normal
+--
+Belly Drum
+Normal
+--
+Facade
+Normal
+--
+Headbutt
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Truant
+Held item:
+Sitrus Berry
+Slaking
+♂
+Lv.
+31
+Counter
+Fighting
+--
+Yawn
+Normal
+--
+Facade
+Normal
+--
+Faint Attack
+Dark
+--
+Wally's House
+Afterwards, your father awards you the
+Balance Badge
+, which boosts your Pokémon's
+Defense
+by 10% and enables the use of
+Surf
+in the field. He also hands you
+TM42
+(
+Facade
+) as a gift. Just then,
+Wally
+'s father bursts in, claiming that he's got something to give you. He leads you next door to his home, where he apologizes for his hasty behavior. He tells you that living in
+Verdanturf
+has done wonders for Wally's health, and he gives you
+HM03
+(
+Surf
+) as thanks for helping the young Trainer. In battle,
+Surf
+is a strong
+Water-type
+attack; in the field, it allows you to cross bodies of water. If you're not in a hurry, then consider using your new HM move to explore some of the
+water routes
+that Hoenn has to offer.
+Trainers Rematches
+Starting now, your
+PokéNav
+will start showing that
+some trainers
+want
+rematches
+with you. They will be marked by a square Poké Ball in the Match Call feature. Note that the more often you travel on the route or cave where any of these unique Trainers are located, the greater chance the trainer in that area will be ready for a rematch.
+Now that you can use Surf (optional)
+You can meet many new trainers and find many new items by crossing the ponds and seas scattered throughout Hoenn. When you're ready to cross the sea, approach the coastline and use
+Surf
+. Hop on your seafaring Pokémon's back to glide across the water. While Surfing, it is impossible to use the field moves
+Cut
+,
+Strength
+, or
+Rock Smash
+; however,
+several
+other
+moves
+are allowed. The Itemfinder can't be used while crossing the waves, but you can use an
+Escape Rope
+or a fishing rod while doing so.
+Also now that you have Surf, Mr. Briney will no longer transport you between his house on Route 104 to Dewford Town, or Route 109, instead you'll have to transport yourself using Surf.
+Petalburg City
+Items
+Item
+Location
+Games
+Requires Surf
+Max Revive
+Across the northeast pond
+E
+Ether
+Across the southwest pond
+E
+Rare Candy
+Across the southwest pond (
+hidden
+)
+E
+Littleroot Town
+Now that you have just defeated Norman, if you return home you will receive a small gift from your
+mom
+.
+Items
+Item
+Location
+Games
+Amulet Coin
+From the player's mother after defeating
+Norman
+E
+Route 103
+Here there are two
+Swimmers
+in the middle of the river, just waiting to battle you. These trainers use Pokémon of considerably lower levels than the last ones you faced, so they shouldn't be much of a challenge. However, if they look at you at the same time, the battle will turn into a
+Double Battle
+.
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+Swimmer♀
+Isabelle
+ユミコ
+Yumiko
+Reward:
+$
+120
+Potential
+Double Battle
+with Pete
+Marill
+♀
+Lv.
+15
+No item
+Swimmer♂
+Pete
+ヒデヒコ
+Hidehiko
+Reward:
+$
+120
+Potential
+Double Battle
+with Isabelle
+Tentacool
+♂
+Lv.
+15
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 104 (north)
+On the north part of this route, just south of
+Rustboro City
+, there is a pond you can now cross to get to its eastern shore, where you'll find a PP UP.
+Items
+Item
+Location
+Games
+PP Up
+North side, across the pond at a landing on its east shore
+E
+Route 110
+This route has two small islands you can now reach. One of them contains a Rare Candy.
+Route 110
+Item
+Location
+Games
+Rare Candy
+On the small grass island
+E
+Route 111 (south)
+On the south part of the route, you may now cross the pond west of
+Winstrate family
+'s house to get an HP Up.
+Route 111
+Item
+Location
+Games
+HP Up
+West side of the pond
+E
+Route 115 (optional)
+Route 115
+You can now fully explore the route by using
+Surf
+. Surf north past Meteor Falls and make landfall at a small beach. Fight a few trainers as you navigate further north through a maze of trees. At the very northwest corner, you can find Route 115's one tiny patch of tall grass.
+Trainers
+Trainer
+Pokémon
+Requires Surf
+Ninja Boy
+Jaiden
+Reward:
+$
+312
+Potential
+Double Battle
+with Timothy
+Ninjask
+♂
+Lv.
+26
+No item
+Gulpin
+♂
+Lv.
+26
+No item
+Expert
+Timothy
+Reward:
+$
+1080
+Potential
+Double Battle
+with Jaiden or Kyra
+Hariyama
+♂
+Lv.
+27
+No item
+Triathlete
+Kyra
+Reward:
+$
+1040
+Potential
+Double Battle
+with Timothy or Koichi
+Doduo
+♀
+Lv.
+26
+No item
+Dodrio
+♀
+Lv.
+26
+No item
+Black Belt
+Koichi
+Reward:
+$
+896
+Potential
+Double Battle
+with Kyra
+Machop
+♂
+Lv.
+24
+No item
+Machoke
+♂
+Lv.
+28
+No item
+Battle Girl
+Helene
+Reward:
+$
+624
+Potential
+Double Battle
+with Alix
+Meditite
+♀
+Lv.
+26
+No item
+Makuhita
+♂
+Lv.
+26
+No item
+Psychic
+Alix
+Reward:
+$
+624
+Potential
+Double Battle
+with Helene
+Kadabra
+♂
+Lv.
+26
+No item
+Kirlia
+♀
+Lv.
+26
+No item
+Rematch
+Expert
+Timothy
+Reward:
+$
+1320
+/
+1440
+/
+1560
+/
+1680
+Hariyama
+♂
+Lv.
+33
+/
+36
+/
+39
+/
+42
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Jigglypuff
+R
+S
+E
+Grass
+24-25
+10%
+Taillow
+R
+S
+E
+Grass
+23-25
+40%
+Swellow
+R
+S
+E
+Grass
+25
+10%
+Wingull
+R
+S
+E
+Grass
+24-26
+10%
+Swablu
+R
+S
+E
+Grass
+23, 25
+30%
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Requires
+Surf
+Heal Powder
+In the middle of the northwest grove
+E
+Kelpsy Berry
+×6
+From the Berry Trees on the route's north end
+E
+TM01
+(
+Focus Punch
+)
+West of the muddy slope
+E
+Iron
+South of the muddy slope (requires
+Mach Bike
+)
+E
+Route 105 (optional)
+Route 105
+Another one of the
+water routes
+you can now explore at your own speed is
+Route 105
+, which lies between
+Petalburg City
+and
+Dewford Town
+.
+Note: The wild Pokémon available are same for routes 105, 106, 107, 108, and 109.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Imani
+マユカ
+Mayuka
+Reward:
+$
+208
+Marill
+♀
+Lv.
+26
+No item
+Swimmer
+Dominik
+ヒロミ
+Hiromi
+Reward:
+$
+208
+Tentacool
+♂
+Lv.
+26
+No item
+Ruin Maniac
+Foster
+アキヒト
+Akihito
+Reward:
+$
+1500
+Sandshrew
+♂
+Lv.
+25
+No item
+Sandslash
+♂
+Lv.
+25
+No item
+Swimmer
+Beverly
+ナツキ
+Natsuki
+Reward:
+$
+200
+Wingull
+♀
+Lv.
+25
+No item
+Wailmer
+♀
+Lv.
+25
+No item
+Ruin Maniac
+Andres
+ダイジロウ
+Daijirō
+Reward:
+$
+1500
+Potential
+Double Battle
+with Josue
+Sandshrew
+♂
+Lv.
+25
+No item
+Sandshrew
+♂
+Lv.
+25
+No item
+Bird Keeper
+Josue
+ヤスフミ
+Yasufumi
+Reward:
+$
+800
+Potential
+Double Battle
+with Andres
+Taillow
+♂
+Lv.
+25
+No item
+Wingull
+♂
+Lv.
+25
+No item
+Swimmer
+Luis
+ヨウヘイ
+Yōhei
+Reward:
+$
+208
+Carvanha
+♂
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Iron
+On the island closest to southern terminus
+E
+Big Pearl
+On the island with
+Bird Keeper
+Josue and
+Ruin Maniac
+Andres
+(hidden)
+E
+Heart Scale
+On northernmost sand-only island
+(hidden)
+E
+Island Cave
+The unusual arrangement of stones in a corner in the northwest is known as the
+Island Cave
+. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+Route 106 (optional)
+You will return to
+Route 106
+and
+Dewford Town
+if you want to continue east.
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+Swimmer
+Douglas
+タツオ
+Tatsuo
+Reward:
+$
+192
+Tentacool
+♂
+Lv.
+24
+No item
+Tentacool
+♂
+Lv.
+24
+No item
+Swimmer
+Kyla
+ミズハ
+Mizuha
+Reward:
+$
+208
+Wailmer
+♀
+Lv.
+26
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Protein
+On the far west shore line
+E
+Dewford Town (optional)
+Just a quick drop by in
+Dewford Town
+, but be sure to pick up the
+TM36
+(
+Sludge Bomb
+) in Dewford Hall.
+Items
+Item
+Location
+Games
+TM36
+(
+Sludge Bomb
+)
+From a
+Collector
+in Dewford Hall after defeating
+Norman
+E
+Route 107 (optional)
+Route 107
+Route 107
+is a short stretch of sea that extends east from Dewford Town. Like Routes
+105
+and
+106
+, you can now fully explore Route 107 by
+Surfing
+.
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+Swimmer
+Denise
+Reward:
+$
+200
+Wingull
+♀
+Lv.
+25
+No item
+Goldeen
+♀
+Lv.
+25
+No item
+Swimmer
+Tony
+Reward:
+$
+208
+Carvanha
+♂
+Lv.
+26
+No item
+Sis and Bro
+Lisa & Ray
+Reward:
+$
+600
+Goldeen
+♂
+Lv.
+27
+No item
+Tentacool
+♂
+Lv.
+25
+No item
+Swimmer
+Darrin
+Reward:
+$
+192
+Tentacool
+♂
+Lv.
+24
+No item
+Wingull
+♂
+Lv.
+24
+No item
+Tentacool
+♂
+Lv.
+24
+No item
+Swimmer
+Beth
+Reward:
+$
+208
+Potential
+Double Battle
+with Camron
+Goldeen
+♀
+Lv.
+26
+No item
+Triathlete
+Camron
+Reward:
+$
+1040
+Potential
+Double Battle
+with Beth
+Staryu
+Lv.
+26
+No item
+Rematch
+Swimmer
+Tony
+*
+Reward:
+$
+240
+/
+264
+Sharpedo
+♂
+Lv.
+30
+/
+33
+No item
+Swimmer
+Tony
+*
+Reward:
+$
+288
+Staryu
+Lv.
+34
+No item
+Sharpedo
+♂
+Lv.
+36
+No item
+Swimmer
+Tony
+*
+Reward:
+$
+312
+Starmie
+Lv.
+37
+No item
+Sharpedo
+♂
+Lv.
+39
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Route 108 (optional)
+Route 108
+Route 108
+lies between
+Dewford Town
+and
+Slateport City
+. From here, you can continue east to
+Route 109
+and eventually to Slateport City, or you can visit what remains of the half-sunken
+Abandoned Ship
+.
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+Swimmer♀
+Missy
+Reward:
+$
+208
+Goldeen
+♀
+Lv.
+26
+No item
+Swimmer
+Matthew
+Reward:
+$
+208
+Carvanha
+♂
+Lv.
+26
+No item
+Swimmer♀
+Tara
+Reward:
+$
+200
+Horsea
+♀
+Lv.
+25
+No item
+Marill
+♀
+Lv.
+25
+No item
+Cooltrainer
+Carolina
+Reward:
+$
+1152
+Potential
+Double Battle
+with Cory
+Manectric
+♀
+Lv.
+24
+No item
+Swellow
+♀
+Lv.
+24
+No item
+Manectric
+♀
+Lv.
+24
+No item
+Sailor
+Cory
+Reward:
+$
+768
+Potential
+Double Battle
+with Carolina
+Wingull
+♂
+Lv.
+24
+No item
+Machop
+♂
+Lv.
+24
+No item
+Tentacool
+♂
+Lv.
+24
+No item
+Swimmer♂
+Jerome
+Reward:
+$
+208
+Tentacruel
+♂
+Lv.
+26
+No item
+Rematch
+Sailor
+Cory
+*
+Reward:
+$
+960
+Wingull
+♂
+Lv.
+30
+No item
+Machop
+♂
+Lv.
+30
+No item
+Tentacool
+♂
+Lv.
+30
+No item
+Sailor
+Cory
+*
+Reward:
+$
+1024
+Pelipper
+♂
+Lv.
+32
+No item
+Machop
+♂
+Lv.
+32
+No item
+Tentacool
+♂
+Lv.
+32
+No item
+Sailor
+Cory
+*
+Reward:
+$
+1088
+Pelipper
+♂
+Lv.
+34
+No item
+Machop
+♂
+Lv.
+34
+No item
+Tentacruel
+♂
+Lv.
+34
+No item
+Sailor
+Cory
+*
+Reward:
+$
+1152
+Pelipper
+♂
+Lv.
+36
+No item
+Machoke
+♂
+Lv.
+36
+No item
+Tentacruel
+♂
+Lv.
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Star Piece
+On an island past
+Cooltrainer
+Carolina and
+Sailor
+Cory
+E
+Rare Candy
+On a rock on an island to the southeast of the Abandoned Ship
+(hidden)
+E
+Route 109 (optional)
+Route 109
+Now you can fully explore this route, so be sure to pick up all items and battle the trainers that were inaccessible before.
+Trainers
+Trainer
+Pokémon
+Requires
+Surf
+Tuber
+Austina
+ヒロミ
+Hiromi
+Reward:
+$
+104
+Marill
+♀
+Lv.
+26
+No item
+Tuber
+Gwen
+ノゾミ
+Nozomi
+Reward:
+$
+104
+Marill
+♀
+Lv.
+26
+No item
+Swimmer♂
+David
+ケンイチ
+Kenichi
+Reward:
+$
+200
+Tentacool
+♂
+Lv.
+25
+No item
+Carvanha
+♂
+Lv.
+25
+No item
+Swimmer♀
+Alice
+エツコ
+Etsuko
+Reward:
+$
+192
+Goldeen
+♀
+Lv.
+24
+No item
+Wingull
+♀
+Lv.
+24
+No item
+Goldeen
+♀
+Lv.
+24
+No item
+Fisherman
+Carter
+タカヒコ
+Takahiko
+Reward:
+$
+1000
+Potential
+Double Battle
+with Elijah
+Wailmer
+♂
+Lv.
+25
+No item
+Tentacruel
+♂
+Lv.
+25
+No item
+Bird Keeper
+Elijah
+トシタカ
+Toshitaka
+Reward:
+$
+800
+Potential
+Double Battle
+with Carter
+Skarmory
+♂
+Lv.
+25
+No item
+Skarmory
+♂
+Lv.
+25
+No item
+Young Couple
+Mel & Paul
+シキとリキ
+Shiki and Riki
+Reward:
+$
+1728
+Dustox
+♂
+Lv.
+27
+No item
+Beautifly
+♂
+Lv.
+27
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Items
+Item
+Location
+Games
+Heart Scale
+On the island with
+Young Couple
+Mel & Paul
+(hidden)
+E
+PP Up
+On the eastern empty sandbar
+E
+← Part 7
+Meteor Falls, Mt. Chimney, Jagged Pass, Lavaridge Town
+Emerald
+walkthrough
+Abandoned Ship, New Mauville, Route 118
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

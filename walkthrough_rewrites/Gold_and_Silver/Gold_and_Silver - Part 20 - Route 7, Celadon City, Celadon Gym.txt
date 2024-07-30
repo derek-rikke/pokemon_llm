@@ -1,0 +1,48 @@
+Game: Gold_and_Silver
+Part: 20
+Keywords: Route 7, Celadon City, Celadon Gym
+
+**Part 20: Route 7 and Celadon City**
+
+**Route 7:**
+- Connects Saffron City (east) to Celadon City (west).
+- The second Underground Path is locked.
+
+**Available Pokémon:**
+- Rattata, Raticate, Spearow, Vulpix, Meowth, Growlithe, Murkrow, Houndour (Levels 15-19).
+
+---
+
+**Celadon City:**
+- Located between Route 7 and Route 16.
+- Key locations:
+  - **Celadon Department Store**: Largest shop in Kanto with various items.
+  - **Celadon Mansion**: Visit the rooftop to receive TM03 (Curse).
+  - **Game Corner**: Offers prizes, including rare Pokémon.
+  - **Celadon Gym**: Leader Erika specializes in Grass-type Pokémon.
+
+**Items Locations:**
+- TM03 (Curse): Celadon Mansion (rooftop).
+- Leftovers: Restaurant (trash can).
+- PP Up: Hidden in a tree on the southeast path.
+- TM19 (Giga Drain): Defeat Erika in Celadon Gym.
+
+---
+
+**Celadon Gym:**
+- **Leader**: Erika (Grass-type).
+- **Strategy**: Use Fire and Ice moves against her Pokémon.
+  - **Pokémon**:
+    - **Tangela** (Lv. 42): Weak to Fire/Ice.
+    - **Jumpluff** (Lv. 41): Weak to Ice.
+    - **Victreebel** (Lv. 46) and **Bellossom** (Lv. 46): Use Sunny Day to boost moves.
+
+**Trainer Rewards**:
+- Defeating Gym Trainers yields cash rewards ranging from $700 to $3080.
+
+**After defeating Erika**:
+- You receive the **Rainbow Badge** and TM19 (Giga Drain).
+
+--- 
+
+**Next Steps**: Proceed to Route 16 and beyond.

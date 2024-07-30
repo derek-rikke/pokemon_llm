@@ -1,0 +1,1836 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_and_White_walkthrough/Section_17
+Keywords: Undella Town, Undella Bay, Abyssal Ruins, Route 14, Abundant Shrine
+
+Walkthrough Text:
+Contents
+1
+Undella Town
+1.1
+One Last HM
+1.2
+Meet Cynthia, Champion of Sinnoh
+1.3
+A Battle with the Riches
+1.3.1
+The Billionaire Collector
+1.4
+Undella Bay
+1.4.1
+Abyssal Ruins
+1.4.1.1
+1F
+1.4.1.2
+2F
+1.4.1.3
+3F
+1.4.1.4
+4F
+2
+Route 14
+2.1
+Abundant Shrine
+Undella Town
+Undella Town
+Undella Town
+is an elegant place to beat the heat, and a handful of villas line the beach. During the summer months, the town is a hot vacation spot. The large villa on the west side of town is home to a wealthy family of Trainers who are always looking for a tough opponent. When you are done in town, wade out into the water to reach
+Undella Bay
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Surfing
+Wingull
+B
+W
+Surfing
+25-55
+60%
+Mantyke
+B
+W
+Surfing
+25-55
+30%
+Pelipper
+B
+W
+Surfing
+25-55
+10%
+Rippling Water
+Wailmer
+B
+W
+Rippling water
+25-60
+60%
+Corsola
+B
+W
+Rippling water
+25-60
+30%
+Mantine
+B
+W
+Rippling water
+25-60
+10%
+Fishing
+Remoraid
+B
+W
+Fishing
+35-55
+65%
+Shellder
+B
+W
+Fishing
+35-55
+30%
+Luvdisc
+B
+W
+Fishing
+35-55
+5%
+Rippling Water
+Shellder
+B
+W
+Rippling water
+35-60
+60%
+Luvdisc
+B
+W
+Rippling water
+35-60
+30%
+Cloyster
+B
+W
+Rippling water
+35-70
+5%
+Octillery
+B
+W
+Rippling water
+35-60
+5%
+Special Pokémon
+Munchlax
+B
+W
+Trade
+Cinccino
+60
+-
+One
+-
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+HM06
+(
+Dive
+)
+From the girl in front of the eastern-most villa
+B
+W
+Big Nugget
+Right side of the large villa, behind the hedges
+B
+W
+Prism Scale
+From a person in the Pokémon Center
+B
+W
+Stardust
+East of the Pokémon Center (hidden)
+B
+W
+Pearl
+East of the Pokémon Center (hidden)
+B
+W
+One Last HM
+On the plateau to the west of the Pokémon Center is a girl, staring out to sea. Speak to her to obtain the final HM of the game,
+HM06
+(
+Dive
+). There aren't many places where the move can be used outside of battle, but it will be important to have when hunting for treasure in the underwater ruins.
+Meet Cynthia, Champion of Sinnoh
+In the first villa to the west of the Poké Center is where you meet
+Cynthia
+, Champion of the
+Sinnoh
+region. When you first meet her, she will battle you regardless of the season. After that, she will only battle you during the spring. Her Pokémon are very high-leveled, so train against her team while you can. Her Pokémon will aim for your weaknesses, so be sure to do the same to them. Just remember that her
+Spiritomb
+and
+Eelektross
+have no weaknesses.
+Normal
+-,
+Fighting
+-, and
+Psychic-type
+attacks have no effect on Spiritomb, and
+Ground-type
+attacks don't work on Eelektross.
+Pokémon Trainer
+Cynthia
+Undella Town
+Black and White
+Reward:
+$
+15400
+Types:
+Ghost
+Dark
+Ability:
+Pressure
+Held item:
+None
+Spiritomb
+♀
+Lv.
+75
+Sucker Punch
+Dark
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Double Team
+Normal
+Status
+--
+Type:
+Electric
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Eelektross
+♀
+Lv.
+75
+Crunch
+Dark
+Physical
+--
+Wild Charge
+Electric
+Physical
+--
+Dragon Claw
+Dragon
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+75
+Hydro Pump
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Bulldoze
+Ground
+Physical
+--
+Dragon Tail
+Dragon
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Sheer Force
+Held item:
+None
+Braviary
+♂
+Lv.
+75
+Brave Bird
+Flying
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Retaliate
+Normal
+Physical
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+75
+ExtremeSpeed
+Normal
+Physical
+--
+Dragon Pulse
+Dragon
+Special
+--
+Close Combat
+Fighting
+Physical
+--
+Aura Sphere
+Fighting
+Special
+--
+Types:
+Dragon
+Ground
+Ability:
+Sand Veil
+Held item:
+None
+Garchomp
+♀
+Lv.
+77
+Dragon Rush
+Dragon
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+A Battle with the Riches
+The large villa in the west belongs to
+The Riches
+, a wealthy family. Talk to the youngest member, Draco, outside and he will challenge you to a battle. If you stop by on another day and talk to him inside the villa, the number of family members you can battle will increase every time, until you can fight all six. After defeating Draco the first time, you will fight each of them with no break in-between. When you finally defeat Miles, the head of the family, the challenge is over. The Riches give out a lot of prize money anyway, but if one of your Pokémon has the
+Amulet Coin
+, you'll end up with a ton of cash!
+The Riches
+Trainer
+Pokémon
+The Riches
+Draco
+Reward:
+$
+12000
+Buizel
+♂
+Lv.
+60
+No item
+The Riches
+Susan
+Reward:
+$
+12200
+Teddiursa
+♀
+Lv.
+61
+No item
+Lopunny
+♀
+Lv.
+61
+No item
+The Riches
+Clairdonna
+Reward:
+$
+12400
+Bronzor
+Lv.
+62
+No item
+Kangaskhan
+♀
+Lv.
+62
+No item
+Golurk
+Lv.
+62
+No item
+The Riches
+Zillion
+Reward:
+$
+12600
+Shuckle
+♂
+Lv.
+63
+No item
+Lickilicky
+♂
+Lv.
+63
+No item
+Krookodile
+♂
+Lv.
+63
+No item
+Politoed
+♂
+Lv.
+63
+No item
+The Riches
+Trish
+Reward:
+$
+12800
+Weavile
+♀
+Lv.
+64
+No item
+Excadrill
+♀
+Lv.
+64
+No item
+Heatmor
+♀
+Lv.
+64
+No item
+Vespiquen
+♀
+Lv.
+64
+No item
+Kingdra
+♀
+Lv.
+64
+No item
+The Riches
+Miles
+Reward:
+$
+13000
+Donphan
+♂
+Lv.
+65
+No item
+Bisharp
+♂
+Lv.
+65
+No item
+Lanturn
+♂
+Lv.
+65
+No item
+Tangrowth
+♂
+Lv.
+65
+No item
+Braviary
+♂
+Lv.
+65
+No item
+Haxorus
+♂
+Lv.
+65
+No item
+The Billionaire Collector
+Inside the large villa's west room is the billionaire father of the family. Rather than battle you, this collector offers to buy your rare items, like the flutes you get from the treasure hunter on
+Route 13
+. Talk to him when you get these items.
+Undella Bay
+Undella Bay
+Visitors flock to
+Undella Town
+to swim in the beautiful
+Undella Bay
+. There isn't much of interest on the surface, but if you explore beneath the waves, you'll find the mysterious
+Abyssal Ruins
+spread out over the seafloor. Dive down into one of the four spots of darker water and enter the submerged ruins.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Bart
+Reward:
+$
+1008
+Staryu
+Lv.
+63
+No item
+Wingull
+♂
+Lv.
+63
+No item
+Jellicent
+♂
+Male
+Lv.
+63
+No item
+Swimmer
+Tim
+Reward:
+$
+1024
+Quagsire
+♂
+Lv.
+64
+No item
+Golduck
+♂
+Lv.
+64
+No item
+Swimmer
+Larissa
+Reward:
+$
+1040
+Corsola
+♀
+Lv.
+65
+No item
+Swimmer
+Rebecca
+Reward:
+$
+1008
+Shellder
+♀
+Lv.
+63
+No item
+Chinchou
+♀
+Lv.
+63
+No item
+Jellicent
+♀
+Female
+Lv.
+63
+No item
+Swimmer
+Matt
+Reward:
+$
+1024
+Wailmer
+♂
+Lv.
+64
+No item
+Wailmer
+♂
+Lv.
+64
+No item
+Swimmer
+Tyra
+Reward:
+$
+1024
+Seel
+♀
+Lv.
+64
+No item
+Alomomola
+♀
+Lv.
+64
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Wingull
+B
+W
+Surfing
+25-55
+60%
+Mantyke
+B
+W
+Surfing
+25-55
+30%
+30%
+30%
+-
+Spheal
+B
+W
+Surfing
+25-55
+-
+-
+-
+30%
+Pelipper
+B
+W
+Surfing
+25-55
+10%
+Rippling Water
+Wailmer
+B
+W
+Rippling water
+25-60
+90%
+90%
+90%
+60%
+Sealeo
+B
+W
+Rippling water
+25-60
+-
+-
+-
+30%
+Mantine
+B
+W
+Rippling water
+25-60
+5%
+5%
+5%
+-
+Walrein
+B
+W
+Rippling water
+25-60
+-
+-
+-
+5%
+Wailord
+B
+W
+Rippling water
+25-60
+5%
+Fishing
+Remoraid
+B
+W
+Fishing
+35-55
+65%
+Shellder
+B
+W
+Fishing
+35-55
+30%
+Luvdisc
+B
+W
+Fishing
+35-55
+5%
+Rippling Water
+Shellder
+B
+W
+Rippling water
+35-60
+60%
+Luvdisc
+B
+W
+Rippling water
+35-60
+30%
+Cloyster
+B
+W
+Rippling water
+35-60
+5%
+Octillery
+B
+W
+Rippling water
+35-70
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Stardust
+On the western shore (hidden, reappears occasionally)
+B
+W
+Pearl
+On the western shore (hidden, reappears occasionally)
+B
+W
+Heart Scale
+Northeast of Swimmer♀ Tyra (hidden)
+B
+W
+Abyssal Ruins
+Abyssal Ruins
+The
+Abyssal Ruins
+are believed to be the remains of an ancient temple that sank beneath the waves. No one knows who built it or why, but an explanation may lie with the odd symbols etched into the walls. When you
+dive
+down to the ruins, hold down the Control Pad as you descend, or the currents will take you back to the surface. To be fully prepared, you need a team with
+Dive
+,
+Surf
+,
+Strength
+, and
+Flash
+.
+Items
+Item
+Location
+Games
+1F
+Dread Plate
+North of the western entrance
+B
+W
+Earth Plate
+Southeast quadrant
+B
+W
+Fist Plate
+Southwest corner
+B
+W
+Flame Plate
+West of the room's center
+B
+W
+Icicle Plate
+South of the room's center
+B
+W
+Insect Plate
+Near the northeast corner
+B
+W
+Iron Plate
+Northwest quadrant
+B
+W
+Meadow Plate
+Southwest quadrant
+B
+W
+Mind Plate
+North of the room's center
+B
+W
+Sky Plate
+North of the eastern entrance
+B
+W
+Spooky Plate
+Southeast quadrant
+B
+W
+Stone Plate
+Near the northern entrance
+B
+W
+Toxic Plate
+Southeast corner
+B
+W
+Zap Plate
+South of the western entrance
+B
+W
+Relic Gold
+×3
+Near the northwest corner
+Southwest quadrant
+East of the room's center
+B
+W
+Relic Silver
+×3
+Northwest quadrant
+Northeast quadrant
+Southeast quadrant
+B
+W
+Relic Copper
+×4
+Inside the northern entrance
+Inside the eastern entrance
+Inside the southern entrance
+Southwest of the western entrance
+B
+W
+Relic Statue
+Just north of the room's center
+B
+W
+Relic Vase
+Southeast quadrant
+B
+W
+2F
+Relic Gold
+×3
+Northwest quadrant
+Northeast quadrant
+Along the east wall
+B
+W
+Relic Silver
+×2
+Northeast quadrant
+Southwest quadrant
+B
+W
+Relic Copper
+×2
+Southwest quadrant
+Near the entrance from 1F
+B
+W
+Relic Statue
+Southwest corner
+B
+W
+Relic Vase
+Northwest corner
+B
+W
+Relic Band
+×2
+Southeast corner
+Northeast quadrant
+B
+W
+3F
+Relic Gold
+Southwest corner
+B
+W
+Relic Silver
+South side
+B
+W
+Relic Statue
+Northwest corner
+B
+W
+Relic Vase
+×2
+Northeast corner
+Along the west wall
+B
+W
+Relic Band
+×3
+Northeast quadrant
+Southeast quadrant
+In the room's center
+B
+W
+4F
+Relic Crown
+In the center of the room
+B
+W
+1F
+Each of the four dive points connect to the same large room on the first floor. All items can be reached from any entrance. Upon entering the rubble, the sound of a switch can be heard. You will only be able to explore about 500 steps before the currents rush you back to the surface. To reach the second floor, you must reach the center of the room in 190 steps or less. Inspect the purple pillar there and it slides out of the way. Behind it is a spot where you can float up to the second floor.
+2F
+The second floor is a lot smaller than the first. Swim to the south and take the second right. Work your way up to the northeast corner, and swim along the north wall. Head south then west to reach a purple pillar; use
+Flash
+directly beside it and it will move out of the way. Go either north or south to reach the third floor.
+3F
+Behind you to the west is a
+Relic Vase
+. To the north is a
+Relic Statue
+, and to the south, a
+Relic Gold
+. A
+Relic Band
+lies in the center of the room, and a
+Relic Silver
+is off to the south. Two more Relic Bands and a
+Relic Vase
+lie to the east. To ascend to the final floor, stand at the purple pillar in the center of the east wall and use
+Strength
+.
+4F
+There's almost nothing here, except for a few more purple pillars and a single item in the middle of the room — the
+Relic Crown
+. This is the last of the ruins' treasures, so just wander around a bit until the currents wash you to the surface. All totaled, the relics housed here can be sold to the collector in the large villa for a combined
+$
+1,706,000!
+Route 14
+Route 14
+Route 14
+is a wooded multi-level area with a majestic river flowing west to east. The spray from the river turns into mist, so the route is almost always covered with fog. The Abundant Shrine lies in the trees to the west, and you'll need access to
+Surf
+and
+Waterfall
+to navigate the entire route.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Sid
+Reward:
+$
+1984
+Barboach
+♂
+Lv.
+62
+No item
+Corphish
+♂
+Lv.
+62
+No item
+Whiscash
+♂
+Lv.
+62
+No item
+Carvanha
+♂
+Lv.
+62
+No item
+Black Belt
+Jay
+Reward:
+$
+2048
+Primeape
+♂
+Lv.
+64
+No item
+Scrafty
+♂
+Lv.
+64
+No item
+Poliwrath
+♂
+Lv.
+64
+No item
+Backpacker
+Vicki
+Reward:
+$
+1560
+Numel
+♀
+Lv.
+65
+No item
+Hiker
+Jebediah
+Reward:
+$
+2016
+Hippopotas
+♂
+Lv.
+63
+No item
+Piloswine
+♂
+Lv.
+63
+No item
+Probopass
+♂
+Lv.
+63
+No item
+Ace Trainer
+Kipp
+Reward:
+$
+4080
+Absol
+♂
+Lv.
+68
+No item
+Dodrio
+♂
+Lv.
+68
+No item
+Walrein
+♂
+Lv.
+68
+No item
+Ace Trainer
+Junko
+Reward:
+$
+4080
+Purugly
+♀
+Lv.
+68
+No item
+Espeon
+♂
+Lv.
+68
+No item
+Lapras
+♀
+Lv.
+68
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Jigglypuff
+B
+W
+Grass
+48
+20%
+Golduck
+B
+W
+Grass
+47
+20%
+Tropius
+B
+W
+Grass
+48-50
+15%
+Altaria
+B
+W
+Grass
+49
+10%
+Drifblim
+B
+W
+Grass
+49
+10%
+Beheeyem
+B
+W
+Grass
+48-50
+10%
+Mienfoo
+B
+W
+Grass
+49
+10%
+Shuckle
+B
+W
+Grass
+49
+5%
+Dark grass
+Jigglypuff
+B
+W
+Dark grass
+58
+20%
+Golduck
+B
+W
+Dark grass
+57
+20%
+Tropius
+B
+W
+Dark grass
+58-60
+15%
+Altaria
+B
+W
+Dark grass
+59
+10%
+Drifblim
+B
+W
+Dark grass
+59
+10%
+Beheeyem
+B
+W
+Dark grass
+58-60
+10%
+Mienshao
+B
+W
+Dark grass
+59
+10%
+Shuckle
+B
+W
+Dark grass
+59
+5%
+Rustling grass
+Audino
+B
+W
+Rustling grass
+47-50
+85%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Wigglytuff
+B
+W
+Rustling grass
+50
+5%
+Surfing
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Buizel
+B
+W
+Surfing
+25-55
+30%
+Rippling Water
+Buizel
+B
+W
+Rippling water
+25-60
+60%
+Basculin
+B
+W
+Rippling water
+25-55
+30%
+Basculin
+B
+W
+Rippling water
+25-55
+30%
+Floatzel
+B
+W
+Rippling water
+35-70
+10%
+Fishing
+Goldeen
+B
+W
+Fishing
+35-55
+70%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling Water
+Goldeen
+B
+W
+Rippling water
+35-60
+60%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Seaking
+B
+W
+Rippling water
+45-70
+10%
+Special Pokémon
+Yanma
+B
+W
+???
+Swarm
+15-55
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Ultra Ball
+On a cliff west of Fisherman Sid
+B
+W
+Max Elixir
+On the river's north bank, east of Fisherman Sid (hidden)
+B
+W
+Reaper Cloth
+On a cliff west of Black Belt Jay
+B
+W
+TM08
+(
+Bulk Up
+)
+From Giallo before being arrested
+B
+W
+Leave the sands of
+Undella Town
+behind and head south across the first bridge. Climb the waterfall near the second bridge to find an
+Ultra Ball
+at the top. Go south across the water and through the tall grass to find a
+Reaper Cloth
+.
+Climb the waterfall west of here to find Giallo, the last of the
+Seven Sages
+. He speaks to you briefly before handing over
+TM08
+(
+Bulk Up
+).
+Looker
+arrives and arrests him, and as he leaves he mentions that someone has sighted a person matching
+N
+'s description on a dragon Pokémon in a faraway land, and leaves to investigate.
+Go west past Hiker Jebediah and ride down the waterfall. Climb out on the west bank to reach the Abundant Shrine.
+Abundant Shrine
+Abundant Shrine
+The
+Abundant Shrine
+is comprised of the remains of an old village. People no longer live here, but the land still shows the remnants from that time. A small shrine stands at the top of the hill, and is dedicated to a Pokémon that used to protect this place.
+Trainers
+Trainer
+Pokémon
+Youngster
+Wes
+Reward:
+$
+976
+Caterpie
+♂
+Lv.
+61
+No item
+Spinarak
+♂
+Lv.
+61
+No item
+Pineco
+♂
+Lv.
+61
+No item
+Masquerain
+♂
+Lv.
+61
+No item
+Scolipede
+♂
+Lv.
+61
+No item
+Lass
+Lurleen
+Reward:
+$
+1008
+Horsea
+♀
+Lv.
+63
+No item
+Sunkern
+♀
+Lv.
+63
+No item
+Ponyta
+♀
+Lv.
+63
+No item
+Lass
+Maki
+Reward:
+$
+1008
+Burmy
+♀
+Plant Cloak
+Lv.
+63
+No item
+Tangela
+♀
+Lv.
+63
+No item
+Sawsbuck
+♀
+Spring Form
+Lv.
+63
+No item
+Youngster
+Lester
+Reward:
+$
+1008
+Yanma
+♂
+Lv.
+63
+No item
+Ledyba
+♂
+Lv.
+63
+No item
+Ninjask
+♂
+Lv.
+63
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Chimecho
+B
+W
+Grass
+47-49
+30%
+Vulpix
+B
+W
+Grass
+47
+20%
+Noctowl
+B
+W
+Grass
+48-50
+15%
+Stantler
+B
+W
+Grass
+48
+10%
+Bronzong
+B
+W
+Grass
+48-50
+10%
+Cottonee
+B
+W
+Grass
+48
+10%
+Petilil
+B
+W
+Grass
+48
+10%
+Murkrow
+B
+W
+Grass
+48
+5%
+Misdreavus
+B
+W
+Grass
+48
+5%
+Dark Grass
+Chimecho
+B
+W
+Dark grass
+57-59
+30%
+Vulpix
+B
+W
+Dark grass
+57
+20%
+Noctowl
+B
+W
+Dark grass
+58-60
+15%
+Stantler
+B
+W
+Dark grass
+58
+10%
+Bronzong
+B
+W
+Dark grass
+58-60
+10%
+Cottonee
+B
+W
+Dark grass
+58
+10%
+Petilil
+B
+W
+Dark grass
+58
+10%
+Murkrow
+B
+W
+Dark grass
+58
+5%
+Misdreavus
+B
+W
+Dark grass
+58
+5%
+Rustling Grass
+Audino
+B
+W
+Rustling grass
+47-50
+75%
+Emolga
+B
+W
+Rustling grass
+48
+10%
+Ninetales
+B
+W
+Rustling grass
+50
+5%
+Mismagius
+B
+W
+Rustling grass
+50
+5%
+Honchkrow
+B
+W
+Rustling grass
+50
+5%
+Whimsicott
+B
+W
+Rustling grass
+50
+5%
+Lilligant
+B
+W
+Rustling grass
+50
+5%
+Surfing
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Basculin
+B
+W
+Surfing
+25-55
+70%
+Slowpoke
+B
+W
+Surfing
+25-55
+30%
+Rippling Water
+Slowpoke
+B
+W
+Rippling water
+25-60
+60%
+Basculin
+B
+W
+Rippling water
+25-60
+30%
+Basculin
+B
+W
+Rippling water
+25-60
+30%
+Slowbro
+B
+W
+Rippling water
+35-70
+5%
+Slowking
+B
+W
+Rippling water
+35-70
+5%
+Fishing
+Goldeen
+B
+W
+Fishing
+35-55
+70%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Basculin
+B
+W
+Fishing
+35-55
+30%
+Rippling Water
+Goldeen
+B
+W
+Rippling water
+35-60
+60%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Basculin
+B
+W
+Rippling water
+35-60
+30%
+Seaking
+B
+W
+Rippling water
+45-70
+10%
+Special Pokémon
+Landorus
+B
+W
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM35
+(
+Flamethrower
+)
+West of the house near the entrance
+B
+W
+BalmMushroom
+On the northern bank of the pond west of the house
+(hidden)
+B
+W
+Hyper Potion
+North-east of Youngster Wes
+B
+W
+Razor Fang
+South-west of Lass Maki
+B
+W
+Rare Candy
+South-east of Youngster Lester
+B
+W
+TM92
+(
+Trick Room
+)
+South-east of Landorus's shrine
+B
+W
+TinyMushroom
+×3
+North of Youngster Wes
+(hidden)
+South-west of Lass Lurleen
+(hidden)
+West of Landorus's shrine
+(hidden)
+B
+W
+Big Mushroom
+East of Landorus's shrine
+(hidden)
+B
+W
+Go west from the entrance to find
+TM35
+(
+Flamethrower
+) on the far side of the pond. Near the second field north of the entrance is a
+Hyper Potion
+, and all the way to the west is a
+Razor Fang
+. East of Youngster Lester is a
+Rare Candy
+. North of here is the shrine.
+If you have caught
+Tornadus
+B
+or
+Thundurus
+W
+, you will find a group of kids arguing about
+Landorus
+. According to legend, Landorus punished Tornadus and Thundurus for damaging property across the region with their strong storms. If you bring the two troublemakers to the shrine, Landorus will appear. Start off with
+Water
+attacks to lower its health quickly, then wear it down with
+Fighting
+-,
+Poison
+-, or
+Bug-type
+attacks. Keep tossing Ultra Balls until you catch it.
+Types:
+Ground
+Flying
+Ability:
+Sand Force
+Held item:
+None
+Landorus
+Lv.
+70
+Rock Slide
+Rock
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Fissure
+Ground
+Physical
+--
+East of the shrine, across the pond, is
+TM92
+(
+Trick Room
+). Step out onto Route 14 again and surf east along the river. Jump the ledge and go southwest to reach either
+Black City
+or
+White Forest
+.
+← Part 16
+Route 11, Village Bridge, Route 12, Lacunosa Town, Route 13, Giant Chasm
+Black and White
+walkthrough
+Black City & White Forest, Route 15, Marvelous Bridge, Route 16, Lostlorn Forest
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

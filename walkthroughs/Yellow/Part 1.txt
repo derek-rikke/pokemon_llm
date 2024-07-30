@@ -1,0 +1,263 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Yellow_walkthrough/Section_1
+Keywords: Introduction, Pallet Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Yellow
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+. The guide for those games can be found
+here
+.
+Contents
+1
+Introduction
+2
+Pallet Town
+2.1
+Home
+2.1.1
+2F
+2.1.2
+1F
+2.2
+Oak Appears!
+2.3
+Professor Oak's Lab
+2.3.1
+Rival Battle 1
+Introduction
+Name selection
+After a brief cutscene, press the A Button or
+Start
+on the title screen to reach the main menu.
+Option
+may be used to change settings like Text Speed. Select
+New Game
+and press the A Button. The resident researcher of the
+Kanto
+region,
+Professor Oak
+, appears and introduces new Trainers to the Pokémon world. Next, the player is prompted to select their character's name from a list of preset options.
+Default Names
+Player
+Yellow, Ash, Jack
+Rival
+Blue, Gary, John
+To use a different name, move the cursor to
+New Name
+and press the A Button. On this screen, pressing the A Button will select a letter while pressing the B Button will delete the previous one. A custom name may be up to seven characters long. When ready, press
+Start
+or select
+End
+in the bottom-right corner.
+Next,
+Professor Oak
+introduces
+his grandson
+, who happens to be your
+rival
+. The professor is having trouble remembering the boy's name, and asks if you might know. Choose his name from a different list of preset names, or select a new one. With that done, the player is transported into the world of Pokémon to begin their adventure!
+Pallet Town
+Pallet Town
+The journey begins in
+Pallet Town
+, in the southwest part of the
+Kanto
+region. It is a rather small, sleepy town with only three buildings. The western house belongs to you and
+Mom
+, while the eastern one is home to
+your rival
+and his sister. The large building to the south is
+Professor Oak
+'s
+Laboratory
+. The north part of town leads to the
+tall grasses
+of
+Route 1
+, and the waters to the south open up to
+Route 21
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+First partner Pokémon
+Pikachu
+R
+B
+Y
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+Home; retrievable from the player's PC
+Y
+Later visit
+Pokédex
+Oak's Lab; from Professor Oak, after he receives
+his parcel
+Y
+Town Map
+Blue's house; from Daisy, after obtaining the Pokédex
+Y
+Home
+2F
+The journey begins in your bedroom, with you standing in front of your
+Super Nintendo Entertainment System
+. Now that you can control your character, the various buttons and their effects are as follows:
+Input
+Effect(s)
+GB
+3DS
++Control Pad
++Control Pad, Circle Pad
+Moves character; moves cursor in a menu
+A Button
+A Button
+Interact with people and the environment; select menu options
+B Button
+B Button
+Cancel a selection; exit a menu
+Start
+Start
+, X Button
+Opens the
+main menu
+The
+PC
+in the corner acts as your
+item storage
+. Since your
+Bag
+can only hold 20 different
+items
+, it would be necessary to use or discard some before obtaining anything new. The PC can hold up to 50 different items.
+Deposit Item
+and
+Withdraw Item
+allow for moving items between inventory and storage, while
+Toss Item
+discards an item permanently. It seems as though there is already an item in storage, so select
+Withdraw Item
+and choose the
+Potion
+to add it to your Bag. Press the B Button to close the menus and return to your bedroom. To save the game, press
+Start
+to open the main menu, select
+Save
+, and then
+Yes
+. When the menu disappears, your progress is saved and it is safe to exit the game.
+To go downstairs, step on the stairs in the northeast corner of the room.
+1F
+Mom
+is sitting at the table, and tells you that
+Professor Oak
+has been looking for you. To leave the house, step on the floor mat along the south wall and press down on the +Control Pad.
+Oak Appears!
+Pallet Town
+has only a few places to explore, and
+Professor Oak
+is nowhere to be found. There is nothing else to do around here right now, so head for the
+tall grass
+on the north side of town. Suddenly, the professor appears! He scolds you for trying to venture off on your own, as it can be dangerous without a Pokémon of your own for defense against
+wild Pokémon
+. The professor's timing is impeccable, as a wild
+Pikachu
+attacks at this very moment. Oak throws a single
+Poké Ball
+and catches the
+Electric-type
+Pokémon.
+Professor Oak's Lab
+Oak leads you back to his lab where
+Blue
+is already waiting, and offers you the creature in the Poké Ball on the table as your very first Pokémon. Before you can make a move, Blue snatches it away from you, and the professor entrusts you with his newly-caught
+Pikachu
+instead. Although Pikachu are capable of
+evolving
+, this particular Pikachu will always refuse to do so.
+Pikachu
+Electric
+When you turn to leave, your rival will challenge you to your first
+Pokémon battle
+!
+Rival Battle 1
+When battling, each Trainer sends out one Pokémon at a time; both of these particular Pokémon are on
+Level
+5, indicated by the
+:L5
+aside each Pokémon. Below that is the health bar, which shows the Pokémon's remaining
+HP
+. A battle is won or lost when either side has no remaining Pokémon with the strength to continue.
+Choosing
+Fight
+will allow you to launch an attack against the target. Both
+Pikachu
+and
+Eevee
+have two moves. The first will damage the opponent, and the other will lower one of its stats. If your Pokémon's HP runs low, be sure to use that Potion from your PC. Go to
+Item
+to select the medicine and apply it to the Pokémon. It is important to note that
+the outcome of the first two battles
+with your rival will determine the evolved form that his
+Eevee
+ends up taking.
+Blue
+Professor Oak's Laboratory
+Yellow
+Reward:
+$
+175
+Type:
+Normal
+Unknown
+Eevee
+Lv.
+5
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Once you have defeated
+Blue
+, you earn a cash reward of
+$
+175, and he will leave. The encounter earns your Pokémon enough
+Experience Points
+to grow to Level 6. Pikachu jumps out of its Poké Ball, and Oak suggests letting it follow along behind you to make it happy. Leave the laboratory and head north to
+Route 1
+.
+Yellow
+walkthrough
+Route 1, Viridian City, Oak's Lab, Route 2
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

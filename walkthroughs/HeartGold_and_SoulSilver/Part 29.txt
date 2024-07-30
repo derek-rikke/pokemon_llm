@@ -1,0 +1,1279 @@
+Part: Part 29
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:HeartGold_and_SoulSilver_walkthrough/Section_29
+Keywords: Mt. Silver
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon HeartGold and SoulSilver
+.
+These pages follow the remade
+Nintendo DS
+iteration,
+not
+Pokémon Gold and Silver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mt. Silver Cave
+1.1
+1F
+1.1.1
+Moltres
+1.2
+Lower Mountainside
+1.3
+1F
+1.4
+2F
+1.5
+Upper Mountainside
+1.6
+2F
+1.7
+Upper Mountainside
+1.8
+3F
+1.9
+Summit
+Mt. Silver Cave
+Mt. Silver, 1F
+Mt. Silver, Lower Mountainside
+Mt. Silver, 2F
+Mt. Silver, Upper Mountainside
+Mt. Silver, 3F
+Mt. Silver, Summit
+Mt. Silver
+is a tough, forbidding mountain that towers over the border between
+Johto
+and
+Kanto
+. The terrain is so treacherous and the wild Pokémon are so strong that only those who have earned
+Professor Oak
+'s permission are allowed to enter. The sprawling caves may exhaust even the most seasoned adventurers, so it may be wise to bring a supply of
+Max Repels
+, in addition to
+Ultra Balls
+and
+Dusk Balls
+.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Onix
+HG
+SS
+Cave
+42
+30%
+Donphan
+HG
+SS
+Cave
+44
+30%
+Ursaring
+HG
+SS
+Cave
+44
+30%
+Graveler
+HG
+SS
+Cave
+41-43
+20%
+Phanpy
+HG
+SS
+Cave
+43
+10%
+Teddiursa
+HG
+SS
+Cave
+43
+10%
+Golbat
+HG
+SS
+Cave
+45
+5%
+Larvitar
+HG
+SS
+Cave
+15-20
+5%
+Surfing
+Seaking
+HG
+SS
+Surfing
+30-50
+90%
+Goldeen
+HG
+SS
+Surfing
+30-40
+10%
+Fishing
+Magikarp
+HG
+SS
+Fishing
+Old Rod
+10
+95%
+Goldeen
+HG
+SS
+Fishing
+Old Rod
+10
+5%
+Magikarp
+HG
+SS
+Fishing
+Good Rod
+20
+60%
+Goldeen
+HG
+SS
+Fishing
+Good Rod
+20
+30%
+Seaking
+HG
+SS
+Fishing
+Good Rod
+20
+10%
+Gyarados
+HG
+SS
+Fishing
+Super Rod
+40
+60%
+Seaking
+HG
+SS
+Fishing
+Super Rod
+40
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+South chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Quagsire
+HG
+SS
+Cave
+45
+40%
+40%
+30%
+Donphan
+HG
+SS
+Cave
+47-48
+20%
+Ursaring
+HG
+SS
+Cave
+47-48
+20%
+Golduck
+HG
+SS
+Cave
+48
+10%
+Phanpy
+HG
+SS
+Cave
+46
+10%
+Teddiursa
+HG
+SS
+Cave
+46
+10%
+Golbat
+HG
+SS
+Cave
+48
+5%
+Larvitar
+HG
+SS
+Cave
+15-20
+5%
+Pupitar
+HG
+SS
+Cave
+30, 45
+5%
+Misdreavus
+HG
+SS
+Cave
+45
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Northwest chamber
+Pokémon
+Games
+Location
+Levels
+Rate
+Quagsire
+HG
+SS
+Cave
+45
+40%
+40%
+30%
+Steelix
+HG
+SS
+Cave
+48
+20%
+Donphan
+HG
+SS
+Cave
+47-48
+20%
+Ursaring
+HG
+SS
+Cave
+47-48
+20%
+Golduck
+HG
+SS
+Cave
+48
+10%
+Golbat
+HG
+SS
+Cave
+48
+5%
+Larvitar
+HG
+SS
+Cave
+15-20
+5%
+Misdreavus
+HG
+SS
+Cave
+45
+0%
+0%
+10%
+Special Pokémon
+Moltres
+HG
+SS
+Only one
+50
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Quagsire
+HG
+SS
+Cave
+45
+30%
+30%
+20%
+Sneasel
+HG
+SS
+Cave
+48
+20%
+Donphan
+HG
+SS
+Cave
+48-50
+20%
+Ursaring
+HG
+SS
+Cave
+48-50
+20%
+Phanpy
+HG
+SS
+Cave
+46
+10%
+Teddiursa
+HG
+SS
+Cave
+46
+10%
+Golduck
+HG
+SS
+Cave
+48
+10%
+Golbat
+HG
+SS
+Cave
+48
+5%
+Larvitar
+HG
+SS
+Cave
+15-20
+5%
+Misdreavus
+HG
+SS
+Cave
+45
+0%
+0%
+10%
+Special Pokémon
+Makuhita
+HG
+SS
+Hoenn Sound
+48-50
+20%
+Absol
+HG
+SS
+Hoenn Sound
+46-48
+20%
+Chingling
+HG
+SS
+Sinnoh Sound
+48-50
+20%
+Bronzor
+HG
+SS
+Sinnoh Sound
+46-48
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+HG
+SS
+Cave
+48
+30%
+Quagsire
+HG
+SS
+Cave
+45
+20%
+20%
+10%
+Sneasel
+HG
+SS
+Cave
+50
+20%
+Donphan
+HG
+SS
+Cave
+47
+20%
+Ursaring
+HG
+SS
+Cave
+47
+20%
+Golbat
+HG
+SS
+Cave
+48
+5%
+Larvitar
+HG
+SS
+Cave
+15-20
+5%
+Misdreavus
+HG
+SS
+Cave
+45
+0%
+0%
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Lower Mountainside
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+HG
+SS
+Grass
+48-51
+40%
+Onix
+HG
+SS
+Grass
+48
+30%
+Phanpy
+HG
+SS
+Grass
+48
+10%
+Teddiursa
+HG
+SS
+Grass
+48
+10%
+Donphan
+HG
+SS
+Grass
+50
+10%
+Ursaring
+HG
+SS
+Grass
+50
+10%
+Golduck
+HG
+SS
+Grass
+51
+5%
+Larvitar
+HG
+SS
+Grass
+15-20
+5%
+Headbutt
+Natu
+HG
+SS
+Headbutt
+40-44
+10%
+Aipom
+HG
+SS
+Headbutt
+39-44
+30%
+Heracross
+HG
+SS
+Headbutt
+39-44
+60%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Upper Mountainside
+Pokémon
+Games
+Location
+Levels
+Rate
+Golduck
+HG
+SS
+Grass
+48
+30%
+30%
+20%
+Sneasel
+HG
+SS
+Grass
+45
+20%
+Donphan
+HG
+SS
+Grass
+47
+20%
+Ursaring
+HG
+SS
+Grass
+47
+20%
+Quagsire
+HG
+SS
+Grass
+45
+15%
+15%
+10%
+Misdreavus
+HG
+SS
+Grass
+45-48
+0%
+0%
+15%
+Larvitar
+HG
+SS
+Grass
+15-30
+10%
+Golbat
+HG
+SS
+Grass
+48
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+1F, side chambers
+Item
+Location
+Games
+Expert Belt
+Southern chamber, north of the entrance (requires
+Surf
+,
+Waterfall
+)
+HG
+SS
+Ultra Ball
+×2
+On a rock, between the two waterfalls (hidden; requires
+Surf
+,
+Waterfall
+,
+Rock Climb
+)
+Moltres' chamber, northeast corner (hidden; requires
+Surf
+,
+Waterfall
+,
+Rock Climb
+)
+HG
+SS
+Hyper Potion
+Moltres' chamber, northwest corner (hidden; requires
+Surf
+,
+Waterfall
+,
+Rock Climb
+)
+HG
+SS
+Dire Hit
+On a rock, northeast of the entrance (hidden)
+HG
+SS
+Full Restore
+Northeast corner, accessible via Lower Mountainside (requires
+Rock Climb
+)
+HG
+SS
+Revive
+On a rock, east of the stairway to 2F (hidden, requires
+Rock Climb
+)
+HG
+SS
+Lower Mountainside
+Item
+Location
+Games
+Escape Rope
+South side of the lowest cliff (requires
+Rock Climb
+)
+HG
+SS
+TM76
+(
+Stealth Rock
+)
+South side of the highest cliff (requires
+Rock Climb
+)
+HG
+SS
+2F
+Item
+Location
+Games
+Max Elixir
+Mid-level, north side (requires
+Rock Climb
+)
+HG
+SS
+Max Revive
+Upper-mid-level, north side (requires
+Rock Climb
+)
+HG
+SS
+Max Potion
+Upper level, west side (hidden; requires
+Rock Climb
+,
+Rock Smash
+)
+HG
+SS
+Calcium
+Upper level, south side (requires
+Rock Climb
+,
+Rock Smash
+)
+HG
+SS
+Protein
+Upper level, east side (requires
+Rock Climb
+)
+HG
+SS
+Iron
+On a rock, in the northeast corner (hidden; requires
+Rock Climb
+,
+Rock Smash
+)
+HG
+SS
+Other Items
+Red Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Blue Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Yellow Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Green Shard
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Revive
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Max Ether
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Star Piece
+Randomly found by smashing
+breakable rocks
+HG
+SS
+Upper Mountainside
+Item
+Location
+Games
+Max Ether
+On a rock, west of the north exit (hidden, requires
+Rock Climb
+)
+HG
+SS
+Pure Incense
+On the mountain's upper east side (requires
+Rock Climb
+)
+HG
+SS
+Rare Candy
+On a rock, in the southeast corner of the highest level (hidden, requires
+Rock Climb
+)
+HG
+SS
+Hyper Potion
+East of the entrance to the summit (hidden, requires
+Rock Climb
+)
+HG
+SS
+Dawn Stone
+West of the entrance to the summit (requires
+Rock Climb
+)
+HG
+SS
+3F
+Item
+Location
+Games
+Max Revive
+On a rock, east of the exit to the summit (hidden, requires
+Rock Climb
+)
+HG
+SS
+1F
+Surf westward and climb the waterfall. Detour to the small northeast chamber to obtain an
+Expert Belt
+, then sail to the northwest and scale the rock wall. Inspect the lone rock for an
+Ultra Ball
+, and climb the waterfall to the north. Step inside the northwest chamber to find the mountain's resident legendary Pokémon.
+Moltres
+Moltres
+, the final member of the
+legendary birds
+, can deal some serious damage with its
+Flamethrower
+and
+Air Slash
+moves. In addition,
+AncientPower
+has a slight chance of boosting each of its stats. Start off with
+Water
+or
+Electric
+attacks to quickly lower its health.
+Rock-type
+moves are doubly effective, but as your Pokémon are likely at higher levels, take care not to overpower it. Follow up with
+Grass
+-,
+Fire
+-,
+Bug
+-,
+Fighting
+-, and
+Steel-type
+moves to limit the damage it sustains. If you fail to catch it, defeat the Pokémon League once more to cause it to reappear.
+Types:
+Fire
+Flying
+Ability:
+Pressure
+Held item:
+None
+Moltres
+Lv.
+50
+Air Slash
+Flying
+Special
+--
+Safeguard
+Normal
+Status
+--
+Flamethrower
+Fire
+Special
+--
+AncientPower
+Rock
+Special
+--
+Afterwards, either backtrack to the entrance or simply use an Escape Rope. Take a rest at the Pokémon Center if needed, then climb the nearest rock wall and step out onto the mountainside.
+Lower Mountainside
+Go south to reach an
+Escape Rope
+, then follow the trail up the mountainside. Pick up
+TM76
+(
+Stealth Rock
+) from the highest level, then turn north. Detour inside the nearest cave entrance to reach a
+Full Restore
+, then resume the trek along the narrow trail. Step inside the mid-level cave entrance to return to 1F.
+1F
+Follow the narrow cliff westward, then turn north. Go northeast to find a hidden
+Revive
+, then climb the stairway to the next chamber.
+2F
+This chamber houses a large crater, which forces travelers to wander in circles to reach the upper levels. Collect the
+Max Elixir
+,
+Max Revive
+, and
+Calcium
+, then leave through the northern exit to reach the mountain's snow-covered heights.
+Upper Mountainside
+Inspect the nearest group of rocks for a
+Max Ether
+. Head east and turn the corner; step inside the northeast cave entrance to reach a
+Protein
+and a hidden
+Iron
+, then continue south through the snow. Duck inside the next cave entrance to re-emerge on the mountain's southeast side. Head southwest and use
+Rock Climb
+to detour up the cliffside for a
+Pure Incense
+and a hidden
+Rare Candy
+, and enter the southeast cave.
+2F
+Head west and exit back into the snow.
+Upper Mountainside
+Scale the first cliff to reach three more areas. Climb the eastern cliffs for a hidden
+Hyper Potion
+, collect the
+Dawn Stone
+from the western cliffs, then scale the central area and enter the cave.
+3F
+Follow the tunnel westward and scale the enormous cliffside. Check the rock to the east for a hidden
+Max Revive
+. Take a moment to restore your team to full health, then exit onto the frozen mountaintop.
+Summit
+Cross the narrow trail to meet the strongest Trainer in
+Johto
+and
+Kanto
+,
+Red
+. After claiming the Champion title
+three years ago
+, he gave it up in order to continue his training. Because of his dedication, his is the most powerful team in the game. In order to stand a chance against him, your Pokémon will need incredible offenses, which you might want to boost with
+X Attacks
+or
+X Specials
+. Even a type advantage means little if your Pokémon are too low-leveled. Don't hesitate to switch out your Pokémon or use a
+Revive
+to reclaim the type advantage; after all, Red will be targeting your weaknesses too, and may switch out his own Pokémon to accomplish this.
+Red leads with his
+Pikachu
+, which can inflict serious damage with its signature
+Volt Tackle
+move. The
+Light Ball
+it carries doubles its
+Attack
+and
+Special Attack
+; however, the item does nothing to improve its low defenses.
+Electric-type
+Pokémon only fear
+Ground
+attacks, so use moves like
+Earthquake
+or
+Earth Power
+to decimate its health.
+Ground
+/
+Rock
+Pokémon like
+Graveler
+and
+Rhydon
+should be careful of its
+Iron Tail
+attack. Be sure to restore your Pokémon's health as necessary to avoid a knockout due to its
+Quick Attack
+move.
+Lapras
+'s
+Brine
+doubles in power if the target is already weakened, and
+Body Slam
+has a good chance of paralyzing the target.
+Psychic
+is mostly for Water Pokémon that resist its other attacks, though it can also deter
+Fighting-type
+Pokémon aiming to inflict super-effective damage. Its high
+HP
+makes it difficult to wear down, so try
+Electric
+-,
+Grass
+-,
+Rock
+-, and Fighting-type moves to take it down.
+Snorlax
+has a variety of strong moves, though it will likely avoid using
+Shadow Ball
+because of its low
+Special Attack
+. Conversely, its high
+Attack
+stat allows it to deal serious damage with
+Crunch
+and
+Giga Impact
+. Crunch may even lower the target's
+Defense
+, making the behemoth even more dangerous. Giga Impact is likely the biggest threat, as few Pokémon can survive the combination of 150 base power, Snorlax's high Attack stat, and the
+same-type attack bonus
+it receives. Like Pikachu, it is only vulnerable to moves of a single type, the
+Fighting
+type.
+Low Kick
+is especially useful, as it deals more damage to
+heavier
+targets.
+Venusaur
+takes serious damage from
+Fire
+-,
+Ice
+-,
+Flying
+-, and
+Psychic-type
+attacks.
+Sleep Powder
+and
+Giga Drain
+allows it to replenish its health while the target is incapacitated.
+Sludge Bomb
+is a strong move that may
+poison
+its opponent, but
+Poison
+and
+Grass
+moves combined have poor coverage.
+Frenzy Plant
+is a powerful attack that forces the user to rest on the next turn, and Venusaur's
+Overgrow
+Ability and Giga Drain gives it a power boost when its health is low.
+Charizard
+is vulnerable to
+Water
+,
+Electric
+, and especially
+Rock
+moves. It excels in
+Special Attack
+and
+Speed
+, which lets it wreak havoc with its powerful moves.
+Air Slash
+may make the target
+flinch
+, and
+Blast Burn
+deals serious damage and forces it to rest on the next turn. No combination of two types can resist both Fire- and
+Dragon-type
+attacks, so Charizard has great coverage with
+Dragon Pulse
+.
+Blastoise
+is afraid of only two types of moves,
+Grass
+and
+Electric
+. However, as long as it can use
+Blizzard
+, Grass Pokémon should avoid the battle.
+Flash Cannon
+and
+Focus Blast
+both have a chance of lowering the target's
+Special Defense
+, a tactic that allows the defensive Pokémon to deal more damage than usual. Like
+Venusaur
+'s
+Frenzy Plant
+and
+Charizard
+'s
+Blast Burn
+,
+Hydro Cannon
+is a powerful move that receives a
+same-type attack bonus
+and another power boost when its health is low, due to its
+Torrent
+Ability.
+Many of his Pokémon know
+Blizzard
+to exploit the hail in Mt. Silver, which itself can be used to chip away your health, so it is recommended to attempt replacing it with another weather condition.
+P
+K
+M
+N
+Trainer
+Red
+Mt. Silver Cave
+HeartGold and SoulSilver
+Reward:
+$
+16800
+Type:
+Electric
+Unknown
+Ability:
+Static
+Held item:
+Light Ball
+Pikachu
+♂
+Lv.
+88
+Volt Tackle
+Electric
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Thunderbolt
+Electric
+Special
+--
+Types:
+Water
+Ice
+Ability:
+Shell Armor
+Held item:
+None
+Lapras
+♂
+Lv.
+80
+Blizzard
+Ice
+Special
+--
+Brine
+Water
+Special
+--
+Psychic
+Psychic
+Special
+--
+Body Slam
+Normal
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+None
+Snorlax
+♂
+Lv.
+82
+Shadow Ball
+Ghost
+Special
+--
+Crunch
+Dark
+Physical
+--
+Blizzard
+Ice
+Special
+--
+Giga Impact
+Normal
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Venusaur
+♂
+Lv.
+84
+Sludge Bomb
+Poison
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Sleep Powder
+Grass
+Status
+--
+Frenzy Plant
+Grass
+Special
+--
+Types:
+Fire
+Flying
+Ability:
+Blaze
+Held item:
+None
+Charizard
+♂
+Lv.
+84
+Flare Blitz
+Fire
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Blast Burn
+Fire
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Blastoise
+♂
+Lv.
+84
+Focus Blast
+Fighting
+Special
+--
+Hydro Cannon
+Water
+Special
+--
+Blizzard
+Ice
+Special
+--
+Flash Cannon
+Steel
+Special
+--
+Defeated, he pauses for a second in stunned silence. Then in the blink of an eye, Red is gone. It is possible to battle him again, by defeating the Elite Four again and returning to the mountaintop. A moment later, the credits roll for the second time.
+Afterwards, you find yourself back home in
+New Bark Town
+. Though the credits have rolled once more, there is still more to do. As
+Professor Oak
+was the one who gave you permission to scale the mountain, he will want to hear about your battle with the reclusive former Champion.
+← Part 28
+Routes 22 and 28
+HeartGold and SoulSilver
+walkthrough
+Oak's Lab, Silph Co., Mr. Pokémon, Routes 47 and 48, Embedded Tower
+Part 30 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

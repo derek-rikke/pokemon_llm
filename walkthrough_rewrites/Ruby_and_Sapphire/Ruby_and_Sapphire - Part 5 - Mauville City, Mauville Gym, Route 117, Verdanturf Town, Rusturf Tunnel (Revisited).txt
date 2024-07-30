@@ -1,0 +1,47 @@
+Game: Ruby_and_Sapphire
+Part: 5
+Keywords: Mauville City, Mauville Gym, Route 117, Verdanturf Town, Rusturf Tunnel (Revisited)
+
+**Part 5 Walkthrough: Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel**
+
+**Mauville City**
+- **Key Locations**: Mauville Gym, Game Corner, Rydel's Cycles.
+- **Items**:
+  - **Coin Case**: From the woman next to the Poké Mart for a piece of Harbor Mail.
+  - **X Speed**: Southeast of the Poké Mart, behind the fence.
+  - **HM06 (Rock Smash)**: From the Scientist in the southeast house.
+  - **Bikes**: Choose between Acro Bike (tricks) and Mach Bike (speed) at Rydel's Cycles.
+  - **TM34 (Shock Wave)**: Received from Wattson after defeating him.
+
+**Wally's Challenge**
+- Battle Wally outside the Gym (he has a level 16 Ralts). Defeating him leads to his return to Verdanturf Town.
+
+**Mauville Gym**
+- **Leader**: Wattson (Electric-type).
+- **Strategy**: Use Ground, Fire, and Fighting moves. Avoid Water and Flying types.
+- **Key Pokémon**:
+  - **Magnemite (Lv. 22)**: Weak to Ground.
+  - **Voltorb (Lv. 20)**: Can use Rollout.
+  - **Magneton (Lv. 23)**: Confuses with Supersonic.
+- **Reward**: Dynamo Badge (boosts Speed, enables Rock Smash) and TM34 (Shock Wave).
+
+**Route 117**
+- Path to Verdanturf Town. Features a Pokémon Day Care.
+- **Trainers**: Various trainers including Pokémon Breeders and Triathletes.
+  
+**Pokémon Day Care**
+- Raise Pokémon here; potential to receive Eggs when leaving compatible Pokémon.
+
+**Verdanturf Town**
+- Visit Wally and his family. Items include TM45 (Attract) and Contest Pass from the Contest Hall.
+
+**Rusturf Tunnel**
+- Clear path with Rock Smash to reunite Wanda with her boyfriend. Receive HM04 (Strength).
+
+**Lost His Glasses**
+- Find BlackGlasses for the Bug Maniac in the tunnel. 
+
+**The Researcher's Reward**
+- After exiting the tunnel, receive a Repeat Ball from a Devon researcher for your assistance before.
+
+This concise guide covers key locations, items, battles, and strategies needed to progress through Mauville City, Route 117, Verdanturf Town, and Rusturf Tunnel in Pokémon Ruby and Sapphire.

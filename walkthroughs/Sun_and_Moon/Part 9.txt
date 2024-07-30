@@ -1,0 +1,785 @@
+Part: Part 9
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_9
+Keywords: Royal Avenue, Battle Royal Dome, Thrifty Megamart, Route 7, Trial 3: Wela Volcano Park
+
+Walkthrough Text:
+Contents
+1
+Royal Avenue
+1.1
+Pokémon Center
+1.2
+Malasada Shop
+1.3
+Battle Royal Dome
+1.4
+Thrifty Megamart
+2
+Route 7
+3
+Wela Volcano Park
+3.1
+Captain Kiawe's Trial
+3.1.1
+VS Totem Salazzle
+Royal Avenue
+Royal Avenue
+Royal Avenue
+began as a side road that ran along the
+Battle Royal Dome
+, but the venue's popularity led to the area being developed into its current appearance. The space now includes a Pokémon Center, Malasada Shop, and
+Thrifty Megamart
+, as well. The street connects
+Route 6
+in the west to
+Route 7
+in the northeast.
+Items
+Item
+Location
+Games
+Ultra Ball
+Northwest corner; west end of the sidewalk
+S
+M
+Pink Nectar
+×2
+From the sparkling pink flower bushes in the northwest and southeast of the garden
+Day
+(daily)
+S
+M
+Rare Candy
+East of the Malasada Shop, among the construction materials
+(hidden)
+S
+M
+TM44
+(
+Rest
+)
+Thrifty Megamart; from the man dressed as
+Hypno
+, after giving him
+$
+1,000
+S
+M
+Lemonade
+Thrifty Megamart; from the Youngster's Drifloon
+S
+M
+Soda Pop
+Southeast of Thrifty Megamart
+(hidden)
+S
+M
+HP Up
+Behind Thrifty Megamart
+S
+M
+Zygarde Cell
+×2
+Empty parking spot outside Thrifty Megamart
+Day
+Northwest corner of the garden with pink flower bushes
+Night
+S
+M
+Pokémon Center
+The right-side clerk at the Poké Mart offers
+TM07
+(
+Hail
+),
+TM11
+(
+Sunny Day
+),
+TM18
+(
+Rain Dance
+), and
+TM37
+(
+Sandstorm
+) for sale. These moves alter the
+weather
+and can be just the thing to help win a difficult battle, but at
+$
+50,000 each it will take some time to collect all four.
+Malasada Shop
+The
+malasada
+shop is located in the southeast part of Royal Avenue. The left attendant sells both Sour and Dry varieties for
+$
+200 each. Other shops elsewhere in Alola offer
+different flavors
+. The right attendant sells
+Big Malasada
+for
+$
+350. With high demand for the fried food, the shop sells only one Big Malasada to each customer per day.
+Battle Royal Dome
+Head toward the
+Battle Royal Dome
+to find
+Gladion
+, who mumbles to himself before walking inside. Follow him inside to be met by a mysterious, masked man, who introduces himself as the
+Masked Royal
+. His goal is to teach Trainers about the battle format that has been passed down in Alola for generations: the
+Battle Royal
+. Four Trainers choose three Pokémon each, then send one at a time into a free-for-all battle. When one Trainer's team is unable to continue, the battle ends. The winning Trainer is the one who has defeated the most Pokémon and also has the most remaining Pokémon.
+After explaining the rules, the Masked Royal suggests a practice battle.
+Hau
+volunteers upon hearing this, and the Royal calls
+Gladion
+over to participate as well. The Masked Royal uses
+Rockruff
+, Gladion chooses
+Type: Null
+, and Hau sends in the second-stage of his
+first partner Pokémon
+.
+Afterward in the lobby, another stranger introduces himself as
+Kiawe
+, the Fire captain. Having just witnessed the battle, he hopes that you bring that same fire and burn up his trial on the peak of
+Wela Volcano Park
+.
+Thrifty Megamart
+The
+Thrifty Megamart
+is located to the east of the Battle Royal Dome. A clerk near the entrance hands out a discount coupon, which refunds 50% of the total price of each purchase made here. The clerk at the nearest checkout lane offers only
+an odd souvenir
+, the center-right clerk has a selection of status-healing items, and the center-left clerk offers several different types of Poké Ball.
+Center-left checkout
+Poké Ball
+$
+200
+Great Ball
+$
+600
+Heal Ball
+$
+300
+Nest Ball
+$
+1,000
+Timer Ball
+$
+1,000
+Center-right checkout
+Potion
+$
+200
+Antidote
+$
+200
+Paralyze Heal
+$
+300
+Burn Heal
+$
+300
+Ice Heal
+$
+100
+Awakening
+$
+100
+Repel
+$
+400
+Right checkout
+Strange Souvenir
+$
+3,000
+The
+Veteran
+behind the far-left counter does not offer anything for sale, but only suggests returning to him after becoming the strongest Trainer in Alola.
+A clerk near the far-left counter gives out one random type of Berry per day. Possible varieties include
+Tamato Berry
+,
+Rawst Berry
+,
+Oran Berry
+, and
+Bluk Berry
+.
+There is a
+Hypno
+standing farther back near the western door. A note on its chest indicates that it is down on its luck. Donate
+$
+1,000 to help him out and the costumed man rewards your generosity with
+TM44
+(
+Rest
+).
+There is a boy with his
+Drifloon
+on the east side of the building. It turns out to be the same Drifloon that you saved from
+Team Skull
+on
+Route 6
+, and gives you a
+Lemonade
+as thanks.
+Route 7
+Route 7
+Route 7
+spans the northeast part of
+Akala Island
+. The sweltering conditions make anyone in the area begin to sweat from the heat of the volcano. The path connects
+Route 6
+with
+Wela Volcano Park
+to the west and
+Route 8
+to the north.
+Trainers
+Trainer
+Pokémon
+Requires Lapras Paddle or Sharpedo Jet
+Swimmer
+Dakota
+Reward:
+$
+456
+Surskit
+♂
+Lv.
+19
+No item
+Dewpider
+♂
+Lv.
+19
+No item
+Swimmer
+Tiare
+Reward:
+$
+456
+Alomomola
+♀
+Lv.
+19
+No item
+Swimmer
+Casey
+Reward:
+$
+456
+Mareanie
+♂
+Lv.
+19
+No item
+Swimmer
+Vanessa
+Reward:
+$
+456
+Shellder
+♀
+Lv.
+18
+No item
+Corsola
+♀
+Lv.
+19
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Ambush encounters
+Diglett
+Alolan Form
+Diglett
+S
+M
+Dirt cloud
+16-19
+100%
+Surfing
+Tentacool
+Tentacool
+S
+M
+Surfing
+16-19
+30%
+Finneon
+Finneon
+S
+M
+Surfing
+16-19
+30%
+Wingull
+Wingull
+S
+M
+Surfing
+16-19
+20%
+Pyukumuku
+Pyukumuku
+S
+M
+Surfing
+16-19
+20%
+Fishing
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-19
+79%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-19
+20%
+Staryu
+Staryu
+Starmie
+S
+M
+Fishing
+10-19
+1%
+Fishing at the bubbling spot
+Magikarp
+Magikarp
+Gyarados
+S
+M
+Fishing
+10-19
+60%
+Wishiwashi
+Wishiwashi
+S
+M
+Fishing
+10-19
+20%
+Staryu
+Staryu
+Starmie
+S
+M
+Fishing
+10-19
+20%
+Exclusively from
+Island Scan
+Spheal
+N/A
+S
+M
+Surfing
+19
+One
+Mo
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Net Ball
+South of the Pokémon Breeder on the beach
+(hidden, reappears occasionally)
+S
+M
+Pearl
+South end of the north half of the beach, near the black rock (requires Lapras Paddle or Sharpedo Jet)
+(hidden, reappears occasionally)
+S
+M
+Max Repel
+End of the rocky path on the north side of the beach (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Antidote
+On the ocean floor to the northeast, near Swimmer Casey (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+TM73
+(
+Thunder Wave
+)
+On the island, west of the fishing spot (requires Lapras Paddle or Sharpedo Jet)
+S
+M
+Zygarde Cell
+Southeast end of the rock formation on the edge of the northern beach
+S
+M
+Wela Volcano Park
+Wela Volcano Park
+Wela Volcano Park
+consists of a large mountain with steep paths and wastelands. Several hardy Pokémon species can be found across the rugged terrain. The volcano's peak is the site of Captain Kiawe's trial.
+Trainers
+Trainer
+Pokémon
+Sightseer
+Mariah
+Reward:
+$
+1,140
+Meowth
+♀
+Lv.
+19
+No item
+Ace Trainer
+Jim
+Reward:
+$
+1,428
+Kadabra
+♂
+Lv.
+21
+No item
+Hiker
+Calhoun
+Reward:
+$
+608
+Roggenrola
+♂
+Lv.
+18
+No item
+Machop
+♂
+Lv.
+19
+No item
+Available Pokémon
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Fletchling
+Fletchling
+S
+M
+Grass
+16-19
+30%
+Salandit
+Salandit
+S
+M
+Grass
+16-19
+30%
+Cubone
+Cubone
+Kangaskhan
+S
+M
+Grass
+16-19
+24%
+Magby
+Magby
+Magmar
+S
+M
+Grass
+16-19
+15%
+Kangaskhan
+Kangaskhan
+S
+M
+Grass
+16-19
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Hyper Potion
+Southeast part of the first level up from the Route 7 entrance
+S
+M
+Charcoal
+Third step down from the trial gate
+S
+M
+TM39
+(
+Rock Tomb
+)
+Near the "most charming" Seismic Sister, end of a narrow path on the cliff's edge
+S
+M
+Burn Heal
+Above the step next to the "cutest" Seismic Sister, farther down the volcano side from the "most charming" sister
+S
+M
+Zygarde Cell
+In the inner corner on the second step down from the trial gate
+S
+M
+Totem's Den
+Firium Z
+Reward from Kiawe upon completing his trial
+S
+M
+Quick Ball
+From Kiawe, after completing his trial
+S
+M
+Charizard Glide
+From Kiawe, after completing his trial
+S
+M
+Trek through the tall grass and up the first ramp to find a
+Hyper Potion
+to the south. Continue up the slope to battle Sightseer Mariah. Farther to the north, there is a young woman standing near a cave entrance. She calls herself the "cutest" of the three Seismic Sisters, and informs you that the cave next to her leads directly to the top of the volcano. Exit the cave to find yourself outside the trial site. The woman at the entrance will heal your Pokémon to full health. Before heading to the peak, it is best to explore the other side of the volcano. Take the path down the left side of the mountain to find a
+Zygarde Cell
+, a
+Charcoal
+, and the "prettiest" Seismic Sister. The tunnel here leads to the right side of the volcano and the "most charming" Seismic Sister. Head down this side of the volcano to fight Ace Trainer Jim and collect
+TM39
+(
+Rock Tomb
+) on the cliff's edge. Battle Hiker Calhoun and continue down the series of ledges to reach a
+Burn Heal
+, then take the first tunnel again to the summit.
+Captain Kiawe's Trial
+Enter the Captain's Gate and climb to the peak to begin
+Kiawe
+'s trial. He and his
+Marowak
+have studied the ancient dances passed down in
+Alola
+for generations, and his trial is meant to test the challenger's powers of observation. There will be one dance performance, then another, and the challenger must identify the difference between them.
+For the first set of dances, the correct answer is the middle Pokémon, though any answer given results in a battle with Marowak.
+Types:
+Fire
+Ghost
+Ability:
+Cursed Body
+Held item:
+None
+Marowak
+♂
+/
+♀
+Lv.
+18
+Flame Wheel
+Fire
+Physical
+--
+Bone Club
+Ground
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Growl
+Normal
+Status
+--
+For the second set of dances, Hiker David appears and photobombs the second dance. Avoid using contact moves, as his
+Magmar
+can
+burn
+nearly anything that touches it due to its
+Flame Body
+Ability.
+Hiker
+David
+Wela Volcano Park
+Sun and Moon
+Reward:
+$
+608
+Type:
+Fire
+Unknown
+Ability:
+Flame Body
+Held item:
+None
+Magmar
+♂
+Lv.
+19
+Smokescreen
+Normal
+Status
+--
+Feint Attack
+Dark
+Physical
+--
+Fire Spin
+Fire
+Special
+--
+Clear Smog
+Poison
+Special
+--
+For the final set of dances, every option refers to the Totem Pokémon.
+VS Totem Salazzle
+When the battle begins, the Totem
+Salazzle
+is surrounded by an aura that raises its
+Special Defense
+by one stage. As in other trials, it is recommended to focus on the Totem Pokémon first and any allies afterward. Salazzle has a unique
+Fire
+/
+Poison
+typing and a signature Ability,
+Corrosion
+. This lets it use
+Toxic
+to
+badly poison
+any Pokémon, even
+Poison
+and
+Steel
+types that would normally be immune. Adding insult to injury,
+Venom Drench
+then lowers the
+Attack
+,
+Special Attack
+, and
+Speed
+of a poisoned target by one stage. Taking Salazzle down quickly with super-effective damage is the key to avoiding any lingering ailments.
+Wishiwashi
+of level 20 or more has access to the increased stats of its School Form, and like
+Brionne
+, can deal serious damage with
+Waterium Z
+and
+Hydro Vortex
+. Other viable options include the Ground-type
+Mudbray
+and the Psychic-type
+Kadabra
+. Use
+Ground
+-,
+Rock
+-,
+Water
+-, and
+Psychic-type
+attacks for best results.
+Totem Salazzle
+Ally Salandit
+Aura:
+Sp. Def
++1
+Types:
+Poison
+Fire
+Ability:
+Corrosion
+Held item:
+Petaya Berry
+Salazzle
+♀
+Lv.
+22
+Torment
+Dark
+Status
+--
+Venom Drench
+Poison
+Status
+--
+Toxic
+Poison
+Status
+--
+Flame Burst
+Fire
+Special
+--
+Types:
+Poison
+Fire
+Ability:
+Corrosion
+Held item:
+None
+Salandit
+♂
+Lv.
+20
+Poison Gas
+Poison
+Status
+--
+Venoshock
+Poison
+Special
+--
+Taunt
+Dark
+Status
+--
+Scratch
+Normal
+Physical
+--
+After the Totem Pokémon and its allies are defeated, Kiawe rewards you with the
+Firium Z
+and teaches you the pose for
+Inferno Overdrive
+. He also gives you ten
+Quick Balls
+and registers a new service in your Ride Pager—
+Charizard Glide
+! Summoning Charizard will let you quickly return to any area visited previously. Try it out now and use Charizard to fly back to
+Route 7
+. Speak to the trial guide near the gate and proceed north to
+Route 8
+.
+Having registered Charizard Glide in the Ride Pager, it is now possible to visit
+Poké Pelago
+. Accessed through the menu, Pokémon stored in the PC can visit these islands to relax and play.
+← Part 8
+Route 5 (South), Brooklet Hill, Route 6
+Sun and Moon
+walkthrough
+Route 8, Lush Jungle, Route 5 (North)
+Part 10 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

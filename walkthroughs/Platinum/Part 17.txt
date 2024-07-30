@@ -1,0 +1,1115 @@
+Part: Part 17
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_17
+Keywords: Spear Pillar, Distortion World
+
+Walkthrough Text:
+Spear Pillar
+Spear Pillar
+Team Galactic
+Trainer
+Pokémon
+Galactic Grunt
+Reward:
+$
+6080
+Croagunk
+♂
+Lv.
+39
+No item
+Croagunk
+♂
+Lv.
+43
+No item
+Galactic Grunt
+Reward:
+$
+6080
+Stunky
+♀
+Lv.
+41
+No item
+Glameow
+♀
+Lv.
+41
+No item
+When you first arrive at
+Spear Pillar
+, you will have to deal with two Galactic Grunts in a
+Double Battle
+. Afterwards and you'll find that both
+Mars
+and
+Jupiter
+wish to challenge you. Luckily
+Barry
+appears, making this into a
+Multi Battle
+.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Stockpile
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+40
+Giga Drain
+Grass
+Special
+--
+Ingrain
+Grass
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Toxic
+Poison
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+40
+Pursuit
+Dark
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+42
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+44
+Close Combat
+Fighting
+Physical
+--
+Flame Wheel
+Fire
+Physical
+--
+Punishment
+Dark
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Stockpile
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+40
+Fire Blast
+Fire
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+40
+Giga Drain
+Grass
+Special
+--
+Ingrain
+Grass
+Status
+--
+GrassWhistle
+Grass
+Status
+--
+Toxic
+Poison
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+42
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+44
+Aqua Jet
+Water
+Physical
+--
+Swagger
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+P
+K
+M
+N
+Trainer
+Barry
+Spear Pillar
+Platinum
+Reward:
+N/A
+Type:
+Normal
+Unknown
+Ability:
+Pickup
+Held item:
+None
+Munchlax
+♂
+Lv.
+40
+Body Slam
+Normal
+Physical
+--
+Screech
+Normal
+Status
+--
+Stockpile
+Normal
+Status
+--
+Swallow
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+40
+Fire Blast
+Fire
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Take Down
+Normal
+Physical
+--
+Stomp
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+42
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+40
+Pursuit
+Dark
+Physical
+--
+Iron Tail
+Steel
+Physical
+--
+Aqua Jet
+Water
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+42
+Quick Attack
+Normal
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Take Down
+Normal
+Physical
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+44
+Leech Seed
+Grass
+Status
+--
+Bite
+Dark
+Physical
+--
+Synthesis
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Half of his team that will fight alongside you are determined by which starter he picked at the beginning of the game, but naturally all of them excluding
+Munchlax
+have evolved all the way to their final forms.
+Commander
+and
+Commander
+Mars
+Jupiter
+Spear Pillar
+Platinum
+Reward:
+$
+7360
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+44
+Gyro Ball
+Steel
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+44
+Air Cutter
+Flying
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Bite
+Dark
+Physical
+--
+Poison Fang
+Poison
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Thick Fat
+Held item:
+Sitrus Berry
+Purugly
+♀
+Lv.
+46
+Shadow Claw
+Ghost
+Physical
+--
+Slash
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Hypnosis
+Psychic
+Status
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzor
+Lv.
+44
+Gyro Ball
+Steel
+Physical
+--
+Extrasensory
+Psychic
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Reflect
+Psychic
+Status
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♀
+Lv.
+44
+Sludge Bomb
+Poison
+Special
+--
+Air Cutter
+Flying
+Special
+--
+Giga Drain
+Grass
+Special
+--
+Mean Look
+Normal
+Status
+--
+Types:
+Poison
+Dark
+Ability:
+Stench
+Held item:
+Sitrus Berry
+Skuntank
+♀
+Lv.
+46
+Poison Jab
+Poison
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Night Slash
+Dark
+Physical
+--
+SmokeScreen
+Normal
+Status
+--
+Cyrus uses the Red Chain
+A mysterious Pokémon appears
+Both of the Commanders use
+Bronzor
+,
+Golbat
+, and their signature Pokémon:
+Purugly
+in Mars's case, and
+Skuntank
+in Jupiter's case. Quickly take down both Bronzor before they can use
+Reflect
+or
+Light Screen
+to reduce your attacks' damage. A powerful
+Fighting-type
+and
+Ground-type
+move will take out Purugly and Skuntank respectively, while an
+Electric
+- or
+Rock
+-type attack will take out their Golbat.
+After the battle, Barry heals your Pokémon before leaving. You'll watch as
+Cyrus
+uses the
+Red Chain
+to summon both
+Dialga
+and
+Palkia
+in preparation to destroy the world, then recreate it in his image.
+Uxie
+,
+Mesprit
+, and
+Azelf
+then appear. While Cyrus says it's pointless since the
+Lake guardians
+can't match his power, the ground opens up! Another mysterious Pokémon has appeared. Cyrus finds this amusing and then all of a sudden both he and the Pokémon disappear, leaving a portal behind.
+Cynthia
+then arrives and you'll both watch as the three Lake guardians enter the portal. She then reveals that the mysterious Pokémon is
+Giratina
+and according to legends, it lives in a mysterious
+Distortion World
+. The portal connects to it, and if it isn't closed, it will spread and consume the whole world. Once you accept Cynthia's offer, both of you will head to the Distortion World. Also, at this point both Dialga and Palkia are counted as seen in your Pokédex.
+Distortion World
+Distortion World 1F
+Distortion World B1F
+Distortion World B2F
+Distortion World B3F
+Distortion World B5F
+Distortion World lower B4F
+Distortion World upper B4F
+Distortion World B6F
+Distortion World B7F
+You'll quickly discover that in the
+Distortion World
+, gravity works a little differently sometimes! Be careful when going through the Distortion World as it is easy to get lost, not to mention there are plenty of confusing puzzles.
+Starting from 1F, follow
+Cynthia
+to a small hovering square slab where she will mention stepping on the gray markers. This will cause it to descend to B1F; apparently these square slabs serve like elevators here in the Distortion World. At B1F, follow Cynthia across the small floating platforms to find another area with a platform hanging sideways above you.
+Mesprit
+will appear before floating away. Stand on the gray marker to manipulate gravity so you can stand on this floating platform. Travel across to the other side and use the gray marker there to jump off this floating platform and then follow the path that will take you to the elevator-platform down to B2F.
+On B2F, head to the first platform and stand on the gray marker located at the top to activate this platform and reach the next one. On the next platform, take the obvious marker on the left to reach another special floating platform with sideways gravity, where you will find Cynthia. After talking with her, follow the path that will take you to more moving platforms. Touch each correct marker in this order to progress: right, right, down, left (don't hop to the nearby platform in this area or you'll just find a dead end). Then, hop across the nearby platform in front of you and hit the upper marker, then the right-hand one, and lastly the center to activate the elevator-platform that leads to B3F.
+On B3F, head towards the lower gray marker on the elevator to expose some hidden platforms and travel down to meet
+Cyrus
+. He reveals that the shadowy Pokémon abandoned him and went further below, and talks about DNA and how one thing cannot exist without the other. He theorizes that if someone were to defeat the shadowy Pokémon, this world should disappear and no longer interfere with his plans. For the puzzle on this floor, you must touch the gray markers on the floor to expose hidden platforms. Only one path will get you to B5F, and platforms here sometimes become visible or invisible.
+First, head for the marker on the upper right and it will expose a hidden platform. Next, travel to the marker you see below you by traveling right, then down to find another hidden platform. Next travel right and you will reach the elevator that descends to B5F. On B5F, from the elevator, continue forward until you see
+Uxie
+, then use
+Strength
+to push a boulder to the platform below you on B6F. Then, head downwards to the elevator that leads to B6F, but do not take it yet. Instead, use the ledge that will take you to a platform to the left and Mesprit will appear. Here, you will have to push another boulder down to B6F. Then, take the elevator that will take you to B4F. Continue navigating forward and carefully go through the path of trees and rocks that can turn visible or invisible to reach a new elevator. That will take you to a new area of B3F. From here, use the nearby gray marker. Then, travel left then down to find an invisible platform, then travel right, then right again to get to an elevator that leads to another area of B4F.
+On your way down, you will see Cyrus again, but this time he mysteriously disappears.
+Surf
+across the water, then touch the gray markers to jump to a platform with sideways gravity. Then, use another set that leads to another platform with upside-down gravity. Now use Surf again and travel down the waterfall. This should get you back to B5F, where you can find
+Azelf
+along with another boulder to push down to B6F. Now, head to the nearby elevator and this time use it to descend to B6F. The secret to B6F's puzzle is to carefully push each of the boulders you pushed down from B5F into the special holes where each of the Lake Guardians are. If you mess up, you'll have to push them down from the various floors again. Now, go back to the elevator and travel south from it to find Cynthia and talk to her. If you've completed the puzzle correctly, a new elevator will appear that you can use to travel down to B7F.
+Here, you will both encounter Cyrus again, and Cynthia asks why he is so determined to create a new world. Cyrus refuses to listen. Talk to him, and he will challenge you to a battle.
+Galactic Boss
+Cyrus
+Distortion World
+Platinum
+Reward:
+$
+8640
+Types:
+Dark
+Fire
+Ability:
+Flash Fire
+Held item:
+None
+Houndoom
+♂
+Lv.
+45
+Flamethrower
+Fire
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Will-O-Wisp
+Fire
+Status
+--
+Thunder Fang
+Electric
+Physical
+--
+Types:
+Dark
+Flying
+Ability:
+Insomnia
+Held item:
+None
+Honchkrow
+♂
+Lv.
+47
+Drill Peck
+Flying
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Heat Wave
+Fire
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+46
+Cross Poison
+Poison
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Toxic
+Poison
+Status
+--
+Confuse Ray
+Ghost
+Status
+--
+Types:
+Water
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Gyarados
+♂
+Lv.
+46
+Waterfall
+Water
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+Sitrus Berry
+Weavile
+♂
+Lv.
+48
+Night Slash
+Dark
+Physical
+--
+Ice Punch
+Ice
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Fake Out
+Normal
+Physical
+--
+Cyrus is a lot tougher than in the last battle, since he added two Pokémon and his
+Sneasel
+has evolved. A fast
+Electric-type
+such as
+Jolteon
+is useful in this battle, since half of his team is weak to Electric-type moves. Additionally, his entire team is weak to
+Rock
+attacks. His first Pokémon,
+Houndoom
+, is quite fast and possesses
+Thunder Fang
+to counter
+Water-types
+.
+Will-O-Wisp
+will inflict a
+burn
+if it hits, halving your Pokémon's Attack stat. Take it down as quickly as you can and it won't be a problem. Be careful when Cyrus send out his
+Gyarados
+, as it can threaten Electric and
+Grass
+Pokémon with its various attacks.
+Giga Impact
+will do a lot of damage, but Gyarados must rest for one turn after using it.
+Crobat
+'s Speed is a problem, especially with its ability to use the status moves
+Toxic
+and
+Confuse Ray
+. Simply taking it out with super effective attacks and firstly
+paralyzing
+it to cut down its Speed are both valid strategies. Against
+Honchkrow
+, the same strategy as before will work; just remember it uses
+Heat Wave
+to counter
+Ice-types
+and
+Steel-types
+. His main Pokémon,
+Weavile
+, is incredibly fast and can prevent your Pokémon from moving, not just from
+Fake Out
+on its first turn, but also with
+Ice Punch
+, which has a chance of
+freezing
+your Pokémon. A powerful
+Fighting-type
+move should easily defeat it, though Rock, Steel, or
+Fire-type
+moves can also help.
+After the battle, Cyrus will think it is hopeless since if
+Giratina
+is defeated, this world will disappear. However, Cynthia points out the problems are due to the Distortion World being forcibly merged with the real one, and by defeating Giratina the connection can be severed. Cynthia will then heal your team. Before going forward to face Giratina, you need to decide if you want to catch it now or later.
+Save your game
+before using the platforms to reach it. Once you move forward and see Giratina fly by, move forward again and then some invisible platforms will become visible, allowing you to reach Giratina.
+Catching Giratina
+Giratina's area of the Distortion World
+Types:
+Ghost
+Dragon
+Ability:
+Levitate
+Held item:
+None
+Giratina
+Lv.
+47
+Ominous Wind
+Ghost
+Special
+--
+AncientPower
+Rock
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Shadow Force
+Ghost
+Physical
+--
+The
+Dusk Ball
+is the best Poké Ball variant to use in this fight, just make sure your game is set anywhere between 8:00 p.m. to 3:59 a.m to make use of its 3.5× catch rate modifier.
+Ultra Balls
+and
+Timer Balls
+can also be useful. It can take 10, 20, or even 30 Poké Balls to catch Giratina, so prepare for a long battle. Since you saved beforehand, you can turn off your game if something goes wrong and get another chance. Unlike Dialga and Palkia, Giratina's catch rate remained 3 (0.4% when using Poké Ball at full health).
+One thing which makes
+Origin Forme
+Giratina a difficult opponent is that in this form, it specializes more in offense over defense. If you have a status move that inflicts
+paralysis
+or
+sleep
+, you can use them to make Giratina easier to catch. Avoid or minimize use of
+Ice
+-,
+Ghost
+-,
+Dragon
+- or
+Dark-type
+moves as they carry the risk of knocking it out. After reducing its HP bar to the red zone, a good tactic is to bring out a Steel-type that has good defenses and resistances to all of Giratina's attacks. Be sure to keep an eye on how many turns have passed, though, as Giratina only has 35 PP, and it will start to use struggle after it uses all its PP up.
+Unlike in the previous Pokémon games, you do not have to catch Giratina right away, since
+legendaries
+that you failed to catch will reappear each time you defeat the
+Elite Four
+and
+Pokémon Champion
+during your playthrough of this game. If Giratina’s attacks are too much for you to deal with right now, just defeat it. You can face it later in
+Turnback Cave
+in its
+Altered Forme
+, which is more defense-oriented stat-wise. Also, if you run out of Poké Balls or so many turns of battle elapse that Giratina is forced to
+Struggle
+, it would also be okay to either reset (assuming you saved beforehand) or knock it out and try again later on.
+After the battle, Cynthia is happy that Giratina understood your intentions and will point out a nearby portal that will take you back to your world. Cyrus then appears and is surprised that Giratina was defeated or captured and that his perfect world will never be complete. After he and Cynthia express their different views about the world, Cyrus leaves, convinced they will never understand each other. Now enter the portal, which will take you to
+Sendoff Spring
+, the fourth lake of
+Sinnoh
+.
+← Part 16
+Mt. Coronet (south)
+Platinum
+walkthrough
+Sendoff Spring to Sunyshore City
+Part 18 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

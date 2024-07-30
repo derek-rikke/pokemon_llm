@@ -1,0 +1,43 @@
+Game: X_and_Y
+Part: 16
+Keywords: Vaniville Town, Lumiose City, Kiloude City, Friend Safari, Battle Maison, Upgrading the Mega Ring, Looker Bureau
+
+## Part 16 Walkthrough: Vaniville Town to Looker Bureau
+
+### Vaniville Town
+- **Homecoming**: After the credits, head downstairs to speak with Mom, who tells you to meet Professor Sycamore at Lumiose Station.
+- **Trade with Shauna**: You can trade with Shauna for a Pokémon she offers (level 5 with a predetermined Nature).
+
+### Lumiose City
+- **Sycamore Pokémon Lab**: Get the **Poké Radar** from the scientist on the second floor.
+- **Café Soleil**: Meet Diantha and trade for a **Ralts** (level 5, Modest Nature, holding Gardevoirite).
+- **Lumiose Station**: After talking to Sina and Dexio, receive the **TMV Pass** to access Kiloude City.
+
+### Kiloude City
+- **Battle Maison**: Located in the center; participate for **Battle Points** and streaks.
+- **Friend Safari**: Access Pokémon not found elsewhere by registering friend codes.
+- **Important Items**: 
+  - Max Revives from a Schoolgirl (correct answer about Swirlix/Spritzee).
+  - Vs. Recorder from a Monsieur outside the station.
+  - Various TMs and items from NPCs in the town.
+
+### Rival Battle
+- After the Battle Maison, battle Serena/Calem (level 66-70 Pokémon). Defeating them rewards you with an **Absolite** and hints about the Mega Ring.
+
+### Anistar City
+- **Mega Ring Upgrade**: Meet Sycamore at the sundial to upgrade the Mega Ring, allowing it to react to nearby Mega Stones during a specific time window.
+
+### Looker Bureau
+- **Chapter 1**: Help Looker find **5 Looker Tickets** hidden throughout Lumiose City.
+- **Chapter 2**: Investigate kids in the back alley near the restaurant and defeat them to meet Emma and her Espurr.
+- **Chapter 3**: Help Looker face the Lumiose Gang, who stole Pokémon.
+- **Chapter 4**: Investigate a museum vandalism; engage in battles with suspicious characters to uncover the thief.
+- **Chapter 5**: Fight Malva in Hotel Richissime, who reveals the truth about Emma's connection to a criminal, leading to the confrontation with Xerosic.
+
+### Final Chapter
+- After defeating Xerosic and helping Emma, she becomes the new head of the Looker Bureau, with Looker leaving to continue his work.
+
+### Epilogue
+- You can battle Emma as Essentia at the Looker Bureau on specific days for rewards.
+
+This concise summary covers essential instructions, key battles, and item locations for progressing through the game.

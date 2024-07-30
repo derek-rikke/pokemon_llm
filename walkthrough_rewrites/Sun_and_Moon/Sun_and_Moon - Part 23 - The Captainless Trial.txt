@@ -1,0 +1,74 @@
+Game: Sun_and_Moon
+Part: 23
+Keywords: The Captainless Trial
+
+### Concise Walkthrough: Vast Poni Canyon - Trial 7: The Captainless Trial
+
+#### Overview
+After completing the Grand Trial of Poni Island, proceed through Vast Poni Canyon towards the Altar of the Sunne/Moone. Expect tough battles against various trainers.
+
+#### Key Locations:
+1. **Canyon (Initial Area)**
+   - Lillie gives you a **Max Revive** and heals your team.
+   - Find a **Max Potion** near the fallen tree.
+
+2. **Cave 1**
+   - Battle **Veteran Harry** (Torkoal, Arcanine) and **Backpacker Perdy** (Whimsicott).
+   - Use **Tauros Charge** to break rocks for an **Elixir** and **Max Potion**.
+   - Face **Ace Duo Kent and Aimee** (Alolan Sandslash, Ninetales).
+
+3. **Upper Canyon 1**
+   - Collect a **Revive** in tall grass and an **X Attack** near the cliff.
+
+4. **Cave 2 (North)**
+   - Obtain a **Zygarde Cell** and battle **Hiker Zachary** (Archeops, Rampardos).
+
+5. **Cave 2 (South)**
+   - Fight **Veteran Lynn** (Starmie, Shiinotic, Talonflame) and collect an **Escape Rope**.
+
+6. **Upper Canyon 2**
+   - Continue to the wooden bridge where Lillie heals you.
+
+7. **Cave 3 (Upper)**
+   - Collect a **Zygarde Cell** and **Full Restore**.
+   - Solve boulder puzzles to progress.
+
+8. **Upper Canyon 4**
+   - Meet **Mina**, who gives you **Fairium Z**.
+   - Battle **Punk Girl Anna** and **Punk Guy Adam**.
+
+#### Farthest Tunnel & The Captainless Trial
+1. **Tunnel Entrance**
+   - An ancient stone monument indicates a trial site.
+
+2. **Trial Battles**
+   - Face wild **Jangmo-o** and **Hakamo-o** before reaching the end of the tunnel.
+
+3. **VS Totem Kommo-o**
+   - **Totem Kommo-o** (Level 45) appears with allies Hakamo-o and Scizor.
+   - Use **Fairy** moves for effectiveness; **Flying**, **Psychic**, **Ice**, and **Dragon** moves also work well.
+   - Defeated, Totem Kommo-o drops **Dragonium Z**, enhancing Dragon-type moves to **Devastating Drake**.
+
+#### Items to Collect
+- **Max Revive**: Given by Lillie.
+- **Max Potion**: Near cave entrance.
+- **Elixir**: In Cave 1.
+- **Zygarde Cells**: In Cave 2 (North, Upper) and Cave 3 (Upper).
+- **Fairium Z**: From Mina.
+
+#### Trainer Battles Summary
+- **Veteran Harry**: Torkoal, Arcanine.
+- **Backpacker Perdy**: Whimsicott.
+- **Ace Duo Kent and Aimee**: Alolan Sandslash, Ninetales.
+- **Hiker Zachary**: Archeops, Rampardos.
+- **Veteran Lynn**: Starmie, Shiinotic, Talonflame.
+- **Ace Trainer Junko**: Lilligant, Weavile.
+- **Scientist Ikaika**: Muk, Magnezone.
+- **Punk Girl Anna**: Persian, Honchkrow.
+- **Punk Guy Adam**: Pangoro.
+- **Ace Trainer Hiroshi**: Absol, Lapras.
+- **Veteran Heather**: Stoutland, Klefki, Tsareena.
+- **Veteran Eric**: Granbull, Cloyster, Golem, Gengar.
+
+### Conclusion
+After completing the Captainless Trial, you will be prepared to move on to the next part of your adventure at the Altar of the Sunne/Moone.

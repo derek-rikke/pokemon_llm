@@ -1,0 +1,627 @@
+Part: Part 32
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_32
+Keywords: Back in Survival Area, Back to Stark Mountain, Catching Heatran, Route 228
+
+Walkthrough Text:
+Contents
+1
+Back in Survival Area
+2
+Back to Routes 226-227
+3
+Back to Stark Mountain
+3.1
+Entrance
+3.2
+Main Cavern
+3.3
+Back Room
+4
+Catching Heatran
+5
+Route 228
+Back in Survival Area
+Enter all of the houses, and you'll eventually find
+Buck
+and his grandfather. First, talk to Buck's grandfather and he'll tell you that the legendary Pokémon
+Heatran
+will be enraged if the
+Magma Stone
+is taken, and
+Stark Mountain
+will erupt! Next, talk to Buck. He finally knows that this is a serious matter and bolts off to put the Magma Stone back in its proper place.
+Make sure that you talk to Buck and his grandfather, heal your Pokémon and buy at least 40
+Dusk Balls
+before proceeding back to the mountain! Be aware that you'll be facing a Level 70 Legendary Pokémon. You will also need the HMs
+Surf
+,
+Rock Climb
+,
+Strength
+, and
+Rock Smash
+.
+Also, bring a Pokémon with
+Cut
+for the next step of the journey.
+Back to Routes 226-227
+Make sure that you talk to Buck and his grandfather, heal your Pokémon and buy at least 40 Dusk Balls before proceeding!
+Go through Routes 226-227 again.
+Back to Stark Mountain
+It should be easier to go through the volcano this time because you know where you're going.
+Entrance
+Go through the room as you did previously.
+Main Cavern
+Main Cavern
+Now that you're going through this room on your own, you're free to use Rock Climb now, so you should pick up all items in this room.
+Items (Main Cavern)
+Item
+Location
+Games
+Hyper Potion
+On a small boulder west of where you started teaming up with Buck
+(hidden)
+D
+P
+Calcium
+In the pit north of Bird Keeper Krystal and Black Belt Ray
+D
+P
+Revive
+On the small boulder northeast of Bird Keeper Krystal and Black Belt Ray
+(hidden)
+D
+P
+Full Heal
+On the small boulder west of Ace Trainers Abel & Monique
+(hidden)
+D
+P
+Zinc
+On the small boulder northeast of Ace Trainers Abel & Monique
+(hidden)
+D
+P
+Iron Ball
+End of the pit west of Psychics Chelsey & Sterling
+D
+P
+Iron
+On a small boulder southwest of Veteran Harlan
+(hidden)
+D
+P
+Max Revive
+Northwest of Veteran Harlan
+D
+P
+TM50
+(
+Overheat
+)
+South of Ace Trainers Stefan & Jasmin
+D
+P
+Flame Plate
+At the west end of the walkway south of TM50
+(hidden)
+D
+P
+Rare Candy
+At the end of the pit west of Ace Trainers Keenan & Kassandra
+D
+P
+Max Elixir
+South end of the pit northwest of Ace Trainers Abel & Monique (requires
+Rock Climb
+)
+D
+P
+Nugget
+Far northeast corner of the room (requires
+Rock Climb
+)
+D
+P
+Ultra Ball
+Atop the hill northwest of Bird Keeper Krystal and Black Belt Ray (requires
+Rock Climb
+)
+D
+P
+Back Room
+Back Room, with the furious Heatran
+Buck is nowhere to be seen, but a Pokémon is standing in front of you. That is the legendary Pokémon Heatran. Heatran looks angry...... no, it looks furious. With Heatran enraged, the volcano will erupt for sure and destroy everything on
+Battle Zone
+. Seems like it is too late......
+Wait, there is still one way to solve this mess and prevent the volcano from erupting. Guess what? You'll need to catch it. Another legendary Pokémon for you to catch!
+Available Pokémon (Back Room)
+Pokémon
+Games
+Location
+Levels
+Rate
+Heatran
+D
+P
+Pt
+Only one
+70
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Catching Heatran
+Make sure that you heal your Pokémon and save your game before proceeding!
+Types:
+Fire
+Steel
+Ability:
+Flash Fire
+Held item:
+None
+Heatran
+Lv.
+70
+Iron Head
+Steel
+Physical
+--
+Fire Spin
+Fire
+Special
+--
+Lava Plume
+Fire
+Special
+--
+Scary Face
+Normal
+Status
+--
+When you're ready, talk to Heatran, and the battle will start. Heatran is a
+Fire
+/
+Steel
+-type Pokémon, and is at Level 70.
+Ground-type
+moves deal significant damage to it, so be careful if you're unleashing something like
+Earthquake
+or
+Earth Power
+. Start off with moves that causes
+sleep
+or
+paralysis
+(do not bother with
+freeze
+— it will instantly defrost with Fire-type moves. Heatran is also immune to being
+burned
+and
+poisoned
+). Follow up with a
+Water
+- or
+Fighting
+-type move. Then, keep on damaging with weaker attacks until its HP bar is red. After that, keep throwing
+Dusk Balls
+(as you're in a cave, these work best) until you successfully catch it. It does not know its
+signature move
+,
+Magma Storm
+, but watch out for
+Lava Plume
+, which can still hurt a lot!
+Iron Head
+can also potentially hit you hard. Do not hesitate to heal your Pokémon often.
+Once you've caught Heatran, get yourself out of the volcano and continue to
+Route 228
+. From the T-junction of Routes 226 and 228, head east into the
+gate
+. Or, if you're not ready, Fly back to
+Survival Area
+first and heal up.
+Route 228
+Make sure that you heal your Pokémon and buy a lot of medicines before proceeding! You'll need to bring Pokémon with
+Cut
+,
+Surf
+and
+Rock Smash
+.
+Route 228
+Items
+Item
+Location
+Games
+Rare Candy
+A few steps below the northernmost sign near the route connector between Route 226 and Route 228
+(hidden)
+D
+P
+PP Up
+At the north end of the route, north of Ace Trainer Jose
+(hidden)
+D
+P
+Protector
+In the pit east of Ace Trainer Jose
+D
+P
+Shed Shell
+On the ledge northwest of the Move Tutor's house (requires
+Rock Smash
+)
+D
+P
+Iron
+Northeast of the Move Tutor's house
+D
+P
+Ultra Ball
+On a small rock southwest of the pond below the Move Tutor's house
+(hidden)
+D
+P
+TM37
+(
+Sandstorm
+)
+Southwest of the pair of Pokémon Rangers
+D
+P
+Stardust
+In the area of sand directly southwest of the pair of Pokémon Rangers
+(hidden)
+D
+P
+Shiny Stone
+At the end of a narrow bridge south of the pair of Pokémon Rangers
+D
+P
+Hondew Berry
+×2
+On the ledge north of
+Psychic
+Corbin
+D
+P
+Tamato Berry
+×2
+On the ledge north of
+Psychic
+Corbin
+D
+P
+Calcium
+At the south end of the route on the apparently empty hill with one big rock
+(hidden)
+D
+P
+Full Restore
+In the southernmost area of grass
+(hidden)
+D
+P
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Jose
+ナオキ
+Naoki
+Reward:
+$
+3300
+Golduck
+♂
+Lv.
+55
+No item
+Sandslash
+♂
+Lv.
+55
+No item
+Black Belt
+Davon
+フミヒト
+Fumihito
+Reward:
+$
+1320
+Mankey
+♂
+Lv.
+54
+No item
+Makuhita
+♂
+Lv.
+53
+No item
+Hariyama
+♂
+Lv.
+55
+No item
+Ace Trainer
+Ariana
+トシエ
+Toshie
+Reward:
+$
+3240
+Ambipom
+♀
+Lv.
+54
+No item
+Rapidash
+♀
+Lv.
+54
+No item
+Chansey
+♀
+Lv.
+54
+No item
+Dragon Tamer
+Keegan
+ソウマ
+Sōma
+Reward:
+$
+1856
+Gyarados
+♂
+Lv.
+58
+No item
+Pokémon Ranger
+Kyler
+マキオ
+Makio
+Reward:
+$
+3480
+Exeggcute
+♂
+Lv.
+52
+No item
+Ursaring
+♂
+Lv.
+58
+No item
+Pokémon Ranger
+Krista
+ユッコ
+Yukko
+Reward:
+$
+3360
+Trapinch
+♀
+Lv.
+54
+No item
+Vibrava
+♀
+Lv.
+56
+No item
+Ace Trainer
+Meagan
+サツキ
+Satsuki
+Reward:
+$
+3300
+Delcatty
+♀
+Lv.
+55
+No item
+Yanma
+♀
+Lv.
+55
+No item
+Psychic
+Corbin
+シュウ
+Shū
+Reward:
+$
+1760
+Shuppet
+♂
+Lv.
+53
+No item
+Duskull
+♂
+Lv.
+55
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Diglett
+D
+P
+Pt
+Grass
+23-25
+5%
+Dugtrio
+D
+P
+Pt
+Grass
+52-54
+30%
+Rhydon
+D
+P
+Pt
+Grass
+52-53
+20%
+20%
+10%
+Cacnea
+D
+P
+Pt
+Grass
+23-25
+5%
+Cacturne
+D
+P
+Pt
+Grass
+52-53
+20%
+20%
+40%
+Hippowdon
+D
+P
+Pt
+Grass
+52-54
+20%
+20%
+10%
+Fishing and Surfing
+Poliwag
+D
+P
+Pt
+Surfing
+20-30
+30%
+Poliwhirl
+D
+P
+Pt
+Surfing
+40-55
+70%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Barboach
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-55
+65%
+Whiscash
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+Special Pokémon
+Beldum
+D
+P
+Pt
+Swarm
+53
+40%
+Trapinch
+D
+P
+Pt
+Poké Radar
+25
+2%
+Vibrava
+D
+P
+Pt
+Poké Radar
+52-54
+20%
+Sandslash
+D
+P
+Pt
+Dual-slot
+LeafGreen
+23
+8%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+This is a desert route. Similar to
+Route 111
+in
+Hoenn
+, a sandstorm will be raging, reducing the visibility and affecting battles (
+Rock-type
+,
+Ground-type
+, and
+Steel-type
+Pokémon are immune to sandstorms). Don't worry, though—you don't need a pair of
+Go-Goggles
+, unlike in
+Pokémon Ruby, Sapphire
+and
+Emerald
+. Instead, have your
+Bicycle
+ready again. Some places in this route can only be accessed by riding
+up muddy slopes or across logs
+on your bicycle. Make sure to have your Poketch App Dowsing Machine ready as well, because a lot of items are hidden in the sand.
+You'll want to keep heading south to get to
+Route 229
+, but try to explore all over to get all of the items (a lot of which are rare or valuable) and fight all of the Trainers. Don't hesitate to heal if you need to.
+← Part 31
+Survival Area, Routes 226-227, Mt. Stark
+Diamond and Pearl
+walkthrough
+Route 229, Resort Area, Route 230, Back in Fight Area, Rival rematch
+Part 33 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

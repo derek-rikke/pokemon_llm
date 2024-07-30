@@ -1,0 +1,46 @@
+Game: Platinum
+Part: 20
+Keywords: Pokémon League (north)
+
+**Part 20: Pokémon League (North)**
+
+**Preparation:**
+- Before challenging the Pokémon League, use the Dowsing Machine near the waterfall to find the **Sky Plate** (hidden).
+- Ensure your team is balanced and trained to **Levels 54-58**. 
+- Stock up on **Hyper/Max Potions, Full Heals, Revives, and Full Restores**.
+
+**Battle with Barry:**
+- Before entering the Elite Four, you will face Barry. His Pokémon vary based on your starter choice:
+  - **Staraptor (Lv. 48)**: Use Electric or Rock moves.
+  - **Floatzel (Lv. 47)**: Use Electric-type moves.
+  - **Snorlax (Lv. 49)**: Use Fighting-type moves.
+  - **Heracross (Lv. 48)**: Use Flying-type moves.
+  - **Roserade (Lv. 47)**: Use Fire-type moves.
+- After defeating Barry, speak to the Ace Trainer to confirm your badges and enter the Elite Four.
+
+**Elite Four Battles:**
+
+1. **Aaron (Bug-type)**
+   - Key Pokémon: **Yanmega, Scizor, Heracross, Vespiquen, Drapion**.
+   - Strategy: Use **Flying-type moves** against Heracross and Vespiquen. Use **Fire-type moves** against Scizor and a **Ground-type** against Drapion.
+
+2. **Bertha (Ground-type)**
+   - Key Pokémon: **Whiscash, Gliscor, Golem, Hippowdon, Rhyperior**.
+   - Strategy: Use **Grass or Water-type moves** against Whiscash, Golem, and Rhyperior. **Ice-type** moves work well against Gliscor.
+
+3. **Flint (Fire-type)**
+   - Key Pokémon: **Houndoom, Flareon, Rapidash, Infernape, Magmortar**.
+   - Strategy: Quickly defeat Houndoom to avoid Sunny Day. Use **Water, Ground, or Rock-type moves** against Infernape and Magmortar. Beware of Overheat from Flareon.
+
+4. **Lucian (Psychic-type)**
+   - Key Pokémon: **Mr. Mime, Espeon, Bronzong, Alakazam, Gallade**.
+   - Strategy: Take out Mr. Mime quickly to avoid Light Screen. Use **Dark-type moves** against Espeon and Alakazam. **Fire-type moves** are effective against Bronzong.
+
+**Champion Cynthia:**
+- Key Pokémon: **Spiritomb, Roserade, Milotic, Lucario, Garchomp**.
+- Strategy: Use powerful attackers against Spiritomb, Fire/Flying against Roserade, and Electric against Milotic. Use **Fire, Ground, or Fighting-type** against Lucario. 
+- Be cautious with **Garchomp**, targeting its 4× Ice weakness but beware of its high Attack and Speed. Use moves wisely during its recharge after Giga Impact.
+
+After defeating Cynthia, you will be taken to the Hall of Fame, where your team will be recorded. 
+
+**Conclusion:** Prepare well, exploit type weaknesses, and maintain a balanced team to succeed in the Pokémon League.

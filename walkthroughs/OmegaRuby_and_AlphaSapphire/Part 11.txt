@@ -1,0 +1,1775 @@
+Part: Part 11
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_11
+Keywords: Route 119, Weather Institute, Fortree City, Fortree Gym
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 119
+1.1
+The Mimic Circle
+1.2
+Rest Stop
+1.3
+Weather Institute
+1.3.1
+Rest and Restore Health
+1.3.2
+Looking for Answers
+1.3.2.1
+VS Tabitha
+1.3.2.2
+VS Shelly
+1.3.3
+The Next Step
+1.4
+Rival Battle 3
+1.4.1
+Player chose Treecko
+1.4.2
+Player chose Torchic
+1.4.3
+Player chose Mudkip
+2
+Fortree City
+2.1
+Secret Base Guild
+2.2
+Catch Sight of Steven
+2.3
+Running Errands
+2.4
+Reveal Your Hidden Power
+2.5
+Time for a Trade
+3
+Route 120
+4
+Fortree City
+4.1
+Fortree Gym
+Route 119
+Route 119
+Known for its sweltering heat and sudden rainfalls, the spacious
+Route 119
+runs north from
+Route 118
+to
+Fortree City
+. The area is filled with patches of tall grass, which hide Trainer and wild Pokémon alike. The extreme weather conditions make this an ideal setting for the
+Weather Institute
+, located on the north end of this tropical rainforest.
+Trainers
+Trainer
+Pokémon
+Bug Catcher
+Greg
+Reward:
+$
+464
+Beautifly
+♂
+Lv.
+29
+No item
+Bug Catcher
+Doug
+Reward:
+$
+448
+Volbeat
+♂
+Lv.
+26
+No item
+Illumise
+♀
+Lv.
+28
+No item
+Bug Maniac
+Donald
+Reward:
+$
+840
+Beautifly
+♂
+Lv.
+30
+No item
+Bug Catcher
+Kent
+Reward:
+$
+464
+Dustox
+♂
+Lv.
+29
+No item
+Bug Maniac
+Brent
+Reward:
+$
+784
+Masquerain
+♂
+Lv.
+28
+No item
+Ninjask
+♂
+Lv.
+28
+No item
+Bug Maniac
+Taylor
+Reward:
+$
+840
+Dustox
+♂
+Lv.
+30
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+1,860
+Breloom
+♀
+Lv.
+31
+No item
+Brains & Brawn
+Jael & Kael
+Reward:
+$
+1,984
+Kadabra
+♂
+Lv.
+31
+No item
+Machoke
+♂
+Lv.
+31
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+1,740
+Seviper
+♂
+Lv.
+29
+No item
+Vigoroth
+♂
+Lv.
+29
+No item
+Bird Keeper
+Phil
+Reward:
+$
+1,200
+Doduo
+♂
+Lv.
+30
+No item
+Ninja Boy
+Takashi
+Reward:
+$
+464
+Koffing
+♂
+Lv.
+29
+No item
+Bird Keeper
+Hugh
+Reward:
+$
+1,200
+Swellow
+♂
+Lv.
+30
+No item
+Ninja Boy
+Yasu
+Reward:
+$
+432
+Ninjask
+♂
+Lv.
+27
+No item
+Requires
+Surf
+Fisherman
+Eugene
+Reward:
+$
+864
+Carvanha
+♂
+Lv.
+27
+No item
+Carvanha
+♂
+Lv.
+27
+No item
+Feebas
+♂
+Lv.
+27
+No item
+Requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+Ninja Boy
+Hideo
+Reward:
+$
+432
+Koffing
+♂
+Lv.
+27
+No item
+Koffing
+♂
+Lv.
+27
+No item
+Rematch
+Pokémon Ranger
+Catherine
+Reward:
+$
+2,100
+After earning the
+Feather Badge
+Breloom
+♀
+Lv.
+35
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+2,400
+After earning the
+Mind Badge
+Pikachu
+♀
+Lv.
+40
+No item
+Breloom
+♀
+Lv.
+40
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+2,640
+After earning the
+Rain Badge
+Breloom
+♀
+Lv.
+44
+No item
+Raichu
+♀
+Lv.
+44
+No item
+Pokémon Ranger
+Catherine
+Reward:
+$
+2,940
+After entering the
+Hall of Fame
+Breloom
+♀
+Lv.
+49
+No item
+Raichu
+♀
+Lv.
+49
+No item
+Excadrill
+♀
+Lv.
+49
+No item
+Brains & Brawn
+Jael & Kael
+Reward:
+$
+2,240
+After earning the
+Feather Badge
+Kadabra
+♂
+Lv.
+35
+No item
+Machoke
+♂
+Lv.
+35
+No item
+Brains & Brawn
+Jael & Kael
+Reward:
+$
+2,688
+After earning the
+Mind Badge
+Kadabra
+♂
+Lv.
+42
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Brains & Brawn
+Jael & Kael
+Reward:
+$
+2,944
+After earning the
+Rain Badge
+Alakazam
+♂
+Lv.
+46
+No item
+Machamp
+♂
+Lv.
+46
+No item
+Brains & Brawn
+Jael & Kael
+Reward:
+$
+3,392
+After entering the
+Hall of Fame
+Alakazam
+♂
+Lv.
+53
+No item
+Machamp
+♂
+Lv.
+53
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+1,980
+After earning the
+Feather Badge
+Seviper
+♂
+Lv.
+33
+No item
+Vigoroth
+♂
+Lv.
+33
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+2,400
+After earning the
+Mind Badge
+Seviper
+♂
+Lv.
+40
+No item
+Slaking
+♂
+Lv.
+40
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+2,640
+After earning the
+Rain Badge
+Seviper
+♂
+Lv.
+44
+No item
+Slaking
+♂
+Lv.
+44
+No item
+Pokémon Ranger
+Jackson
+Reward:
+$
+2,940
+After entering the
+Hall of Fame
+Seviper
+♂
+Lv.
+49
+No item
+Unfezant
+♂
+Male
+Lv.
+49
+No item
+Slaking
+♂
+Lv.
+49
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+OR
+AS
+Long grass
+22-25
+40%
+Linoone
+OR
+AS
+Long grass
+22-25
+40%
+Tropius
+OR
+AS
+Long grass
+23, 25
+15%
+Kecleon
+OR
+AS
+Long grass
+25
+5%
+Horde Encounter
+Oddish
+OR
+AS
+Horde Encounter
+12
+100%
+Surfing
+Tentacool
+OR
+AS
+Surfing
+20, 25
+65%
+Wingull
+OR
+AS
+Surfing
+20
+30%
+Pelipper
+OR
+AS
+Surfing
+25, 30
+5%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10
+60%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Feebas
+OR
+AS
+Fishing
+Old Rod
+15
+5%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Carvanha
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Feebas
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Special Pokémon
+Feebas
+OR
+AS
+Fishing
+Old Rod
+15
+100%
+Feebas
+OR
+AS
+Fishing
+Good Rod
+25
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Repel
+Southwest part of the southernmost patch of long grass
+OR
+AS
+Full Heal
+Southernmost long grass patch, south of a clearing near Pokémon Ranger Catherine (hidden)
+OR
+AS
+Zinc
+Northwest of Fisherman Eugene on the river's southern end (requires
+Surf
+)
+OR
+AS
+Hondew Berry
+×4
+Soft soil patch near the southern bridge
+OR
+AS
+Calcium
+Pathway to a Secret Spot, west of the lower waterfall (hidden, requires
+Acro Bike
+)
+OR
+AS
+PP Max
+Northwest of Pokémon Ranger Jackson, near a muddy slope
+OR
+AS
+Elixir
+East of the muddy slope, near Ninja Boy Takashi
+OR
+AS
+HM02
+(
+Fly
+)
+From May/Brendan outside Fortree City, after being defeated
+OR
+AS
+Max Ether
+Tiny strip of land at the base of the upper waterfall (hidden, requires
+Surf
+)
+OR
+AS
+Ultra Ball
+Patch of long grass east of the river, northeast of the lower waterfall (hidden, requires
+Surf
+)
+OR
+AS
+Leaf Stone
+Atop the lower waterfall, to the east (requires
+Surf
+)
+OR
+AS
+Pomeg Berry
+×6
+Soft soil patch near Fortree City
+OR
+AS
+Timer Ball
+Occasionally received from Pokémon Ranger Catherine after defeating her in a rematch
+OR
+AS
+Return trip
+Rare Candy
+Northwest of the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+)
+OR
+AS
+TM62
+(
+Acrobatics
+)
+Tiny island north of the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+)
+OR
+AS
+Leppa Berry
+×5
+Soft soil patch atop the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+)
+OR
+AS
+Sitrus Berry
+×3
+Soft soil patch atop the upper waterfall (requires
+Surf
+,
+Waterfall
+,
+Acro Bike
+)
+OR
+AS
+Venusaurite
+Southernmost patch of long grass, after catching or defeating
+Groudon
+OR
+/
+Kyogre
+AS
+OR
+AS
+The Mimic Circle
+A handful of Trainers in the southernmost patch of long grass like to copy the movements of any Trainer passing by, collectively earning them the "Mimic Circle" nickname. They move when you do, so outmaneuver them to pin them down and start battling. Each one remains in a certain area, which gives you a chance to corner them.
+Rest Stop
+A small cabin stands beyond the patch of long grass. Speak to the kind woman inside, and she'll let you and your Pokémon take a quick break to restore their health.
+Weather Institute
+Located on the north end of the route, the
+Weather Institute
+is a high-tech facility used to study and research the intricacies of weather patterns across
+Hoenn
+. This research seems to have attracted the attention of
+Team Magma
+OR
+/
+Team Aqua
+AS
+, as several Grunts have been stationed outside.
+Trainers
+Omega Ruby
+Trainer
+Pokémon
+1F
+Team Magma Grunt
+Reward:
+$
+1,160
+Mightyena
+♂
+Lv.
+29
+No item
+Golbat
+♂
+Lv.
+29
+No item
+Team Magma Grunt
+Reward:
+$
+1,200
+Koffing
+♂
+Lv.
+30
+No item
+2F
+Team Magma Grunt
+Reward:
+$
+1,120
+Numel
+♂
+Lv.
+28
+No item
+Mightyena
+♂
+Lv.
+28
+No item
+Team Magma Grunt
+Reward:
+$
+1,200
+Golbat
+♀
+Lv.
+30
+No item
+Alpha Sapphire
+Trainer
+Pokémon
+1F
+Team Aqua Grunt
+Reward:
+$
+1,120
+Mightyena
+♂
+Lv.
+28
+No item
+Golbat
+♂
+Lv.
+28
+No item
+Team Aqua Grunt
+Reward:
+$
+1,200
+Grimer
+♂
+Lv.
+30
+No item
+2F
+Team Aqua Grunt
+Reward:
+$
+1,120
+Carvanha
+♂
+Lv.
+28
+No item
+Mightyena
+♂
+Lv.
+28
+No item
+Team Aqua Grunt
+Reward:
+$
+1,200
+Golbat
+♀
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Castform
+OR
+AS
+Gift
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Mystic Water
+Held by Castform
+OR
+AS
+Rocky Helmet
+From a Scientist near the Vending Machine, after defeating Team Magma
+OR
+/Team Aqua
+AS
+OR
+AS
+Icy Rock
+From the receptionist, after defeating Team Magma
+OR
+/Team Aqua
+AS
+or receiving a Damp Rock
+OR
+AS
+Smooth Rock
+From the receptionist, after receiving an Icy Rock
+OR
+AS
+Heat Rock
+From the receptionist, after receiving a Smooth Rock
+OR
+AS
+Damp Rock
+From the receptionist, after receiving a Heat Rock
+OR
+AS
+Rest and Restore Health
+Visit the back room to find some Team Magma
+OR
+/Team Aqua
+AS
+Grunts searching the place. Before battling them, head to the northwest room to find some comfy beds and rest your Pokémon before continuing on. There is also a PC here in case you should need to reorganize your team.
+Looking for Answers
+When you reach the second floor, you find the source of the disturbance: Magma Admin
+Tabitha
+OR
+/Aqua Admin
+Shelly
+AS
+is harassing the researchers! Having doubts about his/her leader's plans, the Admin is here to have some questions answered. After looking through some research papers about extreme weather conditions from thousands of years ago, Tabitha
+OR
+/Shelly
+AS
+learns that his/her leader's plan to awaken the super-ancient Pokémon will bring about the same dramatic conditions across the region, and seems pretty shaken up by this. Seeking a reprieve from his/her misgivings, he/she drags you into battle!
+VS Tabitha
+Magma Admin
+Tabitha
+Weather Institute
+Omega Ruby
+Reward:
+$
+3,200
+Types:
+Fire
+Ground
+Ability:
+Solid Rock
+Held item:
+None
+Camerupt
+♂
+Lv.
+32
+Lava Plume
+Fire
+Special
+--
+Earth Power
+Ground
+Special
+--
+Curse
+Ghost
+Status
+--
+Take Down
+Normal
+Physical
+--
+VS Shelly
+Aqua Admin
+Shelly
+Weather Institute
+Alpha Sapphire
+Reward:
+$
+3,200
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Sharpedo
+♀
+Lv.
+32
+Swagger
+Normal
+Status
+--
+Ice Fang
+Ice
+Physical
+--
+Scary Face
+Normal
+Status
+--
+Slash
+Normal
+Physical
+--
+The Next Step
+After his/her defeat, the Admin reveals a bit more about the team's plans, including that the Leader is headed for
+Mt. Pyre
+, before he/she and the Grunts leave the building. As thanks for your help, one of the researchers even rewards you with a new Pokémon,
+Castform
+, which changes its type and appearance based on the current weather.
+The researchers then reveal that the cataclysmic weather conditions thousands of years ago were triggered by the two super-ancient Pokémon. When
+Groudon
+and
+Kyogre
+absorbed the abundant natural energy of the young planet, they were able to regain terrible, primal powers that they had lost, through a process known as
+Primal Reversion
+. It seems that Team Magma
+OR
+/Team Aqua
+AS
+plans to harness these powers to achieve their own destructive goals.
+As you leave, speak to the Scientist in the lobby to receive a
+Rocky Helmet
+. Speak to the receptionist as well to get an
+Icy Rock
+as a souvenir. Visit her on three subsequent days to receive either a
+Smooth Rock
+,
+Heat Rock
+, or
+Damp Rock
+each day.
+Rival Battle 3
+Leave the building and cross the upper bridge.
+May
+/
+Brendan
+catches up to you when you reach the nearest stairway. Your friend notices the
+Mega Bracelet
+around your wrist and wastes no time challenging you to a battle!
+Player chose
+Treecko
+Pokémon Trainer
+Brendan
+Route 119
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,320
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+31
+Water Pulse
+Water
+Special
+--
+Mist
+Ice
+Status
+--
+Brine
+Water
+Special
+--
+Rest
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+31
+Poison Powder
+Poison
+Status
+--
+Worry Seed
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Growth
+Normal
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Combusken
+♂
+Lv.
+33
+Double Kick
+Fighting
+Physical
+--
+Flame Charge
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Bulk Up
+Fighting
+Status
+--
+Player chose
+Torchic
+Pokémon Trainer
+Brendan
+Route 119
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,320
+Type:
+Grass
+Unknown
+Ability:
+Effect Spore
+Held item:
+None
+Shroomish
+♂
+Lv.
+31
+Poison Powder
+Poison
+Status
+--
+Worry Seed
+Grass
+Status
+--
+Giga Drain
+Grass
+Special
+--
+Growth
+Normal
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+31
+Clear Smog
+Poison
+Special
+--
+Ancient Power
+Rock
+Special
+--
+Flame Burst
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Water
+Ground
+Ability:
+Torrent
+Held item:
+None
+Marshtomp
+♂
+Lv.
+33
+Bide
+Normal
+Physical
+--
+Mud Bomb
+Ground
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Protect
+Normal
+Status
+--
+Player chose
+Mudkip
+Pokémon Trainer
+Brendan
+Route 119
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,320
+Type:
+Fire
+Unknown
+Ability:
+Magma Armor
+Held item:
+None
+Slugma
+♂
+Lv.
+31
+Clear Smog
+Poison
+Special
+--
+Ancient Power
+Rock
+Special
+--
+Flame Burst
+Fire
+Special
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Water Veil
+Held item:
+None
+Wailmer
+♂
+Lv.
+31
+Water Pulse
+Water
+Special
+--
+Mist
+Ice
+Status
+--
+Brine
+Water
+Special
+--
+Rest
+Psychic
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Grovyle
+♂
+Lv.
+33
+Pursuit
+Dark
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Agility
+Psychic
+Status
+--
+Slam
+Normal
+Physical
+--
+Once you defeat her/him, your friend rewards you with
+HM02
+(
+Fly
+). It's a strong move in battle and even more useful when used in the field, though you'll need to win the Gym Badge from the next city first. She/He then runs off, leaving you to continue on to
+Fortree City
+.
+Fortree City
+Fortree City
+Fortree City
+is located in an old-growth forest with many towering trees. These ancient arbors are so large that the residents were able to build cozy homes among their branches. The
+Fortree Gym
+can be found in the heart of the city, and the
+Secret Base Guild
+stands in the southeast part of town.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Skitty
+OR
+AS
+Trade
+Spinda
+30
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Super Repel
+In front of the Poké Mart (hidden)
+OR
+AS
+Stairs
+From a girl in the southwest house
+OR
+AS
+Magost Berry
+Northwest house; held by Skitit, the traded
+Skitty
+OR
+AS
+TM10
+(
+Hidden Power
+)
+From an old woman in the north-northwest house, after clearing her guessing game
+OR
+AS
+Proclamation
+From Aarune in the Secret Base Guild
+OR
+AS
+Tiny Mushroom
+Northwest of the Secret Base Guild, near the Pokémon Ranger (hidden)
+OR
+AS
+Return trip
+TM86
+(
+Grass Knot
+)
+Behind Fortree Gym (requires the
+Devon Scope
+)
+OR
+AS
+TM19
+(
+Roost
+)
+From Winona upon her defeat
+OR
+AS
+Mental Herb
+From the boy in the northeast house, after finding his
+Wingull
+in
+Mossdeep City
+OR
+AS
+Garchompite
+From Aarune, after the player's Secret Base reaches Platinum rank (requires 1,000 flags captured)
+OR
+AS
+Secret Base Guild
+Climb the ladder near the Poké Mart and head east across the rope bridge to reach the
+Secret Base Guild
+. Head inside to catch up with
+Aarune
+, who gives you a
+Proclamation
+to use in your base and tells you all about secret teams. Using this Decoration lets you choose the type of battles that take place in your Secret Base. If you haven't yet formed a team, he recommends doing so by inviting some Secret Pals to your Secret Base. After that, your team will be ranked here based on the number of flags collected from other player's bases. Reaching higher ranks will unlock more
+special skills
+for your
+Secret Pals
+, and reaching Platinum Rank lets your Secret Pals use two skills per day. Higher ranks also earn you more rewards from Aarune.
+Rank
+Requires
+Reward(s)
+Bronze Rank
+30 flags
+Blackboard
+Silver Rank
+100 flags
+Jukebox
+Gold Rank
+500 flags
+Mood Lighting
+Platinum Rank
+1,000 flags
+Confetti Ball
+,
+Garchompite
+The Guild features two shops that offer Decorations for your Secret Base. The Lass sells chairs and desks, while the Schoolkid offers tricky items like warp panels. Each shop's inventory grows as your rank rises.
+Aarune can be found here from this point on, and may be challenged to a Single Battle once per day.
+Secret Base Expert
+Aarune
+Fortree City
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+1,380
+Types:
+Ground
+Dragon
+Ability:
+Levitate
+Held item:
+Normal Gem
+Flygon
+♂
+Lv.
+23
+Secret Power
+Normal
+Physical
+--
+Fly
+Flying
+Physical
+--
+Earth Power
+Ground
+Special
+--
+Dragon Claw
+Dragon
+Physical
+--
+Catch Sight of Steven
+Descend the ladder near the Secret Base Guild, and go west then north to catch a glimpse of
+Steven
+. He heads off for
+Route 120
+to the east, apparently searching for a certain Pokémon.
+Running Errands
+Speak to the Pokémon Breeder in the northeast house to see his
+Wingull
+fly off on an errand. Return later to see if it's successful!
+Reveal Your Hidden Power
+The north-northwest house belongs to a pair of old women. Speak to the one on the left to take her quiz. She holds a coin in her hand, and asks in which one you think it's hidden. Guess correctly
+three times in a row
+to receive
+TM10
+(
+Hidden Power
+)! This unique attack is listed as a
+Normal-type
+move, but its type varies depending on the Pokémon using it. Talk to the old woman on the right to learn the type of Hidden Power your party members would have.
+Time for a Trade
+The little girl in the northwest house wants a
+Spinda
+. If you happened to catch one on
+Route 113
+, she'll give you her
+Skitty
+in return. Skitty arrives holding a
+Magost Berry
+.
+Route 120
+With an invisible object blocking the Gym, there's nothing else to do in the city. Go east to
+Route 120
+to catch up to Steven on the northern bridge. It seems that another unseen object blocks the way forward, but luckily Steven has a way to solve this mystery. He lets you try on the
+Devon Scope
+, a high-tech piece of eyewear that reveals invisible objects. Sure enough, they reveal a
+Kecleon
+in front of you; catch or defeat the Pokémon to clear the bridge. Pleased with your actions, Steven allows you to keep the device. He also hands you the Mega Stone that enables your starter Pokémon to Mega Evolve—
+Sceptilite
+,
+Blazikenite
+, or
+Swampertite
+. Now that your very first partner can Mega Evolve during battle, and with the Devon Scope in hand, you can chase off the Kecleon outside the Gym and win your next Badge!
+Fortree City
+Fortree Gym
+Fortree City Pokémon Gym
+Leader: Winona
+The bird user taking flight into the world.
+The
+Fortree Gym
+specializes in
+Flying-type
+Pokémon, which take serious damage from
+Electric
+,
+Rock
+, and
+Ice
+moves. The Gym is fairly straightforward, with ramps leading up to the Gym Leader's lofty perch. The only obstacles are turnstiles, some of which can only be spun in certain directions. Pass through the first two turnstiles to reach Bird Keeper Jared, and Picnicker Kylee beyond him. Approach the third turnstile from the west to spin it, then loop back around to take the newly cleared path. Go west, climb the ramp, and head north to reach the fourth turnstile and Camper Terrell. Battle Bird Keeper Will and proceed to the east wall. Go north through the fifth turnstile to reach Bird Keeper Bran, then head south through the sixth turnstile to return to the fifth. As it's already been moved once, you must return it to its original position by spinning it clockwise before you can pass through again. Pass by Bird Keeper Bran a second time and climb the ramp to reach the Gym Leader.
+Winona
+starts off with
+Swellow
+, which tends to lead with
+Double Team
+to raise its
+evasiveness
+. This can become increasingly problematic, so use super-effective moves to defeat it quickly. You can also use moves such as
+Aerial Ace
+,
+Clear Smog
+,
+Disarming Voice
+,
+Feint Attack
+,
+Swift
+,
+Vital Throw
+, or especially
+Shock Wave
+, which always hit. Her
+Pelipper
+takes massive damage from
+Electric
+attacks.
+Rock
+moves are also effective, but Rock Pokémon other than
+Lileep
+should be wary of its
+Water Pulse
+.
+Skarmory
+has several resistances and a high physical
+Defense
+, which may rise even higher due to
+Steel Wing
+.
+Sand Attack
+makes it harder to hit, while
+Aerial Ace
+'s perfect
+accuracy
+lets it reliably land a hit. Use Fire or Electric moves to defeat Skarmory. Due to its
+Dragon
+typing, her
+Altaria
+takes only normal damage from Electric moves. Rock and Fairy moves will be more effective, and Ice moves are greater still. It can target unsuspecting Electric types with
+Earthquake
+and restore its health with
+Roost
+, which cancels its Flying type for one turn. While its
+Special Defense
+is higher,
+Cotton Guard
+gives it a staggering 150%
+Defense
+boost for every use, so Special moves are the better option.
+Fortree Gym
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Jared
+Reward:
+$
+1,200
+Swellow
+♂
+Lv.
+30
+No item
+Skarmory
+♂
+Lv.
+30
+No item
+Picnicker
+Kylee
+Reward:
+$
+496
+Swablu
+♀
+Lv.
+31
+No item
+Camper
+Terrell
+Reward:
+$
+480
+Doduo
+♂
+Lv.
+28
+No item
+Pelipper
+♂
+Lv.
+30
+No item
+Bird Keeper
+Will
+Reward:
+$
+1,280
+Dodrio
+♂
+Lv.
+32
+No item
+Bird Keeper
+Bran
+Reward:
+$
+1,280
+Pelipper
+♂
+Lv.
+32
+No item
+Leader
+Winona
+Fortree Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+4,200
+Types:
+Normal
+Flying
+Ability:
+Guts
+Held item:
+None
+Swellow
+♀
+Lv.
+33
+Quick Attack
+Normal
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Double Team
+Normal
+Status
+--
+Endeavor
+Normal
+Physical
+--
+Types:
+Water
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pelipper
+♀
+Lv.
+33
+Water Pulse
+Water
+Special
+--
+Roost
+Flying
+Status
+--
+Protect
+Normal
+Status
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Steel
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Skarmory
+♀
+Lv.
+33
+Sand Attack
+Ground
+Status
+--
+Air Cutter
+Flying
+Special
+--
+Steel Wing
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Types:
+Dragon
+Flying
+Ability:
+Natural Cure
+Held item:
+None
+Altaria
+♀
+Lv.
+35
+Earthquake
+Ground
+Physical
+--
+Dragon Breath
+Dragon
+Special
+--
+Cotton Guard
+Grass
+Status
+--
+Roost
+Flying
+Status
+--
+Upon her defeat,
+Winona
+awards you the
+Feather Badge
+, which ensures obedience from all Pokémon up to level 70 and enables the use of
+Fly
+in the field. She also hands out
+TM19
+(
+Roost
+) as a prize.
+Fly
+allows you to instantly revisit any city or town you've previously explored. In addition, it can also be used to return to any route or other special location, like
+Rusturf Tunnel
+or
+Mt. Chimney
+! The only catch to Flying back to a route is that you must have reached the next city or town first. That means you can't Fly to Routes
+120
+or
+121
+until you've visited
+Lilycove City
+. While Fly can be used by selecting the appropriate party member, it can also be used by opening the
+AreaNav
+app and tapping the desired location.
+← Part 10
+Route 111 (desert), Petalburg Gym, Route 118, Southern Island
+Omega Ruby and Alpha Sapphire
+walkthrough
+Routes 120 and 121, Safari Zone, Route 122, Mt. Pyre, Route 123
+Part 12 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

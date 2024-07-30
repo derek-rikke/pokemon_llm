@@ -1,0 +1,707 @@
+Part: Part 1
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_1
+Keywords: Introduction, Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City
+
+Walkthrough Text:
+Contents
+1
+Introduction
+2
+Home
+3
+Littleroot Town
+3.1
+Professor Birch's House
+4
+Route 101
+4.1
+Save the Professor!
+5
+Littleroot Town
+5.1
+Birch's Lab
+6
+Route 101
+7
+Oldale Town
+7.1
+Free Potions!
+7.2
+The Sketch Artist
+8
+Route 103
+8.1
+Rival Battle 1
+8.1.1
+Player chose Treecko
+8.1.2
+Player chose Torchic
+8.1.3
+Player chose Mudkip
+9
+Littleroot Town
+9.1
+Birch's Lab
+9.2
+Meet up with Mom
+10
+Route 102
+10.1
+Soft Soil
+11
+Petalburg City (first visit)
+11.1
+Meet up with Dad
+11.2
+The Man in Sunglasses
+Introduction
+After the title screen, the resident researcher of the
+Hoenn
+region,
+Professor Birch
+, appears and introduces new Trainers to the Pokémon world. The professor continues, asking the player to select both a gender and a name, which can be up to seven characters long. With that done, Birch sends the player off to begin their journey!
+Home
+The game begins
+in the back of a moving truck
+, as your family has just moved here from the far-off
+Johto
+region. Hop out of the truck to meet
+Mom
+and step inside your new home. Head upstairs to check out your room and set the clock. Return to the first floor and Mom excitedly calls you over to the TV; the current program just aired a segment about the
+Petalburg Gym
+, where your dad is the new
+Gym Leader
+. She then suggests visiting his friend, your new neighbor, Professor Birch. Welcome to Littleroot Town!
+Littleroot Town
+Littleroot Town
+Littleroot
+is a quaint little town nestled on the lush southern edge of the
+Hoenn
+mainland. There are only three buildings here; your home,
+Professor Birch
+'s home, and the professor's Pokémon Laboratory, where he conducts research on Pokémon distribution, in the south.
+Items
+Item
+Location
+Games
+Potion
+Retrievable from the PC in the player's room
+E
+Professor Birch's House
+Having just moved to a new town, why not meet your new neighbors? Visit the house next door to meet the professor's wife, then head upstairs to meet his child. The room is empty at first, but inspect the item on the floor and
+May
+/
+Brendan
+enters. Your new friend introduces herself/himself but suddenly leaves, remembering that Birch asked for help in catching a Pokémon.
+Route 101
+Route 101
+Choose wisely!
+Route 101
+is a short path that connects
+Littleroot Town
+to
+Oldale Town
+in the north. The route features several patches of
+tall grass
+, a favorite hiding place of wild Pokémon.
+Save the Professor!
+When you first reach the area, you find
+Professor Birch
+being chased around by a wild
+Zigzagoon
+! His Bag has fallen out of his reach, and he pleads with you for help. Choose one of the three Pokémon from the Poké Balls inside the professor's Bag, and use it to scare off his attacker.
+Pokémon
+Games
+Location
+Levels
+Rate
+Attacking Birch
+Zigzagoon
+R
+S
+E
+Only one
+2
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Treecko
+Torchic
+Mudkip
+Grass
+Fire
+Water
+Grovyle
+Combusken
+Marshtomp
+Grass
+Fire
+Fighting
+Water
+Ground
+Sceptile
+Blaziken
+Swampert
+Grass
+Fire
+Fighting
+Water
+Ground
+The
+Grass-type
+Treecko
+has the most weaknesses of the trio, with five:
+Fire
+-,
+Bug
+-,
+Poison
+-,
+Flying
+-, and
+Ice-type
+attacks. It and its evolutions excel in
+Special Attack
+and
+Speed
+. Its Grass moves are strong against
+Water
+-,
+Rock
+-, and
+Ground-type
+Pokémon, though they have relatively low base powers.
+The
+Fire-type
+Torchic
+is great when battling
+Grass
+-,
+Bug
+-,
+Ice
+-, and
+Steel-type
+Pokémon, but is vulnerable to
+Water
+- and
+Ground-type
+moves. It and its evolved forms focus on
+Attack
+and
+Special Attack
+. As it grows, it gains a secondary
+Fighting-type
+type, making it better against
+Normal
+, Rock, and
+Dark
+-types.
+The
+Water-type
+Mudkip
+has an advantage when facing
+Fire
+-,
+Rock
+-, and
+Ground-type
+Pokémon, but may struggle against
+Grass
+and
+Electric
+attacks. It and its evolutions specialize in
+Attack
+. As it grows, it gains a secondary Ground type, which protects it from Electric attacks and also gives an advantage over Poison and Steel-types. Grass attacks, its one remaining weakness, is uncommon in Emerald. Mudkip is notably able to learn
+Surf
+when other Pokémon are still relying on much weaker attacks.
+Littleroot Town
+Birch's Lab
+After scaring off the wild Pokémon, Birch invites you back to the Lab. As thanks for rescuing him, he happily lets you keep the young Pokémon. He then encourages you to visit May/Brendan on
+Route 103
+for tips on how to be a Pokémon Trainer. When your Pokémon needs a rest, head back home and visit with Mom to have her restore it to full health.
+Route 101
+Route 103, need to take Route 101 to Oldale Town. With ledges blocking the way, you must go through the
+tall grass
+to keep moving north. Pokémon can be battled, but not captured, seeing as you don't have any
+Poké Balls
+yet.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+2-3
+45%
+Wurmple
+R
+S
+E
+Grass
+2-3
+45%
+Zigzagoon
+R
+S
+E
+Grass
+2-3
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Oldale Town
+Oldale Town
+Oldale Town
+is the first settlement in the region to feature a
+Pokémon Center
+and a
+Poké Mart
+. Pokémon Centers are essentially hospitals where creatures can be restored to perfect health. The PC on the counter is always available for Trainers to organize their Pokémon. Poké Marts offer a wide range of items for sale, from Potions to Poké Balls.
+Route 102
+leads off to the west, while
+Route 103
+runs northward.
+Items
+Item
+Location
+Games
+Potion
+From the Poké Mart worker near the exit to Route 101
+E
+Free Potions!
+Speak to the woman near the southeast house. She works at the local Poké Mart, and shows you the way to the shop. Once there, she gives you a free
+Potion
+as part of a promotion her shop is running.
+The Sketch Artist
+The western exit is currently blocked off by a man who believes that he may have found some extremely rare Pokémon tracks. No one is allowed past until he has made a sketch of his discovery.
+Route 103
+Route 103
+Route 103
+serves as a shortcut between
+Oldale Town
+and
+Route 110
+. Seawater divides the route, restricting travel to the western side for now.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+2-4
+60%
+Zigzagoon
+R
+S
+E
+Grass
+3-4
+20%
+Wingull
+R
+S
+E
+Grass
+2-4
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Rival Battle 1
+Cross through the tall grass to meet up with
+your
+rival
+, who challenges you to a friendly battle after spotting your new Pokémon. The opposing Pokémon will always have a type advantage against your own. Remember to use Potions if the battle isn't going your way!
+Player chose
+Treecko
+P
+K
+M
+N
+Trainer
+May
+Route 103
+Emerald
+Reward:
+$
+300
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Torchic
+♂
+Lv.
+5
+Scratch
+Normal
+--
+Growl
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Player chose
+Torchic
+P
+K
+M
+N
+Trainer
+May
+Route 103
+Emerald
+Reward:
+$
+300
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Mudkip
+♂
+Lv.
+5
+Tackle
+Normal
+--
+Growl
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Player chose
+Mudkip
+P
+K
+M
+N
+Trainer
+May
+Route 103
+Emerald
+Reward:
+$
+300
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Treecko
+♂
+Lv.
+5
+Pound
+Normal
+--
+Leer
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+After the battle, May/Brendan heads back south to Birch's Lab.
+Littleroot Town
+Items
+Item
+Location
+Games
+Pokédex
+From Professor Birch, after defeating May/Brendan on
+Route 103
+E
+Poké Ball
+×5
+From May/Brendan, after obtaining the Pokédex
+E
+Running Shoes
+From Mom, after obtaining the Pokédex
+E
+Birch's Lab
+After the battle, follow May/Brendan back to Professor Birch's Lab. Inside, the professor gives you a handy gadget: the Pokédex! This high-tech encyclopedia instantly records information on any Pokémon you see or catch. In addition, his child gives you five
+Poké Balls
+to start you off on your journey. Now that you have received some Poké Balls, they can be purchased at all Poké Marts in the region. Buying ten Poké Balls at once, at any location, also earns you a bonus
+Premier Ball
+.
+Meet up with Mom
+As you go to leave Littleroot, you see Mom standing outside. She is proud that you have your own Pokémon. In preparation for your adventure, she gives you a pair of
+Running Shoes
+. By holding down the B Button, these shoes allow you to run twice as fast as the normal walking speed.
+Route 102
+Route 102
+Route 102
+connects
+Oldale Town
+and
+Petalburg City
+. The patches of tall grass are home to several new wild Pokémon species.
+Trainers
+Trainer
+Pokémon
+Youngster
+Calvin
+Reward:
+$
+80
+Poochyena
+♂
+Lv.
+5
+No item
+Bug Catcher
+Rick
+Reward:
+$
+64
+Wurmple
+♂
+Lv.
+4
+No item
+Wurmple
+♂
+Lv.
+4
+No item
+Youngster
+Allen
+Reward:
+$
+48
+Zigzagoon
+♂
+Lv.
+4
+No item
+Taillow
+♂
+Lv.
+3
+No item
+Lass
+Tiana
+Reward:
+$
+64
+Zigzagoon
+♀
+Lv.
+4
+No item
+Shroomish
+♀
+Lv.
+4
+No item
+Rematch
+Youngster
+Calvin
+*
+Reward:
+$
+432
+Mightyena
+♂
+Lv.
+27
+No item
+Youngster
+Calvin
+*
+Reward:
+$
+480
+Swellow
+♂
+Lv.
+28
+No item
+Mightyena
+♂
+Lv.
+30
+No item
+Youngster
+Calvin
+*
+Reward:
+$
+528
+/
+576
+Swellow
+♂
+Lv.
+31
+/
+34
+No item
+Linoone
+♂
+Lv.
+29
+/
+32
+No item
+Mightyena
+♂
+Lv.
+33
+/
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Poochyena
+R
+S
+E
+Grass
+3-4
+30%
+Wurmple
+R
+S
+E
+Grass
+3-4
+30%
+Lotad
+R
+S
+E
+Grass
+3-4
+20%
+Zigzagoon
+R
+S
+E
+Grass
+3-4
+15%
+Ralts
+R
+S
+E
+Grass
+4
+4%
+Seedot
+R
+S
+E
+Grass
+3
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Oran Berry
+×2
+From the soft soil patch
+E
+Pecha Berry
+×2
+From the soft soil patch
+E
+Potion
+Southwest part of the route
+E
+Soft Soil
+There is a patch of
+soft soil
+on the route's north side. On your first visit, two
+Berry
+trees can be found growing here. Collect the fruit and the trees disappear, allowing you to plant another Berry to continue the cycle. The amount of time needed for the new tree to fully mature and produce fruit varies based on the kind of Berry. After obtaining a
+watering can
+, you may water the young plants at certain times to increase the Berry yield. Berries can have several useful effects, from curing status conditions to restoring health. They can even be turned into
+candy
+!
+Petalburg City (first visit)
+Petalburg City
+Situated between
+Route 102
+to the east and
+Route 104
+to the west,
+Petalburg City
+is the first location you reach to feature a
+Pokémon Gym
+.
+Meet up with Dad
+When you visit the
+Petalburg Gym
+, you find your father,
+Norman
+, standing in the lobby. He is surprised that you've made it this far from home but is excited that you are becoming a Pokémon Trainer like him. A sickly boy named
+Wally
+soon enters, and explains that he will be staying with relatives in nearby
+Verdanturf Town
+in the hopes that the clean air will do him good. He is afraid of becoming lonely there and asks for help in catching a Pokémon to take along. Norman asks that you go with him and loans him his
+Zigzagoon
+and a
+Poké Ball
+. Wally leads you back to
+Route 102
+, where he successfully catches a
+Ralts
+.
+Back at the Gym, Wally can't thank you enough for helping him catch his very own Pokémon. Your father then gives you some advice: to become a strong Trainer, challenge Gym Leader
+Roxanne
+in
+Rustboro City
+before moving on to the other Gym Leaders. Though Norman is also a Gym Leader, he will not accept your challenge until you have earned four
+Badges
+.
+The Man in Sunglasses
+As you reach the city's western limit, you are stopped by a man in sunglasses. Judging by the way you are dressed, he assumes that you're a Pokémon Trainer. However, he reconsiders after seeing your not-so-dirty clothes, determining you to be either a rookie Trainer or just an ordinary kid. He informs you that he is roaming the land in search of powerful Trainers, and apologizes for taking your time before leaving for
+Route 104
+.
+Emerald
+walkthrough
+Route 104 (south), Petalburg Woods, Route 104 (north), Rustboro City, Route 116, Rusturf Tunnel
+Part 2 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

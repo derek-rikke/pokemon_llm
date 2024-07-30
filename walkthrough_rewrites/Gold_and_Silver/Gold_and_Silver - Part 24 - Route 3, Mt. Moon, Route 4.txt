@@ -1,0 +1,49 @@
+Game: Gold_and_Silver
+Part: 24
+Keywords: Route 3, Mt. Moon, Route 4
+
+**Pokémon Gold and Silver Walkthrough - Part 24: Route 3, Mt. Moon, Route 4**
+
+**Route 3**  
+- A grassy area leading from Pewter City to Mt. Moon.  
+- Encounter various trainers to battle:  
+  - **Youngster Warren**: Lv. 35 Fearow, Reward: $560  
+  - **Youngster Jimmy**: Lv. 33 Raticate, Lv. 33 Arbok, Reward: $528  
+  - **Firebreather Otis**: Lv. 29 Magmar (x2), Lv. 32 Weezing, Reward: $1392  
+  - **Firebreather Burt**: Lv. 32 Koffing, Lv. 32 Slugma, Reward: $1536  
+- Rematch with trainers available via Pokégear.
+
+**Available Pokémon**:  
+- Rattata (Lv. 5, 10), Spearow (Lv. 5, 8), Ekans (Lv. 8), Arbok (Lv. 10), Jigglypuff (Lv. 6), Zubat (Lv. 5).
+
+---
+
+**Mt. Moon**  
+- Known for Moon Stones and unstable tunnels.  
+- Key Encounter: **Rival Silver**. His team includes evolved Pokémon—use super effective moves.  
+  - **Silver’s Team**:  
+    - Sneasel (Lv. 41), Golbat (Lv. 42), Magneton (Lv. 41), Gengar (Lv. 43), Alakazam (Lv. 43), and your starter (Lv. 45).
+
+**After Battle**: Silver acknowledges his growth and leaves to train further.
+
+**Mt. Moon Square**  
+- Find a **Moon Stone** hidden in the western field (requires Rock Smash).  
+- Shop (10 AM - 6 PM) sells items like Fresh Water, Lemonade, and Repel.
+
+---
+
+**Route 4**  
+- Connects to Cerulean City.  
+- Trainers to battle:  
+  - **Picnicker Hope**: Lv. 34 Flaaffy, Reward: $680  
+  - **Bird Keeper Hank**: Lv. 34 Pidgeot, Reward: $816  
+  - **Picnicker Sharon**: Lv. 31 Furret, Lv. 33 Rapidash, Reward: $660  
+
+**Available Pokémon**:  
+- Rattata (Lv. 5, 10), Spearow (Lv. 5, 8), Ekans (Lv. 8), Jigglypuff (Lv. 6), Surfing Goldeen (Lv. 5-14).
+
+**Items**:  
+- **Ultra Ball**: Northwest hill, hidden.  
+- **HP Up**: Northeast hill, hidden.  
+
+Continue to explore further routes for more battles and Pokémon encounters.

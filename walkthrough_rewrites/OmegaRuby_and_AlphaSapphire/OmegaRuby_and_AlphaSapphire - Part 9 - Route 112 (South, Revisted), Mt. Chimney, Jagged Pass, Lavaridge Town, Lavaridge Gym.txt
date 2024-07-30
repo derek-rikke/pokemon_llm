@@ -1,0 +1,45 @@
+Game: OmegaRuby_and_AlphaSapphire
+Part: 9
+Keywords: Route 112 (South, Revisted), Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym
+
+**Part 9: Route 112 (South), Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym**
+
+**Mauville City**
+- Visit Rydel's Cycles to swap your Mach Bike for the Acro Bike for better terrain navigation.
+
+**Route 112 (South)**
+- Team Magma/Aqua has taken Professor Cozmo's Meteorite to Mt. Chimney. Take the Cable Car to the summit.
+
+**Mt. Chimney**
+- Items: 
+  - Zinc (hidden, behind the Cable Car station)
+  - TM59 (Incinerate, hidden under glass bridge)
+  - Meteorite (defeat Maxie/Archie)
+  - Protein (hidden, east side of the crater)
+- Avoid Team Grunts and head north to the crater. Defeat Tabitha/Shelly, then Maxie/Archie.
+
+**Important Battles**
+- **Tabitha (OR)** / **Shelly (AS)**: Level 24 Pokémon, reward $2,400.
+- **Maxie (OR)** / **Archie (AS)**: Level 25-27 Pokémon, reward $4,320. After defeat, collect the Meteorite.
+
+**Jagged Pass**
+- A rough area requiring a bicycle. 
+- Trainers:
+  - Expert Shelby (Lv. 24-26 Pokémon)
+  - Items: TM43 (Flame Charge), Super Repel, hidden items (Full Heal, Great Ball, etc.).
+  
+**Lavaridge Town**
+- Known for hot springs and herbs. Visit the Herb Shop for useful items.
+- Obtain TM75 (Swords Dance) by disagreeing with a Black Belt outside the Poké Mart.
+- Hidden Ice Heal in the hot spring.
+
+**Lavaridge Gym**
+- Leader: Flannery (Fire-type).
+- Use Water, Ground, and Rock types for an advantage.
+- Gym layout has trapdoors and geysers.
+- Trainers include Kindler Cole and Ace Trainer Zane.
+- **Flannery's Pokémon**: Level 26-28. After defeating her, you get the Heat Badge and TM50 (Overheat).
+- After the battle, receive Go-Goggles from May/Brendan for desert exploration.
+
+**Next Steps**
+- Your next destination is Petalburg City. May/Brendan can accompany you if you choose.

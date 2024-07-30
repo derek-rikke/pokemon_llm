@@ -1,0 +1,43 @@
+Game: Crystal
+Part: 20
+Keywords: Route 7, Celadon City, Celadon Gym
+
+**Part 20: Route 7, Celadon City, Celadon Gym**
+
+**Route 7:**
+- Connects Saffron City to Celadon City.
+- **Wild Pokémon:** 
+  - Rattata (Lv. 17), Spearow (Lv. 17), Snubbull (Lv. 18), Houndour (Lv. 18).
+
+**Celadon City:**
+- Main attractions include:
+  - **Celadon Department Store** (northwest) - Sells various items.
+  - **Celadon Mansion** - Offers TM03 (Curse) after speaking to the man on the roof.
+  - **Game Corner** - Play games and redeem coins for prizes.
+  - **Celadon Gym** - Located southwest.
+
+**Items:**
+- **TM03 (Curse):** Celadon Mansion
+- **Leftovers:** Restaurant (in trash can)
+- **PP Up:** Hidden in a tree southeast of the city
+- **TM19 (Giga Drain):** From Erika after defeating her
+
+**Pokémon Center:**
+- Meet **Eusine** who provides updates on legendary Pokémon. After catching Raikou and Entei, he’ll mention a rainbow-colored Pokémon at Tin Tower.
+
+**Celadon Gym:**
+- **Leader:** Erika (Grass-type)
+- **Strategy:** 
+  - Use Fire and Ice moves against Erika's Pokémon.
+  - Key Pokémon: 
+    - **Tangela (Lv. 42)** - Weak to Fire/Ice.
+    - **Jumpluff (Lv. 41)** - Weak to Ice.
+    - **Victreebel (Lv. 46)** - Uses **Sunny Day** and **SolarBeam**.
+    - **Bellossom (Lv. 46)** - Also benefits from **Sunny Day**.
+- **Rewards:** Rainbow Badge and TM19 (Giga Drain).
+
+**Battle Tips:**
+- Grass-types are weak to Bug, Fire, Flying, Ice, and Poison.
+- Erika’s Pokémon use combinations that rely on sunny weather, so prepare accordingly.
+
+This concise guide highlights the main features of Route 7 and Celadon City, along with key items, Pokémon, and strategies for the Celadon Gym.

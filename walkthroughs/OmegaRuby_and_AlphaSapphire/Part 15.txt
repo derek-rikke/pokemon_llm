@@ -1,0 +1,1332 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_15
+Keywords: Mossdeep City, Mossdeep Gym, Route 125, Shoal Cave, Route 127
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Mossdeep City
+1.1
+Badge Checker
+1.2
+Running Errands
+1.3
+Score the Super Rod
+1.4
+Mossdeep Space Center
+1.5
+Mossdeep Gym
+1.6
+Earthquake!
+2
+Route 125
+2.1
+Shoal Cave
+2.1.1
+High tide
+2.1.1.1
+Entrance
+2.1.1.2
+Second Cavern
+2.1.2
+Low tide
+2.1.2.1
+Entrance
+2.1.2.2
+Second Cavern
+2.1.2.3
+Fourth Cavern
+2.1.2.4
+Second Cavern
+2.1.2.5
+Third Cavern
+2.1.2.6
+Ice Cavern
+3
+Route 127
+Mossdeep City
+Mossdeep City
+Mossdeep City
+stands perched on an island near
+Hoenn
+'s eastern edge, where the winds are mild and the weather conditions are stable. This makes it the perfect place for launching rockets, and a perfect home for the
+Mossdeep Space Center
+. The
+seventh Gym
+in the
+Hoenn League
+, run by twin Gym Leaders, is located on the north side of the island, and
+Steven
+'s house can be found on the island's northwest corner.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+25, 30, 40
+100%
+Gift Pokémon
+Beldum
+OR
+AS
+Gift
+1
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+On the sandbar west of the main island
+OR
+AS
+King's Rock
+From the boy in front of Steven's house
+OR
+AS
+Star Piece
+East of Steven's house (hidden)
+OR
+AS
+TM60
+(
+Quash
+)
+From a woman inside the Poké Mart
+OR
+AS
+Net Ball
+Southeast corner of the island
+OR
+AS
+Revive
+South of the Fisherman's house
+OR
+AS
+Super Rod
+From the Fisherman in the house overlooking the Gym
+OR
+AS
+Sun Stone
+From a Sailor inside the Space Center
+OR
+AS
+Iron
+Northeast corner of the launchpad (hidden)
+OR
+AS
+After defeating the Mossdeep Gym
+TM04
+(
+Calm Mind
+)
+From Liza and Tate upon their defeat
+OR
+AS
+HM07
+(
+Dive
+)
+From Steven in his house
+OR
+AS
+Devon Scuba Gear
+From Steven in his house
+OR
+AS
+After defeating the Elite Four and Champion
+Iron Plate
+In Steven's house, held by the
+Beldum
+he gifts to the player
+OR
+AS
+Badge Checker
+Three Hex Maniac sisters can be found in the southeastern-most house. The one in the middle has a special power. By viewing any of your Badges, she is able to recall which Pokémon were in your party when you won that particular Badge.
+Running Errands
+Visit the house nearest the stairway to the Space Center to meet a young woman who uses a
+Wingull
+to send letters to a friend in
+Fortree City
+. Talk to the Wingull and it will take flight, off to deliver another note. If you return to Fortree and visit the Pokémon Breeder in the northeast house there, he will give you a
+Mental Herb
+that his Wingull found in its travels.
+Score the Super Rod
+The house nearest the Space Center's launchpad belongs to a lone Fisherman. Speak to him to receive the
+Super Rod
+, a high-end fishing rod that can reel in all kinds of sea life.
+Mossdeep Space Center
+The
+Mossdeep Space Center
+stands on a hill in the northeast. Check out the exhibits inside, and take a seat near the windows for some interesting views. A Sailor near the viewing area will give you a
+Sun Stone
+he found on the beach.
+Mossdeep Gym
+Mossdeep City Pokémon Gym
+Leaders: Liza & Tate
+The mystic combination!
+The
+Mossdeep Gym
+specializes in
+Psychic-type
+Pokémon, which are vulnerable to
+Bug
+-,
+Dark
+-, and
+Ghost-type
+moves. Dark Pokémon are both immune to Psychic moves and able to inflict super-effective damage. Avoid using
+Fighting
+- and
+Poison-type
+Pokémon. The Gym is an eerie place, with several platforms floating over a seemingly endless void, connected by strings of energy. Each platform has a Trainer, and most platforms also feature a floating stone that must be activated to alter the direction of these energy trails and reach the next platform.
+From the entrance, take the energy trail to the yellow southwest platform and Psychic Preston. Interact with the floating rock, then take the south trail back to the entrance. Take the northern trail again, this time to the orange southeast platform and Psychic Joshua. Activate the floating rock, then take the eastern trail to the green northeast platform and Psychic Fritz. After activating the rock here, you may optionally decide to take the northwest path to battle Hex Maniac Kindra on a smaller nearby platform; otherwise, take the western path to the gray northwest platform and Hex Maniac Patricia. Activating the rock here will open the path to the Gym Leaders, but you must return to the entrance first. From here, either detour to the southeast to fight the final Gym Trainer, Psychic Virgil, or simply head south to the yellow platform again. Head south again to the entrance, then north to reach the Gym Leaders' platform.
+Twins
+Liza and Tate
+send out two Pokémon, drawing challengers into a
+Double Battle
+. Both of their Pokémon are weakened by
+Water
+moves; by using
+Surf
+, you can attack both at once and bring the battle to a quick end. Otherwise, you may want to target one Pokémon at a time in what would essentially become a two-on-one battle.
+Mossdeep Gym
+Trainers
+Trainer
+Pokémon
+Psychic
+Preston
+Reward:
+$
+1,344
+Kadabra
+♂
+Lv.
+42
+No item
+Psychic
+Joshua
+Reward:
+$
+1,280
+Kadabra
+♂
+Lv.
+40
+No item
+Medicham
+♂
+Lv.
+40
+No item
+Hex Maniac
+Kindra
+Reward:
+$
+1,092
+Kirlia
+♀
+Lv.
+39
+No item
+Grumpig
+♀
+Lv.
+39
+No item
+Psychic
+Fritz
+Reward:
+$
+1,312
+Claydol
+Lv.
+39
+No item
+Starmie
+Lv.
+41
+No item
+Hex Maniac
+Patricia
+Reward:
+$
+1,148
+Chimecho
+♀
+Lv.
+41
+No item
+Psychic
+Virgil
+Reward:
+$
+1,280
+Kadabra
+♂
+Lv.
+40
+No item
+Girafarig
+♂
+Lv.
+40
+No item
+Leaders
+Liza & Tate
+Mossdeep Gym
+Omega Ruby and Alpha Sapphire
+Reward:
+$
+10,800
+Types:
+Rock
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Lunatone
+Lv.
+45
+Light Screen
+Psychic
+Status
+--
+Psychic
+Psychic
+Special
+--
+Hypnosis
+Psychic
+Status
+--
+Calm Mind
+Psychic
+Status
+--
+Types:
+Rock
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Solrock
+Lv.
+45
+Sunny Day
+Fire
+Status
+--
+Rock Slide
+Rock
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Solar Beam
+Grass
+Special
+--
+After the battle,
+Liza and Tate
+award you the
+Mind Badge
+, which ensures obedience from all Pokémon up to level 80 and enables the use of
+Dive
+in the field. The twins also give you
+TM04
+(
+Calm Mind
+) as a prize. Afterwards, step on the glowing panel to warp to the entrance.
+Earthquake!
+A great rumble rocks the city when you step outside, and a giant pillar of green and yellow light is seen bursting up from the sea to the south. Spotting you through the crowd of terrified residents,
+Steven
+races over and asks you to his home. Inside, he confirms that
+Team Magma
+OR
+/
+Team Aqua
+AS
+has successfully breached the
+Seafloor Cavern
+. The cave's entrance was sealed since ancient times by the power of
+a certain Pokémon
+; with the seal broken, the team aims to revive the super-ancient Pokémon inside and make its power their own. Steven resolves to do everything he can to quell the situation, but admits there is a limit to what he can do alone, and asks for your help. He entrusts you with
+HM07
+(
+Dive
+) so you can reach the submarine cavern, as well as the
+Devon Scuba Gear
+to ensure your safety underwater. He then encourages you to visit
+Route 128
+and pursue the villains inside the cavern.
+Route 125
+Route 125
+Located north of
+Mossdeep City
+,
+Route 125
+is an optional area with several Secret Spots. The waterlogged
+Shoal Cave
+stands in the route's center.
+Trainers
+Trainer
+Pokémon
+Swimmer ♂
+Stan
+Reward:
+$
+624
+Seadra
+♂
+Lv.
+39
+No item
+Sailor
+Ernest
+Reward:
+$
+1,440
+Wailmer
+♂
+Lv.
+36
+No item
+Tentacruel
+♂
+Lv.
+36
+No item
+Machoke
+♂
+Lv.
+36
+No item
+Swimmer ♀
+Tanya
+Reward:
+$
+624
+Luvdisc
+♀
+Lv.
+39
+No item
+Teammates
+Kim & Iris
+Reward:
+$
+1,872
+Altaria
+♀
+Lv.
+38
+No item
+Camerupt
+♀
+Lv.
+39
+No item
+Swimmer ♀
+Sharon
+Reward:
+$
+576
+Clamperl
+♀
+Lv.
+38
+No item
+Seaking
+♀
+Lv.
+36
+No item
+Swimmer ♂
+Cody
+Reward:
+$
+592
+Staryu
+Lv.
+37
+No item
+Staryu
+Lv.
+37
+No item
+Rematch
+Sailor
+Ernest
+Reward:
+$
+1,680
+After earning the
+Rain Badge
+Tentacruel
+♂
+Lv.
+42
+No item
+Machoke
+♂
+Lv.
+42
+No item
+Wailord
+♂
+Lv.
+42
+No item
+Sailor
+Ernest
+Reward:
+$
+1,920
+After entering the
+Hall of Fame
+Tentacruel
+♂
+Lv.
+48
+No item
+Wailord
+♂
+Lv.
+48
+No item
+Machamp
+♂
+Lv.
+48
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+On the island east-southeast of the Shoal Cave entrance
+OR
+AS
+Dive Ball
+Occasionally received after defeating Sailor Ernest in a rematch
+OR
+AS
+Shoal Cave, Entrance (high tide)
+Shoal Cave, Entrance (low tide)
+Shoal Cave, Second Cavern (high tide)
+Shoal Cave, Second Cavern (low tide)
+Shoal Cave, Ice Cavern (low tide)
+Shoal Cave, Third Cavern (low tide)
+Shoal Cave, Fourth Cavern (low tide)
+Shoal Cave
+Connected to the ocean, the appearance of
+Shoal Cave
+changes with the
+tides
+. Seawater floods the cave during high tide, closing off some areas and opening others. It then drains away during low tide, revealing new areas for exploration, some of which require the
+Mach Bike
+to reach. The tides change every six hours, at 3:00 and 9:00.
+Available Pokémon
+All areas, high tide
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+31-34
+40%
+Sealeo
+OR
+AS
+Cave
+32-34
+40%
+Spheal
+OR
+AS
+Cave
+31
+20%
+Horde Encounter
+Spheal
+OR
+AS
+Horde Encounter
+17
+60%
+Zubat
+OR
+AS
+Horde Encounter
+17
+40%
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Golbat
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+All areas, low tide
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+OR
+AS
+Cave
+31-34
+40%
+Sealeo
+OR
+AS
+Cave
+32-34
+35%
+Spheal
+OR
+AS
+Cave
+31
+20%
+Snorunt
+OR
+AS
+Cave
+34
+5%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+17
+60%
+Spheal
+OR
+AS
+Horde Encounter
+17
+40%
+Rock Smash
+Graveler
+OR
+AS
+Rock Smash
+31-34
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Ice Cavern
+Pokémon
+Games
+Location
+Levels
+Rate
+Snorunt
+OR
+AS
+Cave
+31-34
+40%
+Sealeo
+OR
+AS
+Cave
+32-34
+30%
+Golbat
+OR
+AS
+Cave
+31-34
+20%
+Spheal
+OR
+AS
+Cave
+31
+10%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+17
+60%
+Spheal
+OR
+AS
+Horde Encounter
+17
+35%
+Snorunt
+OR
+AS
+Horde Encounter
+17
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+All times
+Shell Bell
+Entrance, from the old man after handing over four
+Shoal Shells
+and four
+Shoal Salts
+OR
+AS
+Slowbronite
+Entrance, from the old man after receiving a Shell Bell for the first time
+OR
+AS
+High tide
+Star Piece
+Entrance, southwest area (hidden)
+OR
+AS
+Rare Candy
+Second Cavern, east of the central ladder
+OR
+AS
+Big Pearl
+Entrance; northeast ledge, accessible from second cavern
+OR
+AS
+Shoal Shell
+×4
+Second Cavern, near the southern bridge
+Second Cavern, northwest corner
+Second Cavern, northeast corner
+Second Cavern, southeast corner
+OR
+AS
+Low tide
+Pearl
+Entrance, north corner of the western area (hidden)
+OR
+AS
+Shoal Salt
+×4
+Fourth Cavern, southeast corner
+Third Cavern, north-central area
+Second Cavern, southwest area
+Second Cavern, under the north bridge
+OR
+AS
+Ice Heal
+×2
+Fourth Cavern, southeast corner
+Ice Cavern, northwest corner (hidden)
+OR
+AS
+Focus Band
+Third Cavern, from the Black Belt
+OR
+AS
+TM79
+(
+Frost Breath
+)
+Third Cavern, atop the ridge to the east (requires
+Mach Bike
+)
+OR
+AS
+Glalitite
+Ice Cavern, north end of the central plateau
+OR
+AS
+Never-Melt Ice
+Ice Cavern, south end of the central plateau
+OR
+AS
+TM07
+(
+Hail
+)
+Ice Cavern, atop the ledge
+OR
+AS
+High tide
+Entrance
+An old man in the entry chamber offers to make a
+Shell Bell
+for your Pokémon. But first, he needs you to collect some of the cave's natural resources:
+Shoal Shells
+and
+Shoal Salts
+. These items are replenished each day, so there's no limit to the number you can collect. Once you hand over four of each item, he crafts the health-restoring item for you. Surf northwest and take the doorway there to reach the next chamber.
+Second Cavern
+Surf along the water in a clockwise direction, collecting the four Shoal Shells and
+Rare Candy
+on the way. Take the southeast doorway back to the entrance, where you can collect a
+Big Pearl
+on the nearby ledge.
+Low tide
+Entrance
+An old man in the entry chamber offers to make a
+Shell Bell
+for your Pokémon. But first, he needs you to collect some of the cave's natural resources:
+Shoal Shells
+and
+Shoal Salts
+. These items are replenished each day, so there's no limit to the number you can collect. Once you hand over four of each item, he crafts the health-restoring item for you. Head through the north doorway to reach the next chamber.
+Second Cavern
+Head up the stairway, go north and climb down the east-central ladder.
+Fourth Cavern
+Grab the Shoal Salt and
+Ice Heal
+, then climb the hill to the ladder in the northwest.
+Second Cavern
+Go west then south along the two bridges, then climb down the ladder in the center.
+Third Cavern
+Head east to meet a Black Belt and receive a
+Focus Band
+from him. Continue east to find another Shoal Salt, then jump the ledge to the south. Use the
+Mach Bike
+to climb the sandy slopes to the east in order to reach
+TM79
+(
+Frost Breath
+). Slide down the slope on the other side, then descend the ladder to the south.
+Ice Cavern
+The final cavern is permanently encased in ice, and the slick floors hinder travel.
+Step
+Notes
+1.
+Go south from the ladder, across two ice patches. At the third ice patch, slide west to the nearest snow patch within it.
+2.
+Slide west to a stalagmite in the center of the ice patch.
+3.
+Slide south to stop at the wall, then west to another stalagmite.
+4.
+Slide north to the edge of the ice patch, and a wide stairway ahead.
+5.
+Slide north to the snow patch near the narrow stairway.
+6.
+Slide west then south to a stalagmite. Slide east then north to reach the central plateau.
+7.
+Collect the
+Glalitite
+from the north end and the
+Never-Melt Ice
+from the south end.
+8.
+Slide south from the narrow stairway, then west and north to stop at a stalagmite in the northwest corner.
+9.
+Slide west, north, east, then south to stop at a snow patch. Use the Dowsing Machine to find a hidden
+Ice Heal
+here.
+10.
+Slide north, east, south, then east to stop at a large stalagmite. Go south to reach
+TM07
+(
+Hail
+) and jump the ledge to return to the ladder.
+Route 127
+Route 127
+Route 127
+links
+Mossdeep City
+with
+Route 126
+to the west and
+Route 128
+to the south. Explore the area quickly on your way southward in pursuit of Team Magma
+OR
+/Team Aqua
+AS
+!
+Trainers
+Trainer
+Pokémon
+Bird Keeper
+Byron
+Reward:
+$
+1,520
+Dodrio
+♂
+Lv.
+38
+No item
+Xatu
+♂
+Lv.
+38
+No item
+Fisherman
+Jonah
+Reward:
+$
+1,184
+Luvdisc
+♀
+Lv.
+37
+No item
+Relicanth
+♂
+Lv.
+37
+No item
+Fisherman
+Henry
+Reward:
+$
+1,248
+Tentacruel
+♂
+Lv.
+39
+No item
+Fisherman
+Roger
+Reward:
+$
+1,184
+Wailmer
+♂
+Lv.
+37
+No item
+Sharpedo
+♂
+Lv.
+37
+No item
+Ace Trainer
+Hisato
+Reward:
+$
+2,460
+Pinsir
+♂
+Lv.
+41
+No item
+Ace Trainer
+Claudia
+Reward:
+$
+2,280
+Snorunt
+♀
+Lv.
+38
+No item
+Masquerain
+♀
+Lv.
+38
+No item
+Dusclops
+♀
+Lv.
+38
+No item
+Triathlete
+Jaylon
+Reward:
+$
+1,560
+Tentacruel
+♂
+Lv.
+39
+No item
+Black Belt
+Koji
+Reward:
+$
+1,248
+Machoke
+♂
+Lv.
+37
+No item
+Hariyama
+♂
+Lv.
+39
+No item
+Requires
+Dive
+Scuba Diver
+Javier
+Reward:
+$
+1,640
+Relicanth
+♂
+Lv.
+41
+No item
+Free Diver
+Kailyn
+Reward:
+$
+1,640
+Starmie
+Lv.
+41
+No item
+Free Diver
+Aileen
+Reward:
+$
+1,640
+Sealeo
+♀
+Lv.
+41
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+OR
+AS
+Surfing
+25
+50%
+Pelipper
+OR
+AS
+Surfing
+25, 30, 35
+35%
+Tentacruel
+OR
+AS
+Surfing
+30
+15%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Magikarp
+OR
+AS
+Fishing
+Good Rod
+25
+60%
+Tentacool
+OR
+AS
+Fishing
+Good Rod
+25
+35%
+Wailmer
+OR
+AS
+Fishing
+Good Rod
+25
+5%
+Wailmer
+OR
+AS
+Fishing
+Super Rod
+30, 35, 40
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Zinc
+On the northeast island
+OR
+AS
+Heracronite
+On the large southeast island
+OR
+AS
+Carbos
+South end of the isolated grove, accessed via Dive spot near the southeast island
+OR
+AS
+Rare Candy
+North end of the isolated grove, accessed via Dive spot near the southeast island
+OR
+AS
+Underwater
+Star Piece
+Main area's center-west branch, northeast of Scuba Diver Javier (hidden)
+OR
+AS
+HP Up
+Main area, west of Free Diver Kailyn where the two central branches join together (hidden)
+OR
+AS
+Spooky Plate
+Main area's center-east branch, northwest of Free Diver Kailyn (hidden)
+OR
+AS
+Dread Plate
+Main area's easternmost branch, northeast of Free Diver Kailyn (hidden)
+OR
+AS
+Red Shard
+Main area, where the two western-most branches join together (hidden)
+OR
+AS
+Insect Plate
+Main area, in the northeast corner of the western-most branch (hidden)
+OR
+AS
+Heart Scale
+Isolated eastern passage, accessed via the southeast island; halfway between the two Dive spots (hidden)
+OR
+AS
+← Part 14
+Team Magma/Aqua Hideout, Route 124
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 128, Seafloor Cavern, Route 126, Sootopolis City, Cave of Origin
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

@@ -1,0 +1,35 @@
+Game: Platinum
+Part: 12
+Keywords: Route 221, Route 218, Canalave City, Canalave Gym
+
+**Part 12: Route 221, Route 218, Canalave City, Canalave Gym**
+
+**Route 219 (Optional)**
+- **Available Pokémon (Surfing):** Tentacool (20-30), Tentacruel (20-40), Wingull (20-30), Pelipper (20-40)
+- **Fishing:** Magikarp (Old Rod 3-15), Finneon (Good Rod 15-20), Lumineon (Good Rod 25-35)
+- **Items:** Antidote (shore), Zinc (island, hidden)
+
+**Route 220 (Optional)**
+- **Available Pokémon (Surfing):** Similar to Route 219.
+- **Items:** Max Repel (top of first sandbar), Splash Plate (bottom of sandbar), Carbos (shallows after second sandbar)
+- **Strategy:** Head down the eastern side and defeat trainers. Collect items while navigating the terrain.
+
+**Route 221 (Optional)**
+- **Available Pokémon:** Sudowoodo (29-31), Girafarig (28, 30), Roselia (28-30), Floatzel (29-31)
+- **Fishing:** Magikarp (Old Rod), Finneon (Good Rod)
+- **Items:** Protein (northwest), Pure Incense (Level House), TM81 (X-Scissor, between patches of grass)
+- **Level House:** Trade a Pokémon of a certain level for items (Black Belt, Expert Belt, Focus Sash).
+
+**Route 218**
+- **Available Pokémon:** Mr. Mime (29-31), Floatzel (29-31)
+- **Items:** X Accuracy (north end of pier), Rare Candy (northeast corner)
+- **Strategy:** Battle trainers and catch Pokémon. Interact with Professor Rowan's assistant for Pokédex upgrade.
+
+**Canalave City**
+- **Available Pokémon:** Similar to previous routes.
+- **Items:** TM48 (Skill Swap), Big Pearl (southwest of Sailor Eldritch’s house)
+- **Rival Battle:** Prepare for a challenge against Barry. Use strong Flying-type moves against Heracross and avoid Psychic-types due to Night Slash.
+- **Post-Battle:** Barry suggests visiting Iron Island. The Move Deleter is located north of the Poké Mart. 
+
+**Next Steps:**
+- Fly to Jubilife City and head northwest via Route 218 to reach Canalave City. After preparing and healing, proceed to the Canalave Gym.

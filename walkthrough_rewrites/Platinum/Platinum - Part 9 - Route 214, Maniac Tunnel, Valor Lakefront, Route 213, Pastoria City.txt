@@ -1,0 +1,52 @@
+Game: Platinum
+Part: 9
+Keywords: Route 214, Maniac Tunnel, Valor Lakefront, Route 213, Pastoria City
+
+**Part 9 Walkthrough: Route 214 to Pastoria City**
+
+**Route 214:**
+- **Trainers to Battle:**
+  - Psychic Abigail (Chingling, Drifloon, Kirlia) - Reward: $864
+  - PI Carlos (Goldeen) - Reward: $3600
+  - Collector Brady (Skorupi, Carnivine, Tangela, Tropius, Croagunk, Yanma) - Reward: $1344
+  - Additional trainers with varied Pokémon, including Wormadam and Duskull.
+
+- **Key Items:**
+  - **Razor Fang** (evolves Gligar at night) - Hidden in southern long grass near Collector Jamal.
+  - **Magmarizer** (evolves Magmar when traded) - North of Ruin Maniac Bryan.
+  - **Max Repel** - Next to PI Carlos.
+  - **Carbos** - Hidden in grassy area west of Psychic Mitchell.
+  
+**Maniac Tunnel (Optional):**
+- Collect **TM28 (Dig)** behind rocks at the entrance.
+- Encounter Unown and Hippopotas based on how many Unown you have seen.
+- Exit leads to Solaceon Town where you can find a **Rare Candy** after capturing all 26 Unown.
+
+**Valor Lakefront:**
+- **Key Trainers:**
+  - Artist Ismael (Kricketune) - Reward: $2800
+  - Beauty Harley (Psyduck) - Reward: $2800
+  - Veteran Emanuel (Machoke, Bronzor) - Reward: $2640
+  
+- **Key Items:**
+  - **Ultra Ball** - In the northwest corner of the large patch of grass.
+  - **Suite Key** - Use Dowsing Machine near the hotel entrance to find it.
+
+- Explore the Seven Stars Restaurant for Double Battles and interactions.
+
+**Route 213:**
+- **Trainers to Battle:**
+  - Tuber Chelsea (Marill) - Reward: $112
+  - Fisherman Kenneth (Gyarados) - Reward: $896
+
+- **Key Items:**
+  - **TM92 (Trick Room)** from a Clown in a bungalow.
+  - **Heart Scale** - Hidden along the beach.
+
+**Pastoria City:**
+- Home to the **Great Marsh** where various Pokémon can be caught.
+- **Scarf Guy** in a house checks Pokémon condition for Scarf rewards based on maxed stats.
+- **Move Reminder** teaches moves using Heart Scales.
+- Daily Berry from a woman in the westernmost house.
+
+Use this guide to navigate through Route 214, Valor Lakefront, Route 213, and Pastoria City, ensuring you battle trainers, collect items, and progress your Pokémon journey efficiently.

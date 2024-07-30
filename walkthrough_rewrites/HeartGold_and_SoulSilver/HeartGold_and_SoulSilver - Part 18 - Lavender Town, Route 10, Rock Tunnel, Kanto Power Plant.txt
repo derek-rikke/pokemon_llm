@@ -1,0 +1,45 @@
+Game: HeartGold_and_SoulSilver
+Part: 18
+Keywords: Lavender Town, Route 10, Rock Tunnel, Kanto Power Plant
+
+**Pokémon HeartGold and SoulSilver Walkthrough: Part 18**
+
+**Lavender Town**
+- **Kanto Radio Tower**: Access is restricted to the first floor. To unlock the EXPN Card for your Pokégear, restore power at the Kanto Power Plant first.
+- **House of Memories**: A memorial for departed Pokémon, managed by Mr. Fuji.
+- **Name Rater**: Located in the southeast house, allows renaming of Pokémon (not for traded ones).
+
+**Route 10 (South)**
+- Encounter two Trainers before reaching Rock Tunnel.
+- **Trainers**: 
+  - **Pokéfan Robert**: Quagsire (Lv. 43), Reward: $2752.
+  - **Hiker Jim**: Machamp (Lv. 45), Reward: $1440.
+  
+- **Items**:
+  - TM69 (Rock Polish): Above a ledge (requires Strength).
+
+**Rock Tunnel**
+- A dark cave connecting Route 10 to Route 9. Use Flash for visibility.
+- **Available Pokémon** (1F):
+  - Cubone (10-13), Geodude (10), Machop (12), Zubat (8), Machoke (14).
+  
+- **Items**:
+  - X Defend: On a stalagmite (hidden).
+  - TM56 (Fling): North of the southern entrance.
+  - Elixir: Southwest area.
+  - Revive: B1F, north-central area.
+  
+- Navigate through the cave to find these items and Pokémon.
+
+**Route 10 (North)**
+- After exiting Rock Tunnel, visit the Pokémon Center. Speak to patrons to learn about the stolen equipment at Kanto Power Plant.
+- **Available Pokémon** (Grass):
+  - Voltorb (Lv. 17), Spearow (Lv. 16), Raticate (Lv. 15-18), Electabuzz (Lv. 15).
+
+**Kanto Power Plant**
+- The plant is offline due to a stolen generator part. Speak to the officer about investigating a shady character in Cerulean City.
+- **Items**:
+  - Carbos: Hidden on the west side.
+  - TM57 (Charge Beam): Received from the Power Plant manager after recovering the Machine Part.
+
+**Next Steps**: Surf back north and head west to reach Cerulean City.

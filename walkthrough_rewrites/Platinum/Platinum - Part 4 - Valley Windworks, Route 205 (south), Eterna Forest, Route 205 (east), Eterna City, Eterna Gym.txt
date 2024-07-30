@@ -1,0 +1,40 @@
+Game: Platinum
+Part: 4
+Keywords: Valley Windworks, Route 205 (south), Eterna Forest, Route 205 (east), Eterna City, Eterna Gym
+
+**Part 4: Valley Windworks to Eterna Gym**
+
+1. **Valley Windworks**  
+   - **Items:** Potion (eastern side below Honey Tree)  
+   - **Battle:** Defeat Galactic Grunt (Lv. 13 Glameow) at the entrance.  
+   - **Interior:** Battle two more grunts, then face **Commander Mars** (Lv. 15 Zubat, Lv. 17 Purugly). Use Intimidate users or a Mach Punch Monferno for an advantage.  
+   - After defeating her, continue north to **Route 205**.
+
+2. **Route 205 (South)**  
+   - **Items:** Chesto Berry, Pecha Berry, X Sp. Def, Stardust, various healing items.  
+   - **Trainers:** Battle trainers like Camper Jacob (Lv. 14 Ponyta) and Hiker Daniel (multiple Geodude).  
+   - Continue north to **Eterna Forest**.
+
+3. **Eterna Forest**  
+   - **Items:** Antidote, Parlyz Heal, Net Ball, Soothe Bell (from Cheryl).  
+   - **Pokémon:** Includes Buneary, Gastly, and various Bug-types.  
+   - **Cheryl's Assistance:** She heals your team after battles and battles alongside you. Catch Pokémon after leaving her.  
+   - Navigate through the forest to exit on the north side.
+
+4. **Route 205 (East)**  
+   - Cross the bridge to Eterna City. Fishermen won't battle unless engaged.  
+
+5. **Eterna City**  
+   - **Items:** Draco Plate (behind the statue), HM01 (Cut from Cynthia).  
+   - **Underground Man:** Get the Explorer Kit for underground activities.  
+   - **Eterna Condominiums:** Speak to the old lady for TM67 (Recycle) and trade with Norton for Chatot.  
+   - **Herb Shop:** Purchase affordable herbs here.  
+   - **Bike Shop:** Owner held captive by Team Galactic.  
+
+6. **Eterna Gym**  
+   - **Battle Strategy:** Focus on Fire or Flying-types against Gardenia’s Grass Pokémon (highest level 22).  
+   - **Trainers:** Defeat three before facing Gardenia.  
+   - **Gardenia's Pokémon:** Turtwig (Lv. 20), Cherrim (Lv. 20), Roserade (Lv. 22). Use Fire moves against Turtwig, Psychic moves against Roserade.  
+   - **Rewards:** Forest Badge and TM86 (Grass Knot).  
+
+After defeating Gardenia, you can access the Galactic Eterna Building.

@@ -1,0 +1,45 @@
+Game: Black2_and_White2
+Part: 20
+Keywords: Skyarrow Bridge, Pinwheel Forest, Nacrene City, Route 3, Wellspring Cave, Striaton City, The Dreamyard
+
+### Part 20 Walkthrough Summary
+
+#### Skyarrow Bridge
+- **Fresh Water**: Buy for $300 from a salesman halfway across the bridge.
+- **Moomoo Milk**: Give Fresh Water to a thirsty man at the bridge and other locations (Driftveil Drawbridge, etc.) to receive 12 Moomoo Milk.
+
+#### Pinwheel Forest
+- **Overview**: Lush area leading to Nacrene City.
+- **Key Trainers**: Face various trainers, including Preschoolers, Pokémon Rangers, and Veterans. Notable rewards include Sitrus Berries and Lum Berries.
+- **Items**:
+  - **Max Repel**: Near Pokémon Ranger Hillary.
+  - **TM86 (Grass Knot)**: Near Pokémon Ranger Melita.
+  - **Sun Stone and Rare Candy**: Found within the forest.
+
+#### Nacrene City
+- **Café Warehouse**: Obtain Soda Pop or Lemonade on specific days.
+- **Nacrene Museum**: Choose between Cover Fossil or Plume Fossil; restored Pokémon are Tirtouga or Archen.
+- **Pokémon Egg**: Received from a Breeder at the east gate (hatches into Happiny).
+  
+#### Route 3
+- **Wellspring Cave**: Requires Surf and Flash.
+- **Key Trainers**: Hikers and Battle Girls with Pokémon around level 61-62.
+- **Items**:
+  - **Max Repel**: Near entrance.
+  - **TM47 (Low Sweep)**: In the basement area.
+
+#### Striaton City
+- **Items**: 
+  - **Big Pearl**: From a fisherman (requires Surf).
+  - **TM04 (Calm Mind)** and **TM08 (Bulk Up)** for $80,000 each.
+- **Striaton Restaurant**: Challenge the former Gym Leaders in a double battle.
+  
+#### The Dreamyard
+- **Available Pokémon**: Encounter Psychic types like Hypno and Gastly.
+- **Legendary Pokémon**: Latios or Latias can be found; catch it to obtain Soul Dew.
+
+### Key Strategies
+- **Battle Tips**: Use Dark-types against Latios/Latias to avoid damage from Psycho Shift.
+- **Item Management**: Make sure to collect all items and Pokémon eggs for optimal progression. 
+
+This summary retains the essential gameplay elements, key locations, and important battles while providing a streamlined guide for players.

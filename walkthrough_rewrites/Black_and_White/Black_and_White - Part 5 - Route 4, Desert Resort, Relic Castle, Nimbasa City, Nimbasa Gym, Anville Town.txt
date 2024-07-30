@@ -1,0 +1,39 @@
+Game: Black_and_White
+Part: 5
+Keywords: Route 4, Desert Resort, Relic Castle, Nimbasa City, Nimbasa Gym, Anville Town
+
+### Walkthrough Part 5: Route 4 to Anville Town
+
+**Route 4:**
+- Head north from Castelia City to meet Cheren. 
+- Defeat him in a battle for $2,200.
+- Collect items: X Accuracy, Pearl, Great Ball, Hyper Potions, TM41 (Torment), and TM28 (Dig) from various locations.
+
+**Desert Resort:**
+- Proceed northwest to the Desert Resort.
+- Heal Pokémon with Doctor Jerry if needed.
+- Collect items: BlackGlasses, Hyper Potion, Rare Candy, Fire Stone, and TM39 (Rock Tomb).
+- Battle trainers like Backpackers and Rangers for experience.
+
+**Relic Castle:**
+- Inside, choose between Cover Fossil (Tirtouga) or Plume Fossil (Archen) from the Backpacker.
+- Collect Revive and Elixir on the first floor.
+
+**Nimbasa City:**
+- Defeat a Team Plasma Grunt to receive a Bicycle from the Day-Care Man.
+- Meet Bianca and learn about city attractions.
+- Visit the Battle Institute for a Battle Test after story completion.
+- Obtain HM04 (Strength) from the blue-haired man north of the Battle Institute.
+- Engage in daily battles at Big Stadium and Small Court for Trainer experience.
+
+**Nimbasa Gym:**
+- Gym Leader Elesa specializes in Electric-types.
+- Use Ground-type moves against Zebstrika and Ice/Rock-type moves against Emolga.
+- Defeat her for the Bolt Badge and TM72 (Volt Switch).
+
+**Anville Town:**
+- Access Anville Town via the Brown Line from Nimbasa's Gear Station.
+- Collect items: Ultra Ball, Rare Candy, Revive, PP Up, Full Restore.
+- Speak to the Battle Subway employee for lost items after battles.
+
+Continue west to Route 5.

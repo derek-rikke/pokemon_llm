@@ -1,0 +1,39 @@
+Game: Platinum
+Part: 25
+Keywords: Stark Mountain, Survival Area
+
+**Part 25: Stark Mountain and Survival Area Walkthrough**
+
+**Stark Mountain Overview:**
+- **Outside:** 
+  - Encounter Pokémon: Fearow, Golbat, Graveler, Weezing, Rhyhorn, Rhydon, Skarmory, Camerupt (levels 51-54).
+  - Items: Max Elixir (northeast corner), Life Orb (requires Rock Climb in southwest corner).
+  
+- **Main Entrance:**
+  - Encounter Pokémon: Golbat, Graveler, Weezing, Rhyhorn, Rhydon, Slugma, Magcargo (levels 51-54).
+  - Items: Escape Rope, PP Up, Full Heal, Full Restore (requires Strength/Rock Smash), Star Piece (hidden).
+
+- **Battles:** 
+  - Face Commander Mars (Bronzong, Golbat, Purugly, all level 58-60) using strategies from Spear Pillar.
+  - Followed by Commander Jupiter (Bronzong, Golbat, Skuntank, all level 58-60). 
+
+- **Large Room:**
+  - Encounter Pokémon: Golbat, Graveler, Koffing, Weezing, Rhydon, Slugma, Magcargo (levels 52-55).
+  - Recommended to battle trainers while with Buck (level 57-61 Pokémon).
+  - Key Items: Rare Candy, Flame Plate, TM50 (Overheat), various hidden items.
+
+- **Heatran's Room:**
+  - Encounter Charon, who is apprehended by Looker. Afterward, return outside with Buck.
+
+**Survival Area Overview:**
+- **Arrival:** Meet Buck and Barry outside Buck's house, which is the Battleground for rematches against Gym Leaders.
+- **Important:** Speak to Buck and his grandfather about Stark Mountain's legend to unlock Heatran later.
+- **Barry's Team:** Barry (team level 59-65) can be rechallenged on weekends. His team scales with Hall of Fame records.
+
+**Key Notes:**
+- Stock up on Max Repels for the Large Room.
+- Use Rock Climb and Strength to access hidden items.
+- After defeating the Galactic leaders, Heatran becomes accessible upon returning to Stark Mountain after talking to Buck and his grandfather.
+
+**Next Steps:** 
+- Prepare for challenges in the Survival Area and beyond.

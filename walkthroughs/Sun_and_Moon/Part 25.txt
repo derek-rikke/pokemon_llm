@@ -1,0 +1,1199 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Sun_and_Moon_walkthrough/Section_25
+Keywords: Mount Lanakila
+
+Walkthrough Text:
+Contents
+1
+Mount Lanakila
+1.1
+Base
+1.1.1
+VS Gladion
+1.1.1.1
+Player chose Rowlet:
+1.1.1.2
+Player chose Litten:
+1.1.1.3
+Player chose Popplio:
+1.2
+Upper Reaches (Lower)
+1.3
+Icy Cave
+1.4
+Upper Reaches (Upper)
+1.5
+Peak
+1.5.1
+Pokémon Center
+1.5.1.1
+Madam Memorial
+1.5.2
+Rival Battle 7
+1.5.2.1
+Player chose Rowlet:
+1.5.2.2
+Player chose Litten:
+1.5.2.3
+Player chose Popplio:
+1.5.3
+Prepare with the Professor
+Mount Lanakila
+Mount Lanakila, Base
+Mount Lanakila
+is the tallest mountain in
+Alola
+, located north of
+Tapu Village
+on
+Ula'ula Island
+. Construction on the mountain has now concluded, resulting in the new
+Pokémon League
+site atop its highest peak.
+Available Pokémon
+Upper Reaches
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Southern field of grass near base and field near the peak
+Sandshrew
+Alolan Form
+Sandshrew
+S
+M
+Grass
+42-45
+30%
+Vulpix
+Alolan Form
+Vulpix
+S
+M
+Grass
+45-48
+30%
+Snorunt
+Snorunt
+Glalie
+S
+M
+Grass
+45-48
+30%
+Snorunt
+Snorunt
+Glalie
+S
+M
+Grass
+42-45
+30%
+Sneasel
+Sneasel
+S
+M
+Grass
+45-48
+20%
+Sneasel
+Sneasel
+S
+M
+Grass
+42-45
+20%
+Absol
+Absol
+S
+M
+Grass
+45-48
+20%
+Absol
+Absol
+S
+M
+Grass
+42-45
+20%
+Northern field of grass near base
+Sandshrew
+Alolan Form
+Sandshrew
+S
+M
+Grass
+42-45
+30%
+Vulpix
+Alolan Form
+Vulpix
+S
+M
+Grass
+42-45
+30%
+Snorunt
+Snorunt
+Glalie
+S
+M
+Grass
+42-45
+30%
+Sneasel
+Sneasel
+S
+M
+Grass
+42-45
+20%
+Absol
+Absol
+S
+M
+Grass
+42-45
+20%
+Special allies in weather
+(southern field and near the peak)
+Any
+Rain
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+45-48
+11%
+Any
+Rain
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+42-45
+11%
+Any
+In
+hail
+:
+Vanillish
+S
+M
+Grass
+45-48
+10%
+Any
+In
+hail
+:
+Vanillish
+S
+M
+Grass
+42-45
+10%
+Any
+In
+hail
+:
+Castform
+S
+M
+Grass
+45-48
+1%
+Any
+In
+hail
+:
+Castform
+S
+M
+Grass
+42-45
+1%
+Special allies in weather
+(northern field near base)
+Any
+Rain
+or
+sandstorm
+:
+Castform
+S
+M
+Grass
+42-45
+11%
+Any
+In
+hail
+:
+Vanillish
+S
+M
+Grass
+42-45
+10%
+Any
+In
+hail
+:
+Castform
+S
+M
+Grass
+42-45
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Icy Cave: Right
+Pokémon
+Allies
+Games
+Location
+Levels
+Rate
+Golbat
+Golbat
+S
+M
+Cave
+45-48
+30%
+Golbat
+Golbat
+S
+M
+Cave
+42-45
+30%
+Snorunt
+Snorunt
+Glalie
+S
+M
+Cave
+45-48
+30%
+Snorunt
+Snorunt
+Glalie
+S
+M
+Cave
+42-45
+30%
+Sneasel
+Sneasel
+S
+M
+Cave
+45-48
+20%
+Sneasel
+Sneasel
+S
+M
+Cave
+42-45
+20%
+Absol
+Absol
+S
+M
+Cave
+45-48
+20%
+Absol
+Absol
+S
+M
+Cave
+42-45
+10%
+Drampa
+Drampa
+S
+M
+Cave
+42-45
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Max Elixir
+Base; from
+Gladion
+, after defeating him
+S
+M
+Escape Rope
+Upper Reaches (Lower); in the first field of tall grass past the elevator
+S
+M
+Zygarde Cell
+Upper Reaches (Lower); near a rock past the first field of grass
+S
+M
+TM13
+(
+Ice Beam
+)
+Icy Cave; the western tunnel from the first intersection
+S
+M
+Icium Z
+Icy Cave; on a pedestal in the northeast part of the cave
+S
+M
+Full Restore
+Icy Cave; behind two rocks, northwest of the Z-Crystal pedestal
+S
+M
+Max Revive
+×4
+Upper Reaches (Upper); west side, near the sound end of the tall grass
+Peak; from
+Hau
+, after defeating him (×3)
+S
+M
+Zygarde Cell
+Peak; southwest of the Pokémon Center, near several large rocks
+S
+M
+PP Max
+Peak; atop the ramp outside the Pokémon Center, in the corner to the north
+(hidden)
+S
+M
+Base
+When you approach the elevator platform, the elevator descends with
+Gladion
+. He has been meaning to thank you for what you did for
+Lillie
+and
+Lusamine
+. The only thing he can offer in return is a full-power battle with his new
+Z-Ring
+.
+VS Gladion
+Gladion
+'s
+Crobat
+and
+Weavile
+share a weakness to
+Rock-type
+attacks. Weavile and
+Lucario
+are both vulnerable to
+Fire
+and
+Fighting
+moves. Beware of Lucario's
+Steelium Z
+, which upgrades its
+Metal Claw
+into
+Corkscrew Crash
+with a base power of 100. His
+Type: Null
+has since evolved into
+Silvally
+; the
+Memory
+it holds will vary based on your first Pokémon.
+Player chose
+Rowlet
+:
+Pokémon Trainer
+Gladion
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,480
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+52
+Acrobatics
+Flying
+Physical
+--
+Cross Poison
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+52
+Ice Shard
+Ice
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+Steelium Z
+Lucario
+♂
+Lv.
+52
+Aura Sphere
+Fighting
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+RKS System
+Held item:
+Fire Memory
+Silvally
+Lv.
+53
+Crunch
+Dark
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Multi-Attack
+Fire
+Physical
+--
+Player chose
+Litten
+:
+Pokémon Trainer
+Gladion
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,480
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+52
+Acrobatics
+Flying
+Physical
+--
+Cross Poison
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+52
+Ice Shard
+Ice
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+Steelium Z
+Lucario
+♂
+Lv.
+52
+Aura Sphere
+Fighting
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+RKS System
+Held item:
+Water Memory
+Silvally
+Lv.
+53
+Crunch
+Dark
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Multi-Attack
+Water
+Physical
+--
+Player chose
+Popplio
+:
+Pokémon Trainer
+Gladion
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,480
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+52
+Acrobatics
+Flying
+Physical
+--
+Cross Poison
+Poison
+Physical
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+Types:
+Dark
+Ice
+Ability:
+Pressure
+Held item:
+None
+Weavile
+♂
+Lv.
+52
+Ice Shard
+Ice
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Metal Claw
+Steel
+Physical
+--
+Curse
+Unknown
+Status
+--
+Types:
+Fighting
+Steel
+Ability:
+Inner Focus
+Held item:
+Steelium Z
+Lucario
+♂
+Lv.
+52
+Aura Sphere
+Fighting
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Grass
+Unknown
+Ability:
+RKS System
+Held item:
+Grass Memory
+Silvally
+Lv.
+53
+Crunch
+Dark
+Physical
+--
+Crush Claw
+Normal
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Multi-Attack
+Grass
+Physical
+--
+After the battle, he informs you that
+Lillie
+is taking care of their mother at the
+Aether Foundation
+, and gives you a
+Max Elixir
+from her. Seeing that you and
+Hau
+are both going to keep getting stronger, Gladion realizes that he can't let his guard down yet. He smiles and tells you to keep winning before leaving toward
+Tapu Village
+. Take a moment to visit the village and rest your Pokémon before climbing onto the elevator.
+Upper Reaches (Lower)
+Head through the tall grass to the east to pick up an
+Escape Rope
+, then collect the
+Zygarde Cell
+a bit farther along on the left. Continue northward and enter the cave.
+Icy Cave
+Climb up along the tunnel as it bends around to the west until you reach a fork in the road. Go west to find
+TM13
+(
+Ice Beam
+) sitting above a ledge, then backtrack and turn northward. Continue on as the tunnel climbs higher to reach another intersection. First, head east to reach a winding path that leads to a pedestal that holds the
+Icium Z
+. Take the northern path to reach a
+Full Restore
+behind some rocks, then continue westward to find an
+ice-covered rock
+. Go north from here to climb to the cave exit.
+Upper Reaches (Upper)
+Climb up the small slope to the upper level. Pick up the
+Max Revive
+among the tall grass to the west, then climb onto the second elevator.
+Peak
+Pokémon Center
+Visit the Pokémon Center to make sure that your Pokémon are prepared for the upcoming trial. Be sure to stock up on Potions, Revives, and items to cure status ailments. Challengers must face the four elite Trainers with no break, so there will be no running to the Pokémon Center if things get dire!
+Madam Memorial
+An elderly woman near the Poké Mart knows every move that each Pokémon can learn. In exchange for one
+Heart Scale
+per session, she can re-teach any move that may have been forgotten.
+Rival Battle 7
+When you climb up the slope to the west of the Pokémon Center,
+Hau
+catches up to you. He's cleared the rest of his trials and even went back home for more training. Once he heard that you were already climbing the mountain, he got here as fast as he could. He challenges you to a battle to determine which of you will be the first to reach the new
+Pokémon League
+!
+Player chose
+Rowlet
+:
+Pokémon Trainer
+Hau
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,640
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+53
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+53
+Flare Blitz
+Fire
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+53
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Water
+Fairy
+Ability:
+Torrent
+Held item:
+Waterium Z
+Primarina
+♂
+Lv.
+54
+Sparkling Aria
+Water
+Special
+--
+Moonblast
+Fairy
+Special
+--
+Hyper Voice
+Normal
+Special
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Litten
+:
+Pokémon Trainer
+Hau
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,640
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+53
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Water
+Unknown
+Ability:
+Water Absorb
+Held item:
+None
+Vaporeon
+♂
+Lv.
+53
+Hydro Pump
+Water
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+53
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Grass
+Ghost
+Ability:
+Overgrow
+Held item:
+Grassium Z
+Decidueye
+♂
+Lv.
+54
+Spirit Shackle
+Ghost
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Smack Down
+Rock
+Physical
+--
+Curse
+Unknown
+Status
+--
+Player chose
+Popplio
+:
+Pokémon Trainer
+Hau
+Mount Lanakila
+Sun and Moon
+Reward:
+$
+8,640
+Types:
+Electric
+Psychic
+Ability:
+Surge Surfer
+Held item:
+None
+Raichu
+♂
+Lv.
+53
+Thunderbolt
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Type:
+Grass
+Unknown
+Ability:
+Leaf Guard
+Held item:
+None
+Leafeon
+♂
+Lv.
+53
+Leaf Blade
+Grass
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Charm
+Fairy
+Status
+--
+Baby-Doll Eyes
+Fairy
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Comatose
+Held item:
+None
+Komala
+♀
+Lv.
+53
+Wood Hammer
+Grass
+Physical
+--
+Sucker Punch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Types:
+Fire
+Dark
+Ability:
+Blaze
+Held item:
+Firium Z
+Incineroar
+♂
+Lv.
+54
+Darkest Lariat
+Dark
+Physical
+--
+Flare Blitz
+Fire
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Curse
+Unknown
+Status
+--
+Disappointed with his defeat, he promises to keep training so that he can come back the next time and defeat you and your
+Champion
+title. He gives you three
+Max Revives
+and runs off with a parting wave.
+Prepare with the Professor
+When you reach the summit, you find
+Professor Kukui
+waiting to congratulate you on clearing the island challenge. He explains that as
+Mount Lanakila
+has always been where the challenge ends, he built the
+Pokémon League
+here as well, as high into the heavens as possible to honor the Legendary Pokémon. It seems he got the idea when he traveled to
+Indigo Plateau
+and took on the Pokémon League of the far-off
+Kanto
+region.
+← Part 24
+Altar of the Sunne / Altar of the Moone, Ultra Space
+Sun and Moon
+walkthrough
+The Pokémon League
+Part 26 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

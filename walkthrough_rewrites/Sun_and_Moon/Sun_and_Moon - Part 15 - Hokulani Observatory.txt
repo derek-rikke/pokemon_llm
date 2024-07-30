@@ -1,0 +1,61 @@
+Game: Sun_and_Moon
+Part: 15
+Keywords: Hokulani Observatory
+
+**Part 15: Route 10, Mount Hokulani, Trial 5: Hokulani Observatory**
+
+**Route 10**
+- **Access**: Travel from Malie City to Mount Hokulani via the Exeggutor Express from the bus stop north of the route.
+  
+- **Trainers**:
+  - Firefighter Alex (Poliwhirl, Lv. 28; Reward: $1,120)
+  - Beauty Andrea (Steenee, Lv. 27; Reward: $864)
+  - Police Officer Mitchell (Growlithe, Lv. 28; Reward: $1,120)
+  - Team Skull Grunts (Golbat and Alolan Raticate, both Lv. 27; Reward: $864 each)
+
+- **Available Pokémon**: Fearow, Gumshoos, Alolan Raticate, Ledian, and others (Levels 24-27).
+  
+- **Items**: 
+  - Lemonade (outside Malie City)
+  - Paralyze Heal (north side of southern grass patch)
+  - Tiny Mushroom (south of path near Berry tree)
+  - X Accuracy (in western grass patch)
+  - Zygarde Cell (near Trainer Tips sign)
+
+- **Stufful's Adventure**: Find eight Stufful for a reward of Never-Melt Ice and $15,000.
+
+- **VS Team Skull**: Defeat two Grunts at the bus stop to proceed.
+
+**Mount Hokulani**
+- **Access**: Take the Exeggutor Express to the Hokulani Observatory.
+
+- **Trainers**:
+  - Office Worker Jessica (Clefairy, Lv. 28; Reward: $1,120)
+  - Hiker Thomas (Boldore, Lv. 27; Geodude, Alolan, Lv. 28; Reward: $896)
+  - Collector Todd (Passimian, Oranguru, both Lv. 28; Reward: $896)
+  - Veteran Akira (Absol, Lv. 30; Reward: $2,640)
+
+- **Available Pokémon**: Fearow, Minior, Ditto, Skarmory, Beldum (Levels 25-28).
+
+- **Items**: 
+  - Moon Ball (east of Pokémon Center)
+  - TM72 (Volt Switch, near northeast grass patch)
+  - Rare Candy (hidden on rock)
+  - Electrium Z (after trial completion)
+  
+- **Catch Up with Kukui**: Meet Kukui and learn about Mount Lanakila and Alola's Pokémon League.
+
+- **Hokulani Summit**: Battle Molayne (Steel-type; Reward: $3,000). Use Fire, Fighting, and Ground moves for effectiveness.
+
+**Hokulani Observatory**
+- **Items**: Comet Shard (from Scientist), Steelium Z (after Sophocles' trial), Professor's Mask (after trial).
+
+- **Captain Sophocles' Trial**: Complete an audio quiz to summon the Totem Pokémon.
+
+- **VS Totem Vikavolt**: Focus on Vikavolt first. Use Fire and Rock-type moves. Vikavolt has Levitate, so Ground moves won't work.
+
+- **Post-Trial Rewards**: Receive Electrium Z and Steelium Z after defeating the Totem and its allies.
+
+- **Next Steps**: Return to Malie Garden to find Kukui.
+
+**End of Part 15**

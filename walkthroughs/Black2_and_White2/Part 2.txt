@@ -1,0 +1,1174 @@
+Part: Part 2
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Black_2_and_White_2_walkthrough/Section_2
+Keywords: Route 20, Floccesy Ranch, Pledge Grove, Aspertia Gym
+
+Walkthrough Text:
+Contents
+1
+Route 20
+1.1
+Floccesy Ranch
+2
+Floccesy Town
+2.1
+Alder's house
+2.2
+Pledge Grove
+3
+Aspertia City
+3.1
+Trainers' School
+3.1.1
+Aspertia Gym
+3.1.1.1
+Easy Mode/Normal Mode
+3.1.1.2
+Challenge Mode
+4
+Floccesy Town
+5
+Route 20
+Route 20
+Route 20
+Route 20
+is a road that connects
+Floccesy Town
+and
+Virbank City
+. A river runs from the south all the way to
+Floccesy Ranch
+in the north. In autumn, the fallen leaves change the scenery dramatically. Hiker Jerome blocks the stairway to the east side of the route for now, and
+Hugh
+is nowhere to be found on the west side. He must have gone to
+Floccesy Ranch
+, so cross the bridge and head north.
+Trainers
+Trainer
+Pokémon
+Youngster
+Terrell
+Reward:
+$
+64
+Patrat
+♂
+Lv.
+4
+No item
+Lass
+Isabel
+Reward:
+$
+64
+Purrloin
+♀
+Lv.
+4
+No item
+Youngster
+Petey
+Reward:
+$
+64
+Patrat
+♂
+Lv.
+4
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sewaddle
+B2
+W2
+Grass
+2-4
+35%
+Pidove
+B2
+W2
+Grass
+2-4
+25%
+5%
+25%
+25%
+Sunkern
+B2
+W2
+Grass
+2-4
+5%
+25%
+5%
+5%
+Patrat
+B2
+W2
+Grass
+2-3
+20%
+Purrloin
+B2
+W2
+Grass
+2-4
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Parlyz Heal
+North of Lass Isabel
+B2
+W2
+Poké Ball
+×2
+On a rock northwest of Hiker Jerome (hidden)
+South of Floccesy Ranch
+Autumn
+B2
+W2
+Floccesy Ranch
+Floccesy Ranch
+Floccesy Ranch
+came about naturally as Pokémon and people gathered in the area. The ranch is owned and operated by a husband and wife. A rich forest lies just beyond the ranch's northern boundary.
+Trainers
+Trainer
+Pokémon
+Lass
+Molly
+Reward:
+$
+96
+Purrloin
+♀
+Lv.
+6
+No item
+Sewaddle
+♀
+Lv.
+6
+No item
+Janitor
+Orville
+Reward:
+$
+240
+Lillipup
+♂
+Lv.
+6
+No item
+Mareep
+♂
+Lv.
+6
+No item
+Youngster
+Kenny
+Reward:
+$
+96
+Patrat
+♂
+Lv.
+6
+No item
+Psyduck
+♂
+Lv.
+6
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Patrat
+B2
+W2
+Grass
+5
+25%
+Lillipup
+B2
+W2
+Grass
+4-7
+25%
+Psyduck
+B2
+W2
+Grass
+5
+15%
+Azurill
+B2
+W2
+Grass
+5
+15%
+Pidove
+B2
+W2
+Grass
+7
+10%
+Mareep
+B2
+W2
+Grass
+5
+5%
+Riolu
+B2
+W2
+Grass
+5-7
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Potion
+×2
+From the owner's wife after battling Hugh
+In the forest, east of Youngster Kenny
+B2
+W2
+Poké Ball
+Between the pastures, east of Lass Molly
+B2
+W2
+Parlyz Heal
+From Hugh, near Janitor Orville
+B2
+W2
+X Attack
+South of Youngster Kenny
+B2
+W2
+TM21
+(
+Frustration
+)
+From the Plasma Grunt at the forest's dead-end
+B2
+W2
+When you try to enter the pastures to the west,
+Hugh
+runs up to challenge you to another battle.
+If the
+player
+chose
+Snivy
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Floccesy Ranch
+Black 2 and White 2
+Reward:
+$
+800
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Tepig
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Tepig
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Floccesy Ranch
+Black 2 and White 2
+Reward:
+$
+800
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Oshawott
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Tail Whip
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+If the
+player
+chose
+Oshawott
+:
+P
+K
+M
+N
+Trainer
+Hugh
+Floccesy Ranch
+Black 2 and White 2
+Reward:
+$
+800
+Type:
+Grass
+Unknown
+Ability:
+Overgrow
+Held item:
+None
+Snivy
+♂
+Lv.
+8
+Tackle
+Normal
+Physical
+--
+Leer
+Normal
+Status
+--
+Curse
+Unknown
+Status
+--
+Curse
+Unknown
+Status
+--
+After the battle, you deliver the extra
+Town Map
+to him. Just then, the ranch owner and his wife appear. She hands you a
+Potion
+, and he asks if either of you have seen their missing
+Herdier
+.
+Hugh
+gets angry at him for his careless attitude, and runs off to search for the dog. It's not in the pastures, so check the forest to the north. Hugh catches up to you near Janitor Orville to give you a
+Parlyz Heal
+. Go east to reach a grass patch with another Potion, then turn south to reach a clearing, where Herdier is cornered by a
+Team Plasma Grunt
+. Hugh dashes off to notify the owner, and the thug throws
+TM21
+(
+Frustration
+) at you as a distraction while he escapes.
+Now that you have delivered the extra Town Map and found the lost Herdier, you can return to
+Floccesy Town
+to have
+Alder
+help train your Pokémon.
+Floccesy Town
+Items
+Item
+Location
+Games
+X Speed
+West of Alder's house
+B2
+W2
+Potion
+From the old man in the first house east of the Pokémon Center
+B2
+W2
+Medal Box
+From Mr. Medal, in front of Alder's house
+B2
+W2
+Alder's house
+After returning from
+Floccesy Ranch
+,
+Alder
+will ask you to battle his two students. Their Pokémon change depending on which
+first partner Pokémon
+you chose, so keep type match-ups in mind.
+Trainers
+Player chose Snivy
+Trainer
+Pokémon
+School Kid
+Seymour
+Reward:
+$
+180
+Panpour
+♂
+Lv.
+9
+No item
+School Kid
+Cassie
+Reward:
+$
+180
+Pansear
+♂
+Lv.
+9
+No item
+Player chose Tepig
+Trainer
+Pokémon
+School Kid
+Seymour
+Reward:
+$
+180
+Pansage
+♂
+Lv.
+9
+No item
+School Kid
+Cassie
+Reward:
+$
+180
+Panpour
+♂
+Lv.
+9
+No item
+Player chose Oshawott
+Trainer
+Pokémon
+School Kid
+Seymour
+Reward:
+$
+180
+Pansear
+♂
+Lv.
+9
+No item
+School Kid
+Cassie
+Reward:
+$
+180
+Pansage
+♂
+Lv.
+9
+No item
+Pledge Grove
+When you step outside, you meet a man named Mr. Medal. He gives you a
+Medal Box
+, which lets you participate in the Medal Rally competition. You can earn a variety of
+Medals
+during your adventure by meeting various conditions, like finding hidden items or evolving a Pokémon. Talk to Mr. Medal in any Pokémon Center to receive them. There are 255 different Medals to collect. Once he leaves,
+Alder
+steps outside to inform you that the
+Aspertia Gym
+has reopened.
+Pledge Grove
+The path behind
+Alder
+'s house leads to
+Pledge Grove
+, a tiny clearing shrouded by trees. Bring
+Keldeo
+to inspect the deep cut marks on the boulder and it will learn
+Secret Sword
+, its signature move. As long as it knows this move, Keldeo will remain in its Resolute Form.
+Aspertia City
+Items
+Item
+Location
+Games
+X Defend
+From a boy in the Trainers' School
+B2
+W2
+Fresh Water
+From
+Clyde
+behind the school
+B2
+W2
+After defeating the Aspertia Gym
+TM83
+(
+Work Up
+)
+From Cheren after defeating him
+B2
+W2
+TM27
+(
+Return
+)
+From Bianca outside the Gym
+B2
+W2
+C-Gear
+From Bianca outside the Gym
+B2
+W2
+Ultra Ball
+From girl in the northeast house
+B2
+W2
+Trainers' School
+The boy blocking the entrance moves out of the way, so you can finally visit the
+Trainers' School
+. The large blackboard describes the various
+status conditions
+, like
+Poison
+or
+Paralysis
+, that can affect a Pokémon. Talk to the boy nearby to get an
+X Defend
+. In the back of the building, a girl teaches you how to cancel a Pokémon's evolution. Step through the back door to reach the
+Aspertia Gym
+. The man near the door,
+Clyde
+, will be waiting at every Gym to give you a
+Fresh Water
+.
+Aspertia Gym
+Aspertia Gym
+Aspertia City Pokémon Gym
+Gym Leader: Cheren
+The one who seeks the right path
+The
+Aspertia Gym
+specializes in
+Normal-type
+Pokémon.
+Cheren
+'s Pokémon all know the move
+Work Up
+, so defeat them quickly before getting hit by a powered-up attack. If you caught a
+Riolu
+in
+Floccesy Ranch
+, its
+Fighting-type
+attacks can inflict serious damage. If you're playing on Challenge Mode, then Riolu's Fighting-type attacks only inflict normal damage on
+Pidove
+so make use of
+Mareep
+'s
+Electric-type
+attacks if you caught one in
+Floccesy Ranch
+. If you have a
+Pidove
+or
+Purrloin
+, you can use
+Growl
+to counter
+Work Up
+.
+Aspertia Gym
+Trainers
+Trainer
+Pokémon
+Youngster
+Pedro
+Reward:
+$
+144
+Patrat
+♂
+Lv.
+9
+No item
+Lillipup
+♂
+Lv.
+9
+No item
+Lass
+Serena
+Reward:
+$
+144
+Lillipup
+♀
+Lv.
+9
+No item
+Patrat
+♀
+Lv.
+9
+No item
+Easy Mode/Normal Mode
+Leader
+Cheren
+Aspertia Gym
+Black 2 and White 2
+Reward:
+$
+1440
+/
+$
+1560
+Type:
+Normal
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Patrat
+♂
+Lv.
+10
+/
+11
+Tackle
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+None
+Lillipup
+♂
+Lv.
+12
+/
+13
+Tackle
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Curse
+Unknown
+Status
+--
+Challenge Mode
+Leader
+Cheren
+Aspertia Gym
+Black 2 and White 2
+Reward:
+$
+1680
+Type:
+Normal
+Unknown
+Ability:
+Keen Eye
+Held item:
+None
+Patrat
+♂
+Lv.
+12
+Tackle
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Detect
+Fighting
+Status
+--
+Types:
+Normal
+Flying
+Ability:
+Super Luck
+Held item:
+None
+Pidove
+♂
+Lv.
+12
+Quick Attack
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Leer
+Normal
+Status
+--
+Growl
+Normal
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Vital Spirit
+Held item:
+Oran Berry
+Lillipup
+♂
+Lv.
+14
+Tackle
+Normal
+Physical
+--
+Work Up
+Normal
+Status
+--
+Bite
+Dark
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Defeated,
+Cheren
+awards you the
+Basic Badge
+, which makes all Pokémon up to level 20 obey, even those obtained in a trade. He also gives you
+TM83
+(
+Work Up
+) as a prize.
+Bianca
+is waiting for you outside the Gym. Impressed with your victory, she gives you
+TM27
+(
+Return
+) as well as the
+C-Gear
+.
+Cheren
+exits the Gym, and the three of you register each other's numbers in the
+Xtransceiver
+. Bianca also registers
+Professor Juniper
+'s number for you. Just then,
+Hugh
+shows up to challenge the Gym, and Cheren leads him to the battlefield. Bianca informs you that the next Gym is in
+Virbank City
+, east of
+Floccesy Ranch
+.
+Floccesy Town
+On your way back through
+Floccesy Town
+, Bianca shows up again to upgrade your
+Pokédex
+with the Habitat List, which shows every Pokémon seen and caught in an area. She also reminds you that Pokémon can sometimes be found in
+rustling grass
+before heading off again.
+Route 20
+Cheren
+and
+Hugh
+catch up to you at the bottom of the stairway. Cheren explains that stronger Pokémon, sometimes even two at once, can be found in patches of
+dark grass
+. He gives you a few
+Pecha Berries
+to help with
+Virbank Gym
+, then leaves. Hugh stays here to train in the dark grass for now.
+Trainers
+Trainer
+Pokémon
+Hiker
+Jerome
+Reward:
+$
+352
+Riolu
+♂
+Lv.
+11
+No item
+Preschooler
+Albert
+Reward:
+$
+40
+Psyduck
+♂
+Lv.
+10
+No item
+Preschooler
+Lin
+Reward:
+$
+40
+Lillipup
+♀
+Lv.
+10
+No item
+Twins
+Lia & Lily
+Reward:
+$
+144
+Sunkern
+♀
+Lv.
+9
+No item
+Sunkern
+♀
+Lv.
+9
+No item
+Nursery Aide
+Kimya
+Reward:
+$
+440
+Dunsparce
+♀
+Lv.
+11
+No item
+Defeat Team Plasma at Virbank City
+Team Plasma Grunt
+Reward:
+$
+560
+Purrloin
+♀
+Lv.
+14
+No item
+Requires
+Surf
+Pokémon Ranger
+Leaf
+Reward:
+$
+1920
+Autumn only
+Deerling
+♂
+Autumn Form
+Lv.
+32
+No item
+Scolipede
+♂
+Lv.
+32
+No item
+Pokémon Ranger
+Malory
+Reward:
+$
+1980
+Autumn only
+Arcanine
+♂
+Lv.
+33
+No item
+Pokémon Ranger
+Bret
+Reward:
+$
+1980
+Autumn only
+Stoutland
+♂
+Lv.
+33
+No item
+Requires
+Surf
+,
+Waterfall
+Pokémon Ranger
+Naoko
+Reward:
+$
+1920
+Autumn only
+Foongus
+♀
+Lv.
+32
+No item
+Leavanny
+♀
+Lv.
+32
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Sp
+Su
+Au
+Wi
+Sewaddle
+B2
+W2
+Grass
+2-4
+35%
+Pidove
+B2
+W2
+Grass
+2-4
+25%
+5%
+25%
+25%
+Sunkern
+B2
+W2
+Grass
+2-4
+5%
+25%
+5%
+5%
+Patrat
+B2
+W2
+Grass
+2-3
+20%
+Purrloin
+B2
+W2
+Grass
+2-4
+15%
+Rustling grass
+Audino
+B2
+W2
+Grass
+2-4
+90%
+Dunsparce
+B2
+W2
+Grass
+3
+10%
+Dark grass
+Pidove
+B2
+W2
+Dark grass
+9-10
+25%
+5%
+25%
+25%
+Sunkern
+B2
+W2
+Dark grass
+9-11
+5%
+25%
+5%
+5%
+Patrat
+B2
+W2
+Dark grass
+10
+20%
+Venipede
+B2
+W2
+Dark grass
+10
+20%
+Purrloin
+B2
+W2
+Dark grass
+10-11
+15%
+Sewaddle
+B2
+W2
+Dark grass
+10-11
+15%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Dire Hit
+Northeast of Nursery Aide Kimya
+B2
+W2
+Antidote
+Northeast of Preschooler Lin
+B2
+W2
+Pecha Berry
+×3
+Gift from Cheren near the dark grass
+B2
+W2
+Great Ball
+In the patch of dark grass
+B2
+W2
+Requires
+Surf
+Max Revive
+Near Pokémon Ranger Leaf
+Autumn
+B2
+W2
+Rare Candy
+Near Pokémon Ranger Leaf
+Autumn
+B2
+W2
+Sitrus Berry
+From Pokémon Ranger Leaf after defeating her
+B2
+W2
+Leppa Berry
+×2
+From Pokémon Ranger Malory after defeating her
+Autumn
+From Pokémon Ranger Bret after defeating him
+Autumn
+B2
+W2
+Requires
+Surf
+,
+Waterfall
+Sitrus Berry
+From Pokémon Ranger Naoko after defeating her
+Autumn
+B2
+W2
+Sticky Barb
+South of the two bridges, near Pokémon Ranger Naoko
+Autumn
+B2
+W2
+← Part 1
+Intro, Aspertia City, Route 19, Floccesy Town
+Black 2 and White 2
+walkthrough
+Virbank City, Virbank Complex, Virbank Gym, PokéStar Studios
+Part 3 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

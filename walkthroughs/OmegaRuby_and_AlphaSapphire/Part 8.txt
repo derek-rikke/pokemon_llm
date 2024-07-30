@@ -1,0 +1,1177 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Omega_Ruby_and_Alpha_Sapphire_walkthrough/Section_8
+Keywords: Fallarbor Town, Route 114, Meteor Falls, Route 115
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Omega Ruby and Alpha Sapphire
+.
+These pages follow the remade
+Nintendo 3DS
+iteration,
+not
+Pokémon Ruby and Sapphire
+. The guide for those games can be found
+here
+.
+Contents
+1
+Fallarbor Town
+1.1
+Meet Lanette
+1.2
+Abduction!
+1.3
+Move Maniac
+2
+Route 114
+2.1
+Fossil Maniac
+2.2
+Lanette's House
+2.3
+A Berry A Day
+2.4
+Race to the Falls!
+3
+Meteor Falls
+3.1
+1F
+3.1.1
+VS Team Magma
+3.1.2
+VS Team Aqua
+4
+Fallarbor Town
+4.1
+Professor Cozmo's Lab
+5
+Route 115
+5.1
+Treasure-Hunting
+Fallarbor Town
+Fallarbor Town
+The small town of
+Fallarbor
+is located between Routes
+113
+and
+114
+, and features rich soil perfect for gardening. A third
+Contest Spectacular
+Hall can be found here. The town is also home to a
+Move Maniac
+and
+Professor Cozmo
+.
+Items
+Item
+Location
+Games
+Nugget
+In the crater near Professor Cozmo's Lab (hidden)
+OR
+AS
+Honey
+From a Bug Maniac in the Pokémon Center, one per day
+OR
+AS
+Berry Blender
+From an old man in the Contest Hall lobby
+OR
+AS
+Return trip
+TM23
+(
+Smack Down
+)
+From Professor Cozmo in his home, after saving him at
+Meteor Falls
+OR
+AS
+Galladite
+From Professor Cozmo in his home, after completing the
+Delta Episode
+OR
+AS
+Meet Lanette
+Inside the Pokémon Center, you find the PC in use by a woman named
+Lanette
+. She upgraded the previous version of the
+Pokémon Storage System
+, adding a user-friendly graphical interface, the ability to store nearly 1,000 Pokémon, and the ability to change the
+wallpaper
+of each Box. As she leaves, she invites you to visit her home on
+Route 114
+.
+Abduction!
+As you continue westward, May/Brendan calls out to you. Your friend leads you to
+Professor Cozmo
+'s house, where you learn that the professor has been abducted by
+Team Magma
+OR
+/
+Team Aqua
+AS
+. It seems that the group has plans for the Meteorite that Cozmo has been researching, and has taken it and the professor to
+Meteor Falls
+! She/He asks that you meet up there, then rushes off.
+Move Maniac
+The
+Move Maniac
+lives in the northwest house. This helpful guy knows every move a Pokémon can learn as it grows and can teach forgotten moves to any Pokémon, for a price. He charges a single
+Heart Scale
+for each move relearned. These rare items can sometimes be found by clearing
+cracked rocks
+.
+Route 114
+Route 114
+Pockmarked by fallen Meteorites, the lengthy
+Route 114
+leads up the mountainside to
+Meteor Falls
+. The
+Fossil Maniac
+lives up north, while
+Lanette
+'s home stands on the water's edge.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Claude
+Reward:
+$
+672
+Corphish
+♂
+Lv.
+21
+No item
+Wailmer
+♂
+Lv.
+21
+No item
+Fisherman
+Nolan
+Reward:
+$
+736
+Gyarados
+♂
+Lv.
+23
+No item
+Teammates
+Tyra & Ivy
+Reward:
+$
+1,104
+Roselia
+♀
+Lv.
+21
+No item
+Azumarill
+♀
+Lv.
+23
+No item
+Poké Maniac
+Steve
+Reward:
+$
+644
+Aron
+♂
+Lv.
+23
+No item
+Camper
+Shane
+Reward:
+$
+320
+Minun
+♂
+Lv.
+20
+No item
+Volbeat
+♂
+Lv.
+20
+No item
+Kindler
+Bernie
+Reward:
+$
+704
+Slugma
+♂
+Lv.
+20
+No item
+Wingull
+♂
+Lv.
+22
+No item
+Hiker
+Lucas
+Reward:
+$
+640
+Geodude
+♂
+Lv.
+22
+No item
+Geodude
+♂
+Lv.
+20
+No item
+Hiker
+Lenny
+Reward:
+$
+736
+Machop
+♂
+Lv.
+23
+No item
+Rematch
+Poké Maniac
+Steve
+Reward:
+$
+896
+Lairon
+♂
+Lv.
+32
+No item
+Rhyhorn
+♂
+Lv.
+32
+No item
+Kindler
+Bernie
+Reward:
+$
+1,056
+Slugma
+♂
+Lv.
+31
+No item
+Pelipper
+♂
+Lv.
+33
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Nuzleaf
+OR
+AS
+Grass
+16-19
+40%
+Lombre
+OR
+AS
+Grass
+16-19
+40%
+Swablu
+OR
+AS
+Grass
+16-19
+40%
+Zangoose
+OR
+AS
+Grass
+17, 19
+19%
+Seviper
+OR
+AS
+Grass
+17, 19
+19%
+Surskit
+OR
+AS
+Grass
+19
+1%
+Horde Encounter
+Swablu
+OR
+AS
+Horde Encounter
+9
+65%
+Seedot
+OR
+AS
+Horde Encounter
+9
+35%
+Lotad
+OR
+AS
+Horde Encounter
+9
+35%
+with Swablu
+Swablu
+OR
+AS
+Horde Encounter
+9
+35%
+with Lotad
+Rock Smash
+Geodude
+OR
+AS
+Rock Smash
+5, 10, 15, 20
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM28
+(
+Dig
+)
+Fossil Maniac's house, from his little brother
+OR
+AS
+TM05
+(
+Roar
+)
+From the old man and his
+Poochyena
+OR
+AS
+Revive
+Southwest edge of the lake (hidden)
+OR
+AS
+Aspear Berry
+×6
+From the Berry Trees southeast of Lanette's house
+OR
+AS
+Seedot Doll
+From Lanette, after speaking to her in Fallarbor Town
+OR
+Lotad Doll
+From Lanette, after speaking to her in Fallarbor Town
+AS
+Carbos
+Dead-end path, south of the southeastern grass patch (hidden)
+OR
+AS
+Protein
+On the mountain's first level, northwest of Poké Maniac Steve (requires
+Rock Smash
+)
+OR
+AS
+Comet Shard
+In the center of the smallest crater, southeast of Camper Shane (hidden)
+OR
+AS
+Rare Bone
+In the second-smallest crater, southeast of Camper Shane (hidden)
+OR
+AS
+Energy Powder
+North of the third crater, near a group of
+cracked rocks
+OR
+AS
+Return trip
+Rare Candy
+Atop the waterfall, on the west side (requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+Other Items
+Big Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Hard Stone
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Heart Scale
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Ether
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Max Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Normal Gem
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Pearl
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Revive
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Soft Sand
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Star Piece
+Randomly found by smashing
+breakable rocks
+OR
+AS
+Fossil Maniac
+The
+Fossil Maniac
+'s house stands on the outskirts of
+Fallarbor Town
+. Head inside and talk to his little brother, who kindly gives you
+TM28
+(
+Dig
+). When used in the field, Dig can be used while in a cave to return to the entrance. If you visit the cave at the back of the house, you will find the Fossil Maniac hard at work. He won't give up any Fossils, but hints that others may be uncovered by
+Route 111
+'s raging sandstorm.
+Lanette's House
+Go south across the bridge to reach
+Lanette
+'s house. Inside, you find the woman struggling to organize her clutter. She is happy that you stopped by, but embarrassed by the state of her home. If you promise to keep her messiness a secret, she will give you a
+Seedot Doll
+OR
+/
+Lotad Doll
+AS
+in return.
+After receiving the Decoration, talk to her again and she asks if you would like to organize the Pokémon stored in the PC more efficiently. Say yes, and she will update the PC so that the handy
+Organize Boxes
+option is moved to the top of the screen. This change can be undone by speaking to her again.
+A Berry A Day
+Speak to the Rich Boy outside Lanette's house and he will give out one random Berry every day. Visit him every day to receive either a
+Razz Berry
+,
+Bluk Berry
+,
+Nanab Berry
+,
+Wepear Berry
+, or
+Pinap Berry
+.
+Race to the Falls!
+As you begin the climb up the mountainside, you spot May/Brendan a short distance ahead. She/He seems to witness
+Team Magma
+OR
+/
+Team Aqua
+AS
+on the move with
+Professor Cozmo
+in tow, and rushes off in pursuit. Pick up the pace to help your friend save the professor!
+Meteor Falls
+Meteor Falls, 1F (front)
+Meteor Falls, 1F (back)
+Meteor Falls, B1F (front)
+Meteor Falls, B1F (back)
+Nestled in the mountains between Routes
+114
+and
+115
+,
+Meteor Falls
+is said to have been the site of a meteor shower in the distant past, at a time when
+an ancient people
+still made their home here. The cavern's rushing rapids prevent novice Trainers from fully exploring the area, as doing so requires certain
+field
+moves
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+1F (front)
+Zubat
+OR
+AS
+Cave
+16-19
+75%
+Solrock
+OR
+AS
+Cave
+16-19
+25%
+Lunatone
+OR
+AS
+Cave
+16-19
+25%
+Horde Encounter
+Zubat
+OR
+AS
+Horde Encounter
+9
+100%
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Goldeen
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Full Heal
+North of the Route 114 entrance
+OR
+AS
+Moon Stone
+On a hill, northwest of the bridge
+OR
+AS
+Return trip
+Great Ball
+1F: North of the bridge, east of the waterfall (hidden, requires
+Surf
+)
+OR
+AS
+Stardust
+1F: Atop the waterfall, east side (hidden; requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+Star Piece
+B1F: West of the entrance to the dead-end back chamber (hidden; requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+TM02
+(
+Dragon Claw
+)
+B1F: In the dead-end back chamber (requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+PP Max
+1F: South-southeast of the bridge, accessed via B1F (requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+Aerodactylite
+1F: Rear chamber, down the western series of ledges (requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+Super Repel
+1F: Rear chamber, under the Aerodactylite (hidden; requires
+Surf
+,
+Waterfall
+)
+OR
+AS
+After completing the Delta Episode
+Salamencite
+1F: Rear chamber, from
+Zinnia
+'s grandmother
+OR
+AS
+1F
+Cross the bridge to catch up to
+May
+/
+Brendan
+. She/He has finally caught up with
+Team Magma
+OR
+/
+Team Aqua
+AS
+, but they aren't about to release the professor that easily. Your friend asks for help, and the two of you take on these thugs—including
+the
+first
+of the team's two Admins—in a
+Multi Battle
+! May/Brendan uses
+the same team
+from your battle back on
+Route 110
+.
+VS Team Magma
+Magma Admin
+and
+Team Magma
+Tabitha
+Grunt
+Meteor Falls
+Omega Ruby
+Reward:
+$
+3,220
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+23
+Odor Sleuth
+Normal
+Status
+--
+Roar
+Normal
+Status
+--
+Snarl
+Dark
+Special
+--
+Swagger
+Normal
+Status
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Numel
+♂
+Lv.
+23
+Magnitude
+Ground
+Physical
+--
+Flame Burst
+Fire
+Special
+--
+Amnesia
+Psychic
+Status
+--
+Lava Plume
+Fire
+Special
+--
+Type:
+Poison
+Unknown
+Ability:
+Levitate
+Held item:
+None
+Koffing
+♀
+Lv.
+23
+Assurance
+Dark
+Physical
+--
+Clear Smog
+Poison
+Special
+--
+Sludge
+Poison
+Special
+--
+Self-Destruct
+Normal
+Physical
+--
+VS Team Aqua
+Aqua Admin
+and
+Team Aqua
+Shelly
+Grunt
+Meteor Falls
+Alpha Sapphire
+Reward:
+$
+3,220
+Type:
+Dark
+Unknown
+Ability:
+Quick Feet
+Held item:
+None
+Mightyena
+♀
+Lv.
+23
+Odor Sleuth
+Normal
+Status
+--
+Roar
+Normal
+Status
+--
+Snarl
+Dark
+Special
+--
+Swagger
+Normal
+Status
+--
+Types:
+Water
+Dark
+Ability:
+Rough Skin
+Held item:
+None
+Carvanha
+♀
+Lv.
+23
+Aqua Jet
+Water
+Physical
+--
+Assurance
+Dark
+Physical
+--
+Screech
+Normal
+Status
+--
+Swagger
+Normal
+Status
+--
+Type:
+Poison
+Unknown
+Ability:
+Stench
+Held item:
+None
+Grimer
+♂
+Lv.
+23
+Disable
+Normal
+Status
+--
+Sludge
+Poison
+Special
+--
+Mud Bomb
+Ground
+Special
+--
+Minimize
+Normal
+Status
+--
+Despite having been defeated, Team Magma
+OR
+/Team Aqua
+AS
+simply shrugs off the loss. Suddenly, you hear a voice mocking the professor's kidnappers. It's
+Archie
+OR
+/
+Maxie
+AS
+, leader of the opposing Team Aqua
+OR
+/Team Magma
+AS
+! Realizing that the odds are against them,
+Tabitha
+OR
+/
+Shelly
+AS
+orders the Grunt to steal
+Professor Cozmo
+'s Meteorite, and the two make their escape to
+Mt. Chimney
+. Archie
+OR
+/Maxie
+AS
+introduces himself and informs you of his team's mission. It makes no difference to him if you keep meddling in the other team's plans, but he warns you not to get in his way. He and his two Grunts then set off for Mt. Chimney as well. Afterwards, May/Brendan helps you get the professor back to his lab in
+Fallarbor
+.
+Also, remember to come back later after completing the final gym to explore the upper floors of Meteor Falls. There you will find new Pokémon such as a
+Bagon
+, as well as a useful TM,
+TM02
+(
+Dragon Claw
+).
+Fallarbor Town
+Professor Cozmo's Lab
+Route 115
+Even though the Meteorite has been lost, the professor has still been saved. Cozmo hands both you and May/Brendan a copy of
+TM23
+(
+Smack Down
+) as a token of his gratitude.
+The Meteorite must be recovered, but your friend is eager to continue to the next Gym. She/He offers to accompany you back to
+Mauville City
+. Accept the offer, and you will be whisked away to the big city; decline, and you'll have a chance to continue exploring
+Meteor Falls
+and
+Route 115
+on a roundabout route back to Mauville.
+Route 115
+Meteor Falls
+' western exit opens to
+Route 115
+, a seaside locale that links back to
+Rustboro City
+. The harsh terrain hinders overland travel, making
+Surf
+a necessity to fully explore the area.
+Trainers
+Trainer
+Pokémon
+Black Belt
+Nob
+Reward:
+$
+800
+Machop
+♂
+Lv.
+25
+No item
+Collector
+Hector
+OR
+Reward:
+$
+672
+Seviper
+♂
+Lv.
+24
+No item
+Collector
+Hector
+AS
+Reward:
+$
+672
+Zangoose
+♂
+Lv.
+24
+No item
+Battle Girl
+Cyndy
+Reward:
+$
+800
+Meditite
+♀
+Lv.
+25
+No item
+Requires
+Surf
+Black Belt
+Koichi
+Reward:
+$
+864
+Machop
+♂
+Lv.
+25
+No item
+Machop
+♂
+Lv.
+27
+No item
+Expert
+Timothy
+Reward:
+$
+2400
+Hariyama
+♂
+Lv.
+30
+No item
+Ruin Maniac
+Hayes
+Reward:
+$
+700
+Sandslash
+♂
+Lv.
+25
+No item
+Sandslash
+♂
+Lv.
+25
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+OR
+AS
+Fishing
+Old Rod
+10, 15
+65%
+Tentacool
+OR
+AS
+Fishing
+Old Rod
+5
+35%
+Requires Surf
+Jigglypuff
+OR
+AS
+Grass
+18, 20
+10%
+Taillow
+OR
+AS
+Grass
+17-20
+40%
+Wingull
+OR
+AS
+Grass
+20
+10%
+Swablu
+OR
+AS
+Grass
+17-20
+40%
+Horde Encounter
+Swablu
+OR
+AS
+Horde Encounter
+10
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Heart Scale
+On the beach, west of the stairway near Battle Girl Cyndy (hidden)
+OR
+AS
+Great Ball
+South of Meteor Falls, on a ledge to the east
+OR
+AS
+Wepear Berry
+×8
+From the Berry Trees, south of Meteor Falls (4 per tree)
+OR
+AS
+Zinc
+On the south end of the beach, near Rustboro City
+OR
+AS
+Return trip
+Bluk Berry
+×6
+From the Berry Trees on the route's north end (requires
+Surf
+)
+OR
+AS
+Kelpsy Berry
+×6
+From the Berry Trees on the route's north end (requires
+Surf
+)
+OR
+AS
+PP Up
+Northwest corner of the mountain, north of Ruin Maniac Hayes (requires
+Surf
+)
+OR
+AS
+Heal Powder
+Southeast of Ruin Maniac Hayes, inside a crater (requires
+Surf
+)
+OR
+AS
+Iron
+South-southeast of the muddy slope (requires
+Surf
+,
+Mach Bike
+)
+OR
+AS
+Treasure-Hunting
+Though it was possible to visit Route 115 when you first reached
+Rustboro City
+, by traveling to the area through Meteor Falls, you can now explore the route more thoroughly than before. Fight a few Trainers as you comb the hills for a
+Great Ball
+and a few Berries. You can also use the
+Dowsing Machine
+to uncover a
+Heart Scale
+on the beach. But where are the Pokémon? With no tall grass on the route's south side, the only species to be found are those that can be hooked with the
+Old Rod
+. Return once you can
+Surf
+outside of battle to reach the north side, where more Pokémon and items await!
+← Part 7
+Route 111 (south), Route 112, Fiery Path, Route 111 (north), Route 113
+Omega Ruby and Alpha Sapphire
+walkthrough
+Route 112 (south), Mt. Chimney, Jagged Pass, Lavaridge Town
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

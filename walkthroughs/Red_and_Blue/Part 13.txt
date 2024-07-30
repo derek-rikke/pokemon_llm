@@ -1,0 +1,1441 @@
+Part: Part 13
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Red_and_Blue_walkthrough/Section_13
+Keywords: Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym, Route 21
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Red and Blue
+.
+These pages follow the original
+Game Boy
+iteration,
+not
+Pokémon FireRed and LeafGreen
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cinnabar Island
+1.1
+Cinnabar Lab
+1.1.1
+Meeting Room
+1.1.1.1
+Time for a Trade
+1.1.2
+R-and-D Room
+1.1.3
+Testing Room
+1.1.3.1
+Time for a Trade
+1.1.3.2
+Fossil Regeneration
+1.2
+Pokémon Mansion
+1.2.1
+1F
+1.2.2
+2F
+1.2.3
+3F
+1.2.4
+2F
+1.2.5
+3F (Southwest)
+1.2.6
+2F
+1.2.7
+3F
+1.2.8
+1F (South)
+1.2.9
+B1F
+1.3
+Cinnabar Gym
+2
+Route 21
+3
+Pallet Town
+4
+Route 10
+Cinnabar Island
+Cinnabar Island
+Cinnabar
+is a large island to the southwest of mainland
+Kanto
+, between Routes
+20
+and
+21
+. The
+Cinnabar Lab
+, where researchers have developed a way to revive ancient Pokémon, stands to the west. A broken-down building known as
+Pokémon Mansion
+is located on the island's northwest side. The
+Cinnabar Gym
+can be found to the northeast, but is currently locked up tight.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Shellder
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Horsea
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Goldeen
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Gift Pokémon
+Omanyte
+R
+B
+Y
+Revive
+Helix Fossil
+30
+One
+Kabuto
+R
+B
+Y
+Revive
+Dome Fossil
+30
+One
+Aerodactyl
+R
+B
+Y
+Revive
+Old Amber
+30
+One
+Special Pokémon
+Seel
+R
+B
+Y
+Trade
+Ponyta
+The same as the traded Pokémon
+One
+Electrode
+R
+B
+Y
+Trade
+Raichu
+The same as the traded Pokémon
+One
+Tangela
+R
+B
+Y
+Trade
+Venonat
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM35
+(
+Metronome
+)
+Cinnabar Lab; from a Scientist in the R-and-D Room
+R
+B
+TM38
+(
+Fire Blast
+)
+From Blaine, after defeating him
+R
+B
+Cinnabar Lab
+Meeting Room
+Time for a Trade
+In the Meeting Room, two of the three people are looking to trade. The old man offers to trade his
+Electrode
+for a
+Raichu
+, and the woman offers her
+Tangela
+for a
+Venonat
+. Electrode can be evolved from
+Voltorb
+but are rare in the wild. Tangela only makes its home in one area and is difficult to find.
+R-and-D Room
+In the Research-and-Development Room, speak to the Scientist in the back to receive
+TM35
+(
+Metronome
+). When used, Metronome executes a randomly selected move.
+Testing Room
+Time for a Trade
+In the Testing Room, one of the Scientists is willing to trade his
+Seel
+for a
+Ponyta
+. As Seel would have been a common sight in the
+Seafoam Islands
+, it is likely that you have caught one already, potentially making this trade less useful than others.
+Pokémon Mansion, 1F
+Pokémon Mansion, 2F
+Pokémon Mansion, 3F
+Pokémon Mansion, B1F
+Fossil Regeneration
+The Scientist near the back wall runs the
+fossil
+regeneration procedure. Speak to him to hand over the
+Helix Fossil
+,
+Dome Fossil
+, or
+Old Amber
+. The procedure takes a moment to complete, so leave the room and return a short time later to receive the ancient Pokémon. The Helix Fossil and Dome Fossil become
+Omanyte
+and
+Kabuto
+, respectively; both are
+Rock
+/
+Water
+Pokémon that swam the primordial seas. The Old Amber becomes the
+Rock
+/
+Flying
+Aerodactyl
+, a terror of the prehistoric skies.
+Fossil Pokémon
+→
+→
+→
+Helix Fossil
+→
+Omanyte
+Dome Fossil
+→
+Kabuto
+Old Amber
+→
+Aerodactyl
+Pokémon Mansion
+The
+Pokémon Mansion
+is the decrepit, burned-down former home of a famous Pokémon researcher. The building uses several hidden switches to lock and unlock doors, and Burglars prowl the ruins for valuable items. A series of
+journal entries
+can be found scattered around the mansion that describe the birth and escape of
+a genetically-engineered Pokémon
+.
+Trainers
+Trainer
+Pokémon
+Scientist
+Reward:
+$
+1450
+Electrode
+Lv.
+29
+No item
+Weezing
+Lv.
+29
+No item
+Burglar
+Reward:
+$
+3060
+Charmander
+Lv.
+34
+No item
+Charmeleon
+Lv.
+34
+No item
+Burglar
+Reward:
+$
+3420
+Ninetales
+Lv.
+38
+No item
+Scientist
+Reward:
+$
+1650
+Magnemite
+Lv.
+33
+No item
+Magneton
+Lv.
+33
+No item
+Voltorb
+Lv.
+33
+No item
+Burglar
+Reward:
+$
+3060
+Growlithe
+Lv.
+34
+No item
+Ponyta
+Lv.
+34
+No item
+Scientist
+Reward:
+$
+1700
+Magnemite
+Lv.
+34
+No item
+Electrode
+Lv.
+34
+No item
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Ponyta
+R
+B
+Y
+1F
+28, 30, 32, 34
+40%
+Koffing
+R
+B
+Y
+1F
+30, 32
+40%
+Grimer
+R
+B
+Y
+1F
+30, 32
+40%
+Growlithe
+R
+B
+Y
+1F
+34
+10%
+Vulpix
+R
+B
+Y
+1F
+34
+10%
+Grimer
+R
+B
+Y
+1F
+30
+5%
+Koffing
+R
+B
+Y
+1F
+30
+5%
+Weezing
+R
+B
+Y
+1F
+37
+4%
+Muk
+R
+B
+Y
+1F
+37
+4%
+Muk
+R
+B
+Y
+1F
+39
+1%
+Weezing
+R
+B
+Y
+1F
+39
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Koffing
+R
+B
+Y
+2F
+30, 34
+40%
+Grimer
+R
+B
+Y
+2F
+30, 34
+40%
+Growlithe
+R
+B
+Y
+2F
+32
+25%
+Ponyta
+R
+B
+Y
+2F
+28, 30, 32
+25%
+Vulpix
+R
+B
+Y
+2F
+32
+25%
+Grimer
+R
+B
+Y
+2F
+30
+5%
+Koffing
+R
+B
+Y
+2F
+30
+5%
+Weezing
+R
+B
+Y
+2F
+39
+4%
+Muk
+R
+B
+Y
+2F
+39
+4%
+Muk
+R
+B
+Y
+2F
+37
+1%
+Weezing
+R
+B
+Y
+2F
+37
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Koffing
+R
+B
+Y
+3F
+31, 35
+40%
+Grimer
+R
+B
+Y
+3F
+31, 35
+40%
+Ponyta
+R
+B
+Y
+3F
+32, 34, 36
+24%
+Growlithe
+R
+B
+Y
+3F
+33
+15%
+Vulpix
+R
+B
+Y
+3F
+33
+15%
+Weezing
+R
+B
+Y
+3F
+38, 40
+15%
+Muk
+R
+B
+Y
+3F
+38, 40
+15%
+Ponyta
+R
+B
+Y
+3F
+32, 36
+14%
+Magmar
+R
+B
+Y
+3F
+34
+10%
+Grimer
+R
+B
+Y
+3F
+34
+5%
+Koffing
+R
+B
+Y
+3F
+34
+5%
+Muk
+R
+B
+Y
+3F
+42
+1%
+Weezing
+R
+B
+Y
+3F
+42
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Koffing
+R
+B
+Y
+B1F
+31, 33
+50%
+Grimer
+R
+B
+Y
+B1F
+31, 33
+50%
+Growlithe
+R
+B
+Y
+B1F
+35
+15%
+Ponyta
+R
+B
+Y
+B1F
+32, 34
+15%
+Vulpix
+R
+B
+Y
+B1F
+35
+15%
+Weezing
+R
+B
+Y
+B1F
+40, 42
+14%
+Muk
+R
+B
+Y
+B1F
+40
+10%
+Grimer
+R
+B
+Y
+B1F
+35
+5%
+Koffing
+R
+B
+Y
+B1F
+35
+5%
+Magmar
+R
+B
+Y
+B1F
+38
+4%
+Muk
+R
+B
+Y
+B1F
+42
+1%
+Weezing
+R
+B
+Y
+B1F
+42
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Moon Stone
+1F; fifth pillar northeast of the entrance
+(hidden)
+R
+B
+Escape Rope
+1F; among the pillars near the north wall
+R
+B
+Carbos
+1F (South); among the potted plants
+R
+B
+Calcium
+2F; northeast room among the rubble
+R
+B
+Iron
+3F; in the northeast room
+R
+B
+Max Potion
+3F (Southwest); accessed via 2F
+R
+B
+Max Revive
+3F (Southwest); next to the Max Potion
+(hidden)
+R
+B
+TM14
+(
+Blizzard
+)
+B1F; in the southern room next to the statue
+R
+B
+Full Restore
+B1F; southwest corner
+R
+B
+Rare Candy
+×2
+B1F; in the north room, in front of four identical machines
+B1F; northwest corner of the west-central room
+(hidden)
+R
+B
+TM22
+(
+SolarBeam
+)
+B1F; on a table in the northwestern room
+R
+B
+Secret Key
+B1F; in the center of the west-central room
+R
+B
+1F
+Go to the northwest room and inspect the statue to flip a hidden switch. Backtrack and climb the stairs near the entrance.
+2F
+Inspect the nearest statue and flip the switch. Go northeast to find the first journal entry and a
+Calcium
+beyond that. Climb up the stairs in the northwest room.
+3F
+Head east to reach an
+Iron
+in the northeast room. Inspect the statue and flip the switch to open the south door, then jump off the smaller balcony to the right.
+2F
+Go west to find a second journal entry in the southwest room. Climb up the stairs near the statue to a separate area of the third floor.
+3F (Southwest)
+This dead-end area of the third floor holds a Burglar, a third journal entry, and a
+Max Potion
+. Be careful not to fight the Burglar while on the right side of the table, else you will become trapped in the corner. If trapped, use
+Dig
+or an
+Escape Rope
+, or allow the wild Pokémon to cause you to
+black out
+.
+2F
+Flip the switch and climb the stairs in the northwest room again.
+3F
+Approach the Scientist again, and this time jump off the larger balcony to the left.
+1F (South)
+Battle the Scientist, grab the
+Carbos
+, and take the stairs to the basement.
+B1F
+Visit the southern room to fight the Burglar and collect
+TM14
+(
+Blizzard
+). The final journal entry can be found on the table here. Go west to grab the
+Full Restore
+. Inspect the statue and flip the switch. Follow the narrow hallway in the northeast to battle one last Scientist, then collect the
+Rare Candy
+and
+TM22
+(
+SolarBeam
+) on the way westward. The
+Secret Key
+is located in the final room.
+Cinnabar Gym
+Cinnabar Gym
+CINNABAR ISLAND
+POKéMON GYM
+LEADER: BLAINE
+The Hot-Headed
+Quiz Master!
+The
+Cinnabar Gym
+specializes in
+Fire-type
+Pokémon.
+Water
+,
+Rock
+, and
+Ground-type
+moves will be the most effective.
+Grass
+-,
+Bug
+-, and
+Ice-type
+Pokémon should avoid battling for now. When playing with fire there is always the chance of getting
+Burned
+, so be sure to bring some
+Burn Heals
+. The
+Gym Leader
+enjoys riddles and has equipped his Gym with machines that display a quiz when examined. When each question is answered correctly, the door to the next room unlocks. This allows challengers to reach the Gym Leader sooner, but gives up the rewards of defeating his Gym Trainers.
+Question
+Answers
+1.
+Caterpie
+evolves into
+Butterfree
+?
+Yes
+No
+2. There are 9 certified Pokémon League
+Badges
+?
+Yes
+No
+3.
+Poliwag
+evolves 3 times?
+Yes
+No
+4. Are
+thunder
+moves effective against
+ground
+element-type Pokémon?
+Yes
+No
+5. Pokémon of the same
+kind
+and
+level
+are not identical?
+Yes
+No
+6.
+TM28
+contains Tombstoner?
+Yes
+No
+Correct answers are marked in
+bold
+.
+Cinnabar Gym
+Trainers
+Trainer
+Pokémon
+Burglar
+Reward:
+$
+3240
+Growlithe
+Lv.
+36
+No item
+Vulpix
+Lv.
+36
+No item
+Ninetales
+Lv.
+36
+No item
+Super Nerd
+Reward:
+$
+900
+Vulpix
+Lv.
+36
+No item
+Vulpix
+Lv.
+36
+No item
+Ninetales
+Lv.
+36
+No item
+Super Nerd
+Reward:
+$
+850
+Ponyta
+Lv.
+34
+No item
+Charmander
+Lv.
+34
+No item
+Vulpix
+Lv.
+34
+No item
+Growlithe
+Lv.
+34
+No item
+Burglar
+Reward:
+$
+3690
+Ponyta
+Lv.
+41
+No item
+Super Nerd
+Reward:
+$
+1025
+Rapidash
+Lv.
+41
+No item
+Burglar
+Reward:
+$
+3330
+Vulpix
+Lv.
+37
+No item
+Growlithe
+Lv.
+37
+No item
+Super Nerd
+Reward:
+$
+925
+Growlithe
+Lv.
+37
+No item
+Vulpix
+Lv.
+37
+No item
+Blaine
+Cinnabar Gym
+Red, Green
+, and
+Blue
+Reward:
+$
+4653
+Type:
+Fire
+Unknown
+Growlithe
+Lv.
+42
+Ember
+Fire
+--
+Leer
+Normal
+--
+Take Down
+Normal
+--
+Agility
+Psychic
+--
+Type:
+Fire
+Unknown
+Ponyta
+Lv.
+40
+Tail Whip
+Normal
+--
+Stomp
+Normal
+--
+Growl
+Normal
+--
+Fire Spin
+Fire
+--
+Type:
+Fire
+Unknown
+Rapidash
+Lv.
+42
+Tail Whip
+Normal
+--
+Stomp
+Normal
+--
+Growl
+Normal
+--
+Fire Spin
+Fire
+--
+Type:
+Fire
+Unknown
+Arcanine
+Lv.
+47
+Roar
+Normal
+--
+Ember
+Fire
+--
+Fire Blast
+Fire
+--
+Take Down
+Normal
+--
+After the battle,
+Blaine
+awards you the
+Volcano Badge
+, which gives your Pokémon a slight
+Special
+boost during battle. He also gives you
+TM38
+(
+Fire Blast
+) as a prize.
+With the Cinnabar Gym defeated, surf north from the pier to reach
+Route 21
+.
+Route 21
+Route 21
+Route 21
+is an ocean route that leads from
+Cinnabar Island
+back to
+Pallet Town
+. A single patch of tall grass grows just outside of town.
+Trainers
+Trainer
+Pokémon
+Fisherman
+Reward:
+$
+945
+Magikarp
+Lv.
+27
+No item
+Magikarp
+Lv.
+27
+No item
+Magikarp
+Lv.
+27
+No item
+Magikarp
+Lv.
+27
+No item
+Magikarp
+Lv.
+27
+No item
+Magikarp
+Lv.
+27
+No item
+Fisherman
+Reward:
+$
+980
+Seaking
+Lv.
+28
+No item
+Goldeen
+Lv.
+28
+No item
+Seaking
+Lv.
+28
+No item
+Seaking
+Lv.
+28
+No item
+Swimmer
+Reward:
+$
+165
+Seadra
+Lv.
+33
+No item
+Tentacruel
+Lv.
+33
+No item
+Cue Ball
+Reward:
+$
+775
+Tentacool
+Lv.
+31
+No item
+Tentacool
+Lv.
+31
+No item
+Tentacruel
+Lv.
+31
+No item
+Fisherman
+Reward:
+$
+1085
+Shellder
+Lv.
+31
+No item
+Cloyster
+Lv.
+31
+No item
+Fisherman
+Reward:
+$
+1155
+Seaking
+Lv.
+33
+No item
+Goldeen
+Lv.
+33
+No item
+Swimmer
+Reward:
+$
+185
+Starmie
+Lv.
+37
+No item
+Swimmer
+Reward:
+$
+165
+Staryu
+Lv.
+33
+No item
+Wartortle
+Lv.
+33
+No item
+Swimmer
+Reward:
+$
+160
+Poliwhirl
+Lv.
+32
+No item
+Tentacool
+Lv.
+32
+No item
+Seadra
+Lv.
+32
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+R
+B
+Y
+Grass
+21, 23
+35%
+Pidgey
+R
+B
+Y
+Grass
+21, 23
+25%
+Pidgeotto
+R
+B
+Y
+Grass
+30, 32
+15%
+Raticate
+R
+B
+Y
+Grass
+30
+15%
+Tangela
+R
+B
+Y
+Grass
+28, 30, 32
+10%
+Surfing
+Tentacool
+R
+B
+Y
+Surfing
+5, 10, 15, 20, 30, 35, 40
+100%
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Shellder
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Horsea
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Goldeen
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+Staryu
+R
+B
+Y
+Fishing
+Super Rod
+15
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pallet Town
+Having now explored nearly all of the
+Kanto
+region, it is a good time to tie up any loose ends, the most important of which is the
+Power Plant
+. To get there, fly back to
+Cerulean City
+and travel east to revisit Routes
+9
+and
+10
+.
+Route 10
+To reach the
+Power Plant
+, use
+Surf
+to follow the river southward past the
+Rock Tunnel
+entrance. It is only a short distance away, with a single PokéManiac outside the building.
+Trainers
+Trainer
+Pokémon
+PokéManiac
+Reward:
+$
+1500
+Requires
+Surf
+Rhyhorn
+Lv.
+30
+No item
+Lickitung
+Lv.
+30
+No item
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Fishing
+Magikarp
+R
+B
+Y
+Fishing
+Old Rod
+5
+100%
+Poliwag
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Goldeen
+R
+B
+Y
+Fishing
+Good Rod
+10
+50%
+Poliwhirl
+R
+B
+Y
+Fishing
+Super Rod
+23
+50%
+Slowpoke
+R
+B
+Y
+Fishing
+Super Rod
+15
+50%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+← Part 12
+Routes 12, 13, 14 and 15, Fuchsia City, Route 19, Route 20, Seafoam Islands
+Red and Blue
+walkthrough
+Power Plant, Viridian Gym
+Part 14 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

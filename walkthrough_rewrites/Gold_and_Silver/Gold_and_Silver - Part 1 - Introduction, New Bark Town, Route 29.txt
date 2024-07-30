@@ -1,0 +1,36 @@
+Game: Gold_and_Silver
+Part: 1
+Keywords: Introduction, New Bark Town, Route 29
+
+**Pokémon Gold and Silver Walkthrough - Part 1: New Bark Town and Route 29**
+
+**Introduction**
+- Start a new game, set the time, and choose your character's name. 
+
+**New Bark Town**
+- Your journey begins here, a small town with four buildings.
+- Key locations:
+  - **Player’s Home**: Obtain your Pokégear from Mom.
+  - **Professor Elm’s Lab**: Choose your first Pokémon (Chikorita, Cyndaquil, or Totodile). Each has unique strengths:
+    - **Chikorita**: Strong against Water, Rock, and Ground; weak against Fire, Flying, Bug, Poison, and Ice.
+    - **Cyndaquil**: Strong against Grass, Bug, Ice, and Steel; weak against Water, Rock, and Ground.
+    - **Totodile**: Strong against Fire, Rock, and Ground; weak against Grass and Electric.
+- After selection, you receive a Potion and a mission from Professor Elm to visit Mr. Pokémon.
+
+**Route 29**
+- Travel west to Cherrygrove City, navigating through tall grass with wild Pokémon.
+- Available wild Pokémon:
+  - **Pidgey**: Levels 2-4
+  - **Rattata**: Level 4
+  - **Sentret**: Levels 2-3
+  - **Hoothoot**: Levels 2-4
+- Items to collect:
+  - **Potion**: East of the northeastern grass patch.
+  - **Berry**: On the northwest hill (regrows daily).
+
+**Gameplay Essentials**
+- Use the PC to manage items and save progress.
+- Utilize the Pokégear for navigation and communication.
+- Berries can restore HP and be held by Pokémon for use in battle.
+
+Continue to Cherrygrove City and Mr. Pokémon’s house for the next stage of your adventure.

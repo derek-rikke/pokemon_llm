@@ -1,0 +1,1113 @@
+Part: Part 26
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Diamond_and_Pearl_walkthrough/Section_26
+Keywords: Sinnoh Victory Road, Route 224, Eterna City, Eterna Forest, Old Chateau, Catching Rotom
+
+Walkthrough Text:
+Contents
+1
+Sinnoh Victory Road
+1.1
+1F (Part 6)
+1.2
+Tunnel
+1.3
+B1F (Part 3)
+1.4
+Back to Tunnel
+1.5
+B1F (Part 4)
+1.6
+Exit
+2
+Route 224
+3
+Eterna City
+4
+Route 205
+5
+Eterna Forest
+6
+Old Chateau
+7
+Catching Rotom
+Sinnoh Victory Road
+1F (Part 6)
+Remember where a man blocked the cave to further areas, saying that you’ll become even tougher, and eventually the world will grow bigger to you? Go to where he is, use Rock Climb along the way. Now he's gone. Go into the cave.
+Tunnel
+You'll be in a tunnel that leads to another area of B1F. There is nothing here, so follow the path and go down the stairs.
+Available Pokémon (Tunnel)
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+D
+P
+Pt
+Cave
+50-52
+20%
+Graveler
+D
+P
+Pt
+Cave
+51
+20%
+Onix
+D
+P
+Pt
+Cave
+50
+10%
+Steelix
+D
+P
+Pt
+Cave
+52
+10%
+Medicham
+D
+P
+Pt
+Cave
+50-52
+15%
+Machoke
+D
+P
+Pt
+Cave
+50-52
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F (Part 3)
+You'll find yourself surrounded by deep fog. Immediately use
+Defog
+! Otherwise, you won't be able to see a thing. You'll then see a girl in black hair and clothes. She is
+Marley
+. She wants to go through this tunnel, but needs help. Guess what? You're going to team up again, with Marley as your partner! She has a Lv.57
+Arcanine
+.
+Pokémon Trainer
+Marley
+Victory Road
+Diamond and Pearl
+Reward:
+None
+Type:
+Fire
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Arcanine
+♂
+Lv.
+57
+Fire Fang
+Fire
+Physical
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Helping Hand
+Normal
+Status
+--
+Agility
+Psychic
+Status
+--
+You haven't teamed up with someone else for long time since the
+Iron Island
+journey (with
+Riley
+) and
+Team Galactic
+'s final showdown on
+Spear Pillar
+(with
+Rival
+Barry
+). Like
+Cheryl
+,
+Mira
+and
+Riley
+, she will fully heal all of your Pokémon, as well as her Arcanine, after each battle. Wild Pokémon battles will become Double Battles. This place provides a good training opportunity because of the fact that you get healed after every battle until Marley leaves. Try training your Pokémon to about Lv.60.
+Available Pokémon (B1F)
+Pokémon
+Games
+Location
+Levels
+Rate
+Floatzel
+D
+P
+Pt
+Cave
+50-51
+30%
+Golbat
+D
+P
+Pt
+Cave
+50-52
+20%
+Machoke
+D
+P
+Pt
+Cave
+50-52
+25%
+Medicham
+D
+P
+Pt
+Cave
+50-52
+15%
+Steelix
+D
+P
+Pt
+Cave
+52
+10%
+Surfing and Fishing
+Golbat
+D
+P
+Pt
+Surfing
+40-55
+90%
+Lapras
+D
+P
+Pt
+Surfing
+40-60
+10%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+20-55
+100%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers (Multi Battles)
+All Trainers below can be fought individually or as
+Multi Battles
+, with or without
+Marley
+as a partner.
+Trainer
+Pokémon
+Ace Trainer
+Micah
+Reward:
+$
+3240
+Bibarel
+♂
+Lv.
+54
+No item
+Rapidash
+♂
+Lv.
+54
+No item
+Beautifly
+♂
+Lv.
+54
+No item
+Ace Trainer
+Brandi
+Reward:
+$
+3240
+Pachirisu
+♀
+Lv.
+54
+No item
+Azumarill
+♀
+Lv.
+54
+No item
+Blissey
+♀
+Lv.
+54
+No item
+Psychic
+Desiree
+Reward:
+$
+1728
+Kadabra
+♂
+Lv.
+54
+No item
+Kadabra
+♂
+Lv.
+54
+No item
+Psychic
+Landon
+Reward:
+$
+1792
+Mr. Mime
+♂
+Lv.
+56
+No item
+Black Belt
+Eddie
+Reward:
+$
+1392
+Machoke
+♂
+Lv.
+52
+No item
+Machamp
+♂
+Lv.
+58
+No item
+Veteran
+Terrell
+Reward:
+$
+4320
+Kricketune
+♂
+Lv.
+54
+No item
+Quagsire
+♂
+Lv.
+54
+No item
+Gengar
+♂
+Lv.
+54
+No item
+Dragon Tamer
+Joe
+Reward:
+$
+1792
+Gabite
+♂
+Lv.
+56
+No item
+Gyarados
+♂
+Lv.
+56
+No item
+Bird Keeper
+Autumn
+Reward:
+$
+1824
+Murkrow
+♀
+Lv.
+53
+No item
+Honchkrow
+♀
+Lv.
+57
+No item
+Psychic
+Deandre
+Reward:
+$
+1792
+Girafarig
+♂
+Lv.
+56
+No item
+Psychic
+Kendra
+Reward:
+$
+1760
+Chingling
+♀
+Lv.
+53
+No item
+Chimecho
+♀
+Lv.
+55
+No item
+Black Belt
+Willie
+Reward:
+$
+1344
+Onix
+♂
+Lv.
+54
+No item
+Machamp
+♂
+Lv.
+56
+No item
+Veteran
+Brenden
+Reward:
+$
+4320
+Purugly
+♀
+Lv.
+54
+No item
+Graveler
+♂
+Lv.
+54
+No item
+Golbat
+♂
+Lv.
+54
+No item
+You cannot surf when Marley is with you, so don't bother getting any items for now unless otherwise stated. Head north, fight the Trainers and use Strength to push the boulders sideways (either to the west or to the east. Not to the north, or you'll need to leave and come back for it to reset) along the way. When you see the boulder puzzle, push the boulder 2 steps north and 1 step east. Push another boulder all the way to the north. Collect the Dusk Stone. Ignore the other one for now (due to the puzzle, you can only get one) and get back to the main path. Turn east and go along, fighting the Trainers on the way. Go down the stairs and head east. Follow the path through the rock maze and fight the last pair of Trainers. Then turn north, go up the stairs at the right, walk for a few more steps and Marley will leave. (Do not go up the stairs if you need more training) Don't head through the exit yet, because it's time for you to get items!
+Go up the stairs west of the exit and get the Big Pearl. Then go down to where you fight the last pair of Trainer before Marley left. Collect the hidden Big Mushroom, surf south on the 2 ponds, then go up the stairs and turn west. Follow the path through the maze and surrounding another pond. There will be 1 final pair of Trainers for you to fight!
+Trainers (Double Battle)
+Trainer
+Pokémon
+Ace Trainer
+Arthur
+Reward:
+$
+3300
+Raichu
+♂
+Lv.
+55
+No item
+Gastrodon
+♂
+West Sea
+Lv.
+55
+No item
+Ace Trainer
+Clarice
+Reward:
+$
+3240
+Lopunny
+♀
+Lv.
+54
+No item
+Pelipper
+♀
+Lv.
+54
+No item
+Quagsire
+♀
+Lv.
+54
+No item
+Now continue and head up the stairs. Grab the hidden Nugget. Surf south to get the Leftovers, the surf west and you're back to the starting point. Now leave to the tunnel.
+Back to Tunnel
+Immediately turn back and go to B1F again.
+B1F (Part 4)
+Head north, then east and go down the stairs. Ignore the 2 boulders and go east. Follow the path and get the hidden Full Restore. Continue on the path. You'll get to the previously ignored 2 boulders. Push 1 to the west and ignore the other one. Head south, turn west, go up the stairs, turn north and get to the boulder puzzle. Push the boulder all the way north, then get the Elixir. After that, go back to the main path, head east and grab the hidden Max Revive when passing through a pair of Trainers. Keep going east to proceed. When you see another pair of Trainers, surf to the northeast of the pond and get the hidden Rare Candy. Now that you've got all items, continue to the exit.
+Items
+Item
+Location
+Games
+Dusk Stone
+Northwest corner of the room, behind
+Strength
+boulders (north way)
+D
+P
+Elixir
+Northwest corner of the room, behind
+Strength
+boulders (south way)
+D
+P
+Max Revive
+On a boulder between
+Veteran
+Terrell and Dragon Tamer Joe (requires
+Strength
+)
+(hidden)
+D
+P
+Rare Candy
+On a rock northeast of
+Dragon Tamer
+Joe and
+Bird Keeper
+Autumn (requires
+Surf
+)
+(hidden)
+D
+P
+Full Restore
+On a rock in the middle of the maze of boulders (requires
+Strength
+)
+(hidden)
+D
+P
+Big Mushroom
+On a rock at the north-east corner of the pond next to
+Black Belt
+Willie and
+Veteran
+Brenden (Requires either
+Surf
+or
+Strength
+)
+(hidden)
+D
+P
+Big Pearl
+Northeast of the lake north-east of Psychics Deandre and Kendra (requires either
+Surf
+or
+Strength
+)
+D
+P
+Leftovers
+Southeast corner of the lake in the south-west corner of the room (requires
+Surf
+)
+D
+P
+Nugget
+In the middle of the patch of land at the north-east corner of the lake in the southwest corner of the room (requires
+Surf
+)
+(hidden)
+D
+P
+Exit
+Go up the long stairs and head outside.
+Route 224
+Route 224
+You're on
+Route 224
+—a miniature of
+Sinnoh
+Region
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gloom
+D
+P
+Pt
+Grass
+53
+5%
+Weepinbell
+D
+P
+Pt
+Grass
+53
+5%
+Beautifly
+D
+P
+Pt
+Grass
+23
+5%
+Dustox
+D
+P
+Pt
+Grass
+23
+5%
+Roselia
+D
+P
+Pt
+Grass
+52-54
+20%
+Buizel
+D
+P
+Pt
+Grass
+23
+4%
+Floatzel
+D
+P
+Pt
+Grass
+53-54
+20%
+20%
+30%
+Shellos
+D
+P
+Pt
+Grass
+23
+1%
+Gastrodon
+D
+P
+Pt
+Grass
+52-53
+20%
+20%
+30%
+Chatot
+D
+P
+Pt
+Grass
+52, 54
+20%
+20%
+0%
+Surfing and Fishing
+Tentacruel
+D
+P
+Pt
+Surfing
+40-55
+35%
+Pelipper
+D
+P
+Pt
+Surfing
+40-55
+65%
+Magikarp
+D
+P
+Pt
+Fishing
+Old Rod
+3-10
+100%
+Magikarp
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+65%
+Remoraid
+D
+P
+Pt
+Fishing
+Good Rod
+10-25
+35%
+Gyarados
+D
+P
+Pt
+Fishing
+Super Rod
+30-40
+60%
+Octillery
+D
+P
+Pt
+Fishing
+Super Rod
+20-50
+35%
+Luvdisc
+D
+P
+Pt
+Fishing
+Super Rod
+20-30
+5%
+Special Pokémon
+Natu
+D
+P
+Pt
+Swarm
+53
+40%
+Shuckle
+D
+P
+Pt
+Dual-slot
+Emerald
+23
+8%
+Duskull
+D
+P
+Pt
+Poké Radar
+23
+2%
+Dusclops
+D
+P
+Pt
+Poké Radar
+52, 54
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Trainers
+Trainer
+Pokémon
+Ace Trainer
+Ruben
+ハルノブ
+Harunobu
+Reward:
+$
+3240
+Poliwhirl
+♂
+Lv.
+54
+No item
+Gyarados
+♂
+Lv.
+54
+No item
+Psychic
+Brittney
+ジョンイ
+Jong-i
+Reward:
+$
+1728
+Medicham
+♀
+Lv.
+52
+No item
+Alakazam
+♂
+Lv.
+54
+No item
+Psychic
+Maxwell
+ヨウマ
+Yōma
+Reward:
+$
+1728
+Misdreavus
+♂
+Lv.
+52
+No item
+Haunter
+♂
+Lv.
+54
+No item
+Veteran
+Armando
+ゴロウマル
+Gorōmaru
+Reward:
+$
+4320
+Staravia
+♂
+Lv.
+52
+No item
+Pelipper
+♂
+Lv.
+53
+No item
+Golbat
+♂
+Lv.
+54
+No item
+Black Belt
+Carl
+タダシ
+Tadashi
+Reward:
+$
+1344
+Croagunk
+♂
+Lv.
+52
+No item
+Machamp
+♂
+Lv.
+56
+No item
+Ruin Maniac
+Larry
+シゲオ
+Shigeo
+Reward:
+$
+2592
+Steelix
+♂
+Lv.
+54
+No item
+Ace Trainer
+Jamie
+ヒトミ
+Hitomi
+Reward:
+$
+3360
+Metagross
+Lv.
+56
+No item
+Dragon Tamer
+Hayden
+タツキ
+Tatsuki
+Reward:
+$
+1824
+Swablu
+♂
+Lv.
+53
+No item
+Altaria
+♂
+Lv.
+57
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Rare Candy
+Southwest of the Berry trees (requires
+Surf
+)
+D
+P
+Stardust
+×3
+On the beach southwest of
+Black Belt
+Carl
+(hidden)
+On the beach north of
+Black Belt
+Carl
+(hidden)
+On the beach just right of the big rock
+(hidden)
+D
+P
+PP Max
+On the south-west corner of the strip of trees reached by
+surfing
+south from the beach
+(hidden)
+D
+P
+Razor Claw
+On the strip of land reached by
+surfing
+south from the beach
+D
+P
+Sitrus Berry
+×2
+At the Berry patch in the middle of the route
+D
+P
+Bluk Berry
+×3
+At the Berry patch in the middle of the route
+D
+P
+Nanab Berry
+×3
+At the Berry patch in the middle of the route
+D
+P
+Wepear Berry
+×3
+At the Berry patch in the middle of the route
+D
+P
+Big Pearl
+In the waters north of the island southeast of the white rock
+(hidden)
+D
+P
+Pearl
+×2
+Waters north of the island south-east of the white rock, 5 steps east of the Big Pearl
+(hidden)
+Waters north of the island south-east of the white rock, 7 steps east of the Big Pearl
+(hidden)
+D
+P
+Destiny Knot
+North-east of Dragon Tamer Hayden
+D
+P
+Head north and fight the Ace Trainer. Go down the stairs, and head northwest. Fight the 2 Psychics, then head east. Go up the stairs, follow the elevated path and grab the Berries. Return to the stairs and surf east to get the Rare Candy.
+Now return to the main path. Fight the Veteran, then head east to the beach. Fight the
+Black Belt
+, then surf south to get the hidden PP Max in the trees and Razor Claw all the way south. Surf back to the beach and get the 3 hidden Stardusts with the help of your
+Pokétch
+App Dowsing Machine. Head east, turn north and fight the Ruin Maniac, then another Ace Trainer. Head west, turn north again and go up the stairs. Fight the last Trainer, which is a Dragon Tamer, and get the Destiny Knot. Then go north, turn east and go down another set of stairs. Surf around and collect the hidden 3 items: 1 Big Pearl and 2 Pearls. Get back to the main path and head north until you see the white rock.
+Well, the white rock marks the end of this route. Yup, this route is a dead end.
+Eterna City
+Fly to
+Eterna City
+. Head to the house in the southwest corner of the city, near the gate to
+Route 206
+and
+Eterna Gym
+. You'll find
+Professor Oak
+inside and he'll give you an item
+Up-Grade
+. Let a
+Porygon
+hold if you have one, then trade it and it'll evolve. Next time you talk to him, he'll check how many Pokémon you have caught. Afterwards, head to
+Route 205
+.
+Make sure you bring a Pokémon with
+Cut
+and at least 20
+Dusk Balls
+before proceeding! You must be playing at night or in the early morning (8:00PM-3:59AM, between 20:00 and 3:59 on your DS clock) in order to encounter a special Pokémon.
+As that Pokémon will be at a low level, you can consider temporarily switch your main party for Pokémon at Lv.15-20.
+Route 205
+Head west along the bridges on
+Route 205
+, into
+Eterna Forest
+.
+Eterna Forest
+Take a few steps west you'll see Leader
+Gardenia
+looking at the
+Old Chateau
+. She greets you and asks if you've heard the rumours about ghost Pokémon living in the mansion. She says that she's too busy to explore it— she's not scared, just too busy to go in......Or is she? Anyway, after she leaves, cut down one of the trees blocking your way north, and head straight north. Pick up the
+Ether
+and hidden
+Insect Plate
+, then enter the mansion.
+Old Chateau
+You should have gone through this place before. Refer to Section 5 for details.
+Available Pokémon (Special)
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Haunter
+D
+P
+Pt
+Dual-slot
+Any Gen III
+16
+0%
+0%
+8%
+Gengar
+D
+P
+Pt
+Dual-slot
+Any Gen III
+16
+0%
+0%
+4%
+Rotom
+D
+P
+Pt
+Only one
+15
+None
+None
+Only one
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Go into the room with the TV,
+save your game
+and prepare to fight the rumoured ghost Pokémon!
+Catching Rotom
+Types:
+Electric
+Ghost
+Ability:
+Levitate
+Held item:
+None
+Rotom
+Lv.
+15
+ThunderShock
+Electric
+Special
+--
+Confuse Ray
+Ghost
+Status
+--
+Uproar
+Normal
+Special
+--
+Double Team
+Normal
+Status
+--
+Make sure that you save your game and check if you have at least 10
+Dusk Balls
+and/or
+Nest Balls
+, and maybe some low level Pokémon (around Lv.15-20) before proceeding!
+When you're ready, walk up to the TV, press A and answer "Yes" to thump the TV. This will initiate a battle with the rumoured ghost Pokémon—
+Rotom
+!
+Rotom is an
+Electric
+/
+Ghost
+-type Pokémon, at Level 15 (unbelievable—by now, the level of your Pokémon should be around Lv.60, unless you have brought a few low level Pokémon just for this battle). It has high Special Attack and Speed stats, its Defense and Special Defense are OK, and its HP and Attack aren't very good. It has
+Levitate
+as its Ability to avoid all
+Ground-type
+moves.
+Because of its low level, the Nest Ball will have the same catch rate as the Dusk Ball. Furthermore, it has close to a 25% chance of being caught at full health (40% if asleep, and 33% with other status) when using either of them, and a good chance of catching with a
+Quick Ball
+at the beginning of the battle too, so this can be done without any battling. But if you want to not waste your
+Poké Balls
+or just want to fight it first, then bring at least 1 Pokémon at level 15-20 to battle with. Use Ghost-type or
+Dark-type
+moves to reduce Rotom's HP (don't try this with your strong Pokémon), and then weaken it further, if necessary, with moves that aren't of the Dark-type, Ghost-type,
+Normal-type
+(
+False Swipe
+won't work unless
+Foresight
+or
+Odor Sleuth
+is used first to remove this immunity),
+Fighting-type
+, or Ground-type. If you did not bring a low level Pokémon then you can use status inflicting move instead (if you have one). When Rotom's HP bar is in the red zone, keep throwing Dusk Balls or Nest Balls until you catch it.
+If you accidentally knock Rotom out, just soft reset to make it reappear.
+← Part 25
+Poke Radar, Pal Park, Dual-slot, Hearthome City, Pokemon Mansion, Pokemon League
+Diamond and Pearl
+walkthrough
+Canalave City, Fullmoon Island, Back to Canalave City, Catching Cresselia, Iron Island
+Part 27 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

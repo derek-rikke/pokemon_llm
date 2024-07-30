@@ -1,0 +1,1523 @@
+Part: Part 14
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Emerald_walkthrough/Section_14
+Keywords: Route 124, Mossdeep City, Space Center, Route 125
+
+Walkthrough Text:
+Contents
+1
+Route 124
+1.1
+Treasure Hunter's House
+2
+Mossdeep City
+2.1
+Move Tutor
+2.2
+Steven's House
+2.3
+Game Corner
+2.4
+Running Errands
+2.5
+Score the Super Rod
+2.6
+Mossdeep Space Center
+2.7
+Mossdeep Gym
+2.8
+Space Center
+2.8.1
+VS Maxie, Tabitha
+3
+Trick House - Puzzle 6 (optional)
+4
+Route 125 (optional)
+Route 124
+Route 124, Surface
+Route 124
+holds all sorts of treasure, but most lie on the ocean floor far below. It's not possible to fully explore the area without
+a certain field move
+, so for now the route simply serves as a connector between
+Lilycove
+to the west,
+Route 126
+to the south, and
+Mossdeep City
+to the east.
+Trainers
+Trainer
+Pokémon
+Swimmer
+Grace
+Reward:
+$
+272
+Potential
+Double Battle
+with Declan
+Marill
+♀
+Lv.
+34
+No item
+Swimmer
+Declan
+Reward:
+$
+272
+Potential
+Double Battle
+with Grace
+Gyarados
+♂
+Lv.
+34
+No item
+Sis and Bro
+Lila & Roy
+Reward:
+$
+792
+Chinchou
+♂
+Lv.
+34
+No item
+Carvanha
+♂
+Lv.
+33
+No item
+Swimmer
+Spencer
+Reward:
+$
+264
+Tentacool
+♂
+Lv.
+33
+No item
+Wingull
+♂
+Lv.
+33
+No item
+Swimmer
+Jenny
+Reward:
+$
+272
+Wailmer
+♀
+Lv.
+34
+No item
+Swimmer
+Chad
+Reward:
+$
+264
+Tentacool
+♂
+Lv.
+33
+No item
+Wailmer
+♂
+Lv.
+33
+No item
+Triathlete
+Isabella
+Reward:
+$
+1360
+Potential
+Double Battle
+with Roland
+Staryu
+Lv.
+34
+No item
+Swimmer
+Roland
+Reward:
+$
+272
+Potential
+Double Battle
+with Isabella
+Carvanha
+♂
+Lv.
+34
+No item
+Rematch
+Sis and Bro
+Lila & Roy
+*
+Reward:
+$
+960
+Chinchou
+♂
+Lv.
+42
+No item
+Carvanha
+♂
+Lv.
+40
+No item
+Sis and Bro
+Lila & Roy
+*
+Reward:
+$
+1032
+Lanturn
+♂
+Lv.
+45
+No item
+Carvanha
+♂
+Lv.
+43
+No item
+Sis and Bro
+Lila & Roy
+*
+Reward:
+$
+1104
+/
+1176
+Lanturn
+♂
+Lv.
+48
+/
+51
+No item
+Sharpedo
+♂
+Lv.
+46
+/
+49
+No item
+Swimmer
+Jenny
+*
+Reward:
+$
+304
+/
+328
+Wailmer
+♀
+Lv.
+38
+/
+41
+No item
+Swimmer
+Jenny
+*
+Reward:
+$
+344
+Staryu
+Lv.
+43
+No item
+Wailmer
+♀
+Lv.
+43
+No item
+Swimmer
+Jenny
+*
+Reward:
+$
+360
+Luvdisc
+♀
+Lv.
+45
+No item
+Wailmer
+♀
+Lv.
+45
+No item
+Starmie
+Lv.
+45
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Treasure Hunter's House
+Interior
+The
+Treasure Hunter
+'s house stands on a small island to the southeast. He loves to collect
+Shards
+, and is happy to trade for them with certain
+Evolution stones
+. The kind of Shard you trade him determines the kind of stone you get in return.
+Shard Given
+Stone Received
+Red Shard
+Fire Stone
+Yellow Shard
+Thunderstone
+Blue Shard
+Water Stone
+Green Shard
+Leaf Stone
+Mossdeep City
+Mossdeep City
+Mossdeep City
+stands perched on an island near
+Hoenn
+'s eastern edge, where the winds are mild and the weather conditions are stable. This makes it the perfect place for launching rockets, and a perfect home for the
+Mossdeep Space Center
+. The
+seventh Gym
+in the
+Hoenn League
+, run by twin Gym Leaders, is located on the north side of the island, and
+Steven
+'s house can be found on the island's northwest corner.
+Scott
+appears in front of the Space Center.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+Gift Pokémon
+Beldum
+R
+S
+E
+Gift
+5
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Net Ball
+Southeast corner of the island
+E
+King's Rock
+From the boy in front of Steven's house
+E
+Super Rod
+From the Fisherman in the house east of the Gym
+E
+Sun Stone
+From a Sailor inside the Space Center
+E
+After defeating the Mossdeep Gym
+TM04
+(
+Calm Mind
+)
+From Liza and Tate upon their defeat
+E
+After defeating Team Magma at the Space Center
+HM08
+(
+Dive
+)
+From Steven in his house
+E
+Move Tutor
+The first person you meet upon arriving in Mossdeep is a Black Belt in the shallow water on the island's southwest side. As a
+Fighting-type
+Trainer, he's had a difficult time at the local Gym and has resorted to punching the ground to relieve his frustration. Speak to him, and he offers to teach the move
+DynamicPunch
+to a Pokémon, one time only.
+Steven's House
+The house on the island's northwest edge belongs to
+Steven
+, and contains part of his rock collection.
+Game Corner
+A Game Corner is located to the south of the Poké Mart. Inside, Trainers can compete with others from
+Hoenn
+E
+and
+Kanto
+FR
+LG
+in two mini-games,
+Pokémon Jump
+and
+Dodrio Berry Picking
+. Communications are made using the
+Game Boy Advance Wireless Adapter
+.
+Running Errands
+Visit the house nearest the stairway to the Space Center to meet a young woman who uses a
+Wingull
+to send letters to a friend in
+Fortree City
+. Talk to the Wingull and it will take flight, off to deliver another note. If you return to Fortree and visit the Pokémon Breeder in the northeast house there, he will give you a
+Mental Herb
+that his Wingull found in its travels.
+Items
+Item
+Location
+Games
+Mental Herb
+From the boy in the northeast house, after finding his
+Wingull
+in
+Mossdeep City
+E
+Score the Super Rod
+The house overlooking the Gym belongs to a lone Fisherman. Speak to him to receive the
+Super Rod
+, a high-end fishing rod that can reel in all kinds of sea life.
+Mossdeep Space Center
+The
+Mossdeep Space Center
+stands on a hill in the northeast.
+Steven
+is inside, standing near a table with a letter emblazoned with the
+Team Magma
+logo. It seems that the group has announced its intention of stealing all the rocket fuel on the island. He plans to keep an eye on things for now, and suggests checking out the rest of the city. A Sailor near the viewing area will give you a
+Sun Stone
+he found on the beach.
+Mossdeep Gym
+Mossdeep Gym
+Mossdeep City Pokémon Gym
+Leaders: Liza & Tate
+The mystic combination!
+The
+Mossdeep Gym
+specializes in
+Psychic-type
+Pokémon, which are vulnerable to
+Dark
+- and
+Ghost-type
+moves. Dark Pokémon are both immune to Psychic moves and able to inflict super-effective damage. Three of the gym leaders' Pokémon have additional weaknesses to
+Water
+and
+Grass
+. While they're also weak to
+Bug
+, Bug attacks are generally too weak to be worthwhile. The Gym features several rooms linked only by
+warp tiles
+. Each room contains Trainers and obstacles on
+spin tiles
+that rotate when certain tiles are stepped on, changing the path and often bringing challengers within view of opposing Gym Trainers.
+Step on the warp tile on the west side of the first room. Begin a battle with Hex Maniac Kathleen and Gentleman Clifford. Go east and step on the purple tile, and then battle Psychic Macey. Continue south and step on the green tile twice; this spins the obstacles in the south-central room. Take the north warp to the west-central room, then the left warp there to the northwest room. Step on the first blue tile twice, battle Gentleman Nate and Psychic Virgil, step on the orange tile three times, battle Hex Maniac Sylvia and Psychic Hannah, step on the second blue tile three times, and step on the first blue tile once to reach the warp tile. Cross the south-central room to the last warp and the Gym Leaders' room.
+Twins
+Tate and Liza
+send out two Pokémon at once, drawing challengers into a Double Battle.
+Claydol
+can boost its already-high
+Special Defense
+with
+Light Screen
+, and simultaneously hit two of your Pokémon with
+Earthquake
+.
+Xatu
+'s
+Calm Mind
+raises both its Special stats, and
+Confuse Ray
+allows it to harass the foe.
+Lunatone
+can lull its opponent to sleep with
+Hypnosis
+, while
+Solrock
+can scorch
+Grass
+Pokémon looking to target their
+Rock
+typing. Three of their Pokémon are weakened by
+Water
+moves; by using
+Surf
+, you can attack both at once and bring the battle to a quick end. Otherwise, you may want to target one Pokémon at a time in what would essentially become a two-on-one battle.
+Mossdeep Gym
+Trainers
+Trainer
+Pokémon
+Southwest room
+Psychic
+Preston
+Reward:
+$
+864
+Potential
+Double Battle
+with Maura
+Kirlia
+♂
+Lv.
+36
+No item
+Psychic
+Maura
+Reward:
+$
+864
+Potential
+Double Battle
+with Preston
+Kadabra
+♂
+Lv.
+36
+No item
+West-central room
+Psychic
+Samantha
+Reward:
+$
+864
+Potential
+Double Battle
+with Blake
+Xatu
+♀
+Lv.
+36
+No item
+Psychic
+Blake
+Reward:
+$
+864
+Potential
+Double Battle
+with Samantha
+Girafarig
+♂
+Lv.
+36
+No item
+Southeast room
+Psychic
+Macey
+Reward:
+$
+864
+Potential
+Double Battle
+with Clifford
+Natu
+♀
+Lv.
+36
+No item
+Gentleman
+Clifford
+Reward:
+$
+2880
+Potential
+Double Battle
+with Macey or Kathleen
+Girafarig
+♂
+Lv.
+36
+No item
+Hex Maniac
+Kathleen
+Reward:
+$
+864
+Potential
+Double Battle
+with Clifford or Nicholas
+Kadabra
+♂
+Lv.
+36
+No item
+Psychic
+Nicholas
+Reward:
+$
+864
+Potential
+Double Battle
+with Kathleen
+Wobbuffet
+♂
+Lv.
+36
+No item
+Northwest room
+Gentleman
+Nate
+Reward:
+$
+2880
+Potential
+Double Battle
+with Virgil
+Spoink
+♂
+Lv.
+36
+No item
+Psychic
+Virgil
+Reward:
+$
+864
+Potential
+Double Battle
+with Nate or Slyvia
+Ralts
+♂
+Lv.
+36
+No item
+Hex Maniac
+Sylvia
+Reward:
+$
+864
+Potential
+Double Battle
+with Hannah or Virgil
+Meditite
+♀
+Lv.
+36
+No item
+Psychic
+Hannah
+Reward:
+$
+864
+Potential
+Double Battle
+with Sylvia
+Kirlia
+♀
+Lv.
+36
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Leader
+Tate & Liza
+Mossdeep Gym
+Emerald
+Reward:
+$
+8400
+Types:
+Ground
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Claydol
+Lv.
+41
+Earthquake
+Ground
+--
+AncientPower
+Rock
+--
+Psychic
+Psychic
+--
+Light Screen
+Psychic
+--
+Types:
+Psychic
+Flying
+Ability:
+Synchronize
+Held item:
+None
+Xatu
+♂
+Lv.
+41
+Psychic
+Psychic
+--
+Sunny Day
+Fire
+--
+Confuse Ray
+Ghost
+--
+Calm Mind
+Psychic
+--
+Types:
+Rock
+Psychic
+Ability:
+Levitate
+Held item:
+Sitrus Berry
+Lunatone
+Lv.
+42
+Light Screen
+Psychic
+--
+Psychic
+Psychic
+--
+Hypnosis
+Psychic
+--
+Calm Mind
+Psychic
+--
+Types:
+Rock
+Psychic
+Ability:
+Levitate
+Held item:
+Sitrus Berry
+Solrock
+Lv.
+42
+Sunny Day
+Fire
+--
+SolarBeam
+Grass
+--
+Psychic
+Psychic
+--
+Flamethrower
+Fire
+--
+After the battle,
+Tate and Liza
+award you the
+Mind Badge
+, which boosts your Pokémon's
+Special Attack
+and
+Special Defense
+by 10% and enables the use of
+Dive
+in the field. The twins also give you
+TM04
+(
+Calm Mind
+) as a prize, and register themselves in your PokéNav.
+Space Center
+Trainers
+Trainer
+Pokémon
+1F
+Team Magma Grunt
+Reward:
+$
+620
+Zubat
+♀
+Lv.
+31
+No item
+Poochyena
+♀
+Lv.
+31
+No item
+Team Magma Grunt
+Reward:
+$
+640
+Numel
+♂
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+640
+Baltoy
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+600
+Mightyena
+♂
+Lv.
+26
+No item
+Mightyena
+♂
+Lv.
+28
+No item
+Numel
+♂
+Lv.
+30
+No item
+2F
+Team Magma Grunt
+Reward:
+$
+640
+Zubat
+♂
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+640
+Mightyena
+♂
+Lv.
+32
+No item
+Team Magma Grunt
+Reward:
+$
+640
+Baltoy
+Lv.
+32
+No item
+After beating the Gym, you find
+Maxie
+and several Grunts on their way to the Space Center. Follow them inside and defeat the four Grunts on the first floor. Upstairs, you are ambushed by three more; you fight them one at a time, but with no break between. Farther on, you find Steven confronting Maxie, who reveals his intentions for the rocket fuel. With
+Groudon
+gone, he has no need for their base. They're going to cause
+Mt. Chimney
+to erupt by dumping the entire supply into the volcano! Steven is shocked, and asks you to join him in battle against Maxie and
+Tabitha
+.
+Steven's team
+consists of
+Metang
+,
+Skarmory
+, and
+Aggron
+.
+VS Maxie, Tabitha
+P
+K
+M
+N
+Trainer
+Steven
+Mossdeep Space Center
+Emerald
+Reward:
+N/A
+Types:
+Steel
+Psychic
+Ability:
+Clear Body
+Held item:
+None
+Metang
+Lv.
+42
+Light Screen
+Psychic
+--
+Psychic
+Psychic
+--
+Reflect
+Psychic
+--
+Metal Claw
+Steel
+--
+Types:
+Steel
+Flying
+Ability:
+Sturdy
+Held item:
+None
+Skarmory
+♀
+Lv.
+43
+Toxic
+Poison
+--
+Aerial Ace
+Flying
+--
+Protect
+Normal
+--
+Steel Wing
+Steel
+--
+Types:
+Steel
+Rock
+Ability:
+Sturdy
+Held item:
+None
+Aggron
+♀
+Lv.
+44
+Thunder
+Electric
+--
+Protect
+Normal
+--
+SolarBeam
+Grass
+--
+Dragon Claw
+Dragon
+--
+Magma Leader
+and
+Magma Admin
+Maxie
+Tabitha
+Mossdeep Space Center
+Emerald
+Reward:
+$
+5120
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+42
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Taunt
+Dark
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Crobat
+♂
+Lv.
+43
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Mean Look
+Normal
+--
+Types:
+Fire
+Ground
+Ability:
+Magma Armor
+Held item:
+None
+Camerupt
+♂
+Lv.
+44
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Rock Slide
+Rock
+--
+Earthquake
+Ground
+--
+Types:
+Fire
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Camerupt
+♂
+Lv.
+36
+Focus Energy
+Normal
+--
+Take Down
+Normal
+--
+Amnesia
+Psychic
+--
+Rock Slide
+Rock
+--
+Type:
+Dark
+Unknown
+Ability:
+Intimidate
+Held item:
+None
+Mightyena
+♂
+Lv.
+38
+Roar
+Normal
+--
+Swagger
+Normal
+--
+Scary Face
+Normal
+--
+Take Down
+Normal
+--
+Types:
+Poison
+Flying
+Ability:
+Inner Focus
+Held item:
+None
+Golbat
+♂
+Lv.
+40
+Bite
+Dark
+--
+Wing Attack
+Flying
+--
+Confuse Ray
+Ghost
+--
+Air Cutter
+Flying
+--
+Having failed at both controlling Groudon and activating the volcano, Maxie begins to questions his goals and wonders if
+Team Aqua
+'s plans are equally misguided. Maxie and his subordinates flee, and Steven invites you to his home. He greets you when you step inside, and hands you
+HM08
+(
+Dive
+). In certain bodies of water, there are dark spots where the water runs unusually deep; using Dive at one of these spots lets you descend to the ocean floor far below. Swim to a point where the sunlight filters down from above and use Dive again to surface. With this move, you will be able to pursue
+Archie
+to the
+Seafloor Cavern
+.
+Trick House - Puzzle 6 (optional)
+In
+Trick House
+now you can complete the puzzle 6.
+Route 125 (optional)
+Route 125
+Located north of
+Mossdeep City
+,
+Route 125
+is an optional area with several potential Secret Base locations. The waterlogged
+Shoal Cave
+stands in the route's center.
+Trainers
+Trainer
+Pokémon
+Sailor
+Ernest
+Reward:
+$
+1056
+Wingull
+♂
+Lv.
+33
+No item
+Machoke
+♂
+Lv.
+33
+No item
+Swimmer
+Nolen
+Reward:
+$
+272
+Tentacruel
+♂
+Lv.
+34
+No item
+Swimmer
+Sharon
+Reward:
+$
+272
+Seaking
+♀
+Lv.
+34
+No item
+Swimmer
+Tanya
+Reward:
+$
+272
+Luvdisc
+♀
+Lv.
+34
+No item
+Bird Keeper
+Presley
+Reward:
+$
+1056
+Potential
+Double Battle
+with Auron
+Tropius
+♂
+Lv.
+33
+No item
+Xatu
+♂
+Lv.
+33
+No item
+Expert
+Auron
+Reward:
+$
+1320
+Potential
+Double Battle
+with Presley
+Manectric
+♂
+Lv.
+33
+No item
+Machamp
+♂
+Lv.
+33
+No item
+Swimmer
+Stan
+Reward:
+$
+272
+Horsea
+♂
+Lv.
+34
+No item
+Sr. and Jr.
+Kim & Iris
+Reward:
+$
+1120
+Swablu
+♂
+Lv.
+32
+No item
+Numel
+♂
+Lv.
+35
+No item
+Rematch
+Sailor
+Ernest
+*
+Reward:
+$
+1152
+Wingull
+♂
+Lv.
+36
+No item
+Tentacool
+♂
+Lv.
+36
+No item
+Machoke
+♂
+Lv.
+36
+No item
+Sailor
+Ernest
+*
+Reward:
+$
+1248
+/
+1344
+Pelipper
+♂
+Lv.
+39
+/
+42
+No item
+Tentacool
+♂
+Lv.
+39
+/
+42
+No item
+Machoke
+♂
+Lv.
+39
+/
+42
+No item
+Sailor
+Ernest
+*
+Reward:
+$
+1440
+Pelipper
+♂
+Lv.
+45
+No item
+Machoke
+♂
+Lv.
+45
+No item
+Tentacruel
+♂
+Lv.
+45
+No item
+Trainers with a
+PokéNav
+by their names will be registered in the Trainer's Eyes or Match Call function after the first battle, and may have a rematch with the player with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+R
+S
+E
+Surfing
+5-35
+60%
+Wingull
+R
+S
+E
+Surfing
+10-30
+35%
+Pelipper
+R
+S
+E
+Surfing
+25-30
+5%
+Fishing
+Magikarp
+R
+S
+E
+Fishing
+Old Rod
+5-10
+70%
+Tentacool
+R
+S
+E
+Fishing
+Old Rod
+5-10
+30%
+Magikarp
+R
+S
+E
+Fishing
+Good Rod
+10-30
+60%
+Tentacool
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Good Rod
+10-30
+20%
+Wailmer
+R
+S
+E
+Fishing
+Super Rod
+25-45
+60%
+Sharpedo
+R
+S
+E
+Fishing
+Super Rod
+30-35
+40%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Big Pearl
+Middle island on the east side
+E
+← Part 13
+Slateport City, Lilycove City, Aqua Hideout
+Emerald
+walkthrough
+Shoal Cave, Route 127, Route 128, Seafloor Cavern
+Part 15 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

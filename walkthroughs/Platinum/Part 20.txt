@@ -1,0 +1,1480 @@
+Part: Part 20
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Platinum_walkthrough/Section_20
+Keywords: Pokémon League (north)
+
+Walkthrough Text:
+Contents
+1
+Pokémon League (north)
+1.1
+Elite Four
+1.1.1
+Aaron
+1.1.2
+Bertha
+1.1.3
+Flint
+1.1.4
+Lucian
+1.2
+Champion Cynthia
+Pokémon League (north)
+Ground floor
+Items
+Item
+Location
+Games
+Sky Plate
+South of western Poké Ball statue at exit from Victory Road
+(hidden)
+Pt
+Before you challenge the
+Pokémon League
+, use the Dowsing Machine app on your Pokétch near the base of the waterfall to find the
+Sky Plate
+. Now, use Surf and Waterfall to enter the building. Before going to the receptionist make sure to have a very good well-balanced team. Also make sure that all the members of your team are trained around Levels 54-58 to be able to stand a chance of succeeding. Also stock up on Hyper or Max Potions, Full Heals, Revives, and Full Restores. Just before you get to the receptionist in front of the door leading to the Elite Four, Barry will appear and challenge you to determine who among the two of you is more worthy.
+If the
+player
+chose
+Turtwig
+:
+If the
+player
+chose
+Chimchar
+:
+If the
+player
+chose
+Piplup
+:
+Pokémon Trainer
+Barry
+Pokémon League
+Platinum
+Reward:
+$
+5100
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+47
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+49
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rest
+Psychic
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+48
+Aerial Ace
+Flying
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+47
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+51
+Focus Blast
+Fighting
+Special
+--
+Shadow Claw
+Ghost
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Aerial Ace
+Flying
+Physical
+--
+Pokémon Trainer
+Barry
+Pokémon League
+Platinum
+Reward:
+$
+5100
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+47
+Fire Blast
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+49
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rest
+Psychic
+Status
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+48
+Aerial Ace
+Flying
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♂
+Lv.
+47
+Giga Drain
+Grass
+Special
+--
+GrassWhistle
+Grass
+Status
+--
+Shadow Ball
+Ghost
+Special
+--
+Poison Jab
+Poison
+Physical
+--
+Types:
+Water
+Steel
+Ability:
+Torrent
+Held item:
+None
+Empoleon
+♂
+Lv.
+51
+Brine
+Water
+Special
+--
+Metal Claw
+Steel
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Shadow Claw
+Ghost
+Physical
+--
+Pokémon Trainer
+Barry
+Pokémon League
+Platinum
+Reward:
+$
+5100
+Types:
+Normal
+Flying
+Ability:
+Intimidate
+Held item:
+None
+Staraptor
+♂
+Lv.
+48
+Close Combat
+Fighting
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Steel Wing
+Steel
+Physical
+--
+U-turn
+Bug
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+47
+Fire Blast
+Fire
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Bounce
+Flying
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Swift Swim
+Held item:
+None
+Floatzel
+♂
+Lv.
+47
+Aqua Jet
+Water
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Brick Break
+Fighting
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+48
+Aerial Ace
+Flying
+Physical
+--
+Close Combat
+Fighting
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Rock Slide
+Rock
+Physical
+--
+Type:
+Normal
+Unknown
+Ability:
+Immunity
+Held item:
+None
+Snorlax
+♂
+Lv.
+49
+Body Slam
+Normal
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rest
+Psychic
+Status
+--
+Types:
+Grass
+Ground
+Ability:
+Overgrow
+Held item:
+None
+Torterra
+♂
+Lv.
+51
+Leaf Storm
+Grass
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Synthesis
+Grass
+Status
+--
+The main new change is that Barry's
+Munchlax
+has evolved into a
+Snorlax
+, which should help count Snorlax as seen in the Sinnoh Pokédex. Snorlax can be easily brought down by a powerful
+Fighting-type
+attack such as
+Cross Chop
+or
+Close Combat
+. Other than that the same weaknesses as before can be used to defeat the other members of his team. Afterwards Barry will leave convinced he is not ready yet if he keeps losing like this, but vows to be the one to defeat you.
+Talk to the Ace Trainer and once he confirms you have the eight Sinnoh Badges you can then face the Elite Four, but just remember that if you lose after passing through the doorway, you must start over.
+Elite Four
+Aaron
+Aaron's room
+Elite Four
+Aaron
+Pokémon League
+Platinum
+Reward:
+$
+6360
+Types:
+Bug
+Flying
+Ability:
+Speed Boost
+Held item:
+None
+Yanmega
+♂
+Lv.
+49
+Bug Buzz
+Bug
+Special
+--
+Air Slash
+Flying
+Special
+--
+U-turn
+Bug
+Physical
+--
+Double Team
+Normal
+Status
+--
+Types:
+Bug
+Steel
+Ability:
+Swarm
+Held item:
+None
+Scizor
+♂
+Lv.
+49
+Iron Head
+Steel
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Types:
+Bug
+Fighting
+Ability:
+Swarm
+Held item:
+None
+Heracross
+♂
+Lv.
+51
+Close Combat
+Fighting
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Night Slash
+Dark
+Physical
+--
+Types:
+Bug
+Flying
+Ability:
+Pressure
+Held item:
+None
+Vespiquen
+♀
+Lv.
+50
+Attack Order
+Bug
+Physical
+--
+Defend Order
+Bug
+Status
+--
+Heal Order
+Bug
+Status
+--
+Power Gem
+Rock
+Special
+--
+Types:
+Poison
+Dark
+Ability:
+Battle Armor
+Held item:
+Sitrus Berry
+Drapion
+♂
+Lv.
+53
+Cross Poison
+Poison
+Physical
+--
+X-Scissor
+Bug
+Physical
+--
+Aerial Ace
+Flying
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+The first member of the Elite Four is Aaron, who specialises in
+Bug-types
+. Aaron's
+Yanmega
+can heighten its evasiveness with
+Double Team
+and its speed through its ability,
+Speed Boost
+. Take it down before it becomes a problem.
+Aerial Ace
+or
+Shock Wave
+can help if it gets too hectic. Both
+Heracross
+and
+Vespiquen
+know
+Rock
+attacks that threaten
+Flying-types
+, but a powerful Flying-type move can easily bring them down. For
+Scizor
+, a
+Fire-type
+would be best. For
+Drapion
+, his strongest Pokémon, you can use a
+Ground-type
+to target its one weakness (though it does have
+Ice Fang
+to counter Ground-types) or use a
+Steel-type
+that resists its moves.
+Bertha
+Bertha's room
+Elite Four
+Bertha
+Pokémon League
+Platinum
+Reward:
+$
+6600
+Types:
+Water
+Ground
+Ability:
+Oblivious
+Held item:
+None
+Whiscash
+♀
+Lv.
+50
+Earth Power
+Ground
+Special
+--
+Sandstorm
+Rock
+Status
+--
+Zen Headbutt
+Psychic
+Physical
+--
+Aqua Tail
+Water
+Physical
+--
+Types:
+Ground
+Flying
+Ability:
+Hyper Cutter
+Held item:
+None
+Gliscor
+♀
+Lv.
+53
+Earthquake
+Ground
+Physical
+--
+Fire Fang
+Fire
+Physical
+--
+Ice Fang
+Ice
+Physical
+--
+Thunder Fang
+Electric
+Physical
+--
+Types:
+Rock
+Ground
+Ability:
+Rock Head
+Held item:
+None
+Golem
+♀
+Lv.
+52
+Fire Punch
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Sandstorm
+Rock
+Status
+--
+Type:
+Ground
+Unknown
+Ability:
+Sand Stream
+Held item:
+None
+Hippowdon
+♀
+Lv.
+52
+Earthquake
+Ground
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Crunch
+Dark
+Physical
+--
+Yawn
+Normal
+Status
+--
+Types:
+Ground
+Rock
+Ability:
+Lightningrod
+Held item:
+Sitrus Berry
+Rhyperior
+♀
+Lv.
+55
+Avalanche
+Ice
+Physical
+--
+Megahorn
+Bug
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Rock Wrecker
+Rock
+Physical
+--
+For dealing with Bertha's team if you have a
+fast
+Grass
+or
+Water-type
+, then you should have an easy time.
+Whiscash
+has a 4× weakness to Grass-types,
+Golem
+,
+Rhyperior
+have a 4× weakness to Grass and Water-types, and
+Gliscor
+has a 4× weakness to
+Ice-types
+. Exploit these weaknesses with attacks such as
+Ice Beam
+or
+Surf
+. Hit
+Hippowdon
+, her only single type Pokémon, with powerful attacks before it can hit back. While Gliscor, Golem, and Rhyperior know moves to cover several of their weaknesses, their low Special Defense can still be exploited.
+Flint
+Flint's room
+Elite Four
+Flint
+Pokémon League
+Platinum
+Reward:
+$
+6840
+Types:
+Dark
+Fire
+Ability:
+Early Bird
+Held item:
+None
+Houndoom
+♂
+Lv.
+52
+Flamethrower
+Fire
+Special
+--
+Sludge Bomb
+Poison
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Sunny Day
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Flash Fire
+Held item:
+None
+Flareon
+♂
+Lv.
+55
+Overheat
+Fire
+Special
+--
+Giga Impact
+Normal
+Physical
+--
+Quick Attack
+Normal
+Physical
+--
+Will-O-Wisp
+Fire
+Status
+--
+Type:
+Fire
+Unknown
+Ability:
+Run Away
+Held item:
+None
+Rapidash
+♂
+Lv.
+53
+Flare Blitz
+Fire
+Physical
+--
+SolarBeam
+Grass
+Special
+--
+Bounce
+Flying
+Physical
+--
+Sunny Day
+Fire
+Status
+--
+Types:
+Fire
+Fighting
+Ability:
+Blaze
+Held item:
+None
+Infernape
+♂
+Lv.
+55
+Flare Blitz
+Fire
+Physical
+--
+ThunderPunch
+Electric
+Physical
+--
+Mach Punch
+Fighting
+Physical
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Fire
+Unknown
+Ability:
+Flame Body
+Held item:
+Sitrus Berry
+Magmortar
+♂
+Lv.
+57
+Flamethrower
+Fire
+Special
+--
+Thunderbolt
+Electric
+Special
+--
+SolarBeam
+Grass
+Special
+--
+Hyper Beam
+Normal
+Special
+--
+Flint will thank you for helping
+Volkner
+earlier and then face you in a battle. Be careful when his Pokémon use
+Sunny Day
+, as it can raise their Fire-type moves and weaken the power of Water-type moves. His first Pokémon
+Houndoom
+should be taken down as quick as possible to help give you an early lead before Sunny Day is used.
+Flareon
+should not be much of a problem, though be careful with
+Overheat
+since it is very powerful when first used. Also, its
+Will-O-Wisp
+can induce a burn, which can easily halt sweeps.
+Rapidash
+'s speed can be a hassle, and its
+Solar Beam
+can cover its weaknesses, especially in
+harsh sunlight
+.
+Infernape
+is weak to
+Water
+,
+Ground
+,
+Flying
+, and
+Psychic
+, but it can cover Water- and Flying-types with
+Thunder Punch
+. His strongest Pokémon
+Magmortar
+has a pretty strong moveset and
+Special Attack
+, but a faster Pokémon with a strong Water, Rock, or Ground-type move could easily take it out. However, be careful not to use physical/contact moves, as
+Flame Body
+may burn your sweeper. Ground Pokémon such as
+Garchomp
+are especially useful in this fight.
+Lucian
+Lucian's room
+Elite Four
+Lucian
+Pokémon League
+Platinum
+Reward:
+$
+7080
+Type:
+Psychic
+Unknown
+Ability:
+Soundproof
+Held item:
+None
+Mr. Mime
+♂
+Lv.
+53
+Psychic
+Psychic
+Special
+--
+Light Screen
+Psychic
+Status
+--
+Reflect
+Psychic
+Status
+--
+Thunderbolt
+Electric
+Special
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Espeon
+♂
+Lv.
+55
+Psychic
+Psychic
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Shadow Ball
+Ghost
+Special
+--
+Signal Beam
+Bug
+Special
+--
+Types:
+Steel
+Psychic
+Ability:
+Levitate
+Held item:
+None
+Bronzong
+Lv.
+54
+Psychic
+Psychic
+Special
+--
+Gyro Ball
+Steel
+Physical
+--
+Calm Mind
+Psychic
+Status
+--
+Earthquake
+Ground
+Physical
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Alakazam
+♂
+Lv.
+56
+Psychic
+Psychic
+Special
+--
+Focus Blast
+Fighting
+Special
+--
+Recover
+Normal
+Status
+--
+Energy Ball
+Grass
+Special
+--
+Types:
+Psychic
+Fighting
+Ability:
+Steadfast
+Held item:
+Sitrus Berry
+Gallade
+♂
+Lv.
+59
+Psycho Cut
+Psychic
+Physical
+--
+Drain Punch
+Fighting
+Physical
+--
+Leaf Blade
+Grass
+Physical
+--
+Stone Edge
+Rock
+Physical
+--
+Mr. Mime
+can
+Reflect
+or
+Light Screen
+to halve out the power of your moves, so it's advised to take it out quickly.
+Espeon
+and
+Alakazam
+have low physical
+Defense
+, but they are fast and know attacks that are strong against
+Dark
+.
+Bronzong
+has high Defenses and is only weak to
+Fire
+. While it can use
+Earthquake
+to cover Fire-types, its slow speed makes it easy to bring down by a powerful Fire-type Attack.
+Gallade
+is weak to only
+Flying
+- and
+Ghost-type
+attacks. Be careful when using Flying-types as it can counter them with Stone Edge. A powerful Pokémon like
+Staraptor
+can easily beat it with
+Brave Bird
+.
+Champion Cynthia
+Cynthia's room
+Champion
+Cynthia
+Pokémon League
+Platinum
+Reward:
+$
+12400
+Types:
+Ghost
+Dark
+Ability:
+Pressure
+Held item:
+None
+Spiritomb
+♀
+Lv.
+58
+Silver Wind
+Bug
+Special
+--
+Dark Pulse
+Dark
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Psychic
+Psychic
+Special
+--
+Types:
+Grass
+Poison
+Ability:
+Natural Cure
+Held item:
+None
+Roserade
+♀
+Lv.
+58
+Sludge Bomb
+Poison
+Special
+--
+Energy Ball
+Grass
+Special
+--
+Extrasensory
+Psychic
+Special
+--
+Toxic
+Poison
+Status
+--
+Type:
+Water
+Unknown
+Ability:
+Marvel Scale
+Held item:
+None
+Milotic
+♀
+Lv.
+58
+Mirror Coat
+Psychic
+Special
+--
+Dragon Pulse
+Dragon
+Special
+--
+Ice Beam
+Ice
+Special
+--
+Surf
+Water
+Special
+--
+Types:
+Fighting
+Steel
+Ability:
+Steadfast
+Held item:
+None
+Lucario
+♂
+Lv.
+60
+Aura Sphere
+Fighting
+Special
+--
+Shadow Ball
+Ghost
+Special
+--
+Stone Edge
+Rock
+Physical
+--
+ExtremeSpeed
+Normal
+Physical
+--
+Types:
+Normal
+Flying
+Ability:
+Hustle
+Held item:
+None
+Togekiss
+♂
+Lv.
+60
+Air Slash
+Flying
+Special
+--
+Aura Sphere
+Fighting
+Special
+--
+Water Pulse
+Water
+Special
+--
+Shock Wave
+Electric
+Special
+--
+Types:
+Dragon
+Ground
+Ability:
+Sand Veil
+Held item:
+Sitrus Berry
+Garchomp
+♀
+Lv.
+62
+Dragon Rush
+Dragon
+Physical
+--
+Flamethrower
+Fire
+Special
+--
+Earthquake
+Ground
+Physical
+--
+Giga Impact
+Normal
+Physical
+--
+Cynthia will thank you for your help on Mt. Coronet and in the Distortion World earlier before facing you. Cynthia does not follow a specific type so this battle will be trouble if you don't plan ahead.
+Spiritomb
+has no direct weaknesses. However, it is weak offensively, so powerful attackers can bring it down.
+Roserade
+shouldn't be that much of a hassle if you get it down quick with Fire or Flying types. It would be recommended to use an
+Electric-type
+against
+Milotic
+since it has Ice Beam to counter Grass-types. Physical attacks, like
+ThunderPunch
+or
+Wood Hammer
+, tend to work better because they make
+Mirror Coat
+fail.
+Use Fire, Ground, or Fighting-type moves to bring down
+Lucario
+.
+Togekiss
+can be brought down by an Electric-type but be careful of its high defenses.
+Garchomp
+, the Champion's strongest Pokémon, is far more dangerous than anything you have battled. It may have a 4× weakness to Ice-types, but its high physical
+Attack
+and Speed often lets Garchomp one-shot your Pokémon before you can move. If you can get it to use
+Giga Impact
+, then exploit the free turn while you have the chance.
+After the battle Cynthia will praise you on the conviction you have with your Pokémon to become Champion. She'll then take you to the Hall of Fame where Professor Rowan will join you and all the Pokémon on your team are recorded into the Hall of Fame.
+← Part 19
+Sunyshore Gym to Victory Road
+Platinum
+walkthrough
+Twinleaf Town, Sandgem Town, Eterna City, Trophy Garden, Pal Park, Snowpoint Temple, Mt. Coronet, Celestic Town, Spear Pillar
+Part 21 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

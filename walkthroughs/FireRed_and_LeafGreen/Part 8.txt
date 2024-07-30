@@ -1,0 +1,1025 @@
+Part: Part 8
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_8
+Keywords: Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Underground Path (Routes 7-8), Route 7
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Route 10
+1.1
+Rock Tunnel
+1.1.1
+1F (Northeast)
+1.1.2
+B1F (Southeast)
+1.1.3
+1F (West)
+1.1.4
+B1F (Northwest)
+1.1.5
+1F (South)
+2
+Route 10 (South)
+3
+Lavender Town
+3.1
+Name Rater
+3.2
+Lavender Volunteer Pokémon House
+3.3
+Pokémon Tower
+3.3.1
+Rival Battle 5
+3.3.2
+Restless Spirits
+4
+Route 8
+4.1
+Underground Path
+5
+Route 7
+Route 10
+Rock Tunnel
+Rock Tunnel, 1F
+Rock Tunnel, B1F
+As it has been left in its natural state and undeveloped,
+Rock Tunnel
+is pitch-black inside. Though not required, it is useful to bring a Pokémon that can use
+Flash
+to illuminate the winding tunnels. There are many Trainers within the cave, whether for the fun of exploring, training, or simply having gotten lost in the darkness.
+Trainers
+1F
+Trainer
+Pokémon
+PokéManiac
+Ashton
+Reward:
+$
+1104
+Cubone
+♂
+Lv.
+23
+No item
+Slowpoke
+♂
+Lv.
+23
+No item
+Hiker
+Lenny
+Reward:
+$
+684
+Geodude
+♂
+Lv.
+19
+No item
+Machop
+♂
+Lv.
+19
+No item
+Geodude
+♂
+Lv.
+19
+No item
+Geodude
+♂
+Lv.
+19
+No item
+Hiker
+Oliver
+Reward:
+$
+720
+Onix
+♂
+Lv.
+20
+No item
+Onix
+♂
+Lv.
+20
+No item
+Geodude
+♂
+Lv.
+20
+No item
+Hiker
+Lucas
+Reward:
+$
+756
+Geodude
+♂
+Lv.
+21
+No item
+Graveler
+♂
+Lv.
+21
+No item
+Picnicker
+Leah
+Reward:
+$
+440
+Bellsprout
+♀
+Lv.
+22
+No item
+Clefairy
+♀
+Lv.
+22
+No item
+Picnicker
+Ariana
+Reward:
+$
+380
+Pidgey
+♀
+Lv.
+19
+No item
+Rattata
+♀
+Lv.
+19
+No item
+Rattata
+♀
+Lv.
+19
+No item
+Bellsprout
+♀
+Lv.
+19
+No item
+Picnicker
+Dana
+Reward:
+$
+400
+Meowth
+♀
+Lv.
+20
+No item
+Oddish
+♀
+Lv.
+20
+No item
+Pidgey
+♀
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+B1F
+Trainer
+Pokémon
+PokéManiac
+Winston
+Reward:
+$
+1200
+Slowpoke
+♂
+Lv.
+25
+No item
+Picnicker
+Martha
+Reward:
+$
+440
+Oddish
+♀
+Lv.
+22
+No item
+Bulbasaur
+♂
+Lv.
+22
+No item
+PokéManiac
+Steve
+Reward:
+$
+1056
+Charmander
+♂
+Lv.
+22
+No item
+Cubone
+♂
+Lv.
+22
+No item
+Hiker
+Allen
+Reward:
+$
+900
+Geodude
+♂
+Lv.
+25
+No item
+Hiker
+Eric
+Reward:
+$
+720
+Machop
+♂
+Lv.
+20
+No item
+Onix
+♂
+Lv.
+20
+No item
+Picnicker
+Sofia
+Reward:
+$
+420
+Jigglypuff
+♀
+Lv.
+21
+No item
+Pidgey
+♀
+Lv.
+21
+No item
+Meowth
+♀
+Lv.
+21
+No item
+Hiker
+Dudley
+Reward:
+$
+756
+Geodude
+♂
+Lv.
+21
+No item
+Geodude
+♂
+Lv.
+21
+No item
+Graveler
+♂
+Lv.
+21
+No item
+PokéManiac
+Cooper
+Reward:
+$
+960
+Slowpoke
+♂
+Lv.
+20
+No item
+Slowpoke
+♂
+Lv.
+20
+No item
+Slowpoke
+♂
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+FR
+LG
+Cave
+15-17
+35%
+Zubat
+FR
+LG
+Cave
+15-16
+30%
+Mankey
+FR
+LG
+Cave
+16-17
+15%
+Machop
+FR
+LG
+Cave
+16-17
+15%
+Onix
+FR
+LG
+Cave
+13, 15
+5%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+B1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Geodude
+FR
+LG
+Cave
+15-17
+35%
+Zubat
+FR
+LG
+Cave
+15-16
+30%
+Mankey
+FR
+LG
+Cave
+16-17
+15%
+Machop
+FR
+LG
+Cave
+17
+10%
+Onix
+FR
+LG
+Cave
+13, 15, 17
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Repel
+Northeast; east of the cave entrance
+FR
+LG
+Escape Rope
+West; near the middle of 1F
+FR
+LG
+Pearl
+South; west of Picnicker Leah and Picnicker Ariana
+FR
+LG
+B1F
+Revive
+Southeast; in the southwest corner of B1F
+FR
+LG
+Max Ether
+Northwest; north of Picnicker Sofia
+FR
+LG
+1F (Northeast)
+Go east to grab a
+Repel
+. Defeat PokéManiac Ashton, then climb down the ladder in the northeast corner to reach B1F.
+B1F (Southeast)
+Go southwest to battle PokéManiac Winston, and pick up a
+Revive
+in a dead-end path farther west. Follow the tunnel northeastward to battle the next four Trainers. In the northeast corner, take the ladder back up to 1F.
+1F (West)
+Head southeast past Hiker Lenny and Hiker Oliver. Grab the
+Escape Rope
+to the east and battle Hiker Lucas before climbing the nearby ladder.
+B1F (Northwest)
+Go southwest to battle Picnicker Sofia, then head south to meet another
+Move Tutor
+; this Youngster offers to teach the move
+Rock Slide
+. Turn around and go north from Sofia to reach a
+Max Ether
+. Continue west to battle Hiker Dudley and PokéManiac Cooper, then climb the final ladder in the northwest.
+1F (South)
+Go south to battle Picnicker Leah and Picnicker Ariana. Collect the
+Pearl
+to the northwest, and continue westward to battle Picnicker Dana. The ladder to the exit is located to the southwest.
+Route 10 (South)
+The southern part of
+Route 10
+is shorter than the northern one. Several more Trainers can be found here, but if your Pokémon are injured the eastern path can be taken to avoid them.
+Trainers
+Trainer
+Pokémon
+Picnicker
+Carol
+Reward:
+$
+420
+Pidgey
+♀
+Lv.
+21
+No item
+Pidgeotto
+♀
+Lv.
+21
+No item
+Hiker
+Clark
+Reward:
+$
+756
+Geodude
+♂
+Lv.
+21
+No item
+Onix
+♂
+Lv.
+21
+No item
+Hiker
+Trent
+Reward:
+$
+684
+Onix
+♂
+Lv.
+19
+No item
+Graveler
+♂
+Lv.
+19
+No item
+PokéManiac
+Herman
+Reward:
+$
+960
+Cubone
+♂
+Lv.
+20
+No item
+Slowpoke
+♂
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Items
+Item
+Location
+Games
+Nanab Berry
+East of the Rock Tunnel exit
+(hidden)
+FR
+LG
+Lavender Town
+Lavender Town
+Lavender Town
+is a quiet, somber town where people come to visit their departed Pokémon. The area is known for ghost sightings in
+Pokémon Tower
+. The Volunteer Pokémon House and the
+Name Rater
+'s home are also located here. In addition, the local Poké Mart offers new items like
+Revives
+and
+Great Balls
+.
+Items
+Item
+Location
+Games
+Later visit
+Poké Flute
+Pokémon House; from
+Mr. Fuji
+, after rescuing him in Pokémon Tower
+FR
+LG
+Name Rater
+One of the houses on the south side of town belongs to the
+Name Rater
+. This man judges a Trainer's nickname for their Pokémon, and offers the chance to change it. His service is free, so nicknames may be changed repeatedly.
+Lavender Volunteer Pokémon House
+The Lavender Volunteer Pokémon House is located in the center of town. Founded by
+Mr. Fuji
+, the organization was established to care for orphaned and abandoned Pokémon. Many members of the group live here in their safe house while looking after these Pokémon. According to one man, it is odd that Mr. Fuji is not here at the moment, and wonders aloud where he may have gone.
+Pokémon Tower
+As the place where departed Pokémon are laid to rest,
+Pokémon Tower
+has a strong connection to the spirit world and most of the wild Pokémon inside belong to the
+Ghost
+type. The paranormal activity increases beyond the second floor, where ghosts and possessed Channelers are a common sight. However, without a
+certain item
+, it is impossible to reach the tower's highest floor.
+Rival Battle 5
+Blue
+can be found on the second floor. It is possible to battle him right now, or delay the fight until you are ready to clear the tower.
+Restless Spirits
+Most
+ghosts
+inside the tower are truly mischievous Pokémon in disguise that can be battled or captured after obtaining a
+certain item
+.
+Gastly
+and
+Haunter
+are two of only three known
+Ghost-type
+Pokémon, so it is worthwhile to track them down. The one true ghost here blocks access to the top floor, but as there is nothing that can be done but run from it, it is best to leave it for later. Rumor says there is some kind of prototype in
+Celadon City
+to the west that can reveal what is hidden.
+Route 8
+Route 8
+Route 8
+connects
+Lavender Town
+to the east and
+Saffron City
+to the west. The eastern end of the second Underground Path can be found here.
+Trainers
+Trainer
+Pokémon
+Lass
+Julia
+Reward:
+$
+352
+Clefairy
+♀
+Lv.
+22
+No item
+Clefairy
+♀
+Lv.
+22
+No item
+Gamer
+Rich
+Reward:
+$
+1728
+Growlithe
+♂
+Lv.
+24
+No item
+Vulpix
+♀
+Lv.
+24
+No item
+Super Nerd
+Glenn
+Reward:
+$
+528
+Grimer
+♂
+Lv.
+22
+No item
+Muk
+♂
+Lv.
+22
+No item
+Grimer
+♂
+Lv.
+22
+No item
+Twins
+Eli & Anne
+Reward:
+$
+528
+Clefairy
+♀
+Lv.
+22
+No item
+Jigglypuff
+♀
+Lv.
+22
+No item
+Lass
+Paige
+Reward:
+$
+368
+Nidoran♀
+Lv.
+23
+No item
+Nidorina
+♀
+Lv.
+23
+No item
+Super Nerd
+Leslie
+Reward:
+$
+624
+Koffing
+♂
+Lv.
+26
+No item
+Lass
+Andrea
+Reward:
+$
+384
+Meowth
+♀
+Lv.
+24
+No item
+Meowth
+♀
+Lv.
+24
+No item
+Meowth
+♀
+Lv.
+24
+No item
+Lass
+Megan
+Reward:
+$
+304
+Pidgey
+♀
+Lv.
+19
+No item
+Rattata
+♀
+Lv.
+19
+No item
+Nidoran♂
+Lv.
+19
+No item
+Meowth
+♀
+Lv.
+19
+No item
+Pikachu
+♀
+Lv.
+19
+No item
+Biker
+Jaren
+Reward:
+$
+480
+Grimer
+♂
+Lv.
+24
+No item
+Grimer
+♂
+Lv.
+24
+No item
+Biker
+Ricardo
+Reward:
+$
+460
+Koffing
+♂
+Lv.
+22
+No item
+Koffing
+♂
+Lv.
+22
+No item
+Grimer
+♂
+Lv.
+23
+No item
+Gamer
+Stan
+Reward:
+$
+1584
+Poliwag
+♂
+Lv.
+22
+No item
+Poliwag
+♂
+Lv.
+22
+No item
+Poliwhirl
+♂
+Lv.
+22
+No item
+Super Nerd
+Aidan
+Reward:
+$
+480
+Voltorb
+Lv.
+20
+No item
+Voltorb
+Lv.
+20
+No item
+Magnemite
+Lv.
+20
+No item
+Koffing
+♂
+Lv.
+20
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+FR
+LG
+Grass
+18, 20
+30%
+Meowth
+FR
+LG
+Grass
+18, 20
+30%
+Ekans
+FR
+LG
+Grass
+17, 19
+20%
+Sandshrew
+FR
+LG
+Grass
+17, 19
+20%
+Vulpix
+FR
+LG
+Grass
+15-18
+20%
+Growlithe
+FR
+LG
+Grass
+15-18
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Leppa Berry
+Tall grass patch, southeast area
+(hidden)
+(requires
+Cut
+)
+FR
+LG
+Lum Berry
+Tall grass patch, northwest area
+(hidden)
+(requires Cut)
+FR
+LG
+Rawst Berry
+Tall grass patch, northeast area
+(hidden)
+(requires Cut)
+FR
+LG
+Underground Path
+It is still not possible to reach
+Saffron City
+, as all the gatekeepers are too distracted wishing they had something to drink. Enter the second
+Underground Path
+instead and follow the tunnel westward to
+Route 7
+.
+Items
+Item
+Location
+Games
+Ice Heal
+Four steps east, two steps south of the second lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Antidote
+Four steps east, four steps south of the third lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Ether
+Three steps west, one step south of the third lamp from the east
+(hidden
+recurring item
+; group C)
+FR
+LG
+Burn Heal
+Three steps west, two steps south of the fourth lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Awakening
+Two steps west, three steps south of the fifth lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Parlyz Heal
+Four steps east, three steps south of the seventh lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Potion
+Four steps west, three steps down of the seventh lamp from the east
+(hidden
+recurring item
+; group B)
+FR
+LG
+Route 7
+Route 7
+Route 7
+is a short path that links
+Saffron City
+to the east and
+Celadon City
+to the west. The western end of the second
+Underground Path
+emerges here.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Meowth
+FR
+LG
+Grass
+17-20
+40%
+Pidgey
+FR
+LG
+Grass
+19, 22
+30%
+Oddish
+FR
+LG
+Grass
+19, 22
+20%
+Bellsprout
+FR
+LG
+Grass
+19, 22
+20%
+Vulpix
+FR
+LG
+Grass
+18, 20
+10%
+Growlithe
+FR
+LG
+Grass
+18, 20
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Wepear Berry
+Southeast corner of the route
+(hidden)
+FR
+LG
+← Part 7
+Route 11, Diglett's Cave, Pewter Museum, Route 9, Route 10
+FireRed and LeafGreen
+walkthrough
+Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+Part 9 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

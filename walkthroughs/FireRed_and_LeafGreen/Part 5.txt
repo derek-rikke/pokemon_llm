@@ -1,0 +1,1441 @@
+Part: Part 5
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:FireRed_and_LeafGreen_walkthrough/Section_5
+Keywords: Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5, Underground Path (Routes 5-6)
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon FireRed and LeafGreen
+.
+These pages follow the remade
+Game Boy Advance
+iteration,
+not
+Pokémon Red and Blue
+. The guide for those games can be found
+here
+.
+Contents
+1
+Cerulean City
+1.1
+Time for a Trade
+1.2
+Gym Badges, Explained
+1.3
+Medicine Man
+1.4
+Bike Shop
+1.5
+Breaking, Entering
+1.6
+Cerulean Gym
+1.7
+Rival Battle 3
+1.7.1
+If the player chose Bulbasaur:
+1.7.2
+If the player chose Charmander:
+1.7.3
+If the player chose Squirtle:
+2
+Route 24
+2.1
+Nugget Bridge
+3
+Route 25
+3.1
+Sea Cottage
+3.1.1
+An Unfortunate Turn
+3.1.2
+Bill's Favorite Pokémon
+4
+Cerulean City
+4.1
+Justice, Served
+5
+Route 5
+5.1
+Pokémon Day Care
+5.2
+Underground Path
+5.2.1
+Time for a Trade
+Cerulean City
+Cerulean City
+Cerulean City
+is a beautiful city with flowing water and blooming flowers. It is located between
+Route 4
+,
+Route 24
+,
+Route 9
+, and
+Route 5
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Special Pokémon
+Jynx
+FR
+LG
+Trade
+Poliwhirl
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Rare Candy
+In the backyard of the northwest house
+(hidden)
+FR
+LG
+Powder Jar
+From an old man in the north-northwest house
+FR
+LG
+TM03
+(
+Water Pulse
+)
+From Misty, after defeating her
+FR
+LG
+Fame Checker
+From Blue, after defeating him
+FR
+LG
+Fab Mail
+Held by Zynx, a
+Jynx
+received through a trade
+FR
+LG
+Later visit
+TM28
+(
+Dig
+)
+From the Team Rocket Grunt, after defeating him
+FR
+LG
+Bicycle
+From the
+Bike Shop
+owner, in exchange for a
+Bike Voucher
+FR
+LG
+Time for a Trade
+Visit the house next to the Pokémon Center to find an old man who would like to
+trade
+Pokémon. He is willing to part with his
+Jynx
+in exchange for a
+Poliwhirl
+. Poliwhirl can only be found by using a
+high-level fishing rod
+.
+Gym Badges, Explained
+The northwest house belongs to a man who offers to explains the effects of the eight
+Gym Badges
+. Half of them give a slight power boost to a respective stat, while the other half ensure a Pokémon's
+obedience
+during battle. The first five unlock the use of field moves.
+Badge
+Effect
+Badge
+Effect
+Boulder Badge
+Increases
+Attack
+,
+Allows
+Flash
+in the field
+Cascade Badge
+Ensures obedience up to level 30,
+Allows
+Cut
+in the field
+Thunder Badge
+Increases
+Speed
+,
+Allows
+Fly
+in the field
+Rainbow Badge
+Ensures obedience up to level 50,
+Allows
+Strength
+in the field
+Soul Badge
+Increases
+Defense
+,
+Allows
+Surf
+in the field
+Marsh Badge
+Ensures obedience up to level 70,
+Allows
+Rock Smash
+in the field
+Volcano Badge
+Increases
+Special Attack
+and
+Special Defense
+,
+Allows
+Waterfall
+in the field
+Earth Badge
+Ensures obedience up to level 100
+Medicine Man
+The north-northwest house belongs to an old man. When provided with the required amount of
+Berry Powder
+, he is able to concoct a variety of medicines. On your first visit, he gives out the
+Powder Jar
+, which stores any and all Berry Powder obtained from the
+Berry Crush
+minigame.
+Berry Powder
+EnergyPowder
+50
+units
+Energy Root
+80
+units
+Heal Powder
+50
+units
+Revival Herb
+300
+units
+Protein
+1,000
+units
+Iron
+1,000
+units
+Carbos
+1,000
+units
+Calcium
+1,000
+units
+Zinc
+1,000
+units
+HP Up
+1,000
+units
+PP Up
+3,000
+units
+Bike Shop
+It would be great to get a
+Bicycle
+from the
+Bike Shop
+in the southwest part of town, but they cost a whopping
+$
+1,000,000! It is not possible to carry that much money, so it looks like you are stuck traveling on foot for now.
+Breaking, Entering
+The house in the northeast is currently blocked off by a police officer. It seems that
+Team Rocket
+has broken into the home and stolen
+a valuable item
+from its residents. Nothing can be done to remedy this at the moment, so set your sights on the Gym instead.
+Cerulean Gym
+Cerulean Gym
+CERULEAN CITY POKéMON GYM
+LEADER: MISTY
+The Tomboyish Mermaid!
+The
+Cerulean Gym
+specializes in
+Water-type
+Pokémon. Water-type moves are super effective against
+Fire
+-,
+Ground
+-, and
+Rock-type
+Pokémon, while Water-type Pokémon are weak to
+Electric
+- and
+Grass-type
+moves.
+Take out
+Misty
+'s
+Staryu
+quickly to move on to her
+Starmie
+. Her second Pokémon is both
+stronger
+and
+faster
+than Staryu, making its
+Water Pulse
+especially painful to vulnerable Pokémon. Use Pikachu's
+ThunderShock
+, or Grass moves like
+Vine Whip
+and
+Bullet Seed
+, to deal serious damage and make quick work of it.
+Cerulean Gym
+Trainers
+Trainer
+Pokémon
+Swimmer
+Luis
+Reward:
+$
+64
+Horsea
+♂
+Lv.
+16
+No item
+Shellder
+♂
+Lv.
+16
+No item
+Picnicker
+Diana
+Reward:
+$
+380
+Goldeen
+♀
+Lv.
+19
+No item
+Leader
+Misty
+Cerulean Gym
+FireRed and LeafGreen
+Reward:
+$
+2100
+Type:
+Water
+Unknown
+Ability:
+Natural Cure
+Held item:
+None
+Staryu
+Lv.
+18
+Tackle
+Normal
+--
+Harden
+Normal
+--
+Recover
+Normal
+--
+Water Pulse
+Water
+--
+Types:
+Water
+Psychic
+Ability:
+Natural Cure
+Held item:
+None
+Starmie
+Lv.
+21
+Rapid Spin
+Normal
+--
+Swift
+Normal
+--
+Recover
+Normal
+--
+Water Pulse
+Water
+--
+After the battle,
+Misty
+awards you the
+Cascade Badge
+, which ensures obedience from all Pokémon up to level 30 and enables the use of
+Cut
+in the field. She also gives you
+TM03
+(
+Water Pulse
+) as a prize.
+Rival Battle 3
+When you head toward
+Route 24
+,
+Blue
+appears and taunts you as usual before drawing you into another battle. He leads with his
+Pidgeotto
+, so start off with
+Electric
+- and
+Rock-type
+attacks. His
+Abra
+is a sitting duck as
+its only move
+does not deal any damage, making a good opportunity to earn experience for your lower-leveled Pokémon.
+Rattata
+'s
+Quick Attack
+lets it move first regardless of its
+Speed
+and
+Hyper Fang
+can inflict a good bit of damage, so try to take it out quickly. His
+first Pokémon
+is more of a threat now that it has learned a damaging move that matches its type. This
+same-type attack bonus
+boosts its power by 50%. Avoid pitting your own first Pokémon against his, or your Pokémon could take serious damage.
+If the player chose
+Bulbasaur
+:
+Rival
+Blue
+Cerulean City
+FireRed and LeafGreen
+Reward:
+$
+288
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeotto
+♂
+Lv.
+17
+Tackle
+Normal
+--
+Gust
+Flying
+--
+Sand-Attack
+Ground
+--
+Quick Attack
+Normal
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Abra
+♂
+Lv.
+16
+Teleport
+Psychic
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Guts
+Held item:
+None
+Rattata
+♂
+Lv.
+15
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Fire
+Unknown
+Ability:
+Blaze
+Held item:
+None
+Charmander
+♂
+Lv.
+18
+Scratch
+Normal
+--
+Growl
+Normal
+--
+Ember
+Fire
+--
+Metal Claw
+Steel
+--
+If the player chose
+Charmander
+:
+Rival
+Blue
+Cerulean City
+FireRed and LeafGreen
+Reward:
+$
+288
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeotto
+♂
+Lv.
+17
+Tackle
+Normal
+--
+Gust
+Flying
+--
+Sand-Attack
+Ground
+--
+Quick Attack
+Normal
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Abra
+♂
+Lv.
+16
+Teleport
+Psychic
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Guts
+Held item:
+None
+Rattata
+♂
+Lv.
+15
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Water
+Unknown
+Ability:
+Torrent
+Held item:
+None
+Squirtle
+♂
+Lv.
+18
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Withdraw
+Water
+--
+Water Gun
+Water
+--
+If the player chose
+Squirtle
+:
+Rival
+Blue
+Cerulean City
+FireRed and LeafGreen
+Reward:
+$
+288
+Types:
+Normal
+Flying
+Ability:
+Keen Eye
+Held item:
+None
+Pidgeotto
+♂
+Lv.
+17
+Tackle
+Normal
+--
+Gust
+Flying
+--
+Sand-Attack
+Ground
+--
+Quick Attack
+Normal
+--
+Type:
+Psychic
+Unknown
+Ability:
+Synchronize
+Held item:
+None
+Abra
+♂
+Lv.
+16
+Teleport
+Psychic
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Struggle
+Normal
+--
+Type:
+Normal
+Unknown
+Ability:
+Guts
+Held item:
+None
+Rattata
+♂
+Lv.
+15
+Tackle
+Normal
+--
+Tail Whip
+Normal
+--
+Quick Attack
+Normal
+--
+Struggle
+Normal
+--
+Types:
+Grass
+Poison
+Ability:
+Overgrow
+Held item:
+None
+Bulbasaur
+♂
+Lv.
+18
+Sleep Powder
+Grass
+--
+PoisonPowder
+Poison
+--
+Vine Whip
+Grass
+--
+Leech Seed
+Grass
+--
+After the battle,
+Blue
+brags about visiting a world-famous PokéManiac and adding more data to his
+Pokédex
+before he runs off. He returns a moment later, saying that he feels sorry for you for always plodding along behind him, and gives you a gift. The
+Fame Checker
+is a device that records miscellaneous information about famous people, like
+Gym Leaders
+. Once Blue leaves this time, you are free to continue to
+Route 24
+.
+Route 24
+Route 24
+Route 24
+stretches north from
+Cerulean City
+to
+Route 25
+. Most of the area is occupied by a river and the Nugget Bridge that crosses it.
+Trainers
+Trainer
+Pokémon
+Nugget Bridge
+Bug Catcher
+Cale
+Reward:
+$
+120
+Caterpie
+♂
+Lv.
+10
+No item
+Weedle
+♂
+Lv.
+10
+No item
+Metapod
+♂
+Lv.
+10
+No item
+Kakuna
+♂
+Lv.
+10
+No item
+Lass
+Ali
+Reward:
+$
+192
+Pidgey
+♀
+Lv.
+12
+No item
+Oddish
+♀
+Lv.
+12
+No item
+Bellsprout
+♀
+Lv.
+12
+No item
+Youngster
+Timmy
+Reward:
+$
+224
+Sandshrew
+♂
+Lv.
+14
+No item
+Ekans
+♂
+Lv.
+14
+No item
+Lass
+Reli
+Reward:
+$
+256
+Nidoran♂
+Lv.
+16
+No item
+Nidoran♀
+Lv.
+16
+No item
+Camper
+Ethan
+Reward:
+$
+360
+Mankey
+♂
+Lv.
+18
+No item
+Team Rocket Grunt
+Reward:
+$
+480
+Ekans
+♂
+Lv.
+15
+No item
+Zubat
+♂
+Lv.
+15
+No item
+Grassy area
+Camper
+Shane
+Reward:
+$
+280
+Rattata
+♂
+Lv.
+14
+No item
+Ekans
+♂
+Lv.
+14
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+FR
+LG
+Grass
+12-14
+25%
+Bellsprout
+FR
+LG
+Grass
+12-14
+25%
+Caterpie
+FR
+LG
+Grass
+7
+20%
+Weedle
+FR
+LG
+Grass
+7
+20%
+Pidgey
+FR
+LG
+Grass
+11, 13
+15%
+Abra
+FR
+LG
+Grass
+8, 10, 12
+15%
+Metapod
+FR
+LG
+Grass
+8
+4%
+Kakuna
+FR
+LG
+Grass
+8
+4%
+Metapod
+FR
+LG
+Grass
+8
+1%
+Kakuna
+FR
+LG
+Grass
+8
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Nugget
+From the Team Rocket Grunt, after defeating the Trainers on Nugget Bridge
+FR
+LG
+TM45
+(
+Attract
+)
+On the northwest hill
+FR
+LG
+Pecha Berry
+On the northeast hill, accessible via Route 25
+(hidden)
+FR
+LG
+Nugget Bridge
+There are five Trainers to be fought on the famous Nugget Bridge. When all five are defeated, a man at the bridge's north end will reward you with a
+Nugget
+, a bit of gold that can be sold for a high price. The man then reveals himself as a
+Team Rocket
+Grunt and tries to persuade you to join the group, and draws you into battle when you refuse.
+Route 25
+Route 25
+Sea Cottage, interior
+Route 25
+leads eastward from
+Route 24
+. The path winds its way through a forest before it ends overlooking the sea. The
+Sea Cottage
+is located on the east side.
+Trainers
+Trainer
+Pokémon
+Hiker
+Franklin
+Reward:
+$
+540
+Machop
+♂
+Lv.
+15
+No item
+Geodude
+♂
+Lv.
+15
+No item
+Hiker
+Wayne
+Reward:
+$
+612
+Onix
+♂
+Lv.
+17
+No item
+Youngster
+Joey
+Reward:
+$
+240
+Rattata
+♂
+Lv.
+15
+No item
+Spearow
+♂
+Lv.
+15
+No item
+Youngster
+Dan
+Reward:
+$
+272
+Slowpoke
+♂
+Lv.
+17
+No item
+Picnicker
+Kelsey
+Reward:
+$
+300
+Nidoran♂
+Lv.
+15
+No item
+Nidoran♀
+Lv.
+15
+No item
+Hiker
+Nob
+Reward:
+$
+468
+Geodude
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Machop
+♂
+Lv.
+13
+No item
+Geodude
+♂
+Lv.
+13
+No item
+Camper
+Flint
+Reward:
+$
+280
+Rattata
+♂
+Lv.
+14
+No item
+Ekans
+♂
+Lv.
+14
+No item
+Youngster
+Chad
+Reward:
+$
+224
+Ekans
+♂
+Lv.
+14
+No item
+Sandshrew
+♂
+Lv.
+14
+No item
+Lass
+Haley
+Reward:
+$
+208
+Oddish
+♀
+Lv.
+13
+No item
+Pidgey
+♀
+Lv.
+13
+No item
+Oddish
+♀
+Lv.
+13
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Oddish
+FR
+LG
+Grass
+12-14
+25%
+Bellsprout
+FR
+LG
+Grass
+12-14
+25%
+Caterpie
+FR
+LG
+Grass
+8
+20%
+Weedle
+FR
+LG
+Grass
+8
+20%
+Pidgey
+FR
+LG
+Grass
+11, 13
+15%
+Abra
+FR
+LG
+Grass
+9, 11, 13
+15%
+Metapod
+FR
+LG
+Grass
+9
+4%
+Kakuna
+FR
+LG
+Grass
+9
+4%
+Metapod
+FR
+LG
+Grass
+9
+1%
+Kakuna
+FR
+LG
+Grass
+9
+1%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Elixir
+Northwest part of the maze, near Hiker Franklin
+(hidden)
+FR
+LG
+TM43
+(
+Secret Power
+)
+Northeast part of the maze (requires defeating Camper Flint or
+Cut
+)
+FR
+LG
+Oran Berry
+Southeast of the maze, next to a row of bushes
+(hidden)
+FR
+LG
+Bluk Berry
+Northeast of the maze, near the end of the fence
+(hidden)
+FR
+LG
+Ether
+Two steps south and six steps east of the Sea Cottage entrance
+(hidden)
+FR
+LG
+S.S. Ticket
+From Bill, after helping him undo his experiment
+FR
+LG
+Sea Cottage
+An Unfortunate Turn
+The
+Sea Cottage
+belongs to
+Bill
+, a famous Pokémon researcher. When you step inside, it seems like Bill must be away, until you speak to the Pokémon inside. His latest experiment has gone awry and combined his DNA with that of a Pokémon! He needs your help, so once he has stepped into the machine, inspect his PC to activate a program to undo the change and return him to normal. As a token of gratitude, he gives you an
+S.S. Ticket
+, which grants access to the
+luxury cruise ship
+currently docked in
+Vermilion City
+to the south.
+Bill's Favorite Pokémon
+Before leaving the cape, you can exit and re-enter the cottage and inspect Bill's PC to view some of
+his favorite Pokémon
+. This adds
+three
+new
+pages
+to your Pokédex.
+Cerulean City
+Justice, Served
+Once you return to
+Cerulean City
+, the officer blocking the burgled house has stepped aside, allowing you to enter. Inside are obvious signs of a break-in, like muddy footprints and overturned planters. There is even a large hole in the wall! Step out through the hole to find and confront the thief.
+Trainers
+Trainer
+Pokémon
+Team Rocket Grunt
+Reward:
+$
+544
+Machop
+♂
+Lv.
+17
+No item
+Drowzee
+♂
+Lv.
+17
+No item
+Trainers with a
+Vs. Seeker
+by their names, when alerted for a rematch using the item, may use higher-level Pokémon.
+When he is defeated, the Rocket Grunt gives up the stolen
+TM28
+(
+Dig
+) before fleeing the scene. When used inside a cave, Dig instantly returns you to the entrance. It is useful in a pinch when you need to heal your Pokémon.
+Route 5
+Route 5
+Route 5
+is a scenic road that runs downhill from
+Cerulean City
+to
+Saffron City
+. The
+first
+of the region's two Underground Paths begins here and runs southward underneath Saffron City to re-emerge on
+Route 6
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+FR
+LG
+Grass
+13, 15-16
+40%
+Meowth
+FR
+LG
+Grass
+10, 12, 14, 16
+35%
+Oddish
+FR
+LG
+Grass
+13, 15-16
+25%
+Bellsprout
+FR
+LG
+Grass
+13, 15-16
+25%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Pokémon Day Care
+The house on the hill is the
+Pokémon Day Care
+. The old man inside will raise one Pokémon at a time while you are away. A Pokémon left here will gain one
+experience point
+for every step taken. If you bought the
+Magikarp
+near
+Mt. Moon
+, this is a good way to raise it. The downside is that he will make every decision, so he may end up deleting a move you would like to keep. He charges
+$
+100, plus another
+$
+100 for every new level, to return a Pokémon.
+Underground Path
+It is impossible to reach
+Saffron City
+at the moment, so enter the
+Underground Path
+and follow the tunnel to
+Route 6
+.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Gift Pokémon
+Nidoran♀
+FR
+LG
+Trade
+Nidoran♂
+The same as the traded Pokémon
+One
+Nidoran♂
+FR
+LG
+Trade
+Nidoran♀
+The same as the traded Pokémon
+One
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TinyMushroom
+Held by Ms. Nido
+FR
+/ Mr. Nido
+LG
+, a
+Nidoran♀
+FR
+/
+Nidoran♂
+LG
+received through a trade
+FR
+LG
+Antidote
+Two squares south of the northern stairs and two squares west of the eastern wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Parlyz Heal
+On the northernmost blue line, three squares east of the western wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Awakening
+Six squares north of the northernmost red line, one square east of the western wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Potion
+On the northernmost red line, two squares west of the eastern wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Ether
+Five squares south of the southernmost blue line, three squares east of the western wall
+(hidden
+recurring item
+; group C)
+FR
+LG
+Ice Heal
+Six squares north of the southern stairs and one square west of the eastern wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Burn Heal
+Two squares north of the southern stairs and two squares east of the western wall
+(hidden
+recurring item
+; group B)
+FR
+LG
+Time for a Trade
+A girl in the north gate is looking to
+trade
+. She is willing to part with her
+Nidoran♀
+FR
+/
+Nidoran♂
+LG
+in exchange for its opposite-gender counterpart. The Pokémon arrives holding a
+TinyMushroom
+.
+← Part 4
+Route 3, Mt. Moon, Route 4
+FireRed and LeafGreen
+walkthrough
+Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+Part 6 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

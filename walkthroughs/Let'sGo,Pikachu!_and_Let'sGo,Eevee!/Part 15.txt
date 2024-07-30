@@ -1,0 +1,1236 @@
+Part: Part 15
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!_walkthrough/Section_15
+Keywords: Route 22, Route 23, Victory Road
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+.
+These pages follow the remade
+Nintendo Switch
+iteration,
+not
+Pokémon Yellow
+. The guide for that game can be found
+here
+.
+Contents
+1
+Route 22
+1.1
+Rival Battle 7
+1.1.1
+In Let's Go, Pikachu!:
+1.1.2
+In Let's Go, Eevee!:
+2
+Route 23 (South)
+2.1
+VIPs Only
+2.2
+Victory Road
+2.2.1
+1F
+2.2.2
+2F
+2.2.3
+3F
+2.2.4
+2F
+2.2.4.1
+VS Moltres
+2.2.5
+3F
+2.2.6
+2F
+2.2.7
+3F (Southeast)
+2.2.8
+2F (East)
+3
+Route 23 (North)
+Route 22
+Route 22
+Route 22
+is a simple route that connects
+Viridian City
+to the
+Pokémon League Reception Gate
+in the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Rattata
+P
+E
+Grass
+3-4
+30%
+Spearow
+P
+E
+Grass
+3-4
+30%
+Nidoran♀
+P
+E
+Grass
+3-4
+20%
+Nidoran♂
+P
+E
+Grass
+3-4
+20%
+Sea Skim
+Poliwag
+P
+E
+Sea Skim
+3-4
+45%
+Magikarp
+P
+E
+Sea Skim
+3-4
+45%
+Poliwhirl
+P
+E
+Sea Skim
+3-4
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Antidote
+North of the eastern grass patch, in a bush
+(hidden)
+P
+E
+Poké Ball
+×5
+Southwest corner of the route
+P
+E
+Rival Battle 7
+As you attempt to travel westward,
+Trace
+catches up to you again. He's won his
+Earth Badge
+and is on his way to the
+Pokémon League
+, as well. He tells you that the
+Elite Four
+are no pushovers, and challenges you to another battle to see how prepared you each are for the gauntlet ahead.
+In
+Let's Go, Pikachu!
+:
+Pokémon Trainer
+Trace
+Route 22
+Let's Go, Pikachu!
+Reward:
+$
+8,160
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgeot
+♂
+Lv.
+50
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Sand Attack
+Ground
+Status
+--
+Roost
+Flying
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+50
+Petal Dance
+Grass
+Special
+--
+Toxic
+Poison
+Status
+--
+Acid
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+50
+Focus Energy
+Normal
+Status
+--
+Bonemerang
+Ground
+Physical
+--
+Thrash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Jolteon
+♂
+Lv.
+51
+Thunder
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Pin Missile
+Bug
+Physical
+--
+Double Kick
+Fighting
+Physical
+--
+In
+Let's Go, Eevee!
+:
+Pokémon Trainer
+Trace
+Route 22
+Let's Go, Eevee!
+Reward:
+$
+8,160
+Types:
+Normal
+Flying
+Mega Stone:
+None
+Pidgeot
+♂
+Lv.
+50
+Quick Attack
+Normal
+Physical
+--
+Air Slash
+Flying
+Special
+--
+Sand Attack
+Ground
+Status
+--
+Roost
+Flying
+Status
+--
+Types:
+Grass
+Poison
+Mega Stone:
+None
+Vileplume
+♀
+Lv.
+50
+Petal Dance
+Grass
+Special
+--
+Toxic
+Poison
+Status
+--
+Acid
+Poison
+Special
+--
+Curse
+Unknown
+Status
+--
+Type:
+Ground
+Unknown
+Mega Stone:
+None
+Marowak
+♂
+Lv.
+50
+Focus Energy
+Normal
+Status
+--
+Bonemerang
+Ground
+Physical
+--
+Thrash
+Normal
+Physical
+--
+Swords Dance
+Normal
+Status
+--
+Type:
+Electric
+Unknown
+Mega Stone:
+None
+Raichu
+♂
+Lv.
+51
+Thunder
+Electric
+Special
+--
+Quick Attack
+Normal
+Physical
+--
+Thunder Punch
+Electric
+Physical
+--
+Slam
+Normal
+Physical
+--
+Afterward, Trace promises not to lose again, and runs off ahead of you.
+Route 23 (South)
+Route 23
+Pokémon League
+Front Gate
+Route 23
+is a lengthy road that links the
+Pokémon League Reception Gate
+to
+Indigo Plateau
+.
+Victory Road
+is located on the north side.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Nidorina
+P
+E
+Grass
+41-46
+19%
+Nidorino
+P
+E
+Grass
+41-46
+19%
+Fearow
+P
+E
+Grass
+41-46
+15%
+Exeggcute
+P
+E
+Grass
+41-46
+14%
+Spearow
+P
+E
+Grass
+41-46
+10%
+Nidoran♀
+P
+E
+Grass
+41-46
+10%
+Nidoran♂
+P
+E
+Grass
+41-46
+10%
+Nidoqueen
+P
+E
+Grass
+41-46
+1%
+Nidoking
+P
+E
+Grass
+41-46
+1%
+Exeggutor
+P
+E
+Grass
+41-46
+1%
+Rare Spawns
+Chansey
+P
+E
+Grass
+41-46
+-
+Sea Skim
+Poliwag
+P
+E
+Sea Skim
+41-46
+45%
+Magikarp
+P
+E
+Sea Skim
+41-46
+45%
+Poliwhirl
+P
+E
+Sea Skim
+41-46
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Golden Razz Berry
+×8
+East of the second checkpoint (×3)
+On the island to the north of the fifth checkpoint (requires
+Sea Skim
+) (×3)
+P
+E
+Golden Nanab Berry
+×8
+Northeast of the third checkpoint (×3)
+Tall grass patch, southeast of the seventh checkpoint (requires
+Sea Skim
+) (×5)
+P
+E
+Golden Pinap Berry
+×8
+West of the fifth checkpoint (requires Sea Skim) (×3)
+Tall grass patch, north of the seventh checkpoint (requires
+Sea Skim
+) (×5)
+P
+E
+VIPs Only
+All Trainers traveling to
+Indigo Plateau
+must present their Badges to prove their worth. The first guard looks to see if a Trainer has earned the
+Boulder Badge
+. The other guards are posted at various checkpoints farther along the route to inspect each Trainer for the other seven Badges. Once the last guard has verified that you have earned the
+Earth Badge
+, you are free to enter Victory Road.
+Victory Road
+Victory Road
+There are several large boulders in
+Victory Road
+that can only be moved with
+Strong Push
+, like in the
+Seafoam Islands
+. However, instead of dropping them down through holes in the floor, they must be moved onto pressure switches to unlock new areas.
+Trainers
+Trainer
+Pokémon
+Coach Trainer
+Alemana
+Reward:
+$
+4,900
+Ditto
+Lv.
+49
+No item
+Ace Trainer
+Naomi
+Reward:
+$
+4,800
+5
+Ultra Balls
+Kangaskhan
+♀
+Lv.
+47
+No item
+Venusaur
+♀
+Lv.
+48
+No item
+Ace Trainer
+Rolando
+Reward:
+$
+4,800
+5
+Ultra Balls
+Rapidash
+♂
+Lv.
+47
+No item
+Starmie
+Lv.
+47
+No item
+Victreebel
+♂
+Lv.
+48
+No item
+Juggler
+Nelson
+Reward:
+$
+1,840
+3
+Poké Balls
+Hypno
+♂
+Lv.
+46
+No item
+Slowbro
+♂
+Lv.
+46
+No item
+Black Belt
+Daisuke
+Reward:
+$
+1,316
+3
+Poké Balls
+Hitmonlee
+♂
+Lv.
+47
+No item
+Poliwrath
+♂
+Lv.
+47
+No item
+Tamer
+Vincent
+Reward:
+$
+2,820
+3
+Poké Balls
+Primeape
+♂
+Lv.
+47
+No item
+Tauros
+♂
+Lv.
+47
+No item
+Juggler
+Gregory
+Reward:
+$
+1,840
+3
+Poké Balls
+Mr. Mime
+♂
+Lv.
+46
+No item
+Alakazam
+♂
+Lv.
+46
+No item
+Ace Trainer
+George
+Reward:
+$
+4,700
+5
+Ultra Balls
+Scyther
+♂
+Lv.
+48
+No item
+Marowak
+♂
+Lv.
+47
+No item
+Ace Trainer
+Alexa
+Reward:
+$
+4,800
+5
+Ultra Balls
+Dragonair
+♂
+Lv.
+47
+No item
+Wigglytuff
+♀
+Lv.
+47
+No item
+Hitmonchan
+♂
+Lv.
+48
+No item
+Ace Trainer
+Colby
+Reward:
+$
+4,800
+5
+Ultra Balls
+Electrode
+Lv.
+47
+No item
+Kingler
+♂
+Lv.
+47
+No item
+Pidgeot
+♀
+Lv.
+47
+No item
+Rhydon
+♂
+Lv.
+48
+No item
+Ace Trainer
+Caroline
+Reward:
+$
+4,800
+5
+Ultra Balls
+Jynx
+♀
+Lv.
+47
+No item
+Golbat
+♀
+Lv.
+47
+No item
+Arcanine
+♂
+Lv.
+48
+No item
+Poké Maniac
+Dawson
+Reward:
+$
+2,208
+3
+Poké Balls
+Lickitung
+♀
+Lv.
+46
+No item
+Onix
+♂
+Lv.
+46
+No item
+Blastoise
+♂
+Lv.
+46
+No item
+Coach Trainer
+Ryan
+Reward:
+$
+4,900
+Primeape
+♂
+Lv.
+48
+No item
+Gyarados
+♂
+Lv.
+48
+No item
+Arcanine
+♀
+Lv.
+48
+No item
+Tauros
+♂
+Lv.
+49
+No item
+Available Pokémon
+1F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+41-46
+15%
+Machoke
+P
+E
+Cave
+41-46
+15%
+Graveler
+P
+E
+Cave
+41-46
+15%
+Zubat
+P
+E
+Cave
+41-46
+10%
+Machop
+P
+E
+Cave
+41-46
+10%
+Geodude
+P
+E
+Cave
+41-46
+10%
+Onix
+P
+E
+Cave
+41-46
+10%
+Rhyhorn
+P
+E
+Cave
+41-46
+10%
+Rhydon
+P
+E
+Cave
+41-46
+5%
+Rare Spawns
+Chansey
+P
+E
+Cave
+41-46
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+2F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+41-46
+15%
+Machoke
+P
+E
+Cave
+41-46
+15%
+Graveler
+P
+E
+Cave
+41-46
+15%
+Zubat
+P
+E
+Cave
+41-46
+10%
+Machop
+P
+E
+Cave
+41-46
+10%
+Geodude
+P
+E
+Cave
+41-46
+10%
+Onix
+P
+E
+Cave
+41-46
+10%
+Rhyhorn
+P
+E
+Cave
+41-46
+10%
+Rhydon
+P
+E
+Cave
+41-46
+5%
+Rare Spawns
+Hitmonlee
+P
+E
+Cave
+41-46
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+3F
+Pokémon
+Games
+Location
+Levels
+Rate
+Golbat
+P
+E
+Cave
+41-46
+15%
+Machoke
+P
+E
+Cave
+41-46
+15%
+Graveler
+P
+E
+Cave
+41-46
+15%
+Zubat
+P
+E
+Cave
+41-46
+10%
+Machop
+P
+E
+Cave
+41-46
+10%
+Geodude
+P
+E
+Cave
+41-46
+10%
+Onix
+P
+E
+Cave
+41-46
+10%
+Rhyhorn
+P
+E
+Cave
+41-46
+10%
+Rhydon
+P
+E
+Cave
+41-46
+5%
+Rare Spawns
+Hitmonchan
+P
+E
+Cave
+41-46
+-
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+1F
+Pikachu Candy
+×10
+Northeast area; from Coach Trainer Alemana, after defeating him
+P
+Eevee Candy
+×10
+Northeast area; from Coach Trainer Alemana, after defeating him
+E
+TM56
+(
+Stealth Rock
+)
+Northeast area, north of the boulder (requires
+Strong Push
+)
+P
+E
+Leaf Stone
+Northeast area, west of the boulder (requires
+Strong Push
+)
+P
+E
+Health Candy
+On a rock in the middle of the floor
+(hidden)
+(daily) (item determined randomly)
+P
+E
+Mighty Candy
+Tough Candy
+Smart Candy
+Courage Candy
+Quick Candy
+Ultra Ball
+×3
+Northwest area
+P
+E
+2F
+TM45
+(
+Solar Beam
+)
+South of the central ridge
+P
+E
+Full Restore
+North of the central ridge, near Tamer Vincent
+P
+E
+TM49
+(
+Superpower
+)
+Northeast corner, near the Juggler
+P
+E
+Pretty Wing
+Northwest area; on the stone pillar, west of
+Moltres
+(hidden)
+(daily)
+P
+E
+PP Max
+Northwest area; south of Moltres
+P
+E
+Health Candy
+On a torch by the exit
+(hidden)
+(daily)
+P
+E
+Mighty Candy
+Tough Candy
+Smart Candy
+Courage Candy
+Quick Candy
+3F
+Max Revive
+Northeast area, south of Ace Trainer George
+P
+E
+TM51
+(
+Blizzard
+)
+Northwest area, south of Officer Jenny
+P
+E
+Fresh Water
+North wall, in the water running down the wall northeast of Officer Jenny
+(hidden)
+P
+E
+Health Candy
+On a rock near the center of the floor, southeast of Ace Trainer Alexa
+(hidden)
+(daily)
+P
+E
+Mighty Candy
+Tough Candy
+Smart Candy
+Courage Candy
+Quick Candy
+Max Potion
+On the central ridge, west of Ace Trainer Alexa
+P
+E
+Golden Nanab Berry
+×5
+Southwest area, northeast of Ace Trainers Colby and Caroline
+P
+E
+Full Restore
+Southeast area; south of the two ladders
+P
+E
+TM39
+(
+Outrage
+)
+Southeast area; from Coach Trainer Ryan, after defeating him
+P
+E
+Other items
+Tiny Mushroom
+1F; from a crevice in a rock in the northeast corner:
+Sometimes found by the
+player
+'s
+walking
+Rock-type
+Pokémon (item determined randomly)
+3F; from a crevice in a rock in along the north wall:
+Sometimes found by the player's walking Rock-type Pokémon (item determined randomly)
+P
+E
+Big Mushroom
+Fire Stone
+1F
+Go east from the entrance and use
+Strong Push
+to move the boulder eastward (→1) onto the nearby pressure switch; this lowers the stone wall on the central ridge. Head to the northeast area to battle Coach Trainer Alemana; defeat him to receive ten Candies for your
+Partner Pokémon
+. Head north to find two items near the north wall. The cave's narrow layout forces you to use the boulder here to block off one item in order to reach the other. Collect either the
+Leaf Stone
+or
+TM56
+(
+Stealth Rock
+), then exit and re-enter the cave to reset the puzzle and reach the other item. Go west to battle Ace Trainer Naomi on the central ridge, then continue west to fight Ace Trainer Rolando. Grab the set of three
+Ultra Balls
+sitting nearby and climb up the ladder to the northwest.
+2F
+Another boulder can be found to the south. Push this one southwestward (←1, ↓1, ←2) to reach the switch and lower the next stone wall. Walk up onto the rocky ridge and battle Juggler Nelson. Head east to fight Black Belt Daisuke, then go down either of the two ramps. Pick up
+TM45
+(
+Solar Beam
+) to the west, then loop around the ridge to find a
+Full Restore
+near Tamer Vincent. Continue to the northeast to fight Juggler Gregory and pick up
+TM49
+(
+Superpower
+). Climb the northeast ladder to the third floor.
+3F
+Go northeast to fight Ace Trainer George and pick up a
+Max Revive
+. Head westward to find
+Officer Jenny
+standing near another boulder. She is in the middle of her patrol, but takes a moment to heal your Pokémon to full health. Go south to pick up
+TM51
+(
+Blizzard
+). Another switch can be found in the northwest area; start near Officer Jenny and move the boulder southwestward (↑1, ←2, ↓1, ←4, ↓3, →1). This lowers the next stone wall on the central ridge. Climb down the northwest ladder to reach a separate part of the second floor.
+2F
+Go east to find a
+PP Max
+, then walk up the slope to the north.
+Moltres
+, the third of the
+Legendary birds
+, is roosting nearby.
+VS Moltres
+Moltres
+is the third of the
+legendary birds
+. Use
+Water
+-,
+Electric
+-, and
+Rock-type
+attacks to defeat it quickly and attempt to catch it. Like with
+Articuno
+and
+Zapdos
+,
+Ultra Balls
+and
+Razz Berry
+variants are best!
+Types:
+Fire
+Flying
+Mega Stone:
+None
+Moltres
+Lv.
+50
+Air Slash
+Flying
+Special
+--
+Flamethrower
+Fire
+Special
+--
+Agility
+Psychic
+Status
+--
+Heat Wave
+Fire
+Special
+--
+When the battle is over, take the ladder back up to the third floor.
+3F
+Walk up onto the rocky ridge to battle Ace Trainer Alexa, and pick up the
+Max Potion
+to the west. Go south to battle Ace Trainer Colby and/or Ace Trainer Caroline. Pick up the set of five
+Golden Nanab Berries
+to the northeast. Head east and push the boulder here down through the hole in the floor, then jump down after it.
+2F
+Shove the boulder all the way westward to the switch. This lowers the stone wall near where the boulder landed. Climb up onto the ridge and battle Poké Maniac Dawson, then take the ladder up to the third floor.
+3F (Southeast)
+Grab the
+Full Restore
+to the south. Go north and fight Coach Trainer Ryan, who gives out
+TM39
+(
+Outrage
+) when defeated. Climb down the north ladder back to the second floor.
+2F (East)
+Take the eastern exit to return to
+Route 23
+.
+Route 23 (North)
+Follow the path to the stone walkway and pass through the series of Poké Ball statues. The
+Pokémon League
+building sits atop one final stone staircase. Both you and your
+partner Pokémon
+are awestruck and more determined than ever. This is it!
+← Part 14
+Power Plant, Viridian Gym
+Let's Go, Pikachu! and Let's Go, Eevee!
+walkthrough
+The Pokémon League
+Part 16 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.

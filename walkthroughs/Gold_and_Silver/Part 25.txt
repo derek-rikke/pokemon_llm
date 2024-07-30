@@ -1,0 +1,519 @@
+Part: Part 25
+URL: https://bulbapedia.bulbagarden.net/wiki/Appendix:Gold_and_Silver_walkthrough/Section_25
+Keywords: Viridian City, Route 1, Pallet Town
+
+Walkthrough Text:
+This is the Bulbapedia walkthrough for
+Pokémon Gold and Silver
+.
+These pages follow the original
+Game Boy Color
+iteration,
+not
+Pokémon HeartGold and SoulSilver
+. The guide for those games can be found
+here
+.
+Contents
+1
+Viridian City
+1.1
+Viridian Gym
+1.2
+Trainer House
+2
+Route 1
+3
+Pallet Town
+3.1
+Red's house
+3.2
+Blue's house
+3.2.1
+Spa Day with Daisy
+3.3
+Professor Oak's Lab
+Viridian City
+Viridian City
+Viridian City
+is a small, nature-loving city that is enveloped in green year-round. It is located between
+Route 2
+to the north,
+Route 1
+to the south, and
+Route 22
+to the west.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Poliwag
+G
+S
+C
+Surfing
+5-14
+90%
+Poliwhirl
+G
+S
+C
+Surfing
+10-14
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Poliwag
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Poliwag
+G
+S
+C
+Fishing
+Good Rod
+20
+65%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Poliwag
+G
+S
+C
+Fishing
+Super Rod
+40
+80%
+Magikarp
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+TM42
+(
+Dream Eater
+)
+From the sleeping man in the southwest (requires
+Cut
+or
+Surf
+)
+G
+S
+Viridian Gym
+The
+Viridian Gym
+is located on a hill on the north side of town. The building is open, but no one is around. According to an elderly man outside the entrance, the Gym did not have a
+Gym Leader
+until recently, when
+a young man
+from
+Pallet Town
+took the role. He is often away, however, so challenging the Viridian Gym will need to wait.
+Trainer House
+Trainer House, 1F
+Trainer House, B1F
+The
+Trainer House
+is located in the middle of the city. Built near
+Indigo Plateau
+, the ultimate destination for Pokémon Trainers, the Trainer House allows participants to battle in a controlled environment. According to visitors inside the building, the best Trainers gather here. These Trainers turn out to be real-life friends of the player, whose own parties are submitted to the game through
+Mystery Gift
+. If the player has not used Mystery Gift, the default opponent is
+Cal
+, whose team includes the final forms of each of
+Professor Elm's Pokémon
+. Only one battle may be conducted per day.
+P
+K
+M
+N
+Trainer
+Cal
+Trainer House
+Gold, Silver
+, and
+Crystal
+Reward:
+$
+5000
+Type:
+Grass
+Unknown
+Held item:
+None
+Meganium
+♂
+Lv.
+50
+PoisonPowder
+Poison
+--
+Synthesis
+Grass
+--
+Body Slam
+Normal
+--
+Light Screen
+Psychic
+--
+Type:
+Fire
+Unknown
+Held item:
+None
+Typhlosion
+♂
+Lv.
+50
+Ember
+Fire
+--
+Quick Attack
+Normal
+--
+Swift
+Normal
+--
+Flame Wheel
+Fire
+--
+Type:
+Water
+Unknown
+Held item:
+None
+Feraligatr
+♂
+Lv.
+50
+Bite
+Dark
+--
+Scary Face
+Normal
+--
+Slash
+Normal
+--
+Screech
+Normal
+--
+Route 1
+Route 1
+Route 1
+is a peaceful, country road that leads south from
+Viridian City
+to
+Pallet Town
+.
+Trainers
+Trainer
+Pokémon
+Schoolboy
+Danny
+Reward:
+$
+992
+Jynx
+♀
+Lv.
+31
+No item
+Electabuzz
+♂
+Lv.
+31
+No item
+Magmar
+♂
+Lv.
+31
+No item
+Cooltrainer
+Quinn
+Reward:
+$
+1824
+Ivysaur
+♂
+Lv.
+38
+No item
+Starmie
+Lv.
+38
+No item
+Trainers with a telephone symbol by their names will give their
+Pokégear
+number to the player, and may call or be called for a rematch with higher-level Pokémon.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Pidgey
+G
+S
+C
+Grass
+2-4
+45%
+45%
+0%
+Rattata
+G
+S
+C
+Grass
+2
+30%
+30%
+0%
+Rattata
+G
+S
+C
+Grass
+2, 3, 6
+0%
+0%
+55%
+Sentret
+G
+S
+C
+Grass
+3
+20%
+20%
+0%
+Furret
+G
+S
+C
+Grass
+6
+5%
+5%
+0%
+Hoothoot
+G
+S
+C
+Grass
+2-4
+0%
+0%
+45%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Items
+Item
+Location
+Games
+Bitter Berry
+South of the northwestern-most ledge, on a tree (daily)
+G
+S
+Pallet Town
+Pallet Town
+Pallet Town
+is a rather small, sleepy town, located between the tall grasses of
+Route 1
+and the waters of
+Route 21
+. Each of the two northern houses is home to a different former
+Champion
+of the
+Kanto
+region.
+Professor Oak
+'s
+laboratory
+is located in the south.
+Available Pokémon
+Pokémon
+Games
+Location
+Levels
+Rate
+Surfing
+Tentacool
+G
+S
+C
+Surfing
+30-39
+90%
+Tentacruel
+G
+S
+C
+Surfing
+35-39
+10%
+Fishing
+Magikarp
+G
+S
+C
+Fishing
+Old Rod
+10
+85%
+Tentacool
+G
+S
+C
+Fishing
+Old Rod
+10
+15%
+Tentacool
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Magikarp
+G
+S
+C
+Fishing
+Good Rod
+20
+35%
+Chinchou
+G
+S
+C
+Fishing
+Good Rod
+20
+20%
+Shellder
+G
+S
+C
+Fishing
+Good Rod
+20
+10%
+Chinchou
+G
+S
+C
+Fishing
+Super Rod
+40
+40%
+Shellder
+G
+S
+C
+Fishing
+Super Rod
+40
+30%
+Tentacruel
+G
+S
+C
+Fishing
+Super Rod
+40
+20%
+Lanturn
+G
+S
+C
+Fishing
+Super Rod
+40
+10%
+A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.
+Red's house
+The northwest house belongs to
+Red
+and
+his mother
+, but Red is currently away. He defeated his neighbor and
+rival
+,
+Blue
+, to earn the Champion title, but gave up that role within the
+Pokémon League
+in order to continue his training. His mother is proud of him, but still worries that he is all alone somewhere.
+Blue's house
+The northeast house belongs to
+Blue
+and his sister,
+Daisy
+, but Blue is away as well. She reveals that her brother serves as the
+Viridian City
+Gym Leader
+, and that his frequent traveling causes problems for the Gym's challengers.
+Spa Day with Daisy
+Speak to
+Daisy
+between 3:00 PM and 4:00 PM, and she offers to groom a single Pokémon. Grooming increases a Pokémon's
+friendship
+rating, and boosting this value is essential in order to obtain
+certain Pokémon
+. Daisy offers her grooming service once per day.
+Professor Oak's Lab
+The large building to the south is
+Professor Oak
+'s
+laboratory
+. Speak with the professor to have him rate your
+Pokédex
+progress. He also asks that you visit again after earning all eight
+Kanto
+Gym Badges, as he will have a gift for you.
+← Part 24
+Route 3, Mt. Moon, Route 4
+Gold and Silver
+walkthrough
+Route 21, Cinnabar Island, Route 20, Route 19
+Part 26 →
+This article is part of
+Project Walkthroughs
+, a
+Bulbapedia project
+that aims to write comprehensive step-by-step guides on each
+Pokémon game
+.
