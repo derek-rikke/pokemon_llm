@@ -17,7 +17,7 @@ conn.close()
 db = SQLDatabase.from_uri("sqlite:///pokemon_stats.db")
 
 # Create OpenAI language model instance
-llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
+llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
 
 # Create SQL agent
 sql_agent = create_sql_agent(
