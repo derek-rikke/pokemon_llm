@@ -4,32 +4,9 @@ import requests
 from agent_setup import agent_executor
 from PIL import Image
 import re
-import base64
-
-# Function to encode the image
-def get_base64_of_bin_file(bin_file):
-    with open(bin_file, 'rb') as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
-
-# Function to set the background image
-def set_background(png_file):
-    bin_str = get_base64_of_bin_file(png_file)
-    page_bg_img = '''
-    <style>
-    .stApp {
-        background-image: url("data:image/png;base64,%s");
-        background-size: cover;
-    }
-    </style>
-    ''' % bin_str
-    st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Load the placeholder image
 placeholder_image = Image.open("pokedex.png")
-
-# Set the background image
-set_background('pokemon_background.jpg')
 
 def get_sprite_url(name, category):
     base_url = "https://pokeapi.co/api/v2"
