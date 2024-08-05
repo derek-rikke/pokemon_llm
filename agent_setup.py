@@ -14,7 +14,7 @@ load_dotenv()
 
 llm = ChatOpenAI(
     temperature=0,
-    model_name="gpt-4o-mini",
+    model_name="gpt-3.5-turbo-16k",
     max_tokens=1000,
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
