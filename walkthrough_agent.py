@@ -35,7 +35,7 @@ Answer: """
             chain_type_kwargs={"prompt": PROMPT}
         )
 
-    def run(self, query: str) -> str:
+    def run(self, query: str) -> dict:
         try:
             result = self.qa_chain({"query": query})
             answer = result['result'].strip()
@@ -43,14 +43,22 @@ Answer: """
             if answer.lower().startswith("answer:"):
                 answer = answer[7:].strip()  # Remove "Answer:" prefix if present
             
-            return answer
+            final_answer = f"Final Answer: {answer}"
+            return {"final_answer": final_answer}
         except Exception as e:
-            return f"An error occurred while processing your question: {str(e)}"
+            return {"final_answer": f"An error occurred while processing your question: {str(e)}"}
 
 def get_walkthrough_tool():
     walkthrough_agent = WalkthroughAgent()
     return Tool(
         name="WalkthroughTool",
         func=walkthrough_agent.run,
-        description="Use this tool for questions about game walkthroughs, in-game events, locations, and strategies in various Pokémon games. Input should be a question about a specific Pokémon game."
+        description="""
+        This tool passes a question to a retrieval agent who will search through all of the
+        Pokemon video game walkthroughs and return a natural language answer. The walkthroughs
+        contain step by step instructions for correctly progressing through each game. They also
+        contain information such as which trainers are on which routes and what their Pokemon are
+        as well as what Pokemon can be found in each location. This tool should be used to answer
+        most complex questions that are not related to pokemon types and stats.
+        """
     )

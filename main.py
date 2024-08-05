@@ -4,6 +4,8 @@ from agent_setup import agent_executor
 def answer_pokemon_question(question):
     try:
         response = agent_executor.invoke({"input": question})
+        if 'final_answer' in response:
+            return response['final_answer']
         return response['output']
     except Exception as e:
         return f"I apologize, I encountered an error while processing your question: {str(e)}"

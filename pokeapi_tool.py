@@ -16,7 +16,11 @@ class PokeAPITool(BaseTool):
     growth-rate, nature, pokeathlon-stat, pokemon, pokemon-color, pokemon-form, pokemon-habitat, pokemon-shape, 
     pokemon-species, stat, type
     
-    Some endpoints support subresources, e.g., 'pokemon pikachu encounters' to get encounter information for Pikachu."""
+    Some endpoints support subresources, e.g., 'pokemon pikachu encounters' to get encounter information for Pikachu.
+    
+    This tool is the only one with access to Pokemon "move" information. It should be used to answer questions that are
+    not related to stat and type comparisons and not related to beating the video games. This tool gives more general information.
+    """
 
     def _run(self, query: str) -> str:
         try:

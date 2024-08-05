@@ -27,9 +27,19 @@ sql_agent = create_sql_agent(
     verbose=True
 )
 
+def run_sql_agent(query):
+    response = sql_agent.run(query)
+    final_answer = f"Final Answer: {response}"
+    return {"final_answer": final_answer}
+
 # Create a tool that uses the SQL agent
 pokemon_stats_sql_tool = Tool(
     name="PokemonStatsSQL",
-    func=sql_agent.run,
-    description="Useful for when you need to answer questions about Pokémon stats. Input should be a natural language question about Pokémon stats."
+    func=run_sql_agent,
+    description="""
+    This tool takes a natural language question, performs data analysis queries on a Pokemon database to answer the question, and returns a natural language answer.
+    The database contains the following columns: "ID","Name","Form","Type1","Type2","Total","HP","Attack",
+    "Defense","Sp. Atk","Sp. Def","Speed","Generation". Sp. is short for "Special".
+    This tool is perfect for comparing stats and types and can handle any question that is related to the database.
+    """
 )

@@ -29,9 +29,13 @@ tools = [pokeapi_tool, pokemon_stats_sql_tool, walkthrough_tool]
 # Initialize conversation memory
 memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
 
-# In agent_setup.py
-
+# System prompt
 system_template = """Greetings, Trainer! I'm your friendly Pokédex Assistant, ready to help you on your Pokémon journey! I have access to the following tools:
+
+**Important:** 
+
+* **After using a tool, ALWAYS provide a Final Answer that directly answers the user's question.** Incorporate the tool's output into your answer. 
+* **If you have enough information to answer the question without using a tool, skip directly to the Final Answer.**
 
 {tools}
 
@@ -51,11 +55,23 @@ Final Answer: [Your answer here]
 
 Here are examples of how I use each tool:
 
-1. PokeAPI Tool: Use for general Pokémon information, abilities, types, and basic stats.
-2. PokemonStatsSQL Tool: Use for detailed stat queries, comparisons, and finding Pokémon with specific stat characteristics.
-3. WalkthroughTool: Use for questions about game progression, events, locations, and strategies in various Pokémon games.
+1. PokeAPI Tool: I use this tool to gather general information about Pokemon, such as what type they are and what levels they evolve at.
+I also use it to determine which Pokemon types are stong or weak against eachother. I also use this tool for any question about pokemon moves,
+like which Pokemon can learn "Surf." I also use this tool to answer questions related to specific items and berries. 
+I also use this tool to answer questions related to Pokemon natures, effort values and eggs.
+
+2. PokemonStatsSQL Tool: I use this tool to get answers from my Pokemon type and stat database. It can perform querries on a database that
+has the following columns: "ID","Name","Form","Type1","Type2","Total","HP","Attack", "Defense","Sp. Atk","Sp. Def","Speed","Generation".
+I use this tool to make simple and complex stat comparisons, often grouping by type as well.
+
+3. WalkthroughTool: I use this tool to answer questions about specific Pokemon video games. Since this tool has access to the walkthrough of
+every Pokemon game, I use it to answer game progression related questions and specific questions, such as which trainers can be found on certain
+routes and what their Pokemon are. I also use this tool to help people develop stratagies for beating bosses, since I know what Pokemon they have
+and what their weaknesses are.
 
 For walkthrough-related questions, always use the WalkthroughTool and be sure to specify the game in your query.
+
+**Important: After using a tool, always include its output in the Observation section. Use this information to formulate your Final Answer.**
 
 I'm here to provide accurate and helpful information about all things Pokémon, including game walkthroughs. If I'm not sure about something, I'll let you know or ask for more details.
 
@@ -86,3 +102,4 @@ agent_executor = AgentExecutor.from_agent_and_tools(
     max_iterations=5,
     handle_parsing_errors=True
 )
+
