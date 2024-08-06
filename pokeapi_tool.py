@@ -66,14 +66,38 @@ class PokeAPITool(BaseTool):
             return f"Error: {str(e)}"
 
     def _format_pokemon(self, data, subresource):
-        if subresource == "encounters":
-            return f"Encounter locations for {data['name']}:\n" + "\n".join([f"- {loc['location_area']['name']}" for loc in data])
-        return f"""Name: {data['name']}
+    # Basic information
+        formatted_data = f"""Name: {data['name']}
         Height: {data['height']}
         Weight: {data['weight']}
         Types: {', '.join([t['type']['name'] for t in data['types']])}
         Abilities: {', '.join([a['ability']['name'] for a in data['abilities']])}
-        Base Experience: {data['base_experience']}"""
+        Base Experience: {data['base_experience']}
+
+        Stats:
+        {self._format_stats(data['stats'])}
+
+        Moves:
+        {self._format_moves(data['moves'])}
+
+        Location Area Encounters: {data['location_area_encounters']}
+        """
+        return formatted_data
+
+    def _format_stats(self, stats):
+        return "\n".join([f"{stat['stat']['name'].capitalize()}: {stat['base_stat']}" for stat in stats])
+
+    def _format_moves(self, moves):
+        level_up_moves = []
+        for move in moves:
+            move_name = move['move']['name']
+            for version in move['version_group_details']:
+                if version['move_learn_method']['name'] == "level-up":
+                    level = version['level_learned_at']
+                    level_up_moves.append(f"{move_name} (level {level})")
+                    break
+        level_up_moves.sort(key=lambda x: int(x.split('(level ')[1].split(')')[0]))
+        return "\n".join(level_up_moves)
 
     def _format_ability(self, data):
         effect = next((e['effect'] for e in data['effect_entries'] if e['language']['name'] == 'en'), "No English description available")
