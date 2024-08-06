@@ -1,15 +1,11 @@
 # walkthrough_agent.py
-from langchain_anthropic import ChatAnthropic
-from langchain.tools import StructuredTool
+from langchain_openai import ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
-from langchain_core.pydantic_v1 import BaseModel, Field
+from langchain.prompts import ChatPromptTemplate
+from langchain.tools import Tool
 import os
-
-class WalkthroughInput(BaseModel):
-    query: str = Field(..., description="The natural language query about Pokemon game walkthrough")
 
 class WalkthroughAgent:
     def __init__(self):
@@ -17,52 +13,51 @@ class WalkthroughAgent:
         embeddings = OpenAIEmbeddings()
         self.vectorstore = FAISS.load_local("full_vectorstore", embeddings, allow_dangerous_deserialization=True)
         
-        # Create a ChatAnthropic instance
-        self.llm = ChatAnthropic(
+        # Create a ChatOpenAI instance
+        self.llm = ChatOpenAI(
             temperature=0,
-            model_name="claude-3-sonnet-20240229",
-            anthropic_api_key=os.getenv("ANTHROPIC_API_KEY")
+            model_name="gpt-4o-mini",
+            openai_api_key=os.getenv("OPENAI_API_KEY")
         )
         
         # Create a prompt template
-        prompt_template = """You are a Pokémon game expert. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide a concise answer without mentioning the sources.
-
-Context: {context}
-
-Question: {question}
-Answer: """
-        PROMPT = PromptTemplate(
-            template=prompt_template, input_variables=["context", "question"]
-        )
+        self.qa_prompt = ChatPromptTemplate.from_messages([
+            ("system", "You are an expert on Pokémon game walkthroughs. Always strive for accuracy and specificity in your answers. If asked about a specific gym, mention the city, the gym leader, and their Pokémon."),
+            ("human", "Question: {question}\n\nRelevant walkthrough section:\n{context}"),
+            ("human", "Based on the above walkthrough section, please answer the question accurately and concisely. If the walkthrough doesn't contain the exact information needed, say so instead of guessing.")
+        ])
         
         # Create a RetrievalQA chain
         self.qa_chain = RetrievalQA.from_chain_type(
             llm=self.llm,
             chain_type="stuff",
             retriever=self.vectorstore.as_retriever(search_kwargs={"k": 3}),
-            return_source_documents=False,
-            chain_type_kwargs={"prompt": PROMPT}
+            chain_type_kwargs={"prompt": self.qa_prompt},
+            return_source_documents=True
         )
 
-    def run(self, query: str) -> str:
+    def run(self, query: str) -> dict:
         try:
-            result = self.qa_chain({"query": query})
-            answer = result['result'].strip()
+            result = self.qa_chain({"question": query})
+            answer = result['result']
+            sources = [doc.metadata.get('source', 'Unknown') for doc in result['source_documents']]
             
-            if answer.lower().startswith("answer:"):
-                answer = answer[7:].strip()  # Remove "Answer:" prefix if present
-            
-            return f"Final Answer: {answer}"
+            return {
+                "final_answer": answer,
+                "sources": sources
+            }
         except Exception as e:
-            return f"An error occurred while processing your question: {str(e)}"
+            return {
+                "final_answer": f"An error occurred while processing your question: {str(e)}",
+                "sources": []
+            }
 
 def get_walkthrough_tool():
     walkthrough_agent = WalkthroughAgent()
-    return StructuredTool(
+    return Tool(
         name="WalkthroughTool",
         func=walkthrough_agent.run,
         description="""Use for Pokémon game walkthrough info.
         Provides step-by-step instructions for game progression,
-        trainer and Pokémon locations, and general game guidance.""",
-        args_schema=WalkthroughInput
+        trainer and Pokémon locations, and general game guidance."""
     )
