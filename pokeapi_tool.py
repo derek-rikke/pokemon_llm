@@ -6,21 +6,9 @@ BASE_URL = "https://pokeapi.co/api/v2/"
 
 class PokeAPITool(BaseTool):
     name = "PokeAPI"
-    description = """Use this tool to get information from the PokeAPI.
-    Input should be in the format: 'endpoint name_or_id [subresource]'
-    Available endpoints: berry, berry-firmness, berry-flavor, contest-type, contest-effect, super-contest-effect, 
-    encounter-method, encounter-condition, encounter-condition-value, evolution-chain, evolution-trigger, 
-    generation, pokedex, version, version-group, item, item-attribute, item-category, item-fling-effect, 
-    item-pocket, location, location-area, pal-park-area, region, machine, move, move-ailment, move-battle-style, 
-    move-category, move-damage-class, move-learn-method, move-target, ability, characteristic, egg-group, gender, 
-    growth-rate, nature, pokeathlon-stat, pokemon, pokemon-color, pokemon-form, pokemon-habitat, pokemon-shape, 
-    pokemon-species, stat, type
-    
-    Some endpoints support subresources, e.g., 'pokemon pikachu encounters' to get encounter information for Pikachu.
-    
-    This tool is the only one with access to Pokemon "move" information. It should be used to answer questions that are
-    not related to stat and type comparisons and not related to beating the video games. This tool gives more general information.
-    """
+    description = """Use for general Pokémon info (not stats or walkthroughs).
+    Input format: 'endpoint name_or_id [subresource]'
+    Endpoints: pokemon, ability, move, item, type, etc."""
 
     def _run(self, query: str) -> str:
         try:

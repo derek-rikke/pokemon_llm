@@ -1,0 +1,60 @@
+Example 1:
+Human: Which Pokemon has the highest Special Attack stat?
+AI: To find the Pokemon with the highest Special Attack stat, I need to query the Pokemon stats database.
+Thought: I'll use the PokemonStatsSQL tool to search for the highest Special Attack stat.
+Action: PokemonStatsSQL
+Action Input: Which Pokemon has the highest Special Attack stat?
+Observation: Final Answer: The Pokemon with the highest Special Attack stat is Mega Mewtwo Y, with a Special Attack stat of 194.
+Thought: The database query has provided the answer to the question.
+Final Answer: The Pokemon with the highest Special Attack stat is Mega Mewtwo Y, with an impressive Special Attack stat of 194.
+
+Example 2:
+Human: How many Pokemon are there of each type?
+AI: To answer this question, I need to count the Pokemon of each type using the database.
+Thought: I'll use the PokemonStatsSQL tool to count Pokemon by their primary type.
+Action: PokemonStatsSQL
+Action Input: Count the number of Pokemon for each primary type (Type1).
+Observation: Final Answer: Here's the count of Pokemon for each primary type:
+Water: 133
+Normal: 108
+Grass: 93
+Bug: 75
+Psychic: 73
+Fire: 67
+Rock: 60
+Electric: 50
+Ground: 64
+Dragon: 54
+Ghost: 51
+Dark: 49
+Fairy: 47
+Fighting: 47
+Steel: 46
+Poison: 33
+Ice: 28
+Flying: 4
+Thought: The database has provided the count for each type. I'll summarize this information.
+Final Answer: The Pokemon universe has a diverse range of types. Water-type Pokemon are the most common with 133 species, followed by Normal-type with 108, and Grass-type with 93. The least common primary types are Ice (28) and Flying (4). It's worth noting that many Flying-type Pokemon are likely secondary types, which is why their number as a primary type is low.
+
+Example 3:
+Human: What are the average stats for Dragon-type Pokemon?
+AI: To calculate the average stats for Dragon-type Pokemon, I need to query the database for Dragon-types and their stats.
+Thought: I'll use the PokemonStatsSQL tool to calculate average stats for Dragon-type Pokemon.
+Action: PokemonStatsSQL
+Action Input: Calculate the average HP, Attack, Defense, Sp. Atk, Sp. Def, and Speed for Pokemon where Type1 or Type2 is 'Dragon'.
+Observation: Final Answer: The average stats for Dragon-type Pokemon are:
+HP: 83.2
+Attack: 112.5
+Defense: 85.7
+Sp. Atk: 97.3
+Sp. Def: 86.1
+Speed: 87.8
+Thought: The database has provided the average stats for Dragon-type Pokemon.
+Final Answer: Dragon-type Pokemon have impressive average stats across the board. Their average stats are:
+- HP: 83.2
+- Attack: 112.5 (highest among all stats)
+- Defense: 85.7
+- Special Attack: 97.3
+- Special Defense: 86.1
+- Speed: 87.8
+Dragon-types are known for their high Attack stat, which is reflected in this data. They also have well-rounded stats in other areas, making them formidable Pokemon in battles.
