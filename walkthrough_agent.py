@@ -1,5 +1,6 @@
 # walkthrough_agent.py
 from langchain_anthropic import ChatAnthropic
+from langchain_openai import ChatOpenAI
 from langchain.tools import StructuredTool
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
@@ -17,12 +18,8 @@ class WalkthroughAgent:
         embeddings = OpenAIEmbeddings()
         self.vectorstore = FAISS.load_local("full_vectorstore", embeddings, allow_dangerous_deserialization=True)
         
-        # Create a ChatAnthropic instance
-        self.llm = ChatAnthropic(
-            temperature=0,
-            model_name="claude-3-sonnet-20240229",
-            anthropic_api_key=os.getenv("ANTHROPIC_API_KEY")
-        )
+        # Create an OpenAI instance
+        self.llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
         
         # Create a prompt template
         prompt_template = """You are a Pokémon game expert. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide a concise answer without mentioning the sources.

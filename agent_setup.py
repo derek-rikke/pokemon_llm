@@ -6,8 +6,8 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain.prompts.few_shot import FewShotChatMessagePromptTemplate
 from langchain.tools.render import format_tool_to_openai_function
-from pokeapi_tool import PokeAPITool
-from walkthrough_agent import get_walkthrough_tool
+from decomposer_agent import DecomposerAgent
+from walkthrough_agent_llamaindex import get_walkthrough_tool
 from pokemon_stats_sql_agent import pokemon_stats_sql_tool
 from dotenv import load_dotenv
 import os
@@ -22,11 +22,10 @@ llm = ChatOpenAI(
 )
 
 # Initialize tools
-pokeapi_tool = PokeAPITool()
 walkthrough_tool = get_walkthrough_tool()
 
 # Create the toolbox with available tools
-tools = [pokeapi_tool, pokemon_stats_sql_tool, walkthrough_tool]
+tools = [pokemon_stats_sql_tool, walkthrough_tool]
 
 # Get tool names
 tool_names = ", ".join([tool.name for tool in tools])
@@ -40,7 +39,6 @@ def load_examples(filename):
 
 def get_tool_examples(tool_name):
     example_files = {
-        "PokeAPI": "pokeapi_examples.txt",
         "PokemonStatsSQL": "pokemon_stats_sql_examples.txt",
         "WalkthroughTool": "walkthrough_examples.txt"
     }
@@ -66,14 +64,6 @@ def create_example_messages(tool_name):
     return messages
 
 # Create few-shot templates for each tool
-pokeapi_few_shot = FewShotChatMessagePromptTemplate(
-    examples=create_example_messages("PokeAPI"),
-    example_prompt=ChatPromptTemplate.from_messages([
-        ("human", "{human}"),
-        ("ai", "{ai}"),
-    ]),
-)
-
 pokemon_stats_few_shot = FewShotChatMessagePromptTemplate(
     examples=create_example_messages("PokemonStatsSQL"),
     example_prompt=ChatPromptTemplate.from_messages([
@@ -120,7 +110,6 @@ Let's begin our Pokémon adventure!"""
 prompt = ChatPromptTemplate.from_messages([
     SystemMessagePromptTemplate.from_template(system_template),
     MessagesPlaceholder(variable_name="chat_history"),
-    pokeapi_few_shot,
     pokemon_stats_few_shot,
     walkthrough_few_shot,
     HumanMessagePromptTemplate.from_template("{input}"),

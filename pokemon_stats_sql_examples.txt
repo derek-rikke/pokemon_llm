@@ -1,60 +1,82 @@
 Example 1:
-Human: Which Pokemon has the highest Special Attack stat?
-AI: To find the Pokemon with the highest Special Attack stat, I need to query the Pokemon stats database.
-Thought: I'll use the PokemonStatsSQL tool to search for the highest Special Attack stat.
+Human: What are the base stats of Charizard?
+AI: To find the base stats of Charizard, I need to query the Pokemon stats database.
+Thought: I'll use the PokemonStatsSQL tool to search for Charizard's base stats.
 Action: PokemonStatsSQL
-Action Input: Which Pokemon has the highest Special Attack stat?
-Observation: Final Answer: The Pokemon with the highest Special Attack stat is Mega Mewtwo Y, with a Special Attack stat of 194.
-Thought: The database query has provided the answer to the question.
-Final Answer: The Pokemon with the highest Special Attack stat is Mega Mewtwo Y, with an impressive Special Attack stat of 194.
+Action Input: Select the base stats (HP, Attack, Defense, Sp. Atk, Sp. Def, Speed) for Charizard.
+Observation: Final Answer: Charizard's base stats are:
+HP: 78
+Attack: 84
+Defense: 78
+Sp. Atk: 109
+Sp. Def: 85
+Speed: 100
+Thought: The database query has provided Charizard's base stats.
+Final Answer: Charizard's base stats are as follows:
+- HP: 78
+- Attack: 84
+- Defense: 78
+- Special Attack: 109
+- Special Defense: 85
+- Speed: 100
+Charizard has a high Special Attack and good Speed, making it a powerful special attacker in battles.
 
 Example 2:
-Human: How many Pokemon are there of each type?
-AI: To answer this question, I need to count the Pokemon of each type using the database.
-Thought: I'll use the PokemonStatsSQL tool to count Pokemon by their primary type.
+Human: Which Pokemon can learn the move Thunderbolt?
+AI: To find out which Pokemon can learn Thunderbolt, I need to query the database for move learnsets.
+Thought: I'll use the PokemonStatsSQL tool to search for Pokemon that can learn Thunderbolt.
 Action: PokemonStatsSQL
-Action Input: Count the number of Pokemon for each primary type (Type1).
-Observation: Final Answer: Here's the count of Pokemon for each primary type:
-Water: 133
-Normal: 108
-Grass: 93
-Bug: 75
-Psychic: 73
-Fire: 67
-Rock: 60
-Electric: 50
-Ground: 64
-Dragon: 54
-Ghost: 51
-Dark: 49
-Fairy: 47
-Fighting: 47
-Steel: 46
-Poison: 33
-Ice: 28
-Flying: 4
-Thought: The database has provided the count for each type. I'll summarize this information.
-Final Answer: The Pokemon universe has a diverse range of types. Water-type Pokemon are the most common with 133 species, followed by Normal-type with 108, and Grass-type with 93. The least common primary types are Ice (28) and Flying (4). It's worth noting that many Flying-type Pokemon are likely secondary types, which is why their number as a primary type is low.
+Action Input: List the names of Pokemon that can learn the move Thunderbolt.
+Observation: Final Answer: Here are some of the Pokemon that can learn Thunderbolt (limited to 10 for brevity):
+1. Pikachu
+2. Raichu
+3. Magnemite
+4. Magneton
+5. Voltorb
+6. Electrode
+7. Electabuzz
+8. Jolteon
+9. Zapdos
+10. Chinchou
+Note: Many more Pokemon can learn Thunderbolt, but this list is limited to 10 examples.
+Thought: The database has provided a list of Pokemon that can learn Thunderbolt.
+Final Answer: Many Pokemon can learn the move Thunderbolt, as it's a widely distributed Electric-type move. Here are some notable examples:
+1. Pikachu and its evolution Raichu
+2. Electric-type Pokemon like Magnemite, Magneton, Voltorb, and Electrode
+3. Other Electric-types such as Electabuzz and Jolteon
+4. The legendary bird Zapdos
+5. Water/Electric types like Chinchou
+This list is not exhaustive, as many more Pokemon can learn Thunderbolt through various methods like TMs, level-up, or breeding. The move is particularly common among Electric-type Pokemon but can also be learned by many non-Electric types as a coverage move.
 
 Example 3:
-Human: What are the average stats for Dragon-type Pokemon?
-AI: To calculate the average stats for Dragon-type Pokemon, I need to query the database for Dragon-types and their stats.
-Thought: I'll use the PokemonStatsSQL tool to calculate average stats for Dragon-type Pokemon.
+Human: What type advantages does Psychic have?
+AI: To answer this question about Psychic-type advantages, I need to query the type effectiveness database.
+Thought: I'll use the PokemonStatsSQL tool to get information about Psychic-type effectiveness against other types.
 Action: PokemonStatsSQL
-Action Input: Calculate the average HP, Attack, Defense, Sp. Atk, Sp. Def, and Speed for Pokemon where Type1 or Type2 is 'Dragon'.
-Observation: Final Answer: The average stats for Dragon-type Pokemon are:
-HP: 83.2
-Attack: 112.5
-Defense: 85.7
-Sp. Atk: 97.3
-Sp. Def: 86.1
-Speed: 87.8
-Thought: The database has provided the average stats for Dragon-type Pokemon.
-Final Answer: Dragon-type Pokemon have impressive average stats across the board. Their average stats are:
-- HP: 83.2
-- Attack: 112.5 (highest among all stats)
-- Defense: 85.7
-- Special Attack: 97.3
-- Special Defense: 86.1
-- Speed: 87.8
-Dragon-types are known for their high Attack stat, which is reflected in this data. They also have well-rounded stats in other areas, making them formidable Pokemon in battles.
+Action Input: Show the effectiveness of Psychic-type moves against all other types.
+Observation: Final Answer: Psychic-type moves have the following effectiveness:
+Super effective (2x damage) against:
+- Fighting
+- Poison
+Not very effective (0.5x damage) against:
+- Steel
+- Psychic
+No effect (0x damage) against:
+- Dark
+Normal effectiveness (1x damage) against all other types.
+Thought: The database has provided the type effectiveness information for Psychic-type moves.
+Final Answer: Psychic-type moves have the following type advantages and disadvantages:
+
+Advantages (Super effective, 2x damage):
+1. Fighting-type Pokemon
+2. Poison-type Pokemon
+
+Disadvantages (Not very effective, 0.5x damage):
+1. Steel-type Pokemon
+2. Other Psychic-type Pokemon
+
+Additionally, Psychic-type moves have no effect (0x damage) on Dark-type Pokemon, which is a significant weakness.
+
+Psychic moves deal normal damage (1x) to all other types not mentioned above.
+
+This type matchup makes Psychic-type moves particularly strong against Fighting and Poison types, while being less useful against Steel, other Psychic types, and completely ineffective against Dark types. Trainers should consider these strengths and weaknesses when using Psychic-type Pokemon or moves in battles.
