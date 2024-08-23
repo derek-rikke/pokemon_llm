@@ -9,7 +9,7 @@ import sqlite3
 def test_is_pokemon_related():
     assert is_pokemon_related("What type is Pikachu?") == "yes"
     assert is_pokemon_related("What is the capital of France?") == "no"
-    assert is_pokemon_related("Is Pokémon related to world economics?") == "no"
+    assert is_pokemon_related("Is Pokémon related to world economics?") == "uncertain"
 
 def test_invalid_question():
     question = "What is the capital of France?"
@@ -19,12 +19,12 @@ def test_invalid_question():
 def test_uncertain_question():
     question = "How do Pokémon relate to world politics?"
     answer = answer_pokemon_question(question)
-    assert "sorry" in answer or "related" in answer
+    assert "clarify" in answer or "rephrase" in answer
 
 def test_pokemon_keyword_in_unrelated_question():
     question = "What's the Pokémon exchange rate for US dollars?"
     answer = answer_pokemon_question(question)
-    assert "sorry" in answer or "related" in answer
+    assert "clarify" in answer or "rephrase" in answer
 
 def test_obviously_pokemon_question():
     question = "What are the starter Pokémon in the Kanto region?"

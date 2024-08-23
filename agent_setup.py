@@ -139,6 +139,9 @@ def get_agent_executor():
     # Format the tools as a string
     tools_str = "\n".join([f"- {tool.name}: {tool.description}" for tool in tools])
     
+    # Get tool names
+    tool_names = ", ".join([tool.name for tool in tools])
+    
     # Create a new prompt with the formatted tools and tool names
     formatted_prompt = prompt.partial(tools=tools_str, tool_names=tool_names)
     
